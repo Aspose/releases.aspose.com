@@ -1,0 +1,37 @@
+---
+title:  "  Downloads ---Aspose.Words-infinite-blue-uses-aspose-words-to-generate-printable-reports-for-its-annual-assessment-of-public-entities . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link:  " corporate/success-stories/aspose.words/infinite-blue-uses-aspose-words-to-generate-printable-reports-for-its-annual-assessment-of-public-entities/"
+folder_name:  " Infinite Blue uses Aspose Words to generate printable reports for its annual assessment of public entities."
+download_link:  " /corporate/success-stories/aspose.words/infinite-blue-uses-aspose-words-to-generate-printable-reports-for-its-annual-assessment-of-public-entities/65581044178c4b9193933f7823247bec"
+download_text:  " Download"
+intro_text:  " Infinite Blue Technologies has been working on the Public Procurement Model of E..."
+image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count:  "  Downloads: 29  Views: 515"
+file_size:  "  File Size: 275.9 KB "
+parent_path: "corporate/success-stories/aspose.words"
+section_parent_path: "corporate/success-stories"
+weight: 42 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Infinite Blue uses Aspose Words to generate printable reports for its annual assessment of public entities." imagelink="/resources/img/pdf-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/corporate/success-stories/aspose.words/infinite-blue-uses-aspose-words-to-generate-printable-reports-for-its-annual-assessment-of-public-entities/65581044178c4b9193933f7823247bec%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+             <li>Downloads:</li><li>29</li><li>File Size:</li><li>275.9 KB</li><li>Posted By:</li><li>caroline.von.schmalensee</li><li>Views:</li><li>515</li>
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

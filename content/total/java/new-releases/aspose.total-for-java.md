@@ -1,0 +1,36 @@
+---
+title:  "  Downloads ---New-Releases-aspose.total-for-java . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link:  " total/java/new-releases/aspose.total-for-java/"
+folder_name:  " Aspose.Total for Java"
+download_link:  " /total/java/new-releases/aspose.total-for-java/6b6092fa7e1740e69793eeb15dda1beb"
+download_text:  " Download"
+intro_text:  " Aspose.Total for Java contains most recent version of all Java products."
+image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count:  "   Added: 5 days ago [3/25/2022]  Downloads: 47135  Views: 13660"
+file_size:  "  File Size: 601.4 MB "
+parent_path: "total/java"
+weight: 1 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Total for Java" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/total/java/new-releases/aspose.total-for-java/6b6092fa7e1740e69793eeb15dda1beb%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/total" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+             <li>Downloads:</li><li>47135</li><li>File Size:</li><li>601.4 MB</li><li>Posted By:</li><li>aspose.total</li><li>Views:</li><li>13661</li><li>Date Added:</li><li>: 5 days ago [3/25/2022]</li><li>SHA1:</li><li> a9be4c003d23d01766c8ce1344329c68cefa6c3e</li><li>MD5:</li><li>6872cecbe4639109e81858577aa852df</li>
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Total for Java contains most recent version of all Java products.</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

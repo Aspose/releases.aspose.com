@@ -1,0 +1,37 @@
+---
+title:  "  Downloads ---Aspose.Cells-case-study-of-oracles-use-of-aspose.cells-and-aspose.slides-in-an-on-demand-reporting-system . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link:  " corporate/success-stories/aspose.cells/case-study-of-oracles-use-of-aspose.cells-and-aspose.slides-in-an-on-demand-reporting-system/"
+folder_name:  " Case study of Oracle's use of Aspose.Cells and Aspose.Slides in an on-demand reporting system"
+download_link:  " /corporate/success-stories/aspose.cells/case-study-of-oracles-use-of-aspose.cells-and-aspose.slides-in-an-on-demand-reporting-system/7969bd70ad644b54b0fbadf3e2926b32"
+download_text:  " Download"
+intro_text:  " Oracle Consulting Services deliver solutions for companies. When building an on-..."
+image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count:  "  Downloads: 316  Views: 3736"
+file_size:  "  File Size: 1.5 MB "
+parent_path: "corporate/success-stories/aspose.cells"                                                          
+section_parent_path: "corporate/success-stories"
+weight: 26 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Case study of Oracle's use of Aspose.Cells and Aspose.Slides in an on-demand reporting system" imagelink="/resources/img/pdf-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/corporate/success-stories/aspose.cells/case-study-of-oracles-use-of-aspose.cells-and-aspose.slides-in-an-on-demand-reporting-system/7969bd70ad644b54b0fbadf3e2926b32%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+             <li>Downloads:</li><li>316</li><li>File Size:</li><li>1.5 MB</li><li>Posted By:</li><li>caroline.von.schmalensee</li><li>Views:</li><li>3736</li>
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

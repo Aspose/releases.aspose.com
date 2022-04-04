@@ -1,0 +1,5 @@
+{{ $id := .Get "id" }}
+<div class="consolebox">
+    {{ .Inner }}
+    <div class="copyclipboard pull-right"><button class="btn-copy btn btn-success" type="button" data-clipboard-action="copy" data-clipboard-target="#{{$id}}"><i class="fa fa-clipboard">&nbsp;</i></button></div>
+</div>

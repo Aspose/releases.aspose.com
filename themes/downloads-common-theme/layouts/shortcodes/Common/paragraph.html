@@ -1,0 +1,6 @@
+{{ $text := .Get "text" }}
+{{ $class := .Get "class" }}
+
+<p class="{{ $class }}">
+    {{ .Inner }}
+</p>

@@ -1,0 +1,75 @@
+Issues in md files:
+
+corporate/success-stories/aspose.cells/atril-uses-aspose.total-for-.net-to-improve-filters-in-their-translation-tool-dÃ©jÃ -vu.md
+ old -- Downloads ---Aspose.Cells-atril-uses-aspose.total-for-.net-to-improve-filters-in-their-translation-tool-dÃÆÃÂ©jÃÆÃÂ -vu .
+ new -- Downloads ---Aspose.Cells-atril-uses-aspose.total-for-.net-to-improve-filters-in-their-translation-tool-dA©jA -vu .
+
+corporate/success-stories/aspose.slides/atril-uses-aspose.total-for-.net-to-improve-filters-in-their-translation-tool-dÃ©jÃ -vu.md
+ old -- Downloads ---Aspose.Slides-atril-uses-aspose.total-for-.net-to-improve-filters-in-their-translation-tool-dÃÆÃÂ©jÃÆÃÂ -vu . 
+ new -- Downloads ---Aspose.Slides-atril-uses-aspose.total-for-.net-to-improve-filters-in-their-translation-tool-dA©jA -vu .
+
+corporate/success-stories/aspose.total/atril-uses-aspose.total-for-.net-to-improve-filters-in-their-translation-tool-dÃ©jÃ -vu.md
+  old -- Downloads ---Aspose.Total-atril-uses-aspose.total-for-.net-to-improve-filters-in-their-translation-tool-dÃÆÃÂ©jÃÆÃÂ -vu . 
+  new -- Downloads ---Aspose.Total-atril-uses-aspose.total-for-.net-to-improve-filters-in-their-translation-tool-dA©jA -vu-vu . 
+
+corporate/success-stories/aspose.total/cross-media-solutionsuses-aspose.total-to-create-microsoft-word-and-excel-reports.md
+  old -- Cross Media develop 4All-Portal â a highly flexible publishing platform for crea...
+  new -- Cross Media develop 4All-Portal a highly flexible publishing platform for crea...
+
+corporate/success-stories/aspose.total/it-consult---josh-protocol---case-study.md
+  old -- The main goal of the "josh Protocol!" is to record both letters received and let...
+  new -- The main goal of the \"josh Protocol!\" is to record both letters received and let...
+
+corporate/success-stories/aspose.total/using-aspose.total-for-.net-framework-to-automatically-generate-documents-from-data-driven-workflows.md
+  old -- During its pilot testing, Dynecon was able to leverage Asposeâs libraries to sea...
+  new -- During its pilot testing, Dynecon was able to leverage Aspose libraries to sea...
+
+ corporate/success-stories/aspose.words/addatech-systems-â-clinicmaster.md
+  old -- 
+       title:  "  Downloads ---Aspose.Words-addatech-systems-ÃÂ¢Ãâ¬Ãâ-clinicmaster . " 
+       folder_link:  " corporate/success-stories/aspose.words/addatech-systems-â-clinicmaster/"
+       folder_name:  " Addatech Systems â ClinicMaster"
+       download_link:  " /corporate/success-stories/aspose.words/addatech-systems-â-clinicmaster/ed8bf9651064408d907f585cdf2376f5"
+  new -- 
+      title:  "  Downloads ---Aspose.Words-addatech-systems-clinicmaster . " 
+      folder_link:  " corporate/success-stories/aspose.words/addatech-systems-clinicmaster/"
+      folder_name:  " Addatech Systems  ClinicMaster"
+      download_link:  " /corporate/success-stories/aspose.words/addatech-systems-clinicmaster/ed8bf9651064408d907f585cdf2376f5"
+
+corporate/success-stories/aspose.words/atril-uses-aspose.total-for-.net-to-improve-filters-in-their-translation-tool-dÃ©jÃ -vu.md
+
+  old -- 
+     title:  "  Downloads ---Aspose.Words-atril-uses-aspose.total-for-.net-to-improve-filters-in-their-translation-tool-dÃÆÃÂ©jÃÆÃÂ -vu . " 
+     folder_link:  " corporate/success-stories/aspose.words/atril-uses-aspose.total-for-.net-to-improve-filters-in-their-translation-tool-dÃ©jÃ -vu/"
+     folder_name:  " Atril uses Aspose.Total for .NET to improve filters in their translation tool DÃ©jÃ  Vu"
+     download_link:  " /corporate/success-stories/aspose.words/atril-uses-aspose.total-for-.net-to-improve-filters-in-their-translation-tool-dÃ©jÃ -vu/a921a2137cbc49278fa3d60437bebf7e"
+  new -- 
+
+     title:  "  Downloads ---Aspose.Words-atril-uses-aspose.total-for-.net-to-improve-filters-in-their-translation-tool-dA©jA-vu . " 
+     folder_link:  " corporate/success-stories/aspose.words/atril-uses-aspose.total-for-.net-to-improve-filters-in-their-translation-tool-dA©jA -vu/"
+     folder_name:  " Atril uses Aspose.Total for .NET to improve filters in their translation tool dA©jA Vu"
+     download_link:  " /corporate/success-stories/aspose.words/atril-uses-aspose.total-for-.net-to-improve-filters-in-their-translation-tool-dA©jA -vu/a921a2137cbc49278fa3d60437bebf7e"
+
+corporate/success-stories/aspose.words/digerati-solutions---using-aspose.words-to-dynamically-generate-forms.md
+
+  old -- intro_text:  " Digerati creates high quality websites and tailor-made software solutions. Theyâ..."
+  new -- intro_text:  " Digerati creates high quality websites and tailor-made software solutions. They..."
+
+corporate/success-stories/aspose.words/learn-about-how-detektei-mÃ¼ller-gmbh-uses-aspose.words-to-generate-pdfs.md
+
+    old -- title:  "  Downloads ---Aspose.Words-learn-about-how-detektei-mÃÆÃÂ¼ller-gmbh-uses-aspose.words-to-generate-pdfs . " 
+    new -- title:  "  Downloads ---Aspose.Words-learn-about-how-detekteiller-gmbh-uses-aspose.words-to-generate-pdfs . " 
+
+corporate/success-stories/aspose.words/university-of-north-carolina-â-immunization-tracking.md
+    old -- 
+    title:  "  Downloads ---Aspose.Words-university-of-north-carolina-ÃÂ¢Ãâ¬Ãâ-immunization-tracking . " 
+    folder_link:  " corporate/success-stories/aspose.words/university-of-north-carolina-â-immunization-tracking/"
+    folder_name:  " University of North Carolina â Immunization Tracking"
+    download_link:  " /corporate/success-stories/aspose.words/university-of-north-carolina-â-immunization-tracking/341ac5cd45804f44988bcad9e5924cd9"
+    
+    new -- 
+    title:  "  Downloads ---Aspose.Words-university-of-north-carolina-immunization-tracking . " 
+    folder_link:  " corporate/success-stories/aspose.words/university-of-north-carolina-immunization-tracking/"
+    folder_name:  " University of North Carolina  Immunization Tracking"
+    download_link:  " /corporate/success-stories/aspose.words/university-of-north-carolina-immunization-tracking/341ac5cd45804f44988bcad9e5924cd9"
+

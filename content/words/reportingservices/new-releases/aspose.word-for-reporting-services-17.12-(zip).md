@@ -1,0 +1,36 @@
+---
+title:  "  Downloads ---New-Releases-aspose.word-for-reporting-services-17.12-(zip) . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link:  " words/reportingservices/new-releases/aspose.word-for-reporting-services-17.12-(zip)/"
+folder_name:  " Aspose.Word for Reporting Services 17.12 (Zip)"
+download_link:  " /words/reportingservices/new-releases/aspose.word-for-reporting-services-17.12-(zip)/ddc62262c2164a2cb98d51223c1fc63a"
+download_text:  " Download"
+intro_text:  " Upgrade to the latest version of Aspose.Words for .NET (17.12)"
+image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count:  "   12/18/2017  Downloads: 12  Views: 247"
+file_size:  "  File Size: 59.7 MB "
+parent_path: "words/reportingservices"
+weight: 54 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Word for Reporting Services 17.12 (Zip)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/words/reportingservices/new-releases/aspose.word-for-reporting-services-17.12-(zip)/ddc62262c2164a2cb98d51223c1fc63a%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/words" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+             <li>Downloads:</li><li>12</li><li>File Size:</li><li>59.7 MB</li><li>Posted By:</li><li>vadimpo</li><li>Views:</li><li>248</li><li>Date Added:</li><li>12/18/2017</li>
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/wordsreportingservices/Aspose.Words+for+Reporting+Services+17.12+Release+Notes">https://docs.aspose.com/display/wordsreportingservices/Aspose.Words+for+Reporting+Services+17.12+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">Upgrade to the latest version of Aspose.Words for .NET (17.12)</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

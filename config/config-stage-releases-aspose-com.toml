@@ -1,0 +1,34 @@
+baseURL = "https://releases-qa.aspose.com"
+languageCode = "en-us"
+title = "Releases - aspose.com"
+theme =  "downloads-common-theme"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+ignoreErrors = ["error-disable-taxonomy"]
+[params]
+    # googleAnalytics = ""
+    # googletagmanager = ""
+     dynamicmenuid = "aspose-en"
+     faviconfolder = "aspose"
+     contentsection = "com"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
+[outputs]
+  home= ["HTML", "JSON"]
+
+[deployment]
+
+[[deployment.targets]]
+name = "Stage"
+URL = "s3://releases-qa.aspose.com/?region=us-west-2"
+
+[[deployment.matchers]]
+# Set custom content type for /sitemap.xml
+pattern = "^.+\\.(xml)$"
+contentType = "application/xml"
+gzip = true
+force = true      

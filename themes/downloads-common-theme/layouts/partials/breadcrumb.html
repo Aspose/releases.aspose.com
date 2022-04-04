@@ -1,0 +1,89 @@
+<div class="container-fluid no-hdr hide">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-12 title2">
+        <div class="col-md-8 pd-lr">
+          <h1 id="Venture"></h1>
+        </div>
+        <div class="col-md-3 pull-right searchbartop">
+          <div class="topformsearch">
+            <input id="txtMainSearch" type="text" placeholder="Search here..." value="" class="hide">
+
+            <div class="search-dropdown">
+
+
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <!--/col3 -->
+    </div>
+  </div>
+  <!--/container -->
+</div>
+<div class="container-fluid bcrumb1">
+  <div id="sticky1" class="stickytopheight">&nbsp;</div>
+  <div class="container">
+    <div class="moduletable">
+      <!-- <ul id="dvBC" class="breadcrumb">
+        <li><a href="https://downloads.aspose.com/">Home</a><span class="divider"> </span></li>
+        <li><span>Aspose.Total Product Family</span><span class="divider"> </span></li>
+      </ul> -->
+      <ul id="dvBC" class="breadcrumb">
+        <li><a href="/">Home</a><span class="divider"> </span></li>
+        {{ $currentpath := .RelPermalink  }}
+        {{- $.Scratch.Set "url" "" -}}
+        {{- range (split .RelPermalink "/") -}}
+            {{- if (gt (len .) 0) -}}
+              {{- $.Scratch.Set "isPage" "false" -}}
+              {{- $.Scratch.Set "isSection" "false" -}}
+              {{- $.Scratch.Add "url" (print "/" . ) -}}
+              {{- $.Scratch.Add "fpath" (print "/" . "/_index.md") -}}
+              {{$sectionfilepath := print ($.Scratch.Get "url") "/_index.md"}}
+              {{$loopcurrent := print ($.Scratch.Get "url") "/"}}
+              {{- if fileExists (print . ".md") -}}
+              {{- with $.Site.GetPage (print . ".md") -}}
+              {{- if .IsPage -}}
+              {{- $.Scratch.Set "isPage" "true" -}}
+              {{- end -}}
+              {{- end -}}
+              {{else}}
+              {{- if $.Site.GetPage ($sectionfilepath ) -}}
+              {{- $.Scratch.Set "isSection" "true" -}}
+              {{- end -}}
+              {{ end }}
+              {{- if eq ($.Scratch.Get "isSection") "true" -}}
+                    {{- with $.Site.GetPage ($sectionfilepath ) -}}
+                   
+                    {{ if not (eq $currentpath $loopcurrent )}}
+                         <li><a href="{{ $.Scratch.Get `url` }}" class="">{{.Params.family_listing_page_title }}</a><span class="divider"> </span></li>
+                    {{else}} 
+                        <li><span>{{.Params.family_listing_page_title }}</span><span class="divider"> </span></li>
+                    {{end}}
+                    {{- end -}}
+              {{- else -}}
+                  {{- if eq ($.Scratch.Get "isPage") "true" -}}
+                    {{- with $.Site.GetPage (print . ".md") -}}
+                    {{ if not (eq $currentpath $loopcurrent )}}
+                        <li><a href="{{ $.Scratch.Get `url` }}" class="">{{.Params.family_listing_page_title }}</a><span class="divider"> </span></li>
+                    {{else}} 
+                        <li><span>{{.Params.family_listing_page_title }}</span><span class="divider"> </span></li>
+                    {{end}}
+                    {{- end -}}
+                  {{- else -}}
+              
+                    {{ if not (eq $currentpath $loopcurrent )}}
+                        <li><a href="{{ $.Scratch.Get `url` }}" class="">{{ humanize . }}</a><span class="divider"> </span></li>
+                    {{else}} 
+                        <li><span>{{ humanize . }}</span><span class="divider"> </span></li>
+                    {{end}}
+                  {{- end -}}
+                {{- end -}}
+            {{- end -}}
+        {{- end -}}
+      </ul>
+    </div>
+  </div>
+</div>

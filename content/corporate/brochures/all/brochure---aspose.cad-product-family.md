@@ -1,0 +1,36 @@
+---
+title:  "  Downloads ---All-brochure---aspose.cad-product-family . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link:  " corporate/brochures/all/brochure---aspose.cad-product-family/"
+folder_name:  " Brochure - Aspose.CAD Product Family"
+download_link:  " /corporate/Brochures/all/brochure---aspose.cad-product-family/c686f966c1564ad7a3a2aefdf9c99fe3"
+download_text:  " Download"
+intro_text:  " This brochure gives a brief introduction to Aspose.CAD and its features"
+image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count:  "   2/13/2017  Downloads: 170  Views: 368"
+file_size:  "  File Size: 150.4 KB "
+parent_path: "corporate/brochures/all"
+weight: 1 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Brochure - Aspose.CAD Product Family" imagelink="/resources/img/pdf-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/corporate/brochures/all/brochure---aspose.cad-product-family/c686f966c1564ad7a3a2aefdf9c99fe3%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+             <li>Downloads:</li><li>170</li><li>File Size:</li><li>150.4 KB</li><li>Posted By:</li><li>aske012</li><li>Views:</li><li>369</li><li>Date Added:</li><li>2/13/2017</li>
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Description</h4><div class="HTMLDescription">This brochure gives a brief introduction to Aspose.CAD and its features</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

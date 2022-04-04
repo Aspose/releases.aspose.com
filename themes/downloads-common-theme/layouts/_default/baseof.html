@@ -1,0 +1,84 @@
+<html xmlns="http://www.w3.org/1999/xhtml" >
+    <meta charset="UTF-8">
+    {{- partial "head.html" . -}}
+  
+    {{ if .IsHome }}
+
+        {{ $CurrentSection :=.Site.Params.contentsection }}
+        {{ $faviconfolder :=.Site.Params.faviconfolder }}
+        {{$currentcontentpath := print $faviconfolder "/" $CurrentSection}}
+
+    <body class="releases {{ $faviconfolder }}">
+        <body>
+
+        {{ if not (in .Site.BaseURL "-qa") }}
+                    {{ $googletagmanager :=.Site.Params.googletagmanager }}
+                    {{ if $googletagmanager }}
+                    <!-- Google Tag Manager (noscript) -->
+                        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ $googletagmanager }}"
+                        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+                    <!-- End Google Tag Manager (noscript) -->
+                    {{ end }}
+                {{ end }}
+                    
+                <div class="item-page" itemscope itemtype="https://schema.org/Article">
+                    <meta itemprop="inLanguage" content="en-GB" />
+                    <div itemprop="articleBody">
+                        <p></p>
+                        <!-- "2196"  ARTICLE INFO -->
+                        <div class="item-page" itemscope itemtype="https://schema.org/Article">
+                            <meta itemprop="inLanguage" content="en-GB">
+                            <div itemprop="articleBody">
+                                {{- block "main" . }}{{- end }}
+                            </div>        
+                        </div>
+                    </div>
+                </div>
+                {{- partial "footer.html" . -}}
+    {{else}}
+    
+        <body>
+
+        <form name="form1" method="post" action="./total" id="form1">
+            {{ if not (in .Site.BaseURL "-qa") }}
+                {{ $googletagmanager :=.Site.Params.googletagmanager }}
+                {{ if $googletagmanager }}
+                <!-- Google Tag Manager (noscript) -->
+                    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ $googletagmanager }}"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+                <!-- End Google Tag Manager (noscript) -->
+                {{ end }}
+            {{ end }}
+                
+            <div id="header"></div>
+            <div class="downloadpage">
+
+                {{ partial "breadcrumb.html" . }}
+
+                <div class=" container-fluid content2 vpanel-left">
+                    <div class="container">
+                    <div class="row">
+                            {{ partial "tree-section.html" . }}
+                        
+                            <div class="col-md-9 lhs1 col-xs-12 mobilehide node-section">
+                                <div class="box1">
+                                    {{ partial "msg-section.html" . }}
+
+                                    {{- block "main" . }}{{- end }}
+
+                                </div>
+                            </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+            {{- partial "footer.html" . -}}
+            <div id="dvHidden" style="display:none"></div>
+        </form>
+        <div id="footer"></div>
+
+    {{end}}
+        
+        
+    </body>
+</html>

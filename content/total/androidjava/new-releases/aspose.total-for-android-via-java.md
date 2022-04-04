@@ -1,0 +1,36 @@
+---
+title:  "  Downloads ---New-Releases-aspose.total-for-android-via-java . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link:  " total/androidjava/new-releases/aspose.total-for-android-via-java/"
+folder_name:  " Aspose.Total for Android via Java"
+download_link:  " /total/androidjava/new-releases/aspose.total-for-android-via-java/a5a33797f13c474d8172e4680439f294"
+download_text:  " Download"
+intro_text:  " Aspose.Total for Android contains most recent version of all Android products."
+image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count:  "   9/22/2021  Downloads: 8414  Views: 1386"
+file_size:  "  File Size: 127.4 MB "
+parent_path: "total/androidjava"
+weight: 1 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Total for Android via Java" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/total/androidjava/new-releases/aspose.total-for-android-via-java/a5a33797f13c474d8172e4680439f294%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/total" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+             <li>Downloads:</li><li>8414</li><li>File Size:</li><li>127.4 MB</li><li>Posted By:</li><li>aspose.total</li><li>Views:</li><li>1387</li><li>Date Added:</li><li>9/22/2021</li><li>SHA1:</li><li>aca4ea3c7db8c1d6e8e46696c8d3178c4dd19569</li><li>MD5:</li><li>b5cb8c63591b61cba98f2729c6ad5b2e</li>
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Total for Android contains most recent version of all Android products.</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+
