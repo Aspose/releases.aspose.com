@@ -1,0 +1,12 @@
+{{ $H2txt := .Get "H2txt" }}
+{{ $h4txt := .Get "h4txt" }}
+
+{{ if $H2txt }}
+{{ $imagelink := .Get "imagelink" }}
+<h2> <img src="https://downloads.aspose.com/{{ $imagelink }}">{{ $H2txt }}</h2>
+{{ end }}
+
+
+{{ if $h4txt }}
+<h4>{{ $h4txt }}</h4>
+{{ end }}

@@ -1,0 +1,178 @@
+{{ $directdownload := .Get "directdownload" }}
+{{ $family := .Get "family" }} 
+{{ $product := .Get "product" }} 
+{{ $limit := .Get "limit" }} 
+{{ $shownested := .Get "shownested" }} 
+{{ if (in $directdownload "true") }}
+<div class="col-md-12">
+  <h3 id="hTitle" class="files-header" style="display: block">
+    Direct Download
+  </h3>
+</div>
+{{ end }} 
+{{$parent_path := print $family "/" $product}} 
+
+{{ if (in $shownested "true") }}
+
+    {{ if (in $limit "beforecontent") }}
+        {{ range first 6 ( where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.section_parent_path" $parent_path ) }}
+        <div class="col-md-12">
+          <div class="panel-body downloadfilebody">
+            <div class="col-sm-1 zipiconbox">
+              <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" />
+            </div>
+            <div class="col-sm-8 downloadcontent">
+              <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
+              <p>{{ .Params.intro_text }}</p>
+              <p>
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: **
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: ***
+              </p>
+            </div>
+            <div class="col-sm-3">
+              <a href="{{ .Params.download_link }}" class="btn btn-primary">
+                <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
+              <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+    {{ else if (in $limit "aftercontent") }}
+        {{ range after 6 ( where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.section_parent_path" $parent_path ) }}
+        <div class="col-md-12">
+          <div class="panel-body downloadfilebody">
+            <div class="col-sm-1 zipiconbox">
+              <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" />
+            </div>
+            <div class="col-sm-8 downloadcontent">
+              <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
+              <p>{{ .Params.intro_text }}</p>
+              <p>
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: **
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: ***
+              </p>
+            </div>
+            <div class="col-sm-3">
+              <a href="{{ .Params.download_link }}" class="btn btn-primary">
+                <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
+              <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+    {{else}} 
+        {{ range  where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.section_parent_path" $parent_path  }}
+        <div class="col-md-12">
+          <div class="panel-body downloadfilebody">
+            <div class="col-sm-1 zipiconbox">
+              <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" />
+            </div>
+            <div class="col-sm-8 downloadcontent">
+              <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
+              <p>{{ .Params.intro_text }}</p>
+              <p>
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: **
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: ***
+              </p>
+            </div>
+            <div class="col-sm-3">
+              <a href="{{ .Params.download_link }}" class="btn btn-primary">
+                <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
+              <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+    {{end}}
+
+
+{{else}}
+
+    {{ if (in $limit "beforecontent") }}
+        {{ range first 6 ( where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.parent_path" $parent_path ) }}
+        <div class="col-md-12">
+          <div class="panel-body downloadfilebody">
+            <div class="col-sm-1 zipiconbox">
+              <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" />
+            </div>
+            <div class="col-sm-8 downloadcontent">
+              <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
+              <p>{{ .Params.intro_text }}</p>
+              <p>
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: **
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: ***
+              </p>
+            </div>
+            <div class="col-sm-3">
+              <a href="{{ .Params.download_link }}" class="btn btn-primary">
+                <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
+              <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+    {{ else if (in $limit "aftercontent") }}
+        {{ range after 6 ( where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.parent_path" $parent_path ) }}
+        <div class="col-md-12">
+          <div class="panel-body downloadfilebody">
+            <div class="col-sm-1 zipiconbox">
+              <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" />
+            </div>
+            <div class="col-sm-8 downloadcontent">
+              <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
+              <p>{{ .Params.intro_text }}</p>
+              <p>
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: **
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: ***
+              </p>
+            </div>
+            <div class="col-sm-3">
+              <a href="{{ .Params.download_link }}" class="btn btn-primary">
+                <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
+              <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+    {{else}} 
+        {{ range  where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.parent_path" $parent_path  }}
+        <div class="col-md-12">
+          <div class="panel-body downloadfilebody">
+            <div class="col-sm-1 zipiconbox">
+              <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" />
+            </div>
+            <div class="col-sm-8 downloadcontent">
+              <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
+              <p>{{ .Params.intro_text }}</p>
+              <p>
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: **
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: ***
+              </p>
+            </div>
+            <div class="col-sm-3">
+              <a href="{{ .Params.download_link }}" class="btn btn-primary">
+                <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
+              <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+    {{end}}
+
+{{end}}
+      
+
+
+
+<!-- <p>{{ $pages := where $.Site.RegularPages ".Section" $family  }}
+{{ range $pages }}
+{{ if  (in .Params.parent_path $parent_path) }}
+    {{ .Params.parent_path }} | {{ .}}
+{{end}}
+{{end}}</p> -->
