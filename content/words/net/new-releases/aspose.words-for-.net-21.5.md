@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-21.5 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-21.5/"
-folder_name:  " Aspose.Words for .NET 21.5"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-21.5/0b1996cbe1754b688a26ae8c03b3a578"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Words for .NET 21.5 release."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   5/4/2021  Downloads: 95  Views: 525"
-file_size:  "  File Size: 78.0 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-21.5/"
+folder_name: " Aspose.Words for .NET 21.5"
+download_link: " /words/net/new-releases/aspose.words-for-.net-21.5/0b1996cbe1754b688a26ae8c03b3a578"
+download_text: " Download"
+Intro_text: " It contains Aspose.Words for .NET 21.5 release."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   5/4/2021  Downloads: 96  Views: 528"
+file_size: "  File Size: 78.0 MB "
 parent_path: "words/net"
-weight: 3 
+section_parent_path: "words/net"
+weight: 32 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 3
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>95</li><li>File Size:</li><li>78.0 MB</li><li>Posted By:</li><li>AndreyN</li><li>Views:</li><li>526</li><li>Date Added:</li><li>5/4/2021</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-0b1996cbe1754b688a26ae8c03b3a578" >}} 96 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-0b1996cbe1754b688a26ae8c03b3a578" >}} 78.0 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-0b1996cbe1754b688a26ae8c03b3a578" >}} AndreyN {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-0b1996cbe1754b688a26ae8c03b3a578" >}} 529 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-0b1996cbe1754b688a26ae8c03b3a578" >}} 5/4/2021 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

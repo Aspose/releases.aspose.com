@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.imaging-for-.net-1.7.1 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " imaging/net/new-releases/aspose.imaging-for-.net-1.7.1/"
+folder_name: " Aspose.Imaging for .NET 1.7.1"
+download_link: " /imaging/net/new-releases/aspose.imaging-for-.net-1.7.1/c31e6565d72d4f73b0a7de9433cd8ce3"
+download_text: " Download"
+Intro_text: " We are pleased to share a new HotFix for Aspose.Imaging for .Net 1.7.1 which inc..."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   2/26/2013  Downloads: 202  Views: 345"
+file_size: "  File Size: 4.2 MB "
+parent_path: "imaging/net"
+section_parent_path: "imaging/net"
+weight: 162 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Imaging for .NET 1.7.1" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/imaging/net/new-releases/aspose.imaging-for-.net-1.7.1/c31e6565d72d4f73b0a7de9433cd8ce3%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/imaging" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-c31e6565d72d4f73b0a7de9433cd8ce3" >}} 202 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-c31e6565d72d4f73b0a7de9433cd8ce3" >}} 4.2 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-c31e6565d72d4f73b0a7de9433cd8ce3" >}} tilal.ahmad {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-c31e6565d72d4f73b0a7de9433cd8ce3" >}} 346 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-c31e6565d72d4f73b0a7de9433cd8ce3" >}} 2/26/2013 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-s2t-uses-aspose.words-for-rendering-all-typ
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/s2t-uses-aspose.words-for-rendering-all-types-of-fonts/"
-folder_name:  " S2T uses Aspose.Words for rendering all types of fonts"
-download_link:  " /corporate/success-stories/aspose.words/s2t-uses-aspose.words-for-rendering-all-types-of-fonts/7443247706c149d692399ab5f914b2a4"
-download_text:  " Download"
-intro_text:  " S2T is a developer of web-intelligence, cyber-intelligence, and horizon scanning..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 128  Views: 245"
-file_size:  "  File Size: 282.1 KB "
+folder_link: " corporate/success-stories/aspose.words/s2t-uses-aspose.words-for-rendering-all-types-of-fonts/"
+folder_name: " S2T uses Aspose.Words for rendering all types of fonts"
+download_link: " /corporate/success-stories/aspose.words/s2t-uses-aspose.words-for-rendering-all-types-of-fonts/7443247706c149d692399ab5f914b2a4"
+download_text: " Download"
+Intro_text: " S2T is a developer of web-intelligence, cyber-intelligence, and horizon scanning..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 128  Views: 247"
+file_size: "  File Size: 282.1 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 23 
+weight: 24 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 23
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>128</li><li>File Size:</li><li>282.1 KB</li><li>Posted By:</li><li>sabrina.tran1</li><li>Views:</li><li>246</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-7443247706c149d692399ab5f914b2a4" >}} 128 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-7443247706c149d692399ab5f914b2a4" >}} 282.1 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-7443247706c149d692399ab5f914b2a4" >}} sabrina.tran1 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-7443247706c149d692399ab5f914b2a4" >}} 248 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.email-for-.net-6.1.0 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " email/net/new-releases/aspose.email-for-.net-6.1.0/"
+folder_name: " Aspose.Email for .NET 6.1.0"
+download_link: " /email/net/new-releases/aspose.email-for-.net-6.1.0/a9d22aa8cf824485814901633991ec93"
+download_text: " Download"
+Intro_text: " It contains Aspose.Email for .NET 6.1.0 release."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   12/31/2015  Downloads: 332  Views: 243"
+file_size: "  File Size: 22.0 MB "
+parent_path: "email/net"
+section_parent_path: "email/net"
+weight: 167 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Email for .NET 6.1.0" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/email/net/new-releases/aspose.email-for-.net-6.1.0/a9d22aa8cf824485814901633991ec93%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/email" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-a9d22aa8cf824485814901633991ec93" >}} 332 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-a9d22aa8cf824485814901633991ec93" >}} 22.0 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-a9d22aa8cf824485814901633991ec93" >}} DmitryS {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-a9d22aa8cf824485814901633991ec93" >}} 244 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-a9d22aa8cf824485814901633991ec93" >}} 12/31/2015 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/emailnet/Aspose.Email+for+.NET+6.1.0+Release+Notes">http://www.aspose.com/docs/display/emailnet/Aspose.Email+for+.NET+6.1.0+Release+Notes</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

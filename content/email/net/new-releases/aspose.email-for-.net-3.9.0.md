@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.email-for-.net-3.9.0 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " email/net/new-releases/aspose.email-for-.net-3.9.0/"
+folder_name: " Aspose.Email for .NET 3.9.0"
+download_link: " /email/net/new-releases/aspose.email-for-.net-3.9.0/6e525d6949fd4bfaad6b9e7405cc7d1f"
+download_text: " Download"
+Intro_text: " It contains Aspose.Email for .NET 3.9.0 release."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   3/2/2014  Downloads: 328  Views: 671"
+file_size: "  File Size: 12.6 MB "
+parent_path: "email/net"
+section_parent_path: "email/net"
+weight: 215 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Email for .NET 3.9.0" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/email/net/new-releases/aspose.email-for-.net-3.9.0/6e525d6949fd4bfaad6b9e7405cc7d1f%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/email" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-6e525d6949fd4bfaad6b9e7405cc7d1f" >}} 328 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-6e525d6949fd4bfaad6b9e7405cc7d1f" >}} 12.6 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-6e525d6949fd4bfaad6b9e7405cc7d1f" >}} DmitryS {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-6e525d6949fd4bfaad6b9e7405cc7d1f" >}} 672 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-6e525d6949fd4bfaad6b9e7405cc7d1f" >}} 3/2/2014 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

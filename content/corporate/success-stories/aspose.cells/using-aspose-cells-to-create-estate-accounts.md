@@ -3,15 +3,15 @@ title:  "  Downloads ---Aspose.Cells-using-aspose-cells-to-create-estate-account
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.cells/using-aspose-cells-to-create-estate-accounts/"
-folder_name:  " Using Aspose Cells to create Estate Accounts"
-download_link:  " /corporate/success-stories/aspose.cells/using-aspose-cells-to-create-estate-accounts/05d7f71eaccb46d5b4a8d7627bbcd6d6"
-download_text:  " Download"
-intro_text:  " Pracctice uses Aspose.Cells to process complex formulae and calculations that ca..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 115  Views: 132"
-file_size:  "  File Size: 197.8 KB "
-parent_path: "corporate/success-stories/aspose.cells"                                                          
+folder_link: " corporate/success-stories/aspose.cells/using-aspose-cells-to-create-estate-accounts/"
+folder_name: " Using Aspose Cells to create Estate Accounts"
+download_link: " /corporate/success-stories/aspose.cells/using-aspose-cells-to-create-estate-accounts/05d7f71eaccb46d5b4a8d7627bbcd6d6"
+download_text: " Download"
+Intro_text: " Pracctice uses Aspose.Cells to process complex formulae and calculations that ca..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 119  Views: 137"
+file_size: "  File Size: 197.8 KB "
+parent_path: "corporate/success-stories/aspose.cells"
 section_parent_path: "corporate/success-stories"
 weight: 2 
 ---
@@ -25,7 +25,15 @@ weight: 2
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>115</li><li>File Size:</li><li>197.8 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>133</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-05d7f71eaccb46d5b4a8d7627bbcd6d6" >}} 119 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-05d7f71eaccb46d5b4a8d7627bbcd6d6" >}} 197.8 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-05d7f71eaccb46d5b4a8d7627bbcd6d6" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-05d7f71eaccb46d5b4a8d7627bbcd6d6" >}} 138 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

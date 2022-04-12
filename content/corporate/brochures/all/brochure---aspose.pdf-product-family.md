@@ -3,15 +3,16 @@ title:  "  Downloads ---All-brochure---aspose.pdf-product-family . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/brochures/all/brochure---aspose.pdf-product-family/"
-folder_name:  " Brochure - Aspose.PDF Product Family"
-download_link:  " /corporate/Brochures/all/brochure---aspose.pdf-product-family/f72da8c521b44a51b4ac8eb7d1ff5ea4"
-download_text:  " Download"
-intro_text:  " This brochure summarizes the benefits and features of Aspose.Pdf across all supp..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "   4/15/2014  Downloads: 1183  Views: 4392"
-file_size:  "  File Size: 1.2 MB "
+folder_link: " corporate/brochures/all/brochure---aspose.pdf-product-family/"
+folder_name: " Brochure - Aspose.PDF Product Family"
+download_link: " /corporate/Brochures/all/brochure---aspose.pdf-product-family/f72da8c521b44a51b4ac8eb7d1ff5ea4"
+download_text: " Download"
+Intro_text: " This brochure summarizes the benefits and features of Aspose.Pdf across all supp..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "   4/15/2014  Downloads: 1186  Views: 4407"
+file_size: "  File Size: 1.2 MB "
 parent_path: "corporate/brochures/all"
+section_parent_path: "corporate/brochures"
 weight: 6 
 ---
 
@@ -24,7 +25,17 @@ weight: 6
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>1183</li><li>File Size:</li><li>1.2 MB</li><li>Posted By:</li><li>caroline.von.schmalensee</li><li>Views:</li><li>4393</li><li>Date Added:</li><li>4/15/2014</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-f72da8c521b44a51b4ac8eb7d1ff5ea4" >}} 1186 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-f72da8c521b44a51b4ac8eb7d1ff5ea4" >}} 1.2 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-f72da8c521b44a51b4ac8eb7d1ff5ea4" >}} caroline.von.schmalensee {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-f72da8c521b44a51b4ac8eb7d1ff5ea4" >}} 4408 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-f72da8c521b44a51b4ac8eb7d1ff5ea4" >}} 4/15/2014 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

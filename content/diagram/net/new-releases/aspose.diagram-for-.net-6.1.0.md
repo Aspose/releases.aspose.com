@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.diagram-for-.net-6.1.0 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " diagram/net/new-releases/aspose.diagram-for-.net-6.1.0/"
+folder_name: " Aspose.Diagram for .NET 6.1.0"
+download_link: " /diagram/net/new-releases/aspose.diagram-for-.net-6.1.0/8f22ef9a4abc44feafa9e6db3f38b339"
+download_text: " Download"
+Intro_text: " It contains Aspose.Diagram for .NET 6.1.0 release."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   3/23/2016  Downloads: 7  Views: 179"
+file_size: "  File Size: 9.5 MB "
+parent_path: "diagram/net"
+section_parent_path: "diagram/net"
+weight: 154 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Diagram for .NET 6.1.0" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/diagram/net/new-releases/aspose.diagram-for-.net-6.1.0/8f22ef9a4abc44feafa9e6db3f38b339%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/diagram" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-8f22ef9a4abc44feafa9e6db3f38b339" >}} 7 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-8f22ef9a4abc44feafa9e6db3f38b339" >}} 9.5 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-8f22ef9a4abc44feafa9e6db3f38b339" >}} faizanbaig {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-8f22ef9a4abc44feafa9e6db3f38b339" >}} 180 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-8f22ef9a4abc44feafa9e6db3f38b339" >}} 3/23/2016 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/diagramnet/Aspose.Diagram+for+.NET+6.1.0+Release+Notes">http://www.aspose.com/docs/display/diagramnet/Aspose.Diagram+for+.NET+6.1.0+Release+Notes</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

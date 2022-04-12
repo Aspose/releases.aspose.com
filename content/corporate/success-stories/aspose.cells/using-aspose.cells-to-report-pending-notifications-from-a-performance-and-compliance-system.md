@@ -3,15 +3,15 @@ title:  "  Downloads ---Aspose.Cells-using-aspose.cells-to-report-pending-notifi
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.cells/using-aspose.cells-to-report-pending-notifications-from-a-performance-and-compliance-system/"
-folder_name:  " Using Aspose.Cells to Report Pending Notifications from a Performance and Compliance System"
-download_link:  " /corporate/success-stories/aspose.cells/using-aspose.cells-to-report-pending-notifications-from-a-performance-and-compliance-system/b61f2ec2669b4709ba2a025ee4c6bd70"
-download_text:  " Download"
-intro_text:  " Learn how Aspose.Cells was used to export custom reports in dual format"
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 226  Views: 369"
-file_size:  "  File Size: 418.8 KB "
-parent_path: "corporate/success-stories/aspose.cells"                                                          
+folder_link: " corporate/success-stories/aspose.cells/using-aspose.cells-to-report-pending-notifications-from-a-performance-and-compliance-system/"
+folder_name: " Using Aspose.Cells to Report Pending Notifications from a Performance and Compliance System"
+download_link: " /corporate/success-stories/aspose.cells/using-aspose.cells-to-report-pending-notifications-from-a-performance-and-compliance-system/b61f2ec2669b4709ba2a025ee4c6bd70"
+download_text: " Download"
+Intro_text: " Learn how Aspose.Cells was used to export custom reports in dual format"
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 226  Views: 372"
+file_size: "  File Size: 418.8 KB "
+parent_path: "corporate/success-stories/aspose.cells"
 section_parent_path: "corporate/success-stories"
 weight: 4 
 ---
@@ -25,7 +25,15 @@ weight: 4
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>226</li><li>File Size:</li><li>418.8 KB</li><li>Posted By:</li><li>sabrina.tran1</li><li>Views:</li><li>370</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-b61f2ec2669b4709ba2a025ee4c6bd70" >}} 226 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-b61f2ec2669b4709ba2a025ee4c6bd70" >}} 418.8 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-b61f2ec2669b4709ba2a025ee4c6bd70" >}} sabrina.tran1 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-b61f2ec2669b4709ba2a025ee4c6bd70" >}} 373 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

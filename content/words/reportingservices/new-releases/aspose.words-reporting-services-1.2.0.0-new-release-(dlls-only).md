@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-reporting-services-1.2.0.0-new
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/reportingservices/new-releases/aspose.words-reporting-services-1.2.0.0-new-release-(dlls-only)/"
-folder_name:  " Aspose.Words Reporting Services 1.2.0.0 New Release (Dlls Only)"
-download_link:  " /words/reportingservices/new-releases/aspose.words-reporting-services-1.2.0.0-new-release-(dlls-only)/5f38a98123904b5ab1f94a41fa9bed87"
-download_text:  " Download"
-intro_text:  " We have decided to jump from 1.1 to 1.2 without publishing any minor hotfixes ma..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   7/25/2007  Downloads: 0  Views: 48"
-file_size:  "  File Size: 4.4 MB "
+folder_link: " words/reportingservices/new-releases/aspose.words-reporting-services-1.2.0.0-new-release-(dlls-only)/"
+folder_name: " Aspose.Words Reporting Services 1.2.0.0 New Release (Dlls Only)"
+download_link: " /words/reportingservices/new-releases/aspose.words-reporting-services-1.2.0.0-new-release-(dlls-only)/5f38a98123904b5ab1f94a41fa9bed87"
+download_text: " Download"
+Intro_text: " We have decided to jump from 1.1 to 1.2 without publishing any minor hotfixes ma..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   7/25/2007  Downloads: 0  Views: 50"
+file_size: "  File Size: 4.4 MB "
 parent_path: "words/reportingservices"
-weight: 18 
+section_parent_path: "words/reportingservices"
+weight: 144 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 18
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>0</li><li>File Size:</li><li>4.4 MB</li><li>Posted By:</li><li>ShL77</li><li>Views:</li><li>49</li><li>Date Added:</li><li>7/25/2007</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-5f38a98123904b5ab1f94a41fa9bed87" >}} 0 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-5f38a98123904b5ab1f94a41fa9bed87" >}} 4.4 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-5f38a98123904b5ab1f94a41fa9bed87" >}} ShL77 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-5f38a98123904b5ab1f94a41fa9bed87" >}} 51 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-5f38a98123904b5ab1f94a41fa9bed87" >}} 7/25/2007 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Total-dynafile-(blue-ribbon-technologies)-competi
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/dynafile-(blue-ribbon-technologies)-competitive-upgrade-case-study---aspose.total-for-.net/"
-folder_name:  " DynaFile (Blue Ribbon Technologies) Competitive Upgrade Case Study - Aspose.Total for .NET"
-download_link:  " /corporate/success-stories/aspose.total/dynafile-(blue-ribbon-technologies)-competitive-upgrade-case-study---aspose.total-for-.net/bd5950bb0bd34ca08a72d987a2151609"
-download_text:  " Download"
-intro_text:  " Blue Ribbon Technologies upgraded their SaaS based document management applicati..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 14  Views: 270"
-file_size:  "  File Size: 493.6 KB "
+folder_link: " corporate/success-stories/aspose.total/dynafile-(blue-ribbon-technologies)-competitive-upgrade-case-study---aspose.total-for-.net/"
+folder_name: " DynaFile (Blue Ribbon Technologies) Competitive Upgrade Case Study - Aspose.Total for .NET"
+download_link: " /corporate/success-stories/aspose.total/dynafile-(blue-ribbon-technologies)-competitive-upgrade-case-study---aspose.total-for-.net/bd5950bb0bd34ca08a72d987a2151609"
+download_text: " Download"
+Intro_text: " Blue Ribbon Technologies upgraded their SaaS based document management applicati..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 14  Views: 272"
+file_size: "  File Size: 493.6 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 37 
@@ -25,7 +25,19 @@ weight: 37
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>14</li><li>File Size:</li><li>493.6 KB</li><li>Posted By:</li><li>caroline.von.schmalensee</li><li>Views:</li><li>271</li><li>SHA1:</li><li>aff723f2c0398ed18e08f997b4b258bd12c437d1</li><li>MD5:</li><li>8f41ad8b575d30333cf402b8e56a87e6</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-bd5950bb0bd34ca08a72d987a2151609" >}} 14 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-bd5950bb0bd34ca08a72d987a2151609" >}} 493.6 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-bd5950bb0bd34ca08a72d987a2151609" >}} caroline.von.schmalensee {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-bd5950bb0bd34ca08a72d987a2151609" >}} 273 {{< /Common/li >}} 
+      {{< Common/li  >}} SHA1: {{< /Common/li >}} 
+      {{< Common/li id="sha1-update-bd5950bb0bd34ca08a72d987a2151609" >}} aff723f2c0398ed18e08f997b4b258bd12c437d1: {{< /Common/li >}} 
+      {{< Common/li  >}} MD5: {{< /Common/li >}} 
+      {{< Common/li id="md5-update-bd5950bb0bd34ca08a72d987a2151609" >}} 8f41ad8b575d30333cf402b8e56a87e6: {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

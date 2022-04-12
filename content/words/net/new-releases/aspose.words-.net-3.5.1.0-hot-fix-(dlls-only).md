@@ -3,18 +3,19 @@ title:  "  Downloads ---New-Releases-aspose.words-.net-3.5.1.0-hot-fix-(dlls-onl
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-.net-3.5.1.0-hot-fix-(dlls-only)/"
-folder_name:  " Aspose.Words .Net 3.5.1.0 Hot Fix (Dlls Only)"
-download_link:  " /words/net/new-releases/aspose.words-.net-3.5.1.0-hot-fix-(dlls-only)/83f26d4275a84325a64b72b78e6d5090"
-download_text:  " Download"
-intro_text:  " New Features
+folder_link: " words/net/new-releases/aspose.words-.net-3.5.1.0-hot-fix-(dlls-only)/"
+folder_name: " Aspose.Words .Net 3.5.1.0 Hot Fix (Dlls Only)"
+download_link: " /words/net/new-releases/aspose.words-.net-3.5.1.0-hot-fix-(dlls-only)/83f26d4275a84325a64b72b78e6d5090"
+download_text: " Download"
+Intro_text: " New Features
 
 Added public classes to create/modify tab stops and tab leaders...."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   7/25/2007  Downloads: 7  Views: 64"
-file_size:  "  File Size: 446.1 KB "
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   7/25/2007  Downloads: 7  Views: 65"
+file_size: "  File Size: 446.1 KB "
 parent_path: "words/net"
-weight: 41 
+section_parent_path: "words/net"
+weight: 331 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -26,7 +27,17 @@ weight: 41
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>7</li><li>File Size:</li><li>446.1 KB</li><li>Posted By:</li><li>ShL77</li><li>Views:</li><li>65</li><li>Date Added:</li><li>7/25/2007</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-83f26d4275a84325a64b72b78e6d5090" >}} 7 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-83f26d4275a84325a64b72b78e6d5090" >}} 446.1 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-83f26d4275a84325a64b72b78e6d5090" >}} ShL77 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-83f26d4275a84325a64b72b78e6d5090" >}} 66 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-83f26d4275a84325a64b72b78e6d5090" >}} 7/25/2007 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

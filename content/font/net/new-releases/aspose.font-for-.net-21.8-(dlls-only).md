@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.font-for-.net-21.8-(dlls-only) . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " font/net/new-releases/aspose.font-for-.net-21.8-(dlls-only)/"
-folder_name:  " Aspose.Font for .NET 21.8 (DLLs only)"
-download_link:  " /font/net/new-releases/aspose.font-for-.net-21.8-(dlls-only)/4d701080e4f2471cbbbaf289bac458ee"
-download_text:  " Download"
-intro_text:  " This ZIP file contains only the Aspose.Font for .NET assemblies. The assemblies ..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   8/5/2021  Downloads: 10  Views: 44"
-file_size:  "  File Size: 2.9 MB "
+folder_link: " font/net/new-releases/aspose.font-for-.net-21.8-(dlls-only)/"
+folder_name: " Aspose.Font for .NET 21.8 (DLLs only)"
+download_link: " /font/net/new-releases/aspose.font-for-.net-21.8-(dlls-only)/4d701080e4f2471cbbbaf289bac458ee"
+download_text: " Download"
+Intro_text: " This ZIP file contains only the Aspose.Font for .NET assemblies. The assemblies ..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   8/5/2021  Downloads: 10  Views: 46"
+file_size: "  File Size: 2.9 MB "
 parent_path: "font/net"
+section_parent_path: "font/net"
 weight: 6 
 ---
 
@@ -24,7 +25,17 @@ weight: 6
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>10</li><li>File Size:</li><li>2.9 MB</li><li>Posted By:</li><li>andriy.kotlyarov</li><li>Views:</li><li>45</li><li>Date Added:</li><li>8/5/2021</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-4d701080e4f2471cbbbaf289bac458ee" >}} 10 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-4d701080e4f2471cbbbaf289bac458ee" >}} 2.9 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-4d701080e4f2471cbbbaf289bac458ee" >}} andriy.kotlyarov {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-4d701080e4f2471cbbbaf289bac458ee" >}} 47 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-4d701080e4f2471cbbbaf289bac458ee" >}} 8/5/2021 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

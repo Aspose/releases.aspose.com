@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.font-for-c++-22.1-linux . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " font/cpp/new-releases/aspose.font-for-c---22.1-linux/"
-folder_name:  " Aspose.Font for C++ 22.1 Linux"
-download_link:  " /font/cpp/new-releases/aspose.font-for-c---22.1-linux/2230a72f8dba407ba3e8ddaac436197b"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Font for C++ 22.1 Linux release."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   1/20/2022  Downloads: 1  Views: 8"
-file_size:  "  File Size: 31.1 MB "
+folder_link: " font/cpp/new-releases/aspose.font-for-c---22.1-linux/"
+folder_name: " Aspose.Font for C++ 22.1 Linux"
+download_link: " /font/cpp/new-releases/aspose.font-for-c---22.1-linux/2230a72f8dba407ba3e8ddaac436197b"
+download_text: " Download"
+Intro_text: " It contains Aspose.Font for C++ 22.1 Linux release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   1/20/2022  Downloads: 1  Views: 11"
+file_size: "  File Size: 31.1 MB "
 parent_path: "font/cpp"
+section_parent_path: "font/cpp"
 weight: 1 
 ---
 
@@ -24,7 +25,17 @@ weight: 1
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>1</li><li>File Size:</li><li>31.1 MB</li><li>Posted By:</li><li>Andrey.Malokhovetskiy</li><li>Views:</li><li>9</li><li>Date Added:</li><li>1/20/2022</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-2230a72f8dba407ba3e8ddaac436197b" >}} 1 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-2230a72f8dba407ba3e8ddaac436197b" >}} 31.1 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-2230a72f8dba407ba3e8ddaac436197b" >}} Andrey.Malokhovetskiy {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-2230a72f8dba407ba3e8ddaac436197b" >}} 12 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-2230a72f8dba407ba3e8ddaac436197b" >}} 1/20/2022 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

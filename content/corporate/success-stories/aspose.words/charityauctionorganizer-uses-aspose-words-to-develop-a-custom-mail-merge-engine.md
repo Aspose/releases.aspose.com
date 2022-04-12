@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-charityauctionorganizer-uses-aspose-words-t
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/charityauctionorganizer-uses-aspose-words-to-develop-a-custom-mail-merge-engine/"
-folder_name:  " CharityAuctionOrganizer uses Aspose Words to Develop a Custom Mail Merge Engine"
-download_link:  " /corporate/success-stories/aspose.words/charityauctionorganizer-uses-aspose-words-to-develop-a-custom-mail-merge-engine/c6701467d3454a4984fe4d8a379de9d3"
-download_text:  " Download"
-intro_text:  " CharityAuctionOrganizer.com provides a platform to allow non-profits to run fund..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 225  Views: 820"
-file_size:  "  File Size: 388.2 KB "
+folder_link: " corporate/success-stories/aspose.words/charityauctionorganizer-uses-aspose-words-to-develop-a-custom-mail-merge-engine/"
+folder_name: " CharityAuctionOrganizer uses Aspose Words to Develop a Custom Mail Merge Engine"
+download_link: " /corporate/success-stories/aspose.words/charityauctionorganizer-uses-aspose-words-to-develop-a-custom-mail-merge-engine/c6701467d3454a4984fe4d8a379de9d3"
+download_text: " Download"
+Intro_text: " CharityAuctionOrganizer.com provides a platform to allow non-profits to run fund..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 227  Views: 824"
+file_size: "  File Size: 388.2 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 29 
+weight: 30 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 29
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>225</li><li>File Size:</li><li>388.2 KB</li><li>Posted By:</li><li>aske012</li><li>Views:</li><li>821</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-c6701467d3454a4984fe4d8a379de9d3" >}} 227 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-c6701467d3454a4984fe4d8a379de9d3" >}} 388.2 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-c6701467d3454a4984fe4d8a379de9d3" >}} aske012 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-c6701467d3454a4984fe4d8a379de9d3" >}} 825 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.total-for-.net-(dll-only) . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " total/net/new-releases/aspose.total-for-.net-(dll-only)/"
-folder_name:  " Aspose.Total for .NET (DLL Only)"
-download_link:  " /total/net/new-releases/aspose.total-for-.net-(dll-only)/7af12cd208ae4ea6b40f232c663550a8"
-download_text:  " Download"
-intro_text:  " Aspose.Total for .NET contains most recent version of all .NET products."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   Added: 3 weeks ago [3/15/2022]  Downloads: 10929  Views: 29506"
-file_size:  "  File Size: 1.1 GB "
+folder_link: " total/net/new-releases/aspose.total-for-.net-(dll-only)/"
+folder_name: " Aspose.Total for .NET (DLL Only)"
+download_link: " /total/net/new-releases/aspose.total-for-.net-(dll-only)/7af12cd208ae4ea6b40f232c663550a8"
+download_text: " Download"
+Intro_text: " Aspose.Total for .NET contains most recent version of all .NET products."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   Added: 4 weeks ago [3/15/2022]  Downloads: 10988  Views: 29629"
+file_size: "  File Size: 1.1 GB "
 parent_path: "total/net"
+section_parent_path: "total/net"
 weight: 1 
 ---
 
@@ -24,7 +25,21 @@ weight: 1
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>10929</li><li>File Size:</li><li>1.1 GB</li><li>Posted By:</li><li>aspose.total</li><li>Views:</li><li>29507</li><li>Date Added:</li><li>: 3 weeks ago [3/15/2022]</li><li>SHA1:</li><li>aff723f2c0398ed18e08f997b4b258bd12c437d1</li><li>MD5:</li><li>8f41ad8b575d30333cf402b8e56a87e6</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-7af12cd208ae4ea6b40f232c663550a8" >}} 10988 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-7af12cd208ae4ea6b40f232c663550a8" >}} 1.1 GB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-7af12cd208ae4ea6b40f232c663550a8" >}} aspose.total {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-7af12cd208ae4ea6b40f232c663550a8" >}} 29630 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-7af12cd208ae4ea6b40f232c663550a8" >}} : 4 weeks ago [3/15/2022] {{< /Common/li >}} 
+      {{< Common/li  >}} SHA1: {{< /Common/li >}} 
+      {{< Common/li id="sha1-update-7af12cd208ae4ea6b40f232c663550a8" >}} aff723f2c0398ed18e08f997b4b258bd12c437d1: {{< /Common/li >}} 
+      {{< Common/li  >}} MD5: {{< /Common/li >}} 
+      {{< Common/li id="md5-update-7af12cd208ae4ea6b40f232c663550a8" >}} 8f41ad8b575d30333cf402b8e56a87e6: {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

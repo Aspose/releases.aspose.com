@@ -3,15 +3,15 @@ title:  "  Downloads ---Aspose.Cells-the-digital-group-uses-aspose.cells-for-.ne
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.cells/the-digital-group-uses-aspose.cells-for-.net-in-preference-to-interop/"
-folder_name:  " The Digital Group uses Aspose.Cells for .NET in preference to INTEROP"
-download_link:  " /corporate/success-stories/aspose.cells/the-digital-group-uses-aspose.cells-for-.net-in-preference-to-interop/840563f4fd3445eabb28a522a6c912d6"
-download_text:  " Download"
-intro_text:  " The Digital Group (T/DG) is a premier provider of information technology service..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 164  Views: 1183"
-file_size:  "  File Size: 368.9 KB "
-parent_path: "corporate/success-stories/aspose.cells"                                                          
+folder_link: " corporate/success-stories/aspose.cells/the-digital-group-uses-aspose.cells-for-.net-in-preference-to-interop/"
+folder_name: " The Digital Group uses Aspose.Cells for .NET in preference to INTEROP"
+download_link: " /corporate/success-stories/aspose.cells/the-digital-group-uses-aspose.cells-for-.net-in-preference-to-interop/840563f4fd3445eabb28a522a6c912d6"
+download_text: " Download"
+Intro_text: " The Digital Group (T/DG) is a premier provider of information technology service..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 164  Views: 1186"
+file_size: "  File Size: 368.9 KB "
+parent_path: "corporate/success-stories/aspose.cells"
 section_parent_path: "corporate/success-stories"
 weight: 9 
 ---
@@ -25,7 +25,15 @@ weight: 9
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>164</li><li>File Size:</li><li>368.9 KB</li><li>Posted By:</li><li>caroline.von.schmalensee</li><li>Views:</li><li>1184</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-840563f4fd3445eabb28a522a6c912d6" >}} 164 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-840563f4fd3445eabb28a522a6c912d6" >}} 368.9 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-840563f4fd3445eabb28a522a6c912d6" >}} caroline.von.schmalensee {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-840563f4fd3445eabb28a522a6c912d6" >}} 1187 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

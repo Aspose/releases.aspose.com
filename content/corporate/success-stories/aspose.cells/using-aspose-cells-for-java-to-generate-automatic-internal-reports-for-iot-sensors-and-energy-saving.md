@@ -3,15 +3,15 @@ title:  "  Downloads ---Aspose.Cells-using-aspose-cells-for-java-to-generate-aut
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.cells/using-aspose-cells-for-java-to-generate-automatic-internal-reports-for-iot-sensors-and-energy-saving/"
-folder_name:  " Using Aspose Cells for Java to generate automatic internal reports for IOT sensors and energy saving"
-download_link:  " /corporate/success-stories/aspose.cells/using-aspose-cells-for-java-to-generate-automatic-internal-reports-for-iot-sensors-and-energy-saving/f8954b6e0fb24975af2626aaf7ec7b27"
-download_text:  " Download"
-intro_text:  " Advizeo needed a product which could take an Excel file as an input, Allow inser..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 161  Views: 316"
-file_size:  "  File Size: 584.6 KB "
-parent_path: "corporate/success-stories/aspose.cells"                                                          
+folder_link: " corporate/success-stories/aspose.cells/using-aspose-cells-for-java-to-generate-automatic-internal-reports-for-iot-sensors-and-energy-saving/"
+folder_name: " Using Aspose Cells for Java to generate automatic internal reports for IOT sensors and energy saving"
+download_link: " /corporate/success-stories/aspose.cells/using-aspose-cells-for-java-to-generate-automatic-internal-reports-for-iot-sensors-and-energy-saving/f8954b6e0fb24975af2626aaf7ec7b27"
+download_text: " Download"
+Intro_text: " Advizeo needed a product which could take an Excel file as an input, Allow inser..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 161  Views: 319"
+file_size: "  File Size: 584.6 KB "
+parent_path: "corporate/success-stories/aspose.cells"
 section_parent_path: "corporate/success-stories"
 weight: 5 
 ---
@@ -25,7 +25,15 @@ weight: 5
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>161</li><li>File Size:</li><li>584.6 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>317</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-f8954b6e0fb24975af2626aaf7ec7b27" >}} 161 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-f8954b6e0fb24975af2626aaf7ec7b27" >}} 584.6 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-f8954b6e0fb24975af2626aaf7ec7b27" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-f8954b6e0fb24975af2626aaf7ec7b27" >}} 320 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

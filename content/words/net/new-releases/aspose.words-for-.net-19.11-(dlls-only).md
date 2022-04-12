@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-19.11-(dlls-only) . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-19.11-(dlls-only)/"
-folder_name:  " Aspose.Words for .NET 19.11 (DLLs only)"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-19.11-(dlls-only)/e28928399d074dc5bdab7d82daf94884"
-download_text:  " Download"
-intro_text:  " This ZIP file contains the Aspose.Words for .NET, Xamarin and .NET Standard 2.0 ..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   11/5/2019  Downloads: 219  Views: 316"
-file_size:  "  File Size: 77.8 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-19.11-(dlls-only)/"
+folder_name: " Aspose.Words for .NET 19.11 (DLLs only)"
+download_link: " /words/net/new-releases/aspose.words-for-.net-19.11-(dlls-only)/e28928399d074dc5bdab7d82daf94884"
+download_text: " Download"
+Intro_text: " This ZIP file contains the Aspose.Words for .NET, Xamarin and .NET Standard 2.0 ..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   11/5/2019  Downloads: 219  Views: 317"
+file_size: "  File Size: 77.8 MB "
 parent_path: "words/net"
-weight: 13 
+section_parent_path: "words/net"
+weight: 69 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 13
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>219</li><li>File Size:</li><li>77.8 MB</li><li>Posted By:</li><li>AndreyN</li><li>Views:</li><li>317</li><li>Date Added:</li><li>11/5/2019</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-e28928399d074dc5bdab7d82daf94884" >}} 219 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-e28928399d074dc5bdab7d82daf94884" >}} 77.8 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-e28928399d074dc5bdab7d82daf94884" >}} AndreyN {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-e28928399d074dc5bdab7d82daf94884" >}} 318 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-e28928399d074dc5bdab7d82daf94884" >}} 11/5/2019 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

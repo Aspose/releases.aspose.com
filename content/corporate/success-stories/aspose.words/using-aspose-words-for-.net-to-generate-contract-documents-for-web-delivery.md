@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-using-aspose-words-for-.net-to-generate-con
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/using-aspose-words-for-.net-to-generate-contract-documents-for-web-delivery/"
-folder_name:  " Using Aspose Words for .NET to generate contract documents for web delivery."
-download_link:  " /corporate/success-stories/aspose.words/using-aspose-words-for-.net-to-generate-contract-documents-for-web-delivery/184d4d8cc56a406fa04e9eac268e4328"
-download_text:  " Download"
-intro_text:  " Given the nature of our business, the contracts which underpin each consumer tra..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 48  Views: 287"
-file_size:  "  File Size: 345.3 KB "
+folder_link: " corporate/success-stories/aspose.words/using-aspose-words-for-.net-to-generate-contract-documents-for-web-delivery/"
+folder_name: " Using Aspose Words for .NET to generate contract documents for web delivery."
+download_link: " /corporate/success-stories/aspose.words/using-aspose-words-for-.net-to-generate-contract-documents-for-web-delivery/184d4d8cc56a406fa04e9eac268e4328"
+download_text: " Download"
+Intro_text: " Given the nature of our business, the contracts which underpin each consumer tra..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 49  Views: 287"
+file_size: "  File Size: 345.3 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 52 
+weight: 53 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 52
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>48</li><li>File Size:</li><li>345.3 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>287</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-184d4d8cc56a406fa04e9eac268e4328" >}} 49 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-184d4d8cc56a406fa04e9eac268e4328" >}} 345.3 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-184d4d8cc56a406fa04e9eac268e4328" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-184d4d8cc56a406fa04e9eac268e4328" >}} 287 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

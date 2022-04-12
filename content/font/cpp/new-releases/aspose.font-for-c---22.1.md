@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.font-for-c++-22.1 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " font/cpp/new-releases/aspose.font-for-c---22.1/"
-folder_name:  " Aspose.Font for C++ 22.1"
-download_link:  " /font/cpp/new-releases/aspose.font-for-c---22.1/473b2a7b2ca74b968b3f00019260e3ba"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Font for C++ 22.1 release."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   1/20/2022  Downloads: 3  Views: 9"
-file_size:  "  File Size: 122.5 MB "
+folder_link: " font/cpp/new-releases/aspose.font-for-c---22.1/"
+folder_name: " Aspose.Font for C++ 22.1"
+download_link: " /font/cpp/new-releases/aspose.font-for-c---22.1/473b2a7b2ca74b968b3f00019260e3ba"
+download_text: " Download"
+Intro_text: " It contains Aspose.Font for C++ 22.1 release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   1/20/2022  Downloads: 6  Views: 15"
+file_size: "  File Size: 122.5 MB "
 parent_path: "font/cpp"
+section_parent_path: "font/cpp"
 weight: 2 
 ---
 
@@ -24,7 +25,17 @@ weight: 2
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>3</li><li>File Size:</li><li>122.5 MB</li><li>Posted By:</li><li>Andrey.Malokhovetskiy</li><li>Views:</li><li>10</li><li>Date Added:</li><li>1/20/2022</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-473b2a7b2ca74b968b3f00019260e3ba" >}} 6 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-473b2a7b2ca74b968b3f00019260e3ba" >}} 122.5 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-473b2a7b2ca74b968b3f00019260e3ba" >}} Andrey.Malokhovetskiy {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-473b2a7b2ca74b968b3f00019260e3ba" >}} 16 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-473b2a7b2ca74b968b3f00019260e3ba" >}} 1/20/2022 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

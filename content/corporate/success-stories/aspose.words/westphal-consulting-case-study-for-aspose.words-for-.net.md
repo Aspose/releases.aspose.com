@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-westphal-consulting-case-study-for-aspose.w
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/westphal-consulting-case-study-for-aspose.words-for-.net/"
-folder_name:  " Westphal Consulting Case Study for Aspose.Words for .NET"
-download_link:  " /corporate/success-stories/aspose.words/westphal-consulting-case-study-for-aspose.words-for-.net/6315949dd8cb42f5b4737f2667d32c6a"
-download_text:  " Download"
-intro_text:  " Westphal Consulting uses Aspose.Words for .NET to generate professional insuranc..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 32  Views: 143"
-file_size:  "  File Size: 299.9 KB "
+folder_link: " corporate/success-stories/aspose.words/westphal-consulting-case-study-for-aspose.words-for-.net/"
+folder_name: " Westphal Consulting Case Study for Aspose.Words for .NET"
+download_link: " /corporate/success-stories/aspose.words/westphal-consulting-case-study-for-aspose.words-for-.net/6315949dd8cb42f5b4737f2667d32c6a"
+download_text: " Download"
+Intro_text: " Westphal Consulting uses Aspose.Words for .NET to generate professional insuranc..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 32  Views: 144"
+file_size: "  File Size: 299.9 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 54 
+weight: 55 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 54
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>32</li><li>File Size:</li><li>299.9 KB</li><li>Posted By:</li><li>sheliah</li><li>Views:</li><li>144</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-6315949dd8cb42f5b4737f2667d32c6a" >}} 32 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-6315949dd8cb42f5b4737f2667d32c6a" >}} 299.9 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-6315949dd8cb42f5b4737f2667d32c6a" >}} sheliah {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-6315949dd8cb42f5b4737f2667d32c6a" >}} 145 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

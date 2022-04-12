@@ -1,3 +1,19 @@
 <div class="FileArea">
     {{.Inner}}
 </div>
+
+{{$download_link := print .Page.Params.download_link "/"}}
+{{ $lastUrlElement := index (last 1 (split (delimit (split $download_link "/") "," "") ",")) 0 }}
+<script type="text/javascript">
+    $.getJSON("http://admindemo.local/api/updatecount?path={{$lastUrlElement}}&single=1", function(data) { 
+        //var myParam = location.search.split('data=')[1]
+        // data[myParam] = parseInt(data[myParam]) + 1;
+          $.each(data, function(key, value) {
+              //console.log(key+"..."+value);
+              //console.log(key + " View Count " + value.view_count);
+              //console.log(key + " Dwn Count " + value.download_count);
+              $("#dwn-update-"+ key).text(value.download_count);
+              $("#dwn-update-"+ key).text(value.view_count);
+          });
+    });
+  </script>

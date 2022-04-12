@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-infinite-blue-uses-aspose-words-to-generate
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/infinite-blue-uses-aspose-words-to-generate-printable-reports-for-its-annual-assessment-of-public-entities/"
-folder_name:  " Infinite Blue uses Aspose Words to generate printable reports for its annual assessment of public entities."
-download_link:  " /corporate/success-stories/aspose.words/infinite-blue-uses-aspose-words-to-generate-printable-reports-for-its-annual-assessment-of-public-entities/65581044178c4b9193933f7823247bec"
-download_text:  " Download"
-intro_text:  " Infinite Blue Technologies has been working on the Public Procurement Model of E..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 29  Views: 515"
-file_size:  "  File Size: 275.9 KB "
+folder_link: " corporate/success-stories/aspose.words/infinite-blue-uses-aspose-words-to-generate-printable-reports-for-its-annual-assessment-of-public-entities/"
+folder_name: " Infinite Blue uses Aspose Words to generate printable reports for its annual assessment of public entities."
+download_link: " /corporate/success-stories/aspose.words/infinite-blue-uses-aspose-words-to-generate-printable-reports-for-its-annual-assessment-of-public-entities/65581044178c4b9193933f7823247bec"
+download_text: " Download"
+Intro_text: " Infinite Blue Technologies has been working on the Public Procurement Model of E..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 29  Views: 515"
+file_size: "  File Size: 275.9 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 42 
+weight: 43 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 42
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>29</li><li>File Size:</li><li>275.9 KB</li><li>Posted By:</li><li>caroline.von.schmalensee</li><li>Views:</li><li>515</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-65581044178c4b9193933f7823247bec" >}} 29 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-65581044178c4b9193933f7823247bec" >}} 275.9 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-65581044178c4b9193933f7823247bec" >}} caroline.von.schmalensee {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-65581044178c4b9193933f7823247bec" >}} 515 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

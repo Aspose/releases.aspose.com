@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.slides-for-android-via-java-19.3 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.3/"
+folder_name: " Aspose.Slides for Android via Java 19.3"
+download_link: " /slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.3/920ceb33f43f495e80ee36ace706fb6e"
+download_text: " Download"
+Intro_text: " It contains Aspose.Slides for Android via Java 19.3 release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   4/4/2019  Downloads: 6  Views: 14"
+file_size: "  File Size: 26.4 MB "
+parent_path: "slides/androidjava"
+section_parent_path: "slides/androidjava"
+weight: 46 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Slides for Android via Java 19.3" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.3/920ceb33f43f495e80ee36ace706fb6e%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-920ceb33f43f495e80ee36ace706fb6e" >}} 6 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-920ceb33f43f495e80ee36ace706fb6e" >}} 26.4 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-920ceb33f43f495e80ee36ace706fb6e" >}} victor.krivolap {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-920ceb33f43f495e80ee36ace706fb6e" >}} 15 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-920ceb33f43f495e80ee36ace706fb6e" >}} 4/4/2019 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/slidesjava/Aspose.Slides+for+Android+via+Java+19.3+Release+Notes">https://docs.aspose.com/display/slidesjava/Aspose.Slides+for+Android+via+Java+19.3+Release+Notes</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

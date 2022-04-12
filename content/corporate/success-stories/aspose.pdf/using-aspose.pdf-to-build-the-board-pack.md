@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Pdf-using-aspose.pdf-to-build-the-board-pack . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.pdf/using-aspose.pdf-to-build-the-board-pack/"
-folder_name:  " Using Aspose.PDF to build the Board Pack"
-download_link:  " /corporate/success-stories/aspose.pdf/using-aspose.pdf-to-build-the-board-pack/8bc0221bcf074f12b80d6082774cd1a8"
-download_text:  " Download"
-intro_text:  " Learn how BoardPro relies on Aspose.PDF"
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 296  Views: 425"
-file_size:  "  File Size: 818.6 KB "
+folder_link: " corporate/success-stories/aspose.pdf/using-aspose.pdf-to-build-the-board-pack/"
+folder_name: " Using Aspose.PDF to build the Board Pack"
+download_link: " /corporate/success-stories/aspose.pdf/using-aspose.pdf-to-build-the-board-pack/8bc0221bcf074f12b80d6082774cd1a8"
+download_text: " Download"
+Intro_text: " Learn how BoardPro relies on Aspose.PDF"
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 296  Views: 428"
+file_size: "  File Size: 818.6 KB "
 parent_path: "corporate/success-stories/aspose.pdf"
 section_parent_path: "corporate/success-stories"
 weight: 6 
@@ -25,7 +25,15 @@ weight: 6
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>296</li><li>File Size:</li><li>818.6 KB</li><li>Posted By:</li><li>sabrina.tran1</li><li>Views:</li><li>426</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-8bc0221bcf074f12b80d6082774cd1a8" >}} 296 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-8bc0221bcf074f12b80d6082774cd1a8" >}} 818.6 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-8bc0221bcf074f12b80d6082774cd1a8" >}} sabrina.tran1 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-8bc0221bcf074f12b80d6082774cd1a8" >}} 429 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

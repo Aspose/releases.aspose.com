@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.words-for-sharepoint-21.12 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " words/sharepoint/new-releases/aspose.words-for-sharepoint-21.12/"
+folder_name: " Aspose.Words for SharePoint 21.12"
+download_link: " /words/sharepoint/new-releases/aspose.words-for-sharepoint-21.12/bb2f792760fb4388abfda9e558a6b32b"
+download_text: " Download"
+Intro_text: " Upgrade to the latest version of Aspose.Words for Net (21.12). Added markdown fo..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   12/6/2021  Downloads: 16  Views: 101"
+file_size: "  File Size: 23.9 MB "
+parent_path: "words/sharepoint"
+section_parent_path: "words/sharepoint"
+weight: 2 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Words for SharePoint 21.12" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/words/sharepoint/new-releases/aspose.words-for-sharepoint-21.12/bb2f792760fb4388abfda9e558a6b32b%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/words" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-bb2f792760fb4388abfda9e558a6b32b" >}} 16 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-bb2f792760fb4388abfda9e558a6b32b" >}} 23.9 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-bb2f792760fb4388abfda9e558a6b32b" >}} dmitry.sokolov {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-bb2f792760fb4388abfda9e558a6b32b" >}} 102 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-bb2f792760fb4388abfda9e558a6b32b" >}} 12/6/2021 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-21-12-release-notes/">https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-21-12-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Upgrade to the latest version of Aspose.Words for Net (21.12). Added markdown format support.</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

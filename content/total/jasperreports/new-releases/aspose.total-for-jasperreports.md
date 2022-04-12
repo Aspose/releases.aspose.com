@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.total-for-jasperreports . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " total/jasperreports/new-releases/aspose.total-for-jasperreports/"
-folder_name:  " Aspose.Total for JasperReports"
-download_link:  " /total/jasperreports/new-releases/aspose.total-for-jasperreports/af8de522ba1d4bd4a512acece895cf02"
-download_text:  " Download"
-intro_text:  " Aspose.Total for JasperReports contains most recent version of all JasperReports..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   9/22/2021  Downloads: 1841  Views: 868"
-file_size:  "  File Size: 555.7 MB "
+folder_link: " total/jasperreports/new-releases/aspose.total-for-jasperreports/"
+folder_name: " Aspose.Total for JasperReports"
+download_link: " /total/jasperreports/new-releases/aspose.total-for-jasperreports/af8de522ba1d4bd4a512acece895cf02"
+download_text: " Download"
+Intro_text: " Aspose.Total for JasperReports contains most recent version of all JasperReports..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   9/22/2021  Downloads: 1841  Views: 875"
+file_size: "  File Size: 555.7 MB "
 parent_path: "total/jasperreports"
+section_parent_path: "total/jasperreports"
 weight: 1 
 ---
 
@@ -24,7 +25,21 @@ weight: 1
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>1841</li><li>File Size:</li><li>555.7 MB</li><li>Posted By:</li><li>aspose.total</li><li>Views:</li><li>869</li><li>Date Added:</li><li>9/22/2021</li><li>SHA1:</li><li>3aa4a296e7a0d17f8f240f12d8d6846c14988936</li><li>MD5:</li><li>ca58551ee202cf70f35db00b8e0b69d1</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-af8de522ba1d4bd4a512acece895cf02" >}} 1841 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-af8de522ba1d4bd4a512acece895cf02" >}} 555.7 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-af8de522ba1d4bd4a512acece895cf02" >}} aspose.total {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-af8de522ba1d4bd4a512acece895cf02" >}} 876 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-af8de522ba1d4bd4a512acece895cf02" >}} 9/22/2021 {{< /Common/li >}} 
+      {{< Common/li  >}} SHA1: {{< /Common/li >}} 
+      {{< Common/li id="sha1-update-af8de522ba1d4bd4a512acece895cf02" >}} 3aa4a296e7a0d17f8f240f12d8d6846c14988936: {{< /Common/li >}} 
+      {{< Common/li  >}} MD5: {{< /Common/li >}} 
+      {{< Common/li id="md5-update-af8de522ba1d4bd4a512acece895cf02" >}} ca58551ee202cf70f35db00b8e0b69d1: {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

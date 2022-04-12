@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Total-sertifi-requires-a-fast-and-scalable-soluti
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/sertifi-requires-a-fast-and-scalable-solution-that-integrates-with-our-existing-codebase-with-a-minimum-of-development/"
-folder_name:  " Sertifi requires a fast and scalable solution that integrates with our existing codebase with a minimum of development."
-download_link:  " /corporate/success-stories/aspose.total/sertifi-requires-a-fast-and-scalable-solution-that-integrates-with-our-existing-codebase-with-a-minimum-of-development/94287277534342448af16fd39e52254d"
-download_text:  " Download"
-intro_text:  " Sertifi is a Software as a Service provider of electronic signature solutions. W..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 60  Views: 1425"
-file_size:  "  File Size: 680.5 KB "
+folder_link: " corporate/success-stories/aspose.total/sertifi-requires-a-fast-and-scalable-solution-that-integrates-with-our-existing-codebase-with-a-minimum-of-development/"
+folder_name: " Sertifi requires a fast and scalable solution that integrates with our existing codebase with a minimum of development."
+download_link: " /corporate/success-stories/aspose.total/sertifi-requires-a-fast-and-scalable-solution-that-integrates-with-our-existing-codebase-with-a-minimum-of-development/94287277534342448af16fd39e52254d"
+download_text: " Download"
+Intro_text: " Sertifi is a Software as a Service provider of electronic signature solutions. W..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 60  Views: 1425"
+file_size: "  File Size: 680.5 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 48 
@@ -25,7 +25,15 @@ weight: 48
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>60</li><li>File Size:</li><li>680.5 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>1425</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-94287277534342448af16fd39e52254d" >}} 60 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-94287277534342448af16fd39e52254d" >}} 680.5 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-94287277534342448af16fd39e52254d" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-94287277534342448af16fd39e52254d" >}} 1425 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

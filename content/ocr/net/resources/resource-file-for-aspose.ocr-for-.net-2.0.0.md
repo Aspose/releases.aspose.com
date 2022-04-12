@@ -3,15 +3,16 @@ title:  "  Downloads ---Resources-resource-file-for-aspose.ocr-for-.net-2.0.0 . 
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " ocr/net/resources/resource-file-for-aspose.ocr-for-.net-2.0.0/"
-folder_name:  " Resource file for Aspose.OCR for .NET 2.0.0"
-download_link:  " /ocr/net/resources/resource-file-for-aspose.ocr-for-.net-2.0.0/3d5c658df4bf413aa8cd1fab779f8edf"
-download_text:  " Download"
-intro_text:  " Aspose.OCR for .NET uses a resource file to perform OCR operations against the i..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   6/23/2014  Downloads: 1057  Views: 1332"
-file_size:  "  File Size: 5.3 MB "
+folder_link: " ocr/net/resources/resource-file-for-aspose.ocr-for-.net-2.0.0/"
+folder_name: " Resource file for Aspose.OCR for .NET 2.0.0"
+download_link: " /ocr/net/resources/resource-file-for-aspose.ocr-for-.net-2.0.0/3d5c658df4bf413aa8cd1fab779f8edf"
+download_text: " Download"
+Intro_text: " Aspose.OCR for .NET uses a resource file to perform OCR operations against the i..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   6/23/2014  Downloads: 1057  Views: 1336"
+file_size: "  File Size: 5.3 MB "
 parent_path: "ocr/net/resources/"
+section_parent_path: "ocr/net/resources"
 weight: 7 
 ---
 
@@ -24,7 +25,17 @@ weight: 7
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>1057</li><li>File Size:</li><li>5.3 MB</li><li>Posted By:</li><li>egor.kluban</li><li>Views:</li><li>1333</li><li>Date Added:</li><li>6/23/2014</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-3d5c658df4bf413aa8cd1fab779f8edf" >}} 1057 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-3d5c658df4bf413aa8cd1fab779f8edf" >}} 5.3 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-3d5c658df4bf413aa8cd1fab779f8edf" >}} egor.kluban {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-3d5c658df4bf413aa8cd1fab779f8edf" >}} 1337 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-3d5c658df4bf413aa8cd1fab779f8edf" >}} 6/23/2014 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.font-for-.net-21.12-(dlls-only) . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " font/net/new-releases/aspose.font-for-.net-21.12-(dlls-only)/"
-folder_name:  " Aspose.Font for .NET 21.12 (DLLs only)"
-download_link:  " /font/net/new-releases/aspose.font-for-.net-21.12-(dlls-only)/fee70ba788554ad99a60464a0fdb637e"
-download_text:  " Download"
-intro_text:  " This ZIP file contains only the Aspose.Font for .NET assemblies. The assemblies ..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   12/1/2021  Downloads: 18  Views: 40"
-file_size:  "  File Size: 3.0 MB "
+folder_link: " font/net/new-releases/aspose.font-for-.net-21.12-(dlls-only)/"
+folder_name: " Aspose.Font for .NET 21.12 (DLLs only)"
+download_link: " /font/net/new-releases/aspose.font-for-.net-21.12-(dlls-only)/fee70ba788554ad99a60464a0fdb637e"
+download_text: " Download"
+Intro_text: " This ZIP file contains only the Aspose.Font for .NET assemblies. The assemblies ..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   12/1/2021  Downloads: 18  Views: 42"
+file_size: "  File Size: 3.0 MB "
 parent_path: "font/net"
+section_parent_path: "font/net"
 weight: 2 
 ---
 
@@ -24,7 +25,17 @@ weight: 2
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>18</li><li>File Size:</li><li>3.0 MB</li><li>Posted By:</li><li>pavel.loginov</li><li>Views:</li><li>41</li><li>Date Added:</li><li>12/1/2021</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-fee70ba788554ad99a60464a0fdb637e" >}} 18 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-fee70ba788554ad99a60464a0fdb637e" >}} 3.0 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-fee70ba788554ad99a60464a0fdb637e" >}} pavel.loginov {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-fee70ba788554ad99a60464a0fdb637e" >}} 43 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-fee70ba788554ad99a60464a0fdb637e" >}} 12/1/2021 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-16.2.0 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-16.2.0/"
-folder_name:  " Aspose.Words for .NET 16.2.0"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-16.2.0/acff536e68ac478eba6fba418b670b38"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Words for .NET 16.2.0 release."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   3/22/2016  Downloads: 71  Views: 520"
-file_size:  "  File Size: 42.2 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-16.2.0/"
+folder_name: " Aspose.Words for .NET 16.2.0"
+download_link: " /words/net/new-releases/aspose.words-for-.net-16.2.0/acff536e68ac478eba6fba418b670b38"
+download_text: " Download"
+Intro_text: " It contains Aspose.Words for .NET 16.2.0 release."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   3/22/2016  Downloads: 71  Views: 521"
+file_size: "  File Size: 42.2 MB "
 parent_path: "words/net"
-weight: 19 
+section_parent_path: "words/net"
+weight: 156 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 19
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>71</li><li>File Size:</li><li>42.2 MB</li><li>Posted By:</li><li>faizanbaig</li><li>Views:</li><li>521</li><li>Date Added:</li><li>3/22/2016</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-acff536e68ac478eba6fba418b670b38" >}} 71 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-acff536e68ac478eba6fba418b670b38" >}} 42.2 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-acff536e68ac478eba6fba418b670b38" >}} faizanbaig {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-acff536e68ac478eba6fba418b670b38" >}} 522 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-acff536e68ac478eba6fba418b670b38" >}} 3/22/2016 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

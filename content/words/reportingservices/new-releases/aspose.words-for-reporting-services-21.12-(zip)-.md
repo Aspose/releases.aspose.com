@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.words-for-reporting-services-21.12-(
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/reportingservices/new-releases/aspose.words-for-reporting-services-21.12-(zip)-/"
-folder_name:  " Aspose.Words for Reporting Services 21.12 (Zip) "
-download_link:  " /words/reportingservices/new-releases/aspose.words-for-reporting-services-21.12-(zip)-/1a94d4815d5c461d98495660b8ec7700"
-download_text:  " Download"
-intro_text:  " Upgrade to the latest version of Aspose.Words for Net (21.12). Bug fixes."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   12/8/2021  Downloads: 5  Views: 27"
-file_size:  "  File Size: 64.8 MB "
+folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-services-21.12-(zip)-/"
+folder_name: " Aspose.Words for Reporting Services 21.12 (Zip) "
+download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-21.12-(zip)-/1a94d4815d5c461d98495660b8ec7700"
+download_text: " Download"
+Intro_text: " Upgrade to the latest version of Aspose.Words for Net (21.12). Bug fixes."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   12/8/2021  Downloads: 5  Views: 30"
+file_size: "  File Size: 64.8 MB "
 parent_path: "words/reportingservices"
+section_parent_path: "words/reportingservices"
 weight: 3 
 ---
 
@@ -24,7 +25,17 @@ weight: 3
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>5</li><li>File Size:</li><li>64.8 MB</li><li>Posted By:</li><li>dmitry.sokolov</li><li>Views:</li><li>28</li><li>Date Added:</li><li>12/8/2021</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-1a94d4815d5c461d98495660b8ec7700" >}} 5 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-1a94d4815d5c461d98495660b8ec7700" >}} 64.8 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-1a94d4815d5c461d98495660b8ec7700" >}} dmitry.sokolov {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-1a94d4815d5c461d98495660b8ec7700" >}} 31 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-1a94d4815d5c461d98495660b8ec7700" >}} 12/8/2021 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-reporting-services-3.6.0 .
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/reportingservices/new-releases/aspose.words-for-reporting-services-3.6.0/"
-folder_name:  " Aspose.Words for Reporting Services 3.6.0"
-download_link:  " /words/reportingservices/new-releases/aspose.words-for-reporting-services-3.6.0/51de315dfb7e4fedb41c920f29e62f3e"
-download_text:  " Download"
-intro_text:  " Please welcome a new release of Aspose.Words for 
+folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-services-3.6.0/"
+folder_name: " Aspose.Words for Reporting Services 3.6.0"
+download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-3.6.0/51de315dfb7e4fedb41c920f29e62f3e"
+download_text: " Download"
+Intro_text: " Please welcome a new release of Aspose.Words for 
 Reporting Services. This rele..."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   6/9/2012  Downloads: 81  Views: 420"
-file_size:  "  File Size: 11.2 MB "
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   6/9/2012  Downloads: 81  Views: 425"
+file_size: "  File Size: 11.2 MB "
 parent_path: "words/reportingservices"
+section_parent_path: "words/reportingservices"
 weight: 87 
 ---
 
@@ -25,7 +26,17 @@ weight: 87
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>81</li><li>File Size:</li><li>11.2 MB</li><li>Posted By:</li><li>buddylancer</li><li>Views:</li><li>421</li><li>Date Added:</li><li>6/9/2012</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-51de315dfb7e4fedb41c920f29e62f3e" >}} 81 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-51de315dfb7e4fedb41c920f29e62f3e" >}} 11.2 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-51de315dfb7e4fedb41c920f29e62f3e" >}} buddylancer {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-51de315dfb7e4fedb41c920f29e62f3e" >}} 426 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-51de315dfb7e4fedb41c920f29e62f3e" >}} 6/9/2012 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

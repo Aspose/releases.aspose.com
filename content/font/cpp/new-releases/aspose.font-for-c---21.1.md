@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.font-for-c++-21.1 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " font/cpp/new-releases/aspose.font-for-c---21.1/"
-folder_name:  " Aspose.Font for C++ 21.1"
-download_link:  " /font/cpp/new-releases/aspose.font-for-c---21.1/076cae29830d4da3b28554a042d3e8df"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Font for C++ 21.1 release."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   1/23/2021  Downloads: 2  Views: 12"
-file_size:  "  File Size: 107.1 MB "
+folder_link: " font/cpp/new-releases/aspose.font-for-c---21.1/"
+folder_name: " Aspose.Font for C++ 21.1"
+download_link: " /font/cpp/new-releases/aspose.font-for-c---21.1/076cae29830d4da3b28554a042d3e8df"
+download_text: " Download"
+Intro_text: " It contains Aspose.Font for C++ 21.1 release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   1/23/2021  Downloads: 2  Views: 13"
+file_size: "  File Size: 107.1 MB "
 parent_path: "font/cpp"
-weight: 8 
+section_parent_path: "font/cpp"
+weight: 35 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 8
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>2</li><li>File Size:</li><li>107.1 MB</li><li>Posted By:</li><li>Andrey.Malokhovetskiy</li><li>Views:</li><li>13</li><li>Date Added:</li><li>1/23/2021</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-076cae29830d4da3b28554a042d3e8df" >}} 2 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-076cae29830d4da3b28554a042d3e8df" >}} 107.1 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-076cae29830d4da3b28554a042d3e8df" >}} Andrey.Malokhovetskiy {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-076cae29830d4da3b28554a042d3e8df" >}} 14 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-076cae29830d4da3b28554a042d3e8df" >}} 1/23/2021 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

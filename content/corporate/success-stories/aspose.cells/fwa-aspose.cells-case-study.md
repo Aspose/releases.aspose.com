@@ -3,15 +3,15 @@ title:  "  Downloads ---Aspose.Cells-fwa-aspose.cells-case-study . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.cells/fwa-aspose.cells-case-study/"
-folder_name:  " FWA Aspose.Cells Case Study"
-download_link:  " /corporate/success-stories/aspose.cells/fwa-aspose.cells-case-study/6061a553b3a64a8fb59f8c99aa3c179c"
-download_text:  " Download"
-intro_text:  " Case Study submitted by FWA Developers, France. They are happy with how Aspose.C..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 57  Views: 417"
-file_size:  "  File Size: 187.8 KB "
-parent_path: "corporate/success-stories/aspose.cells"                                                          
+folder_link: " corporate/success-stories/aspose.cells/fwa-aspose.cells-case-study/"
+folder_name: " FWA Aspose.Cells Case Study"
+download_link: " /corporate/success-stories/aspose.cells/fwa-aspose.cells-case-study/6061a553b3a64a8fb59f8c99aa3c179c"
+download_text: " Download"
+Intro_text: " Case Study submitted by FWA Developers, France. They are happy with how Aspose.C..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 57  Views: 418"
+file_size: "  File Size: 187.8 KB "
+parent_path: "corporate/success-stories/aspose.cells"
 section_parent_path: "corporate/success-stories"
 weight: 27 
 ---
@@ -25,7 +25,15 @@ weight: 27
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>57</li><li>File Size:</li><li>187.8 KB</li><li>Posted By:</li><li>Shahzad.Ashraf</li><li>Views:</li><li>418</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-6061a553b3a64a8fb59f8c99aa3c179c" >}} 57 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-6061a553b3a64a8fb59f8c99aa3c179c" >}} 187.8 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-6061a553b3a64a8fb59f8c99aa3c179c" >}} Shahzad.Ashraf {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-6061a553b3a64a8fb59f8c99aa3c179c" >}} 419 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

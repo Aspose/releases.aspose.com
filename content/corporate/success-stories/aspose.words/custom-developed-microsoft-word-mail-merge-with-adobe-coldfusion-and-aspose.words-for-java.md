@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-custom-developed-microsoft-word-mail-merge-
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/custom-developed-microsoft-word-mail-merge-with-adobe-coldfusion-and-aspose.words-for-java/"
-folder_name:  " Custom developed Microsoft Word mail-merge with Adobe ColdFusion and Aspose.Words for Java"
-download_link:  " /corporate/success-stories/aspose.words/custom-developed-microsoft-word-mail-merge-with-adobe-coldfusion-and-aspose.words-for-java/e5bdf294eb284f0296ab678d4bf90118"
-download_text:  " Download"
-intro_text:  " While searching for newer, better, faster, more efficient solutions to offer our..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 261  Views: 155"
-file_size:  "  File Size: 197.9 KB "
+folder_link: " corporate/success-stories/aspose.words/custom-developed-microsoft-word-mail-merge-with-adobe-coldfusion-and-aspose.words-for-java/"
+folder_name: " Custom developed Microsoft Word mail-merge with Adobe ColdFusion and Aspose.Words for Java"
+download_link: " /corporate/success-stories/aspose.words/custom-developed-microsoft-word-mail-merge-with-adobe-coldfusion-and-aspose.words-for-java/e5bdf294eb284f0296ab678d4bf90118"
+download_text: " Download"
+Intro_text: " While searching for newer, better, faster, more efficient solutions to offer our..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 287  Views: 162"
+file_size: "  File Size: 197.9 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 1 
+weight: 2 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 1
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>261</li><li>File Size:</li><li>197.9 KB</li><li>Posted By:</li><li>sabrina.tran1</li><li>Views:</li><li>156</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-e5bdf294eb284f0296ab678d4bf90118" >}} 287 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-e5bdf294eb284f0296ab678d4bf90118" >}} 197.9 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-e5bdf294eb284f0296ab678d4bf90118" >}} sabrina.tran1 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-e5bdf294eb284f0296ab678d4bf90118" >}} 163 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

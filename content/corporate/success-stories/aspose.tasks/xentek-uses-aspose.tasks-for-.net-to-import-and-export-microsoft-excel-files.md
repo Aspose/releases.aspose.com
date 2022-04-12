@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Tasks-xentek-uses-aspose.tasks-for-.net-to-import
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.tasks/xentek-uses-aspose.tasks-for-.net-to-import-and-export-microsoft-excel-files/"
-folder_name:  " XenTek uses Aspose.Tasks for .NET to import and export Microsoft Excel files"
-download_link:  " /corporate/success-stories/aspose.tasks/xentek-uses-aspose.tasks-for-.net-to-import-and-export-microsoft-excel-files/304a59cb859c4440add093c95c37f522"
-download_text:  " Download"
-intro_text:  " XenTek is a software house who developer Plan Runner, a project management tool...."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 330  Views: 1707"
-file_size:  "  File Size: 368.9 KB "
+folder_link: " corporate/success-stories/aspose.tasks/xentek-uses-aspose.tasks-for-.net-to-import-and-export-microsoft-excel-files/"
+folder_name: " XenTek uses Aspose.Tasks for .NET to import and export Microsoft Excel files"
+download_link: " /corporate/success-stories/aspose.tasks/xentek-uses-aspose.tasks-for-.net-to-import-and-export-microsoft-excel-files/304a59cb859c4440add093c95c37f522"
+download_text: " Download"
+Intro_text: " XenTek is a software house who developer Plan Runner, a project management tool...."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 333  Views: 1714"
+file_size: "  File Size: 368.9 KB "
 parent_path: "corporate/success-stories/aspose.tasks"
 section_parent_path: "corporate/success-stories"
 weight: 2 
@@ -25,7 +25,15 @@ weight: 2
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>330</li><li>File Size:</li><li>368.9 KB</li><li>Posted By:</li><li>caroline.von.schmalensee</li><li>Views:</li><li>1708</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-304a59cb859c4440add093c95c37f522" >}} 333 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-304a59cb859c4440add093c95c37f522" >}} 368.9 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-304a59cb859c4440add093c95c37f522" >}} caroline.von.schmalensee {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-304a59cb859c4440add093c95c37f522" >}} 1715 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

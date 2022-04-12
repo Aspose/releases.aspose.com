@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Total-using-aspose.total-for-.net-framework-to-au
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/using-aspose.total-for-.net-framework-to-automatically-generate-documents-from-data-driven-workflows/"
-folder_name:  " Using Aspose.Total for .NET Framework to automatically generate documents from data driven workflows"
-download_link:  " /corporate/success-stories/aspose.total/using-aspose.total-for-.net-framework-to-automatically-generate-documents-from-data-driven-workflows/93d987f5a55a4d738f951731ae13f2c2"
-download_text:  " Download"
-intro_text:  " During its pilot testing, Dynecon was able to leverage Aspose libraries to sea..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 152  Views: 395"
-file_size:  "  File Size: 715.2 KB "
+folder_link: " corporate/success-stories/aspose.total/using-aspose.total-for-.net-framework-to-automatically-generate-documents-from-data-driven-workflows/"
+folder_name: " Using Aspose.Total for .NET Framework to automatically generate documents from data driven workflows"
+download_link: " /corporate/success-stories/aspose.total/using-aspose.total-for-.net-framework-to-automatically-generate-documents-from-data-driven-workflows/93d987f5a55a4d738f951731ae13f2c2"
+download_text: " Download"
+Intro_text: " During its pilot testing, Dynecon was able to leverage Aspose libraries to sea..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 154  Views: 398"
+file_size: "  File Size: 715.2 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 6 
@@ -25,7 +25,19 @@ weight: 6
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>152</li><li>File Size:</li><li>715.2 KB</li><li>Posted By:</li><li>sabrina.tran1</li><li>Views:</li><li>396</li><li>SHA1:</li><li>aff723f2c0398ed18e08f997b4b258bd12c437d1</li><li>MD5:</li><li>8f41ad8b575d30333cf402b8e56a87e6</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-93d987f5a55a4d738f951731ae13f2c2" >}} 154 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-93d987f5a55a4d738f951731ae13f2c2" >}} 715.2 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-93d987f5a55a4d738f951731ae13f2c2" >}} sabrina.tran1 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-93d987f5a55a4d738f951731ae13f2c2" >}} 399 {{< /Common/li >}} 
+      {{< Common/li  >}} SHA1: {{< /Common/li >}} 
+      {{< Common/li id="sha1-update-93d987f5a55a4d738f951731ae13f2c2" >}} aff723f2c0398ed18e08f997b4b258bd12c437d1: {{< /Common/li >}} 
+      {{< Common/li  >}} MD5: {{< /Common/li >}} 
+      {{< Common/li id="md5-update-93d987f5a55a4d738f951731ae13f2c2" >}} 8f41ad8b575d30333cf402b8e56a87e6: {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

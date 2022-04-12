@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Pdf-crewbridge-uses-aspose.pdf-to-facilitate-the-
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.pdf/crewbridge-uses-aspose.pdf-to-facilitate-the-upload,-generation-and-export-of-hiring-forms/"
-folder_name:  " CrewBridge uses Aspose.PDF to facilitate the upload, generation and export of hiring forms"
-download_link:  " /corporate/success-stories/aspose.pdf/crewbridge-uses-aspose.pdf-to-facilitate-the-upload,-generation-and-export-of-hiring-forms/57f6fd3e1c21469bad1283482f661ba5"
-download_text:  " Download"
-intro_text:  " CrewBridge build software to make the onboarding of the freelance workforce of f..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 227  Views: 607"
-file_size:  "  File Size: 311.3 KB "
+folder_link: " corporate/success-stories/aspose.pdf/crewbridge-uses-aspose.pdf-to-facilitate-the-upload,-generation-and-export-of-hiring-forms/"
+folder_name: " CrewBridge uses Aspose.PDF to facilitate the upload, generation and export of hiring forms"
+download_link: " /corporate/success-stories/aspose.pdf/crewbridge-uses-aspose.pdf-to-facilitate-the-upload,-generation-and-export-of-hiring-forms/57f6fd3e1c21469bad1283482f661ba5"
+download_text: " Download"
+Intro_text: " CrewBridge build software to make the onboarding of the freelance workforce of f..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 227  Views: 611"
+file_size: "  File Size: 311.3 KB "
 parent_path: "corporate/success-stories/aspose.pdf"
 section_parent_path: "corporate/success-stories"
 weight: 8 
@@ -25,7 +25,15 @@ weight: 8
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>227</li><li>File Size:</li><li>311.3 KB</li><li>Posted By:</li><li>sabrina.tran</li><li>Views:</li><li>608</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-57f6fd3e1c21469bad1283482f661ba5" >}} 227 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-57f6fd3e1c21469bad1283482f661ba5" >}} 311.3 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-57f6fd3e1c21469bad1283482f661ba5" >}} sabrina.tran {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-57f6fd3e1c21469bad1283482f661ba5" >}} 612 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

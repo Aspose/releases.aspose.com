@@ -3,19 +3,20 @@ title:  "  Downloads ---New-Releases-aspose.words-.net-4.2.2.0-hot-fix . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-.net-4.2.2.0-hot-fix/"
-folder_name:  " Aspose.Words .Net 4.2.2.0 Hot Fix"
-download_link:  " /words/net/new-releases/aspose.words-.net-4.2.2.0-hot-fix/11ac0c3029774a9f8e6b803bcbcc011a"
-download_text:  " Download"
-intro_text:  " This is a maintenance release. Here is what's been fixed:
+folder_link: " words/net/new-releases/aspose.words-.net-4.2.2.0-hot-fix/"
+folder_name: " Aspose.Words .Net 4.2.2.0 Hot Fix"
+download_link: " /words/net/new-releases/aspose.words-.net-4.2.2.0-hot-fix/11ac0c3029774a9f8e6b803bcbcc011a"
+download_text: " Download"
+Intro_text: " This is a maintenance release. Here is what's been fixed:
 RTF
 
 Duplicate erro..."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   7/25/2007  Downloads: 17  Views: 643"
-file_size:  "  File Size: 12.5 MB "
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   7/25/2007  Downloads: 17  Views: 648"
+file_size: "  File Size: 12.5 MB "
 parent_path: "words/net"
-weight: 38 
+section_parent_path: "words/net"
+weight: 355 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -27,7 +28,17 @@ weight: 38
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>17</li><li>File Size:</li><li>12.5 MB</li><li>Posted By:</li><li>ShL77</li><li>Views:</li><li>644</li><li>Date Added:</li><li>7/25/2007</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-11ac0c3029774a9f8e6b803bcbcc011a" >}} 17 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-11ac0c3029774a9f8e6b803bcbcc011a" >}} 12.5 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-11ac0c3029774a9f8e6b803bcbcc011a" >}} ShL77 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-11ac0c3029774a9f8e6b803bcbcc011a" >}} 649 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-11ac0c3029774a9f8e6b803bcbcc011a" >}} 7/25/2007 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

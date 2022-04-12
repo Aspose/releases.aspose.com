@@ -3,15 +3,16 @@ title:  "  Downloads ---Resources-portuguese-language-resource-file-for-aspose.o
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " ocr/net/resources/portuguese-language-resource-file-for-aspose.ocr-for-.net-3.2.0/"
-folder_name:  " Portuguese language resource file for Aspose.OCR for .NET 3.2.0"
-download_link:  " /ocr/net/resources/portuguese-language-resource-file-for-aspose.ocr-for-.net-3.2.0/da4131985aa248149c01c43fe4098a04"
-download_text:  " Download"
-intro_text:  " Aspose.OCR for .NET uses resource files for different languages to perform OCR o..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   12/29/2015  Downloads: 137  Views: 735"
-file_size:  "  File Size: 5.0 MB "
+folder_link: " ocr/net/resources/portuguese-language-resource-file-for-aspose.ocr-for-.net-3.2.0/"
+folder_name: " Portuguese language resource file for Aspose.OCR for .NET 3.2.0"
+download_link: " /ocr/net/resources/portuguese-language-resource-file-for-aspose.ocr-for-.net-3.2.0/da4131985aa248149c01c43fe4098a04"
+download_text: " Download"
+Intro_text: " Aspose.OCR for .NET uses resource files for different languages to perform OCR o..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   12/29/2015  Downloads: 137  Views: 737"
+file_size: "  File Size: 5.0 MB "
 parent_path: "ocr/net/resources/"
+section_parent_path: "ocr/net/resources"
 weight: 1 
 ---
 
@@ -24,7 +25,17 @@ weight: 1
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>137</li><li>File Size:</li><li>5.0 MB</li><li>Posted By:</li><li>evgeniy.koryagin</li><li>Views:</li><li>736</li><li>Date Added:</li><li>12/29/2015</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-da4131985aa248149c01c43fe4098a04" >}} 137 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-da4131985aa248149c01c43fe4098a04" >}} 5.0 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-da4131985aa248149c01c43fe4098a04" >}} evgeniy.koryagin {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-da4131985aa248149c01c43fe4098a04" >}} 738 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-da4131985aa248149c01c43fe4098a04" >}} 12/29/2015 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

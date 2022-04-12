@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Total-qualetech-used-aspose.total-to-create-previ
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/qualetech-used-aspose.total-to-create-previews-and-extract-text-in-visiodoc.-/"
-folder_name:  " Qualetech used Aspose.Total to create previews and extract text in Visiodoc. "
-download_link:  " /corporate/success-stories/aspose.total/qualetech-used-aspose.total-to-create-previews-and-extract-text-in-visiodoc.-/fee14b9556444f55a1236e088b525997"
-download_text:  " Download"
-intro_text:  " Qualetech we needed a library that can reliably Preview and Extract the text of ..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 113  Views: 284"
-file_size:  "  File Size: 476.3 KB "
+folder_link: " corporate/success-stories/aspose.total/qualetech-used-aspose.total-to-create-previews-and-extract-text-in-visiodoc.-/"
+folder_name: " Qualetech used Aspose.Total to create previews and extract text in Visiodoc. "
+download_link: " /corporate/success-stories/aspose.total/qualetech-used-aspose.total-to-create-previews-and-extract-text-in-visiodoc.-/fee14b9556444f55a1236e088b525997"
+download_text: " Download"
+Intro_text: " Qualetech we needed a library that can reliably Preview and Extract the text of ..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 115  Views: 288"
+file_size: "  File Size: 476.3 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 7 
@@ -25,7 +25,15 @@ weight: 7
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>113</li><li>File Size:</li><li>476.3 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>285</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-fee14b9556444f55a1236e088b525997" >}} 115 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-fee14b9556444f55a1236e088b525997" >}} 476.3 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-fee14b9556444f55a1236e088b525997" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-fee14b9556444f55a1236e088b525997" >}} 289 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

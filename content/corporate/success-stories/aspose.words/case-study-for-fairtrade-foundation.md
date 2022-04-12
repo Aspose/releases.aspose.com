@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-case-study-for-fairtrade-foundation . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/case-study-for-fairtrade-foundation/"
-folder_name:  " Case Study for Fairtrade Foundation"
-download_link:  " /corporate/success-stories/aspose.words/case-study-for-fairtrade-foundation/8a41e845a8a1432d983ea74e71e315aa"
-download_text:  " Download"
-intro_text:  " The Fairtrade Foundation used Aspose.Words for .NET to bind its information to t..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 59  Views: 370"
-file_size:  "  File Size: 107.7 KB "
+folder_link: " corporate/success-stories/aspose.words/case-study-for-fairtrade-foundation/"
+folder_name: " Case Study for Fairtrade Foundation"
+download_link: " /corporate/success-stories/aspose.words/case-study-for-fairtrade-foundation/8a41e845a8a1432d983ea74e71e315aa"
+download_text: " Download"
+Intro_text: " The Fairtrade Foundation used Aspose.Words for .NET to bind its information to t..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 60  Views: 372"
+file_size: "  File Size: 107.7 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 62 
+weight: 63 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 62
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>59</li><li>File Size:</li><li>107.7 KB</li><li>Posted By:</li><li>Merit</li><li>Views:</li><li>371</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-8a41e845a8a1432d983ea74e71e315aa" >}} 60 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-8a41e845a8a1432d983ea74e71e315aa" >}} 107.7 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-8a41e845a8a1432d983ea74e71e315aa" >}} Merit {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-8a41e845a8a1432d983ea74e71e315aa" >}} 373 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

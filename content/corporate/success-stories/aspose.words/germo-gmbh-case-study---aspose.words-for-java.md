@@ -3,18 +3,18 @@ title:  "  Downloads ---Aspose.Words-germo-gmbh-case-study---aspose.words-for-ja
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/germo-gmbh-case-study---aspose.words-for-java/"
-folder_name:  " Germo GmbH Case Study - Aspose.Words for Java"
-download_link:  " /corporate/success-stories/aspose.words/germo-gmbh-case-study---aspose.words-for-java/2280faeb9e4948f3ad5285757966c559"
-download_text:  " Download"
-intro_text:  " 
+folder_link: " corporate/success-stories/aspose.words/germo-gmbh-case-study---aspose.words-for-java/"
+folder_name: " Germo GmbH Case Study - Aspose.Words for Java"
+download_link: " /corporate/success-stories/aspose.words/germo-gmbh-case-study---aspose.words-for-java/2280faeb9e4948f3ad5285757966c559"
+download_text: " Download"
+Intro_text: " 
 GERMO GmbH used Aspose.Words for Java to extract textual content from their cu..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 306  Views: 476"
-file_size:  "  File Size: 227.1 KB "
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 306  Views: 477"
+file_size: "  File Size: 227.1 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 67 
+weight: 68 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -26,7 +26,15 @@ weight: 67
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>306</li><li>File Size:</li><li>227.1 KB</li><li>Posted By:</li><li>Merit</li><li>Views:</li><li>477</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-2280faeb9e4948f3ad5285757966c559" >}} 306 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-2280faeb9e4948f3ad5285757966c559" >}} 227.1 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-2280faeb9e4948f3ad5285757966c559" >}} Merit {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-2280faeb9e4948f3ad5285757966c559" >}} 478 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

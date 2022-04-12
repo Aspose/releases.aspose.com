@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.pdf-for-c++-22.1-linux . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " pdf/cpp/new-releases/aspose.pdf-for-c---22.1-linux/"
+folder_name: " Aspose.PDF for C++ 22.1 Linux"
+download_link: " /pdf/cpp/new-releases/aspose.pdf-for-c---22.1-linux/a5a5f888a6e441e0a5ad2a78b0a0d50b"
+download_text: " Download"
+Intro_text: " Linux version"
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   1/20/2022  Downloads: 22  Views: 32"
+file_size: "  File Size: 86.4 MB "
+parent_path: "pdf/cpp"
+section_parent_path: "pdf/cpp"
+weight: 5 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.PDF for C++ 22.1 Linux" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/pdf/cpp/new-releases/aspose.pdf-for-c---22.1-linux/a5a5f888a6e441e0a5ad2a78b0a0d50b%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-a5a5f888a6e441e0a5ad2a78b0a0d50b" >}} 22 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-a5a5f888a6e441e0a5ad2a78b0a0d50b" >}} 86.4 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-a5a5f888a6e441e0a5ad2a78b0a0d50b" >}} alexander.malokhovetskiy {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-a5a5f888a6e441e0a5ad2a78b0a0d50b" >}} 33 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-a5a5f888a6e441e0a5ad2a78b0a0d50b" >}} 1/20/2022 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-22-1-release-notes/">https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-22-1-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Linux version</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-20.5 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-20.5/"
-folder_name:  " Aspose.Words for .NET 20.5"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-20.5/c7a66ae2ef214bdb951f69777a1243f2"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Words for .NET 20.5 release."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   5/4/2020  Downloads: 117  Views: 385"
-file_size:  "  File Size: 72.8 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-20.5/"
+folder_name: " Aspose.Words for .NET 20.5"
+download_link: " /words/net/new-releases/aspose.words-for-.net-20.5/c7a66ae2ef214bdb951f69777a1243f2"
+download_text: " Download"
+Intro_text: " It contains Aspose.Words for .NET 20.5 release."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   5/4/2020  Downloads: 118  Views: 388"
+file_size: "  File Size: 72.8 MB "
 parent_path: "words/net"
-weight: 9 
+section_parent_path: "words/net"
+weight: 56 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 9
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>117</li><li>File Size:</li><li>72.8 MB</li><li>Posted By:</li><li>AndreyN</li><li>Views:</li><li>386</li><li>Date Added:</li><li>5/4/2020</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-c7a66ae2ef214bdb951f69777a1243f2" >}} 118 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-c7a66ae2ef214bdb951f69777a1243f2" >}} 72.8 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-c7a66ae2ef214bdb951f69777a1243f2" >}} AndreyN {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-c7a66ae2ef214bdb951f69777a1243f2" >}} 389 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-c7a66ae2ef214bdb951f69777a1243f2" >}} 5/4/2020 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

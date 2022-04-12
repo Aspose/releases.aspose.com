@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Total-nowhow-solutions-ag-uses-aspose.total-for-t
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/nowhow-solutions-ag-uses-aspose.total-for-the-generation-of-word-and-pdf-documents/"
-folder_name:  " nowhow solutions AG uses Aspose.Total for the generation of Word and PDF documents"
-download_link:  " /corporate/success-stories/aspose.total/nowhow-solutions-ag-uses-aspose.total-for-the-generation-of-word-and-pdf-documents/307b649614964c32ae257cabbb52ee90"
-download_text:  " Download"
-intro_text:  " The DOCO project require the solutions to be capable of gathering raw data from ..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 292  Views: 658"
-file_size:  "  File Size: 414.1 KB "
+folder_link: " corporate/success-stories/aspose.total/nowhow-solutions-ag-uses-aspose.total-for-the-generation-of-word-and-pdf-documents/"
+folder_name: " nowhow solutions AG uses Aspose.Total for the generation of Word and PDF documents"
+download_link: " /corporate/success-stories/aspose.total/nowhow-solutions-ag-uses-aspose.total-for-the-generation-of-word-and-pdf-documents/307b649614964c32ae257cabbb52ee90"
+download_text: " Download"
+Intro_text: " The DOCO project require the solutions to be capable of gathering raw data from ..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 293  Views: 662"
+file_size: "  File Size: 414.1 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 10 
@@ -25,7 +25,15 @@ weight: 10
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>292</li><li>File Size:</li><li>414.1 KB</li><li>Posted By:</li><li>simon.bell</li><li>Views:</li><li>659</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-307b649614964c32ae257cabbb52ee90" >}} 293 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-307b649614964c32ae257cabbb52ee90" >}} 414.1 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-307b649614964c32ae257cabbb52ee90" >}} simon.bell {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-307b649614964c32ae257cabbb52ee90" >}} 663 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

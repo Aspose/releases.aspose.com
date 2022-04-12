@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.font-for-.net-20.10-(dlls-only) . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " font/net/new-releases/aspose.font-for-.net-20.10-(dlls-only)/"
-folder_name:  " Aspose.Font for .NET 20.10 (DLLs only)"
-download_link:  " /font/net/new-releases/aspose.font-for-.net-20.10-(dlls-only)/9ccdc0403f6e489e9c2fc38967e68b3b"
-download_text:  " Download"
-intro_text:  " This ZIP file contains only the Aspose.Font for .NET assemblies. The assemblies ..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   10/15/2020  Downloads: 12  Views: 65"
-file_size:  "  File Size: 2.0 MB "
+folder_link: " font/net/new-releases/aspose.font-for-.net-20.10-(dlls-only)/"
+folder_name: " Aspose.Font for .NET 20.10 (DLLs only)"
+download_link: " /font/net/new-releases/aspose.font-for-.net-20.10-(dlls-only)/9ccdc0403f6e489e9c2fc38967e68b3b"
+download_text: " Download"
+Intro_text: " This ZIP file contains only the Aspose.Font for .NET assemblies. The assemblies ..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   10/15/2020  Downloads: 12  Views: 66"
+file_size: "  File Size: 2.0 MB "
 parent_path: "font/net"
+section_parent_path: "font/net"
 weight: 23 
 ---
 
@@ -24,7 +25,17 @@ weight: 23
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>12</li><li>File Size:</li><li>2.0 MB</li><li>Posted By:</li><li>andriy.kotlyarov</li><li>Views:</li><li>66</li><li>Date Added:</li><li>10/15/2020</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-9ccdc0403f6e489e9c2fc38967e68b3b" >}} 12 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-9ccdc0403f6e489e9c2fc38967e68b3b" >}} 2.0 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-9ccdc0403f6e489e9c2fc38967e68b3b" >}} andriy.kotlyarov {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-9ccdc0403f6e489e9c2fc38967e68b3b" >}} 67 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-9ccdc0403f6e489e9c2fc38967e68b3b" >}} 10/15/2020 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

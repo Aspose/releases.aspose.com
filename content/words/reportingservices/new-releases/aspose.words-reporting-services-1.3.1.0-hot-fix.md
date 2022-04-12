@@ -3,19 +3,20 @@ title:  "  Downloads ---New-Releases-aspose.words-reporting-services-1.3.1.0-hot
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/reportingservices/new-releases/aspose.words-reporting-services-1.3.1.0-hot-fix/"
-folder_name:  " Aspose.Words Reporting Services 1.3.1.0 Hot Fix"
-download_link:  " /words/reportingservices/new-releases/aspose.words-reporting-services-1.3.1.0-hot-fix/b1f862cb91f54b67b2d21efe80b4392f"
-download_text:  " Download"
-intro_text:  " This is a maintenance release.
+folder_link: " words/reportingservices/new-releases/aspose.words-reporting-services-1.3.1.0-hot-fix/"
+folder_name: " Aspose.Words Reporting Services 1.3.1.0 Hot Fix"
+download_link: " /words/reportingservices/new-releases/aspose.words-reporting-services-1.3.1.0-hot-fix/b1f862cb91f54b67b2d21efe80b4392f"
+download_text: " Download"
+Intro_text: " This is a maintenance release.
 What's new:
 
 3402 - Added the support for the ..."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   7/25/2007  Downloads: 45  Views: 297"
-file_size:  "  File Size: 5.3 MB "
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   7/25/2007  Downloads: 45  Views: 303"
+file_size: "  File Size: 5.3 MB "
 parent_path: "words/reportingservices"
-weight: 16 
+section_parent_path: "words/reportingservices"
+weight: 151 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -27,7 +28,17 @@ weight: 16
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>45</li><li>File Size:</li><li>5.3 MB</li><li>Posted By:</li><li>ShL77</li><li>Views:</li><li>298</li><li>Date Added:</li><li>7/25/2007</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-b1f862cb91f54b67b2d21efe80b4392f" >}} 45 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-b1f862cb91f54b67b2d21efe80b4392f" >}} 5.3 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-b1f862cb91f54b67b2d21efe80b4392f" >}} ShL77 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-b1f862cb91f54b67b2d21efe80b4392f" >}} 304 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-b1f862cb91f54b67b2d21efe80b4392f" >}} 7/25/2007 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.font-for-c++-21.2 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " font/cpp/new-releases/aspose.font-for-c---21.2/"
-folder_name:  " Aspose.Font for C++ 21.2"
-download_link:  " /font/cpp/new-releases/aspose.font-for-c---21.2/d19637570c2a457f95b07a17fd0c3de3"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Font for C++ 21.2 release."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   2/19/2021  Downloads: 0  Views: 4"
-file_size:  "  File Size: 107.2 MB "
+folder_link: " font/cpp/new-releases/aspose.font-for-c---21.2/"
+folder_name: " Aspose.Font for C++ 21.2"
+download_link: " /font/cpp/new-releases/aspose.font-for-c---21.2/d19637570c2a457f95b07a17fd0c3de3"
+download_text: " Download"
+Intro_text: " It contains Aspose.Font for C++ 21.2 release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   2/19/2021  Downloads: 0  Views: 5"
+file_size: "  File Size: 107.2 MB "
 parent_path: "font/cpp"
-weight: 6 
+section_parent_path: "font/cpp"
+weight: 33 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 6
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>0</li><li>File Size:</li><li>107.2 MB</li><li>Posted By:</li><li>Andrey.Malokhovetskiy</li><li>Views:</li><li>5</li><li>Date Added:</li><li>2/19/2021</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-d19637570c2a457f95b07a17fd0c3de3" >}} 0 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-d19637570c2a457f95b07a17fd0c3de3" >}} 107.2 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-d19637570c2a457f95b07a17fd0c3de3" >}} Andrey.Malokhovetskiy {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-d19637570c2a457f95b07a17fd0c3de3" >}} 6 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-d19637570c2a457f95b07a17fd0c3de3" >}} 2/19/2021 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

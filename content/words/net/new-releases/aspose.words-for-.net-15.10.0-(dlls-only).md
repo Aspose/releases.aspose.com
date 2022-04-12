@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-15.10.0-(dlls-only) .
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-15.10.0-(dlls-only)/"
-folder_name:  " Aspose.Words for .NET 15.10.0 (DLLs only)"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-15.10.0-(dlls-only)/d72cabdabfb742a782c5eecc1738b222"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Words for .NET 15.10.0 (DLLs only) release."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   11/5/2015  Downloads: 298  Views: 336"
-file_size:  "  File Size: 39.0 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-15.10.0-(dlls-only)/"
+folder_name: " Aspose.Words for .NET 15.10.0 (DLLs only)"
+download_link: " /words/net/new-releases/aspose.words-for-.net-15.10.0-(dlls-only)/d72cabdabfb742a782c5eecc1738b222"
+download_text: " Download"
+Intro_text: " It contains Aspose.Words for .NET 15.10.0 (DLLs only) release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   11/5/2015  Downloads: 298  Views: 337"
+file_size: "  File Size: 39.0 MB "
 parent_path: "words/net"
-weight: 19 
+section_parent_path: "words/net"
+weight: 165 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 19
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>298</li><li>File Size:</li><li>39.0 MB</li><li>Posted By:</li><li>romank</li><li>Views:</li><li>337</li><li>Date Added:</li><li>11/5/2015</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-d72cabdabfb742a782c5eecc1738b222" >}} 298 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-d72cabdabfb742a782c5eecc1738b222" >}} 39.0 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-d72cabdabfb742a782c5eecc1738b222" >}} romank {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-d72cabdabfb742a782c5eecc1738b222" >}} 338 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-d72cabdabfb742a782c5eecc1738b222" >}} 11/5/2015 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

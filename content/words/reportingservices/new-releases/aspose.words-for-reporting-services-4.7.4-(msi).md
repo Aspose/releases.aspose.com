@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.words-for-reporting-services-4.7.4-(
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/reportingservices/new-releases/aspose.words-for-reporting-services-4.7.4-(msi)/"
-folder_name:  " Aspose.Words for Reporting Services 4.7.4 (Msi)"
-download_link:  " /words/reportingservices/new-releases/aspose.words-for-reporting-services-4.7.4-(msi)/193f20fb962949a5b87010a996a4889a"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Words for Reporting Services 4.7.4 (Msi) release."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   3/29/2016  Downloads: 8  Views: 398"
-file_size:  "  File Size: 45.7 MB "
+folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-services-4.7.4-(msi)/"
+folder_name: " Aspose.Words for Reporting Services 4.7.4 (Msi)"
+download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-4.7.4-(msi)/193f20fb962949a5b87010a996a4889a"
+download_text: " Download"
+Intro_text: " It contains Aspose.Words for Reporting Services 4.7.4 (Msi) release."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   3/29/2016  Downloads: 8  Views: 404"
+file_size: "  File Size: 45.7 MB "
 parent_path: "words/reportingservices"
+section_parent_path: "words/reportingservices"
 weight: 63 
 ---
 
@@ -24,7 +25,17 @@ weight: 63
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>8</li><li>File Size:</li><li>45.7 MB</li><li>Posted By:</li><li>faizanbaig</li><li>Views:</li><li>399</li><li>Date Added:</li><li>3/29/2016</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-193f20fb962949a5b87010a996a4889a" >}} 8 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-193f20fb962949a5b87010a996a4889a" >}} 45.7 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-193f20fb962949a5b87010a996a4889a" >}} faizanbaig {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-193f20fb962949a5b87010a996a4889a" >}} 405 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-193f20fb962949a5b87010a996a4889a" >}} 3/29/2016 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

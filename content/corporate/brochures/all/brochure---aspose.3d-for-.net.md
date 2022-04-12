@@ -3,15 +3,16 @@ title:  "  Downloads ---All-brochure---aspose.3d-for-.net . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/brochures/all/brochure---aspose.3d-for-.net/"
-folder_name:  " Brochure - Aspose.3D for .NET"
-download_link:  " /corporate/Brochures/all/brochure---aspose.3d-for-.net/95ad033dc5584c9e85020594fe20b1d1"
-download_text:  " Download"
-intro_text:  " This brochure gives a brief introduction to Aspose.3D and its features.Last upda..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "   2/9/2016  Downloads: 104  Views: 428"
-file_size:  "  File Size: 683.4 KB "
+folder_link: " corporate/brochures/all/brochure---aspose.3d-for-.net/"
+folder_name: " Brochure - Aspose.3D for .NET"
+download_link: " /corporate/Brochures/all/brochure---aspose.3d-for-.net/95ad033dc5584c9e85020594fe20b1d1"
+download_text: " Download"
+Intro_text: " This brochure gives a brief introduction to Aspose.3D and its features.Last upda..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "   2/9/2016  Downloads: 106  Views: 444"
+file_size: "  File Size: 683.4 KB "
 parent_path: "corporate/brochures/all"
+section_parent_path: "corporate/brochures"
 weight: 2 
 ---
 
@@ -24,7 +25,17 @@ weight: 2
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>104</li><li>File Size:</li><li>683.4 KB</li><li>Posted By:</li><li>aske012</li><li>Views:</li><li>429</li><li>Date Added:</li><li>2/9/2016</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-95ad033dc5584c9e85020594fe20b1d1" >}} 106 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-95ad033dc5584c9e85020594fe20b1d1" >}} 683.4 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-95ad033dc5584c9e85020594fe20b1d1" >}} aske012 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-95ad033dc5584c9e85020594fe20b1d1" >}} 445 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-95ad033dc5584c9e85020594fe20b1d1" >}} 2/9/2016 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

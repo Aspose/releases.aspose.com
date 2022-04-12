@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.font-for-.net-21.10 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " font/net/new-releases/aspose.font-for-.net-21.10/"
-folder_name:  " Aspose.Font for .NET 21.10"
-download_link:  " /font/net/new-releases/aspose.font-for-.net-21.10/a8964d23bc4747bca1feea7ca0aa76de"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Font for .NET 21.10 release."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   10/7/2021  Downloads: 7  Views: 41"
-file_size:  "  File Size: 3.4 MB "
+folder_link: " font/net/new-releases/aspose.font-for-.net-21.10/"
+folder_name: " Aspose.Font for .NET 21.10"
+download_link: " /font/net/new-releases/aspose.font-for-.net-21.10/a8964d23bc4747bca1feea7ca0aa76de"
+download_text: " Download"
+Intro_text: " It contains Aspose.Font for .NET 21.10 release."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   10/7/2021  Downloads: 7  Views: 43"
+file_size: "  File Size: 3.4 MB "
 parent_path: "font/net"
+section_parent_path: "font/net"
 weight: 3 
 ---
 
@@ -24,7 +25,17 @@ weight: 3
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>7</li><li>File Size:</li><li>3.4 MB</li><li>Posted By:</li><li>pavel.loginov</li><li>Views:</li><li>42</li><li>Date Added:</li><li>10/7/2021</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-a8964d23bc4747bca1feea7ca0aa76de" >}} 7 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-a8964d23bc4747bca1feea7ca0aa76de" >}} 3.4 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-a8964d23bc4747bca1feea7ca0aa76de" >}} pavel.loginov {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-a8964d23bc4747bca1feea7ca0aa76de" >}} 44 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-a8964d23bc4747bca1feea7ca0aa76de" >}} 10/7/2021 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

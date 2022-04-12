@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-libusoft-cicom-uses-aspose.words-for-java-t
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/libusoft-cicom-uses-aspose.words-for-java-to-convert-wrod-documents-to-pdf/"
-folder_name:  " LIBUSOFT CICOM uses Aspose.Words for Java to convert Wrod documents to PDF"
-download_link:  " /corporate/success-stories/aspose.words/libusoft-cicom-uses-aspose.words-for-java-to-convert-wrod-documents-to-pdf/712a6698ee244652b43f69470bc545b9"
-download_text:  " Download"
-intro_text:  " LIBUSOFT CICOM develops SPI, a business information system. For the email compon..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 298  Views: 1959"
-file_size:  "  File Size: 287.9 KB "
+folder_link: " corporate/success-stories/aspose.words/libusoft-cicom-uses-aspose.words-for-java-to-convert-wrod-documents-to-pdf/"
+folder_name: " LIBUSOFT CICOM uses Aspose.Words for Java to convert Wrod documents to PDF"
+download_link: " /corporate/success-stories/aspose.words/libusoft-cicom-uses-aspose.words-for-java-to-convert-wrod-documents-to-pdf/712a6698ee244652b43f69470bc545b9"
+download_text: " Download"
+Intro_text: " LIBUSOFT CICOM develops SPI, a business information system. For the email compon..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 300  Views: 1965"
+file_size: "  File Size: 287.9 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 32 
+weight: 33 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 32
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>298</li><li>File Size:</li><li>287.9 KB</li><li>Posted By:</li><li>caroline.von.schmalensee</li><li>Views:</li><li>1960</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-712a6698ee244652b43f69470bc545b9" >}} 300 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-712a6698ee244652b43f69470bc545b9" >}} 287.9 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-712a6698ee244652b43f69470bc545b9" >}} caroline.von.schmalensee {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-712a6698ee244652b43f69470bc545b9" >}} 1966 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

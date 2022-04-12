@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.html-for-.net-19.4-(dlls-only) . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " html/net/new-releases/aspose.html-for-.net-19.4-(dlls-only)/"
+folder_name: " Aspose.HTML for .NET 19.4 (DLLs only)"
+download_link: " /html/net/new-releases/aspose.html-for-.net-19.4-(dlls-only)/a6f3ccba1e584c4cb9a6aa2d3a3a0505"
+download_text: " Download"
+Intro_text: " This ZIP file contains only the Aspose.HTML for .NET assemblies. The assemblies ..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   4/5/2019  Downloads: 16  Views: 19"
+file_size: "  File Size: 18.2 MB "
+parent_path: "html/net"
+section_parent_path: "html/net"
+weight: 79 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.HTML for .NET 19.4 (DLLs only)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/html/net/new-releases/aspose.html-for-.net-19.4-(dlls-only)/a6f3ccba1e584c4cb9a6aa2d3a3a0505%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/html" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-a6f3ccba1e584c4cb9a6aa2d3a3a0505" >}} 16 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-a6f3ccba1e584c4cb9a6aa2d3a3a0505" >}} 18.2 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-a6f3ccba1e584c4cb9a6aa2d3a3a0505" >}} sergey.smal {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-a6f3ccba1e584c4cb9a6aa2d3a3a0505" >}} 20 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-a6f3ccba1e584c4cb9a6aa2d3a3a0505" >}} 4/5/2019 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/htmlnet/Aspose.Html+for+.NET+19.4+Release+Notes">https://docs.aspose.com/display/htmlnet/Aspose.Html+for+.NET+19.4+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.HTML for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.PDF without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

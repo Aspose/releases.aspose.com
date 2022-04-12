@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.note-for-.net-2.1.0 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " note/net/new-releases/aspose.note-for-.net-2.1.0/"
+folder_name: " Aspose.Note for .NET 2.1.0"
+download_link: " /note/net/new-releases/aspose.note-for-.net-2.1.0/610d5d7bdf4e4f2bb70897f20933bb0a"
+download_text: " Download"
+Intro_text: " Dear Customers,Aspose.Note for .NET has been updated to version 2.1.0.Aspose.Not..."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   12/15/2015  Downloads: 64  Views: 206"
+file_size: "  File Size: 14.8 MB "
+parent_path: "note/net"
+section_parent_path: "note/net"
+weight: 80 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Note for .NET 2.1.0" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/note/net/new-releases/aspose.note-for-.net-2.1.0/610d5d7bdf4e4f2bb70897f20933bb0a%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/note" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-610d5d7bdf4e4f2bb70897f20933bb0a" >}} 64 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-610d5d7bdf4e4f2bb70897f20933bb0a" >}} 14.8 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-610d5d7bdf4e4f2bb70897f20933bb0a" >}} panchenko.dm {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-610d5d7bdf4e4f2bb70897f20933bb0a" >}} 207 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-610d5d7bdf4e4f2bb70897f20933bb0a" >}} 12/15/2015 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/notenet/Aspose.Note+for+.NET+2.1.0+Release+Notes">http://www.aspose.com/docs/display/notenet/Aspose.Note+for+.NET+2.1.0+Release+Notes</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

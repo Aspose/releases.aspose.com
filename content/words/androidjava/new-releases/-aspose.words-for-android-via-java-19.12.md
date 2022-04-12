@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases--aspose.words-for-android-via-java-19.12 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " words/androidjava/new-releases/-aspose.words-for-android-via-java-19.12/"
+folder_name: "  Aspose.Words for Android via Java 19.12"
+download_link: " /words/androidjava/new-releases/-aspose.words-for-android-via-java-19.12/10ff63b0ee6649d08dfd5277e1df37d1"
+download_text: " Download"
+Intro_text: " It contains  Aspose.Words for Android via Java 19.12 release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   12/31/2019  Downloads: 31  Views: 116"
+file_size: "  File Size: 12.6 MB "
+parent_path: "words/androidjava"
+section_parent_path: "words/androidjava"
+weight: 20 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt="  Aspose.Words for Android via Java 19.12" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/words/androidjava/new-releases/-aspose.words-for-android-via-java-19.12/10ff63b0ee6649d08dfd5277e1df37d1%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/words" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-10ff63b0ee6649d08dfd5277e1df37d1" >}} 31 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-10ff63b0ee6649d08dfd5277e1df37d1" >}} 12.6 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-10ff63b0ee6649d08dfd5277e1df37d1" >}} nixspirit {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-10ff63b0ee6649d08dfd5277e1df37d1" >}} 117 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-10ff63b0ee6649d08dfd5277e1df37d1" >}} 12/31/2019 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/wordsjava/Aspose.Words+for+Android+via+Java+19.12+Release+Notes">https://docs.aspose.com/display/wordsjava/Aspose.Words+for+Android+via+Java+19.12+Release+Notes</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

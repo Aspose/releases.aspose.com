@@ -3,15 +3,15 @@ title:  "  Downloads ---Aspose.Slides-stratascope-uses-aspose.slides-for-.net-to
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.slides/stratascope-uses-aspose.slides-for-.net-to-output-custom-configured-account-plans-to-powerpoint/"
-folder_name:  " Stratascope uses Aspose.Slides for .NET to output custom-configured account plans to PowerPoint"
-download_link:  " /corporate/success-stories/aspose.slides/stratascope-uses-aspose.slides-for-.net-to-output-custom-configured-account-plans-to-powerpoint/102b680471e4404198e071540ced379f"
-download_text:  " Download"
-intro_text:  " 
+folder_link: " corporate/success-stories/aspose.slides/stratascope-uses-aspose.slides-for-.net-to-output-custom-configured-account-plans-to-powerpoint/"
+folder_name: " Stratascope uses Aspose.Slides for .NET to output custom-configured account plans to PowerPoint"
+download_link: " /corporate/success-stories/aspose.slides/stratascope-uses-aspose.slides-for-.net-to-output-custom-configured-account-plans-to-powerpoint/102b680471e4404198e071540ced379f"
+download_text: " Download"
+Intro_text: " 
 Stratascope enables sales and marketing professionals with the most powerful i..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 238  Views: 1764"
-file_size:  "  File Size: 597.8 KB "
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 238  Views: 1767"
+file_size: "  File Size: 597.8 KB "
 parent_path: "corporate/success-stories/aspose.slides"
 section_parent_path: "corporate/success-stories"
 weight: 3 
@@ -26,7 +26,15 @@ weight: 3
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>238</li><li>File Size:</li><li>597.8 KB</li><li>Posted By:</li><li>caroline.von.schmalensee</li><li>Views:</li><li>1765</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-102b680471e4404198e071540ced379f" >}} 238 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-102b680471e4404198e071540ced379f" >}} 597.8 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-102b680471e4404198e071540ced379f" >}} caroline.von.schmalensee {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-102b680471e4404198e071540ced379f" >}} 1768 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

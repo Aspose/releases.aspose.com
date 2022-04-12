@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-using-aspose.words-for-.net-to-convert-html
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/using-aspose.words-for-.net-to-convert-html-to-pdf-doc-document/"
-folder_name:  " Using Aspose.Words for .Net to convert html to pdf/doc document."
-download_link:  " /corporate/success-stories/aspose.words/using-aspose.words-for-.net-to-convert-html-to-pdf-doc-document/c6b5f27f034f4e8cbfc8c2f88728c07e"
-download_text:  " Download"
-intro_text:  " Arcoba needed to develop a feature that allowed users to convert a text (html) g..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 461  Views: 117"
-file_size:  "  File Size: 325.7 KB "
+folder_link: " corporate/success-stories/aspose.words/using-aspose.words-for-.net-to-convert-html-to-pdf-doc-document/"
+folder_name: " Using Aspose.Words for .Net to convert html to pdf/doc document."
+download_link: " /corporate/success-stories/aspose.words/using-aspose.words-for-.net-to-convert-html-to-pdf-doc-document/c6b5f27f034f4e8cbfc8c2f88728c07e"
+download_text: " Download"
+Intro_text: " Arcoba needed to develop a feature that allowed users to convert a text (html) g..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 470  Views: 117"
+file_size: "  File Size: 325.7 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 26 
+weight: 27 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 26
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>461</li><li>File Size:</li><li>325.7 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>117</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-c6b5f27f034f4e8cbfc8c2f88728c07e" >}} 470 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-c6b5f27f034f4e8cbfc8c2f88728c07e" >}} 325.7 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-c6b5f27f034f4e8cbfc8c2f88728c07e" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-c6b5f27f034f4e8cbfc8c2f88728c07e" >}} 117 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

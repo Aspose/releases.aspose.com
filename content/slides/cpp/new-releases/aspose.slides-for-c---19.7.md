@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.slides-for-c++-19.7 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " slides/cpp/new-releases/aspose.slides-for-c---19.7/"
+folder_name: " Aspose.Slides for C++ 19.7"
+download_link: " /slides/cpp/new-releases/aspose.slides-for-c---19.7/c76ebd67a0474c38a872b4c0be038b54"
+download_text: " Download"
+Intro_text: " It contains Aspose.Slides for C++ 19.7 release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   7/24/2019  Downloads: 7  Views: 27"
+file_size: "  File Size: 164.8 MB "
+parent_path: "slides/cpp"
+section_parent_path: "slides/cpp"
+weight: 75 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Slides for C++ 19.7" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/slides/cpp/new-releases/aspose.slides-for-c---19.7/c76ebd67a0474c38a872b4c0be038b54%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-c76ebd67a0474c38a872b4c0be038b54" >}} 7 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-c76ebd67a0474c38a872b4c0be038b54" >}} 164.8 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-c76ebd67a0474c38a872b4c0be038b54" >}} nikolay.saulyak {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-c76ebd67a0474c38a872b4c0be038b54" >}} 28 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-c76ebd67a0474c38a872b4c0be038b54" >}} 7/24/2019 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/slidescpp/Aspose.Slides+for+CPP+19.7+Release+Notes">https://docs.aspose.com/display/slidescpp/Aspose.Slides+for+CPP+19.7+Release+Notes</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

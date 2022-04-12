@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.slides-for-java-17.11 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " slides/java/new-releases/aspose.slides-for-java-17.11/"
+folder_name: " Aspose.Slides for Java 17.11"
+download_link: " /slides/java/new-releases/aspose.slides-for-java-17.11/7b201c02fe63423b8ca037d28904ee3a"
+download_text: " Download"
+Intro_text: " It contains Aspose.Slides for Java 17.11 release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   11/30/2017  Downloads: 57  Views: 312"
+file_size: "  File Size: 28.2 MB "
+parent_path: "slides/java"
+section_parent_path: "slides/java"
+weight: 64 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Slides for Java 17.11" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/slides/java/new-releases/aspose.slides-for-java-17.11/7b201c02fe63423b8ca037d28904ee3a%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-7b201c02fe63423b8ca037d28904ee3a" >}} 57 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-7b201c02fe63423b8ca037d28904ee3a" >}} 28.2 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-7b201c02fe63423b8ca037d28904ee3a" >}} victor.krivolap {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-7b201c02fe63423b8ca037d28904ee3a" >}} 313 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-7b201c02fe63423b8ca037d28904ee3a" >}} 11/30/2017 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/slidesjava/Aspose.Slides+for+Java+17.11+Release+Notes">https://docs.aspose.com/display/slidesjava/Aspose.Slides+for+Java+17.11+Release+Notes</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

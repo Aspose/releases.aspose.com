@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Psd-regency-hampers-ltd-using-aspose.psd-to-rende
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.psd/regency-hampers-ltd-using-aspose.psd-to-render-user-defined-images/"
-folder_name:  " Regency Hampers Ltd using Aspose.PSD to Render User-Defined Images"
-download_link:  " /corporate/success-stories/aspose.psd/regency-hampers-ltd-using-aspose.psd-to-render-user-defined-images/9c7865617c8c4b04bc2d4c042fdb0fec"
-download_text:  " Download"
-intro_text:  " Regency Hampers is a premium supplier of gift hampers with a large offering of d..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 44  Views: 95"
-file_size:  "  File Size: 215.2 KB "
+folder_link: " corporate/success-stories/aspose.psd/regency-hampers-ltd-using-aspose.psd-to-render-user-defined-images/"
+folder_name: " Regency Hampers Ltd using Aspose.PSD to Render User-Defined Images"
+download_link: " /corporate/success-stories/aspose.psd/regency-hampers-ltd-using-aspose.psd-to-render-user-defined-images/9c7865617c8c4b04bc2d4c042fdb0fec"
+download_text: " Download"
+Intro_text: " Regency Hampers is a premium supplier of gift hampers with a large offering of d..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 44  Views: 97"
+file_size: "  File Size: 215.2 KB "
 parent_path: "corporate/success-stories/aspose.psd"
 section_parent_path: "corporate/success-stories"
 weight: 1 
@@ -25,7 +25,15 @@ weight: 1
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>44</li><li>File Size:</li><li>215.2 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>96</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-9c7865617c8c4b04bc2d4c042fdb0fec" >}} 44 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-9c7865617c8c4b04bc2d4c042fdb0fec" >}} 215.2 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-9c7865617c8c4b04bc2d4c042fdb0fec" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-9c7865617c8c4b04bc2d4c042fdb0fec" >}} 98 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

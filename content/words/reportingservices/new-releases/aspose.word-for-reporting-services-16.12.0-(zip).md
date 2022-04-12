@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.word-for-reporting-services-16.12.0-
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/reportingservices/new-releases/aspose.word-for-reporting-services-16.12.0-(zip)/"
-folder_name:  " Aspose.Word for Reporting Services 16.12.0 (Zip)"
-download_link:  " /words/reportingservices/new-releases/aspose.word-for-reporting-services-16.12.0-(zip)/2f0bfe92e3b84c5098ad0e95e0a07702"
-download_text:  " Download"
-intro_text:  " Includes fixes for WORDSRPT-245, 246"
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   12/20/2016  Downloads: 36  Views: 283"
-file_size:  "  File Size: 54.7 MB "
+folder_link: " words/reportingservices/new-releases/aspose.word-for-reporting-services-16.12.0-(zip)/"
+folder_name: " Aspose.Word for Reporting Services 16.12.0 (Zip)"
+download_link: " /words/reportingservices/new-releases/aspose.word-for-reporting-services-16.12.0-(zip)/2f0bfe92e3b84c5098ad0e95e0a07702"
+download_text: " Download"
+Intro_text: " Includes fixes for WORDSRPT-245, 246"
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   12/20/2016  Downloads: 36  Views: 284"
+file_size: "  File Size: 54.7 MB "
 parent_path: "words/reportingservices"
+section_parent_path: "words/reportingservices"
 weight: 56 
 ---
 
@@ -24,7 +25,17 @@ weight: 56
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>36</li><li>File Size:</li><li>54.7 MB</li><li>Posted By:</li><li>vadimpo</li><li>Views:</li><li>284</li><li>Date Added:</li><li>12/20/2016</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-2f0bfe92e3b84c5098ad0e95e0a07702" >}} 36 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-2f0bfe92e3b84c5098ad0e95e0a07702" >}} 54.7 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-2f0bfe92e3b84c5098ad0e95e0a07702" >}} vadimpo {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-2f0bfe92e3b84c5098ad0e95e0a07702" >}} 285 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-2f0bfe92e3b84c5098ad0e95e0a07702" >}} 12/20/2016 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

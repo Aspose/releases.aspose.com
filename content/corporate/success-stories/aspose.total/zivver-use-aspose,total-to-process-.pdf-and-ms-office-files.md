@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Total-zivver-use-aspose,total-to-process-.pdf-and
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/zivver-use-aspose,total-to-process-.pdf-and-ms-office-files/"
-folder_name:  " Zivver use Aspose,Total to process .PDF and MS Office files."
-download_link:  " /corporate/success-stories/aspose.total/zivver-use-aspose,total-to-process-.pdf-and-ms-office-files/596dea7a4641471abdddc971c2544f96"
-download_text:  " Download"
-intro_text:  " Zivver build solutions that assist organisations to share their information effe..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 194  Views: 0"
-file_size:  "  File Size: 296.4 KB "
+folder_link: " corporate/success-stories/aspose.total/zivver-use-aspose,total-to-process-.pdf-and-ms-office-files/"
+folder_name: " Zivver use Aspose,Total to process .PDF and MS Office files."
+download_link: " /corporate/success-stories/aspose.total/zivver-use-aspose,total-to-process-.pdf-and-ms-office-files/596dea7a4641471abdddc971c2544f96"
+download_text: " Download"
+Intro_text: " Zivver build solutions that assist organisations to share their information effe..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 195  Views: 0"
+file_size: "  File Size: 296.4 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 21 
@@ -25,7 +25,15 @@ weight: 21
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>194</li><li>File Size:</li><li>296.4 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>0</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-596dea7a4641471abdddc971c2544f96" >}} 195 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-596dea7a4641471abdddc971c2544f96" >}} 296.4 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-596dea7a4641471abdddc971c2544f96" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-596dea7a4641471abdddc971c2544f96" >}} 0 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-competitive-analysis-of-word-automation-aga
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/competitive-analysis-of-word-automation-against-aspose.words-for-java/"
-folder_name:  " Competitive analysis of Word Automation against Aspose.Words for Java"
-download_link:  " /corporate/success-stories/aspose.words/competitive-analysis-of-word-automation-against-aspose.words-for-java/b3596e45da444658b2638fb8b1eb19d9"
-download_text:  " Download"
-intro_text:  " Word Cleaner is a shareware program that batch converts word files to HTML, and ..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 42  Views: 136"
-file_size:  "  File Size: 351.9 KB "
+folder_link: " corporate/success-stories/aspose.words/competitive-analysis-of-word-automation-against-aspose.words-for-java/"
+folder_name: " Competitive analysis of Word Automation against Aspose.Words for Java"
+download_link: " /corporate/success-stories/aspose.words/competitive-analysis-of-word-automation-against-aspose.words-for-java/b3596e45da444658b2638fb8b1eb19d9"
+download_text: " Download"
+Intro_text: " Word Cleaner is a shareware program that batch converts word files to HTML, and ..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 42  Views: 138"
+file_size: "  File Size: 351.9 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 36 
+weight: 37 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 36
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>42</li><li>File Size:</li><li>351.9 KB</li><li>Posted By:</li><li>caroline.von.schmalensee</li><li>Views:</li><li>137</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-b3596e45da444658b2638fb8b1eb19d9" >}} 42 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-b3596e45da444658b2638fb8b1eb19d9" >}} 351.9 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-b3596e45da444658b2638fb8b1eb19d9" >}} caroline.von.schmalensee {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-b3596e45da444658b2638fb8b1eb19d9" >}} 139 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

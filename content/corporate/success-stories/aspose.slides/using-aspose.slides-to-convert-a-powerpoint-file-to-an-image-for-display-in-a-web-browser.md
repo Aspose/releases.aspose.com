@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Slides-using-aspose.slides-to-convert-a-powerpoin
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.slides/using-aspose.slides-to-convert-a-powerpoint-file-to-an-image-for-display-in-a-web-browser/"
-folder_name:  " Using Aspose.Slides to convert a PowerPoint file to an image for display in a web browser."
-download_link:  " /corporate/success-stories/aspose.slides/using-aspose.slides-to-convert-a-powerpoint-file-to-an-image-for-display-in-a-web-browser/e66eadc3450940c58fe4f1aa24150997"
-download_text:  " Download"
-intro_text:  " Traxart is an innovative technology startup with a platform that allows presente..."
-image_link:  " https://downloads.aspose.com/resources/img/doc-icon.png"
-download_count:  "  Downloads: 123  Views: 0"
-file_size:  "  File Size: 250.8 KB "
+folder_link: " corporate/success-stories/aspose.slides/using-aspose.slides-to-convert-a-powerpoint-file-to-an-image-for-display-in-a-web-browser/"
+folder_name: " Using Aspose.Slides to convert a PowerPoint file to an image for display in a web browser."
+download_link: " /corporate/success-stories/aspose.slides/using-aspose.slides-to-convert-a-powerpoint-file-to-an-image-for-display-in-a-web-browser/e66eadc3450940c58fe4f1aa24150997"
+download_text: " Download"
+Intro_text: " Traxart is an innovative technology startup with a platform that allows presente..."
+image_link: " https://downloads.aspose.com/resources/img/doc-icon.png"
+download_count: "  Downloads: 142  Views: 0"
+file_size: "  File Size: 250.8 KB "
 parent_path: "corporate/success-stories/aspose.slides"
 section_parent_path: "corporate/success-stories"
 weight: 1 
@@ -25,7 +25,15 @@ weight: 1
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>123</li><li>File Size:</li><li>250.8 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>0</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-e66eadc3450940c58fe4f1aa24150997" >}} 142 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-e66eadc3450940c58fe4f1aa24150997" >}} 250.8 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-e66eadc3450940c58fe4f1aa24150997" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-e66eadc3450940c58fe4f1aa24150997" >}} 0 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

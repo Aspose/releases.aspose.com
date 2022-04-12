@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.words-for-reporting-services-19.8-(z
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/reportingservices/new-releases/aspose.words-for-reporting-services-19.8-(zip)/"
-folder_name:  " Aspose.Words for Reporting Services 19.8 (Zip)"
-download_link:  " /words/reportingservices/new-releases/aspose.words-for-reporting-services-19.8-(zip)/1e3b689d17d6418db2e4bb2b7c00623d"
-download_text:  " Download"
-intro_text:  " Some fixes + Upgrade to latest Aspose.Words for .NET 19.8"
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   9/4/2019  Downloads: 26  Views: 75"
-file_size:  "  File Size: 65.1 MB "
+folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-services-19.8-(zip)/"
+folder_name: " Aspose.Words for Reporting Services 19.8 (Zip)"
+download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-19.8-(zip)/1e3b689d17d6418db2e4bb2b7c00623d"
+download_text: " Download"
+Intro_text: " Some fixes + Upgrade to latest Aspose.Words for .NET 19.8"
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   9/4/2019  Downloads: 26  Views: 76"
+file_size: "  File Size: 65.1 MB "
 parent_path: "words/reportingservices"
+section_parent_path: "words/reportingservices"
 weight: 25 
 ---
 
@@ -24,7 +25,17 @@ weight: 25
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>26</li><li>File Size:</li><li>65.1 MB</li><li>Posted By:</li><li>vadimpo</li><li>Views:</li><li>76</li><li>Date Added:</li><li>9/4/2019</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-1e3b689d17d6418db2e4bb2b7c00623d" >}} 26 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-1e3b689d17d6418db2e4bb2b7c00623d" >}} 65.1 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-1e3b689d17d6418db2e4bb2b7c00623d" >}} vadimpo {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-1e3b689d17d6418db2e4bb2b7c00623d" >}} 77 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-1e3b689d17d6418db2e4bb2b7c00623d" >}} 9/4/2019 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

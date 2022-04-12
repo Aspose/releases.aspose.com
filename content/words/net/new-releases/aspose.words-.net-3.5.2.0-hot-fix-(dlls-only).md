@@ -3,18 +3,19 @@ title:  "  Downloads ---New-Releases-aspose.words-.net-3.5.2.0-hot-fix-(dlls-onl
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-.net-3.5.2.0-hot-fix-(dlls-only)/"
-folder_name:  " Aspose.Words .Net 3.5.2.0 Hot Fix (Dlls Only)"
-download_link:  " /words/net/new-releases/aspose.words-.net-3.5.2.0-hot-fix-(dlls-only)/b868505856fb4c109cd3571fb7ee2fa7"
-download_text:  " Download"
-intro_text:  " New Features
+folder_link: " words/net/new-releases/aspose.words-.net-3.5.2.0-hot-fix-(dlls-only)/"
+folder_name: " Aspose.Words .Net 3.5.2.0 Hot Fix (Dlls Only)"
+download_link: " /words/net/new-releases/aspose.words-.net-3.5.2.0-hot-fix-(dlls-only)/b868505856fb4c109cd3571fb7ee2fa7"
+download_text: " Download"
+Intro_text: " New Features
 
 AddedÂ ClearFormatting method for RowFormat and CellFormat classe..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   7/25/2007  Downloads: 7  Views: 42"
-file_size:  "  File Size: 443.7 KB "
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   7/25/2007  Downloads: 7  Views: 43"
+file_size: "  File Size: 443.7 KB "
 parent_path: "words/net"
-weight: 34 
+section_parent_path: "words/net"
+weight: 333 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -26,7 +27,17 @@ weight: 34
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>7</li><li>File Size:</li><li>443.7 KB</li><li>Posted By:</li><li>ShL77</li><li>Views:</li><li>43</li><li>Date Added:</li><li>7/25/2007</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-b868505856fb4c109cd3571fb7ee2fa7" >}} 7 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-b868505856fb4c109cd3571fb7ee2fa7" >}} 443.7 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-b868505856fb4c109cd3571fb7ee2fa7" >}} ShL77 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-b868505856fb4c109cd3571fb7ee2fa7" >}} 44 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-b868505856fb4c109cd3571fb7ee2fa7" >}} 7/25/2007 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.ocr-gpu-for-net-21.2 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " ocr/net/new-releases/aspose.ocr-gpu-for-net-21.2/"
+folder_name: " Aspose.OCR-GPU for NET 21.2"
+download_link: " /ocr/net/new-releases/aspose.ocr-gpu-for-net-21.2/db6cd60fc88542c490586b9999d19992"
+download_text: " Download"
+Intro_text: " added spell-checking feature and ability to set ignored symbols for recognition"
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   2/25/2021  Downloads: 5  Views: 13"
+file_size: "  File Size: 204.1 MB "
+parent_path: "ocr/net"
+section_parent_path: "ocr/net"
+weight: 46 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.OCR-GPU for NET 21.2" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/ocr/net/new-releases/aspose.ocr-gpu-for-net-21.2/db6cd60fc88542c490586b9999d19992%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/ocr" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-db6cd60fc88542c490586b9999d19992" >}} 5 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-db6cd60fc88542c490586b9999d19992" >}} 204.1 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-db6cd60fc88542c490586b9999d19992" >}} anna.pylaieva {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-db6cd60fc88542c490586b9999d19992" >}} 14 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-db6cd60fc88542c490586b9999d19992" >}} 2/25/2021 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/ocr/net/aspose-ocr-for-net-21-2-release-notes/">https://docs.aspose.com/ocr/net/aspose-ocr-for-net-21-2-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">added spell-checking feature and ability to set ignored symbols for recognition</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

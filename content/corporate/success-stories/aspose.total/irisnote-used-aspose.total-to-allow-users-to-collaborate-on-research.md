@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Total-irisnote-used-aspose.total-to-allow-users-t
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/irisnote-used-aspose.total-to-allow-users-to-collaborate-on-research/"
-folder_name:  " irisnote used Aspose.Total to allow users to collaborate on research."
-download_link:  " /corporate/success-stories/aspose.total/irisnote-used-aspose.total-to-allow-users-to-collaborate-on-research/5bf805dfd7424f3e941d8d8b0400b749"
-download_text:  " Download"
-intro_text:  " irisnote's goal is to provide an electronic notebook that empowers researchers a..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 31  Views: 1137"
-file_size:  "  File Size: 472.0 KB "
+folder_link: " corporate/success-stories/aspose.total/irisnote-used-aspose.total-to-allow-users-to-collaborate-on-research/"
+folder_name: " irisnote used Aspose.Total to allow users to collaborate on research."
+download_link: " /corporate/success-stories/aspose.total/irisnote-used-aspose.total-to-allow-users-to-collaborate-on-research/5bf805dfd7424f3e941d8d8b0400b749"
+download_text: " Download"
+Intro_text: " irisnote's goal is to provide an electronic notebook that empowers researchers a..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 31  Views: 1137"
+file_size: "  File Size: 472.0 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 42 
@@ -25,7 +25,15 @@ weight: 42
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>31</li><li>File Size:</li><li>472.0 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>1137</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-5bf805dfd7424f3e941d8d8b0400b749" >}} 31 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-5bf805dfd7424f3e941d8d8b0400b749" >}} 472.0 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-5bf805dfd7424f3e941d8d8b0400b749" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-5bf805dfd7424f3e941d8d8b0400b749" >}} 1137 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

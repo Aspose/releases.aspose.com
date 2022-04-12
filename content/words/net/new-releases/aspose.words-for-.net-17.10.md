@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-17.10 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-17.10/"
-folder_name:  " Aspose.Words for .NET 17.10"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-17.10/2f175efcac0942cc857c07603367b339"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Words for .NET 17.10 release."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   10/9/2017  Downloads: 430  Views: 1961"
-file_size:  "  File Size: 45.8 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-17.10/"
+folder_name: " Aspose.Words for .NET 17.10"
+download_link: " /words/net/new-releases/aspose.words-for-.net-17.10/2f175efcac0942cc857c07603367b339"
+download_text: " Download"
+Intro_text: " It contains Aspose.Words for .NET 17.10 release."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   10/9/2017  Downloads: 430  Views: 1977"
+file_size: "  File Size: 45.8 MB "
 parent_path: "words/net"
-weight: 15 
+section_parent_path: "words/net"
+weight: 116 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 15
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>430</li><li>File Size:</li><li>45.8 MB</li><li>Posted By:</li><li>Konstantin</li><li>Views:</li><li>1962</li><li>Date Added:</li><li>10/9/2017</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-2f175efcac0942cc857c07603367b339" >}} 430 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-2f175efcac0942cc857c07603367b339" >}} 45.8 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-2f175efcac0942cc857c07603367b339" >}} Konstantin {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-2f175efcac0942cc857c07603367b339" >}} 1978 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-2f175efcac0942cc857c07603367b339" >}} 10/9/2017 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

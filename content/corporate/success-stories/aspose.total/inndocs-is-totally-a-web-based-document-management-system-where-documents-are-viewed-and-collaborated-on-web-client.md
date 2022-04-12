@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Total-inndocs-is-totally-a-web-based-document-man
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/inndocs-is-totally-a-web-based-document-management-system-where-documents-are-viewed-and-collaborated-on-web-client/"
-folder_name:  " InnDocs is totally a web-based document management system where documents are viewed and collaborated on web client."
-download_link:  " /corporate/success-stories/aspose.total/inndocs-is-totally-a-web-based-document-management-system-where-documents-are-viewed-and-collaborated-on-web-client/b34dc6c402c7434c9a84a3b6409f63a0"
-download_text:  " Download"
-intro_text:  " We had a challenge in office formats. Aspose PDF, PDF Kit, Aspose Words and Cell..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 68  Views: 1598"
-file_size:  "  File Size: 521.1 KB "
+folder_link: " corporate/success-stories/aspose.total/inndocs-is-totally-a-web-based-document-management-system-where-documents-are-viewed-and-collaborated-on-web-client/"
+folder_name: " InnDocs is totally a web-based document management system where documents are viewed and collaborated on web client."
+download_link: " /corporate/success-stories/aspose.total/inndocs-is-totally-a-web-based-document-management-system-where-documents-are-viewed-and-collaborated-on-web-client/b34dc6c402c7434c9a84a3b6409f63a0"
+download_text: " Download"
+Intro_text: " We had a challenge in office formats. Aspose PDF, PDF Kit, Aspose Words and Cell..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 68  Views: 1598"
+file_size: "  File Size: 521.1 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 49 
@@ -25,7 +25,15 @@ weight: 49
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>68</li><li>File Size:</li><li>521.1 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>1598</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-b34dc6c402c7434c9a84a3b6409f63a0" >}} 68 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-b34dc6c402c7434c9a84a3b6409f63a0" >}} 521.1 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-b34dc6c402c7434c9a84a3b6409f63a0" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-b34dc6c402c7434c9a84a3b6409f63a0" >}} 1598 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

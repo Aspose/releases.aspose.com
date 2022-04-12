@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.tasks-for-.net-3.3.0 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " tasks/net/new-releases/aspose.tasks-for-.net-3.3.0/"
+folder_name: " Aspose.Tasks for .NET 3.3.0"
+download_link: " /tasks/net/new-releases/aspose.tasks-for-.net-3.3.0/607579374cd0430ba646ccbe05aec528"
+download_text: " Download"
+Intro_text: " We feel glad to release Aspose.Tasks for .NET 3.3.0. In this release, we have in..."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   9/23/2010  Downloads: 78  Views: 345"
+file_size: "  File Size: 3.9 MB "
+parent_path: "tasks/net"
+section_parent_path: "tasks/net"
+weight: 214 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Tasks for .NET 3.3.0" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/tasks/net/new-releases/aspose.tasks-for-.net-3.3.0/607579374cd0430ba646ccbe05aec528%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/tasks" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-607579374cd0430ba646ccbe05aec528" >}} 78 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-607579374cd0430ba646ccbe05aec528" >}} 3.9 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-607579374cd0430ba646ccbe05aec528" >}} msabir {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-607579374cd0430ba646ccbe05aec528" >}} 346 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-607579374cd0430ba646ccbe05aec528" >}} 9/23/2010 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

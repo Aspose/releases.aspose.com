@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-gekom-uses-aspose.words-for-.net-to-generat
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/gekom-uses-aspose.words-for-.net-to-generate-invoices-from-user-input,-including-company-logo/"
-folder_name:  " Gekom uses Aspose.Words for .Net to generate invoices from user input, including company logo"
-download_link:  " /corporate/success-stories/aspose.words/gekom-uses-aspose.words-for-.net-to-generate-invoices-from-user-input,-including-company-logo/1b071c1e089541ae83af7fc6000bb875"
-download_text:  " Download"
-intro_text:  " Gekom is an online web application that offers small companies and freelancers a..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 54  Views: 1205"
-file_size:  "  File Size: 668.1 KB "
+folder_link: " corporate/success-stories/aspose.words/gekom-uses-aspose.words-for-.net-to-generate-invoices-from-user-input,-including-company-logo/"
+folder_name: " Gekom uses Aspose.Words for .Net to generate invoices from user input, including company logo"
+download_link: " /corporate/success-stories/aspose.words/gekom-uses-aspose.words-for-.net-to-generate-invoices-from-user-input,-including-company-logo/1b071c1e089541ae83af7fc6000bb875"
+download_text: " Download"
+Intro_text: " Gekom is an online web application that offers small companies and freelancers a..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 54  Views: 1206"
+file_size: "  File Size: 668.1 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 50 
+weight: 51 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 50
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>54</li><li>File Size:</li><li>668.1 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>1206</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-1b071c1e089541ae83af7fc6000bb875" >}} 54 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-1b071c1e089541ae83af7fc6000bb875" >}} 668.1 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-1b071c1e089541ae83af7fc6000bb875" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-1b071c1e089541ae83af7fc6000bb875" >}} 1207 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

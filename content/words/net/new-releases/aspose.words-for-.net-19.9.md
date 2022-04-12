@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-19.9 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-19.9/"
-folder_name:  " Aspose.Words for .NET 19.9"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-19.9/cd5a6f02555f4cbdb74fb6b1b8009dc9"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Words for .NET 19.9 release."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   9/4/2019  Downloads: 161  Views: 294"
-file_size:  "  File Size: 80.4 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-19.9/"
+folder_name: " Aspose.Words for .NET 19.9"
+download_link: " /words/net/new-releases/aspose.words-for-.net-19.9/cd5a6f02555f4cbdb74fb6b1b8009dc9"
+download_text: " Download"
+Intro_text: " It contains Aspose.Words for .NET 19.9 release."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   9/4/2019  Downloads: 161  Views: 295"
+file_size: "  File Size: 80.4 MB "
 parent_path: "words/net"
-weight: 7 
+section_parent_path: "words/net"
+weight: 72 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 7
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>161</li><li>File Size:</li><li>80.4 MB</li><li>Posted By:</li><li>AndreyN</li><li>Views:</li><li>295</li><li>Date Added:</li><li>9/4/2019</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-cd5a6f02555f4cbdb74fb6b1b8009dc9" >}} 161 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-cd5a6f02555f4cbdb74fb6b1b8009dc9" >}} 80.4 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-cd5a6f02555f4cbdb74fb6b1b8009dc9" >}} AndreyN {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-cd5a6f02555f4cbdb74fb6b1b8009dc9" >}} 296 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-cd5a6f02555f4cbdb74fb6b1b8009dc9" >}} 9/4/2019 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

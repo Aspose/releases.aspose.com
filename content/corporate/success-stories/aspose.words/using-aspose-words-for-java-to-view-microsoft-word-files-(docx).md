@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-using-aspose-words-for-java-to-view-microso
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/using-aspose-words-for-java-to-view-microsoft-word-files-(docx)/"
-folder_name:  " Using Aspose Words for Java to view Microsoft Word files (docx)"
-download_link:  " /corporate/success-stories/aspose.words/using-aspose-words-for-java-to-view-microsoft-word-files-(docx)/f9ff501b6e574d6892f778172cc3eaed"
-download_text:  " Download"
-intro_text:  " Research Engineers had problems with viewing MS Word documents in their project...."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 157  Views: 197"
-file_size:  "  File Size: 696.9 KB "
+folder_link: " corporate/success-stories/aspose.words/using-aspose-words-for-java-to-view-microsoft-word-files-(docx)/"
+folder_name: " Using Aspose Words for Java to view Microsoft Word files (docx)"
+download_link: " /corporate/success-stories/aspose.words/using-aspose-words-for-java-to-view-microsoft-word-files-(docx)/f9ff501b6e574d6892f778172cc3eaed"
+download_text: " Download"
+Intro_text: " Research Engineers had problems with viewing MS Word documents in their project...."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 159  Views: 201"
+file_size: "  File Size: 696.9 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 8 
+weight: 9 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 8
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>157</li><li>File Size:</li><li>696.9 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>198</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-f9ff501b6e574d6892f778172cc3eaed" >}} 159 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-f9ff501b6e574d6892f778172cc3eaed" >}} 696.9 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-f9ff501b6e574d6892f778172cc3eaed" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-f9ff501b6e574d6892f778172cc3eaed" >}} 202 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

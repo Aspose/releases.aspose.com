@@ -3,15 +3,15 @@ title:  "  Downloads ---Aspose.Total-case-study-about-how-ipsos-uses-aspose.tota
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/case-study-about-how-ipsos-uses-aspose.total-in-their-business/"
-folder_name:  " Case study about how Ipsos uses Aspose.Total in their business"
-download_link:  " /corporate/success-stories/aspose.total/case-study-about-how-ipsos-uses-aspose.total-in-their-business/967c893cf468435bb9929415d87f8579"
-download_text:  " Download"
-intro_text:  " Ipsos is a global market research company that sets high
+folder_link: " corporate/success-stories/aspose.total/case-study-about-how-ipsos-uses-aspose.total-in-their-business/"
+folder_name: " Case study about how Ipsos uses Aspose.Total in their business"
+download_link: " /corporate/success-stories/aspose.total/case-study-about-how-ipsos-uses-aspose.total-in-their-business/967c893cf468435bb9929415d87f8579"
+download_text: " Download"
+Intro_text: " Ipsos is a global market research company that sets high
 standards for its own ..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 62  Views: 1376"
-file_size:  "  File Size: 283.6 KB "
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 62  Views: 1378"
+file_size: "  File Size: 283.6 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 43 
@@ -26,7 +26,15 @@ weight: 43
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>62</li><li>File Size:</li><li>283.6 KB</li><li>Posted By:</li><li>caroline.von.schmalensee</li><li>Views:</li><li>1377</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-967c893cf468435bb9929415d87f8579" >}} 62 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-967c893cf468435bb9929415d87f8579" >}} 283.6 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-967c893cf468435bb9929415d87f8579" >}} caroline.von.schmalensee {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-967c893cf468435bb9929415d87f8579" >}} 1379 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

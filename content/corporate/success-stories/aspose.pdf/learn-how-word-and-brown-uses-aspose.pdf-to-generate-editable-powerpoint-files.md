@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Pdf-learn-how-word-and-brown-uses-aspose.pdf-to-g
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.pdf/learn-how-word-and-brown-uses-aspose.pdf-to-generate-editable-powerpoint-files/"
-folder_name:  " Learn how Word and Brown uses Aspose.PDF to generate editable PowerPoint files"
-download_link:  " /corporate/success-stories/aspose.pdf/learn-how-word-and-brown-uses-aspose.pdf-to-generate-editable-powerpoint-files/409cf094519245c6960d82eaa8f21cf8"
-download_text:  " Download"
-intro_text:  " Learn how Word and Brown uses Aspose.PDF to generate editable PowerPoint files"
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 44  Views: 43"
-file_size:  "  File Size: 830.2 KB "
+folder_link: " corporate/success-stories/aspose.pdf/learn-how-word-and-brown-uses-aspose.pdf-to-generate-editable-powerpoint-files/"
+folder_name: " Learn how Word and Brown uses Aspose.PDF to generate editable PowerPoint files"
+download_link: " /corporate/success-stories/aspose.pdf/learn-how-word-and-brown-uses-aspose.pdf-to-generate-editable-powerpoint-files/409cf094519245c6960d82eaa8f21cf8"
+download_text: " Download"
+Intro_text: " Learn how Word and Brown uses Aspose.PDF to generate editable PowerPoint files"
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 46  Views: 47"
+file_size: "  File Size: 830.2 KB "
 parent_path: "corporate/success-stories/aspose.pdf"
 section_parent_path: "corporate/success-stories"
 weight: 4 
@@ -25,7 +25,15 @@ weight: 4
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>44</li><li>File Size:</li><li>830.2 KB</li><li>Posted By:</li><li>sabrina.tran1</li><li>Views:</li><li>44</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-409cf094519245c6960d82eaa8f21cf8" >}} 46 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-409cf094519245c6960d82eaa8f21cf8" >}} 830.2 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-409cf094519245c6960d82eaa8f21cf8" >}} sabrina.tran1 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-409cf094519245c6960d82eaa8f21cf8" >}} 48 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Total-ido-in-uses-aspose.total-for-java-to-conver
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/ido-in-uses-aspose.total-for-java-to-convert-documents-to-pdf-a-1/"
-folder_name:  " IDO in uses Aspose.Total for Java to convert documents to PDF A-1"
-download_link:  " /corporate/success-stories/aspose.total/ido-in-uses-aspose.total-for-java-to-convert-documents-to-pdf-a-1/db9bde7979f74a35998be367c8d3b398"
-download_text:  " Download"
-intro_text:  " IDO-in is a large French eHealth platform provider and needed to convert and sto..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 182  Views: 541"
-file_size:  "  File Size: 683.8 KB "
+folder_link: " corporate/success-stories/aspose.total/ido-in-uses-aspose.total-for-java-to-convert-documents-to-pdf-a-1/"
+folder_name: " IDO in uses Aspose.Total for Java to convert documents to PDF A-1"
+download_link: " /corporate/success-stories/aspose.total/ido-in-uses-aspose.total-for-java-to-convert-documents-to-pdf-a-1/db9bde7979f74a35998be367c8d3b398"
+download_text: " Download"
+Intro_text: " IDO-in is a large French eHealth platform provider and needed to convert and sto..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 182  Views: 543"
+file_size: "  File Size: 683.8 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 22 
@@ -25,7 +25,15 @@ weight: 22
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>182</li><li>File Size:</li><li>683.8 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>542</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-db9bde7979f74a35998be367c8d3b398" >}} 182 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-db9bde7979f74a35998be367c8d3b398" >}} 683.8 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-db9bde7979f74a35998be367c8d3b398" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-db9bde7979f74a35998be367c8d3b398" >}} 544 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

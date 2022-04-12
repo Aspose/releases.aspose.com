@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-4.4.3-for-.net . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-4.4.3-for-.net/"
-folder_name:  " Aspose.Words 4.4.3 for .NET"
-download_link:  " /words/net/new-releases/aspose.words-4.4.3-for-.net/98e5c0e04fe54b72bde152efb16e7d4a"
-download_text:  " Download"
-intro_text:  " Here is a next release with improvements and fixes to DOCX import (which is stil..."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   12/19/2007  Downloads: 1225  Views: 2904"
-file_size:  "  File Size: 16.2 MB "
+folder_link: " words/net/new-releases/aspose.words-4.4.3-for-.net/"
+folder_name: " Aspose.Words 4.4.3 for .NET"
+download_link: " /words/net/new-releases/aspose.words-4.4.3-for-.net/98e5c0e04fe54b72bde152efb16e7d4a"
+download_text: " Download"
+Intro_text: " Here is a next release with improvements and fixes to DOCX import (which is stil..."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   12/19/2007  Downloads: 1225  Views: 2905"
+file_size: "  File Size: 16.2 MB "
 parent_path: "words/net"
-weight: 34 
+section_parent_path: "words/net"
+weight: 324 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 34
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>1225</li><li>File Size:</li><li>16.2 MB</li><li>Posted By:</li><li>romank</li><li>Views:</li><li>2905</li><li>Date Added:</li><li>12/19/2007</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-98e5c0e04fe54b72bde152efb16e7d4a" >}} 1225 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-98e5c0e04fe54b72bde152efb16e7d4a" >}} 16.2 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-98e5c0e04fe54b72bde152efb16e7d4a" >}} romank {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-98e5c0e04fe54b72bde152efb16e7d4a" >}} 2906 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-98e5c0e04fe54b72bde152efb16e7d4a" >}} 12/19/2007 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

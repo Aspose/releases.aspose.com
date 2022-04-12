@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Pdf-an-aspose.pdf-for-.net-case-study-from-innerm
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.pdf/an-aspose.pdf-for-.net-case-study-from-innermedia,-inc/"
-folder_name:  " An Aspose.PDF for .NET Case Study from Innermedia, Inc"
-download_link:  " /corporate/success-stories/aspose.pdf/an-aspose.pdf-for-.net-case-study-from-innermedia,-inc/65f1453efadd41acb90c99e9e5f38e1a"
-download_text:  " Download"
-intro_text:  " Learn how Innermedia, Inc. chose Aspose over all competitors as it was the only ..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 98  Views: 50"
-file_size:  "  File Size: 745.4 KB "
+folder_link: " corporate/success-stories/aspose.pdf/an-aspose.pdf-for-.net-case-study-from-innermedia,-inc/"
+folder_name: " An Aspose.PDF for .NET Case Study from Innermedia, Inc"
+download_link: " /corporate/success-stories/aspose.pdf/an-aspose.pdf-for-.net-case-study-from-innermedia,-inc/65f1453efadd41acb90c99e9e5f38e1a"
+download_text: " Download"
+Intro_text: " Learn how Innermedia, Inc. chose Aspose over all competitors as it was the only ..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 110  Views: 56"
+file_size: "  File Size: 745.4 KB "
 parent_path: "corporate/success-stories/aspose.pdf"
 section_parent_path: "corporate/success-stories"
 weight: 1 
@@ -25,7 +25,15 @@ weight: 1
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>98</li><li>File Size:</li><li>745.4 KB</li><li>Posted By:</li><li>sabrina.tran1</li><li>Views:</li><li>51</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-65f1453efadd41acb90c99e9e5f38e1a" >}} 110 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-65f1453efadd41acb90c99e9e5f38e1a" >}} 745.4 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-65f1453efadd41acb90c99e9e5f38e1a" >}} sabrina.tran1 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-65f1453efadd41acb90c99e9e5f38e1a" >}} 57 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

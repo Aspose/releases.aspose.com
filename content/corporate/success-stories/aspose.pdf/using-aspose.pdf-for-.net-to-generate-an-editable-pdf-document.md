@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Pdf-using-aspose.pdf-for-.net-to-generate-an-edit
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.pdf/using-aspose.pdf-for-.net-to-generate-an-editable-pdf-document/"
-folder_name:  " Using Aspose.PDF for .NET to generate an editable PDF document"
-download_link:  " /corporate/success-stories/aspose.pdf/using-aspose.pdf-for-.net-to-generate-an-editable-pdf-document/4a7093c4286d4cb1b46f81b27bb4662f"
-download_text:  " Download"
-intro_text:  " Learn how Mainpac Solutions Pty Ltd uses Aspose.PDF for .NET to create editable ..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 108  Views: 101"
-file_size:  "  File Size: 377.4 KB "
+folder_link: " corporate/success-stories/aspose.pdf/using-aspose.pdf-for-.net-to-generate-an-editable-pdf-document/"
+folder_name: " Using Aspose.PDF for .NET to generate an editable PDF document"
+download_link: " /corporate/success-stories/aspose.pdf/using-aspose.pdf-for-.net-to-generate-an-editable-pdf-document/4a7093c4286d4cb1b46f81b27bb4662f"
+download_text: " Download"
+Intro_text: " Learn how Mainpac Solutions Pty Ltd uses Aspose.PDF for .NET to create editable ..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 114  Views: 107"
+file_size: "  File Size: 377.4 KB "
 parent_path: "corporate/success-stories/aspose.pdf"
 section_parent_path: "corporate/success-stories"
 weight: 2 
@@ -25,7 +25,15 @@ weight: 2
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>108</li><li>File Size:</li><li>377.4 KB</li><li>Posted By:</li><li>sabrina.tran1</li><li>Views:</li><li>102</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-4a7093c4286d4cb1b46f81b27bb4662f" >}} 114 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-4a7093c4286d4cb1b46f81b27bb4662f" >}} 377.4 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-4a7093c4286d4cb1b46f81b27bb4662f" >}} sabrina.tran1 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-4a7093c4286d4cb1b46f81b27bb4662f" >}} 108 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

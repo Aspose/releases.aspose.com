@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.words-for-reporting-services-3.0.1.0
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.1.0-(dlls-only)/"
-folder_name:  " Aspose.Words for Reporting Services 3.0.1.0 (Dlls Only)"
-download_link:  " /words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.1.0-(dlls-only)/04f2e2e733f24971874510eeb9b40b19"
-download_text:  " Download"
-intro_text:  " This is a maintenance release addressing some recent issues reported by the cust..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   1/14/2009  Downloads: 121  Views: 292"
-file_size:  "  File Size: 10.0 MB "
+folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.1.0-(dlls-only)/"
+folder_name: " Aspose.Words for Reporting Services 3.0.1.0 (Dlls Only)"
+download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.1.0-(dlls-only)/04f2e2e733f24971874510eeb9b40b19"
+download_text: " Download"
+Intro_text: " This is a maintenance release addressing some recent issues reported by the cust..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   1/14/2009  Downloads: 121  Views: 293"
+file_size: "  File Size: 10.0 MB "
 parent_path: "words/reportingservices"
+section_parent_path: "words/reportingservices"
 weight: 112 
 ---
 
@@ -24,7 +25,17 @@ weight: 112
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>121</li><li>File Size:</li><li>10.0 MB</li><li>Posted By:</li><li>DmitryV</li><li>Views:</li><li>293</li><li>Date Added:</li><li>1/14/2009</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-04f2e2e733f24971874510eeb9b40b19" >}} 121 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-04f2e2e733f24971874510eeb9b40b19" >}} 10.0 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-04f2e2e733f24971874510eeb9b40b19" >}} DmitryV {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-04f2e2e733f24971874510eeb9b40b19" >}} 294 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-04f2e2e733f24971874510eeb9b40b19" >}} 1/14/2009 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

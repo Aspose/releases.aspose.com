@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Slides-workplacedynamics-case-study---aspose.slid
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.slides/workplacedynamics-case-study---aspose.slides/"
-folder_name:  " WorkPlaceDynamics Case Study - Aspose.Slides"
-download_link:  " /corporate/success-stories/aspose.slides/workplacedynamics-case-study---aspose.slides/bda8861113a849b2a6466f751eaed773"
-download_text:  " Download"
-intro_text:  " Case Study that tells how WorkPlaceDynamics uses Aspose.Slides to generate Power..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 580  Views: 1437"
-file_size:  "  File Size: 106.3 KB "
+folder_link: " corporate/success-stories/aspose.slides/workplacedynamics-case-study---aspose.slides/"
+folder_name: " WorkPlaceDynamics Case Study - Aspose.Slides"
+download_link: " /corporate/success-stories/aspose.slides/workplacedynamics-case-study---aspose.slides/bda8861113a849b2a6466f751eaed773"
+download_text: " Download"
+Intro_text: " Case Study that tells how WorkPlaceDynamics uses Aspose.Slides to generate Power..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 580  Views: 1439"
+file_size: "  File Size: 106.3 KB "
 parent_path: "corporate/success-stories/aspose.slides"
 section_parent_path: "corporate/success-stories"
 weight: 6 
@@ -25,7 +25,15 @@ weight: 6
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>580</li><li>File Size:</li><li>106.3 KB</li><li>Posted By:</li><li>Merit</li><li>Views:</li><li>1438</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-bda8861113a849b2a6466f751eaed773" >}} 580 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-bda8861113a849b2a6466f751eaed773" >}} 106.3 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-bda8861113a849b2a6466f751eaed773" >}} Merit {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-bda8861113a849b2a6466f751eaed773" >}} 1440 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

@@ -1,1 +1,2 @@
-<li> {{.Inner }}</li>
+{{ $id := .Get "id" }}
+<li id="{{ $id }}"> {{.Inner }}</li>

@@ -3,15 +3,15 @@ title:  "  Downloads ---Aspose.Pdf-white-rabbit-japan-uses-aspose.pdf-for-.net-t
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.pdf/white-rabbit-japan-uses-aspose.pdf-for-.net-to-streamline-order-fulfilment-operations/"
-folder_name:  " White Rabbit Japan uses Aspose.PDF for .NET to streamline order fulfilment operations"
-download_link:  " /corporate/success-stories/aspose.pdf/white-rabbit-japan-uses-aspose.pdf-for-.net-to-streamline-order-fulfilment-operations/23bd0a7024b44e11ad9df4933dbecaaa"
-download_text:  " Download"
-intro_text:  " White Rabbit Express is a Tokyo-based
+folder_link: " corporate/success-stories/aspose.pdf/white-rabbit-japan-uses-aspose.pdf-for-.net-to-streamline-order-fulfilment-operations/"
+folder_name: " White Rabbit Japan uses Aspose.PDF for .NET to streamline order fulfilment operations"
+download_link: " /corporate/success-stories/aspose.pdf/white-rabbit-japan-uses-aspose.pdf-for-.net-to-streamline-order-fulfilment-operations/23bd0a7024b44e11ad9df4933dbecaaa"
+download_text: " Download"
+Intro_text: " White Rabbit Express is a Tokyo-based
 proxy buying service. They've helped tens..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 204  Views: 850"
-file_size:  "  File Size: 388.2 KB "
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 210  Views: 853"
+file_size: "  File Size: 388.2 KB "
 parent_path: "corporate/success-stories/aspose.pdf"
 section_parent_path: "corporate/success-stories"
 weight: 9 
@@ -26,7 +26,15 @@ weight: 9
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>204</li><li>File Size:</li><li>388.2 KB</li><li>Posted By:</li><li>aske012</li><li>Views:</li><li>851</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-23bd0a7024b44e11ad9df4933dbecaaa" >}} 210 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-23bd0a7024b44e11ad9df4933dbecaaa" >}} 388.2 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-23bd0a7024b44e11ad9df4933dbecaaa" >}} aske012 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-23bd0a7024b44e11ad9df4933dbecaaa" >}} 854 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

@@ -3,15 +3,15 @@ title:  "  Downloads ---Aspose.Email-gladstone-orbit-professional-case-study-for
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.email/gladstone-orbit-professional-case-study-for-aspose.network/"
-folder_name:  " Gladstone Orbit Professional Case Study for Aspose.Network"
-download_link:  " /corporate/success-stories/aspose.email/gladstone-orbit-professional-case-study-for-aspose.network/d7d0d96071b749de9fa197c5958286c2"
-download_text:  " Download"
-intro_text:  " Gladstone is using Aspose.Network in their health club membership management. Th..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 474  Views: 1006"
-file_size:  "  File Size: 180.9 KB "
-parent_path: "corporate/success-stories/aspose.email"                                                          
+folder_link: " corporate/success-stories/aspose.email/gladstone-orbit-professional-case-study-for-aspose.network/"
+folder_name: " Gladstone Orbit Professional Case Study for Aspose.Network"
+download_link: " /corporate/success-stories/aspose.email/gladstone-orbit-professional-case-study-for-aspose.network/d7d0d96071b749de9fa197c5958286c2"
+download_text: " Download"
+Intro_text: " Gladstone is using Aspose.Network in their health club membership management. Th..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 492  Views: 1008"
+file_size: "  File Size: 180.9 KB "
+parent_path: "corporate/success-stories/aspose.email"
 section_parent_path: "corporate/success-stories"
 weight: 2 
 ---
@@ -25,7 +25,15 @@ weight: 2
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>474</li><li>File Size:</li><li>180.9 KB</li><li>Posted By:</li><li>Merit</li><li>Views:</li><li>1007</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-d7d0d96071b749de9fa197c5958286c2" >}} 492 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-d7d0d96071b749de9fa197c5958286c2" >}} 180.9 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-d7d0d96071b749de9fa197c5958286c2" >}} Merit {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-d7d0d96071b749de9fa197c5958286c2" >}} 1009 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

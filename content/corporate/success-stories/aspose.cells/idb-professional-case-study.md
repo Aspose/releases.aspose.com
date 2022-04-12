@@ -3,15 +3,15 @@ title:  "  Downloads ---Aspose.Cells-idb-professional-case-study . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.cells/idb-professional-case-study/"
-folder_name:  " iDB Professional Case Study"
-download_link:  " /corporate/success-stories/aspose.cells/idb-professional-case-study/61938de0d8c645c0847e2f02ce3b5d30"
-download_text:  " Download"
-intro_text:  " iDB Professional used Aspose.Grid in their internet database application. It gav..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 147  Views: 494"
-file_size:  "  File Size: 141.9 KB "
-parent_path: "corporate/success-stories/aspose.cells"                                                          
+folder_link: " corporate/success-stories/aspose.cells/idb-professional-case-study/"
+folder_name: " iDB Professional Case Study"
+download_link: " /corporate/success-stories/aspose.cells/idb-professional-case-study/61938de0d8c645c0847e2f02ce3b5d30"
+download_text: " Download"
+Intro_text: " iDB Professional used Aspose.Grid in their internet database application. It gav..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 147  Views: 495"
+file_size: "  File Size: 141.9 KB "
+parent_path: "corporate/success-stories/aspose.cells"
 section_parent_path: "corporate/success-stories"
 weight: 29 
 ---
@@ -25,7 +25,15 @@ weight: 29
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>147</li><li>File Size:</li><li>141.9 KB</li><li>Posted By:</li><li>Merit</li><li>Views:</li><li>495</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-61938de0d8c645c0847e2f02ce3b5d30" >}} 147 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-61938de0d8c645c0847e2f02ce3b5d30" >}} 141.9 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-61938de0d8c645c0847e2f02ce3b5d30" >}} Merit {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-61938de0d8c645c0847e2f02ce3b5d30" >}} 496 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

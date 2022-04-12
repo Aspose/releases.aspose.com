@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-21.12-(dlls-only) . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-21.12-(dlls-only)/"
-folder_name:  " Aspose.Words for .NET 21.12 (DLLs only)"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-21.12-(dlls-only)/c2dcfa25596340ebbde65c7b08392d47"
-download_text:  " Download"
-intro_text:  " This ZIP file contains the Aspose.Words for .NET and .NET Standard 2.0 assemblie..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   12/8/2021  Downloads: 74  Views: 78"
-file_size:  "  File Size: 76.2 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-21.12-(dlls-only)/"
+folder_name: " Aspose.Words for .NET 21.12 (DLLs only)"
+download_link: " /words/net/new-releases/aspose.words-for-.net-21.12-(dlls-only)/c2dcfa25596340ebbde65c7b08392d47"
+download_text: " Download"
+Intro_text: " This ZIP file contains the Aspose.Words for .NET and .NET Standard 2.0 assemblie..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   12/8/2021  Downloads: 75  Views: 83"
+file_size: "  File Size: 76.2 MB "
 parent_path: "words/net"
-weight: 8 
+section_parent_path: "words/net"
+weight: 10 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 8
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>74</li><li>File Size:</li><li>76.2 MB</li><li>Posted By:</li><li>AndreyN</li><li>Views:</li><li>79</li><li>Date Added:</li><li>12/8/2021</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-c2dcfa25596340ebbde65c7b08392d47" >}} 75 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-c2dcfa25596340ebbde65c7b08392d47" >}} 76.2 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-c2dcfa25596340ebbde65c7b08392d47" >}} AndreyN {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-c2dcfa25596340ebbde65c7b08392d47" >}} 84 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-c2dcfa25596340ebbde65c7b08392d47" >}} 12/8/2021 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

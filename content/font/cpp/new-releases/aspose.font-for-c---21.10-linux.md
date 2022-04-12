@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.font-for-c++-21.10-linux . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " font/cpp/new-releases/aspose.font-for-c---21.10-linux/"
-folder_name:  " Aspose.Font for C++ 21.10 Linux"
-download_link:  " /font/cpp/new-releases/aspose.font-for-c---21.10-linux/40a28ec3912d44f38ae5f2d3b7e72675"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Font for C++ 21.10 Linux release."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   10/17/2021  Downloads: 0  Views: 11"
-file_size:  "  File Size: 57.3 MB "
+folder_link: " font/cpp/new-releases/aspose.font-for-c---21.10-linux/"
+folder_name: " Aspose.Font for C++ 21.10 Linux"
+download_link: " /font/cpp/new-releases/aspose.font-for-c---21.10-linux/40a28ec3912d44f38ae5f2d3b7e72675"
+download_text: " Download"
+Intro_text: " It contains Aspose.Font for C++ 21.10 Linux release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   10/17/2021  Downloads: 0  Views: 13"
+file_size: "  File Size: 57.3 MB "
 parent_path: "font/cpp"
+section_parent_path: "font/cpp"
 weight: 7 
 ---
 
@@ -24,7 +25,17 @@ weight: 7
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>0</li><li>File Size:</li><li>57.3 MB</li><li>Posted By:</li><li>Andrey.Malokhovetskiy</li><li>Views:</li><li>12</li><li>Date Added:</li><li>10/17/2021</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-40a28ec3912d44f38ae5f2d3b7e72675" >}} 0 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-40a28ec3912d44f38ae5f2d3b7e72675" >}} 57.3 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-40a28ec3912d44f38ae5f2d3b7e72675" >}} Andrey.Malokhovetskiy {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-40a28ec3912d44f38ae5f2d3b7e72675" >}} 14 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-40a28ec3912d44f38ae5f2d3b7e72675" >}} 10/17/2021 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

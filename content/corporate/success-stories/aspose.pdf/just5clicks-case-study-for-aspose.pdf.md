@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Pdf-just5clicks-case-study-for-aspose.pdf . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.pdf/just5clicks-case-study-for-aspose.pdf/"
-folder_name:  " Just5Clicks Case Study for Aspose.PDF"
-download_link:  " /corporate/success-stories/aspose.pdf/just5clicks-case-study-for-aspose.pdf/b8b75cac0d934d5ebb539aa53260a601"
-download_text:  " Download"
-intro_text:  " Just5Clicks writes software for school districts. They have incorporated Aspose...."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 603  Views: 1389"
-file_size:  "  File Size: 143.0 KB "
+folder_link: " corporate/success-stories/aspose.pdf/just5clicks-case-study-for-aspose.pdf/"
+folder_name: " Just5Clicks Case Study for Aspose.PDF"
+download_link: " /corporate/success-stories/aspose.pdf/just5clicks-case-study-for-aspose.pdf/b8b75cac0d934d5ebb539aa53260a601"
+download_text: " Download"
+Intro_text: " Just5Clicks writes software for school districts. They have incorporated Aspose...."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 603  Views: 1390"
+file_size: "  File Size: 143.0 KB "
 parent_path: "corporate/success-stories/aspose.pdf"
 section_parent_path: "corporate/success-stories"
 weight: 23 
@@ -25,7 +25,15 @@ weight: 23
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>603</li><li>File Size:</li><li>143.0 KB</li><li>Posted By:</li><li>Merit</li><li>Views:</li><li>1390</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-b8b75cac0d934d5ebb539aa53260a601" >}} 603 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-b8b75cac0d934d5ebb539aa53260a601" >}} 143.0 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-b8b75cac0d934d5ebb539aa53260a601" >}} Merit {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-b8b75cac0d934d5ebb539aa53260a601" >}} 1391 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

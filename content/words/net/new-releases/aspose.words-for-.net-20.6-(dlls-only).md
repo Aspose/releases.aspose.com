@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-20.6-(dlls-only) . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-20.6-(dlls-only)/"
-folder_name:  " Aspose.Words for .NET 20.6 (DLLs only)"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-20.6-(dlls-only)/f932685fa72e401ab53e73316a02204a"
-download_text:  " Download"
-intro_text:  " This ZIP file contains the Aspose.Words for .NET and .NET Standard 2.0 assemblie..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   6/3/2020  Downloads: 190  Views: 306"
-file_size:  "  File Size: 69.0 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-20.6-(dlls-only)/"
+folder_name: " Aspose.Words for .NET 20.6 (DLLs only)"
+download_link: " /words/net/new-releases/aspose.words-for-.net-20.6-(dlls-only)/f932685fa72e401ab53e73316a02204a"
+download_text: " Download"
+Intro_text: " This ZIP file contains the Aspose.Words for .NET and .NET Standard 2.0 assemblie..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   6/3/2020  Downloads: 190  Views: 307"
+file_size: "  File Size: 69.0 MB "
 parent_path: "words/net"
-weight: 8 
+section_parent_path: "words/net"
+weight: 55 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 8
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>190</li><li>File Size:</li><li>69.0 MB</li><li>Posted By:</li><li>AndreyN</li><li>Views:</li><li>307</li><li>Date Added:</li><li>6/3/2020</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-f932685fa72e401ab53e73316a02204a" >}} 190 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-f932685fa72e401ab53e73316a02204a" >}} 69.0 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-f932685fa72e401ab53e73316a02204a" >}} AndreyN {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-f932685fa72e401ab53e73316a02204a" >}} 308 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-f932685fa72e401ab53e73316a02204a" >}} 6/3/2020 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

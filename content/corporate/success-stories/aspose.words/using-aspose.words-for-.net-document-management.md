@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-using-aspose.words-for-.net-document-manage
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/using-aspose.words-for-.net-document-management/"
-folder_name:  " Using Aspose.Words for .NET Document Management"
-download_link:  " /corporate/success-stories/aspose.words/using-aspose.words-for-.net-document-management/4992785178b64b0eb7abb2ea980bb9e3"
-download_text:  " Download"
-intro_text:  " Smart Global Solutions Use Aspose.Words for .NET to provide their customers with..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 83  Views: 148"
-file_size:  "  File Size: 336.6 KB "
+folder_link: " corporate/success-stories/aspose.words/using-aspose.words-for-.net-document-management/"
+folder_name: " Using Aspose.Words for .NET Document Management"
+download_link: " /corporate/success-stories/aspose.words/using-aspose.words-for-.net-document-management/4992785178b64b0eb7abb2ea980bb9e3"
+download_text: " Download"
+Intro_text: " Smart Global Solutions Use Aspose.Words for .NET to provide their customers with..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 85  Views: 151"
+file_size: "  File Size: 336.6 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 21 
+weight: 22 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 21
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>83</li><li>File Size:</li><li>336.6 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>149</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-4992785178b64b0eb7abb2ea980bb9e3" >}} 85 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-4992785178b64b0eb7abb2ea980bb9e3" >}} 336.6 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-4992785178b64b0eb7abb2ea980bb9e3" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-4992785178b64b0eb7abb2ea980bb9e3" >}} 152 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

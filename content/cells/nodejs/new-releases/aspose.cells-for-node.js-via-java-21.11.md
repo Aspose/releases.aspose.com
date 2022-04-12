@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.cells-for-node.js-via-java-21.11 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " cells/nodejs/new-releases/aspose.cells-for-node.js-via-java-21.11/"
+folder_name: " Aspose.Cells for Node.js via Java 21.11"
+download_link: " /cells/nodejs/new-releases/aspose.cells-for-node.js-via-java-21.11/7161fcfa3b45479384dfc4afa2329abb"
+download_text: " Download"
+Intro_text: " It contains Aspose.Cells for Node.js via Java 21.11 release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   11/10/2021  Downloads: 7  Views: 107"
+file_size: "  File Size: 11.4 MB "
+parent_path: "cells/nodejs"
+section_parent_path: "cells/nodejs"
+weight: 5 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Cells for Node.js via Java 21.11" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/cells/nodejs/new-releases/aspose.cells-for-node.js-via-java-21.11/7161fcfa3b45479384dfc4afa2329abb%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-7161fcfa3b45479384dfc4afa2329abb" >}} 7 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-7161fcfa3b45479384dfc4afa2329abb" >}} 11.4 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-7161fcfa3b45479384dfc4afa2329abb" >}} Nick.Liu {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-7161fcfa3b45479384dfc4afa2329abb" >}} 108 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-7161fcfa3b45479384dfc4afa2329abb" >}} 11/10/2021 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/cells/nodejsjava/aspose-cells-for-node-js-via-java-21-11-release-notes/">https://docs.aspose.com/cells/nodejsjava/aspose-cells-for-node-js-via-java-21-11-release-notes/</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

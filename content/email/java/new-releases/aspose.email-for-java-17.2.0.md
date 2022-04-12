@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.email-for-java-17.2.0 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " email/java/new-releases/aspose.email-for-java-17.2.0/"
+folder_name: " Aspose.Email for Java 17.2.0"
+download_link: " /email/java/new-releases/aspose.email-for-java-17.2.0/c17db472b7f746528b66e2dcb199d0ad"
+download_text: " Download"
+Intro_text: " It contains Aspose.Email for Java 17.2.0 release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   2/16/2017  Downloads: 91  Views: 607"
+file_size: "  File Size: 17.3 MB "
+parent_path: "email/java"
+section_parent_path: "email/java"
+weight: 71 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Email for Java 17.2.0" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/email/java/new-releases/aspose.email-for-java-17.2.0/c17db472b7f746528b66e2dcb199d0ad%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/email" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-c17db472b7f746528b66e2dcb199d0ad" >}} 91 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-c17db472b7f746528b66e2dcb199d0ad" >}} 17.3 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-c17db472b7f746528b66e2dcb199d0ad" >}} sergey.vivsiuk {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-c17db472b7f746528b66e2dcb199d0ad" >}} 608 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-c17db472b7f746528b66e2dcb199d0ad" >}} 2/16/2017 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/emailjava/Aspose.Email+for+Java+17.2.0+Release+Notes">https://docs.aspose.com/display/emailjava/Aspose.Email+for+Java+17.2.0+Release+Notes</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

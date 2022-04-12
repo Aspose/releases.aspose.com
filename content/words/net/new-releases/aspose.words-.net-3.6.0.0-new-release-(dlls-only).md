@@ -3,18 +3,19 @@ title:  "  Downloads ---New-Releases-aspose.words-.net-3.6.0.0-new-release-(dlls
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-.net-3.6.0.0-new-release-(dlls-only)/"
-folder_name:  " Aspose.Words .Net 3.6.0.0 New Release (Dlls Only)"
-download_link:  " /words/net/new-releases/aspose.words-.net-3.6.0.0-new-release-(dlls-only)/c43e9263c02f41b2aa3e087bcd18e721"
-download_text:  " Download"
-intro_text:  " New Features
+folder_link: " words/net/new-releases/aspose.words-.net-3.6.0.0-new-release-(dlls-only)/"
+folder_name: " Aspose.Words .Net 3.6.0.0 New Release (Dlls Only)"
+download_link: " /words/net/new-releases/aspose.words-.net-3.6.0.0-new-release-(dlls-only)/c43e9263c02f41b2aa3e087bcd18e721"
+download_text: " Download"
+Intro_text: " New Features
 
 Added a lot of new code examples to the API. Both in C# and VB.N..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   7/25/2007  Downloads: 7  Views: 65"
-file_size:  "  File Size: 516.3 KB "
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   7/25/2007  Downloads: 7  Views: 66"
+file_size: "  File Size: 516.3 KB "
 parent_path: "words/net"
-weight: 38 
+section_parent_path: "words/net"
+weight: 337 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -26,7 +27,17 @@ weight: 38
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>7</li><li>File Size:</li><li>516.3 KB</li><li>Posted By:</li><li>ShL77</li><li>Views:</li><li>66</li><li>Date Added:</li><li>7/25/2007</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-c43e9263c02f41b2aa3e087bcd18e721" >}} 7 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-c43e9263c02f41b2aa3e087bcd18e721" >}} 516.3 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-c43e9263c02f41b2aa3e087bcd18e721" >}} ShL77 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-c43e9263c02f41b2aa3e087bcd18e721" >}} 67 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-c43e9263c02f41b2aa3e087bcd18e721" >}} 7/25/2007 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

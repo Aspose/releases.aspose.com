@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Total-using-aspose.net-total-to-convert-cad-drawi
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/using-aspose.net-total-to-convert-cad-drawings-and-office-documents-to-pdf/"
-folder_name:  " Using Aspose.Net Total to convert CAD drawings and Office documents to PDF"
-download_link:  " /corporate/success-stories/aspose.total/using-aspose.net-total-to-convert-cad-drawings-and-office-documents-to-pdf/9858e5e9b1214839bda912d0b5fcd83c"
-download_text:  " Download"
-intro_text:  " W3K provides a cloud based EDMS (Engineering Document Management System) applied..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 228  Views: 505"
-file_size:  "  File Size: 422.1 KB "
+folder_link: " corporate/success-stories/aspose.total/using-aspose.net-total-to-convert-cad-drawings-and-office-documents-to-pdf/"
+folder_name: " Using Aspose.Net Total to convert CAD drawings and Office documents to PDF"
+download_link: " /corporate/success-stories/aspose.total/using-aspose.net-total-to-convert-cad-drawings-and-office-documents-to-pdf/9858e5e9b1214839bda912d0b5fcd83c"
+download_text: " Download"
+Intro_text: " W3K provides a cloud based EDMS (Engineering Document Management System) applied..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 229  Views: 507"
+file_size: "  File Size: 422.1 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 20 
@@ -25,7 +25,15 @@ weight: 20
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>228</li><li>File Size:</li><li>422.1 KB</li><li>Posted By:</li><li>sabrina.tran</li><li>Views:</li><li>506</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-9858e5e9b1214839bda912d0b5fcd83c" >}} 229 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-9858e5e9b1214839bda912d0b5fcd83c" >}} 422.1 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-9858e5e9b1214839bda912d0b5fcd83c" >}} sabrina.tran {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-9858e5e9b1214839bda912d0b5fcd83c" >}} 508 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

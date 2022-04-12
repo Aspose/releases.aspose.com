@@ -3,15 +3,16 @@ title:  "  Downloads ---Resources-resource-file-for-aspose.ocr-for-.net-1.6.0 . 
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " ocr/net/resources/resource-file-for-aspose.ocr-for-.net-1.6.0/"
-folder_name:  " Resource file for Aspose.OCR for .NET 1.6.0"
-download_link:  " /ocr/net/resources/resource-file-for-aspose.ocr-for-.net-1.6.0/38963d5c0a6c49ee81df9e2b76242044"
-download_text:  " Download"
-intro_text:  " Aspose.OCR for .NET uses a resource file to perform operations against the image..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   7/17/2013  Downloads: 365  Views: 394"
-file_size:  "  File Size: 96.0 MB "
+folder_link: " ocr/net/resources/resource-file-for-aspose.ocr-for-.net-1.6.0/"
+folder_name: " Resource file for Aspose.OCR for .NET 1.6.0"
+download_link: " /ocr/net/resources/resource-file-for-aspose.ocr-for-.net-1.6.0/38963d5c0a6c49ee81df9e2b76242044"
+download_text: " Download"
+Intro_text: " Aspose.OCR for .NET uses a resource file to perform operations against the image..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   7/17/2013  Downloads: 365  Views: 395"
+file_size: "  File Size: 96.0 MB "
 parent_path: "ocr/net/resources/"
+section_parent_path: "ocr/net/resources"
 weight: 20 
 ---
 
@@ -24,7 +25,17 @@ weight: 20
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>365</li><li>File Size:</li><li>96.0 MB</li><li>Posted By:</li><li>tilal.ahmad</li><li>Views:</li><li>395</li><li>Date Added:</li><li>7/17/2013</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-38963d5c0a6c49ee81df9e2b76242044" >}} 365 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-38963d5c0a6c49ee81df9e2b76242044" >}} 96.0 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-38963d5c0a6c49ee81df9e2b76242044" >}} tilal.ahmad {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-38963d5c0a6c49ee81df9e2b76242044" >}} 396 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-38963d5c0a6c49ee81df9e2b76242044" >}} 7/17/2013 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

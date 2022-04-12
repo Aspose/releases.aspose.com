@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-16.11.0-(dlls-only) .
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-16.11.0-(dlls-only)/"
-folder_name:  " Aspose.Words for .NET 16.11.0 (DLLs only)"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-16.11.0-(dlls-only)/88b7fb529cbe4f1999626a52e09bc19e"
-download_text:  " Download"
-intro_text:  " This ZIP file contains only the Aspose.Words for .NET assemblies. The assemblies..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   11/2/2016  Downloads: 410  Views: 408"
-file_size:  "  File Size: 40.6 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-16.11.0-(dlls-only)/"
+folder_name: " Aspose.Words for .NET 16.11.0 (DLLs only)"
+download_link: " /words/net/new-releases/aspose.words-for-.net-16.11.0-(dlls-only)/88b7fb529cbe4f1999626a52e09bc19e"
+download_text: " Download"
+Intro_text: " This ZIP file contains only the Aspose.Words for .NET assemblies. The assemblies..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   11/2/2016  Downloads: 410  Views: 409"
+file_size: "  File Size: 40.6 MB "
 parent_path: "words/net"
-weight: 21 
+section_parent_path: "words/net"
+weight: 140 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 21
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>410</li><li>File Size:</li><li>40.6 MB</li><li>Posted By:</li><li>romank</li><li>Views:</li><li>409</li><li>Date Added:</li><li>11/2/2016</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-88b7fb529cbe4f1999626a52e09bc19e" >}} 410 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-88b7fb529cbe4f1999626a52e09bc19e" >}} 40.6 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-88b7fb529cbe4f1999626a52e09bc19e" >}} romank {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-88b7fb529cbe4f1999626a52e09bc19e" >}} 410 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-88b7fb529cbe4f1999626a52e09bc19e" >}} 11/2/2016 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

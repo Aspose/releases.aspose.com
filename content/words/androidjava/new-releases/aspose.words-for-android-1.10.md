@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.words-for-android-1.10 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " words/androidjava/new-releases/aspose.words-for-android-1.10/"
+folder_name: " Aspose.Words for Android 1.10"
+download_link: " /words/androidjava/new-releases/aspose.words-for-android-1.10/01d7b653e55e4b47a088a97adeb2d665"
+download_text: " Download"
+Intro_text: " This is our regular monthly release. The code base of Aspose.Words for Android 1..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   7/7/2014  Downloads: 259  Views: 568"
+file_size: "  File Size: 18.3 MB "
+parent_path: "words/androidjava"
+section_parent_path: "words/androidjava"
+weight: 44 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Words for Android 1.10" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/words/androidjava/new-releases/aspose.words-for-android-1.10/01d7b653e55e4b47a088a97adeb2d665%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/words" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-01d7b653e55e4b47a088a97adeb2d665" >}} 259 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-01d7b653e55e4b47a088a97adeb2d665" >}} 18.3 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-01d7b653e55e4b47a088a97adeb2d665" >}} romank {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-01d7b653e55e4b47a088a97adeb2d665" >}} 569 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-01d7b653e55e4b47a088a97adeb2d665" >}} 7/7/2014 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

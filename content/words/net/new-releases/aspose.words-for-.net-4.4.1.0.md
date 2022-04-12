@@ -3,17 +3,18 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-4.4.1.0 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-4.4.1.0/"
-folder_name:  " Aspose.Words for .NET 4.4.1.0"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-4.4.1.0/4c51b853e33a4243aafa11ad08c0f133"
-download_text:  " Download"
-intro_text:  " What's New
+folder_link: " words/net/new-releases/aspose.words-for-.net-4.4.1.0/"
+folder_name: " Aspose.Words for .NET 4.4.1.0"
+download_link: " /words/net/new-releases/aspose.words-for-.net-4.4.1.0/4c51b853e33a4243aafa11ad08c0f133"
+download_text: " Download"
+Intro_text: " What's New
 Loading of Microsoft Office 2007 Open XML (DOCX) documents is now su..."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   10/12/2007  Downloads: 972  Views: 2225"
-file_size:  "  File Size: 16.1 MB "
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   10/12/2007  Downloads: 972  Views: 2231"
+file_size: "  File Size: 16.1 MB "
 parent_path: "words/net"
-weight: 36 
+section_parent_path: "words/net"
+weight: 326 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +26,17 @@ weight: 36
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>972</li><li>File Size:</li><li>16.1 MB</li><li>Posted By:</li><li>romank</li><li>Views:</li><li>2226</li><li>Date Added:</li><li>10/12/2007</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-4c51b853e33a4243aafa11ad08c0f133" >}} 972 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-4c51b853e33a4243aafa11ad08c0f133" >}} 16.1 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-4c51b853e33a4243aafa11ad08c0f133" >}} romank {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-4c51b853e33a4243aafa11ad08c0f133" >}} 2232 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-4c51b853e33a4243aafa11ad08c0f133" >}} 10/12/2007 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

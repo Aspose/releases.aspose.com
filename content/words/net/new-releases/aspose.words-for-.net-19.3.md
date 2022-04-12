@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-19.3 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-19.3/"
-folder_name:  " Aspose.Words for .NET 19.3"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-19.3/e992d9bec6f84caa8b49b00004120961"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Words for .NET 19.3 release."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   3/4/2019  Downloads: 230  Views: 585"
-file_size:  "  File Size: 78.0 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-19.3/"
+folder_name: " Aspose.Words for .NET 19.3"
+download_link: " /words/net/new-releases/aspose.words-for-.net-19.3/e992d9bec6f84caa8b49b00004120961"
+download_text: " Download"
+Intro_text: " It contains Aspose.Words for .NET 19.3 release."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   3/4/2019  Downloads: 230  Views: 586"
+file_size: "  File Size: 78.0 MB "
 parent_path: "words/net"
-weight: 10 
+section_parent_path: "words/net"
+weight: 84 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 10
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>230</li><li>File Size:</li><li>78.0 MB</li><li>Posted By:</li><li>AndreyN</li><li>Views:</li><li>586</li><li>Date Added:</li><li>3/4/2019</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-e992d9bec6f84caa8b49b00004120961" >}} 230 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-e992d9bec6f84caa8b49b00004120961" >}} 78.0 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-e992d9bec6f84caa8b49b00004120961" >}} AndreyN {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-e992d9bec6f84caa8b49b00004120961" >}} 587 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-e992d9bec6f84caa8b49b00004120961" >}} 3/4/2019 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

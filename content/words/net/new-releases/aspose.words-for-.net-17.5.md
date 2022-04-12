@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-17.5 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-17.5/"
-folder_name:  " Aspose.Words for .NET 17.5"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-17.5/53c1274963f84d6eb0c38a8906a9d702"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Words for .NET 17.5 release."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   5/15/2017  Downloads: 298  Views: 1000"
-file_size:  "  File Size: 44.0 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-17.5/"
+folder_name: " Aspose.Words for .NET 17.5"
+download_link: " /words/net/new-releases/aspose.words-for-.net-17.5/53c1274963f84d6eb0c38a8906a9d702"
+download_text: " Download"
+Intro_text: " It contains Aspose.Words for .NET 17.5 release."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   5/15/2017  Downloads: 298  Views: 1002"
+file_size: "  File Size: 44.0 MB "
 parent_path: "words/net"
-weight: 16 
+section_parent_path: "words/net"
+weight: 126 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 16
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>298</li><li>File Size:</li><li>44.0 MB</li><li>Posted By:</li><li>romank</li><li>Views:</li><li>1001</li><li>Date Added:</li><li>5/15/2017</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-53c1274963f84d6eb0c38a8906a9d702" >}} 298 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-53c1274963f84d6eb0c38a8906a9d702" >}} 44.0 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-53c1274963f84d6eb0c38a8906a9d702" >}} romank {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-53c1274963f84d6eb0c38a8906a9d702" >}} 1003 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-53c1274963f84d6eb0c38a8906a9d702" >}} 5/15/2017 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-using-aspose.words-for-.net-to-export-conte
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/using-aspose.words-for-.net-to-export-content-for-court-use/"
-folder_name:  " Using Aspose.Words for .NET to export content for court use"
-download_link:  " /corporate/success-stories/aspose.words/using-aspose.words-for-.net-to-export-content-for-court-use/36cd04edbe4c48aa82f8494506f11beb"
-download_text:  " Download"
-intro_text:  " Read about how In Focus IT Ltd uses Aspose.Words .NET to export Zimbabwe Legisla..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 256  Views: 362"
-file_size:  "  File Size: 295.0 KB "
+folder_link: " corporate/success-stories/aspose.words/using-aspose.words-for-.net-to-export-content-for-court-use/"
+folder_name: " Using Aspose.Words for .NET to export content for court use"
+download_link: " /corporate/success-stories/aspose.words/using-aspose.words-for-.net-to-export-content-for-court-use/36cd04edbe4c48aa82f8494506f11beb"
+download_text: " Download"
+Intro_text: " Read about how In Focus IT Ltd uses Aspose.Words .NET to export Zimbabwe Legisla..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 257  Views: 368"
+file_size: "  File Size: 295.0 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 4 
+weight: 5 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 4
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>256</li><li>File Size:</li><li>295.0 KB</li><li>Posted By:</li><li>sabrina.tran1</li><li>Views:</li><li>363</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-36cd04edbe4c48aa82f8494506f11beb" >}} 257 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-36cd04edbe4c48aa82f8494506f11beb" >}} 295.0 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-36cd04edbe4c48aa82f8494506f11beb" >}} sabrina.tran1 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-36cd04edbe4c48aa82f8494506f11beb" >}} 369 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

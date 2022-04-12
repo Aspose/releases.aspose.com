@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.barcode-for-c++-19.1-linux . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " barcode/cpp/new-releases/aspose.barcode-for-c---19.1-linux/"
+folder_name: " Aspose.BarCode for C++ 19.1 Linux"
+download_link: " /barcode/cpp/new-releases/aspose.barcode-for-c---19.1-linux/fced08f0794044a9ac99a51d6178c8c0"
+download_text: " Download"
+Intro_text: " It contains Aspose.BarCode for C++ 19.1 Linux release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   1/31/2019  Downloads: 4  Views: 12"
+file_size: "  File Size: 53.8 MB "
+parent_path: "barcode/cpp"
+section_parent_path: "barcode/cpp"
+weight: 42 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.BarCode for C++ 19.1 Linux" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/barcode/cpp/new-releases/aspose.barcode-for-c---19.1-linux/fced08f0794044a9ac99a51d6178c8c0%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-fced08f0794044a9ac99a51d6178c8c0" >}} 4 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-fced08f0794044a9ac99a51d6178c8c0" >}} 53.8 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-fced08f0794044a9ac99a51d6178c8c0" >}} eldaryakupov {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-fced08f0794044a9ac99a51d6178c8c0" >}} 13 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-fced08f0794044a9ac99a51d6178c8c0" >}} 1/31/2019 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/barcodecpp/Aspose.BarCode+for+Cpp+19.1+Release+Notes">https://docs.aspose.com/display/barcodecpp/Aspose.BarCode+for+Cpp+19.1+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 19.1 Linux release.</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

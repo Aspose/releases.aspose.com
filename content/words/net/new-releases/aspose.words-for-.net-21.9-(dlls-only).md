@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-21.9-(dlls-only) . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-21.9-(dlls-only)/"
-folder_name:  " Aspose.Words for .NET 21.9 (DLLs only)"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-21.9-(dlls-only)/c9610168e7914bada1e84156c72281d0"
-download_text:  " Download"
-intro_text:  " This ZIP file contains the Aspose.Words for .NET and .NET Standard 2.0 assemblie..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   9/2/2021  Downloads: 111  Views: 164"
-file_size:  "  File Size: 75.7 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-21.9-(dlls-only)/"
+folder_name: " Aspose.Words for .NET 21.9 (DLLs only)"
+download_link: " /words/net/new-releases/aspose.words-for-.net-21.9-(dlls-only)/c9610168e7914bada1e84156c72281d0"
+download_text: " Download"
+Intro_text: " This ZIP file contains the Aspose.Words for .NET and .NET Standard 2.0 assemblie..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   9/2/2021  Downloads: 111  Views: 165"
+file_size: "  File Size: 75.7 MB "
 parent_path: "words/net"
-weight: 5 
+section_parent_path: "words/net"
+weight: 25 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 5
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>111</li><li>File Size:</li><li>75.7 MB</li><li>Posted By:</li><li>AndreyN</li><li>Views:</li><li>165</li><li>Date Added:</li><li>9/2/2021</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-c9610168e7914bada1e84156c72281d0" >}} 111 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-c9610168e7914bada1e84156c72281d0" >}} 75.7 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-c9610168e7914bada1e84156c72281d0" >}} AndreyN {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-c9610168e7914bada1e84156c72281d0" >}} 166 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-c9610168e7914bada1e84156c72281d0" >}} 9/2/2021 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

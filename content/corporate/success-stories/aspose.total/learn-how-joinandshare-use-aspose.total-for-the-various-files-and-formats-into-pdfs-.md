@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Total-learn-how-joinandshare-use-aspose.total-for
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/learn-how-joinandshare-use-aspose.total-for-the-various-files-and-formats-into-pdfs-/"
-folder_name:  " Learn how JoinandShare use Aspose.Total for the various files and formats into PDFs "
-download_link:  " /corporate/success-stories/aspose.total/learn-how-joinandshare-use-aspose.total-for-the-various-files-and-formats-into-pdfs-/8e2a90d37b4b4ee5ae4040f192776b3f"
-download_text:  " Download"
-intro_text:  " Our company is located in Berlin, Germany. We develop customer-specific solution..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 193  Views: 408"
-file_size:  "  File Size: 424.6 KB "
+folder_link: " corporate/success-stories/aspose.total/learn-how-joinandshare-use-aspose.total-for-the-various-files-and-formats-into-pdfs-/"
+folder_name: " Learn how JoinandShare use Aspose.Total for the various files and formats into PDFs "
+download_link: " /corporate/success-stories/aspose.total/learn-how-joinandshare-use-aspose.total-for-the-various-files-and-formats-into-pdfs-/8e2a90d37b4b4ee5ae4040f192776b3f"
+download_text: " Download"
+Intro_text: " Our company is located in Berlin, Germany. We develop customer-specific solution..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 193  Views: 414"
+file_size: "  File Size: 424.6 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 9 
@@ -25,7 +25,15 @@ weight: 9
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>193</li><li>File Size:</li><li>424.6 KB</li><li>Posted By:</li><li>aske012</li><li>Views:</li><li>409</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-8e2a90d37b4b4ee5ae4040f192776b3f" >}} 193 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-8e2a90d37b4b4ee5ae4040f192776b3f" >}} 424.6 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-8e2a90d37b4b4ee5ae4040f192776b3f" >}} aske012 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-8e2a90d37b4b4ee5ae4040f192776b3f" >}} 415 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-.net-4.2.6.0-hot-fix . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-.net-4.2.6.0-hot-fix/"
-folder_name:  " Aspose.Words .Net 4.2.6.0 Hot Fix"
-download_link:  " /words/net/new-releases/aspose.words-.net-4.2.6.0-hot-fix/f1d903029b08415ca10d3279e3741fca"
-download_text:  " Download"
-intro_text:  " Today's Aspose.Words for .NET 4.2.6 release contains the following fixes and new..."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   7/25/2007  Downloads: 83  Views: 698"
-file_size:  "  File Size: 12.5 MB "
+folder_link: " words/net/new-releases/aspose.words-.net-4.2.6.0-hot-fix/"
+folder_name: " Aspose.Words .Net 4.2.6.0 Hot Fix"
+download_link: " /words/net/new-releases/aspose.words-.net-4.2.6.0-hot-fix/f1d903029b08415ca10d3279e3741fca"
+download_text: " Download"
+Intro_text: " Today's Aspose.Words for .NET 4.2.6 release contains the following fixes and new..."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   7/25/2007  Downloads: 83  Views: 703"
+file_size: "  File Size: 12.5 MB "
 parent_path: "words/net"
-weight: 42 
+section_parent_path: "words/net"
+weight: 359 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 42
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>83</li><li>File Size:</li><li>12.5 MB</li><li>Posted By:</li><li>ShL77</li><li>Views:</li><li>699</li><li>Date Added:</li><li>7/25/2007</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-f1d903029b08415ca10d3279e3741fca" >}} 83 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-f1d903029b08415ca10d3279e3741fca" >}} 12.5 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-f1d903029b08415ca10d3279e3741fca" >}} ShL77 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-f1d903029b08415ca10d3279e3741fca" >}} 704 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-f1d903029b08415ca10d3279e3741fca" >}} 7/25/2007 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

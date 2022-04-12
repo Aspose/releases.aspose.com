@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.font-for-c++-21.12-linux . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " font/cpp/new-releases/aspose.font-for-c---21.12-linux/"
-folder_name:  " Aspose.Font for C++ 21.12 Linux"
-download_link:  " /font/cpp/new-releases/aspose.font-for-c---21.12-linux/54ed1d9acb014cca84b4d65cd051b4b0"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Font for C++ 21.12 Linux release."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   12/17/2021  Downloads: 0  Views: 8"
-file_size:  "  File Size: 27.4 MB "
+folder_link: " font/cpp/new-releases/aspose.font-for-c---21.12-linux/"
+folder_name: " Aspose.Font for C++ 21.12 Linux"
+download_link: " /font/cpp/new-releases/aspose.font-for-c---21.12-linux/54ed1d9acb014cca84b4d65cd051b4b0"
+download_text: " Download"
+Intro_text: " It contains Aspose.Font for C++ 21.12 Linux release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   12/17/2021  Downloads: 0  Views: 10"
+file_size: "  File Size: 27.4 MB "
 parent_path: "font/cpp"
+section_parent_path: "font/cpp"
 weight: 3 
 ---
 
@@ -24,7 +25,17 @@ weight: 3
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>0</li><li>File Size:</li><li>27.4 MB</li><li>Posted By:</li><li>Andrey.Malokhovetskiy</li><li>Views:</li><li>9</li><li>Date Added:</li><li>12/17/2021</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-54ed1d9acb014cca84b4d65cd051b4b0" >}} 0 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-54ed1d9acb014cca84b4d65cd051b4b0" >}} 27.4 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-54ed1d9acb014cca84b4d65cd051b4b0" >}} Andrey.Malokhovetskiy {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-54ed1d9acb014cca84b4d65cd051b4b0" >}} 11 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-54ed1d9acb014cca84b4d65cd051b4b0" >}} 12/17/2021 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

@@ -3,15 +3,15 @@ title:  "  Downloads ---Aspose.Total-fwbs-hipsworld-case-study-for-aspose.total-
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/fwbs-hipsworld-case-study-for-aspose.total-for-.net/"
-folder_name:  " FWBS HIPSWorld Case Study For Aspose.Total for .NET"
-download_link:  " /corporate/success-stories/aspose.total/fwbs-hipsworld-case-study-for-aspose.total-for-.net/be18a0d3c5c1448ba235d5584896f803"
-download_text:  " Download"
-intro_text:  " 
+folder_link: " corporate/success-stories/aspose.total/fwbs-hipsworld-case-study-for-aspose.total-for-.net/"
+folder_name: " FWBS HIPSWorld Case Study For Aspose.Total for .NET"
+download_link: " /corporate/success-stories/aspose.total/fwbs-hipsworld-case-study-for-aspose.total-for-.net/be18a0d3c5c1448ba235d5584896f803"
+download_text: " Download"
+Intro_text: " 
 The production of a Home Information Pack (HIP) was passed as a legal requirem..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 15  Views: 243"
-file_size:  "  File Size: 583.0 KB "
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 15  Views: 244"
+file_size: "  File Size: 583.0 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 53 
@@ -26,7 +26,19 @@ weight: 53
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>15</li><li>File Size:</li><li>583.0 KB</li><li>Posted By:</li><li>JohnOwens</li><li>Views:</li><li>244</li><li>SHA1:</li><li>aff723f2c0398ed18e08f997b4b258bd12c437d1</li><li>MD5:</li><li>8f41ad8b575d30333cf402b8e56a87e6</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-be18a0d3c5c1448ba235d5584896f803" >}} 15 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-be18a0d3c5c1448ba235d5584896f803" >}} 583.0 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-be18a0d3c5c1448ba235d5584896f803" >}} JohnOwens {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-be18a0d3c5c1448ba235d5584896f803" >}} 245 {{< /Common/li >}} 
+      {{< Common/li  >}} SHA1: {{< /Common/li >}} 
+      {{< Common/li id="sha1-update-be18a0d3c5c1448ba235d5584896f803" >}} aff723f2c0398ed18e08f997b4b258bd12c437d1: {{< /Common/li >}} 
+      {{< Common/li  >}} MD5: {{< /Common/li >}} 
+      {{< Common/li id="md5-update-be18a0d3c5c1448ba235d5584896f803" >}} 8f41ad8b575d30333cf402b8e56a87e6: {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

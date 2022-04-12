@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Total-budget-planning-application-using-aspose . 
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/budget-planning-application-using-aspose/"
-folder_name:  " Budget Planning Application Using Aspose"
-download_link:  " /corporate/success-stories/aspose.total/budget-planning-application-using-aspose/fa40374a8eab44288ff07dffbe0fe55a"
-download_text:  " Download"
-intro_text:  " Learn how Equinoxys uses Aspose.Total in a Budget Planning Application"
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 194  Views: 158"
-file_size:  "  File Size: 456.7 KB "
+folder_link: " corporate/success-stories/aspose.total/budget-planning-application-using-aspose/"
+folder_name: " Budget Planning Application Using Aspose"
+download_link: " /corporate/success-stories/aspose.total/budget-planning-application-using-aspose/fa40374a8eab44288ff07dffbe0fe55a"
+download_text: " Download"
+Intro_text: " Learn how Equinoxys uses Aspose.Total in a Budget Planning Application"
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 199  Views: 165"
+file_size: "  File Size: 456.7 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 2 
@@ -25,7 +25,15 @@ weight: 2
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>194</li><li>File Size:</li><li>456.7 KB</li><li>Posted By:</li><li>sabrina.tran1</li><li>Views:</li><li>159</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-fa40374a8eab44288ff07dffbe0fe55a" >}} 199 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-fa40374a8eab44288ff07dffbe0fe55a" >}} 456.7 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-fa40374a8eab44288ff07dffbe0fe55a" >}} sabrina.tran1 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-fa40374a8eab44288ff07dffbe0fe55a" >}} 166 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

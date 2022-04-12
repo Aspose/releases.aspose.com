@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.cells-for-android-via-java-19.6 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " cells/androidjava/new-releases/aspose.cells-for-android-via-java-19.6/"
+folder_name: " Aspose.Cells for Android via Java 19.6"
+download_link: " /cells/androidjava/new-releases/aspose.cells-for-android-via-java-19.6/78132295a7e5476b85dcd1088a4f465a"
+download_text: " Download"
+Intro_text: " It contains Aspose.Cells for Android via Java 19.6 release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   6/22/2019  Downloads: 31  Views: 114"
+file_size: "  File Size: 8.5 MB "
+parent_path: "cells/androidjava"
+section_parent_path: "cells/androidjava"
+weight: 21 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Cells for Android via Java 19.6" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/cells/androidjava/new-releases/aspose.cells-for-android-via-java-19.6/78132295a7e5476b85dcd1088a4f465a%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-78132295a7e5476b85dcd1088a4f465a" >}} 31 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-78132295a7e5476b85dcd1088a4f465a" >}} 8.5 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-78132295a7e5476b85dcd1088a4f465a" >}} <li>Views: {{< /Common/li >}} 
+      {{< Common/li  >}} 115: {{< /Common/li >}} 
+      {{< Common/li id="115-update-78132295a7e5476b85dcd1088a4f465a" >}} Date Added:: {{< /Common/li >}} 
+      {{< Common/li  >}} 6/22/2019: {{< /Common/li >}} 
+      {{< Common/li id="6/22/2019-update-78132295a7e5476b85dcd1088a4f465a" >}} : {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/cellsjava/Aspose.Cells+for+Android+via+Java+19.6+Release+Notes">https://docs.aspose.com/display/cellsjava/Aspose.Cells+for+Android+via+Java+19.6+Release+Notes</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

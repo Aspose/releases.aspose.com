@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.font-for-c++-21.5.1-linux . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " font/cpp/new-releases/aspose.font-for-c---21.5.1-linux/"
-folder_name:  " Aspose.Font for C++ 21.5.1 Linux"
-download_link:  " /font/cpp/new-releases/aspose.font-for-c---21.5.1-linux/4e0e940c0ea34f8187e5158c38306cee"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Font for C++ 21.5.1 Linux release."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   5/19/2021  Downloads: 0  Views: 9"
-file_size:  "  File Size: 59.2 MB "
+folder_link: " font/cpp/new-releases/aspose.font-for-c---21.5.1-linux/"
+folder_name: " Aspose.Font for C++ 21.5.1 Linux"
+download_link: " /font/cpp/new-releases/aspose.font-for-c---21.5.1-linux/4e0e940c0ea34f8187e5158c38306cee"
+download_text: " Download"
+Intro_text: " It contains Aspose.Font for C++ 21.5.1 Linux release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   5/19/2021  Downloads: 0  Views: 10"
+file_size: "  File Size: 59.2 MB "
 parent_path: "font/cpp"
-weight: 6 
+section_parent_path: "font/cpp"
+weight: 24 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 6
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>0</li><li>File Size:</li><li>59.2 MB</li><li>Posted By:</li><li>Andrey.Malokhovetskiy</li><li>Views:</li><li>10</li><li>Date Added:</li><li>5/19/2021</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-4e0e940c0ea34f8187e5158c38306cee" >}} 0 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-4e0e940c0ea34f8187e5158c38306cee" >}} 59.2 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-4e0e940c0ea34f8187e5158c38306cee" >}} Andrey.Malokhovetskiy {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-4e0e940c0ea34f8187e5158c38306cee" >}} 11 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-4e0e940c0ea34f8187e5158c38306cee" >}} 5/19/2021 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

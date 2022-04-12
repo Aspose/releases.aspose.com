@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-10.8.0-(dlls-only) . 
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-10.8.0-(dlls-only)/"
-folder_name:  " Aspose.Words for .NET 10.8.0 (DLLs only)"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-10.8.0-(dlls-only)/4e08a6f5b6d1483596fc7fc97c495121"
-download_text:  " Download"
-intro_text:  " This ZIP file contains only the Aspose.Words for .NET assemblies. The assemblies..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   12/31/2011  Downloads: 474  Views: 507"
-file_size:  "  File Size: 18.5 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-10.8.0-(dlls-only)/"
+folder_name: " Aspose.Words for .NET 10.8.0 (DLLs only)"
+download_link: " /words/net/new-releases/aspose.words-for-.net-10.8.0-(dlls-only)/4e08a6f5b6d1483596fc7fc97c495121"
+download_text: " Download"
+Intro_text: " This ZIP file contains only the Aspose.Words for .NET assemblies. The assemblies..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   12/31/2011  Downloads: 474  Views: 508"
+file_size: "  File Size: 18.5 MB "
 parent_path: "words/net"
-weight: 34 
+section_parent_path: "words/net"
+weight: 261 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 34
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>474</li><li>File Size:</li><li>18.5 MB</li><li>Posted By:</li><li>Vladimir_Kurguzov</li><li>Views:</li><li>508</li><li>Date Added:</li><li>12/31/2011</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-4e08a6f5b6d1483596fc7fc97c495121" >}} 474 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-4e08a6f5b6d1483596fc7fc97c495121" >}} 18.5 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-4e08a6f5b6d1483596fc7fc97c495121" >}} Vladimir_Kurguzov {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-4e08a6f5b6d1483596fc7fc97c495121" >}} 509 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-4e08a6f5b6d1483596fc7fc97c495121" >}} 12/31/2011 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

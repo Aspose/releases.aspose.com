@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-11.6.0 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-11.6.0/"
-folder_name:  " Aspose.Words for .NET 11.6.0"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-11.6.0/66234802db32427d996baf2a7a04cdf7"
-download_text:  " Download"
-intro_text:  " Aspose.Words for .NET 11.6 Release NotesWhat's newThere are 95 improvements and ..."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   8/2/2012  Downloads: 706  Views: 2301"
-file_size:  "  File Size: 49.5 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-11.6.0/"
+folder_name: " Aspose.Words for .NET 11.6.0"
+download_link: " /words/net/new-releases/aspose.words-for-.net-11.6.0/66234802db32427d996baf2a7a04cdf7"
+download_text: " Download"
+Intro_text: " Aspose.Words for .NET 11.6 Release NotesWhat's newThere are 95 improvements and ..."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   8/2/2012  Downloads: 706  Views: 2302"
+file_size: "  File Size: 49.5 MB "
 parent_path: "words/net"
-weight: 29 
+section_parent_path: "words/net"
+weight: 247 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 29
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>706</li><li>File Size:</li><li>49.5 MB</li><li>Posted By:</li><li>Vladimir_Kurguzov</li><li>Views:</li><li>2302</li><li>Date Added:</li><li>8/2/2012</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-66234802db32427d996baf2a7a04cdf7" >}} 706 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-66234802db32427d996baf2a7a04cdf7" >}} 49.5 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-66234802db32427d996baf2a7a04cdf7" >}} Vladimir_Kurguzov {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-66234802db32427d996baf2a7a04cdf7" >}} 2303 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-66234802db32427d996baf2a7a04cdf7" >}} 8/2/2012 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

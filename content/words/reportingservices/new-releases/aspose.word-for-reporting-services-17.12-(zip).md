@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.word-for-reporting-services-17.12-(z
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/reportingservices/new-releases/aspose.word-for-reporting-services-17.12-(zip)/"
-folder_name:  " Aspose.Word for Reporting Services 17.12 (Zip)"
-download_link:  " /words/reportingservices/new-releases/aspose.word-for-reporting-services-17.12-(zip)/ddc62262c2164a2cb98d51223c1fc63a"
-download_text:  " Download"
-intro_text:  " Upgrade to the latest version of Aspose.Words for .NET (17.12)"
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   12/18/2017  Downloads: 12  Views: 247"
-file_size:  "  File Size: 59.7 MB "
+folder_link: " words/reportingservices/new-releases/aspose.word-for-reporting-services-17.12-(zip)/"
+folder_name: " Aspose.Word for Reporting Services 17.12 (Zip)"
+download_link: " /words/reportingservices/new-releases/aspose.word-for-reporting-services-17.12-(zip)/ddc62262c2164a2cb98d51223c1fc63a"
+download_text: " Download"
+Intro_text: " Upgrade to the latest version of Aspose.Words for .NET (17.12)"
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   12/18/2017  Downloads: 12  Views: 248"
+file_size: "  File Size: 59.7 MB "
 parent_path: "words/reportingservices"
+section_parent_path: "words/reportingservices"
 weight: 54 
 ---
 
@@ -24,7 +25,17 @@ weight: 54
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>12</li><li>File Size:</li><li>59.7 MB</li><li>Posted By:</li><li>vadimpo</li><li>Views:</li><li>248</li><li>Date Added:</li><li>12/18/2017</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-ddc62262c2164a2cb98d51223c1fc63a" >}} 12 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-ddc62262c2164a2cb98d51223c1fc63a" >}} 59.7 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-ddc62262c2164a2cb98d51223c1fc63a" >}} vadimpo {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-ddc62262c2164a2cb98d51223c1fc63a" >}} 249 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-ddc62262c2164a2cb98d51223c1fc63a" >}} 12/18/2017 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

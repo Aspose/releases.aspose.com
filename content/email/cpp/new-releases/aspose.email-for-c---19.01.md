@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.email-for-c++-19.01 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " email/cpp/new-releases/aspose.email-for-c---19.01/"
+folder_name: " Aspose.Email for C++ 19.01"
+download_link: " /email/cpp/new-releases/aspose.email-for-c---19.01/7bb1732e2973464f96fc49f4081047a6"
+download_text: " Download"
+Intro_text: " It contains Aspose.Email for C++ 19.01 release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   2/5/2019  Downloads: 9  Views: 28"
+file_size: "  File Size: 143.6 MB "
+parent_path: "email/cpp"
+section_parent_path: "email/cpp"
+weight: 39 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Email for C++ 19.01" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/email/cpp/new-releases/aspose.email-for-c---19.01/7bb1732e2973464f96fc49f4081047a6%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/email" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-7bb1732e2973464f96fc49f4081047a6" >}} 9 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-7bb1732e2973464f96fc49f4081047a6" >}} 143.6 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-7bb1732e2973464f96fc49f4081047a6" >}} Vitalij.Shitts {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-7bb1732e2973464f96fc49f4081047a6" >}} 29 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-7bb1732e2973464f96fc49f4081047a6" >}} 2/5/2019 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/emailcpp/Aspose.Email+for+CPP+19.1+Release+Notes">https://docs.aspose.com/display/emailcpp/Aspose.Email+for+CPP+19.1+Release+Notes</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

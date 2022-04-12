@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Total-xpand-it-develops-an-add-ons-for-jira-and-u
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/xpand-it-develops-an-add-ons-for-jira-and-uses-aspose.total/"
-folder_name:  " Xpand IT develops an Add-Ons for JIRA and uses Aspose.Total"
-download_link:  " /corporate/success-stories/aspose.total/xpand-it-develops-an-add-ons-for-jira-and-uses-aspose.total/1b7a09f558be4821944fc01f9accf53e"
-download_text:  " Download"
-intro_text:  " Xpand IT chose Aspose.Total, since they are already satisfied clients, Their dev..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 193  Views: 429"
-file_size:  "  File Size: 720.4 KB "
+folder_link: " corporate/success-stories/aspose.total/xpand-it-develops-an-add-ons-for-jira-and-uses-aspose.total/"
+folder_name: " Xpand IT develops an Add-Ons for JIRA and uses Aspose.Total"
+download_link: " /corporate/success-stories/aspose.total/xpand-it-develops-an-add-ons-for-jira-and-uses-aspose.total/1b7a09f558be4821944fc01f9accf53e"
+download_text: " Download"
+Intro_text: " Xpand IT chose Aspose.Total, since they are already satisfied clients, Their dev..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 194  Views: 434"
+file_size: "  File Size: 720.4 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 8 
@@ -25,7 +25,15 @@ weight: 8
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>193</li><li>File Size:</li><li>720.4 KB</li><li>Posted By:</li><li>sabrina.tran</li><li>Views:</li><li>430</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-1b7a09f558be4821944fc01f9accf53e" >}} 194 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-1b7a09f558be4821944fc01f9accf53e" >}} 720.4 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-1b7a09f558be4821944fc01f9accf53e" >}} sabrina.tran {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-1b7a09f558be4821944fc01f9accf53e" >}} 435 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

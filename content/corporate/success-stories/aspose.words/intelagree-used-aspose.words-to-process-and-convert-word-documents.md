@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-intelagree-used-aspose.words-to-process-and
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/intelagree-used-aspose.words-to-process-and-convert-word-documents/"
-folder_name:  " IntelAgree Used Aspose.Words to Process and Convert Word Documents"
-download_link:  " /corporate/success-stories/aspose.words/intelagree-used-aspose.words-to-process-and-convert-word-documents/7188b5b4b3b544d5963dea7869f198fc"
-download_text:  " Download"
-intro_text:  " IntelAgree is a contract management platform powered by machine learning. They m..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 78  Views: 118"
-file_size:  "  File Size: 397.4 KB "
+folder_link: " corporate/success-stories/aspose.words/intelagree-used-aspose.words-to-process-and-convert-word-documents/"
+folder_name: " IntelAgree Used Aspose.Words to Process and Convert Word Documents"
+download_link: " /corporate/success-stories/aspose.words/intelagree-used-aspose.words-to-process-and-convert-word-documents/7188b5b4b3b544d5963dea7869f198fc"
+download_text: " Download"
+Intro_text: " IntelAgree is a contract management platform powered by machine learning. They m..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 78  Views: 120"
+file_size: "  File Size: 397.4 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 20 
+weight: 21 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 20
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>78</li><li>File Size:</li><li>397.4 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>119</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-7188b5b4b3b544d5963dea7869f198fc" >}} 78 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-7188b5b4b3b544d5963dea7869f198fc" >}} 397.4 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-7188b5b4b3b544d5963dea7869f198fc" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-7188b5b4b3b544d5963dea7869f198fc" >}} 121 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

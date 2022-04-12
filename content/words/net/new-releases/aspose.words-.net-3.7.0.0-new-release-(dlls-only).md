@@ -3,20 +3,21 @@ title:  "  Downloads ---New-Releases-aspose.words-.net-3.7.0.0-new-release-(dlls
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-.net-3.7.0.0-new-release-(dlls-only)/"
-folder_name:  " Aspose.Words .Net 3.7.0.0 New Release (Dlls Only)"
-download_link:  " /words/net/new-releases/aspose.words-.net-3.7.0.0-new-release-(dlls-only)/0eaa806a9b41420097f58922f28411c6"
-download_text:  " Download"
-intro_text:  " New Features
+folder_link: " words/net/new-releases/aspose.words-.net-3.7.0.0-new-release-(dlls-only)/"
+folder_name: " Aspose.Words .Net 3.7.0.0 New Release (Dlls Only)"
+download_link: " /words/net/new-releases/aspose.words-.net-3.7.0.0-new-release-(dlls-only)/0eaa806a9b41420097f58922f28411c6"
+download_text: " Download"
+Intro_text: " New Features
 
 
 Microsoft Word 2007 files are now supported.
 Added public API..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   7/25/2007  Downloads: 14  Views: 46"
-file_size:  "  File Size: 601.5 KB "
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   7/25/2007  Downloads: 14  Views: 47"
+file_size: "  File Size: 601.5 KB "
 parent_path: "words/net"
-weight: 42 
+section_parent_path: "words/net"
+weight: 341 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -28,7 +29,17 @@ weight: 42
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>14</li><li>File Size:</li><li>601.5 KB</li><li>Posted By:</li><li>ShL77</li><li>Views:</li><li>47</li><li>Date Added:</li><li>7/25/2007</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-0eaa806a9b41420097f58922f28411c6" >}} 14 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-0eaa806a9b41420097f58922f28411c6" >}} 601.5 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-0eaa806a9b41420097f58922f28411c6" >}} ShL77 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-0eaa806a9b41420097f58922f28411c6" >}} 48 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-0eaa806a9b41420097f58922f28411c6" >}} 7/25/2007 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

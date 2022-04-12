@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-22.3 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-22.3/"
-folder_name:  " Aspose.Words for .NET 22.3"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-22.3/98bbf9c9d44249428434e141308883fc"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Words for .NET 22.3 release."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   Added: 5 weeks ago [2/28/2022]  Downloads: 104  Views: 236"
-file_size:  "  File Size: 80.7 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-22.3/"
+folder_name: " Aspose.Words for .NET 22.3"
+download_link: " /words/net/new-releases/aspose.words-for-.net-22.3/98bbf9c9d44249428434e141308883fc"
+download_text: " Download"
+Intro_text: " It contains Aspose.Words for .NET 22.3 release."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   2/28/2022  Downloads: 112  Views: 262"
+file_size: "  File Size: 80.7 MB "
 parent_path: "words/net"
-weight: 1 
+section_parent_path: "words/net"
+weight: 3 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 1
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>104</li><li>File Size:</li><li>80.7 MB</li><li>Posted By:</li><li>AndreyN</li><li>Views:</li><li>237</li><li>Date Added:</li><li>: 5 weeks ago [2/28/2022]</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-98bbf9c9d44249428434e141308883fc" >}} 112 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-98bbf9c9d44249428434e141308883fc" >}} 80.7 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-98bbf9c9d44249428434e141308883fc" >}} AndreyN {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-98bbf9c9d44249428434e141308883fc" >}} 263 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-98bbf9c9d44249428434e141308883fc" >}} 2/28/2022 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

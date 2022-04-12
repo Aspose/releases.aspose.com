@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.total-for-java . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " total/java/new-releases/aspose.total-for-java/"
-folder_name:  " Aspose.Total for Java"
-download_link:  " /total/java/new-releases/aspose.total-for-java/6b6092fa7e1740e69793eeb15dda1beb"
-download_text:  " Download"
-intro_text:  " Aspose.Total for Java contains most recent version of all Java products."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   Added: 5 days ago [3/25/2022]  Downloads: 47135  Views: 13660"
-file_size:  "  File Size: 601.4 MB "
+folder_link: " total/java/new-releases/aspose.total-for-java/"
+folder_name: " Aspose.Total for Java"
+download_link: " /total/java/new-releases/aspose.total-for-java/6b6092fa7e1740e69793eeb15dda1beb"
+download_text: " Download"
+Intro_text: " Aspose.Total for Java contains most recent version of all Java products."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   Added: 3 weeks ago [3/25/2022]  Downloads: 47213  Views: 13759"
+file_size: "  File Size: 601.4 MB "
 parent_path: "total/java"
+section_parent_path: "total/java"
 weight: 1 
 ---
 
@@ -24,7 +25,21 @@ weight: 1
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>47135</li><li>File Size:</li><li>601.4 MB</li><li>Posted By:</li><li>aspose.total</li><li>Views:</li><li>13661</li><li>Date Added:</li><li>: 5 days ago [3/25/2022]</li><li>SHA1:</li><li> a9be4c003d23d01766c8ce1344329c68cefa6c3e</li><li>MD5:</li><li>6872cecbe4639109e81858577aa852df</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-6b6092fa7e1740e69793eeb15dda1beb" >}} 47213 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-6b6092fa7e1740e69793eeb15dda1beb" >}} 601.4 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-6b6092fa7e1740e69793eeb15dda1beb" >}} aspose.total {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-6b6092fa7e1740e69793eeb15dda1beb" >}} 13760 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-6b6092fa7e1740e69793eeb15dda1beb" >}} : 3 weeks ago [3/25/2022] {{< /Common/li >}} 
+      {{< Common/li  >}} SHA1: {{< /Common/li >}} 
+      {{< Common/li id="sha1-update-6b6092fa7e1740e69793eeb15dda1beb" >}}  a9be4c003d23d01766c8ce1344329c68cefa6c3e: {{< /Common/li >}} 
+      {{< Common/li  >}} MD5: {{< /Common/li >}} 
+      {{< Common/li id="md5-update-6b6092fa7e1740e69793eeb15dda1beb" >}} 6872cecbe4639109e81858577aa852df: {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

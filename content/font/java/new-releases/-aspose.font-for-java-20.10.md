@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases--aspose.font-for-java-20.10 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " font/java/new-releases/-aspose.font-for-java-20.10/"
-folder_name:  "  Aspose.Font for Java 20.10"
-download_link:  " /font/java/new-releases/-aspose.font-for-java-20.10/678e2c6de94044bab065c49fb188c082"
-download_text:  " Download"
-intro_text:  " Java library to manipulate fonts - Load, Draw & Save different font types includ..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   10/15/2020  Downloads: 16  Views: 70"
-file_size:  "  File Size: 7.8 MB "
+folder_link: " font/java/new-releases/-aspose.font-for-java-20.10/"
+folder_name: "  Aspose.Font for Java 20.10"
+download_link: " /font/java/new-releases/-aspose.font-for-java-20.10/678e2c6de94044bab065c49fb188c082"
+download_text: " Download"
+Intro_text: " Java library to manipulate fonts - Load, Draw & Save different font types includ..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   10/15/2020  Downloads: 16  Views: 71"
+file_size: "  File Size: 7.8 MB "
 parent_path: "font/java"
+section_parent_path: "font/java"
 weight: 5 
 ---
 
@@ -24,7 +25,17 @@ weight: 5
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>16</li><li>File Size:</li><li>7.8 MB</li><li>Posted By:</li><li>skolod</li><li>Views:</li><li>71</li><li>Date Added:</li><li>10/15/2020</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-678e2c6de94044bab065c49fb188c082" >}} 16 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-678e2c6de94044bab065c49fb188c082" >}} 7.8 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-678e2c6de94044bab065c49fb188c082" >}} skolod {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-678e2c6de94044bab065c49fb188c082" >}} 72 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-678e2c6de94044bab065c49fb188c082" >}} 10/15/2020 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

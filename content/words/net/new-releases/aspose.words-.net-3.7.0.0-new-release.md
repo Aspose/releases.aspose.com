@@ -3,20 +3,21 @@ title:  "  Downloads ---New-Releases-aspose.words-.net-3.7.0.0-new-release . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-.net-3.7.0.0-new-release/"
-folder_name:  " Aspose.Words .Net 3.7.0.0 New Release"
-download_link:  " /words/net/new-releases/aspose.words-.net-3.7.0.0-new-release/3486db2b4012441ca320cd460abac617"
-download_text:  " Download"
-intro_text:  " New Features
+folder_link: " words/net/new-releases/aspose.words-.net-3.7.0.0-new-release/"
+folder_name: " Aspose.Words .Net 3.7.0.0 New Release"
+download_link: " /words/net/new-releases/aspose.words-.net-3.7.0.0-new-release/3486db2b4012441ca320cd460abac617"
+download_text: " Download"
+Intro_text: " New Features
 
 
 Microsoft Word 2007 files are now supported.
 Added public API..."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   7/25/2007  Downloads: 17  Views: 126"
-file_size:  "  File Size: 6.1 MB "
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   7/25/2007  Downloads: 17  Views: 127"
+file_size: "  File Size: 6.1 MB "
 parent_path: "words/net"
-weight: 34 
+section_parent_path: "words/net"
+weight: 342 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -28,7 +29,17 @@ weight: 34
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>17</li><li>File Size:</li><li>6.1 MB</li><li>Posted By:</li><li>ShL77</li><li>Views:</li><li>127</li><li>Date Added:</li><li>7/25/2007</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-3486db2b4012441ca320cd460abac617" >}} 17 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-3486db2b4012441ca320cd460abac617" >}} 6.1 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-3486db2b4012441ca320cd460abac617" >}} ShL77 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-3486db2b4012441ca320cd460abac617" >}} 128 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-3486db2b4012441ca320cd460abac617" >}} 7/25/2007 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

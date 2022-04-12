@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.pdf-for-.net-20.12 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " pdf/net/new-releases/aspose.pdf-for-.net-20.12/"
+folder_name: " Aspose.PDF for .NET 20.12"
+download_link: " /pdf/net/new-releases/aspose.pdf-for-.net-20.12/af25b1fd6012442c8256e6118eeba097"
+download_text: " Download"
+Intro_text: " It contains Aspose.PDF for .NET 20.12 release."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   12/9/2020  Downloads: 113  Views: 219"
+file_size: "  File Size: 150.7 MB "
+parent_path: "pdf/net"
+section_parent_path: "pdf/net"
+weight: 40 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.PDF for .NET 20.12" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/pdf/net/new-releases/aspose.pdf-for-.net-20.12/af25b1fd6012442c8256e6118eeba097%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-af25b1fd6012442c8256e6118eeba097" >}} 113 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-af25b1fd6012442c8256e6118eeba097" >}} 150.7 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-af25b1fd6012442c8256e6118eeba097" >}} alex.levshin {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-af25b1fd6012442c8256e6118eeba097" >}} 220 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-af25b1fd6012442c8256e6118eeba097" >}} 12/9/2020 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/pdf/net/aspose-pdf-for-net-20-12-release-notes/">https://docs.aspose.com/pdf/net/aspose-pdf-for-net-20-12-release-notes/</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

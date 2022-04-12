@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-18.7-(dlls-only) . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-18.7-(dlls-only)/"
-folder_name:  " Aspose.Words for .NET 18.7 (DLLs only)"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-18.7-(dlls-only)/4ed8552b70fe478b860789821e7bc54a"
-download_text:  " Download"
-intro_text:  " This ZIP file contains the Aspose.Words for .NET, Xamarin and .NET Standard 2.0 ..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   7/4/2018  Downloads: 205  Views: 220"
-file_size:  "  File Size: 74.1 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-18.7-(dlls-only)/"
+folder_name: " Aspose.Words for .NET 18.7 (DLLs only)"
+download_link: " /words/net/new-releases/aspose.words-for-.net-18.7-(dlls-only)/4ed8552b70fe478b860789821e7bc54a"
+download_text: " Download"
+Intro_text: " This ZIP file contains the Aspose.Words for .NET, Xamarin and .NET Standard 2.0 ..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   7/4/2018  Downloads: 205  Views: 221"
+file_size: "  File Size: 74.1 MB "
 parent_path: "words/net"
-weight: 18 
+section_parent_path: "words/net"
+weight: 101 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 18
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>205</li><li>File Size:</li><li>74.1 MB</li><li>Posted By:</li><li>AndreyN</li><li>Views:</li><li>221</li><li>Date Added:</li><li>7/4/2018</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-4ed8552b70fe478b860789821e7bc54a" >}} 205 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-4ed8552b70fe478b860789821e7bc54a" >}} 74.1 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-4ed8552b70fe478b860789821e7bc54a" >}} AndreyN {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-4ed8552b70fe478b860789821e7bc54a" >}} 222 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-4ed8552b70fe478b860789821e7bc54a" >}} 7/4/2018 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

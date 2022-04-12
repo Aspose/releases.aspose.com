@@ -3,15 +3,16 @@ title:  "  Downloads ---Resources-resource-file-for-aspose.ocr-for-.net-1.0.0 . 
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " ocr/net/resources/resource-file-for-aspose.ocr-for-.net-1.0.0/"
-folder_name:  " Resource file for Aspose.OCR for .NET 1.0.0"
-download_link:  " /ocr/net/resources/resource-file-for-aspose.ocr-for-.net-1.0.0/8ed44e9ca8d5421f9cecf9faf23c5613"
-download_text:  " Download"
-intro_text:  " Aspose.OCR for .NET uses a resource file to perform operations against the image..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   7/8/2011  Downloads: 489  Views: 667"
-file_size:  "  File Size: 39.5 MB "
+folder_link: " ocr/net/resources/resource-file-for-aspose.ocr-for-.net-1.0.0/"
+folder_name: " Resource file for Aspose.OCR for .NET 1.0.0"
+download_link: " /ocr/net/resources/resource-file-for-aspose.ocr-for-.net-1.0.0/8ed44e9ca8d5421f9cecf9faf23c5613"
+download_text: " Download"
+Intro_text: " Aspose.OCR for .NET uses a resource file to perform operations against the image..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   7/8/2011  Downloads: 489  Views: 668"
+file_size: "  File Size: 39.5 MB "
 parent_path: "ocr/net/resources/"
+section_parent_path: "ocr/net/resources"
 weight: 23 
 ---
 
@@ -24,7 +25,17 @@ weight: 23
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>489</li><li>File Size:</li><li>39.5 MB</li><li>Posted By:</li><li>zaheer.tariq</li><li>Views:</li><li>668</li><li>Date Added:</li><li>7/8/2011</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-8ed44e9ca8d5421f9cecf9faf23c5613" >}} 489 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-8ed44e9ca8d5421f9cecf9faf23c5613" >}} 39.5 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-8ed44e9ca8d5421f9cecf9faf23c5613" >}} zaheer.tariq {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-8ed44e9ca8d5421f9cecf9faf23c5613" >}} 669 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-8ed44e9ca8d5421f9cecf9faf23c5613" >}} 7/8/2011 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.word-for-reporting-services-18.5-(zi
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/reportingservices/new-releases/aspose.word-for-reporting-services-18.5-(zip)/"
-folder_name:  " Aspose.Word for Reporting Services 18.5 (Zip)"
-download_link:  " /words/reportingservices/new-releases/aspose.word-for-reporting-services-18.5-(zip)/b8394009fb844ea594b7840df61175f0"
-download_text:  " Download"
-intro_text:  " Upgrade to latest Aspose.Words for .NET 18.5"
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   6/1/2018  Downloads: 12  Views: 25"
-file_size:  "  File Size: 50.6 MB "
+folder_link: " words/reportingservices/new-releases/aspose.word-for-reporting-services-18.5-(zip)/"
+folder_name: " Aspose.Word for Reporting Services 18.5 (Zip)"
+download_link: " /words/reportingservices/new-releases/aspose.word-for-reporting-services-18.5-(zip)/b8394009fb844ea594b7840df61175f0"
+download_text: " Download"
+Intro_text: " Upgrade to latest Aspose.Words for .NET 18.5"
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   6/1/2018  Downloads: 12  Views: 26"
+file_size: "  File Size: 50.6 MB "
 parent_path: "words/reportingservices"
+section_parent_path: "words/reportingservices"
 weight: 45 
 ---
 
@@ -24,7 +25,17 @@ weight: 45
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>12</li><li>File Size:</li><li>50.6 MB</li><li>Posted By:</li><li>vadimpo</li><li>Views:</li><li>26</li><li>Date Added:</li><li>6/1/2018</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-b8394009fb844ea594b7840df61175f0" >}} 12 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-b8394009fb844ea594b7840df61175f0" >}} 50.6 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-b8394009fb844ea594b7840df61175f0" >}} vadimpo {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-b8394009fb844ea594b7840df61175f0" >}} 27 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-b8394009fb844ea594b7840df61175f0" >}} 6/1/2018 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

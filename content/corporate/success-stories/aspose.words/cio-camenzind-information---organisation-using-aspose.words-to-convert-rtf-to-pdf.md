@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-cio-camenzind-information---organisation-us
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/cio-camenzind-information---organisation-using-aspose.words-to-convert-rtf-to-pdf/"
-folder_name:  " CIO Camenzind Information + Organisation Using Aspose.Words to Convert RTF to PDF"
-download_link:  " /corporate/success-stories/aspose.words/cio-camenzind-information---organisation-using-aspose.words-to-convert-rtf-to-pdf/9212d3b58d9c4a7cb0000c3932d7acec"
-download_text:  " Download"
-intro_text:  " XfleX offers a SaaS documentation production service to small and medium busines..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 224  Views: 269"
-file_size:  "  File Size: 335.0 KB "
+folder_link: " corporate/success-stories/aspose.words/cio-camenzind-information---organisation-using-aspose.words-to-convert-rtf-to-pdf/"
+folder_name: " CIO Camenzind Information + Organisation Using Aspose.Words to Convert RTF to PDF"
+download_link: " /corporate/success-stories/aspose.words/cio-camenzind-information---organisation-using-aspose.words-to-convert-rtf-to-pdf/9212d3b58d9c4a7cb0000c3932d7acec"
+download_text: " Download"
+Intro_text: " XfleX offers a SaaS documentation production service to small and medium busines..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 224  Views: 269"
+file_size: "  File Size: 335.0 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 27 
+weight: 28 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 27
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>224</li><li>File Size:</li><li>335.0 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>269</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-9212d3b58d9c4a7cb0000c3932d7acec" >}} 224 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-9212d3b58d9c4a7cb0000c3932d7acec" >}} 335.0 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-9212d3b58d9c4a7cb0000c3932d7acec" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-9212d3b58d9c4a7cb0000c3932d7acec" >}} 269 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

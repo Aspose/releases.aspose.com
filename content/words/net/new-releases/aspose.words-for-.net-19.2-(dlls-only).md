@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-19.2-(dlls-only) . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-19.2-(dlls-only)/"
-folder_name:  " Aspose.Words for .NET 19.2 (DLLs only)"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-19.2-(dlls-only)/7a2eee44309449c08fd860dcf26a30f1"
-download_text:  " Download"
-intro_text:  " This ZIP file contains the Aspose.Words for .NET, Xamarin and .NET Standard 2.0 ..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   2/1/2019  Downloads: 217  Views: 229"
-file_size:  "  File Size: 75.1 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-19.2-(dlls-only)/"
+folder_name: " Aspose.Words for .NET 19.2 (DLLs only)"
+download_link: " /words/net/new-releases/aspose.words-for-.net-19.2-(dlls-only)/7a2eee44309449c08fd860dcf26a30f1"
+download_text: " Download"
+Intro_text: " This ZIP file contains the Aspose.Words for .NET, Xamarin and .NET Standard 2.0 ..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   2/1/2019  Downloads: 217  Views: 230"
+file_size: "  File Size: 75.1 MB "
 parent_path: "words/net"
-weight: 13 
+section_parent_path: "words/net"
+weight: 87 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 13
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>217</li><li>File Size:</li><li>75.1 MB</li><li>Posted By:</li><li>AndreyN</li><li>Views:</li><li>230</li><li>Date Added:</li><li>2/1/2019</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-7a2eee44309449c08fd860dcf26a30f1" >}} 217 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-7a2eee44309449c08fd860dcf26a30f1" >}} 75.1 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-7a2eee44309449c08fd860dcf26a30f1" >}} AndreyN {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-7a2eee44309449c08fd860dcf26a30f1" >}} 231 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-7a2eee44309449c08fd860dcf26a30f1" >}} 2/1/2019 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

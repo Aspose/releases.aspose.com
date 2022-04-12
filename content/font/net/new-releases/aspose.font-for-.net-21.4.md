@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.font-for-.net-21.4 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " font/net/new-releases/aspose.font-for-.net-21.4/"
-folder_name:  " Aspose.Font for .NET 21.4"
-download_link:  " /font/net/new-releases/aspose.font-for-.net-21.4/fa53c0e9c89745a886f3fd0cbfe45329"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Font for .NET 21.4 release."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   4/8/2021  Downloads: 13  Views: 63"
-file_size:  "  File Size: 3.3 MB "
+folder_link: " font/net/new-releases/aspose.font-for-.net-21.4/"
+folder_name: " Aspose.Font for .NET 21.4"
+download_link: " /font/net/new-releases/aspose.font-for-.net-21.4/fa53c0e9c89745a886f3fd0cbfe45329"
+download_text: " Download"
+Intro_text: " It contains Aspose.Font for .NET 21.4 release."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   4/8/2021  Downloads: 13  Views: 66"
+file_size: "  File Size: 3.3 MB "
 parent_path: "font/net"
+section_parent_path: "font/net"
 weight: 7 
 ---
 
@@ -24,7 +25,17 @@ weight: 7
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>13</li><li>File Size:</li><li>3.3 MB</li><li>Posted By:</li><li>andriy.kotlyarov</li><li>Views:</li><li>64</li><li>Date Added:</li><li>4/8/2021</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-fa53c0e9c89745a886f3fd0cbfe45329" >}} 13 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-fa53c0e9c89745a886f3fd0cbfe45329" >}} 3.3 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-fa53c0e9c89745a886f3fd0cbfe45329" >}} andriy.kotlyarov {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-fa53c0e9c89745a886f3fd0cbfe45329" >}} 67 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-fa53c0e9c89745a886f3fd0cbfe45329" >}} 4/8/2021 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

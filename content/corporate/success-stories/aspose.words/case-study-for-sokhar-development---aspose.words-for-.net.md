@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-case-study-for-sokhar-development---aspose.
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/case-study-for-sokhar-development---aspose.words-for-.net/"
-folder_name:  " Case Study for Sokhar Development - Aspose.Words for .NET"
-download_link:  " /corporate/success-stories/aspose.words/case-study-for-sokhar-development---aspose.words-for-.net/1733a444c30941a181abcb47be94bc4f"
-download_text:  " Download"
-intro_text:  " Sokhar Development used Aspose.Words for .NET to create WebResa; an extranet sol..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 25  Views: 177"
-file_size:  "  File Size: 391.6 KB "
+folder_link: " corporate/success-stories/aspose.words/case-study-for-sokhar-development---aspose.words-for-.net/"
+folder_name: " Case Study for Sokhar Development - Aspose.Words for .NET"
+download_link: " /corporate/success-stories/aspose.words/case-study-for-sokhar-development---aspose.words-for-.net/1733a444c30941a181abcb47be94bc4f"
+download_text: " Download"
+Intro_text: " Sokhar Development used Aspose.Words for .NET to create WebResa; an extranet sol..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 25  Views: 178"
+file_size: "  File Size: 391.6 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 55 
+weight: 56 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 55
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>25</li><li>File Size:</li><li>391.6 KB</li><li>Posted By:</li><li>Shahzad.Ashraf</li><li>Views:</li><li>178</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-1733a444c30941a181abcb47be94bc4f" >}} 25 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-1733a444c30941a181abcb47be94bc4f" >}} 391.6 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-1733a444c30941a181abcb47be94bc4f" >}} Shahzad.Ashraf {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-1733a444c30941a181abcb47be94bc4f" >}} 179 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

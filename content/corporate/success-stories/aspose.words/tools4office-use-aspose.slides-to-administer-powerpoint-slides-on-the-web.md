@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-tools4office-use-aspose.slides-to-administe
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/tools4office-use-aspose.slides-to-administer-powerpoint-slides-on-the-web/"
-folder_name:  " Tools4Office use Aspose.Slides to administer PowerPoint slides on the web"
-download_link:  " /corporate/success-stories/aspose.words/tools4office-use-aspose.slides-to-administer-powerpoint-slides-on-the-web/e5a23d7d0b3045ec808ab3949e30f253"
-download_text:  " Download"
-intro_text:  " Tools4Office provides tools around Microsoft Office products. Their main focus i..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 27  Views: 1398"
-file_size:  "  File Size: 237.1 KB "
+folder_link: " corporate/success-stories/aspose.words/tools4office-use-aspose.slides-to-administer-powerpoint-slides-on-the-web/"
+folder_name: " Tools4Office use Aspose.Slides to administer PowerPoint slides on the web"
+download_link: " /corporate/success-stories/aspose.words/tools4office-use-aspose.slides-to-administer-powerpoint-slides-on-the-web/e5a23d7d0b3045ec808ab3949e30f253"
+download_text: " Download"
+Intro_text: " Tools4Office provides tools around Microsoft Office products. Their main focus i..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 27  Views: 1400"
+file_size: "  File Size: 237.1 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 43 
+weight: 44 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 43
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>27</li><li>File Size:</li><li>237.1 KB</li><li>Posted By:</li><li>caroline.von.schmalensee</li><li>Views:</li><li>1399</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-e5a23d7d0b3045ec808ab3949e30f253" >}} 27 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-e5a23d7d0b3045ec808ab3949e30f253" >}} 237.1 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-e5a23d7d0b3045ec808ab3949e30f253" >}} caroline.von.schmalensee {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-e5a23d7d0b3045ec808ab3949e30f253" >}} 1401 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

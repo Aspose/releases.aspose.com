@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.slides-.net-2.5.8.0-hot-fix . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " slides/net/new-releases/aspose.slides-.net-2.5.8.0-hot-fix/"
+folder_name: " Aspose.Slides .Net 2.5.8.0 Hot Fix"
+download_link: " /slides/net/new-releases/aspose.slides-.net-2.5.8.0-hot-fix/a8d3c680df3e4b358b3d04eacd10684a"
+download_text: " Download"
+Intro_text: " Hot fix contains:New: Export to SVG with hyperlinks.New: AutoShapes.Paths proper..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   7/25/2007  Downloads: 1  Views: 19"
+file_size: "  File Size: 787.3 KB "
+parent_path: "slides/net"
+section_parent_path: "slides/net"
+weight: 352 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Slides .Net 2.5.8.0 Hot Fix" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/slides/net/new-releases/aspose.slides-.net-2.5.8.0-hot-fix/a8d3c680df3e4b358b3d04eacd10684a%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-a8d3c680df3e4b358b3d04eacd10684a" >}} 1 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-a8d3c680df3e4b358b3d04eacd10684a" >}} 787.3 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-a8d3c680df3e4b358b3d04eacd10684a" >}} ShL77 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-a8d3c680df3e4b358b3d04eacd10684a" >}} 20 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-a8d3c680df3e4b358b3d04eacd10684a" >}} 7/25/2007 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

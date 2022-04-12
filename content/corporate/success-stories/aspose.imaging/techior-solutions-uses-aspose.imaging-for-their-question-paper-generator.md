@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Imaging-techior-solutions-uses-aspose.imaging-for
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.imaging/techior-solutions-uses-aspose.imaging-for-their-question-paper-generator/"
-folder_name:  " Techior Solutions uses Aspose.Imaging for their Question Paper Generator"
-download_link:  " /corporate/success-stories/aspose.imaging/techior-solutions-uses-aspose.imaging-for-their-question-paper-generator/00021b7f0ce7410e8ce03219147b34ec"
-download_text:  " Download"
-intro_text:  " Learn how Aspose.Imaging helped convert word Math Type equations to images in Ja..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 255  Views: 263"
-file_size:  "  File Size: 338.8 KB "
+folder_link: " corporate/success-stories/aspose.imaging/techior-solutions-uses-aspose.imaging-for-their-question-paper-generator/"
+folder_name: " Techior Solutions uses Aspose.Imaging for their Question Paper Generator"
+download_link: " /corporate/success-stories/aspose.imaging/techior-solutions-uses-aspose.imaging-for-their-question-paper-generator/00021b7f0ce7410e8ce03219147b34ec"
+download_text: " Download"
+Intro_text: " Learn how Aspose.Imaging helped convert word Math Type equations to images in Ja..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 267  Views: 270"
+file_size: "  File Size: 338.8 KB "
 parent_path: "corporate/success-stories/aspose.imaging"
 section_parent_path: "corporate/success-stories"
 weight: 1 
@@ -25,7 +25,15 @@ weight: 1
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>255</li><li>File Size:</li><li>338.8 KB</li><li>Posted By:</li><li>sabrina.tran1</li><li>Views:</li><li>264</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-00021b7f0ce7410e8ce03219147b34ec" >}} 267 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-00021b7f0ce7410e8ce03219147b34ec" >}} 338.8 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-00021b7f0ce7410e8ce03219147b34ec" >}} sabrina.tran1 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-00021b7f0ce7410e8ce03219147b34ec" >}} 271 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

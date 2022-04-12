@@ -16,6 +16,8 @@
 
     {{ if (in $limit "beforecontent") }}
         {{ range first 6 ( where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.section_parent_path" $parent_path ) }}
+        {{$download_link := print .Params.download_link "/"}}
+        {{ $lastUrlElement := index (last 1 (split (delimit (split $download_link "/") "," "") ",")) 0 }}
         <div class="col-md-12">
           <div class="panel-body downloadfilebody">
             <div class="col-sm-1 zipiconbox">
@@ -26,8 +28,8 @@
               <p>{{ .Params.intro_text }}</p>
               <p>
                 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
-                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: **
-                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: ***
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update{{ $lastUrlElement }}"></span>
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}"></span>
               </p>
             </div>
             <div class="col-sm-3">
@@ -40,6 +42,8 @@
         {{ end }}
     {{ else if (in $limit "aftercontent") }}
         {{ range after 6 ( where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.section_parent_path" $parent_path ) }}
+        {{$download_link := print .Params.download_link "/"}}
+        {{ $lastUrlElement := index (last 1 (split (delimit (split $download_link "/") "," "") ",")) 0 }}
         <div class="col-md-12">
           <div class="panel-body downloadfilebody">
             <div class="col-sm-1 zipiconbox">
@@ -50,8 +54,8 @@
               <p>{{ .Params.intro_text }}</p>
               <p>
                 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
-                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: **
-                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: ***
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}"></span>
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}"></span>
               </p>
             </div>
             <div class="col-sm-3">
@@ -64,6 +68,8 @@
         {{ end }}
     {{else}} 
         {{ range  where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.section_parent_path" $parent_path  }}
+        {{$download_link := print .Params.download_link "/"}}
+        {{ $lastUrlElement := index (last 1 (split (delimit (split $download_link "/") "," "") ",")) 0 }}
         <div class="col-md-12">
           <div class="panel-body downloadfilebody">
             <div class="col-sm-1 zipiconbox">
@@ -74,8 +80,8 @@
               <p>{{ .Params.intro_text }}</p>
               <p>
                 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
-                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: **
-                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: ***
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}"></span>
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}"></span>
               </p>
             </div>
             <div class="col-sm-3">
@@ -93,6 +99,8 @@
 
     {{ if (in $limit "beforecontent") }}
         {{ range first 6 ( where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.parent_path" $parent_path ) }}
+        {{$download_link := print .Params.download_link "/"}}
+        {{ $lastUrlElement := index (last 1 (split (delimit (split $download_link "/") "," "") ",")) 0 }}
         <div class="col-md-12">
           <div class="panel-body downloadfilebody">
             <div class="col-sm-1 zipiconbox">
@@ -103,8 +111,8 @@
               <p>{{ .Params.intro_text }}</p>
               <p>
                 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
-                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: **
-                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: ***
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}"></span>
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}"></span>
               </p>
             </div>
             <div class="col-sm-3">
@@ -117,6 +125,8 @@
         {{ end }}
     {{ else if (in $limit "aftercontent") }}
         {{ range after 6 ( where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.parent_path" $parent_path ) }}
+        {{$download_link := print .Params.download_link "/"}}
+        {{ $lastUrlElement := index (last 1 (split (delimit (split $download_link "/") "," "") ",")) 0 }}
         <div class="col-md-12">
           <div class="panel-body downloadfilebody">
             <div class="col-sm-1 zipiconbox">
@@ -127,8 +137,8 @@
               <p>{{ .Params.intro_text }}</p>
               <p>
                 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
-                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: **
-                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: ***
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}"></span>
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}"></span>
               </p>
             </div>
             <div class="col-sm-3">
@@ -140,7 +150,12 @@
         </div>
         {{ end }}
     {{else}} 
+
         {{ range  where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.parent_path" $parent_path  }}
+        
+        {{$download_link := print .Params.download_link "/"}}
+        {{ $lastUrlElement := index (last 1 (split (delimit (split $download_link "/") "," "") ",")) 0 }}
+        
         <div class="col-md-12">
           <div class="panel-body downloadfilebody">
             <div class="col-sm-1 zipiconbox">
@@ -151,8 +166,8 @@
               <p>{{ .Params.intro_text }}</p>
               <p>
                 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
-                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: **
-                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: ***
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}"></span>
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}"></span>
               </p>
             </div>
             <div class="col-sm-3">
@@ -176,3 +191,17 @@
     {{ .Params.parent_path }} | {{ .}}
 {{end}}
 {{end}}</p> -->
+
+<script type="text/javascript">
+  $.getJSON("http://admindemo.local/api/updatecount?path={{$parent_path}}", function(data) { 
+      //var myParam = location.search.split('data=')[1]
+      // data[myParam] = parseInt(data[myParam]) + 1;
+        $.each(data, function(key, value) {
+            //console.log(key+"..."+value);
+            //console.log(key + " View Count " + value.view_count);
+            //console.log(key + " Dwn Count " + value.download_count);
+            $("#dwn-update--"+ key).text(value.download_count);
+            $("#dwn-update-"+ key).text(value.view_count);
+        });
+  });
+</script>

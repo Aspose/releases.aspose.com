@@ -3,16 +3,16 @@ title:  "  Downloads ---Aspose.Cells-xpand-it-used-aspose.cells-to-create-value-
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.cells/xpand-it-used-aspose.cells-to-create-value-for-xporter-add-on-for-jira/"
-folder_name:  " Xpand IT used ASPOSE.CELLS to create value for Xporter Add-On for JIRA"
-download_link:  " /corporate/success-stories/aspose.cells/xpand-it-used-aspose.cells-to-create-value-for-xporter-add-on-for-jira/67544e6a177e4ba6bcdfdbd8400a9d2f"
-download_text:  " Download"
-intro_text:  " This Add-On offers to users the possibility of
+folder_link: " corporate/success-stories/aspose.cells/xpand-it-used-aspose.cells-to-create-value-for-xporter-add-on-for-jira/"
+folder_name: " Xpand IT used ASPOSE.CELLS to create value for Xporter Add-On for JIRA"
+download_link: " /corporate/success-stories/aspose.cells/xpand-it-used-aspose.cells-to-create-value-for-xporter-add-on-for-jira/67544e6a177e4ba6bcdfdbd8400a9d2f"
+download_text: " Download"
+Intro_text: " This Add-On offers to users the possibility of
 exporting their JIRA issues cont..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 319  Views: 1390"
-file_size:  "  File Size: 821.8 KB "
-parent_path: "corporate/success-stories/aspose.cells"                                                          
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 326  Views: 1397"
+file_size: "  File Size: 821.8 KB "
+parent_path: "corporate/success-stories/aspose.cells"
 section_parent_path: "corporate/success-stories"
 weight: 6 
 ---
@@ -26,7 +26,15 @@ weight: 6
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>319</li><li>File Size:</li><li>821.8 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>1391</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-67544e6a177e4ba6bcdfdbd8400a9d2f" >}} 326 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-67544e6a177e4ba6bcdfdbd8400a9d2f" >}} 821.8 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-67544e6a177e4ba6bcdfdbd8400a9d2f" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-67544e6a177e4ba6bcdfdbd8400a9d2f" >}} 1398 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

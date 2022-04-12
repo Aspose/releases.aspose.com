@@ -3,15 +3,16 @@ title:  "  Downloads ---New-Releases-aspose.font-for-java-21.12 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " font/java/new-releases/aspose.font-for-java-21.12/"
-folder_name:  " Aspose.Font for Java 21.12"
-download_link:  " /font/java/new-releases/aspose.font-for-java-21.12/8f7699eaaef0401b91a46dd5b44de0c5"
-download_text:  " Download"
-intro_text:  " Java library to manipulate fonts - Load, Draw & Save different font types includ..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   12/9/2021  Downloads: 22  Views: 16"
-file_size:  "  File Size: 13.1 MB "
+folder_link: " font/java/new-releases/aspose.font-for-java-21.12/"
+folder_name: " Aspose.Font for Java 21.12"
+download_link: " /font/java/new-releases/aspose.font-for-java-21.12/8f7699eaaef0401b91a46dd5b44de0c5"
+download_text: " Download"
+Intro_text: " Java library to manipulate fonts - Load, Draw & Save different font types includ..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   12/9/2021  Downloads: 24  Views: 19"
+file_size: "  File Size: 13.1 MB "
 parent_path: "font/java"
+section_parent_path: "font/java"
 weight: 1 
 ---
 
@@ -24,7 +25,17 @@ weight: 1
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>22</li><li>File Size:</li><li>13.1 MB</li><li>Posted By:</li><li>kolod</li><li>Views:</li><li>17</li><li>Date Added:</li><li>12/9/2021</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-8f7699eaaef0401b91a46dd5b44de0c5" >}} 24 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-8f7699eaaef0401b91a46dd5b44de0c5" >}} 13.1 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-8f7699eaaef0401b91a46dd5b44de0c5" >}} kolod {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-8f7699eaaef0401b91a46dd5b44de0c5" >}} 20 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-8f7699eaaef0401b91a46dd5b44de0c5" >}} 12/9/2021 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

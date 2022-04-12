@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Total-bimser-solutions-aspose.total-for-.net-case
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/bimser-solutions-aspose.total-for-.net-case-study/"
-folder_name:  " Bimser Solutions Aspose.Total for .NET Case Study"
-download_link:  " /corporate/success-stories/aspose.total/bimser-solutions-aspose.total-for-.net-case-study/7769ff853813449193469cb07b21b5ad"
-download_text:  " Download"
-intro_text:  " Bimser Cozum is a company that is focused on producing Management System Softwar..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 50  Views: 402"
-file_size:  "  File Size: 517.1 KB "
+folder_link: " corporate/success-stories/aspose.total/bimser-solutions-aspose.total-for-.net-case-study/"
+folder_name: " Bimser Solutions Aspose.Total for .NET Case Study"
+download_link: " /corporate/success-stories/aspose.total/bimser-solutions-aspose.total-for-.net-case-study/7769ff853813449193469cb07b21b5ad"
+download_text: " Download"
+Intro_text: " Bimser Cozum is a company that is focused on producing Management System Softwar..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 50  Views: 403"
+file_size: "  File Size: 517.1 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 50 
@@ -25,7 +25,19 @@ weight: 50
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>50</li><li>File Size:</li><li>517.1 KB</li><li>Posted By:</li><li>JohnOwens</li><li>Views:</li><li>403</li><li>SHA1:</li><li>aff723f2c0398ed18e08f997b4b258bd12c437d1</li><li>MD5:</li><li>8f41ad8b575d30333cf402b8e56a87e6</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-7769ff853813449193469cb07b21b5ad" >}} 50 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-7769ff853813449193469cb07b21b5ad" >}} 517.1 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-7769ff853813449193469cb07b21b5ad" >}} JohnOwens {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-7769ff853813449193469cb07b21b5ad" >}} 404 {{< /Common/li >}} 
+      {{< Common/li  >}} SHA1: {{< /Common/li >}} 
+      {{< Common/li id="sha1-update-7769ff853813449193469cb07b21b5ad" >}} aff723f2c0398ed18e08f997b4b258bd12c437d1: {{< /Common/li >}} 
+      {{< Common/li  >}} MD5: {{< /Common/li >}} 
+      {{< Common/li id="md5-update-7769ff853813449193469cb07b21b5ad" >}} 8f41ad8b575d30333cf402b8e56a87e6: {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

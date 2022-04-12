@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.omr-for-.net-19.7 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " omr/net/new-releases/aspose.omr-for-.net-19.7/"
+folder_name: " Aspose.OMR for .NET 19.7"
+download_link: " /omr/net/new-releases/aspose.omr-for-.net-19.7/a692dfec21d2482d9705d1ffcc64a117"
+download_text: " Download"
+Intro_text: " It contains Aspose.OMR for .NET 19.7 release."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   7/31/2019  Downloads: 12  Views: 27"
+file_size: "  File Size: 1.2 MB "
+parent_path: "omr/net"
+section_parent_path: "omr/net"
+weight: 48 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.OMR for .NET 19.7" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/omr/net/new-releases/aspose.omr-for-.net-19.7/a692dfec21d2482d9705d1ffcc64a117%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/omr" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-a692dfec21d2482d9705d1ffcc64a117" >}} 12 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-a692dfec21d2482d9705d1ffcc64a117" >}} 1.2 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-a692dfec21d2482d9705d1ffcc64a117" >}} ivan.semenenia {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-a692dfec21d2482d9705d1ffcc64a117" >}} 28 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-a692dfec21d2482d9705d1ffcc64a117" >}} 7/31/2019 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/omrnet/Aspose.OMR+for+.NET+19.7+Release+Notes">https://docs.aspose.com/display/omrnet/Aspose.OMR+for+.NET+19.7+Release+Notes</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-using-aspose.words-to-read,-edit-and-render
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/using-aspose.words-to-read,-edit-and-render-rtf-documents/"
-folder_name:  " Using Aspose.Words to read, edit and render RTF documents"
-download_link:  " /corporate/success-stories/aspose.words/using-aspose.words-to-read,-edit-and-render-rtf-documents/b22aec3042394acf98559743b4836b01"
-download_text:  " Download"
-intro_text:  " Enigma Solutions provides custom, scalable applications to clients all over the ..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 35  Views: 151"
-file_size:  "  File Size: 242.8 KB "
+folder_link: " corporate/success-stories/aspose.words/using-aspose.words-to-read,-edit-and-render-rtf-documents/"
+folder_name: " Using Aspose.Words to read, edit and render RTF documents"
+download_link: " /corporate/success-stories/aspose.words/using-aspose.words-to-read,-edit-and-render-rtf-documents/b22aec3042394acf98559743b4836b01"
+download_text: " Download"
+Intro_text: " Enigma Solutions provides custom, scalable applications to clients all over the ..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 35  Views: 152"
+file_size: "  File Size: 242.8 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 53 
+weight: 54 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 53
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>35</li><li>File Size:</li><li>242.8 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>152</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-b22aec3042394acf98559743b4836b01" >}} 35 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-b22aec3042394acf98559743b4836b01" >}} 242.8 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-b22aec3042394acf98559743b4836b01" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-b22aec3042394acf98559743b4836b01" >}} 153 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

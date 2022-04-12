@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-.net-4.2.0.0-new-release . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-.net-4.2.0.0-new-release/"
-folder_name:  " Aspose.Words .Net 4.2.0.0 New Release"
-download_link:  " /words/net/new-releases/aspose.words-.net-4.2.0.0-new-release/3bd55306844948c29755068bfa05d88a"
-download_text:  " Download"
-intro_text:  " This releases introduces a great new feature - WordprocessingML import in Aspose..."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   7/25/2007  Downloads: 52  Views: 264"
-file_size:  "  File Size: 10.9 MB "
+folder_link: " words/net/new-releases/aspose.words-.net-4.2.0.0-new-release/"
+folder_name: " Aspose.Words .Net 4.2.0.0 New Release"
+download_link: " /words/net/new-releases/aspose.words-.net-4.2.0.0-new-release/3bd55306844948c29755068bfa05d88a"
+download_text: " Download"
+Intro_text: " This releases introduces a great new feature - WordprocessingML import in Aspose..."
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   7/25/2007  Downloads: 52  Views: 269"
+file_size: "  File Size: 10.9 MB "
 parent_path: "words/net"
-weight: 36 
+section_parent_path: "words/net"
+weight: 353 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 36
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>52</li><li>File Size:</li><li>10.9 MB</li><li>Posted By:</li><li>ShL77</li><li>Views:</li><li>265</li><li>Date Added:</li><li>7/25/2007</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-3bd55306844948c29755068bfa05d88a" >}} 52 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-3bd55306844948c29755068bfa05d88a" >}} 10.9 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-3bd55306844948c29755068bfa05d88a" >}} ShL77 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-3bd55306844948c29755068bfa05d88a" >}} 270 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-3bd55306844948c29755068bfa05d88a" >}} 7/25/2007 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

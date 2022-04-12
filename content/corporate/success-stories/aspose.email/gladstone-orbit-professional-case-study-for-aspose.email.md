@@ -3,15 +3,15 @@ title:  "  Downloads ---Aspose.Email-gladstone-orbit-professional-case-study-for
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.email/gladstone-orbit-professional-case-study-for-aspose.email/"
-folder_name:  " Gladstone Orbit Professional Case Study for Aspose.Email"
-download_link:  " /corporate/success-stories/aspose.email/gladstone-orbit-professional-case-study-for-aspose.email/329dae5b0a754872a06bbcdef4c0c922"
-download_text:  " Download"
-intro_text:  " Gladstone Health & Leisure use Aspose.Email in their product Orbit Professional,..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 378  Views: 1177"
-file_size:  "  File Size: 191.6 KB "
-parent_path: "corporate/success-stories/aspose.email"                                                          
+folder_link: " corporate/success-stories/aspose.email/gladstone-orbit-professional-case-study-for-aspose.email/"
+folder_name: " Gladstone Orbit Professional Case Study for Aspose.Email"
+download_link: " /corporate/success-stories/aspose.email/gladstone-orbit-professional-case-study-for-aspose.email/329dae5b0a754872a06bbcdef4c0c922"
+download_text: " Download"
+Intro_text: " Gladstone Health & Leisure use Aspose.Email in their product Orbit Professional,..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 392  Views: 1182"
+file_size: "  File Size: 191.6 KB "
+parent_path: "corporate/success-stories/aspose.email"
 section_parent_path: "corporate/success-stories"
 weight: 1 
 ---
@@ -25,7 +25,15 @@ weight: 1
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>378</li><li>File Size:</li><li>191.6 KB</li><li>Posted By:</li><li>caroline.von.schmalensee</li><li>Views:</li><li>1178</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-329dae5b0a754872a06bbcdef4c0c922" >}} 392 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-329dae5b0a754872a06bbcdef4c0c922" >}} 191.6 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-329dae5b0a754872a06bbcdef4c0c922" >}} caroline.von.schmalensee {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-329dae5b0a754872a06bbcdef4c0c922" >}} 1183 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

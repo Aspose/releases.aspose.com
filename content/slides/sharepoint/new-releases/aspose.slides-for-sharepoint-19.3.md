@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.slides-for-sharepoint-19.3 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-19.3/"
+folder_name: " Aspose.Slides for SharePoint 19.3"
+download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-19.3/cb5d4ee0581341cb9a3072ac9ca27642"
+download_text: " Download"
+Intro_text: " It contains Aspose.Slides for SharePoint 19.3 release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   4/4/2019  Downloads: 0  Views: 13"
+file_size: "  File Size: 39.9 MB "
+parent_path: "slides/sharepoint"
+section_parent_path: "slides/sharepoint"
+weight: 30 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Slides for SharePoint 19.3" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/slides/sharepoint/new-releases/aspose.slides-for-sharepoint-19.3/cb5d4ee0581341cb9a3072ac9ca27642%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-cb5d4ee0581341cb9a3072ac9ca27642" >}} 0 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-cb5d4ee0581341cb9a3072ac9ca27642" >}} 39.9 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-cb5d4ee0581341cb9a3072ac9ca27642" >}} victor.krivolap {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-cb5d4ee0581341cb9a3072ac9ca27642" >}} 14 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-cb5d4ee0581341cb9a3072ac9ca27642" >}} 4/4/2019 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/slidessharepoint/Aspose.Slides+for+Sharepoint+19.3+Release+Notes">https://docs.aspose.com/display/slidessharepoint/Aspose.Slides+for+Sharepoint+19.3+Release+Notes</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

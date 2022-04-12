@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Total-it-consult---josh-protocol---case-study . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/it-consult---josh-protocol---case-study/"
-folder_name:  " It Consult - Josh Protocol - Case Study"
-download_link:  " /corporate/success-stories/aspose.total/it-consult---josh-protocol---case-study/b568856a94a744da8790ce700b8bb90f"
-download_text:  " Download"
-intro_text:  " The main goal of the \"josh Protocol!\"  is to record both letters received and let..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 19  Views: 282"
-file_size:  "  File Size: 800.4 KB "
+folder_link: " corporate/success-stories/aspose.total/it-consult---josh-protocol---case-study/"
+folder_name: " It Consult - Josh Protocol - Case Study"
+download_link: " /corporate/success-stories/aspose.total/it-consult---josh-protocol---case-study/b568856a94a744da8790ce700b8bb90f"
+download_text: " Download"
+Intro_text: " The main goal of the \"josh Protocol!\" is to record both letters received and let..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 19  Views: 283"
+file_size: "  File Size: 800.4 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 52 
@@ -25,7 +25,15 @@ weight: 52
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>19</li><li>File Size:</li><li>800.4 KB</li><li>Posted By:</li><li>JohnOwens</li><li>Views:</li><li>283</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-b568856a94a744da8790ce700b8bb90f" >}} 19 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-b568856a94a744da8790ce700b8bb90f" >}} 800.4 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-b568856a94a744da8790ce700b8bb90f" >}} JohnOwens {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-b568856a94a744da8790ce700b8bb90f" >}} 284 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

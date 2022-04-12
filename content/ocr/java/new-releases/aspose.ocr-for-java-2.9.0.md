@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.ocr-for-java-2.9.0 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " ocr/java/new-releases/aspose.ocr-for-java-2.9.0/"
+folder_name: " Aspose.OCR for Java 2.9.0"
+download_link: " /ocr/java/new-releases/aspose.ocr-for-java-2.9.0/92a637a9a53544cea3a98715a87dd862"
+download_text: " Download"
+Intro_text: " We are pleased to share a new version of Aspose.OCR for Java with following impr..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   10/15/2015  Downloads: 364  Views: 311"
+file_size: "  File Size: 10.4 MB "
+parent_path: "ocr/java"
+section_parent_path: "ocr/java"
+weight: 83 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.OCR for Java 2.9.0" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/ocr/java/new-releases/aspose.ocr-for-java-2.9.0/92a637a9a53544cea3a98715a87dd862%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/ocr" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-92a637a9a53544cea3a98715a87dd862" >}} 364 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-92a637a9a53544cea3a98715a87dd862" >}} 10.4 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-92a637a9a53544cea3a98715a87dd862" >}} egor.kluban {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-92a637a9a53544cea3a98715a87dd862" >}} 312 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-92a637a9a53544cea3a98715a87dd862" >}} 10/15/2015 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/OCRJAVA/Aspose.OCR+for+Java+2.9.0+Release+Notes">http://www.aspose.com/docs/display/OCRJAVA/Aspose.OCR+for+Java+2.9.0+Release+Notes</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

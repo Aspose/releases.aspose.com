@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.words-for-jasperreports-19.1 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " words/jasperreports/new-releases/aspose.words-for-jasperreports-19.1/"
+folder_name: " Aspose.Words for JasperReports 19.1"
+download_link: " /words/jasperreports/new-releases/aspose.words-for-jasperreports-19.1/b122241e390a4f6ab7da7f9da817c63c"
+download_text: " Download"
+Intro_text: " Some updates + Upgrade to the latest version of Aspose.Words for Java (19.1)"
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   2/3/2019  Downloads: 83  Views: 3896"
+file_size: "  File Size: 64.2 MB "
+parent_path: "words/jasperreports"
+section_parent_path: "words/jasperreports"
+weight: 23 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Words for JasperReports 19.1" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/words/jasperreports/new-releases/aspose.words-for-jasperreports-19.1/b122241e390a4f6ab7da7f9da817c63c%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/words" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-b122241e390a4f6ab7da7f9da817c63c" >}} 83 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-b122241e390a4f6ab7da7f9da817c63c" >}} 64.2 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-b122241e390a4f6ab7da7f9da817c63c" >}} vadimpo {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-b122241e390a4f6ab7da7f9da817c63c" >}} 3897 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-b122241e390a4f6ab7da7f9da817c63c" >}} 2/3/2019 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/wordsjasperreports/Aspose.Words+for+JasperReports+19.1+Release+Notes">https://docs.aspose.com/display/wordsjasperreports/Aspose.Words+for+JasperReports+19.1+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">Some updates + Upgrade to the latest version of Aspose.Words for Java (19.1)</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

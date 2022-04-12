@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Total-tivity-use-aspose.total-for-a-wide-range-of
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.total/tivity-use-aspose.total-for-a-wide-range-of-document-processing-needs/"
-folder_name:  " Tivity use Aspose.Total for a wide range of document processing needs"
-download_link:  " /corporate/success-stories/aspose.total/tivity-use-aspose.total-for-a-wide-range-of-document-processing-needs/c7b41be57c884148b0252b1fb91ef6f3"
-download_text:  " Download"
-intro_text:  " Tivity is a German SaaS Startup founded in 2015. Backed by a self-developed mobi..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 77  Views: 294"
-file_size:  "  File Size: 641.2 KB "
+folder_link: " corporate/success-stories/aspose.total/tivity-use-aspose.total-for-a-wide-range-of-document-processing-needs/"
+folder_name: " Tivity use Aspose.Total for a wide range of document processing needs"
+download_link: " /corporate/success-stories/aspose.total/tivity-use-aspose.total-for-a-wide-range-of-document-processing-needs/c7b41be57c884148b0252b1fb91ef6f3"
+download_text: " Download"
+Intro_text: " Tivity is a German SaaS Startup founded in 2015. Backed by a self-developed mobi..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 77  Views: 296"
+file_size: "  File Size: 641.2 KB "
 parent_path: "corporate/success-stories/aspose.total"
 section_parent_path: "corporate/success-stories"
 weight: 25 
@@ -25,7 +25,15 @@ weight: 25
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>77</li><li>File Size:</li><li>641.2 KB</li><li>Posted By:</li><li>aske012</li><li>Views:</li><li>295</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-c7b41be57c884148b0252b1fb91ef6f3" >}} 77 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-c7b41be57c884148b0252b1fb91ef6f3" >}} 641.2 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-c7b41be57c884148b0252b1fb91ef6f3" >}} aske012 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-c7b41be57c884148b0252b1fb91ef6f3" >}} 297 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

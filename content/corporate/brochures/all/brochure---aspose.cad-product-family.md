@@ -3,15 +3,16 @@ title:  "  Downloads ---All-brochure---aspose.cad-product-family . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/brochures/all/brochure---aspose.cad-product-family/"
-folder_name:  " Brochure - Aspose.CAD Product Family"
-download_link:  " /corporate/Brochures/all/brochure---aspose.cad-product-family/c686f966c1564ad7a3a2aefdf9c99fe3"
-download_text:  " Download"
-intro_text:  " This brochure gives a brief introduction to Aspose.CAD and its features"
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "   2/13/2017  Downloads: 170  Views: 368"
-file_size:  "  File Size: 150.4 KB "
+folder_link: " corporate/brochures/all/brochure---aspose.cad-product-family/"
+folder_name: " Brochure - Aspose.CAD Product Family"
+download_link: " /corporate/Brochures/all/brochure---aspose.cad-product-family/c686f966c1564ad7a3a2aefdf9c99fe3"
+download_text: " Download"
+Intro_text: " This brochure gives a brief introduction to Aspose.CAD and its features"
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "   2/13/2017  Downloads: 173  Views: 382"
+file_size: "  File Size: 150.4 KB "
 parent_path: "corporate/brochures/all"
+section_parent_path: "corporate/brochures"
 weight: 1 
 ---
 
@@ -24,7 +25,17 @@ weight: 1
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>170</li><li>File Size:</li><li>150.4 KB</li><li>Posted By:</li><li>aske012</li><li>Views:</li><li>369</li><li>Date Added:</li><li>2/13/2017</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-c686f966c1564ad7a3a2aefdf9c99fe3" >}} 173 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-c686f966c1564ad7a3a2aefdf9c99fe3" >}} 150.4 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-c686f966c1564ad7a3a2aefdf9c99fe3" >}} aske012 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-c686f966c1564ad7a3a2aefdf9c99fe3" >}} 383 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-c686f966c1564ad7a3a2aefdf9c99fe3" >}} 2/13/2017 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

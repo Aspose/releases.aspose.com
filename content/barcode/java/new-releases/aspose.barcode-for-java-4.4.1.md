@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.barcode-for-java-4.4.1 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " barcode/java/new-releases/aspose.barcode-for-java-4.4.1/"
+folder_name: " Aspose.BarCode for Java 4.4.1"
+download_link: " /barcode/java/new-releases/aspose.barcode-for-java-4.4.1/9b87ffeac08f46189b48a7a098d8eb11"
+download_text: " Download"
+Intro_text: " Aspose.BarCode for Java 4.4.1 has been released. Bug fixes provided in this vers..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   1/27/2012  Downloads: 184  Views: 474"
+file_size: "  File Size: 2.5 MB "
+parent_path: "barcode/java"
+section_parent_path: "barcode/java"
+weight: 101 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.BarCode for Java 4.4.1" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/barcode/java/new-releases/aspose.barcode-for-java-4.4.1/9b87ffeac08f46189b48a7a098d8eb11%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-9b87ffeac08f46189b48a7a098d8eb11" >}} 184 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-9b87ffeac08f46189b48a7a098d8eb11" >}} 2.5 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-9b87ffeac08f46189b48a7a098d8eb11" >}} saqib.razzaq {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-9b87ffeac08f46189b48a7a098d8eb11" >}} 474 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-9b87ffeac08f46189b48a7a098d8eb11" >}} 1/27/2012 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-agatha-used-groupdocs.total-and-aspose.word
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/agatha-used-groupdocs.total-and-aspose.words-to-manage-pdf-conversion-and-online-view-of-documents/"
-folder_name:  " Agatha used GroupDocs.Total and Aspose.Words to Manage PDF conversion and Online View of Documents."
-download_link:  " /corporate/success-stories/aspose.words/agatha-used-groupdocs.total-and-aspose.words-to-manage-pdf-conversion-and-online-view-of-documents/018a178fb6f64a75a3fc0fdca820d129"
-download_text:  " Download"
-intro_text:  " Agatha, the leading provider of document and quality management systems for Hosp..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 268  Views: 0"
-file_size:  "  File Size: 367.0 KB "
+folder_link: " corporate/success-stories/aspose.words/agatha-used-groupdocs.total-and-aspose.words-to-manage-pdf-conversion-and-online-view-of-documents/"
+folder_name: " Agatha used GroupDocs.Total and Aspose.Words to Manage PDF conversion and Online View of Documents."
+download_link: " /corporate/success-stories/aspose.words/agatha-used-groupdocs.total-and-aspose.words-to-manage-pdf-conversion-and-online-view-of-documents/018a178fb6f64a75a3fc0fdca820d129"
+download_text: " Download"
+Intro_text: " Agatha, the leading provider of document and quality management systems for Hosp..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 268  Views: 0"
+file_size: "  File Size: 367.0 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 24 
+weight: 25 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 24
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>268</li><li>File Size:</li><li>367.0 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>0</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-018a178fb6f64a75a3fc0fdca820d129" >}} 268 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-018a178fb6f64a75a3fc0fdca820d129" >}} 367.0 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-018a178fb6f64a75a3fc0fdca820d129" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-018a178fb6f64a75a3fc0fdca820d129" >}} 0 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

@@ -1,0 +1,47 @@
+---
+title:  "  Downloads ---New-Releases-aspose.slides-for-c++-18.11 . " 
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " slides/cpp/new-releases/aspose.slides-for-c---18.11/"
+folder_name: " Aspose.Slides for C++ 18.11"
+download_link: " /slides/cpp/new-releases/aspose.slides-for-c---18.11/87b4ccdabc6a490792edcf0448e3499a"
+download_text: " Download"
+Intro_text: " It contains Aspose.Slides for C++ 18.11 release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   12/1/2018  Downloads: 16  Views: 755"
+file_size: "  File Size: 161.4 MB "
+parent_path: "slides/cpp"
+section_parent_path: "slides/cpp"
+weight: 84 
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Aspose.Slides for C++ 18.11" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/slides/cpp/new-releases/aspose.slides-for-c---18.11/87b4ccdabc6a490792edcf0448e3499a%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-87b4ccdabc6a490792edcf0448e3499a" >}} 16 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-87b4ccdabc6a490792edcf0448e3499a" >}} 161.4 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-87b4ccdabc6a490792edcf0448e3499a" >}} victor.krivolap {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-87b4ccdabc6a490792edcf0448e3499a" >}} 756 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-87b4ccdabc6a490792edcf0448e3499a" >}} 12/1/2018 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/slidescpp/Aspose.Slides+for+CPP+18.11+Release+Notes">https://docs.aspose.com/display/slidescpp/Aspose.Slides+for+CPP+18.11+Release+Notes</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+

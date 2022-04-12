@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Pdf-hict---medical-devices-integration-component 
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.pdf/hict---medical-devices-integration-component/"
-folder_name:  " HICT - Medical Devices Integration Component"
-download_link:  " /corporate/success-stories/aspose.pdf/hict---medical-devices-integration-component/f7a5a767bf3d4f7384b3eecfd3d60db4"
-download_text:  " Download"
-intro_text:  " A case study by HICT - Medical Devices Integration Component to explain the adva..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 443  Views: 1425"
-file_size:  "  File Size: 55.6 KB "
+folder_link: " corporate/success-stories/aspose.pdf/hict---medical-devices-integration-component/"
+folder_name: " HICT - Medical Devices Integration Component"
+download_link: " /corporate/success-stories/aspose.pdf/hict---medical-devices-integration-component/f7a5a767bf3d4f7384b3eecfd3d60db4"
+download_text: " Download"
+Intro_text: " A case study by HICT - Medical Devices Integration Component to explain the adva..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 443  Views: 1425"
+file_size: "  File Size: 55.6 KB "
 parent_path: "corporate/success-stories/aspose.pdf"
 section_parent_path: "corporate/success-stories"
 weight: 28 
@@ -25,7 +25,15 @@ weight: 28
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>443</li><li>File Size:</li><li>55.6 KB</li><li>Posted By:</li><li>salman.sarfraz</li><li>Views:</li><li>1425</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-f7a5a767bf3d4f7384b3eecfd3d60db4" >}} 443 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-f7a5a767bf3d4f7384b3eecfd3d60db4" >}} 55.6 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-f7a5a767bf3d4f7384b3eecfd3d60db4" >}} salman.sarfraz {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-f7a5a767bf3d4f7384b3eecfd3d60db4" >}} 1425 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

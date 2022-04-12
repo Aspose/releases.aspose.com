@@ -3,15 +3,16 @@ title:  "  Downloads ---All-brochure---aspose.slides-product-family . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/brochures/all/brochure---aspose.slides-product-family/"
-folder_name:  " Brochure - Aspose.Slides Product Family"
-download_link:  " /corporate/Brochures/all/brochure---aspose.slides-product-family/db4b5b1f8f804d3cb54b0305bf91712b"
-download_text:  " Download"
-intro_text:  " This brochure summarizes the benefits and features of Aspose.Slides across all s..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "   1/8/2014  Downloads: 966  Views: 1998"
-file_size:  "  File Size: 1.3 MB "
+folder_link: " corporate/brochures/all/brochure---aspose.slides-product-family/"
+folder_name: " Brochure - Aspose.Slides Product Family"
+download_link: " /corporate/Brochures/all/brochure---aspose.slides-product-family/db4b5b1f8f804d3cb54b0305bf91712b"
+download_text: " Download"
+Intro_text: " This brochure summarizes the benefits and features of Aspose.Slides across all s..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "   1/8/2014  Downloads: 966  Views: 2012"
+file_size: "  File Size: 1.3 MB "
 parent_path: "corporate/brochures/all"
+section_parent_path: "corporate/brochures"
 weight: 21 
 ---
 
@@ -24,7 +25,17 @@ weight: 21
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>966</li><li>File Size:</li><li>1.3 MB</li><li>Posted By:</li><li>caroline.von.schmalensee</li><li>Views:</li><li>1999</li><li>Date Added:</li><li>1/8/2014</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-db4b5b1f8f804d3cb54b0305bf91712b" >}} 966 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-db4b5b1f8f804d3cb54b0305bf91712b" >}} 1.3 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-db4b5b1f8f804d3cb54b0305bf91712b" >}} caroline.von.schmalensee {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-db4b5b1f8f804d3cb54b0305bf91712b" >}} 2013 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-db4b5b1f8f804d3cb54b0305bf91712b" >}} 1/8/2014 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

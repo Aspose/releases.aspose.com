@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-moduleacht-use-aspose.words-for-.net-to-con
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/moduleacht-use-aspose.words-for-.net-to-convert-docx-to-pdf/"
-folder_name:  " ModuleAcht use Aspose.Words for .NET to convert DOCX to PDF"
-download_link:  " /corporate/success-stories/aspose.words/moduleacht-use-aspose.words-for-.net-to-convert-docx-to-pdf/80bdf77376294184910108035bcd7295"
-download_text:  " Download"
-intro_text:  " ModulAcht is a software development team that creates individual software for sm..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 377  Views: 1972"
-file_size:  "  File Size: 538.3 KB "
+folder_link: " corporate/success-stories/aspose.words/moduleacht-use-aspose.words-for-.net-to-convert-docx-to-pdf/"
+folder_name: " ModuleAcht use Aspose.Words for .NET to convert DOCX to PDF"
+download_link: " /corporate/success-stories/aspose.words/moduleacht-use-aspose.words-for-.net-to-convert-docx-to-pdf/80bdf77376294184910108035bcd7295"
+download_text: " Download"
+Intro_text: " ModulAcht is a software development team that creates individual software for sm..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 380  Views: 1978"
+file_size: "  File Size: 538.3 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 33 
+weight: 34 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 33
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>377</li><li>File Size:</li><li>538.3 KB</li><li>Posted By:</li><li>caroline.von.schmalensee</li><li>Views:</li><li>1973</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-80bdf77376294184910108035bcd7295" >}} 380 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-80bdf77376294184910108035bcd7295" >}} 538.3 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-80bdf77376294184910108035bcd7295" >}} caroline.von.schmalensee {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-80bdf77376294184910108035bcd7295" >}} 1979 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

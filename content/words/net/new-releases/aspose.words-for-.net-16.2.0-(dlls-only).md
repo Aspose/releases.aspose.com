@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-16.2.0-(dlls-only) . 
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-16.2.0-(dlls-only)/"
-folder_name:  " Aspose.Words for .NET 16.2.0 (DLLs only)"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-16.2.0-(dlls-only)/d5ba951bbc59478580d41c1822caa160"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Words for .NET 16.2.0 (DLLs only) release."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   3/22/2016  Downloads: 132  Views: 257"
-file_size:  "  File Size: 39.8 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-16.2.0-(dlls-only)/"
+folder_name: " Aspose.Words for .NET 16.2.0 (DLLs only)"
+download_link: " /words/net/new-releases/aspose.words-for-.net-16.2.0-(dlls-only)/d5ba951bbc59478580d41c1822caa160"
+download_text: " Download"
+Intro_text: " It contains Aspose.Words for .NET 16.2.0 (DLLs only) release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   3/22/2016  Downloads: 132  Views: 258"
+file_size: "  File Size: 39.8 MB "
 parent_path: "words/net"
-weight: 20 
+section_parent_path: "words/net"
+weight: 157 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 20
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>132</li><li>File Size:</li><li>39.8 MB</li><li>Posted By:</li><li>faizanbaig</li><li>Views:</li><li>258</li><li>Date Added:</li><li>3/22/2016</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-d5ba951bbc59478580d41c1822caa160" >}} 132 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-d5ba951bbc59478580d41c1822caa160" >}} 39.8 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-d5ba951bbc59478580d41c1822caa160" >}} faizanbaig {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-d5ba951bbc59478580d41c1822caa160" >}} 259 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-d5ba951bbc59478580d41c1822caa160" >}} 3/22/2016 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

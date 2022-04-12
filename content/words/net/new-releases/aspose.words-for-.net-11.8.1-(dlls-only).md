@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.words-for-.net-11.8.1-(dlls-only) . 
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-for-.net-11.8.1-(dlls-only)/"
-folder_name:  " Aspose.Words for .NET 11.8.1 (DLLs only)"
-download_link:  " /words/net/new-releases/aspose.words-for-.net-11.8.1-(dlls-only)/01a08a9fca4c463badca4cf62893e93c"
-download_text:  " Download"
-intro_text:  " This is a hotfix release of Aspose.Words for .NET with fixes for certain custome..."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   10/15/2012  Downloads: 413  Views: 691"
-file_size:  "  File Size: 22.0 MB "
+folder_link: " words/net/new-releases/aspose.words-for-.net-11.8.1-(dlls-only)/"
+folder_name: " Aspose.Words for .NET 11.8.1 (DLLs only)"
+download_link: " /words/net/new-releases/aspose.words-for-.net-11.8.1-(dlls-only)/01a08a9fca4c463badca4cf62893e93c"
+download_text: " Download"
+Intro_text: " This is a hotfix release of Aspose.Words for .NET with fixes for certain custome..."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   10/15/2012  Downloads: 413  Views: 692"
+file_size: "  File Size: 22.0 MB "
 parent_path: "words/net"
-weight: 32 
+section_parent_path: "words/net"
+weight: 241 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 32
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>413</li><li>File Size:</li><li>22.0 MB</li><li>Posted By:</li><li>romank</li><li>Views:</li><li>692</li><li>Date Added:</li><li>10/15/2012</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-01a08a9fca4c463badca4cf62893e93c" >}} 413 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-01a08a9fca4c463badca4cf62893e93c" >}} 22.0 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-01a08a9fca4c463badca4cf62893e93c" >}} romank {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-01a08a9fca4c463badca4cf62893e93c" >}} 693 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-01a08a9fca4c463badca4cf62893e93c" >}} 10/15/2012 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

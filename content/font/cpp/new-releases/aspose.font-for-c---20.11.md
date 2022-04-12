@@ -3,16 +3,17 @@ title:  "  Downloads ---New-Releases-aspose.font-for-c++-20.11 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " font/cpp/new-releases/aspose.font-for-c---20.11/"
-folder_name:  " Aspose.Font for C++ 20.11"
-download_link:  " /font/cpp/new-releases/aspose.font-for-c---20.11/be7025c0fc6f4f1a96e0d6c4c7b5c7c2"
-download_text:  " Download"
-intro_text:  " It contains Aspose.Font for C++ 20.11 release."
-image_link:  " https://downloads.aspose.com/resources/img/zip-icon.png"
-download_count:  "   11/18/2020  Downloads: 1  Views: 15"
-file_size:  "  File Size: 105.7 MB "
+folder_link: " font/cpp/new-releases/aspose.font-for-c---20.11/"
+folder_name: " Aspose.Font for C++ 20.11"
+download_link: " /font/cpp/new-releases/aspose.font-for-c---20.11/be7025c0fc6f4f1a96e0d6c4c7b5c7c2"
+download_text: " Download"
+Intro_text: " It contains Aspose.Font for C++ 20.11 release."
+image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+download_count: "   11/18/2020  Downloads: 1  Views: 16"
+file_size: "  File Size: 105.7 MB "
 parent_path: "font/cpp"
-weight: 12 
+section_parent_path: "font/cpp"
+weight: 39 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -24,7 +25,17 @@ weight: 12
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>1</li><li>File Size:</li><li>105.7 MB</li><li>Posted By:</li><li>Andrey.Malokhovetskiy</li><li>Views:</li><li>16</li><li>Date Added:</li><li>11/18/2020</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-be7025c0fc6f4f1a96e0d6c4c7b5c7c2" >}} 1 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-be7025c0fc6f4f1a96e0d6c4c7b5c7c2" >}} 105.7 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-be7025c0fc6f4f1a96e0d6c4c7b5c7c2" >}} Andrey.Malokhovetskiy {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-be7025c0fc6f4f1a96e0d6c4c7b5c7c2" >}} 17 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-be7025c0fc6f4f1a96e0d6c4c7b5c7c2" >}} 11/18/2020 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

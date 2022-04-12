@@ -3,14 +3,14 @@ title:  "  Downloads ---Aspose.Tasks-using-aspose-task-to-mega.office.msproject.
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.tasks/using-aspose-task-to-mega.office.msproject.server/"
-folder_name:  " Using Aspose Task to Mega.Office.MSProject.Server"
-download_link:  " /corporate/success-stories/aspose.tasks/using-aspose-task-to-mega.office.msproject.server/88753f4f9fbb4b478ecb0cd8655c6f4c"
-download_text:  " Download"
-intro_text:  " Mega Sistemas needed to to read and write data to MPP files, but as they control..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 223  Views: 431"
-file_size:  "  File Size: 447.9 KB "
+folder_link: " corporate/success-stories/aspose.tasks/using-aspose-task-to-mega.office.msproject.server/"
+folder_name: " Using Aspose Task to Mega.Office.MSProject.Server"
+download_link: " /corporate/success-stories/aspose.tasks/using-aspose-task-to-mega.office.msproject.server/88753f4f9fbb4b478ecb0cd8655c6f4c"
+download_text: " Download"
+Intro_text: " Mega Sistemas needed to to read and write data to MPP files, but as they control..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 226  Views: 435"
+file_size: "  File Size: 447.9 KB "
 parent_path: "corporate/success-stories/aspose.tasks"
 section_parent_path: "corporate/success-stories"
 weight: 1 
@@ -25,7 +25,15 @@ weight: 1
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>223</li><li>File Size:</li><li>447.9 KB</li><li>Posted By:</li><li>GeorgeClark</li><li>Views:</li><li>432</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-88753f4f9fbb4b478ecb0cd8655c6f4c" >}} 226 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-88753f4f9fbb4b478ecb0cd8655c6f4c" >}} 447.9 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-88753f4f9fbb4b478ecb0cd8655c6f4c" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-88753f4f9fbb4b478ecb0cd8655c6f4c" >}} 436 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

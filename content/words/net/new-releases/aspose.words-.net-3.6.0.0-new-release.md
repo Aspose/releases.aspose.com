@@ -3,18 +3,19 @@ title:  "  Downloads ---New-Releases-aspose.words-.net-3.6.0.0-new-release . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " words/net/new-releases/aspose.words-.net-3.6.0.0-new-release/"
-folder_name:  " Aspose.Words .Net 3.6.0.0 New Release"
-download_link:  " /words/net/new-releases/aspose.words-.net-3.6.0.0-new-release/4cea20ec5e5546fdae350c255c5be32a"
-download_text:  " Download"
-intro_text:  " New Features
+folder_link: " words/net/new-releases/aspose.words-.net-3.6.0.0-new-release/"
+folder_name: " Aspose.Words .Net 3.6.0.0 New Release"
+download_link: " /words/net/new-releases/aspose.words-.net-3.6.0.0-new-release/4cea20ec5e5546fdae350c255c5be32a"
+download_text: " Download"
+Intro_text: " New Features
 
 Added a lot of new code examples to the API. Both in C# and VB.N..."
-image_link:  " https://downloads.aspose.com/resources/img/msi-icon.png"
-download_count:  "   7/25/2007  Downloads: 11  Views: 118"
-file_size:  "  File Size: 5.7 MB "
+image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+download_count: "   7/25/2007  Downloads: 11  Views: 122"
+file_size: "  File Size: 5.7 MB "
 parent_path: "words/net"
-weight: 39 
+section_parent_path: "words/net"
+weight: 338 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -26,7 +27,17 @@ weight: 39
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>11</li><li>File Size:</li><li>5.7 MB</li><li>Posted By:</li><li>ShL77</li><li>Views:</li><li>119</li><li>Date Added:</li><li>7/25/2007</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-4cea20ec5e5546fdae350c255c5be32a" >}} 11 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-4cea20ec5e5546fdae350c255c5be32a" >}} 5.7 MB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-4cea20ec5e5546fdae350c255c5be32a" >}} ShL77 {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-4cea20ec5e5546fdae350c255c5be32a" >}} 123 {{< /Common/li >}} 
+      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
+      {{< Common/li id="added-update-4cea20ec5e5546fdae350c255c5be32a" >}} 7/25/2007 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

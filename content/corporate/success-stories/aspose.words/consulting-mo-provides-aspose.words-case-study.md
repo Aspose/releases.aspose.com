@@ -3,17 +3,17 @@ title:  "  Downloads ---Aspose.Words-consulting-mo-provides-aspose.words-case-st
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link:  " corporate/success-stories/aspose.words/consulting-mo-provides-aspose.words-case-study/"
-folder_name:  " Consulting MO provides Aspose.Words Case Study"
-download_link:  " /corporate/success-stories/aspose.words/consulting-mo-provides-aspose.words-case-study/34fe53b011b6441f8cf5bcc17ea2c4db"
-download_text:  " Download"
-intro_text:  " Consulting MO shows how Aspose.Words has helped them implement customization to ..."
-image_link:  " https://downloads.aspose.com/resources/img/pdf-icon.png"
-download_count:  "  Downloads: 251  Views: 467"
-file_size:  "  File Size: 686.8 KB "
+folder_link: " corporate/success-stories/aspose.words/consulting-mo-provides-aspose.words-case-study/"
+folder_name: " Consulting MO provides Aspose.Words Case Study"
+download_link: " /corporate/success-stories/aspose.words/consulting-mo-provides-aspose.words-case-study/34fe53b011b6441f8cf5bcc17ea2c4db"
+download_text: " Download"
+Intro_text: " Consulting MO shows how Aspose.Words has helped them implement customization to ..."
+image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+download_count: "  Downloads: 252  Views: 469"
+file_size: "  File Size: 686.8 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 69 
+weight: 70 
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -25,7 +25,15 @@ weight: 69
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-             <li>Downloads:</li><li>251</li><li>File Size:</li><li>686.8 KB</li><li>Posted By:</li><li>Merit</li><li>Views:</li><li>468</li>
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li id="dwn-update-34fe53b011b6441f8cf5bcc17ea2c4db" >}} 252 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-34fe53b011b6441f8cf5bcc17ea2c4db" >}} 686.8 KB {{< /Common/li >}} 
+      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li id="author-update-34fe53b011b6441f8cf5bcc17ea2c4db" >}} Merit {{< /Common/li >}} 
+      {{< Common/li  >}} Views: {{< /Common/li >}} 
+      {{< Common/li id="view-update-34fe53b011b6441f8cf5bcc17ea2c4db" >}} 470 {{< /Common/li >}} 
+
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
