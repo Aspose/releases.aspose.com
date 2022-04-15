@@ -12,7 +12,7 @@ against the..."
 image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
 download_count: "   12/12/2013  Downloads: 999  Views: 1314"
 file_size: "  File Size: 289.8 MB "
-parent_path: "ocr/java/resources/"
+parent_path: "ocr/java/resources"
 section_parent_path: "ocr/java/resources"
 weight: 4 
 ---

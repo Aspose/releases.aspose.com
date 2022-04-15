@@ -12,7 +12,7 @@ Intro_text: " Aspose.OCR
 image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
 download_count: "   8/11/2014  Downloads: 914  Views: 1280"
 file_size: "  File Size: 5.3 MB "
-parent_path: "ocr/java/resources/"
+parent_path: "ocr/java/resources"
 section_parent_path: "ocr/java/resources"
 weight: 2 
 ---

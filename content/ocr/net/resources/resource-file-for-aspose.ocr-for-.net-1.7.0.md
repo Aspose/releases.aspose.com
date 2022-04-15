@@ -12,7 +12,7 @@ against the..."
 image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
 download_count: "   10/4/2013  Downloads: 411  Views: 1397"
 file_size: "  File Size: 87.8 MB "
-parent_path: "ocr/net/resources/"
+parent_path: "ocr/net/resources"
 section_parent_path: "ocr/net/resources"
 weight: 10 
 ---

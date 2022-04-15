@@ -11,7 +11,7 @@ Intro_text: " Aspose.OCR for .NET uses a resource file to perform operations aga
 image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
 download_count: "   8/22/2011  Downloads: 777  Views: 826"
 file_size: "  File Size: 96.0 MB "
-parent_path: "ocr/net/resources/"
+parent_path: "ocr/net/resources"
 section_parent_path: "ocr/net/resources"
 weight: 22 
 ---

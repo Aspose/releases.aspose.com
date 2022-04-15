@@ -27,9 +27,13 @@
               <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
               <p>{{ .Params.intro_text }}</p>
               <p>
-                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
-                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update{{ $lastUrlElement }}"></span>
-                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}"></span>
+                {{$download_countddd := print .Params.download_count ""}}
+                {{ $added_date := (findRE `\d{1,2}\/\d{1,2}\/\d{4}` $download_countddd 1 ) }}
+                {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
+                {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}">{{ index $dwn_count 0 }}</span>
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>
               </p>
             </div>
             <div class="col-sm-3">
@@ -53,9 +57,13 @@
               <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
               <p>{{ .Params.intro_text }}</p>
               <p>
-                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
-                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}"></span>
-                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}"></span>
+                {{$download_countddd := print .Params.download_count ""}}
+                {{ $added_date := (findRE `\d{1,2}\/\d{1,2}\/\d{4}` $download_countddd 1 ) }}
+                {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
+                {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}">{{ index $dwn_count 0 }}</span>
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>
               </p>
             </div>
             <div class="col-sm-3">
@@ -79,9 +87,13 @@
               <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
               <p>{{ .Params.intro_text }}</p>
               <p>
-                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
-                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}"></span>
-                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}"></span>
+                {{$download_countddd := print .Params.download_count ""}}
+                {{ $added_date := (findRE `\d{1,2}\/\d{1,2}\/\d{4}` $download_countddd 1 ) }}
+                {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
+                {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}">{{ index $dwn_count 0 }}</span>
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>
               </p>
             </div>
             <div class="col-sm-3">
@@ -110,9 +122,13 @@
               <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
               <p>{{ .Params.intro_text }}</p>
               <p>
-                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
-                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}"></span>
-                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}"></span>
+                {{$download_countddd := print .Params.download_count ""}}
+                {{ $added_date := (findRE `\d{1,2}\/\d{1,2}\/\d{4}` $download_countddd 1 ) }}
+                {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
+                {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}">{{ index $dwn_count 0 }}</span>
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>
               </p>
             </div>
             <div class="col-sm-3">
@@ -136,9 +152,13 @@
               <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
               <p>{{ .Params.intro_text }}</p>
               <p>
-                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
-                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}"></span>
-                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}"></span>
+                {{$download_countddd := print .Params.download_count ""}}
+                {{ $added_date := (findRE `\d{1,2}\/\d{1,2}\/\d{4}` $download_countddd 1 ) }}
+                {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
+                {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}">{{ index $dwn_count 0 }}</span>
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>
               </p>
             </div>
             <div class="col-sm-3">
@@ -165,9 +185,13 @@
               <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
               <p>{{ .Params.intro_text }}</p>
               <p>
-                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: *** *** ***
-                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}"></span>
-                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}"></span>
+                {{$download_countddd := print .Params.download_count ""}}
+                {{ $added_date := (findRE `\d{1,2}\/\d{1,2}\/\d{4}` $download_countddd 1 ) }}
+                {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
+                {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}">{{ index $dwn_count 0 }}</span>
+                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>
               </p>
             </div>
             <div class="col-sm-3">
@@ -200,8 +224,10 @@
             //console.log(key+"..."+value);
             //console.log(key + " View Count " + value.view_count);
             //console.log(key + " Dwn Count " + value.download_count);
-            $("#dwn-update--"+ key).text(value.download_count);
-            $("#dwn-update-"+ key).text(value.view_count);
+            $("#dwn-update-"+ key).text(value.download_count);
+            $("#view-update-"+ key).text(value.view_count);
+            //$("#added-update-"+ key).text(value.date_added);
+            
         });
   });
 </script>

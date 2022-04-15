@@ -4,6 +4,7 @@
 
 {{$download_link := print .Page.Params.download_link "/"}}
 {{ $lastUrlElement := index (last 1 (split (delimit (split $download_link "/") "," "") ",")) 0 }}
+
 <script type="text/javascript">
     $.getJSON("http://admindemo.local/api/updatecount?path={{$lastUrlElement}}&single=1", function(data) { 
         //var myParam = location.search.split('data=')[1]
@@ -13,7 +14,23 @@
               //console.log(key + " View Count " + value.view_count);
               //console.log(key + " Dwn Count " + value.download_count);
               $("#dwn-update-"+ key).text(value.download_count);
-              $("#dwn-update-"+ key).text(value.view_count);
+              $("#view-update-"+ key).text(value.view_count);
+             // $("#added-update-"+ key).text(value.date_added);
+              
           });
     });
+    
+    var formdata = new FormData();
+    formdata.append("etag_id", "{{$lastUrlElement}}");
+
+    var requestOptions = {
+    method: 'POST',
+    body: formdata,
+    redirect: 'follow'
+    };
+
+    fetch("http://admindemo.local/api/addviewcount", requestOptions)
+    .then(response => response.text())
+    .then(result => console.log(result))
+    .catch(error => console.log('error', error));
   </script>

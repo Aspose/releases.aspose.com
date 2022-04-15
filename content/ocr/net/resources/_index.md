@@ -18,7 +18,7 @@ weight:  1
 {{< ProductPageWrapper >}}
 
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  limit="beforecontent" directdownload="false" family="ocr" product="net/resources/" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  limit="beforecontent" directdownload="false" family="ocr" product="net/resources" >}}
 <!-- /ReleasesListProductPage-->
 
 <!-- ProductPageContent-->
@@ -29,7 +29,7 @@ weight:  1
 
 
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  limit="aftercontent" directdownload="false" family="ocr" product="net/resources/" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  limit="aftercontent" directdownload="false" family="ocr" product="net/resources" >}}
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
