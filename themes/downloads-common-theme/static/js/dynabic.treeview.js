@@ -96,7 +96,7 @@ var DynabicTreeview = /*#__PURE__*/function () {
   }, {
     key: "showTree",
     value: function showTree(data) {
-      console.log('showTree');
+      //console.log('showTree');
       if (dtself.container) {
         $(dtself.container).treeview({
           data: data,
@@ -110,22 +110,22 @@ var DynabicTreeview = /*#__PURE__*/function () {
         //$('#tree').treeview('expandNode', [ 0, { silent: true } ]);
         //console.log($(location).attr('href'));
         var current = $(location).attr('href');
-       console.log(current);
+      // console.log(current);
        // console.log(  location.origin + '' + location.pathname);
         var segments = location.pathname.split( '/' );
-        console.log(segments);
-         console.log(segments.length);
+        //console.log(segments);
+         //console.log(segments.length);
          if(segments.length >= 4){
            if(segments.length == 4 ){
             //
             //parent == segments[1];
-            console.log(segments[1]);
+           // console.log(segments[1]);
             var parentlink = location.origin+'/'+segments[1]+'/'
-            console.log(parentlink);
+           // console.log(parentlink);
             var element =  $( '#tree a[href*=\"'+ parentlink +'\"]' );
             var ParentNodeId =  element.closest('.node-tree').attr('data-nodeid');
             if(ParentNodeId){
-              console.log(" open " + ParentNodeId);
+             // console.log(" open " + ParentNodeId);
               element.closest('.node-tree').css('background-color', '#428bca');
               element.closest('.node-tree').css('color', '#FFFFFF');
               var ParentNodeId =  parseInt(ParentNodeId);
@@ -135,26 +135,26 @@ var DynabicTreeview = /*#__PURE__*/function () {
            }else if(segments.length == 5){
 
             var parentlink = location.origin+'/'+segments[1]+'/'
-            console.log( " 111 " + parentlink);
+            //console.log( " 111 " + parentlink);
             var element =  $( '#tree a[href*=\"'+ parentlink +'\"]' );
             var ParentNodeId =  element.closest('.node-tree').attr('data-nodeid');
             if(ParentNodeId){
               element.closest('.node-tree').css('background-color', '#428bca');
               element.closest('.node-tree').css('color', '#FFFFFF');
-              console.log(" open " + ParentNodeId);
+              //console.log(" open " + ParentNodeId);
               var ParentNodeId =  parseInt(ParentNodeId);
               $('#tree').treeview('expandNode', [ ParentNodeId, { silent: true } ]);
             }
 
             var parentlink = location.origin+'/'+segments[1]+'/'+segments[2]+'/'
-            console.log( " 222 " + parentlink);
+            //console.log( " 222 " + parentlink);
             var element =  $( '#tree a[href*=\"'+ parentlink +'\"]' );
             var ParentNodeId =  element.closest('.node-tree').attr('data-nodeid');
             
             if(ParentNodeId){
               element.closest('.node-tree').css('background-color', '#428bca');
               element.closest('.node-tree').css('color', '#FFFFFF');
-              console.log(" open " + ParentNodeId);
+              //console.log(" open " + ParentNodeId);
               var ParentNodeId =  parseInt(ParentNodeId);
               $('#tree').treeview('expandNode', [ ParentNodeId, { silent: true } ]);
             }
@@ -164,12 +164,12 @@ var DynabicTreeview = /*#__PURE__*/function () {
 
           var element =  $( 'a[href*=\"'+ current +'\"]' );
           //var element =  $( 'a[href*="http://localhost:1313/psd/"]' );
-          console.log(element);
+         // console.log(element);
           var ParentNodeId =  element.closest('.node-tree').attr('data-nodeid');
          
           if(ParentNodeId){
             element.closest('.node-tree').addClass('active');
-            console.log(" open " + ParentNodeId);
+           // console.log(" open " + ParentNodeId);
             var ParentNodeId =  parseInt(ParentNodeId);
             $('#tree').treeview('expandNode', [ ParentNodeId, { silent: true } ]);
           }
@@ -193,8 +193,8 @@ var DynabicTreeview = /*#__PURE__*/function () {
   }, {
     key: "nodeSelected",
     value: function nodeSelected(event, data) {
-      console.log('nodeSelected');
-      console.log(data.type);
+     // console.log('nodeSelected');
+      //console.log(data.type);
       dtself.clearContent();
       // if (data.type === 2 || data.type === 1 || data.type === 5) {
       //   dtself.loadNode(data, dtself.options.nodeSelected, event);
@@ -380,7 +380,7 @@ var DynabicTreeview = /*#__PURE__*/function () {
   }, {
     key: "loadNode",
     value: function loadNode(node, callback, event) {
-        console.log(node.url);
+     //   console.log(node.url);
         window.location.href = node.url;
     }
   }, {
