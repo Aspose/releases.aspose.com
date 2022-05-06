@@ -9,6 +9,7 @@ family_listing_page_selfHosted: ""
 family_listing_page_type: "4"
 family_listing_page_venture: "4"
 family_listing_page_package: ""
+hide_homepage: "yes"
 weight:  99
 ---
 
