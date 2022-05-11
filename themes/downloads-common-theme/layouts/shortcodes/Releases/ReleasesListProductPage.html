@@ -33,11 +33,12 @@
                   {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                   <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
                   <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}">{{ index $dwn_count 0 }}</span>
-                  <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>
+                  <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
                 </p>
               </div>
               <div class="col-sm-3">
-                <a href="{{ .Params.download_link }}" class="btn btn-primary">
+                {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
+                <a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                   <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
                 <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
               </div>
@@ -64,11 +65,12 @@
                           {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                           <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
                           <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}">{{ index $dwn_count 0 }}</span>
-                          <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>
+                          <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
                         </p>
                       </div>
                       <div class="col-sm-3">
-                        <a href="{{ .Params.download_link }}" class="btn btn-primary">
+                        {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
+                        <a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                           <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
                         <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
                       </div>
@@ -96,11 +98,12 @@
                         {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                         <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
                         <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}">{{ index $dwn_count 0 }}</span>
-                        <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>
+                        <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
                       </p>
                     </div>
                     <div class="col-sm-3">
-                      <a href="{{ .Params.download_link }}" class="btn btn-primary">
+                      {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
+                      <a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                         <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
                       <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
                     </div>
@@ -132,11 +135,12 @@
                 {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
                 <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}">{{ index $dwn_count 0 }}</span>
-                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>
+                <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
               </p>
             </div>
             <div class="col-sm-3">
-              <a href="{{ .Params.download_link }}" class="btn btn-primary">
+              {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
+              <a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                 <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
               <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
             </div>
@@ -163,11 +167,12 @@
                           {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                           <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
                           <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}">{{ index $dwn_count 0 }}</span>
-                          <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>
+                          <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
                         </p>
                       </div>
                       <div class="col-sm-3">
-                        <a href="{{ .Params.download_link }}" class="btn btn-primary">
+                        {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
+                          <a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                           <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
                         <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
                       </div>
@@ -197,11 +202,12 @@
                 {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
                 <span class="glyphicon glyphicon-save leftme" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}">{{ index $dwn_count 0 }}</span>
-                <span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>
+                <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
               </p>
             </div>
             <div class="col-sm-3">
-              <a href="{{ .Params.download_link }}" class="btn btn-primary">
+              {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
+              <a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                 <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
               <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
             </div>
@@ -224,7 +230,8 @@
 {{end}}</p> -->
 
 <script type="text/javascript">
-  $.getJSON("http://admindemo.local/api/updatecount?path={{$parent_path}}", function(data) { 
+   
+  $.getJSON("{{.Site.Params.backendURL}}/api/updatecount?path={{$parent_path}}", function(data) { 
       //var myParam = location.search.split('data=')[1]
       // data[myParam] = parseInt(data[myParam]) + 1;
         $.each(data, function(key, value) {
@@ -232,7 +239,7 @@
             //console.log(key + " View Count " + value.view_count);
             //console.log(key + " Dwn Count " + value.download_count);
             $("#dwn-update-"+ key).text(value.download_count);
-            $("#view-update-"+ key).text(value.view_count);
+           // $("#view-update-"+ key).text(value.view_count);
             //$("#added-update-"+ key).text(value.date_added);
             
         });

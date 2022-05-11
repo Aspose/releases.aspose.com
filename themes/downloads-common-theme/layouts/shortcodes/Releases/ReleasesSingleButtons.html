@@ -4,6 +4,7 @@
 <a href="{{ $link }}" class="btn btn-primary btn-lg">
       <span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span>{{ $text }}</a>&nbsp;
 {{else}}
-<a href="{{ $link }}" class="btn btn-primary btn-lg">{{$text}}</a>&nbsp;
+{{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  ($link))  }}
+<a href="{{ $backendURL }}" class="btn btn-primary btn-lg">{{$text}}</a>&nbsp;
 {{ end }}
 

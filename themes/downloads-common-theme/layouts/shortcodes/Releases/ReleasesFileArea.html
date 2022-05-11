@@ -6,7 +6,7 @@
 {{ $lastUrlElement := index (last 1 (split (delimit (split $download_link "/") "," "") ",")) 0 }}
 
 <script type="text/javascript">
-    $.getJSON("http://admindemo.local/api/updatecount?path={{$lastUrlElement}}&single=1", function(data) { 
+    $.getJSON("{{.Site.Params.backendURL}}/api/updatecount?path={{$lastUrlElement}}&single=1", function(data) { 
         //var myParam = location.search.split('data=')[1]
         // data[myParam] = parseInt(data[myParam]) + 1;
           $.each(data, function(key, value) {
@@ -14,13 +14,13 @@
               //console.log(key + " View Count " + value.view_count);
               //console.log(key + " Dwn Count " + value.download_count);
               $("#dwn-update-"+ key).text(value.download_count);
-              $("#view-update-"+ key).text(value.view_count);
+             // $("#view-update-"+ key).text(value.view_count);
              // $("#added-update-"+ key).text(value.date_added);
               
           });
     });
     
-    var formdata = new FormData();
+    /*var formdata = new FormData();
     formdata.append("etag_id", "{{$lastUrlElement}}");
 
     var requestOptions = {
@@ -29,8 +29,8 @@
     redirect: 'follow'
     };
 
-    fetch("http://admindemo.local/api/addviewcount", requestOptions)
+    fetch("{{.Site.Params.backendURL}}/api/addviewcount", requestOptions)
     .then(response => response.text())
     .then(result => console.log(result))
-    .catch(error => console.log('error', error));
+    .catch(error => console.log('error', error));*/
   </script>
