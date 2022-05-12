@@ -26,13 +26,13 @@ weight: 5
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-5668f738fc784f0295223c1c93d4b4ec" >}} 95 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-5668f738fc784f0295223c1c93d4b4ec" >}} 95 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-5668f738fc784f0295223c1c93d4b4ec" >}} 203.8 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-5668f738fc784f0295223c1c93d4b4ec" >}} alex.levshin {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-5668f738fc784f0295223c1c93d4b4ec" >}} 216 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-5668f738fc784f0295223c1c93d4b4ec" >}} alex.levshin {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-5668f738fc784f0295223c1c93d4b4ec" >}} 216 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-5668f738fc784f0295223c1c93d4b4ec" >}} 1/17/2022 {{< /Common/li >}} 
 

@@ -26,13 +26,13 @@ weight: 91
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-75a76de2ec45483eae4c63568eb790d2" >}} 44 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-75a76de2ec45483eae4c63568eb790d2" >}} 44 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-75a76de2ec45483eae4c63568eb790d2" >}} 17.6 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-75a76de2ec45483eae4c63568eb790d2" >}} vitaly.krivenko {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-75a76de2ec45483eae4c63568eb790d2" >}} 21 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-75a76de2ec45483eae4c63568eb790d2" >}} vitaly.krivenko {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-75a76de2ec45483eae4c63568eb790d2" >}} 21 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-75a76de2ec45483eae4c63568eb790d2" >}} 8/13/2018 {{< /Common/li >}} 
 

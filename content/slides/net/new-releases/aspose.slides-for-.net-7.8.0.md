@@ -26,13 +26,13 @@ weight: 224
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-ce00b703561848d09deaed9e0c4b41cc" >}} 183 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-ce00b703561848d09deaed9e0c4b41cc" >}} 183 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-ce00b703561848d09deaed9e0c4b41cc" >}} 40.6 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-ce00b703561848d09deaed9e0c4b41cc" >}} Mudassir {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-ce00b703561848d09deaed9e0c4b41cc" >}} 256 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-ce00b703561848d09deaed9e0c4b41cc" >}} Mudassir {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-ce00b703561848d09deaed9e0c4b41cc" >}} 256 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-ce00b703561848d09deaed9e0c4b41cc" >}} 9/3/2013 {{< /Common/li >}} 
 

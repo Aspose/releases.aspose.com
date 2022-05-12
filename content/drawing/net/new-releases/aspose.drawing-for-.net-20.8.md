@@ -26,13 +26,13 @@ weight: 49
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-bc83ad235bad4117a280a627c5de4ff3" >}} 7 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-bc83ad235bad4117a280a627c5de4ff3" >}} 7 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-bc83ad235bad4117a280a627c5de4ff3" >}} 5.5 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-bc83ad235bad4117a280a627c5de4ff3" >}} aleksandr.struniashev {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-bc83ad235bad4117a280a627c5de4ff3" >}} 13 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-bc83ad235bad4117a280a627c5de4ff3" >}} aleksandr.struniashev {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-bc83ad235bad4117a280a627c5de4ff3" >}} 13 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-bc83ad235bad4117a280a627c5de4ff3" >}} 8/26/2020 {{< /Common/li >}} 
 

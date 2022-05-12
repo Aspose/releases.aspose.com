@@ -26,13 +26,13 @@ weight: 1
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-fbd379bca0b049df88c596552bd82d7e" >}} 9 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-fbd379bca0b049df88c596552bd82d7e" >}} 9 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-fbd379bca0b049df88c596552bd82d7e" >}} 9.0 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-fbd379bca0b049df88c596552bd82d7e" >}} Eugene85 {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-fbd379bca0b049df88c596552bd82d7e" >}} 17 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-fbd379bca0b049df88c596552bd82d7e" >}} Eugene85 {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-fbd379bca0b049df88c596552bd82d7e" >}} 17 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-fbd379bca0b049df88c596552bd82d7e" >}} : 4 weeks ago [3/20/2022] {{< /Common/li >}} 
 

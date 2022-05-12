@@ -30,13 +30,13 @@ weight: 106
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-1200c05619d5405e9da2ae2d244fa8f8" >}} 110 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-1200c05619d5405e9da2ae2d244fa8f8" >}} 110 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-1200c05619d5405e9da2ae2d244fa8f8" >}} 4.9 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-1200c05619d5405e9da2ae2d244fa8f8" >}} Laurence {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-1200c05619d5405e9da2ae2d244fa8f8" >}} 1324 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-1200c05619d5405e9da2ae2d244fa8f8" >}} Laurence {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-1200c05619d5405e9da2ae2d244fa8f8" >}} 1324 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-1200c05619d5405e9da2ae2d244fa8f8" >}} 3/27/2008 {{< /Common/li >}} 
 

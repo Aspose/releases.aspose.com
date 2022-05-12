@@ -26,13 +26,13 @@ weight: 208
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-923bef772b0b4381808caeae022696e2" >}} 81 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-923bef772b0b4381808caeae022696e2" >}} 81 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-923bef772b0b4381808caeae022696e2" >}} 5.2 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-923bef772b0b4381808caeae022696e2" >}} imran.rafique {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-923bef772b0b4381808caeae022696e2" >}} 123 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-923bef772b0b4381808caeae022696e2" >}} imran.rafique {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-923bef772b0b4381808caeae022696e2" >}} 123 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-923bef772b0b4381808caeae022696e2" >}} 7/29/2013 {{< /Common/li >}} 
 

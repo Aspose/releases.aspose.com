@@ -26,13 +26,13 @@ weight: 53
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-19c06b4dd0494f598a83fc0a363ae84d" >}} 81 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-19c06b4dd0494f598a83fc0a363ae84d" >}} 81 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-19c06b4dd0494f598a83fc0a363ae84d" >}} 26.1 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-19c06b4dd0494f598a83fc0a363ae84d" >}} victor.krivolap {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-19c06b4dd0494f598a83fc0a363ae84d" >}} 261 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-19c06b4dd0494f598a83fc0a363ae84d" >}} victor.krivolap {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-19c06b4dd0494f598a83fc0a363ae84d" >}} 261 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-19c06b4dd0494f598a83fc0a363ae84d" >}} 8/29/2018 {{< /Common/li >}} 
 

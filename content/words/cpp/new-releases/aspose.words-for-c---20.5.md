@@ -26,13 +26,13 @@ weight: 79
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-154a7c0517774463be1327f3a1e66461" >}} 22 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-154a7c0517774463be1327f3a1e66461" >}} 22 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-154a7c0517774463be1327f3a1e66461" >}} 199.1 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-154a7c0517774463be1327f3a1e66461" >}} tengiz.sharafiev {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-154a7c0517774463be1327f3a1e66461" >}} 280 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-154a7c0517774463be1327f3a1e66461" >}} tengiz.sharafiev {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-154a7c0517774463be1327f3a1e66461" >}} 280 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-154a7c0517774463be1327f3a1e66461" >}} 5/19/2020 {{< /Common/li >}} 
 

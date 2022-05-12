@@ -31,13 +31,13 @@ weight: 259
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-4a9787a9e0f34d7785984ed14fdf4f06" >}} 218 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-4a9787a9e0f34d7785984ed14fdf4f06" >}} 218 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-4a9787a9e0f34d7785984ed14fdf4f06" >}} 28.8 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-4a9787a9e0f34d7785984ed14fdf4f06" >}} shahzad.latif {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-4a9787a9e0f34d7785984ed14fdf4f06" >}} 398 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-4a9787a9e0f34d7785984ed14fdf4f06" >}} shahzad.latif {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-4a9787a9e0f34d7785984ed14fdf4f06" >}} 398 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-4a9787a9e0f34d7785984ed14fdf4f06" >}} 9/8/2011 {{< /Common/li >}} 
 

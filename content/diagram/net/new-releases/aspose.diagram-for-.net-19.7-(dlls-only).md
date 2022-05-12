@@ -26,13 +26,13 @@ weight: 75
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-d8668e91399e44a4afe29ae7a956116b" >}} 17 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-d8668e91399e44a4afe29ae7a956116b" >}} 17 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-d8668e91399e44a4afe29ae7a956116b" >}} 21.6 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-d8668e91399e44a4afe29ae7a956116b" >}} philip.zhou {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-d8668e91399e44a4afe29ae7a956116b" >}} 24 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-d8668e91399e44a4afe29ae7a956116b" >}} philip.zhou {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-d8668e91399e44a4afe29ae7a956116b" >}} 24 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-d8668e91399e44a4afe29ae7a956116b" >}} 7/9/2019 {{< /Common/li >}} 
 

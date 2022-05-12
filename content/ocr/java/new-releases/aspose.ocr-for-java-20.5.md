@@ -26,13 +26,13 @@ weight: 70
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-a9be3bdaba8c4a749f2c8a8d74d056f3" >}} 44 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-a9be3bdaba8c4a749f2c8a8d74d056f3" >}} 44 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-a9be3bdaba8c4a749f2c8a8d74d056f3" >}} 177.4 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-a9be3bdaba8c4a749f2c8a8d74d056f3" >}} alexander.makogon@asposeptyltd.com {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-a9be3bdaba8c4a749f2c8a8d74d056f3" >}} 106 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-a9be3bdaba8c4a749f2c8a8d74d056f3" >}} alexander.makogon@asposeptyltd.com {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-a9be3bdaba8c4a749f2c8a8d74d056f3" >}} 106 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-a9be3bdaba8c4a749f2c8a8d74d056f3" >}} 5/18/2020 {{< /Common/li >}} 
 

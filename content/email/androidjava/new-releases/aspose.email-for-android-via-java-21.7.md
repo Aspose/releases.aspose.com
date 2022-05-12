@@ -26,13 +26,13 @@ weight: 3
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-daee8d84c2ef4e64ad4a9422da899420" >}} 2 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-daee8d84c2ef4e64ad4a9422da899420" >}} 2 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-daee8d84c2ef4e64ad4a9422da899420" >}} 9.5 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-daee8d84c2ef4e64ad4a9422da899420" >}} sergey.vivsiuk {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-daee8d84c2ef4e64ad4a9422da899420" >}} 43 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-daee8d84c2ef4e64ad4a9422da899420" >}} sergey.vivsiuk {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-daee8d84c2ef4e64ad4a9422da899420" >}} 43 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-daee8d84c2ef4e64ad4a9422da899420" >}} 8/13/2021 {{< /Common/li >}} 
 

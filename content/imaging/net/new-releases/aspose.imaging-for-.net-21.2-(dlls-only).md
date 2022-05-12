@@ -26,13 +26,13 @@ weight: 36
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-a51f5ff4a60d45ca854507dabc809568" >}} 31 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-a51f5ff4a60d45ca854507dabc809568" >}} 31 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-a51f5ff4a60d45ca854507dabc809568" >}} 34.3 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-a51f5ff4a60d45ca854507dabc809568" >}} samer.el-khatib4aspose {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-a51f5ff4a60d45ca854507dabc809568" >}} 54 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-a51f5ff4a60d45ca854507dabc809568" >}} samer.el-khatib4aspose {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-a51f5ff4a60d45ca854507dabc809568" >}} 54 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-a51f5ff4a60d45ca854507dabc809568" >}} 2/8/2021 {{< /Common/li >}} 
 

@@ -26,13 +26,13 @@ weight: 43
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-569841533e0749feb019e0eca2c67a41" >}} 10 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-569841533e0749feb019e0eca2c67a41" >}} 10 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-569841533e0749feb019e0eca2c67a41" >}} 26.5 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-569841533e0749feb019e0eca2c67a41" >}} stanislav.miroshnichenko1 {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-569841533e0749feb019e0eca2c67a41" >}} 58 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-569841533e0749feb019e0eca2c67a41" >}} stanislav.miroshnichenko1 {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-569841533e0749feb019e0eca2c67a41" >}} 58 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-569841533e0749feb019e0eca2c67a41" >}} 6/25/2019 {{< /Common/li >}} 
 

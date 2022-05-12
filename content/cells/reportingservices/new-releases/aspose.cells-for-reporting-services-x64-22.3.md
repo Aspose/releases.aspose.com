@@ -26,13 +26,13 @@ weight: 2
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-1951fe8bf921419bb9eca7579ac1f53f" >}} 0 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-1951fe8bf921419bb9eca7579ac1f53f" >}} 0 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-1951fe8bf921419bb9eca7579ac1f53f" >}} 29.8 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-1951fe8bf921419bb9eca7579ac1f53f" >}} wangtao {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-1951fe8bf921419bb9eca7579ac1f53f" >}} 6 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-1951fe8bf921419bb9eca7579ac1f53f" >}} wangtao {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-1951fe8bf921419bb9eca7579ac1f53f" >}} 6 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-1951fe8bf921419bb9eca7579ac1f53f" >}} : 5 weeks ago [3/14/2022] {{< /Common/li >}} 
 

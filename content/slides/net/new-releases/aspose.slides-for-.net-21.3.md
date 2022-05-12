@@ -26,13 +26,13 @@ weight: 35
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-eba322f57d0849b6807cff1b5a1da0d4" >}} 15 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-eba322f57d0849b6807cff1b5a1da0d4" >}} 15 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-eba322f57d0849b6807cff1b5a1da0d4" >}} 70.3 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-eba322f57d0849b6807cff1b5a1da0d4" >}} yuri.knigin {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-eba322f57d0849b6807cff1b5a1da0d4" >}} 39 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-eba322f57d0849b6807cff1b5a1da0d4" >}} yuri.knigin {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-eba322f57d0849b6807cff1b5a1da0d4" >}} 39 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-eba322f57d0849b6807cff1b5a1da0d4" >}} 3/19/2021 {{< /Common/li >}} 
 

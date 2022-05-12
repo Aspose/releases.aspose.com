@@ -9,7 +9,8 @@ download_link: " /cells/jasperreports/new-releases/aspose.cells-for-jasperreport
 download_text: " Download"
 Intro_text: " We are happy to announce Aspose.Cells for JasperReports v1.1.1!
  
-What's new:..."
+What's new:
+..."
 image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
 download_count: "   6/7/2012  Downloads: 119  Views: 1169"
 file_size: "  File Size: 4.6 MB "
@@ -28,13 +29,13 @@ weight: 6
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-5612f657933d4cd4a443b42b0860a2f7" >}} 119 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-5612f657933d4cd4a443b42b0860a2f7" >}} 119 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
-      {{< Common/li id="size-update-5612f657933d4cd4a443b42b0860a2f7" >}} 4.6 MB {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By:-5612f657933d4cd4a443b42b0860a2f7" >}} 4.6 MB {{< /Common/li >}} 
       {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-5612f657933d4cd4a443b42b0860a2f7" >}} Amjad Sahi {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-5612f657933d4cd4a443b42b0860a2f7" >}} 1170 {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-5612f657933d4cd4a443b42b0860a2f7" >}} Amjad Sahi {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-5612f657933d4cd4a443b42b0860a2f7" >}} 1170 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-5612f657933d4cd4a443b42b0860a2f7" >}} 6/7/2012 {{< /Common/li >}} 
 

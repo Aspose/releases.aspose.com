@@ -27,13 +27,13 @@ weight: 10
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-359c0cb27e4a4bba9bbaeeca6bb4575b" >}} 411 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-359c0cb27e4a4bba9bbaeeca6bb4575b" >}} 411 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-359c0cb27e4a4bba9bbaeeca6bb4575b" >}} 87.8 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-359c0cb27e4a4bba9bbaeeca6bb4575b" >}} zaheer.tariq {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-359c0cb27e4a4bba9bbaeeca6bb4575b" >}} 1398 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-359c0cb27e4a4bba9bbaeeca6bb4575b" >}} zaheer.tariq {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-359c0cb27e4a4bba9bbaeeca6bb4575b" >}} 1398 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-359c0cb27e4a4bba9bbaeeca6bb4575b" >}} 10/4/2013 {{< /Common/li >}} 
 

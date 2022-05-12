@@ -8,7 +8,8 @@ folder_name: " Aspose.Cells for Reporting Services V1.3.0.0"
 download_link: " /cells/reportingservices/new-releases/aspose.cells-for-reporting-services-v1.3.0.0/221409dc0ab0482f8b5a450446ec100c"
 download_text: " Download"
 Intro_text: " Dear Customers,
-We have released Aspose.Cells for Reporting Services V1.3.0.0!..."
+We have released Aspose.Cells for Reporting Services V1.3.0.0!
+..."
 image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
 download_count: "   10/22/2008  Downloads: 248  Views: 1293"
 file_size: "  File Size: 7.9 MB "
@@ -27,13 +28,13 @@ weight: 104
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-221409dc0ab0482f8b5a450446ec100c" >}} 248 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-221409dc0ab0482f8b5a450446ec100c" >}} 248 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
-      {{< Common/li id="size-update-221409dc0ab0482f8b5a450446ec100c" >}} 7.9 MB {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By:-221409dc0ab0482f8b5a450446ec100c" >}} 7.9 MB {{< /Common/li >}} 
       {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-221409dc0ab0482f8b5a450446ec100c" >}} Laurence {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-221409dc0ab0482f8b5a450446ec100c" >}} 1294 {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-221409dc0ab0482f8b5a450446ec100c" >}} Laurence {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-221409dc0ab0482f8b5a450446ec100c" >}} 1294 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-221409dc0ab0482f8b5a450446ec100c" >}} 10/22/2008 {{< /Common/li >}} 
 

@@ -26,13 +26,13 @@ weight: 69
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-307569657038492dbbb842b4282c7201" >}} 29 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-307569657038492dbbb842b4282c7201" >}} 29 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-307569657038492dbbb842b4282c7201" >}} 143.5 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-307569657038492dbbb842b4282c7201" >}} alexander.malokhovetskiy {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-307569657038492dbbb842b4282c7201" >}} 62 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-307569657038492dbbb842b4282c7201" >}} alexander.malokhovetskiy {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-307569657038492dbbb842b4282c7201" >}} 62 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-307569657038492dbbb842b4282c7201" >}} 7/14/2019 {{< /Common/li >}} 
 

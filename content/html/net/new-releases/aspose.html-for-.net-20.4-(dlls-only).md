@@ -26,13 +26,13 @@ weight: 55
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-78fdd54a75d74b548e6d5929ffd50e24" >}} 25 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-78fdd54a75d74b548e6d5929ffd50e24" >}} 25 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-78fdd54a75d74b548e6d5929ffd50e24" >}} 18.8 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-78fdd54a75d74b548e6d5929ffd50e24" >}} pavel.petrushechkin {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-78fdd54a75d74b548e6d5929ffd50e24" >}} 24 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-78fdd54a75d74b548e6d5929ffd50e24" >}} pavel.petrushechkin {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-78fdd54a75d74b548e6d5929ffd50e24" >}} 24 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-78fdd54a75d74b548e6d5929ffd50e24" >}} 4/3/2020 {{< /Common/li >}} 
 

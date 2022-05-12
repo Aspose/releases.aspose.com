@@ -26,13 +26,13 @@ weight: 140
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-02ac88fa12404718a638b0422e95d40e" >}} 96 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-02ac88fa12404718a638b0422e95d40e" >}} 96 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-02ac88fa12404718a638b0422e95d40e" >}} 14.0 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-02ac88fa12404718a638b0422e95d40e" >}} evgen.noskov {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-02ac88fa12404718a638b0422e95d40e" >}} 227 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-02ac88fa12404718a638b0422e95d40e" >}} evgen.noskov {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-02ac88fa12404718a638b0422e95d40e" >}} 227 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-02ac88fa12404718a638b0422e95d40e" >}} 3/30/2017 {{< /Common/li >}} 
 

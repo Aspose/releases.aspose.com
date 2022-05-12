@@ -26,13 +26,13 @@ weight: 8
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-24548f19a84e49bf84114d5669472898" >}} 12 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-24548f19a84e49bf84114d5669472898" >}} 12 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-24548f19a84e49bf84114d5669472898" >}} 19.6 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-24548f19a84e49bf84114d5669472898" >}} MaksymRohach {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-24548f19a84e49bf84114d5669472898" >}} 26 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-24548f19a84e49bf84114d5669472898" >}} MaksymRohach {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-24548f19a84e49bf84114d5669472898" >}} 26 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-24548f19a84e49bf84114d5669472898" >}} 12/25/2021 {{< /Common/li >}} 
 

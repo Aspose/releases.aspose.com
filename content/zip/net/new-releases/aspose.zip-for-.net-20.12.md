@@ -26,13 +26,13 @@ weight: 30
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-d307056141f343bca8f22795a38e4f5b" >}} 15 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-d307056141f343bca8f22795a38e4f5b" >}} 15 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-d307056141f343bca8f22795a38e4f5b" >}} 7.2 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-d307056141f343bca8f22795a38e4f5b" >}} Eugene85 {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-d307056141f343bca8f22795a38e4f5b" >}} 136 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-d307056141f343bca8f22795a38e4f5b" >}} Eugene85 {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-d307056141f343bca8f22795a38e4f5b" >}} 136 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-d307056141f343bca8f22795a38e4f5b" >}} 12/14/2020 {{< /Common/li >}} 
 

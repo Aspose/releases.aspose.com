@@ -9,7 +9,8 @@ download_link: " /barcode/net/new-releases/aspose.barcode-for-.net-2.4.0.0-relea
 download_text: " Download"
 Intro_text: " Dear Customers, 
 We have released Aspose.BarCode for .NET 2.4.0.0.
-What's New..."
+What's New
+..."
 image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
 download_count: "   12/22/2007  Downloads: 146  Views: 645"
 file_size: "  File Size: 9.4 MB "
@@ -28,13 +29,13 @@ weight: 275
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-65fe72a1618e4f2f87f95b69c4dc2e54" >}} 146 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-65fe72a1618e4f2f87f95b69c4dc2e54" >}} 146 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
-      {{< Common/li id="size-update-65fe72a1618e4f2f87f95b69c4dc2e54" >}} 9.4 MB {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By:-65fe72a1618e4f2f87f95b69c4dc2e54" >}} 9.4 MB {{< /Common/li >}} 
       {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-65fe72a1618e4f2f87f95b69c4dc2e54" >}} iret {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-65fe72a1618e4f2f87f95b69c4dc2e54" >}} 646 {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-65fe72a1618e4f2f87f95b69c4dc2e54" >}} iret {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-65fe72a1618e4f2f87f95b69c4dc2e54" >}} 646 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-65fe72a1618e4f2f87f95b69c4dc2e54" >}} 12/22/2007 {{< /Common/li >}} 
 

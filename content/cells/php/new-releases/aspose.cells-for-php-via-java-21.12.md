@@ -26,13 +26,13 @@ weight: 4
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-6d58c5eb8f0d4a43a66c12347226e223" >}} 5 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-6d58c5eb8f0d4a43a66c12347226e223" >}} 5 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-6d58c5eb8f0d4a43a66c12347226e223" >}} 11.5 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-6d58c5eb8f0d4a43a66c12347226e223" >}} Nick.Liu {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-6d58c5eb8f0d4a43a66c12347226e223" >}} 47 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-6d58c5eb8f0d4a43a66c12347226e223" >}} Nick.Liu {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-6d58c5eb8f0d4a43a66c12347226e223" >}} 47 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-6d58c5eb8f0d4a43a66c12347226e223" >}} 12/13/2021 {{< /Common/li >}} 
 

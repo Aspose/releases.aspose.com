@@ -26,13 +26,13 @@ weight: 55
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-bdf74920007547b0918ddd896ad1a093" >}} 22 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-bdf74920007547b0918ddd896ad1a093" >}} 22 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-bdf74920007547b0918ddd896ad1a093" >}} 14.9 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-bdf74920007547b0918ddd896ad1a093" >}} alkhimov {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-bdf74920007547b0918ddd896ad1a093" >}} 203 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-bdf74920007547b0918ddd896ad1a093" >}} alkhimov {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-bdf74920007547b0918ddd896ad1a093" >}} 203 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-bdf74920007547b0918ddd896ad1a093" >}} 4/23/2020 {{< /Common/li >}} 
 

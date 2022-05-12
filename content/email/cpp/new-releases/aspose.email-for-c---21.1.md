@@ -26,13 +26,13 @@ weight: 8
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-bdba23a9075941ce990730e89702ebae" >}} 0 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-bdba23a9075941ce990730e89702ebae" >}} 0 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-bdba23a9075941ce990730e89702ebae" >}} 293.7 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-bdba23a9075941ce990730e89702ebae" >}} Vitalij.Shitts {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-bdba23a9075941ce990730e89702ebae" >}} 50 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-bdba23a9075941ce990730e89702ebae" >}} Vitalij.Shitts {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-bdba23a9075941ce990730e89702ebae" >}} 50 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-bdba23a9075941ce990730e89702ebae" >}} 4/6/2021 {{< /Common/li >}} 
 

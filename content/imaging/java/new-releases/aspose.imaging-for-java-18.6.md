@@ -26,13 +26,13 @@ weight: 49
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-cb05654dca42480aafad1d8a6ecf9b2f" >}} 21 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-cb05654dca42480aafad1d8a6ecf9b2f" >}} 21 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-cb05654dca42480aafad1d8a6ecf9b2f" >}} 23.7 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-cb05654dca42480aafad1d8a6ecf9b2f" >}} aifeigin4aspose {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-cb05654dca42480aafad1d8a6ecf9b2f" >}} 66 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-cb05654dca42480aafad1d8a6ecf9b2f" >}} aifeigin4aspose {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-cb05654dca42480aafad1d8a6ecf9b2f" >}} 66 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-cb05654dca42480aafad1d8a6ecf9b2f" >}} 6/29/2018 {{< /Common/li >}} 
 

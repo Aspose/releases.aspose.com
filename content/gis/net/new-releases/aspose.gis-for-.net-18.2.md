@@ -26,13 +26,13 @@ weight: 114
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-b7627776b4814727ab52727988acff94" >}} 30 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-b7627776b4814727ab52727988acff94" >}} 30 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-b7627776b4814727ab52727988acff94" >}} 968.0 KB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-b7627776b4814727ab52727988acff94" >}} egor.kluban {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-b7627776b4814727ab52727988acff94" >}} 292 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-b7627776b4814727ab52727988acff94" >}} egor.kluban {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-b7627776b4814727ab52727988acff94" >}} 292 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-b7627776b4814727ab52727988acff94" >}} 2/13/2018 {{< /Common/li >}} 
 

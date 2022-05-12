@@ -26,13 +26,13 @@ weight: 294
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-cb3a19abf98d487389754550c47e618e" >}} 205 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-cb3a19abf98d487389754550c47e618e" >}} 205 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-cb3a19abf98d487389754550c47e618e" >}} 1.8 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-cb3a19abf98d487389754550c47e618e" >}} alcrus {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-cb3a19abf98d487389754550c47e618e" >}} 664 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-cb3a19abf98d487389754550c47e618e" >}} alcrus {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-cb3a19abf98d487389754550c47e618e" >}} 664 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-cb3a19abf98d487389754550c47e618e" >}} 3/21/2009 {{< /Common/li >}} 
 

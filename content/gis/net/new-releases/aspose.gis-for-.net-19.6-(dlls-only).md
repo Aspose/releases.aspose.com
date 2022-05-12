@@ -26,13 +26,13 @@ weight: 80
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-cb4bd965d9634b9e8ac023adaf68bc8d" >}} 11 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-cb4bd965d9634b9e8ac023adaf68bc8d" >}} 11 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-cb4bd965d9634b9e8ac023adaf68bc8d" >}} 11.6 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-cb4bd965d9634b9e8ac023adaf68bc8d" >}} oleksiikucherenko95 {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-cb4bd965d9634b9e8ac023adaf68bc8d" >}} 166 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-cb4bd965d9634b9e8ac023adaf68bc8d" >}} oleksiikucherenko95 {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-cb4bd965d9634b9e8ac023adaf68bc8d" >}} 166 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-cb4bd965d9634b9e8ac023adaf68bc8d" >}} 6/7/2019 {{< /Common/li >}} 
 

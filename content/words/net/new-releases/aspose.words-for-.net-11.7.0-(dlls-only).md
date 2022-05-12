@@ -26,13 +26,13 @@ weight: 245
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-fb9a4d54d3d74105965549c3b8c2e0e4" >}} 760 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-fb9a4d54d3d74105965549c3b8c2e0e4" >}} 760 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-fb9a4d54d3d74105965549c3b8c2e0e4" >}} 21.4 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-fb9a4d54d3d74105965549c3b8c2e0e4" >}} Vladimir_Kurguzov {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-fb9a4d54d3d74105965549c3b8c2e0e4" >}} 1421 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-fb9a4d54d3d74105965549c3b8c2e0e4" >}} Vladimir_Kurguzov {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-fb9a4d54d3d74105965549c3b8c2e0e4" >}} 1421 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-fb9a4d54d3d74105965549c3b8c2e0e4" >}} 9/1/2012 {{< /Common/li >}} 
 

@@ -26,13 +26,13 @@ weight: 101
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-7bb8925b0d0d4c8da09d30861ae34b4c" >}} 67 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-7bb8925b0d0d4c8da09d30861ae34b4c" >}} 67 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-7bb8925b0d0d4c8da09d30861ae34b4c" >}} 6.2 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-7bb8925b0d0d4c8da09d30861ae34b4c" >}} sergey.chereshnyuk {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-7bb8925b0d0d4c8da09d30861ae34b4c" >}} 250 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-7bb8925b0d0d4c8da09d30861ae34b4c" >}} sergey.chereshnyuk {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-7bb8925b0d0d4c8da09d30861ae34b4c" >}} 250 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-7bb8925b0d0d4c8da09d30861ae34b4c" >}} 4/1/2014 {{< /Common/li >}} 
 

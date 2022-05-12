@@ -26,13 +26,13 @@ weight: 227
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-de7029391f704abfa743261d3e459be0" >}} 661 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-de7029391f704abfa743261d3e459be0" >}} 661 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-de7029391f704abfa743261d3e459be0" >}} 61.9 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-de7029391f704abfa743261d3e459be0" >}} codewarior {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-de7029391f704abfa743261d3e459be0" >}} 1126 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-de7029391f704abfa743261d3e459be0" >}} codewarior {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-de7029391f704abfa743261d3e459be0" >}} 1126 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-de7029391f704abfa743261d3e459be0" >}} 3/27/2013 {{< /Common/li >}} 
 

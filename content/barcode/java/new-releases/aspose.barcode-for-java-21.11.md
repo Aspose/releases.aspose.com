@@ -26,13 +26,13 @@ weight: 5
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-00cf5041e04c4cc3ac9bd924788fe408" >}} 24 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-00cf5041e04c4cc3ac9bd924788fe408" >}} 24 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-00cf5041e04c4cc3ac9bd924788fe408" >}} 10.7 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-00cf5041e04c4cc3ac9bd924788fe408" >}} Aleksander.Grinin {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-00cf5041e04c4cc3ac9bd924788fe408" >}} 109 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-00cf5041e04c4cc3ac9bd924788fe408" >}} Aleksander.Grinin {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-00cf5041e04c4cc3ac9bd924788fe408" >}} 109 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-00cf5041e04c4cc3ac9bd924788fe408" >}} 11/11/2021 {{< /Common/li >}} 
 

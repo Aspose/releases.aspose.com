@@ -26,13 +26,13 @@ weight: 62
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-680fcd1c64eb45218196f8ffa10e9f95" >}} 2 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-680fcd1c64eb45218196f8ffa10e9f95" >}} 2 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-680fcd1c64eb45218196f8ffa10e9f95" >}} 141.7 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-680fcd1c64eb45218196f8ffa10e9f95" >}} aleksey.chevyrov {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-680fcd1c64eb45218196f8ffa10e9f95" >}} 39 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-680fcd1c64eb45218196f8ffa10e9f95" >}} aleksey.chevyrov {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-680fcd1c64eb45218196f8ffa10e9f95" >}} 39 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-680fcd1c64eb45218196f8ffa10e9f95" >}} 5/23/2020 {{< /Common/li >}} 
 

@@ -26,13 +26,13 @@ weight: 29
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-941e3ed315be4b6a8d790b44b5c5d6f5" >}} 8 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-941e3ed315be4b6a8d790b44b5c5d6f5" >}} 8 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-941e3ed315be4b6a8d790b44b5c5d6f5" >}} 11.1 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-941e3ed315be4b6a8d790b44b5c5d6f5" >}} skolod {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-941e3ed315be4b6a8d790b44b5c5d6f5" >}} 35 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-941e3ed315be4b6a8d790b44b5c5d6f5" >}} skolod {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-941e3ed315be4b6a8d790b44b5c5d6f5" >}} 35 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-941e3ed315be4b6a8d790b44b5c5d6f5" >}} 1/21/2020 {{< /Common/li >}} 
 

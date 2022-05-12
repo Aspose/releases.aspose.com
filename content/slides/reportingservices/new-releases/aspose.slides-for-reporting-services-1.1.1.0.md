@@ -27,13 +27,13 @@ weight: 220
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-4e4d17e798404f1db673de3844fdf6df" >}} 22 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-4e4d17e798404f1db673de3844fdf6df" >}} 22 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-4e4d17e798404f1db673de3844fdf6df" >}} 2.9 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-4e4d17e798404f1db673de3844fdf6df" >}} alcrus {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-4e4d17e798404f1db673de3844fdf6df" >}} 327 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-4e4d17e798404f1db673de3844fdf6df" >}} alcrus {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-4e4d17e798404f1db673de3844fdf6df" >}} 327 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-4e4d17e798404f1db673de3844fdf6df" >}} 11/18/2007 {{< /Common/li >}} 
 

@@ -26,13 +26,13 @@ weight: 1
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-fb7d00a8cdb0460fa097070e6a13cbba" >}} 1 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-fb7d00a8cdb0460fa097070e6a13cbba" >}} 1 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-fb7d00a8cdb0460fa097070e6a13cbba" >}} 35.5 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-fb7d00a8cdb0460fa097070e6a13cbba" >}} samer.el-khatib4aspose {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-fb7d00a8cdb0460fa097070e6a13cbba" >}} 3 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-fb7d00a8cdb0460fa097070e6a13cbba" >}} samer.el-khatib4aspose {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-fb7d00a8cdb0460fa097070e6a13cbba" >}} 3 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-fb7d00a8cdb0460fa097070e6a13cbba" >}} : 11 hours ago [4/11/2022] {{< /Common/li >}} 
 

@@ -26,13 +26,13 @@ weight: 39
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-c69fdd83c2a541d8be71de1b31f16d6b" >}} 3 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-c69fdd83c2a541d8be71de1b31f16d6b" >}} 3 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-c69fdd83c2a541d8be71de1b31f16d6b" >}} 8.0 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-c69fdd83c2a541d8be71de1b31f16d6b" >}} lex.chou {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-c69fdd83c2a541d8be71de1b31f16d6b" >}} 6 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-c69fdd83c2a541d8be71de1b31f16d6b" >}} lex.chou {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-c69fdd83c2a541d8be71de1b31f16d6b" >}} 6 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-c69fdd83c2a541d8be71de1b31f16d6b" >}} 10/9/2019 {{< /Common/li >}} 
 

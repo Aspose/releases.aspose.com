@@ -26,13 +26,13 @@ weight: 199
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-365375dbc90e45d6b631acf6b50357aa" >}} 460 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-365375dbc90e45d6b631acf6b50357aa" >}} 460 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-365375dbc90e45d6b631acf6b50357aa" >}} 9.3 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-365375dbc90e45d6b631acf6b50357aa" >}} brus07 {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-365375dbc90e45d6b631acf6b50357aa" >}} 393 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-365375dbc90e45d6b631acf6b50357aa" >}} brus07 {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-365375dbc90e45d6b631acf6b50357aa" >}} 393 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-365375dbc90e45d6b631acf6b50357aa" >}} 3/19/2014 {{< /Common/li >}} 
 

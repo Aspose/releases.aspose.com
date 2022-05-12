@@ -26,13 +26,13 @@ weight: 7
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-5bf98658adfd4b2085e91d28cd5b3f51" >}} 35 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-5bf98658adfd4b2085e91d28cd5b3f51" >}} 35 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-5bf98658adfd4b2085e91d28cd5b3f51" >}} 233.3 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-5bf98658adfd4b2085e91d28cd5b3f51" >}} tengiz.sharafiev {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-5bf98658adfd4b2085e91d28cd5b3f51" >}} 57 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-5bf98658adfd4b2085e91d28cd5b3f51" >}} tengiz.sharafiev {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-5bf98658adfd4b2085e91d28cd5b3f51" >}} 57 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-5bf98658adfd4b2085e91d28cd5b3f51" >}} 2/16/2022 {{< /Common/li >}} 
 

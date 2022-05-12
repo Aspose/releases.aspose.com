@@ -26,13 +26,13 @@ weight: 7
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-ff9aa22912794970839a4bdc64575d9f" >}} 108 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-ff9aa22912794970839a4bdc64575d9f" >}} 108 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-ff9aa22912794970839a4bdc64575d9f" >}} 9.8 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-ff9aa22912794970839a4bdc64575d9f" >}} tilal.ahmad {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-ff9aa22912794970839a4bdc64575d9f" >}} 809 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-ff9aa22912794970839a4bdc64575d9f" >}} tilal.ahmad {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-ff9aa22912794970839a4bdc64575d9f" >}} 809 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-ff9aa22912794970839a4bdc64575d9f" >}} 4/7/2013 {{< /Common/li >}} 
 

@@ -8,7 +8,8 @@ folder_name: " Aspose.Words for Java 4.0.2 BETA"
 download_link: " /words/java/new-releases/aspose.words-for-java-4.0.2-beta/28751ec811124b6f91533965904d154b"
 download_text: " Download"
 Intro_text: " 
-New Feature: Comment Ranges are Supported in Aspose.Words for Java 4.0.2 BETA..."
+New Feature: Comment Ranges are Supported in Aspose.Words for Java 4.0.2 BETA
+..."
 image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
 download_count: "   3/4/2010  Downloads: 978  Views: 1843"
 file_size: "  File Size: 10.3 MB "
@@ -27,13 +28,13 @@ weight: 178
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-28751ec811124b6f91533965904d154b" >}} 978 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-28751ec811124b6f91533965904d154b" >}} 978 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
-      {{< Common/li id="size-update-28751ec811124b6f91533965904d154b" >}} 10.3 MB {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By:-28751ec811124b6f91533965904d154b" >}} 10.3 MB {{< /Common/li >}} 
       {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-28751ec811124b6f91533965904d154b" >}} Konstantin {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-28751ec811124b6f91533965904d154b" >}} 1843 {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-28751ec811124b6f91533965904d154b" >}} Konstantin {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-28751ec811124b6f91533965904d154b" >}} 1843 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-28751ec811124b6f91533965904d154b" >}} 3/4/2010 {{< /Common/li >}} 
 

@@ -26,13 +26,13 @@ weight: 61
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-3c9d3d798b14451783dd5b0db39b1758" >}} 33 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-3c9d3d798b14451783dd5b0db39b1758" >}} 33 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-3c9d3d798b14451783dd5b0db39b1758" >}} 2.0 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-3c9d3d798b14451783dd5b0db39b1758" >}} Eugene85 {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-3c9d3d798b14451783dd5b0db39b1758" >}} 20 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-3c9d3d798b14451783dd5b0db39b1758" >}} Eugene85 {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-3c9d3d798b14451783dd5b0db39b1758" >}} 20 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-3c9d3d798b14451783dd5b0db39b1758" >}} 11/29/2018 {{< /Common/li >}} 
 

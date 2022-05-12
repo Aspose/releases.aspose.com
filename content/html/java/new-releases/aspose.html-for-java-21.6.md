@@ -26,13 +26,13 @@ weight: 2
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-f4fcd194ff6247ad8e9362c7efbc2941" >}} 78 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-f4fcd194ff6247ad8e9362c7efbc2941" >}} 78 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-f4fcd194ff6247ad8e9362c7efbc2941" >}} 53.4 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-f4fcd194ff6247ad8e9362c7efbc2941" >}} pavel.terechshenkov {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-f4fcd194ff6247ad8e9362c7efbc2941" >}} 119 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-f4fcd194ff6247ad8e9362c7efbc2941" >}} pavel.terechshenkov {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-f4fcd194ff6247ad8e9362c7efbc2941" >}} 119 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-f4fcd194ff6247ad8e9362c7efbc2941" >}} 7/1/2021 {{< /Common/li >}} 
 

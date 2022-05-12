@@ -9,7 +9,8 @@ download_link: " /barcode/net/new-releases/aspose.barcode-.net-2.3.1.0-hot-fix/f
 download_text: " Download"
 Intro_text: " Dear customers,
 We have released hotfix 2.3.1 for Aspose.BarCode!
-What's new?..."
+What's new?
+..."
 image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
 download_count: "   7/24/2007  Downloads: 67  Views: 299"
 file_size: "  File Size: 1.0 MB "
@@ -28,13 +29,13 @@ weight: 284
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-fa8a61cb0f7a44ee95e2e8de6b933d1e" >}} 67 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-fa8a61cb0f7a44ee95e2e8de6b933d1e" >}} 67 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
-      {{< Common/li id="size-update-fa8a61cb0f7a44ee95e2e8de6b933d1e" >}} 1.0 MB {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By:-fa8a61cb0f7a44ee95e2e8de6b933d1e" >}} 1.0 MB {{< /Common/li >}} 
       {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-fa8a61cb0f7a44ee95e2e8de6b933d1e" >}} ShL77 {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-fa8a61cb0f7a44ee95e2e8de6b933d1e" >}} 300 {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-fa8a61cb0f7a44ee95e2e8de6b933d1e" >}} ShL77 {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-fa8a61cb0f7a44ee95e2e8de6b933d1e" >}} 300 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-fa8a61cb0f7a44ee95e2e8de6b933d1e" >}} 7/24/2007 {{< /Common/li >}} 
 

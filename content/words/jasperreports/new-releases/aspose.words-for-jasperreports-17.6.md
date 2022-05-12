@@ -26,13 +26,13 @@ weight: 40
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-f35ec080bee1447fa80d3a5fa8e60105" >}} 34 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-f35ec080bee1447fa80d3a5fa8e60105" >}} 34 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-f35ec080bee1447fa80d3a5fa8e60105" >}} 33.9 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-f35ec080bee1447fa80d3a5fa8e60105" >}} vadimpo {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-f35ec080bee1447fa80d3a5fa8e60105" >}} 1308 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-f35ec080bee1447fa80d3a5fa8e60105" >}} vadimpo {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-f35ec080bee1447fa80d3a5fa8e60105" >}} 1308 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-f35ec080bee1447fa80d3a5fa8e60105" >}} 6/22/2017 {{< /Common/li >}} 
 

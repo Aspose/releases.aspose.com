@@ -26,13 +26,13 @@ weight: 138
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-b5505249f6e24d02b490a82f1ecb9311" >}} 75 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-b5505249f6e24d02b490a82f1ecb9311" >}} 75 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-b5505249f6e24d02b490a82f1ecb9311" >}} 14.6 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-b5505249f6e24d02b490a82f1ecb9311" >}} panchenko.dm {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-b5505249f6e24d02b490a82f1ecb9311" >}} 599 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-b5505249f6e24d02b490a82f1ecb9311" >}} panchenko.dm {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-b5505249f6e24d02b490a82f1ecb9311" >}} 599 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-b5505249f6e24d02b490a82f1ecb9311" >}} 11/17/2016 {{< /Common/li >}} 
 

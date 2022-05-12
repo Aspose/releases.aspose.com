@@ -26,11 +26,11 @@ weight: 38
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-50052634ba694e01a318de8a95e0ad37" >}} 20 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-50052634ba694e01a318de8a95e0ad37" >}} 20 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-50052634ba694e01a318de8a95e0ad37" >}} 14.8 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-50052634ba694e01a318de8a95e0ad37" >}} <li>Views: {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-50052634ba694e01a318de8a95e0ad37" >}} <li>Views: {{< /Common/li >}} 
       {{< Common/li  >}} 41: {{< /Common/li >}} 
       {{< Common/li id="41-update-50052634ba694e01a318de8a95e0ad37" >}} Date Added:: {{< /Common/li >}} 
       {{< Common/li  >}} 1/22/2021: {{< /Common/li >}} 

@@ -26,13 +26,13 @@ weight: 131
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-de3da69a09934d1e82af96835e9834f4" >}} 199 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-de3da69a09934d1e82af96835e9834f4" >}} 199 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-de3da69a09934d1e82af96835e9834f4" >}} 65.1 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-de3da69a09934d1e82af96835e9834f4" >}} Amjad Sahi {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-de3da69a09934d1e82af96835e9834f4" >}} 930 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-de3da69a09934d1e82af96835e9834f4" >}} Amjad Sahi {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-de3da69a09934d1e82af96835e9834f4" >}} 930 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-de3da69a09934d1e82af96835e9834f4" >}} 10/17/2011 {{< /Common/li >}} 
 

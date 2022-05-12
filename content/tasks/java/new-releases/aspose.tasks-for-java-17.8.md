@@ -26,13 +26,13 @@ weight: 49
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-05fe8c95a2aa46168104eaba16def7a8" >}} 51 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-05fe8c95a2aa46168104eaba16def7a8" >}} 51 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-05fe8c95a2aa46168104eaba16def7a8" >}} 23.0 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-05fe8c95a2aa46168104eaba16def7a8" >}} denis.kepeschuk.aspose {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-05fe8c95a2aa46168104eaba16def7a8" >}} 416 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-05fe8c95a2aa46168104eaba16def7a8" >}} denis.kepeschuk.aspose {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-05fe8c95a2aa46168104eaba16def7a8" >}} 416 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-05fe8c95a2aa46168104eaba16def7a8" >}} 11/13/2017 {{< /Common/li >}} 
 

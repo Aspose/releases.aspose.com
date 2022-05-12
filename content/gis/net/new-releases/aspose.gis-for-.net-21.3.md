@@ -26,13 +26,13 @@ weight: 31
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-ae7fb4b3d9b044d4a53c503409eb83e9" >}} 4 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-ae7fb4b3d9b044d4a53c503409eb83e9" >}} 4 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-ae7fb4b3d9b044d4a53c503409eb83e9" >}} 10.7 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-ae7fb4b3d9b044d4a53c503409eb83e9" >}} Evgeniy.Timofeev {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-ae7fb4b3d9b044d4a53c503409eb83e9" >}} 25 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-ae7fb4b3d9b044d4a53c503409eb83e9" >}} Evgeniy.Timofeev {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-ae7fb4b3d9b044d4a53c503409eb83e9" >}} 25 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-ae7fb4b3d9b044d4a53c503409eb83e9" >}} 3/2/2021 {{< /Common/li >}} 
 

@@ -26,13 +26,13 @@ weight: 84
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-ceb4a6b8c69d4a7681689a47434dc3bb" >}} 42 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-ceb4a6b8c69d4a7681689a47434dc3bb" >}} 42 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-ceb4a6b8c69d4a7681689a47434dc3bb" >}} 9.1 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-ceb4a6b8c69d4a7681689a47434dc3bb" >}} kashif.iqbal {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-ceb4a6b8c69d4a7681689a47434dc3bb" >}} 275 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-ceb4a6b8c69d4a7681689a47434dc3bb" >}} kashif.iqbal {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-ceb4a6b8c69d4a7681689a47434dc3bb" >}} 275 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-ceb4a6b8c69d4a7681689a47434dc3bb" >}} 1/13/2014 {{< /Common/li >}} 
 

@@ -26,13 +26,13 @@ weight: 33
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-468c970073de43f282b91aaeb35dd3da" >}} 80 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-468c970073de43f282b91aaeb35dd3da" >}} 80 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-468c970073de43f282b91aaeb35dd3da" >}} 29.7 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-468c970073de43f282b91aaeb35dd3da" >}} vitalii.kornyliuk {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-468c970073de43f282b91aaeb35dd3da" >}} 261 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-468c970073de43f282b91aaeb35dd3da" >}} vitalii.kornyliuk {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-468c970073de43f282b91aaeb35dd3da" >}} 261 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-468c970073de43f282b91aaeb35dd3da" >}} 10/7/2019 {{< /Common/li >}} 
 

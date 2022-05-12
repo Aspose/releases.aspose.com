@@ -26,13 +26,13 @@ weight: 42
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-49658ad9a9464a60a7fac4ef8c5b0cb2" >}} 1 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-49658ad9a9464a60a7fac4ef8c5b0cb2" >}} 1 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-49658ad9a9464a60a7fac4ef8c5b0cb2" >}} 95.9 KB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-49658ad9a9464a60a7fac4ef8c5b0cb2" >}} anna.pylaieva {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-49658ad9a9464a60a7fac4ef8c5b0cb2" >}} 13 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-49658ad9a9464a60a7fac4ef8c5b0cb2" >}} anna.pylaieva {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-49658ad9a9464a60a7fac4ef8c5b0cb2" >}} 13 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-49658ad9a9464a60a7fac4ef8c5b0cb2" >}} 2/28/2021 {{< /Common/li >}} 
 

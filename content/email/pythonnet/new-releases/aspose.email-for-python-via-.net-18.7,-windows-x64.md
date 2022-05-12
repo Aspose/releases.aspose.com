@@ -26,13 +26,13 @@ weight: 6
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-671aa7a3499848d891058d4b0007892c" >}} 95 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-671aa7a3499848d891058d4b0007892c" >}} 95 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-671aa7a3499848d891058d4b0007892c" >}} 31.6 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-671aa7a3499848d891058d4b0007892c" >}} Vitalij.Shitts {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-671aa7a3499848d891058d4b0007892c" >}} 227 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-671aa7a3499848d891058d4b0007892c" >}} Vitalij.Shitts {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-671aa7a3499848d891058d4b0007892c" >}} 227 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-671aa7a3499848d891058d4b0007892c" >}} 7/18/2018 {{< /Common/li >}} 
 

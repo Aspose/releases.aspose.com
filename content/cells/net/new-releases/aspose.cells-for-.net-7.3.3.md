@@ -12,7 +12,8 @@ happy to announce Aspose.Cells for .NET v7.3.3!
 
  
 
-1) Aspose.Cells..."
+1) Aspose.Cells
+..."
 image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
 download_count: "   10/24/2012  Downloads: 347  Views: 1193"
 file_size: "  File Size: 26.8 MB "
@@ -31,13 +32,13 @@ weight: 237
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-85cf6b808ddb4626ad9642c92ae5d492" >}} 347 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-85cf6b808ddb4626ad9642c92ae5d492" >}} 347 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
-      {{< Common/li id="size-update-85cf6b808ddb4626ad9642c92ae5d492" >}} 26.8 MB {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By:-85cf6b808ddb4626ad9642c92ae5d492" >}} 26.8 MB {{< /Common/li >}} 
       {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-85cf6b808ddb4626ad9642c92ae5d492" >}} Amjad Sahi {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-85cf6b808ddb4626ad9642c92ae5d492" >}} 1194 {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-85cf6b808ddb4626ad9642c92ae5d492" >}} Amjad Sahi {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-85cf6b808ddb4626ad9642c92ae5d492" >}} 1194 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-85cf6b808ddb4626ad9642c92ae5d492" >}} 10/24/2012 {{< /Common/li >}} 
 

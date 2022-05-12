@@ -26,13 +26,13 @@ weight: 83
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-92a637a9a53544cea3a98715a87dd862" >}} 364 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-92a637a9a53544cea3a98715a87dd862" >}} 364 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-92a637a9a53544cea3a98715a87dd862" >}} 10.4 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-92a637a9a53544cea3a98715a87dd862" >}} egor.kluban {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-92a637a9a53544cea3a98715a87dd862" >}} 312 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-92a637a9a53544cea3a98715a87dd862" >}} egor.kluban {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-92a637a9a53544cea3a98715a87dd862" >}} 312 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-92a637a9a53544cea3a98715a87dd862" >}} 10/15/2015 {{< /Common/li >}} 
 

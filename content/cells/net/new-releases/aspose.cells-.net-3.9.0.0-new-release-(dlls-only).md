@@ -29,13 +29,13 @@ weight: 321
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-c2e5470d4b434cbd8570dbf3d5a03a61" >}} 3 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-c2e5470d4b434cbd8570dbf3d5a03a61" >}} 3 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-c2e5470d4b434cbd8570dbf3d5a03a61" >}} 443.1 KB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-c2e5470d4b434cbd8570dbf3d5a03a61" >}} ShL77 {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-c2e5470d4b434cbd8570dbf3d5a03a61" >}} 41 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-c2e5470d4b434cbd8570dbf3d5a03a61" >}} ShL77 {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-c2e5470d4b434cbd8570dbf3d5a03a61" >}} 41 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-c2e5470d4b434cbd8570dbf3d5a03a61" >}} 7/25/2007 {{< /Common/li >}} 
 

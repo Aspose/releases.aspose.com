@@ -26,13 +26,13 @@ weight: 39
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-2895691401224fd491fd318f3a7f9152" >}} 42 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-2895691401224fd491fd318f3a7f9152" >}} 42 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-2895691401224fd491fd318f3a7f9152" >}} 84.6 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-2895691401224fd491fd318f3a7f9152" >}} simon.zhao {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-2895691401224fd491fd318f3a7f9152" >}} 258 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-2895691401224fd491fd318f3a7f9152" >}} simon.zhao {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-2895691401224fd491fd318f3a7f9152" >}} 258 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-2895691401224fd491fd318f3a7f9152" >}} 1/15/2021 {{< /Common/li >}} 
 

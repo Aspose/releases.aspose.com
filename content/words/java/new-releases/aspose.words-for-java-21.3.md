@@ -26,13 +26,13 @@ weight: 37
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-0a142d53a95b4e499c4ce29f23f27159" >}} 202 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-0a142d53a95b4e499c4ce29f23f27159" >}} 202 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-0a142d53a95b4e499c4ce29f23f27159" >}} 17.0 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-0a142d53a95b4e499c4ce29f23f27159" >}} asidorenko {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-0a142d53a95b4e499c4ce29f23f27159" >}} 463 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-0a142d53a95b4e499c4ce29f23f27159" >}} asidorenko {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-0a142d53a95b4e499c4ce29f23f27159" >}} 463 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-0a142d53a95b4e499c4ce29f23f27159" >}} 3/10/2021 {{< /Common/li >}} 
 

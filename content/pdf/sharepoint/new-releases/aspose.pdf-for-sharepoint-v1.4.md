@@ -26,13 +26,13 @@ weight: 21
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-9ea7775357a740c5b5a921e4063b7a87" >}} 63 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-9ea7775357a740c5b5a921e4063b7a87" >}} 63 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-9ea7775357a740c5b5a921e4063b7a87" >}} 9.2 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-9ea7775357a740c5b5a921e4063b7a87" >}} nausherwan.aslam {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-9ea7775357a740c5b5a921e4063b7a87" >}} 390 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-9ea7775357a740c5b5a921e4063b7a87" >}} nausherwan.aslam {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-9ea7775357a740c5b5a921e4063b7a87" >}} 390 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-9ea7775357a740c5b5a921e4063b7a87" >}} 4/4/2012 {{< /Common/li >}} 
 

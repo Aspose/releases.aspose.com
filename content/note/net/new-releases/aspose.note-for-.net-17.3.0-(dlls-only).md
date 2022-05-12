@@ -26,13 +26,13 @@ weight: 67
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-99a9439f90d2483bb568497d98756bd8" >}} 41 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-99a9439f90d2483bb568497d98756bd8" >}} 41 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-99a9439f90d2483bb568497d98756bd8" >}} 14.8 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-99a9439f90d2483bb568497d98756bd8" >}} taras.kushnir {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-99a9439f90d2483bb568497d98756bd8" >}} 189 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-99a9439f90d2483bb568497d98756bd8" >}} taras.kushnir {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-99a9439f90d2483bb568497d98756bd8" >}} 189 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-99a9439f90d2483bb568497d98756bd8" >}} 4/1/2017 {{< /Common/li >}} 
 

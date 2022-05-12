@@ -26,13 +26,13 @@ weight: 29
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-7f608ebc6b9c4c8280207bcd5d2fec06" >}} 24 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-7f608ebc6b9c4c8280207bcd5d2fec06" >}} 24 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-7f608ebc6b9c4c8280207bcd5d2fec06" >}} 10.8 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-7f608ebc6b9c4c8280207bcd5d2fec06" >}} nixspirit {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-7f608ebc6b9c4c8280207bcd5d2fec06" >}} 182 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-7f608ebc6b9c4c8280207bcd5d2fec06" >}} nixspirit {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-7f608ebc6b9c4c8280207bcd5d2fec06" >}} 182 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-7f608ebc6b9c4c8280207bcd5d2fec06" >}} 2/9/2018 {{< /Common/li >}} 
 

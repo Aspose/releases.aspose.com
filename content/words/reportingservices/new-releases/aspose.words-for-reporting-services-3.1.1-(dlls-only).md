@@ -9,7 +9,8 @@ download_link: " /words/reportingservices/new-releases/aspose.words-for-reportin
 download_text: " Download"
 Intro_text: " This is a maintenance release containing two important bugfixes.
 What's new:
-..."
+
+..."
 image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
 download_count: "   7/13/2009  Downloads: 67  Views: 336"
 file_size: "  File Size: 10.3 MB "
@@ -28,13 +29,13 @@ weight: 102
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-28e8dfcb4928478b8f81721fd25d9860" >}} 67 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-28e8dfcb4928478b8f81721fd25d9860" >}} 67 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
-      {{< Common/li id="size-update-28e8dfcb4928478b8f81721fd25d9860" >}} 10.3 MB {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By:-28e8dfcb4928478b8f81721fd25d9860" >}} 10.3 MB {{< /Common/li >}} 
       {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-28e8dfcb4928478b8f81721fd25d9860" >}} DmitryV {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-28e8dfcb4928478b8f81721fd25d9860" >}} 337 {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-28e8dfcb4928478b8f81721fd25d9860" >}} DmitryV {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-28e8dfcb4928478b8f81721fd25d9860" >}} 337 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-28e8dfcb4928478b8f81721fd25d9860" >}} 7/13/2009 {{< /Common/li >}} 
 

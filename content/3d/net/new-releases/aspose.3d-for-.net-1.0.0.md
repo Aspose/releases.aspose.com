@@ -28,13 +28,13 @@ weight: 160
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-079f4edd739b474e88e371982ad18337" >}} 65 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-079f4edd739b474e88e371982ad18337" >}} 65 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-079f4edd739b474e88e371982ad18337" >}} 1.6 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-079f4edd739b474e88e371982ad18337" >}} WilliamShen {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-079f4edd739b474e88e371982ad18337" >}} 109 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-079f4edd739b474e88e371982ad18337" >}} WilliamShen {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-079f4edd739b474e88e371982ad18337" >}} 109 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-079f4edd739b474e88e371982ad18337" >}} 10/26/2015 {{< /Common/li >}} 
 

@@ -26,13 +26,13 @@ weight: 100
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-edf0459ba623481380b26495ee9ce6cc" >}} 84 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-edf0459ba623481380b26495ee9ce6cc" >}} 84 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-edf0459ba623481380b26495ee9ce6cc" >}} 22.9 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-edf0459ba623481380b26495ee9ce6cc" >}} roxboris {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-edf0459ba623481380b26495ee9ce6cc" >}} 282 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-edf0459ba623481380b26495ee9ce6cc" >}} roxboris {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-edf0459ba623481380b26495ee9ce6cc" >}} 282 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-edf0459ba623481380b26495ee9ce6cc" >}} 9/29/2017 {{< /Common/li >}} 
 

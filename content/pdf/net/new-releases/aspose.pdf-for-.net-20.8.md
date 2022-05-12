@@ -26,13 +26,13 @@ weight: 48
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-5e13b2e93fed4fd2bd5fe24b7c546621" >}} 75 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-5e13b2e93fed4fd2bd5fe24b7c546621" >}} 75 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-5e13b2e93fed4fd2bd5fe24b7c546621" >}} 153.4 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-5e13b2e93fed4fd2bd5fe24b7c546621" >}} nekrasov.av {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-5e13b2e93fed4fd2bd5fe24b7c546621" >}} 135 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-5e13b2e93fed4fd2bd5fe24b7c546621" >}} nekrasov.av {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-5e13b2e93fed4fd2bd5fe24b7c546621" >}} 135 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-5e13b2e93fed4fd2bd5fe24b7c546621" >}} 8/12/2020 {{< /Common/li >}} 
 

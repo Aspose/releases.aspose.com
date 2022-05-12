@@ -26,13 +26,13 @@ weight: 40
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-fa68020a9cfd4978be0f9abe3acd3b0b" >}} 195 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-fa68020a9cfd4978be0f9abe3acd3b0b" >}} 195 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-fa68020a9cfd4978be0f9abe3acd3b0b" >}} 18.2 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-fa68020a9cfd4978be0f9abe3acd3b0b" >}} dmitry.matveenko {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-fa68020a9cfd4978be0f9abe3acd3b0b" >}} 856 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-fa68020a9cfd4978be0f9abe3acd3b0b" >}} dmitry.matveenko {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-fa68020a9cfd4978be0f9abe3acd3b0b" >}} 856 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-fa68020a9cfd4978be0f9abe3acd3b0b" >}} 9/8/2013 {{< /Common/li >}} 
 

@@ -26,13 +26,13 @@ weight: 9
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-810cbde3eb5a4c04a4cd1c86ce5d34ff" >}} 28 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-810cbde3eb5a4c04a4cd1c86ce5d34ff" >}} 28 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-810cbde3eb5a4c04a4cd1c86ce5d34ff" >}} 14.0 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-810cbde3eb5a4c04a4cd1c86ce5d34ff" >}} nixspirit {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-810cbde3eb5a4c04a4cd1c86ce5d34ff" >}} 131 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-810cbde3eb5a4c04a4cd1c86ce5d34ff" >}} nixspirit {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-810cbde3eb5a4c04a4cd1c86ce5d34ff" >}} 131 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-810cbde3eb5a4c04a4cd1c86ce5d34ff" >}} 4/24/2020 {{< /Common/li >}} 
 

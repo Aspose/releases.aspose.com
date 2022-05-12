@@ -27,13 +27,13 @@ weight: 198
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-926f846570d44df68a71fc80a1bb5d56" >}} 437 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-926f846570d44df68a71fc80a1bb5d56" >}} 437 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-926f846570d44df68a71fc80a1bb5d56" >}} 15.9 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-926f846570d44df68a71fc80a1bb5d56" >}} romank {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-926f846570d44df68a71fc80a1bb5d56" >}} 508 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-926f846570d44df68a71fc80a1bb5d56" >}} romank {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-926f846570d44df68a71fc80a1bb5d56" >}} 508 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-926f846570d44df68a71fc80a1bb5d56" >}} 7/7/2014 {{< /Common/li >}} 
 

@@ -26,13 +26,13 @@ weight: 22
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-8e446742f50e405fba975b6e3ba78424" >}} 440 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-8e446742f50e405fba975b6e3ba78424" >}} 440 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-8e446742f50e405fba975b6e3ba78424" >}} 207.7 KB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-8e446742f50e405fba975b6e3ba78424" >}} caroline.von.schmalensee {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-8e446742f50e405fba975b6e3ba78424" >}} 2557 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-8e446742f50e405fba975b6e3ba78424" >}} caroline.von.schmalensee {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-8e446742f50e405fba975b6e3ba78424" >}} 2557 {{< /Common/li >}} 
 
     {{< /Releases/ReleasesDetailsUl >}}
 

@@ -26,13 +26,13 @@ weight: 44
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-27177c4a91c34945b5d9ab77665119e5" >}} 183 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-27177c4a91c34945b5d9ab77665119e5" >}} 183 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-27177c4a91c34945b5d9ab77665119e5" >}} 48.2 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-27177c4a91c34945b5d9ab77665119e5" >}} bornwild {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-27177c4a91c34945b5d9ab77665119e5" >}} 455 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-27177c4a91c34945b5d9ab77665119e5" >}} bornwild {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-27177c4a91c34945b5d9ab77665119e5" >}} 455 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-27177c4a91c34945b5d9ab77665119e5" >}} 5/31/2019 {{< /Common/li >}} 
 

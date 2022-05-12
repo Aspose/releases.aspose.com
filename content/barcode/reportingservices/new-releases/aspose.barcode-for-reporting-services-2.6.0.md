@@ -26,13 +26,13 @@ weight: 147
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-ca71efa14fe748cc84fd208a6fb148ce" >}} 82 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-ca71efa14fe748cc84fd208a6fb148ce" >}} 82 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-ca71efa14fe748cc84fd208a6fb148ce" >}} 5.3 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-ca71efa14fe748cc84fd208a6fb148ce" >}} saqib.razzaq {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-ca71efa14fe748cc84fd208a6fb148ce" >}} 215 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-ca71efa14fe748cc84fd208a6fb148ce" >}} saqib.razzaq {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-ca71efa14fe748cc84fd208a6fb148ce" >}} 215 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-ca71efa14fe748cc84fd208a6fb148ce" >}} 8/25/2011 {{< /Common/li >}} 
 

@@ -26,13 +26,13 @@ weight: 2
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-e5bdf294eb284f0296ab678d4bf90118" >}} 287 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-e5bdf294eb284f0296ab678d4bf90118" >}} 287 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-e5bdf294eb284f0296ab678d4bf90118" >}} 197.9 KB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-e5bdf294eb284f0296ab678d4bf90118" >}} sabrina.tran1 {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-e5bdf294eb284f0296ab678d4bf90118" >}} 163 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-e5bdf294eb284f0296ab678d4bf90118" >}} sabrina.tran1 {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-e5bdf294eb284f0296ab678d4bf90118" >}} 163 {{< /Common/li >}} 
 
     {{< /Releases/ReleasesDetailsUl >}}
 

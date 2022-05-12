@@ -26,13 +26,13 @@ weight: 24
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-9b7bd34c6e9a44dd9ad81ce4fa3ef7b8" >}} 9 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-9b7bd34c6e9a44dd9ad81ce4fa3ef7b8" >}} 9 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-9b7bd34c6e9a44dd9ad81ce4fa3ef7b8" >}} 2.4 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-9b7bd34c6e9a44dd9ad81ce4fa3ef7b8" >}} andriy.kotlyarov {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-9b7bd34c6e9a44dd9ad81ce4fa3ef7b8" >}} 46 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-9b7bd34c6e9a44dd9ad81ce4fa3ef7b8" >}} andriy.kotlyarov {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-9b7bd34c6e9a44dd9ad81ce4fa3ef7b8" >}} 46 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-9b7bd34c6e9a44dd9ad81ce4fa3ef7b8" >}} 9/3/2020 {{< /Common/li >}} 
 

@@ -28,13 +28,13 @@ weight: 155
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-c16f896ea2d44b118713312b37c59f81" >}} 92 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-c16f896ea2d44b118713312b37c59f81" >}} 92 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-c16f896ea2d44b118713312b37c59f81" >}} 13.2 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-c16f896ea2d44b118713312b37c59f81" >}} alusov {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-c16f896ea2d44b118713312b37c59f81" >}} 238 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-c16f896ea2d44b118713312b37c59f81" >}} alusov {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-c16f896ea2d44b118713312b37c59f81" >}} 238 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-c16f896ea2d44b118713312b37c59f81" >}} 11/6/2015 {{< /Common/li >}} 
 

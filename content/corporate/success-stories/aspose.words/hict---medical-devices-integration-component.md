@@ -26,13 +26,13 @@ weight: 78
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-c4e6d814c85347fbb35acd3a95476806" >}} 265 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-c4e6d814c85347fbb35acd3a95476806" >}} 265 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-c4e6d814c85347fbb35acd3a95476806" >}} 55.6 KB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-c4e6d814c85347fbb35acd3a95476806" >}} salman.sarfraz {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-c4e6d814c85347fbb35acd3a95476806" >}} 821 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-c4e6d814c85347fbb35acd3a95476806" >}} salman.sarfraz {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-c4e6d814c85347fbb35acd3a95476806" >}} 821 {{< /Common/li >}} 
 
     {{< /Releases/ReleasesDetailsUl >}}
 

@@ -26,13 +26,13 @@ weight: 3
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-4515ef853e94478ea1cc41aed55256a3" >}} 50 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-4515ef853e94478ea1cc41aed55256a3" >}} 50 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-4515ef853e94478ea1cc41aed55256a3" >}} 46.7 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-4515ef853e94478ea1cc41aed55256a3" >}} vitalii.kornyliuk {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-4515ef853e94478ea1cc41aed55256a3" >}} 81 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-4515ef853e94478ea1cc41aed55256a3" >}} vitalii.kornyliuk {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-4515ef853e94478ea1cc41aed55256a3" >}} 81 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-4515ef853e94478ea1cc41aed55256a3" >}} 1/13/2022 {{< /Common/li >}} 
 

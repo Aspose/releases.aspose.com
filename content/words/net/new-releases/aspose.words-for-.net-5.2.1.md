@@ -9,7 +9,8 @@ download_link: " /words/net/new-releases/aspose.words-for-.net-5.2.1/cab63fc132b
 download_text: " Download"
 Intro_text: " Here is a good set of new fixes, mostly in the HTML and PDF export modules.
 
-..."
+
+..."
 image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
 download_count: "   7/2/2008  Downloads: 1011  Views: 2550"
 file_size: "  File Size: 15.7 MB "
@@ -28,13 +29,13 @@ weight: 318
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-cab63fc132bf48e2bd902da1f77bc6f4" >}} 1011 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-cab63fc132bf48e2bd902da1f77bc6f4" >}} 1011 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
-      {{< Common/li id="size-update-cab63fc132bf48e2bd902da1f77bc6f4" >}} 15.7 MB {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By:-cab63fc132bf48e2bd902da1f77bc6f4" >}} 15.7 MB {{< /Common/li >}} 
       {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-cab63fc132bf48e2bd902da1f77bc6f4" >}} romank {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-cab63fc132bf48e2bd902da1f77bc6f4" >}} 2551 {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-cab63fc132bf48e2bd902da1f77bc6f4" >}} romank {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-cab63fc132bf48e2bd902da1f77bc6f4" >}} 2551 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-cab63fc132bf48e2bd902da1f77bc6f4" >}} 7/2/2008 {{< /Common/li >}} 
 

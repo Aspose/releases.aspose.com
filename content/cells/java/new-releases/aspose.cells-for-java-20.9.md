@@ -26,13 +26,13 @@ weight: 28
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-6fdf8778601a4c128041d021b620e347" >}} 145 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-6fdf8778601a4c128041d021b620e347" >}} 145 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-6fdf8778601a4c128041d021b620e347" >}} 22.7 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-6fdf8778601a4c128041d021b620e347" >}} johnson.shi {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-6fdf8778601a4c128041d021b620e347" >}} 470 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-6fdf8778601a4c128041d021b620e347" >}} johnson.shi {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-6fdf8778601a4c128041d021b620e347" >}} 470 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-6fdf8778601a4c128041d021b620e347" >}} 9/11/2020 {{< /Common/li >}} 
 

@@ -26,13 +26,13 @@ weight: 129
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-41d0ad23efe14d1e974a2c50fcf900a5" >}} 19 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-41d0ad23efe14d1e974a2c50fcf900a5" >}} 19 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-41d0ad23efe14d1e974a2c50fcf900a5" >}} 7.3 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-41d0ad23efe14d1e974a2c50fcf900a5" >}} lex.chou {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-41d0ad23efe14d1e974a2c50fcf900a5" >}} 998 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-41d0ad23efe14d1e974a2c50fcf900a5" >}} lex.chou {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-41d0ad23efe14d1e974a2c50fcf900a5" >}} 998 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-41d0ad23efe14d1e974a2c50fcf900a5" >}} 3/6/2017 {{< /Common/li >}} 
 

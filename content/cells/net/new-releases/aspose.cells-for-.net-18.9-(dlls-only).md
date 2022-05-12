@@ -26,13 +26,13 @@ weight: 94
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-caf0406fa2284d709725104e77ddb2d9" >}} 199 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-caf0406fa2284d709725104e77ddb2d9" >}} 199 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-caf0406fa2284d709725104e77ddb2d9" >}} 59.5 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-caf0406fa2284d709725104e77ddb2d9" >}} simon.zhao {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-caf0406fa2284d709725104e77ddb2d9" >}} 176 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-caf0406fa2284d709725104e77ddb2d9" >}} simon.zhao {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-caf0406fa2284d709725104e77ddb2d9" >}} 176 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-caf0406fa2284d709725104e77ddb2d9" >}} 9/17/2018 {{< /Common/li >}} 
 

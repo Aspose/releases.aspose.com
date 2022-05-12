@@ -26,13 +26,13 @@ weight: 213
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-bbffe27240ef467c9c299fa142f41a0e" >}} 444 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-bbffe27240ef467c9c299fa142f41a0e" >}} 444 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-bbffe27240ef467c9c299fa142f41a0e" >}} 12.6 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-bbffe27240ef467c9c299fa142f41a0e" >}} DmitryS {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-bbffe27240ef467c9c299fa142f41a0e" >}} 636 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-bbffe27240ef467c9c299fa142f41a0e" >}} DmitryS {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-bbffe27240ef467c9c299fa142f41a0e" >}} 636 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-bbffe27240ef467c9c299fa142f41a0e" >}} 3/28/2014 {{< /Common/li >}} 
 

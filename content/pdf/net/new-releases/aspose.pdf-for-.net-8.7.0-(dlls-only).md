@@ -26,13 +26,13 @@ weight: 210
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-e213de8f7f9f4f2392a13f2429ed6540" >}} 284 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-e213de8f7f9f4f2392a13f2429ed6540" >}} 284 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-e213de8f7f9f4f2392a13f2429ed6540" >}} 72.9 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-e213de8f7f9f4f2392a13f2429ed6540" >}} Igor Zubarev {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-e213de8f7f9f4f2392a13f2429ed6540" >}} 379 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-e213de8f7f9f4f2392a13f2429ed6540" >}} Igor Zubarev {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-e213de8f7f9f4f2392a13f2429ed6540" >}} 379 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-e213de8f7f9f4f2392a13f2429ed6540" >}} 12/4/2013 {{< /Common/li >}} 
 

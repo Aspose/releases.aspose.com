@@ -26,13 +26,13 @@ weight: 63
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-02dbf0ee9088458783d08ad15358a1c1" >}} 120 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-02dbf0ee9088458783d08ad15358a1c1" >}} 120 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-02dbf0ee9088458783d08ad15358a1c1" >}} 17.4 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-02dbf0ee9088458783d08ad15358a1c1" >}} Vitalij.Shitts {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-02dbf0ee9088458783d08ad15358a1c1" >}} 1074 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-02dbf0ee9088458783d08ad15358a1c1" >}} Vitalij.Shitts {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-02dbf0ee9088458783d08ad15358a1c1" >}} 1074 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-02dbf0ee9088458783d08ad15358a1c1" >}} 10/12/2017 {{< /Common/li >}} 
 

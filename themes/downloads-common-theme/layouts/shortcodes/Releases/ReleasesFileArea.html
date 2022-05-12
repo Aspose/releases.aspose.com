@@ -1,7 +1,15 @@
 <div class="FileArea">
     {{.Inner}}
 </div>
-
+<style>
+    .downloadcount {
+    background-image: url("/images/loading.svg");
+    background-repeat: no-repeat;
+    background-size: 21px;
+    background-position: -2px 10px;
+    color: transparent;
+    }
+</style>
 {{$download_link := print .Page.Params.download_link "/"}}
 {{ $lastUrlElement := index (last 1 (split (delimit (split $download_link "/") "," "") ",")) 0 }}
 
@@ -13,6 +21,8 @@
               //console.log(key+"..."+value);
               //console.log(key + " View Count " + value.view_count);
               //console.log(key + " Dwn Count " + value.download_count);
+              $("#dwn-update-"+ key).css({"background":"none"});
+              $("#dwn-update-"+ key).css({"color":"#333"});
               $("#dwn-update-"+ key).text(value.download_count);
              // $("#view-update-"+ key).text(value.view_count);
              // $("#added-update-"+ key).text(value.date_added);

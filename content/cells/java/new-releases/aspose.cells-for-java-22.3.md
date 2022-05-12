@@ -26,13 +26,13 @@ weight: 1
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-c7f0d412b25c4a04be50fea3981716b0" >}} 127 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-c7f0d412b25c4a04be50fea3981716b0" >}} 127 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-c7f0d412b25c4a04be50fea3981716b0" >}} 25.0 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-c7f0d412b25c4a04be50fea3981716b0" >}} Peyton.Xu {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-c7f0d412b25c4a04be50fea3981716b0" >}} 227 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-c7f0d412b25c4a04be50fea3981716b0" >}} Peyton.Xu {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-c7f0d412b25c4a04be50fea3981716b0" >}} 227 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-c7f0d412b25c4a04be50fea3981716b0" >}} 3/11/2022 {{< /Common/li >}} 
 

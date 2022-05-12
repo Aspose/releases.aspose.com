@@ -26,13 +26,13 @@ weight: 81
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-fe0db62d4def464f9931ee2b23a21b9a" >}} 74 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-fe0db62d4def464f9931ee2b23a21b9a" >}} 74 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-fe0db62d4def464f9931ee2b23a21b9a" >}} 30.7 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-fe0db62d4def464f9931ee2b23a21b9a" >}} Denis.Demenko {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-fe0db62d4def464f9931ee2b23a21b9a" >}} 345 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-fe0db62d4def464f9931ee2b23a21b9a" >}} Denis.Demenko {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-fe0db62d4def464f9931ee2b23a21b9a" >}} 345 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-fe0db62d4def464f9931ee2b23a21b9a" >}} 4/28/2017 {{< /Common/li >}} 
 

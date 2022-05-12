@@ -26,13 +26,13 @@ weight: 1
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-534b1980fd16471680bac6f7c9445eff" >}} 915 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-534b1980fd16471680bac6f7c9445eff" >}} 915 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-534b1980fd16471680bac6f7c9445eff" >}} 2.6 GB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-534b1980fd16471680bac6f7c9445eff" >}} aspose.total {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-534b1980fd16471680bac6f7c9445eff" >}} 1610 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-534b1980fd16471680bac6f7c9445eff" >}} aspose.total {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-534b1980fd16471680bac6f7c9445eff" >}} 1610 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-534b1980fd16471680bac6f7c9445eff" >}} 1/19/2022 {{< /Common/li >}} 
       {{< Common/li  >}} SHA1: {{< /Common/li >}} 

@@ -9,7 +9,8 @@ download_link: " /words/reportingservices/new-releases/aspose.words-for-reportin
 download_text: " Download"
 Intro_text: " This is a maintenance release containing two important bugfixes.
 What's new:
-..."
+
+..."
 image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
 download_count: "   7/13/2009  Downloads: 124  Views: 755"
 file_size: "  File Size: 10.7 MB "
@@ -28,13 +29,13 @@ weight: 101
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-619055617c674aeb954a50bbd9dea07e" >}} 124 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-619055617c674aeb954a50bbd9dea07e" >}} 124 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
-      {{< Common/li id="size-update-619055617c674aeb954a50bbd9dea07e" >}} 10.7 MB {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By:-619055617c674aeb954a50bbd9dea07e" >}} 10.7 MB {{< /Common/li >}} 
       {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-619055617c674aeb954a50bbd9dea07e" >}} DmitryV {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-619055617c674aeb954a50bbd9dea07e" >}} 756 {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-619055617c674aeb954a50bbd9dea07e" >}} DmitryV {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-619055617c674aeb954a50bbd9dea07e" >}} 756 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-619055617c674aeb954a50bbd9dea07e" >}} 7/13/2009 {{< /Common/li >}} 
 

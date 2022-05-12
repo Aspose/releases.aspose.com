@@ -26,13 +26,13 @@ weight: 112
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-abf94e83b75445179d50a78b80912890" >}} 227 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-abf94e83b75445179d50a78b80912890" >}} 227 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-abf94e83b75445179d50a78b80912890" >}} 125.0 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-abf94e83b75445179d50a78b80912890" >}} nekrasov.av {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-abf94e83b75445179d50a78b80912890" >}} 588 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-abf94e83b75445179d50a78b80912890" >}} nekrasov.av {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-abf94e83b75445179d50a78b80912890" >}} 588 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-abf94e83b75445179d50a78b80912890" >}} 12/12/2017 {{< /Common/li >}} 
 

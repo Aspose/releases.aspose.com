@@ -26,13 +26,13 @@ weight: 84
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-98363c3cc75042529b3b7a9d55a4d6d1" >}} 46 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-98363c3cc75042529b3b7a9d55a4d6d1" >}} 46 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-98363c3cc75042529b3b7a9d55a4d6d1" >}} 29.7 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-98363c3cc75042529b3b7a9d55a4d6d1" >}} denya1986 {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-98363c3cc75042529b3b7a9d55a4d6d1" >}} 516 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-98363c3cc75042529b3b7a9d55a4d6d1" >}} denya1986 {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-98363c3cc75042529b3b7a9d55a4d6d1" >}} 516 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-98363c3cc75042529b3b7a9d55a4d6d1" >}} 12/29/2016 {{< /Common/li >}} 
 

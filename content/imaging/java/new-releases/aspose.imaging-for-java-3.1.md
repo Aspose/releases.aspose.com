@@ -26,13 +26,13 @@ weight: 72
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-902dd89bc7a9461c801cae9069f7f02c" >}} 273 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-902dd89bc7a9461c801cae9069f7f02c" >}} 273 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-902dd89bc7a9461c801cae9069f7f02c" >}} 13.8 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-902dd89bc7a9461c801cae9069f7f02c" >}} vitaly.krivenko {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-902dd89bc7a9461c801cae9069f7f02c" >}} 293 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-902dd89bc7a9461c801cae9069f7f02c" >}} vitaly.krivenko {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-902dd89bc7a9461c801cae9069f7f02c" >}} 293 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-902dd89bc7a9461c801cae9069f7f02c" >}} 11/13/2015 {{< /Common/li >}} 
 

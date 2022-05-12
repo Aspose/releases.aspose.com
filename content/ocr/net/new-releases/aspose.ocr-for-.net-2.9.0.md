@@ -26,13 +26,13 @@ weight: 111
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-f6be63a749bb4cbca36fc62101b0b40a" >}} 267 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-f6be63a749bb4cbca36fc62101b0b40a" >}} 267 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-f6be63a749bb4cbca36fc62101b0b40a" >}} 28.2 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-f6be63a749bb4cbca36fc62101b0b40a" >}} evgeniy.koryagin {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-f6be63a749bb4cbca36fc62101b0b40a" >}} 177 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-f6be63a749bb4cbca36fc62101b0b40a" >}} evgeniy.koryagin {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-f6be63a749bb4cbca36fc62101b0b40a" >}} 177 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-f6be63a749bb4cbca36fc62101b0b40a" >}} 9/7/2015 {{< /Common/li >}} 
 

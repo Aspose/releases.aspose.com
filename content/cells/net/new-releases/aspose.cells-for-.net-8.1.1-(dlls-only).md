@@ -27,13 +27,13 @@ weight: 196
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-45ae6e5e1bf34aaeb32ded4cc7d22a3c" >}} 296 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-45ae6e5e1bf34aaeb32ded4cc7d22a3c" >}} 296 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-45ae6e5e1bf34aaeb32ded4cc7d22a3c" >}} 30.2 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-45ae6e5e1bf34aaeb32ded4cc7d22a3c" >}} simon.zhao {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-45ae6e5e1bf34aaeb32ded4cc7d22a3c" >}} 316 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-45ae6e5e1bf34aaeb32ded4cc7d22a3c" >}} simon.zhao {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-45ae6e5e1bf34aaeb32ded4cc7d22a3c" >}} 316 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-45ae6e5e1bf34aaeb32ded4cc7d22a3c" >}} 6/27/2014 {{< /Common/li >}} 
 

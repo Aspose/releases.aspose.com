@@ -26,13 +26,13 @@ weight: 167
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-df0f7fdc23764fc394fbbfca713a3ce6" >}} 1146 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-df0f7fdc23764fc394fbbfca713a3ce6" >}} 1146 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-df0f7fdc23764fc394fbbfca713a3ce6" >}} 73.8 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-df0f7fdc23764fc394fbbfca713a3ce6" >}} Andrew.N {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-df0f7fdc23764fc394fbbfca713a3ce6" >}} 772 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-df0f7fdc23764fc394fbbfca713a3ce6" >}} Andrew.N {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-df0f7fdc23764fc394fbbfca713a3ce6" >}} 772 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-df0f7fdc23764fc394fbbfca713a3ce6" >}} 8/12/2015 {{< /Common/li >}} 
 

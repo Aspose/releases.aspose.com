@@ -26,13 +26,13 @@ weight: 224
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-bc7590d38a23479bb6b5c1647486ae71" >}} 168 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-bc7590d38a23479bb6b5c1647486ae71" >}} 168 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-bc7590d38a23479bb6b5c1647486ae71" >}} 4.7 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-bc7590d38a23479bb6b5c1647486ae71" >}} babar.raza {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-bc7590d38a23479bb6b5c1647486ae71" >}} 420 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-bc7590d38a23479bb6b5c1647486ae71" >}} babar.raza {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-bc7590d38a23479bb6b5c1647486ae71" >}} 420 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-bc7590d38a23479bb6b5c1647486ae71" >}} 8/10/2012 {{< /Common/li >}} 
 

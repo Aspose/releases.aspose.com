@@ -26,13 +26,13 @@ weight: 82
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-7dc5153f0f234c45969617b829e5dc84" >}} 149 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-7dc5153f0f234c45969617b829e5dc84" >}} 149 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-7dc5153f0f234c45969617b829e5dc84" >}} 35.5 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-7dc5153f0f234c45969617b829e5dc84" >}} victorkrp {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-7dc5153f0f234c45969617b829e5dc84" >}} 603 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-7dc5153f0f234c45969617b829e5dc84" >}} victorkrp {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-7dc5153f0f234c45969617b829e5dc84" >}} 603 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-7dc5153f0f234c45969617b829e5dc84" >}} 7/21/2016 {{< /Common/li >}} 
 

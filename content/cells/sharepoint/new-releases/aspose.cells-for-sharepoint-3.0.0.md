@@ -10,7 +10,8 @@ download_text: " Download"
 Intro_text: " We are happy to announce Aspose.Cells for SharePoint v3.0.0!
 
  New Features
-..."
+
+..."
 image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
 download_count: "   11/23/2012  Downloads: 52  Views: 921"
 file_size: "  File Size: 8.0 MB "
@@ -29,13 +30,13 @@ weight: 8
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-4b8b7ab3b7c04d379ceda2c3d702d50c" >}} 52 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-4b8b7ab3b7c04d379ceda2c3d702d50c" >}} 52 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
-      {{< Common/li id="size-update-4b8b7ab3b7c04d379ceda2c3d702d50c" >}} 8.0 MB {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By:-4b8b7ab3b7c04d379ceda2c3d702d50c" >}} 8.0 MB {{< /Common/li >}} 
       {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-4b8b7ab3b7c04d379ceda2c3d702d50c" >}} Amjad Sahi {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-4b8b7ab3b7c04d379ceda2c3d702d50c" >}} 922 {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-4b8b7ab3b7c04d379ceda2c3d702d50c" >}} Amjad Sahi {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-4b8b7ab3b7c04d379ceda2c3d702d50c" >}} 922 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-4b8b7ab3b7c04d379ceda2c3d702d50c" >}} 11/23/2012 {{< /Common/li >}} 
 

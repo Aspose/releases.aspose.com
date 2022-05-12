@@ -27,13 +27,13 @@ weight: 191
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-69ed9a36689548b387dabed2cbff674f" >}} 537 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-69ed9a36689548b387dabed2cbff674f" >}} 537 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-69ed9a36689548b387dabed2cbff674f" >}} 7.7 MB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-69ed9a36689548b387dabed2cbff674f" >}} Konstantin {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-69ed9a36689548b387dabed2cbff674f" >}} 2616 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-69ed9a36689548b387dabed2cbff674f" >}} Konstantin {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-69ed9a36689548b387dabed2cbff674f" >}} 2616 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-69ed9a36689548b387dabed2cbff674f" >}} 11/9/2008 {{< /Common/li >}} 
 

@@ -26,13 +26,13 @@ weight: 22
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li id="dwn-update-db9bde7979f74a35998be367c8d3b398" >}} 182 {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-db9bde7979f74a35998be367c8d3b398" >}} 182 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-db9bde7979f74a35998be367c8d3b398" >}} 683.8 KB {{< /Common/li >}} 
-      {{< Common/li  >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li id="author-update-db9bde7979f74a35998be367c8d3b398" >}} GeorgeClark {{< /Common/li >}} 
-      {{< Common/li  >}} Views: {{< /Common/li >}} 
-      {{< Common/li id="view-update-db9bde7979f74a35998be367c8d3b398" >}} 544 {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-db9bde7979f74a35998be367c8d3b398" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-db9bde7979f74a35998be367c8d3b398" >}} 544 {{< /Common/li >}} 
 
     {{< /Releases/ReleasesDetailsUl >}}
 
