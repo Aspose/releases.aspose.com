@@ -8,7 +8,7 @@ folder_name: " Case study of Oracle's use of Aspose.Cells and Aspose.Slides in a
 download_link: " /corporate/success-stories/aspose.slides/case-study-of-oracles-use-of-aspose.cells-and-aspose.slides-in-an-on-demand-reporting-system/876562d13d12473690aea4cba88c0695"
 download_text: " Download"
 Intro_text: " Oracle Consulting Services deliver solutions for companies. When building an on-..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 3769  Views: 3736"
 file_size: "  File Size: 1.5 MB "
 parent_path: "corporate/success-stories/aspose.slides"

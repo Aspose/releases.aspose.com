@@ -12,7 +12,7 @@ Intro_text: " We are happy to announce Aspose.Cells for SharePoint v3.0.0!
  New Features
 
 ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   11/23/2012  Downloads: 52  Views: 921"
 file_size: "  File Size: 8.0 MB "
 parent_path: "cells/sharepoint"

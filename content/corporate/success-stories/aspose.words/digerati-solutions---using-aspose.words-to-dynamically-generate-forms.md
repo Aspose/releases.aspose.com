@@ -8,7 +8,7 @@ folder_name: " Digerati Solutions - Using Aspose.Words to dynamically generate f
 download_link: " /corporate/success-stories/aspose.words/digerati-solutions---using-aspose.words-to-dynamically-generate-forms/da33a03ddcca49cf94823702f84285be"
 download_text: " Download"
 Intro_text: " Digerati creates high quality websites and tailor-made software solutions."
-image_link: " https://downloads.aspose.com/resources/img/doc-icon.png"
+image_link: "/resources/img/doc-icon.png"
 download_count: "  Downloads: 318  Views: 1230"
 file_size: "  File Size: 348.2 KB "
 parent_path: "corporate/success-stories/aspose.words"

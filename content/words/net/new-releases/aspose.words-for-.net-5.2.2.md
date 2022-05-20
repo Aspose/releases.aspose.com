@@ -9,7 +9,7 @@ download_link: " /words/net/new-releases/aspose.words-for-.net-5.2.2/dc9cc0fdfd9
 download_text: " Download"
 Intro_text: " Aspose.Words for .NET MEGA FIX - New Features and Fixed Issues total 52 items!
 ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   8/13/2008  Downloads: 1662  Views: 3368"
 file_size: "  File Size: 15.8 MB "
 parent_path: "words/net"

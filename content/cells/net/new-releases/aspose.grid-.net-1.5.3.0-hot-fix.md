@@ -9,7 +9,7 @@ download_link: " /cells/net/new-releases/aspose.grid-.net-1.5.3.0-hot-fix/d1f0a4
 download_text: " Download"
 Intro_text: " We have just released Aspose.Grid 1.5.3!
 Enhancement and bugfix in this release..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 228"
 file_size: "  File Size: 5.5 MB "
 parent_path: "cells/net"

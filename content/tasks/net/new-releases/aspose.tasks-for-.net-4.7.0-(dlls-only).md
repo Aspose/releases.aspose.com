@@ -9,7 +9,7 @@ download_link: " /tasks/net/new-releases/aspose.tasks-for-.net-4.7.0-(dlls-only)
 download_text: " Download"
 Intro_text: " This ZIP file contains only the Aspose.Tasks for
 .NET assemblies. The assemblie..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   10/4/2012  Downloads: 38  Views: 204"
 file_size: "  File Size: 7.5 MB "
 parent_path: "tasks/net"

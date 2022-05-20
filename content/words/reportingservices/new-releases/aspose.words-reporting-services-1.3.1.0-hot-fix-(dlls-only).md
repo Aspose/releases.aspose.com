@@ -11,7 +11,7 @@ Intro_text: " This is a maintenance release.
 What's new:
 
 3402 - Added the support for the ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 11  Views: 131"
 file_size: "  File Size: 4.9 MB "
 parent_path: "words/reportingservices"

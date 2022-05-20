@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.1.5.0-hot-fix/7f5abfbe1
 download_text: " Download"
 Intro_text: " In this hotfix:
 1) System.Drawing.Image is supported. Refer to Image.FromSystem..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 0  Views: 128"
 file_size: "  File Size: 3.3 MB "
 parent_path: "pdf/net"

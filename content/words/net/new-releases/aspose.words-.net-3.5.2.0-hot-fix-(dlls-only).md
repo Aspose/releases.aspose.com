@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " New Features
 
 AddedÂ ClearFormatting method for RowFormat and CellFormat classe..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 7  Views: 43"
 file_size: "  File Size: 443.7 KB "
 parent_path: "words/net"

@@ -9,7 +9,7 @@ download_link: " /words/java/new-releases/aspose.words-java-1.0.2.0-hot-fix/5af4
 download_text: " Download"
 Intro_text: " 
 Add IMailMergeDataSource interfaceÂ to allow mail merge from any user defined d..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 4  Views: 116"
 file_size: "  File Size: 2.3 MB "
 parent_path: "words/java"

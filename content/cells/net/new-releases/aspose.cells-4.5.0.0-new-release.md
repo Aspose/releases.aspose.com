@@ -12,7 +12,7 @@ Intro_text: " What's New?
 
  Convert Worksheet to image.
  Support to convert Excel file t..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   6/27/2008  Downloads: 2160  Views: 3708"
 file_size: "  File Size: 12.1 MB "
 parent_path: "cells/net"

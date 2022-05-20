@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 
 Introduction
 We're pleased to announce the release of another breakthrough ve..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   11/22/2010  Downloads: 384  Views: 816"
 file_size: "  File Size: 25.9 MB "
 parent_path: "pdf/net"

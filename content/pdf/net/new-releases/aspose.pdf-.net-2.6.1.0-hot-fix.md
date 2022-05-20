@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " In this hotfix:
 1) A bug in TOC is fixed. Please refer to Table of Contents;
 2..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 1  Views: 95"
 file_size: "  File Size: 3.1 MB "
 parent_path: "pdf/net"

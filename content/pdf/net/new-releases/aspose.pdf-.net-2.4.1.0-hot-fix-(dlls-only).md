@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 		In this hotfix:
 		1) Table.IsFirstRowRepeated Bug fixed. Refer to 
 				Table..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 3  Views: 23"
 file_size: "  File Size: 704.5 KB "
 parent_path: "pdf/net"

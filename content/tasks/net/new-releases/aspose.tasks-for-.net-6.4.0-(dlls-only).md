@@ -11,7 +11,7 @@ Intro_text: "
 
             This ZIP file contains only the Aspose.Tasks
  for .NET assembli..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   8/27/2015  Downloads: 42  Views: 202"
 file_size: "  File Size: 7.9 MB "
 parent_path: "tasks/net"

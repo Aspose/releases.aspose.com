@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Contains fixes similar to .NET 2.8.7.0 version.
 
 When view presentations in Po..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   9/15/2010  Downloads: 47  Views: 579"
 file_size: "  File Size: 2.9 MB "
 parent_path: "slides/java"

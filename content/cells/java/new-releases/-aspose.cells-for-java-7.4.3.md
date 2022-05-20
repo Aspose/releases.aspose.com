@@ -15,7 +15,7 @@ v7.4.3!
 Exceptions
 
 40..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   4/25/2013  Downloads: 726  Views: 928"
 file_size: "  File Size: 69.9 MB "
 parent_path: "cells/java"

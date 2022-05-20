@@ -9,7 +9,7 @@ download_link: " /slides/reportingservices/new-releases/aspose.slides.reportings
 download_text: " Download"
 Intro_text: " We would like to share the announcement of new release of
 Aspose.Slides for Rep..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   9/23/2012  Downloads: 66  Views: 251"
 file_size: "  File Size: 10.3 MB "
 parent_path: "slides/reportingservices"

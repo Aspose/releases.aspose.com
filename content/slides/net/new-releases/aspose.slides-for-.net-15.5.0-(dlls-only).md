@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Minor Changes
 
 SLIDESNET-36346 - Setting default zoom size for presentation wh..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   6/16/2015  Downloads: 141  Views: 252"
 file_size: "  File Size: 53.2 MB "
 parent_path: "slides/net"

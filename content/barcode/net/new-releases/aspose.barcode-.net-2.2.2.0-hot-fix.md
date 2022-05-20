@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Dear customers,
 We've released Aspose.BarCode 2.2.2 hotfix.
 License problem ha..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/24/2007  Downloads: 7  Views: 152"
 file_size: "  File Size: 7.9 MB "
 parent_path: "barcode/net"

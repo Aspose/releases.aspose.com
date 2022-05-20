@@ -9,7 +9,7 @@ download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-se
 download_text: " Download"
 Intro_text: " 
 This ZIP file contains only the Aspose.Pdf for Reporting Services assemblies. ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   5/1/2011  Downloads: 221  Views: 191"
 file_size: "  File Size: 11.3 MB "
 parent_path: "pdf/reportingservices"

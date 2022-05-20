@@ -9,7 +9,7 @@ download_link: " /cells/net/new-releases/aspose.grid-v2.0.0.0-new-release/9d3a56
 download_text: " Download"
 Intro_text: " Dear Customers, We have just released Aspose.Grid 2.0.0!
 What's New?Aspose.Grid..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   5/13/2008  Downloads: 751  Views: 2268"
 file_size: "  File Size: 18.3 MB "
 parent_path: "cells/net"

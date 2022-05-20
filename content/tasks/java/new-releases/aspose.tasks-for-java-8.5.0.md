@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Major Features
 
 We have supported several important features this release. Abi..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   8/28/2015  Downloads: 50  Views: 223"
 file_size: "  File Size: 19.9 MB "
 parent_path: "tasks/java"

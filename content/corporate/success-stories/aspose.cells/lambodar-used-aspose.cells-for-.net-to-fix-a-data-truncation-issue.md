@@ -8,7 +8,7 @@ folder_name: " Lambodar used Aspose.Cells for .NET to fix a data truncation issu
 download_link: " /corporate/success-stories/aspose.cells/lambodar-used-aspose.cells-for-.net-to-fix-a-data-truncation-issue/503100dfaa144321a0fd5afaa31a2ab1"
 download_text: " Download"
 Intro_text: " Lambodar used Aspose.Cells for .NET to correct their truncating issue they had w..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 141  Views: 901"
 file_size: "  File Size: 172.0 KB "
 parent_path: "corporate/success-stories/aspose.cells"

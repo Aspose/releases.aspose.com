@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " We are happy to announce Aspose.Cells for JasperReports v1.0.0.0!
  
 What's new..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/20/2009  Downloads: 61  Views: 1168"
 file_size: "  File Size: 2.2 MB "
 parent_path: "cells/jasperreports"

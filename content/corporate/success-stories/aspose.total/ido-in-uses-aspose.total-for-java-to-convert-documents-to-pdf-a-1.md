@@ -8,7 +8,7 @@ folder_name: " IDO in uses Aspose.Total for Java to convert documents to PDF A-1
 download_link: " /corporate/success-stories/aspose.total/ido-in-uses-aspose.total-for-java-to-convert-documents-to-pdf-a-1/db9bde7979f74a35998be367c8d3b398"
 download_text: " Download"
 Intro_text: " IDO-in is a large French eHealth platform provider and needed to convert and sto..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 182  Views: 543"
 file_size: "  File Size: 683.8 KB "
 parent_path: "corporate/success-stories/aspose.total"

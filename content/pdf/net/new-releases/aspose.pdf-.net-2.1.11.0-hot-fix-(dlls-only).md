@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " In this hotfix:
 1) Dot tab leader is improved.
 2) A bug about tab underline is..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 10  Views: 41"
 file_size: "  File Size: 498.0 KB "
 parent_path: "pdf/net"

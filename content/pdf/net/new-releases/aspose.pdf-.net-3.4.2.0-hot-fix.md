@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.4.2.0-hot-fix/a9bf6e2b2
 download_text: " Download"
 Intro_text: " Bugs fixed:
 1) Security bug when running under Partial Trust environment. Refer..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 3  Views: 75"
 file_size: "  File Size: 4.3 MB "
 parent_path: "pdf/net"

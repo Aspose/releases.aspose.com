@@ -8,7 +8,7 @@ folder_name: " Competitive analysis of Word Automation against Aspose.Words for 
 download_link: " /corporate/success-stories/aspose.words/competitive-analysis-of-word-automation-against-aspose.words-for-java/b3596e45da444658b2638fb8b1eb19d9"
 download_text: " Download"
 Intro_text: " Word Cleaner is a shareware program that batch converts word files to HTML, and ..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 42  Views: 138"
 file_size: "  File Size: 351.9 KB "
 parent_path: "corporate/success-stories/aspose.words"

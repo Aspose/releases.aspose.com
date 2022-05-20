@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Major Features
 
 We have supported  the facility to print expanded/non-expanded..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   5/30/2014  Downloads: 61  Views: 217"
 file_size: "  File Size: 18.2 MB "
 parent_path: "tasks/java"

@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.2.1.0-hot-fix/6662c9beb
 download_text: " Download"
 Intro_text: " 			In this hot fix:
 			1) Stroke operation out of scope bug is fixed. Please re..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 0  Views: 126"
 file_size: "  File Size: 2.5 MB "
 parent_path: "pdf/net"

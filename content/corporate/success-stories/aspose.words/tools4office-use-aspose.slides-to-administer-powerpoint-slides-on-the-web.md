@@ -8,7 +8,7 @@ folder_name: " Tools4Office use Aspose.Slides to administer PowerPoint slides on
 download_link: " /corporate/success-stories/aspose.words/tools4office-use-aspose.slides-to-administer-powerpoint-slides-on-the-web/e5a23d7d0b3045ec808ab3949e30f253"
 download_text: " Download"
 Intro_text: " Tools4Office provides tools around Microsoft Office products. Their main focus i..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 27  Views: 1400"
 file_size: "  File Size: 237.1 KB "
 parent_path: "corporate/success-stories/aspose.words"

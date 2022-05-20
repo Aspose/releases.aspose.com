@@ -11,7 +11,7 @@ Intro_text: " Dear Customers,
 We have released Aspose.BarCode for .NET 2.4.0.0.
 What's New
 ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   12/22/2007  Downloads: 105  Views: 520"
 file_size: "  File Size: 1.4 MB "
 parent_path: "barcode/net"

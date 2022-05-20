@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " New Features
 
 List styles are fully supported during load, save and copy betwe..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 13  Views: 71"
 file_size: "  File Size: 5.8 MB "
 parent_path: "words/net"

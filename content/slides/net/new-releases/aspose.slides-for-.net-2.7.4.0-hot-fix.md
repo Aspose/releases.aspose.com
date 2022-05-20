@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Fixes:
 3695 - Slide rendering
   Visible bullets in empty paragraphs.Rendering ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   10/21/2007  Downloads: 44  Views: 226"
 file_size: "  File Size: 2.6 MB "
 parent_path: "slides/net"

@@ -9,7 +9,7 @@ download_link: " /slides/java/new-releases/aspose.slides-java-1.6.15.0-hot-fix/e
 download_text: " Download"
 Intro_text: " Hot fix contains:New: Support for PowerPoint 2007 PPT (not PPTX) format.New:
 Op..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 4  Views: 41"
 file_size: "  File Size: 1.9 MB "
 parent_path: "slides/java"

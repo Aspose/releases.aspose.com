@@ -8,7 +8,7 @@ folder_name: " Dataforensics used Aspose.Words and Aspose.Cells to create PDF fi
 download_link: " /corporate/success-stories/aspose.cells/dataforensics-used-aspose.words-and-aspose.cells-to-create-pdf-files-with-watermarks/589a8cc648e24a9da8176622b952e252"
 download_text: " Download"
 Intro_text: " Dataforensics is a privately owned software company that provides integrated sof..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 85  Views: 1388"
 file_size: "  File Size: 537.7 KB "
 parent_path: "corporate/success-stories/aspose.cells"

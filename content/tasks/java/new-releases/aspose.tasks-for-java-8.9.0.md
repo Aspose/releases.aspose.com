@@ -11,7 +11,7 @@ Intro_text: " Major Features
 
 We
  have supported export and import Project Data for HTML fo..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   11/6/2015  Downloads: 29  Views: 291"
 file_size: "  File Size: 20.6 MB "
 parent_path: "tasks/java"

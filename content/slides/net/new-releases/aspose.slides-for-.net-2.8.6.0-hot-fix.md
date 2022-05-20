@@ -9,7 +9,7 @@ download_link: " /slides/net/new-releases/aspose.slides-for-.net-2.8.6.0-hot-fix
 download_text: " Download"
 Intro_text: " Fixes:
 5316 - Bullets appear in table cells after slide cloning or just present..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/20/2008  Downloads: 123  Views: 443"
 file_size: "  File Size: 5.0 MB "
 parent_path: "slides/net"

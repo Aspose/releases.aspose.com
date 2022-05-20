@@ -9,7 +9,7 @@ download_link: " /slides/net/new-releases/aspose.slides-for-.net-2.8.8.0-hot-fix
 download_text: " Download"
 Intro_text: " What's New:
 PPTXPartial implementation of connectors. It's possible to read, wr..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   9/4/2008  Downloads: 84  Views: 512"
 file_size: "  File Size: 4.7 MB "
 parent_path: "slides/net"

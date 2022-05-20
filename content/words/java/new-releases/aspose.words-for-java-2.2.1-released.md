@@ -13,7 +13,7 @@ Aspose.Words for Java now supports Java 1.6.
 Fixes
 
 3407 - AW 2..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/30/2007  Downloads: 163  Views: 684"
 file_size: "  File Size: 4.7 MB "
 parent_path: "words/java"

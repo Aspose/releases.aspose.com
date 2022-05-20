@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.1.4.0-hot-fix-(dlls-onl
 download_text: " Download"
 Intro_text: " In this hotfix:
 1) Alignment for multi-segment text bug is fixed. Refer to http..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 1  Views: 13"
 file_size: "  File Size: 701.4 KB "
 parent_path: "pdf/net"

@@ -8,7 +8,7 @@ folder_name: " Gearmage use Aspose.Total to convert and print email attachments 
 download_link: " /corporate/success-stories/aspose.total/gearmage-use-aspose.total-to-convert-and-print-email-attachments-in-numerous-formats/9136c94a0c3e4a53b49e13f1d2d5a7e4"
 download_text: " Download"
 Intro_text: " Gearmage develops popular email attachment processing tools to enable consumers ..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 130  Views: 736"
 file_size: "  File Size: 265.5 KB "
 parent_path: "corporate/success-stories/aspose.total"

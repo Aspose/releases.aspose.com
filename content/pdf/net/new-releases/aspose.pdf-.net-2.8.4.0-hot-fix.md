@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " In this hotfix:
 1) A floating box bug is fixed.
 2) A row span bug is fixed. As..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 0  Views: 92"
 file_size: "  File Size: 3.2 MB "
 parent_path: "pdf/net"

@@ -8,7 +8,7 @@ folder_name: " Using Aspose.Total for .NET Framework to automatically generate d
 download_link: " /corporate/success-stories/aspose.total/using-aspose.total-for-.net-framework-to-automatically-generate-documents-from-data-driven-workflows/93d987f5a55a4d738f951731ae13f2c2"
 download_text: " Download"
 Intro_text: " During its pilot testing, Dynecon was able to leverage Aspose libraries to sea..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 154  Views: 398"
 file_size: "  File Size: 715.2 KB "
 parent_path: "corporate/success-stories/aspose.total"

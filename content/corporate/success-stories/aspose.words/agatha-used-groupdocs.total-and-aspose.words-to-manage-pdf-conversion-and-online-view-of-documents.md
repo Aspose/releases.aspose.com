@@ -8,7 +8,7 @@ folder_name: " Agatha used GroupDocs.Total and Aspose.Words to Manage PDF conver
 download_link: " /corporate/success-stories/aspose.words/agatha-used-groupdocs.total-and-aspose.words-to-manage-pdf-conversion-and-online-view-of-documents/018a178fb6f64a75a3fc0fdca820d129"
 download_text: " Download"
 Intro_text: " Agatha, the leading provider of document and quality management systems for Hosp..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 268  Views: 0"
 file_size: "  File Size: 367.0 KB "
 parent_path: "corporate/success-stories/aspose.words"

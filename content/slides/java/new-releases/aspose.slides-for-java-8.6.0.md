@@ -9,7 +9,7 @@ download_link: " /slides/java/new-releases/aspose.slides-for-java-8.6.0/c972677f
 download_text: " Download"
 Intro_text: " Aspose.Slides for Java 8.6.0 Release Notes
 Aspose.Slides for Java has been upda..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   6/11/2014  Downloads: 250  Views: 536"
 file_size: "  File Size: 35.1 MB "
 parent_path: "slides/java"

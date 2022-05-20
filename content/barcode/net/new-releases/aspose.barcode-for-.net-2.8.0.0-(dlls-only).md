@@ -9,7 +9,7 @@ download_link: " /barcode/net/new-releases/aspose.barcode-for-.net-2.8.0.0-(dlls
 download_text: " Download"
 Intro_text: " 
 Aspose.BarCode for .NET v2.8.0.0 has been released.Aspose.BarCode is an All-In..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   8/27/2008  Downloads: 164  Views: 272"
 file_size: "  File Size: 2.0 MB "
 parent_path: "barcode/net"

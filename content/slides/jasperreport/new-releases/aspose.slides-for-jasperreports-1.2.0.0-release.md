@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " What's New:
 
 3 different ways of licensing exporter through Java code or expor..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   9/15/2010  Downloads: 132  Views: 1376"
 file_size: "  File Size: 2.8 MB "
 parent_path: "slides/jasperreport"

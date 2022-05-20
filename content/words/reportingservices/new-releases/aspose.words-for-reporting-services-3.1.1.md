@@ -11,7 +11,7 @@ Intro_text: " This is a maintenance release containing two important bugfixes.
 What's new:
 
 ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/13/2009  Downloads: 124  Views: 755"
 file_size: "  File Size: 10.7 MB "
 parent_path: "words/reportingservices"

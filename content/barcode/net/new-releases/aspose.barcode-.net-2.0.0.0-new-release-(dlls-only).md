@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Dear customers,
 We have released Aspose.BarCode 2.0.0.0!
 This is a major break..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/24/2007  Downloads: 27  Views: 98"
 file_size: "  File Size: 938.4 KB "
 parent_path: "barcode/net"

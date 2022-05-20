@@ -8,7 +8,7 @@ folder_name: " Concentra Consulting used ASPOSE.Total to generate multi Branded 
 download_link: " /corporate/success-stories/aspose.total/concentra-consulting-used-aspose.total-to-generate-multi-branded-batched-invoices/cf6ac73b5a95451dbc42f6c9872478fa"
 download_text: " Download"
 Intro_text: " The customer needed to find another way to produce the batch and online Word mer..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 24  Views: 333"
 file_size: "  File Size: 267.6 KB "
 parent_path: "corporate/success-stories/aspose.total"

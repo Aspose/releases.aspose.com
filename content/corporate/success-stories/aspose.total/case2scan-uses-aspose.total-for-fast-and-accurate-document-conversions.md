@@ -8,7 +8,7 @@ folder_name: " Case2Scan uses Aspose.Total for fast and accurate document conver
 download_link: " /corporate/success-stories/aspose.total/case2scan-uses-aspose.total-for-fast-and-accurate-document-conversions/e5c83a9669aa4b508b1b65b7aa548717"
 download_text: " Download"
 Intro_text: " C2S had always struggled to find a consistent solution for document handling tha..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 52  Views: 169"
 file_size: "  File Size: 362.1 KB "
 parent_path: "corporate/success-stories/aspose.total"

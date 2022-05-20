@@ -12,7 +12,7 @@ Intro_text: " New Features
 
 Microsoft Word 2007 files are now supported.
 Added public API..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 14  Views: 47"
 file_size: "  File Size: 601.5 KB "
 parent_path: "words/net"

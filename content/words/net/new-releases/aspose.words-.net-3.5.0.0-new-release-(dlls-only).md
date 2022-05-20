@@ -11,7 +11,7 @@ Intro_text: " Dear Customers,
 We have released Aspose.Words 3.5
 Name Change
 Please note Asp..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 46  Views: 173"
 file_size: "  File Size: 444.9 KB "
 parent_path: "words/net"

@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 
 The following is a list of changes in this version of Aspose.Cells.
 1) Aspose..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   11/13/2014  Downloads: 839  Views: 1277"
 file_size: "  File Size: 34.8 MB "
 parent_path: "cells/net"

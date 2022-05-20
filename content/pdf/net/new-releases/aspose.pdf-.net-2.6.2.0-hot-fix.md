@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.6.2.0-hot-fix/7430255db
 download_text: " Download"
 Intro_text: " In this hotfix:
 1) Table border bug in 2.6.1 is fixed. Refer to Aspose Pdf hotf..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 0  Views: 126"
 file_size: "  File Size: 3.1 MB "
 parent_path: "pdf/net"

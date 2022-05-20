@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " The following is a list of new features in the first release of Aspose.3D
  
 1)..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   10/26/2015  Downloads: 67  Views: 109"
 file_size: "  File Size: 1.6 MB "
 parent_path: "3d/net"

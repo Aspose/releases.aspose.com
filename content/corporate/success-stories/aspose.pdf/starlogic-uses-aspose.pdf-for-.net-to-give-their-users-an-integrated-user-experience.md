@@ -8,7 +8,7 @@ folder_name: " Starlogic uses Aspose.PDF for .NET to give their users an integra
 download_link: " /corporate/success-stories/aspose.pdf/starlogic-uses-aspose.pdf-for-.net-to-give-their-users-an-integrated-user-experience/d78fed1a49cb425bb81f7773f413a47e"
 download_text: " Download"
 Intro_text: " Starlogic is a software development company delivering tailor-made software solu..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 371  Views: 2130"
 file_size: "  File Size: 380.4 KB "
 parent_path: "corporate/success-stories/aspose.pdf"

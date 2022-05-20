@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 
 Aspose.Cells for Android has been updated to version 8.3.0. 
 Using Aspose.Cel..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   11/21/2014  Downloads: 107  Views: 430"
 file_size: "  File Size: 7.8 MB "
 parent_path: "cells/androidjava"

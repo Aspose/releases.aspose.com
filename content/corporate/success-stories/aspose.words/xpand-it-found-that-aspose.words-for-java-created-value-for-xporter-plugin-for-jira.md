@@ -8,7 +8,7 @@ folder_name: " Xpand IT found that Aspose.Words for Java created value for Xport
 download_link: " /corporate/success-stories/aspose.words/xpand-it-found-that-aspose.words-for-java-created-value-for-xporter-plugin-for-jira/709633465edd479bac1ca393a3c9d151"
 download_text: " Download"
 Intro_text: " Xpand IT develops the Xporter Plugin for JIRA, a tool that allows users to expor..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 41  Views: 1169"
 file_size: "  File Size: 342.8 KB "
 parent_path: "corporate/success-stories/aspose.words"

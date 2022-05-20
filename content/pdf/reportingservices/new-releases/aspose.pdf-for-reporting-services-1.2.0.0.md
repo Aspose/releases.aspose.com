@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 		Introduction
 		
 			In this release, report parameter is supported. Customers..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   3/19/2008  Downloads: 27  Views: 637"
 file_size: "  File Size: 3.2 MB "
 parent_path: "pdf/reportingservices"

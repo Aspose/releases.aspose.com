@@ -14,7 +14,7 @@ Intro_text: " Aspose.BarCode for .NET v3.0.1 has been released.Bug fixes
 
 Issue ID
 Ty..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   11/2/2009  Downloads: 74  Views: 297"
 file_size: "  File Size: 3.1 MB "
 parent_path: "barcode/net"

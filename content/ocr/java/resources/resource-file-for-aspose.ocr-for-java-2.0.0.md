@@ -9,7 +9,7 @@ download_link: " /ocr/java/resources/resource-file-for-aspose.ocr-for-java-2.0.0
 download_text: " Download"
 Intro_text: " Aspose.OCR
  for Java uses a resource file to perform OCR operations against the..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   8/11/2014  Downloads: 914  Views: 1280"
 file_size: "  File Size: 5.3 MB "
 parent_path: "ocr/java/resources"

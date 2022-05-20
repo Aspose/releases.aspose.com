@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.1.13.0-hot-fix-(dlls-on
 download_text: " Download"
 Intro_text: " In this hot fix:
 1) The System.IndexOutOfRangeException bug has been fixed. Ple..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 4  Views: 21"
 file_size: "  File Size: 498.5 KB "
 parent_path: "pdf/net"

@@ -11,7 +11,7 @@ Intro_text: " Other Improvements and Changes
 Bug Fixes
 
 SLIDESNET-37050 - Content missing o..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   1/11/2016  Downloads: 132  Views: 299"
 file_size: "  File Size: 56.1 MB "
 parent_path: "slides/net"

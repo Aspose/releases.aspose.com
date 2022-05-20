@@ -9,7 +9,7 @@ download_link: " /slides/java/new-releases/aspose.slides-java-1.7.0.0-new-releas
 download_text: " Download"
 Intro_text: " 
 								Dear Customers,We have released Aspose.Slides for Java 1.7.0.0.This re..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 24  Views: 82"
 file_size: "  File Size: 2.0 MB "
 parent_path: "slides/java"

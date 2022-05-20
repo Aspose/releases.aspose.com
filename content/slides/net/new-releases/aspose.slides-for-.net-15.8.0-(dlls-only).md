@@ -12,7 +12,7 @@ Intro_text: " Minor Changes
 
 SLIDESNET-36003 - Setting Doughnut hole size
 SLIDESNET-35418..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   10/5/2015  Downloads: 74  Views: 169"
 file_size: "  File Size: 55.6 MB "
 parent_path: "slides/net"

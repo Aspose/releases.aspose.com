@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " New Features
 
 Added a lot of new code examples to the API. Both in C# and VB.N..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 11  Views: 122"
 file_size: "  File Size: 5.7 MB "
 parent_path: "words/net"

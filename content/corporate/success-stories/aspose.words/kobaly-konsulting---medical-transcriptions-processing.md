@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Company: Kobaly Consulting
 Industry: Medical Transcriptions
 Solution: Server-s..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 625  Views: 1076"
 file_size: "  File Size: 103.4 KB "
 parent_path: "corporate/success-stories/aspose.words"

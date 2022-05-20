@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 
 Introduction
 Aspose.BarCode for Reporting Services is the most comprehensive ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   9/10/2007  Downloads: 55  Views: 541"
 file_size: "  File Size: 2.1 MB "
 parent_path: "barcode/reportingservices"

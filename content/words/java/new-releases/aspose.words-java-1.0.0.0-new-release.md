@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Dear Customers,
 We have released Aspose.Words 1.0 for Java
 Aspose.Words for Ja..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 16  Views: 53"
 file_size: "  File Size: 2.5 MB "
 parent_path: "words/java"

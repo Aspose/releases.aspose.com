@@ -9,7 +9,7 @@ download_link: " /cells/java/new-releases/aspose.cells-for-java-7.7.2/f609097038
 download_text: " Download"
 Intro_text: " 
 Aspose.Cells for Java has been updated to version 7.7.2 and we are pleased to ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   2/16/2014  Downloads: 1151  Views: 1446"
 file_size: "  File Size: 27.5 MB "
 parent_path: "cells/java"

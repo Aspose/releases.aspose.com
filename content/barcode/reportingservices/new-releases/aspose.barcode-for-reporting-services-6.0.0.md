@@ -12,7 +12,7 @@ Aspose.BarCode
 for Reporting
 Services
 has been updated to version 6.0.0 and..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   12/30/2013  Downloads: 49  Views: 192"
 file_size: "  File Size: 4.8 MB "
 parent_path: "barcode/reportingservices"

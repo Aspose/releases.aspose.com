@@ -12,7 +12,7 @@ We have released Aspose.BarCode 2.1.0.
 What's new?
 
 BarCode ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/24/2007  Downloads: 11  Views: 133"
 file_size: "  File Size: 8.2 MB "
 parent_path: "barcode/net"

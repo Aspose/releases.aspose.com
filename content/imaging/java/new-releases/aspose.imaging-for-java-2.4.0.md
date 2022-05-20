@@ -12,7 +12,7 @@ Intro_text: " Major Features
 Data recovery for Tiff
 
 Starting from v2.4 Aspose.Imaging fo..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   12/9/2014  Downloads: 171  Views: 624"
 file_size: "  File Size: 23.6 MB "
 parent_path: "imaging/java"

@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Company: Ubisoft
 Industry: Interactive Entertainment
 Solution: Ubisoft is a le..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 3511  Views: 16304"
 file_size: "  File Size: 344.6 KB "
 parent_path: "corporate/success-stories/aspose.total"

@@ -9,7 +9,7 @@ download_link: " /pdf/java/new-releases/aspose.pdf-for-java-10.3.0/275962aa9a3f4
 download_text: " Download"
 Intro_text: " 
 We are pleased to share a new version of Aspose.Pdf for Java with following im..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   5/12/2015  Downloads: 947  Views: 711"
 file_size: "  File Size: 34.3 MB "
 parent_path: "pdf/java"

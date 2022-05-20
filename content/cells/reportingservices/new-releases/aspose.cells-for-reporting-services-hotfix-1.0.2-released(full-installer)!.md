@@ -13,7 +13,7 @@ What's New?
   Supported to export list 
   Supported to export subreport
 ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   8/28/2007  Downloads: 165  Views: 1373"
 file_size: "  File Size: 1.1 MB "
 parent_path: "cells/reportingservices"

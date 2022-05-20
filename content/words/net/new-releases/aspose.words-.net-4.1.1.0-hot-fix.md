@@ -16,7 +16,7 @@ Intro_text: " This maintenance release includes a number of useful fixes:
 1455
 
 T..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 14  Views: 167"
 file_size: "  File Size: 7.6 MB "
 parent_path: "words/net"

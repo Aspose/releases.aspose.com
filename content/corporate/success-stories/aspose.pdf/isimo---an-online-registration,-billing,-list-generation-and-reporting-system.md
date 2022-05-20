@@ -8,7 +8,7 @@ folder_name: " isimo - An Online Registration, Billing, List Generation and Repo
 download_link: " /corporate/success-stories/aspose.pdf/isimo---an-online-registration,-billing,-list-generation-and-reporting-system/8fec16210e9b4b7bb13bf5104aff1d39"
 download_text: " Download"
 Intro_text: " The product isimo developed by Ludix Technologies is an Online Registration, Bil..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 641  Views: 1837"
 file_size: "  File Size: 52.7 KB "
 parent_path: "corporate/success-stories/aspose.pdf"

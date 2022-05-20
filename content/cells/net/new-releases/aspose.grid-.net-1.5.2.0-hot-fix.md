@@ -12,7 +12,7 @@ Release Notes
 Aspose.Grid.Web
 
 Fixed: cl..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 11  Views: 288"
 file_size: "  File Size: 4.9 MB "
 parent_path: "cells/net"

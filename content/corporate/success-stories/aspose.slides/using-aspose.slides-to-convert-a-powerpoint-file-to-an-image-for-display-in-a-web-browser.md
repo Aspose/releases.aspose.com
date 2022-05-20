@@ -8,7 +8,7 @@ folder_name: " Using Aspose.Slides to convert a PowerPoint file to an image for 
 download_link: " /corporate/success-stories/aspose.slides/using-aspose.slides-to-convert-a-powerpoint-file-to-an-image-for-display-in-a-web-browser/e66eadc3450940c58fe4f1aa24150997"
 download_text: " Download"
 Intro_text: " Traxart is an innovative technology startup with a platform that allows presente..."
-image_link: " https://downloads.aspose.com/resources/img/doc-icon.png"
+image_link: "/resources/img/doc-icon.png"
 download_count: "  Downloads: 142  Views: 0"
 file_size: "  File Size: 250.8 KB "
 parent_path: "corporate/success-stories/aspose.slides"

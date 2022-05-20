@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " This is a minor release containing a fix for the MSI installer.
 What's fixed:
 ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 0  Views: 121"
 file_size: "  File Size: 4.8 MB "
 parent_path: "words/reportingservices"

@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Fixes:
 3819, 3834 - DeleteHandout method didn't clear all
 cross-references to ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   10/4/2007  Downloads: 78  Views: 282"
 file_size: "  File Size: 2.6 MB "
 parent_path: "slides/net"

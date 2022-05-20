@@ -9,7 +9,7 @@ download_link: " /pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.
 download_text: " Download"
 Intro_text: " Introduction
 Please welcome our brand new product, Aspose.Pdf for JasperReports..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   5/3/2011  Downloads: 65  Views: 657"
 file_size: "  File Size: 8.4 MB "
 parent_path: "pdf/jassperreport"

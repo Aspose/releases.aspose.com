@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-for-.net-3.7.0.0-new-release/c
 download_text: " Download"
 Intro_text: " Introduction
 We have not published new release of this product for half a year...."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   6/30/2008  Downloads: 1196  Views: 1834"
 file_size: "  File Size: 7.1 MB "
 parent_path: "pdf/net"

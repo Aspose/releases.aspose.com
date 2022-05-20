@@ -9,7 +9,7 @@ download_link: " /diagram/net/new-releases/aspose.diagram-for-.net-1.3.0/2ae163c
 download_text: " Download"
 Intro_text: " We happily announce the release of
 Aspose.Diagram for .NET 1.3.0. This release ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/7/2011  Downloads: 72  Views: 434"
 file_size: "  File Size: 7.0 MB "
 parent_path: "diagram/net"

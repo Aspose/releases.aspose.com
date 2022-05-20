@@ -8,7 +8,7 @@ folder_name: " TrialGraphix prefers Aspose.Total for .NET to other conversion so
 download_link: " /corporate/success-stories/aspose.total/trialgraphix-prefers-aspose.total-for-.net-to-other-conversion-solution-competitive-case-study/bf1ec8f0e70e4ae8a2a92445d1802182"
 download_text: " Download"
 Intro_text: " TrialGraphix was looking for a way to convert various document formats to Portab..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 25  Views: 342"
 file_size: "  File Size: 172.8 KB "
 parent_path: "corporate/success-stories/aspose.total"

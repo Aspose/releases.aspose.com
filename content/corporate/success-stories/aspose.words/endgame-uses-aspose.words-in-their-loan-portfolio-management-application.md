@@ -8,7 +8,7 @@ folder_name: " EndGame uses Aspose.Words in their loan portfolio management appl
 download_link: " /corporate/success-stories/aspose.words/endgame-uses-aspose.words-in-their-loan-portfolio-management-application/ba460d3e601a40e3805546b34359edda"
 download_text: " Download"
 Intro_text: " EndGame is a software business development house specializing in cloud applicati..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 165  Views: 805"
 file_size: "  File Size: 182.3 KB "
 parent_path: "corporate/success-stories/aspose.words"

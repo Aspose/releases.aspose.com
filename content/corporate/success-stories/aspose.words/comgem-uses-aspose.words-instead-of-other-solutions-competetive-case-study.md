@@ -8,7 +8,7 @@ folder_name: " Comgem uses Aspose.Words instead of other solutions: competetive 
 download_link: " /corporate/success-stories/aspose.words/comgem-uses-aspose.words-instead-of-other-solutions-competetive-case-study/254ba9cd38874688816aebf273c818d3"
 download_text: " Download"
 Intro_text: " As part of Comgem's CRM system, they integrated a mail merge facility that allow..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 54  Views: 399"
 file_size: "  File Size: 181.1 KB "
 parent_path: "corporate/success-stories/aspose.words"

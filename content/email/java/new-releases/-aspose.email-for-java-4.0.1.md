@@ -9,7 +9,7 @@ download_link: " /email/java/new-releases/-aspose.email-for-java-4.0.1/82ec2a94e
 download_text: " Download"
 Intro_text: " Aspose.Email for Java has been updated to version 4.0.1.0. The following is
 a l..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   4/9/2014  Downloads: 151  Views: 345"
 file_size: "  File Size: 16.6 MB "
 parent_path: "email/java"

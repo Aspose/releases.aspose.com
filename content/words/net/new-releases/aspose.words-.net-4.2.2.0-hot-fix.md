@@ -11,7 +11,7 @@ Intro_text: " This is a maintenance release. Here is what's been fixed:
 RTF
 
 Duplicate erro..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 17  Views: 648"
 file_size: "  File Size: 12.5 MB "
 parent_path: "words/net"

@@ -9,7 +9,7 @@ download_link: " /slides/net/new-releases/aspose.slides-for-.net-7.3.1/3a8ac86b4
 download_text: " Download"
 Intro_text: " We like to share the new hotfix release of
 Aspose.Slides for .NET. The followin..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   4/15/2013  Downloads: 86  Views: 243"
 file_size: "  File Size: 32.6 MB "
 parent_path: "slides/net"

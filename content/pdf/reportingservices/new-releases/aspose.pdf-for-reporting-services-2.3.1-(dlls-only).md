@@ -12,7 +12,7 @@ Intro_text: "
 				
 This ZIP file contains only the 
 Aspose.Pdf for Reporting Service..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   10/14/2011  Downloads: 63  Views: 233"
 file_size: "  File Size: 13.3 MB "
 parent_path: "pdf/reportingservices"

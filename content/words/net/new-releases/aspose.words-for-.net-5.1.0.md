@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " What's New
 
 Improvements to DOCX (Office Open XML) import of DrawingML graphic..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   3/27/2008  Downloads: 1472  Views: 3146"
 file_size: "  File Size: 16.1 MB "
 parent_path: "words/net"

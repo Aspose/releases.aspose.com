@@ -11,7 +11,7 @@ Intro_text: " New Features
 
 Save documents as MHTML (Single File Web Page). 
 Save as OpenDo..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   5/14/2008  Downloads: 1548  Views: 3454"
 file_size: "  File Size: 16.5 MB "
 parent_path: "words/net"

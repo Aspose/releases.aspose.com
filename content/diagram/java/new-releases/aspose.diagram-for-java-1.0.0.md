@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 
 
 We are pleased to launch our brand new component named  Aspose.Diagram for J..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   5/6/2014  Downloads: 43  Views: 223"
 file_size: "  File Size: 13.8 MB "
 parent_path: "diagram/java"

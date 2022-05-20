@@ -11,7 +11,7 @@ Intro_text: "
 
             This
  ZIP file contains only the Aspose.Email for .NET assembli..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   6/26/2013  Downloads: 133  Views: 166"
 file_size: "  File Size: 7.3 MB "
 parent_path: "email/net"

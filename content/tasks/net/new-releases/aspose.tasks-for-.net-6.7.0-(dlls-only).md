@@ -16,7 +16,7 @@ Intro_text: "
             
 
             This ZIP file co..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   8/27/2015  Downloads: 26  Views: 105"
 file_size: "  File Size: 8.3 MB "
 parent_path: "tasks/net"

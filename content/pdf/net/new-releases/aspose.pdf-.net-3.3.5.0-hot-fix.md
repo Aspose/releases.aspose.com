@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.3.5.0-hot-fix/5921edea0
 download_text: " Download"
 Intro_text: " Main bugs fixed:
 1) Extra text interted in pdf bug is fixed. Refer to http://ww..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 15  Views: 80"
 file_size: "  File Size: 4.2 MB "
 parent_path: "pdf/net"

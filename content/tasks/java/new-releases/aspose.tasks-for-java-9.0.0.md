@@ -11,7 +11,7 @@ Intro_text: " Major Features
 
 We have implemented enhancement
  which allow to read subproje..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   11/30/2015  Downloads: 41  Views: 229"
 file_size: "  File Size: 20.7 MB "
 parent_path: "tasks/java"

@@ -9,7 +9,7 @@ download_link: " /pdf/java/new-releases/aspose.pdf-java-2.0.0.0-new-release/fdd6
 download_text: " Download"
 Intro_text: " In this release:
 1) Document Object Model (DOM) is supported like the .NET vers..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 10  Views: 265"
 file_size: "  File Size: 1.9 MB "
 parent_path: "pdf/java"

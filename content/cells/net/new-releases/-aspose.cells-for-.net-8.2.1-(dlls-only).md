@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 
 
 This ZIP file contains only the Aspose.Cells for .NET assemblies. The assemb..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   9/16/2014  Downloads: 293  Views: 493"
 file_size: "  File Size: 30.3 MB "
 parent_path: "cells/net"

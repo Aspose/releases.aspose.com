@@ -15,7 +15,7 @@ Intro_text: "
 				
 This ZIP file contains only the 
 Aspose.Pdf for..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   11/5/2011  Downloads: 471  Views: 524"
 file_size: "  File Size: 29.8 MB "
 parent_path: "pdf/net"

@@ -8,7 +8,7 @@ folder_name: " Gekom uses Aspose.Words for .Net to generate invoices from user i
 download_link: " /corporate/success-stories/aspose.words/gekom-uses-aspose.words-for-.net-to-generate-invoices-from-user-input,-including-company-logo/1b071c1e089541ae83af7fc6000bb875"
 download_text: " Download"
 Intro_text: " Gekom is an online web application that offers small companies and freelancers a..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 54  Views: 1206"
 file_size: "  File Size: 668.1 KB "
 parent_path: "corporate/success-stories/aspose.words"

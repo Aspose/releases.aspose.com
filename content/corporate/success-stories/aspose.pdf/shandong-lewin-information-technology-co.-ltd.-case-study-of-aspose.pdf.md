@@ -8,7 +8,7 @@ folder_name: " Shandong Lewin Information Technology Co. Ltd. Case Study of Aspo
 download_link: " /corporate/success-stories/aspose.pdf/shandong-lewin-information-technology-co.-ltd.-case-study-of-aspose.pdf/41de3aa0a7b548eb9bfeb98a84467bd5"
 download_text: " Download"
 Intro_text: " Learn how Shandong Lewin Information Technology Co. Ltd.uses Aspose.PDF for Elec..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 255  Views: 273"
 file_size: "  File Size: 544.4 KB "
 parent_path: "corporate/success-stories/aspose.pdf"

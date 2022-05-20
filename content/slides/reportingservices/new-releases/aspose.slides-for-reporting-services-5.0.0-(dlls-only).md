@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Aspose.Slides for Reporting Services has been updated to version 5.0.0.
 
 Visit..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/10/2014  Downloads: 39  Views: 204"
 file_size: "  File Size: 19.7 MB "
 parent_path: "slides/reportingservices"

@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 		In this hot fix:
 		1) Tab stop position supporting is improved.
 		2) A bug a..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 1"
 file_size: "  File Size: 401.6 KB "
 parent_path: "pdf/net"

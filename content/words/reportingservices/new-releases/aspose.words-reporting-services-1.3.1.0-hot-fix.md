@@ -11,7 +11,7 @@ Intro_text: " This is a maintenance release.
 What's new:
 
 3402 - Added the support for the ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 45  Views: 303"
 file_size: "  File Size: 5.3 MB "
 parent_path: "words/reportingservices"

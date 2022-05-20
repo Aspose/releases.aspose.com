@@ -9,7 +9,7 @@ download_link: " /slides/java/new-releases/aspose.slides-for-java-1.8.2.0-hot-fi
 download_text: " Download"
 Intro_text: " What's New:
 Presentation.hasVBAMacros() method which determines whether a prese..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   12/24/2007  Downloads: 211  Views: 1019"
 file_size: "  File Size: 2.0 MB "
 parent_path: "slides/java"

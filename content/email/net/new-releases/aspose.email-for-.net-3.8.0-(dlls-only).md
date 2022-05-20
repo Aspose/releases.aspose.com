@@ -9,7 +9,7 @@ download_link: " /email/net/new-releases/aspose.email-for-.net-3.8.0-(dlls-only)
 download_text: " Download"
 Intro_text: " The following is a list of improvements and improvements and changes in
 this re..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   1/28/2014  Downloads: 134  Views: 270"
 file_size: "  File Size: 9.3 MB "
 parent_path: "email/net"

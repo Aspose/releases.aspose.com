@@ -9,7 +9,7 @@ download_link: " /tasks/net/new-releases/aspose.tasks-for-.net-6.2.0-(dlls-only)
 download_text: " Download"
 Intro_text: " This ZIP file contains only the Aspose.Tasks
  for .NET assemblies. The assembli..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   8/27/2015  Downloads: 37  Views: 126"
 file_size: "  File Size: 6.9 MB "
 parent_path: "tasks/net"

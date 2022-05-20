@@ -9,7 +9,7 @@ download_link: " /cells/net/new-releases/aspose.cells-for-.net-8.2.1/56d6d185abf
 download_text: " Download"
 Intro_text: " 
 Aspose.Cells for .NET has been updated to version 8.2.1 and we are pleased to ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   9/16/2014  Downloads: 729  Views: 892"
 file_size: "  File Size: 34.6 MB "
 parent_path: "cells/net"

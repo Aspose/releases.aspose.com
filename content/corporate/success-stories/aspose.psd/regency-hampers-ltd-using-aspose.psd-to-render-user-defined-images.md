@@ -8,7 +8,7 @@ folder_name: " Regency Hampers Ltd using Aspose.PSD to Render User-Defined Image
 download_link: " /corporate/success-stories/aspose.psd/regency-hampers-ltd-using-aspose.psd-to-render-user-defined-images/9c7865617c8c4b04bc2d4c042fdb0fec"
 download_text: " Download"
 Intro_text: " Regency Hampers is a premium supplier of gift hampers with a large offering of d..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 44  Views: 97"
 file_size: "  File Size: 215.2 KB "
 parent_path: "corporate/success-stories/aspose.psd"

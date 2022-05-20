@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-for-.net-5.2.1/27f0603f0fa84af
 download_text: " Download"
 Intro_text: " Introduction
 We are pleased to announce the release of an urgent HotFix v5.2.1 ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   5/11/2011  Downloads: 159  Views: 622"
 file_size: "  File Size: 18.3 MB "
 parent_path: "pdf/net"

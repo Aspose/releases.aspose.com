@@ -9,7 +9,7 @@ download_link: " /slides/net/new-releases/aspose.slides-for-.net-8.3.0-(dlls-onl
 download_text: " Download"
 Intro_text: " Aspose.Slides for .NET 8.3.0 Release Notes
 Aspose.Slides for .NET has been upda..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   2/3/2014  Downloads: 81  Views: 300"
 file_size: "  File Size: 34.7 MB "
 parent_path: "slides/net"

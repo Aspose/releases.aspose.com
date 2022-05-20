@@ -11,7 +11,7 @@ Intro_text: " Dear Customers,
 We have released Aspose.Cells v3.7.1!
 
 Support for adding tex..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 5  Views: 37"
 file_size: "  File Size: 408.2 KB "
 parent_path: "cells/net"

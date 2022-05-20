@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-for-.net-3.9.0.0-new-release/d
 download_text: " Download"
 Intro_text: " Introduction
 In this release, PDF/A-1a is supported and now the PDF/A-1 is full..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   11/11/2008  Downloads: 1621  Views: 1737"
 file_size: "  File Size: 9.6 MB "
 parent_path: "pdf/net"

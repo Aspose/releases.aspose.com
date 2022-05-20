@@ -9,7 +9,7 @@ download_link: " /cells/java/new-releases/aspose.cells-java-1.7.2.0-hot-fix/ddab
 download_text: " Download"
 Intro_text: " Dear Customers,
 We have released Aspose.Cells for Java V1.7.2!Following enhance..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 4  Views: 225"
 file_size: "  File Size: 8.7 MB "
 parent_path: "cells/java"

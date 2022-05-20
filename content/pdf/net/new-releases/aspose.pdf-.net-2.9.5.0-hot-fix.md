@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " In this hotfix,
 1) AÂ  auto image scaling bugÂ is fixed.
 2) A cener alignment bu..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 1  Views: 136"
 file_size: "  File Size: 3.2 MB "
 parent_path: "pdf/net"

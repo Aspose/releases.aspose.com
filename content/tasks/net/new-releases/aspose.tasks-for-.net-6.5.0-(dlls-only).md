@@ -13,7 +13,7 @@ Intro_text: "
 
             This ZIP file contains only the Aspose.Tasks
  f..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   8/27/2015  Downloads: 21  Views: 95"
 file_size: "  File Size: 7.4 MB "
 parent_path: "tasks/net"

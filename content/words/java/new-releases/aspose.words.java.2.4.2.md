@@ -17,7 +17,7 @@ Issue ID
 Component
 
 Summa..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   5/26/2008  Downloads: 680  Views: 2726"
 file_size: "  File Size: 7.1 MB "
 parent_path: "words/java"

@@ -8,7 +8,7 @@ folder_name: " InnDocs is totally a web-based document management system where d
 download_link: " /corporate/success-stories/aspose.total/inndocs-is-totally-a-web-based-document-management-system-where-documents-are-viewed-and-collaborated-on-web-client/b34dc6c402c7434c9a84a3b6409f63a0"
 download_text: " Download"
 Intro_text: " We had a challenge in office formats. Aspose PDF, PDF Kit, Aspose Words and Cell..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 68  Views: 1598"
 file_size: "  File Size: 521.1 KB "
 parent_path: "corporate/success-stories/aspose.total"

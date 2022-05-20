@@ -12,7 +12,7 @@ What's changed:
 
 
 P..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   9/15/2010  Downloads: 403  Views: 1761"
 file_size: "  File Size: 3.5 MB "
 parent_path: "slides/java"

@@ -8,7 +8,7 @@ folder_name: " irisnote used Aspose.Total to allow users to collaborate on resea
 download_link: " /corporate/success-stories/aspose.total/irisnote-used-aspose.total-to-allow-users-to-collaborate-on-research/5bf805dfd7424f3e941d8d8b0400b749"
 download_text: " Download"
 Intro_text: " irisnote's goal is to provide an electronic notebook that empowers researchers a..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 31  Views: 1137"
 file_size: "  File Size: 472.0 KB "
 parent_path: "corporate/success-stories/aspose.total"

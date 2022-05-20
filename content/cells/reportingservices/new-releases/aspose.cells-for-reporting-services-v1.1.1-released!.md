@@ -12,7 +12,7 @@ Intro_text: " What's Improved?
 
 Rewrote the client tool, improved its stability
 Supported..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   3/27/2008  Downloads: 110  Views: 1323"
 file_size: "  File Size: 4.9 MB "
 parent_path: "cells/reportingservices"

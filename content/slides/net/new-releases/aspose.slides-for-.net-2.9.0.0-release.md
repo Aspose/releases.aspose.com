@@ -9,7 +9,7 @@ download_link: " /slides/net/new-releases/aspose.slides-for-.net-2.9.0.0-release
 download_text: " Download"
 Intro_text: " What's New:
 New PDF Rendering engine. Public API wasn't changed so please check..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   10/12/2008  Downloads: 353  Views: 1140"
 file_size: "  File Size: 4.5 MB "
 parent_path: "slides/net"

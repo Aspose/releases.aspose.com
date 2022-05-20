@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " New Features
 
 Added a lot of new code examples to the API. Both in C# and VB.N..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 7  Views: 66"
 file_size: "  File Size: 516.3 KB "
 parent_path: "words/net"

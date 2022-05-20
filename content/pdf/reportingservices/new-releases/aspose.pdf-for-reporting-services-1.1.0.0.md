@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 		Introduction
 		
 			In this release, some new features like watermark, link a..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   1/25/2008  Downloads: 70  Views: 807"
 file_size: "  File Size: 3.1 MB "
 parent_path: "pdf/reportingservices"

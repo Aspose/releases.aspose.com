@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " New Features
 
 Both JDK 1.4 and 1.5 are now supported. There are two separate A..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 8  Views: 49"
 file_size: "  File Size: 2.3 MB "
 parent_path: "words/java"

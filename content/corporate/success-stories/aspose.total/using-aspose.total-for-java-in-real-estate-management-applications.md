@@ -8,7 +8,7 @@ folder_name: " Using Aspose.Total for Java in real estate management application
 download_link: " /corporate/success-stories/aspose.total/using-aspose.total-for-java-in-real-estate-management-applications/7256d0c8b34b499fb2ca18ac4de750bb"
 download_text: " Download"
 Intro_text: " When 'off-the-shelf' solutions didn't offer adequate flexibility, Softime used A..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 31  Views: 278"
 file_size: "  File Size: 678.5 KB "
 parent_path: "corporate/success-stories/aspose.total"

@@ -9,7 +9,7 @@ download_link: " /barcode/net/new-releases/aspose.barcode-for-.net-v2.7.0.0/ac2c
 download_text: " Download"
 Intro_text: " 
 Aspose.BarCode for .NET v2.7.0.0 has been released. Aspose.BarCode is an All-I..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/3/2008  Downloads: 98  Views: 581"
 file_size: "  File Size: 10.5 MB "
 parent_path: "barcode/net"

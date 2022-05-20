@@ -9,7 +9,7 @@ download_link: " /words/net/new-releases/aspose.words-for-.net-5.0.0/802d82e30fe
 download_text: " Download"
 Intro_text: " Please welcome our next major release of Aspose.Words for .NET!
 The main featur..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   2/7/2008  Downloads: 485  Views: 2168"
 file_size: "  File Size: 16.2 MB "
 parent_path: "words/net"

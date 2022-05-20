@@ -11,7 +11,7 @@ Intro_text: " What's New
 
 Export to Microsoft Office 2007 Open XML (DOCX) format. 
 Aspose.W..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   8/22/2007  Downloads: 1252  Views: 2373"
 file_size: "  File Size: 16.0 MB "
 parent_path: "words/net"

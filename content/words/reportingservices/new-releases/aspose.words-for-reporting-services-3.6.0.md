@@ -9,7 +9,7 @@ download_link: " /words/reportingservices/new-releases/aspose.words-for-reportin
 download_text: " Download"
 Intro_text: " Please welcome a new release of Aspose.Words for 
 Reporting Services. This rele..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   6/9/2012  Downloads: 81  Views: 425"
 file_size: "  File Size: 11.2 MB "
 parent_path: "words/reportingservices"

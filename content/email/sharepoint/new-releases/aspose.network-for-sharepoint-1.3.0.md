@@ -9,7 +9,7 @@ download_link: " /email/sharepoint/new-releases/aspose.network-for-sharepoint-1.
 download_text: " Download"
 Intro_text: " 
 				Aspose.Network for SharePoint v1.3 has been released. It includes the foll..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   9/22/2012  Downloads: 82  Views: 828"
 file_size: "  File Size: 3.5 MB "
 parent_path: "email/sharepoint"

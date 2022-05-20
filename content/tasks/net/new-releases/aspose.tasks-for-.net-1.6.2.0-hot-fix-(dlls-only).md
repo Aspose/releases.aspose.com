@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " What's New:
 Support for mpx files with different encoding (for example to
 read..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   2/3/2008  Downloads: 80  Views: 835"
 file_size: "  File Size: 254.1 KB "
 parent_path: "tasks/net"

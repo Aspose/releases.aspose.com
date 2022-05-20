@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 
 Introduction
 We are pleased to announce the release of a new version of Aspos..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   5/19/2010  Downloads: 292  Views: 1371"
 file_size: "  File Size: 25.1 MB "
 parent_path: "pdf/net"

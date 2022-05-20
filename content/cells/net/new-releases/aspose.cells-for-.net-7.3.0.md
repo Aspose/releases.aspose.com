@@ -13,7 +13,7 @@ v7.3.0 for the users!
  
 
 1)..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/16/2012  Downloads: 393  Views: 1390"
 file_size: "  File Size: 25.4 MB "
 parent_path: "cells/net"

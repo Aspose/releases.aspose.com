@@ -8,7 +8,7 @@ folder_name: " Digital Synergy Solutions uses Aspose.Cells for .NET in a configu
 download_link: " /corporate/success-stories/aspose.cells/digital-synergy-solutions-uses-aspose.cells-for-.net-in-a-configurable-excel-reader/793d865e60d044649dfd284c5f4bd08c"
 download_text: " Download"
 Intro_text: " Digital Synergy Solutions specializes in web application development and vendor ..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 381  Views: 2439"
 file_size: "  File Size: 674.7 KB "
 parent_path: "corporate/success-stories/aspose.cells"

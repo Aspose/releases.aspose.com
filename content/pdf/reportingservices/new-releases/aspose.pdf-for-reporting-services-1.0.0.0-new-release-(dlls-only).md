@@ -9,7 +9,7 @@ download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-se
 download_text: " Download"
 Intro_text: " 		Introduction
 		Microsoft SQL Server Reporting Services fulfills a need that m..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   11/18/2007  Downloads: 103  Views: 871"
 file_size: "  File Size: 2.5 MB "
 parent_path: "pdf/reportingservices"

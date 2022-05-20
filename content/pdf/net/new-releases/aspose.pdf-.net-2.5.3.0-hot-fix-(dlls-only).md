@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.5.3.0-hot-fix-(dlls-onl
 download_text: " Download"
 Intro_text: " In this hotfix:
 1) Â Arabic support is improved. Latin words in Arabic sentence ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 3  Views: 39"
 file_size: "  File Size: 640.7 KB "
 parent_path: "pdf/net"

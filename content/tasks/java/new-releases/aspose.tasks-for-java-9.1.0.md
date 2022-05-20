@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Major Features
 
 We have implemented Task.DurationText field for mpp writing an..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   12/30/2015  Downloads: 31  Views: 262"
 file_size: "  File Size: 20.7 MB "
 parent_path: "tasks/java"

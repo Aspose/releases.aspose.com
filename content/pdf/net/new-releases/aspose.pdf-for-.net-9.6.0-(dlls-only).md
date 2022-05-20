@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " This
  ZIP file contains only the Aspose.Pdf for .NET assemblies. The 
 assembli..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   9/4/2014  Downloads: 385  Views: 386"
 file_size: "  File Size: 72.6 MB "
 parent_path: "pdf/net"

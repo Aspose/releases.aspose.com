@@ -9,7 +9,7 @@ download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-se
 download_text: " Download"
 Intro_text: " Introduction
 We are pleased to announce a short release version of Aspose.Pdf f..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   9/10/2011  Downloads: 34  Views: 295"
 file_size: "  File Size: 22.5 MB "
 parent_path: "pdf/reportingservices"

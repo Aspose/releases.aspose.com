@@ -9,7 +9,7 @@ download_link: " /pdf/java/new-releases/aspose.pdf-java-2.2.0.0-new-release/e406
 download_text: " Download"
 Intro_text: " 		Introduction
 		In this release, some important features such as JavaScript, A..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 42  Views: 398"
 file_size: "  File Size: 2.1 MB "
 parent_path: "pdf/java"

@@ -8,7 +8,7 @@ folder_name: " Qualetech used Aspose.Total to create previews and extract text i
 download_link: " /corporate/success-stories/aspose.total/qualetech-used-aspose.total-to-create-previews-and-extract-text-in-visiodoc.-/fee14b9556444f55a1236e088b525997"
 download_text: " Download"
 Intro_text: " Qualetech we needed a library that can reliably Preview and Extract the text of ..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 115  Views: 288"
 file_size: "  File Size: 476.3 KB "
 parent_path: "corporate/success-stories/aspose.total"

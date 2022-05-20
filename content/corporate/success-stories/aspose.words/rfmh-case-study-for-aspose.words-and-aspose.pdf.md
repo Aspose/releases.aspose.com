@@ -9,7 +9,7 @@ download_link: " /corporate/success-stories/aspose.words/rfmh-case-study-for-asp
 download_text: " Download"
 Intro_text: " Company: RFMH (Research Foundation for Mental Hygiene, Inc.). 
 Industry: Health..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 754  Views: 921"
 file_size: "  File Size: 50.5 KB "
 parent_path: "corporate/success-stories/aspose.words"

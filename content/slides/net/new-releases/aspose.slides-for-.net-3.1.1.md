@@ -12,7 +12,7 @@ Intro_text: " This is maintenance release of Aspose.Slides for .NET.What's new:
  
   
    I..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   8/23/2009  Downloads: 236  Views: 767"
 file_size: "  File Size: 9.6 MB "
 parent_path: "slides/net"

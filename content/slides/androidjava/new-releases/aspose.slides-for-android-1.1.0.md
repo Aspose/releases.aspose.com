@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 
 
             We are pleased to announce the launch of Aspose.Slides for Andro..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   1/27/2014  Downloads: 1129  Views: 1647"
 file_size: "  File Size: 8.5 MB "
 parent_path: "slides/androidjava"

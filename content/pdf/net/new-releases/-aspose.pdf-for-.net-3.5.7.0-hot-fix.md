@@ -13,7 +13,7 @@ Intro_text: "
 			
 				3514 - Embedded ImageData as Base64 string is 
 	..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   8/14/2007  Downloads: 270  Views: 1297"
 file_size: "  File Size: 4.6 MB "
 parent_path: "pdf/net"

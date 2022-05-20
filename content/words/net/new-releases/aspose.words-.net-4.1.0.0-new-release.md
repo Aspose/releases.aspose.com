@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " This release of Aspose.Words contains a single important new feature:
 
 RTF Imp..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 25  Views: 148"
 file_size: "  File Size: 7.5 MB "
 parent_path: "words/net"

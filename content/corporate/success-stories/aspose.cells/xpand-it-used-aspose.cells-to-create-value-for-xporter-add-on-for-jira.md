@@ -9,7 +9,7 @@ download_link: " /corporate/success-stories/aspose.cells/xpand-it-used-aspose.ce
 download_text: " Download"
 Intro_text: " This Add-On offers to users the possibility of
 exporting their JIRA issues cont..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 326  Views: 1397"
 file_size: "  File Size: 821.8 KB "
 parent_path: "corporate/success-stories/aspose.cells"

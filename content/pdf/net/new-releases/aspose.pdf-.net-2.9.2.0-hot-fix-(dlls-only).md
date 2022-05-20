@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.9.2.0-hot-fix-(dlls-onl
 download_text: " Download"
 Intro_text: " In this hotfix:
 1) Memory image for all image type is supported. A new property..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 4  Views: 41"
 file_size: "  File Size: 673.0 KB "
 parent_path: "pdf/net"

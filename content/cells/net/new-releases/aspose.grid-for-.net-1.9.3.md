@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 
 Dear Customers, We have just released Aspose.Grid v1.9.3!
 IntroductionThis ne..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   10/12/2007  Downloads: 505  Views: 1350"
 file_size: "  File Size: 9.0 MB "
 parent_path: "cells/net"

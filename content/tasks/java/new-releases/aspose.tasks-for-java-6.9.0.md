@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Major Features
 
 We have improved rendering the project data to PDF and other f..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   8/4/2014  Downloads: 85  Views: 281"
 file_size: "  File Size: 25.7 MB "
 parent_path: "tasks/java"

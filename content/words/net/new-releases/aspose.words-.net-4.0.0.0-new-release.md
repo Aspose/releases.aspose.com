@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " This is to confirm that Aspose.Words for .NET 4.0.0 Final is released.
  
 Impor..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 21  Views: 213"
 file_size: "  File Size: 7.2 MB "
 parent_path: "words/net"

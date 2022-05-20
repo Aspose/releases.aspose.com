@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 
 
             The list of improvements and changes that are  released  in Aspo..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   2/3/2016  Downloads: 5  Views: 57"
 file_size: "  File Size: 3.0 MB "
 parent_path: "barcode/reportingservices"

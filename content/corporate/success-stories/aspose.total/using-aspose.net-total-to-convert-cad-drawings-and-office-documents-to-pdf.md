@@ -8,7 +8,7 @@ folder_name: " Using Aspose.Net Total to convert CAD drawings and Office documen
 download_link: " /corporate/success-stories/aspose.total/using-aspose.net-total-to-convert-cad-drawings-and-office-documents-to-pdf/9858e5e9b1214839bda912d0b5fcd83c"
 download_text: " Download"
 Intro_text: " W3K provides a cloud based EDMS (Engineering Document Management System) applied..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 229  Views: 507"
 file_size: "  File Size: 422.1 KB "
 parent_path: "corporate/success-stories/aspose.total"

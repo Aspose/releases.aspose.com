@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Major Features
 
 We have implemented Task.DurationText field for mpp writing an..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   12/30/2015  Downloads: 115  Views: 157"
 file_size: "  File Size: 13.2 MB "
 parent_path: "tasks/net"

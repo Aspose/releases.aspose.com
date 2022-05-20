@@ -9,7 +9,7 @@ download_link: " /words/jasperreports/new-releases/aspose.words-for-jasperreport
 download_text: " Download"
 Intro_text: " This is a maintenance release of Aspose.Words for JasperReports.
 What's new and..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   4/26/2012  Downloads: 198  Views: 908"
 file_size: "  File Size: 3.7 MB "
 parent_path: "words/jasperreports"

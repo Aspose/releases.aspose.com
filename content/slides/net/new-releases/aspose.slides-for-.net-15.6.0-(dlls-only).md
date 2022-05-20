@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Minor Changes
 
 SLIDESNET-36494 - Support for cleaning of PowerPoint document p..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/22/2015  Downloads: 134  Views: 227"
 file_size: "  File Size: 54.0 MB "
 parent_path: "slides/net"

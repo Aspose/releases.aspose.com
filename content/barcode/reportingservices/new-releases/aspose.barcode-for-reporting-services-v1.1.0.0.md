@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " What's new
 
 MSI installer automatically adds Aspose.BarCode for reporting serv..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   10/10/2007  Downloads: 26  Views: 491"
 file_size: "  File Size: 2.1 MB "
 parent_path: "barcode/reportingservices"

@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.2.2.0-hot-fix/eef0bb246
 download_text: " Download"
 Intro_text: " In this hotfix:
 1) IsRowBroken with Fixed row hight bug fixed. Refer to http://..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 4  Views: 85"
 file_size: "  File Size: 4.1 MB "
 parent_path: "pdf/net"

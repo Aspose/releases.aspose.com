@@ -8,7 +8,7 @@ folder_name: " Kilgray Translation Technologies uses Aspose.Total for document t
 download_link: " /corporate/success-stories/aspose.total/kilgray-translation-technologies-uses-aspose.total-for-document-translation/2d71c4cb7f2248c6be00d4851700626f"
 download_text: " Download"
 Intro_text: " This case study describes how Kilgray Translation Technologies uses Aspose.Tot..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 57  Views: 1711"
 file_size: "  File Size: 404.1 KB "
 parent_path: "corporate/success-stories/aspose.total"

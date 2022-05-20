@@ -8,7 +8,7 @@ folder_name: " Techior Solutions uses Aspose.Imaging for their Question Paper Ge
 download_link: " /corporate/success-stories/aspose.imaging/techior-solutions-uses-aspose.imaging-for-their-question-paper-generator/00021b7f0ce7410e8ce03219147b34ec"
 download_text: " Download"
 Intro_text: " Learn how Aspose.Imaging helped convert word Math Type equations to images in Ja..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 267  Views: 270"
 file_size: "  File Size: 338.8 KB "
 parent_path: "corporate/success-stories/aspose.imaging"

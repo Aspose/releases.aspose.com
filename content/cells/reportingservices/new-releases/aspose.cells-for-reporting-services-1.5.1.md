@@ -9,7 +9,7 @@ download_link: " /cells/reportingservices/new-releases/aspose.cells-for-reportin
 download_text: " Download"
 Intro_text: " We are happy to announce Aspose.Cells for Reporting Services version 1.5.1!
 Wha..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   3/4/2010  Downloads: 111  Views: 423"
 file_size: "  File Size: 18.0 MB "
 parent_path: "cells/reportingservices"

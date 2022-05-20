@@ -8,7 +8,7 @@ folder_name: " Bison uses Aspose.Total for Java for Microsoft Office integration
 download_link: " /corporate/success-stories/aspose.total/bison-uses-aspose.total-for-java-for-microsoft-office-integration-into-bison-process/9907a95c274e413cbd69259320d18674"
 download_text: " Download"
 Intro_text: " Bison is a provider of business IT solutions. With 30 years of market experience..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 17  Views: 436"
 file_size: "  File Size: 238.1 KB "
 parent_path: "corporate/success-stories/aspose.total"

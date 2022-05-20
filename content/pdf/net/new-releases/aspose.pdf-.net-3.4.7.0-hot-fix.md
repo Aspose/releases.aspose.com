@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.4.7.0-hot-fix/d52a4431a
 download_text: " Download"
 Intro_text: " Bugs fixed:
 1)       DefaultCellTextInfo Not Working with Table containing Rows..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 46  Views: 174"
 file_size: "  File Size: 4.3 MB "
 parent_path: "pdf/net"

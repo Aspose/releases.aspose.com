@@ -8,7 +8,7 @@ folder_name: " Core Medical Solutions Aspose.BarCode for .NET Competitive Upgrad
 download_link: " /corporate/success-stories/aspose.barcode/core-medical-solutions-aspose.barcode-for-.net-competitive-upgrade-casestudy/10cf4c62992349efa439baf839f12548"
 download_text: " Download"
 Intro_text: " Core Medical Solutions' BOSSnet DMR is a Medical Document acquisition and displa..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 553  Views: 2997"
 file_size: "  File Size: 257.0 KB "
 parent_path: "corporate/success-stories/aspose.barcode"

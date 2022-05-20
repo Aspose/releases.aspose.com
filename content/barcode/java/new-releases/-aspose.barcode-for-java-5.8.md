@@ -9,7 +9,7 @@ download_link: " /barcode/java/new-releases/-aspose.barcode-for-java-5.8/a8ff3b7
 download_text: " Download"
 Intro_text: " We are glad to announce the Aspose.BarCode for Java v5.8
 release. We have worke..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   2/18/2014  Downloads: 744  Views: 704"
 file_size: "  File Size: 7.1 MB "
 parent_path: "barcode/java"

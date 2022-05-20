@@ -9,7 +9,7 @@ download_link: " /words/reportingservices/new-releases/aspose.words-for-reportin
 download_text: " Download"
 Intro_text: " This is a hotfix release addressing some recent issues reported by customers.
 W..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   8/7/2007  Downloads: 13  Views: 189"
 file_size: "  File Size: 5.0 MB "
 parent_path: "words/reportingservices"

@@ -8,7 +8,7 @@ folder_name: " Smartmatching UK Ltd needed a consistent and high quality method 
 download_link: " /corporate/success-stories/aspose.words/smartmatching-uk-ltd-needed-a-consistent-and-high-quality-method-of-converting-cvs-to-pdf-format/b0947944200f4171a71b4bd80643befe"
 download_text: " Download"
 Intro_text: " Smartmatching are specialists in software recruitment solutions based in the UK...."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 51  Views: 1349"
 file_size: "  File Size: 185.8 KB "
 parent_path: "corporate/success-stories/aspose.words"

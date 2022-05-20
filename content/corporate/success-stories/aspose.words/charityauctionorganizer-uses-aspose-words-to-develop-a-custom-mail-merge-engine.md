@@ -8,7 +8,7 @@ folder_name: " CharityAuctionOrganizer uses Aspose Words to Develop a Custom Mai
 download_link: " /corporate/success-stories/aspose.words/charityauctionorganizer-uses-aspose-words-to-develop-a-custom-mail-merge-engine/c6701467d3454a4984fe4d8a379de9d3"
 download_text: " Download"
 Intro_text: " CharityAuctionOrganizer.com provides a platform to allow non-profits to run fund..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 227  Views: 824"
 file_size: "  File Size: 388.2 KB "
 parent_path: "corporate/success-stories/aspose.words"

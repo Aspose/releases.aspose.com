@@ -9,7 +9,7 @@ download_link: " /pdf/java/new-releases/aspose.pdf-for-java-2.3.1.0-hot-fix/3e86
 download_text: " Download"
 Intro_text: " Introduction
 In this hot fix, Graph has been enhanced to provide the same funct..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   6/24/2008  Downloads: 228  Views: 595"
 file_size: "  File Size: 2.2 MB "
 parent_path: "pdf/java"

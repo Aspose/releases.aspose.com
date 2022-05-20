@@ -9,7 +9,7 @@ download_link: " /words/net/new-releases/aspose.words-for-.net-4.4.1.0/4c51b853e
 download_text: " Download"
 Intro_text: " What's New
 Loading of Microsoft Office 2007 Open XML (DOCX) documents is now su..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   10/12/2007  Downloads: 972  Views: 2231"
 file_size: "  File Size: 16.1 MB "
 parent_path: "words/net"

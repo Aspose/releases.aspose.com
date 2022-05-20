@@ -8,7 +8,7 @@ folder_name: " diecomputerengel needed a better solution and found Aspose.Words 
 download_link: " /corporate/success-stories/aspose.words/diecomputerengel-needed-a-better-solution-and-found-aspose.words-for-.net.-competitive-case-study/ec84e2b5c33449d9bb7818e9f93f09a2"
 download_text: " Download"
 Intro_text: " Document management is an important part of diecomputerengel SYSTEMHAUS GmbH & C..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 37  Views: 358"
 file_size: "  File Size: 126.0 KB "
 parent_path: "corporate/success-stories/aspose.words"

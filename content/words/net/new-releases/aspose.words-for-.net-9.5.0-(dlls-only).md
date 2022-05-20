@@ -9,7 +9,7 @@ download_link: " /words/net/new-releases/aspose.words-for-.net-9.5.0-(dlls-only)
 download_text: " Download"
 Intro_text: " 
 This ZIP file contains only the Aspose.Words for .NET assemblies. The assembli..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   10/30/2010  Downloads: 877  Views: 727"
 file_size: "  File Size: 13.6 MB "
 parent_path: "words/net"

@@ -9,7 +9,7 @@ download_link: " /pdf/java/new-releases/aspose.pdf-for-java-2.4.0.0-new-release/
 download_text: " Download"
 Intro_text: " Introduction
 In this new release, a lot of important features about Section, Te..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   8/25/2010  Downloads: 616  Views: 2696"
 file_size: "  File Size: 5.3 MB "
 parent_path: "pdf/java"

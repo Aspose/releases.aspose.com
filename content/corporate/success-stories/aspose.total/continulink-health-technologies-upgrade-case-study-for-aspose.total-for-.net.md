@@ -8,7 +8,7 @@ folder_name: " ContinuLink Health Technologies Upgrade Case Study for Aspose.Tot
 download_link: " /corporate/success-stories/aspose.total/continulink-health-technologies-upgrade-case-study-for-aspose.total-for-.net/070f94fbffd84f10b2f20f3e59bbec40"
 download_text: " Download"
 Intro_text: " This is an upgrade case study. ContinuLink used to use a combination of librarie..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 28  Views: 219"
 file_size: "  File Size: 280.8 KB "
 parent_path: "corporate/success-stories/aspose.total"

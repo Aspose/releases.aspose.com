@@ -15,7 +15,7 @@ Intro_text: " This maintenance release contains only one urgent fix:
 Issue
 
 Type ID..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/22/2009  Downloads: 170  Views: 510"
 file_size: "  File Size: 9.2 MB "
 parent_path: "words/java"

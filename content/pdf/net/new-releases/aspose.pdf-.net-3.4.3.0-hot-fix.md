@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.4.3.0-hot-fix/40c18e934
 download_text: " Download"
 Intro_text: " In this hotfix:
 1) Z-order of graph and image is supported. A new property ZInd..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 6  Views: 85"
 file_size: "  File Size: 4.3 MB "
 parent_path: "pdf/net"

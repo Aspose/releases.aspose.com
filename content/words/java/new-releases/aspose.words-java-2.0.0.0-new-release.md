@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " New Features
 
 Full support for all drawing objects: shapes, images, textboxes,..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 13  Views: 309"
 file_size: "  File Size: 4.0 MB "
 parent_path: "words/java"

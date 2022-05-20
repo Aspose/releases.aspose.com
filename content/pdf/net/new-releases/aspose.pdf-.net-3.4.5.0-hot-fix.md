@@ -11,7 +11,7 @@ Intro_text: "
 In this hotfix:
 1) Background color for text bug is fixed. 
 2) A table broke..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 6  Views: 119"
 file_size: "  File Size: 4.3 MB "
 parent_path: "pdf/net"

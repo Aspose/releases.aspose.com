@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.4.4.0-hot-fix/e208d02f9
 download_text: " Download"
 Intro_text: " In this hotfix
 1)      Radio Button Positioning is improved. Please refer to ht..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 122"
 file_size: "  File Size: 4.3 MB "
 parent_path: "pdf/net"

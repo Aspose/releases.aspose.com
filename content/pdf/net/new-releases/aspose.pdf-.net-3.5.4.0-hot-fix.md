@@ -11,7 +11,7 @@ Intro_text: " What's New?
 
 XMP MetaData(PDFNET-3282): A new class  XmpMetadata is added.
 W..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 14  Views: 390"
 file_size: "  File Size: 4.4 MB "
 parent_path: "pdf/net"

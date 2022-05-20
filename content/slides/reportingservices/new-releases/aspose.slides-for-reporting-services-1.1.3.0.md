@@ -9,7 +9,7 @@ download_link: " /slides/reportingservices/new-releases/aspose.slides-for-report
 download_text: " Download"
 Intro_text: " What's New:
 Generated slides have correct Portrait/Landscape orientation, size ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   12/16/2007  Downloads: 59  Views: 555"
 file_size: "  File Size: 2.9 MB "
 parent_path: "slides/reportingservices"

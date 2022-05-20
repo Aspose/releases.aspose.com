@@ -9,7 +9,7 @@ download_link: " /slides/net/new-releases/aspose.slides-for-.net-2.9.2.0-hot-fix
 download_text: " Download"
 Intro_text: " What's New:
 Msi installer contains Aspose.Slides.dll for .NET 2.0.Metafiles con..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   1/29/2009  Downloads: 532  Views: 990"
 file_size: "  File Size: 5.9 MB "
 parent_path: "slides/net"

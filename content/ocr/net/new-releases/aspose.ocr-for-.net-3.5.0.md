@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " We are pleased to share a new version of Aspose.OCR for .NET.
 
 Important Note:..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   4/12/2016  Downloads: 74  Views: 393"
 file_size: "  File Size: 27.1 MB "
 parent_path: "ocr/net"

@@ -15,7 +15,7 @@ v7.5.3!
 Bugs
 
 40597 - ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   9/8/2013  Downloads: 713  Views: 793"
 file_size: "  File Size: 66.8 MB "
 parent_path: "cells/java"

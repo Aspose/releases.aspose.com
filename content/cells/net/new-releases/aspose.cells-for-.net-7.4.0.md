@@ -14,7 +14,7 @@ v7.4.0!
 
 1) Aspose.Cells
 ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   1/25/2013  Downloads: 985  Views: 1280"
 file_size: "  File Size: 27.1 MB "
 parent_path: "cells/net"

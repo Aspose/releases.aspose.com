@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 
 Introduction
 We are pleased to announce the release of another maintenance ve..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   1/30/2011  Downloads: 451  Views: 750"
 file_size: "  File Size: 17.8 MB "
 parent_path: "pdf/net"

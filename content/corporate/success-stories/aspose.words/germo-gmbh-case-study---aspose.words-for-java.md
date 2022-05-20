@@ -9,7 +9,7 @@ download_link: " /corporate/success-stories/aspose.words/germo-gmbh-case-study--
 download_text: " Download"
 Intro_text: " 
 GERMO GmbH used Aspose.Words for Java to extract textual content from their cu..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 306  Views: 477"
 file_size: "  File Size: 227.1 KB "
 parent_path: "corporate/success-stories/aspose.words"

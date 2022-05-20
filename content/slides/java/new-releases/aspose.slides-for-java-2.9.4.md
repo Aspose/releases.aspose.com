@@ -9,7 +9,7 @@ download_link: " /slides/java/new-releases/aspose.slides-for-java-2.9.4/4c277daf
 download_text: " Download"
 Intro_text: " We are happy to
 announce the new hotfix release of Aspose.Slides for Java. The ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   6/20/2012  Downloads: 109  Views: 391"
 file_size: "  File Size: 18.8 MB "
 parent_path: "slides/java"

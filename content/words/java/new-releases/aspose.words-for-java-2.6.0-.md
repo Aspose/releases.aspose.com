@@ -9,7 +9,7 @@ download_link: " /words/java/new-releases/aspose.words-for-java-2.6.0-/69ed9a366
 download_text: " Download"
 Intro_text: " Loading ofÂ Microsoft Office 2007 Open XML (DOCX) documents is now supported!
 Ea..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   11/9/2008  Downloads: 537  Views: 2616"
 file_size: "  File Size: 7.7 MB "
 parent_path: "words/java"

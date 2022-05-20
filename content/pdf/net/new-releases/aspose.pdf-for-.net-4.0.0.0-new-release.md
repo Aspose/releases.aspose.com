@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-for-.net-4.0.0.0-new-release/c
 download_text: " Download"
 Intro_text: " Introduction
 In this release, the feature 'PDF Linearization' (sometimes called..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/24/2009  Downloads: 1580  Views: 4692"
 file_size: "  File Size: 11.5 MB "
 parent_path: "pdf/net"

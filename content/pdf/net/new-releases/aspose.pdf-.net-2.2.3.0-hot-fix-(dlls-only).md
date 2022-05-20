@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 			In this hotfix:
 			1) A bold font format bing ignored bug is fixed.
 			2) A..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 4  Views: 13"
 file_size: "  File Size: 401.1 KB "
 parent_path: "pdf/net"

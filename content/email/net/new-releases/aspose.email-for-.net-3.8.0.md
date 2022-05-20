@@ -9,7 +9,7 @@ download_link: " /email/net/new-releases/aspose.email-for-.net-3.8.0/ef467c4daa7
 download_text: " Download"
 Intro_text: " The following is a list of improvements and improvements and changes in
 this re..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   1/28/2014  Downloads: 305  Views: 571"
 file_size: "  File Size: 12.5 MB "
 parent_path: "email/net"

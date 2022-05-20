@@ -9,7 +9,7 @@ download_link: " /words/androidjava/new-releases/aspose.words-for-android-1.1/8a
 download_text: " Download"
 Intro_text: " Aspose.Words for Android 1.1 Release Notes
 The code base of Aspose.Words for An..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   9/16/2013  Downloads: 60  Views: 241"
 file_size: "  File Size: 21.2 MB "
 parent_path: "words/androidjava"

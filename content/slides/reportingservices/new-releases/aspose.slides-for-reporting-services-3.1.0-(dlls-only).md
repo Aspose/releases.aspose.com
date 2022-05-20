@@ -11,7 +11,7 @@ Intro_text: " What's new:
 
 Perfomance improvements in both 2005 and 2008 versions.
 Installe..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   6/11/2009  Downloads: 52  Views: 327"
 file_size: "  File Size: 3.4 MB "
 parent_path: "slides/reportingservices"

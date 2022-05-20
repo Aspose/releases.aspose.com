@@ -8,7 +8,7 @@ folder_name: " Using Aspose.Cells to Report Pending Notifications from a Perform
 download_link: " /corporate/success-stories/aspose.cells/using-aspose.cells-to-report-pending-notifications-from-a-performance-and-compliance-system/b61f2ec2669b4709ba2a025ee4c6bd70"
 download_text: " Download"
 Intro_text: " Learn how Aspose.Cells was used to export custom reports in dual format"
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 226  Views: 372"
 file_size: "  File Size: 418.8 KB "
 parent_path: "corporate/success-stories/aspose.cells"

@@ -8,7 +8,7 @@ folder_name: " Mesitis uses Aspose.PDF to import banking data that can't be impo
 download_link: " /corporate/success-stories/aspose.pdf/mesitis-uses-aspose.pdf-to-import-banking-data-that-cant-be-imported-directly/1207f339e8bf4f0bad35799f2c2f21d9"
 download_text: " Download"
 Intro_text: " Learn how Mesitis uses Aspose.Pdf to import banking data that can't be imported ..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 277  Views: 1"
 file_size: "  File Size: 173.8 KB "
 parent_path: "corporate/success-stories/aspose.pdf"

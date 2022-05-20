@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.8.2.0-hot-fix-(dlls-onl
 download_text: " Download"
 Intro_text: " In this hotfix:
 1) case-insensitive font name for truetype font is supported. R..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 4"
 file_size: "  File Size: 660.1 KB "
 parent_path: "pdf/net"

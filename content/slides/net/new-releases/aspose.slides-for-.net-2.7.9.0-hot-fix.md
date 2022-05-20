@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " What's New:
 Support for Ole1 native objects. Now OleObjectFrame class can
 reco..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   2/7/2008  Downloads: 116  Views: 343"
 file_size: "  File Size: 4.7 MB "
 parent_path: "slides/net"

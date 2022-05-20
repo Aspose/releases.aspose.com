@@ -8,7 +8,7 @@ folder_name: " The Pitfalls of Microsoft Office Automation: an Aspose Whitepaper
 download_link: " /corporate/success-stories/aspose.total/the-pitfalls-of-microsoft-office-automation-an-aspose-whitepaper/2e0c7c8d92904bcaafe3851bfebdd507"
 download_text: " Download"
 Intro_text: " Microsoft has made server-side automation available, but this is not the intende..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 61  Views: 902"
 file_size: "  File Size: 134.5 KB "
 parent_path: "corporate/success-stories/aspose.total"

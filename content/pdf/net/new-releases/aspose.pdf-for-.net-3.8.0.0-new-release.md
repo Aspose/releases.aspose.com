@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-for-.net-3.8.0.0-new-release/4
 download_text: " Download"
 Intro_text: " Introduction
 In this release, the feature 'PDF/A-1b' (Beta version) is supporte..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   9/11/2008  Downloads: 1048  Views: 1338"
 file_size: "  File Size: 7.2 MB "
 parent_path: "pdf/net"

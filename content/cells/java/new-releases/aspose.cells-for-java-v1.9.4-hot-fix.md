@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " What's New?
 
 Supports to add rich text for shapes such as Arc, Oval, Rectangle..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   3/4/2008  Downloads: 311  Views: 1203"
 file_size: "  File Size: 11.5 MB "
 parent_path: "cells/java"

@@ -9,7 +9,7 @@ download_link: " /corporate/success-stories/aspose.total/fwbs-hipsworld-case-stu
 download_text: " Download"
 Intro_text: " 
 The production of a Home Information Pack (HIP) was passed as a legal requirem..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 15  Views: 244"
 file_size: "  File Size: 583.0 KB "
 parent_path: "corporate/success-stories/aspose.total"

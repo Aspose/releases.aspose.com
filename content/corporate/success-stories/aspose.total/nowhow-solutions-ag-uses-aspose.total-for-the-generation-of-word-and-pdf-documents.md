@@ -8,7 +8,7 @@ folder_name: " nowhow solutions AG uses Aspose.Total for the generation of Word 
 download_link: " /corporate/success-stories/aspose.total/nowhow-solutions-ag-uses-aspose.total-for-the-generation-of-word-and-pdf-documents/307b649614964c32ae257cabbb52ee90"
 download_text: " Download"
 Intro_text: " The DOCO project require the solutions to be capable of gathering raw data from ..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 293  Views: 662"
 file_size: "  File Size: 414.1 KB "
 parent_path: "corporate/success-stories/aspose.total"

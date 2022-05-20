@@ -8,7 +8,7 @@ folder_name: " IntelAgree Used Aspose.Words to Process and Convert Word Document
 download_link: " /corporate/success-stories/aspose.words/intelagree-used-aspose.words-to-process-and-convert-word-documents/7188b5b4b3b544d5963dea7869f198fc"
 download_text: " Download"
 Intro_text: " IntelAgree is a contract management platform powered by machine learning. They m..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 78  Views: 120"
 file_size: "  File Size: 397.4 KB "
 parent_path: "corporate/success-stories/aspose.words"

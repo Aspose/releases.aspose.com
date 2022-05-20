@@ -8,7 +8,7 @@ folder_name: " Cash srl uses Aspose.Words.Net to generate documents in its softw
 download_link: " /corporate/success-stories/aspose.words/cash-srl-uses-aspose.words.net-to-generate-documents-in-its-software-recall-crm/1216c9756389422988bc73e459850750"
 download_text: " Download"
 Intro_text: " CASH srl developed a procedure in their CRM software, Recall CRM, that used Micr..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 49  Views: 1225"
 file_size: "  File Size: 411.6 KB "
 parent_path: "corporate/success-stories/aspose.words"

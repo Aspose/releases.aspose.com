@@ -8,7 +8,7 @@ folder_name: " Infinite Blue uses Aspose Words to generate printable reports for
 download_link: " /corporate/success-stories/aspose.words/infinite-blue-uses-aspose-words-to-generate-printable-reports-for-its-annual-assessment-of-public-entities/65581044178c4b9193933f7823247bec"
 download_text: " Download"
 Intro_text: " Infinite Blue Technologies has been working on the Public Procurement Model of E..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 29  Views: 515"
 file_size: "  File Size: 275.9 KB "
 parent_path: "corporate/success-stories/aspose.words"

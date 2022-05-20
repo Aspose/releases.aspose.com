@@ -8,7 +8,7 @@ folder_name: " CIO Camenzind Information + Organisation Using Aspose.Words to Co
 download_link: " /corporate/success-stories/aspose.words/cio-camenzind-information---organisation-using-aspose.words-to-convert-rtf-to-pdf/9212d3b58d9c4a7cb0000c3932d7acec"
 download_text: " Download"
 Intro_text: " XfleX offers a SaaS documentation production service to small and medium busines..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 224  Views: 269"
 file_size: "  File Size: 335.0 KB "
 parent_path: "corporate/success-stories/aspose.words"

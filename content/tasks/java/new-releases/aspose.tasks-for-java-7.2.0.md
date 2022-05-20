@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Major Features
 
 We have supported WBS code fields reading and writing this rel..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   8/28/2015  Downloads: 20  Views: 317"
 file_size: "  File Size: 20.2 MB "
 parent_path: "tasks/java"

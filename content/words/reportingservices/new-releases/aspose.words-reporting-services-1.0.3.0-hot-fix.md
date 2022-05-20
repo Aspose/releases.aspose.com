@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " In this release:
 
 Added support of nested subreports (those located in table c..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 0  Views: 73"
 file_size: "  File Size: 3.4 MB "
 parent_path: "words/reportingservices"

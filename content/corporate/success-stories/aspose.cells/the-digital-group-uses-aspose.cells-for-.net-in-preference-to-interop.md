@@ -8,7 +8,7 @@ folder_name: " The Digital Group uses Aspose.Cells for .NET in preference to INT
 download_link: " /corporate/success-stories/aspose.cells/the-digital-group-uses-aspose.cells-for-.net-in-preference-to-interop/840563f4fd3445eabb28a522a6c912d6"
 download_text: " Download"
 Intro_text: " The Digital Group (T/DG) is a premier provider of information technology service..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 164  Views: 1186"
 file_size: "  File Size: 368.9 KB "
 parent_path: "corporate/success-stories/aspose.cells"

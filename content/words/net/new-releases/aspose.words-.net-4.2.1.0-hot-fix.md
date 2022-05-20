@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " This is a maintenance release. Here is what's been fixed:
 
 1539 Load image fro..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 48  Views: 362"
 file_size: "  File Size: 10.9 MB "
 parent_path: "words/net"

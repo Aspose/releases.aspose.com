@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Major Features
 
 We have implemented converting MPP to MPX format. Option to se..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   8/27/2015  Downloads: 164  Views: 312"
 file_size: "  File Size: 12.5 MB "
 parent_path: "tasks/net"

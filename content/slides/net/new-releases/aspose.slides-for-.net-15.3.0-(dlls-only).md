@@ -9,7 +9,7 @@ download_link: " /slides/net/new-releases/aspose.slides-for-.net-15.3.0-(dlls-on
 download_text: " Download"
 Intro_text: " Major Features
 There are 64 improvements and fixes in this regular monthly rele..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   4/14/2015  Downloads: 108  Views: 271"
 file_size: "  File Size: 52.9 MB "
 parent_path: "slides/net"

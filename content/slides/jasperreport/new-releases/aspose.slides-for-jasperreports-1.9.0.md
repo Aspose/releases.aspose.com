@@ -9,7 +9,7 @@ download_link: " /slides/jasperreport/new-releases/aspose.slides-for-jasperrepor
 download_text: " Download"
 Intro_text: " We like to share the new release of Aspose.Slides for Jasper
 Reports. The follo..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   5/23/2013  Downloads: 43  Views: 520"
 file_size: "  File Size: 17.7 MB "
 parent_path: "slides/jasperreport"

@@ -8,7 +8,7 @@ folder_name: " Learn how JoinandShare use Aspose.Total for the various files and
 download_link: " /corporate/success-stories/aspose.total/learn-how-joinandshare-use-aspose.total-for-the-various-files-and-formats-into-pdfs-/8e2a90d37b4b4ee5ae4040f192776b3f"
 download_text: " Download"
 Intro_text: " Our company is located in Berlin, Germany. We develop customer-specific solution..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 193  Views: 414"
 file_size: "  File Size: 424.6 KB "
 parent_path: "corporate/success-stories/aspose.total"

@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " In this hotfix:
 1) A bug in TOC is fixed. Please refer to Table of Contents;
 2..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 46"
 file_size: "  File Size: 643.5 KB "
 parent_path: "pdf/net"

@@ -8,7 +8,7 @@ folder_name: " Custom developed Microsoft Word mail-merge with Adobe ColdFusion 
 download_link: " /corporate/success-stories/aspose.words/custom-developed-microsoft-word-mail-merge-with-adobe-coldfusion-and-aspose.words-for-java/e5bdf294eb284f0296ab678d4bf90118"
 download_text: " Download"
 Intro_text: " While searching for newer, better, faster, more efficient solutions to offer our..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 287  Views: 162"
 file_size: "  File Size: 197.9 KB "
 parent_path: "corporate/success-stories/aspose.words"

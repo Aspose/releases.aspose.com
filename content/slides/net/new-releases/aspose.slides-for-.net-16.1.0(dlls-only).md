@@ -11,7 +11,7 @@ Intro_text: " Minor Changes
 
 SLIDESNET-37033 - Setting custom rotation angle for textframe
 ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   2/4/2016  Downloads: 68  Views: 194"
 file_size: "  File Size: 55.7 MB "
 parent_path: "slides/net"

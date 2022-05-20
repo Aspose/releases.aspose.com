@@ -8,7 +8,7 @@ folder_name: " Sertifi requires a fast and scalable solution that integrates wit
 download_link: " /corporate/success-stories/aspose.total/sertifi-requires-a-fast-and-scalable-solution-that-integrates-with-our-existing-codebase-with-a-minimum-of-development/94287277534342448af16fd39e52254d"
 download_text: " Download"
 Intro_text: " Sertifi is a Software as a Service provider of electronic signature solutions. W..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 60  Views: 1425"
 file_size: "  File Size: 680.5 KB "
 parent_path: "corporate/success-stories/aspose.total"

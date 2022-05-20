@@ -9,7 +9,7 @@ download_link: " /cells/net/new-releases/aspose.cells-.net-4.3.0.0-new-release/9
 download_text: " Download"
 Intro_text: " Introduction
 This release contains new features, features enhancement and bug f..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 866  Views: 1763"
 file_size: "  File Size: 10.0 MB "
 parent_path: "cells/net"

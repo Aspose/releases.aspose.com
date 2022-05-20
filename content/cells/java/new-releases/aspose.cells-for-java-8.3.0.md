@@ -15,7 +15,7 @@ Other Improvements and Changes
 Enhancements
  
 (CELLS..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   11/18/2014  Downloads: 467  Views: 1261"
 file_size: "  File Size: 43.1 MB "
 parent_path: "cells/java"

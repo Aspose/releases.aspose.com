@@ -9,7 +9,7 @@ download_link: " /barcode/java/new-releases/aspose.barcode-for-java-2.4.0/12c2e6
 download_text: " Download"
 Intro_text: " Aspose.BarCode 
 for Java v2.4.0 has been released. New features and bug fixes a..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   11/24/2010  Downloads: 161  Views: 310"
 file_size: "  File Size: 2.0 MB "
 parent_path: "barcode/java"

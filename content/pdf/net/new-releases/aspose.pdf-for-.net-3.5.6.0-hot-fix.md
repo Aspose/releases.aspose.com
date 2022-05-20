@@ -12,7 +12,7 @@ Intro_text: " 		What's New?
 			
 				3420 - Non-breaking 
 					space. Non-breaking space..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   8/3/2007  Downloads: 225  Views: 736"
 file_size: "  File Size: 4.6 MB "
 parent_path: "pdf/net"

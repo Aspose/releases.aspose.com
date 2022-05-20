@@ -9,7 +9,7 @@ download_link: " /barcode/jasperreports/new-releases/aspose.barcode-for-jasperre
 download_text: " Download"
 Intro_text: " 
 				Aspose.BarCode for JasperReports 1.6.0 has been released.New Features:BARC..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   1/3/2013  Downloads: 371  Views: 1697"
 file_size: "  File Size: 1.9 MB "
 parent_path: "barcode/jasperreports"

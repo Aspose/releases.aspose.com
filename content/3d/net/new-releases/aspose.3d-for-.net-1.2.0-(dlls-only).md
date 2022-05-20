@@ -14,7 +14,7 @@ Intro_text: "
             
 
             This ZIP file contains only the ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   12/18/2015  Downloads: 39  Views: 104"
 file_size: "  File Size: 319.0 KB "
 parent_path: "3d/net"

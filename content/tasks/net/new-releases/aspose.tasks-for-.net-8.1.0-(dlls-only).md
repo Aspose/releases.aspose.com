@@ -18,7 +18,7 @@ Intro_text: "
             
 
             ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   3/6/2015  Downloads: 44  Views: 182"
 file_size: "  File Size: 11.4 MB "
 parent_path: "tasks/net"

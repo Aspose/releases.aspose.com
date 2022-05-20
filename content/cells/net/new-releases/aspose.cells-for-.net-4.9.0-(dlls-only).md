@@ -9,7 +9,7 @@ download_link: " /cells/net/new-releases/aspose.cells-for-.net-4.9.0-(dlls-only)
 download_text: " Download"
 Intro_text: " This ZIP file contains only the Aspose.Cells for .NET assemblies. The
  assembli..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   4/12/2010  Downloads: 324  Views: 464"
 file_size: "  File Size: 11.1 MB "
 parent_path: "cells/net"

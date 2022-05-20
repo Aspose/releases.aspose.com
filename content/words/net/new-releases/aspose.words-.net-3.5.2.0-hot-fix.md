@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " New Features
 
 AddedÂ ClearFormatting method for RowFormat and CellFormat classe..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 5  Views: 100"
 file_size: "  File Size: 5.4 MB "
 parent_path: "words/net"

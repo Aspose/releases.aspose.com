@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " What's New:
 
 Aspose.Slides for JasperReports can be easily integrated with Jas..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   9/15/2010  Downloads: 26  Views: 1207"
 file_size: "  File Size: 2.1 MB "
 parent_path: "slides/jasperreport"

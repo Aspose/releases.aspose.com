@@ -8,7 +8,7 @@ folder_name: " Using Aspose.Total for .Net to implement a high performance Word 
 download_link: " /corporate/success-stories/aspose.words/using-aspose.total-for-.net-to-implement-a-high-performance-word-to-pdf-converter-without-the-need-of-microsoft-office--/fac35735d8894d54b77b41847fcab916"
 download_text: " Download"
 Intro_text: " After trying a couple of different packages, we came upon the Aspose solution. W..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 43  Views: 274"
 file_size: "  File Size: 540.2 KB "
 parent_path: "corporate/success-stories/aspose.words"

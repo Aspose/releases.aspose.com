@@ -13,7 +13,7 @@ Aspose.Cells for Android v1.1.0!
  
 
 New Features ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   10/2/2013  Downloads: 172  Views: 632"
 file_size: "  File Size: 7.7 MB "
 parent_path: "cells/androidjava"

@@ -9,7 +9,7 @@ download_link: " /pdf/java/new-releases/aspose.pdf-java-1.3.0.0-new-release/9086
 download_text: " Download"
 Intro_text: " In this release:
 1) A new class Heading is added to support heading in Pdf docu..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 12  Views: 207"
 file_size: "  File Size: 962.2 KB "
 parent_path: "pdf/java"

@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 
 New Feature: Comment Ranges are Supported in Aspose.Words for Java 4.0.2 BETA
 ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   3/4/2010  Downloads: 978  Views: 1843"
 file_size: "  File Size: 10.3 MB "
 parent_path: "words/java"

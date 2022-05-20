@@ -11,7 +11,7 @@ Intro_text: " Dear customers,
 We have released hotfix 2.3.1 for Aspose.BarCode!
 What's new?
 ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/24/2007  Downloads: 67  Views: 299"
 file_size: "  File Size: 1.0 MB "
 parent_path: "barcode/net"

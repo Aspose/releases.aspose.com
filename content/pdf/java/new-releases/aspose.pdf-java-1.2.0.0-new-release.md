@@ -9,7 +9,7 @@ download_link: " /pdf/java/new-releases/aspose.pdf-java-1.2.0.0-new-release/7f62
 download_text: " Download"
 Intro_text: " In this new release the following new features are supported:
 1)Â CMYK colorspac..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 15  Views: 254"
 file_size: "  File Size: 881.8 KB "
 parent_path: "pdf/java"

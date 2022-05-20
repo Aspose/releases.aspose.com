@@ -9,7 +9,7 @@ download_link: " /corporate/success-stories/aspose.total/case-study-about-how-ip
 download_text: " Download"
 Intro_text: " Ipsos is a global market research company that sets high
 standards for its own ..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 62  Views: 1378"
 file_size: "  File Size: 283.6 KB "
 parent_path: "corporate/success-stories/aspose.total"

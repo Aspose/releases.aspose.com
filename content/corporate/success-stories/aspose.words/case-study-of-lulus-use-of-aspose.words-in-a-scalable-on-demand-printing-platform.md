@@ -8,7 +8,7 @@ folder_name: " Case study of Lulu's use of Aspose.Words in a scalable on demand 
 download_link: " /corporate/success-stories/aspose.words/case-study-of-lulus-use-of-aspose.words-in-a-scalable-on-demand-printing-platform/7d485a25aafc4db3955ec3916d344c94"
 download_text: " Download"
 Intro_text: " Lulu helps authors, publishers, businesses, and educators publish and sell print..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 3283  Views: 1591"
 file_size: "  File Size: 2.2 MB "
 parent_path: "corporate/success-stories/aspose.words"

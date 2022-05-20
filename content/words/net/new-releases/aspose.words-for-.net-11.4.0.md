@@ -9,7 +9,7 @@ download_link: " /words/net/new-releases/aspose.words-for-.net-11.4.0/a8810a08ad
 download_text: " Download"
 Intro_text: " Aspose.Words for .NET 11.4 Release NotesWhat's new
 There are 112 improvements a..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   6/1/2012  Downloads: 682  Views: 2377"
 file_size: "  File Size: 27.0 MB "
 parent_path: "words/net"

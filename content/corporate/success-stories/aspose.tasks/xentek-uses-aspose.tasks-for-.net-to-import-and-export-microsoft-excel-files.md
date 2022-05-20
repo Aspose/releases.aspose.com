@@ -8,7 +8,7 @@ folder_name: " XenTek uses Aspose.Tasks for .NET to import and export Microsoft 
 download_link: " /corporate/success-stories/aspose.tasks/xentek-uses-aspose.tasks-for-.net-to-import-and-export-microsoft-excel-files/304a59cb859c4440add093c95c37f522"
 download_text: " Download"
 Intro_text: " XenTek is a software house who developer Plan Runner, a project management tool...."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 333  Views: 1714"
 file_size: "  File Size: 368.9 KB "
 parent_path: "corporate/success-stories/aspose.tasks"

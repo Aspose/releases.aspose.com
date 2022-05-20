@@ -9,7 +9,7 @@ download_link: " /ocr/java/new-releases/aspose.ocr-for-java-1.9.0/7d46ff28177141
 download_text: " Download"
 Intro_text: " We happily announce the release of Aspose.OCR for Java 1.9.0. Aspose.OCR
  for J..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   4/10/2014  Downloads: 1327  Views: 1094"
 file_size: "  File Size: 8.5 MB "
 parent_path: "ocr/java"

@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.4.1.0-hot-fix/e974f741e
 download_text: " Download"
 Intro_text: " Bugs fixed:
 1)                TOC printing bug and inline HTML bug. Refer to ht..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 95"
 file_size: "  File Size: 4.3 MB "
 parent_path: "pdf/net"

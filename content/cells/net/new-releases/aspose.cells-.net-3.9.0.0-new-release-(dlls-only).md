@@ -11,7 +11,7 @@ Intro_text: " Dear Customers,
 We have released Aspose.Cells for .NET v3.9!
 
 For some extern..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 3  Views: 40"
 file_size: "  File Size: 443.1 KB "
 parent_path: "cells/net"

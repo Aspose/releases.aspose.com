@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 
 Aspose.BarCode
 for .Net has been updated to version 6.0.0 and we are pleased ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   12/30/2013  Downloads: 208  Views: 657"
 file_size: "  File Size: 6.3 MB "
 parent_path: "barcode/net"

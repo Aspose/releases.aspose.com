@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.8.1.0-hot-fix/7310f1e21
 download_text: " Download"
 Intro_text: " In this hotfix:
 1) A custom positioning bug is fixed. Refer toÂ http://www.aspos..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 0  Views: 90"
 file_size: "  File Size: 3.2 MB "
 parent_path: "pdf/net"

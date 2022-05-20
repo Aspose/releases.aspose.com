@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " This release includes some minor improvements:
 
 Based on the latest Aspose.Wor..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   4/15/2009  Downloads: 65  Views: 294"
 file_size: "  File Size: 10.5 MB "
 parent_path: "words/reportingservices"

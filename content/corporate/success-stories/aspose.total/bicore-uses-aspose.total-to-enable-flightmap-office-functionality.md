@@ -8,7 +8,7 @@ folder_name: " Bicore uses Aspose.Total to enable FLIGHTMAP Office functionality
 download_link: " /corporate/success-stories/aspose.total/bicore-uses-aspose.total-to-enable-flightmap-office-functionality/ad524ba1ffab45348540e09053728a73"
 download_text: " Download"
 Intro_text: " Learn how Bicore uses Aspose.Total to make available importing Microsoft Office ..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 254  Views: 252"
 file_size: "  File Size: 450.3 KB "
 parent_path: "corporate/success-stories/aspose.total"

@@ -9,7 +9,7 @@ download_link: " /tasks/java/new-releases/aspose.tasks-for-java-8.4.0/c3f5f7cd66
 download_text: " Download"
 Intro_text: " Four bugs have been fixed this release. Please, see list of all details below.
 ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   8/28/2015  Downloads: 42  Views: 235"
 file_size: "  File Size: 20.0 MB "
 parent_path: "tasks/java"

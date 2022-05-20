@@ -11,7 +11,7 @@ Intro_text: " What's new:
 
 Perfomance improvements in both 2005 and 2008 versions.
 Installe..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   6/11/2009  Downloads: 106  Views: 480"
 file_size: "  File Size: 3.6 MB "
 parent_path: "slides/reportingservices"

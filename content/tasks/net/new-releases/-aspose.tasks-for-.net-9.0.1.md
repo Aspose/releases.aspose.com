@@ -11,7 +11,7 @@ Intro_text: " Major Features
 
 We have implemented enhancement
  which allow to read subproje..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   11/30/2015  Downloads: 74  Views: 221"
 file_size: "  File Size: 13.2 MB "
 parent_path: "tasks/net"

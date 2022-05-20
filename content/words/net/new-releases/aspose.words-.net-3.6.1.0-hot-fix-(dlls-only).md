@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " New Features
 
 List styles are fully supported during load, save and copy betwe..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 10  Views: 57"
 file_size: "  File Size: 526.1 KB "
 parent_path: "words/net"

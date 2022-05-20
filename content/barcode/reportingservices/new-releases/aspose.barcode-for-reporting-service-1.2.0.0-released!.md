@@ -9,7 +9,7 @@ download_link: " /barcode/reportingservices/new-releases/aspose.barcode-for-repo
 download_text: " Download"
 Intro_text: " Dear customers,
    We've released Aspose.BarCode for Reporting Services 1.2.0.0..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   11/14/2007  Downloads: 81  Views: 630"
 file_size: "  File Size: 2.2 MB "
 parent_path: "barcode/reportingservices"

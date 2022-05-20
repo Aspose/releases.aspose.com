@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Major Features
 
 We have suported major feature - reading project data from Pri..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   8/28/2015  Downloads: 47  Views: 259"
 file_size: "  File Size: 20.1 MB "
 parent_path: "tasks/java"

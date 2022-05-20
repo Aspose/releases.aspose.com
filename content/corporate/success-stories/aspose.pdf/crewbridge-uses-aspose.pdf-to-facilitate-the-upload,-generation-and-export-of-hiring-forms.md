@@ -8,7 +8,7 @@ folder_name: " CrewBridge uses Aspose.PDF to facilitate the upload, generation a
 download_link: " /corporate/success-stories/aspose.pdf/crewbridge-uses-aspose.pdf-to-facilitate-the-upload,-generation-and-export-of-hiring-forms/57f6fd3e1c21469bad1283482f661ba5"
 download_text: " Download"
 Intro_text: " CrewBridge build software to make the onboarding of the freelance workforce of f..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 227  Views: 611"
 file_size: "  File Size: 311.3 KB "
 parent_path: "corporate/success-stories/aspose.pdf"

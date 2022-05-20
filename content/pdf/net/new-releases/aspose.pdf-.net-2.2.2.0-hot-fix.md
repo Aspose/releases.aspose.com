@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.2.2.0-hot-fix/30939c8c0
 download_text: " Download"
 Intro_text: " 			In this hotfix, a bug about nested table is fixed. Please refer to 
 					Spl..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 0  Views: 104"
 file_size: "  File Size: 2.5 MB "
 parent_path: "pdf/net"

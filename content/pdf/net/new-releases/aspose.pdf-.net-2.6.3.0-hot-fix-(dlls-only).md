@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " In this hot fix:
 1) License code is updated to avoid crypto error.
 2) PNG imag..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 34"
 file_size: "  File Size: 646.5 KB "
 parent_path: "pdf/net"

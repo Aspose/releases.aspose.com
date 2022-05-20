@@ -9,7 +9,7 @@ download_link: " /cells/java/new-releases/aspose.cells-for-java-7.6.0/381c6c8630
 download_text: " Download"
 Intro_text: " We are happy to announce Aspose.Cells for Java
 v7.6.0! New Features 40625 - Sav..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   10/15/2013  Downloads: 617  Views: 1127"
 file_size: "  File Size: 67.1 MB "
 parent_path: "cells/java"

@@ -9,7 +9,7 @@ download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-1.
 download_text: " Download"
 Intro_text: " We like to share the announcement of the new release of
 Aspose.Slides for Share..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   8/24/2012  Downloads: 78  Views: 789"
 file_size: "  File Size: 2.6 MB "
 parent_path: "slides/sharepoint"

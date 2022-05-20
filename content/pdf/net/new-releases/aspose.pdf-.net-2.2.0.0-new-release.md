@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.2.0.0-new-release/8f048
 download_text: " Download"
 Intro_text: " 		Aspose.Pdf version 2.2.0.0 includes all the features provided in Hotfix 
 			2..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 124"
 file_size: "  File Size: 2.4 MB "
 parent_path: "pdf/net"

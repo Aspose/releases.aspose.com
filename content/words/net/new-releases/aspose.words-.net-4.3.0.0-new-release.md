@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " What's New
 
 64-bit Windows operating systems are fully supported. Fully tested..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 242  Views: 1199"
 file_size: "  File Size: 15.6 MB "
 parent_path: "words/net"

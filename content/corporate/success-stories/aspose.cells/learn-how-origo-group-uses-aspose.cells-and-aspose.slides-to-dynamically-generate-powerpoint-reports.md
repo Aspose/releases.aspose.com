@@ -8,7 +8,7 @@ folder_name: " Learn how Origo Group uses Aspose.Cells and Aspose.Slides to dyna
 download_link: " /corporate/success-stories/aspose.cells/learn-how-origo-group-uses-aspose.cells-and-aspose.slides-to-dynamically-generate-powerpoint-reports/9ad3b5388225407cbfc458913958504b"
 download_text: " Download"
 Intro_text: " Learn how Origo Group uses Aspose.Cells and Aspose.Slides to dynamically generat..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 125  Views: 107"
 file_size: "  File Size: 354.7 KB "
 parent_path: "corporate/success-stories/aspose.cells"

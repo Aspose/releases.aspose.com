@@ -9,7 +9,7 @@ download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-se
 download_text: " Download"
 Intro_text: " Introduction
 In this release, some new features of custom embedded font, line a..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   9/12/2008  Downloads: 99  Views: 807"
 file_size: "  File Size: 3.3 MB "
 parent_path: "pdf/reportingservices"

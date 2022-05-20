@@ -11,7 +11,7 @@ Intro_text: " Here is a good set of new fixes, mostly in the HTML and PDF export
 
 
 ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/2/2008  Downloads: 1011  Views: 2550"
 file_size: "  File Size: 15.7 MB "
 parent_path: "words/net"

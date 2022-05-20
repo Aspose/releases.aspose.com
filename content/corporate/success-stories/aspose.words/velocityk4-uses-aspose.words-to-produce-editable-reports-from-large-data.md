@@ -8,7 +8,7 @@ folder_name: " VelocityK4 uses Aspose.Words to produce editable reports from lar
 download_link: " /corporate/success-stories/aspose.words/velocityk4-uses-aspose.words-to-produce-editable-reports-from-large-data/5ed8d530c8574cb8ad77750008e703a1"
 download_text: " Download"
 Intro_text: " It contains VelocityK4 uses Aspose.Words to produce editable reports from large data release."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 265  Views: 500"
 file_size: "  File Size: 251.2 KB "
 parent_path: "corporate/success-stories/aspose.words"

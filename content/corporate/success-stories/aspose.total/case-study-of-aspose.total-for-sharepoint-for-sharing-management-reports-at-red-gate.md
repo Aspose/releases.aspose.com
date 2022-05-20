@@ -8,7 +8,7 @@ folder_name: " Case study of Aspose.Total for SharePoint for sharing management 
 download_link: " /corporate/success-stories/aspose.total/case-study-of-aspose.total-for-sharepoint-for-sharing-management-reports-at-red-gate/50ee12307e894475893aa822e8f7f2f2"
 download_text: " Download"
 Intro_text: " Red Gate needed a simple solution for sharing management reports in a portable f..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 3023  Views: 15891"
 file_size: "  File Size: 1.5 MB "
 parent_path: "corporate/success-stories/aspose.total"

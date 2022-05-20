@@ -9,7 +9,7 @@ download_link: " /email/net/new-releases/aspose.email-for-.net-2.1.0/f21a2b59ed1
 download_text: " Download"
 Intro_text: " We are happy to announce Aspose.Email for .NET v2.1.0! This
 month's release con..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   8/28/2012  Downloads: 108  Views: 955"
 file_size: "  File Size: 11.6 MB "
 parent_path: "email/net"

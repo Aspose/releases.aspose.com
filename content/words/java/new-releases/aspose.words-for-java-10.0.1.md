@@ -18,7 +18,7 @@ Intro_text: " This hotfix addresses the following issues:
 
 Issue ID
 Type Desc..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   5/6/2011  Downloads: 382  Views: 699"
 file_size: "  File Size: 26.0 MB "
 parent_path: "words/java"

@@ -9,7 +9,7 @@ download_link: " /tasks/java/new-releases/aspose.tasks-for-java-6.3.0/ad97ba1cec
 download_text: " Download"
 Intro_text: " Aspose.Tasks for Java has been updated to version 6.3.0 and we are 
 pleased to ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   2/6/2014  Downloads: 74  Views: 225"
 file_size: "  File Size: 9.2 MB "
 parent_path: "tasks/java"

@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.9.2.0-hot-fix/d115312de
 download_text: " Download"
 Intro_text: " In this hotfix:
 1) Memory image for all image type is supported. A new property..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 5  Views: 118"
 file_size: "  File Size: 3.2 MB "
 parent_path: "pdf/net"

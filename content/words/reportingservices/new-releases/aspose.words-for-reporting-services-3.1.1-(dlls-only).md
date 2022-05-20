@@ -11,7 +11,7 @@ Intro_text: " This is a maintenance release containing two important bugfixes.
 What's new:
 
 ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/13/2009  Downloads: 67  Views: 336"
 file_size: "  File Size: 10.3 MB "
 parent_path: "words/reportingservices"

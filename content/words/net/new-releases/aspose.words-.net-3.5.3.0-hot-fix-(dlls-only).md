@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " New Features
 
 AddedÂ the Document.AttachedTemplate property that allows to get/..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 0  Views: 63"
 file_size: "  File Size: 500.6 KB "
 parent_path: "words/net"

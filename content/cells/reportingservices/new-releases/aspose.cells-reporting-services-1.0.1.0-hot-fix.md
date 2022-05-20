@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Introduction
  
 Aspose.Cells for Reporting Service v1.0.1 includes feature  enh..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 90  Views: 1092"
 file_size: "  File Size: 1.1 MB "
 parent_path: "cells/reportingservices"

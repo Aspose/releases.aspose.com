@@ -9,7 +9,7 @@ download_link: " /slides/reportingservices/new-releases/aspose.slides-for-report
 download_text: " Download"
 Intro_text: " Fixed:
 Couldn't find and automatically use Aspose.Total for Reporting Services ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   2/7/2008  Downloads: 94  Views: 543"
 file_size: "  File Size: 2.9 MB "
 parent_path: "slides/reportingservices"

@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 
 
 This is an unusual release. Most releases of Aspose.Words for Java are fixes..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   2/28/2008  Downloads: 409  Views: 1831"
 file_size: "  File Size: 7.1 MB "
 parent_path: "words/java"

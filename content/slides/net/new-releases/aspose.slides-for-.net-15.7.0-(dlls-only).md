@@ -11,7 +11,7 @@ Intro_text: " Minor Changes
 
 SLIDESNET-36588 - Exporting slides to Graphics Object
 SLIDESNE..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   9/3/2015  Downloads: 140  Views: 263"
 file_size: "  File Size: 55.6 MB "
 parent_path: "slides/net"

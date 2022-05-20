@@ -9,7 +9,7 @@ download_link: " /words/reportingservices/new-releases/aspose.words-for-reportin
 download_text: " Download"
 Intro_text: " This is a maintenance release containing a number of important updates.
 What's ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   5/4/2009  Downloads: 70  Views: 215"
 file_size: "  File Size: 10.1 MB "
 parent_path: "words/reportingservices"

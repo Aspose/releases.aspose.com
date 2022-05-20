@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.2.1.0-hot-fix/a93926b10
 download_text: " Download"
 Intro_text: " In this hotfix:
 1) 64-bit windows problem is fixed. Refer to http://www.aspose...."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 7  Views: 103"
 file_size: "  File Size: 3.8 MB "
 parent_path: "pdf/net"

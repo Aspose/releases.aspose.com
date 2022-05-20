@@ -9,7 +9,7 @@ download_link: " /corporate/success-stories/aspose.slides/stratascope-uses-aspos
 download_text: " Download"
 Intro_text: " 
 Stratascope enables sales and marketing professionals with the most powerful i..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 238  Views: 1767"
 file_size: "  File Size: 597.8 KB "
 parent_path: "corporate/success-stories/aspose.slides"

@@ -8,7 +8,7 @@ folder_name: " SWpro usese Aspose.Total for .NET in SWdocs, their automated onli
 download_link: " /corporate/success-stories/aspose.total/swpro-usese-aspose.total-for-.net-in-swdocs,-their-automated-online-document-system/9b9aa483bc6a4c1287ccf48ffc08c340"
 download_text: " Download"
 Intro_text: " SWpro is a software development company situated in Curitiba, Brazil. Its focus ..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 18  Views: 591"
 file_size: "  File Size: 81.7 KB "
 parent_path: "corporate/success-stories/aspose.total"

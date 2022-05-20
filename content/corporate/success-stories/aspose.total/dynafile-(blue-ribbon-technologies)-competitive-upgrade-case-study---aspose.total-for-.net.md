@@ -8,7 +8,7 @@ folder_name: " DynaFile (Blue Ribbon Technologies) Competitive Upgrade Case Stud
 download_link: " /corporate/success-stories/aspose.total/dynafile-(blue-ribbon-technologies)-competitive-upgrade-case-study---aspose.total-for-.net/bd5950bb0bd34ca08a72d987a2151609"
 download_text: " Download"
 Intro_text: " Blue Ribbon Technologies upgraded their SaaS based document management applicati..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 14  Views: 272"
 file_size: "  File Size: 493.6 KB "
 parent_path: "corporate/success-stories/aspose.total"

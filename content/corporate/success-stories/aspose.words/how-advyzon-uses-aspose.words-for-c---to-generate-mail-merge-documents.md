@@ -8,7 +8,7 @@ folder_name: " How Advyzon uses Aspose.Words for C++ to generate mail merge docu
 download_link: " /corporate/success-stories/aspose.words/how-advyzon-uses-aspose.words-for-c---to-generate-mail-merge-documents/8e2df07c9dd640fd81affa4807d1e70f"
 download_text: " Download"
 Intro_text: " Advisors from Advyzon need to use mail merge capabilities to mail the reports an..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 0  Views: 1"
 file_size: "  File Size: 140.4 KB "
 parent_path: "corporate/success-stories/aspose.words"

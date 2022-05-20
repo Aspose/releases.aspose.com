@@ -8,7 +8,7 @@ folder_name: " LIBUSOFT CICOM uses Aspose.Words for Java to convert Wrod documen
 download_link: " /corporate/success-stories/aspose.words/libusoft-cicom-uses-aspose.words-for-java-to-convert-wrod-documents-to-pdf/712a6698ee244652b43f69470bc545b9"
 download_text: " Download"
 Intro_text: " LIBUSOFT CICOM develops SPI, a business information system. For the email compon..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 300  Views: 1965"
 file_size: "  File Size: 287.9 KB "
 parent_path: "corporate/success-stories/aspose.words"

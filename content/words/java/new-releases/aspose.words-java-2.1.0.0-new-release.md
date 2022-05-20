@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " This release of Aspose.Words for Java features:
 
 HTML export (fully matches HT..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 39  Views: 427"
 file_size: "  File Size: 4.3 MB "
 parent_path: "words/java"

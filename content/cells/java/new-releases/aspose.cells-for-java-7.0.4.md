@@ -13,7 +13,7 @@ v7.0.4 for the users!
  
 
 Ge..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   12/20/2011  Downloads: 254  Views: 791"
 file_size: "  File Size: 66.8 MB "
 parent_path: "cells/java"

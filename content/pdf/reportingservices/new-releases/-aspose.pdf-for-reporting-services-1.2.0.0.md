@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 		Introduction
 		
 			In this release, report parameter is supported. Customers..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   3/19/2008  Downloads: 61  Views: 680"
 file_size: "  File Size: 3.6 MB "
 parent_path: "pdf/reportingservices"

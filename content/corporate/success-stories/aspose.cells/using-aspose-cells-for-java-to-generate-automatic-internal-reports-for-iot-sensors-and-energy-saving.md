@@ -8,7 +8,7 @@ folder_name: " Using Aspose Cells for Java to generate automatic internal report
 download_link: " /corporate/success-stories/aspose.cells/using-aspose-cells-for-java-to-generate-automatic-internal-reports-for-iot-sensors-and-energy-saving/f8954b6e0fb24975af2626aaf7ec7b27"
 download_text: " Download"
 Intro_text: " Advizeo needed a product which could take an Excel file as an input, Allow inser..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 161  Views: 319"
 file_size: "  File Size: 584.6 KB "
 parent_path: "corporate/success-stories/aspose.cells"

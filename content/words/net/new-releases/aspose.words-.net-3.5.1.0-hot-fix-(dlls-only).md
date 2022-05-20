@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " New Features
 
 Added public classes to create/modify tab stops and tab leaders...."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 7  Views: 65"
 file_size: "  File Size: 446.1 KB "
 parent_path: "words/net"

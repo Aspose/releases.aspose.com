@@ -9,7 +9,7 @@ download_link: " /slides/net/new-releases/aspose.slides-for-.net-2.8.3.0-hot-fix
 download_text: " Download"
 Intro_text: " What's New:
 Implemented rendering of headers, footers, slide numbers and etc. o..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   3/26/2008  Downloads: 67  Views: 988"
 file_size: "  File Size: 5.2 MB "
 parent_path: "slides/net"

@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Dear Customers,
 We have released Aspose.Cells for Java V1.8.2!
 Following enhan..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 87  Views: 625"
 file_size: "  File Size: 10.7 MB "
 parent_path: "cells/java"

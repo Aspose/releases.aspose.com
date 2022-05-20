@@ -9,7 +9,7 @@ download_link: " /slides/reportingservices/new-releases/aspose.slides-for-report
 download_text: " Download"
 Intro_text: " What's New:
 Implemented export of Hyperlink actions. By RDL specifications, hyp..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   4/2/2008  Downloads: 199  Views: 1297"
 file_size: "  File Size: 2.9 MB "
 parent_path: "slides/reportingservices"

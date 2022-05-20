@@ -8,7 +8,7 @@ folder_name: " Using Aspose.Cells to add economic modelling capability to its ga
 download_link: " /corporate/success-stories/aspose.cells/using-aspose.cells-to-add-economic-modelling-capability-to-its-gas-forecasting-application/ebbc9a32b26944a9b39cc759c09b77d3"
 download_text: " Download"
 Intro_text: " Gas production can be constrained and hydrocarbon liquids optimised based on mul..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 160  Views: 0"
 file_size: "  File Size: 258.6 KB "
 parent_path: "corporate/success-stories/aspose.cells"

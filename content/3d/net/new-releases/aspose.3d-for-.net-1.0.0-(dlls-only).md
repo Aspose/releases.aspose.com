@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 
 
             This ZIP file contains only the Aspose.3D for .NET assemblies. T..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   10/26/2015  Downloads: 27  Views: 81"
 file_size: "  File Size: 288.2 KB "
 parent_path: "3d/net"

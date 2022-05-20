@@ -11,7 +11,7 @@ Intro_text: " Dear Customers,
 We have released Aspose.Cells for Java V1.9.5!
 *What's New?
 ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/1/2008  Downloads: 364  Views: 1222"
 file_size: "  File Size: 11.8 MB "
 parent_path: "cells/java"

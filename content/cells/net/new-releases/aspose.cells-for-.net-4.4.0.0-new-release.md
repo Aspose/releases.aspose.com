@@ -14,7 +14,7 @@ Intro_text: "
 
 What's New?
 3208 - Allows to delete defined names from template files..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   10/11/2007  Downloads: 2606  Views: 4034"
 file_size: "  File Size: 10.3 MB "
 parent_path: "cells/net"

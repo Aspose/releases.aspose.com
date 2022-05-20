@@ -9,7 +9,7 @@ download_link: " /corporate/success-stories/aspose.pdf/white-rabbit-japan-uses-a
 download_text: " Download"
 Intro_text: " White Rabbit Express is a Tokyo-based
 proxy buying service. They've helped tens..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 210  Views: 853"
 file_size: "  File Size: 388.2 KB "
 parent_path: "corporate/success-stories/aspose.pdf"

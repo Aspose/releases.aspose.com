@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " What's New? 
 
 3281 - Importing data from ASP.NET control DataGrid. A new mothe..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 78  Views: 554"
 file_size: "  File Size: 4.6 MB "
 parent_path: "pdf/net"

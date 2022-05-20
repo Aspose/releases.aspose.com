@@ -8,7 +8,7 @@ folder_name: " Using Aspose Words for .NET to generate contract documents for we
 download_link: " /corporate/success-stories/aspose.words/using-aspose-words-for-.net-to-generate-contract-documents-for-web-delivery/184d4d8cc56a406fa04e9eac268e4328"
 download_text: " Download"
 Intro_text: " Given the nature of our business, the contracts which underpin each consumer tra..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 49  Views: 287"
 file_size: "  File Size: 345.3 KB "
 parent_path: "corporate/success-stories/aspose.words"

@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 		Introduction
 		In this release, XML meta data is supported when creating 
 		..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   9/10/2007  Downloads: 1029  Views: 1428"
 file_size: "  File Size: 4.7 MB "
 parent_path: "pdf/net"

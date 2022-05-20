@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 
 Introduction
 We are glad to announce another release version of Aspose.Pdf fo..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   3/17/2011  Downloads: 41  Views: 235"
 file_size: "  File Size: 18.2 MB "
 parent_path: "pdf/reportingservices"

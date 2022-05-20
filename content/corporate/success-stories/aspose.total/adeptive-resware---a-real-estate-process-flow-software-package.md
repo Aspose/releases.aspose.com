@@ -11,7 +11,7 @@ Intro_text: "
 Company: Adeptive
 Industry: Real Estate
 Solution: Adeptive's leading product..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 92  Views: 988"
 file_size: "  File Size: 87.6 KB "
 parent_path: "corporate/success-stories/aspose.total"

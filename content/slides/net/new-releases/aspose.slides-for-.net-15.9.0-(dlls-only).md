@@ -11,7 +11,7 @@ Intro_text: " Other Improvements and changes
 Bug Fixes
 
 SLIDESNET-36905 - Incorrect color v..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   11/6/2015  Downloads: 125  Views: 315"
 file_size: "  File Size: 55.6 MB "
 parent_path: "slides/net"

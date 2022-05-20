@@ -11,7 +11,7 @@ Intro_text: " Fixed:
 
 5717 - Image warped on cloned slide.
 5775 - Bullets appearing after c..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   9/15/2010  Downloads: 67  Views: 654"
 file_size: "  File Size: 2.9 MB "
 parent_path: "slides/java"

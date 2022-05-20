@@ -11,7 +11,7 @@ Intro_text: " Dear Customers,
  We have just released Aspose.Grid v1.9.2!
 Introduction
 This ..."
-image_link: " https://downloads.aspose.com/resources/img/random-file-icon.png"
+image_link: "/resources/img/random-file-icon.png"
 download_count: "   7/25/2007  Downloads: 275  Views: 1027"
 file_size: "  File Size: 8.7 MB "
 parent_path: "cells/net"

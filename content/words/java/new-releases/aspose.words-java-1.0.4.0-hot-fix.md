@@ -11,7 +11,7 @@ Intro_text: " Just two fixes in this release:
 
 Digital signature for VBA projects is lost.
 ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 7  Views: 182"
 file_size: "  File Size: 2.4 MB "
 parent_path: "words/java"

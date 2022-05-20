@@ -11,7 +11,7 @@ Intro_text: " This is a maintenance release.
 What's new
 
 MSI installer now automatically ad..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   10/9/2007  Downloads: 65  Views: 428"
 file_size: "  File Size: 5.5 MB "
 parent_path: "words/reportingservices"

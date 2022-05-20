@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-for-.net-4.6.0/b0d1f80813274fb
 download_text: " Download"
 Intro_text: " Introduction
 We're proud to announce the release of another breakthrough versio..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   8/19/2010  Downloads: 369  Views: 944"
 file_size: "  File Size: 26.2 MB "
 parent_path: "pdf/net"

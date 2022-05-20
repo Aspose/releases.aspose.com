@@ -8,7 +8,7 @@ folder_name: " Abraxas Medical Solutions use Aspose.PDF for .NET create PDFs dyn
 download_link: " /corporate/success-stories/aspose.pdf/abraxas-medical-solutions-use-aspose.pdf-for-.net-create-pdfs-dynamically-for-a-fax-application/3f34c3db9c4a43149d7ddedd3d4b91ee"
 download_text: " Download"
 Intro_text: " Abraxas Medical Solutions used Aspose.Pdf for .NET in their product to give the ..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 405  Views: 2995"
 file_size: "  File Size: 235.8 KB "
 parent_path: "corporate/success-stories/aspose.pdf"

@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " What's New:
 Support for bidirectional writing. PowerPoint presentations can
 ha..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   3/5/2008  Downloads: 91  Views: 647"
 file_size: "  File Size: 5.2 MB "
 parent_path: "slides/net"

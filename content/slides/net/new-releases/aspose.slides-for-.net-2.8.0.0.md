@@ -9,7 +9,7 @@ download_link: " /slides/net/new-releases/aspose.slides-for-.net-2.8.0.0/3fefc01
 download_text: " Download"
 Intro_text: " What's New:
 Beta version of PowerPoint 2007 PPTX format support. Functionality ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   2/15/2008  Downloads: 161  Views: 405"
 file_size: "  File Size: 5.1 MB "
 parent_path: "slides/net"

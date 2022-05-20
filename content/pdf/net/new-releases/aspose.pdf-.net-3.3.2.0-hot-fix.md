@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.3.2.0-hot-fix/cdbcb51dc
 download_text: " Download"
 Intro_text: " In this hotfix:
 1) TOC support in improved. Please refet to http://www.aspose.c..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 8  Views: 79"
 file_size: "  File Size: 4.2 MB "
 parent_path: "pdf/net"

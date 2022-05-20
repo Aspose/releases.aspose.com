@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-for-.net-5.3.0/b3c6483a5f7b4bf
 download_text: " Download"
 Intro_text: " Introduction
 We are pleased to announce the release of another version of Aspos..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   5/31/2011  Downloads: 236  Views: 752"
 file_size: "  File Size: 19.1 MB "
 parent_path: "pdf/net"

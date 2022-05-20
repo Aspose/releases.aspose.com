@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " In this hotfix,
 1) AÂ  auto image scaling bugÂ is fixed.
 2) A cener alignment bu..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 3  Views: 25"
 file_size: "  File Size: 689.0 KB "
 parent_path: "pdf/net"

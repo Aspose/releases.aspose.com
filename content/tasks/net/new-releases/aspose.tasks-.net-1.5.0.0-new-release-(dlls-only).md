@@ -12,7 +12,7 @@ Intro_text: " Dear Customers,
 We have release Aspose.Tasks 1.5!
 
 Aspose.Tasks is a Proje..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 5  Views: 328"
 file_size: "  File Size: 245.1 KB "
 parent_path: "tasks/net"

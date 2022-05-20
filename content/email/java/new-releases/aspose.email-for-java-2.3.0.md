@@ -9,7 +9,7 @@ download_link: " /email/java/new-releases/aspose.email-for-java-2.3.0/88c6e28329
 download_text: " Download"
 Intro_text: " We are pleased to announce the release of Aspose.Email
 for Java 2.3.0. This mon..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   10/31/2012  Downloads: 116  Views: 285"
 file_size: "  File Size: 6.1 MB "
 parent_path: "email/java"

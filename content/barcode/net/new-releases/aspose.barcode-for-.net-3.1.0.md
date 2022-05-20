@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Aspose.BarCode for .NET v3.1.0 has been released.New Features
 
  Supports gener..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   12/17/2009  Downloads: 111  Views: 394"
 file_size: "  File Size: 12.2 MB "
 parent_path: "barcode/net"

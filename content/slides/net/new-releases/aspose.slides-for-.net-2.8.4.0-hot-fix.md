@@ -9,7 +9,7 @@ download_link: " /slides/net/new-releases/aspose.slides-for-.net-2.8.4.0-hot-fix
 download_text: " Download"
 Intro_text: " What's New:
 Implemented slides cloning inside one presentation for pptx format...."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   4/4/2008  Downloads: 303  Views: 1239"
 file_size: "  File Size: 5.2 MB "
 parent_path: "slides/net"

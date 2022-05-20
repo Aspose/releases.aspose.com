@@ -13,7 +13,7 @@ What's New:
  
   
    ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   8/15/2009  Downloads: 49  Views: 375"
 file_size: "  File Size: 1.5 MB "
 parent_path: "tasks/net"

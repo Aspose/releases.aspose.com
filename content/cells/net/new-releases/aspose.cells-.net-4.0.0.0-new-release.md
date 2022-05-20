@@ -11,7 +11,7 @@ Intro_text: " Dear Customers,
 We have released Aspose.Cells for .NET V4.0!
 
 Class name chan..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 4  Views: 111"
 file_size: "  File Size: 3.8 MB "
 parent_path: "cells/net"

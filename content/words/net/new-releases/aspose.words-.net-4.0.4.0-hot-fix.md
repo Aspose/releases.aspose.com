@@ -9,7 +9,7 @@ download_link: " /words/net/new-releases/aspose.words-.net-4.0.4.0-hot-fix/f5257
 download_text: " Download"
 Intro_text: " Last release in 2006 here! Includes some useful new features and fixes.
 New Fea..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 8  Views: 136"
 file_size: "  File Size: 7.4 MB "
 parent_path: "words/net"

@@ -8,7 +8,7 @@ folder_name: " Fermator Group Uses Aspose.Total to build reports, spreadsheets a
 download_link: " /corporate/success-stories/aspose.total/fermator-group-uses-aspose.total-to-build-reports,-spreadsheets-and-labels/d8c44c40c42f4938b7f05ef103bde1c8"
 download_text: " Download"
 Intro_text: " Fermator is a large manufacurer of automatic doors for lifts and used Aspose.Tot..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 205  Views: 655"
 file_size: "  File Size: 367.6 KB "
 parent_path: "corporate/success-stories/aspose.total"

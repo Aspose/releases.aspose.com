@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " 			In this hotfix:
 			1) A bold font format bing ignored bug is fixed.
 			2) A..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 1  Views: 97"
 file_size: "  File Size: 2.5 MB "
 parent_path: "pdf/net"

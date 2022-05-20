@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " This release is essentially the same as previous with only two changes:
 
 We ha..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   11/15/2010  Downloads: 1504  Views: 2355"
 file_size: "  File Size: 10.4 MB "
 parent_path: "words/java"

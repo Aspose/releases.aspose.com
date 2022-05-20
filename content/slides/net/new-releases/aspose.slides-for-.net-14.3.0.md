@@ -9,7 +9,7 @@ download_link: " /slides/net/new-releases/aspose.slides-for-.net-14.3.0/7dbff3e5
 download_text: " Download"
 Intro_text: " Aspose.Slides for .NET 14.3.0 Release Notes
 We are pleased to announce the rele..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   5/6/2014  Downloads: 305  Views: 477"
 file_size: "  File Size: 37.8 MB "
 parent_path: "slides/net"

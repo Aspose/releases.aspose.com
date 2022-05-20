@@ -8,7 +8,7 @@ folder_name: " Keil IT uses Aspose.BarCode and Aspose.PDF for their BarcodeOCR s
 download_link: " /corporate/success-stories/aspose.pdf/keil-it-uses-aspose.barcode-and-aspose.pdf-for-their-barcodeocr-software/267b90276ccb485fbd80a5bf24af57ec"
 download_text: " Download"
 Intro_text: " BarcodeOCR automatically recognises barcodes in documents and images and helps c..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 175  Views: 590"
 file_size: "  File Size: 219.7 KB "
 parent_path: "corporate/success-stories/aspose.pdf"

@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " In this hotfix:
 1) A bug about tab stop position underline is fixed.
 2) A bug ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 3  Views: 5"
 file_size: "  File Size: 498.1 KB "
 parent_path: "pdf/net"

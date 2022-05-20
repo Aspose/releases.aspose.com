@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Major Features
 
 We have implemented converting MPP to MPX format. Option to se..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   8/28/2015  Downloads: 51  Views: 292"
 file_size: "  File Size: 21.6 MB "
 parent_path: "tasks/java"

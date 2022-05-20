@@ -8,7 +8,7 @@ folder_name: " iWriteReadRate uses Aspose.Words to convert submitted works to eP
 download_link: " /corporate/success-stories/aspose.words/iwritereadrate-uses-aspose.words-to-convert-submitted-works-to-epub/0791edb4f3954e848bc875cf1d3ff22a"
 download_text: " Download"
 Intro_text: " iWriteReadRate.com is a new website for writers and readers of literature in all..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 67  Views: 1313"
 file_size: "  File Size: 316.3 KB "
 parent_path: "corporate/success-stories/aspose.words"

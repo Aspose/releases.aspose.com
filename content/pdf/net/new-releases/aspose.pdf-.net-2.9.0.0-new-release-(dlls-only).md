@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.9.0.0-new-release-(dlls
 download_text: " Download"
 Intro_text: " In this release:
 New features supported:1) Justification for multi-segment text..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 20  Views: 22"
 file_size: "  File Size: 669.8 KB "
 parent_path: "pdf/net"

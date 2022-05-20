@@ -9,7 +9,7 @@ download_link: " /slides/net/new-releases/aspose.slides-for-.net-2.7.6.0-hot-fix
 download_text: " Download"
 Intro_text: " What's New:
 4094 - Possibility to detect if a presentation has VBA macros. See ..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   12/4/2007  Downloads: 47  Views: 219"
 file_size: "  File Size: 2.6 MB "
 parent_path: "slides/net"

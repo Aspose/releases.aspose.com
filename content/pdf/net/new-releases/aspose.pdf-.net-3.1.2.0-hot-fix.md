@@ -9,7 +9,7 @@ download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.1.2.0-hot-fix/ed3daae01
 download_text: " Download"
 Intro_text: " In this hotfix:
 1) HTML2PDF is improved. Refer to http://www.aspose.com/Communi..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 3  Views: 111"
 file_size: "  File Size: 3.3 MB "
 parent_path: "pdf/net"

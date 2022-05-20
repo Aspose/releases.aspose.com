@@ -12,7 +12,7 @@ Intro_text: " 		What's Fixed?
 			
 				3279 - set 
 					page-transition and page duratio..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   9/5/2007  Downloads: 199  Views: 903"
 file_size: "  File Size: 2.1 MB "
 parent_path: "pdf/java"

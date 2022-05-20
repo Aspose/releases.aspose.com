@@ -11,7 +11,7 @@ Intro_text: " Introduction
 
 
 Aspose.Cells for Reporting Services allows you to deliver nati..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 52  Views: 726"
 file_size: "  File Size: 754.9 KB "
 parent_path: "cells/reportingservices"

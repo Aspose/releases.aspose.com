@@ -9,7 +9,7 @@ download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-se
 download_text: " Download"
 Intro_text: " Introduction
 We are ecstatic to publicize the release of another version of Asp..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   9/7/2010  Downloads: 78  Views: 341"
 file_size: "  File Size: 12.0 MB "
 parent_path: "pdf/reportingservices"

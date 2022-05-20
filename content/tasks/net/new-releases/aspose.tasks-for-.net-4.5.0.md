@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " We
 happily announce the release of Aspose.Tasks for .NET 4.5.0. This release
 i..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/31/2012  Downloads: 43  Views: 446"
 file_size: "  File Size: 5.1 MB "
 parent_path: "tasks/net"

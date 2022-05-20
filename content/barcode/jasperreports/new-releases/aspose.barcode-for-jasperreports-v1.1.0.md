@@ -9,7 +9,7 @@ download_link: " /barcode/jasperreports/new-releases/aspose.barcode-for-jasperre
 download_text: " Download"
 Intro_text: " Aspose.BarCode for JasperReports
 provides a unique and robust solution to make ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   1/23/2010  Downloads: 25  Views: 585"
 file_size: "  File Size: 986.6 KB "
 parent_path: "barcode/jasperreports"

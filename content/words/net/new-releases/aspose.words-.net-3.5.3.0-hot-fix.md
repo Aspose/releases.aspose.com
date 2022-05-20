@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " New Features
 
 AddedÂ the Document.AttachedTemplate property that allows to get/..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 20  Views: 70"
 file_size: "  File Size: 5.4 MB "
 parent_path: "words/net"

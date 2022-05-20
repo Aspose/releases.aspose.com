@@ -9,7 +9,7 @@ download_link: " /slides/reportingservices/new-releases/aspose.slides-for-report
 download_text: " Download"
 Intro_text: " Fixed:
 Headers and footers with text fields with CanGrow property set to True w..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   11/18/2007  Downloads: 22  Views: 326"
 file_size: "  File Size: 2.9 MB "
 parent_path: "slides/reportingservices"

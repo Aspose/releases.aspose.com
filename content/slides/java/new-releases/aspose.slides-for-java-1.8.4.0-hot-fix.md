@@ -9,7 +9,7 @@ download_link: " /slides/java/new-releases/aspose.slides-for-java-1.8.4.0-hot-fi
 download_text: " Download"
 Intro_text: " What's New:
 Deleted Slide.setLayout() method because Aspose.Slides doesn't supp..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   5/2/2008  Downloads: 124  Views: 808"
 file_size: "  File Size: 2.1 MB "
 parent_path: "slides/java"

@@ -9,7 +9,7 @@ download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-se
 download_text: " Download"
 Intro_text: " Introduction
 In this release, some new features of inline HTML and bookmarks ar..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   10/26/2008  Downloads: 50  Views: 1013"
 file_size: "  File Size: 3.2 MB "
 parent_path: "pdf/reportingservices"

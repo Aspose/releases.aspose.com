@@ -12,7 +12,7 @@ Intro_text: " In this fix:
 1) A bug about text border is fixed.
 
 2) A text missing bug is..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 1  Views: 155"
 file_size: "  File Size: 2.4 MB "
 parent_path: "pdf/net"

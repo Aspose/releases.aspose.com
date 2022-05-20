@@ -12,7 +12,7 @@ Intro_text: " Dear Customers,
 We have release Aspose.Tasks 1.5!
 
 Aspose.Tasks is a Proje..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 3  Views: 431"
 file_size: "  File Size: 1.6 MB "
 parent_path: "tasks/net"

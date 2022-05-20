@@ -8,7 +8,7 @@ folder_name: " Moore Stephens Consulting uses Aspose.Words for .NET to convert W
 download_link: " /corporate/success-stories/aspose.words/moore-stephens-consulting-uses-aspose.words-for-.net-to-convert-word-documents-to-pdf/bda5a9655e56459caad0d54ddcfc1656"
 download_text: " Download"
 Intro_text: " Moore Stephens Consulting (MSC), is a leading provider of technology solutions a..."
-image_link: " https://downloads.aspose.com/resources/img/pdf-icon.png"
+image_link: "/resources/img/pdf-icon.png"
 download_count: "  Downloads: 122  Views: 791"
 file_size: "  File Size: 751.1 KB "
 parent_path: "corporate/success-stories/aspose.words"

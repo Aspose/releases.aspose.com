@@ -15,7 +15,7 @@ v7.4.2!
 Enhancements
 
 ..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   3/25/2013  Downloads: 505  Views: 1127"
 file_size: "  File Size: 69.9 MB "
 parent_path: "cells/java"

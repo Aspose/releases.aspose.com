@@ -9,7 +9,7 @@ download_link: " /email/net/new-releases/aspose.email-for-.net-2.2.0-(dlls-only)
 download_text: " Download"
 Intro_text: " 
 This ZIP file contains only the Aspose.Email for .NET assemblies. The assembli..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   11/28/2012  Downloads: 146  Views: 323"
 file_size: "  File Size: 6.6 MB "
 parent_path: "email/net"

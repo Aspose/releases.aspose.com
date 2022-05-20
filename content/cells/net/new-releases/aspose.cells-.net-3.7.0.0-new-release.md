@@ -11,7 +11,7 @@ Intro_text: " Dear Customers,
 We have released Aspose.Cells 3.7 for .NET!
 Name Change
 Pleas..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 19  Views: 135"
 file_size: "  File Size: 3.4 MB "
 parent_path: "cells/net"

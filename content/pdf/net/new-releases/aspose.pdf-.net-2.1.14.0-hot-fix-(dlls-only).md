@@ -12,7 +12,7 @@ Intro_text: " In this fix:
 1) A bug about text border is fixed.
 
 2) A text missing bug is..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 3  Views: 29"
 file_size: "  File Size: 355.4 KB "
 parent_path: "pdf/net"

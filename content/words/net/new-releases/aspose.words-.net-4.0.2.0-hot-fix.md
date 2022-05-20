@@ -9,7 +9,7 @@ download_link: " /words/net/new-releases/aspose.words-.net-4.0.2.0-hot-fix/cbefa
 download_text: " Download"
 Intro_text: " A good maintenance release with two weeks worth of enhancements and fixes.
 Expo..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 6  Views: 185"
 file_size: "  File Size: 7.4 MB "
 parent_path: "words/net"

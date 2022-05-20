@@ -13,7 +13,7 @@ Aspose.Cells for JasperReports 1.0.1!
 
 
  What's n..."
-image_link: " https://downloads.aspose.com/resources/img/zip-icon.png"
+image_link: "/resources/img/zip-icon.png"
 download_count: "   3/11/2010  Downloads: 35  Views: 733"
 file_size: "  File Size: 2.6 MB "
 parent_path: "cells/jasperreports"

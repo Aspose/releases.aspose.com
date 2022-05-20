@@ -10,7 +10,7 @@ download_text: " Download"
 Intro_text: " Major Features
 
 We have fixed two bugs this release. Note, new features will b..."
-image_link: " https://downloads.aspose.com/resources/img/msi-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: "   2/13/2015  Downloads: 106  Views: 231"
 file_size: "  File Size: 12.3 MB "
 parent_path: "tasks/net"
