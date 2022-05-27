@@ -13,7 +13,7 @@ download_count: "   12/1/2018  Downloads: 0  Views: 8"
 file_size: "  File Size: 37.9 MB "
 parent_path: "slides/jasperreport"
 section_parent_path: "slides/jasperreport"
-weight: 50 
+weight: 107
 ---
 
 {{< Releases/ReleasesWapper >}}

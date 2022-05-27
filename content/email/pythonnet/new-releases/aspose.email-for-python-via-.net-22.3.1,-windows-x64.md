@@ -13,7 +13,7 @@ download_count: "   Added: 4 weeks ago [4/20/2022]  Downloads: 8  Views: 32"
 file_size: "  File Size: 43.5 MB "
 parent_path: "email/pythonnet"
 section_parent_path: "email/pythonnet"
-weight: 1 
+weight: 9
 ---
 
 {{< Releases/ReleasesWapper >}}

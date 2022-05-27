@@ -13,7 +13,7 @@ download_count: "   7/30/2021  Downloads: 4  Views: 27"
 file_size: "  File Size: 99.1 KB "
 parent_path: "ocr/java"
 section_parent_path: "ocr/java"
-weight: 24 
+weight: 153
 ---
 
 {{< Releases/ReleasesWapper >}}

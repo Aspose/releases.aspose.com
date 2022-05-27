@@ -14,7 +14,7 @@ download_count: "   5/3/2011  Downloads: 65  Views: 657"
 file_size: "  File Size: 8.4 MB "
 parent_path: "pdf/jassperreport"
 section_parent_path: "pdf/jassperreport"
-weight: 10 
+weight: 10
 ---
 
 {{< Releases/ReleasesWapper >}}

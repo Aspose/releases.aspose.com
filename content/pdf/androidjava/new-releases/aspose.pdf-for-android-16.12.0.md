@@ -13,7 +13,7 @@ download_count: "   12/22/2016  Downloads: 175  Views: 1874"
 file_size: "  File Size: 27.8 MB "
 parent_path: "pdf/androidjava"
 section_parent_path: "pdf/androidjava"
-weight: 7 
+weight: 23
 ---
 
 {{< Releases/ReleasesWapper >}}

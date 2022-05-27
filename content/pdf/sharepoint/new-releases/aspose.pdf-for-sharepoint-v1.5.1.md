@@ -13,7 +13,7 @@ download_count: "   12/6/2012  Downloads: 48  Views: 605"
 file_size: "  File Size: 10.4 MB "
 parent_path: "pdf/sharepoint"
 section_parent_path: "pdf/sharepoint"
-weight: 10 
+weight: 20
 ---
 
 {{< Releases/ReleasesWapper >}}

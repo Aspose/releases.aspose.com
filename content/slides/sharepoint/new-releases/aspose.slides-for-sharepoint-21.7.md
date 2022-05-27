@@ -13,7 +13,7 @@ download_count: "   7/15/2021  Downloads: 8  Views: 48"
 file_size: "  File Size: 56.1 MB "
 parent_path: "slides/sharepoint"
 section_parent_path: "slides/sharepoint"
-weight: 2 
+weight: 98
 ---
 
 {{< Releases/ReleasesWapper >}}

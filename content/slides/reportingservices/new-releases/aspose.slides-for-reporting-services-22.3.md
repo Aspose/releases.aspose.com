@@ -13,7 +13,7 @@ download_count: "   Added: 2 weeks ago [3/30/2022]  Downloads: 0  Views: 4"
 file_size: "  File Size: 30.4 MB "
 parent_path: "slides/reportingservices"
 section_parent_path: "slides/reportingservices"
-weight: 2 
+weight: 436
 ---
 
 {{< Releases/ReleasesWapper >}}

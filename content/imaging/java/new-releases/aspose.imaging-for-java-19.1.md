@@ -13,7 +13,7 @@ download_count: "   1/23/2019  Downloads: 39  Views: 233"
 file_size: "  File Size: 28.8 MB "
 parent_path: "imaging/java"
 section_parent_path: "imaging/java"
-weight: 44 
+weight: 104
 ---
 
 {{< Releases/ReleasesWapper >}}

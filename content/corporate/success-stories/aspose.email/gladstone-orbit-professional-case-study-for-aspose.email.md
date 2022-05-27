@@ -13,7 +13,7 @@ download_count: "  Downloads: 392  Views: 1182"
 file_size: "  File Size: 191.6 KB "
 parent_path: "corporate/success-stories/aspose.email"
 section_parent_path: "corporate/success-stories"
-weight: 1 
+weight: 102
 ---
 
 {{< Releases/ReleasesWapper >}}

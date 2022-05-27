@@ -13,7 +13,7 @@ download_count: "   10/18/2019  Downloads: 9  Views: 33"
 file_size: "  File Size: 11.9 MB "
 parent_path: "page/java"
 section_parent_path: "page/java"
-weight: 32 
+weight: 25
 ---
 
 {{< Releases/ReleasesWapper >}}

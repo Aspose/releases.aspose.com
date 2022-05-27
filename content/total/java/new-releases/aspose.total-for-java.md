@@ -13,7 +13,7 @@ download_count: "   Added: 3 weeks ago [3/25/2022]  Downloads: 47213  Views: 137
 file_size: "  File Size: 601.4 MB "
 parent_path: "total/java"
 section_parent_path: "total/java"
-weight: 1 
+weight: 1
 ---
 
 {{< Releases/ReleasesWapper >}}

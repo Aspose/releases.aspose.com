@@ -13,7 +13,7 @@ download_count: "   Added: 3 weeks ago [4/29/2022]  Downloads: 27  Views: 18"
 file_size: "  File Size: 15.3 MB "
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-weight: 1 
+weight: 549
 ---
 
 {{< Releases/ReleasesWapper >}}

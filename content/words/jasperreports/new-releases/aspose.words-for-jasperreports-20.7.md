@@ -13,7 +13,7 @@ download_count: "   7/14/2020  Downloads: 72  Views: 444"
 file_size: "  File Size: 49.0 MB "
 parent_path: "words/jasperreports"
 section_parent_path: "words/jasperreports"
-weight: 8 
+weight: 111
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -13,7 +13,7 @@ download_count: "   5/8/2020  Downloads: 7  Views: 74"
 file_size: "  File Size: 4.0 MB "
 parent_path: "diagram/nodejs"
 section_parent_path: "diagram/nodejs"
-weight: 9 
+weight: 9
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -13,7 +13,7 @@ download_count: "   7/1/2021  Downloads: 78  Views: 118"
 file_size: "  File Size: 53.4 MB "
 parent_path: "html/java"
 section_parent_path: "html/java"
-weight: 2 
+weight: 48
 ---
 
 {{< Releases/ReleasesWapper >}}

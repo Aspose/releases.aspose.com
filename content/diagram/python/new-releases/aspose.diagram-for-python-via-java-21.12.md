@@ -13,7 +13,7 @@ download_count: "   12/13/2021  Downloads: 0  Views: 8"
 file_size: "  File Size: 3.2 MB "
 parent_path: "diagram/python"
 section_parent_path: "diagram/python"
-weight: 4 
+weight: 4
 ---
 
 {{< Releases/ReleasesWapper >}}

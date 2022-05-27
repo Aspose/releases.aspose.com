@@ -15,7 +15,7 @@
 {{ if (in $shownested "true") }}
 
     {{ if (in $limit "beforecontent") }}
-          {{ range first 6 ( where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.section_parent_path" $parent_path ) }}
+          {{ range first 6 ( where (where (where $.Site.Pages.ByWeight.Reverse ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.section_parent_path" $parent_path ) }}
           {{$download_link := print .Params.download_link "/"}}
           {{ $lastUrlElement := index (last 1 (split (delimit (split $download_link "/") "," "") ",")) 0 }}
           <div class="col-md-12">
@@ -49,7 +49,7 @@
           {{ end }}
     {{ else if (in $limit "aftercontent") }}
           <div class="loadmorediv">
-              {{ range after 6 ( where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.section_parent_path" $parent_path ) }}
+              {{ range after 6 ( where (where (where $.Site.Pages.ByWeight.Reverse ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.section_parent_path" $parent_path ) }}
                 {{$download_link := print .Params.download_link "/"}}
                 {{ $lastUrlElement := index (last 1 (split (delimit (split $download_link "/") "," "") ",")) 0 }}
                   <div class="col-md-12">
@@ -84,7 +84,7 @@
           </div>
     {{else}} 
          <div class="loadmorediv">
-            {{ range  where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.section_parent_path" $parent_path  }}
+            {{ range  where (where (where $.Site.Pages.ByWeight.Reverse ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.section_parent_path" $parent_path  }}
                 {{$download_link := print .Params.download_link "/"}}
                 {{ $lastUrlElement := index (last 1 (split (delimit (split $download_link "/") "," "") ",")) 0 }}
                 <div class="col-md-12">
@@ -123,7 +123,7 @@
 {{else}}
 
     {{ if (in $limit "beforecontent") }}
-        {{ range first 6 ( where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.parent_path" $parent_path ) }}
+        {{ range first 6 ( where (where (where $.Site.Pages.ByWeight.Reverse ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.parent_path" $parent_path ) }}
         {{$download_link := print .Params.download_link "/"}}
         {{ $lastUrlElement := index (last 1 (split (delimit (split $download_link "/") "," "") ",")) 0 }}
         <div class="col-md-12">
@@ -157,7 +157,7 @@
         {{ end }}
     {{ else if (in $limit "aftercontent") }}
           <div class="loadmorediv">
-              {{ range after 6 ( where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.parent_path" $parent_path ) }}
+              {{ range after 6 ( where (where (where $.Site.Pages.ByWeight.Reverse ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.parent_path" $parent_path ) }}
                   {{$download_link := print .Params.download_link "/"}}
                   {{ $lastUrlElement := index (last 1 (split (delimit (split $download_link "/") "," "") ",")) 0 }}
                   <div class="col-md-12">
@@ -192,7 +192,7 @@
             </div>
     {{else}} 
       <div class="loadmorediv">
-        {{ range  where (where (where $.Site.Pages ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.parent_path" $parent_path  }}
+        {{ range  where (where (where $.Site.Pages.ByWeight.Reverse  ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.parent_path" $parent_path  }}
         
         {{$download_link := print .Params.download_link "/"}}
         {{ $lastUrlElement := index (last 1 (split (delimit (split $download_link "/") "," "") ",")) 0 }}

@@ -13,7 +13,7 @@ download_count: "   3/4/2020  Downloads: 9  Views: 124"
 file_size: "  File Size: 10.9 MB "
 parent_path: "barcode/php"
 section_parent_path: "barcode/php"
-weight: 35 
+weight: 23
 ---
 
 {{< Releases/ReleasesWapper >}}

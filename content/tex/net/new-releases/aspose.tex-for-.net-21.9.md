@@ -13,7 +13,7 @@ download_count: "   9/20/2021  Downloads: 2  Views: 26"
 file_size: "  File Size: 51.8 MB "
 parent_path: "tex/net"
 section_parent_path: "tex/net"
-weight: 10 
+weight: 10
 ---
 
 {{< Releases/ReleasesWapper >}}

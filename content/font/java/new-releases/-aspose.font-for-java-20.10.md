@@ -13,7 +13,7 @@ download_count: "   10/15/2020  Downloads: 16  Views: 71"
 file_size: "  File Size: 7.8 MB "
 parent_path: "font/java"
 section_parent_path: "font/java"
-weight: 5 
+weight: 5
 ---
 
 {{< Releases/ReleasesWapper >}}

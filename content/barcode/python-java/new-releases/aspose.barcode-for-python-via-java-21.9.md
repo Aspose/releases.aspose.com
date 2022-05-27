@@ -13,7 +13,7 @@ download_count: "   9/18/2021  Downloads: 0  Views: 76"
 file_size: "  File Size: 11.7 MB "
 parent_path: "barcode/python-java"
 section_parent_path: "barcode/python-java"
-weight: 8 
+weight: 22
 ---
 
 {{< Releases/ReleasesWapper >}}

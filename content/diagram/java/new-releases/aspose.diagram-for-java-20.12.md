@@ -13,7 +13,7 @@ download_count: "   12/8/2020  Downloads: 16  Views: 81"
 file_size: "  File Size: 3.8 MB "
 parent_path: "diagram/java"
 section_parent_path: "diagram/java"
-weight: 25 
+weight: 162
 ---
 
 {{< Releases/ReleasesWapper >}}

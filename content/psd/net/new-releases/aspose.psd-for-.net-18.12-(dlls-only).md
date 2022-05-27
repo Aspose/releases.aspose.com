@@ -13,7 +13,7 @@ download_count: "   12/7/2018  Downloads: 46  Views: 14"
 file_size: "  File Size: 14.3 MB "
 parent_path: "psd/net"
 section_parent_path: "psd/net"
-weight: 87 
+weight: 80
 ---
 
 {{< Releases/ReleasesWapper >}}

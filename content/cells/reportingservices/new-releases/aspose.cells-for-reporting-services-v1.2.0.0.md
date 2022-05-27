@@ -15,7 +15,7 @@ download_count: "   5/7/2008  Downloads: 292  Views: 1399"
 file_size: "  File Size: 5.2 MB "
 parent_path: "cells/reportingservices"
 section_parent_path: "cells/reportingservices"
-weight: 105 
+weight: 108
 ---
 
 {{< Releases/ReleasesWapper >}}

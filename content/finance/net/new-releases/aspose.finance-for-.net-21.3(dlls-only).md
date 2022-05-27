@@ -13,7 +13,7 @@ download_count: "   3/14/2021  Downloads: 19  Views: 69"
 file_size: "  File Size: 6.8 MB "
 parent_path: "finance/net"
 section_parent_path: "finance/net"
-weight: 8 
+weight: 20
 ---
 
 {{< Releases/ReleasesWapper >}}

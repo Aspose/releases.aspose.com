@@ -13,7 +13,7 @@ download_count: "   3/23/2021  Downloads: 3  Views: 47"
 file_size: "  File Size: 30.5 MB "
 parent_path: "slides/androidjava"
 section_parent_path: "slides/androidjava"
-weight: 22 
+weight: 75
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -13,7 +13,7 @@ download_count: "   10/2/2017  Downloads: 3  Views: 126"
 file_size: "  File Size: 38.4 MB "
 parent_path: "slides/sharepoint"
 section_parent_path: "slides/sharepoint"
-weight: 48 
+weight: 61
 ---
 
 {{< Releases/ReleasesWapper >}}

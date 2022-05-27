@@ -13,7 +13,7 @@ download_count: "   6/26/2020  Downloads: 14  Views: 76"
 file_size: "  File Size: 10.4 MB "
 parent_path: "barcode/reportingservices"
 section_parent_path: "barcode/reportingservices"
-weight: 25 
+weight: 294
 ---
 
 {{< Releases/ReleasesWapper >}}

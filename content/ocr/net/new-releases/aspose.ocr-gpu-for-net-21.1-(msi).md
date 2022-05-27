@@ -13,7 +13,7 @@ download_count: "   1/31/2021  Downloads: 7  Views: 20"
 file_size: "  File Size: 384.8 MB "
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
-weight: 48 
+weight: 237
 ---
 
 {{< Releases/ReleasesWapper >}}

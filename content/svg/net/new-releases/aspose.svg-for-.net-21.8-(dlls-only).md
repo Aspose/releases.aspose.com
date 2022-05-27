@@ -13,7 +13,7 @@ download_count: "   8/5/2021  Downloads: 14  Views: 24"
 file_size: "  File Size: 18.1 MB "
 parent_path: "svg/net"
 section_parent_path: "svg/net"
-weight: 25 
+weight: 90
 ---
 
 {{< Releases/ReleasesWapper >}}

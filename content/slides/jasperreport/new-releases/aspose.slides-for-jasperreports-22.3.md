@@ -13,7 +13,7 @@ download_count: "   Added: 3 weeks ago [3/24/2022]  Downloads: 0  Views: 3"
 file_size: "  File Size: 70.6 MB "
 parent_path: "slides/jasperreport"
 section_parent_path: "slides/jasperreport"
-weight: 1 
+weight: 148
 ---
 
 {{< Releases/ReleasesWapper >}}

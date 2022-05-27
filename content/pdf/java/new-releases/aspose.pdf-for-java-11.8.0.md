@@ -13,7 +13,7 @@ download_count: "   8/11/2016  Downloads: 482  Views: 1599"
 file_size: "  File Size: 41.3 MB "
 parent_path: "pdf/java"
 section_parent_path: "pdf/java"
-weight: 78 
+weight: 170
 ---
 
 {{< Releases/ReleasesWapper >}}

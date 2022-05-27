@@ -13,7 +13,7 @@ download_count: "   10/29/2019  Downloads: 72  Views: 334"
 file_size: "  File Size: 62.3 MB "
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-weight: 68 
+weight: 677
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -13,7 +13,7 @@ download_count: "  Downloads: 175  Views: 1001"
 file_size: "  File Size: 89.7 KB "
 parent_path: "corporate/success-stories/aspose.barcode"
 section_parent_path: "corporate/success-stories"
-weight: 3 
+weight: 18
 ---
 
 {{< Releases/ReleasesWapper >}}

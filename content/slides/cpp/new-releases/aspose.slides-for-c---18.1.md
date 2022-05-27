@@ -13,7 +13,7 @@ download_count: "   1/30/2018  Downloads: 22  Views: 170"
 file_size: "  File Size: 67.0 MB "
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-weight: 94 
+weight: 81
 ---
 
 {{< Releases/ReleasesWapper >}}

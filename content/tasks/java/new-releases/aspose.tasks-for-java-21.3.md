@@ -13,7 +13,7 @@ download_count: "   3/16/2021  Downloads: 7  Views: 162"
 file_size: "  File Size: 26.6 MB "
 parent_path: "tasks/java"
 section_parent_path: "tasks/java"
-weight: 22 
+weight: 135
 ---
 
 {{< Releases/ReleasesWapper >}}

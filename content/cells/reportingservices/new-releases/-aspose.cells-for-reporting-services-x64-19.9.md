@@ -13,7 +13,7 @@ download_count: "   9/27/2019  Downloads: 24  Views: 46"
 file_size: "  File Size: 36.5 MB "
 parent_path: "cells/reportingservices"
 section_parent_path: "cells/reportingservices"
-weight: 59 
+weight: 154
 ---
 
 {{< Releases/ReleasesWapper >}}

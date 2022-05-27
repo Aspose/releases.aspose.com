@@ -13,7 +13,7 @@ download_count: "   5/14/2008  Downloads: 117  Views: 1109"
 file_size: "  File Size: 9.6 MB "
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-weight: 270 
+weight: 285
 ---
 
 {{< Releases/ReleasesWapper >}}

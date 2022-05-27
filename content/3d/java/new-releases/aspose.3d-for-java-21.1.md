@@ -13,7 +13,7 @@ download_count: "   1/8/2021  Downloads: 6  Views: 37"
 file_size: "  File Size: 9.2 MB "
 parent_path: "3d/java"
 section_parent_path: "3d/java"
-weight: 24 
+weight: 73
 ---
 
 {{< Releases/ReleasesWapper >}}

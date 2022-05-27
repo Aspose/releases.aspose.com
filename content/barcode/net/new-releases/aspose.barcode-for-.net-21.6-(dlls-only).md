@@ -13,7 +13,7 @@ download_count: "   6/20/2021  Downloads: 17  Views: 31"
 file_size: "  File Size: 16.0 MB "
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-weight: 28 
+weight: 527
 ---
 
 {{< Releases/ReleasesWapper >}}

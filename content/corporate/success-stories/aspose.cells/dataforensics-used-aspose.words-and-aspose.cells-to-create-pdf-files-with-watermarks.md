@@ -13,7 +13,7 @@ download_count: "  Downloads: 85  Views: 1388"
 file_size: "  File Size: 537.7 KB "
 parent_path: "corporate/success-stories/aspose.cells"
 section_parent_path: "corporate/success-stories"
-weight: 25 
+weight: 34
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -13,7 +13,7 @@ download_count: "   5/19/2015  Downloads: 774  Views: 912"
 file_size: "  File Size: 15.1 MB "
 parent_path: "cells/java"
 section_parent_path: "cells/java"
-weight: 92 
+weight: 245
 ---
 
 {{< Releases/ReleasesWapper >}}

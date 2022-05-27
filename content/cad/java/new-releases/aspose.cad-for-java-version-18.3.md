@@ -13,7 +13,7 @@ download_count: "   3/28/2018  Downloads: 154  Views: 414"
 file_size: "  File Size: 41.1 MB "
 parent_path: "cad/java"
 section_parent_path: "cad/java"
-weight: 39 
+weight: 39
 ---
 
 {{< Releases/ReleasesWapper >}}

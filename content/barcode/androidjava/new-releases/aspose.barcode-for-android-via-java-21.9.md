@@ -13,7 +13,7 @@ download_count: "   9/11/2021  Downloads: 4  Views: 66"
 file_size: "  File Size: 14.2 MB "
 parent_path: "barcode/androidjava"
 section_parent_path: "barcode/androidjava"
-weight: 7 
+weight: 82
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -13,7 +13,7 @@ download_count: "   8/5/2021  Downloads: 10  Views: 46"
 file_size: "  File Size: 2.9 MB "
 parent_path: "font/net"
 section_parent_path: "font/net"
-weight: 6 
+weight: 22
 ---
 
 {{< Releases/ReleasesWapper >}}

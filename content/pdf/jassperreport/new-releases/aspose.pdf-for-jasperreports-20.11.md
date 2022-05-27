@@ -13,7 +13,7 @@ download_count: "   11/27/2020  Downloads: 41  Views: 137"
 file_size: "  File Size: 362.0 MB "
 parent_path: "pdf/jassperreport"
 section_parent_path: "pdf/jassperreport"
-weight: 1 
+weight: 19
 ---
 
 {{< Releases/ReleasesWapper >}}

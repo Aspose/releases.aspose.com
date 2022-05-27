@@ -13,7 +13,7 @@ download_count: "   2/24/2020  Downloads: 29  Views: 137"
 file_size: "  File Size: 11.7 MB "
 parent_path: "cells/nodejs"
 section_parent_path: "cells/nodejs"
-weight: 20 
+weight: 7
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -13,7 +13,7 @@ download_count: "   1/30/2020  Downloads: 17  Views: 108"
 file_size: "  File Size: 18.2 MB "
 parent_path: "svg/net"
 section_parent_path: "svg/net"
-weight: 61 
+weight: 54
 ---
 
 {{< Releases/ReleasesWapper >}}

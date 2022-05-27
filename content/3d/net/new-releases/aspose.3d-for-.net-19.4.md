@@ -13,7 +13,7 @@ download_count: "   4/4/2019  Downloads: 11  Views: 13"
 file_size: "  File Size: 7.1 MB "
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-weight: 81 
+weight: 234
 ---
 
 {{< Releases/ReleasesWapper >}}

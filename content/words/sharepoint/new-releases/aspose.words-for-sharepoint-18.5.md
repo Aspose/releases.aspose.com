@@ -13,7 +13,7 @@ download_count: "   6/1/2018  Downloads: 2  Views: 889"
 file_size: "  File Size: 18.7 MB "
 parent_path: "words/sharepoint"
 section_parent_path: "words/sharepoint"
-weight: 27 
+weight: 52
 ---
 
 {{< Releases/ReleasesWapper >}}

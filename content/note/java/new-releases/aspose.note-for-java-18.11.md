@@ -13,7 +13,7 @@ download_count: "   12/1/2018  Downloads: 19  Views: 27"
 file_size: "  File Size: 11.5 MB "
 parent_path: "note/java"
 section_parent_path: "note/java"
-weight: 29 
+weight: 50
 ---
 
 {{< Releases/ReleasesWapper >}}

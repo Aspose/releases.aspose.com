@@ -18,7 +18,7 @@ download_count: "   6/25/2013  Downloads: 300  Views: 1646"
 file_size: "  File Size: 12.8 MB "
 parent_path: "cells/jasperreports"
 section_parent_path: "cells/jasperreports"
-weight: 4 
+weight: 6
 ---
 
 {{< Releases/ReleasesWapper >}}

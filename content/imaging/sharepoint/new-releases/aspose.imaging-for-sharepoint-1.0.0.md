@@ -13,7 +13,7 @@ download_count: "   11/10/2013  Downloads: 161  Views: 1517"
 file_size: "  File Size: 2.0 MB "
 parent_path: "imaging/sharepoint"
 section_parent_path: "imaging/sharepoint"
-weight: 1 
+weight: 1
 ---
 
 {{< Releases/ReleasesWapper >}}

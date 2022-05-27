@@ -13,7 +13,7 @@ download_count: "   Added: 4 weeks ago [4/21/2022]  Downloads: 18  Views: 22"
 file_size: "  File Size: 115.0 MB "
 parent_path: "ocr/java"
 section_parent_path: "ocr/java"
-weight: 1 
+weight: 169
 ---
 
 {{< Releases/ReleasesWapper >}}

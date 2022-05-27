@@ -13,7 +13,7 @@ download_count: "   7/15/2016  Downloads: 14  Views: 207"
 file_size: "  File Size: 26.6 MB "
 parent_path: "words/jasperreports"
 section_parent_path: "words/jasperreports"
-weight: 50 
+weight: 78
 ---
 
 {{< Releases/ReleasesWapper >}}

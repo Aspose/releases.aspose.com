@@ -13,7 +13,7 @@ download_count: "   12/7/2020  Downloads: 10  Views: 92"
 file_size: "  File Size: 7.4 MB "
 parent_path: "cells/jasperreports"
 section_parent_path: "cells/jasperreports"
-weight: 1 
+weight: 9
 ---
 
 {{< Releases/ReleasesWapper >}}

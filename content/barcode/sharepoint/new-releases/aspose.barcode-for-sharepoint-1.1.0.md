@@ -13,7 +13,7 @@ download_count: "   4/3/2013  Downloads: 335  Views: 1829"
 file_size: "  File Size: 780.1 KB "
 parent_path: "barcode/sharepoint"
 section_parent_path: "barcode/sharepoint"
-weight: 1 
+weight: 2
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -13,7 +13,7 @@ download_count: "   6/15/2020  Downloads: 151  Views: 533"
 file_size: "  File Size: 22.5 MB "
 parent_path: "cells/java"
 section_parent_path: "cells/java"
-weight: 31 
+weight: 306
 ---
 
 {{< Releases/ReleasesWapper >}}

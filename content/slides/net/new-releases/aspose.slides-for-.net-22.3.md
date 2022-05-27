@@ -13,7 +13,7 @@ download_count: "   Added: 4 weeks ago [3/17/2022]  Downloads: 10  Views: 39"
 file_size: "  File Size: 83.6 MB "
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-weight: 2 
+weight: 736
 ---
 
 {{< Releases/ReleasesWapper >}}

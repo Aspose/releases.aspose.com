@@ -13,7 +13,7 @@ download_count: "   11/23/2020  Downloads: 3  Views: 47"
 file_size: "  File Size: 45.0 MB "
 parent_path: "slides/jasperreport"
 section_parent_path: "slides/jasperreport"
-weight: 26 
+weight: 131
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -13,7 +13,7 @@ download_count: "   3/17/2015  Downloads: 377  Views: 566"
 file_size: "  File Size: 73.5 MB "
 parent_path: "slides/java"
 section_parent_path: "slides/java"
-weight: 96 
+weight: 271
 ---
 
 {{< Releases/ReleasesWapper >}}

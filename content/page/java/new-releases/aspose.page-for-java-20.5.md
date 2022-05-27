@@ -13,7 +13,7 @@ download_count: "   5/21/2020  Downloads: 3  Views: 43"
 file_size: "  File Size: 11.9 MB "
 parent_path: "page/java"
 section_parent_path: "page/java"
-weight: 26 
+weight: 31
 ---
 
 {{< Releases/ReleasesWapper >}}

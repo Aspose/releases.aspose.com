@@ -13,7 +13,7 @@ download_count: "   11/26/2019  Downloads: 36  Views: 291"
 file_size: "  File Size: 10.1 MB "
 parent_path: "barcode/java"
 section_parent_path: "barcode/java"
-weight: 38 
+weight: 179
 ---
 
 {{< Releases/ReleasesWapper >}}

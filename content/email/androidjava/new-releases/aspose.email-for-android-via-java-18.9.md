@@ -13,7 +13,7 @@ download_count: "   10/11/2018  Downloads: 1  Views: 20"
 file_size: "  File Size: 8.8 MB "
 parent_path: "email/androidjava"
 section_parent_path: "email/androidjava"
-weight: 27 
+weight: 42
 ---
 
 {{< Releases/ReleasesWapper >}}

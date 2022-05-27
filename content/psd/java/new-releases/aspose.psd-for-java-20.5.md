@@ -13,7 +13,7 @@ download_count: "   5/27/2020  Downloads: 9  Views: 172"
 file_size: "  File Size: 23.8 MB "
 parent_path: "psd/java"
 section_parent_path: "psd/java"
-weight: 8 
+weight: 12
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -13,7 +13,7 @@ download_count: "   12/21/2017  Downloads: 34  Views: 1412"
 file_size: "  File Size: 91.3 MB "
 parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
-weight: 80 
+weight: 75
 ---
 
 {{< Releases/ReleasesWapper >}}

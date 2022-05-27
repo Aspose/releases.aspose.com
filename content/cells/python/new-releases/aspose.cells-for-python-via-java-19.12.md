@@ -13,7 +13,7 @@ download_count: "   2/20/2020  Downloads: 3  Views: 85"
 file_size: "  File Size: 11.6 MB "
 parent_path: "cells/python"
 section_parent_path: "cells/python"
-weight: 21 
+weight: 6
 ---
 
 {{< Releases/ReleasesWapper >}}

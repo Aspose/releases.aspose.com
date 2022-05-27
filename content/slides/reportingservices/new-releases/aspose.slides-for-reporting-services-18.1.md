@@ -13,7 +13,7 @@ download_count: "   2/1/2018  Downloads: 9  Views: 172"
 file_size: "  File Size: 25.8 MB "
 parent_path: "slides/reportingservices"
 section_parent_path: "slides/reportingservices"
-weight: 109 
+weight: 336
 ---
 
 {{< Releases/ReleasesWapper >}}

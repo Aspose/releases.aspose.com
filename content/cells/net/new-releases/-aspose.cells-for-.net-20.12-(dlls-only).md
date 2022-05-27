@@ -13,7 +13,7 @@ download_count: "   12/17/2020  Downloads: 82  Views: 90"
 file_size: "  File Size: 76.6 MB "
 parent_path: "cells/net"
 section_parent_path: "cells/net"
-weight: 40 
+weight: 625
 ---
 
 {{< Releases/ReleasesWapper >}}

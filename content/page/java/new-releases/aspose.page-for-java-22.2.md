@@ -13,7 +13,7 @@ download_count: "   2/16/2022  Downloads: 6  Views: 12"
 file_size: "  File Size: 14.7 MB "
 parent_path: "page/java"
 section_parent_path: "page/java"
-weight: 1 
+weight: 48
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -13,7 +13,7 @@ download_count: "  Downloads: 15  Views: 17"
 file_size: "  File Size: 745.4 KB "
 parent_path: "corporate/success-stories"
 section_parent_path: "corporate/success-stories"
-weight: 3 
+weight: 367
 ---
 
 {{< Releases/ReleasesWapper >}}

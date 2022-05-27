@@ -13,7 +13,7 @@ download_count: "   9/18/2019  Downloads: 112  Views: 347"
 file_size: "  File Size: 65.7 MB "
 parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
-weight: 33 
+weight: 44
 ---
 
 {{< Releases/ReleasesWapper >}}

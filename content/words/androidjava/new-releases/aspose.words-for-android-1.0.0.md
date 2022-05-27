@@ -14,7 +14,7 @@ download_count: "   7/26/2013  Downloads: 181  Views: 356"
 file_size: "  File Size: 27.2 MB "
 parent_path: "words/androidjava"
 section_parent_path: "words/androidjava"
-weight: 54 
+weight: 45
 ---
 
 {{< Releases/ReleasesWapper >}}

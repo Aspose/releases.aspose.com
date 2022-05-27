@@ -13,7 +13,7 @@ download_count: "   7/2/2018  Downloads: 129  Views: 134"
 file_size: "  File Size: 17.3 MB "
 parent_path: "cells/java"
 section_parent_path: "cells/java"
-weight: 55 
+weight: 282
 ---
 
 {{< Releases/ReleasesWapper >}}

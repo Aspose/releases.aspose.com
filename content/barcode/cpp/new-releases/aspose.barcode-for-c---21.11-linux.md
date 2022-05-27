@@ -13,7 +13,7 @@ download_count: "   11/25/2021  Downloads: 1  Views: 32"
 file_size: "  File Size: 35.9 MB "
 parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
-weight: 7 
+weight: 63
 ---
 
 {{< Releases/ReleasesWapper >}}

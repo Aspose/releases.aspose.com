@@ -13,7 +13,7 @@ download_count: "   10/28/2020  Downloads: 4  Views: 68"
 file_size: "  File Size: 29.4 MB "
 parent_path: "imaging/jasperreports"
 section_parent_path: "imaging/jasperreports"
-weight: 2 
+weight: 3
 ---
 
 {{< Releases/ReleasesWapper >}}

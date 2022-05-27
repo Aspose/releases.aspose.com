@@ -13,7 +13,7 @@ download_count: "   1/21/2015  Downloads: 96  Views: 312"
 file_size: "  File Size: 13.7 MB "
 parent_path: "diagram/java"
 section_parent_path: "diagram/java"
-weight: 92 
+weight: 95
 ---
 
 {{< Releases/ReleasesWapper >}}

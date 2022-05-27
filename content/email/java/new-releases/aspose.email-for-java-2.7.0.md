@@ -13,7 +13,7 @@ download_count: "   2/27/2013  Downloads: 94  Views: 386"
 file_size: "  File Size: 6.2 MB "
 parent_path: "email/java"
 section_parent_path: "email/java"
-weight: 121 
+weight: 157
 ---
 
 {{< Releases/ReleasesWapper >}}

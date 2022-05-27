@@ -13,7 +13,7 @@ download_count: "   Added: 3 weeks ago [4/27/2022]  Downloads: 0  Views: 9"
 file_size: "  File Size: 10.7 MB "
 parent_path: "barcode/nodejs"
 section_parent_path: "barcode/nodejs"
-weight: 1 
+weight: 39
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -13,7 +13,7 @@ download_count: "   10/20/2020  Downloads: 2  Views: 17"
 file_size: "  File Size: 107.7 MB "
 parent_path: "font/cpp"
 section_parent_path: "font/cpp"
-weight: 40 
+weight: 35
 ---
 
 {{< Releases/ReleasesWapper >}}

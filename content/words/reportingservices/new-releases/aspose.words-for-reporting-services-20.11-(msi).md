@@ -13,7 +13,7 @@ download_count: "   11/11/2020  Downloads: 12  Views: 259"
 file_size: "  File Size: 63.5 MB "
 parent_path: "words/reportingservices"
 section_parent_path: "words/reportingservices"
-weight: 20 
+weight: 267
 ---
 
 {{< Releases/ReleasesWapper >}}

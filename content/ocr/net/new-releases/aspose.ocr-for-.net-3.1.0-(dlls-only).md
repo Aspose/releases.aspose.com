@@ -13,7 +13,7 @@ download_count: "   11/22/2015  Downloads: 69  Views: 79"
 file_size: "  File Size: 27.6 MB "
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
-weight: 106 
+weight: 179
 ---
 
 {{< Releases/ReleasesWapper >}}

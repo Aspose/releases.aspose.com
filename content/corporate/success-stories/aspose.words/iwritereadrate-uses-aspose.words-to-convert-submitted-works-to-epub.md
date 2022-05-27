@@ -13,7 +13,7 @@ download_count: "  Downloads: 67  Views: 1313"
 file_size: "  File Size: 316.3 KB "
 parent_path: "corporate/success-stories/aspose.words"
 section_parent_path: "corporate/success-stories"
-weight: 49 
+weight: 100
 ---
 
 {{< Releases/ReleasesWapper >}}

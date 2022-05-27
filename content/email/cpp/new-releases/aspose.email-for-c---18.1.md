@@ -13,7 +13,7 @@ download_count: "   1/25/2018  Downloads: 41  Views: 109"
 file_size: "  File Size: 119.7 MB "
 parent_path: "email/cpp"
 section_parent_path: "email/cpp"
-weight: 42 
+weight: 35
 ---
 
 {{< Releases/ReleasesWapper >}}

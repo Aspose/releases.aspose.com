@@ -13,7 +13,7 @@ download_count: "   4/4/2017  Downloads: 542  Views: 1117"
 file_size: "  File Size: 12.6 MB "
 parent_path: "words/java"
 section_parent_path: "words/java"
-weight: 103 
+weight: 304
 ---
 
 {{< Releases/ReleasesWapper >}}

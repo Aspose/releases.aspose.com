@@ -13,7 +13,7 @@ download_count: "   9/22/2015  Downloads: 14  Views: 83"
 file_size: "  File Size: 2.7 MB "
 parent_path: "barcode/reportingservices"
 section_parent_path: "barcode/reportingservices"
-weight: 103 
+weight: 216
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -13,7 +13,7 @@ download_count: "   6/22/2017  Downloads: 7  Views: 352"
 file_size: "  File Size: 5.6 MB "
 parent_path: "barcode/jasperreports"
 section_parent_path: "barcode/jasperreports"
-weight: 64 
+weight: 73
 ---
 
 {{< Releases/ReleasesWapper >}}

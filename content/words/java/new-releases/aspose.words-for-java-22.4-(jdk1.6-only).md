@@ -13,7 +13,7 @@ download_count: "   Added: 5 days ago [4/7/2022]  Downloads: 2  Views: 10"
 file_size: "  File Size: 15.5 MB "
 parent_path: "words/java"
 section_parent_path: "words/java"
-weight: 1 
+weight: 399
 ---
 
 {{< Releases/ReleasesWapper >}}

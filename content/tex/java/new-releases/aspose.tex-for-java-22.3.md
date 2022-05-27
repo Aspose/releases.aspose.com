@@ -13,7 +13,7 @@ download_count: "   Added: 3 weeks ago [3/25/2022]  Downloads: 0  Views: 8"
 file_size: "  File Size: 21.7 MB "
 parent_path: "tex/java"
 section_parent_path: "tex/java"
-weight: 2 
+weight: 8
 ---
 
 {{< Releases/ReleasesWapper >}}

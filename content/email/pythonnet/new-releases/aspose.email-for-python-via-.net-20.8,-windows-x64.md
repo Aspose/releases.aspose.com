@@ -13,7 +13,7 @@ download_count: "   2/15/2021  Downloads: 79  Views: 127"
 file_size: "  File Size: 33.3 MB "
 parent_path: "email/pythonnet"
 section_parent_path: "email/pythonnet"
-weight: 2 
+weight: 7
 ---
 
 {{< Releases/ReleasesWapper >}}

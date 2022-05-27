@@ -13,7 +13,7 @@ download_count: "   Added: 3 weeks ago [4/27/2022]  Downloads: 4  Views: 8"
 file_size: "  File Size: 12.0 MB "
 parent_path: "barcode/php"
 section_parent_path: "barcode/php"
-weight: 1 
+weight: 49
 ---
 
 {{< Releases/ReleasesWapper >}}

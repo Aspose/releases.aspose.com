@@ -13,7 +13,7 @@ download_count: "   12/20/2019  Downloads: 16  Views: 100"
 file_size: "  File Size: 8.6 MB "
 parent_path: "cells/androidjava"
 section_parent_path: "cells/androidjava"
-weight: 10 
+weight: 70
 ---
 
 {{< Releases/ReleasesWapper >}}

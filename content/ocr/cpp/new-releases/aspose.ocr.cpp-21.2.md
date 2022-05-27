@@ -13,7 +13,7 @@ download_count: "   3/1/2021  Downloads: 4  Views: 15"
 file_size: "  File Size: 192.1 MB "
 parent_path: "ocr/cpp"
 section_parent_path: "ocr/cpp"
-weight: 23 
+weight: 44
 ---
 
 {{< Releases/ReleasesWapper >}}

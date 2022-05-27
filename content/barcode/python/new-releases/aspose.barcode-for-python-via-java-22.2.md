@@ -13,7 +13,7 @@ download_count: "   2/24/2022  Downloads: 2  Views: 21"
 file_size: "  File Size: 11.6 MB "
 parent_path: "barcode/python"
 section_parent_path: "barcode/python"
-weight: 2 
+weight: 27
 ---
 
 {{< Releases/ReleasesWapper >}}

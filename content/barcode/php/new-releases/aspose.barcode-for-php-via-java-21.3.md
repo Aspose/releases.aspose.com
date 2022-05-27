@@ -13,7 +13,7 @@ download_count: "   3/30/2021  Downloads: 2  Views: 109"
 file_size: "  File Size: 11.9 MB "
 parent_path: "barcode/php"
 section_parent_path: "barcode/php"
-weight: 22 
+weight: 36
 ---
 
 {{< Releases/ReleasesWapper >}}

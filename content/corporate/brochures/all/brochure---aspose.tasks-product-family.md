@@ -13,7 +13,7 @@ download_count: "   4/15/2014  Downloads: 450  Views: 1110"
 file_size: "  File Size: 682.0 KB "
 parent_path: "corporate/brochures/all"
 section_parent_path: "corporate/brochures"
-weight: 9 
+weight: 21
 ---
 
 {{< Releases/ReleasesWapper >}}

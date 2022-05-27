@@ -13,7 +13,7 @@ download_count: "   3/4/2011  Downloads: 4  Views: 351"
 file_size: "  File Size: 2.3 MB "
 parent_path: "email/sharepoint"
 section_parent_path: "email/sharepoint"
-weight: 8 
+weight: 2
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -13,7 +13,7 @@ download_count: "   8/23/2017  Downloads: 8  Views: 1065"
 file_size: "  File Size: 16.3 MB "
 parent_path: "cells/sharepoint"
 section_parent_path: "cells/sharepoint"
-weight: 2 
+weight: 18
 ---
 
 {{< Releases/ReleasesWapper >}}

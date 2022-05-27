@@ -13,7 +13,7 @@ download_count: "   9/22/2021  Downloads: 1841  Views: 875"
 file_size: "  File Size: 555.7 MB "
 parent_path: "total/jasperreports"
 section_parent_path: "total/jasperreports"
-weight: 1 
+weight: 1
 ---
 
 {{< Releases/ReleasesWapper >}}

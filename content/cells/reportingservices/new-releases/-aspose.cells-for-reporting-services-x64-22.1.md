@@ -13,7 +13,7 @@ download_count: "   1/14/2022  Downloads: 5  Views: 43"
 file_size: "  File Size: 29.6 MB "
 parent_path: "cells/reportingservices"
 section_parent_path: "cells/reportingservices"
-weight: 8 
+weight: 196
 ---
 
 {{< Releases/ReleasesWapper >}}

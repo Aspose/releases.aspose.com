@@ -13,7 +13,7 @@ download_count: "   7/18/2019  Downloads: 52  Views: 1207"
 file_size: "  File Size: 65.2 MB "
 parent_path: "cells/net"
 section_parent_path: "cells/net"
-weight: 75 
+weight: 590
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -13,7 +13,7 @@ download_count: "   12/8/2020  Downloads: 10  Views: 44"
 file_size: "  File Size: 3.4 MB "
 parent_path: "font/net"
 section_parent_path: "font/net"
-weight: 20 
+weight: 17
 ---
 
 {{< Releases/ReleasesWapper >}}

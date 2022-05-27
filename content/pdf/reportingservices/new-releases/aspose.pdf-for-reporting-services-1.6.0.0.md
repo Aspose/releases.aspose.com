@@ -14,7 +14,7 @@ download_count: "   9/30/2009  Downloads: 95  Views: 470"
 file_size: "  File Size: 12.2 MB "
 parent_path: "pdf/reportingservices"
 section_parent_path: "pdf/reportingservices"
-weight: 47 
+weight: 62
 ---
 
 {{< Releases/ReleasesWapper >}}

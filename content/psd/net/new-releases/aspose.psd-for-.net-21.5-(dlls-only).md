@@ -13,7 +13,7 @@ download_count: "   5/13/2021  Downloads: 10  Views: 29"
 file_size: "  File Size: 17.9 MB "
 parent_path: "psd/net"
 section_parent_path: "psd/net"
-weight: 33 
+weight: 134
 ---
 
 {{< Releases/ReleasesWapper >}}

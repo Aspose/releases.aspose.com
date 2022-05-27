@@ -13,7 +13,7 @@ download_count: "   9/30/2020  Downloads: 1  Views: 6"
 file_size: "  File Size: 192.1 MB "
 parent_path: "ocr/cpp"
 section_parent_path: "ocr/cpp"
-weight: 29 
+weight: 38
 ---
 
 {{< Releases/ReleasesWapper >}}

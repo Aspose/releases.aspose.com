@@ -13,7 +13,7 @@ download_count: "   12/24/2018  Downloads: 11  Views: 1170"
 file_size: "  File Size: 57.7 MB "
 parent_path: "words/reportingservices"
 section_parent_path: "words/reportingservices"
-weight: 32 
+weight: 255
 ---
 
 {{< Releases/ReleasesWapper >}}

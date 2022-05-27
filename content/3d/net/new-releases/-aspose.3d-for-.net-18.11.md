@@ -13,7 +13,7 @@ download_count: "   11/6/2018  Downloads: 21  Views: 14"
 file_size: "  File Size: 6.5 MB "
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-weight: 91 
+weight: 224
 ---
 
 {{< Releases/ReleasesWapper >}}

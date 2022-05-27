@@ -13,7 +13,7 @@ download_count: "   Added: 4 weeks ago [3/15/2022]  Downloads: 10988  Views: 296
 file_size: "  File Size: 1.1 GB "
 parent_path: "total/net"
 section_parent_path: "total/net"
-weight: 1 
+weight: 1
 ---
 
 {{< Releases/ReleasesWapper >}}
