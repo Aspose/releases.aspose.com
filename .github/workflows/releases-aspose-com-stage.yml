@@ -39,7 +39,7 @@ jobs:
             
       # Also specifies the theme we want to use
       - name: Build
-        run: hugo --config "./config/config-stage-releases-aspose-com.toml"
+        run: hugo --config "./config/config-stage-releases-aspose-com.toml" --minify
         
       - name: Deploy releases-qa.aspose.com (Stage) to S3
         run: hugo --config "./config/config-stage-releases-aspose-com.toml" deploy --target "Stage" --maxDeletes -1
