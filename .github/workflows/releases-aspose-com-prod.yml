@@ -51,7 +51,7 @@ jobs:
       - name: invalidate json file
         uses: chetan/invalidate-cloudfront-action@master
         env:
-          DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION }}
+          DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION_PROD }}
           PATHS_FROM: /*
           AWS_REGION: 'us-west-2'
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
