@@ -7,7 +7,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreErrors = ["error-disable-taxonomy"]
 [params]
     # googleAnalytics = ""
-    # googletagmanager = ""
+     googletagmanager = "GTM-NJMHSH"
      backendURL = "https://releases.admin.aspose.com"
      dynamicmenuid = "aspose-en"
      faviconfolder = "aspose"
