@@ -17,17 +17,17 @@
             var element =  $( '#tree a[href*=\"'+ parentlink +'\"]' );
               var ParentNodeId =  element.parent();
               if(ParentNodeId){
-                  console.log('current active start');
-                  console.log(ParentNodeId);
+                  //console.log('current active start');
+                  //console.log(ParentNodeId);
                   ParentNodeId.addClass(' active-child currentpage');
-                  console.log('current active end')
+                  //console.log('current active end')
              }
           
           }
-          console.log('parent active start')
+          //console.log('parent active start')
           $(".glyphicon-minus").parent().addClass(' active-child');
           $(".glyphicon-minus").parent('li').addClass(' active-childtest');
-          console.log('parent active start')
+          //console.log('parent active start')
     }, "1000")
   });
  </script>
