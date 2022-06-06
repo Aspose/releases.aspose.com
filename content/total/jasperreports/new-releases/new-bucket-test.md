@@ -10,7 +10,7 @@ download_link: "/total/jasperreports/new-releases/new-bucket-test/3cc3f49572821e
 download_text: "Download"
 intro_text: "New Bucket test"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 6/6/2022 Downloads: 0  Views: 0 "
+download_count: " 6/6/2022 Downloads: 1  Views: 0 "
 file_size: "File Size: 699 B"
 parent_path: "total/jasperreports"
 weight: 6
@@ -27,7 +27,7 @@ weight: 6
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-3cc3f49572821e48e20c3efa6d7050af-1-7399" >}} 0 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-3cc3f49572821e48e20c3efa6d7050af-1-7399" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
       {{< Common/li id="size-update-3cc3f49572821e48e20c3efa6d7050af-1-7399" >}} 699 B {{< /Common/li >}}
 
