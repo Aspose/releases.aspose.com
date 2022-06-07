@@ -6,7 +6,7 @@ name: releases.aspose.com (Prod)
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
-    branches: [ main1 ]
+    branches: [ main ]
     paths:
       - 'content/**'
   pull_request:
