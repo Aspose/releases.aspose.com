@@ -10,10 +10,10 @@ download_link: "/imaging/java/new-releases/aspose.imaging-for-java-22.6/5535e339
 download_text: "Download"
 intro_text: "It contains Aspose.Imaging for Java 22.6 release."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 8/6/2022 Downloads: 1  Views: 1 "
+download_count: " 8/6/2022 Downloads: 0  Views: 0 "
 file_size: "File Size: 35.18MB"
 parent_path: "imaging/java"
-weight: 75
+weight: 140
 
 ---
 
@@ -27,7 +27,7 @@ weight: 75
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-5535e339ef339b636523095664d91a3a-8-7403" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-5535e339ef339b636523095664d91a3a-8-7403" >}} 0 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
       {{< Common/li id="size-update-5535e339ef339b636523095664d91a3a-8-7403" >}} 35.18MB {{< /Common/li >}}
 
