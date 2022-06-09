@@ -48,11 +48,33 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
           
           
-      - name: invalidate json file
+      - name: get updated files
+        run: |
+          # This will check the modified .md files and get unique base paths for invalidation
+          set +e
+          FILES=($(git log --stat="1000" -1 | grep '|' | awk '{print "/"$1}' | grep -e '\.md$'))
+          set -e
+          [ -z "$FILES" ] && touch .updated_files && exit 0
+          for file in $FILES; do
+            p="$(dirname ${file})"
+            echo $p | sed -e 's/\/content\/sites\/products.containerize.com\/en//'
+          done | sort | uniq | tr '\n' ' ' > .updated_files
+      
+      # Invalidate Cloudfront (this action)
+      - name: invalidate
         uses: chetan/invalidate-cloudfront-action@master
         env:
           DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION }}
-          PATHS_FROM: /*
+          PATHS_FROM: .updated_files
+          AWS_REGION: 'us-west-2'
+          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+      # Invalidate Cloudfront Home Page
+      - name: invalidate
+        uses: chetan/invalidate-cloudfront-action@master
+        env:
+          DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION }}
+          PATHS_FROM: /
           AWS_REGION: 'us-west-2'
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
