@@ -48,7 +48,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
           
           
-      - name: invalidate json file
+      - name: invalidate cloudfront
         uses: chetan/invalidate-cloudfront-action@master
         env:
           DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION_PROD }}
