@@ -10,10 +10,10 @@ download_link: "/imaging/net/new-releases/aspose.imaging-for-.net-22.6/5793f8bfb
 download_text: "Download"
 intro_text: "It contains Aspose.Imaging for .NET 22.6 release."
 image_link: "/resources/img/msi-icon.png"
-download_count: " 8/6/2022 Downloads: 1  Views: 1 "
+download_count: " 8/6/2022 Downloads: 2  Views: 0 "
 file_size: "File Size: 38.41MB"
 parent_path: "imaging/net"
-weight: 171
+weight: 341
 
 ---
 
@@ -27,7 +27,7 @@ weight: 171
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-5793f8bfb098bd71709a1f6a15d01d3c-8-7401" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-5793f8bfb098bd71709a1f6a15d01d3c-8-7401" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
       {{< Common/li id="size-update-5793f8bfb098bd71709a1f6a15d01d3c-8-7401" >}} 38.41MB {{< /Common/li >}}
 
