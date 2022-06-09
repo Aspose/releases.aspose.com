@@ -16,7 +16,7 @@ weight: 2
 <!-- ProductPageContent-->
 {{< Common/wrapper class="col-md-12" >}}
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/h1 text="Aspose.Total for Python via Java " >}}
+{{< Common/h1 text="Aspose.Total for Python via Java" >}}
         {{< Common/paragraph>}}
         {{< Common/ul>}}
         {{< Common/li >}} {{< /Common/li >}}
