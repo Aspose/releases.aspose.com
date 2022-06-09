@@ -57,7 +57,7 @@ jobs:
           [ -z "$FILES" ] && touch .updated_files && exit 0
           for file in $FILES; do
             p="$(dirname ${file})"
-            echo $p | sed -e 's/\/content\/sites\/products.containerize.com\/en//'
+             echo $p | sed -e 's/\/content/'
           done | sort | uniq | tr '\n' ' ' > .updated_files
       
       # Invalidate Cloudfront (this action)
@@ -74,7 +74,7 @@ jobs:
         uses: chetan/invalidate-cloudfront-action@master
         env:
           DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION }}
-          PATHS_FROM: /.
+          PATHS: / /index.html /index.json
           AWS_REGION: 'us-west-2'
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
