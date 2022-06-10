@@ -15,7 +15,7 @@ file_size: "File Size: 84.6 MB"
 parent_path: "pub/cpp"
 section_parent_path: "pub/cpp"
 
-release_notes_url: "https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-22-5-release-notes/""
+release_notes_url: "https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-22-5-release-notes/"
 weight: 51
 
 ---
