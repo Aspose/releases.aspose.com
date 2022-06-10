@@ -52,7 +52,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Page/" text="Nu
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.Page {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/page/net/aspose-page-for-net-21-10-release-notes/" text="https://docs.aspose.com/page/net/aspose-page-for-net-21-10-release-notes/"  >}}
+{{< Common/release-notes-link family="page" product="net" href="https://docs.aspose.com/page/net/aspose-page-for-net-21-10-release-notes/" text="https://docs.aspose.com/page/net/aspose-page-for-net-21-10-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

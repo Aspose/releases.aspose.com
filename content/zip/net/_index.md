@@ -45,7 +45,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Zip/" text="NuG
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.ZIP {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/zip/net/aspose-zip-for-net-22-1-release-notes/" text="https://docs.aspose.com/zip/net/aspose-zip-for-net-22-1-release-notes/"  >}}
+{{< Common/release-notes-link family="zip" product="net" href="https://docs.aspose.com/zip/net/aspose-zip-for-net-22-1-release-notes/" text="https://docs.aspose.com/zip/net/aspose-zip-for-net-22-1-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

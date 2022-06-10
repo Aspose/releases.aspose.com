@@ -42,7 +42,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Font/" text="Nu
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.Font {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/font/net/aspose-font-for-net-21-12-release-notes/" text="https://docs.aspose.com/font/net/aspose-font-for-net-21-12-release-notes/"  >}}
+{{< Common/release-notes-link family="font" product="net" href="https://docs.aspose.com/font/net/aspose-font-for-net-21-12-release-notes/" text="https://docs.aspose.com/font/net/aspose-font-for-net-21-12-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

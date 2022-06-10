@@ -54,7 +54,7 @@ You can easily use Aspose.Note for Java directly from a {{< Common/link href="ht
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/note/java/aspose-note-for-java-22-1-release-notes/" text="https://docs.aspose.com/note/java/aspose-note-for-java-22-1-release-notes/"  >}}
+{{< Common/release-notes-link family="note" product="java" href="https://docs.aspose.com/note/java/aspose-note-for-java-22-1-release-notes/" text="https://docs.aspose.com/note/java/aspose-note-for-java-22-1-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

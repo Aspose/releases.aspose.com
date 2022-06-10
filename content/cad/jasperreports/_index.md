@@ -55,7 +55,7 @@ You can easily use aspose-cad-jasperreports for Java directly from a {{< Common/
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/cad/jasperreports/aspose-cad-for-jasperreports-20-12-release-notes/" text="https://docs.aspose.com/cad/jasperreports/aspose-cad-for-jasperreports-20-12-release-notes/"  >}}
+{{< Common/release-notes-link family="cad" product="jasperreports" href="https://docs.aspose.com/cad/jasperreports/aspose-cad-for-jasperreports-20-12-release-notes/" text="https://docs.aspose.com/cad/jasperreports/aspose-cad-for-jasperreports-20-12-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

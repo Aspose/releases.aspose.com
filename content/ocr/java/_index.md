@@ -62,7 +62,7 @@ You can easily use Aspose.OCR for Java directly from a {{< Common/link href="htt
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/ocr/java/aspose-ocr-for-java-21-10-release-notes/" text="https://docs.aspose.com/ocr/java/aspose-ocr-for-java-21-10-release-notes/"  >}}
+{{< Common/release-notes-link family="ocr" product="java" href="https://docs.aspose.com/ocr/java/aspose-ocr-for-java-21-10-release-notes/" text="https://docs.aspose.com/ocr/java/aspose-ocr-for-java-21-10-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

@@ -52,7 +52,7 @@ You can easily use Aspose.OMR for Java directly from a {{< Common/link href="htt
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/omr/java/aspose-omr-for-java-19-12-release-notes/" text="https://docs.aspose.com/omr/java/aspose-omr-for-java-19-12-release-notes/"  >}}
+{{< Common/release-notes-link family="omr" product="java" href="https://docs.aspose.com/omr/java/aspose-omr-for-java-19-12-release-notes/" text="https://docs.aspose.com/omr/java/aspose-omr-for-java-19-12-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

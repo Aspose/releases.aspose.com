@@ -48,7 +48,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Email.Cpp/" tex
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.Email.Cpp {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/email/cpp/aspose-email-for-cpp-21-10-release-notes/" text="https://docs.aspose.com/email/cpp/aspose-email-for-cpp-21-10-release-notes/"  >}}
+{{< Common/release-notes-link family="email" product="cpp" href="https://docs.aspose.com/email/cpp/aspose-email-for-cpp-21-10-release-notes/" text="https://docs.aspose.com/email/cpp/aspose-email-for-cpp-21-10-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

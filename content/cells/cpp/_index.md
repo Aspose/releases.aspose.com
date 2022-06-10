@@ -44,7 +44,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Cells.Cpp/" tex
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.Cells.Cpp {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-3-release-notes-windows/" text="https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-3-release-notes-windows/"  >}}
+{{< Common/release-notes-link href="https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-3-release-notes-windows/" text="https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-3-release-notes-windows/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

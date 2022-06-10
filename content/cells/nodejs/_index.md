@@ -42,7 +42,7 @@ You can easily use <b>aspose.cells</b> for Javascript from {{< Common/link href=
        {{< consolebox/textarea id="npm" >}} npm install aspose.cells {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/cells/nodejsjava/aspose-cells-for-node-js-via-java-22-3-release-notes/" text="https://docs.aspose.com/cells/nodejsjava/aspose-cells-for-node-js-via-java-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="nodejs" href="https://docs.aspose.com/cells/nodejsjava/aspose-cells-for-node-js-via-java-22-3-release-notes/" text="https://docs.aspose.com/cells/nodejsjava/aspose-cells-for-node-js-via-java-22-3-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

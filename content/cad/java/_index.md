@@ -50,7 +50,7 @@ You can easily use Aspose.CAD for Java directly from a {{< Common/link href="htt
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/cad/java/aspose-cad-for-java-22-1-release-notes/" text="https://docs.aspose.com/cad/java/aspose-cad-for-java-22-1-release-notes/"  >}}
+{{< Common/release-notes-link family="cad" product="java" href="https://docs.aspose.com/cad/java/aspose-cad-for-java-22-1-release-notes/" text="https://docs.aspose.com/cad/java/aspose-cad-for-java-22-1-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

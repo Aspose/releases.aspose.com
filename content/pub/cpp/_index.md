@@ -34,7 +34,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.PUB.Cpp" text="
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.PUB.Cpp {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-21-7-release-notes/" text="https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-21-7-release-notes/"  >}}
+{{< Common/release-notes-link family="pub" product="cpp" href="https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-21-7-release-notes/" text="https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-21-7-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

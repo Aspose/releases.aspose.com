@@ -42,7 +42,7 @@ You can easily use <b>aspose.diagram</b> for Javascript from {{< Common/link hre
        {{< consolebox/textarea id="npm" >}} npm install aspose.diagram {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java-22-3-release-notes/" text="https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="diagram" product="nodejs" href="https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java-22-3-release-notes/" text="https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java-22-3-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

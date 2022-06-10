@@ -45,7 +45,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Font.Cpp/" text
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.Font.Cpp {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/font/cpp/aspose-font-for-cpp-21-10-release-notes/" text="https://docs.aspose.com/font/cpp/aspose-font-for-cpp-21-10-release-notes/"  >}}
+{{< Common/release-notes-link family="font" product="cpp" href="https://docs.aspose.com/font/cpp/aspose-font-for-cpp-21-10-release-notes/" text="https://docs.aspose.com/font/cpp/aspose-font-for-cpp-21-10-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

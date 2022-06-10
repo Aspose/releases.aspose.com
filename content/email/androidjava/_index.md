@@ -55,7 +55,7 @@ You can easily use Aspose.Email for Java directly from a {{< Common/link href="h
         classifier: 'android.via.java') {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/email/java/aspose-email-for-java-22-1-release-notes/" text="https://docs.aspose.com/email/java/aspose-email-for-java-22-1-release-notes/"  >}}
+{{< Common/release-notes-link family="email" product="androidjava" href="https://docs.aspose.com/email/java/aspose-email-for-java-22-1-release-notes/" text="https://docs.aspose.com/email/java/aspose-email-for-java-22-1-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

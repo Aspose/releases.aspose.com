@@ -45,7 +45,7 @@ You can easily use aspose-pub for Java directly from a {{< Common/link href="htt
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/pub/java/aspose-pub-for-java-20-8-release-notes/" text="https://docs.aspose.com/pub/java/aspose-pub-for-java-20-8-release-notes/"  >}}
+{{< Common/release-notes-link family="pub" product="java" href="https://docs.aspose.com/pub/java/aspose-pub-for-java-20-8-release-notes/" text="https://docs.aspose.com/pub/java/aspose-pub-for-java-20-8-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

@@ -46,7 +46,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.CAD/" text="NuG
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.CAD {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/cad/net/aspose-cad-for-net-22-2-release-notes/" text="https://docs.aspose.com/cad/net/aspose-cad-for-net-22-2-release-notes/"  >}}
+{{< Common/release-notes-link family="cad" product="net" href="https://docs.aspose.com/cad/net/aspose-cad-for-net-22-2-release-notes/" text="https://docs.aspose.com/cad/net/aspose-cad-for-net-22-2-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

@@ -51,7 +51,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Total.Cpp/" tex
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.Total.Cpp {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/total/cpp/aspose-total-for-cpp-release-notes/" text="https://docs.aspose.com/total/cpp/aspose-total-for-cpp-release-notes/"  >}}
+{{< Common/release-notes-link family="total" product="cpp" href="https://docs.aspose.com/total/cpp/aspose-total-for-cpp-release-notes/" text="https://docs.aspose.com/total/cpp/aspose-total-for-cpp-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

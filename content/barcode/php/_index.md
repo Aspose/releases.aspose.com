@@ -42,7 +42,7 @@ aspose/barcode is available on Packagist as the {{< Common/link href="https://pa
        {{< consolebox/textarea id="composer" >}} composer require aspose/barcode {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-22-3/" text="https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-22-3/"  >}}
+{{< Common/release-notes-link family="barcode" product="php" href="https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-22-3/" text="https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-22-3/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

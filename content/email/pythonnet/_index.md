@@ -41,7 +41,7 @@ You can easily use  <b>Aspose.Email-for-Python-via-NET</b> for Python from  {{< 
        {{< consolebox/textarea id="pip" >}} pip install Aspose.Email-for-Python-via-NET {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/email/pythonnet/aspose-email-for-python-via-net-20-8-release-notes/" text="https://docs.aspose.com/email/pythonnet/aspose-email-for-python-via-net-20-8-release-notes/"  >}}
+{{< Common/release-notes-link family="email" product="pythonnet" href="https://docs.aspose.com/email/pythonnet/aspose-email-for-python-via-net-20-8-release-notes/" text="https://docs.aspose.com/email/pythonnet/aspose-email-for-python-via-net-20-8-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

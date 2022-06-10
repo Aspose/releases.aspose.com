@@ -54,7 +54,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.BarCode/" text=
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.BarCode {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-3-release-notes/" text="https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="net" href="https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-3-release-notes/" text="https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-3-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

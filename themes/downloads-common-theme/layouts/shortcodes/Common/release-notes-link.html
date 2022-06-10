@@ -1,0 +1,12 @@
+{{ $href := .Get "href" }}
+{{ $text := .Get "text" }}
+{{ $family := .Get "family" }} 
+{{ $product := .Get "product" }} 
+{{$parent_path := print $family "/" $product}} 
+{{- $.Scratch.Set "latest_release_notes_url" $href -}}
+{{ range first 1 ( where (where (where $.Site.Pages.ByWeight.Reverse ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.section_parent_path" $parent_path ) }}
+        {{ if isset .Params "release_notes_url" }}
+                {{- $.Scratch.Set "latest_release_notes_url" .Params.release_notes_url -}}
+        {{ end }}
+{{ end }}
+<a class="release-notes-link-latest" href='{{ $.Scratch.Get "latest_release_notes_url" }}'>{{ $.Scratch.Get "latest_release_notes_url" }}</a>

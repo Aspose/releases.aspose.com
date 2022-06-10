@@ -34,7 +34,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.TeX/" text="NuG
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.TeX {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/tex/net/aspose-tex-for-net-21-11-release-notes/" text="https://docs.aspose.com/tex/net/aspose-tex-for-net-21-11-release-notes/"  >}}
+{{< Common/release-notes-link family="tex" product="net" href="https://docs.aspose.com/tex/net/aspose-tex-for-net-21-11-release-notes/" text="https://docs.aspose.com/tex/net/aspose-tex-for-net-21-11-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

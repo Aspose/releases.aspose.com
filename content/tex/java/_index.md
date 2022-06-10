@@ -45,7 +45,7 @@ You can easily use aspose-tex for Java directly from a {{< Common/link href="htt
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/tex/java/aspose-tex-for-java-21-11-release-notes/" text="https://docs.aspose.com/tex/java/aspose-tex-for-java-21-11-release-notes/"  >}}
+{{< Common/release-notes-link directdownload="true" family="tex" product="java" href="https://docs.aspose.com/tex/java/aspose-tex-for-java-21-11-release-notes/" text="https://docs.aspose.com/tex/java/aspose-tex-for-java-21-11-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

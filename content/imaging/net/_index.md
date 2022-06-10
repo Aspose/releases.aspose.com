@@ -52,7 +52,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Imaging/" text=
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.Imaging {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-3-release-notes/" text="https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="net" href="https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-3-release-notes/" text="https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-3-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

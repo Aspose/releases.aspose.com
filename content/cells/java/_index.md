@@ -63,7 +63,7 @@ You can easily use Aspose.Cells for Java directly from a {{< Common/link href="h
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/cells/java/aspose-cells-for-java-22-3-release-notes" text="https://docs.aspose.com/cells/java/aspose-cells-for-java-22-3-release-notes"  >}}
+{{< Common/release-notes-link family="cells" product="java" href="https://docs.aspose.com/cells/java/aspose-cells-for-java-22-3-release-notes" text="https://docs.aspose.com/cells/java/aspose-cells-for-java-22-3-release-notes"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

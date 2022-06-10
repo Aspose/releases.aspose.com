@@ -42,7 +42,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Tasks.Cpp/" tex
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.Tasks.Cpp {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-2-release-notes" text="https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-2-release-notes"  >}}
+{{< Common/release-notes-link family="tasks" product="cpp" href="https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-2-release-notes" text="https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-2-release-notes"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

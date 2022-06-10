@@ -36,7 +36,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Total" text="Nu
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.Total {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/total/net/aspose-total-for-net-release-notes/" text="https://docs.aspose.com/total/net/aspose-total-for-net-release-notes/"  >}}
+{{< Common/release-notes-link family="total" product="net" href="https://docs.aspose.com/total/net/aspose-total-for-net-release-notes/" text="https://docs.aspose.com/total/net/aspose-total-for-net-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

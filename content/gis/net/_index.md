@@ -46,7 +46,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.GIS/" text="NuG
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.GIS {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/gis/net/aspose-gis-for-net-22-3-release-notes/" text="https://docs.aspose.com/gis/net/aspose-gis-for-net-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="gis" product="net" href="https://docs.aspose.com/gis/net/aspose-gis-for-net-22-3-release-notes/" text="https://docs.aspose.com/gis/net/aspose-gis-for-net-22-3-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

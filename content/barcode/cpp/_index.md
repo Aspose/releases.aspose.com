@@ -41,7 +41,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.BarCode.Cpp" te
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.BarCode.Cpp {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-22-2-release-notes/" text="https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-22-2-release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="cpp" href="https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-22-2-release-notes/" text="https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-22-2-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

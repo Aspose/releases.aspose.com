@@ -45,7 +45,7 @@ You can easily use aspose-font for Java directly from a {{< Common/link href="ht
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/font/java/aspose-font-for-java-21-10-release-notes/" text="https://docs.aspose.com/font/java/aspose-font-for-java-21-10-release-notes/"  >}}
+{{< Common/release-notes-link family="font" product="java" href="https://docs.aspose.com/font/java/aspose-font-for-java-21-10-release-notes/" text="https://docs.aspose.com/font/java/aspose-font-for-java-21-10-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

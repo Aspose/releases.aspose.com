@@ -43,7 +43,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.HTML/" text="Nu
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.HTML {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/html/net/release-notes/release-notes-2022/aspose-html-for-net-22-3-release-notes/" text="https://docs.aspose.com/html/net/release-notes/release-notes-2022/aspose-html-for-net-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="html" product="net" href="https://docs.aspose.com/html/net/release-notes/release-notes-2022/aspose-html-for-net-22-3-release-notes/" text="https://docs.aspose.com/html/net/release-notes/release-notes-2022/aspose-html-for-net-22-3-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

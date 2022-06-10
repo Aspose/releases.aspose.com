@@ -50,7 +50,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.OCR.Cpp" text="
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.OCR.Cpp {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22.3-release-notes/" text="https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22.3-release-notes/"  >}}
+{{< Common/release-notes-link family="ocr" product="cpp" href="https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22.3-release-notes/" text="https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22.3-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

@@ -42,7 +42,7 @@ aspose/cells is available on Packagist as the {{< Common/link href="https://pack
        {{< consolebox/textarea id="composer" >}} composer require aspose/cells {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-3-release-notes/" text="https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="php" href="https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-3-release-notes/" text="https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-3-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

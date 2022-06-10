@@ -54,7 +54,7 @@ You can easily use Aspose.HTML for Java directly from a {{< Common/link href="ht
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/html/java/aspose-html-for-java-21-6-release-notes" text="https://docs.aspose.com/html/java/aspose-html-for-java-21-6-release-notes"  >}}
+{{< Common/release-notes-link family="html" product="java" href="https://docs.aspose.com/html/java/aspose-html-for-java-21-6-release-notes" text="https://docs.aspose.com/html/java/aspose-html-for-java-21-6-release-notes"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

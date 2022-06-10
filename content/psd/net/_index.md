@@ -58,7 +58,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.PSD/" text="NuG
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.PSD {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/psd/net/aspose-psd-for-net-22-3-release-notes/" text="https://docs.aspose.com/psd/net/aspose-psd-for-net-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="psd" product="net" href="https://docs.aspose.com/psd/net/aspose-psd-for-net-22-3-release-notes/" text="https://docs.aspose.com/psd/net/aspose-psd-for-net-22-3-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

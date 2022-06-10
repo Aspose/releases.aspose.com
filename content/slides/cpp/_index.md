@@ -46,7 +46,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Slides.Cpp/" te
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.Slides.Cpp {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-22-3-release-notes/" text="https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="slides" product="cpp" href="https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-22-3-release-notes/" text="https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-22-3-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

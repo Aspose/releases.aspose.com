@@ -50,7 +50,7 @@ You can easily use Aspose.Cells for Java directly from a {{< Common/link href="h
         classifier: 'android.via.java') {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-22-3-release-notes/" text="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-22-3-release-notes/"  >}}
+{{< Common/release-notes-link href="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-22-3-release-notes/" text="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-22-3-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

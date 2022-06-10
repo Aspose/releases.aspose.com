@@ -60,7 +60,7 @@ You can easily use Aspose.Words for Java directly from a {{< Common/link href="h
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/words/java/aspose-words-for-java-22-3-release-notes/" text="https://docs.aspose.com/words/java/aspose-words-for-java-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="java" href="https://docs.aspose.com/words/java/aspose-words-for-java-22-3-release-notes/" text="https://docs.aspose.com/words/java/aspose-words-for-java-22-3-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

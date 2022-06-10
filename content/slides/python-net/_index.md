@@ -39,7 +39,7 @@ You can easily use  <b>aspose.slides</b> for Python from  {{< Common/link href="
        {{< consolebox/textarea id="pip" >}} pip install aspose.slides {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="" text=""  >}}
+{{< Common/release-notes-link family="slides" product="python-net" href="" text=""  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

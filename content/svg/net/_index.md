@@ -42,7 +42,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.SVG/" text="NuG
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.SVG {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/svg/net/aspose-svg-for-net-22-3-release-notes/" text="https://docs.aspose.com/svg/net/aspose-svg-for-net-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="svg" product="net" href="https://docs.aspose.com/svg/net/aspose-svg-for-net-22-3-release-notes/" text="https://docs.aspose.com/svg/net/aspose-svg-for-net-22-3-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

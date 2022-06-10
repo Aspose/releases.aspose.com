@@ -45,7 +45,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Note/" text="Nu
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.Note {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/note/net/aspose-note-for-net-22-1-release-notes/" text="https://docs.aspose.com/note/net/aspose-note-for-net-22-1-release-notes/"  >}}
+{{< Common/release-notes-link family="note" product="net" href="https://docs.aspose.com/note/net/aspose-note-for-net-22-1-release-notes/" text="https://docs.aspose.com/note/net/aspose-note-for-net-22-1-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

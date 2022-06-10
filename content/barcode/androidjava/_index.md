@@ -49,7 +49,7 @@ You can easily use Aspose.BarCode for Java directly from a {{< Common/link href=
  classifier: 'android.via.java') {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-3/" text="https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-3/"  >}}
+{{< Common/release-notes-link family="barcode" product="androidjava" href="https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-3/" text="https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-3/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

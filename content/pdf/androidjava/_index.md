@@ -50,7 +50,7 @@ You can easily use Aspose.PDF for Java directly from a {{< Common/link href="htt
         classifier: 'android.via.java') {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/pdf/java/aspose-pdf-for-android-via-java-20-11-release-notes/" text="https://docs.aspose.com/pdf/java/aspose-pdf-for-android-via-java-20-11-release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="androidjava" family="pdf" product="androidjava" href="https://docs.aspose.com/pdf/java/aspose-pdf-for-android-via-java-20-11-release-notes/" text="https://docs.aspose.com/pdf/java/aspose-pdf-for-android-via-java-20-11-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

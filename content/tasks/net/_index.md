@@ -42,7 +42,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Tasks/" text="N
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.Tasks {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-3-release-notes/" text="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="tasks" product="net" href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-3-release-notes/" text="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-3-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

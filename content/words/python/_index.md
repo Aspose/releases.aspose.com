@@ -42,7 +42,7 @@ You can easily use  <b>aspose-words</b> for Python from  {{< Common/link href="h
        {{< consolebox/textarea id="pip" >}} pip install aspose-words {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="" text=""  >}}
+{{< Common/release-notes-link family="words" product="python" href="" text=""  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

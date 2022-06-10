@@ -67,7 +67,7 @@ You can easily use Aspose.PSD for Java directly from a {{< Common/link href="htt
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/psd/java/aspose-psd-for-java-21-7-release-notes/" text="https://docs.aspose.com/psd/java/aspose-psd-for-java-21-7-release-notes/"  >}}
+{{< Common/release-notes-link family="psd" product="java" href="https://docs.aspose.com/psd/java/aspose-psd-for-java-21-7-release-notes/" text="https://docs.aspose.com/psd/java/aspose-psd-for-java-21-7-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

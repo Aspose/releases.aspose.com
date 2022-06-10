@@ -40,7 +40,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.PUB/" text="NuG
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.PUB {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/pub/net/aspose-pub-for-net-21-9-release-notes/" text="https://docs.aspose.com/pub/net/aspose-pub-for-net-21-9-release-notes/"  >}}
+{{< Common/release-notes-link family="pub" product="net" href="https://docs.aspose.com/pub/net/aspose-pub-for-net-21-9-release-notes/" text="https://docs.aspose.com/pub/net/aspose-pub-for-net-21-9-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

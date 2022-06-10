@@ -34,7 +34,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.TeX.Cpp" text="
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.TeX.Cpp {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-21-9-release-notes/" text="https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-21-9-release-notes/"  >}}
+{{< Common/release-notes-link family="tex" product="cpp" href="https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-21-9-release-notes/" text="https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-21-9-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

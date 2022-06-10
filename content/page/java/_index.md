@@ -62,7 +62,7 @@ You can easily use Aspose.Page for Java directly from a {{< Common/link href="ht
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/link href="https://docs.aspose.com/page/java/aspose-page-for-java-21-12-release-notes/" text="https://docs.aspose.com/page/java/aspose-page-for-java-21-12-release-notes/"  >}}
+{{< Common/release-notes-link family="page" product="java" href="https://docs.aspose.com/page/java/aspose-page-for-java-21-12-release-notes/" text="https://docs.aspose.com/page/java/aspose-page-for-java-21-12-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 
