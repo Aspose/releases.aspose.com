@@ -19,7 +19,7 @@ weight: 7
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Total for Python via .NET" >}}
 {{< Common/paragraph>}}
-{{< Common/link href="https://products.aspose.com/total/python-net" text="Python libraries for document automation"  >}} helps in creating apps with the ability to generate, edit or convert DOC, DOCX, PPT, PPTX, EML, MSG, 3D and other formats.
+{{< Common/link href="https://products.aspose.com/total/python-net" text="Python libraries for document automation"  >}} provides the ability to generate, edit or convert DOC, DOCX, PPT, PPTX, EML, MSG, 3D and other formats.
 {{< Common/h2 text="Python Libraries for Word, PowerPoint & Outlook Files"  >}} 
 {{< Common/ul>}}
 {{< Common/li >}}Render files images with highest fidelity {{< /Common/li >}}
