@@ -16,7 +16,7 @@ parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 
 release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-5-release-notes/"
-weight: 271
+weight: 471
 
 ---
 
