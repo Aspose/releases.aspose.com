@@ -18,7 +18,7 @@ weight:  9
 {{< ProductPageWrapper >}}
 
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  limit="beforecontent" directdownload="false" family="corporate" product="success-stories/aspose.tasks" >}}
+ <!--   {{< Releases/ReleasesListProductPage shownested="false"  limit="beforecontent" directdownload="false" family="corporate" product="success-stories/aspose.tasks" >}} -->
 <!-- /ReleasesListProductPage-->
 
 <!-- ProductPageContent-->

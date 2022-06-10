@@ -18,7 +18,7 @@ weight:  7
 {{< ProductPageWrapper >}}
 
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  limit="beforecontent" directdownload="false" family="slides" product="jasperreport" >}}
+  <!--  {{< Releases/ReleasesListProductPage shownested="false"  limit="beforecontent" directdownload="false" family="slides" product="jasperreport" >}} -->
 <!-- /ReleasesListProductPage-->
 
 <!-- ProductPageContent-->

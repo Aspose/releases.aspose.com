@@ -18,7 +18,7 @@ weight:  5
 {{< ProductPageWrapper >}}
 
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  limit="beforecontent" directdownload="false" family="words" product="sharepoint" >}}
+   <!-- {{< Releases/ReleasesListProductPage shownested="false"  limit="beforecontent" directdownload="false" family="words" product="sharepoint" >}} -->
 <!-- /ReleasesListProductPage-->
 
 <!-- ProductPageContent-->
