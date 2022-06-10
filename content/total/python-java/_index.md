@@ -19,7 +19,7 @@ weight: 8
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Total for Python via Java" >}}
 {{< Common/paragraph>}}
-A {{< Common/link href="https://products.aspose.com/total/python-java" text="Python Library Suit for Microsoft Excel & Visio files"  >}} that helps in creating apps with the ability to create, edit or convert XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX and other formats. It also provides functionality to generate & scan barcodes for hundreds of 1D, 2D and postal barcode types.
+{{< Common/link href="https://products.aspose.com/total/python-java" text="Python Library Suit for Microsoft Excel & Visio files"  >}} that helps create, edit or convert XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX and other formats. It also provides functionality to generate & scan barcodes of 1D, 2D and postal types.
 {{< Common/h2 text="Document Automation Libraries for Python"  >}} 
 {{< Common/ul>}}
 {{< Common/li >}}Read Excel spreadsheets via Python{{< /Common/li >}}
