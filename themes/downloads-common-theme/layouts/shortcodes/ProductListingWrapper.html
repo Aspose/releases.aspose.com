@@ -25,6 +25,7 @@
                                 </div>
                             {{end}}
                         {{else}}
+                                {{ if not (eq .Params.hide_homepage "yes") }}
                                 <div class="col-md-12">
                                     <div class="panel-body downloadfilebody">
                                         <div class="product">
@@ -38,6 +39,7 @@
                                         </div>
                                     </div>
                                 </div>
+                                {{ end }}
                         {{ end }}
                 {{ end }}
         {{ end }}
