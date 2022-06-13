@@ -58,7 +58,7 @@ You can easily use Aspose.3D for Java directly from a {{< Common/link href="http
        {{< consolebox/textarea id="dependency" >}} <dependency>
      <groupId>com.aspose</groupId>
      <artifactId>aspose-3d</artifactId>
-     <version>22.3</version>
+     <version>22.6</version>
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
