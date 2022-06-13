@@ -58,7 +58,7 @@ You can easily use Aspose.OCR for Java directly from a {{< Common/link href="htt
     <groupId>com.aspose</groupId>
     <artifactId>aspose-ocr</artifactId>
 // <artifactId>aspose-ocr-gpu</artifactId>
-    <version>22.2</version>
+    <version>22.5</version>
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}

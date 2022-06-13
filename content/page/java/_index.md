@@ -58,7 +58,7 @@ You can easily use Aspose.Page for Java directly from a {{< Common/link href="ht
        {{< consolebox/textarea id="dependency" >}} <dependency>
      <groupId>com.aspose</groupId>
      <artifactId>aspose-page</artifactId>
-     <version>21.12</version>
+     <version>22.6</version>
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}

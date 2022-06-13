@@ -48,7 +48,7 @@ You can easily use Aspose.Diagram for Java directly from a {{< Common/link href=
        {{< consolebox/textarea id="dependency" >}} <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-diagram</artifactId>
-    <version>21.11</version>
+    <version>22.6</version>
     <classifier>jdk16</classifier>
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}

@@ -58,7 +58,7 @@ You can easily use Aspose.Imaging for Java directly from a {{< Common/link href=
        {{< consolebox/textarea id="dependency" >}} <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-imaging-java</artifactId>
-    <version>22.3</version>
+    <version>22.6</version>
     <classifier>jdk16</classifier>
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}

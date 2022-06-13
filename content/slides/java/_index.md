@@ -54,7 +54,7 @@ You can easily use Aspose.Slides for Java directly from a {{< Common/link href="
        {{< consolebox/textarea id="dependency" >}} <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-slides</artifactId>
-    <version>22.3</version>
+    <version>22.5/version>
     <classifier>jdk16</classifier>
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}

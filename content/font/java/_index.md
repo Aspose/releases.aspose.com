@@ -40,7 +40,7 @@ You can easily use aspose-font for Java directly from a {{< Common/link href="ht
        {{< consolebox/textarea id="dependency" >}} <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-font</artifactId>
-    <version>21.10</version>
+    <version>21.12</version>
     <type>pom</type>
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}

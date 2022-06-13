@@ -49,7 +49,7 @@ You can easily use Aspose.Note for Java directly from a {{< Common/link href="ht
        {{< consolebox/textarea id="dependency" >}} <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-note</artifactId>
-    <version>22.1</version>
+    <version>22.3</version>
     <classifier>jdk17</classifier>
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}

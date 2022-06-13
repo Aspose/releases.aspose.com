@@ -40,7 +40,7 @@ You can easily use aspose-tex for Java directly from a {{< Common/link href="htt
        {{< consolebox/textarea id="dependency" >}} <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-tex</artifactId>
-    <version>21.11</version>
+    <version>22.4</version>
     <type>jar</type>
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}

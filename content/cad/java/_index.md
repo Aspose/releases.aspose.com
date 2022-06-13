@@ -46,7 +46,7 @@ You can easily use Aspose.CAD for Java directly from a {{< Common/link href="htt
        {{< consolebox/textarea id="dependency" >}} <dependency>
   <groupId>com.aspose</groupId>
   <artifactId>aspose-cad</artifactId>
-  <version>22.1</version>
+  <version>22.2</version>
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}

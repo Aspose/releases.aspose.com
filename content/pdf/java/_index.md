@@ -57,7 +57,7 @@ You can easily use Aspose.PDF for Java directly from a {{< Common/link href="htt
        {{< consolebox/textarea id="dependency" >}} <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-pdf</artifactId>
-    <version>22.3</version>
+    <version>22.5</version>
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}

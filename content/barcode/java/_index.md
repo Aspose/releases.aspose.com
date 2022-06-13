@@ -59,7 +59,7 @@ You can easily use Aspose.BarCode for Java directly from a {{< Common/link href=
        {{< consolebox/textarea id="dependency" >}} <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-barcode</artifactId>
-    <version>22.3</version>
+    <version>22.4</version>
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}

@@ -48,7 +48,7 @@ You can easily use Aspose.Tasks for Java directly from a {{< Common/link href="h
        {{< consolebox/textarea id="dependency" >}} <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-tasks</artifactId>
-    <version>22.3</version>
+    <version>22.5</version>
     <classifier>jdk18</classifier>
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}

@@ -55,7 +55,7 @@ You can easily use Aspose.Words for Java directly from a {{< Common/link href="h
        {{< consolebox/textarea id="dependency" >}} <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-words</artifactId>
-    <version>22.3</version>
+    <version>22.5</version>
     <type>pom</type>
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}

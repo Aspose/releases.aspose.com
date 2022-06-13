@@ -57,7 +57,7 @@ You can easily use Aspose.Email for Java directly from a {{< Common/link href="h
        {{< consolebox/textarea id="dependency" >}} <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-email</artifactId>
-    <version>22.2</version>
+    <version>22.5</version>
     <classifier>jdk16</classifier>
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
