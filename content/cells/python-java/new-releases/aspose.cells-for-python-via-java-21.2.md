@@ -3,23 +3,23 @@ title:  "  Downloads ---New-Releases-aspose.cells-for-python-via-java-21.2 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link: " cells/python/new-releases/aspose.cells-for-python-via-java-21.2/"
+folder_link: " cells/python-java/new-releases/aspose.cells-for-python-via-java-21.2/"
 folder_name: " Aspose.Cells for Python via Java 21.2"
-download_link: " /cells/python/new-releases/aspose.cells-for-python-via-java-21.2/217f721477be43f2b0e5eefc21f45bc1"
+download_link: " /cells/python-java/new-releases/aspose.cells-for-python-via-java-21.2/217f721477be43f2b0e5eefc21f45bc1"
 download_text: " Download"
 Intro_text: " It contains Aspose.Cells for Python via Java 21.2 release."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/7/2021  Downloads: 15  Views: 58"
 file_size: "  File Size: 12.1 MB "
-parent_path: "cells/python"
-section_parent_path: "cells/python"
+parent_path: "cells/python-java"
+section_parent_path: "cells/python-java"
 weight: 8
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt=" Aspose.Cells for Python via Java 21.2" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text=" Download" link="/cells/python/new-releases/aspose.cells-for-python-via-java-21.2/217f721477be43f2b0e5eefc21f45bc1%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.2/217f721477be43f2b0e5eefc21f45bc1%20%20" >}}
     {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}

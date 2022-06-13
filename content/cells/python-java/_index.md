@@ -49,7 +49,7 @@ You can easily use  <b>aspose-cells</b> for Python from  {{< Common/link href="h
 
 
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="cells" product="python" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="cells" product="python-java" >}}
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
