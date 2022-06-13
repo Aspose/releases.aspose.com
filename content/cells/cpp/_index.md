@@ -22,14 +22,14 @@ weight:  3
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Cells for C++" >}}
 {{< Common/paragraph>}}
-Native C++ Library to create, load, manipulate, convert or render Microsoft Excel &amp; OpenOffice Calc files.
+Native C++ Library to create, load, manipulate, convert or render Microsoft Excel & OpenOffice Calc files.
 {{< Common/h2 text="C++ Excel Library"  >}} {{< Common/ul>}}
     {{< Common/li >}} Zero dependency on Microsoft Excel. {{< /Common/li >}}
-   {{< Common/li >}} Simple &amp; reliable {{< Common/link href="https://docs.aspose.com/cells/cpp/supported-file-formats/" text="conversion of Excel &amp; Calc file formats"  >}}. {{< /Common/li >}}
+   {{< Common/li >}} Simple & reliable {{< Common/link href="https://docs.aspose.com/cells/cpp/supported-file-formats/" text="conversion of Excel & Calc file formats"  >}}. {{< /Common/li >}}
    {{< Common/li >}} Comprehensive formatting support. {{< /Common/li >}}
-   {{< Common/li >}} Render worksheets &amp; charts as images &amp; PDF. {{< /Common/li >}}
+   {{< Common/li >}} Render worksheets & charts as images & PDF. {{< /Common/li >}}
    {{< Common/li >}} Robust Formula Calculation Engine. {{< /Common/li >}}
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/cells/cpp/create-pivot-table/" text="Create &amp; manipulate Pivot Tables"  >}} &amp; charts. {{< /Common/li >}}
+   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/cells/cpp/create-pivot-table/" text="Create & manipulate Pivot Tables"  >}} & charts. {{< /Common/li >}}
  {{< /Common/ul>}}
 
 

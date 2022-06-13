@@ -24,7 +24,7 @@ weight:  1
 {{< Common/paragraph>}}
 Aspose.OMR for .NET is a simple-to-use API that allows developers to perform OMR operation on images.
 
-{{< Common/h2 text="OMR Template Generator &amp; Reader"  >}} {{< Common/ul>}}
+{{< Common/h2 text="OMR Template Generator & Reader"  >}} {{< Common/ul>}}
     {{< Common/li >}} Recognize data from tests, exams, questionnaires, surveys with high accuracy rate.&nbsp; {{< /Common/li >}}
    {{< Common/li >}} 
 Read scanned images and photos.&nbsp; {{< /Common/li >}}

@@ -24,12 +24,12 @@ weight:  1
 {{< Common/paragraph>}}
 .NET GIS API can read and write vector GIS data, convert between GIS file formats, create and analyze feature geometries, render maps to SVG and more.
 
-{{< Common/h2 text="GIS Data &amp; Map Processor"  >}} {{< Common/ul>}}
+{{< Common/h2 text="GIS Data & Map Processor"  >}} {{< Common/ul>}}
     {{< Common/li >}} 
 
-Rich set of supported GIS formats including Shapefile, GPX, GML, KML, SVG, GeoJSON, &amp; GeoTIFF. {{< /Common/li >}}
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/gis/net/geometry-processing/" text="Geoprocessing"  >}} &amp; map rendering. {{< /Common/li >}}
-   {{< Common/li >}} Read, write, convert &amp; analyze vector data.&nbsp; {{< /Common/li >}}
+Rich set of supported GIS formats including Shapefile, GPX, GML, KML, SVG, GeoJSON, & GeoTIFF. {{< /Common/li >}}
+   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/gis/net/geometry-processing/" text="Geoprocessing"  >}} & map rendering. {{< /Common/li >}}
+   {{< Common/li >}} Read, write, convert & analyze vector data.&nbsp; {{< /Common/li >}}
    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/gis/net/spatial-reference-systems/" text="Use Spatial Reference Systems"  >}}. {{< /Common/li >}}
  {{< /Common/ul>}}
 

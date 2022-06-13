@@ -39,7 +39,7 @@ weight: 5
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/font/java/aspose-font-for-java-20-10-release-notes/">https://docs.aspose.com/font/java/aspose-font-for-java-20-10-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Java library to manipulate fonts - Load, Draw &amp; Save different font types including TrueType, CFF, OpenType, and Type1, from within Java-based applications.</div>
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/font/java/aspose-font-for-java-20-10-release-notes/">https://docs.aspose.com/font/java/aspose-font-for-java-20-10-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Java library to manipulate fonts - Load, Draw & Save different font types including TrueType, CFF, OpenType, and Type1, from within Java-based applications.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -25,11 +25,11 @@ weight:  3
 Native {{< Common/link href="https://products.aspose.com/pdf/cpp" text="C++ PDF library"  >}} to create, load, manipulate, and render PDF documents from within pure C++ apps.
 {{< Common/h2 text="C++ PDF Parsing Library"  >}} {{< Common/ul>}}
     {{< Common/li >}} Manipulate PDF documents on the fly. {{< /Common/li >}}
-   {{< Common/li >}} Split &amp; merge PDF documents. {{< /Common/li >}}
+   {{< Common/li >}} Split & merge PDF documents. {{< /Common/li >}}
    {{< Common/li >}} Form field processing with easy to use APIs. {{< /Common/li >}}
    {{< Common/li >}} Format content on most granular level. {{< /Common/li >}}
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/pdf/cpp/convert-pdf-to-doc-and-docx-in-cpp/" text="Convert PDF to Word"  >}}&nbsp;&amp; SVG&nbsp;formats. {{< /Common/li >}}
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/pdf/cpp/encrypt-decrypt-and-set-privileges-on-pdf-documents/" text="Encrypt, decrypt &amp; set privileges in PDF documents"  >}}.&nbsp; {{< /Common/li >}}
+   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/pdf/cpp/convert-pdf-to-doc-and-docx-in-cpp/" text="Convert PDF to Word"  >}}&nbsp;& SVG&nbsp;formats. {{< /Common/li >}}
+   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/pdf/cpp/encrypt-decrypt-and-set-privileges-on-pdf-documents/" text="Encrypt, decrypt & set privileges in PDF documents"  >}}.&nbsp; {{< /Common/li >}}
  {{< /Common/ul>}}
 
 

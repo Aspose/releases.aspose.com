@@ -25,9 +25,9 @@ weight:  8
 A scalable and feature-rich API to process Excel spreadsheets using Node.js.&nbsp;
 
 {{< Common/h2 text="Node.js Library for Excel"  >}} {{< Common/ul>}}
-    {{< Common/li >}} Excel &amp; OpenOffice Calc file format conversion. {{< /Common/li >}}
+    {{< Common/li >}} Excel & OpenOffice Calc file format conversion. {{< /Common/li >}}
    {{< Common/li >}} Worksheet styling to the most granular level. {{< /Common/li >}}
-   {{< Common/li >}} Chart creation &amp; rendering. {{< /Common/li >}}
+   {{< Common/li >}} Chart creation & rendering. {{< /Common/li >}}
    {{< Common/li >}} Reliable formula calculation engine and much more. {{< /Common/li >}}
  {{< /Common/ul>}}
 

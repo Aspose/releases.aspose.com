@@ -23,9 +23,9 @@ weight:  10
 {{< Common/h1 text="Aspose.Cells for Python via Java" >}}
 {{< Common/paragraph>}}
 {{< Common/h2 text="Python Library for Excel"  >}} {{< Common/ul>}}
-    {{< Common/li >}} Excel &amp; OpenOffice Calc file format conversion. {{< /Common/li >}}
+    {{< Common/li >}} Excel & OpenOffice Calc file format conversion. {{< /Common/li >}}
    {{< Common/li >}} Worksheet styling to the most granular level. {{< /Common/li >}}
-   {{< Common/li >}} Chart creation &amp; rendering. {{< /Common/li >}}
+   {{< Common/li >}} Chart creation & rendering. {{< /Common/li >}}
    {{< Common/li >}} Reliable formula calculation engine and much more. {{< /Common/li >}}
  {{< /Common/ul>}}
 

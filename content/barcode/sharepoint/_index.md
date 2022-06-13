@@ -88,7 +88,7 @@ weight:  6
                            {{< Common/li >}} UPCE {{< /Common/li >}}
                            {{< Common/li >}} VIN {{< /Common/li >}}
                      {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Barcode Generation &amp; Recognition Formats"  >}}
+                    {{< Common/h3 class=" " text="Barcode Generation & Recognition Formats"  >}}
                     <strong>Image:</strong> JPEG, TIFF, PNG, BMP, GIF, EXIF
                     {{< Common/h3 class=" " text="Save BarCode Labels As"  >}}
                     <strong>Image:</strong> EMF, SVG

@@ -22,7 +22,7 @@ weight:  3
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.CAD for JasperReports" >}}
 {{< Common/paragraph>}}
-A standalone class library to extend JasperReports functionality to process &amp;&nbsp;{{< Common/link href="https://docs.aspose.com/cad/net/converting-cad-drawings-to-pdf-and-raster-image-formats/" text="Render CAD Drawings"  >}}&nbsp;without requiring AutoCAD or any other CAD software. The CAD Class Library allows high quality conversion of DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CFF2 files, layouts and layers to PDF &amp; raster image formats.The major features of Aspose.CAD for JasperReports are listed below: {{< Common/ul>}}
+A standalone class library to extend JasperReports functionality to process &&nbsp;{{< Common/link href="https://docs.aspose.com/cad/net/converting-cad-drawings-to-pdf-and-raster-image-formats/" text="Render CAD Drawings"  >}}&nbsp;without requiring AutoCAD or any other CAD software. The CAD Class Library allows high quality conversion of DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CFF2 files, layouts and layers to PDF & raster image formats.The major features of Aspose.CAD for JasperReports are listed below: {{< Common/ul>}}
  
    {{< Common/li >}} <b>Easy and Lightweight Deployment</b> - Aspose.CAD for JasperReports is written purely in Java and is provided as a single JAR file that can easily be deployed on the machines running JasperReports or integrated with JasperServer. {{< /Common/li >}}
 

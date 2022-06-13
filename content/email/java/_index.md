@@ -22,19 +22,19 @@ weight:  2
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Email for Java" >}}
 {{< Common/paragraph>}}
-A set of email processing APIs to create, manipulate or convert message formats such as MSG, EML &amp; MHT from within Java applications.
+A set of email processing APIs to create, manipulate or convert message formats such as MSG, EML & MHT from within Java applications.
 {{< Common/h2 text="Java Email API"  >}}
  {{< Common/ul>}}
  
-   {{< Common/li >}} Open or save emails in Microsoft Outlook &amp; other formats. {{< /Common/li >}}
+   {{< Common/li >}} Open or save emails in Microsoft Outlook & other formats. {{< /Common/li >}}
 
    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/email/java/supported-file-formats/" text="Conversion of email files to various formats"  >}}. {{< /Common/li >}}
 
-   {{< Common/li >}} Parse, read &amp; save MS Outlook emails, PST &amp; OST files. {{< /Common/li >}}
+   {{< Common/li >}} Parse, read & save MS Outlook emails, PST & OST files. {{< /Common/li >}}
 
-   {{< Common/li >}} Send &amp; receive emails via SMTP, POP3, IMAP, Microsoft Exchange Server. {{< /Common/li >}}
+   {{< Common/li >}} Send & receive emails via SMTP, POP3, IMAP, Microsoft Exchange Server. {{< /Common/li >}}
 
-   {{< Common/li >}} Verify email addresses, email syntax, email domain, mail server &amp; MX records. {{< /Common/li >}}
+   {{< Common/li >}} Verify email addresses, email syntax, email domain, mail server & MX records. {{< /Common/li >}}
 
    {{< Common/li >}} Extract objects from various mail storage formats. {{< /Common/li >}}
 

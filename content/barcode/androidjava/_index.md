@@ -27,8 +27,8 @@ A robust and reliable barcode generation and recognition component, written in J
  {{< Common/ul>}}
     {{< Common/li >}} Supports most established barcode standards and barcode specifications.&nbsp; {{< /Common/li >}}
    {{< Common/li >}} Ability to export barcode to multiple image formats including: BMP, GIF, JPEG, PNG, TIFF and SVG. {{< /Common/li >}}
-   {{< Common/li >}} Supports checksum &amp; supplement data. {{< /Common/li >}}
-   {{< Common/li >}} Optimize barcode scanning &amp; recognition for speed &amp; quality. {{< /Common/li >}}
+   {{< Common/li >}} Supports checksum & supplement data. {{< /Common/li >}}
+   {{< Common/li >}} Optimize barcode scanning & recognition for speed & quality. {{< /Common/li >}}
  {{< /Common/ul>}}
 
 {{< /Common/paragraph>}}

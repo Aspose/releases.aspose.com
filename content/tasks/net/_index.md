@@ -25,8 +25,8 @@ weight:  1
 Project Management APIs that enable the .NET applications to not only read and manipulate Microsoft Project® files but also write MPP and XML formats.
 
 {{< Common/h2 text=".NET Project Management API"  >}} {{< Common/ul>}}
-{{< Common/li >}} Read, edit and write Microsoft Project document formats including MPP &amp; XML. {{< /Common/li >}}
-{{< Common/li >}} Convert, render &amp; print project data to {{< Common/link href="https://docs.aspose.com/tasks/net/supported-file-formats/" text="various formats"  >}}. {{< /Common/li >}}
+{{< Common/li >}} Read, edit and write Microsoft Project document formats including MPP & XML. {{< /Common/li >}}
+{{< Common/li >}} Convert, render & print project data to {{< Common/link href="https://docs.aspose.com/tasks/net/supported-file-formats/" text="various formats"  >}}. {{< /Common/li >}}
 {{< Common/li >}} {{< Common/link href="Importing and Exporting Project Data to Primavera Format" text="Import and export project data to Primavera format"  >}}. {{< /Common/li >}}
 {{< Common/li >}} Change project settings like schedule type, start and finish dates. {{< /Common/li >}}
  {{< /Common/ul>}}

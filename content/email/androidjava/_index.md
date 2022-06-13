@@ -27,11 +27,11 @@ Android API empowers the software developers to design Android app with the abil
 {{< Common/h2 text="Android Email Library"  >}}
  {{< Common/ul>}}
  
-   {{< Common/li >}} Open or save emails in Microsoft Outlook &amp; other formats. {{< /Common/li >}}
+   {{< Common/li >}} Open or save emails in Microsoft Outlook & other formats. {{< /Common/li >}}
 
    {{< Common/li >}} Conversion of email files to various formats. {{< /Common/li >}}
 
-   {{< Common/li >}} Parse, read &amp; save MS Outlook emails, PST &amp; OST files. {{< /Common/li >}}
+   {{< Common/li >}} Parse, read & save MS Outlook emails, PST & OST files. {{< /Common/li >}}
 
    {{< Common/li >}} Extract objects from various mail storage formats. {{< /Common/li >}}
 

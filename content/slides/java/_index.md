@@ -28,9 +28,9 @@ A Presentation Processing Library to read, write, manipulate and convert PowerPo
  
    {{< Common/li >}} Complete control over presentation elements via simple yet flexible object model. {{< /Common/li >}}
 
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/slides/java/converting-a-presentation/" text="Convert presentation"  >}}, template &amp; slideshow file formats to other supported formats. {{< /Common/li >}}
+   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/slides/java/converting-a-presentation/" text="Convert presentation"  >}}, template & slideshow file formats to other supported formats. {{< /Common/li >}}
 
-   {{< Common/li >}} Render whole presentation or selective slides to fixed layout formats as well as raster &amp; vector images. {{< /Common/li >}}
+   {{< Common/li >}} Render whole presentation or selective slides to fixed layout formats as well as raster & vector images. {{< /Common/li >}}
 
    {{< Common/li >}} Load protected presentations or control access to presentations, slides or objects via advanced security features. {{< /Common/li >}}
 

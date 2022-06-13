@@ -25,8 +25,8 @@ weight:  6
 A suite of flexible libraries brought together to produce the most powerful <b>Email Programming Component</b> available today. 
 {{< Common/h2 text="Python Email Library"  >}} {{< Common/ul>}}
     {{< Common/li >}} 
-Implements a number of network protocols including SMTP, MIME, POP3, IMAP for sending &amp; receiving messages without needing to have any other component.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Allows manipulation, extraction &amp; conversion of email files &amp; message archives.&nbsp; {{< /Common/li >}}
+Implements a number of network protocols including SMTP, MIME, POP3, IMAP for sending & receiving messages without needing to have any other component.&nbsp; {{< /Common/li >}}
+   {{< Common/li >}} Allows manipulation, extraction & conversion of email files & message archives.&nbsp; {{< /Common/li >}}
    {{< Common/li >}} Provides classes and algorithms that are useful for time-oriented recurrence patterns, or schedules using iCalendar (2445). {{< /Common/li >}}
  {{< /Common/ul>}}
 

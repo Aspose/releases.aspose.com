@@ -26,9 +26,9 @@ A PHP library that allows developers to quickly and easily add barcode generatio
 {{< Common/h2 text="PHP Barcode Library"  >}} {{< Common/ul>}}
     {{< Common/li >}} 
 Supports most established barcode standards and barcode specifications.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Ability to read &amp; export barcodes in multiple image formats including BMP, GIF, JPEG &amp; PNG.&nbsp; {{< /Common/li >}}
+   {{< Common/li >}} Ability to read & export barcodes in multiple image formats including BMP, GIF, JPEG & PNG.&nbsp; {{< /Common/li >}}
    {{< Common/li >}} Provides full control over barcode labels.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Supports X-dimension &amp; Y-dimension for 2D BarCodes.&nbsp; {{< /Common/li >}}
+   {{< Common/li >}} Supports X-dimension & Y-dimension for 2D BarCodes.&nbsp; {{< /Common/li >}}
  {{< /Common/ul>}}
 
 {{< /Common/paragraph>}}

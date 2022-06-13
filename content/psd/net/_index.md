@@ -28,11 +28,11 @@ weight:  1
 {{< Common/h2 text=".NET Photoshop API"  >}}
  {{< Common/ul>}}
  
-   {{< Common/li >}} Create Photoshop's PSD &amp; PSB files via API. {{< /Common/li >}}
+   {{< Common/li >}} Create Photoshop's PSD & PSB files via API. {{< /Common/li >}}
 
    {{< Common/li >}} Export PSD images to {{< Common/link href="https://docs.aspose.com/psd/net/supported-file-formats/" text="popular image formats"  >}}. {{< /Common/li >}}
 
-   {{< Common/li >}} Image Binarization with fixed &amp; Otsu threshold. {{< /Common/li >}}
+   {{< Common/li >}} Image Binarization with fixed & Otsu threshold. {{< /Common/li >}}
 
    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/psd/net/converting-images/" text="Convert GIF image layers to TIFF"  >}}. {{< /Common/li >}}
 
@@ -40,7 +40,7 @@ weight:  1
 
    {{< Common/li >}} Create, read and write XMP data. {{< /Common/li >}}
 
-   {{< Common/li >}} Apply Median &amp; Wiener filters to reduce image noise. {{< /Common/li >}}
+   {{< Common/li >}} Apply Median & Wiener filters to reduce image noise. {{< /Common/li >}}
 
    {{< Common/li >}} Transform images to black-n-white or grayscale. {{< /Common/li >}}
 

@@ -30,7 +30,7 @@ weight:  2
 
    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/pdf/java/extract-text-from-pdf/" text="Extract text"  >}} from PDF pages or search for particular text segment using regular expressions. {{< /Common/li >}}
 
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/pdf/java/concatenate-pdf-files/" text="Concatenate PDF pages"  >}} or split documents. Replace pages or change the orientation &amp; position of PDF pages. {{< /Common/li >}}
+   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/pdf/java/concatenate-pdf-files/" text="Concatenate PDF pages"  >}} or split documents. Replace pages or change the orientation & position of PDF pages. {{< /Common/li >}}
 
    {{< Common/li >}} Encrypt or decrypt PDF documents as well as set document privileges or modify passwords. {{< /Common/li >}}
 

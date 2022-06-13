@@ -24,7 +24,7 @@ weight:  3
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Words for Android via Java" >}}
 {{< Common/paragraph>}}
-Add {{< Common/link href="https://products.aspose.com/words/android-java" text="Word Document Processing"  >}} capabilities to your Android applications. Create, edit &amp; convert popular documents formats including DOC, DOCX, RTF, ODT, PDF, EPUB and many more.
+Add {{< Common/link href="https://products.aspose.com/words/android-java" text="Word Document Processing"  >}} capabilities to your Android applications. Create, edit & convert popular documents formats including DOC, DOCX, RTF, ODT, PDF, EPUB and many more.
 {{< Common/h2 text="Android Class Library for Word Documents"  >}} {{< Common/ul>}}
  
    {{< Common/li >}} Comprehensive document import and export. {{< /Common/li >}}

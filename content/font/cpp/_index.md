@@ -22,7 +22,7 @@ weight:  3
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Font for C++" >}}
 {{< Common/paragraph>}}
-Manipulate CFF, TTF, TrueType, OpenType &amp; Type1 fonts from your own C++ applications.
+Manipulate CFF, TTF, TrueType, OpenType & Type1 fonts from your own C++ applications.
 
 {{< Common/h2 text="C++ Font Library"  >}} {{< Common/ul>}}
     {{< Common/li >}} 

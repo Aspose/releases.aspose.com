@@ -25,8 +25,8 @@ weight:  3
 Project Management Library that enable the C++ applications to not only read and manipulate Microsoft Project® files but also write MPP and XML formats.
 
 {{< Common/h2 text="C++ Project Management Library"  >}} {{< Common/ul>}}
- {{< Common/li >}} Read, edit and write Microsoft Project document formats including MPP &amp; XML. {{< /Common/li >}}
- {{< Common/li >}} Convert &amp; render project data to various formats. {{< /Common/li >}}
+ {{< Common/li >}} Read, edit and write Microsoft Project document formats including MPP & XML. {{< /Common/li >}}
+ {{< Common/li >}} Convert & render project data to various formats. {{< /Common/li >}}
  {{< Common/li >}} Change project settings like schedule type, start and finish dates. {{< /Common/li >}}
  {{< Common/li >}} Manipulate tasks, resources, assignments, calendar etc through APIs. {{< /Common/li >}}
  {{< /Common/ul>}}

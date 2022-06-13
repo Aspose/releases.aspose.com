@@ -43,7 +43,7 @@ weight:  6
                            {{< Common/li >}} Microsoft PowerPoint is not required to be installed. {{< /Common/li >}}
                            {{< Common/li >}} Public API that you can use to develop your own SharePoint Apps. {{< /Common/li >}}
                      {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Read &amp; Write PowerPoint Files"  >}}
+                    {{< Common/h3 class=" " text="Read & Write PowerPoint Files"  >}}
                      {{< Common/ul>}} 
                            {{< Common/li >}} <strong>Microsoft PowerPoint:</strong> PPT, PPTX, PPS, PPSX, PPTM, PPSM, POTX, POTM {{< /Common/li >}}
                      {{< /Common/ul>}}

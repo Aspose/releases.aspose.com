@@ -22,13 +22,13 @@ weight:  1
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Finance for .NET" >}}
 {{< Common/paragraph>}}
-A .NET class library that helps create &amp; manipulate finance related formats, such as XLBR, iXLBR. 
+A .NET class library that helps create & manipulate finance related formats, such as XLBR, iXLBR. 
 {{< Common/h2 text="C# Finance Library"  >}} {{< Common/ul>}}
     {{< Common/li >}} 
 {{< Common/link href="https://docs.aspose.com/finance/net/create-xbrl-files/" text="Create XBRL instance from scratch"  >}}. {{< /Common/li >}}
-   {{< Common/li >}} Read &amp; validate XBRL &amp; iXBRL files. {{< /Common/li >}}
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/finance/net/convert-xbrl-to-xlsx/" text="Convert XBRL to XLSX"  >}} &amp; IXBRL. {{< /Common/li >}}
-   {{< Common/li >}} Create &amp; convert OFX request &amp; response files. {{< /Common/li >}}
+   {{< Common/li >}} Read & validate XBRL & iXBRL files. {{< /Common/li >}}
+   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/finance/net/convert-xbrl-to-xlsx/" text="Convert XBRL to XLSX"  >}} & IXBRL. {{< /Common/li >}}
+   {{< Common/li >}} Create & convert OFX request & response files. {{< /Common/li >}}
  {{< /Common/ul>}}
 
 {{< /Common/paragraph>}}

@@ -33,7 +33,7 @@ weight:  5
                 {{< Common/paragraph>}}{{< Common/link href="https://products.aspose.com/slides/reporting-services/" text="Aspose.Slides for Reporting Services"  >}} is a Microsoft
                     PowerPoint (PPT and PPS-based) report generation extension with support for all popular Microsoft
                     SQL Server
-                    Reporting Services (32-bit &amp; 64-bit) versions.
+                    Reporting Services (32-bit & 64-bit) versions.
                     {{< /Common/paragraph>}}{{< Common/h3 class=" " text="Features"  >}}
                      {{< Common/ul>}} 
                            {{< Common/li >}} Accurate and high-fidelity rendering of reports. {{< /Common/li >}}
@@ -66,8 +66,8 @@ weight:  5
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Supported Platforms"  >}}
                      {{< Common/ul>}} 
-                           {{< Common/li >}} Microsoft SQL Server 2005 Reporting Services (32-bit &amp; 64-bit) {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft SQL Server 2008 Reporting Services (32-bit &amp; 64-bit) {{< /Common/li >}}
+                           {{< Common/li >}} Microsoft SQL Server 2005 Reporting Services (32-bit & 64-bit) {{< /Common/li >}}
+                           {{< Common/li >}} Microsoft SQL Server 2008 Reporting Services (32-bit & 64-bit) {{< /Common/li >}}
                            {{< Common/li >}} .NET Framework 2.0 {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Supported Microsoft PowerPoint Versions"  >}}

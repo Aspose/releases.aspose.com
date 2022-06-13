@@ -22,7 +22,7 @@ weight:  1
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.PUB for .NET" >}}
 {{< Common/paragraph>}}
-Read &amp; convert PUB files to PDF document via .NET API.
+Read & convert PUB files to PDF document via .NET API.
 
 {{< Common/h2 text=".NET Convertor for Publisher Files"  >}} {{< Common/ul>}}
     {{< Common/li >}} Read Microsoft Publication files. {{< /Common/li >}}

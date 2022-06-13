@@ -31,7 +31,7 @@ weight:  4
             {{< Common/wrapper class="col-sm-11" >}}
                 <h3 class="product-title">Aspose.Words for Reporting Services</h3>
                 {{< Common/paragraph>}}{{< Common/link href="https://products.aspose.com/words/reporting-services/" text="Aspose.Words for Reporting Services"  >}} helps you
-                    manipulate and export RDL &amp; RDLC reports to various supported file formats (e.g. OOXML, DOC,
+                    manipulate and export RDL & RDLC reports to various supported file formats (e.g. OOXML, DOC,
                     RTF, and
                     WordprocessingML, etc.) from within MS SQL Server Reporting Services.
                     {{< /Common/paragraph>}}{{< Common/h3 class=" " text="Features"  >}}

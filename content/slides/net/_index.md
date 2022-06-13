@@ -29,9 +29,9 @@ A unique <b>Presentation Processing API</b> that enables any .NET application to
  
    {{< Common/li >}} Document Object Model: Complete control over presentation elements. {{< /Common/li >}}
 
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/display/slidesnet/Supported+File+Formats#SupportedFileFormats-SupportedFileFormats" text="File Format Conversion"  >}}: API allows conversion of PowerPoint presentation, template &amp; slideshow file formats to other supported formats. {{< /Common/li >}}
+   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/display/slidesnet/Supported+File+Formats#SupportedFileFormats-SupportedFileFormats" text="File Format Conversion"  >}}: API allows conversion of PowerPoint presentation, template & slideshow file formats to other supported formats. {{< /Common/li >}}
 
-   {{< Common/li >}} Rendering &amp; Printing: Render whole presentation or selective slides to fixed layout formats as well as raster &amp; vector images. {{< Common/link href="https://docs.aspose.com/slides/net/saving-printing-and-managing/#printing-and-setting-a-presentation" text="Print presentations via physical or virtual printers"  >}}. {{< /Common/li >}}
+   {{< Common/li >}} Rendering & Printing: Render whole presentation or selective slides to fixed layout formats as well as raster & vector images. {{< Common/link href="https://docs.aspose.com/slides/net/saving-printing-and-managing/#printing-and-setting-a-presentation" text="Print presentations via physical or virtual printers"  >}}. {{< /Common/li >}}
 
    {{< Common/li >}} Presentation Security: {{< Common/link href="https://docs.aspose.com/slides/net/password-protected-presentation/" text="Load protected presentations"  >}} or control access to presentations, slides or objects via advanced security features. {{< /Common/li >}}
 

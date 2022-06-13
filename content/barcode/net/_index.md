@@ -28,7 +28,7 @@ weight:  1
  
    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/barcode/net/generate-barcodes-with-aspose-barcode-apis/" text="recognize"  >}} 40+ barcode symbologies with just a few lines of code. {{< /Common/li >}}
 
-   {{< Common/li >}} Read 1D &amp; 2D barcodes at any angle. {{< /Common/li >}}
+   {{< Common/li >}} Read 1D & 2D barcodes at any angle. {{< /Common/li >}}
 
    {{< Common/li >}} Easily print barcode labels to physical or virtual printers. {{< /Common/li >}}
 

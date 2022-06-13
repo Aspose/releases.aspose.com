@@ -39,10 +39,10 @@ weight:  6
                      {{< Common/ul>}} 
                            {{< Common/li >}} Generate barcodes for reports {{< /Common/li >}}
                            {{< Common/li >}} Print barcodes based on external data source {{< /Common/li >}}
-                           {{< Common/li >}} Apply captions on the above &amp; below the barcode image {{< /Common/li >}}
+                           {{< Common/li >}} Apply captions on the above & below the barcode image {{< /Common/li >}}
                            {{< Common/li >}} Set the height of the barcode bars {{< /Common/li >}}
-                           {{< Common/li >}} Configure barcode X &amp; Y dimensions and aspect ratio {{< /Common/li >}}
-                           {{< Common/li >}} Support for the 2-digit &amp; 5-digit supplemental barcodes {{< /Common/li >}}
+                           {{< Common/li >}} Configure barcode X & Y dimensions and aspect ratio {{< /Common/li >}}
+                           {{< Common/li >}} Support for the 2-digit & 5-digit supplemental barcodes {{< /Common/li >}}
                            {{< Common/li >}} Set the supplement space {{< /Common/li >}}
                            {{< Common/li >}} Enable checksums for a barcode and make it hidden or visible {{< /Common/li >}}
                            {{< Common/li >}} Control the ratio of wide to narrow barcode elements {{< /Common/li >}}

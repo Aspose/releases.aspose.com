@@ -22,14 +22,14 @@ weight:  4
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.PDF for Android via Java" >}}
 {{< Common/paragraph>}}
-A {{< Common/link href="https://products.aspose.com/pdf/android-java" text="PDF Processing API"  >}} that enables the Android apps to read, write, manipulate &amp; render PDF documents.
+A {{< Common/link href="https://products.aspose.com/pdf/android-java" text="PDF Processing API"  >}} that enables the Android apps to read, write, manipulate & render PDF documents.
 {{< Common/h2 text="Android Library for PDF"  >}} {{< Common/ul>}}
     {{< Common/li >}} Create PDF documents from scratch. {{< /Common/li >}}
-   {{< Common/li >}} Convert PDF to Word, XPS, HTML &amp; other 15+ formats. {{< /Common/li >}}
-   {{< Common/li >}} Add or edit text, graphs, headings, hyperlinks, tables &amp; more. {{< /Common/li >}}
-   {{< Common/li >}} Support for Type 1, Type 3, TrueType, CJK &amp; Unicode fonts. {{< /Common/li >}}
+   {{< Common/li >}} Convert PDF to Word, XPS, HTML & other 15+ formats. {{< /Common/li >}}
+   {{< Common/li >}} Add or edit text, graphs, headings, hyperlinks, tables & more. {{< /Common/li >}}
+   {{< Common/li >}} Support for Type 1, Type 3, TrueType, CJK & Unicode fonts. {{< /Common/li >}}
    {{< Common/li >}} Add or remove watermarks. {{< /Common/li >}}
-   {{< Common/li >}} Encrypt &amp; decrypt PDF documents. {{< /Common/li >}}
+   {{< Common/li >}} Encrypt & decrypt PDF documents. {{< /Common/li >}}
  {{< /Common/ul>}}
 
 {{< /Common/paragraph>}}

@@ -22,21 +22,21 @@ weight:  1
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Email for .NET" >}}
 {{< Common/paragraph>}}
-{{< Common/link href="https://products.aspose.com/email/net" text="Aspose.Email for .NET"  >}} allows you to work with MIME messages, appointments, Microsoft Outlook® items, Outlook storage files and various clients &amp; protocols.
+{{< Common/link href="https://products.aspose.com/email/net" text="Aspose.Email for .NET"  >}} allows you to work with MIME messages, appointments, Microsoft Outlook® items, Outlook storage files and various clients & protocols.
 {{< Common/h2 text=".NET Email API"  >}}
  {{< Common/ul>}}
  
-   {{< Common/li >}} Open or save emails in Microsoft Outlook &amp; other formats. {{< /Common/li >}}
+   {{< Common/li >}} Open or save emails in Microsoft Outlook & other formats. {{< /Common/li >}}
 
    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/email/net/supported-file-formats/" text="Conversion of email files to various formats"  >}}. {{< /Common/li >}}
 
-   {{< Common/li >}} Parse, read &amp; save MS Outlook emails, PST &amp; OST files. {{< /Common/li >}}
+   {{< Common/li >}} Parse, read & save MS Outlook emails, PST & OST files. {{< /Common/li >}}
 
-   {{< Common/li >}} Send &amp; receive emails via POP3, IMAP, Microsoft Exchange Server. {{< /Common/li >}}
+   {{< Common/li >}} Send & receive emails via POP3, IMAP, Microsoft Exchange Server. {{< /Common/li >}}
 
    {{< Common/li >}} Consume and produce recurrence patterns in the {{< Common/link href="https://docs.aspose.com/email/net/important-icalendar-rfc-2445-details/" text="iCalendar (RFC 2445) format"  >}}. {{< /Common/li >}}
 
-   {{< Common/li >}} Verify email addresses, email syntax, email domain, mail server &amp; MX records. {{< /Common/li >}}
+   {{< Common/li >}} Verify email addresses, email syntax, email domain, mail server & MX records. {{< /Common/li >}}
 
    {{< Common/li >}} Extract objects from various mail storage formats. {{< /Common/li >}}
 

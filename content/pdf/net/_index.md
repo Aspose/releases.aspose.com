@@ -22,7 +22,7 @@ weight:  1
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.PDF for .NET" >}}
 {{< Common/paragraph>}}
-Supports .NET Framework &amp; .NET Standard allowing you to develop {{< Common/link href="http://products.aspose.com/pdf/net" text="PDF Processing"  >}} applications in Windows, macOS &amp; Linux.&nbsp;
+Supports .NET Framework & .NET Standard allowing you to develop {{< Common/link href="http://products.aspose.com/pdf/net" text="PDF Processing"  >}} applications in Windows, macOS & Linux.&nbsp;
 {{< Common/h2 text=".NET PDF API"  >}}
  {{< Common/ul>}}
  

@@ -34,11 +34,11 @@ An {{< Common/link href="https://products.aspose.com/cells/net" text="Excel Spre
 
    {{< Common/li >}} .NET printing infrastructure to print spreadsheets on physical or virtual printers. {{< /Common/li >}}
 
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/cells/net/import-data-into-worksheet/" text="Import data"  >}} from various sources &amp; generate reports via templates {{< /Common/li >}}
+   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/cells/net/import-data-into-worksheet/" text="Import data"  >}} from various sources & generate reports via templates {{< /Common/li >}}
 
-   {{< Common/li >}} Formula Calculation Engine that supports all of Excel's native &amp; custom functions. {{< /Common/li >}}
+   {{< Common/li >}} Formula Calculation Engine that supports all of Excel's native & custom functions. {{< /Common/li >}}
 
-   {{< Common/li >}} GUI based controls for Desktop &amp; Web applications to replicate Excel UI in custom applications. {{< /Common/li >}}
+   {{< Common/li >}} GUI based controls for Desktop & Web applications to replicate Excel UI in custom applications. {{< /Common/li >}}
 
  {{< /Common/ul>}}
 

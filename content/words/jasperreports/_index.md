@@ -32,11 +32,11 @@ weight:  6
                 <h3 class="product-title">Aspose.Words for JasperReports</h3>
                 {{< Common/paragraph>}}{{< Common/link href="https://products.aspose.com/words/jasperreports/" text="Aspose.Words for JasperReports"  >}} helps
                     you export reports
-                    from the JasperReports® &amp; JasperServer to the Microsoft
+                    from the JasperReports® & JasperServer to the Microsoft
                     Word® supported formats without any loss of formatting and layout.
                     {{< /Common/paragraph>}}{{< Common/h3 class=" " text="Features"  >}}
                      {{< Common/ul>}} 
-                           {{< Common/li >}} Export reports from JasperReports &amp; JasperServer to various supported file formats. {{< /Common/li >}}
+                           {{< Common/li >}} Export reports from JasperReports & JasperServer to various supported file formats. {{< /Common/li >}}
                            {{< Common/li >}} Keep the report layout intact while exporting it to other formats. {{< /Common/li >}}
                            {{< Common/li >}} Support for using it with JasperServer Web Services as well as JasperServer REST API (V2).
                          {{< /Common/li >}}

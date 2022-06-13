@@ -26,19 +26,19 @@ weight:  2
     {{< Common/li >}} <b>Aspose.Words for Java</b>: Word processing APIs to create, process, convert or render Word® documents to various formats. {{< /Common/li >}}
    {{< Common/li >}} <b>Aspose.PDF for Java</b>: PDF Manipulation API to create, parse, protect, sign and convert PDF files without requiring Adobe Acrobat®. {{< /Common/li >}}
    {{< Common/li >}} <b>Aspose.Cells for Java</b>: Spreadsheet Processing APIs to create, manipulate, convert, protect or print spreadsheets without installing MS Excel®. {{< /Common/li >}}
-   {{< Common/li >}} <b>Aspose.Email for Java</b>: Email Management APIs to create, generate emails, send emails &amp; parse emails from Outlook® &amp; Thunderbird®. {{< /Common/li >}}
+   {{< Common/li >}} <b>Aspose.Email for Java</b>: Email Management APIs to create, generate emails, send emails & parse emails from Outlook® & Thunderbird®. {{< /Common/li >}}
    {{< Common/li >}} <b>Aspose.Slides for Java</b>: Presentation Manipulation APIs to create, modify, merge, clone, protect, convert and manipulate PPT/PPTX without MS PowerPoint®. {{< /Common/li >}}
    {{< Common/li >}} <b>Aspose.Imaging for Java</b>: Image Editor APIs to create, load, transform or convert images with memory optimization. {{< /Common/li >}}
-   {{< Common/li >}} <b>Aspose.BarCode for Java</b>: BarCode Generation &amp; Recognition API to generate, customize &amp; recognize linear, 2D &amp; postal barcodes. {{< /Common/li >}}
+   {{< Common/li >}} <b>Aspose.BarCode for Java</b>: BarCode Generation & Recognition API to generate, customize & recognize linear, 2D & postal barcodes. {{< /Common/li >}}
    {{< Common/li >}} <b>Aspose.Diagram for Java</b>: Diagram Manipulation APIs to manipulate and export Microsoft Visio® files to PDF, HTML, Images, and XAML formats. {{< /Common/li >}}
-   {{< Common/li >}} <b>Aspose.Tasks for Java</b>: Project Document Manipulation APIs to manipulate or export MS Project® files to Primavera, Excel, PDF, Images, HTML &amp; XML formats. {{< /Common/li >}}
+   {{< Common/li >}} <b>Aspose.Tasks for Java</b>: Project Document Manipulation APIs to manipulate or export MS Project® files to Primavera, Excel, PDF, Images, HTML & XML formats. {{< /Common/li >}}
    {{< Common/li >}} <b>Aspose.OCR for Java</b>: Optical Character Recognition APIs to Add Optical Character Recognition and Document Scanning features to your Java Apps. {{< /Common/li >}}
    {{< Common/li >}} <b>Aspose.Note for Java</b>: Notes Manipulation APIs to Create, Read, Edit, Convert and Manipulate Microsoft OneNote® documents. {{< /Common/li >}}
-   {{< Common/li >}} <b>Aspose.CAD for Java</b>: APIs to Process and Convert AutoCAD® files (DWG, DXF, STL) to PDF &amp; raster image formats without installing AutoCAD®. {{< /Common/li >}}
-   {{< Common/li >}} <b>Aspose.3D for Java</b>: 3D File Processing APIs that work without any external modeling &amp; rendering software. Supports processing Autodesk®, Wavefront, Collada, Draco, and many more 3D formats. {{< /Common/li >}}
+   {{< Common/li >}} <b>Aspose.CAD for Java</b>: APIs to Process and Convert AutoCAD® files (DWG, DXF, STL) to PDF & raster image formats without installing AutoCAD®. {{< /Common/li >}}
+   {{< Common/li >}} <b>Aspose.3D for Java</b>: 3D File Processing APIs that work without any external modeling & rendering software. Supports processing Autodesk®, Wavefront, Collada, Draco, and many more 3D formats. {{< /Common/li >}}
    {{< Common/li >}} <b>Aspose.HTML for Java</b>: APIs to manipulate and render HTML documents including CSS styles to PDF and other raster image formats. {{< /Common/li >}}
-   {{< Common/li >}} <b>Aspose.Page for Java</b>: XPS &amp; PostScript Document Processing APIs with support for the creation, parsing, and conversion of XPS, PS, and EPS formats. {{< /Common/li >}}
-   {{< Common/li >}} <b>Aspose.PSD for Java</b>: APIs to create, load, modify &amp; render Adobe Photoshop® (PSD &amp; PSB) format documents without installing any 3rd party software. {{< /Common/li >}}
+   {{< Common/li >}} <b>Aspose.Page for Java</b>: XPS & PostScript Document Processing APIs with support for the creation, parsing, and conversion of XPS, PS, and EPS formats. {{< /Common/li >}}
+   {{< Common/li >}} <b>Aspose.PSD for Java</b>: APIs to create, load, modify & render Adobe Photoshop® (PSD & PSB) format documents without installing any 3rd party software. {{< /Common/li >}}
    {{< Common/li >}} <b>Aspose.OMR for Java</b>: Optical Mark Recognition APIs to detect and parse the OMR digitized sheet images from various scanned image formats. {{< /Common/li >}}
    {{< Common/li >}} <b>Aspose.PUB for Java</b>: Electronic Publication Files Processing APIs to load and convert Microsoft Publisher® format PUB to PDF. {{< /Common/li >}}
    {{< Common/li >}} <b>Aspose.Font for Java</b>: Font Loading and Rendering APIs with support for TrueType, CFF, OpenType, Type1, etc. {{< /Common/li >}}

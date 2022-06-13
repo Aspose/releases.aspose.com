@@ -26,8 +26,8 @@ weight:  2
 A robust and reliable barcode generation and recognition library, written in C++14 that allows developers to quickly and easily add barcode generation and recognition functionality to their applications.&nbsp;{{< Common/h2 text="C++ BarCode API"  >}} {{< Common/ul>}}
     {{< Common/li >}} Supports most established {{< Common/link href="https://docs.aspose.com/barcode/cpp/symbologies-for-barcodes/" text="barcode standards and barcode specifications"  >}}.&nbsp; {{< /Common/li >}}
    {{< Common/li >}} Ability to export barcode to multiple image formats including: BMP, GIF, JPEG, PNG, TIFF and SVG. {{< /Common/li >}}
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/barcode/cpp/use-checksum-and-supplement-data/" text="Supports checksum &amp; supplement data"  >}}. {{< /Common/li >}}
-   {{< Common/li >}} Optimize barcode scanning &amp; recognition for speed &amp; quality. {{< /Common/li >}}
+   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/barcode/cpp/use-checksum-and-supplement-data/" text="Supports checksum & supplement data"  >}}. {{< /Common/li >}}
+   {{< Common/li >}} Optimize barcode scanning & recognition for speed & quality. {{< /Common/li >}}
  {{< /Common/ul>}}
 
 {{< /Common/paragraph>}}

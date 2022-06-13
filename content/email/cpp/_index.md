@@ -22,16 +22,16 @@ weight:  3
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Email for C++" >}}
 {{< Common/paragraph>}}
-A suite of class libraries brought together to produce a powerful <b>Email Programming API</b> that makes it easier to work with various message formats such as MSG, EML, EMLX &amp; MHT.
+A suite of class libraries brought together to produce a powerful <b>Email Programming API</b> that makes it easier to work with various message formats such as MSG, EML, EMLX & MHT.
 
 {{< Common/h2 text="C++ Email Library"  >}}
  {{< Common/ul>}}
  
-   {{< Common/li >}} Open or save emails in Microsoft Outlook &amp; other formats. {{< /Common/li >}}
+   {{< Common/li >}} Open or save emails in Microsoft Outlook & other formats. {{< /Common/li >}}
 
    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/email/cpp/supported-file-formats/" text="Conversion of email files to various formats"  >}}. {{< /Common/li >}}
 
-   {{< Common/li >}} Parse, read &amp; save MS Outlook emails, PST &amp; OST files. {{< /Common/li >}}
+   {{< Common/li >}} Parse, read & save MS Outlook emails, PST & OST files. {{< /Common/li >}}
 
    {{< Common/li >}} Extract objects from various mail storage formats. {{< /Common/li >}}
 

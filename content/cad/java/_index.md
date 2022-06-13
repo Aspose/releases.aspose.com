@@ -22,10 +22,10 @@ weight:  2
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.CAD for Java" >}}
 {{< Common/paragraph>}}
-A standalone class library to enhance Java applications to process &amp;&nbsp;{{< Common/link href="https://docs.aspose.com/cad/net/converting-cad-drawings-to-pdf-and-raster-image-formats/" text="Render CAD Drawings"  >}}&nbsp;without requiring AutoCAD or any other rendering workflow. The CAD Class Library allows high quality conversion of DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CFF2 files, layouts and layers to PDF &amp; raster image formats.{{< Common/h2 text="CAD Conversion API"  >}} {{< Common/ul>}}
-    {{< Common/li >}} Supports the latest versions of DWG, DWF, DWT &amp; DXF formats.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Convert CAD to Image of PNG, BMP, TIFF, JPEG &amp; GIF formats.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Select and convert specific layouts &amp; layers of CAD drawings.&nbsp; {{< /Common/li >}}
+A standalone class library to enhance Java applications to process &&nbsp;{{< Common/link href="https://docs.aspose.com/cad/net/converting-cad-drawings-to-pdf-and-raster-image-formats/" text="Render CAD Drawings"  >}}&nbsp;without requiring AutoCAD or any other rendering workflow. The CAD Class Library allows high quality conversion of DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CFF2 files, layouts and layers to PDF & raster image formats.{{< Common/h2 text="CAD Conversion API"  >}} {{< Common/ul>}}
+    {{< Common/li >}} Supports the latest versions of DWG, DWF, DWT & DXF formats.&nbsp; {{< /Common/li >}}
+   {{< Common/li >}} Convert CAD to Image of PNG, BMP, TIFF, JPEG & GIF formats.&nbsp; {{< /Common/li >}}
+   {{< Common/li >}} Select and convert specific layouts & layers of CAD drawings.&nbsp; {{< /Common/li >}}
    {{< Common/li >}} Adjust CAD drawing size before rendering. {{< /Common/li >}}
  {{< /Common/ul>}}
 

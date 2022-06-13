@@ -38,7 +38,7 @@ weight:  7
                             and 2D barcodes of 60+ symbologies in several supported image formats and display them on
                             JasperReports®. {{< /Common/li >}}
                            {{< Common/li >}} {{< Common/link href="https://products.aspose.com/cells/jasperreports/" text="Aspose.Cells for JasperReports"  >}}: Export reports
-                            from the JasperReports® &amp; JasperServer to Microsoft Excel® and other supported formats.
+                            from the JasperReports® & JasperServer to Microsoft Excel® and other supported formats.
                          {{< /Common/li >}}
                            {{< Common/li >}} {{< Common/link href="https://products.aspose.com/imaging/jasperreports/" text="Aspose.Imaging for JasperReports"  >}}: Export
                             reports from the JasperReports® to various supported image formats (BMP, GIF, DICOM, EMF,
@@ -50,9 +50,9 @@ weight:  7
                             from JasperReports® and JasperServer to the Microsoft PowerPoint® formats (PPT, PPS, PPTX,
                             PPSX). {{< /Common/li >}}
                            {{< Common/li >}} {{< Common/link href="https://products.aspose.com/words/jasperreports/" text="Aspose.Words for JasperReports"  >}}: Export reports
-                            from the JasperReports® &amp; JasperServer to the Microsoft Word® supported formats. {{< /Common/li >}}
+                            from the JasperReports® & JasperServer to the Microsoft Word® supported formats. {{< /Common/li >}}
                            {{< Common/li >}} {{< Common/link href="https://products.aspose.com/cad/jasperreports/" text="Aspose.CAD for JasperReports"  >}}: Export reports
-                            from the JasperReports® &amp; JasperServer to the AutoCAD® supported formats. {{< /Common/li >}}
+                            from the JasperReports® & JasperServer to the AutoCAD® supported formats. {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Pricing"  >}}
                      {{< Common/ul>}} 
@@ -108,7 +108,7 @@ weight:  7
                 <h3 class="product-title">{{< Common/link href="/cells/jasperreports" text="Aspose.Cells for JasperReports"  >}}
                 </h3>
                 {{< Common/paragraph>}}Aspose.Cells for JasperReports allows you to export reports from JasperReports and JasperServer to
-                    Microsoft Excel Spreadsheet formats including XLS, XLSX &amp; SpreadsheetML. It also supports other
+                    Microsoft Excel Spreadsheet formats including XLS, XLSX & SpreadsheetML. It also supports other
                     popular formats such as PDF, ODS, CSV and Tab-delimited. {{< /Common/paragraph>}}
             {{< /Common/wrapper >}}
         {{< /Common/wrapper >}}

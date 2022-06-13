@@ -22,21 +22,21 @@ weight:  1
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Imaging for .NET" >}}
 {{< Common/paragraph>}}
-It is a {{< Common/link href="https://products.aspose.com/imaging/net" text="standalone Imaging API"  >}} consists of C# routines that enable .NET applications to draw as well as perform basic to advanced level processing of raster &amp; vector images.
+It is a {{< Common/link href="https://products.aspose.com/imaging/net" text="standalone Imaging API"  >}} consists of C# routines that enable .NET applications to draw as well as perform basic to advanced level processing of raster & vector images.
 {{< Common/h2 text=".NET Imaging API"  >}}
  {{< Common/ul>}}
  
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/imaging/net/working-with-drawing-images/" text="Draw raster &amp; vector images on the fly"  >}}. {{< /Common/li >}}
+   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/imaging/net/working-with-drawing-images/" text="Draw raster & vector images on the fly"  >}}. {{< /Common/li >}}
 
    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/imaging/net/converting-images/" text="Convert images to various formats"  >}}. {{< /Common/li >}}
 
-   {{< Common/li >}} Apply masking as well as Median &amp; Wiener filters. {{< /Common/li >}}
+   {{< Common/li >}} Apply masking as well as Median & Wiener filters. {{< /Common/li >}}
 
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/imaging/net/crop-rotate-and-resize-images/" text="Crop, rotate &amp; resize images via API"  >}}. {{< /Common/li >}}
+   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/imaging/net/crop-rotate-and-resize-images/" text="Crop, rotate & resize images via API"  >}}. {{< /Common/li >}}
 
-   {{< Common/li >}} De-skew &amp; transform images. {{< /Common/li >}}
+   {{< Common/li >}} De-skew & transform images. {{< /Common/li >}}
 
-   {{< Common/li >}} Set image properties &amp; metadata. {{< /Common/li >}}
+   {{< Common/li >}} Set image properties & metadata. {{< /Common/li >}}
 
  {{< /Common/ul>}}
 

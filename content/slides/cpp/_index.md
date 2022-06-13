@@ -22,15 +22,15 @@ weight:  3
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Slides for C++" >}}
 {{< Common/paragraph>}}
-A {{< Common/link href="https://products.aspose.com/slides/cpp" text="Presentation Processing Library"  >}} that enables the C++ applications to manipulate, render &amp; convert PowerPoint presentations without requiring Microsoft PowerPoint application.
+A {{< Common/link href="https://products.aspose.com/slides/cpp" text="Presentation Processing Library"  >}} that enables the C++ applications to manipulate, render & convert PowerPoint presentations without requiring Microsoft PowerPoint application.
 {{< Common/h2 text="C++ Library for Presentations&nbsp;"  >}}
  {{< Common/ul>}}
  
    {{< Common/li >}} Complete control over presentation elements via comprehensive document object model. {{< /Common/li >}}
 
-   {{< Common/li >}} Conversion of PowerPoint presentation, template &amp; slideshow file formats to 25+ supported formats. {{< /Common/li >}}
+   {{< Common/li >}} Conversion of PowerPoint presentation, template & slideshow file formats to 25+ supported formats. {{< /Common/li >}}
 
-   {{< Common/li >}} Add, manipulate &amp; format charts, shapes, slides, SmartArt, tables &amp; text. {{< /Common/li >}}
+   {{< Common/li >}} Add, manipulate & format charts, shapes, slides, SmartArt, tables & text. {{< /Common/li >}}
 
  {{< /Common/ul>}}
 

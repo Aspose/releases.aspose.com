@@ -25,9 +25,9 @@ weight:  2
 Project Management Library that enable the Java applications to not only read and manipulate Microsoft Project® files but also write MPP and XML formats.
 
 {{< Common/h2 text="Java Project Management Library"  >}} {{< Common/ul>}}
- {{< Common/li >}} Read, edit and write {{< Common/link href="https://docs.aspose.com/tasks/java/supported-file-formats/" text="Microsoft Project document formats"  >}} including MPP &amp; XML. {{< /Common/li >}}
-{{< Common/li >}} Convert &amp; render project data to various formats. {{< /Common/li >}}
-{{< Common/li >}} Change project settings like schedule type, start, finish dates &amp; so on. {{< /Common/li >}}
+ {{< Common/li >}} Read, edit and write {{< Common/link href="https://docs.aspose.com/tasks/java/supported-file-formats/" text="Microsoft Project document formats"  >}} including MPP & XML. {{< /Common/li >}}
+{{< Common/li >}} Convert & render project data to various formats. {{< /Common/li >}}
+{{< Common/li >}} Change project settings like schedule type, start, finish dates & so on. {{< /Common/li >}}
 {{< Common/li >}} Manipulate tasks, resources, assignments, calender etc. {{< /Common/li >}}
  {{< /Common/ul>}}
 

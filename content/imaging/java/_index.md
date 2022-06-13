@@ -22,7 +22,7 @@ weight:  2
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Imaging for Java" >}}
 {{< Common/paragraph>}}
-It is a {{< Common/link href="https://products.aspose.com/imaging/java" text="standalone Imaging API"  >}} consists of Java routines that enable Java applications to draw as well as perform basic to advanced level processing of raster &amp; vector images.
+It is a {{< Common/link href="https://products.aspose.com/imaging/java" text="standalone Imaging API"  >}} consists of Java routines that enable Java applications to draw as well as perform basic to advanced level processing of raster & vector images.
 {{< Common/h2 text="Java Imaging API"  >}}
  {{< Common/ul>}}
  
@@ -30,13 +30,13 @@ It is a {{< Common/link href="https://products.aspose.com/imaging/java" text="st
 
    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/imaging/java/converting-images/" text="Convert images to various formats"  >}}. {{< /Common/li >}}
 
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/imaging/java/applying-masking-to-images/" text="Median &amp; Wiener"  >}} filters. {{< /Common/li >}}
+   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/imaging/java/applying-masking-to-images/" text="Median & Wiener"  >}} filters. {{< /Common/li >}}
 
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/imaging/java/crop-rotate-and-resize-images/" text="Crop, rotate &amp; resize images via API"  >}}. {{< /Common/li >}}
+   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/imaging/java/crop-rotate-and-resize-images/" text="Crop, rotate & resize images via API"  >}}. {{< /Common/li >}}
 
-   {{< Common/li >}} De-skew &amp; transform images. {{< /Common/li >}}
+   {{< Common/li >}} De-skew & transform images. {{< /Common/li >}}
 
-   {{< Common/li >}} Set image properties &amp; metadata. {{< /Common/li >}}
+   {{< Common/li >}} Set image properties & metadata. {{< /Common/li >}}
 
  {{< /Common/ul>}}
 

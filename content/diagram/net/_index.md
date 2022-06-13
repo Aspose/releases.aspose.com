@@ -29,7 +29,7 @@ A specialized designed .NET Diagram API to work with Microsoft Visio files.
    {{< Common/li >}} Read or write Microsoft Visio files.&nbsp; {{< /Common/li >}}
    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/diagram/net/how-to-convert-a-visio-diagram/" text="Export Visio diagrams"  >}} to various popular formats including PDF, images, HTML and more. {{< /Common/li >}}
    {{< Common/li >}} &nbsp;Print diagrams on physical or virtual printer. {{< /Common/li >}}
-   {{< Common/li >}} Access diagram elements &amp; properties for manipulation or just inspection.&nbsp; {{< /Common/li >}}
+   {{< Common/li >}} Access diagram elements & properties for manipulation or just inspection.&nbsp; {{< /Common/li >}}
  {{< /Common/ul>}}
 
 {{< /Common/paragraph>}}

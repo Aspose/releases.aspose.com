@@ -22,8 +22,8 @@ weight:  3
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Page for C++" >}}
 {{< Common/paragraph>}}
-An on premise C++ library that allows you to add XPS manipulation features to your own applications. The class library can also {{< Common/link href="https://docs.aspose.com/page/cpp/supported-file-formats/" text="convert XPS, EPS &amp; PS documents to other formats"  >}}.
-{{< Common/h2 text="C++ Library for XPS, PS &amp; EPS"  >}} {{< Common/ul>}}
+An on premise C++ library that allows you to add XPS manipulation features to your own applications. The class library can also {{< Common/link href="https://docs.aspose.com/page/cpp/supported-file-formats/" text="convert XPS, EPS & PS documents to other formats"  >}}.
+{{< Common/h2 text="C++ Library for XPS, PS & EPS"  >}} {{< Common/ul>}}
     {{< Common/li >}} 
 Create or&nbsp;{{< Common/link href="https://docs.aspose.com/page/cpp/add-text-in-xps-document/" text="edit XPS document"  >}}. {{< /Common/li >}}
    {{< Common/li >}} Add or remove pages of XPS document. {{< /Common/li >}}

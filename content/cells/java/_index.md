@@ -34,9 +34,9 @@ An&nbsp;{{< Common/link href="https://products.aspose.com/cells/java" text="Exce
 
    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/display/cellsjava/Import+and+Export+Data" text="Import data"  >}} from various sources. {{< /Common/li >}}
 
-   {{< Common/li >}} Formula Calculation Engine that supports all of Excel's native &amp; custom functions. {{< /Common/li >}}
+   {{< Common/li >}} Formula Calculation Engine that supports all of Excel's native & custom functions. {{< /Common/li >}}
 
-   {{< Common/li >}} Report generation via templates &amp; data from various sources, using Smart Markers. {{< /Common/li >}}
+   {{< Common/li >}} Report generation via templates & data from various sources, using Smart Markers. {{< /Common/li >}}
 
    {{< Common/li >}} GUI based controls for Java Web applications to replicate Excel interface. {{< /Common/li >}}
 

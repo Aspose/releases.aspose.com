@@ -25,12 +25,12 @@ weight:  2
 {{< Common/h1 text="Aspose.3D for Java" >}}
 {{< Common/paragraph>}}
 3D API enables Java applications to connect with 3D document formats to convert, build, alter and control the substances.
-{{< Common/h2 text="Gameware &amp; CAD Library"  >}} {{< Common/ul>}}
+{{< Common/h2 text="Gameware & CAD Library"  >}} {{< Common/ul>}}
     {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/3d/java/export-scene-to-compressed-amf-format/" text="Export scene to compressed AMF"  >}}. {{< /Common/li >}}
 
-   {{< Common/li >}} Import, create, customize, &amp; save 3D scenes. {{< /Common/li >}}
+   {{< Common/li >}} Import, create, customize, & save 3D scenes. {{< /Common/li >}}
 
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/3d/java/mesh/" text="Split &amp; triangulate Mesh"  >}}. {{< /Common/li >}}
+   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/3d/java/mesh/" text="Split & triangulate Mesh"  >}}. {{< /Common/li >}}
 
    {{< Common/li >}} Add animation while setting the camera. {{< /Common/li >}}
 
@@ -38,7 +38,7 @@ weight:  2
 
    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/3d/java/working-with-linear-extrusion/" text="Perform Linear Extrusion"  >}}. {{< /Common/li >}}
 
-   {{< Common/li >}} Manipulate 3D objects &amp; 3D models. {{< /Common/li >}}
+   {{< Common/li >}} Manipulate 3D objects & 3D models. {{< /Common/li >}}
  {{< /Common/ul>}}
 
 {{< /Common/paragraph>}}

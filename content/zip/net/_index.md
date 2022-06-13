@@ -25,11 +25,11 @@ weight:  1
 ZIP .NET API that lets you work with
  file compression in various archiving formats.
 
-{{< Common/h2 text="Zip Compression &amp; Archiving API"  >}} {{< Common/ul>}}
-    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/zip/net/compressing-and-decompressing-files/" text="Compress &amp; decompress file"  >}} &amp; folders. {{< /Common/li >}}
-   {{< Common/li >}} Supports Deflate, Bzip2, PPMd &amp; LZMA compression algorithms.&nbsp; {{< /Common/li >}}
+{{< Common/h2 text="Zip Compression & Archiving API"  >}} {{< Common/ul>}}
+    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/zip/net/compressing-and-decompressing-files/" text="Compress & decompress file"  >}} & folders. {{< /Common/li >}}
+   {{< Common/li >}} Supports Deflate, Bzip2, PPMd & LZMA compression algorithms.&nbsp; {{< /Common/li >}}
    {{< Common/li >}} Apply simple password or AES128, AES192, AES256 encryption to archives.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Use Gzip, LZ, XZ, Z or Bzip2 to pack files &amp; folders into a TAR archive.  {{< /Common/li >}}
+   {{< Common/li >}} Use Gzip, LZ, XZ, Z or Bzip2 to pack files & folders into a TAR archive.  {{< /Common/li >}}
    {{< Common/li >}} Extract RAR archives. {{< /Common/li >}}
    {{< Common/li >}} Compose 7z archives using LZMA, LZMA2 and BZip2 methods. {{< /Common/li >}}
  {{< /Common/ul>}}

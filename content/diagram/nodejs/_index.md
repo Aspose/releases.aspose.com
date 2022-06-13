@@ -28,7 +28,7 @@ A specialized designed Node.js Diagram Library to work with Microsoft Visio file
     {{< Common/li >}} Create Microsoft Visio diagrams from scratch via API.&nbsp; {{< /Common/li >}}
    {{< Common/li >}} Read or write Microsoft Visio files.&nbsp; {{< /Common/li >}}
    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/diagram/java/how-to-convert-a-visio-diagram/" text="Export Visio diagrams"  >}} to various popular formats including PDF, images, HTML and more. {{< /Common/li >}}
-   {{< Common/li >}} Access diagram elements &amp; properties for manipulation or just inspection.&nbsp; {{< /Common/li >}}
+   {{< Common/li >}} Access diagram elements & properties for manipulation or just inspection.&nbsp; {{< /Common/li >}}
  {{< /Common/ul>}}
 
 {{< /Common/paragraph>}}

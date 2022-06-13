@@ -27,8 +27,8 @@ A cross-platform Class Library that enables perform a wide range of HTML manipul
 {{< Common/h2 text="HTML Processor API"  >}} {{< Common/ul>}}
     {{< Common/li >}} <b>
 
-HTML Manipulation</b>: Load existing HTML or creation one from scratch as well as create, edit, remove &amp; replace HTML nodes. {{< /Common/li >}}
-   {{< Common/li >}} <b>Web Scraping</b>: {{< Common/link href="https://docs.aspose.com/html/net/web-scraping/" text="Traverse DOM elements"  >}} and collection information using&nbsp;XPath queries &amp; CSS Selectors. {{< /Common/li >}}
+HTML Manipulation</b>: Load existing HTML or creation one from scratch as well as create, edit, remove & replace HTML nodes. {{< /Common/li >}}
+   {{< Common/li >}} <b>Web Scraping</b>: {{< Common/link href="https://docs.aspose.com/html/net/web-scraping/" text="Traverse DOM elements"  >}} and collection information using&nbsp;XPath queries & CSS Selectors. {{< /Common/li >}}
    {{< Common/li >}} <b>HTML Conversion</b>: Convert (X)HTML, SVG, EPUB and MHTML to {{< Common/link href="https://docs.aspose.com/html/net/supported-file-formats/" text="other supported formats"  >}}. Every target category provides its own customization options. {{< /Common/li >}}
  {{< /Common/ul>}}
 

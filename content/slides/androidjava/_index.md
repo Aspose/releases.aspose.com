@@ -29,7 +29,7 @@ A PowerPoint File Manipulation API for mobile application programmers.
  
    {{< Common/li >}} Complete control over presentation elements via simple yet flexible object model. {{< /Common/li >}}
 
-   {{< Common/li >}} Convert presentation, template &amp; slideshow file formats to other supported formats. {{< /Common/li >}}
+   {{< Common/li >}} Convert presentation, template & slideshow file formats to other supported formats. {{< /Common/li >}}
 
    {{< Common/li >}} Render presentations or slides to fixed layout formats such as PDF as well as raster images. {{< /Common/li >}}
 

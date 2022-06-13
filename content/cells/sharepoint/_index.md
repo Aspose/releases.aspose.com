@@ -45,7 +45,7 @@ weight:  7
                            {{< Common/li >}} Support for case-sensitive search is also available. {{< /Common/li >}}
                            {{< Common/li >}} Add footer and watermark to single or multiple Excel® files. {{< /Common/li >}}
                      {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Supported Read &amp; Write Formats"  >}}
+                    {{< Common/h3 class=" " text="Supported Read & Write Formats"  >}}
                     <strong>Microsoft Excel®:</strong> XLS, XLSX, XLSB, XLSM, XLTX, XLTM, XML, CSV, TSV,
                     TabDelimited
                     <strong>OpenOffice:</strong> ODS

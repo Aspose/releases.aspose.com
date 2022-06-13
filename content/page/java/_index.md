@@ -22,11 +22,11 @@ weight:  2
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Page for Java" >}}
 {{< Common/paragraph>}}
-XPS &amp; PostScript Library allows creation, manipulation and saving XPS documents as well as conversion of XPS and EPS documents to PDF and Images.
-{{< Common/h2 text="Java Library for XPS &amp; Postscript Formats"  >}}
+XPS & PostScript Library allows creation, manipulation and saving XPS documents as well as conversion of XPS and EPS documents to PDF and Images.
+{{< Common/h2 text="Java Library for XPS & Postscript Formats"  >}}
  {{< Common/ul>}}
  
-   {{< Common/li >}} Create &amp; modify XPS documents via API. {{< /Common/li >}}
+   {{< Common/li >}} Create & modify XPS documents via API. {{< /Common/li >}}
 
    {{< Common/li >}} Add pages to XPS documents. {{< /Common/li >}}
 
@@ -35,7 +35,7 @@ XPS &amp; PostScript Library allows creation, manipulation and saving XPS docume
    {{< Common/li >}} Group various elements as well as modify the appearance of text strings and graphics. {{< /Common/li >}}
 
 
-   {{< Common/li >}} Convert XPS, PS &amp; EPS documents to other popular formats. {{< /Common/li >}}
+   {{< Common/li >}} Convert XPS, PS & EPS documents to other popular formats. {{< /Common/li >}}
 
 
  {{< /Common/ul>}}

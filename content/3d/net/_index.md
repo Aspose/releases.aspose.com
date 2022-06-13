@@ -22,14 +22,14 @@ weight:  1
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.3D for .NET" >}}
 {{< Common/paragraph>}}
-3D .NET API enables applications to connect with 3D document formats to convert, build, alter and control the substance without needing any 3D modeling &amp; rendering software.
-{{< Common/h2 text="Gameware &amp; CAD API"  >}}
+3D .NET API enables applications to connect with 3D document formats to convert, build, alter and control the substance without needing any 3D modeling & rendering software.
+{{< Common/h2 text="Gameware & CAD API"  >}}
  {{< Common/ul>}}
  
-   {{< Common/li >}} Work with 3D objects &amp; 3D models. {{< /Common/li >}}
+   {{< Common/li >}} Work with 3D objects & 3D models. {{< /Common/li >}}
    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/display/3dnet/Import+3D+Scenes+and+Contents+from+a+PDF" text="Import 3D scenes from PDF"  >}}. {{< /Common/li >}}
 
-   {{< Common/li >}} Import, create, customize, &amp; save 3D scenes. {{< /Common/li >}}
+   {{< Common/li >}} Import, create, customize, & save 3D scenes. {{< /Common/li >}}
 
    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/display/3dnet/Create+3D+Mesh+and+Scene" text="scale geometries of a 3D scene"  >}}. {{< /Common/li >}}
 

@@ -25,11 +25,11 @@ weight:  4
 An {{< Common/link href="https://products.aspose.com/cells/android-java" text="Android Spreadsheet API"  >}} allowing the developers to build Android applications that can read, write, manipulate, convert or render Excel spreadsheets.
 {{< Common/h2 text="Android Library for Spreadsheets"  >}} {{< Common/ul>}}
     {{< Common/li >}} Programmatically generate, combine, modify and parse spreadsheets. {{< /Common/li >}}
-   {{< Common/li >}} Convert Excel to XPS, PDF, HTML &amp; other popular formats. {{< /Common/li >}}
-   {{< Common/li >}} Robust Formula Calculation Engine supporting all of Excel's native &amp; custom functions. {{< /Common/li >}}
+   {{< Common/li >}} Convert Excel to XPS, PDF, HTML & other popular formats. {{< /Common/li >}}
+   {{< Common/li >}} Robust Formula Calculation Engine supporting all of Excel's native & custom functions. {{< /Common/li >}}
    {{< Common/li >}} Apply formatting to worksheet, row, column, cell and ranges. {{< /Common/li >}}
-   {{< Common/li >}} Export and import data from ArrayList, Array, Recordset &amp; Resultset. {{< /Common/li >}}
-   {{< Common/li >}} Encrypt &amp; decrypt Excel files on the fly. {{< /Common/li >}}
+   {{< Common/li >}} Export and import data from ArrayList, Array, Recordset & Resultset. {{< /Common/li >}}
+   {{< Common/li >}} Encrypt & decrypt Excel files on the fly. {{< /Common/li >}}
  {{< /Common/ul>}}
 
 {{< /Common/paragraph>}}

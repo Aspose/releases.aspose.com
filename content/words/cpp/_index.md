@@ -26,8 +26,8 @@ Create, load, manipulate, or convert Microsoft Word and other popular Word Proce
     {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/words/cpp/supported-document-formats/" text="Convert between 25+ popular file formats"  >}}. {{< /Common/li >}}
    {{< Common/li >}} Programming with Document Object Model. {{< /Common/li >}}
    {{< Common/li >}} Join, append or split Word documents on the fly. {{< /Common/li >}}
-   {{< Common/li >}} Add digital signatures &amp; watermark to documents. {{< /Common/li >}}
-   {{< Common/li >}} Protect &amp; unprotect Documents. {{< /Common/li >}}
+   {{< Common/li >}} Add digital signatures & watermark to documents. {{< /Common/li >}}
+   {{< Common/li >}} Protect & unprotect Documents. {{< /Common/li >}}
  {{< /Common/ul>}}
 
 

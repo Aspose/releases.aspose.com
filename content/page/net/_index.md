@@ -22,11 +22,11 @@ weight:  1
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Page for .NET" >}}
 {{< Common/paragraph>}}
-An on premise .NET API that allows you to add XPS manipulation features to your own applications. The API also supports to convert XPS, EPS &amp; PS documents to other formats.
-{{< Common/h2 text="XPS, EPS &amp; PS Processing API"  >}}
+An on premise .NET API that allows you to add XPS manipulation features to your own applications. The API also supports to convert XPS, EPS & PS documents to other formats.
+{{< Common/h2 text="XPS, EPS & PS Processing API"  >}}
  {{< Common/ul>}}
  
-   {{< Common/li >}} Create &amp; modify XPS documents via API. {{< /Common/li >}}
+   {{< Common/li >}} Create & modify XPS documents via API. {{< /Common/li >}}
 
    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/page/net/add-pages-to-xps-document/" text="Add pages to XPS"  >}} documents. {{< /Common/li >}}
 
@@ -35,7 +35,7 @@ An on premise .NET API that allows you to add XPS manipulation features to your 
    {{< Common/li >}} Group various elements as well as modify the appearance of text strings and graphics. {{< /Common/li >}}
 
 
-   {{< Common/li >}} Convert XPS, PS &amp; EPS documents to other popular formats. {{< /Common/li >}}
+   {{< Common/li >}} Convert XPS, PS & EPS documents to other popular formats. {{< /Common/li >}}
 
 
  {{< /Common/ul>}}

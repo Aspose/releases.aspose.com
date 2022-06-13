@@ -43,7 +43,7 @@ weight:  5
                             Easily generate reports in PPT and PPS format within Microsoft SQL Server Reporting
                             Services. {{< /Common/li >}}
                            {{< Common/li >}} {{< Common/link href="https://products.aspose.com/words/reporting-services/" text="Aspose.Words for Reporting Services"  >}}:
-                            Manipulate and export RDL &amp; RDLC reports to supported file formats from within MS SQL
+                            Manipulate and export RDL & RDLC reports to supported file formats from within MS SQL
                             Server Reporting
                             Services. {{< /Common/li >}}
                      {{< /Common/ul>}}

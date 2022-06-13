@@ -40,7 +40,7 @@ weight:  7
                            {{< Common/li >}} Export the reports in the PPT and PPS formats with an accurate layout. {{< /Common/li >}}
                            {{< Common/li >}} Integration with JasperReport and JasperServer. {{< /Common/li >}}
                      {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Supported Read &amp; Write Formats"  >}}
+                    {{< Common/h3 class=" " text="Supported Read & Write Formats"  >}}
                      {{< Common/ul>}} 
                            {{< Common/li >}} <strong>Microsoft PowerPoint:</strong> PPT, PPS, PPTX, PPSX {{< /Common/li >}}
                      {{< /Common/ul>}}

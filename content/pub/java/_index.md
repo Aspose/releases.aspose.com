@@ -22,7 +22,7 @@ weight:  2
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.PUB for Java" >}}
 {{< Common/paragraph>}}
-Aspose.PUB for Java is flexible and easy to use library to work load &amp; convert electronic publication files such as Microsoft Publisher formats with just a few lines of code.
+Aspose.PUB for Java is flexible and easy to use library to work load & convert electronic publication files such as Microsoft Publisher formats with just a few lines of code.
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 {{< Common/h4 text="Download aspose-pub from Maven"  >}}
