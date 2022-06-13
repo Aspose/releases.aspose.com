@@ -1,5 +1,5 @@
 ---
-title:  "   . " 
+title:  "Download -- Competitive Upgrade GlÃ¶ckler & Lauer Systemhaus " 
 description:  "   . " 
 keywords:  "   . " 
 page_type:  single_release_page
@@ -18,3 +18,28 @@ weight: 86
 
 
 
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt=" Competitive Upgrade GlÃ¶ckler & Lauer Systemhaus" imagelink="/resources/img/pdf-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/corporate/success-stories/aspose.total/competitive-upgrade-glÃ¶ckler-&-lauer-systemhaus/214969451919418c98a93f479d247b35" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
+      {{< Common/li class="downloadcount" id="dwn-update-214969451919418c98a93f479d247b35" >}} 0 {{< /Common/li >}} 
+      {{< Common/li  >}} File Size: {{< /Common/li >}} 
+      {{< Common/li id="size-update-214969451919418c98a93f479d247b35" >}} 663.0 KB {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-214969451919418c98a93f479d247b35" >}} GeorgeClark {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-214969451919418c98a93f479d247b35" >}} 0 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
