@@ -1,0 +1,1 @@
+rewrite /cells/python https://releases.aspose.com/cells/python-java/ permanent;
