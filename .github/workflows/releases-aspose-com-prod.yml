@@ -57,7 +57,7 @@ jobs:
           [ -z "$FILES" ] && touch .updated_files && exit 0
           for file in $FILES; do
             p="$(dirname ${file})"
-             echo $p | sed -e 's/\/content//'
+             echo $p | sed -e 's/\/content//' | sed -e 's/new-releases/*/'
           done | sort | uniq | tr '\n' ' ' > .updated_files
       
       # Invalidate Cloudfront (this action)
