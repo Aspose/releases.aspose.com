@@ -13,6 +13,7 @@ download_count: "   Added: 2 weeks ago [3/31/2022]  Downloads: 2  Views: 8"
 file_size: "  File Size: 10.8 MB "
 parent_path: "note/java"
 section_parent_path: "note/java"
+release_notes_url: "https://docs.aspose.com/note/java/aspose-note-for-java-22-3-release-notes"
 weight: 69
 ---
 

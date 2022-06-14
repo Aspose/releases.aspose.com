@@ -13,6 +13,7 @@ download_count: "   Added: 4 days ago [4/7/2022]  Downloads: 1  Views: 16"
 file_size: "  File Size: 14.1 MB "
 parent_path: "note/net"
 section_parent_path: "note/net"
+release_notes_url: "https://docs.aspose.com/note/net/aspose-note-for-net-22-3-release-notes/"
 weight: 179
 ---
 
