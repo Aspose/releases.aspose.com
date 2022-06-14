@@ -40,7 +40,7 @@ You can easily use  <b>aspose-cells</b> for Python from  {{< Common/link href="h
        {{< consolebox/textarea id="pip" >}} pip install aspose-cells {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="cells" product="python" href="https://docs.aspose.com/cells/pythonjava/aspose-cells-for-python-via-java-22-3-release-notes/" text="https://docs.aspose.com/cells/pythonjava/aspose-cells-for-python-via-java-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="python-java" href="https://docs.aspose.com/cells/pythonjava/aspose-cells-for-python-via-java-22-3-release-notes/" text="https://docs.aspose.com/cells/pythonjava/aspose-cells-for-python-via-java-22-3-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 
