@@ -13,6 +13,7 @@ download_count: "   Added: 4 weeks ago [4/24/2022]  Downloads: 25  Views: 55"
 file_size: "  File Size: 48.0 MB "
 parent_path: "cad/java"
 section_parent_path: "cad/java"
+release_notes_url: "https://docs.aspose.com/cad/java/aspose-cad-for-java-22-2-release-notes"
 weight: 69
 ---
 
