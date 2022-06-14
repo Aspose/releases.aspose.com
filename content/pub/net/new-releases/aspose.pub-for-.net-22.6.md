@@ -13,6 +13,8 @@ image_link: "/resources/img/msi-icon.png"
 download_count: " 9/6/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 102.4MB"
 parent_path: "pub/net"
+section_parent_path: "pub/net"
+release_notes_url: "https://docs.aspose.com/pub/net/aspose-pub-for-net-22-6-release-notes"
 weight: 31
 
 ---

@@ -13,6 +13,7 @@ download_count: "   1/2/2022  Downloads: 63  Views: 66"
 file_size: "  File Size: 53.6 MB "
 parent_path: "html/java"
 section_parent_path: "html/java"
+release_notes_url: "https://docs.aspose.com/html/java/aspose-html-for-java-21-12-release-notes"
 weight: 49
 ---
 
