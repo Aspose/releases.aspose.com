@@ -16,7 +16,7 @@ parent_path: "barcode/java"
 section_parent_path: "barcode/java"
 
 release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-java-22-5-release-notes/"
-weight: 120
+weight: 210
 
 ---
 

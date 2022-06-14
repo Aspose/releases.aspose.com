@@ -13,6 +13,8 @@ image_link: "/resources/img/zip-icon.png"
 download_count: " 8/6/2022 Downloads: 0  Views: 0 "
 file_size: "File Size: 35.18MB"
 parent_path: "imaging/java"
+section_parent_path: "imaging/java"
+release_notes_url: "https://docs.aspose.com/imaging/java/aspose-imaging-for-java-22-6-release-notes"
 weight: 140
 
 ---
