@@ -15,7 +15,7 @@ file_size: "File Size: 21.74MB"
 parent_path: "tex/java"
 section_parent_path: "tex/java"
 
-release_notes_url: "https://docs.aspose.com/tex/java/aspose-tex-for-java-22-4-release-notes/"
+release_notes_url: "https://docs.aspose.com/tex/java/aspose-tex-for-java-22-6-release-notes/"
 weight: 10
 
 ---
@@ -39,7 +39,7 @@ weight: 10
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/tex/java/aspose-tex-for-java-22-4-release-notes/'>https://docs.aspose.com/tex/java/aspose-tex-for-java-22-4-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/tex/java/aspose-tex-for-java-22-6-release-notes/'>https://docs.aspose.com/tex/java/aspose-tex-for-java-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.TeX for Java 22.6 release.</div>
