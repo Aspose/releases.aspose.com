@@ -9,6 +9,8 @@ family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "19"
+homepage_package_type: "Maven"
+homepage_package_link: "https://artifact.aspose.com/repo/com/aspose/aspose-ocr/"
 weight:  2
 ---
 

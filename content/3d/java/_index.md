@@ -11,6 +11,8 @@ family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "62"
+homepage_package_type: "Maven"
+homepage_package_link: "https://repository.aspose.com/repo/com/aspose/aspose-3d/"
 weight:  2
 ---
 

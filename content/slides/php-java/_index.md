@@ -5,6 +5,8 @@ keywords: "slides"
 family_listing_page_title: "Aspose.Slides for PHP via Java"
 family_listing_page_description: "A Presentation Processing API that enables the PHP applications to manipulate, render & convert PowerPoint presentations without requiring Microsoft PowerPoint application."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/img/products/slides/aspose_slides-for-php.svg"
+homepage_package_type: "Composer"
+homepage_package_link: "https://packagist.org/packages/aspose/slides"
 weight:  99
 ---
 

@@ -6,6 +6,8 @@ keywords:  ""
 family_listing_page_title:  "Aspose.Total for Python via Java"
 family_listing_page_description:  "Automate Microsoft Excel & Visio file generation, editing & conversion processes with Python libraries"
 family_listing_page_iconurl:  "https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg"
+homepage_package_type: "Pip"
+homepage_package_link: "https://pypi.org/project/aspose-total-java/"
 weight: 8
 
 ---

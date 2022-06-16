@@ -6,6 +6,8 @@ keywords:  ""
 family_listing_page_title:  "Aspose.Total for Python via .NET"
 family_listing_page_description:  "Python APIs to Automate Microsoft Word and PowerPoint Files Manipulate Microsoft Word documents, PowerPoint presentations and Outlook email Formats"
 family_listing_page_iconurl:  "https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg"
+homepage_package_type: "Pip"
+homepage_package_link: "https://pypi.org/project/aspose-total-net/"
 weight: 7
 
 ---

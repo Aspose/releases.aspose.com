@@ -9,6 +9,8 @@ family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "209"
+homepage_package_type: "Pip"
+homepage_package_link: "https://pypi.org/project/Aspose.Email-for-Python-via-NET/"
 weight:  6
 ---
 

@@ -9,6 +9,8 @@ family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "212"
+homepage_package_type: "NPM"
+homepage_package_link: "https://www.npmjs.com/package/aspose.diagram"
 weight:  3
 ---
 

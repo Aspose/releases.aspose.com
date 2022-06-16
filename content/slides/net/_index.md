@@ -9,6 +9,8 @@ family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "29"
+homepage_package_type: "NuGet"
+homepage_package_link: "https://www.nuget.org/packages/Aspose.Slides.NET/"
 weight:  1
 ---
 

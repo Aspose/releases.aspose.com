@@ -9,6 +9,8 @@ family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "208"
+homepage_package_type: "Composer"
+homepage_package_link: "https://packagist.org/packages/aspose/cells"
 weight:  9
 ---
 
