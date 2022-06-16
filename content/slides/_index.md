@@ -9,6 +9,7 @@ family_listing_page_selfHosted: ""
 family_listing_page_type: "4"
 family_listing_page_venture: "4"
 family_listing_page_package: ""
+homepage_github_image: "https://aspose.github.io/img/aspose/aspose-slides.png"
 weight:  6
 ---
 
