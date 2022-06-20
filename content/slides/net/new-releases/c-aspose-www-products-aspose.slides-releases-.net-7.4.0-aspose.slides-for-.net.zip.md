@@ -1,11 +1,11 @@
 ---
-title:  "   Download C:/aspose/www/Products/Aspose.Slides/Releases/.NET/7.4.0/Aspose.Slides for .NET.zip " 
+title:  "   Download c-aspose-www-products-aspose.slides-releases-.net-7.4.0-Aspose.Slides for .NET.zip " 
 description:  "   . " 
 keywords:  "   . " 
 page_type:  single_release_page
-folder_link: " slides/net/new-releases/c/aspose/www/products/aspose.slides/releases/.net/7.4.0/aspose.slides-for-.net.zip/"
-folder_name: " C:/aspose/www/Products/Aspose.Slides/Releases/.NET/7.4.0/Aspose.Slides for .NET.zip"
-download_link: " /slides/net/new-releases/c/aspose/www/products/aspose.slides/releases/.net/7.4.0/aspose.slides-for-.net.zip/7d092dd09439492a876b2c02d37a64ab"
+folder_link: " slides/net/new-releases/c-aspose-www-products-aspose.slides-releases-.net-7.4.0-aspose.slides-for-.net.zip/"
+folder_name: " c-aspose-www-products-aspose.slides-releases-.net-7.4.0-Aspose.Slides for .NET.zip"
+download_link: " /slides/net/new-releases/c-aspose-www-products-aspose.slides-releases-.net-7.4.0-aspose.slides-for-.net.zip/7d092dd09439492a876b2c02d37a64ab"
 download_text: " Download"
 Intro_text: " We like to share the announcement of new release of Aspose.Slides for .NET. The ..."
 image_link: "/resources/img/zip-icon.png"
@@ -19,9 +19,9 @@ weight: 512
 
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt=" C:/aspose/www/Products/Aspose.Slides/Releases/.NET/7.4.0/Aspose.Slides for .NET.zip" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt=" c-aspose-www-products-aspose.slides-releases-.net-7.4.0-Aspose.Slides for .NET.zip" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text=" Download" link="/slides/net/new-releases/c/aspose/www/products/aspose.slides/releases/.net/7.4.0/aspose.slides-for-.net.zip/7d092dd09439492a876b2c02d37a64ab" >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/slides/net/new-releases/c-aspose-www-products-aspose.slides-releases-.net-7.4.0-aspose.slides-for-.net.zip/7d092dd09439492a876b2c02d37a64ab" >}}
     {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}

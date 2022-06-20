@@ -1,13 +1,13 @@
 ---
-title:  "   Downaload -- C:/aspose/www/Products/aspose.slides/Releases/.NET/7.1.0/Aspose.Slides.msi" 
+title:  "   Downaload -- c-aspose-www-products-aspose.slides-releases-.net-7.1.0-Aspose.Slides.msi" 
 description:  "   . " 
 keywords:  "   . " 
 page_type:  single_release_page
-folder_link: " slides/net/new-releases/c/aspose/www/products/aspose.slides/releases/.net/7.1.0/aspose.slides.msi/"
-folder_name: " C:/aspose/www/Products/aspose.slides/Releases/.NET/7.1.0/Aspose.Slides.msi"
-download_link: " /slides/net/new-releases/c/aspose/www/products/aspose.slides/releases/.net/7.1.0/aspose.slides.msi/1bf6071472f2417880ed359abcd26918"
+folder_link: " slides/net/new-releases/c-aspose-www-products-aspose.slides-releases-.net-7.1.0-aspose.slides.msi/"
+folder_name: " c-aspose-www-products-aspose.slides-releases-.net-7.1.0-Aspose.Slides.msi"
+download_link: " /slides/net/new-releases/c-aspose-www-products-aspose.slides-releases-.net-7.1.0-aspose.slides.msi/1bf6071472f2417880ed359abcd26918"
 download_text: " Download"
-Intro_text: " It contains C:/aspose/www/Products/aspose.slides/Releases/.NET/7.1.0/Aspose.Slides.msi release."
+Intro_text: " It contains c-aspose-www-products-aspose.slides-releases-.net-7.1.0-Aspose.Slides.msi release."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   1/28/2013  Downloads: 463  Views: 578"
 file_size: "  File Size: 32.6 MB "
@@ -19,9 +19,9 @@ weight: 503
 
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt=" C:/aspose/www/Products/aspose.slides/Releases/.NET/7.1.0/Aspose.Slides.msi" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt=" c-aspose-www-products-aspose.slides-releases-.net-7.1.0-Aspose.Slides.msi" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text=" Download" link="/slides/net/new-releases/c/aspose/www/products/aspose.slides/releases/.net/7.1.0/aspose.slides.msi/1bf6071472f2417880ed359abcd26918" >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/slides/net/new-releases/c-aspose-www-products-aspose.slides-releases-.net-7.1.0-aspose.slides.msi/1bf6071472f2417880ed359abcd26918" >}}
     {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
