@@ -3,7 +3,7 @@ rewrite /cells/python/$ https://releases.aspose.com/cells/python-java/ permanent
 rewrite /admin$ https://releases.admin.aspose.com permanent;
 rewrite /admin/$ https://releases.admin.aspose.com permanent;
 rewrite /words/net/new-releases/aspose.words-for-.net-22.5-(dlls-only)/$ https://releases.aspose.com/words/net/new-releases/aspose.words-for-.net-22.5-dlls-only/ permanent;
-rewrite /words/net/new-releases/aspose.words-for-.net-22.5-(dlls-only)$ https://releases.aspose.com/words/net/new-releases/aspose.words-for-.net-22.5-dlls-only/ permanent;
+rewrite /words/net/new-releases/aspose.words-for-.net-22.5-\(dlls-only\)$ https://releases.aspose.com/words/net/new-releases/aspose.words-for-.net-22.5-dlls-only/ permanent;
 rewrite /total/id$ https://releases.aspose.com/total/ permanent;
 rewrite /total/id/$ https://releases.aspose.com/total/ permanent;
 
