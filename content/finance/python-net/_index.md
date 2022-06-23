@@ -1,5 +1,5 @@
 ---
-title: "Parse & Validate XBRL & iXBRL Files | Aspose.Finance for Python via .NET"
+title: "Aspose.Finance for Python via .NET"
 description: "Aspose.Finance for Python via .NET is a Python library to manipulate finance related formats including XBRL, iXBRL and OFX. The Finance Python API allows to read, write, edit & validate finance file formats. "
 keywords: "XBRL,iXBRL,inline XBRL,OFX, Python"
 family_listing_page_title: "Aspose.Finance for Python via .NET"
@@ -52,4 +52,3 @@ You can easily use  <b>aspose-finance</b> for Python from  {{< Common/link href=
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
-
