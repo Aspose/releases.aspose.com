@@ -20,11 +20,14 @@ weight: 3
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.3D for Python via .NET" >}}
 {{< Common/paragraph>}}
-{{< Common/h2 text="Python Library for Excel"  >}} {{< Common/ul>}}
-    {{< Common/li >}} Excel & OpenOffice Calc file format conversion. {{< /Common/li >}}
-   {{< Common/li >}} Worksheet styling to the most granular level. {{< /Common/li >}}
-   {{< Common/li >}} Chart creation & rendering. {{< /Common/li >}}
-   {{< Common/li >}} Reliable formula calculation engine and much more. {{< /Common/li >}}
+{{< Common/h2 text="Python Library for Gameware and CAD"  >}} {{< Common/ul>}}
+    {{< Common/li >}} Work with 3D objects and models. {{< /Common/li >}}
+   {{< Common/li >}} Import 3D scenes from PDF. {{< /Common/li >}}
+   {{< Common/li >}} Import, create, customize and save 3D scenes. {{< /Common/li >}}
+   {{< Common/li >}} Procedural 3D modeling. {{< /Common/li >}}
+   {{< Common/li >}} 3D animation. {{< /Common/li >}}
+   {{< Common/li >}} GPU and design friendly geometry data processing. {{< /Common/li >}}
+   {{< Common/li >}} 3D scene's Meta data processing. {{< /Common/li >}}
  {{< /Common/ul>}}
 
 {{< /Common/paragraph>}}
