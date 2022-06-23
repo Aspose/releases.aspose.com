@@ -4,9 +4,9 @@ title: "Downloads ---New Releases-aspose.omr-for-.net-22.6"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/omr/net/new-releases/aspose.omr-for-.net-22.6"
+folder_link: "/omr/net/new-releases/aspose.omr-for-.net-22.6/"
 folder_name: "Aspose.OMR for .NET 22.6"
-download_link: "/omr/net/new-releases/aspose.omr-for-.net-22.60a86c0d04d64c132b15bfddebe83ba19-16-7534"
+download_link: "/omr/net/new-releases/aspose.omr-for-.net-22.6/0a86c0d04d64c132b15bfddebe83ba19-16-7534"
 download_text: "Download"
 intro_text: "Contains Aspose.OMR for .NET 22.6 release"
 image_link: "/resources/img/zip-icon.png"
@@ -23,7 +23,7 @@ weight: 92
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.OMR for .NET 22.6" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/omr/net/new-releases/aspose.omr-for-.net-22.60a86c0d04d64c132b15bfddebe83ba19-16-7534" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/omr/net/new-releases/aspose.omr-for-.net-22.6/0a86c0d04d64c132b15bfddebe83ba19-16-7534" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/omr" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
