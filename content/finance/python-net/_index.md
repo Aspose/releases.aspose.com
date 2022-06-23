@@ -19,7 +19,7 @@ weight:  11
 {{< Common/h1 text="Aspose.Finance for Python via .NET" >}}
 {{< Common/paragraph>}}
 A python library that helps create & manipulate finance related formats, such as XLBR, iXBRL, OFX. 
-{{< Common/h2 text="C# Finance Library"  >}} {{< Common/ul>}}
+{{< Common/h2 text="Python Finance Library"  >}} {{< Common/ul>}}
     {{< Common/li >}} 
 {{< Common/link href="https://docs.aspose.com/finance/python-net/create-xbrl-files/" text="Create XBRL instance from scratch"  >}}. {{< /Common/li >}}
    {{< Common/li >}} Create iXBRL(inline XBRL) file from scratch. {{< /Common/li >}}
