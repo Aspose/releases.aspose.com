@@ -24,8 +24,8 @@ weight:  2
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Slides for Java" >}}
 {{< Common/paragraph>}}
-A Presentation Processing Library to read, write, manipulate and convert PowerPoint files from within any Java based application.&nbsp;
-{{< Common/h2 text="Java PowerPoint API&nbsp;"  >}}
+A Presentation Processing Library to read, write, manipulate and convert PowerPoint files from within any Java based application.
+{{< Common/h2 text="Java PowerPoint API"  >}}
  {{< Common/ul>}}
  
    {{< Common/li >}} Complete control over presentation elements via simple yet flexible object model. {{< /Common/li >}}

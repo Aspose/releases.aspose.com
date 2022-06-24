@@ -25,7 +25,7 @@ weight:  3
 {{< Common/h1 text="Aspose.Slides for C++" >}}
 {{< Common/paragraph>}}
 A {{< Common/link href="https://products.aspose.com/slides/cpp" text="Presentation Processing Library"  >}} that enables the C++ applications to manipulate, render & convert PowerPoint presentations without requiring Microsoft PowerPoint application.
-{{< Common/h2 text="C++ Library for Presentations&nbsp;"  >}}
+{{< Common/h2 text="C++ Library for Presentations"  >}}
  {{< Common/ul>}}
  
    {{< Common/li >}} Complete control over presentation elements via comprehensive document object model. {{< /Common/li >}}

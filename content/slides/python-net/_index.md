@@ -24,7 +24,7 @@ weight:  8
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Slides for Python via .NET" >}}
 {{< Common/paragraph>}}
-A&nbsp;{{< Common/link href="https://products.aspose.com/slides/python-net/" text="Presentation Processing API"  >}}&nbsp;that enables the Python applications to manipulate, render & convert PowerPoint presentations without requiring Microsoft PowerPoint application.{{< Common/h2 text="Python API for Presentations&nbsp;"  >}} {{< Common/ul>}}
+A&nbsp;{{< Common/link href="https://products.aspose.com/slides/python-net/" text="Presentation Processing API"  >}}&nbsp;that enables the Python applications to manipulate, render & convert PowerPoint presentations without requiring Microsoft PowerPoint application.{{< Common/h2 text="Python API for Presentations"  >}} {{< Common/ul>}}
     {{< Common/li >}} Complete control over presentation elements via comprehensive document object model. {{< /Common/li >}}
    {{< Common/li >}} Conversion of PowerPoint presentation, template & slideshow file formats to 25+ supported formats. {{< /Common/li >}}
    {{< Common/li >}} Add, manipulate & format charts, shapes, slides, SmartArt, tables & text. {{< /Common/li >}}

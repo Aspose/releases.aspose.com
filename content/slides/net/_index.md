@@ -26,7 +26,7 @@ weight:  1
 {{< Common/paragraph>}}
 A unique <b>Presentation Processing API</b> that enables any .NET application to read, write, modify and convert PowerPoint presentations.
 
-{{< Common/h2 text=".NET PowerPoint API&nbsp;"  >}}
+{{< Common/h2 text=".NET PowerPoint API"  >}}
  {{< Common/ul>}}
  
    {{< Common/li >}} Document Object Model: Complete control over presentation elements. {{< /Common/li >}}
