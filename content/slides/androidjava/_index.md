@@ -50,13 +50,11 @@ You can easily use Aspose.Slides for Java directly from a {{< Common/link href="
     url "https://repository.aspose.com/repo/" } {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< consolebox/consoleboxwrapper id="dependency" >}}
-{{< consolebox/textarea id="dependency" >}}
-    compile (
+{{< consolebox/textarea id="dependency" >}}    compile (
         group: 'com.aspose',
         name: 'aspose-slides',
         version: '22.6',
-        classifier: 'android.via.java') 
-{{< /consolebox/textarea >}}
+        classifier: 'android.via.java') {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
 {{< Common/release-notes-link family="slides" product="androidjava" href="https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-22-3-release-notes/" text="https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-22-3-release-notes/"  >}}
