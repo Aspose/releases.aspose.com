@@ -45,15 +45,18 @@ A PowerPoint File Manipulation API for mobile application programmers.
 You can easily use Aspose.Slides for Java directly from a {{< Common/link href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-slides" text="Maven"  >}} based project by adding following configurations to the build.gradle.
  {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="repository" >}}
-       {{< consolebox/textarea id="repository" >}} maven {
+{{< consolebox/textarea id="repository" >}}
+ maven {
     url "https://repository.aspose.com/repo/" } {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< consolebox/consoleboxwrapper id="dependency" >}}
-       {{< consolebox/textarea id="dependency" >}} compile (
+{{< consolebox/textarea id="dependency" >}}
+    compile (
         group: 'com.aspose',
         name: 'aspose-slides',
-        version: '22.3',
-        classifier: 'android.via.java') {{< /consolebox/textarea >}}
+        version: '22.6',
+        classifier: 'android.via.java') 
+{{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
 {{< Common/release-notes-link family="slides" product="androidjava" href="https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-22-3-release-notes/" text="https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-22-3-release-notes/"  >}}

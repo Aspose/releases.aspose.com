@@ -46,19 +46,22 @@ A Presentation Processing Library to read, write, manipulate and convert PowerPo
 You can easily use Aspose.Slides for Java directly from a {{< Common/link href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-slides" text="Maven"  >}} based project by adding following configurations to the pom.xml.
  {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="repository" >}}
-       {{< consolebox/textarea id="repository" >}} <repository>
+{{< consolebox/textarea id="repository" >}} 
+<repository>
     <id>AsposeJavaAPI</id>
     <name>Aspose Java API</name>
     <url>https://repository.aspose.com/repo/</url>
 </repository> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< consolebox/consoleboxwrapper id="dependency" >}}
-       {{< consolebox/textarea id="dependency" >}} <dependency>
+{{< consolebox/textarea id="dependency" >}} 
+<dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-slides</artifactId>
-    <version>22.5/version>
+    <version>22.6/version>
     <classifier>jdk16</classifier>
-</dependency> {{< /consolebox/textarea >}}
+</dependency>
+{{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
 {{< Common/release-notes-link family="slides" product="java" href="https://docs.aspose.com/slides/java/aspose-slides-for-java-22-3-release-notes/" text="https://docs.aspose.com/slides/java/aspose-slides-for-java-22-3-release-notes/"  >}}
