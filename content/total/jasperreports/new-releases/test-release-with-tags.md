@@ -15,7 +15,7 @@ file_size: "File Size: 15 B"
 parent_path: "total/jasperreports"
 section_parent_path: "total/jasperreports"
 
-tags: "tag1,tag2"
+tags: "tag1,tag2,tag3"
 release_notes_url: "http://ptc.coms"
 weight: 10
 
