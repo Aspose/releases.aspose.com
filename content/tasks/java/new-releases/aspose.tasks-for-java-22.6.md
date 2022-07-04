@@ -10,11 +10,12 @@ download_link: "/tasks/java/new-releases/aspose.tasks-for-java-22.6/f4d2760b2428
 download_text: "Download"
 intro_text: "It contains Aspose.Tasks for Java 22.6 release."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 21/6/2022 Downloads: 1  Views: 1 "
+download_count: " 21/6/2022 Downloads: 13  Views: 1 "
 file_size: "File Size: 28.76MB"
 parent_path: "tasks/java"
 section_parent_path: "tasks/java"
 
+tags: ""
 release_notes_url: "https://docs.aspose.com/tasks/java/aspose-tasks-for-java-22-6-release-notes/"
 weight: 151
 
@@ -30,7 +31,7 @@ weight: 151
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-f4d2760b24287cac968b0cea33043a34-6-7531" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-f4d2760b24287cac968b0cea33043a34-6-7531" >}} 13 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
       {{< Common/li id="size-update-f4d2760b24287cac968b0cea33043a34-6-7531" >}} 28.76MB {{< /Common/li >}}
 
