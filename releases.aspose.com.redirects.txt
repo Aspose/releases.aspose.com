@@ -12,3 +12,4 @@ rewrite /DownloadFile.aspx/$ https://releases.aspose.com/ permanent;
 rewrite /corporate/success-stories/aspose.total/ubisoft---human-resource-\(hr\)-applications/$ https://releases.aspose.com/corporate/success-stories/aspose.total/ubisoft---human-resource-hr-applications/ permanent;
 rewrite /(.*)\(dll-only\)(.*) https://releases.aspose.com/$1dll-only$2 permanent;
 rewrite /barcode/cpp/sfsd/$ https://releases.aspose.com/barcode/cpp/ permanent;
+rewrite /pdf/android/$ https://releases.aspose.com/pdf/androidjava/ permanent;
