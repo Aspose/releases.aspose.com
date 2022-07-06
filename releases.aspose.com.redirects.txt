@@ -8,5 +8,5 @@ rewrite /words/net/new-releases/aspose.words-for-.net-22.5-\(dlls-only\)$ https:
 rewrite /total/id$ https://releases.aspose.com/total/ permanent;
 rewrite /total/id/$ https://releases.aspose.com/total/ permanent;
 rewrite /corporate/success-stories/Aspose.Slides/$ https://releases.aspose.com/corporate/success-stories/aspose.slides/ permanent;
-
+rewrite /DownloadFile.aspx/$ https://releases.aspose.com/ permanent;
 
