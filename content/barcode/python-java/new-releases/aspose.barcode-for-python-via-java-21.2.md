@@ -3,23 +3,23 @@ title:  "  Downloads ---New-Releases-aspose.barcode-for-python-via-java-21.2 . "
 description:  "    . " 
 keywords:  "    . " 
 page_type:  single_release_page
-folder_link: " barcode/python/new-releases/aspose.barcode-for-python-via-java-21.2/"
+folder_link: " barcode/python-java/new-releases/aspose.barcode-for-python-via-java-21.2/"
 folder_name: " Aspose.BarCode for Python via Java 21.2"
-download_link: " /barcode/python/new-releases/aspose.barcode-for-python-via-java-21.2/19a1c1f221704fd9ba9396b9c81fe555"
+download_link: " /barcode/python-java/new-releases/aspose.barcode-for-python-via-java-21.2/19a1c1f221704fd9ba9396b9c81fe555"
 download_text: " Download"
 Intro_text: " Aspose.BarCode for Python via Java 21.2 has been released"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/26/2021  Downloads: 0  Views: 76"
 file_size: "  File Size: 11.5 MB "
-parent_path: "barcode/python"
-section_parent_path: "barcode/python"
+parent_path: "barcode/python-java"
+section_parent_path: "barcode/python-java"
 weight: 15
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt=" Aspose.BarCode for Python via Java 21.2" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text=" Download" link="/barcode/python/new-releases/aspose.barcode-for-python-via-java-21.2/19a1c1f221704fd9ba9396b9c81fe555%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-21.2/19a1c1f221704fd9ba9396b9c81fe555%20%20" >}}
     {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}

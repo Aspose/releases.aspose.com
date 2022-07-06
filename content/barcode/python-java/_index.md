@@ -46,7 +46,7 @@ You can easily use  <b>aspose-barcode-for-python-via-java</b> for Python from  {
        {{< consolebox/textarea id="pip" >}} pip install aspose-barcode-for-python-via-java {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="barcode" product="python" href="https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-22-3/" text="https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-22-3/"  >}}
+{{< Common/release-notes-link family="barcode" product="python-java" href="https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-22-3/" text="https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-22-3/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 
@@ -55,7 +55,7 @@ You can easily use  <b>aspose-barcode-for-python-via-java</b> for Python from  {
 
 
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="barcode" product="python" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="barcode" product="python-java" >}}
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}

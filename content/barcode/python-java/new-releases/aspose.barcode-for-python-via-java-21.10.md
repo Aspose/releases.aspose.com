@@ -9,7 +9,7 @@ download_link: " /barcode/python-java/new-releases/aspose.barcode-for-python-via
 download_text: " Download"
 Intro_text: " Aspose.BarCode for Python via Java 21.10 has been released"
 image_link: "/resources/img/zip-icon.png"
-download_count: "   10/2/2021  Downloads: 1  Views: 69"
+download_count: "   10/2/2021  Downloads: 1  Views: 49"
 file_size: "  File Size: 11.4 MB "
 parent_path: "barcode/python-java"
 section_parent_path: "barcode/python-java"
@@ -29,8 +29,10 @@ weight: 23
       {{< Common/li class="downloadcount" id="dwn-update-490945be9c2840ab85f8fe4ab01265cc" >}} 1 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
       {{< Common/li id="size-update-490945be9c2840ab85f8fe4ab01265cc" >}} 11.4 MB {{< /Common/li >}} 
-
-
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-490945be9c2840ab85f8fe4ab01265cc" >}} Aleksander.Grinin {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="view-update-490945be9c2840ab85f8fe4ab01265cc" >}} 51 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
       {{< Common/li id="added-update-490945be9c2840ab85f8fe4ab01265cc" >}} 10/2/2021 {{< /Common/li >}} 
 
