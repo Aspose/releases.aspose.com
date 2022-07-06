@@ -16,3 +16,4 @@ rewrite /pdf/android/$ https://releases.aspose.com/pdf/androidjava/ permanent;
 rewrite /barcode/python-java/$ https://releases.aspose.com/barcode/python/ permanent;
 rewrite /words/java/new-releases/aspose.words-for-j/$ https://releases.aspose.com/words/java/ permanent;
 rewrite /metafiles/java/$ https://releases.aspose.com/total/java/ permanent;
+rewrite /admin/file/upload/$ https://releases.aspose.com/ permanent;
