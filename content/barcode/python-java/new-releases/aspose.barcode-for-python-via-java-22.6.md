@@ -6,11 +6,11 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-22.6/"
 folder_name: "Aspose.BarCode for Python via Java 22.6"
-download_link: "/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-22.6/46c6a60223da37ae77eb227ea5b19ed3-3-7585"
+download_link: "/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-22.6/c6c4857c635cb15b8c99843cf7887192-3-7585"
 download_text: "Download"
 intro_text: "Aspose.BarCode for Python via Java 22.6 has been released"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 30/6/2022 Downloads: 1  Views: 1 "
+download_count: " 30/6/2022 Downloads: 10  Views: 1 "
 file_size: "File Size: 11.62MB"
 parent_path: "barcode/python-java"
 section_parent_path: "barcode/python-java"
@@ -24,19 +24,19 @@ weight: 31
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.BarCode for Python via Java 22.6" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-22.6/46c6a60223da37ae77eb227ea5b19ed3-3-7585" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-22.6/c6c4857c635cb15b8c99843cf7887192-3-7585" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-46c6a60223da37ae77eb227ea5b19ed3-3-7585" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-c6c4857c635cb15b8c99843cf7887192-3-7585" >}} 10 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
-      {{< Common/li id="size-update-46c6a60223da37ae77eb227ea5b19ed3-3-7585" >}} 11.62MB {{< /Common/li >}}
+      {{< Common/li id="size-update-c6c4857c635cb15b8c99843cf7887192-3-7585" >}} 11.62MB {{< /Common/li >}}
 
       {{< Common/li >}} Date Added: {{< /Common/li >}}
-      {{< Common/li id="added-update-46c6a60223da37ae77eb227ea5b19ed3-3-7585" >}}30/6/2022 {{< /Common/li >}}
+      {{< Common/li id="added-update-c6c4857c635cb15b8c99843cf7887192-3-7585" >}}30/6/2022 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
