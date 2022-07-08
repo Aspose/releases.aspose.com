@@ -41,7 +41,7 @@ You can easily use  <b>aspose-3d</b> for Python from  {{< Common/link href="http
        {{< consolebox/textarea id="pip" >}} pip install aspose-3d {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="3D" product="python-net" href="https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-22-6-release-notes/" text="https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-22-6-release-notes/"  >}}
+{{< Common/release-notes-link family="3D" product="python-net" href="https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-22-7-release-notes/" text="https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-22-7-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}

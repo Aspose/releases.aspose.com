@@ -60,11 +60,11 @@ You can easily use Aspose.3D for Java directly from a {{< Common/link href="http
        {{< consolebox/textarea id="dependency" >}} <dependency>
      <groupId>com.aspose</groupId>
      <artifactId>aspose-3d</artifactId>
-     <version>22.6</version>
+     <version>22.7</version>
 </dependency> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="3d" product="java" href="https://docs.aspose.com/3d/java/aspose-3d-for-java-22-3-release-notes/" text="https://docs.aspose.com/3d/java/aspose-3d-for-java-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="3d" product="java" href="https://docs.aspose.com/3d/java/aspose-3d-for-java-22-7-release-notes/" text="https://docs.aspose.com/3d/java/aspose-3d-for-java-22-7-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

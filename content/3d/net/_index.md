@@ -53,7 +53,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.3D/" text="NuGe
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.3D {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="3d" product="net" href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-3-release-notes/" text="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="3d" product="net" href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-7-release-notes/" text="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-7-release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 
