@@ -5,10 +5,10 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-22.6/"
-folder_name: "Aspose.3D for .NET 22.6"
+folder_name: "Aspose.3D for .NET 22.7"
 download_link: "/3d/net/new-releases/aspose.3d-for-.net-22.6/c44b20fd04f687b7d90c2b1572dc1cd8-3-7621"
 download_text: "Download"
-intro_text: "It contains Aspose.3D for .NET 22.6 release."
+intro_text: "It contains Aspose.3D for .NET 22.7 release."
 image_link: "/resources/img/msi-icon.png"
 download_count: " 8/7/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 10.02MB"
@@ -22,7 +22,7 @@ weight: 312
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.3D for .NET 22.6" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.3D for .NET 22.7" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/3d/net/new-releases/aspose.3d-for-.net-22.6/c44b20fd04f687b7d90c2b1572dc1cd8-3-7621" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/3d" >}}
@@ -43,7 +43,7 @@ weight: 312
       <h4>Release Notes</h4><div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-7-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 22.6 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 22.7 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
