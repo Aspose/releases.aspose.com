@@ -1,45 +1,49 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.diagram-for-.net-21.6-(dlls-only) . " 
-description:  "    . " 
-keywords:  "    . " 
-page_type:  single_release_page
-folder_link: " diagram/net/new-releases/aspose.diagram-for-.net-21.6-(dlls-only)/"
-folder_name: " Aspose.Diagram for .NET 21.6 (DLLs Only)"
-download_link: " /diagram/net/new-releases/aspose.diagram-for-.net-21.6-(dlls-only)/d475fe4da13f467fad2f19a338e768de"
-download_text: " Download"
-Intro_text: " This ZIP file contains only the Aspose.Diagram for .NET assemblies. The assembli..."
+
+title: "Downloads ---New Releases-aspose.diagram-for-.net-21.6-(dlls-only)"
+description: " "
+keywords: ""
+page_type: single_release_page
+folder_link: "/diagram/net/new-releases/aspose.diagram-for-.net-21.6-(dlls-only)/"
+folder_name: "Aspose.Diagram for .NET 21.6 (DLLs Only)"
+download_link: "/diagram/net/new-releases/aspose.diagram-for-.net-21.6-(dlls-only)/9e900a897cd0f4b5bb88a89b5b22b0d4-4-4868"
+download_text: "Download"
+intro_text: "This ZIP file contains only the Aspose.Diagram for .NET assemblies. The assembli..."
 image_link: "/resources/img/zip-icon.png"
-download_count: "   6/8/2021  Downloads: 13  Views: 57"
-file_size: "  File Size: 22.6 MB "
+download_count: " 8/6/2021 Downloads: 22  Views: 61 "
+file_size: "File Size: 17.97MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
+
+tags: ""
+release_notes_url: "https://docs.aspose.com/diagram/net/aspose-diagram-for-net-21-6-release-notes/"
 weight: 447
+
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt=" Aspose.Diagram for .NET 21.6 (DLLs Only)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Diagram for .NET 21.6 (DLLs Only)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text=" Download" link="/diagram/net/new-releases/aspose.diagram-for-.net-21.6-(dlls-only)/d475fe4da13f467fad2f19a338e768de%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/diagram" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/diagram/net/new-releases/aspose.diagram-for-.net-21.6-(dlls-only)/9e900a897cd0f4b5bb88a89b5b22b0d4-4-4868" >}}
+    {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/diagram" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li class="downloadcount" id="dwn-update-d475fe4da13f467fad2f19a338e768de" >}} 13 {{< /Common/li >}} 
-      {{< Common/li  >}} File Size: {{< /Common/li >}} 
-      {{< Common/li id="size-update-d475fe4da13f467fad2f19a338e768de" >}} 22.6 MB {{< /Common/li >}} 
-      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
-      {{< Common/li class="hide" id="author-update-d475fe4da13f467fad2f19a338e768de" >}} philip.zhou {{< /Common/li >}} 
-      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
-      {{< Common/li class="hide" id="view-update-d475fe4da13f467fad2f19a338e768de" >}} 58 {{< /Common/li >}} 
-      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
-      {{< Common/li id="added-update-d475fe4da13f467fad2f19a338e768de" >}} 6/8/2021 {{< /Common/li >}} 
+      {{< Common/li >}} Downloads: {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-9e900a897cd0f4b5bb88a89b5b22b0d4-4-4868" >}} 22 {{< /Common/li >}}
+      {{< Common/li >}} File Size: {{< /Common/li >}}
+      {{< Common/li id="size-update-9e900a897cd0f4b5bb88a89b5b22b0d4-4-4868" >}} 17.97MB {{< /Common/li >}}
 
+      {{< Common/li >}} Date Added: {{< /Common/li >}}
+      {{< Common/li id="added-update-9e900a897cd0f4b5bb88a89b5b22b0d4-4-4868" >}}8/6/2021 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-21-6-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-21-6-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.Diagram for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.Diagram for .NET without the MSI installer.</div>
+      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/diagram/net/aspose-diagram-for-net-21-6-release-notes/'>https://docs.aspose.com/diagram/net/aspose-diagram-for-net-21-6-release-notes/</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.Diagram for .NET assemblies. The assembli...</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
