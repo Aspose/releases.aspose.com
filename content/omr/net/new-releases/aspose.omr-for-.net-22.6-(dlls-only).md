@@ -10,7 +10,7 @@ download_link: "/omr/net/new-releases/aspose.omr-for-.net-22.6-(dlls-only)/f6d39
 download_text: "Download"
 intro_text: "This ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.e. you cannot run MSI installers on Mono."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 21/6/2022 Downloads: 51  Views: 1 "
+download_count: " 21/6/2022 Downloads: 52  Views: 1 "
 file_size: "File Size: 76.47MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
@@ -31,7 +31,7 @@ weight: 93
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-f6d39b576c0fc08c8627eb270cf3db0b-16-7537" >}} 51 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-f6d39b576c0fc08c8627eb270cf3db0b-16-7537" >}} 52 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
       {{< Common/li id="size-update-f6d39b576c0fc08c8627eb270cf3db0b-16-7537" >}} 76.47MB {{< /Common/li >}}
 
