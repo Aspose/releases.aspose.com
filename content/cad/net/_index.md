@@ -1,7 +1,7 @@
 ---
-title: "C# CAD API | Aspose.CAD for .NET"
-description: "Download advanced AutoCAD File Conversion API to convert DWG, DXF, STL documents to PDF and Raster Images without any CAD software dependencies. "
-keywords: "CAD .NET Library, AutoCAD .NET API "
+title: "Download C# Library to Draw & Render CAD Files | Aspose.CAD"
+description: "Download C# class library DLL to render, edit, report, & convert AutoCAD®, CAD, BIM to PDF & image formats via API. Select & convert specific layouts, layers."
+keywords: "CAD .NET Library, AutoCAD .NET API"
 family_listing_page_title: "Aspose.CAD for .NET"
 family_listing_page_description: "Aspose.CAD for .NET allows developers to convert AutoCAD DWG and DXF and DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, FBX, CF2, CFF2, OBJ and other CAD formats files to PDF, SVG, WMF and Raster images. It is a native API and does not require AutoCAD or any other software to be installed."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net-min.png"
@@ -11,54 +11,82 @@ family_listing_page_venture: "4"
 family_listing_page_package: "10"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.CAD/"
+tags: ['.NET', '.NET', 'Core', '.NET', 'Framework', '.net-core', '.net-standard', '.netcore', '.netstandard', '.netstandard2.0', '3D', 'acad', 'API', 'ASP.NET', 'aspnetcore', 'Aspose', 'Aspose.CAD', 'Aspose.Total', 'Assembly', 'cad-to-bmp', 'cad-to-gif', 'cad-to-jpeg', 'cad-to-pdf', 'cad-to-png', 'cad-to-tiff', 'Component', 'Conholdate', 'Conholdate.Total', 'convert', 'converter', 'Core', 'cross-platform', 'csharp', 'dgn', 'Document', 'dotnet', 'dotnet-core', 'dotnet-standard', 'dotnetcore', 'dotnetframework', 'dotnetstandard', 'drawing', 'dwf-to-bmp', 'dwf-to-gif', 'dwf-to-jpeg', 'dwf-to-png', '', 'dwf-to-tiff', 'dwfx', 'dwg-to-bmp', 'dwg-to-gif', 'dwg-to-jpeg', 'dwg-to-png', 'dwg-to-tiff', 'dwt', 'dxf-to-bmp', 'dxf-to-gif', 'dxf-to-jpeg', 'dxf-to-png', 'dxf-to-tiff', 'export', 'Fast', 'forms', 'Framework', 'ifc', 'iges', 'layer', 'Library', 'Linux', 'macOS', 'Microsoft', 'mono', 'mvc', 'net-core', 'net-standard', 'netcore', 'netstandard', 'netstandard2.0', 'obj', 'plt', 'security', 'Standard', 'stl', 'VisualStudio', 'Windows-Forms', 'winforms', 'Render', 'Vector', 'AutoCAD', 'RealDWG', 'Raster', 'Image', '2D', 'Core', 'Graphics', 'Imaging']
 weight:  1
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/cad" linktext=" Support Forum " >}}
 
-
-{{< ProductPageWrapper >}}
-
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/h1 text="Aspose.CAD for .NET" >}}
-{{< Common/paragraph>}}
-A standalone class library to enhance ASP.NET & Windows applications to process & {{< Common/link href="https://docs.aspose.com/cad/net/converting-cad-drawings-to-pdf-and-raster-image-formats/" text="Render CAD Drawings"  >}} without requiring AutoCAD or any other rendering workflow. The CAD Class Library allows high quality conversion of DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CFF2 files, layouts and layers to PDF & raster image formats.
-
-
-{{< Common/h2 text="CAD Conversion API"  >}} {{< Common/ul>}}
-    {{< Common/li >}} 
-
-Supports the latest versions of DWG, DWF, DWT & DXF formats.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Convert CAD to Image of PNG, BMP, TIFF, JPEG & GIF formats.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Select and convert specific layouts & layers of CAD drawings.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Adjust CAD drawing size before rendering.
- {{< /Common/li >}}
- {{< /Common/ul>}}
-
-{{< /Common/paragraph>}}
-{{< Common/hr >}}
-{{< Common/h4 text="Download Aspose.CAD from NuGet"  >}}
+{{< Common/h2 text="Download Aspose.CAD to Process CAD Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Open {{< Common/link href="https://www.nuget.org/packages/Aspose.CAD/" text="NuGet"  >}} package manager, search for <b>Aspose.CAD</b> and install. You may also use the following command from the Package Manager Console.
- {{< /Common/paragraph>}}
+Open {{< Common/link href="https://www.nuget.org/packages/Aspose.CAD/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.CAD</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/cad/net/installation/" text="Installation"  >}} documentation page.
+{{< Common/release-notes-link family="cad" product="java" href="https://docs.aspose.com/cad/net/release-notes/" text="https://docs.aspose.com/cad/net/release-notes/"  >}}
+{{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.CAD {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="cad" product="net" href="https://docs.aspose.com/cad/net/aspose-cad-for-net-22-2-release-notes/" text="https://docs.aspose.com/cad/net/aspose-cad-for-net-22-2-release-notes/"  >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
+{{< Common/hr >}}
 
-<!-- /ProductPageContent-->
+![Nuget](https://img.shields.io/nuget/v/Aspose.CAD) ![Nuget](https://img.shields.io/nuget/dt/Aspose.CAD?label=nuget%20downloads)
 
+[Product Page](https://products.aspose.com/cad/net/) | [Docs](https://docs.aspose.com/cad/net/) | [Demos](https://products.aspose.app/cad/family) | [API Reference](https://reference.aspose.com/cad/net/) | [Examples](https://github.com/aspose-cad/Aspose.CAD-for-.NET) | [Blog](https://blog.aspose.com/category/cad/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cad) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
+[Aspose.CAD for .NET](https://products.aspose.com/cad/net/) is a standalone class library to enhance ASP.NET & Windows applications to process & render CAD drawings without requiring AutoCAD or any other rendering workflow. The CAD Class Library allows high-quality [conversion of DWG, DWF, DWFX, DWT, DGN, STL, OBJ, STL, CF2, IGES, IFC, PLT, and DXF](https://docs.aspose.com/cad/net/supported-file-formats/) files, layouts, and layers to PDF & raster image formats.
 
+## Why download Aspose.CAD for .NET?
+
+Aspose.CAD for .NET is a cross-platform library that seamlessly integrates; rendering, editing, reporting, and conversion capabilities for AutoCAD, and other CAD & BIM drawings into your own .NET Apps, without the need to install any 3rd party software.
+
+It enables your C#, VB.NET, ASP.NET applications to work with plain plots, 3D solids, wired models, basic cube positions, 3D faces, surfaces, and meshes within DWG, DXF, DWF, and DGN file formats. Other supported formats include IFC, IGES, STL, DWT, PLT, DWFx, CFF2, and OBJ which can be exported to a variety of vector formats, such as; SVG, WMF, PDF as well as raster image formats (BMP, JP2, GIF, PSD, JPEG, TIF, PNG, etc.). You can also convert AutoCAD files to high-quality PDF, other vector formats, or raster images while tracking the file conversion process. Aspose.CAD for .NET also allows developers to select and convert specific layouts and layers.
+
+> Aspose.CAD for .NET supports Windows, Linux, Android, and iOS operating systems (32-bit and 64-bit). It could be integrated into your .NET infrastructure with .NET Core, Xamarin, Mono, or via classic .NET Framework.
+
+## CAD File Processing Features
+
+- Convert [CAD to PDF](https://docs.aspose.com/cad/net/converting-cad-drawings-to-pdf-and-raster-image-formats/).
+- Convert CAD to images.
+- Track file processing progress.
+- Manipulate drawing entities and blocks.
+- Select and convert specific layouts of CAD drawings.
+- Select and convert specific layers of CAD drawings.
+- [Adjust CAD drawing size before rendering](https://docs.aspose.com/cad/net/adjusting-cad-drawing-size/).
+- Support for BigFont.
+- Automatically detect optimal zoom for the CAD drawings.
+
+### #Supported Read CAD Formats
+
+**AutoCAD®:** DWG, DGN, DWT, DWF, DWFx\
+**Plotter Configuration:** PC3\
+**Data Model:** IFC\
+**CAD Data Exchange:** IGES\
+**3D Printing:** STL\
+**Vector Based Plotter:** PLT\
+**3D Package Design** CFF2\
+**3D Geometry:** OBJ
+
+### Supported Read & Write CAD Formats
+
+**AutoCAD®:** DXF (Write feature is partially supported)
+
+### Save CAD As
+
+**Fixed Layout:** PDF\
+**Raster Image:** TIFF, JPEG, PNG, GIF, BMP
+
+[Product Page](https://products.aspose.com/cad/net/) | [Docs](https://docs.aspose.com/cad/net/) | [Demos](https://products.aspose.app/cad/family) | [API Reference](https://reference.aspose.com/cad/net/) | [Examples](https://github.com/aspose-cad/Aspose.CAD-for-.NET) | [Blog](https://blog.aspose.com/category/cad/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cad) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+ {{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
+
+{{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="cad" product="net" >}}
 <!-- /ReleasesListProductPage-->
-
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

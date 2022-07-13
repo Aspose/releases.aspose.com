@@ -1,7 +1,7 @@
 ---
-title: "C# OMR Creator & Parser | Aspose.OMR for .NET"
-description: "Download optical marks recognition API to recognize various types of answer sheets, including tests, assessments, surveys, quizzes, MCQ papers, feedback forms - any type of document that includes bubbles as input.  "
-keywords: "OMR .NET API "
+title: "Download Optical Mark Recognition C# DLL | Aspose.OMR API"
+description: "Download C# Class Library DLL to recognize, detect, read & extract human-marked data from scanned images, photos & documents via .NET API. Export result in CSV."
+keywords: "OMR .NET API"
 family_listing_page_title: "Aspose.OMR for .NET"
 family_listing_page_description: "Aspose.OMR for .NET is a simple to use API that allows developers to perform OMR operation on images. Aspose.OMR can perform OMR operation on JPEG, PNG, GIF, TIFF, and BMP image files and save the output in CSV format."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png"
@@ -11,52 +11,62 @@ family_listing_page_venture: "4"
 family_listing_page_package: "148"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.OMR/"
+tags: ['Aspose.OMR', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'JPEG', 'PNG', 'GIF', 'TIFF', 'BMP', 'CSV', 'JSON', 'C#', 'CSharp', 'VisualStudio', 'Visual-Studio', 'Optical-Mark-Recognition', 'OMR', 'OMR-API', 'API', 'Component', 'Library', 'Windows', '.NET-Framework', 'Framework', 'OMR-Template', 'Answer-Sheet', 'Text-OMR', 'Answer-Sheet-OMR', 'Choide-Box-OMR', 'Grid-OMR', 'Image-OMR', 'Barcode-OMR', 'OMR-Text-Markup', 'OMR-to-PDF', 'Barcode-Recognition', 'OMR-Graphical-Control', 'OMR-to-CSV', 'Windows', 'Visual-Studio', 'VisualStudio', '.NET-Framework', 'VB.NET', 'ASP.NET']
 weight:  1
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/omr" linktext=" Support Forum " >}}
 
-
-{{< ProductPageWrapper >}}
-
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/h1 text="Aspose.OMR for .NET" >}}
-{{< Common/paragraph>}}
-Aspose.OMR for .NET is a simple-to-use API that allows developers to perform OMR operation on images.
-
-{{< Common/h2 text="OMR Template Generator & Reader"  >}} {{< Common/ul>}}
-    {{< Common/li >}} Recognize data from tests, exams, questionnaires, surveys with high accuracy rate.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} 
-Read scanned images and photos.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Process rotated and perspective (side viewed) images.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Export the results in CSV format.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/omr/net/create-omr-template/" text="Create OMR templates"  >}} from text markup. {{< /Common/li >}}
- {{< /Common/ul>}}
-
-{{< /Common/paragraph>}}
-{{< Common/hr >}}
-{{< Common/h4 text="Download Aspose.OMR from NuGet"  >}}
+{{< Common/h2 text="Download Aspose.OMR to Read Human-marked Data"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Open {{< Common/link href="https://www.nuget.org/packages/Aspose.OMR/" text="NuGet"  >}} package manager, search for <b>Aspose.OMR</b> and install. You may also use the following command from the Package Manager Console.
- {{< /Common/paragraph>}}
+Open {{< Common/link href="https://www.nuget.org/packages/Aspose.OMR/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.OMR</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/omr/net/installation/" text="Installation"  >}} documentation page.
+{{< Common/release-notes-link family="omr" product="net" href="https://docs.aspose.com/omr/net/release-notes/" text="https://docs.aspose.com/omr/net/release-notes/"  >}}
+{{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.OMR {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="omr" product="net" href="https://docs.aspose.com/omr/net/aspose-omr-for-net-21-10-release-notes/" text="https://docs.aspose.com/omr/net/aspose-omr-for-net-21-10-release-notes/"  >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
+{{< Common/hr >}}
 
-<!-- /ProductPageContent-->
+![Nuget](https://img.shields.io/nuget/v/Aspose.OMR) ![Nuget](https://img.shields.io/nuget/dt/Aspose.OMR?label=nuget%20downloads)
 
+[Product Page](https://products.aspose.com/omr/net/) | [Docs](https://docs.aspose.com/omr/net/) | [Demos](https://products.aspose.app/omr/family) | [API Reference](https://reference.aspose.com/omr/net/) | [Examples](https://github.com/aspose-omr/Aspose.OMR-for-.NET) | [Blog](https://blog.aspose.com/category/omr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/omr) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
+It is a standalone on-premise API that helps in [recognizing the human-marked data](https://docs.aspose.com/omr/net/recognition/) from images of scanned documents, surveys, questionnaires, quizzes, and examination papers.
 
+## Why download Aspose.OMR for .NET?
+
+[Aspose.OMR for .NET](https://products.aspose.com/omr/net/) not only acts as an Optical Mark Recognition engine. It also provides a handy graphical control that can be used for manual tuning of the threshold and markup to see changes in real-time.
+
+## OMR API Features
+
+- Recognition of scanned images and photos.
+- Ability to process rotated and perspective (side viewed) images.
+- Recognize data from tests, exams, questionnaires, surveys, etc.
+- High accuracy rate & ability to export the results in CSV format.
+- [Create OMR templates](https://docs.aspose.com/omr/net/template-generation/).
+
+### Read Images for OMR
+
+JPEG, PNG, GIF, TIFF, BMP
+
+### Save OMR Results As
+
+CSV, JSON, XML
+
+[Product Page](https://products.aspose.com/omr/net/) | [Docs](https://docs.aspose.com/omr/net/) | [Demos](https://products.aspose.app/omr/family) | [API Reference](https://reference.aspose.com/omr/net/) | [Examples](https://github.com/aspose-omr/Aspose.OMR-for-.NET) | [Blog](https://blog.aspose.com/category/omr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/omr) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+ {{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
+
+{{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="omr" product="net" >}}
 <!-- /ReleasesListProductPage-->
-
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

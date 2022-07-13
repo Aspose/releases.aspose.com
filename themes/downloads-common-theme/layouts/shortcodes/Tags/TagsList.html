@@ -1,0 +1,9 @@
+
+ {{ if .Page.Params.tags }}
+        <p>
+            {{ range $i, $t := .Page.Params.tags }}
+                {{ if $i }} {{ end }}
+                <a target="_blank" href="https://search.aspose.com/q{{ relLangURL ( printf "%s" ( $t | urlize ) ) }}.html">{{ $t}}</a>
+            {{ end }}
+        </em>
+{{ end }}

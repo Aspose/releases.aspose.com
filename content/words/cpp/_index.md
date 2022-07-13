@@ -1,7 +1,7 @@
 ---
-title: "C++ Word Processor Library | Aspose.Words for C++"
-description: "Download native C++ Library to generate, manipulate & convert Microsoft Word files from within any C++ application without requiring Microsoft Word. "
-keywords: "C++ Library for Word, Generate Words Files C++ "
+title: "Download C++ DLL to Process Word® Documents | Aspose.Words"
+description: "Download C++ DLLs containing class library to perform Word® & OpenOffice® Document processing tasks via on-premise API. Load, edit, render, print, & convert."
+keywords: "C++ Library for Word, Generate Words Files C++"
 family_listing_page_title: "Aspose.Words for C++"
 family_listing_page_description: "Aspose.Words for C++ is an advanced Word document processing library that enables you to perform a wide range of document processing tasks including document creation & manipulation, directly within your own C++ applications."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cpp.png"
@@ -11,50 +11,87 @@ family_listing_page_venture: "4"
 family_listing_page_package: "68"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Words.cpp"
+tags: ['API', 'Aspose', 'Aspose.Total', 'Aspose.Words', 'Assembly', 'base64', 'bmp', 'bmp-to-pdf', 'c++', 'c++14', 'cpp', 'chm', 'component', 'Conholdate', 'Conholdate.Total', 'convert', 'converter', 'core', 'cross-platform', 'digital-publishing', 'doc', 'doc-to-bmp', 'doc-to-emf', 'doc-to-html', 'doc-to-jpeg', 'doc-to-pdf', 'doc-to-png', 'doc-to-postscript', 'doc-to-ps', 'docm', 'document', 'docx', 'docx-to-epub', 'docx-to-gif', 'docx-to-html', 'docx-to-markdown', 'docx-to-md', 'docx-to-mhtml', 'docx-to-pcl', 'docx-to-pdf', 'dot', 'dotm', 'dotx', 'emf', 'emf-to-pdf', 'epub', 'Fast', 'flatopc', 'gif', 'gif-to-pdf', 'html', 'htmlfixed', 'jpeg', 'jpeg-to-pdf', 'Library', 'Linux', 'mhtml', 'Microsoft', 'mobi', 'native', 'odt', 'Office', 'opendocument', 'openoffice', 'openxps', 'ott', 'pcl', 'pcl6', 'PCLXL', 'pdf', 'pdf1.5', 'pdf17', 'png', 'png-to-pdf', 'postscript', 'print', 'ps', 'render', 'rtf', 'rtf1.9', 'svg', 'swf', 'text', 'tiff', 'tiff-to-pdf', 'txt', 'Visual-Studio', 'VisualStudio', 'wmf-to-pdf', 'word-to-bmp', 'word-to-emf', 'word-to-epub', 'word-to-gif', 'word-to-html', 'word-to-jpeg', 'word-to-markdown', 'word-to-md', 'word-to-mhtml', 'word-to-pcl', 'word-to-pdf', 'word-to-png', 'word-to-postscript', 'word-to-ps', 'wordml', 'xamlfixed', 'xamlflow', 'xps', 'GCC', 'CLang', 'Visual-C++', 'Windows']
 weight:  2
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/words" linktext=" Support Forum " >}}
 
-
-{{< ProductPageWrapper >}}
-
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/h1 text="Aspose.Words for C++" >}}
-{{< Common/paragraph>}}
-Create, load, manipulate, or convert Microsoft Word and other popular Word Processing formats using native C++ library.{{< Common/h2 text="C++ Word File Processing Library"  >}} {{< Common/ul>}}
-    {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/words/cpp/supported-document-formats/" text="Convert between 25+ popular file formats"  >}}. {{< /Common/li >}}
-   {{< Common/li >}} Programming with Document Object Model. {{< /Common/li >}}
-   {{< Common/li >}} Join, append or split Word documents on the fly. {{< /Common/li >}}
-   {{< Common/li >}} Add digital signatures & watermark to documents. {{< /Common/li >}}
-   {{< Common/li >}} Protect & unprotect Documents. {{< /Common/li >}}
- {{< /Common/ul>}}
-
-
-{{< /Common/paragraph>}}
-{{< Common/hr >}}
-{{< Common/h4 text="Download Aspose.Words.Cpp from NuGet"  >}}
+{{< Common/h3 text="Download C++ Library for Word® Document Processing"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Words.cpp" text="NuGet"  >}} package manager, search for <b>Aspose.Words.Cpp</b> and install. You may also use the following command from the Package Manager Console.
- {{< /Common/paragraph>}}
+Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Words.Cpp/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.Words.Cpp</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/words/cpp/installation/" text="Installation"  >}} documentation page.
+{{< Common/release-notes-link family="words" product="cpp" href="https://docs.aspose.com/words/cpp/release-notes/" text="https://docs.aspose.com/words/cpp/release-notes/"  >}}
+{{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
        {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.Words.Cpp {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="words" product="cpp" href="https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-3-release-notes/" text="https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-3-release-notes/"  >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
+{{< Common/hr >}}
 
-<!-- /ProductPageContent-->
+![Nuget](https://img.shields.io/nuget/v/Aspose.Words.Cpp) ![Nuget](https://img.shields.io/nuget/dt/Aspose.Words.Cpp?label=nuget%20downloads)
 
+[Product Page](https://products.aspose.com/words/cpp/) | [Docs](https://docs.aspose.com/words/cpp/) | [Demos](https://products.aspose.app/words/family) | [API Reference](https://reference.aspose.com/words/cpp) | [Examples](https://github.com/aspose-words/Aspose.Words-for-C) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
+[A standalone C++ class library](https://products.aspose.com/words/cpp/) to load, save, format & convert Microsoft Word&reg; documents without Office Automation.
 
+## Why download Aspose.Words for C++?
+
+Aspose.Words for C++ is a powerful on-premise API that can be used for a great range of document processing tasks such as; working with documents, sections, tables, bookmarks, fields, form fields, DocumentBuilder, ranges, comments, content control SDT, images, styles, charts, watermarks, lists, shapes, mail merge, rendering, printing and much more.
+
+## Word File Processing Features
+
+- Call the Document constructor without parameters to [programmatically create a new blank document](https://docs.aspose.com/words/cpp/create-or-load-a-document/).
+- Detect the file format and check file format compatibility.
+- [Convert Word Documents](https://docs.aspose.com/words/cpp/convert-a-document/) to other supported formats.
+- Serialize a document object to fetch a byte array and vice versa.
+- Supports conversion compliance with various PDF standards.
+- Export fonts to HTML in `Base64` encoding.
+- Save any password encrypted word document.
+- [Specify the OOXML specification](https://docs.aspose.com/words/cpp/specify-save-options/).
+- [Apply a password to encrypted documents](https://docs.aspose.com/words/cpp/specify-save-options/) and ignore `RoutingSlip` data while saving.
+- Compress all the metafiles, be it small or large.
+- Enable bi-directional marks to add support for the right to left languages.
+- Access the VBA Project to extend functionality.
+- Read, write, or modify [VBA Macros](https://docs.aspose.com/words/cpp/working-with-vba-macros/).
+- Clone VBA Project or VBA Module.
+
+### Read & Write Document Formats
+
+**Microsoft Word&reg;:** DOC, DOT, DOCX, DOTX, DOTM, FlatOpc, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled, RTF, WordML\
+**OpenDocument:** ODT, OTT\
+**Web:** HTML, MHTML\
+**Markdown:** MD\
+**Fixed Layout:** PDF\
+**Text:** TXT
+
+### Read Document Formats
+
+**Microsoft Word&reg;:** DocPreWord60\
+**eBook:** MOBI, CHM
+
+### Save Document As
+
+**Fixed Layout:** XPS, OpenXps\
+**PostScript:** PS\
+**Printer:** PCL\
+**eBook:** EPUB\
+**Markup:** XamlFixed, HtmlFixed, XamlFlow (Beta), XamlFlowPack (Beta)\
+**Image:** SVG, TIFF, PNG, BMP, JPEG, GIF\
+**Metafile:** EMF
+
+[Product Page](https://products.aspose.com/words/cpp/) | [Docs](https://docs.aspose.com/words/cpp/) | [Demos](https://products.aspose.app/words/family) | [API Reference](https://reference.aspose.com/words/cpp) | [Examples](https://github.com/aspose-words/Aspose.Words-for-C) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+ {{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
+
+{{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="words" product="cpp" >}}
 <!-- /ReleasesListProductPage-->
-
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-
