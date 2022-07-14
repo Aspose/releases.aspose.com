@@ -12,7 +12,8 @@ family_listing_page_package: "198"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.SVG/"
 tags: [.NET', '.NET', 'Core', '.NET', 'Framework', '.net-core', '.net-standard', '.netcore', '.netstandard', '.netstandard2.0', 'API', 'ASP.NET', 'aspnetcore', 'Aspose', 'Aspose.SVG', 'Aspose.Total', 'Assembly', 'BMP', 'C#', 'Component', 'Conholdate', 'Conholdate.Total', 'convert', 'converter', 'vectorization', 'vectorizer', 'vectorize', 'encoding', 'base64', 'Core', 'cross-platform', 'csharp', 'css', 'Document', 'DOM', 'dom-manipulation', 'dotnet', 'dotnet-core', 'dotnet-standard', 'dotnetcore', 'dotnetframework', 'dotnetstandard', 'Fast', 'Framework', 'GIF', 'image', 'JPEG', 'Library', 'Linux', 'macOS', 'merge', 'Microsoft', 'mono', 'mvc', 'net-core', 'net-standard', 'netcore', 'netstandard', 'netstandard2', '2', 'to', 'PDF', 'PNG', 'rotate', 'security', 'Standard', 'svg', 'svg-to-bmp', 'svg-to-gif', 'svg-to-jpeg', 'svg-to-pdf', 'svg-to-png', 'svg-to-tiff', 'svg-to-xps', 'png-to-svg', 'jpg-to-svg', 'TIFF', 'Translation', 'VisualStudio', 'XPath', 'XPS', 'SVG', 'Windows', '.NETCore2.0', '.NETCore2.1', 'Vector', 'Graphics', 'line', 'Bézier', 'Curves', 'Cubic', 'Glyphs', 'Paths', 'Text', 'Scaling', 'Rotation', 'Skewing', 'Fill', 'Dots', 'Bitmap', 'HTML', 'Filters', 'Gaussian', 'Shadow', 'Lighting', 'Effects', 'Color', 'Linear', 'Radial']
-weight:  1
+homepage_github_image: "https://aspose.github.io/img/aspose/aspose-svg.png"
+weight:  23
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/svg" linktext=" Support Forum " >}}
