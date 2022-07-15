@@ -6,6 +6,8 @@ keywords:  "Excel,Python,.NET"
 family_listing_page_title:  "Aspose.Cells for Python via .NET"
 family_listing_page_description:  "Aspose.Cells for Python via .NET is a fast and reliable API for spreadsheet processing tasks. Developers can read, write and manipulate Excel spreadsheets in their own Python applications."
 family_listing_page_iconurl:  "https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg"
+homepage_package_type: "Pip"
+homepage_package_link: "https://pypi.org/project/aspose-cells-python"
 weight: 11
 
 ---
