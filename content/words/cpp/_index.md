@@ -12,7 +12,7 @@ family_listing_page_package: "68"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Words.cpp"
 tags: ['API', 'Aspose', 'Aspose.Total', 'Aspose.Words', 'Assembly', 'base64', 'bmp', 'bmp-to-pdf', 'c++', 'c++14', 'cpp', 'chm', 'component', 'Conholdate', 'Conholdate.Total', 'convert', 'converter', 'core', 'cross-platform', 'digital-publishing', 'doc', 'doc-to-bmp', 'doc-to-emf', 'doc-to-html', 'doc-to-jpeg', 'doc-to-pdf', 'doc-to-png', 'doc-to-postscript', 'doc-to-ps', 'docm', 'document', 'docx', 'docx-to-epub', 'docx-to-gif', 'docx-to-html', 'docx-to-markdown', 'docx-to-md', 'docx-to-mhtml', 'docx-to-pcl', 'docx-to-pdf', 'dot', 'dotm', 'dotx', 'emf', 'emf-to-pdf', 'epub', 'Fast', 'flatopc', 'gif', 'gif-to-pdf', 'html', 'htmlfixed', 'jpeg', 'jpeg-to-pdf', 'Library', 'Linux', 'mhtml', 'Microsoft', 'mobi', 'native', 'odt', 'Office', 'opendocument', 'openoffice', 'openxps', 'ott', 'pcl', 'pcl6', 'PCLXL', 'pdf', 'pdf1.5', 'pdf17', 'png', 'png-to-pdf', 'postscript', 'print', 'ps', 'render', 'rtf', 'rtf1.9', 'svg', 'swf', 'text', 'tiff', 'tiff-to-pdf', 'txt', 'Visual-Studio', 'VisualStudio', 'wmf-to-pdf', 'word-to-bmp', 'word-to-emf', 'word-to-epub', 'word-to-gif', 'word-to-html', 'word-to-jpeg', 'word-to-markdown', 'word-to-md', 'word-to-mhtml', 'word-to-pcl', 'word-to-pdf', 'word-to-png', 'word-to-postscript', 'word-to-ps', 'wordml', 'xamlfixed', 'xamlflow', 'xps', 'GCC', 'CLang', 'Visual-C++', 'Windows']
-weight:  2
+weight:  3
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/words" linktext=" Support Forum " >}}
