@@ -9,7 +9,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "225"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/repo/com/aspose/aspose-pub/"
+homepage_package_link: "https://repository.aspose.com/pub/"
 tags: ['Aspose.Total', 'Aspose.PUB', 'Aspose-Java-API', 'pub-java-library', 'pub-java-class', 'PUB', 'PDF', 'Microsoft-Publisher', 'PUB-conversion', 'Convert-PUB', 'PUB-to-PDF', 'metadata', 'Windows', 'Linux', 'Mac', 'J2SE', 'Maven', 'edit-metadata', 'modify-metadata']
 weight:  2
 ---
@@ -18,7 +18,7 @@ weight:  2
 
 {{< Common/h2 text="Download Aspose.PUB to work with Microsoft Publisher® Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/repo/com/aspose/aspose-pub/" text="Aspose.PUB for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/pub/java/installation/" text="Installing Aspose.PUB for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/pub/" text="Aspose.PUB for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/pub/java/installation/" text="Installing Aspose.PUB for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="pub" product="java" href="https://docs.aspose.com/pub/java/release-notes/" text="https://docs.aspose.com/pub/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 

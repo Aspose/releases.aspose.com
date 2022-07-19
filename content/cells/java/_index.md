@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "34"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/repo/com/aspose/aspose-cells"
+homepage_package_link: "https://repository.aspose.com/cells/"
 tags: ['Aspose.Total', 'Aspose.Cells', 'Aspose-Java-API', 'spreadsheet-java-library', 'spreadsheet-java-class', 'Maven', 'XLS', 'XLSX', 'XLSB', 'XLSM', 'XLT', 'XLTX', 'XLTM', 'XLAM', 'CSV', 'TSV', 'TabDelimited', 'TXT', 'HTML', 'MHTML', 'ODS', 'SpreadsheetML', 'Numbers', 'JSON', 'DIF', 'PDF', 'XPS', 'SVG', 'TIFF', 'PNG', 'BMP', 'EMF', 'JPEG', 'GIF', 'Markdown', 'SXC', 'FODS', 'DOCX', 'PPTX', 'Windows', 'Linux', 'Mac', 'J2SE', 'print', 'rendering', 'spreadsheet', 'encryption', 'workbook', 'excel-to-XPS', 'worksheet-to-XPS', 'workbook-to-XPS', 'excel-to-HTML', 'excel-to-PDF', 'conversion', 'convert', 'PDFA', 'worksheet-to-image', 'worksheet-to-SVG', 'JSON-to-CSV', 'CSV-to-JSON', 'import']
 weight:  2
 ---
@@ -19,7 +19,7 @@ weight:  2
 
 {{< Common/h2 text="Download Aspose.Cells to Process Excel® File Formats"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/repo/com/aspose/aspose-cells" text="Aspose.Cells for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/cells/java/installation/" text="Installing Aspose.Cells for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/cells/" text="Aspose.Cells for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/cells/java/installation/" text="Installing Aspose.Cells for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="cells" product="java" href="https://docs.aspose.com/cells/java/release-notes/" text="https://docs.aspose.com/cells/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 

@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "21"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/repo/com/aspose/aspose-tasks/"
+homepage_package_link: "https://repository.aspose.com/tasks/"
 tags: ['Aspose.Total', 'Aspose.Tasks', 'Aspose-Java-API', 'task-java-library', 'task-java-class', 'Maven', 'MPP', 'XML', 'MPT', 'XER', 'P6XML', 'MPX', 'XLSX', 'HTML', 'TXT', 'TIFF', 'SVG', 'PNG', 'JPEG', 'Windows', 'Linux', 'Mac', 'J2SE', 'formula', 'calendar', 'task', 'task-scheduling', 'assignment', 'task-cost', 'project-cost', 'project-scheduling']
 weight:  2
 ---
@@ -19,7 +19,7 @@ weight:  2
 
 {{< Common/h2 text="Download Aspose.Tasks to work with Microsoft Project® files"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/repo/com/aspose/aspose-tasks/" text="Aspose.Tasks for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/tasks/java/installation/" text="Installing Aspose.Tasks for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/tasks/" text="Aspose.Tasks for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/tasks/java/installation/" text="Installing Aspose.Tasks for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="tasks" product="java" href="https://docs.aspose.com/tasks/java/release-notes/" text="https://docs.aspose.com/tasks/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 

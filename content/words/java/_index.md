@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "3"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/repo/com/aspose/aspose-words/"
+homepage_package_link: "https://repository.aspose.com/words/"
 tags: ['Aspose.Total', 'Aspose.Words', 'Aspose-Java-API', 'word-java-library', 'word-java-class', 'Maven', 'conversion', 'converter', 'import', 'export', 'document-object-model', 'dom', 'render', 'LINQ', 'reporting', 'mail-merge', 'DOC', 'DOT', 'DocPreWord60', 'DOCX', 'DOCM', 'DOTX', 'DOTM', 'FlatOpc', 'FlatOpcMacroEnabled', 'FlatOpcTemplate', 'FlatOpcTemplateMacroEnabled', 'RTF', 'WordML', 'HTML', 'MHTML', 'MOBI', 'CHM', 'ODT', 'OTT', 'TXT', 'MD', 'PDF', 'XPS', 'XamlFixed', 'SVG', 'OpenXps', 'PS', 'PCL', 'EPUB', 'XamlFlow', 'XamlFlowPack', 'TIFF', 'PNG', 'BMP', 'EMF', 'JPEG', 'GIF', 'content', 'Word-to-PDF', 'DOC-to-PDF', 'DOCX-to-PDF', 'Word-to-Image', 'DOCX-to-JPG', 'DOC-to-PNG', 'Image-to-PDF', 'JPG-to-PDF', 'TIFF-to-PDF', 'HTML-to-Markdown', 'HTML-to-MD', 'DOCX-to-Markdown', 'DOCX-to-MD', 'Markdown-to-PDF', 'MD-to-PDF', 'HTML-to-PDF', 'MHT-to-PDF', 'MHTML-to-PDF', 'Word-to-HTML', 'Markdown-to-HTML', 'MD-to-HTML', 'Mobi-to-EPUB', 'RTF-to-PDF', 'ODT-to-PDF', 'TXT-to-PDF', 'Mobi-to-PDF', 'DOCX-to-DOC', 'HTML-to-Word', 'page-layout-engine', 'flow-layout', 'theme', 'section', 'range', 'header', 'footer', 'bookmar', 'table', 'list', 'paragraph', 'hypernation', 'font', 'opentype', 'textbox', 'comment', 'graphic', 'form-fields', 'VBA', 'macros', 'markdown', 'J2SE']
 weight:  2
 ---
@@ -19,7 +19,7 @@ weight:  2
 
 {{< Common/h3 text="Download Aspose.Words Java JAR to process Word® Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/repo/com/aspose/aspose-words/" text="Aspose.Words for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/words/java/installation/" text="Installing Aspose.Words for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/words/" text="Aspose.Words for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/words/java/installation/" text="Installing Aspose.Words for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="words" product="java" href="https://docs.aspose.com/words/java/release-notes/" text="https://docs.aspose.com/words/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 

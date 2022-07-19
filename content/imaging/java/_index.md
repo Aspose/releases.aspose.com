@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "23"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/repo/com/aspose/aspose-imaging/"
+homepage_package_link: "https://repository.aspose.com/imaging/"
 tags: ['Aspose.Total', 'Aspose.Imaging', 'Aspose-Java-API', 'image-java-library', 'image-java-class', 'Maven', 'BMP', 'GIF', 'DICOM', 'DJVU', 'DNG', 'EMF', 'JPEG', 'JPEG2000', 'ODG', 'PNG', 'APNG', 'PSD', 'DXF', 'SVG', 'TIFF', 'DIB', 'EPS', 'WEBP', 'WMF', 'CDR', 'CMX', 'OTG', 'PDF', 'HTML5', 'EMZ', 'WMZ', 'TGA', 'SVGZ', 'canvas', 'Windows', 'Linux', 'Mac', 'JPG-to-TGA', 'PNG-to-TGA', 'HTML5', 'SVG-to-HTML5', 'CorelDRAW', 'CMX-to-PNG', 'binarization', 'dithering', 'DjVu-to-TIFF', 'DjVu-to-PDF', 'image-processing', 'multithreading', 'optimization', 'DNG-to-JPEG', 'FODG', 'JPEG-LS', 'CMYK', 'YCK', 'EXIF', 'image-to-PSD', 'color-replacement', 'raster-image', 'flat-psd', 'PSD-to-JPG', 'Alpha', 'Subscript', 'smallcap', 'gradient', 'transparency', 'WebP', 'Bezier', 'Polygon', 'vector', 'multipage-image', 'image-to-PSD', 'WMF-to-PNG']
 weight:  2
 ---
@@ -19,7 +19,7 @@ weight:  2
 
 {{< Common/h3 text="Download Aspose.Imaging Java JAR to process Raster & Vector Images"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" text="Aspose.Imaging for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/imaging/java/installation/" text="Installing Aspose.Imaging for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/imaging/" text="Aspose.Imaging for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/imaging/java/installation/" text="Installing Aspose.Imaging for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="imaging" product="java" href="https://docs.aspose.com/imaging/java/release-notes/" text="https://docs.aspose.com/imaging/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 

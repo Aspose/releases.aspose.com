@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "160"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/repo/com/aspose/aspose-psd/"
+homepage_package_link: "https://repository.aspose.com/psd/"
 tags: ['Aspose.Total', 'Aspose.PSD', 'Aspose-Java-API', 'psd-java-library', 'psd-java-class', 'PSD', 'PSB', 'TIFF', 'JPEG', 'PNG', 'GIF', 'BMP', 'JPEG2000', 'PDF', 'AI', 'convert-format', 'image-loading', 'photoshop', 'raw-data-processing', 'image-compression', 'psd-compression', 'image-rotation', 'flip-image', 'image-scale', 'cache-system', 'exif-data', 'dithering', 'crop', 'vector-to-raster', 'cubic-bézier', 'matrix-transformation', 'Maven', 'Windows', 'Linux', 'Mac', 'JDK', 'adjustment-layer', 'median-filter', 'wiener-filter', 'graphics', 'linked-layer', 'text-layer']
 weight:  2
 ---
@@ -19,7 +19,7 @@ weight:  2
 
 {{< Common/h3 text="Download Aspose.PSD Java JAR to process Photoshop® Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/repo/com/aspose/aspose-psd/" text="Aspose.PSD for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/psd/java/installation/" text="Installing Aspose.PSD for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/psd/" text="Aspose.PSD for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/psd/java/installation/" text="Installing Aspose.PSD for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="psd" product="java" href="https://docs.aspose.com/psd/java/release-notes/" text="https://docs.aspose.com/psd/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 

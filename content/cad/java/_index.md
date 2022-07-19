@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "11"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/repo/com/aspose/aspose-cad/"
+homepage_package_link: "https://repository.aspose.com/cad/"
 tags: ['Aspose.Total', 'Aspose.CAD', 'Aspose-Java-API', 'cad-java-library', 'cad-java-class', 'DWG', 'DXF', 'DGN', 'IFC', 'IGES', 'STL', 'DWT', 'PLT', 'DWF', 'DWFx', 'CFF2', 'OBJ', 'PDF', 'TIFF', 'JPEG', 'PNG', 'GIF', 'BMP', 'Maven', 'Windows', 'Linux', 'Mac', 'J2SE', 'drawing', 'cad-drawing', 'raster-image', 'export-3D', 'autocad', 'cad-layout', 'mesh-model', 'ATTRIB', 'MTEXT', '3D-solids', 'conic', 'sphere', 'torus', 'cylinder', 'box', 'wedge', 'wired-models', '3D-faces', 'Unix']
 weight:  2
 ---
@@ -19,7 +19,7 @@ weight:  2
 
 {{< Common/h2 text="Download Aspose.CAD to Process CAD Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/repo/com/aspose/aspose-cad/" text="Aspose.CAD for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/cad/java/installation/" text="Installing Aspose.CAD for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/cad/" text="Aspose.CAD for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/cad/java/installation/" text="Installing Aspose.CAD for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="cad" product="java" href="https://docs.aspose.com/cad/java/release-notes/" text="https://docs.aspose.com/cad/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 

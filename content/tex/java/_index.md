@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "276"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/repo/com/aspose/aspose-tex/"
+homepage_package_link: "https://repository.aspose.com/tex/"
 tags: ['Aspose.Total', 'Aspose.TeX', 'Aspose-Java-API', 'tex-java-library', 'tex-java-class', 'XPS', 'PDF', 'PNG', 'JPEG', 'TIFF', 'BMP', 'TEXT', 'typesetting', 'ZIP', 'J2SE', 'Windows', 'Linux', 'Mac', 'format-conversion', 'tex-conversion', 'latex-conversion', 'font-subsetting', 'ligature', 'rasterization', 'OXPS', 'PS', 'EPS', 'SVG', 'TeX-to-SVG']
 weight:  2
 ---
@@ -19,7 +19,7 @@ weight:  2
 
 {{< Common/h2 text="Download Aspose.TeX to TypeSet TeX Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/repo/com/aspose/aspose-tex/" text="Aspose.TeX for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/tex/java/installation/" text="Installing Aspose.TeX for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/tex/" text="Aspose.TeX for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/tex/java/installation/" text="Installing Aspose.TeX for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="tex" product="java" href="https://docs.aspose.com/tex/java/release-notes/" text="https://docs.aspose.com/tex/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 

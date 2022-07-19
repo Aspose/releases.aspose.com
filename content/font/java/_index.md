@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "268"
 homepage_package_type: "Maven"
-homepage_package_link: "https://artifact.aspose.com/repo/com/aspose/aspose-font/"
+homepage_package_link: "https://repository.aspose.com/font/"
 tags: ['Aspose.Total', 'Aspose.Font', 'Aspose-Java-API', 'font-java-library', 'font-java-class', 'TTF', 'TTC', 'OpenType', 'CFF', 'Type1', 'postscript', 'scalabale-font', 'true-type', 'compact-font', 'latin-font', 'symbols', 'glyphs', 'font-rendering', 'render-text', 'Windows', 'Linux', 'Mac', 'J2SE', 'Maven', 'font-converter', 'font-conversion', 'WOFF', 'WOFF2', 'EOT', 'TTF-to-WOFF', 'TTF-to-WOFF2', 'WOFF-to-TTF', 'WOFF-to-WOFF2', 'WOFF2-to-TTF', '', 'WOFF2-to-WOFF', 'EOT-to-TTF', 'EOT-to-WOFF', 'EOT-to-WOFF2', 'Type1-to-TFF', 'Type1-to-WOFF', 'Type1-to-WOFF2', 'CFF-to-TTF', 'CFF-to-WOFF', 'CFF-to-WOFF2', 'load-font']
 weight:  2
 ---
@@ -19,7 +19,7 @@ weight:  2
 
 {{< Common/h2 text="Download Aspose.Font to Draw and work with Fonts"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://artifact.aspose.com/repo/com/aspose/aspose-font/" text="Aspose.Font for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/font/java/installation/" text="Installing Aspose.Font for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/font/" text="Aspose.Font for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/font/java/installation/" text="Installing Aspose.Font for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="font" product="java" href="https://docs.aspose.com/font/java/release-notes/" text="https://docs.aspose.com/font/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 

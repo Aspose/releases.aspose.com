@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "27"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/repo/com/aspose/aspose-email/"
+homepage_package_link: "https://repository.aspose.com/email/"
 tags: ['Aspose.Total', 'Aspose.Email', 'Aspose-Java-API', 'email-java-library', 'email-java-class', 'MSG', 'PST', 'OST', 'OFT', 'OLM', 'EML', 'EMLX', 'MBOX', 'ICS', 'VCF', 'HTML', 'MHTML', 'mail', 'electronic-mail', 'import-email', 'export-email', 'mail-merge', 'email-embedded-object', 'email-attachment', 'email-calendar', 'email-utility', 'mime', 'email-mime', 'email-parsing', 'pop3', 'email-pop3', 'exchange', 'email-exchange', 'imap', 'email-imap', 'email-validation', 'icalendar', 'protocols', 'email-protocols', 'RFC822', 'bulk-mail', 'email-parsing', 'parse-emails', 'APOP', 'RFC2195', 'RFC283', 'exchange-server', 'RFC2831', 'RFC2595', 'email-authentication', 'RFC2445', 'http']
 weight:  2
 ---
@@ -19,7 +19,7 @@ weight:  2
 
 {{< Common/h2 text="Download Aspose.Email to Process Outlook® File Formats"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/repo/com/aspose/aspose-email/" text="Aspose.Email for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/email/java/installation/" text="Installing Aspose.Email for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/email/" text="Aspose.Email for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/email/java/installation/" text="Installing Aspose.Email for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="email" product="java" href="https://docs.aspose.com/email/java/release-notes/" text="https://docs.aspose.com/email/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 

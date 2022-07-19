@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "30"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/repo/com/aspose/aspose-slides/"
+homepage_package_link: "https://repository.aspose.com/slides/"
 tags: ['Aspose.Total', 'Aspose.Slides', 'Aspose-Java-API', 'presentation-java-library', 'presentation-java-class', 'Maven', 'PPT', 'POT', 'PPS', 'PPTX', 'POTX', 'PPSX', 'PPTM', 'PPSM', 'POTM', 'OTP', 'ODP', 'TIFF', 'PDF', 'XPS', 'JPEG', 'PNG', 'GIF', 'BMP', 'SVG', 'HTML', 'SWF', 'PowerPoint', 'chart', 'shape', 'geometry', 'polyline', 'animation', 'autoshape', 'Windows', 'Linux', 'Mac', 'J2SE', 'JDK', 'Slide', 'presentation', 'merge', 'import', 'convert', 'conversion', 'transition', 'master-slide', 'clone-slide', 'compare-slide', 'OLE', 'SmartArt', 'zoom', 'text', 'table', 'tag', 'custom-data', 'math-equation', 'security', 'watermak', 'presentation-comment', 'presentation-note', '3d-rotation', '3d-depth', '3d-gradient', '3d-text', 'WordArt', 'VBA-Macros']
 weight:  2
 ---
@@ -19,7 +19,7 @@ weight:  2
 
 {{< Common/h3 text="Download Aspose.Slides to work with PowerPoint® Presentations"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/repo/com/aspose/aspose-slides/" text="Aspose.Slides for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/slides/java/installation/" text="Installing Aspose.Slides for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/slides/" text="Aspose.Slides for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/slides/java/installation/" text="Installing Aspose.Slides for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="slides" product="java" href="https://docs.aspose.com/slides/java/release-notes/" text="https://docs.aspose.com/slides/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 

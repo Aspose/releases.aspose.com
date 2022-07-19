@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "15"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/repo/com/aspose/aspose-note/"
+homepage_package_link: "https://repository.aspose.com/note/"
 tags: ['Aspose.Total', 'Aspose.Note', 'Aspose-Java-API', 'note-java-library', 'note-java-class', 'Maven', 'ONE', 'ONETOC2', 'PNG', 'GIF', 'JPEG', 'BMP', 'TIFF', 'PDF', 'Windows', 'J2SE', 'HTML-to-OneNote', 'OneNote-to-BMP', 'OneNote-to-JPEG', 'OneNote-to-TIFF', 'extract-text', 'printing-document', 'OneNote-to-HTML', 'text-rendering', 'image-rendering', 'document-navigation', 'text-extraction', 'insert-text', 'replace-text', 'FIPS', 'OneNote', 'SharePoint']
 weight:  2
 ---
@@ -19,7 +19,7 @@ weight:  2
 
 {{< Common/h3 text="Download Aspose.Note Java JAR for OneNote® Document Processing"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/repo/com/aspose/aspose-note/" text="Aspose.Note for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/note/java/installation/" text="Installing Aspose.Note for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/note/" text="Aspose.Note for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/note/java/installation/" text="Installing Aspose.Note for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="note" product="java" href="https://docs.aspose.com/note/java/release-notes/" text="https://docs.aspose.com/note/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 
