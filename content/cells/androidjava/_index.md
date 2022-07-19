@@ -48,11 +48,11 @@ You can easily use Aspose.Cells for Java directly from a {{< Common/link href="h
        {{< consolebox/textarea id="dependency" >}} compile (
         group: 'com.aspose',
         name: 'aspose-cells',
-        version: '22.3',
+        version: '22.6',
         classifier: 'android.via.java') {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="cells" product="androidjava" href="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-22-3-release-notes/" text="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="androidjava" href="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/" text="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 
