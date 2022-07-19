@@ -5,10 +5,10 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-22.7/"
-folder_name: "Aspose.Slides for Reporting Services 22.7"
+folder_name: "Aspose.Slides for Reporting Services 22.7 (DLLs Only)"
 download_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-22.7/71a1caba9a7bb2f9de3051578a7e14ef-7-7656"
 download_text: "Download"
-intro_text: "It contains Aspose.Slides for Reporting Services 22.7"
+intro_text: "It contains Aspose.Slides for Reporting Services 22.7 (DLLs Only)"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 19/7/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 32.83MB"
@@ -22,7 +22,7 @@ weight: 445
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Slides for Reporting Services 22.7" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Slides for Reporting Services 22.7 (DLLs Only)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-22.7/71a1caba9a7bb2f9de3051578a7e14ef-7-7656" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/slides" >}}
@@ -43,7 +43,7 @@ weight: 445
       <h4>Release Notes</h4><div><a href='https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-7-release-notes/'>https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Reporting Services 22.7</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Reporting Services 22.7 (DLLs Only)</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
