@@ -8,7 +8,7 @@ folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-22.7/"
 folder_name: "Aspose.PDF for .NET 22.7"
 download_link: "/pdf/net/new-releases/aspose.pdf-for-.net-22.7/547f553266cbd4f1f17c4323d71e2cc4-44-7652"
 download_text: "Download"
-intro_text: "It contains Aspose.PDF for .NET 22.7 release"
+intro_text: "It contains Aspose.PDF for .NET 22.7 release."
 image_link: "/resources/img/msi-icon.png"
 download_count: " 18/7/2022 Downloads: 136  Views: 1 "
 file_size: "File Size: 217.45MB"
@@ -43,7 +43,7 @@ weight: 816
       <h4>Release Notes</h4><div><a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-7-release-notes'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-7-release-notes</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 22.7 release</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 22.7 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
