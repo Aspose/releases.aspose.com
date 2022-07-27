@@ -14,78 +14,56 @@ weight:  6
 
 {{< dbToolbar link="https://forum.aspose.com/c/words" linktext=" Support Forum " >}}
 
+{{< Common/h4 text="Download Aspose.Words to Export Reports from JasperReports® & JasperServer®"  >}}
+{{< Common/paragraph class="package-instructions">}}
+{{< Common/link href="https://products.aspose.com/words/jasperreports/" text="Aspose.Words for JasperReports"  >}} helps you export reports from the JasperReports&reg; & JasperServer&reg; to the Microsoft Word&reg; supported formats without any loss of formatting and layout.
+{{< Common/release-notes-link family="words" product="jasperreports" href="https://docs.aspose.com/words/jasperreports/release-notes/" text="https://docs.aspose.com/words/jasperreports/release-notes/"  >}}
+{{< /Common/paragraph>}}
+{{< Common/hr >}}
+
+[Product Page](https://products.aspose.com/words/jasperreports/) | [Docs](https://docs.aspose.com/words/jasperreports/) | [API Reference](https://reference.aspose.com/words/) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words/8) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+### Word&reg; & JasperReports&reg; Integration Features
+
+- Keep the report layout intact while exporting it to other formats.
+- Support for using it with JasperServer Web Services as well as JasperServer REST API (V2).
+- Ability to export lines and rectangles while exporting the reports.
+- Reduce spacing between page elements proportionally.
+- Resolve overlapped report items with various built-in options.
+- Enforce the report page margins using various measuring units.
+- Choose from three built-in methods to apply page breaks within the reports.
+- Insert Microsoft Word fields, e.g., page numbers, to any point within the report document.
+- Create and apply styling to differentiate the empty cells within the report document.
+- Ability to change the report export configuration to apply custom page size and/or orientation.
+- For a complete list of export configuration features please visit the [Configuring the Export](https://docs.aspose.com/words/jasperreports/configuring-the-export/) page.
+
+### Supported Output Formats
+
+**Microsoft Word:** DOC, DOCX, RTF\
+**OpenDocument:** ODT\
+**Web:** HTML\
+**Text:** TXT
+
+### System Requirements
+
+- Java 2 Platform Standard Edition 5.0 or higher
+- JasperReports 6.0 or higher
+- JasperServers 5.6.1 or higher (if you want to use Aspose.Words for JasperReports with JasperServer)
+- JasperReports Server 7.1.0
+
+[Product Page](https://products.aspose.com/words/jasperreports/) | [Docs](https://docs.aspose.com/words/jasperreports/) | [API Reference](https://reference.aspose.com/words/) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words/8) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+ {{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
 
 {{< ProductPageWrapper >}}
-
 <!-- ReleasesListProductPage-->
-  <!--  {{< Releases/ReleasesListProductPage shownested="false"  limit="beforecontent" directdownload="false" family="words" product="jasperreports" >}} -->
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="words" product="jasperreports" >}}
 <!-- /ReleasesListProductPage-->
-
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-    {{< Common/wrapper class="panel-body downloadfilebody" >}}
-        {{< Common/wrapper class="productbox" >}}
-            {{< Common/wrapper class="col-sm-1" >}}
-                {{< Common/image class="product-icon" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png"  >}}
-            {{< /Common/wrapper >}}
-            {{< Common/wrapper class="col-sm-11" >}}
-                <h3 class="product-title">Aspose.Words for JasperReports</h3>
-                {{< Common/paragraph>}}{{< Common/link href="https://products.aspose.com/words/jasperreports/" text="Aspose.Words for JasperReports"  >}} helps
-                    you export reports
-                    from the JasperReports® & JasperServer to the Microsoft
-                    Word® supported formats without any loss of formatting and layout.
-                    {{< /Common/paragraph>}}{{< Common/h3 class=" " text="Features"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Export reports from JasperReports & JasperServer to various supported file formats. {{< /Common/li >}}
-                           {{< Common/li >}} Keep the report layout intact while exporting it to other formats. {{< /Common/li >}}
-                           {{< Common/li >}} Support for using it with JasperServer Web Services as well as JasperServer REST API (V2).
-                         {{< /Common/li >}}
-                           {{< Common/li >}} Ability to export lines and rectangles while exporting the reports. {{< /Common/li >}}
-                           {{< Common/li >}} Reduce spacing between page elements proportionally. {{< /Common/li >}}
-                           {{< Common/li >}} Resolve overlapped report items with various built-in options. {{< /Common/li >}}
-                           {{< Common/li >}} Enforce the report page margins using various measuring units. {{< /Common/li >}}
-                           {{< Common/li >}} Choose from three built-in methods to apply page breaks within the reports. {{< /Common/li >}}
-                           {{< Common/li >}} Insert Microsoft Word fields, e.g., page numbers, to any point within the report document.
-                         {{< /Common/li >}}
-                           {{< Common/li >}} Create and apply styling to differentiate the empty cells within the report document. {{< /Common/li >}}
-                           {{< Common/li >}} Ability to change the report export configuration to apply custom page size and/or
-                            orientation. {{< /Common/li >}}
-                           {{< Common/li >}} For a complete list of export configuration features please visit the {{< Common/link href="https://docs.aspose.com/words/jasperreports/configuring-the-export/" text="Configuring the Export"  >}} page.
-                         {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Supported Output Formats"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} <strong>Microsoft Word:</strong> DOC, DOCX, RTF {{< /Common/li >}}
-                           {{< Common/li >}} <strong>OpenDocument:</strong> ODT {{< /Common/li >}}
-                           {{< Common/li >}} <strong>Web:</strong> HTML {{< /Common/li >}}
-                           {{< Common/li >}} <strong>Text:</strong> TXT {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="System Requirements"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Java 2 Platform Standard Edition 5.0 or higher {{< /Common/li >}}
-                           {{< Common/li >}} JasperReports 6.0 or higher {{< /Common/li >}}
-                           {{< Common/li >}} JasperServers 5.6.1 or higher (if you want to use Aspose.Words for JasperReports with
-                            JasperServer) {{< /Common/li >}}
-                           {{< Common/li >}} JasperReports Server 7.1.0 {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Pricing"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} For detailed plans please visit the {{< Common/link href="https://purchase.aspose.com/pricing/words/jasperreports" text="Pricing Information"  >}} page. {{< /Common/li >}}
-                        
-                     {{< /Common/ul>}}
-                {{< Common/paragraph>}}{{< /Common/paragraph>}}
-            {{< /Common/wrapper >}}
-        {{< /Common/wrapper >}}
-    {{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
-
-<!-- /ProductPageContent-->
-
-
-
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  limit="aftercontent" directdownload="false" family="words" product="jasperreports" >}}
-<!-- /ReleasesListProductPage-->
-
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

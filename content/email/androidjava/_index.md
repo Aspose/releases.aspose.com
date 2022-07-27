@@ -10,64 +10,80 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "28"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email"
-weight:  4
+homepage_package_link: "https://repository.aspose.com/email/"
+weight: 4
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/email" linktext=" Support Forum " >}}
 
+{{< Common/h2 text="Download Aspose.Email for Android Applications"  >}}
+{{< Common/paragraph class="package-instructions">}}
+Android API empowers the software developers to design Android Apps with the ability to manage and manipulate email messages without getting lost in the complexities of Microsoft Outlook&reg; file format implementation.
+You can easily use Aspose.Email for Java directly from a {{< Common/link href="https://repository.aspose.com/email/" text="Maven"  >}} based project by adding following configurations to the build.gradle.
+{{< Common/release-notes-link family="email" product="jandroidjavaava" href="https://docs.aspose.com/email/java/android-via-java-release-notes/" text="https://docs.aspose.com/email/java/android-via-java-release-notes/"  >}} 
+{{< /Common/paragraph>}}
+
+{{< consolebox/consoleboxwrapper id="repository" >}}
+   {{< consolebox/textarea id="repository" >}}
+      maven {url "http://repository.aspose.com/repo/" }
+   {{< /consolebox/textarea >}}
+{{< /consolebox/consoleboxwrapper >}}
+
+{{< consolebox/consoleboxwrapper id="dependency" >}}
+   {{< consolebox/textarea id="dependency" >}}
+      compile (
+         group: 'com.aspose',
+         name: 'aspose-email',
+         version: '22.6',
+         classifier: 'android.via.java')
+   {{< /consolebox/textarea >}}
+{{< /consolebox/consoleboxwrapper >}}
+
+{{< Common/hr >}}
+
+[Product Page](https://products.aspose.com/email/android-java/) | [Docs](https://docs.aspose.com/email/androidjava/) | [Demos](https://products.aspose.app/email/family) | [API Reference](https://reference.aspose.com/email/java) | [Examples](https://github.com/aspose-email/Aspose.Email-for-Java) | [Blog](https://blog.aspose.com/category/email/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/email/12) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+### Email Android Features
+
+- Open or save emails in Microsoft Outlook & other formats.
+- Conversion of email files to various formats.
+- Parse, read & save MS Outlook emails, PST & OST files.
+- Extract objects from various mail storage formats.
+
+### Read & Write Email Formats
+
+**Microsoft Outlook&reg;:** MSG, PST, OST, OFT\
+**Email:** EML, EMLX, MBOX\
+**Others:** ICS, VCF, HTML, MHTML
+
+### Read Email Formats
+
+**Mac Outlook&reg;:** OLM
+
+### Supported Environments
+
+- Any platform where Android Runtime environment is installed.
+- Android OS 2.0 or greater.
+
+> Aspose.Email for Android via Java does not require having Microsoft Outlook&reg; installed. 
+
+[Product Page](https://products.aspose.com/email/android-java/) | [Docs](https://docs.aspose.com/email/androidjava/) | [Demos](https://products.aspose.app/email/family) | [API Reference](https://reference.aspose.com/email/java) | [Examples](https://github.com/aspose-email/Aspose.Email-for-Java) | [Blog](https://blog.aspose.com/category/email/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/email/12) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+{{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
 
 {{< ProductPageWrapper >}}
 
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/h1 text="Aspose.Email for Android via Java" >}}
-{{< Common/paragraph>}}
-Android API empowers the software developers to design Android app with the ability to manage and manipulate email messages without getting lost in the complexities of Microsoft Outlook file format implementation.&nbsp;
-
-{{< Common/h2 text="Android Email Library"  >}}
- {{< Common/ul>}}
- 
-   {{< Common/li >}} Open or save emails in Microsoft Outlook & other formats. {{< /Common/li >}}
-
-   {{< Common/li >}} Conversion of email files to various formats. {{< /Common/li >}}
-
-   {{< Common/li >}} Parse, read & save MS Outlook emails, PST & OST files. {{< /Common/li >}}
-
-   {{< Common/li >}} Extract objects from various mail storage formats. {{< /Common/li >}}
-
- {{< /Common/ul>}}
-
-{{< /Common/paragraph>}}
-{{< Common/hr >}}
-{{< Common/h4 text="Download Aspose.Email from Maven"  >}}
-{{< Common/paragraph class="package-instructions">}}
-You can easily use Aspose.Email for Java directly from a {{< Common/link href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email" text="Maven"  >}} based project by adding following configurations to the build.gradle.
- {{< /Common/paragraph>}}
-{{< consolebox/consoleboxwrapper id="repository" >}}
-       {{< consolebox/textarea id="repository" >}} maven {
-    url "http://repository.aspose.com/repo/" } {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-       {{< consolebox/textarea id="dependency" >}} compile (
-        group: 'com.aspose',
-        name: 'aspose-email',
-        version: '22.1',
-        classifier: 'android.via.java') {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="email" product="androidjava" href="https://docs.aspose.com/email/java/aspose-email-for-java-22-1-release-notes/" text="https://docs.aspose.com/email/java/aspose-email-for-java-22-1-release-notes/"  >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
-
-<!-- /ProductPageContent-->
-
-
-
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="email" product="androidjava" >}}
+
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="email" product="androidjava" >}}
+
 <!-- /ReleasesListProductPage-->
 
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

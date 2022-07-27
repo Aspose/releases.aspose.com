@@ -16,45 +16,42 @@ weight:  8
 
 {{< dbToolbar link="https://forum.aspose.com/c/barcode" linktext=" Support Forum " >}}
 
-
-{{< ProductPageWrapper >}}
-
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/h1 text="Aspose.BarCode for PHP via Java" >}}
-{{< Common/paragraph>}}
-A PHP library that allows developers to quickly and easily add barcode generation and recognition functionality to their PHP applications while using Aspose.BarCode for Java as core library and PHP-Java Bridge for communication.
-{{< Common/h2 text="PHP Barcode Library"  >}} {{< Common/ul>}}
-    {{< Common/li >}} 
-Supports most established barcode standards and barcode specifications.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Ability to read & export barcodes in multiple image formats including BMP, GIF, JPEG & PNG.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Provides full control over barcode labels.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Supports X-dimension & Y-dimension for 2D BarCodes.&nbsp; {{< /Common/li >}}
- {{< /Common/ul>}}
-
-{{< /Common/paragraph>}}
-{{< Common/hr >}}
-{{< Common/h4 text="Download aspose/barcode from Composer"  >}}
+{{< Common/h3 text="Download Aspose.BarCode for PHP via Java from Composer"  >}}
 {{< Common/paragraph class="package-instructions">}}
-aspose/barcode is available on Packagist as the {{< Common/link href="https://packagist.org/packages/aspose/barcode" text="aspose/barcode"  >}} package. Run the following command:
+A PHP library that allows developers to quickly and easily add barcode generation and recognition functionality to their PHP applications while using Aspose.BarCode for Java as core library and PHP-Java Bridge for communication.
+`aspose/barcode` is available on Packagist as the {{< Common/link href="https://packagist.org/packages/aspose/barcode" text="aspose/barcode"  >}} package. Run the following command:
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="composer" >}}
-       {{< consolebox/spantext text=" " >}}
-       {{< consolebox/textarea id="composer" >}} composer require aspose/barcode {{< /consolebox/textarea >}}
+   {{< consolebox/spantext text=" " >}}
+   {{< consolebox/textarea id="composer" >}} composer require aspose/barcode {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="barcode" product="php" href="https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-22-3/" text="https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-22-3/"  >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
+{{< Common/release-notes-link family="barcode" product="php" href="https://docs.aspose.com/barcode/java/php-via-java-release-notes/" text="https://docs.aspose.com/barcode/java/php-via-java-release-notes/"  >}}
 
-<!-- /ProductPageContent-->
+{{< Common/hr >}}
+
+[Product Page](https://products.aspose.com/barcode/php-java/) | [Docs](https://docs.aspose.com/barcode/phpjava/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/php) | [Examples](https://github.com/aspose-barcode/Aspose.Barcode-for-PHP-via-Java) | [Blog](https://blog.aspose.com/categories/aspose.barcode-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode/13) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+### PHP BarCode On-premise API Features
+
+- Supports most established barcode standards and barcode specifications. 
+- Ability to read & export barcodes in multiple image formats including BMP, GIF, JPEG & PNG. 
+- Provides full control over barcode labels. 
+- Supports X-dimension & Y-dimension for 2D BarCodes. 
 
 
+[Product Page](https://products.aspose.com/barcode/php-java/) | [Docs](https://docs.aspose.com/barcode/phpjava/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/php) | [Examples](https://github.com/aspose-barcode/Aspose.Barcode-for-PHP-via-Java) | [Blog](https://blog.aspose.com/categories/aspose.barcode-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode/13) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+ {{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
+
+{{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="barcode" product="php" >}}
 <!-- /ReleasesListProductPage-->
-
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

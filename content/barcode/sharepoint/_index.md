@@ -9,118 +9,112 @@ family_listing_page_selfHosted: "1"
 family_listing_page_type: "2"
 family_listing_page_venture: "4"
 family_listing_page_package: ""
-weight:  6
+weight: 6
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/barcode" linktext=" Support Forum " >}}
 
+{{< Common/h3 text="Download Aspose.BarCode to generate barcodes in SharePoint®"  >}}
+{{< Common/paragraph class="package-instructions">}}
+{{< Common/link href="https://products.aspose.com/barcode/sharepoint/" text="Aspose.BarCode for SharePoint"  >}} enables
+you to generate Postal and 2D barcodes in SharePoint® lists. It extends the functionality of the existing SharePoint® standard field by adding a barcode field type.
+{{< Common/release-notes-link family="barcode" product="sharepoint" href="https://docs.aspose.com/barcode/sharepoint/" text="https://docs.aspose.com/barcode/sharepoint/"  >}}
+{{< /Common/paragraph>}}
+{{< Common/hr >}}
+
+[Product Page](https://products.aspose.com/barcode/sharepoint/) | [Docs](https://docs.aspose.com/barcode/sharepoint/) | [API Reference](https://reference.aspose.com/barcode/) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+### Barcode SharePoint&reg; Integration Features
+
+- Add barcode column type to SharePoint lists.
+- Support for Postal and 2D Barcode symbologies.
+- Ability to specify the barcode text as service markers.
+- Automatically populate the barcode text as per the service marker.
+- View and edit barcode items.
+
+### Barcode Generation & Recognition Formats
+
+Image: JPEG, TIFF, PNG, BMP, GIF, EXIF
+
+### Save BarCode Labels As
+
+Image: EMF, SVG
+
+### System Requirements
+
+#### Server Requirements
+
+- Microsoft SharePoint Server 2010
+
+#### Client Requirements
+
+- Microsoft Internet Explorer 6, 7, 8, 9
+- Mozilla Firefox 3.5
+- Google Chrome 3
+- Safari 4
+
+### Supported Barcode Symbologies
+
+- AustralianPost
+- AustralianPostParcel
+- Aztec
+- BooklandEAN
+- Code11
+- Code128
+- Code39Extended
+- Code39Standard
+- Code93Extended
+- Code93Standard
+- Codebar
+- DataMatrix
+- DeutchePostalIdentificationCode
+- DeutchePostalleitCode
+- EAN128
+- EAN13
+- EAN14
+- EAN8
+- GS1DataMatrix
+- IATA2of5
+- Interleaved2of5
+- ItalianPost25
+- ITF14
+- ITF6
+- MacroPdf417
+- Matrix2of5
+- MSI
+- OneCode
+- OPC
+- Pdf417
+- Planet
+- Postnet
+- PZN
+- QR
+- RM4SCC
+- SCC14
+- SingaporePost
+- SSCC18
+- Standard2of5
+- UPCA
+- UPCE
+- VIN
+
+[Product Page](https://products.aspose.com/barcode/sharepoint/) | [Docs](https://docs.aspose.com/barcode/sharepoint/) | [API Reference](https://reference.aspose.com/barcode/) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+{{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
 
 {{< ProductPageWrapper >}}
 
 <!-- ReleasesListProductPage-->
-  <!--  {{< Releases/ReleasesListProductPage shownested="false"  limit="beforecontent" directdownload="false" family="barcode" product="sharepoint" >}} -->
+
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="barcode" product="sharepoint" >}}
+
 <!-- /ReleasesListProductPage-->
 
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-    {{< Common/wrapper class="panel-body downloadfilebody" >}}
-        {{< Common/wrapper class="productbox" >}}
-            {{< Common/wrapper class="col-sm-1" >}}
-                {{< Common/image class="product-icon" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-sharepoint-min.png"  >}}
-            {{< /Common/wrapper >}}
-            {{< Common/wrapper class="col-sm-11" >}}
-                <h3 class="product-title">Aspose.BarCode for SharePoint</h3>
-                {{< Common/paragraph>}}{{< Common/link href="https://products.aspose.com/barcode/sharepoint/" text="Aspose.BarCode for SharePoint"  >}} enables
-                    you to generate
-                    Postal and 2D barcodes in SharePoint lists. It extends the functionality of the existing SharePoint
-                    standard field by
-                    adding a barcode field type.
-                    {{< /Common/paragraph>}}{{< Common/h3 class=" " text="Features"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/barcode/sharepoint/add-barcode-column-to-sharepoint-lists/" text="Add barcode column"  >}} type to SharePoint lists. {{< /Common/li >}}
-                           {{< Common/li >}} Support for Postal and 2D Barcode symbologies. {{< /Common/li >}}
-                           {{< Common/li >}} Ability to specify the barcode text as service markers. {{< /Common/li >}}
-                           {{< Common/li >}} Automatically populate the barcode text as per the service marker. {{< /Common/li >}}
-                           {{< Common/li >}} View and edit barcode items. {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Supported Barcode Symbologies"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} AustralianPost {{< /Common/li >}}
-                           {{< Common/li >}} AustralianPostParcel {{< /Common/li >}}
-                           {{< Common/li >}} Aztec {{< /Common/li >}}
-                           {{< Common/li >}} BooklandEAN {{< /Common/li >}}
-                           {{< Common/li >}} Code11 {{< /Common/li >}}
-                           {{< Common/li >}} Code128 {{< /Common/li >}}
-                           {{< Common/li >}} Code39Extended {{< /Common/li >}}
-                           {{< Common/li >}} Code39Standard {{< /Common/li >}}
-                           {{< Common/li >}} Code93Extended {{< /Common/li >}}
-                           {{< Common/li >}} Code93Standard {{< /Common/li >}}
-                           {{< Common/li >}} Codebar {{< /Common/li >}}
-                           {{< Common/li >}} DataMatrix {{< /Common/li >}}
-                           {{< Common/li >}} DeutchePostalIdentificationCode {{< /Common/li >}}
-                           {{< Common/li >}} DeutchePostalleitCode {{< /Common/li >}}
-                           {{< Common/li >}} EAN128 {{< /Common/li >}}
-                           {{< Common/li >}} EAN13 {{< /Common/li >}}
-                           {{< Common/li >}} EAN14 {{< /Common/li >}}
-                           {{< Common/li >}} EAN8 {{< /Common/li >}}
-                           {{< Common/li >}} GS1DataMatrix {{< /Common/li >}}
-                           {{< Common/li >}} IATA2of5 {{< /Common/li >}}
-                           {{< Common/li >}} Interleaved2of5 {{< /Common/li >}}
-                           {{< Common/li >}} ItalianPost25 {{< /Common/li >}}
-                           {{< Common/li >}} ITF14 {{< /Common/li >}}
-                           {{< Common/li >}} ITF6 {{< /Common/li >}}
-                           {{< Common/li >}} MacroPdf417 {{< /Common/li >}}
-                           {{< Common/li >}} Matrix2of5 {{< /Common/li >}}
-                           {{< Common/li >}} MSI {{< /Common/li >}}
-                           {{< Common/li >}} OneCode {{< /Common/li >}}
-                           {{< Common/li >}} OPC {{< /Common/li >}}
-                           {{< Common/li >}} Pdf417 {{< /Common/li >}}
-                           {{< Common/li >}} Planet {{< /Common/li >}}
-                           {{< Common/li >}} Postnet {{< /Common/li >}}
-                           {{< Common/li >}} PZN {{< /Common/li >}}
-                           {{< Common/li >}} QR {{< /Common/li >}}
-                           {{< Common/li >}} RM4SCC {{< /Common/li >}}
-                           {{< Common/li >}} SCC14 {{< /Common/li >}}
-                           {{< Common/li >}} SingaporePost {{< /Common/li >}}
-                           {{< Common/li >}} SSCC18 {{< /Common/li >}}
-                           {{< Common/li >}} Standard2of5 {{< /Common/li >}}
-                           {{< Common/li >}} UPCA {{< /Common/li >}}
-                           {{< Common/li >}} UPCE {{< /Common/li >}}
-                           {{< Common/li >}} VIN {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Barcode Generation & Recognition Formats"  >}}
-                    <strong>Image:</strong> JPEG, TIFF, PNG, BMP, GIF, EXIF
-                    {{< Common/h3 class=" " text="Save BarCode Labels As"  >}}
-                    <strong>Image:</strong> EMF, SVG
-                    {{< Common/h3 class=" " text="System Requirements"  >}}
-                    <h5 id="server-requirements">Server Requirements</h5>
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Microsoft SharePoint Server 2010 {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    <h5 id="client-requirements">Client Requirements</h5>
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Microsoft Internet Explorer 6, 7, 8, 9 {{< /Common/li >}}
-                           {{< Common/li >}} Mozilla Firefox 3.5 {{< /Common/li >}}
-                           {{< Common/li >}} Google Chrome 3 {{< /Common/li >}}
-                           {{< Common/li >}} Safari 4 {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Pricing"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} For detailed plans please visit the {{< Common/link href="https://purchase.aspose.com/pricing/barcode/sharepoint" text="Pricing Information"  >}} page. {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                {{< Common/paragraph>}}{{< /Common/paragraph>}}
-            {{< /Common/wrapper >}}
-        {{< /Common/wrapper >}}
-    {{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
-
-<!-- /ProductPageContent-->
-
-
-
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  limit="aftercontent" directdownload="false" family="barcode" product="sharepoint" >}}
-<!-- /ReleasesListProductPage-->
-
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

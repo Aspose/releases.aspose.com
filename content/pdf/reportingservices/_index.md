@@ -9,117 +9,107 @@ family_listing_page_selfHosted: "1"
 family_listing_page_type: "2"
 family_listing_page_venture: "4"
 family_listing_page_package: ""
-weight:  5
+weight: 5
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/pdf" linktext=" Support Forum " >}}
 
+{{< Common/h3 text="Download Aspose.PDF Rendering Extension for SQL Reports"  >}}
+{{< Common/paragraph class="package-instructions">}}
+{{< Common/link href="https://products.aspose.com/pdf/reporting-services/" text="Aspose.PDF for Reporting Services"  >}}
+is a report rendering extension that seamlessly integrates with Microsoft SQL Server&reg; Reporting Services. Supports to
+manipulate RDL features and export to the supported formats in a highly accurate manner.
+{{< Common/release-notes-link family="pdf" product="reportingservices" href="https://docs.aspose.com/pdf/reportingservices/release-notes/" text="https://docs.aspose.com/pdf/reportingservices/release-notes/"  >}}
+{{< /Common/paragraph>}}
+{{< Common/hr >}}
+
+[Product Page](https://products.aspose.com/pdf/reporting-services/) | [Docs](https://docs.aspose.com/pdf/reportingservices/) | [API Reference](https://reference.aspose.com/pdf/) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf/10) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+### PDF & SQL Server&reg; Reports Integration Features
+
+- Use any RDL report designer and export the report in an accurate manner.
+- Supports parameterized reports to accept input values.
+- Comprehensive support for RDL elements.
+- Ability to specify certain configuration parameters that define how the reporting documents are generated.
+
+### Supported Input Formats
+
+- Report Definition Language (RDL)
+- Hypertext Markup Language (HTML)
+
+### Supported Output Formats
+
+**Fixed Layout:** PDF, PDF/A, XPS
+**eBook:** EPUB
+
+### Supported RDL Elements
+
+- Sections
+- Headers, footers
+- Textboxes
+- Images
+- Charts
+- Lists
+- Tables
+- Matrices
+- Styles
+- Rectangles
+- Lines
+- Sub Report
+- Gauge panel (RS2008)
+- Tablix (RS2008)
+
+### Supported Report Parameters
+
+- Page orientation
+- HTML formatting
+- Security attributes
+- Row Across Pages
+- IsFontEmbedded
+- Page size
+- Page margin size
+- XMP Metadata
+- Debug Information
+- PDF_A Conformance
+- List Section
+- Page Rotating Angle
+- Compression
+
+### Supported Custom Properties
+
+- Table of contents
+- List of tables or figures
+- Line arrows
+- Footnote
+- Endnote
+
+### Supported Platforms
+
+- Microsoft SQL Server 2000 Reporting Services
+- Microsoft SQL Server 2005 Reporting Services
+- Microsoft SQL Server 2008 Reporting Services
+- Microsoft SQL Server 2012 Reporting Services
+- Microsoft SQL Server 2016 Reporting Services
+- Aspose.PDF for Reporting Services2000/2005 needs .NET Framework 2.0
+- Aspose.PDF for Reporting Services2008 needs .NET Framework 3.5
+
+[Product Page](https://products.aspose.com/pdf/reporting-services/) | [Docs](https://docs.aspose.com/pdf/reportingservices/) | [API Reference](https://reference.aspose.com/pdf/) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf/10) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+{{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
 
 {{< ProductPageWrapper >}}
 
 <!-- ReleasesListProductPage-->
-  <!--  {{< Releases/ReleasesListProductPage shownested="false"  limit="beforecontent" directdownload="false" family="pdf" product="reportingservices" >}} -->
+
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="pdf" product="reportingservices" >}}
+
 <!-- /ReleasesListProductPage-->
 
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-    {{< Common/wrapper class="panel-body downloadfilebody" >}}
-        {{< Common/wrapper class="productbox" >}}
-            {{< Common/wrapper class="col-sm-1" >}}
-                {{< Common/image class="product-icon" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-reporting-services-min.png"  >}}
-            {{< /Common/wrapper >}}
-            {{< Common/wrapper class="col-sm-11" >}}
-                <h3 class="product-title">Aspose.PDF for Reporting Services</h3>
-                {{< Common/paragraph>}}{{< Common/link href="https://products.aspose.com/pdf/reporting-services/" text="Aspose.PDF for Reporting Services"  >}}
-                    is a report
-                    rendering extension that seamlessly integrates with Microsoft SQL Server Reporting Services.
-                    Supports to
-                    manipulate RDL features and export to the supported formats in a highly accurate manner.
-                    {{< /Common/paragraph>}}{{< Common/h3 class=" " text="Features"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Use any RDL report designer and export the report in an accurate manner. {{< /Common/li >}}
-                           {{< Common/li >}} Supports {{< Common/link href="https://docs.aspose.com/pdf/reportingservices/parameterized-report-support/" text="parameterized reports"  >}} to accept input values. {{< /Common/li >}}
-                           {{< Common/li >}} Comprehensive {{< Common/link href="https://docs.aspose.com/pdf/reportingservices/comprehensive-rdl-support/" text="support for RDL elements"  >}}. {{< /Common/li >}}
-                           {{< Common/li >}} Ability to {{< Common/link href="https://docs.aspose.com/pdf/reportingservices/setting-parameters/" text="specify certain configuration parameters"  >}} that define how the reporting documents are generated. {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Supported Input Formats"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Report Definition Language (RDL) {{< /Common/li >}}
-                           {{< Common/li >}} Hypertext Markup Language (HTML) {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Supported Output Formats"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} <strong>Fixed Layout:</strong> PDF, PDF/A, XPS {{< /Common/li >}}
-                           {{< Common/li >}} <strong>eBook:</strong> EPUB {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Supported RDL Elements"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Sections {{< /Common/li >}}
-                           {{< Common/li >}} Headers, footers {{< /Common/li >}}
-                           {{< Common/li >}} Textboxes {{< /Common/li >}}
-                           {{< Common/li >}} Images {{< /Common/li >}}
-                           {{< Common/li >}} Charts {{< /Common/li >}}
-                           {{< Common/li >}} Lists {{< /Common/li >}}
-                           {{< Common/li >}} Tables {{< /Common/li >}}
-                           {{< Common/li >}} Matrices {{< /Common/li >}}
-                           {{< Common/li >}} Styles {{< /Common/li >}}
-                           {{< Common/li >}} Rectangles {{< /Common/li >}}
-                           {{< Common/li >}} Lines {{< /Common/li >}}
-                           {{< Common/li >}} Sub Report {{< /Common/li >}}
-                           {{< Common/li >}} Gauge panel (RS2008) {{< /Common/li >}}
-                           {{< Common/li >}} Tablix (RS2008) {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Supported Report Parameters"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Page orientation {{< /Common/li >}}
-                           {{< Common/li >}} HTML formatting {{< /Common/li >}}
-                           {{< Common/li >}} Security attributes {{< /Common/li >}}
-                           {{< Common/li >}} Row Across Pages {{< /Common/li >}}
-                           {{< Common/li >}} IsFontEmbedded {{< /Common/li >}}
-                           {{< Common/li >}} Page size {{< /Common/li >}}
-                           {{< Common/li >}} Page margin size {{< /Common/li >}}
-                           {{< Common/li >}} XMP Metadata {{< /Common/li >}}
-                           {{< Common/li >}} Debug Information {{< /Common/li >}}
-                           {{< Common/li >}} PDF_A Conformance {{< /Common/li >}}
-                           {{< Common/li >}} List Section {{< /Common/li >}}
-                           {{< Common/li >}} Page Rotating Angle {{< /Common/li >}}
-                           {{< Common/li >}} Compression {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Supported Custom Properties"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Table of contents {{< /Common/li >}}
-                           {{< Common/li >}} List of tables or figures {{< /Common/li >}}
-                           {{< Common/li >}} Line arrows {{< /Common/li >}}
-                           {{< Common/li >}} Footnote {{< /Common/li >}}
-                           {{< Common/li >}} Endnote {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Supported Platforms"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Microsoft SQL Server 2000 Reporting Services {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft SQL Server 2005 Reporting Services {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft SQL Server 2008 Reporting Services {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft SQL Server 2012 Reporting Services {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft SQL Server 2016 Reporting Services {{< /Common/li >}}
-                           {{< Common/li >}} Aspose.PDF for Reporting Services2000/2005 needs .NET Framework 2.0 {{< /Common/li >}}
-                           {{< Common/li >}} Aspose.PDF for Reporting Services2008 needs .NET Framework 3.5 {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Pricing"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} For detailed plans please visit the {{< Common/link href="https://purchase.aspose.com/pricing/pdf/reporting-services" text="Pricing Information"  >}} page. {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                {{< Common/paragraph>}}{{< /Common/paragraph>}}
-            {{< /Common/wrapper >}}
-        {{< /Common/wrapper >}}
-    {{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
-
-<!-- /ProductPageContent-->
-
-
-
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  limit="aftercontent" directdownload="false" family="pdf" product="reportingservices" >}}
-<!-- /ReleasesListProductPage-->
-
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

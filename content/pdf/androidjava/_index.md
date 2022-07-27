@@ -17,52 +17,87 @@ weight:  4
 {{< dbToolbar link="https://forum.aspose.com/c/pdf" linktext=" Support Forum " >}}
 
 
-{{< ProductPageWrapper >}}
+{{< Common/h2 text="Download Aspose.PDF for Android Applications"  >}}
 
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/h1 text="Aspose.PDF for Android via Java" >}}
-{{< Common/paragraph>}}
+{{< Common/paragraph class="package-instructions">}}
+
 A {{< Common/link href="https://products.aspose.com/pdf/android-java" text="PDF Processing API"  >}} that enables the Android apps to read, write, manipulate & render PDF documents.
-{{< Common/h2 text="Android Library for PDF"  >}} {{< Common/ul>}}
-    {{< Common/li >}} Create PDF documents from scratch. {{< /Common/li >}}
-   {{< Common/li >}} Convert PDF to Word, XPS, HTML & other 15+ formats. {{< /Common/li >}}
-   {{< Common/li >}} Add or edit text, graphs, headings, hyperlinks, tables & more. {{< /Common/li >}}
-   {{< Common/li >}} Support for Type 1, Type 3, TrueType, CJK & Unicode fonts. {{< /Common/li >}}
-   {{< Common/li >}} Add or remove watermarks. {{< /Common/li >}}
-   {{< Common/li >}} Encrypt & decrypt PDF documents. {{< /Common/li >}}
- {{< /Common/ul>}}
+
+You can easily use Aspose.PDF for Java directly from a {{< Common/link href="https://repository.aspose.com/pdf/" text="Maven"  >}} based project by adding following configurations to the build.gradle.
+
+{{< Common/release-notes-link family="pdf" product="androidjava" family="pdf" product="androidjava" href="https://docs.aspose.com/pdf/androidjava/aspose-pdf-for-android-via-java/" text="https://docs.aspose.com/pdf/androidjava/aspose-pdf-for-android-via-java/"  >}}
 
 {{< /Common/paragraph>}}
-{{< Common/hr >}}
-{{< Common/h4 text="Download Aspose.PDF from Maven"  >}}
-{{< Common/paragraph class="package-instructions">}}
-You can easily use Aspose.PDF for Java directly from a {{< Common/link href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pdf" text="Maven"  >}} based project by adding following configurations to the build.gradle.
- {{< /Common/paragraph>}}
+
 {{< consolebox/consoleboxwrapper id="repository" >}}
-       {{< consolebox/textarea id="repository" >}} maven {
-    url "http://repository.aspose.com/repo/" } {{< /consolebox/textarea >}}
+   {{< consolebox/textarea id="repository" >}}
+      maven {url "http://repository.aspose.com/repo/" }
+   {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
+
 {{< consolebox/consoleboxwrapper id="dependency" >}}
-       {{< consolebox/textarea id="dependency" >}} compile (
-        group: 'com.aspose',
-        name: 'aspose-pdf',
-        version: '20.11',
-        classifier: 'android.via.java') {{< /consolebox/textarea >}}
+   {{< consolebox/textarea id="dependency" >}}
+      compile (
+         group: 'com.aspose',
+         name: 'aspose-pdf',
+         version: '20.11',
+         classifier: 'android.via.java')
+   {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="pdf" product="androidjava" family="pdf" product="androidjava" href="https://docs.aspose.com/pdf/java/aspose-pdf-for-android-via-java-20-11-release-notes/" text="https://docs.aspose.com/pdf/java/aspose-pdf-for-android-via-java-20-11-release-notes/"  >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
 
-<!-- /ProductPageContent-->
+{{< Common/hr >}}
+
+[Product Page](https://products.aspose.com/pdf/android-java/) | [Docs](https://docs.aspose.com/pdf/androidjava/) | [Demos](https://products.aspose.app/pdf/family) | [API Reference](https://reference.aspose.com/pdf/java) | [Examples](https://github.com/aspose-pdf/Aspose.PDF-for-Java) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf/10) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+### PDF Android Features
+
+- Create PDF documents from scratch.
+- Convert PDF to Word, XPS, HTML & other 15+ formats.
+- Add or edit text, graphs, headings, hyperlinks, tables & more.
+- Support for Type 1, Type 3, TrueType, CJK & Unicode fonts.
+- Add or remove watermarks.
+- Encrypt & decrypt PDF documents.
+
+### Supported Load Formats
+
+**Fixed Layout:** PDF, XPS
+
+### Save PDF Documents As
+
+**Microsoft Word&reg;:** DOC, DOCX\
+**Microsoft Excel&reg;:** XLS, XLSX\
+**Microsoft PowerPoint&reg;:** PPTX\
+**Images:** JPEG, PNG, BMP, TIFF, GIF\
+**Medical Imaging:** DICOM\
+**Metafile:** EMF\
+**LaTex:** TEX\
+**Other:** XML, CSV, TXT
+
+### Supported Environments
+
+### Supported Environments
+
+- Any platform where Android Runtime environment is installed.
+- Android OS 2.0 or greater.
 
 
+[Product Page](https://products.aspose.com/pdf/android-java/) | [Docs](https://docs.aspose.com/pdf/androidjava/) | [Demos](https://products.aspose.app/pdf/family) | [API Reference](https://reference.aspose.com/pdf/java) | [Examples](https://github.com/aspose-pdf/Aspose.PDF-for-Java) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf/10) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+{{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
+
+{{< ProductPageWrapper >}}
 
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="pdf" product="androidjava" >}}
+
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="pdf" product="androidjava" >}}
+
 <!-- /ReleasesListProductPage-->
 
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

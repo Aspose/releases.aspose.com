@@ -3,60 +3,53 @@ title: " Aspose - Downloads"
 description: "It contains files for barcode "
 keywords: "barcode "
 family_listing_page_title: "Aspose.BarCode for Python via Java"
-family_listing_page_description: "Aspose.Barcode for Python via Java shows how different tasks can be performed using Aspose.Barcode Java APIs in Python. This project is aimed to provide useful API for Python developers who want to utilize Aspose.Barcode for Java within their Python-based projects."
-family_listing_page_iconurl: "https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_barcode-for-python.png"
+family_listing_page_description: "Aspose.BarCode for Python via Java"
+family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_barcode-for-python.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
-family_listing_page_package: "273"
+family_listing_page_package: "274"
 homepage_package_type: "Pip"
-homepage_package_link: "https://pypi.org/project/aspose-barcode-for-python-via-java/"
-weight:  10
+homepage_package_link: "https://pypi.org/project/aspose-barcode/"
+weight:  29
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/barcode" linktext=" Support Forum " >}}
 
-
-{{< ProductPageWrapper >}}
-
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/h1 text="Aspose.BarCode for Python via Java" >}}
-{{< Common/paragraph>}}
-Aspose.BarCode for Python via Java allows you to quickly and easily add barcode generation, recognition & manipulation functionality to your Python applications.
-
-{{< Common/h2 text="Python Barcode On-premise Library"  >}}
-
- {{< Common/ul>}}
-    {{< Common/li >}} It offers support for most of the popular barcode specifications and standards. {{< /Common/li >}}
-   {{< Common/li >}} You can read and export barcodes in multiple image formats, e.g. JPEG, PNG, GIF & BMP. {{< /Common/li >}}
-   {{< Common/li >}} Ability to work with barcode labels. {{< /Common/li >}}
-   {{< Common/li >}} Support for the X-dimension as well as the Y-dimension for 2D barcodes. {{< /Common/li >}}
- {{< /Common/ul>}}
-
-{{< /Common/paragraph>}}
-{{< Common/hr >}}
-{{< Common/h4 text="Download aspose-barcode-for-python-via-java from Pip"  >}}
+{{< Common/h2 text="Download Aspose.Barcode for Python via Java from PIP"  >}}
 {{< Common/paragraph class="package-instructions">}}
-You can easily use  <b>aspose-barcode-for-python-via-java</b> for Python from  {{< Common/link href="https://pypi.org/project/aspose-barcode-for-python-via-java/" text="pip"  >}} with the following command.
+You can easily use  <b>aspose-barcode</b> for Python from  {{< Common/link href="https://pypi.org/project/aspose-barcode/" text="pip"  >}} with the following command.
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
-       {{< consolebox/textarea id="pip" >}} pip install aspose-barcode-for-python-via-java {{< /consolebox/textarea >}}
+       {{< consolebox/textarea id="pip" >}} pip install aspose-barcode {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="barcode" product="python" href="https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-22-3/" text="https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-22-3/"  >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
+{{< Common/release-notes-link family="barcode" product="python-java" href="https://docs.aspose.com/barcode/java/python-java/" text="https://docs.aspose.com/barcode/java/python-java/"  >}}
 
-<!-- /ProductPageContent-->
+{{< Common/hr >}}
 
+[Product Page](https://products.aspose.com/barcode/python-java) | [Docs](https://docs.aspose.com/barcode/pythonjava/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com//barcode/python-java) | [Examples](https://github.com/aspose-barcode/Aspose.BarCode-for-Python-via-Java) | [Blog](https://blog.aspose.com/categories/aspose.barcode-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode/13) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
+### Barcode Processing Python via Java On-premise API Features
 
+- It offers support for most of the popular barcode specifications and standards.
+- You can read and export barcodes in multiple image formats, e.g. JPEG, PNG, GIF & BMP.
+- Ability to work with barcode labels.
+- Support for the X-dimension as well as the Y-dimension for 2D barcodes.
+
+[Product Page](https://products.aspose.com/barcode/python-java) | [Docs](https://docs.aspose.com/barcode/pythonjava/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com//barcode/python-java) | [Examples](https://github.com/aspose-barcode/Aspose.BarCode-for-Python-via-Java) | [Blog](https://blog.aspose.com/categories/aspose.barcode-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode/13) | [Temporary License](https://purchase.aspose.com/temporary-license)
+
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+ {{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
+
+{{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="barcode" product="python-java" >}}
 <!-- /ReleasesListProductPage-->
-
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

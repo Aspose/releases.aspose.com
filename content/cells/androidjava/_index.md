@@ -11,58 +11,61 @@ family_listing_page_venture: "4"
 family_listing_page_package: "35"
 homepage_package_type: "Maven"
 homepage_package_link: "https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells"
-weight:  4
+weight: 4
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/cells" linktext=" Support Forum " >}}
 
+{{< Common/h2 text="Download Aspose.Cells for Android Applications"  >}}
+{{< Common/paragraph class="package-instructions">}}
+You can easily use Aspose.Cells for Java directly from a {{< Common/link href="https://repository.aspose.com/cells/" text="Maven"  >}} based project by adding following configurations to the build.gradle.
+{{< Common/release-notes-link family="cells" product="androidjava" href="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/" text="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/"  >}}
+{{< /Common/paragraph>}}
+{{< consolebox/consoleboxwrapper id="repository" >}}
+{{< consolebox/textarea id="repository" >}}
+maven {url "https://repository.aspose.com/repo/" }
+{{< /consolebox/textarea >}}
+{{< /consolebox/consoleboxwrapper >}}
+{{< consolebox/consoleboxwrapper id="dependency" >}}
+{{< consolebox/textarea id="dependency" >}}
+compile (
+group: 'com.aspose',
+name: 'aspose-cells',
+version: '22.7',
+classifier: 'android.via.java')
+{{< /consolebox/textarea >}}
+{{< /consolebox/consoleboxwrapper >}}
+
+{{< Common/hr >}}
+
+[Product Page](https://products.aspose.com/cells/android-java/) | [Docs](https://docs.aspose.com/cells/androidjava/) | [Demos](https://products.aspose.app/cells/family) | [API Reference](https://reference.aspose.com/cells/java) | [Examples](https://github.com/aspose-cells/Aspose.Cells-for-Java) | [Blog](https://blog.aspose.com/category/cells/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+### Spreadsheet Android Features
+
+- Programmatically generate, combine, modify and parse spreadsheets.
+- Convert Excel to XPS, PDF, HTML & other popular formats.
+- Robust Formula Calculation Engine supporting all of Excel's native & custom functions.
+- Apply formatting to worksheet, row, column, cell and ranges.
+- Export and import data from ArrayList, Array, Recordset & Resultset.
+- Encrypt & decrypt Excel files on the fly.
+
+[Product Page](https://products.aspose.com/cells/android-java/) | [Docs](https://docs.aspose.com/cells/androidjava/) | [Demos](https://products.aspose.app/cells/family) | [API Reference](https://reference.aspose.com/cells/java) | [Examples](https://github.com/aspose-cells/Aspose.Cells-for-Java) | [Blog](https://blog.aspose.com/category/cells/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+{{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
 
 {{< ProductPageWrapper >}}
 
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/h1 text="Aspose.Cells for Android via Java" >}}
-{{< Common/paragraph>}}
-An {{< Common/link href="https://products.aspose.com/cells/android-java" text="Android Spreadsheet API"  >}} allowing the developers to build Android applications that can read, write, manipulate, convert or render Excel spreadsheets.
-{{< Common/h2 text="Android Library for Spreadsheets"  >}} {{< Common/ul>}}
-    {{< Common/li >}} Programmatically generate, combine, modify and parse spreadsheets. {{< /Common/li >}}
-   {{< Common/li >}} Convert Excel to XPS, PDF, HTML & other popular formats. {{< /Common/li >}}
-   {{< Common/li >}} Robust Formula Calculation Engine supporting all of Excel's native & custom functions. {{< /Common/li >}}
-   {{< Common/li >}} Apply formatting to worksheet, row, column, cell and ranges. {{< /Common/li >}}
-   {{< Common/li >}} Export and import data from ArrayList, Array, Recordset & Resultset. {{< /Common/li >}}
-   {{< Common/li >}} Encrypt & decrypt Excel files on the fly. {{< /Common/li >}}
- {{< /Common/ul>}}
-
-{{< /Common/paragraph>}}
-{{< Common/hr >}}
-{{< Common/h4 text="Download Aspose.Cells from Maven"  >}}
-{{< Common/paragraph class="package-instructions">}}
-You can easily use Aspose.Cells for Java directly from a {{< Common/link href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells" text="Maven"  >}} based project by adding following configurations to the build.gradle.
- {{< /Common/paragraph>}}
-{{< consolebox/consoleboxwrapper id="repository" >}}
-       {{< consolebox/textarea id="repository" >}} maven {
-    url "https://repository.aspose.com/repo/" } {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-       {{< consolebox/textarea id="dependency" >}} compile (
-        group: 'com.aspose',
-        name: 'aspose-cells',
-        version: '22.6',
-        classifier: 'android.via.java') {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="cells" product="androidjava" href="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/" text="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/"  >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
-
-<!-- /ProductPageContent-->
-
-
-
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="cells" product="androidjava" >}}
+
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="cells" product="androidjava" >}}
+
 <!-- /ReleasesListProductPage-->
 
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

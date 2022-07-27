@@ -9,73 +9,55 @@ family_listing_page_selfHosted: "1"
 family_listing_page_type: "2"
 family_listing_page_venture: "4"
 family_listing_page_package: ""
+tags: ['Aspose', 'Aspose.PDF', 'Aspose.Total', 'PDF', 'JRXML', 'PDF', 'PDFA', 'PPTX', 'JasperReports', 'JasperServer', 'report', 'export', 'table', 'chart', 'extension', 'conversion']
 weight:  7
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/pdf" linktext=" Support Forum " >}}
 
+{{< Common/h3 text="Download Aspose.PDF to Export JasperReports® to PDF Formats"  >}}
+{{< Common/paragraph class="package-instructions">}}
+{{< Common/link href="https://products.aspose.com/pdf/jasperreports/" text="Aspose.PDF for JasperReports"  >}} helps you export reports from JasperReports® and JasperServer® to the PDF, PDF/A, and other supported file formats. The important report features, such as charts and tables are converted without any loss in the layout or formatting.
+{{< Common/release-notes-link family="pdf" product="jasperreports" href="https://docs.aspose.com/pdf/jasperreports/release-notes/" text="https://docs.aspose.com/pdf/jasperreports/release-notes/"  >}}
+{{< /Common/paragraph>}}
+{{< Common/hr >}}
+
+[Product Page](https://products.aspose.com/pdf/jasperreports/) | [Docs](https://docs.aspose.com/pdf/jasperreports/) | [API Reference](https://reference.aspose.com/pdf/) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+### PDF JasperReports&reg; Integration Features
+
+- Export reports to PDF and other supported formats. 
+- Keeps the layout consistent while converting report features, e.g., tables, charts to PDF.
+- Integrates with JasperReports® and JasperServer®.
+- Easy and lightweight deployment.
+
+### Supported Input Formats
+
+- JRXML (JasperReports® Layout File)
+
+### Supported Output Formats
+
+- PDF, PDF/A, PPTX
+
+### System Requirements
+
+- Java 2 Platform Standard Edition 5.0 or higher.
+- JasperReports® 6.7.0 or higher.
+- JasperServer® 6.7.0 or higher.
+
+[Product Page](https://products.aspose.com/pdf/jasperreports/) | [Docs](https://docs.aspose.com/pdf/jasperreports/) | [API Reference](https://reference.aspose.com/pdf/) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+ {{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
 
 {{< ProductPageWrapper >}}
-
 <!-- ReleasesListProductPage-->
- <!--   {{< Releases/ReleasesListProductPage shownested="false"  limit="beforecontent" directdownload="false" family="pdf" product="jassperreport" >}} -->
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="pdf" product="jasperreports" >}}
 <!-- /ReleasesListProductPage-->
-
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-    {{< Common/wrapper class="panel-body downloadfilebody" >}}
-        {{< Common/wrapper class="productbox" >}}
-            {{< Common/wrapper class="col-sm-1" >}}
-                {{< Common/image class="product-icon" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-jasperreports-min.png"  >}}
-            {{< /Common/wrapper >}}
-            {{< Common/wrapper class="col-sm-11" >}}
-                <h3 class="product-title">Aspose.PDF for JasperReports</h3>
-                {{< Common/paragraph>}}{{< Common/link href="https://products.aspose.com/pdf/jasperreports/" text="Aspose.PDF for JasperReports"  >}} helps you
-                    export reports from
-                    JasperReports® and JasperServer to the PDF, PDF/A, and other
-                    supported file formats. The important report features, such as charts and tables are converted
-                    without any loss in the
-                    layout or formatting.
-                    {{< /Common/paragraph>}}{{< Common/h3 class=" " text="Features"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Export reports to PDF and other supported formats. {{< /Common/li >}}
-                           {{< Common/li >}} Keeps the layout consistent while converting report features, e.g., tables, charts to PDF.
-                         {{< /Common/li >}}
-                           {{< Common/li >}} Integrates with JasperReports and JasperServer. {{< /Common/li >}}
-                           {{< Common/li >}} Easy and lightweight deployment. {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Supported Input Format"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} JRXML (JasperReports Layout File) {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Supported Output Format"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} PDF, PDF/A, PPTX {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="System Requirements"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Java 2 Platform Standard Edition 5.0 or higher. {{< /Common/li >}}
-                           {{< Common/li >}} JasperReports 6.7.0 or higher. {{< /Common/li >}}
-                           {{< Common/li >}} JasperServer 6.7.0 or higher (if you want to use Aspose.PDF for JasperReports with
-                            JasperServer). {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Pricing"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} For detailed plans please visit the {{< Common/link href="https://purchase.aspose.com/pricing/pdf/jasperreports" text="Pricing Information"  >}} page. {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                {{< Common/paragraph>}}{{< /Common/paragraph>}}
-            {{< /Common/wrapper >}}
-        {{< /Common/wrapper >}}
-    {{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
-
-<!-- /ProductPageContent-->
-
-
-
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  limit="aftercontent" directdownload="false" family="pdf" product="jassperreport" >}}
-<!-- /ReleasesListProductPage-->
-
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

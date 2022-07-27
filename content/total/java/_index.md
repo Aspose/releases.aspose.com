@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "284"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/total/"
+homepage_package_link: "https://repository.aspose.com/repo/com/aspose/aspose-total/"
 weight:  2
 ---
 
@@ -51,7 +51,7 @@ weight:  2
 {{< Common/hr >}}
 {{< Common/h4 text="Download Aspose.Total from Maven"  >}}
 {{< Common/paragraph class="package-instructions">}}
-You can easily use Aspose.Total for Java directly from a {{< Common/link href="https://repository.aspose.com/total/" text="Maven"  >}} based project by adding following configurations to the pom.xml.
+You can easily use Aspose.Total for Java directly from a {{< Common/link href="https://repository.aspose.com/repo/com/aspose/aspose-total/" text="Maven"  >}} based project by adding following configurations to the pom.xml.
  {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="repository" >}}
        {{< consolebox/textarea id="repository" >}} <repository>
@@ -82,4 +82,3 @@ You can easily use Aspose.Total for Java directly from a {{< Common/link href="h
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
-

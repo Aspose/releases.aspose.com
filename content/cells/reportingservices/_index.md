@@ -9,155 +9,139 @@ family_listing_page_selfHosted: "1"
 family_listing_page_type: "2"
 family_listing_page_venture: "4"
 family_listing_page_package: ""
-weight:  6
+weight: 6
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/cells" linktext=" Support Forum " >}}
 
+{{< Common/h3 text="Download Aspose.Cells Desinger & Renderer for SQL Reports"  >}}
+{{< Common/paragraph class="package-instructions">}}
+{{< Common/link href="https://products.aspose.com/cells/reporting-services/" text="Aspose.Cells for Reporting Services"  >}} seamlessly adds a myriad of features in the Microsoft SQL Server&reg; Reporting Services, ranging from setting up data sources, creating queries, designing reports, and publishing them to the Report Server.
+{{< Common/release-notes-link family="cells" product="reportingservices" href="https://docs.aspose.com/cells/reportingservices/release-notes/" text="https://docs.aspose.com/cells/reportingservices/release-notes/"  >}}
+{{< /Common/paragraph>}}
+{{< Common/hr >}}
+
+[Product Page](https://products.aspose.com/cells/reporting-services/) | [Docs](https://docs.aspose.com/cells/reportingservices/) | [API Reference](https://reference.aspose.com/cells/) | [Blog](https://blog.aspose.com/category/cells/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells/9) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+### Spreadsheet & SQL Server&reg; Reports Integration Features
+
+- Fully supports the RDL specification.
+- Aspose.Cells.Report.Designer client tool to design and manipulate RDL report files.
+- Supports using Reporting Services Formulas.
+- Generate an RDL file at design time.
+- Export the Standard RDL reports to MS Excel&reg;.
+- Ability to create data sources and queries.
+- Supports pivot tables, VBA, macros, and interactive charts.
+- Handy command bar icons and tools on Aspose.Cells.Report.Designer add-in's toolbar.
+- Join markers together as a composite marker.
+- Embed a sub-report in a table group row.
+- Support for Microsoft Report Viewer integration in local mode.
+- Export reports to various popular supported file formats.
+- Support for editable charts.
+
+### Supported Input Formats
+
+- Report Definition Language (RDL)
+- Report Definition Language Client (RDLC)
+
+### Supported Output Formats
+
+**Microsoft Excel:** XLS, XLSX, XLSM, XLSB, CSV, TSV, TabDelimited, SpreadsheetML
+**OpenDocument:** ODS
+**Markup:** HTML, Markdown (MD)
+**Other:** XPS
+
+### Supported RDL Elements
+
+- Page, headers, footers
+- Textboxes
+- Images
+- Charts
+- Lists
+- Tables
+- Matrices
+- Styles
+- Rectangles, lines
+- Subreports
+- Tablix
+- Gauge
+
+### System Requirements
+
+Aspose.Cells for Reporting Services (including the Aspose.Cells.ReportingServices client, add-ins to Microsoft Excel&reg; and Aspose.Cells.ReportingServices Server) needs to be installed properly. Moreover, Microsoft SQL Server&reg; should be installed prior to installing Aspose.Cells for Reporting Services.
+
+#### Microsoft Office
+
+- Microsoft Excel&reg; 2000 Install the `lockbackRegKey.msi` to fix a CLR issue on Microsoft Office machines older than Office 2003.
+- Microsoft Excel&reg; 2002 Install `lockbackRegKey.msi` to fix a CLR issue on Microsoft Office&reg; machines older than Office 2003.
+- Microsoft Excel&reg; 2003 Always Update to Office&reg; 2003 (KB907417). This update corrects a potential problem in which an add-in, a smart tag, or a smart document may not load if it uses the Microsoft .NET Framework 2.0.
+- Microsoft Excel&reg; 2007
+- Microsoft Excel&reg; 2010
+- Microsoft Excel&reg; 2013
+- Microsoft Excel&reg; 2016
+- Microsoft Excel&reg; 2019
+- Microsoft Excel&reg; 365
+
+#### Reporting Services
+
+- Microsoft SQL Server&reg; Reporting Services 2005
+- Microsoft SQL Server&reg; Reporting Services 2008
+- Microsoft SQL Server&reg; Reporting Services 2008 R2
+- Microsoft SQL Server&reg; Reporting Services 2012
+- Microsoft SQL Server&reg; Reporting Services 2014
+- Microsoft SQL Server&reg; Reporting Services 2016
+- Microsoft SQL Server&reg; Reporting Services 2019
+
+#### Microsoft Visual Studio
+
+- Microsoft Visual Studio 2005
+- Microsoft Visual Studio 2008
+- Microsoft Visual Studio 2010
+- Microsoft Visual Studio 2015
+- Microsoft Visual Studio 2017
+- Microsoft Visual Studio 2019
+
+#### Operating System
+
+- Microsoft Windows 2000 Server
+- Microsoft Windows 2000 Professional
+- Microsoft Windows XP Home Edition
+- Microsoft Windows XP Professional Edition
+- Microsoft Windows XP Professional x64 Edition
+- Microsoft Windows 2003 Server
+- Microsoft Windows Vista
+- Microsoft Windows 7
+- Microsoft Windows 10
+- Microsoft Windows 2008 Server
+- Microsoft Windows 2008 Server R2
+- Microsoft Windows 2012 Server
+- Microsoft Windows 2012 R2 Server
+- Microsoft Windows 2016 Server
+- Microsoft Windows 2019 Server
+
+#### .NET Framework
+
+- .NET Framework 2.0
+- .NET Framework 3.5
+- .NET Framework 4.x
+
+[Product Page](https://products.aspose.com/cells/reporting-services/) | [Docs](https://docs.aspose.com/cells/reportingservices/) | [API Reference](https://reference.aspose.com/cells/) | [Blog](https://blog.aspose.com/category/cells/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells/9) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+{{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
 
 {{< ProductPageWrapper >}}
 
 <!-- ReleasesListProductPage-->
- <!--   {{< Releases/ReleasesListProductPage shownested="false"  limit="beforecontent" directdownload="false" family="cells" product="reportingservices" >}} -->
+
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="cells" product="reportingservices" >}}
+
 <!-- /ReleasesListProductPage-->
 
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-    {{< Common/wrapper class="panel-body downloadfilebody" >}}
-        {{< Common/wrapper class="productbox" >}}
-            {{< Common/wrapper class="col-sm-1" >}}
-                {{< Common/image class="product-icon" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-reporting-services.png"  >}}
-            {{< /Common/wrapper >}}
-            {{< Common/wrapper class="col-sm-11" >}}
-                <h3 class="product-title">Aspose.Cells for Reporting Services</h3>
-                {{< Common/paragraph>}}{{< Common/link href="https://products.aspose.com/cells/reporting-services/" text="Aspose.Cells for Reporting Services"  >}} seamlessly adds
-                    a myriad of features in the Microsoft SQL Server Reporting Services, ranging from setting up data
-                    sources, creating
-                    queries, designing reports, and publishing them to the Report Server.
-                    {{< /Common/paragraph>}}{{< Common/h3 class=" " text="Features"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Fully supports the RDL specification. {{< /Common/li >}}
-                           {{< Common/li >}} Aspose.Cells.Report.Designer client tool to design and manipulate RDL report files. {{< /Common/li >}}
-                           {{< Common/li >}} Supports using Reporting Services Formulas. {{< /Common/li >}}
-                           {{< Common/li >}} Generate an RDL file at design time. {{< /Common/li >}}
-                           {{< Common/li >}} Export the Standard RDL reports to MS Excel. {{< /Common/li >}}
-                           {{< Common/li >}} Ability to create data sources and queries. {{< /Common/li >}}
-                           {{< Common/li >}} Supports pivot tables, VBA, macros, and interactive charts. {{< /Common/li >}}
-                           {{< Common/li >}} Handy command bar icons and tools on Aspose.Cells.Report.Designer {{< Common/link href="https://docs.aspose.com/cells/reportingservices/command-bars/" text="add-in's toolbar"  >}}. {{< /Common/li >}}
-                           {{< Common/li >}} Join markers together as a composite marker. {{< /Common/li >}}
-                           {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/cells/reportingservices/sub-reports/" text="Embed a sub-report"  >}} in a table group
-                            row. {{< /Common/li >}}
-                           {{< Common/li >}} Support for Microsoft Report Viewer {{< Common/link href="https://docs.aspose.com/cells/reportingservices/integrate-with-microsoft-report-viewer-in-local-mode/" text="integration in local mode"  >}}. {{< /Common/li >}}
-                           {{< Common/li >}} Export reports to various popular {{< Common/link href="https://docs.aspose.com/cells/reportingservices/supported-file-formats/" text="supported file formats"  >}}.
-                         {{< /Common/li >}}
-                           {{< Common/li >}} Support for {{< Common/link href="https://docs.aspose.com/cells/reportingservices/support-for-editable-charts/" text="editable charts"  >}}. {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Supported Input Formats"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Report Definition Language (RDL) {{< /Common/li >}}
-                           {{< Common/li >}} Report Definition Language Client (RDLC) {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Supported Output Formats"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} <strong>Microsoft Excel:</strong> XLS, XLSX, XLSM, XLSB, CSV, TSV, TabDelimited,
-                            SpreadsheetML {{< /Common/li >}}
-                           {{< Common/li >}} <strong>OpenDocument:</strong> ODS {{< /Common/li >}}
-                           {{< Common/li >}} <strong>Markup:</strong> HTML, Markdown (MD) {{< /Common/li >}}
-                           {{< Common/li >}} <strong>Other:</strong> XPS {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Supported RDL Elements"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Page, headers, footers {{< /Common/li >}}
-                           {{< Common/li >}} Textboxes {{< /Common/li >}}
-                           {{< Common/li >}} Images {{< /Common/li >}}
-                           {{< Common/li >}} Charts {{< /Common/li >}}
-                           {{< Common/li >}} Lists {{< /Common/li >}}
-                           {{< Common/li >}} Tables {{< /Common/li >}}
-                           {{< Common/li >}} Matrices {{< /Common/li >}}
-                           {{< Common/li >}} Styles {{< /Common/li >}}
-                           {{< Common/li >}} Rectangles, lines {{< /Common/li >}}
-                           {{< Common/li >}} Subreports {{< /Common/li >}}
-                           {{< Common/li >}} Tablix {{< /Common/li >}}
-                           {{< Common/li >}} Gauge {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="System Requirements"  >}}
-                    <blockquote>
-                        {{< Common/wrapper class="alert alert-primary" >}}Aspose.Cells for Reporting Services (including the
-                            Aspose.Cells.ReportingServices client, add-ins to Microsoft Excel and
-                            Aspose.Cells.ReportingServices Server)
-                            needs to be installed properly. Moreover, Microsoft SQL Server should be installed prior to
-                            installing
-                            Aspose.Cells for Reporting Services.{{< /Common/wrapper >}}
-                    </blockquote>
-                    {{< Common/h4 class=" " text="Microsoft Office"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Microsoft Excel 2000 Install the <strong>lockbackRegKey.msi</strong> to fix a CLR issue on
-                            Microsoft Office
-                            machines older than Office 2003. {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Excel 2002 Install <strong>lockbackRegKey.msi</strong> to fix a CLR issue on
-                            Microsoft Office machines
-                            older than Office 2003. {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Excel 2003 Always Update to Office 2003 (KB907417). This update corrects a
-                            potential problem in which
-                            an add-in, a smart tag, or a smart document may not load if it uses the Microsoft .NET
-                            Framework 2.0. {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Excel 2007 {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Excel 2010 {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Excel 2013 {{< /Common/li >}}   {{< Common/li >}} Microsoft Excel 2016 {{< /Common/li >}}   {{< Common/li >}} Microsoft Excel 2019 {{< /Common/li >}}   {{< Common/li >}} Microsoft Excel 365 {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h4 class=" " text="Reporting Services"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Microsoft SQL Server Reporting Services 2005 {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft SQL Server Reporting Services 2008 {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft SQL Server Reporting Services 2008 R2 {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft SQL Server Reporting Services 2012 {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft SQL Server Reporting Services 2014 {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft SQL Server Reporting Services 2016 {{< /Common/li >}}   {{< Common/li >}} Microsoft SQL Server Reporting Services 2019 {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h4 class=" " text="Microsoft Visual Studio"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Microsoft Visual Studio 2005 {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Visual Studio 2008 {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Visual Studio 2010 {{< /Common/li >}}   {{< Common/li >}} Microsoft Visual Studio 2015 {{< /Common/li >}}   {{< Common/li >}} Microsoft Visual Studio 2017 {{< /Common/li >}}   {{< Common/li >}} Microsoft Visual Studio 2019 {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h4 class=" " text="Operating System"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} Microsoft Windows 2000 Server {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Windows 2000 Professional {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Windows XP Home Edition {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Windows XP Professional Edition {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Windows XP Professional x64 Edition {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Windows 2003 Server {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Windows Vista {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Windows 7 {{< /Common/li >}}   {{< Common/li >}} Microsoft Windows 10 {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Windows 2008 Server {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Windows 2008 Server R2 {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Windows 2012 Server {{< /Common/li >}}
-                           {{< Common/li >}} Microsoft Windows 2012 R2 Server {{< /Common/li >}}   {{< Common/li >}} Microsoft Windows 2016 Server {{< /Common/li >}}   {{< Common/li >}} Microsoft Windows 2019 Server {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h4 class=" " text=".NET Framework"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} .NET Framework 2.0 {{< /Common/li >}}
-                           {{< Common/li >}} .NET Framework 3.5 {{< /Common/li >}}
-                           {{< Common/li >}} .NET Framework 4.x {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                    {{< Common/h3 class=" " text="Pricing"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} For detailed plans please visit the {{< Common/link href="https://purchase.aspose.com/pricing/cells/reporting-services" text="Pricing Information"  >}} page. {{< /Common/li >}}
-                     {{< /Common/ul>}}
-                {{< Common/paragraph>}}{{< /Common/paragraph>}}
-            {{< /Common/wrapper >}}
-        {{< /Common/wrapper >}}
-    {{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
-
-<!-- /ProductPageContent-->
-
-
-
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  limit="aftercontent" directdownload="false" family="cells" product="reportingservices" >}}
-<!-- /ReleasesListProductPage-->
-
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

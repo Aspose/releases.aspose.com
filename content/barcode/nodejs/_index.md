@@ -16,46 +16,43 @@ weight:  9
 
 {{< dbToolbar link="https://forum.aspose.com/c/barcode" linktext=" Support Forum " >}}
 
-
-{{< ProductPageWrapper >}}
-
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/h1 text="Aspose.BarCode for Node.js via Java" >}}
-{{< Common/paragraph>}}
-Aspose.BarCode for Node.js via Java is implemented by using nodejs-java bridge. It allows developers to quickly and easily add barcode generation and recognition functionality to their Node.js applications.
-
-{{< Common/h2 text="Node.js Barcode Library"  >}} {{< Common/ul>}}
-    {{< Common/li >}} 
-Supports most established barcode standards and barcode specifications.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Ability to read & export barcodes in multiple image formats including BMP, GIF, JPEG & PNG.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Provides full control over barcode labels.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Supports X-dimension & Y-dimension for 2D BarCodes.&nbsp; {{< /Common/li >}}
- {{< /Common/ul>}}
-
-{{< /Common/paragraph>}}
-{{< Common/hr >}}
-{{< Common/h4 text="Download aspose.barcode from NPM"  >}}
+{{< Common/h4 text="Download Aspose.Barcode from NPM"  >}}
 {{< Common/paragraph class="package-instructions">}}
+Aspose.BarCode for Node.js via Java is a scalable and feature-rich API to process Excel&reg; spreadsheets using Node.js. 
 You can easily use <b>aspose.barcode</b> for Javascript from {{< Common/link href="https://www.npmjs.com/package/aspose.barcode" text="NPM"  >}} with the following command.
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="npm" >}}
-       {{< consolebox/spantext text=" " >}}
-       {{< consolebox/textarea id="npm" >}} npm install aspose.barcode {{< /consolebox/textarea >}}
+   {{< consolebox/spantext text=" " >}}
+   {{< consolebox/textarea id="npm" >}} npm install aspose.barcode {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="barcode" product="nodejs" href="https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-22-3/" text="https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-22-3/"  >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
+{{< Common/release-notes-link family="barcode" product="nodejs" href="https://docs.aspose.com/barcode/java/release-notes/" text="https://docs.aspose.com/barcode/java/release-notes/"  >}}
 
-<!-- /ProductPageContent-->
+[Product Page](https://products.aspose.com/barcode/nodejs-java/) | [Docs]() | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/) | [Examples](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
+Aspose.BarCode for Node.js via Java is implemented by using nodejs-java bridge. It allows developers to quickly and easily add barcode generation and recognition functionality to their Node.js applications.
 
+- Supports most established barcode standards and barcode specifications. 
+- Ability to read & export barcodes in multiple image formats including BMP, GIF, JPEG & PNG. 
+- Provides full control over barcode labels. 
+- Supports X-dimension & Y-dimension for 2D BarCodes. 
+
+[Product Page](https://products.aspose.com/barcode/nodejs-java/) | [Docs]() | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/) | [Examples](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+{{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
+
+{{< ProductPageWrapper >}}
 
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="barcode" product="nodejs" >}}
+
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="barcode" product="nodejs" >}}
+
 <!-- /ReleasesListProductPage-->
 
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

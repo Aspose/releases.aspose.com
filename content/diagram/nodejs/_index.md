@@ -17,44 +17,43 @@ weight:  3
 {{< dbToolbar link="https://forum.aspose.com/c/diagram" linktext=" Support Forum " >}}
 
 
-{{< ProductPageWrapper >}}
-
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/h1 text="Aspose.Diagram for Node.js via Java" >}}
-{{< Common/paragraph>}}
-A specialized designed Node.js Diagram Library to work with Microsoft Visio files.
-
-{{< Common/h2 text="Node.js Diagram Libaray"  >}} {{< Common/ul>}}
-    {{< Common/li >}} Create Microsoft Visio diagrams from scratch via API.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Read or write Microsoft Visio files.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/diagram/java/how-to-convert-a-visio-diagram/" text="Export Visio diagrams"  >}} to various popular formats including PDF, images, HTML and more. {{< /Common/li >}}
-   {{< Common/li >}} Access diagram elements & properties for manipulation or just inspection.&nbsp; {{< /Common/li >}}
- {{< /Common/ul>}}
-
-{{< /Common/paragraph>}}
-{{< Common/hr >}}
-{{< Common/h4 text="Download aspose.diagram from NPM"  >}}
+{{< Common/h4 text="Download Aspose.Diagram from NPM"  >}}
 {{< Common/paragraph class="package-instructions">}}
+A specialized designed Node.js Diagram Library to work with Microsoft Visio files.
 You can easily use <b>aspose.diagram</b> for Javascript from {{< Common/link href="https://www.npmjs.com/package/aspose.diagram" text="NPM"  >}} with the following command.
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="npm" >}}
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="npm" >}} npm install aspose.diagram {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="diagram" product="nodejs" href="https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java-22-3-release-notes/" text="https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java-22-3-release-notes/"  >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
+{{< Common/release-notes-link family="diagram" product="nodejs" href="https://docs.aspose.com/diagram/nodejsjava/" text="https://docs.aspose.com/diagram/nodejsjava/"  >}}
 
-<!-- /ProductPageContent-->
+{{< Common/hr >}}
 
+[Product Page](https://products.aspose.com/diagram/nodejs-java/) | [Docs]() | [Demos](https://products.aspose.app/diagram/family) | [API Reference](https://reference.aspose.com/diagram/) | [Examples](https://github.com/aspose-diagram/Aspose.Diagram-for-Java) | [Blog](https://blog.aspose.com/categories/aspose.diagram-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/diagram/17) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
+- Create Microsoft Visio&reg; diagrams from scratch via API. 
+- Read or write Microsoft Visio&reg; files. 
+- Export Visio&reg; diagrams to various popular formats including PDF, images, HTML and more.
+- Access diagram elements & properties for manipulation or just inspection. 
+
+[Product Page](https://products.aspose.com/diagram/nodejs-java/) | [Docs]() | [Demos](https://products.aspose.app/diagram/family) | [API Reference](https://reference.aspose.com/diagram/) | [Examples](https://github.com/aspose-diagram/Aspose.Diagram-for-Java) | [Blog](https://blog.aspose.com/categories/aspose.diagram-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/diagram/17) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+{{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
+
+{{< ProductPageWrapper >}}
 
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="diagram" product="nodejs" >}}
+
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="diagram" product="nodejs" >}}
+
 <!-- /ReleasesListProductPage-->
 
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

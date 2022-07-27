@@ -16,43 +16,42 @@ weight:  10
 
 {{< dbToolbar link="https://forum.aspose.com/c/cells" linktext=" Support Forum " >}}
 
-
-{{< ProductPageWrapper >}}
-
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/h1 text="Aspose.Cells for Python via Java" >}}
-{{< Common/paragraph>}}
-{{< Common/h2 text="Python Library for Excel"  >}} {{< Common/ul>}}
-    {{< Common/li >}} Excel & OpenOffice Calc file format conversion. {{< /Common/li >}}
-   {{< Common/li >}} Worksheet styling to the most granular level. {{< /Common/li >}}
-   {{< Common/li >}} Chart creation & rendering. {{< /Common/li >}}
-   {{< Common/li >}} Reliable formula calculation engine and much more. {{< /Common/li >}}
- {{< /Common/ul>}}
-
-{{< /Common/paragraph>}}
-{{< Common/hr >}}
-{{< Common/h4 text="Download aspose-cells from Pip"  >}}
+{{< Common/h2 text="Download Aspose.Cells for Python via Java from PIP"  >}}
 {{< Common/paragraph class="package-instructions">}}
 You can easily use  <b>aspose-cells</b> for Python from  {{< Common/link href="https://pypi.org/project/aspose-cells/" text="pip"  >}} with the following command.
 {{< /Common/paragraph>}}
+
 {{< consolebox/consoleboxwrapper id="pip" >}}
-       {{< consolebox/spantext text=" " >}}
-       {{< consolebox/textarea id="pip" >}} pip install aspose-cells {{< /consolebox/textarea >}}
+   {{< consolebox/spantext text=" " >}}
+   {{< consolebox/textarea id="pip" >}} pip install aspose-cells {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="cells" product="python-java" href="https://docs.aspose.com/cells/pythonjava/aspose-cells-for-python-via-java-22-3-release-notes/" text="https://docs.aspose.com/cells/pythonjava/aspose-cells-for-python-via-java-22-3-release-notes/"  >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
 
-<!-- /ProductPageContent-->
+{{< Common/release-notes-link family="cells" product="python-java" href="https://docs.aspose.com/cells/python-java/release-notes/2022/" text="https://docs.aspose.com/cells/python-java/release-notes/2022/"  >}}
 
+{{< Common/hr >}}
 
+[Product Page](https://products.aspose.com/cells/python-java) | [Docs](https://docs.aspose.com/cells/pythonjava/) | [Demos](https://products.aspose.app/cells/family) | [Examples](https://github.com/aspose-cells/Aspose.Cells-for-Java) | [Blog](https://blog.aspose.com/categories/aspose.cells-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells/9) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
+### Spreadsheet On-premise Python via Java API Features
+
+- Excel & OpenOffice Calc file format conversion.
+- Worksheet styling to the most granular level.
+- Chart creation & rendering.
+- Reliable formula calculation engine and much more.
+
+[Product Page](https://products.aspose.com/cells/python-java) | [Docs](https://docs.aspose.com/cells/pythonjava/) | [Demos](https://products.aspose.app/cells/family) | [Examples](https://github.com/aspose-cells/Aspose.Cells-for-Java) | [Blog](https://blog.aspose.com/categories/aspose.cells-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells/9) | [Temporary License](https://purchase.aspose.com/temporary-license)
+
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+ {{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
+
+{{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="cells" product="python-java" >}}
 <!-- /ReleasesListProductPage-->
-
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

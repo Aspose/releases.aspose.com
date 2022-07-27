@@ -21,23 +21,7 @@ weight:  4
 
 {{< dbToolbar link="https://forum.aspose.com/c/diagram" linktext=" Support Forum " >}}
 
-
-{{< ProductPageWrapper >}}
-
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/h1 text="Aspose.Diagram for Python via Java" >}}
-{{< Common/paragraph>}}
-{{< Common/h2 text="Python Diagram Libaray"  >}} {{< Common/ul>}}  {{< Common/li >}} Create Microsoft Visio diagrams from scratch via API.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Read or write Microsoft Visio files.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/diagram/java/how-to-convert-a-visio-diagram/" text="Export Visio diagrams"  >}}&nbsp;to various popular formats including PDF, images, HTML and more. {{< /Common/li >}}
-   {{< Common/li >}} Access diagram elements & properties for manipulation or just inspection.&nbsp; {{< /Common/li >}}
- {{< /Common/ul>}}
-</h2>
-{{< /Common/paragraph>}}
-{{< Common/hr >}}
-{{< Common/h4 text="Download aspose-diagram from Pip"  >}}
+{{< Common/h2 text="Download Aspose.Diagram for Python via Java from PIP"  >}}
 {{< Common/paragraph class="package-instructions">}}
 You can easily use  <b>aspose-diagram</b> for Python from  {{< Common/link href="https://pypi.org/project/aspose-diagram/" text="pip"  >}} with the following command.
 {{< /Common/paragraph>}}
@@ -45,18 +29,33 @@ You can easily use  <b>aspose-diagram</b> for Python from  {{< Common/link href=
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install aspose-diagram {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="diagram" product="python" href="https://docs.aspose.com/diagram/java/aspose-diagram-for-python-via-java-22-3-release-notes/" text="https://docs.aspose.com/diagram/java/aspose-diagram-for-python-via-java-22-3-release-notes/"  >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
+{{< Common/release-notes-link family="diagram" product="python-java" href="https://docs.aspose.com/diagram/java/python-java/" text="https://docs.aspose.com/diagram/java/python-java/"  >}}
 
-<!-- /ProductPageContent-->
+{{< Common/hr >}}
+
+[Product Page](https://products.aspose.com/diagram/python-java) | [Docs](https://docs.aspose.com/diagram/pythonjava/) | [Demos](https://products.aspose.app/diagram/family) | [Examples](https://github.com/aspose-diagram/Aspose.Diagram-for-Java) | [Blog](https://blog.aspose.com/categories/aspose.diagram-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/diagram/17) | [Temporary License](https://purchase.aspose.com/temporary-license)
+
+### Diagram Processing Python via Java On-premise API Features
+
+- Create Microsoft Visio&reg; diagrams from scratch via API. 
+- Read or write Microsoft Visio&reg; files. 
+- Export Visio&reg; diagrams to various popular formats including PDF, images, HTML and more.
+- Access diagram elements & properties for manipulation or just inspection. 
 
 
+[Product Page](https://products.aspose.com/diagram/python-java) | [Docs](https://docs.aspose.com/diagram/pythonjava/) | [Demos](https://products.aspose.app/diagram/family) | [Examples](https://github.com/aspose-diagram/Aspose.Diagram-for-Java) | [Blog](https://blog.aspose.com/categories/aspose.diagram-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/diagram/17) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+ {{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
+
+{{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="diagram" product="python" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="diagram" product="python-java" >}}
 <!-- /ReleasesListProductPage-->
-
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

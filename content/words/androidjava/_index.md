@@ -10,64 +10,69 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "36"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words"
+homepage_package_link: "https://repository.aspose.com/words/"
 weight:  3
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/words" linktext=" Support Forum " >}}
 
+{{< Common/h2 text="Download Aspose.Words for Android Applications"  >}}
+
+{{< Common/paragraph class="package-instructions">}}
+
+Add {{< Common/link href="https://products.aspose.com/words/android-java" text="Word Document Processing"  >}} capabilities to your Android applications. Create, edit & convert popular documents formats including DOC, DOCX, RTF, ODT, PDF, EPUB and many more.
+
+You can easily use Aspose.Words for Java directly from a {{< Common/link href="https://repository.aspose.com/words/" text="Maven"  >}} based project by adding following configurations to the build.gradle.
+
+{{< Common/release-notes-link family="words" product="androidjava" href="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/" text="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/"  >}}
+
+{{< /Common/paragraph>}}
+
+{{< consolebox/consoleboxwrapper id="repository" >}}
+   {{< consolebox/textarea id="repository" >}}
+      maven {url "https://repository.aspose.com/repo/" }
+   {{< /consolebox/textarea >}}
+{{< /consolebox/consoleboxwrapper >}}
+
+{{< consolebox/consoleboxwrapper id="dependency" >}}
+   {{< consolebox/textarea id="dependency" >}}
+      implementation (
+         group: 'com.aspose',
+         name: 'aspose-words',
+         version: '22.3',
+         classifier: 'android.via.java')
+   {{< /consolebox/textarea >}}
+{{< /consolebox/consoleboxwrapper >}}
+
+{{< Common/hr >}}
+
+[Product Page](https://products.aspose.com/words/android-java/) | [Docs](https://docs.aspose.com/words/androidjava/) | [Demos](https://products.aspose.app/words/family) | [API Reference](https://reference.aspose.com/words/java) | [Examples](https://github.com/aspose-words/Aspose.Words-for-Java) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words/8) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+### Android Class Library for Word&reg; Documents
+
+- Comprehensive document import and export.
+- High fidelity rendering of document pages - exactly like Microsoft Word would have rendered.
+- Rich object model that allows to generate, combine, modify, parse or otherwise examine loaded documents.
+- Programmatic access to formatting properties of all document elements.
+- Generate reports with Mail Merge that allows populating documents with data from various sources.
+
+[Product Page](https://products.aspose.com/words/android-java/) | [Docs](https://docs.aspose.com/words/androidjava/) | [Demos](https://products.aspose.app/words/family) | [API Reference](https://reference.aspose.com/words/java) | [Examples](https://github.com/aspose-words/Aspose.Words-for-Java) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words/8) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+{{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
 
 {{< ProductPageWrapper >}}
 
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/h1 text="Aspose.Words for Android via Java" >}}
-{{< Common/paragraph>}}
-Add {{< Common/link href="https://products.aspose.com/words/android-java" text="Word Document Processing"  >}} capabilities to your Android applications. Create, edit & convert popular documents formats including DOC, DOCX, RTF, ODT, PDF, EPUB and many more.
-{{< Common/h2 text="Android Class Library for Word Documents"  >}} {{< Common/ul>}}
- 
-   {{< Common/li >}} Comprehensive document import and export. {{< /Common/li >}}
-
-   {{< Common/li >}} {{< Common/link href="https://docs.aspose.com/words/java/aspose-words-for-android-via-java-features/#rendering-and-printing" text="High fidelity rendering"  >}} of document pages - exactly like Microsoft Word would have rendered. {{< /Common/li >}}
-
-   {{< Common/li >}} Rich object model that allows to generate, combine, modify, parse or otherwise examine loaded documents. {{< /Common/li >}}
-
-   {{< Common/li >}} Programmatic access to formatting properties of all document elements. {{< /Common/li >}}
-
-   {{< Common/li >}} Generate reports with Mail Merge that allows populating documents with data from various sources. {{< /Common/li >}}
-
- {{< /Common/ul>}}
-
-{{< /Common/paragraph>}}
-{{< Common/hr >}}
-{{< Common/h4 text="Download Aspose.Words from Maven"  >}}
-{{< Common/paragraph class="package-instructions">}}
-You can easily use Aspose.Words for Java directly from a {{< Common/link href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words" text="Maven"  >}} based project by adding following configurations to the build.gradle.
- {{< /Common/paragraph>}}
-{{< consolebox/consoleboxwrapper id="repository" >}}
-       {{< consolebox/textarea id="repository" >}} maven {
-    url "https://repository.aspose.com/repo/" } {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-       {{< consolebox/textarea id="dependency" >}} implementation (
-        group: 'com.aspose',
-        name: 'aspose-words',
-        version: '22.3',
-        classifier: 'android.via.java') {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="words" product="androidjava" href="https://docs.aspose.com/words/java/aspose-words-for-android-via-java-22.3-release-notes/" text="https://docs.aspose.com/words/java/aspose-words-for-android-via-java-22.3-release-notes/"  >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
-
-<!-- /ProductPageContent-->
-
-
-
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="words" product="androidjava" >}}
+
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="words" product="androidjava" >}}
+
 <!-- /ReleasesListProductPage-->
 
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

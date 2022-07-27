@@ -11,57 +11,114 @@ family_listing_page_venture: "4"
 family_listing_page_package: "65"
 homepage_package_type: "Maven"
 homepage_package_link: "https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode"
-weight:  3
+weight: 3
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/barcode" linktext=" Support Forum " >}}
 
+{{< Common/h2 text="Download Aspose.Barcode for Android Applications"  >}}
+{{< Common/paragraph class="package-instructions">}}
+You can easily use Aspose.BarCode for Java directly from a {{< Common/link href="https://repository.aspose.com/barcode/" text="Maven"  >}} based project by adding following configurations to the build.gradle.
+{{< Common/release-notes-link family="barcode" product="androidjava" href="https://docs.aspose.com/barcode/java/android-via-java-release-notes/" text="https://docs.aspose.com/barcode/java/android-via-java-release-notes/"  >}}
+{{< /Common/paragraph>}}
+
+{{< consolebox/consoleboxwrapper id="repository" >}}
+{{< consolebox/textarea id="repository" >}}
+maven {url "http://repository.aspose.com/repo/" }
+{{< /consolebox/textarea >}}
+{{< /consolebox/consoleboxwrapper >}}
+
+{{< consolebox/consoleboxwrapper id="dependency" >}}
+{{< consolebox/textarea id="dependency" >}}
+implementation
+(group: 'com.aspose', name: 'aspose-barcode', version: '22.6, classifier: 'android.via.java')
+{{< /consolebox/textarea >}}
+{{< /consolebox/consoleboxwrapper >}}
+
+{{< Common/hr >}}
+
+[Product Page](https://products.aspose.com/barcode/android-java/) | [Docs](https://docs.aspose.com/barcode/androidjava/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/java) | [Examples](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+### Barcode Android Features
+
+- Supports most established barcode standards and barcode specifications.
+- Ability to export barcode to multiple image formats including: BMP, GIF, JPEG, PNG, TIFF and SVG.
+- Supports checksum & supplement data.
+- Optimize barcode scanning & recognition for speed & quality.
+
+### Supported Input & Output Formats
+
+- JPG
+- PNG
+
+### Supported Platforms
+
+- Java Standard Edition 1.4 or greater.
+- Java Enterprise Edition.
+- Java Mobile Edition 3.0.
+
+### Supported Barcode Symbologies
+
+#### Numeric Only Symbologies
+
+- EAN13
+- EAN8
+- UPCA
+- UPCE
+- BooklandEAN
+- Interleaved2of5
+- Standard2of5
+- MSI
+- Code11
+- Codabar
+- Postnet
+- Planet
+- EAN14(SCC14)
+- SSCC18
+- ITF14
+- Leticode
+- OPC
+
+#### Alpha-Numeric Symbologies
+
+- Code128
+- EAN128
+- Code39 Extended
+- Code39 Standard
+- Code93 Extended
+- Code93 Standard
+- Australia Post
+- Matrix 2 of 5
+- PZN
+- Deutsche Post Identcode
+- VIN
+
+#### 2D Symbologies
+
+- Pdf417
+- DataMatrix
+- Aztec
+- QR
+
+> Aspose.BarCode for Android via Java provides encoding and decoding features for all above-mentioned symbologies, with exception of Australia Post and Aztec. At the moment we only support encoding for these two symbols.
+
+[Product Page](https://products.aspose.com/barcode/android-java/) | [Docs](https://docs.aspose.com/barcode/androidjava/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/java) | [Examples](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+{{< Common/hr >}}
+
+{{< Tags/TagsWrapper >}}
+{{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
 
 {{< ProductPageWrapper >}}
 
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/h1 text="Aspose.BarCode for Android via Java" >}}
-{{< Common/paragraph>}}
-A robust and reliable barcode generation and recognition component, written in Java, allowing developers to quickly add barcode generation and recognition functionality to Java applications.
-{{< Common/h2 text="Android Barcode Library"  >}}
- {{< Common/ul>}}
-    {{< Common/li >}} Supports most established barcode standards and barcode specifications.&nbsp; {{< /Common/li >}}
-   {{< Common/li >}} Ability to export barcode to multiple image formats including: BMP, GIF, JPEG, PNG, TIFF and SVG. {{< /Common/li >}}
-   {{< Common/li >}} Supports checksum & supplement data. {{< /Common/li >}}
-   {{< Common/li >}} Optimize barcode scanning & recognition for speed & quality. {{< /Common/li >}}
- {{< /Common/ul>}}
-
-{{< /Common/paragraph>}}
-{{< Common/hr >}}
-{{< Common/h4 text="Download Aspose.BarCode from Maven"  >}}
-{{< Common/paragraph class="package-instructions">}}
-You can easily use Aspose.BarCode for Java directly from a {{< Common/link href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" text="Maven"  >}} based project by adding following configurations to the build.gradle.
- {{< /Common/paragraph>}}
-{{< consolebox/consoleboxwrapper id="repository" >}}
-       {{< consolebox/textarea id="repository" >}} maven {
-    url "http://repository.aspose.com/repo/" } {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-       {{< consolebox/textarea id="dependency" >}} implementation
-(group: 'com.aspose', 
- name: 'aspose-barcode', 
- version: '22.3, 
- classifier: 'android.via.java') {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="barcode" product="androidjava" href="https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-3/" text="https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-3/"  >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
-
-<!-- /ProductPageContent-->
-
-
-
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="barcode" product="androidjava" >}}
+
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="barcode" product="androidjava" >}}
+
 <!-- /ReleasesListProductPage-->
 
+{{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-
