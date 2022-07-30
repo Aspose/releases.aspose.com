@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/net/new-releases/aspose.email-for-.net-22.6-(dlls-only)/"
-folder_name: "Aspose.Email for .NET 22.6 (Dlls only)"
+folder_name: "Aspose.Email for .NET 22.7 (Dlls only)"
 download_link: "/email/net/new-releases/aspose.email-for-.net-22.6-(dlls-only)/f59e7b09201b8a3114571a5ad4985ae7-10-7720"
 download_text: "Download"
 intro_text: "It contains Aspose.Email for .NET 22.6 (Dlls only) release."
@@ -22,7 +22,7 @@ weight: 548
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Email for .NET 22.6 (Dlls only)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Email for .NET 22.7 (Dlls only)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/email/net/new-releases/aspose.email-for-.net-22.6-(dlls-only)/f59e7b09201b8a3114571a5ad4985ae7-10-7720" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/email" >}}
