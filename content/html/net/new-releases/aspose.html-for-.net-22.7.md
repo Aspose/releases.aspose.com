@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net-22.7/"
-folder_name: "Aspose.HTML for .NET 22.7"
+folder_name: "Aspose.HTML for .NET 22.7 (DLLs only)"
 download_link: "/html/net/new-releases/aspose.html-for-.net-22.7/56b8eb9bfaa5d154ef87c2dc29eec923-4-7717"
 download_text: "Download"
 intro_text: "It contains Aspose.HTML for .NET 22.7 release."
@@ -22,7 +22,7 @@ weight: 235
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.HTML for .NET 22.7" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.HTML for .NET 22.7 (DLLs only)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/html/net/new-releases/aspose.html-for-.net-22.7/56b8eb9bfaa5d154ef87c2dc29eec923-4-7717" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/html" >}}
