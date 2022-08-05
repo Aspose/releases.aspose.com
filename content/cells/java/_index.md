@@ -38,7 +38,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
       <dependency>
       <groupId>com.aspose</groupId>
       <artifactId>aspose-cells</artifactId>
-      <version>22.7</version>
+      <version>22.8</version>
       </dependency>
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
