@@ -18,7 +18,7 @@ weight:  2
 
 {{< Common/h2 text="Download Barcode Library for Java Applications"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/repo/com/aspose/aspose-barcode/" text="Aspose.BarCode for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/barcode/java/installation/" text="Installing Aspose.BarCode for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/barcode/" text="Aspose.BarCode for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/barcode/java/installation/" text="Installing Aspose.BarCode for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="barcode" product="java" href="https://docs.aspose.com/barcode/java/release-notes/" text="https://docs.aspose.com/barcode/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 

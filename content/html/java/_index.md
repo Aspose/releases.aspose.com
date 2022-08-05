@@ -19,17 +19,17 @@ weight:  2
 
 {{< Common/h2 text="Download Aspose.HTML for HTML File Manipulation"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/repo/com/aspose/aspose-html" text="Aspose.HTML for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/html/java/installation/" text="Installing Aspose.HTML for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/html/" text="Aspose.HTML for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/html/java/installation/" text="Installing Aspose.HTML for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="html" product="java" href="https://docs.aspose.com/html/java/release-notes/" text="https://docs.aspose.com/html/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
+   {{< consolebox/textarea id="repository" >}}
       <repository>
       <id>AsposeJavaAPI</id>
       <name>Aspose Java API</name>
       <url>https://repository.aspose.com/repo/</url>
-      </repository> 
+      </repository>
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
@@ -91,7 +91,7 @@ Aspose.HTML for Java API works as a headless browser that allows you to [create 
 - **Microsoft Windows&reg;:** Windows Desktop & Server (x86, x64)
 - **macOS:** Mac OS X
 - **Linux:** Ubuntu, OpenSUSE, CentOS, and others
-- **Java Versions:** `J2SE 6.0 (1.6)`, `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)` 
+- **Java Versions:** `J2SE 6.0 (1.6)`, `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)`
 
 [Product Page](https://products.aspose.com/html/java) | [Docs](https://docs.aspose.com/html/java/) | [Demos](https://products.aspose.app/html/family) | [API Reference](https://reference.aspose.com/html/java) | [Examples](https://github.com/aspose-html/Aspose.Html-for-Java) | [Blog](https://blog.aspose.com/category/html/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/html) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 

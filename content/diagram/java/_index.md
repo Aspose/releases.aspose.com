@@ -19,17 +19,17 @@ weight:  2
 
 {{< Common/h2 text="Download Aspose.Diagram to Process Visio® File Formats"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/repo/com/aspose/aspose-diagram" text="Aspose.Diagram for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/diagram/java/installation/" text="Installing Aspose.Diagram for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/diagram/" text="Aspose.Diagram for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/diagram/java/installation/" text="Installing Aspose.Diagram for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="diagram" product="java" href="https://docs.aspose.com/diagram/java/release-notes/" text="https://docs.aspose.com/diagram/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
+   {{< consolebox/textarea id="repository" >}}
       <repository>
       <id>AsposeJavaAPI</id>
       <name>Aspose Java API</name>
       <url>https://repository.aspose.com/repo/</url>
-      </repository> 
+      </repository>
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
