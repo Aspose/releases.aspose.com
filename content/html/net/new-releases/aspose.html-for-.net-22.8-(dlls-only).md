@@ -8,7 +8,7 @@ folder_link: "/html/net/new-releases/aspose.html-for-.net-22.8-(dlls-only)/"
 folder_name: "Aspose.HTML for .NET 22.8 (DLLs only)"
 download_link: "/html/net/new-releases/aspose.html-for-.net-22.8-(dlls-only)/35e7e0df035d640efef683310114c403-4-7782"
 download_text: "Download"
-intro_text: "It contains Aspose.HTML for .NET 22.8 release."
+intro_text: "This ZIP file contains only the Aspose.HTML for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.HTML without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 19/8/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 16.03MB"
@@ -43,7 +43,7 @@ weight: 237
       <h4>Release Notes</h4><div><a href='https://docs.aspose.com/html/net/aspose-html-for-net-22-8-release-notes'>https://docs.aspose.com/html/net/aspose-html-for-net-22-8-release-notes</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.HTML for .NET 22.8 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.HTML for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.HTML without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
