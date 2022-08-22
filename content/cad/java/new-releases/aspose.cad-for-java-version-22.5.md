@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/cad/java/new-releases/aspose.cad-for-java-version-22.5/"
 folder_name: "Aspose.CAD for Java version 22.5"
-download_link: "/cad/java/new-releases/aspose.cad-for-java-version-22.5/f7181f01ce31d45eb618fd7e3c359afb-10-7790"
+download_link: "/cad/java/new-releases/aspose.cad-for-java-version-22.5/f7181f01ce31d45eb618fd7e3c359afb-10-7791"
 download_text: "Download"
 intro_text: "This zip archive contains Aspose.CAD for Java version 22.5 release"
 image_link: "/resources/img/zip-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "cad/java"
 
 tags: ""
 release_notes_url: "https://docs.aspose.com/cad/java/aspose-cad-for-java-22-5-release-notes/"
-weight: 72
+weight: 73
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.CAD for Java version 22.5" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/cad/java/new-releases/aspose.cad-for-java-version-22.5/f7181f01ce31d45eb618fd7e3c359afb-10-7790" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/cad/java/new-releases/aspose.cad-for-java-version-22.5/f7181f01ce31d45eb618fd7e3c359afb-10-7791" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cad" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-f7181f01ce31d45eb618fd7e3c359afb-10-7790" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-f7181f01ce31d45eb618fd7e3c359afb-10-7791" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
-      {{< Common/li id="size-update-f7181f01ce31d45eb618fd7e3c359afb-10-7790" >}} 49.3MB {{< /Common/li >}}
+      {{< Common/li id="size-update-f7181f01ce31d45eb618fd7e3c359afb-10-7791" >}} 49.3MB {{< /Common/li >}}
 
       {{< Common/li >}} Date Added: {{< /Common/li >}}
-      {{< Common/li id="added-update-f7181f01ce31d45eb618fd7e3c359afb-10-7790" >}}22/8/2022 {{< /Common/li >}}
+      {{< Common/li id="added-update-f7181f01ce31d45eb618fd7e3c359afb-10-7791" >}}22/8/2022 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
