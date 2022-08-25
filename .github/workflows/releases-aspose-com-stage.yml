@@ -9,6 +9,7 @@ on:
     branches: [ stage ]
     paths:
       - 'content/**'
+      - 'static/**'
   pull_request:
     branches: [ main1 ]
 
