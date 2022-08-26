@@ -10,8 +10,8 @@ download_link: "/barcode/net/new-releases/aspose.barcode-for-.net-22.7/f1adcfc43
 download_text: "Download"
 intro_text: "It contains Aspose.BarCode for .NET 22.7 release."
 image_link: "/resources/img/msi-icon.png"
-download_count: " 18/8/2022 Downloads: 1  Views: 1 "
-file_size: "File Size: 11.52MB"
+download_count: " 26/07/2022 Downloads: 1  Views: 1 "
+file_size: "File Size: 15.32MB"
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
 
