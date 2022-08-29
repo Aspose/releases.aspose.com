@@ -9,7 +9,7 @@ download_link: " /total/java/new-releases/aspose.total-for-java/6b6092fa7e1740e6
 download_text: " Download"
 Intro_text: " Aspose.Total for Java contains most recent version of all Java products."
 image_link: "/resources/img/zip-icon.png"
-download_count: "   Added: 3 weeks ago [08/29/2022]  Downloads: 47213  Views: 13759"
+download_count: "   Added: 08/29/2022  Downloads: 47213  Views: 13759"
 file_size: "  File Size: 657.4 MB "
 parent_path: "total/java"
 section_parent_path: "total/java"
