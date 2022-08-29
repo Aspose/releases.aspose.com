@@ -9,7 +9,7 @@ download_link: " /total/net/new-releases/aspose.total-for-.net-(dll-only)/7af12c
 download_text: " Download"
 Intro_text: " Aspose.Total for .NET contains most recent version of all .NET products."
 image_link: "/resources/img/zip-icon.png"
-download_count: "   Added: 4 weeks ago [08/29/2022]  Downloads: 10988  Views: 29629"
+download_count: "   Added: 08/29/2022  Downloads: 10988  Views: 29629"
 file_size: "  File Size: 1.1 GB "
 parent_path: "total/net"
 section_parent_path: "total/net"
