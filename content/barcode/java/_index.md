@@ -78,7 +78,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 
 ### Read & Write Barcode Labels
 
-**Images:** JPEG, TIFF, PNG, BMP, GIF, EXIF
+**Images:** JPEG, TIFF, PNG, BMP, GIF, EXIF, EMF, SVG
 
 ### Save Barcodes As
 
