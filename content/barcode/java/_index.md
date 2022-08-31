@@ -24,21 +24,28 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
    {{< consolebox/textarea id="repository" >}}
+    Maven:   
       <repository>
       <id>AsposeJavaAPI</id>
       <name>Aspose Java API</name>
       <url>https://repository.aspose.com/repo/</url>
-      </repository>
+      </repository>   
+    Gradle:   
+    maven { url "https://artifact.aspose.com/repo/" }
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
    {{< consolebox/textarea id="dependency" >}}
+    Maven:      
       <dependency>
       <groupId>com.aspose</groupId>
       <artifactId>aspose-barcode</artifactId>
-      <version>22.6</version>
-      </dependency>
+      <version>22.8</version>
+      </dependency>  
+     Gradle:  
+     compile group: 'com.aspose', name: 'aspose-barcode', classifier: 'jdk18', version:  '22.8'
+     compile group: 'com.aspose', name: 'aspose-barcode', classifier: 'javadoc', version: '22.8'
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
@@ -79,10 +86,9 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 
 ### Supported Environments
 
-- **Microsoft Windows:** Windows Desktop & Server (x86, x64)
-- **Java Runtime:** `JRE 1.6` or above
-- **Java Development:** `J2SE 6.0 (1.6)`, `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)`, or above.
-- **J2ME Requirement:** Java Mobile Edition SDK 3.0
+- **Any OS that supports Java:** 
+- **Java Runtime:** `JRE 1.8` or above
+- **Java Development:** `J2SE 8.0 (1.8)`, or above.
 
 [Product Page](https://products.aspose.com/barcode/java) | [Docs](https://docs.aspose.com/barcode/java/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/java) | [Examples](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
