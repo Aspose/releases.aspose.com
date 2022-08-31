@@ -5,10 +5,10 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/pub/cpp/new-releases/aspose.pub-for-c++-22.8/"
-folder_name: "Aspose.PUB for C++ 22.8"
+folder_name: "Aspose.PUB for C++ 22.8 Linux"
 download_link: "/pub/cpp/new-releases/aspose.pub-for-c++-22.8/0e8999d3fc28cea2e848073084828310-17-7834"
 download_text: "Download"
-intro_text: "Aspose.PUB for C++ 22.8 native library"
+intro_text: "Aspose.PUB for C++ 22.8 Linux native library"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 31/8/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 84.8MB"
@@ -22,7 +22,7 @@ weight: 57
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.PUB for C++ 22.8" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.PUB for C++ 22.8 Linux" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/pub/cpp/new-releases/aspose.pub-for-c++-22.8/0e8999d3fc28cea2e848073084828310-17-7834" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pub" >}}
@@ -43,7 +43,7 @@ weight: 57
       <h4>Release Notes</h4><div><a href='https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-22-8-release-notes/'>https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PUB for C++ 22.8 native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PUB for C++ 22.8 Linux native library</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
