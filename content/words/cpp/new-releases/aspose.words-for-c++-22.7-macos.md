@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/cpp/new-releases/aspose.words-for-c++-22.7-macos/"
-folder_name: "Aspose.Words for C++ 22.7 macOS"
+folder_name: "Aspose.Words for C++ 22.8 macOS"
 download_link: "/words/cpp/new-releases/aspose.words-for-c++-22.7-macos/3fbb3ea2ff7c45bd889a5dd986bac8bf-20-7848"
 download_text: "Download"
 intro_text: "It contains Aspose.Words for C++ 22.7 release macOS binaries"
@@ -22,7 +22,7 @@ weight: 192
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Words for C++ 22.7 macOS" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Words for C++ 22.8 macOS" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/words/cpp/new-releases/aspose.words-for-c++-22.7-macos/3fbb3ea2ff7c45bd889a5dd986bac8bf-20-7848" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/words" >}}
