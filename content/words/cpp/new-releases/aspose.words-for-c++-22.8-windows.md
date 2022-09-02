@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/words/cpp/new-releases/aspose.words-for-c++-22.8-windows/"
 folder_name: "Aspose.Words for C++ 22.8 Windows"
-download_link: "/words/cpp/new-releases/aspose.words-for-c++-22.8-windows/be165155f249dc675ce72973b90b8c36-51-7850"
+download_link: "/words/cpp/new-releases/aspose.words-for-c++-22.8-windows/cac061593b3cecc72f73d338b02cce6a-48-7850"
 download_text: "Download"
 intro_text: "It contains Aspose.Words for C++ 22.8 release windows only binaries"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 2/9/2022 Downloads: 1  Views: 1 "
-file_size: "File Size: 254.53MB"
+file_size: "File Size: 239.71MB"
 parent_path: "words/cpp"
 section_parent_path: "words/cpp"
 
@@ -24,19 +24,19 @@ weight: 194
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Words for C++ 22.8 Windows" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/words/cpp/new-releases/aspose.words-for-c++-22.8-windows/be165155f249dc675ce72973b90b8c36-51-7850" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/words/cpp/new-releases/aspose.words-for-c++-22.8-windows/cac061593b3cecc72f73d338b02cce6a-48-7850" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/words" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-be165155f249dc675ce72973b90b8c36-51-7850" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-cac061593b3cecc72f73d338b02cce6a-48-7850" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
-      {{< Common/li id="size-update-be165155f249dc675ce72973b90b8c36-51-7850" >}} 254.53MB {{< /Common/li >}}
+      {{< Common/li id="size-update-cac061593b3cecc72f73d338b02cce6a-48-7850" >}} 239.71MB {{< /Common/li >}}
 
       {{< Common/li >}} Date Added: {{< /Common/li >}}
-      {{< Common/li id="added-update-be165155f249dc675ce72973b90b8c36-51-7850" >}}2/9/2022 {{< /Common/li >}}
+      {{< Common/li id="added-update-cac061593b3cecc72f73d338b02cce6a-48-7850" >}}2/9/2022 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
