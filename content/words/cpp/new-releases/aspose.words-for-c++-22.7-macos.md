@@ -8,7 +8,7 @@ folder_link: "/words/cpp/new-releases/aspose.words-for-c++-22.7-macos/"
 folder_name: "Aspose.Words for C++ 22.8 macOS"
 download_link: "/words/cpp/new-releases/aspose.words-for-c++-22.7-macos/3fbb3ea2ff7c45bd889a5dd986bac8bf-20-7848"
 download_text: "Download"
-intro_text: "It contains Aspose.Words for C++ 22.7 release macOS binaries"
+intro_text: "It contains Aspose.Words for C++ 22.8 release macOS binaries"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 2/9/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 98.69MB"
@@ -43,7 +43,7 @@ weight: 192
       <h4>Release Notes</h4><div><a href='https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-8-release-notes/'>https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for C++ 22.7 release macOS binaries</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for C++ 22.8 release macOS binaries</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
