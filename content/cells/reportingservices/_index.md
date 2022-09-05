@@ -72,9 +72,7 @@ Aspose.Cells for Reporting Services (including the Aspose.Cells.ReportingService
 
 #### Microsoft Office
 
-- Microsoft Excel&reg; 2000 Install the `lockbackRegKey.msi` to fix a CLR issue on Microsoft Office machines older than Office 2003.
-- Microsoft Excel&reg; 2002 Install `lockbackRegKey.msi` to fix a CLR issue on Microsoft Office&reg; machines older than Office 2003.
-- Microsoft Excel&reg; 2003 Always Update to Office&reg; 2003 (KB907417). This update corrects a potential problem in which an add-in, a smart tag, or a smart document may not load if it uses the Microsoft .NET Framework 2.0.
+- Microsoft Excel&reg; 2003
 - Microsoft Excel&reg; 2007
 - Microsoft Excel&reg; 2010
 - Microsoft Excel&reg; 2013
