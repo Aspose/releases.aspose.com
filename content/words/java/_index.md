@@ -38,21 +38,21 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
         <dependency>
             <groupId>com.aspose</groupId>
             <artifactId>aspose-words</artifactId>
-            <version>22.8</version>
+            <version>22.9</version>
             <classifier>jdk17</classifier>
         </dependency>
 
         <dependency>
             <groupId>com.aspose</groupId>
             <artifactId>aspose-words</artifactId>
-            <version>22.8</version>
+            <version>22.9</version>
             <classifier>javadoc</classifier>
         </dependency>
 
         <dependency>
             <groupId>com.aspose</groupId>
             <artifactId>aspose-words</artifactId>
-            <version>22.8</version>
+            <version>22.9</version>
             <classifier>shaping-harfbuzz-plugin</classifier>
         </dependency>
    {{< /consolebox/textarea >}}
