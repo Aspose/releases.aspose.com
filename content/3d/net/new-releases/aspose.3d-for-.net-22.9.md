@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-22.9/"
-folder_name: "Aspose.3D for .NET 22.9"
+folder_name: "Aspose.3D for .NET 22.9 (DLLs only)"
 download_link: "/3d/net/new-releases/aspose.3d-for-.net-22.9/3600d3fdfaed1c73307b2d8ad8c94449-2-7877"
 download_text: "Download"
 intro_text: "It contains Aspose.3D for .NET 22.9 release."
@@ -22,7 +22,7 @@ weight: 316
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.3D for .NET 22.9" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.3D for .NET 22.9 (DLLs only)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/3d/net/new-releases/aspose.3d-for-.net-22.9/3600d3fdfaed1c73307b2d8ad8c94449-2-7877" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/3d" >}}
