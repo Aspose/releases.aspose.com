@@ -20,7 +20,7 @@ weight:  1
 {{< Common/h2 text="Download Aspose.PDF to Process & Manipulate PDF Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.PDF/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.PDF</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/pdf/net/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="pdf" product="net" href="https://docs.aspose.com/pdf/net/release-notes/" text="https://docs.aspose.com/pdf/net/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="net" href="https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-9-release-notes/" text="https://docs.aspose.com/pdf/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
