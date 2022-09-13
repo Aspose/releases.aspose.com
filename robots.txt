@@ -1,2 +1,3 @@
+Sitemap: https://releases.aspose.com/sitemap.xml
 User-agent: *
 Disallow:
