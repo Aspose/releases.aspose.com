@@ -8,7 +8,7 @@ folder_link: "/cells/java/new-releases/aspose.cells-for-java-22.7/"
 folder_name: "Aspose.Cells for Java 22.7"
 download_link: "/cells/java/new-releases/aspose.cells-for-java-22.7/113a99b1b086bae22c04b1db2d8ba53c-6-7627"
 download_text: "Download"
-intro_text: "Aspose.Cells for Java 22.7"
+intro_text: "It contains Aspose.Cells for Java 22.7 release."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 11/7/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 25.2MB"
@@ -43,7 +43,7 @@ weight: 331
       <h4>Release Notes</h4><div><a href='https://docs.aspose.com/cells/java/aspose-cells-for-java-22-7-release-notes/'>https://docs.aspose.com/cells/java/aspose-cells-for-java-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Java 22.7</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for Java 22.7 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
