@@ -9,7 +9,7 @@
         {{$currentcontentpath := print $faviconfolder "/" $CurrentSection}}
 
     <body class="releases {{ $faviconfolder }}">
-        <body>
+        
 
         {{ if not (in .Site.BaseURL "-qa") }}
                     {{ $googletagmanager :=.Site.Params.googletagmanager }}
