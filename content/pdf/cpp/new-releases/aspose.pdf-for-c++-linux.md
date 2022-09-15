@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-linux/"
-folder_name: "Aspose.PDF for C++ Linux"
+folder_name: "Aspose.PDF for C++ 22.9 Linux"
 download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-linux/9d590da69eda0c2a4faadcd3fcf765d1-21-7899"
 download_text: "Download"
 intro_text: "Linux version"
@@ -22,7 +22,7 @@ weight: 159
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.PDF for C++ Linux" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.PDF for C++ 22.9 Linux" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-linux/9d590da69eda0c2a4faadcd3fcf765d1-21-7899" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
