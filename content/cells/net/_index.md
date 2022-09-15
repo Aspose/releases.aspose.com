@@ -19,7 +19,7 @@ weight:  1
 
 {{< Common/h2 text="Download Aspose.Cells to Process Spreadsheets"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Cells/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.CAD</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/cells/net/installation/" text="Installation"  >}} documentation page.
+Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Cells/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.Cells</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/cells/net/installation/" text="Installation"  >}} documentation page.
 {{< Common/release-notes-link family="cells" product="net" href="https://docs.aspose.com/cells/net/release-notes/" text="https://docs.aspose.com/cells/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
