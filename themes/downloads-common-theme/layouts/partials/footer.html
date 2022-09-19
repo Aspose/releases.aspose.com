@@ -30,4 +30,32 @@
           //console.log('parent active start')
     }, "1000")
   });
+
+  function downloadrelease(link){
+    var myHeaders = new Headers();
+    var formdata = new FormData();
+    formdata.append("tagid", link);
+    var requestOptions = {
+      method: 'POST',
+      headers: myHeaders,
+      body: formdata,
+      redirect: 'follow'
+    };
+
+    fetch("{{.Site.Params.backendURL}}/download-release", requestOptions)
+    //.then(response => response.text())
+    //.then(result => console.log(result))
+    //.catch(error => console.log('error', error));
+    .then((response) => response.text())
+    .then((response) => {
+      //console.log('Success:', response);
+      var link = document.createElement('a');
+      link.href = response;
+      link.click();
+    })
+    .catch((error) => {
+     // console.error('Error:', error);
+    });
+}
+
  </script>

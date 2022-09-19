@@ -40,8 +40,10 @@
               </div>
               <div class="col-sm-3">
                 {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
-                <a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
-                  <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
+                <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
+                  <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
+                  <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
+                    <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
                 <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
               </div>
             </div>
@@ -74,8 +76,10 @@
                       </div>
                       <div class="col-sm-3">
                         {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
-                        <a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
-                          <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
+                        <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
+                          <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
+                          <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
+                            <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
                         <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
                       </div>
                     </div>
@@ -109,8 +113,10 @@
                     </div>
                     <div class="col-sm-3">
                       {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
-                      <a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
-                        <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
+                      <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
+                        <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
+                        <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
+                          <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
                       <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
                     </div>
                   </div>
@@ -148,8 +154,10 @@
             </div>
             <div class="col-sm-3">
               {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
-              <a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
-                <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
+              <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
+                <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
+                <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
+                  <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
               <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
             </div>
           </div>
@@ -182,8 +190,10 @@
                       </div>
                       <div class="col-sm-3">
                         {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
-                          <a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
-                          <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
+                          <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
+                          <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
+                          <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
+                            <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
                         <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
                       </div>
                     </div>
@@ -219,8 +229,10 @@
             </div>
             <div class="col-sm-3">
               {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
-              <a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
-                <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
+              <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
+                <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
+                <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
+                  <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
               <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
             </div>
           </div>

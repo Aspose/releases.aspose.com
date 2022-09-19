@@ -5,6 +5,8 @@
       <span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span>{{ $text }}</a>&nbsp;
 {{else}}
 {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  ($link))  }}
-<a href="{{ $backendURL }}" class="btn btn-primary btn-lg">{{$text}}</a>&nbsp;
+<!--<a href="{{ $backendURL }}" class="btn btn-primary btn-lg">{{$text}}</a>&nbsp;-->
+<a onclick="downloadrelease('{{ $link }}')" class="btn btn-primary btn-lg">{{$text}}</a>&nbsp;
+
 {{ end }}
 
