@@ -12,7 +12,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "66"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.BarCode.Cpp"
-tags: ['native', 'C++', 'numeric-symbology', 'barcode-symbology', 'assembly', 'API', 'component', 'library', 'alpha-numeric', '2D', '2D-barcode', 'numeric-barcode', 'alpha-numeric-barcode', 'windowsforms', 'windows-forms', 'webforms', 'web-forms', 'wpf', 'barcode-to-jpeg', 'barcode-to-tiff', 'barcode-to-png', 'barcode-to-bmp', 'barcode-to-gif', 'barcode-to-exif', 'barcode-to-emf', 'barcode-to-svg', 'EAN13', 'EAN8', 'UPCA', 'UPCE', 'ISBN', 'ISMN', 'ISSN', 'Interleaved2of5', 'Standard2of5', 'MSI', 'Code11', 'Codabar', 'Postnet', 'Planet', 'EAN14(SCC14)', 'SSCC18', 'ITF14', 'IATA-2-of-5', 'DatabarOmniDirectional', 'DatabarStackedOmniDirectional', 'DatabarExpandedStacked', 'DatabarStacked', 'DatabarLimited', 'DatabarTruncated', 'GS1Code128', 'Code128', 'Code39', 'Extended', 'Code39-Standard', 'Code93-Extended', 'Code93-Standard', 'AustraliaPost', 'ItalianPost25', 'Matrix-2-of-5', 'DatabarExpanded', 'PatchCode', 'PDF417', 'DataMatrix', 'Aztec', 'QR', 'MicroQR', 'GS1DataMatrix', 'Code16K', 'CompactPDF417', 'barcode-generation', 'barcode-recognition', 'JPEG', 'TIFF', 'PNG', 'BMP', 'GIF', 'EXIF', 'EMF', 'SVG', 'codetext', 'symbology', 'Conholdate', 'Conholdate.Total', 'Aspose.BarCode', 'Aspose.Total', 'CPP']
+tags: ['barcode-to-jpeg', 'barcode-to-tiff', 'barcode-to-png', 'barcode-to-bmp', 'barcode-to-gif', 'barcode-to-exif', 'barcode-to-emf', 'barcode-to-svg']
 weight:  2
 ---
 
@@ -33,7 +33,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.BarCode.Cpp/" t
 
 [Product Page](https://products.aspose.com/barcode/cpp/) | [Docs](https://docs.aspose.com/barcode/cpp/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/cpp) | [Examples](https://github.com/aspose-barcode/Aspose.Barcode-for-C) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-[Aspose.BarCode for C++](https://products.aspose.com/barcode/cpp/) enables the developers to generate, scan, and manipulate barcodes from within their own C++ applications. C++ Barcode Library allows you to modify and customize barcode properties including font, foreground & background colors, alignment, barcode label location, and barcode caption.
+Aspose.BarCode for C++ enables the developers to generate, scan, and manipulate barcodes from within their own C++ applications. C++ Barcode Library allows you to modify and customize barcode properties including font, foreground & background colors, alignment, barcode label location, and barcode caption.
 
 ## Why download Aspose.BarCode for C++?
 
@@ -45,10 +45,10 @@ Aspose.BarCode for C++ is completely written in C++ and exposes a simple set of 
 
 ## Barcode Generation Features
 
-- [Generate barcode](https://docs.aspose.com/barcode/cpp/generate-barcodes-with-aspose-barcode-apis/) images programmatically.
-- [Create a `PDF417` Barcode](https://docs.aspose.com/barcode/cpp/pdf417-and-macropdf417-barcode/), set error correction level, and compaction mode.
+- Generate barcode images programmatically.
+- Create a `PDF417` Barcode, set error correction level, and compaction mode.
 - Generate multiple `MacroPdf417` barcodes.
-- Create `C40` or Text encoded [Datamatrix barcodes](https://docs.aspose.com/barcode/cpp/datamatrix-barcode/) with default or custom encoding mode.
+- Create `C40` or Text encoded Datamatrix barcodes with default or custom encoding mode.
 - Create QR and MicroQR barcodes and perform encoding.
 - Supports error correction for various types of barcodes.
 - Generate barcodes with a logo or other images inside instead of CodeText.
@@ -105,8 +105,6 @@ JPEG, TIFF, PNG, BMP, GIF, EXIF
 ### Save Barcode Labels As
 
 EMF, SVG
-
-[Product Page](https://products.aspose.com/barcode/cpp/) | [Docs](https://docs.aspose.com/barcode/cpp/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/cpp) | [Examples](https://github.com/aspose-barcode/Aspose.Barcode-for-C) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
