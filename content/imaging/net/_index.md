@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "22"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Imaging/"
-tags: ['load', 'update', 'convert', 'save', 'crop', 'resize', 'flip', 'rotate', 'image', 'image-server', 'image-service', 'image-to-svg', 'gif', 'gif-to-tiff', 'jpeg', 'png', 'png-to-pdf', 'svg', 'svg-to-bmp', 'svg-to-png', 'svgz', 'tiff', 'html5', 'tga', 'eps', 'canvas', 'filter', 'deskew', 'masking', 'compress', 'compose', 'merge', 'photo-book', 'collage-make', 'Aspose', 'Aspose.Imaging', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'C#', 'API', 'C#', 'library', 'ASP.NET', 'Component', 'photo', 'animation-edit', 'metafile', '.NET', 'Core', 'netcore', 'netframework', 'cross-platform', 'Linux', 'thread', 'async', 'csharp', 'data', 'vector', 'cdr', 'cdr-to-jpg', 'cdr-to-pdf', 'cdr-to-png', 'cdr-to-psd', 'cmx', 'cmx-to-jpg', 'cmx-to-pdf', 'cmx-to-tiff', 'cmyk', 'dicom', 'dicom-to-png', 'webp', 'odg', 'odt', 'fodg', 'djvu', 'dng', 'jpeg-2000', 'emf', 'emz', 'bmp', 'bmp-to-pdf', 'wmf', 'wmz', 'xmp', 'dib', 'apng', 'lossless', 'jpeg-ls', 'change-background', 'remove-background', 'image-library', 'web-forms', 'windows-forms', 'winforms', 'cloud']
+tags: ['image-to-svg', 'gif-to-tiff', 'png-to-pdf', 'svg-to-bmp', 'svg-to-png', 'cdr-to-jpg', 'cdr-to-pdf', 'cdr-to-png', 'cdr-to-psd', 'cmx-to-jpg', 'cmx-to-pdf', 'cmx-to-tiff', 'dicom-to-png', 'bmp-to-pdf']
 weight:  1
 ---
 
@@ -32,7 +32,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Imaging/" text=
 
 [Product Page](https://products.aspose.com/imaging/net/) | [Docs](https://docs.aspose.com/imaging/net/) | [Demos](https://products.aspose.app/imaging/family) | [API Reference](https://reference.aspose.com/imaging/net/) | [Examples](https://github.com/aspose-imaging/Aspose.Imaging-for-.NET/tree/master/Examples) | [Blog](https://blog.aspose.com/category/imaging/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/imaging) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-It is a [standalone Imaging API](https://products.aspose.com/imaging/net/) consists of C# routines that enable your .NET applications to draw as well as perform basic to advanced level processing of raster & vector images.
+It is a standalone Imaging API consists of C# routines that enable your .NET applications to draw as well as perform basic to advanced level processing of raster & vector images.
 
 ## Why download Aspose.Imaging for .NET?
 
@@ -43,7 +43,7 @@ Aspose.Imaging for .NET offers robust image compression and high processing spee
 - Draw raster images with graphics.
 - Draw vector images.
 - Converting images to various formats.
-- [Apply masking](https://docs.aspose.com/imaging/net/image-masking/) as well as [Median & Wiener](https://docs.aspose.com/imaging/net/applying-median-and-wiener-filters/) filters.
+- Apply masking as well as Median & Wiener filters.
 - Crop, rotate & resize images via API.
 - De-skew & transform images.
 - Set image properties.
@@ -71,8 +71,6 @@ Aspose.Imaging for .NET offers robust image compression and high processing spee
 **Web Image:** WebP\
 **CorelDRAW&reg;:** CDR (X6, X7), CMX (V2.0 32-bit)\
 **PostScript:** EPS
-
-[Product Page](https://products.aspose.com/imaging/net/) | [Docs](https://docs.aspose.com/imaging/net/) | [Demos](https://products.aspose.app/imaging/family) | [API Reference](https://reference.aspose.com/imaging/net/) | [Examples](https://github.com/aspose-imaging/Aspose.Imaging-for-.NET/tree/master/Examples) | [Blog](https://blog.aspose.com/category/imaging/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/imaging) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
