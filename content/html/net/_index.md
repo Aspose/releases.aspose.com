@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "8"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.HTML/"
-tags: ['Aspose.Total', 'Conholdate.Total', 'Conholdate', 'Windows-Forms', 'WinForms', 'Web-Forms', 'Assembly', 'Library', 'API', 'On-premise-API', 'MVC', '.Net-Core', '.Net-Standard', '.NetCore', '.NetCore2.0', '.NetCore2.1', '.NetStandard', '.NetStandard2.0', 'Standard', 'C#', 'CSharp', 'VB.NET', 'ASP.NET', 'Aspose.HTML', 'macOS', 'Linux', '.NET-Framework', 'HTML-to-Image', 'HTML-to-PDF', 'HTML-to-XPS', 'HTML-to-DOCX', 'HTML-to-MHTML', 'HTML-to-Markdown', 'HTML-to-MD', 'EPUB-to-Image', 'EPUB-to-PDF', 'EPUB-to-XPS', 'Markdown-to-HTML', 'MD-to-HTML', 'HTML-Template', 'HTML-Converter', 'HTML-Renderer', 'SVG-Renderer', 'MHTML-Renderer', 'EPUB-Renderer', 'HTML5', 'HTML5-Canvas', 'HTML-DOM', 'HTML-Form-Editor', 'HTML', 'XHTML', 'MHTML', 'EPUB', 'SVG', 'MD', 'Markdown', 'DOCX', 'PDF', 'XPS', 'TIFF', 'JPEG', 'JPG', 'PNG', 'BMP', 'GIF', 'eBook-API', 'Headless-Browser', 'Document-Manipulation', 'Web-Scraping', 'Conversion', 'Crawler', 'Hypertext', 'Markup', 'XPath', 'Spider', 'CSS', 'CSS3', 'Converter', 'DOM', 'Convert', 'Azure', 'parse', 'render', 'image', 'graphics', 'to', 'HTML-code', 'XHTML-to-PDF', 'MHTML-to-PDF', 'HTML-to-GIF', 'MHTML-to-JPG']
+tags: ['HTML-to-Image', 'HTML-to-PDF', 'HTML-to-XPS', 'HTML-to-DOCX', 'HTML-to-MHTML', 'HTML-to-Markdown', 'HTML-to-MD', 'EPUB-to-Image', 'EPUB-to-PDF', 'EPUB-to-XPS', 'Markdown-to-HTML', 'MD-to-HTML', 'HTML-Converter', 'XHTML-to-PDF', 'MHTML-to-PDF', 'HTML-to-GIF', 'MHTML-to-JPG']
 weight:  1
 ---
 
@@ -32,11 +32,11 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Html/" text="Nu
 
 [Product Page](https://products.aspose.com/html/net/) | [Docs](https://docs.aspose.com/html/net/) | [Demos](https://products.aspose.app/html/family) | [API Reference](https://reference.aspose.com/html/net/) | [Examples](https://github.com/aspose-html/Aspose.Html-for-.NET) | [Blog](https://blog.aspose.com/category/html/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/html) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-This [.NET HTML API](https://products.aspose.com/html/net/) assists developers to write, read, modify, navigate and convert (X)HTML documents from within .NET applications.
+This .NET HTML API assists developers to write, read, modify, navigate and convert (X)HTML documents from within .NET applications.
 
 ## Why download Aspose.HTML for .NET?
 
-Aspose.HTML for .NET API works as a headless browser that allows you to [create or open existing HTML documents](https://docs.aspose.com/html/net/working-with-documents/creating-a-document/) from various sources in order to perform manipulation operations such as remove and replace HTML nodes, save HTML documents, extract CSS from HTML, configure a document sandbox and more. You may navigate HTML documents by using various methods, such as, element traversal, document traversal, XPath queries, and CSS selector queries as well as manipulate HTML DOM via JavaScript, convert HTML file to images or fixed-layout formats, and convert (X)HTML and EPUB files to other file formats.
+Aspose.HTML for .NET API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform manipulation operations such as remove and replace HTML nodes, save HTML documents, extract CSS from HTML, configure a document sandbox and more. You may navigate HTML documents by using various methods, such as, element traversal, document traversal, XPath queries, and CSS selector queries as well as manipulate HTML DOM via JavaScript, convert HTML file to images or fixed-layout formats, and convert (X)HTML and EPUB files to other file formats.
 
 It helps you create, modify, extract, copy, delete and replace HTML document content, extract CSS from HTML, configure a document sandbox; load, read, and manage SVG files; render MHTML and EPUB documents to supported output file formats, and perform asynchronous operations.
 
@@ -48,11 +48,11 @@ The classes and properties of Aspose.HTML for .NET API have similar names as tha
 
 ## HTML Processing API Features
 
-- Convert HTML to [many popular formats](https://docs.aspose.com/html/net/getting-started/supported-file-formats/) including PDF, XPS and images.
+- Convert HTML to many popular formats including PDF, XPS and images.
 - Load & convert SVG & EPUB to XPS, PDF and images.
 - Navigate through document either by NodeIterator or TreeWalker.
 - Control the timeout of the rendering process.
-- [MutationObserver](https://docs.aspose.com/html/net/advanced-programming/dom-mutationobserver/) to watch over DOM modifications.
+- `MutationObserver` to watch over DOM modifications.
 - Populate HTML document with external data (XML & JSON).
 - Support of single (PDF, XPS) or multiple (image formats) output file streams.
 - Extract CSS styling information.
@@ -71,8 +71,6 @@ The classes and properties of Aspose.HTML for .NET API have similar names as tha
 ### Read Formats
 
 EPUB
-
-[Product Page](https://products.aspose.com/html/net/) | [Docs](https://docs.aspose.com/html/net/) | [Demos](https://products.aspose.app/html/family) | [API Reference](https://reference.aspose.com/html/net/) | [Examples](https://github.com/aspose-html/Aspose.Html-for-.NET) | [Blog](https://blog.aspose.com/category/html/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/html) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
