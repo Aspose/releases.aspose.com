@@ -7,7 +7,7 @@ family_listing_page_description: "Aspose.PDF for Java is a PDF document creation
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-java-min.png"
 homepage_package_type: "Maven"
 homepage_package_link: "https://repository.aspose.com/pdf/"
-tags: ['Aspose.Total', 'Aspose.PDF', 'Aspose-Java-API', 'pdf-java-library', 'pdf-java-class', 'Maven', 'PDF', 'CGM', 'EPUB', 'HTML', 'TeX', 'MHT', 'PCL', 'PS', 'Postscript', 'SVG', 'XML', 'XPS', 'XSLFO', 'MD', 'Markdown', 'XLS', 'XLSX', 'PPTX', 'DOC', 'DOCX', 'MobiXML', 'JPEG', 'EMF', 'PNG', 'BMP', 'GIF', 'TIFF', 'Text', 'document-compression', 'table-creation', 'graph', 'font', 'bookmark', 'data-source', 'attachment', 'annotation', 'export', 'print', 'font', 'image', 'form', 'stamp', 'watermark', 'link', 'security', 'signature', 'TrueType', 'CJK', 'Unicode', 'CMYK', 'PDFA', 'XML', 'FDF', 'XFDF', 'stamp', 'watermark', 'Windows', 'Linux', 'Mac', 'J2SE', 'extract-text', 'text-extraction', 'PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-XLS', 'PDF-to-XLSX', 'PDF-to-PPTX', 'HTML-to-PDF', 'MHTML-to-PDF', 'PDF-to-HTML', 'BMP-to-PDF', 'CGM-to-PDF', 'DICOM-to-PDF', 'EMF-to-PDF', 'JPG-to-PDF', 'PNG-to-PDF', 'SVG-to-PDF', 'TIFF-to-PDF', 'PDF-to-TIFF', 'PDF-to-SVG', 'EPUB-to-PDF', 'Markdown-to-PDF', 'MD-to-PDF', 'PCL-to-PDF', 'TXT-to-PDF', 'XPS-to-PDF', 'PS-to-PDF', 'Postscript-to-PDF', 'XML-to-PDF', 'XSLFO-to-PDF', 'LaTeX-to-PDF', 'TeX-to-PDF', 'PDF-to-EPUB', 'PDF-to-LaTeX', 'PDF-to-TeX', 'PDF-to-TXT', 'PDF-to-XPS', 'PDF-to-PDF/A_1b', 'PDF-to-PDF/A_3b', 'PDF-to-PDF/A_3a', 'PDF-to-PDF/A_2a', 'PDF-to-PDF/A_3U', 'PDFA-to-PDF']
+tags: ['PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-XLS', 'PDF-to-XLSX', 'PDF-to-PPTX', 'PDF-to-TIFF', 'PDF-to-SVG', 'PDF-to-EPUB', 'PDF-to-LaTeX', 'PDF-to-TeX', 'PDF-to-TXT', 'PDF-to-XPS', 'PDFA-to-PDF']
 weight:  2
 ---
 
@@ -34,7 +34,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
       <dependency>
       <groupId>com.aspose</groupId>
       <artifactId>aspose-pdf</artifactId>
-      <version>22.8</version>
+      <version>22.6</version>
       </dependency>
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
@@ -44,7 +44,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 
 ## Why download Aspose.PDF for Java?
 
-[Aspose.PDF for Java](https://products.aspose.com/pdf/java) is a PDF document creation component that enables your Java applications to read, write and manipulate PDF documents without using Adobe Acrobat.
+Aspose.PDF for Java is a PDF document creation component that enables your Java applications to read, write and manipulate PDF documents without using Adobe Acrobat.
 
 ## `aspose.pdf` Package Features
 
@@ -122,8 +122,6 @@ CGM, MHT, PCL, PS, XSLFO, MD
 - **macOS:** Mac OS X
 - **Linux:** Ubuntu, OpenSUSE, CentOS, and others
 - **Java Versions:** `J2SE 8.0 (1.8)` or above
-
-[Product Page](https://products.aspose.com/pdf/java) | [Docs](https://docs.aspose.com/pdf/java/) | [Demos](https://products.aspose.app/pdf/family) | [API Reference](https://reference.aspose.com/pdf/java) | [Examples](https://github.com/aspose-pdf/Aspose.PDF-for-Java/tree/master/Examples) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
