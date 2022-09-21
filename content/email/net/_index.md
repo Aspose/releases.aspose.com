@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "26"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Email/"
-tags: ['Aspose.Email', 'Aspose.Total', 'Conholdate.Total', 'Conholdate', 'Windows-Forms', 'WinForms', 'Web-Forms', 'VisualStudio', 'Visual-Studio', 'Component', 'Assembly', 'Library', 'API', 'On-premise-API', 'Microsoft', 'MVC', '.Net-Core', '.Net-Standard', '.NetCore', '.NetStandard', '.NetStandard2.0', 'Standard', 'C#', 'CSharp', 'VB.NET', 'ASP.NET', 'Windows', 'Linux', 'macOS', 'Mono', 'Xamarin', 'Android', 'iOS', 'MSG', 'PST', 'OST', 'OFT', 'OLM', 'EML', 'EMLX', 'MBOX', 'ICS', 'VCF', 'HTML', 'MHTML', 'Email-Processing-API', 'Email-Conversion-API', 'Email-Conversion-Library', 'Email-Conversion-Component', 'EML-to-MSG', 'EML-to-MHTML', 'MSG-to-MHTML', 'Email-to-MHT', 'Email-toEML', 'Email-to-HTML', 'Email-to-OFT', 'MIME', 'iCalender', 'Email-Verification', 'Email-Validation', 'Domain-Validation', 'Mail-Server-Validation', 'Email-Client-Integration', 'Mail-box', 'IMAP-Client', 'POP3-Client', 'SMTP-Client', 'MAPI', 'Email-Assembly', 'Split-PST', 'Merge-PST', 'IMAP', 'POP3', 'SMTP', 'SSL', 'TLS', 'SMTP-Server', 'Cram-MD5', 'Digest-MD5', 'AUTH-LOGIN', 'AUTH-PLAIN', 'Export-Email', 'Parse-Email-Header', 'Parse-Email-Message', 'RFC822', 'USER-PASS-Authentication', 'RFC2195', 'RFC2831', 'RFC2595', 'TLS', 'HTTP']
+tags: ['EML-to-MSG', 'EML-to-MHTML', 'MSG-to-MHTML', 'Email-to-MHT', 'Email-toEML', 'Email-to-HTML', 'Email-to-OFT']
 weight:  1
 ---
 
@@ -34,7 +34,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Email/" text="N
 
 ## Why download Aspose.Email for .NET?
 
-[Aspose.Email for .NET](https://products.aspose.com/email/net/) allows you to work with MIME messages, appointments, Microsoft Outlook&reg; items, Outlook storage files, various clients & protocols SMTP, POP3, IMAP, Exchange EWS, Exchange WebDav, Gmail, [Thunderbird](https://docs.aspose.com/email/net/programming-with-thunderbird/), [Zimbra](https://docs.aspose.com/email/net/working-with-zimbra/), [IBM Notes](https://docs.aspose.com/email/net/working-with-ibm-notes/) & AMP HTML emails and more.
+Aspose.Email for .NET allows you to work with MIME messages, appointments, Microsoft Outlook&reg; items, Outlook storage files, various clients & protocols SMTP, POP3, IMAP, Exchange EWS, Exchange WebDav, Gmail, Thunderbird, Zimbra, IBM Notes & AMP HTML emails and more.
 
 ## Email API Features
 
@@ -47,7 +47,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Email/" text="N
 - Send iCalendar compliant messages.
 - Consume and produce recurrence patterns in the iCalendar (RFC 2445) format.
 - Tools to verify email addresses, email syntax, email domain, mail server & MX records.
-- Extract objects from various mail storage formats as well as [create email storage files from scratch](https://docs.aspose.com/email/net/create-new-pst-file-and-add-subfolders/).
+- Extract objects from various mail storage formats as well as create email storage files from scratch.
 
 ### Supported Read & Write Email Formats
 
@@ -61,8 +61,6 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Email/" text="N
 ### Save As Email Formats
 
 **Microsoft&reg; Outlook&reg;:** OLM
-
-[Product Page](https://products.aspose.com/email/net/) | [Docs](https://docs.aspose.com/email/net/) | [Demos](https://products.aspose.app/email/family) | [API Reference](https://apireference.aspose.com/email/net/) | [Examples](https://github.com/aspose-email/Aspose.Email-for-.NET/tree/master/Examples) | [Blog](https://blog.aspose.com/category/email/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/email) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
