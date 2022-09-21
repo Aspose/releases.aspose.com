@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "33"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Cells/"
-tags: ['.NET-Excel-API', '.NET-Excel-Component', '.NET-Excel-Library', 'Aspose.Cells', 'Aspose.Cells.GridDesktop', 'Aspose.Cells.GridWeb', 'Aspose.Total', 'C#-Excel-API', 'C#-Excel-Component', 'C#-Excel-Library', 'Conholdate', 'Conholdate.Total', 'CSV', 'DIF', 'Excel-Conversion-API', 'Excel-Converter-API', 'Excel-Formula-API', 'Excel-Library', 'Excel-to-BMP', 'Excel-to-DOCX', 'Excel-to-EMF', 'Excel-to-GIF', 'Excel-to-HTML', 'Excel-to-Image', 'Excel-to-JPEG', 'Excel-to-JPG', 'Excel-to-Markdown', 'Excel-to-MD', 'Excel-to-MHTML', 'Excel-to-PDF', 'Excel-to-PDF/A', 'Excel-to-PNG', 'Excel-to-PPTX', 'Excel-to-SVG', 'Excel-to-TIFF', 'Excel-to-XPS', 'Excel-Workbook-API', 'Excel-Worksheet-API', 'ODS', 'OpenDocument', 'OpenOffice', 'Pivot-Table', 'TabDelimited', 'TSV', 'VBA', 'XLS-to-PDF', 'XLS-to-XLSX', 'XLS-to-XPS', 'XLSX-to-DOCX', 'XLSX-to-HTML', 'XLSX-to-Markdown', 'XLSX-to-MD', 'XLSX-to-MHTML', 'XLSX-to-PDF', 'XLSX-to-PPTX', 'Excel-Alternative', 'Spreadsheet', 'Workbook', 'SpreadsheetML', 'XLS', 'XLSX', 'XLSB', 'XLSM', 'XLT', 'XLTX', 'XLTM', 'XLAM', 'CSV', 'TSV', 'TXT', 'HTML', 'MHTML', 'ODS', 'Numbers', 'DIF', 'PDF', 'XPS', 'SVG', 'TIFF', 'PNG', 'BMP', 'EMF', 'JPEG', 'GIF', 'Markdown', 'MD', 'SXC', 'FODS', 'DOCX', 'PPTX', 'CHART-TO-IMAGE', 'Encryption', 'Decryption', 'Print', 'Cells', 'Sparkline', 'Slicer', 'Table']
+tags: ['Excel-Conversion-API', 'Excel-Converter-API', 'Excel-Formula-API', 'Excel-Library', 'Excel-to-BMP', 'Excel-to-DOCX', 'Excel-to-EMF', 'Excel-to-GIF', 'Excel-to-HTML', 'Excel-to-Image', 'Excel-to-JPEG', 'Excel-to-JPG', 'Excel-to-Markdown', 'Excel-to-MD', 'Excel-to-MHTML', 'Excel-to-PDF', 'Excel-to-PDFA', 'Excel-to-PNG', 'Excel-to-PPTX', 'Excel-to-SVG', 'Excel-to-TIFF', 'Excel-to-XPS', 'XLS-to-PDF', 'XLS-to-XLSX', 'XLS-to-XPS', 'XLSX-to-DOCX', 'XLSX-to-HTML', 'XLSX-to-Markdown', 'XLSX-to-MD', 'XLSX-to-MHTML', 'XLSX-to-PDF', 'XLSX-to-PPTX']
 weight:  1
 ---
 
@@ -19,7 +19,7 @@ weight:  1
 
 {{< Common/h2 text="Download Aspose.Cells to Process Spreadsheets"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Cells/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.Cells</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/cells/net/installation/" text="Installation"  >}} documentation page.
+Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Cells/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.CAD</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/cells/net/installation/" text="Installation"  >}} documentation page.
 {{< Common/release-notes-link family="cells" product="net" href="https://docs.aspose.com/cells/net/release-notes/" text="https://docs.aspose.com/cells/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
@@ -32,7 +32,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Cells/" text="N
 
 [Product Page](https://products.aspose.com/cells/net/) | [Docs](https://docs.aspose.com/cells/net/) | [Demos](https://products.aspose.app/cells/family) | [API Reference](https://reference.aspose.com/cells/net/) | [Examples](https://github.com/aspose-cells/Aspose.Cells-for-.NET) | [Blog](https://blog.aspose.com/category/cells/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
-[Aspose.Cells for .NET](https://products.aspose.com/cells/net/) is an Excel&reg; Spreadsheet Programming API to speed up spreadsheet management and processing tasks. Excel&reg; .NET API support to build cross-platform applications having the ability to generate, modify, convert, render, and print spreadsheets. It allows developers to manage worksheets, rows, columns & cells, create spreadsheet contents and styles from scratch, import data onto the worksheets from different data sources, add common and complex mathematical, financial, and text formulas, create & manipulate pivot tables, charts, hyperlinks, comments, drawing objects and much more.
+Aspose.Cells for .NET is an Excel&reg; Spreadsheet Programming API to speed up spreadsheet management and processing tasks. Excel&reg; .NET API support to build cross-platform applications having the ability to generate, modify, convert, render, and print spreadsheets. It allows developers to manage worksheets, rows, columns & cells, create spreadsheet contents and styles from scratch, import data onto the worksheets from different data sources, add common and complex mathematical, financial, and text formulas, create & manipulate pivot tables, charts, hyperlinks, comments, drawing objects and much more.
 
 Aspose.Cells for .NET provides a Grid solution with two GUI-based .NET controls. Aspose.Cells.GridDesktop supports desktop applications and Aspose.Cells.GridWeb is specifically designed for .NET based web applications. Both Gird controls allow you to import/export Excel&reg; files, manipulate data & formatting, customize grid design and layout, manage multiple worksheets, create and calculate Excel&reg; formulas, and numerous other Excel&reg;-like operations.
 
@@ -52,10 +52,10 @@ It’s rich object model consists of 100+ public classes that offer .NET develop
 - Combine, modify, protect, or parse Excel&reg; sheets.
 - Apply worksheet formatting.
 - Configure and apply page setup for the worksheets.
-- Create & customize [Excel&reg; charts](https://docs.aspose.com/cells/net/customizing-charts/), Pivot Tables, conditional formatting rules, slicers, tables & spark-lines.
+- Create & customize Excel&reg; charts, Pivot Tables, conditional formatting rules, slicers, tables & spark-lines.
 - Convert Excel&reg; charts to images & PDF.
 - Convert Excel&reg; files to various other formats.
-- [Formula calculation engine](https://docs.aspose.com/cells/net/supported-formula-functions/) that supports all basic and advanced Excel&reg; functions.
+- Formula calculation engine that supports all basic and advanced Excel&reg; functions.
 
 ### Supported Read & Write Formats
 
@@ -77,8 +77,6 @@ It’s rich object model consists of 100+ public classes that offer .NET develop
 **Image:** TIFF,PNG, BMP, JPEG, GIF\
 **Metafile:** EMF\
 **Markdown:** MD
-
-[Product Page](https://products.aspose.com/cells/net/) | [Docs](https://docs.aspose.com/cells/net/) | [Demos](https://products.aspose.app/cells/family) | [API Reference](https://reference.aspose.com/cells/net/) | [Examples](https://github.com/aspose-cells/Aspose.Cells-for-.NET) | [Blog](https://blog.aspose.com/category/cells/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
 {{< Common/hr >}}
 
