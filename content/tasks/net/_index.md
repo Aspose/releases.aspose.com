@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "20"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Tasks/"
-tags: ['Aspose', 'Aspose.Tasks', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'Assembly', 'Component', 'Library', '.NET', 'MPP', 'XML', 'MPT', 'XER', 'P6XML', 'MPX', 'XLSX', 'HTML', 'TXT', 'TIFF', 'SVG', 'PNG', 'PDF', 'JPEG', 'Windows', 'Linux', 'macOS', '.NET-Framework', '.NET-Core', '.Net-Standard', 'Mono', 'Visual-Studio', 'MonoDevelop', 'Primavera', 'Project-Management', 'Task-Management', 'Calendar', 'Formula', 'Project-Currencies', 'Task-Planning', 'Extended-Attribute', 'Resource-Assignment', 'Timephased', 'Project-Planning', 'VBA', 'Project-to-PDF', 'Project-to-JPEG', 'Project-to-Excel', 'Project-to-SVG', 'Project-to-Text', 'Project-to-Format24BPPRGB', 'Project-to-TIFF', 'MPP-to-PDF', 'MPP-to-JPEG', 'MPP-to-XML', 'MPP-to-XLSX', 'MPP-to-CSV', 'MPP-to-SVG', 'MPP-to-HTML', 'MPP-to-TIFF', 'API', 'WCF', 'WPF', 'Web-Services', 'WinForms', 'COM', 'Project', 'Server', 'ProjectServer', 'ProjectOnline', 'Project', 'Online', 'OpenProj', 'MPP2PDF', 'MPP2HTML', 'MPP2XER', 'MPP2PNG', 'Core', 'C#', 'CSharp', 'Open', 'Convert', 'Save']
+tags: ['Project-to-PDF', 'Project-to-JPEG', 'Project-to-Excel', 'Project-to-SVG', 'Project-to-Text', 'Project-to-Format24BPPRGB', 'Project-to-TIFF', 'MPP-to-PDF', 'MPP-to-JPEG', 'MPP-to-XML', 'MPP-to-XLSX', 'MPP-to-CSV', 'MPP-to-SVG', 'MPP-to-HTML', 'MPP-to-TIFF']
 weight:  1
 ---
 
@@ -32,7 +32,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Tasks/" text="N
 
 [Product Page](https://products.aspose.com/tasks/net/) | [Docs](https://docs.aspose.com/tasks/net/) | [Demos](https://products.aspose.app/tasks/family) | [API Reference](https://reference.aspose.com/tasks/net/) | [Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET) | [Blog](https://blog.aspose.com/category/tasks/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/tasks) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-[Aspose.Tasks for .NET](https://products.aspose.com/tasks/net/) is a C# library that assists developers in generating, editing, rendering & converting the Project files without needing Microsoft Project&reg;.
+Aspose.Tasks for .NET is a C# library that assists developers in generating, editing, rendering & converting the Project files without needing Microsoft Project&reg;.
 
 ## Why download Aspose.Tasks for .NET?
 
@@ -42,14 +42,14 @@ Aspose.Tasks for .NET on-premise API enables you to work with projects, formulas
 
 - Set project schedule type, start date & finish date.
 - Modify project standard rate, overtime rate, task type, fixed cost accrual, etc.
-- Manage [project extended attributes](https://docs.aspose.com/tasks/net/working-with-extended-attributes-of-a-project/).
+- Manage project extended attributes.
 - Define the project calendar and weekdays.
 - Task baseline scheduling and duration.
 - Work with task constraints.
 - Apply links among tasks.
 - Create task milestones, estimated critical, or effort-driven tasks.
 - Manage resource cost and variance.
-- Assignment [cost](https://docs.aspose.com/tasks/net/managing-task-costs/) and [budget](https://docs.aspose.com/tasks/net/assignment-budget/).
+- Assignment cost and budget.
 - Encode MPX files.
 - Comprehensive project reporting (15+ types of reports).
 
@@ -65,8 +65,6 @@ Aspose.Tasks for .NET on-premise API enables you to work with projects, formulas
 **Images:** TIFF, SVG, PNG, JPEG\
 **Web:** HTML\
 **Text:** TXT
-
-[Product Page](https://products.aspose.com/tasks/net/) | [Docs](https://docs.aspose.com/tasks/net/) | [Demos](https://products.aspose.app/tasks/family) | [API Reference](https://reference.aspose.com/tasks/net/) | [Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET) | [Blog](https://blog.aspose.com/category/tasks/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/tasks) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
