@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "3"
 homepage_package_type: "Maven"
 homepage_package_link: "https://repository.aspose.com/words/"
-tags: ['Aspose.Total', 'Aspose.Words', 'Aspose-Java-API', 'word-java-library', 'word-java-class', 'Maven', 'conversion', 'converter', 'import', 'export', 'document-object-model', 'dom', 'render', 'LINQ', 'reporting', 'mail-merge', 'DOC', 'DOT', 'DocPreWord60', 'DOCX', 'DOCM', 'DOTX', 'DOTM', 'FlatOpc', 'FlatOpcMacroEnabled', 'FlatOpcTemplate', 'FlatOpcTemplateMacroEnabled', 'RTF', 'WordML', 'HTML', 'MHTML', 'MOBI', 'CHM', 'ODT', 'OTT', 'TXT', 'MD', 'PDF', 'XPS', 'XamlFixed', 'SVG', 'OpenXps', 'PS', 'PCL', 'EPUB', 'XamlFlow', 'XamlFlowPack', 'TIFF', 'PNG', 'BMP', 'EMF', 'JPEG', 'GIF', 'content', 'Word-to-PDF', 'DOC-to-PDF', 'DOCX-to-PDF', 'Word-to-Image', 'DOCX-to-JPG', 'DOC-to-PNG', 'Image-to-PDF', 'JPG-to-PDF', 'TIFF-to-PDF', 'HTML-to-Markdown', 'HTML-to-MD', 'DOCX-to-Markdown', 'DOCX-to-MD', 'Markdown-to-PDF', 'MD-to-PDF', 'HTML-to-PDF', 'MHT-to-PDF', 'MHTML-to-PDF', 'Word-to-HTML', 'Markdown-to-HTML', 'MD-to-HTML', 'Mobi-to-EPUB', 'RTF-to-PDF', 'ODT-to-PDF', 'TXT-to-PDF', 'Mobi-to-PDF', 'DOCX-to-DOC', 'HTML-to-Word', 'page-layout-engine', 'flow-layout', 'theme', 'section', 'range', 'header', 'footer', 'bookmar', 'table', 'list', 'paragraph', 'hypernation', 'font', 'opentype', 'textbox', 'comment', 'graphic', 'form-fields', 'VBA', 'macros', 'markdown', 'J2SE']
+tags: ['Word-to-PDF', 'DOC-to-PDF', 'DOCX-to-PDF', 'Word-to-Image', 'DOCX-to-JPG', 'DOC-to-PNG', 'Image-to-PDF', 'JPG-to-PDF', 'TIFF-to-PDF', 'HTML-to-Markdown', 'HTML-to-MD', 'DOCX-to-Markdown', 'DOCX-to-MD', 'Markdown-to-PDF', 'MD-to-PDF', 'HTML-to-PDF', 'MHT-to-PDF', 'MHTML-to-PDF', 'Word-to-HTML', 'Markdown-to-HTML', 'MD-to-HTML', 'Mobi-to-EPUB', 'RTF-to-PDF', 'ODT-to-PDF', 'TXT-to-PDF', 'Mobi-to-PDF', 'DOCX-to-DOC', 'HTML-to-Word']
 weight:  2
 ---
 
@@ -26,35 +26,20 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 {{< consolebox/consoleboxwrapper id="repository" >}}
    {{< consolebox/textarea id="repository" >}} 
       <repository>
-         <id>AsposeJavaAPI</id>
-         <name>Aspose Java API</name>
-         <url>https://repository.aspose.com/repo/</url>
+      <id>AsposeJavaAPI</id>
+      <name>Aspose Java API</name>
+      <url>https://repository.aspose.com/repo/</url>
       </repository> 
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
    {{< consolebox/textarea id="dependency" >}}
-        <dependency>
-            <groupId>com.aspose</groupId>
-            <artifactId>aspose-words</artifactId>
-            <version>22.9</version>
-            <classifier>jdk17</classifier>
-        </dependency>
-
-        <dependency>
-            <groupId>com.aspose</groupId>
-            <artifactId>aspose-words</artifactId>
-            <version>22.9</version>
-            <classifier>javadoc</classifier>
-        </dependency>
-
-        <dependency>
-            <groupId>com.aspose</groupId>
-            <artifactId>aspose-words</artifactId>
-            <version>22.9</version>
-            <classifier>shaping-harfbuzz-plugin</classifier>
-        </dependency>
+      <dependency>
+      <groupId>com.aspose</groupId>
+      <artifactId>aspose-words</artifactId>
+      <version>22.6</version>
+      </dependency>
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
@@ -63,7 +48,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 
 ## Why download Aspose.Words for Java?
 
-[Aspose.Words for Java](https://products.aspose.com/words/java) is an advanced Java Word processing API that enables you to perform a great range of document processing tasks directly within your Java applications. Aspose.Words for Java API supports processing word (DOC, DOCX, OOXML, RTF) HTML, OpenDocument, PDF, EPUB, XPS, SWF and all image formats. With Aspose.Words you can generate, modify, and convert documents without using Microsoft Word&reg;.
+[Aspose.Words for Java is an advanced Java Word processing API that enables you to perform a great range of document processing tasks directly within your Java applications. Aspose.Words for Java API supports processing word (DOC, DOCX, OOXML, RTF) HTML, OpenDocument, PDF, EPUB, XPS, SWF and all image formats. With Aspose.Words you can generate, modify, and convert documents without using Microsoft Word&reg;.
 
 ## Word API Features
 
@@ -128,8 +113,6 @@ For a more comprehensive list of features, please visit [Feature Overview](https
 - **macOS:** Mac OS X
 - **Linux:** Ubuntu, OpenSUSE, CentOS, and others
 - **Java Versions:** `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)` or above.
-
-[Product Page](https://products.aspose.com/words/java) | [Docs](https://docs.aspose.com/words/java/) | [Demos](https://products.aspose.app/words/family) | [API Reference](https://reference.aspose.com/words/java) | [Examples](https://github.com/aspose-words/Aspose.Words-for-Java/tree/master/Examples) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
