@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "24"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.BarCode/"
-tags: [.NET-barcode-API', '.NET-barcode-library', '1D-Barcode', '2D-Barcode', 'Alpha-numeric-Barcodes', 'ASP.NET-Bacode-API', 'Barcode-API', 'Barcode-Formatting-API', 'Barcode-generation-API', 'barcode-generator-API', 'Barcode-imaging-API', 'Barcode-reader-API', 'Barcode-recognition-API', 'Barcode-scanning-API', 'Barcode-symbologies', 'BMP', 'C#-Barcode-API', 'C#-Barcode-Library', 'Checksum', 'Codabar', 'Code11', 'Code128', 'Code39', 'CompactPDF417', 'Controls-&-Libraries', 'EAN14(SCC14)', 'EMF', 'EXIF', 'GIF', 'JPEG', 'MicroQR', 'MSI', 'Numeric-Barcodes', 'On-premise-API', 'Planet', 'PNG', 'Postnet', 'PZN', 'QR', 'SSCC18', 'SVG', 'Swiss-QR', 'TIFF', 'UPCA', 'UPCE', 'Windows-Forms', 'WinForms', 'WPF', 'C#-Console-Apps', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'Aspose.Barcode', 'barcode', 'generation', 'recognition', 'Alpha-Numeric', 'AI-8102-Coupon', 'AustralianPosteParcel', 'AustraliaPost', 'Aztec', 'Codabar', 'CodablockF', 'Code11', 'Code128', 'Code16K', 'Code32', 'Code39Extended', 'Code39Standard', 'Code93Extended', 'Code93Standard', 'DatabarExpanded', 'DatabarExpandedStacked', 'DatabarLimited', 'DatabarOmniDirectional', 'DatabarStacked', 'DatabarStackedOmniDirectional', 'DatabarTruncated', 'DataLogic2of5', 'DataMatrix', 'DeutschePostIdentcode', 'DeutschePostLeitcode', 'DotCode', 'DutchKIX', 'EAN13', 'EAN14', 'EAN8', 'GS1CodablockF', 'GS1Code128', 'GS1DataMatrix', 'GS1QR', 'IATA2of5', 'Interleaved2of5', 'ISBN', 'ISMN', 'ISSN', 'ItalianPost25', 'ITF14', 'ITF6', 'MacroPdf417', 'Matrix2of5', 'MaxiCode', 'MicroPdf417', 'MICR', '(only', 'BarCode', 'reader)', 'MSI', 'OneCode', 'OPC', 'PatchCode', 'Pdf417', 'Pharmacode', 'Planet', 'Postnet', 'PZN', 'QR', 'RM4SCC', 'SCC14', 'SingaporePost', 'SSCC18', 'Standard2of5', 'SwissQR', 'SwissPostParcel', 'UPCA', 'UpcaGs1Code128Coupon', 'UpcaGs1DatabarCoupon', 'UPCE', 'VIN']
+tags: ['1D-Barcode', '2D-Barcode', 'Alpha-numeric-Barcodes', 'Barcode-API', 'Barcode-symbologies']
 weight:  1
 ---
 
@@ -32,7 +32,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.BarCode/" text=
 
 [Product Page](https://products.aspose.com/barcode/net/) | [Docs](https://docs.aspose.com/barcode/net/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/net/) | [Examples](https://github.com/aspose-barcode/Aspose.BarCode-for-.NET) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
-[Aspose.BarCode for .NET](https://products.aspose.com/barcode/net/) doesn't just create or recognize barcodes but it provides a complete framework to control almost everything about barcodes. Developers can customization the barcode's appearance including bar height, color, margins, borders, and so on. While scanning for barcodes, developers can specify the area where a barcode can be found as well as direct the engine to look for rotated barcodes.
+Aspose.BarCode for .NET doesn't just create or recognize barcodes but it provides a complete framework to control almost everything about barcodes. Developers can customization the barcode's appearance including bar height, color, margins, borders, and so on. While scanning for barcodes, developers can specify the area where a barcode can be found as well as direct the engine to look for rotated barcodes.
 
 ## Why download Aspose.BarCode for .NET?
 
@@ -46,10 +46,10 @@ Aspose.BarCode for .NET is written completely in C# and consists of just a singl
 
 ## Barcode API Features
 
-- [Generate](https://docs.aspose.com/barcode/net/generate-barcodes-with-aspose-barcode-apis/) & [recognize](https://docs.aspose.com/barcode/net/read-barcodes-with-aspose-barcode-apis/) 40+ barcode symbologies with just a few lines of code.
+- Generate & recognize 40+ barcode symbologies with just a few lines of code.
 - Read 1D & 2D barcodes at any angle.
 - Easily print barcode labels to physical or virtual printers.
-- Support for [barcode supplement data and checksum](https://docs.aspose.com/barcode/net/use-checksum-and-supplement-data/).
+- Support for barcode supplement data and checksum.
 - Optimized code128 encoding.
 - Specify the image area to scan the barcode.
 - Create device resolution dependent images.
@@ -98,8 +98,6 @@ Aspose.BarCode for .NET is written completely in C# and consists of just a singl
 ### Save BarCode Labels As
 
 **Images:** EMF, SVG
-
-[Product Page](https://products.aspose.com/barcode/net/) | [Docs](https://docs.aspose.com/barcode/net/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/net/) | [Examples](https://github.com/aspose-barcode/Aspose.BarCode-for-.NET) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
 {{< Common/hr >}}
 
