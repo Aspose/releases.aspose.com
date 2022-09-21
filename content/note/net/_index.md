@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "14"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Note/"
-tags: ['.NET', '.NET', 'Core', '.NET', 'Framework', '.net-core', '.net-standard', '.netcore', '.netstandard', '.netstandard2.0', 'API', 'ASP.NET', 'aspnetcore', 'Aspose', 'Aspose.Note', 'Aspose.Total', 'Assembly', 'C#', 'Component', 'Conholdate', 'Conholdate.Total', 'Core', 'cross-platform', 'csharp', 'Document', 'dom', 'dom-navigation', 'dotnet', 'dotnet-core', 'dotnet-standard', 'dotnetcore', 'dotnetframework', 'dotnetstandard', 'extract', 'Fast', 'forms', 'Framework', 'image', 'Library', 'Microsoft', 'mvc', 'net-core', 'net-standard', 'netcore', 'netstandard', 'netstandard2.0', 'notes', 'office', 'one', 'one-to-bmp', 'one-to-gif', 'one-to-image', 'one-to-jpeg', 'one-to-pdf', 'one-to-png', 'one-to-tiff', 'onenote', 'onetoc2', 'rendering', 'security', 'Standard', 'table', 'text', 'VisualStudio', 'Windows-Forms', 'winforms']
+tags: ['one-to-bmp', 'one-to-gif', 'one-to-image', 'one-to-jpeg', 'one-to-pdf', 'one-to-png', 'one-to-tiff']
 weight:  1
 ---
 
@@ -32,15 +32,15 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Note/" text="Nu
 
 [Product Page](https://products.aspose.com/note/net/) | [Docs](https://docs.aspose.com/note/net/) | [Demos](https://products.aspose.app/note/family) | [API Reference](https://reference.aspose.com/note/net/) | [Examples](https://github.com/aspose-note/Aspose.Note-for-.NET) | [Blog](https://blog.aspose.com/category/note/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/note) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-> It is a standalone class library that allows interacting with [Microsoft OneNote&reg; documents for processing](https://products.aspose.com/note/net/) and conversion.
+> It is a standalone class library that allows interacting with Microsoft OneNote&reg; documents for processing and conversion.
 
 ## Why download Aspose.Note for .NET?
 
-Aspose.Note for .NET can be used for printing ONE documents as well as manipulation of [pages](https://docs.aspose.com/note/net/working-with-pages/), [images](https://docs.aspose.com/note/net/working-with-images/), [text](https://docs.aspose.com/note/net/working-with-text/), [tables](https://docs.aspose.com/note/net/working-with-tables/), [attachments](https://docs.aspose.com/note/net/working-with-attachments/), [tags](https://docs.aspose.com/note/net/working-with-tags/), [tasks](https://docs.aspose.com/note/net/working-with-tasks/), [text styles](https://docs.aspose.com/note/net/working-with-text-styles/), and [hyperlinks](https://docs.aspose.com/note/net/working-with-hyperlinks/), without needing Microsoft OneNote&reg;.
+Aspose.Note for .NET can be used for printing ONE documents as well as manipulation of pages, images, text, tables, attachments, tags, tasks, text styles, and hyperlinks, without needing Microsoft OneNote&reg;.
 
 ## Microsoft OneNote&reg; File Processing Features
 
-- [Load, edit, and save](https://docs.aspose.com/note/net/loading-saving-and-converting/) Microsoft OneNote&reg; documents via API.
+- Load, edit, and save Microsoft OneNote&reg; documents via API.
 - Navigate through the OneNote&reg; Document Object Model (DOM).
 - Insert an image into a OneNote&reg; file.
 - Parse and export various numbered list formats.
@@ -59,8 +59,6 @@ Aspose.Note for .NET can be used for printing ONE documents as well as manipulat
 ### Read Formats
 
 **Microsoft OneNote&reg;:** ONETOC2
-
-[Product Page](https://products.aspose.com/note/net/) | [Docs](https://docs.aspose.com/note/net/) | [Demos](https://products.aspose.app/note/family) | [API Reference](https://reference.aspose.com/note/net/) | [Examples](https://github.com/aspose-note/Aspose.Note-for-.NET) | [Blog](https://blog.aspose.com/category/note/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/note) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
