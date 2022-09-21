@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "68"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Words.cpp"
-tags: ['API', 'Aspose', 'Aspose.Total', 'Aspose.Words', 'Assembly', 'base64', 'bmp', 'bmp-to-pdf', 'c++', 'c++14', 'cpp', 'chm', 'component', 'Conholdate', 'Conholdate.Total', 'convert', 'converter', 'core', 'cross-platform', 'digital-publishing', 'doc', 'doc-to-bmp', 'doc-to-emf', 'doc-to-html', 'doc-to-jpeg', 'doc-to-pdf', 'doc-to-png', 'doc-to-postscript', 'doc-to-ps', 'docm', 'document', 'docx', 'docx-to-epub', 'docx-to-gif', 'docx-to-html', 'docx-to-markdown', 'docx-to-md', 'docx-to-mhtml', 'docx-to-pcl', 'docx-to-pdf', 'dot', 'dotm', 'dotx', 'emf', 'emf-to-pdf', 'epub', 'Fast', 'flatopc', 'gif', 'gif-to-pdf', 'html', 'htmlfixed', 'jpeg', 'jpeg-to-pdf', 'Library', 'Linux', 'mhtml', 'Microsoft', 'mobi', 'native', 'odt', 'Office', 'opendocument', 'openoffice', 'openxps', 'ott', 'pcl', 'pcl6', 'PCLXL', 'pdf', 'pdf1.5', 'pdf17', 'png', 'png-to-pdf', 'postscript', 'print', 'ps', 'render', 'rtf', 'rtf1.9', 'svg', 'swf', 'text', 'tiff', 'tiff-to-pdf', 'txt', 'Visual-Studio', 'VisualStudio', 'wmf-to-pdf', 'word-to-bmp', 'word-to-emf', 'word-to-epub', 'word-to-gif', 'word-to-html', 'word-to-jpeg', 'word-to-markdown', 'word-to-md', 'word-to-mhtml', 'word-to-pcl', 'word-to-pdf', 'word-to-png', 'word-to-postscript', 'word-to-ps', 'wordml', 'xamlfixed', 'xamlflow', 'xps', 'GCC', 'CLang', 'Visual-C++', 'Windows']
+tags: ['doc-to-bmp', 'doc-to-emf', 'doc-to-html', 'doc-to-jpeg', 'doc-to-pdf', 'doc-to-png', 'doc-to-postscript', 'doc-to-ps', 'docx-to-epub', 'docx-to-gif', 'docx-to-html', 'docx-to-markdown', 'docx-to-md', 'docx-to-mhtml', 'docx-to-pcl', 'docx-to-pdf', 'word-to-bmp', 'word-to-emf', 'word-to-epub', 'word-to-gif', 'word-to-html', 'word-to-jpeg', 'word-to-markdown', 'word-to-md', 'word-to-mhtml', 'word-to-pcl', 'word-to-pdf', 'word-to-png', 'word-to-postscript', 'word-to-ps']
 weight:  3
 ---
 
@@ -32,7 +32,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Words.Cpp/" tex
 
 [Product Page](https://products.aspose.com/words/cpp/) | [Docs](https://docs.aspose.com/words/cpp/) | [Demos](https://products.aspose.app/words/family) | [API Reference](https://reference.aspose.com/words/cpp) | [Examples](https://github.com/aspose-words/Aspose.Words-for-C) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-[A standalone C++ class library](https://products.aspose.com/words/cpp/) to load, save, format & convert Microsoft Word&reg; documents without Office Automation.
+A standalone C++ class library to load, save, format & convert Microsoft Word&reg; documents without Office Automation.
 
 ## Why download Aspose.Words for C++?
 
@@ -40,19 +40,19 @@ Aspose.Words for C++ is a powerful on-premise API that can be used for a great r
 
 ## Word File Processing Features
 
-- Call the Document constructor without parameters to [programmatically create a new blank document](https://docs.aspose.com/words/cpp/create-or-load-a-document/).
+- Call the Document constructor without parameters to programmatically create a new blank document.
 - Detect the file format and check file format compatibility.
-- [Convert Word Documents](https://docs.aspose.com/words/cpp/convert-a-document/) to other supported formats.
+- Convert Word Documents to other supported formats.
 - Serialize a document object to fetch a byte array and vice versa.
 - Supports conversion compliance with various PDF standards.
 - Export fonts to HTML in `Base64` encoding.
 - Save any password encrypted word document.
-- [Specify the OOXML specification](https://docs.aspose.com/words/cpp/specify-save-options/).
-- [Apply a password to encrypted documents](https://docs.aspose.com/words/cpp/specify-save-options/) and ignore `RoutingSlip` data while saving.
+- Specify the OOXML specification.
+- Apply a password to encrypted documents and ignore `RoutingSlip` data while saving.
 - Compress all the metafiles, be it small or large.
 - Enable bi-directional marks to add support for the right to left languages.
 - Access the VBA Project to extend functionality.
-- Read, write, or modify [VBA Macros](https://docs.aspose.com/words/cpp/working-with-vba-macros/).
+- Read, write, or modify VBA Macros.
 - Clone VBA Project or VBA Module.
 
 ### Read & Write Document Formats
@@ -78,8 +78,6 @@ Aspose.Words for C++ is a powerful on-premise API that can be used for a great r
 **Markup:** XamlFixed, HtmlFixed, XamlFlow (Beta), XamlFlowPack (Beta)\
 **Image:** SVG, TIFF, PNG, BMP, JPEG, GIF\
 **Metafile:** EMF
-
-[Product Page](https://products.aspose.com/words/cpp/) | [Docs](https://docs.aspose.com/words/cpp/) | [Demos](https://products.aspose.app/words/family) | [API Reference](https://reference.aspose.com/words/cpp) | [Examples](https://github.com/aspose-words/Aspose.Words-for-C) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
