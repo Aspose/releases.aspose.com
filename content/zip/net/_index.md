@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "103"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Zip/"
-tags: ['.NET', '.NET-Framework', '.net-core', '.net-standard', '.netcore', '.netstandard', '.netstandard2.0', '7z', '7-ZIP', 'AES', 'AES-128', 'AES-192', 'AES-256', 'API', 'Archive', 'Archiving', 'ASP.NET', 'aspnetcore', 'Aspose', 'Aspose.Total', 'Aspose.ZIP', 'Assembly', 'BZ2', 'BZIP2', 'C#', 'Component', 'Compression', 'Conholdate', 'Conholdate.Total', 'Core', 'cross-platform', 'csharp', 'dataprotection', 'Decompression', 'decrypt', 'Decryption', 'Document', 'dotnet', 'dotnet-core', 'dotnet-standard', 'dotnetcore', 'dotnetframework', 'dotnetstandard', 'encrypt', 'Encryption', 'extract', 'Fast', 'forms', 'Framework', 'GZIP', 'Library', 'LZMA', 'LZMA2', 'Microsoft', 'mvc', 'net-core', 'net-standard', 'netcore', 'netstandard', 'netstandard2.0', 'RAR', 'RAR4', 'RAR5', 'security', 'Standard', 'TAR', 'USTAR', 'VisualStudio', 'Windows-Forms', 'winforms', 'ZIP', 'ZIP64', 'ZipCrypto', '.NET-Compression-API', '.NET-Compression-Component', '.NET-Compression-Library', '.NET-Decompression-API', '.NET-Decompression-Component', '.NET-Decompression-Library', '.NET-ZIP-API', '.NET-ZIP-Component', '.NET-ZIP-Library']
+tags: ['7z', '7-ZIP', 'AES', 'AES-128', 'AES-192', 'AES-256', 'Archive', 'BZ2', 'BZIP2', 'Decompression', 'decrypt', 'Decryption', 'GZIP', 'Library', 'LZMA', 'LZMA2']
 weight:  1
 ---
 
@@ -34,13 +34,13 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.ZIP/" text="NuG
 
 It is a standalone .NET API to create, manipulate, extract & protect archive formats including ZIP, BZIP, BZ2 & TAR.
 
-[Aspose.ZIP for .NET](https://products.aspose.com/zip/net/) class library allows your .NET applications to compress/decompress files and folders without getting into the complexity of coding new compression algorithms or understanding the existing ones. Enable your programs to work with a vast range of features, such as creating archives, saving archives, archive extraction, encrypting/decrypting archives, compressing single or multiple files as well as directory contents. It also allows you to apply security to your archived and compressed files and folders via password, AES (128, 192, 256) encryption, or mixed encryption.
+Aspose.ZIP for .NET class library allows your .NET applications to compress/decompress files and folders without getting into the complexity of coding new compression algorithms or understanding the existing ones. Enable your programs to work with a vast range of features, such as creating archives, saving archives, archive extraction, encrypting/decrypting archives, compressing single or multiple files as well as directory contents. It also allows you to apply security to your archived and compressed files and folders via password, AES (128, 192, 256) encryption, or mixed encryption.
 
 ## Archive Processing Features
 
-- [Compress files](https://docs.aspose.com/zip/net/compressing-and-decompressing-files/) and folders into standard ZIP formats.
+- Compress files and folders into standard ZIP formats.
 - Supports Deflate, `Bzip2` & `LZMA` compression algorithms.
-- [Apply simple password](https://docs.aspose.com/zip/net/password-protecting-archives/) or `AES128`, `AES192`, `AES256` encryption to archives.
+- Apply simple password or `AES128`, `AES192`, `AES256` encryption to archives.
 - Employ different protection schemes for each file within an archive.
 - Append more files to an existing zipped archive.
 - Use `Gzip` or `Bzip2` to pack files & folders into a `TAR` archive.
@@ -57,8 +57,6 @@ It is a standalone .NET API to create, manipulate, extract & protect archive for
 ### Save ZIP Formats As
 
 7z
-
-[Product Page](https://products.aspose.com/zip/net/) | [Docs](https://docs.aspose.com/zip/net/) | [Demos](https://products.aspose.app/zip/family) | [API Reference](https://reference.aspose.com/zip/net/) | [Examples](https://github.com/aspose-zip/Aspose.ZIP-for-.NET) | [Blog](https://blog.aspose.com/category/zip/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/zip) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
