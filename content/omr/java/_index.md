@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "192"
 homepage_package_type: "Maven"
 homepage_package_link: "https://repository.aspose.com/omr/"
-tags: ['Aspose.Total', 'Aspose.Imaging', 'Aspose-Java-API', 'image-java-library', 'image-java-class', 'Maven', 'BMP', 'GIF', 'DICOM', 'DJVU', 'DNG', 'EMF', 'JPEG', 'JPEG2000', 'ODG', 'PNG', 'APNG', 'PSD', 'DXF', 'SVG', 'TIFF', 'DIB', 'EPS', 'WEBP', 'WMF', 'CDR', 'CMX', 'OTG', 'PDF', 'HTML5', 'EMZ', 'WMZ', 'TGA', 'SVGZ', 'canvas', 'Windows', 'Linux', 'Mac', 'JPG-to-TGA', 'PNG-to-TGA', 'HTML5', 'SVG-to-HTML5', 'CorelDRAW', 'CMX-to-PNG', 'binarization', 'dithering', 'DjVu-to-TIFF', 'DjVu-to-PDF', 'image-processing', 'multithreading', 'optimization', 'DNG-to-JPEG', 'FODG', 'JPEG-LS', 'CMYK', 'YCK', 'EXIF', 'image-to-PSD', 'color-replacement', 'raster-image', 'flat-psd', 'PSD-to-JPG', 'Alpha', 'Subscript', 'smallcap', 'gradient', 'transparency', 'WebP', 'Bezier', 'Polygon', 'vector', 'multipage-image', 'image-to-PSD', 'WMF-to-PNG']
+tags: ['SVG-to-HTML5', 'CMX-to-PNG', 'DjVu-to-TIFF', 'DjVu-to-PDF', 'DNG-to-JPEG', 'image-to-PSD', 'PSD-to-JPG', 'image-to-PSD', 'WMF-to-PNG']
 weight:  2
 ---
 
@@ -48,7 +48,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 
 ## Why download Aspose.OMR for Java?
 
-[Aspose.OMR for Java](https://products.aspose.com/omr/java) is a Java class library that provides API to recognize optical marks from OMR digitized sheet images. It can be used to recognize optical marks in a variety of image formats like BMP, JPG, TIF, TIFF, GIF. The API allows capturing human-marked data from document forms such as surveys, questionnaires, multiple-choice examination papers, and other tests. With this solution, it is possible to recognize scanned images and even photos with high accuracy. Recognition is based on a template markup which contains a graphical mapping of the elements to be recognized from the scanned images.
+Aspose.OMR for Java is a Java class library that provides API to recognize optical marks from OMR digitized sheet images. It can be used to recognize optical marks in a variety of image formats like BMP, JPG, TIF, TIFF, GIF. The API allows capturing human-marked data from document forms such as surveys, questionnaires, multiple-choice examination papers, and other tests. With this solution, it is possible to recognize scanned images and even photos with high accuracy. Recognition is based on a template markup which contains a graphical mapping of the elements to be recognized from the scanned images.
 
 ## OMR API Features
 
@@ -56,7 +56,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 - Ability to process rotated and perspective (side viewed) images.
 - Recognize data from tests, exams, questionnaires, surveys etc.
 - High accuracy rate & ability to export the results in `CSV` and `JSON` file format.
-- [Create OMR templates](https://docs.aspose.com/omr/java/create-omr-template/) from text markup.
+- Create OMR templates from text markup.
 
 ### Save OMR Results As
 
@@ -72,8 +72,6 @@ JPEG, PNG, GIF, TIFF, BMP
 - **macOS:** Mac OS X
 - **Linux:** Ubuntu, OpenSUSE, CentOS, and others
 - **Java Versions:** `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)` or above
-
-[Home](https://www.aspose.com/) | [Product Page](https://products.aspose.com/omr/java) | [Docs](https://docs.aspose.com/omr/java/) | [Demos](https://products.aspose.app/omr/family) | [API Reference](https://reference.aspose.com/omr/java) | [Examples](https://github.com/aspose-omr/Aspose.OMR-for-Java) | [Blog](https://blog.aspose.com/category/omr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/omr) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
