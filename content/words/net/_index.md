@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "2"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Words/"
-tags: ['.NET', '.net-core', '.net-standard', '.netcore', '.netstandard', '.netstandard2.0', 'API', 'ASP.NET', 'aspnetcore', 'Aspose', 'Aspose.Total', 'Aspose.Words', 'Assembly', 'Azure', 'base64', 'bmp', 'bmp-to-pdf', 'C#', 'chm', 'component', 'Conholdate', 'Conholdate.Total', 'convert', 'converter', 'core', 'cross-platform', 'csharp', 'digital-publishing', 'doc', 'doc-to-bmp', 'doc-to-emf', 'doc-to-html', 'doc-to-jpeg', 'doc-to-pdf', 'doc-to-png', 'doc-to-postscript', 'doc-to-ps', 'docm', 'document', 'docx', 'docx-to-epub', 'docx-to-gif', 'docx-to-html', 'docx-to-markdown', 'docx-to-md', 'docx-to-mhtml', 'docx-to-pcl', 'docx-to-pdf', 'dot', 'dotm', 'dotnet-core', 'dotnet-standard', 'dotnetcore', 'dotnetstandard', 'dotx', 'emf', 'emf-to-pdf', 'epub', 'Fast', 'flatopc', 'Framework', 'gif', 'gif-to-pdf', 'html', 'htmlfixed', 'jpeg', 'jpeg-to-pdf', 'Library', 'Linux', 'macOS', 'mhtml', 'Microsoft', 'mobi', 'mono', 'mvc', 'net-core', 'net-standard', 'netcore', 'netstandard', 'netstandard2.0', 'odt', 'Office', 'opendocument', 'openoffice', 'openxps', 'ott', 'pcl', 'pcl6', 'PCLXL', 'pdf', 'pdf-to-bmp', 'pdf-to-jpeg', 'pdf-to-png', 'pdf1.5', 'pdf17', 'png', 'png-to-pdf', 'postscript', 'print', 'ps', 'render', 'rtf', 'rtf1.9', 'Standard', 'svg', 'swf', 'text', 'tiff', 'tiff-to-pdf', 'txt', 'Visual-Studio', 'VisualStudio', 'Windows-Forms', 'winforms', 'wmf-to-pdf', 'word-to-bmp', 'word-to-emf', 'word-to-epub', 'word-to-gif', 'word-to-html', 'word-to-jpeg', 'word-to-markdown', 'word-to-md', 'word-to-mhtml', 'word-to-pcl', 'word-to-pdf', 'word-to-png', 'word-to-postscript', 'word-to-ps', 'wordml', 'xamarin-android', 'xamarin-ios', 'xamarin-mac', 'xamlfixed', 'xamlflow', 'xps', 'md', 'markdown', 'pdf', 'XamlFlowPack', 'Windows', 'Mobile', 'Android', 'iOS', 'Amazon-Web-Services', 'AWS', '.netcore2.0', '.netcore2.1', '.netcore3.0', '.net5.0', 'MonoDevelop', 'LINQ', 'Rendering', 'OLE', 'VBA']
+tags: ['doc-to-bmp', 'doc-to-emf', 'doc-to-html', 'doc-to-jpeg', 'doc-to-pdf', 'doc-to-png', 'doc-to-postscript', 'doc-to-ps', 'docx-to-epub', 'docx-to-gif', 'docx-to-html', 'docx-to-markdown', 'docx-to-md', 'docx-to-mhtml', 'docx-to-pcl', 'docx-to-pdf', 'word-to-bmp', 'word-to-emf', 'word-to-epub', 'word-to-gif', 'word-to-html', 'word-to-jpeg', 'word-to-markdown', 'word-to-md', 'word-to-mhtml', 'word-to-pcl', 'word-to-pdf', 'word-to-png', 'word-to-postscript', 'word-to-ps']
 weight:  1
 ---
 
@@ -32,23 +32,23 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Words/" text="N
 
 [Product Page](https://products.aspose.com/words/net/) | [Docs](https://docs.aspose.com/words/net/) | [Demos](https://products.aspose.app/words/family) | [API Reference](https://reference.aspose.com/words/net/) | [Examples](https://github.com/aspose-words/Aspose.Words-for-.NET/tree/master/Examples) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
-[Aspose.Words for .NET](https://products.aspose.com/words/net/) is a class library that can be used by C#, F#, VB.NET developers for a variety of document-processing tasks, including document generation, modification, converting, and rendering. Our library is self-sufficient and doesn't depend on any third-party software, such as Microsoft Word&reg;, OpenOffice&reg;, and similar office suites.
+Aspose.Words for .NET is a class library that can be used by C#, F#, VB.NET developers for a variety of document-processing tasks, including document generation, modification, converting, and rendering. Our library is self-sufficient and doesn't depend on any third-party software, such as Microsoft Word&reg;, OpenOffice&reg;, and similar office suites.
 
 ## Why download Aspose.Words for .NET?
 
-This package can be used to develop applications for a vast range of operating systems (Windows, Linux, macOS, iOS, Android) and [platforms](https://docs.aspose.com/words/net/supported-platforms/) such as [Windows Azure](https://docs.aspose.com/words/net/windows-azure-platform/), Xamarin.Android, Xamarin.iOS, Xamarin.Mac. You can build both 32-bit and 64-bit software, including ASP.NET, WCF, and WinForms. Also, you can use our library via COM Interop from ASP, PHP, Perl, and Python programming languages.
+This package can be used to develop applications for a vast range of operating systems (Windows, Linux, macOS, iOS, Android) and platforms such as Windows Azure, Xamarin.Android, Xamarin.iOS, Xamarin.Mac. You can build both 32-bit and 64-bit software, including ASP.NET, WCF, and WinForms. Also, you can use our library via COM Interop from ASP, PHP, Perl, and Python programming languages.
 
-> *Please note*: our library implies the use of [.NET programming languages](https://en.wikipedia.org/wiki/List_of_CLI_languages), compatible with CLI infrastructure. If you require a corresponding native library for C++, you can download it from [here](https://www.nuget.org/packages/Aspose.Words.Cpp/).
+> *Please note*: our library implies the use of .NET programming languages, compatible with CLI infrastructure. If you require a corresponding native library for C++, you can download it from [here](https://www.nuget.org/packages/Aspose.Words.Cpp/).
 
 ## Functionality
 
-- Provides comprehensive [document import and export](https://docs.aspose.com/words/net/loading-saving-and-converting/) with [35+ supported file formats](https://docs.aspose.com/words/net/supported-document-formats/). This allows developers to [convert documents](https://docs.aspose.com/words/net/convert-a-document/) from [one file format](https://apireference.aspose.com/words/net/aspose.words/loadformat) to [another](https://apireference.aspose.com/words/net/aspose.words/saveformat). For example, you can convert PDF to Word and Word to PDF documents with professional quality.
+- Provides comprehensive document import and export with 35+ supported file formats. This allows developers to convert documents from one file format to another. For example, you can convert PDF to Word and Word to PDF documents with professional quality.
 - Provides full access to all Word and OpenOffice document elements, including formatting properties and styling.
-- Provides [high-fidelity rendering](https://docs.aspose.com/words/net/rendering/) of Word documents to PDF, JPG, PNG and other imaging formats.
-- Provides the ability to [print](https://docs.aspose.com/words/net/print-a-document-programmatically-or-using-dialogs/) OpenOffice and Word documents programmatically."
-- Supports powerful [Report Generation with Mail Merge](https://docs.aspose.com/words/net/mail-merge-and-reporting/) functionality, which allows to create documents dynamically using templates and data sources.
-- Contains a flexible [LINQ Reporting Engine](https://docs.aspose.com/words/net/linq-reporting-engine/), designed to fetch data from databases, XML, JSON, OData, external documents.
-- Provides a rich set of utility functions, you can use to [split a document](https://docs.aspose.com/words/net/split-a-document/) into parts, [join documents together](https://docs.aspose.com/words/net/insert-and-append-documents/), [compare documents](https://docs.aspose.com/words/net/compare-documents/), and much more.
+- Provides high-fidelity rendering of Word documents to PDF, JPG, PNG and other imaging formats.
+- Provides the ability to print OpenOffice and Word documents programmatically.
+- Supports powerful Report Generation with Mail Merge functionality, which allows to create documents dynamically using templates and data sources.
+- Contains a flexible LINQ Reporting Engine, designed to fetch data from databases, XML, JSON, OData, external documents.
+- Provides a rich set of utility functions, you can use to split a document into parts, join documents together, compare documents, and much more.
 
 To become familiar with the most popular Aspose.Words functionality, please have a look at our [free online applications](https://products.aspose.app/words/family).
 
@@ -76,8 +76,6 @@ To become familiar with the most popular Aspose.Words functionality, please have
 **Markup:** XamlFixed, HtmlFixed, XamlFlow, XamlFlowPack\
 **Image:** SVG, TIFF, PNG, BMP, JPEG, GIF\
 **Metafile:** EMF
-
-[Product Page](https://products.aspose.com/words/net/) | [Docs](https://docs.aspose.com/words/net/) | [Demos](https://products.aspose.app/words/family) | [API Reference](https://reference.aspose.com/words/net/) | [Examples](https://github.com/aspose-words/Aspose.Words-for-.NET/tree/master/Examples) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
 {{< Common/hr >}}
 
