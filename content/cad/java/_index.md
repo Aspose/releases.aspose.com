@@ -48,13 +48,13 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 
 ## Why download Aspose.CAD for Java?
 
-[Aspose.CAD for Java](https://products.aspose.com/cad/java) allows developers to convert AutoCAD&reg; DWG and DXF files to PDF and Raster images. It is a native API and does not require AutoCAD&reg; or any other software to be installed. You can also convert the selected layers and layouts from the AutoCAD&reg; files. The conversion to PDF and Raster images is of very high quality.
+Aspose.CAD for Java allows developers to convert AutoCAD&reg; DWG and DXF files to PDF and Raster images. It is a native API and does not require AutoCAD&reg; or any other software to be installed. You can also convert the selected layers and layouts from the AutoCAD&reg; files. The conversion to PDF and Raster images is of very high quality.
 
 ## CAD File Processing
 
-- [Adjust CAD drawing size](https://docs.aspose.com/cad/java/adjusting-cad-drawing-size/).
+- Adjust CAD drawing size.
 - Convert CAD drawings to other file formats.
-- [Export 3D AutoCAD&reg; Images to PDF](https://docs.aspose.com/cad/java/exporting-cad/).
+- Export 3D AutoCAD&reg; Images to PDF.
 - Exporting CAD Layouts to PDF.
 - Set timeout on save to avoid spending lot of time or consuming a lot of memory.
 
@@ -81,8 +81,6 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 - **macOS:** Mac OS X
 - **Linux:** Ubuntu, OpenSUSE, CentOS, and others
 - **Java Versions:** `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)`
-
-[Product Page](https://products.aspose.com/cad/java) | [Docs](https://docs.aspose.com/cad/java/) | [Demos](https://products.aspose.app/cad/family) | [API Reference](https://apireference.aspose.com/cad/java) | [Examples](https://github.com/aspose-cad/Aspose.CAD-for-Java) | [Blog](https://blog.aspose.com/category/cad/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cad) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
