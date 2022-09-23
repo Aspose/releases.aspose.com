@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "62"
 homepage_package_type: "Maven"
 homepage_package_link: "https://repository.aspose.com/3d/"
-tags: ['Java-3D-API', 'Java-3D-Component', 'Java-3D-Library', 'Java-3D-Class', '3D', '3D-Geometry3D-Manufecturing', '3D-Modeling', '3D-Objects', '3D-PDF', '3D-Scene', '3D-Studio-Max', '3D-Viewports', '3DS', '3D-to-GLTF2.0', '3D-to-HTML', '3D-to-PDF', '3MF', 'AMF', 'Animation', 'ASE', 'Aspose.3D', 'Aspose.Total', 'AutoCAD', 'Autodesk', 'Collada', 'Conholdate', 'Conholdate.Total', 'Cylinder', 'DAE', 'Darco', 'DirectX', 'DRC', 'DXF', 'FBX', 'Geometry', 'gITF', 'HTML', 'JT', 'Linear-Extrusion', 'Mesh', 'Morph', 'NURBS', 'OBJ', 'PDF', 'PLY', 'PointCloud', 'Polygons', 'Redenring', 'RVM', 'Skeleton', 'STL', 'U3D', 'VRML', 'Wavefront', 'X']
+tags: ['3D-Modeling', '3D-Objects', '3D-PDF', '3D-Scene', '3D-Studio-Max', '3D-Viewports', '3DS', '3D-to-GLTF2.0', '3D-to-HTML', '3D-to-PDF', '3MF', 'AMF', 'Animation', 'ASE', 'Aspose.3D', 'Aspose.Total', 'AutoCAD', 'Autodesk', 'Collada', 'Conholdate', 'Conholdate.Total', 'Cylinder', 'DAE', 'Darco', 'DirectX', 'DRC', 'DXF', 'FBX', 'Geometry', 'gITF', 'HTML', 'JT', 'Linear-Extrusion', 'Mesh', 'Morph', 'NURBS', 'OBJ', 'PDF', 'PLY', 'PointCloud', 'Polygons', 'Redenring', 'RVM', 'Skeleton', 'STL', 'U3D', 'VRML', 'Wavefront', 'X']
 weight:  2
 ---
 
@@ -38,7 +38,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
       <dependency>
       <groupId>com.aspose</groupId>
       <artifactId>aspose-3d</artifactId>
-      <version>22.9</version>
+      <version>22.8</version>
       </dependency>
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
@@ -48,17 +48,17 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 
 [Product Page](https://products.aspose.com/3d/java) | [Docs](https://docs.aspose.com/3d/java/) | [Demos](https://products.aspose.app/3d/family) | [API Reference](https://apireference.aspose.com/3d/java) | [Examples](https://github.com/aspose-3d/Aspose.3D-for-Java) | [Blog](https://blog.aspose.com/category/3d/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/3d) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/) | [EULA](https://about.aspose.com/legal/eula/)
 
-[Aspose.3D for Java API](https://products.aspose.com/3d/java) is built to create, edit, manipulate and save 3D formats. It empowers Java applications to connect with 3D documents without installing any software package on the computer. Aspose.3D for Java API assist developers to model and create massive worlds in games, superb scenes for design visualization, and engage virtual reality experiences. The API is user friendly and saves time and money than creating a similar solution from scratch.
+Aspose.3D for Java API is built to create, edit, manipulate and save 3D formats. It empowers Java applications to connect with 3D documents without installing any software package on the computer. Aspose.3D for Java API assist developers to model and create massive worlds in games, superb scenes for design visualization, and engage virtual reality experiences. The API is user friendly and saves time and money than creating a similar solution from scratch.
 
 ## 3D File Processing Features
 
-- [Create](https://docs.aspose.com/3d/java/create-an-empty-3d-document/), load and save 3D scene.
+- Create, load and save 3D scene.
 - Work with 3D models and 3D objects.
 - Setup target camera in 3D document.
 - Add Node hierarchy and Share Geometric data of Mesh among Multiple Nodes of 3D Scene.
 - Create 3D Mesh and expose Geometric Transformation.
 - Convert all Polygons to Triangles in 3D Model.
-- Work with [linear extrusion](https://docs.aspose.com/3d/java/working-with-linear-extrusion/), [cylinder](https://docs.aspose.com/3d/java/working-with-cylinder/), and [PointCloud](https://docs.aspose.com/3d/java/working-with-pointcloud/).
+- Work with linear extrusion, cylinder, and PointCloud.
 
 ### Supported 3D File Formats
 
@@ -82,8 +82,6 @@ HTML
 - **macOS:** Mac OS X
 - **Linux:** Ubuntu, CentOS, and others
 - **Java Versions:** `J2SE 9.0 (1.9+)` or above (for example Java 11)
-
-[Product Page](https://products.aspose.com/3d/java) | [Docs](https://docs.aspose.com/3d/java/) | [Demos](https://products.aspose.app/3d/family) | [API Reference](https://apireference.aspose.com/3d/java) | [Examples](https://github.com/aspose-3d/Aspose.3D-for-Java) | [Blog](https://blog.aspose.com/category/3d/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/3d) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
