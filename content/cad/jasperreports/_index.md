@@ -11,6 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "279"
 homepage_package_type: "Maven"
 homepage_package_link: "https://repository.aspose.com/repo/com/aspose/aspose-cad-jasperreports/"
+tags: ['CAD', 'Report', 'JasperReport', 'DXF', 'DWF', 'DWFx', 'IFC', 'IGES', 'FBX', 'DWG', 'DWT', 'PLT', 'DGN', 'STL', 'OBJ', 'HPGFL', 'PCL', 'PDF', 'SVG', 'CF2', '3D', 'WMF', 'SVG', 'JPEG2000', 'PSD', 'TIFF', 'Java', 'JAR']
 weight:  3
 ---
 
@@ -20,6 +21,13 @@ weight:  3
 {{< Common/paragraph class="package-instructions">}}
 A standalone class library to extend JasperReports functionality to process & render CAD Drawings without requiring AutoCAD or any other CAD software. The CAD Class Library allows high quality conversion of DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CFF2 files, layouts and layers to PDF & raster image formats.
 You can easily use aspose-cad-jasperreports for Java directly from a {{< Common/link href="https://repository.aspose.com/cad/" text="Maven"  >}} based project by adding following configurations to the pom.xml.
+
+{{< Common/h4 class=" " text="Try Free Online CAD Drawing Manipulation Apps" >}}
+{{< Common/ul>}}
+{{< Common/li >}} {{< Common/link href="https://products.aspose.app/cad/viewer" text="Free CAD Viewer Online App to view CAD and BIM drawings"  >}} {{< /Common/li >}}
+{{< Common/li >}} {{< Common/link href="https://products.aspose.app/cad/conversion" text="Free CAD Converter Online App to convert BIM and CAD to various supported formats."  >}} {{< /Common/li >}}
+{{< Common/li >}} {{< Common/link href="https://products.aspose.app/cad/text-extractor" text="Free Text Extractor Online App to extract text from the BIM or CAD drawings"  >}} {{< /Common/li >}}
+{{< /Common/ul>}}
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
    {{< consolebox/textarea id="repository" >}}
@@ -53,6 +61,11 @@ You can easily use aspose-cad-jasperreports for Java directly from a {{< Common/
 - High Fidelity to Report Design - Aspose.CAD for JasperReports exports reports in such a way that they look identical to reports exported by the built-in exporters of JasperReports.
 - Multipage export - Aspose.CAD for JasperReports supports multipage export to the following formats: GIF, TIFF, PDF.
 - Batch export - Aspose.CAD for JasperReports supports export reports from JasperReports in batch mode. Each page of the report will be saved as a separate file.
+- Export JasperReport to WMF
+- Export JasperReport to SVG
+- Export JasperReport to JPEG2000
+- Export JasperReport to PSD
+- Export JasperReport to TIFF 
 
 ### Supported File Formats
 
@@ -66,7 +79,11 @@ You can easily use aspose-cad-jasperreports for Java directly from a {{< Common/
 **Vector:** SVG\
 **Other:** CF2
 
-[Product Page](https://products.aspose.com/cad/jasperreports/) | [Docs](https://docs.aspose.com/cad/jasperreports/) | [API Reference](https://reference.aspose.com/cad/) | [Blog](https://blog.aspose.com/category/cad/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cad/19) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+### System Requirements
+
+- Java 2 Platform Standard Edition 1.6 or higher.
+- JasperReports 6.3.0 or higher.
+- JasperReports Server 6.3.0 or higher
 
 {{< Common/hr >}}
 
