@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "13"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.3D/"
-tags: ['.NET-3D-API', '.NET-3D-Component', '.NET-3D-Library', '3D', '3D-Geometry3D-Manufecturing', '3D-Modeling', '3D-Objects', '3D-PDF', '3D-Scene', '3D-Studio-Max', '3D-Viewports', '3DS', '3D-to-GLTF2.0', '3D-to-HTML', '3D-to-PDF', '3MF', 'AMF', 'Animation', 'ASE', 'Aspose.3D', 'Aspose.Total', 'AutoCAD', 'Autodesk', 'Collada', 'Conholdate', 'Conholdate.Total', 'Cylinder', 'DAE', 'Darco', 'DirectX', 'DRC', 'DXF', 'FBX', 'Geometry', 'gITF', 'HTML', 'JT', 'Linear-Extrusion', 'Mesh', 'Morph', 'NURBS', 'OBJ', 'PDF', 'PLY', 'PointCloud', 'Polygons', 'Redenring', 'RVM', 'Skeleton', 'STL', 'U3D', 'VRML', 'Wavefront', 'X']
+tags: ['3D', '3D-Modeling', '3D-Objects', '3D-PDF', '3D-Scene', '3D-Studio-Max', '3D-Viewports', '3DS', '3D-to-GLTF2.0', '3D-to-HTML', '3D-to-PDF', '3MF', 'AMF', 'Animation', 'ASE', 'Aspose.3D', 'Aspose.Total', 'AutoCAD', 'Autodesk', 'Collada', 'Conholdate', 'Conholdate.Total', 'Cylinder', 'DAE', 'Darco', 'DirectX', 'DRC', 'DXF', 'FBX', 'Geometry', 'gITF', 'HTML', 'JT', 'Linear-Extrusion', 'Mesh', 'Morph', 'NURBS', 'OBJ', 'PDF', 'PLY', 'PointCloud', 'Polygons', 'Redenring', 'RVM', 'Skeleton', 'STL', 'U3D', 'VRML', 'Wavefront', 'X']
 weight:  1
 ---
 
@@ -32,7 +32,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.3D/" text="NuGe
 
 [Product Page](https://products.aspose.com/3d/net/) | [Docs](https://docs.aspose.com/3d/net/) | [Demos](https://products.aspose.app/3d/family) | [API Reference](https://reference.aspose.com/3d/net/) | [Examples](https://github.com/aspose-3d/Aspose.3D-for-.NET/tree/master/Examples) | [Blog](https://blog.aspose.com/category/3d/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/3d) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-[Aspose.3D for .NET](https://products.aspose.com/3d/net/) empowers .NET applications to connect with 3D document formats. 3D .NET API lets engineers read, convert, build, alter, and control the substance of the [3D document formats](https://docs.aspose.com/3d/net/supported-file-formats/) without any 3D modeling and rendering software installed on the machine.
+Aspose.3D for .NET empowers .NET applications to connect with 3D document formats. 3D .NET API lets engineers read, convert, build, alter, and control the substance of the 3D document formats without any 3D modeling and rendering software installed on the machine.
 
 ## Why download Aspose.3D for .NET?
 
@@ -44,13 +44,13 @@ Aspose.3D for .NET can be used on any operating system (Windows, MacOS, Linux) t
 
 ## 3D File Processing Features
 
-- [Import 3D scenes from PDF](https://docs.aspose.com/3d/net/import-3d-scenes-and-contents-from-a-pdf/).
+- Import 3D scenes from PDF.
 - Import, create, customize, & save 3D scenes.
-- [Create 3D mesh](https://docs.aspose.com/3d/net/create-3d-mesh-and-scene/) & [scale geometries of a 3D scene](https://docs.aspose.com/3d/net/scale-geometries-of-a-3d-scene/).
+- Create 3D mesh & scale geometries of a 3D scene.
 - Configure cube by setting up normals or UV.
 - Perform element formatting using 3D transformations.
 - Share geometry data among multiple nodes of a mesh.
-- [Add 3D scene animation](https://docs.aspose.com/3d/net/add-animation-property-and-setup-target-camera-in-3d-document/).
+- Add 3D scene animation.
 - Work with 3D objects & models.
 
 ### Read & Write 3D Formats
@@ -76,9 +76,6 @@ Aspose.3D for .NET can be used on any operating system (Windows, MacOS, Linux) t
 **DirectX:** X (ASCII/Binary)\
 **Siemens:** JT\
 **Other:** DXF, ASF, VRML, 3MF
-
-[Product Page](https://products.aspose.com/3d/net/) | [Docs](https://docs.aspose.com/3d/net/) | [Demos](https://products.aspose.app/3d/family) | [API Reference](https://reference.aspose.com/3d/net/) | [Examples](https://github.com/aspose-3d/Aspose.3D-for-.NET/tree/master/Examples) | [Blog](https://blog.aspose.com/category/3d/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/3d) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
 
 {{< Common/hr >}}
 
