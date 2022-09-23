@@ -26,7 +26,7 @@ Please use the following {{< Common/link href="https://pypi.org/project/aspose-3
 
 ### 3D Scene Features
 
-- [Create, read, save, import or export a 3D scene](https://docs.aspose.com/3d/python-net/creating-loading-and-saving-3d-scene/).
+- Create, read, save, import or export a 3D scene.
 - Define metadata for the 3D scene to add asset information.
 - Ability to flip the coordinate system in the supported (`3DS`, `STL`, `OBJ`, & `U3D`) 3D formats.
 - Convert 3D Mesh into custom binary format.
@@ -77,8 +77,6 @@ Please use the following {{< Common/link href="https://pypi.org/project/aspose-3
 - Ability to program the GPU and configure the graphics hardware for 3D rendering.
 - Navigate the camera in the 3D scene and place it at your desired position.
 - Render a panoramic view of the 3D scene and export it to any of the supported conversion formats.
-
-Please visit the [official documentation](https://docs.aspose.com/3d/python-net/) for a more detailed list of features.
 
 ### Read & Write 3D File Formats
 
@@ -134,8 +132,6 @@ Your machine does not need to have modeling and rendering software installed.
 - AMD Radeon 7700 series and newer
 - NVIDIA GeForce 600 series and newer
 - Intel Skylake and newer
-
-[Product Page](https://products.aspose.com/3d/python-net/) | [Docs](https://docs.aspose.com/3d/python-net/) | [Demos](https://products.aspose.app/3d/family/) | [Blog](https://blog.aspose.com/categories/aspose.3d-product-family/) | [Code Samples](https://github.com/aspose-3d/Aspose.3D-for-Python-via-.NET) | [Free Support](https://forum.aspose.com/c/3d/18) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
