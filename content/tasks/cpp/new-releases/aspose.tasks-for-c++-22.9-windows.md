@@ -8,7 +8,7 @@ folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-22.9-windows/"
 folder_name: "Aspose.Tasks for C++ 22.9 Windows"
 download_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-22.9-windows/4edc067ae00a891a6ac2febc36837150-42-7931"
 download_text: "Download"
-intro_text: "It contains Aspose.Tasks for C++ 22.8 windows only binaries"
+intro_text: "It contains Aspose.Tasks for C++ 22.9 windows only binaries"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 23/9/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 205.84MB"
@@ -43,7 +43,7 @@ weight: 136
       <h4>Release Notes</h4><div><a href='https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-9-release-notes'>https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-9-release-notes</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 22.8 windows only binaries</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 22.9 windows only binaries</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
