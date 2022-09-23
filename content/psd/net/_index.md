@@ -13,7 +13,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "67"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.PSD/"
-tags: ['Aspose.PSD', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'Windows', '.NET-Framework', '.NET-Compact-Framework', 'Visual-Studio', 'API', 'Component', 'Library', 'C#', 'CSharp', 'VB.NET', 'ASP.NET', 'PSD-to-JPEG', 'PSD-to-JPG', 'PSD-to-PDF', 'PSD-to-PNG', 'AI-to-JPG', 'AI-to-JPEG', 'AI-to-PDF', 'AI-to-PNG', 'Image-Manipulation', 'PSD-Crop', 'Drawing', 'Image', 'PSD', 'PSB', 'TIFF', 'JPEG', 'PNG', 'GIF', 'BMP', 'JPEG2000', 'PDF', 'AI', 'Image-loading', 'Raw-Data-Processing', 'PSD-Compression', 'Rotate', 'Flip', 'Scale', 'Dithering', 'Crop', 'Vector-to-Raster', 'Vector', 'Raster', 'XMP-Data-Support', '', 'Shapes', 'Matrix', 'Transformation', 'Mask', 'Layer', 'Clipping', 'JPG-to-PSD', 'PNG-to-PSD', 'TIFF-to-PSD', 'AI-to-PSD', 'Illustrator', 'Photoshop', 'Adobe', 'Blending', 'Smart-Objects', 'Graphics', 'CMYK', 'ICC', 'TIF', 'JPG', 'Effects', 'Filters', 'Masking', 'Watermark', 'Rendering', 'Grayscale', 'RGBA', 'LAB', 'Images', 'Layers', 'Assembly', '.NET', 'VisualStudio']
+tags: ['PSD-to-JPEG', 'PSD-to-JPG', 'PSD-to-PDF', 'PSD-to-PNG', 'AI-to-JPG', 'AI-to-JPEG', 'AI-to-PDF', 'AI-to-PNG']
 weight:  1
 ---
 
@@ -34,7 +34,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.PSD/" text="NuG
 
 [Product Page](https://products.aspose.com/psd/net/) | [Docs](https://docs.aspose.com/psd/net/) | [Demos](https://products.aspose.app/psd/family) | [API Reference](https://reference.aspose.com/psd/net/) | [Examples](https://github.com/aspose-psd/Aspose.PSD-for-.NET) | [Blog](https://blog.aspose.com/category/psd/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/psd) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-A standalone .NET API to [read, write, process & convert Adobe Photoshop&reg;](https://products.aspose.com/psd/net/) PSD & PSB formats without needing to install Adobe Photoshop&reg;.
+A standalone .NET API to read, write, process & convert Adobe Photoshop&reg; PSD & PSB formats without needing to install Adobe Photoshop&reg;.
 
 ## Why download Aspose.PSD for .NET?
 
@@ -43,9 +43,9 @@ Aspose.PSD for .NET API allows you to create and edit the Photoshop&reg; files a
 ## Photoshop&reg; File Processing Features
 
 - Create Photoshop&reg; PSD & PSB files via API.
-- Export PSD images to [popular image formats](https://docs.aspose.com/psd/net/supported-file-formats/).
+- Export PSD images to popular image formats.
 - Binarization with fixed & Otsu threshold.
-- [Convert GIF image layers to TIFF](https://docs.aspose.com/psd/net/converting-images/) & CMYK PSD to CMYK TIFF.
+- Convert GIF image layers to TIFF & CMYK PSD to CMYK TIFF.
 - Combine, expand, or crop images.
 - Create, read, and write XMP data.
 - Set default font as a replacement for all the missing fonts.
@@ -72,8 +72,6 @@ Aspose.PSD for .NET API allows you to create and edit the Photoshop&reg; files a
 ### Read Formats
 
 **Adobe Illustrator&reg;:** AI
-
-[Product Page](https://products.aspose.com/psd/net/) | [Docs](https://docs.aspose.com/psd/net/) | [Demos](https://products.aspose.app/psd/family) | [API Reference](https://reference.aspose.com/psd/net/) | [Examples](https://github.com/aspose-psd/Aspose.PSD-for-.NET) | [Blog](https://blog.aspose.com/category/psd/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/psd) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 

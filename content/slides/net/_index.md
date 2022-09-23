@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "29"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Slides.NET/"
-tags: ['.NET', '.net-core', '.net-standard', '.netcore', '.netstandard', '.netstandard2.0', 'API', 'ASP.NET', 'aspnetcore', 'Aspose', 'Aspose.Total', 'Aspose.Slides', 'Slides', 'Assembly', 'C#', 'component', 'Conholdate', 'Conholdate.Total', 'convert', 'converter', 'load', 'save', 'edit', 'update', 'core', 'cross-platform', 'csharp', 'PPT', 'ppt-to-bmp', 'ppt-to-html', 'ppt-to-jpeg', 'ppt-to-pdf', 'ppt-to-png', 'ppt-to-svg', 'ppt-to-image', 'merge-ppt', 'convert-ppt', 'presentation', 'presentation-to-bmp', 'presentation-to-html', 'presentation-to-jpeg', 'presentation-to-pdf', 'presentation-to-png', 'presentation-to-svg', 'presentation-to-image', 'merge-pptx', 'convert-pptx', 'presentations', 'PPTX', 'pptx-to-bmp', 'pptx-to-html', 'pptx-to-jpeg', 'pptx-to-pdf', 'pptx-to-png', 'pptx-to-svg', 'pptx-to-image', 'merge-pptx', 'convert-pptx', 'dotnet-core', 'dotnet-standard', 'dotnetcore', 'dotnetstandard', 'Fast', 'Framework', 'Library', 'Linux', 'macOS', 'Microsoft', 'mono', 'mvc', 'net-core', 'net-standard', 'netcore', 'netstandard', 'netstandard2.0', 'Office', 'opendocument', 'openoffice', 'print', 'render', 'Standard', 'SVG', 'TIFF', 'Visual-Studio', 'VisualStudio', 'POT', 'POTX', 'POTM', 'PPS', 'PPSX', 'PPTM', 'ODP', 'OTP', 'EMF', 'PDF', 'XPS', 'JPEG', 'PNG', 'GIF', 'BMP', 'SWF', 'HTML', 'VBA', 'COM', '3D', 'Animation', 'ppt-to-pptx', 'powerpoint-to-pdf', 'pptx-to-tiff', 'powerpoint-to-xps', 'pptx-to-xps', 'powerpoint-to-tiff', 'powerpoint-to-html', 'slide-to-html', 'OLE']
+tags: ['ppt-to-bmp', 'ppt-to-html', 'ppt-to-jpeg', 'ppt-to-pdf', 'ppt-to-png', 'ppt-to-svg', 'ppt-to-image','presentation-to-bmp', 'presentation-to-html', 'presentation-to-jpeg', 'presentation-to-pdf', 'presentation-to-png', 'presentation-to-svg', 'presentation-to-image', 'pptx-to-bmp', 'pptx-to-html', 'pptx-to-jpeg', 'pptx-to-pdf', 'pptx-to-png', 'pptx-to-svg', 'pptx-to-image', 'ppt-to-pptx', 'powerpoint-to-pdf', 'pptx-to-tiff', 'powerpoint-to-xps', 'pptx-to-xps', 'powerpoint-to-tiff', 'powerpoint-to-html', 'slide-to-html']
 weight:  1
 ---
 
@@ -34,12 +34,12 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Slides.Net/" te
 
 ## Why download Aspose.Slides for .NET?
 
-[Aspose.Slides for .NET](https://products.aspose.com/slides/net/) is a cross-platform API that helps in developing applications with the ability to create, manipulate, inspect, or convert Microsoft PowerPoint&reg; and OpenOffice&reg; presentation files without any dependency.
+Aspose.Slides for .NET is a cross-platform API that helps in developing applications with the ability to create, manipulate, inspect, or convert Microsoft PowerPoint&reg; and OpenOffice&reg; presentation files without any dependency.
 
 ## Presentation Processing Features
 
-- Intuitive Document Object Model: Aspose.Slides' object model gives complete control over presentation elements such as slides, shapes, frames, charts, multimedia, embedded [objects](https://docs.aspose.com/slides/net/manage-ole/), [controls](https://docs.aspose.com/slides/net/activex/), tables, text, [transitions](https://docs.aspose.com/slides/net/powerpoint-animation/) and formatting. Developers can use this object model to create complex PowerPoint&reg; File Processing applications that can dynamically generate presentations, create or manipulate presentation slides, apply transitions or add animation effects.
-- [File Format Conversion](https://docs.aspose.com/slides/net/supported-file-formats/): API allows to load & convert PowerPoint&reg; presentation, template & slideshow file formats to other supported formats without needing to understand the underlying structure of source or destination formats. The conversion process is simple yet reliable with results identical to the original file in its native application.
+- Intuitive Document Object Model: Aspose.Slides' object model gives complete control over presentation elements such as slides, shapes, frames, charts, multimedia, embedded objects, controls, tables, text, transitions and formatting. Developers can use this object model to create complex PowerPoint&reg; File Processing applications that can dynamically generate presentations, create or manipulate presentation slides, apply transitions or add animation effects.
+- File Format Conversion: API allows to load & convert PowerPoint&reg; presentation, template & slideshow file formats to other supported formats without needing to understand the underlying structure of source or destination formats. The conversion process is simple yet reliable with results identical to the original file in its native application.
 - Rendering & Printing: Developers can render the whole presentation or selective slides to fixed-layout formats such as PDF & XPS as well as raster & vector image formats including PNG, JPEG, SVG, and so on. It is also possible to print presentations via physical or virtual printers.
 - Presentation Security: Load protected presentations or control access to presentations, slides, or objects via advanced security features.
 - Availability of 24 pre-defined textures & 48 patterns for quick styling.
@@ -56,8 +56,6 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Slides.Net/" te
 **Fixed Layout:** PDF, XPS\
 **Image:** JPEG, PNG, GIF, BMP, SVG\
 **Web:** HTML
-
-[Product Page](https://products.aspose.com/slides/net/) | [Docs](https://docs.aspose.com/slides/net/) | [Demos](https://products.aspose.app/slides/family) | [API Reference](https://reference.aspose.com/slides/net/) | [Examples](https://github.com/aspose-slides/Aspose.Slides-for-.NET) | [Blog](https://blog.aspose.com/category/slides/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/slides) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 

@@ -39,7 +39,7 @@ weight: 75
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="http://localhost:1313/3d/java/aspose-3d-for-java-21-3-release-notes/">http://localhost:1313/3d/java/aspose-3d-for-java-21-3-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/3d/java/aspose-3d-for-java-21-3-release-notes/">https://docs.aspose.com/3d/java/aspose-3d-for-java-21-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

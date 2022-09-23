@@ -5,6 +5,7 @@ title = "Releases - aspose.com"
 theme =  "downloads-common-theme"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreErrors = ["error-disable-taxonomy"]
+enableRobotsTXT = true
 [params]
     # googleAnalytics = ""
      googletagmanager = "GTM-NJMHSH"

@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "7"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.GIS/"
-tags: ['.NET', 'API', 'ascii', 'ASP.NET', 'Aspose', 'Aspose.GIS', 'Aspose.Total', 'Assembly', 'bmp', 'C#', 'Component', 'Conholdate', 'Conholdate.Total', 'Convert', 'Converter', 'cpg', 'csharp', 'dat', 'database', 'dbf', 'dbf', 'epsg', 'format', 'gdb', 'geojson', 'geojson-to-shape', 'geojson-to-topojson', 'geometries', 'geometry', 'geoprocessing', 'geotiff', 'gml', 'gpx', 'id', 'jpg', 'kml', 'Library', 'linq', 'map', 'Microsoft', 'mif', 'mvc', 'osm', 'png', 'postgis', 'qix', 'raster', 'render', 'rendering', 'services', 'shape-to-geojson', 'shapes', 'shp', 'shx', 'spatial', 'sqlserver', 'srid', 'svg', 'tab', 'tif', 'tiff', 'topojson', 'topojson-to-geojson', 'vector', 'VisualStudio', 'windows-forms', 'winforms', 'wkt', 'ESRI', 'Geography', 'Markup', 'Keyhole', 'MapInfo', 'OpenStreetMap', 'scalable', 'bitmap', 'graphics']
+tags: ['dbf', 'dbf', 'epsg', 'format', 'gdb', 'geojson', 'geojson-to-shape', 'geojson-to-topojson', 'geometries', 'geometry', 'geoprocessing', 'geotiff', 'gml', 'gpx', 'id', 'jpg', 'kml', 'linq', 'map', 'mif', 'mvc', 'osm', 'png', 'postgis', 'qix', 'raster', 'render', 'rendering', 'services', 'shape-to-geojson', 'shapes', 'shp', 'shx', 'spatial']
 weight:  1
 ---
 
@@ -34,9 +34,9 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.GIS/" text="NuG
 
 ## Why download Aspose.GIS for .NET?
 
-[Aspose.GIS for .NET](https://products.aspose.com/gis/net/) API helps developers render maps, read, write & convert geographic information fetched from vector-based geospatial data formats without needing any other GIS software. The GIS .NET API supports working with Shapefile, GeoJSON, ESRI File Geodatabase (FileGDB), Geography Markup Language (GML), Keyhole Markup Language (KML), Scalable Vector Graphics (SVG), and many others.
+Aspose.GIS for .NET API helps developers render maps, read, write & convert geographic information fetched from vector-based geospatial data formats without needing any other GIS software. The GIS .NET API supports working with Shapefile, GeoJSON, ESRI File Geodatabase (FileGDB), Geography Markup Language (GML), Keyhole Markup Language (KML), Scalable Vector Graphics (SVG), and many others.
 
-It allows you to read and write GIS data, [convert GIS file formats](https://docs.aspose.com/gis/net/conversion/), and [render maps](https://docs.aspose.com/gis/net/map-rendering/) to SVG format. You can also create and analyze feature geometries as well as create basic geometries, such as Point, MultiPoint, Line, Multiline, and Polygon from scratch. The API supports to build non-linear (curve) geometries, linearize non-linear geometries, and control precision mode of calculations.
+It allows you to read and write GIS data, convert GIS file formats, and render maps to SVG format. You can also create and analyze feature geometries as well as create basic geometries, such as Point, MultiPoint, Line, Multiline, and Polygon from scratch. The API supports to build non-linear (curve) geometries, linearize non-linear geometries, and control precision mode of calculations.
 
 ## GIS API Features
 
@@ -45,15 +45,15 @@ It allows you to read and write GIS data, [convert GIS file formats](https://doc
 - Read layer features by index.
 - Fetch metadata about vector layers.
 - Create new layers and datasets as well as work with a multi-layer dataset.
-- Convert vector data to [popular file formats](https://docs.aspose.com/gis/net/supported-file-formats/).
+- Convert vector data to popular file formats.
 - Perform re-projection during data conversion.
 - Adjust feature attributes while converting.
 - Customize the styling of each geometry type.
 - Perform complex drawings by combining several symbolizers.
 - Apply layer rendering rules to control feature visual representation.
 - Use value attributes to calculate the styling parameters of a feature.
-- Perform vector analysis & [manipulate geometries](https://docs.aspose.com/gis/net/geometry-types/).
-- Support for [Spatial Reference Systems](https://docs.aspose.com/gis/net/spatial-reference-systems/).
+- Perform vector analysis & manipulate geometries.
+- Support for Spatial Reference Systems.
 
 ### Read & Write GIS Formats
 
@@ -77,8 +77,6 @@ It allows you to read and write GIS data, [convert GIS file formats](https://doc
 ### Map Rendering Formats
 
 **Images:** SVG, PNG, JPEG, JPG, BMP
-
-[Product Page](https://products.aspose.com/gis/net/) | [Docs](https://docs.aspose.com/gis/net/) | [Demos](https://products.aspose.app/gis/family) | [API Reference](https://reference.aspose.com/gis/net/) | [Examples](https://github.com/aspose-gis/Aspose.GIS-for-.NET) | [Blog](https://blog.aspose.com/category/gis/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/gis) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 

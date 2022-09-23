@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "31"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.PDF/"
-tags: ['.NET', '.net-core', '.net-standard', '.netcore', '.netstandard', '.netstandard2.0', 'acroform', 'annotation', 'API', 'ASP.NET', 'aspnetcore', 'Aspose', 'Aspose.PDF', 'Aspose.Total', 'Assembly', 'Azure', 'bmp-to-pdf', 'C#', 'cgm-to-pdf', 'Component', 'Conholdate', 'Conholdate.Total', 'convert', 'Converter', 'Core', 'cross-platform', 'csharp', 'dataprotection', 'decrypt', 'dicom-to-pdf', 'Document', 'dotnet-core', 'dotnet-standard', 'dotnet-standard', 'dotnetcore', 'dotnetstandard', 'emf-to-pdf', 'encrypt', 'epub-to-pdf', 'extract', 'Fast', 'forms', 'Framework', 'graph', 'html-to-pdf', 'jpg-to-pdf', 'latex-to-pdf', 'Library', 'Linux', 'macOS', 'markdown-to-pdf', 'md-to-pdf', 'metadata', 'mhtml-to-pdf', 'Microsoft', 'Mono', 'mvc', 'net-core', 'net-standard', 'netcore', 'netstandard', 'netstandard2.0', 'netstandard2.1', 'Office', 'parser', 'PCL', 'pcl-to-pdf', 'PDF', 'pdf-to-bmp', 'pdf-to-doc', 'pdf-to-docx', 'pdf-to-emf', 'pdf-to-epub', 'pdf-to-excel', 'pdf-to-html', 'pdf-to-jpg', 'pdf-to-latex', 'pdf-to-pdf/a', 'pdf-to-pdfa', 'pdf-to-png', 'pdf-to-pptx', 'pdf-to-svg', 'pdf-to-text', 'pdf-to-text', 'pdf-to-tiff', 'pdf-to-xls', 'pdf-to-xlsx', 'pdf-to-xps', 'pdf/a-to-pdf', 'pdfa-to-pdf', 'png-to-pdf', 'postscript-to-pdf', 'Print', 'ps-to-pdf', 'Render', 'security', 'signing', 'Standard', 'svg-to-pdf', 'table', 'Text', 'text-to-pdf', 'tiff-to-pdf', 'VisualStudio', 'Windows-Forms', 'winforms', 'xml', 'xml-to-pdf', 'xps-to-pdf', '.netcore2.0', '.netcore2.1', 'DOM']
+tags: ['pdf-to-bmp', 'pdf-to-doc', 'pdf-to-docx', 'pdf-to-emf', 'pdf-to-epub', 'pdf-to-excel', 'pdf-to-html', 'pdf-to-jpg', 'pdf-to-latex', 'pdf-to-pdfa', 'pdf-to-png', 'pdf-to-pptx', 'pdf-to-svg', 'pdf-to-text', 'pdf-to-text', 'pdf-to-tiff', 'pdf-to-xls', 'pdf-to-xlsx', 'pdf-to-xps', 'pdfa-to-pdf', 'xml-to-pdf', 'xps-to-pdf']
 weight:  1
 ---
 
@@ -32,7 +32,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.PDF/" text="NuG
 
 [Product Page](https://products.aspose.com/pdf/net/) | [Docs](https://docs.aspose.com/pdf/net/) | [Demos](https://products.aspose.app/pdf/family) | [API Reference](https://reference.aspose.com/pdf/net) | [Examples](https://github.com/aspose-pdf/Aspose.PDF-for-.NET/tree/master/Examples) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
-[Integrate PDF creation](https://products.aspose.com/pdf/net/), processing, manipulation & conversion features into your own .NET applications without needing Adobe Acrobat&reg;.
+Integrate PDF creation, processing, manipulation & conversion features into your own .NET applications without needing Adobe Acrobat&reg;.
 
 > Aspose.PDF for .NET allows you to work with PDF documents, pages, text, images, attachments, fonts, bookmarks, annotations, forms, operators, stamps, watermarks, links, security, signatures, and printing.
 
@@ -46,12 +46,12 @@ Aspose.PDF for .NET is affordable and offers an incredible wealth of features in
 
 - Generate PDF documents on the fly through the API or via XML templates.
 - Supports 14 core, Type 1, TruType, Type 3, CJK & Unicode fonts.
-- [Extract text](https://docs.aspose.com/pdf/net/extract-text-from-pdf/) from PDF pages or search for a particular text segment using regular expressions.
+- Extract text from PDF pages or search for a particular text segment using regular expressions.
 - Add or extract text & images to & from PDF documents.
-- Concatenate or [split PDF files](https://docs.aspose.com/pdf/net/split-document/).
+- Concatenate or split PDF files.
 - Linearization of PDF documents for web optimization.
 - Validation support for PDF/A-1a, PDF/A-1b & PDF/A-2a.
-- Manage [PDF tables](https://docs.aspose.com/pdf/net/working-with-tables/) & [graphs](https://docs.aspose.com/pdf/net/working-with-graphs/) using easy to understand object model.
+- Manage PDF tables & graphs using easy to understand object model.
 - Convert PDF documents to Office, web, image & PS formats with the highest visual fidelity.
 - Manipulate PDF files to manage bookmarks, hyperlinks, watermarks, attachments & annotation.
 - Encrypt or decrypt PDF documents as well as set document privileges or modify passwords.
@@ -86,8 +86,6 @@ Aspose.PDF for .NET is affordable and offers an incredible wealth of features in
 **Stylesheet:** XSLFO\
 **Markdown:** MD\
 **Archive:** MHT
-
-[Product Page](https://products.aspose.com/pdf/net/) | [Docs](https://docs.aspose.com/pdf/net/) | [Demos](https://products.aspose.app/pdf/family) | [API Reference](https://reference.aspose.com/pdf/net) | [Examples](https://github.com/aspose-pdf/Aspose.PDF-for-.NET/tree/master/Examples) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
 {{< Common/hr >}}
 

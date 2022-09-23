@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "49"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Slides.Cpp/"
-tags: ['API', 'Aspose', 'Aspose.Total', 'Aspose.Slides', 'Slides', 'Assembly', 'C++', 'component', 'convert', 'converter', 'load', 'save', 'edit', 'update', 'core', 'cross-platform', 'PPT', 'ppt-to-bmp', 'ppt-to-html', 'ppt-to-jpeg', 'ppt-to-pdf', 'ppt-to-png', 'ppt-to-svg', 'ppt-to-image', 'merge-ppt', 'convert-ppt', 'presentation', 'presentation-to-bmp', 'presentation-to-html', 'presentation-to-jpeg', 'presentation-to-pdf', 'presentation-to-png', 'presentation-to-svg', 'presentation-to-image', 'merge-pptx', 'convert-pptx', 'presentations', 'PPTX', 'pptx-to-bmp', 'pptx-to-html', 'pptx-to-jpeg', 'pptx-to-pdf', 'pptx-to-png', 'pptx-to-svg', 'pptx-to-image', 'merge-pptx', 'convert-pptx', 'Fast', 'Library', 'Linux', 'Microsoft', 'Office', 'opendocument', 'openoffice', 'print', 'render', 'SVG', 'TIFF', 'Visual-Studio', 'VisualStudio', 'Conholdate', 'Conholdate.Total', 'Native', 'CPP', 'presentation-to-XPS', 'presentation-to-SWF', 'presentation-to-PDF-Notes', 'Morph', 'Transitions', 'OLE', 'POT', 'PPS', 'POTX', 'PPSX', 'PPTM', 'PPSM', 'POTM', 'ODP', 'OTP', 'EMF', 'PDF', 'XPS', 'JPEG', 'PNG', 'GIF', 'BMP', 'XML', 'HTML', 'presentation-to-html', 'Windows', 'CLang']
+tags: ['ppt-to-bmp', 'ppt-to-html', 'ppt-to-jpeg', 'ppt-to-pdf', 'ppt-to-png', 'ppt-to-svg', 'ppt-to-image', 'presentation-to-bmp', 'presentation-to-html', 'presentation-to-jpeg', 'presentation-to-pdf', 'presentation-to-png', 'presentation-to-svg', 'presentation-to-image', 'pptx-to-bmp', 'pptx-to-html', 'pptx-to-jpeg', 'pptx-to-pdf', 'pptx-to-png', 'pptx-to-svg', 'pptx-to-image', 'presentation-to-XPS', 'presentation-to-SWF', 'presentation-to-PDF-Notes', 'presentation-to-html']
 weight:  3
 ---
 
@@ -34,13 +34,13 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Slides.Cpp/" te
 
 ## Why download Aspose.Slides for C++?
 
-This [standalone C++ class library](https://products.aspose.com/slides/cpp/) helps you to create, read, write, edit & convert Microsoft PowerPoint&reg; presentations without needing PowerPoint&reg; or Office Automation.
+This standalone C++ class library helps you to create, read, write, edit & convert Microsoft PowerPoint&reg; presentations without needing PowerPoint&reg; or Office Automation.
 
 ## Presentation Processing Features
 
 - Create, open, and work with presentations without Microsoft PowerPoint&reg;.
-- [Convert presentation](https://docs.aspose.com/slides/cpp/convert-presentation/) to any of the [supported file formats](https://docs.aspose.com/slides/cpp/supported-file-formats/).
-- Adding, formatting, and manipulating charts, shapes, slides, SmartArt, [tables](https://docs.aspose.com/slides/cpp/powerpoint-table/), and text in presentations.
+- Convert presentation to any of the supported file formats.
+- Adding, formatting, and manipulating charts, shapes, slides, SmartArt, tables, and text in presentations.
 
 ### Read & Write PowerPoint&reg; Files
 
@@ -54,8 +54,6 @@ This [standalone C++ class library](https://products.aspose.com/slides/cpp/) hel
 **Fixed Layout:** PDF, XPS\
 **Image:** JPEG, PNG, GIF, BMP, SVG\
 **Web:** HTML
-
-[Product Page](https://products.aspose.com/slides/cpp/) | [Docs](https://docs.aspose.com/slides/cpp/) | [Demos](https://products.aspose.app/slides/family) | [API Reference](https://reference.aspose.com/slides/cpp) | [Examples](https://github.com/aspose-slides/Aspose.Slides-for-C) | [Blog](https://blog.aspose.com/category/slides/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/slides) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 

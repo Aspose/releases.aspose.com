@@ -75,8 +75,6 @@ You can easily use Aspose.PDF for Java directly from a {{< Common/link href="htt
 
 ### Supported Environments
 
-### Supported Environments
-
 - Any platform where Android Runtime environment is installed.
 - Android OS 2.0 or greater.
 

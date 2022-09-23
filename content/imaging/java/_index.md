@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "23"
 homepage_package_type: "Maven"
 homepage_package_link: "https://repository.aspose.com/imaging/"
-tags: ['Aspose.Total', 'Aspose.Imaging', 'Aspose-Java-API', 'image-java-library', 'image-java-class', 'Maven', 'BMP', 'GIF', 'DICOM', 'DJVU', 'DNG', 'EMF', 'JPEG', 'JPEG2000', 'ODG', 'PNG', 'APNG', 'PSD', 'DXF', 'SVG', 'TIFF', 'DIB', 'EPS', 'WEBP', 'WMF', 'CDR', 'CMX', 'OTG', 'PDF', 'HTML5', 'EMZ', 'WMZ', 'TGA', 'SVGZ', 'canvas', 'Windows', 'Linux', 'Mac', 'JPG-to-TGA', 'PNG-to-TGA', 'HTML5', 'SVG-to-HTML5', 'CorelDRAW', 'CMX-to-PNG', 'binarization', 'dithering', 'DjVu-to-TIFF', 'DjVu-to-PDF', 'image-processing', 'multithreading', 'optimization', 'DNG-to-JPEG', 'FODG', 'JPEG-LS', 'CMYK', 'YCK', 'EXIF', 'image-to-PSD', 'color-replacement', 'raster-image', 'flat-psd', 'PSD-to-JPG', 'Alpha', 'Subscript', 'smallcap', 'gradient', 'transparency', 'WebP', 'Bezier', 'Polygon', 'vector', 'multipage-image', 'image-to-PSD', 'WMF-to-PNG']
+tags: ['JPG-to-TGA', 'PNG-to-TGA', 'SVG-to-HTML5', 'DjVu-to-TIFF', 'DjVu-to-PDF', 'DNG-to-JPEG', 'image-to-PSD', 'PSD-to-JPG', 'image-to-PSD', 'WMF-to-PNG']
 weight:  2
 ---
 
@@ -46,7 +46,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 
 [Product Page](https://products.aspose.com/imaging/java) | [Docs](https://docs.aspose.com/imaging/java/) | [Demos](https://products.aspose.app/imaging/family) | [API Reference](https://reference.aspose.com/imaging/java) | [Examples](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [Blog](https://blog.aspose.com/category/imaging/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/imaging) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-It is a standalone [Imaging API](https://products.aspose.com/imaging/java) consisting of Java routines that enable your Java applications to draw as well as perform basic to advanced level processing of raster & vector images.
+It is a standalone Imaging API consisting of Java routines that enable your Java applications to draw as well as perform basic to advanced level processing of raster & vector images.
 
 ## Why download Aspose.Imaging for Java?
 
@@ -57,7 +57,7 @@ Aspose.Imaging for Java offers robust image compression and high processing spee
 - Draw raster images with graphics.
 - Draw vector images.
 - Converting images to various formats.
-- [Apply masking](https://docs.aspose.com/imaging/java/applying-masking-to-images/) as well as [Median & Wiener](https://docs.aspose.com/imaging/java/applying-median-and-wiener-filters/) filters.
+- Apply masking as well as Median & Wiener filters.
 - Crop, rotate & resize images via API.
 - De-skew & transform images.
 - Set image properties.
@@ -90,8 +90,6 @@ Aspose.Imaging for Java can be virtually run in any OS where Java is installed (
 Aspose.Imaging works for both x86 and x64 versions of the above listed operating systems.
 
 **Note:** In Linux OS, it is recommended to install the package with Microsoft compatible fonts (e.g. `sudo apt-get install ttf-mscorefonts-installer`).
-
-[Product Page](https://products.aspose.com/imaging/java) | [Docs](https://docs.aspose.com/imaging/java/) | [Demos](https://products.aspose.app/imaging/family) | [API Reference](https://reference.aspose.com/imaging/java) | [Examples](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [Blog](https://blog.aspose.com/category/imaging/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/imaging) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 

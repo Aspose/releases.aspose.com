@@ -8,7 +8,7 @@ folder_link: "/cells/androidjava/new-releases/aspose.cells-for-android-via-java-
 folder_name: "Aspose.Cells for Android via Java 22.6"
 download_link: "/cells/androidjava/new-releases/aspose.cells-for-android-via-java-22.6/5acbe0cd34513866bb52f9b211d92504-3-7504"
 download_text: "Download"
-intro_text: "Aspose.Cells for Android via Java 22.6"
+intro_text: "It contains Aspose.Cells for Android via Java 22.6 release."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 13/6/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 10.44MB"
@@ -42,7 +42,7 @@ weight: 81
       <h4>Release Notes</h4><div><a href='https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-22-6-release-notes/'>https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Android via Java 22.6</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for Android via Java 22.6 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

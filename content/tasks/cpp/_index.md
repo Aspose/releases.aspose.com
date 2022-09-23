@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "175"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Tasks.Cpp/"
-tags: ['Aspose', 'Aspose.Tasks', 'Aspose.Total', 'C++', 'Conholdate', 'Conholdate.Total', 'Assembly', 'Library', 'Component', 'Project-Management', 'Task-Management', 'Project-Planning', 'Task-Planning', 'MPP', 'XML', 'MPT', 'XER', 'P6XML', 'MPX', 'XLSX', 'HTML', 'TXT', 'TIFF', 'SVG', 'PNG', 'PDF', 'JPEG', 'Windows', 'Linux', 'Visual-Studio', 'GCC', 'CLang', 'MPP-to-XLSX', 'MPP-to-Excel', 'MPP-to-Spreadsheet', 'MPP-to-HTML', 'Project-to-HTML', 'Project-to-Excel', 'Project-to-XLSX', 'Project-to-CSV', 'Project-to-Text', 'Project-to-MPT', 'MPP-to-CSV', 'MPP-to-MPT', 'MPP-to-SVG', 'MPP-to-JPEG', 'MPP-to-TIF', 'Project-to-PDF', 'MPP-to-PDF', 'Project-to-Image', 'MPP-to-PNG', 'VBA', 'Primavera', 'Calender', 'Formula', 'Project-Currencies', 'Project', 'MSProject', 'timeline', 'Native', 'CPP', 'Import', 'Export', 'Convert', 'Converter', 'Oracle', 'OpenProj']
+tags: ['MPP-to-XLSX', 'MPP-to-Excel', 'MPP-to-Spreadsheet', 'MPP-to-HTML', 'Project-to-HTML', 'Project-to-Excel', 'Project-to-XLSX', 'Project-to-CSV', 'Project-to-Text', 'Project-to-MPT', 'MPP-to-CSV', 'MPP-to-MPT', 'MPP-to-SVG', 'MPP-to-JPEG', 'MPP-to-TIF', 'Project-to-PDF', 'MPP-to-PDF', 'Project-to-Image', 'MPP-to-PNG']
 weight:  3
 ---
 
@@ -32,7 +32,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Tasks.Cpp/" tex
 
 [Product Page](https://products.aspose.com/tasks/cpp/) | [Docs](https://docs.aspose.com/tasks/cpp/) | [Demos](https://products.aspose.app/tasks/family) | [API Reference](https://reference.aspose.com/tasks/cpp) | [Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-C) | [Blog](https://blog.aspose.com/category/tasks/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/tasks) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-A standalone C++ library that enables the C++ developers to [generate, update, render, & convert project files](https://products.aspose.com/tasks/cpp/) from within C++ projects without Microsoft Project&reg;.
+A standalone C++ library that enables the C++ developers to generate, update, render, & convert project files from within C++ projects without Microsoft Project&reg;.
 
 ## Why download Aspose.Tasks for C++?
 
@@ -44,18 +44,18 @@ This distribution package contains both the 32-bit as well as the 64-bit binarie
 
 ## Project File Processing Features
 
-- [Create an empty project file](https://docs.aspose.com/tasks/cpp/creating-and-saving/) and save it as XML, to stream or to Microsoft MPP file.
+- Create an empty project file and save it as XML, to stream or to Microsoft MPP file.
 - Supports the encoding of the `MPX` files.
-- [Read and write default properties of projects](https://docs.aspose.com/tasks/cpp/default-project-properties/) to speed up the project setup.
-- [Set the project calculation mode](https://docs.aspose.com/tasks/cpp/project-calculation-modes/) to be manual, automatic, or none.
-- Read and write [project calendar properties](https://docs.aspose.com/tasks/cpp/calendar-properties/), such as fiscal year and weekday properties.
-- Read and write [project currency properties](https://docs.aspose.com/tasks/cpp/currency-properties/).
-- [Perform project rescheduling](https://docs.aspose.com/tasks/cpp/project-rescheduling/) from start, finish date or reschedule only the incomplete tasks.
-- Offers various [project utility features](https://docs.aspose.com/tasks/cpp/utility-features/), such as, calculate the critical path, read filter data, extract embedded objects, etc.
-- Use Task, Resource, and Project fields as a [formula in expressions](https://docs.aspose.com/tasks/cpp/formula-expressions/).
-- Identify [Cross Project Tasks](https://docs.aspose.com/tasks/cpp/cross-project-predecessors/), get [predecessor tasks](https://docs.aspose.com/tasks/cpp/cross-project-predecessors/) and cross-project predecessor tasks.
-- Supports working with [task links](https://docs.aspose.com/tasks/cpp/creating-task-links/), baselines, project resources, and VBA.
-- Convert project data to other [supported file formats](https://docs.aspose.com/tasks/cpp/supported-file-formats/).
+- Read and write default properties of projects to speed up the project setup.
+- Set the project calculation mode to be manual, automatic, or none.
+- Read and write project calendar properties, such as fiscal year and weekday properties.
+- Read and write project currency properties.
+- Perform project rescheduling from start, finish date or reschedule only the incomplete tasks.
+- Offers various project utility features, such as, calculate the critical path, read filter data, extract embedded objects, etc.
+- Use Task, Resource, and Project fields as a formula in expressions.
+- Identify Cross Project Tasks, get predecessor tasks and cross-project predecessor tasks.
+- Supports working with task links, baselines, project resources, and VBA.
+- Convert project data to other supported file formats.
 
 ### Read & Write Project Formats
 
@@ -69,8 +69,6 @@ This distribution package contains both the 32-bit as well as the 64-bit binarie
 **Images:** TIFF, SVG, PNG, JPEG\
 **Web:** HTML\
 **Text:** TXT
-
-[Product Page](https://products.aspose.com/tasks/cpp/) | [Docs](https://docs.aspose.com/tasks/cpp/) | [Demos](https://products.aspose.app/tasks/family) | [API Reference](https://reference.aspose.com/tasks/cpp) | [Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-C) | [Blog](https://blog.aspose.com/category/tasks/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/tasks) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 

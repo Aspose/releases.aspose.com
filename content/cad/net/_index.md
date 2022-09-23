@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "10"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.CAD/"
-tags: ['.NET', '.NET', 'Core', '.NET', 'Framework', '.net-core', '.net-standard', '.netcore', '.netstandard', '.netstandard2.0', '3D', 'acad', 'API', 'ASP.NET', 'aspnetcore', 'Aspose', 'Aspose.CAD', 'Aspose.Total', 'Assembly', 'cad-to-bmp', 'cad-to-gif', 'cad-to-jpeg', 'cad-to-pdf', 'cad-to-png', 'cad-to-tiff', 'Component', 'Conholdate', 'Conholdate.Total', 'convert', 'converter', 'Core', 'cross-platform', 'csharp', 'dgn', 'Document', 'dotnet', 'dotnet-core', 'dotnet-standard', 'dotnetcore', 'dotnetframework', 'dotnetstandard', 'drawing', 'dwf-to-bmp', 'dwf-to-gif', 'dwf-to-jpeg', 'dwf-to-png', '', 'dwf-to-tiff', 'dwfx', 'dwg-to-bmp', 'dwg-to-gif', 'dwg-to-jpeg', 'dwg-to-png', 'dwg-to-tiff', 'dwt', 'dxf-to-bmp', 'dxf-to-gif', 'dxf-to-jpeg', 'dxf-to-png', 'dxf-to-tiff', 'export', 'Fast', 'forms', 'Framework', 'ifc', 'iges', 'layer', 'Library', 'Linux', 'macOS', 'Microsoft', 'mono', 'mvc', 'net-core', 'net-standard', 'netcore', 'netstandard', 'netstandard2.0', 'obj', 'plt', 'security', 'Standard', 'stl', 'VisualStudio', 'Windows-Forms', 'winforms', 'Render', 'Vector', 'AutoCAD', 'RealDWG', 'Raster', 'Image', '2D', 'Core', 'Graphics', 'Imaging']
+tags: ['cad-to-bmp', 'cad-to-gif', 'cad-to-jpeg', 'cad-to-pdf', 'cad-to-png', 'cad-to-tiff', 'dwf-to-bmp', 'dwf-to-gif', 'dwf-to-jpeg', 'dwf-to-png', 'dwf-to-tiff', 'dwg-to-bmp', 'dwg-to-gif', 'dwg-to-jpeg', 'dwg-to-png', 'dwg-to-tiff', 'dxf-to-bmp', 'dxf-to-gif', 'dxf-to-jpeg', 'dxf-to-png', 'dxf-to-tiff']
 weight:  1
 ---
 
@@ -32,7 +32,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.CAD/" text="NuG
 
 [Product Page](https://products.aspose.com/cad/net/) | [Docs](https://docs.aspose.com/cad/net/) | [Demos](https://products.aspose.app/cad/family) | [API Reference](https://reference.aspose.com/cad/net/) | [Examples](https://github.com/aspose-cad/Aspose.CAD-for-.NET) | [Blog](https://blog.aspose.com/category/cad/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cad) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-[Aspose.CAD for .NET](https://products.aspose.com/cad/net/) is a standalone class library to enhance ASP.NET & Windows applications to process & render CAD drawings without requiring AutoCAD or any other rendering workflow. The CAD Class Library allows high-quality [conversion of DWG, DWF, DWFX, DWT, DGN, STL, OBJ, STL, CF2, IGES, IFC, PLT, and DXF](https://docs.aspose.com/cad/net/supported-file-formats/) files, layouts, and layers to PDF & raster image formats.
+Aspose.CAD for .NET is a standalone class library to enhance ASP.NET & Windows applications to process & render CAD drawings without requiring AutoCAD or any other rendering workflow. The CAD Class Library allows high-quality conversion of DWG, DWF, DWFX, DWT, DGN, STL, OBJ, STL, CF2, IGES, IFC, PLT, and DXF files, layouts, and layers to PDF & raster image formats.
 
 ## Why download Aspose.CAD for .NET?
 
@@ -44,13 +44,13 @@ It enables your C#, VB.NET, ASP.NET applications to work with plain plots, 3D so
 
 ## CAD File Processing Features
 
-- Convert [CAD to PDF](https://docs.aspose.com/cad/net/converting-cad-drawings-to-pdf-and-raster-image-formats/).
+- Convert CAD to PDF.
 - Convert CAD to images.
 - Track file processing progress.
 - Manipulate drawing entities and blocks.
 - Select and convert specific layouts of CAD drawings.
 - Select and convert specific layers of CAD drawings.
-- [Adjust CAD drawing size before rendering](https://docs.aspose.com/cad/net/adjusting-cad-drawing-size/).
+- Adjust CAD drawing size before rendering.
 - Support for BigFont.
 - Automatically detect optimal zoom for the CAD drawings.
 
@@ -73,8 +73,6 @@ It enables your C#, VB.NET, ASP.NET applications to work with plain plots, 3D so
 
 **Fixed Layout:** PDF\
 **Raster Image:** TIFF, JPEG, PNG, GIF, BMP
-
-[Product Page](https://products.aspose.com/cad/net/) | [Docs](https://docs.aspose.com/cad/net/) | [Demos](https://products.aspose.app/cad/family) | [API Reference](https://reference.aspose.com/cad/net/) | [Examples](https://github.com/aspose-cad/Aspose.CAD-for-.NET) | [Blog](https://blog.aspose.com/category/cad/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cad) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
