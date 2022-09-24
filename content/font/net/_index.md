@@ -34,7 +34,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Font/" text="Nu
 
 ## Why download Aspose.Font for .NET?
 
-[Aspose.Font for .NET](https://products.aspose.com/font/net/) is a library that enables your .NET applications to load, edit, and save font data. Aspose.Font for .NET also enables your .NET applications to draw text with the specified font.
+Aspose.Font for .NET is a library that enables your .NET applications to load, edit, and save font data. Aspose.Font for .NET also enables your .NET applications to draw text with the specified font.
 
 ## Font Processing Features
 
@@ -53,8 +53,6 @@ TTF
 ### Read Font Formats
 
 TTC, OpenType, CFF, Type1, WOFF/WOFF2
-
-[Product Page](https://products.aspose.com/font/net/) | [Docs](https://docs.aspose.com/font/net/) | [API Reference](https://reference.aspose.com/font/net/) | [Examples](https://github.com/aspose-font/Aspose.Font-for-.NET/tree/master/Examples) | [Blog](https://blog.aspose.com/category/font/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/font) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
