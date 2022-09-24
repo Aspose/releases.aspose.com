@@ -16,7 +16,7 @@ weight:  6
 
 {{< Common/h4 text="Download Aspose.Words to Export Reports from JasperReports® & JasperServer®"  >}}
 {{< Common/paragraph class="package-instructions">}}
-{{< Common/link href="https://products.aspose.com/words/jasperreports/" text="Aspose.Words for JasperReports"  >}} helps you export reports from the JasperReports&reg; & JasperServer&reg; to the Microsoft Word&reg; supported formats without any loss of formatting and layout.
+Aspose.Words for JasperReports helps you export reports from the JasperReports&reg; & JasperServer&reg; to the Microsoft Word&reg; supported formats without any loss of formatting and layout.
 {{< Common/release-notes-link family="words" product="jasperreports" href="https://docs.aspose.com/words/jasperreports/release-notes/" text="https://docs.aspose.com/words/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
@@ -35,7 +35,7 @@ weight:  6
 - Insert Microsoft Word fields, e.g., page numbers, to any point within the report document.
 - Create and apply styling to differentiate the empty cells within the report document.
 - Ability to change the report export configuration to apply custom page size and/or orientation.
-- For a complete list of export configuration features please visit the [Configuring the Export](https://docs.aspose.com/words/jasperreports/configuring-the-export/) page.
+- For a complete list of export configuration features please visit the Configuring the Export page.
 
 ### Supported Output Formats
 
@@ -50,10 +50,6 @@ weight:  6
 - JasperReports 6.0 or higher
 - JasperServers 5.6.1 or higher (if you want to use Aspose.Words for JasperReports with JasperServer)
 - JasperReports Server 7.1.0
-
-[Product Page](https://products.aspose.com/words/jasperreports/) | [Docs](https://docs.aspose.com/words/jasperreports/) | [API Reference](https://reference.aspose.com/words/) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words/8) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-{{< Common/hr >}}
 
 {{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
