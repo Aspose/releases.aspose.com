@@ -29,7 +29,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Drawing/" text=
 
 [Product Page](https://products.aspose.com/drawing/net/) | [Docs](https://docs.aspose.com/drawing/net/) | [API Reference](https://reference.aspose.com/drawing/net/) | [Examples](https://github.com/aspose-drawing/Aspose.Drawing-for-.NET) | [Blog](https://blog.aspose.com/category/drawing/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/drawing) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-[Aspose.Drawing for .NET](https://products.aspose.com/drawing/net/) is a cross-platform 2D drawing engine with System.Drawing compatible API.
+Aspose.Drawing for .NET is a cross-platform 2D drawing engine with System.Drawing compatible API.
 
 ## Why download Aspose.Drawing for .NET?
 
@@ -77,8 +77,6 @@ BMP, PNG, JPEG, GIF, TIFF
 ### Supported Development Environments
 
 - Microsoft Visual Studio&reg; 2012, 2013, 2015, 2017, 2019
-
-[Product Page](https://products.aspose.com/drawing/net/) | [Docs](https://docs.aspose.com/drawing/net/) | [API Reference](https://reference.aspose.com/drawing/net/) | [Examples](https://github.com/aspose-drawing/Aspose.Drawing-for-.NET) | [Blog](https://blog.aspose.com/category/drawing/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/drawing) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
 {{< Common/hr >}}
 
