@@ -10,6 +10,7 @@ family_listing_page_type: "2"
 family_listing_page_venture: "4"
 family_listing_page_package: ""
 weight: 5
+tags: ['Aspose.Email', 'Aspose.Total', 'Conholdate.Total', 'Conholdate', 'SharePoint', 'Windows', 'MSG', 'EML', 'PST', 'MBOX', 'OST', 'IMAP', 'POP3', 'SMTP', 'MIME', 'FTP', 'Dropbox']
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/email" linktext=" Support Forum " >}}
@@ -18,6 +19,14 @@ weight: 5
 {{< Common/paragraph class="package-instructions">}}
 {{< Common/link href="https://products.aspose.com/email/sharepoint/" text="Aspose.Email for SharePoint"  >}} enables you
 to perform email conversion, document library synchronization, and email synchronization within your SharePoint sites.
+
+{{< Common/h4 class=" " text="Try Free Online Email Manipulation Apps" >}}
+{{< Common/ul>}}
+{{< Common/li >}} {{< Common/link href="https://products.aspose.app/email/conversion" text="Free Email Converter Online App to Convert Email Formats"  >}} {{< /Common/li >}}
+{{< Common/li >}} {{< Common/link href="https://products.aspose.app/email/parser" text="Free Email Parsing Online App to extract images & files from emails"  >}} {{< /Common/li >}}
+{{< Common/li >}} {{< Common/link href="https://products.aspose.app/email/metadata" text="Free Email Metadata App to view and edit email metadata"  >}} {{< /Common/li >}}
+{{< /Common/ul>}}
+
 {{< Common/release-notes-link family="email" product="sharepoint" href="https://docs.aspose.com/email/sharepoint/" text="https://docs.aspose.com/email/sharepoint/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
@@ -26,15 +35,17 @@ to perform email conversion, document library synchronization, and email synchro
 
 ### Email SharePoint&reg; Integration Features
 
-- EML to MSG and MSG to EML conversion.
-- Extract email attachments.
+- Convert EML to MSG and MSG to EML email formats.
+- Extract all or selected email attachments.
 - Synchronize emails with a POP3, IMAP, or Exchange server.
+- Synchronize files between SharePoint&reg; document library and FTP server.
+- Synchronize files between SharePoint&reg; document library and Dropbox&reg;.
 - Aspose Tools Ribbon within your SharePoint&reg; UI.
 - Transfer and synchronize files between the SharePoint&reg; document library and supported file hosting/sharing services.
 
 ### Supported Message File Formats
 
-MSG, EML
+**Microsoft Outlook&reg;:** MSG, EML
 
 ### Supported Mail Storage Formats
 
@@ -52,12 +63,18 @@ MSG, EML
 
 Microsoft SharePoint Server 2010
 
+### Web Client Requirements
+
+- Microsoft Internet Explorer 6, 7, 8
+- Mozilla FireFox 3.5
+- Google Chrome 3
+- Safari 4
+
+
 ### Supported File Hosting/Sharing Services
 
 - FTP Server
 - Dropbox
-
-[Product Page](https://products.aspose.com/email/sharepoint/) | [Docs](https://docs.aspose.com/email/sharepoint/) | [API Reference](https://reference.aspose.com/email/) | [Blog](https://blog.aspose.com/category/email/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/email) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
