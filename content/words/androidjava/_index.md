@@ -20,7 +20,7 @@ weight:  3
 
 {{< Common/paragraph class="package-instructions">}}
 
-Add {{< Common/link href="https://products.aspose.com/words/android-java" text="Word Document Processing"  >}} capabilities to your Android applications. Create, edit & convert popular documents formats including DOC, DOCX, RTF, ODT, PDF, EPUB and many more.
+Aspose.Words for Android via Java adds Word Document Processing capabilities to your Android applications. Create, edit & convert popular documents formats including DOC, DOCX, RTF, ODT, PDF, EPUB and many more.
 
 You can easily use Aspose.Words for Java directly from a {{< Common/link href="https://repository.aspose.com/words/" text="Maven"  >}} based project by adding following configurations to the build.gradle.
 
@@ -39,7 +39,7 @@ You can easily use Aspose.Words for Java directly from a {{< Common/link href="h
       implementation (
          group: 'com.aspose',
          name: 'aspose-words',
-         version: '22.9',
+         version: '22.3',
          classifier: 'android.via.java')
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
@@ -55,10 +55,6 @@ You can easily use Aspose.Words for Java directly from a {{< Common/link href="h
 - Rich object model that allows to generate, combine, modify, parse or otherwise examine loaded documents.
 - Programmatic access to formatting properties of all document elements.
 - Generate reports with Mail Merge that allows populating documents with data from various sources.
-
-[Product Page](https://products.aspose.com/words/android-java/) | [Docs](https://docs.aspose.com/words/androidjava/) | [Demos](https://products.aspose.app/words/family) | [API Reference](https://reference.aspose.com/words/java) | [Examples](https://github.com/aspose-words/Aspose.Words-for-Java) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words/8) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-{{< Common/hr >}}
 
 {{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
