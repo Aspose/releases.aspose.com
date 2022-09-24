@@ -16,7 +16,7 @@ weight:  7
 
 {{< Common/h4 text="Download Aspose.Total to Render & Convert JasperReports® & JasperServer® Reports"  >}}
 {{< Common/paragraph class="package-instructions">}}
-{{< Common/link href="https://products.aspose.com/total/jasperreports/" text="Aspose.Total for JasperReports"  >}} A suite of report rendering and conversion extensions that let you export reports from JasperReports&reg; and JasperServer to the supported file formats.
+Aspose.Total for JasperReports is a suite of report rendering and conversion extensions that let you export reports from JasperReports&reg; and JasperServer to the supported file formats.
 {{< Common/release-notes-link family="total" product="jasperreports" href="https://docs.aspose.com/total/jasperreports/" text="https://docs.aspose.com/total/jasperreports/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
@@ -25,16 +25,29 @@ weight:  7
 
 Aspose.Total for Reporting Services contains the following components:
 
-* [Aspose.BarCode for JasperReports](https://products.aspose.com/barcode/jasperreports/): Render linear and 2D barcodes of 60+ symbologies in several supported image formats and display them on JasperReports&reg;.
-* [Aspose.Cells for JasperReports](https://products.aspose.com/cells/jasperreports/): Export reports from the JasperReports&reg; & JasperServer to Microsoft Excel&reg; and other supported formats.
-* [Aspose.Imaging for JasperReports](https://products.aspose.com/imaging/jasperreports/): Export reports from the JasperReports&reg; to various supported image formats (BMP, GIF, DICOM, EMF, JPEG, etc).
-* [Aspose.PDF for JasperReports](https://products.aspose.com/pdf/jasperreports/): Export reports from JasperReports&reg; and JasperServer to the PDF, PDF/A, and other supported file formats.
-* [Aspose.Slides for JasperReports](https://products.aspose.com/slides/jasperreports/): Export reports from JasperReports&reg; and JasperServer to the Microsoft PowerPoint&reg; formats (PPT, PPS, PPTX, PPSX).
-* [Aspose.Words for JasperReports](https://products.aspose.com/words/jasperreports/): Export reports from the JasperReports&reg; & JasperServer to the Microsoft Word&reg; supported formats.
+### Aspose.BarCode for JasperReports
 
-[Product Page](https://products.aspose.com/total/jasperreports/) | [Docs](https://docs.aspose.com/total/jasperreports/) | [API Reference](https://reference.aspose.com/) | [Blog](https://blog.aspose.com/categories/aspose.total-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/total/7) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+Render linear and 2D barcodes of 60+ symbologies in several supported image formats and display them on JasperReports&reg;.
 
-{{< Common/hr >}}
+### Aspose.Cells for JasperReports
+
+Export reports from the JasperReports&reg; & JasperServer to Microsoft Excel&reg; and other supported formats.
+
+### Aspose.Imaging for JasperReports
+
+Export reports from the JasperReports&reg; to various supported image formats (BMP, GIF, DICOM, EMF, JPEG, etc).
+
+### Aspose.PDF for JasperReports
+
+Export reports from JasperReports&reg; and JasperServer to the PDF, PDF/A, and other supported file formats.
+
+### Aspose.Slides for JasperReports
+
+Export reports from JasperReports&reg; and JasperServer to the Microsoft PowerPoint&reg; formats (PPT, PPS, PPTX, PPSX).
+
+### Aspose.Words for JasperReports
+
+Export reports from the JasperReports&reg; & JasperServer to the Microsoft Word&reg; supported formats.
 
 {{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
