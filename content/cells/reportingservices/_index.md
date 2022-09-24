@@ -16,7 +16,7 @@ weight: 6
 
 {{< Common/h3 text="Download Aspose.Cells Desinger & Renderer for SQL Reports"  >}}
 {{< Common/paragraph class="package-instructions">}}
-{{< Common/link href="https://products.aspose.com/cells/reporting-services/" text="Aspose.Cells for Reporting Services"  >}} seamlessly adds a myriad of features in the Microsoft SQL Server&reg; Reporting Services, ranging from setting up data sources, creating queries, designing reports, and publishing them to the Report Server.
+Aspose.Cells for Reporting Services seamlessly adds a myriad of features in the Microsoft SQL Server&reg; Reporting Services, ranging from setting up data sources, creating queries, designing reports, and publishing them to the Report Server.
 {{< Common/release-notes-link family="cells" product="reportingservices" href="https://docs.aspose.com/cells/reportingservices/release-notes/" text="https://docs.aspose.com/cells/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
@@ -72,7 +72,9 @@ Aspose.Cells for Reporting Services (including the Aspose.Cells.ReportingService
 
 #### Microsoft Office
 
-- Microsoft Excel&reg; 2003
+- Microsoft Excel&reg; 2000 Install the `lockbackRegKey.msi` to fix a CLR issue on Microsoft Office machines older than Office 2003.
+- Microsoft Excel&reg; 2002 Install `lockbackRegKey.msi` to fix a CLR issue on Microsoft Office&reg; machines older than Office 2003.
+- Microsoft Excel&reg; 2003 Always Update to Office&reg; 2003 (KB907417). This update corrects a potential problem in which an add-in, a smart tag, or a smart document may not load if it uses the Microsoft .NET Framework 2.0.
 - Microsoft Excel&reg; 2007
 - Microsoft Excel&reg; 2010
 - Microsoft Excel&reg; 2013
@@ -122,10 +124,6 @@ Aspose.Cells for Reporting Services (including the Aspose.Cells.ReportingService
 - .NET Framework 2.0
 - .NET Framework 3.5
 - .NET Framework 4.x
-
-[Product Page](https://products.aspose.com/cells/reporting-services/) | [Docs](https://docs.aspose.com/cells/reportingservices/) | [API Reference](https://reference.aspose.com/cells/) | [Blog](https://blog.aspose.com/category/cells/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells/9) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-{{< Common/hr >}}
 
 {{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
