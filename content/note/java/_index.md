@@ -19,7 +19,7 @@ weight:  2
 
 {{< Common/h3 text="Download Aspose.Note Java JAR for OneNote® Document Processing"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/note/" text="Aspose.Note for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/note/java/installation/" text="Installing Aspose.Note for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the Aspose.Note for Java API directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/note/java/installation/" text="Installing Aspose.Note for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="note" product="java" href="https://docs.aspose.com/note/java/release-notes/" text="https://docs.aspose.com/note/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 
@@ -48,18 +48,18 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 
 ## Why download Aspose.Note for Java?
 
-[Aspose.Note for Java](https://products.aspose.com/note/java) is a class library that enables applications to interact with Microsoft Office OneNote&reg; programmatically without its installation on the server. It is a pure alternate for MS OneNote&reg; Object Model provides much better performance and ease of use to manage OneNote&reg; documents. Aspose.Note for Java API delivers the features to read, convert, create and edit/manipulate the content of the Microsoft OneNote&reg;file format.
+Aspose.Note for Java is a class library that enables applications to interact with Microsoft Office OneNote&reg; programmatically without its installation on the server. It is a pure alternate for MS OneNote&reg; Object Model provides much better performance and ease of use to manage OneNote&reg; documents. Aspose.Note for Java API delivers the features to read, convert, create and edit/manipulate the content of the Microsoft OneNote&reg;file format.
 
 ## Microsoft OneNote&reg; File Processing
 
 - Load, Save and Convert ONeNote&reg; documents.
-- [Generate Root and Sub Level Pages in OneNote&reg;](https://docs.aspose.com/note/java/working-with-pages/).
+- Generate Root and Sub Level Pages in OneNote&reg;.
 - Get page revisions and roll back to previous version.
 - Extract images from a OneNote&reg; document.
-- [Extract or replace text from a Specified Page](https://docs.aspose.com/note/java/working-with-text/) of a OneNote&reg; Document.
+- Extract or replace text from a Specified Page of a OneNote&reg; Document.
 - Create a Table with Locked Columns in the OneNote&reg; Document.
-- [Attach a File to the OneNote&reg; Document](https://docs.aspose.com/note/java/working-with-attachments/).
-- Ceate,save, read, convert [OneNote&reg; Notebook](https://docs.aspose.com/note/java/working-with-onenote-notebook/).
+- Attach a File to the OneNote&reg; Document.
+- Ceate,save, read, convert OneNote&reg; Notebook.
 
 ## Read & Write OneNote&reg; Format
 
@@ -78,8 +78,6 @@ ONETOC2
 
 - **Microsoft Windows&reg;:** Windows Desktop & Server (x86, x64)
 - **Java Versions:** `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)` or above
-
-[Product Page](https://products.aspose.com/note/java) | [Docs](https://docs.aspose.com/note/java/) | [Demos](https://products.aspose.app/note/family) | [API Reference](https://apireference.aspose.com/note/java) | [Examples](https://github.com/aspose-note/Aspose.Note-for-Java) | [Blog](https://blog.aspose.com/category/note/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/note) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
