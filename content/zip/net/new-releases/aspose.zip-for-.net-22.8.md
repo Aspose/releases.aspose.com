@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/zip/net/new-releases/aspose.zip-for-.net-22.8/"
-folder_name: "Aspose.ZIP for .NET 22.8"
+folder_name: "Aspose.ZIP for .NET 22.9"
 download_link: "/zip/net/new-releases/aspose.zip-for-.net-22.8/4518cd09e53c40660bff365ad4e1847a-2-7936"
 download_text: "Download"
 intro_text: "Aspose.ZIP for .NET 22.9 release."
@@ -22,7 +22,7 @@ weight: 108
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.ZIP for .NET 22.8" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.ZIP for .NET 22.9" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/zip/net/new-releases/aspose.zip-for-.net-22.8/4518cd09e53c40660bff365ad4e1847a-2-7936" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/zip" >}}
