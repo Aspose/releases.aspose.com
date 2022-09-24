@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "148"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.OMR/"
-tags: ['Aspose.OMR', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'JPEG', 'PNG', 'GIF', 'TIFF', 'BMP', 'CSV', 'JSON', 'C#', 'CSharp', 'VisualStudio', 'Visual-Studio', 'Optical-Mark-Recognition', 'OMR', 'OMR-API', 'API', 'Component', 'Library', 'Windows', '.NET-Framework', 'Framework', 'OMR-Template', 'Answer-Sheet', 'Text-OMR', 'Answer-Sheet-OMR', 'Choide-Box-OMR', 'Grid-OMR', 'Image-OMR', 'Barcode-OMR', 'OMR-Text-Markup', 'OMR-to-PDF', 'Barcode-Recognition', 'OMR-Graphical-Control', 'OMR-to-CSV', 'Windows', 'Visual-Studio', 'VisualStudio', '.NET-Framework', 'VB.NET', 'ASP.NET']
+tags: ['Optical-Mark-Recognition', 'OMR', 'OMR-API', 'API', 'Component', 'Library', 'Windows', '.NET-Framework', 'Framework', 'OMR-Template', 'Answer-Sheet', 'Text-OMR', 'Answer-Sheet-OMR', 'Choide-Box-OMR', 'Grid-OMR', 'Image-OMR', 'Barcode-OMR', 'OMR-Text-Markup', 'OMR-to-PDF', 'Barcode-Recognition', 'OMR-Graphical-Control', 'OMR-to-CSV']
 weight:  1
 ---
 
@@ -32,11 +32,11 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.OMR/" text="NuG
 
 [Product Page](https://products.aspose.com/omr/net/) | [Docs](https://docs.aspose.com/omr/net/) | [Demos](https://products.aspose.app/omr/family) | [API Reference](https://reference.aspose.com/omr/net/) | [Examples](https://github.com/aspose-omr/Aspose.OMR-for-.NET) | [Blog](https://blog.aspose.com/category/omr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/omr) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-It is a standalone on-premise API that helps in [recognizing the human-marked data](https://docs.aspose.com/omr/net/recognition/) from images of scanned documents, surveys, questionnaires, quizzes, and examination papers.
+It is a standalone on-premise API that helps in recognizing the human-marked data from images of scanned documents, surveys, questionnaires, quizzes, and examination papers.
 
 ## Why download Aspose.OMR for .NET?
 
-[Aspose.OMR for .NET](https://products.aspose.com/omr/net/) not only acts as an Optical Mark Recognition engine. It also provides a handy graphical control that can be used for manual tuning of the threshold and markup to see changes in real-time.
+Aspose.OMR for .NET not only acts as an Optical Mark Recognition engine. It also provides a handy graphical control that can be used for manual tuning of the threshold and markup to see changes in real-time.
 
 ## OMR API Features
 
@@ -44,7 +44,7 @@ It is a standalone on-premise API that helps in [recognizing the human-marked da
 - Ability to process rotated and perspective (side viewed) images.
 - Recognize data from tests, exams, questionnaires, surveys, etc.
 - High accuracy rate & ability to export the results in CSV format.
-- [Create OMR templates](https://docs.aspose.com/omr/net/template-generation/).
+- Create OMR templates.
 
 ### Read Images for OMR
 
@@ -53,8 +53,6 @@ JPEG, PNG, GIF, TIFF, BMP
 ### Save OMR Results As
 
 CSV, JSON, XML
-
-[Product Page](https://products.aspose.com/omr/net/) | [Docs](https://docs.aspose.com/omr/net/) | [Demos](https://products.aspose.app/omr/family) | [API Reference](https://reference.aspose.com/omr/net/) | [Examples](https://github.com/aspose-omr/Aspose.OMR-for-.NET) | [Blog](https://blog.aspose.com/category/omr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/omr) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
