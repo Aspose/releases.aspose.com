@@ -18,7 +18,7 @@ weight:  7
 
 {{< Common/h3 text="Download Aspose.Words Python Library for Word® Document Processing"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose.Words for Python via .NET {{< Common/link href="https://products.aspose.com/words/python" text="Word Document Processing API"  >}} that allows the developers to work with Microsoft Word&reg; documents without needing Office&reg; Automation.
+Aspose.Words for Python via .NET, Word Document Processing API that allows the developers to work with Microsoft Word&reg; documents without needing Office&reg; Automation.
 You can easily use  <b>aspose-words</b> for Python from  {{< Common/link href="https://pypi.org/project/aspose-words/" text="pip"  >}} with the following command.
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
@@ -35,10 +35,6 @@ You can easily use  <b>aspose-words</b> for Python from  {{< Common/link href="h
 - Programmatic access to formatting properties of all document elements.
 - Generate reports with Mail Merge that allows populating documents with data from various sources.
 - LINQ Reporting Engine to fetch data from databases, XML, JSON, OData, external documents, and more.
-
-[Product Page](https://products.aspose.com/words/python-net/) | [Docs](https://docs.aspose.com/words/python-net/) | [Demos](https://products.aspose.app/words/family/) | [Blog](https://blog.aspose.com/categories/aspose.words-product-family/) | [Code Samples](https://github.com/aspose-words/Aspose.words-for-Python-via-.NET) | [Free Support](https://forum.aspose.com/c/words/8) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-{{< Common/hr >}}
 
 {{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
