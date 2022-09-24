@@ -33,7 +33,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.TeX.Cpp" text="
 
 ## Why download Aspose.TeX for C++?
 
-[Aspose.TeX for C++](https://products.aspose.com/tex/cpp/) is a library that provides a TeX engine extension called ObjectTeX. It can be used to typeset documents described by TeX files. “Object” means that intermediary typesetting result is a specific object model which then can be uniformly converted into a number of end formats.
+Aspose.TeX for C++ is a library that provides a TeX engine extension called ObjectTeX. It can be used to typeset documents described by TeX files. “Object” means that intermediary typesetting result is a specific object model which then can be uniformly converted into a number of end formats.
 
 ## TypeSetting File Processing Features
 
@@ -60,10 +60,6 @@ cmbsy10, cmbx10, cmbx5, cmbx6, cmbx7, cmbx8, cmbx9, cmcsc10, cmdunh10, cmex10, c
 - Server operating systems (2008, 2012), etc.
 - Linux systems (Ubuntu-16.04 or later)
 - Microsoft Visual Studio 2015 or later
-
-[Product Page](https://products.aspose.com/tex/cpp/) | [Docs](https://docs.aspose.com/tex/cpp/) | [Demos](https://products.aspose.app/tex/family) | [API Reference](https://reference.aspose.com/tex/cpp) | [Examples](https://github.com/aspose-tex/Aspose.tex-for-C) | [Blog](https://blog.aspose.com/category/tex/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/tex) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-{{< Common/hr >}}
 
 {{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
