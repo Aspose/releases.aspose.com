@@ -16,7 +16,7 @@ weight: 5
 
 {{< Common/h3 text="Download Aspose.Words to Convert Documents in SharePoint®"  >}}
 {{< Common/paragraph class="package-instructions">}}
-{{< Common/link href="https://products.aspose.com/words/sharepoint/" text="Aspose.Words for SharePoint"  >}} enhances your interactivity with your SharePoint documents by allowing you to work with Reporting, Document Conversion, and SharePoint&reg; Workflows.
+Aspose.Words for SharePoint enhances your interactivity with your SharePoint documents by allowing you to work with Reporting, Document Conversion, and SharePoint&reg; Workflows.
 {{< Common/release-notes-link family="words" product="sharepoint" href="https://docs.aspose.com/words/sharepoint/release-notes/" text="https://docs.aspose.com/words/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
@@ -55,10 +55,6 @@ weight: 5
 - Microsoft SharePoint Server 2013
 - Microsoft SharePoint Server 2016
 - `x32` and `x64` servers supported.
-
-[Product Page](https://products.aspose.com/words/sharepoint/) | [Docs](https://docs.aspose.com/words/sharepoint/) | [API Reference](https://reference.aspose.com/words/) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words/8) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-{{< Common/hr >}}
 
 {{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
