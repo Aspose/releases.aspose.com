@@ -65,11 +65,7 @@ You can easily use Aspose.Email for Java directly from a {{< Common/link href="h
 - Any platform where Android Runtime environment is installed.
 - Android OS 2.0 or greater.
 
-> Aspose.Email for Android via Java does not require having Microsoft Outlook&reg; installed. 
-
-[Product Page](https://products.aspose.com/email/android-java/) | [Docs](https://docs.aspose.com/email/androidjava/) | [Demos](https://products.aspose.app/email/family) | [API Reference](https://reference.aspose.com/email/java) | [Examples](https://github.com/aspose-email/Aspose.Email-for-Java) | [Blog](https://blog.aspose.com/category/email/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/email/12) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-{{< Common/hr >}}
+> Aspose.Email for Android via Java does not require having Microsoft Outlook&reg; installed.
 
 {{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
