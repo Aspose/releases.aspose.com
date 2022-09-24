@@ -54,7 +54,7 @@ You can easily use Aspose.Total for Java directly from a {{< Common/link href="h
 
 Aspose.Total for Java is a collection of File Format Automation APIs for Java developers that can be used within any Java J2SE, J2EE, J2ME application.The suite consists of the following individual APIs:
 
-### Aspose.Words for Java Word
+### Aspose.Words for Java
 
 Word processing APIs to create, process, convert or render Word&reg; documents to various formats.
 
