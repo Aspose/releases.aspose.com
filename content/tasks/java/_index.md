@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "21"
 homepage_package_type: "Maven"
 homepage_package_link: "https://repository.aspose.com/tasks/"
-tags: ['Aspose.Total', 'Aspose.Tasks', 'Aspose-Java-API', 'task-java-library', 'task-java-class', 'Maven', 'MPP', 'XML', 'MPT', 'XER', 'P6XML', 'MPX', 'XLSX', 'HTML', 'TXT', 'TIFF', 'SVG', 'PNG', 'JPEG', 'Windows', 'Linux', 'Mac', 'J2SE', 'formula', 'calendar', 'task', 'task-scheduling', 'assignment', 'task-cost', 'project-cost', 'project-scheduling']
+tags: ['Aspose.Total', 'Aspose.Tasks', 'Aspose-Java-API', 'task-java-library', 'task-java-class', 'Maven', 'MPP', 'XML', 'MPT', 'XER', 'P6XML', 'MPX', 'J2SE', 'formula', 'calendar', 'task', 'task-scheduling', 'assignment', 'task-cost', 'project-cost', 'project-scheduling']
 weight:  2
 ---
 
@@ -19,7 +19,8 @@ weight:  2
 
 {{< Common/h2 text="Download Aspose.Tasks to work with Microsoft Project® files"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/tasks/" text="Aspose.Tasks for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/tasks/java/installation/" text="Installing Aspose.Tasks for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the Aspose.Tasks for Java API directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/tasks/java/installation/" text="Installing Aspose.Tasks for Java from Maven Repository"  >}} documentation page.
+
 {{< Common/release-notes-link family="tasks" product="java" href="https://docs.aspose.com/tasks/java/release-notes/" text="https://docs.aspose.com/tasks/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 
@@ -48,7 +49,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 
 ## Why download Aspose.Tasks for Java?
 
-[Aspose.Tasks](https://products.aspose.com/tasks/java) a Java Project Management API to manipulate Microsoft Project&reg; files. Developers can define a project’s main and default properties as well as calendar information. API also provides the ability to specify weekdays and calendar exceptions while making it easy to add & recalculate tasks, resources and other data without user intervention.
+Aspose.Tasks a Java Project Management API to manipulate Microsoft Project&reg; files. Developers can define a project’s main and default properties as well as calendar information. API also provides the ability to specify weekdays and calendar exceptions while making it easy to add & recalculate tasks, resources and other data without user intervention.
 
 ## Microsoft Project&reg; File Processing
 
@@ -85,8 +86,6 @@ TIF, SVG, PNG, JPEG
 - **macOS:** Mac OS X
 - **Linux:** Ubuntu, OpenSUSE, CentOS, and others
 - **Java Versions:** `J2SE 7.0 (1.7)` or above
-
-[Product Page](https://products.aspose.com/tasks/java) | [Docs](https://docs.aspose.com/tasks/java/) | [Demos](https://products.aspose.app/tasks/family) | [API Reference](https://reference.aspose.com/tasks/java) | [Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java) | [Blog](https://blog.aspose.com/category/tasks/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/tasks) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
