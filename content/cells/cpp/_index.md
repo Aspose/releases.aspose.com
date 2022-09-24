@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "61"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Cells.Cpp/"
-tags: ['Windows', 'Excel', 'OpenOffice', 'Office-Automation', 'Spreadsheet', 'Workbook', 'Data-Validation', 'Pivot-Table', 'Table', 'Rows', 'Columns', 'Conditional-Formatting', 'XLS', 'XLSX', 'XLSB', 'XLSM', 'XLTX', 'XLTM', 'XLAM', 'CSV', 'TSV', 'TabDelimited', 'HTML', 'MHTML', 'ODS', 'SpeadsheetML', 'DIF', 'PDF', 'XPS', 'SVG', 'TIFF', 'JPEG', 'PNG', 'BMP', 'GIF', 'EMF', 'Excel-to-PDF', 'Excel-to-PDF/A', 'Workbook-to-PDF/A', 'Excel-to-Image', 'Worksheet-to-Image', 'Excel-to-PNG', 'Excel-to-TIFF', 'Worksheet-to-SVG', 'Excel-to-SVG', 'Workbook-to-PDF', 'Workbook-Formulas', 'Spreadsheet-API', 'Aspose.Cells', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'Chart', 'Chart-Rendering', 'OLE-Objects', 'Range', 'C++', 'CPP', 'Native']
+tags: ['Excel-to-PDF', 'Excel-to-PDFA', 'Workbook-to-PDFA', 'Excel-to-Image', 'Worksheet-to-Image', 'Excel-to-PNG', 'Excel-to-TIFF', 'Worksheet-to-SVG', 'Excel-to-SVG', 'Workbook-to-PDF', 'Workbook-Formulas', 'Spreadsheet-API', 'Aspose.Cells', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'Chart', 'Chart-Rendering', 'OLE-Objects', 'Range', 'C++', 'CPP', 'Native']
 weight:  3
 ---
 
@@ -32,7 +32,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Cells.Cpp/" tex
 
 [Product Page](https://products.aspose.com/cells/cpp/) | [Docs](https://docs.aspose.com/cells/cpp/) | [Demos](https://products.aspose.app/cells/family) | [API Reference](https://reference.aspose.com/cells/cpp) | [Examples](https://github.com/aspose-cells/Aspose.Cells-for-C) | [Blog](https://blog.aspose.com/category/cells/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-[Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) is a native C++ library to create, manipulate, process, and convert Microsoft Excel® files without needing Microsoft Office® or Automation. The Excel C++ API supports Excel 97-2003 (XLS), Excel 2007-2013/2016 (XLSX, XLSM, XLSB), OpenOffice XML, and other formats such as CSV, TSV, and more.
+Aspose.Cells for C++ is a native C++ library to create, manipulate, process, and convert Microsoft Excel® files without needing Microsoft Office® or Automation. The Excel C++ API supports Excel 97-2003 (XLS), Excel 2007-2013/2016 (XLSX, XLSM, XLSB), OpenOffice XML, and other formats such as CSV, TSV, and more.
 
 ## Why download Aspose.Cells for C++?
 
@@ -47,16 +47,16 @@ Aspose.Cells for C++ allows you to work with the built-in as well as the custom 
 ## Excel File Processing Features
 
 - Open a spreadsheet file without Microsoft Excel.
-- [Open an Excel file](https://docs.aspose.com/cells/cpp/opening-files/) via a path on the local computer or using a stream.
-- [Convert worksheet](https://docs.aspose.com/cells/cpp/converting-worksheet-to-different-image-formats/) to different image formats.
-- [Apply conditional formatting](https://docs.aspose.com/cells/cpp/apply-conditional-formatting-in-worksheet/) as per your choice.
-- [Manipulate pivot tables](https://docs.aspose.com/cells/cpp/manipulate-pivot-table/) in your spreadsheets.
-- [Convert table to range](https://docs.aspose.com/cells/cpp/tables-and-ranges/) without losing formatting.
-- Fetch a cell's name by providing the row and column index, similarly, [fetch row and column index of the cell](https://docs.aspose.com/cells/cpp/names-and-indices/) from its name.
-- Create [Pyramid chart, Line chart, Bubble chart](https://docs.aspose.com/cells/cpp/creating-and-customizing-charts/), or a custom chart.
-- [Render](https://docs.aspose.com/cells/cpp/chart-rendering/) supported chart types to images or PDF.
-- [Insert an OLE object into the worksheet](https://docs.aspose.com/cells/cpp/inserting-ole-objects-into-the-worksheet/).
-- Access all the OLE objects contained in the worksheet for [extraction](https://docs.aspose.com/cells/cpp/extracting-ole-objects-from-worksheet/).
+- Open an Excel file via a path on the local computer or using a stream.
+- Convert worksheet to different image formats.
+- Apply conditional formatting as per your choice.
+- Manipulate pivot tables in your spreadsheets.
+- Convert table to range without losing formatting.
+- Fetch a cell's name by providing the row and column index, similarly, fetch row and column index of the cell from its name.
+- Create Pyramid chart, Line chart, Bubble chart, or a custom chart.
+- Render supported chart types to images or PDF.
+- Insert an OLE object into the worksheet.
+- Access all the OLE objects contained in the worksheet for extraction.
 
 ### Supported Read & Write Formats
 
@@ -74,8 +74,6 @@ Aspose.Cells for C++ allows you to work with the built-in as well as the custom 
 **Web:** HTML, MHTML\
 **Metafile:** EMF\
 **Other** DIF
-
-[Product Page](https://products.aspose.com/cells/cpp/) | [Docs](https://docs.aspose.com/cells/cpp/) | [Demos](https://products.aspose.app/cells/family) | [API Reference](https://reference.aspose.com/cells/cpp) | [Examples](https://github.com/aspose-cells/Aspose.Cells-for-C) | [Blog](https://blog.aspose.com/category/cells/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
