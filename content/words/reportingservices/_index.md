@@ -16,7 +16,7 @@ weight:  4
 
 {{< Common/h3 text="Download Aspose.Words to Export RDL & RDLC Reports"  >}}
 {{< Common/paragraph class="package-instructions">}}
-{{< Common/link href="https://products.aspose.com/words/reporting-services/" text="Aspose.Words for Reporting Services"  >}} helps you manipulate and export RDL & RDLC reports to various supported file formats (e.g. OOXML, DOC, RTF, and WordprocessingML, etc.) from within MS SQL Server Reporting Services.
+Aspose.Words for Reporting Services helps you manipulate and export RDL & RDLC reports to various supported file formats (e.g. OOXML, DOC, RTF, and WordprocessingML, etc.) from within MS SQL Server Reporting Services.
 {{< Common/release-notes-link family="words" product="reportingservices" href="https://docs.aspose.com/words/reportingservices/release-notes/" text="https://docs.aspose.com/words/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
@@ -89,10 +89,6 @@ weight:  4
 - Microsoft.ReportingServices.ReportViewerControl.Winforms, Microsoft.ReportingServices.ReportViewerControl.WebForms controls of 140.X.X and 150.X.X versions
 - Microsoft Visual Studio 2005/ 2008/ 2010/ 2012/ 2013/ 2015 Report Designer
 
-[Product Page](https://products.aspose.com/words/reporting-services/) | [Docs](https://docs.aspose.com/words/reportingservices/) | [API Reference](https://reference.aspose.com/words/) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words/8) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-{{< Common/hr >}}
-
 {{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
@@ -109,4 +105,3 @@ weight:  4
 
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-
