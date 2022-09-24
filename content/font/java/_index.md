@@ -1,69 +1,51 @@
 ---
-title: "Download Font Drawing & Processing JAR Files | Aspose.Font"
-description: "Download Java classes as JAR to render, process, & convert fonts (TTF, TTC, OpenType, CFF, Type1, etc.). Supports compact font, Latin font, symbols & glyphs."
+title: "Download Font Manipulation C++ Library DLL | Aspose.Font API"
+description: "Download C++ code library for font detection, extraction & manipulation via API. Supports TrueType, OpenType, CFF & Type1 fonts, Symbols, Glyphs, Licensing."
 keywords: "font"
-family_listing_page_title: "Aspose.Font for Java"
-family_listing_page_description: "Aspose.Font for Java is flexible and easy to use library to work with different font files. API supports multiple font formats like TrueType CFF, OpenType, and Type1."
-family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-java.png"
+family_listing_page_title: "Aspose.Font for C++"
+family_listing_page_description: "A native C++ Class Library that allows manipulation of font types including CFF, TTF, TrueType, OpenType & Type1 fonts."
+family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-cpp.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
-family_listing_page_package: "268"
-homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/font/"
-tags: ['Aspose.Total', 'Aspose.Font', 'Aspose-Java-API', 'font-java-library', 'font-java-class', 'TTF', 'TTC', 'OpenType', 'CFF', 'Type1', 'postscript', 'scalabale-font', 'true-type', 'compact-font', 'latin-font', 'symbols', 'glyphs', 'font-rendering', 'render-text', 'Windows', 'Linux', 'Mac', 'J2SE', 'Maven', 'font-converter', 'font-conversion', 'WOFF', 'WOFF2', 'EOT', 'TTF-to-WOFF', 'TTF-to-WOFF2', 'WOFF-to-TTF', 'WOFF-to-WOFF2', 'WOFF2-to-TTF', '', 'WOFF2-to-WOFF', 'EOT-to-TTF', 'EOT-to-WOFF', 'EOT-to-WOFF2', 'Type1-to-TFF', 'Type1-to-WOFF', 'Type1-to-WOFF2', 'CFF-to-TTF', 'CFF-to-WOFF', 'CFF-to-WOFF2', 'load-font']
-weight:  2
+family_listing_page_package: "267"
+homepage_package_type: "NuGet"
+homepage_package_link: "https://www.nuget.org/packages/Aspose.Font.Cpp/"
+tags: ['Aspose.Font', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'TTF', 'TTC', 'OpenType', 'CFF', 'Type1', 'Font', 'Fonts-API', 'Assembly', 'API', 'Component', 'Font-C++-API', 'C++', 'Glyphs', 'Latin-Fonts', 'C++-Native-Library', 'Windows', 'Visual-C++', 'Microsoft', 'CFF-Font', 'Native', 'C++', 'CPP', 'Library']
+weight:  3
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/font" linktext=" Support Forum " >}}
 
-{{< Common/h2 text="Download Aspose.Font to Draw and work with Fonts"  >}}
+{{< Common/h2 text="Download Font Manipulation C++ Library"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/font/" text="Aspose.Font for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/font/java/installation/" text="Installing Aspose.Font for Java from Maven Repository"  >}} documentation page.
-{{< Common/release-notes-link family="font" product="java" href="https://docs.aspose.com/font/java/release-notes/" text="https://docs.aspose.com/font/java/release-notes/"  >}}
+Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Font.Cpp/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.Font.Cpp</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/font/cpp/installation/" text="Installation"  >}} documentation page.
+{{< Common/release-notes-link family="font" product="cpp" href="https://docs.aspose.com/font/cpp/release-notes/" text="https://docs.aspose.com/font/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
-
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-font</artifactId>
-      <version>22.6</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
+{{< consolebox/consoleboxwrapper id="nuget" >}}
+       {{< consolebox/spantext text="PM" >}}
+       {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.Font.Cpp {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
 
-[Product Page](https://products.aspose.com/font/java) | [Docs](https://docs.aspose.com/font/java/) | [API Reference](https://apireference.aspose.com/font/java) | [Examples](https://github.com/aspose-font/Aspose.Font-for-Java) | [Blog](https://blog.aspose.com/category/font/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/font) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+![Nuget](https://img.shields.io/nuget/v/Aspose.font.Cpp) ![Nuget](https://img.shields.io/nuget/dt/Aspose.font.Cpp?label=nuget%20downloads)
 
-## Why download Aspose.Font for Java?
+[Product Page](https://products.aspose.com/font/cpp/) | [Docs](https://docs.aspose.com/font/cpp/) | [API Reference](https://reference.aspose.com/font/cpp) | [Examples](https://github.com/aspose-font/Aspose.Font-for-C) | [Blog](https://blog.aspose.com/category/font/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/font) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-[Aspose.Font for Java](https://products.aspose.com/font/java) is a font loading and drawing library. It supports multiple front formats such as TrueType (with TrueType collectons), CFF, OpenType, and Type1. The API provides rich functionality to load/save font and provide information about its data structures along with any glyph that is supported by all the font types. It also provides encoding information for all the font types which represents a mapping between character codes and glyph identifiers. Its rendering subsystem helps end-users to render any desired glyph or text. Special glyphs can be rendered by implementing interface using simple graphics functionality (move point, draw line, curve).
+## Why download Aspose.Font for C++?
 
-## Font API Features
+Aspose.Font for C++ is a C++ API that offers you a library of readily available C++ code for font processing and manipulation. Our API enables your C++ applications to load, edit, and save font data as well as render any desired Glyph or text.
 
-- [Load font files from disc](https://docs.aspose.com/font/java/loading-saving-cff-fonts/) as well as stream.
+## Font Processing Features
+
+- Load font files from disc as well as stream.
 - Read font information and save updated font files to disc.
-- Support for [*`TrueType`* and *`OpenType`*](https://docs.aspose.com/font/java/working-with-truetype-and-opentype-fonts/) Fonts.
-- Load `TrueType` Font types from locally stored files, update parameters and save.
-- Work with Glyphs and Metrics of `TrueType` Fonts.
-- Render text using `TrueType` and `Type1` font.
+- Support for *TrueType* and *OpenType* Fonts.
+- Work with CFF & Type1 fonts in your C++ Apps.
+- Read Glyphs and Metrics information from Font files.
 - Detect Latin Symbols in Fonts.
-- Load and extract data from `Type1` Font stored at the local disc.
-- Work with Glyphs and Metrics of `Type1` Fonts.
-- Render text using custom interfaces.
-
-For a more comprehensive list of features, please visit [Feature Overview](https://docs.aspose.com/font/java/feature-list/).
+- Extract embedded licensing information from font files.
+- Render text using font Glyphs.
 
 ### Read & Write Font Formats
 
@@ -71,16 +53,14 @@ TTF
 
 ### Read Font Formats
 
-TTC, OpenType, CFF, Type1
+TTC, OpenType, CFF, Type1, WOFF/WOFF2
 
-### Supported Environments
+### Supported Platforms
 
-- **Microsoft Windows&reg;:** Windows Desktop & Server (x86, x64), Windows Azure
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, CentOS, and others
-- **Java Versions:** `J2SE 8.0 (1.8)` or above.
+Aspose.Font for C++ is a native library. It supports `32-bit` as well as `64-bit` operating systems. Also, you can use Aspose.Font for C++ to develop applications in any development environment that supports C++, but the listed environments are explicitly supported.
 
-[Product Page](https://products.aspose.com/font/java) | [Docs](https://docs.aspose.com/font/java/) | [API Reference](https://apireference.aspose.com/font/java) | [Examples](https://github.com/aspose-font/Aspose.Font-for-Java) | [Blog](https://blog.aspose.com/category/font/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/font) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+**Microsoft Windows&reg;:** Microsoft Windows desktop (XP, Vista, 7, 8, 10) and server operating systems (2003, 2008, 2012), etc.
+**Development Environments:** Microsoft Visual C++ version 2017 or higher.
 
 {{< Common/hr >}}
 
@@ -92,7 +72,7 @@ TTC, OpenType, CFF, Type1
 
 {{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="font" product="java" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="font" product="cpp" >}}
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
