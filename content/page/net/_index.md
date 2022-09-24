@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "168"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Page/"
-tags: ['.NET', 'API', '.net-core', '.net-framework', '.netstandard', 'C#', '.net-library', '.netcore', '.netframework', 'Aspose', 'Aspose.Page', 'PS', 'EPS', 'XPS', 'PostScript', 'PDF', 'convert', 'conversion', 'ps-to-pdf', 'ps-to-png', 'ps-to-jpg', 'ps-to-tiff', 'ps-to-bmp', 'eps-to-pdf', 'eps-to-png', 'eps-to-jpg', 'eps-to-tiff', 'eps-to-bmp', 'xps-to-pdf', 'xps-to-png', 'xps-to-jpg', 'xps-to-tiff', 'xps-to-bmp', 'sign-XPS', 'eSign', 'electronic', 'signature', 'Windows', 'macOS', 'Linux', 'ASP.NET', 'Windows.Forms', 'postscript-to-pdf', 'postscript-to-png', 'bulk', 'Assembly', 'Component', 'Library', 'Aspose.Total', 'Conholdate', 'Conholdate.Total']
+tags: ['ps-to-pdf', 'ps-to-png', 'ps-to-jpg', 'ps-to-tiff', 'ps-to-bmp', 'eps-to-pdf', 'eps-to-png', 'eps-to-jpg', 'eps-to-tiff', 'eps-to-bmp', 'xps-to-pdf', 'xps-to-png', 'xps-to-jpg', 'xps-to-tiff', 'xps-to-bmp', 'postscript-to-pdf', 'postscript-to-png']
 weight:  1
 ---
 
@@ -32,16 +32,16 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Page/" text="Nu
 
 [Product Page](https://products.aspose.com/page/net/) | [Docs](https://docs.aspose.com/page/net/) | [Demos](https://products.aspose.app/page/family) | [API Reference](https://reference.aspose.com/page/net/) | [Examples](https://github.com/aspose-page/Aspose.Page-for-.NET) | [Blog](https://blog.aspose.com/category/page/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/page) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-[Aspose.Page for .NET](https://products.aspose.com/page/net/) is an on premise .NET API that allows you to add XPS manipulation features to your own applications. The API also supports converting XPS, EPS & PS documents to other formats.
+Aspose.Page for .NET is an on premise .NET API that allows you to add XPS manipulation features to your own applications. The API also supports converting XPS, EPS & PS documents to other formats.
 
 ## Why download Aspose.Page for .NET?
 
-Developers can perform various operations on XPS documents, such as, add text, images, pages, gradient, grid using the visual brush, [transparency object](https://docs.aspose.com/page/net/add-transparent-object-inside-xps-document/) and [set opacity mask](https://docs.aspose.com/page/net/set-opacity-mask/). It allows you to create, edit and convert the file pages as well as the ability to manipulate documents and elements, create vector graphics, group shapes, and specifying colors in different color spaces including sRGB, scRGB, and any space-based on ICC profile.
+Developers can perform various operations on XPS documents, such as, add text, images, pages, gradient, grid using the visual brush, transparency object and set opacity mask. It allows you to create, edit and convert the file pages as well as the ability to manipulate documents and elements, create vector graphics, group shapes, and specifying colors in different color spaces including sRGB, scRGB, and any space-based on ICC profile.
 
 ## XPS, EPS & PS Processing Features
 
 - Create & modify XPS documents via API.
-- [Add pages to XPS](https://docs.aspose.com/page/net/add-pages-to-xps-document/) documents.
+- Add pages to XPS documents.
 - Create vector graphic shapes (Path element) and text strings (Glyphs element).
 - Group various elements as well as modify the appearance of text strings and graphics.
 - Support for visual brush, image brush, solid color brush, and more.
@@ -65,8 +65,6 @@ XPS, EPS, PS
 **Metafiles:** EMF, WMF\
 **Animation:** GIF\
 **Image:** BMP, TIFF, JPEG, PNG
-
-[Product Page](https://products.aspose.com/page/net/) | [Docs](https://docs.aspose.com/page/net/) | [Demos](https://products.aspose.app/page/family) | [API Reference](https://reference.aspose.com/page/net/) | [Examples](https://github.com/aspose-page/Aspose.Page-for-.NET) | [Blog](https://blog.aspose.com/category/page/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/page) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
