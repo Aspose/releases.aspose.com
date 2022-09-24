@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "160"
 homepage_package_type: "Maven"
 homepage_package_link: "https://repository.aspose.com/psd/"
-tags: ['Aspose.Total', 'Aspose.PSD', 'Aspose-Java-API', 'psd-java-library', 'psd-java-class', 'PSD', 'PSB', 'TIFF', 'JPEG', 'PNG', 'GIF', 'BMP', 'JPEG2000', 'PDF', 'AI', 'convert-format', 'image-loading', 'photoshop', 'raw-data-processing', 'image-compression', 'psd-compression', 'image-rotation', 'flip-image', 'image-scale', 'cache-system', 'exif-data', 'dithering', 'crop', 'vector-to-raster', 'cubic-bézier', 'matrix-transformation', 'Maven', 'Windows', 'Linux', 'Mac', 'JDK', 'adjustment-layer', 'median-filter', 'wiener-filter', 'graphics', 'linked-layer', 'text-layer']
+tags: ['raw-data-processing', 'image-compression', 'psd-compression', 'image-rotation', 'flip-image', 'image-scale', 'cache-system', 'exif-data', 'dithering', 'crop', 'vector-to-raster', 'cubic-bézier', 'matrix-transformation', 'adjustment-layer', 'median-filter', 'wiener-filter', 'graphics', 'linked-layer', 'text-layer']
 weight:  2
 ---
 
@@ -19,7 +19,7 @@ weight:  2
 
 {{< Common/h3 text="Download Aspose.PSD Java JAR to process Photoshop® Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/psd/" text="Aspose.PSD for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/psd/java/installation/" text="Installing Aspose.PSD for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the Aspose.PSD for Java API directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/psd/java/installation/" text="Installing Aspose.PSD for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="psd" product="java" href="https://docs.aspose.com/psd/java/release-notes/" text="https://docs.aspose.com/psd/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 
@@ -48,7 +48,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 
 ## Why download Aspose.PSD for Java?
 
-[Aspose.PSD for Java](https://products.aspose.com/psd/java) is an easy to use Adobe Photoshop&reg; file format manipulation API. It can easily load and read PSD, PSB & AI files, making it possible for the Java developers to perform operations like updating layer properties, adding watermarks, compression, rotation, scaling or rendering one file format to another without needing to install Adobe Photoshop&reg;.
+Aspose.PSD for Java is an easy to use Adobe Photoshop&reg; file format manipulation API. It can easily load and read PSD, PSB & AI files, making it possible for the Java developers to perform operations like updating layer properties, adding watermarks, compression, rotation, scaling or rendering one file format to another without needing to install Adobe Photoshop&reg;.
 
 ## Photoshop® File Processing
 
@@ -77,8 +77,6 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 - **macOS:** Mac OS X
 - **Linux:** Ubuntu, OpenSUSE, CentOS, and others
 - **Java Versions:** `J2SE 6.0 (1.6)` or above
-
-[Product Page](https://products.aspose.com/psd/java) | [Docs](https://docs.aspose.com/psd/java/) | [Demos](https://products.aspose.app/psd/family) | [API Reference](https://reference.aspose.com/psd/java) | [Examples](https://github.com/aspose-psd/Aspose.PSD-for-Java) | [Blog](https://blog.aspose.com/category/psd/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/psd) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
