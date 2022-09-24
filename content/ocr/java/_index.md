@@ -11,15 +11,15 @@ family_listing_page_venture: "4"
 family_listing_page_package: "19"
 homepage_package_type: "Maven"
 homepage_package_link: "https://repository.aspose.com/ocr/"
-tags: ['Aspose.Total', 'Aspose.OCR', 'Aspose-Java-API', 'ocr-java-library', 'ocr-java-class', 'Maven', 'JPEG', 'PNG', 'GIF', 'BMP', 'TIFF', 'TXT', 'DOCX', 'PDF', 'Windows', 'Linux', 'Mac', 'J2SE', 'JSON', 'optical-character-recognition', 'OCR', 'recognize-text', 'recognize-image', 'spell-correction', 'spell-check', 'skew-correction', 'image-correction', 'recognize-pdf', 'recognize-tiff', 'searchable-pdf', 'searchable-docx', 'multi-lang-ocr', 'recognize-multi-image', 'multi-threading', 'image-detection', 'text-detection']
+tags: ['optical-character-recognition', 'OCR', 'recognize-text', 'recognize-image', 'spell-correction', 'spell-check', 'skew-correction', 'image-correction', 'recognize-pdf', 'recognize-tiff', 'searchable-pdf', 'searchable-docx', 'multi-lang-ocr', 'recognize-multi-image', 'multi-threading', 'image-detection', 'text-detection']
 weight:  2
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/ocr" linktext=" Support Forum " >}}
 
-{{< Common/h2 text="Download Aspose.OCR to extract image text"  >}}
+{{< Common/h1 text="Download Aspose.OCR to extract image text"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/ocr/" text="Aspose.OCR for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/ocr/java/installation/" text="Installing Aspose.OCR for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the Aspose.OCR for Java API directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/ocr/java/installation/" text="Installing Aspose.OCR for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="ocr" product="java" href="https://docs.aspose.com/ocr/java/release-notes/" text="https://docs.aspose.com/ocr/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 
@@ -48,7 +48,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 
 ## Why download Aspose.OCR for Java?
 
-[Aspose.OCR for Java](https://products.aspose.com/ocr/java) is a character and optical mark recognition API that allows developers to add OCR functionality in their applications. It provides a simple set of classes for controlling character recognition.
+Aspose.OCR for Java is a character and optical mark recognition API that allows developers to add OCR functionality in their applications. It provides a simple set of classes for controlling character recognition.
 
 ## Convert Image to Text via Java
 
@@ -94,8 +94,6 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 - **macOS:** Mac OS X
 - **Linux:** Ubuntu, OpenSUSE, CentOS, and others
 - **Java Versions:** `J2SE 6.0 (1.6)` or above
-
-[Product Page](https://products.aspose.com/ocr/java) | [Docs](https://docs.aspose.com/ocr/java/) | [Demos](https://products.aspose.app/ocr/family) | [API Reference](https://reference.aspose.com/ocr/java) | [Examples](https://github.com/aspose-ocr/Aspose.OCR-for-Java) | [Blog](https://blog.aspose.com/category/ocr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/ocr) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
