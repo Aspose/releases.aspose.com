@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "275"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.TeX/"
-tags: ['Aspose.TeX', 'Aspose.Total', 'Conholdate.Total', 'Conholdate', 'Aspose', 'TeX', 'Tex-Engine', 'TeX-Format', '.NET', 'C#', 'CSharp', 'TeX-Extension', 'TeX-Creator', 'TypeSetting', 'TypeSet', 'Windows-Azure', '.NET-Core', '.NET2.0', '.NET2.1', 'Framework', 'WinForms', 'Windows-Forms', 'Conversion', 'Component', 'VisualStudio', 'Standard', 'XPS', 'PDF', 'JPEG', 'PNG', 'TIFF', 'BMP', 'ZIP', 'Azure', 'Windows', '.NET-Standard2.0', '.NET-Standard2.1', '.NETStandard2.0', '.NETStandard2.1', 'API', 'Library']
+tags: ['TeX-Extension', 'TeX-Creator', 'TypeSetting', 'TypeSet', 'Component', 'PNG', 'TIFF', 'BMP', 'ZIP', 'Azure', 'Windows', 'API', 'Library']
 weight:  1
 ---
 
@@ -34,7 +34,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.TeX/" text="NuG
 
 ## Why download Aspose.TeX for .NET?
 
-[Aspose.TeX for .NET](https://products.aspose.com/tex/net/) is a library that provides a TeX engine extension called ObjectTeX. It can be used to typeset documents described by TeX files. “Object” means that intermediary typesetting result is a specific object model which then can be uniformly converted into a number of end formats.
+Aspose.TeX for .NET is a library that provides a TeX engine extension called ObjectTeX. It can be used to typeset documents described by TeX files. “Object” means that intermediary typesetting result is a specific object model which then can be uniformly converted into a number of end formats.
 
 ## TypeSetting File Processing Features
 
@@ -54,8 +54,6 @@ XPS, PDF, JPEG, PNG, TIFF and BMP
 ### Supported Embedded Fonts for Typesetting
 
 cmbsy10, cmbx10, cmbx5, cmbx6, cmbx7, cmbx8, cmbx9, cmcsc10, cmdunh10, cmex10, cmmi10, cmmi5, cmmi6, cmm7, cmmi8, cmmi9, cmmib10, cmr10, cmr5, cmr6, cmr7, cmr8, cmr9, cmsl10, cmsl8, cmsl9, cmsltt10, cmss10, cmssbx10, cmssi10, cmssq8, cmssqi8, cmsy10, cmsy5, cmsy6, cmsy7, cmsy8, cmsy9, cmti10, cmti7, cmti8, cmti9, cmtt10, cmtt8, cmtt9, cmu10
-
-[Product Page](https://products.aspose.com/tex/net/) | [Docs](https://docs.aspose.com/tex/net/) | [Demos](https://products.aspose.app/tex/family) | [API Reference](https://reference.aspose.com/tex/net/) | [Examples](https://github.com/aspose-tex/Aspose.tex-for-.NET) | [Blog](https://blog.aspose.com/category/tex/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/tex) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
