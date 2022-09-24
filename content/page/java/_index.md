@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "169"
 homepage_package_type: "Maven"
 homepage_package_link: "https://repository.aspose.com/page/"
-tags: ['Aspose.Total', 'Aspose.Page', 'Aspose-Java-API', 'page-java-library', 'page-java-class', 'XPS', 'EPS', 'PS', 'PDF', 'BMP', 'TIFF', 'JPEG', 'PNG', 'postscript', 'canvas', 'path', 'glyph', 'vector', 'bezier', 'solid-color-brush', 'image-brush', 'visual-brush', 'sRGB', 'scRGB', 'ICC', 'print-schema', 'Type2', 'CFF', 'Type14', 'Chameleon', 'CID', 'raster', 'Windows', 'Linux', 'Mac', 'J2SE', 'Maven', 'EPS-to-BMP', 'EPS-to-EMF', 'EPS-to-JPG', 'EPS-to-PDF', 'EPS-to-PNG', 'EPS-to-TIFF', 'EPS-to-WMF', 'postscript-to-BMP', 'postscript-to-JPG', 'postscript-to-PDF', 'postscript-to-PNG', 'postscript-to-TIFF', 'XPS-to-BMP', 'XPS-to-JPG', 'XPS-to-PDF', 'XPS-to-PNG', 'XPS-to-TIFF', 'text', 'image', 'page', 'gradient', 'visual-brush', 'transparency', 'tiled-image', 'horizontal-gradient', 'opacity-mask']
+tags: ['J2SE', 'Maven', 'EPS-to-BMP', 'EPS-to-EMF', 'EPS-to-JPG', 'EPS-to-PDF', 'EPS-to-PNG', 'EPS-to-TIFF', 'EPS-to-WMF', 'postscript-to-BMP', 'postscript-to-JPG', 'postscript-to-PDF', 'postscript-to-PNG', 'postscript-to-TIFF', 'XPS-to-BMP', 'XPS-to-JPG', 'XPS-to-PDF', 'XPS-to-PNG', 'XPS-to-TIFF']
 weight:  2
 ---
 
@@ -19,7 +19,7 @@ weight:  2
 
 {{< Common/h3 text="Download Aspose.Page to work with PS, EPS & XPS File Formats"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/page/" text="Aspose.Page for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/page/java/installation/" text="Installing Aspose.Page for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the Aspose.Page for Java API directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/page/java/installation/" text="Installing Aspose.Page for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="page" product="java" href="https://docs.aspose.com/page/java/release-notes/" text="https://docs.aspose.com/page/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 
@@ -46,11 +46,11 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 
 [Product Page](https://products.aspose.com/page/java) | [Docs](https://docs.aspose.com/page/java/) | [Demos](https://products.aspose.app/page/family) | [API Reference](https://reference.aspose.com/page/java) | [Examples](https://github.com/aspose-page/Aspose.Page-for-Java) | [Blog](https://blog.aspose.com/category/page/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/page) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-## Why download Aspose.Page for Java?
+### Why download Aspose.Page for Java?
 
-[Aspose.Page for Java](https://products.aspose.com/page/java) offers to creating & manipulate XPS documents. It also provides functionality to convert XPS, PS & EPS documents to  image formats & PDF.
+Aspose.Page for Java offers to creating & manipulate XPS documents. It also provides functionality to convert XPS, PS & EPS documents to  image formats & PDF.
 
-## Manipulate XPS Documents via Java
+### Manipulate XPS Documents via Java
 
 - Create and edit XPS document.
 - Add or remove pages of XPS document.
@@ -68,7 +68,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 - Manipulate hyperlinks associated with XPS elements.
 - Manipulate, save and convert XPS outline items.
 
-## Convert PostScript Files via Java
+### Convert PostScript Files via Java
 
 - Supports PostScript language levels 1-3 with an exception of font types: Type2 (CFF), Type14 (Chameleon), Types 9, 10, 11, 32 (CID-Keyed)
 - Save PS & EPS as PDF & images.
@@ -79,8 +79,6 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 - **macOS:** Mac OS X
 - **Linux:** Ubuntu, OpenSUSE, CentOS, and others
 - **Java Versions:** `J2SE 8.0 (1.8)` or above
-
-[Product Page](https://products.aspose.com/page/java) | [Docs](https://docs.aspose.com/page/java/) | [Demos](https://products.aspose.app/page/family) | [API Reference](https://reference.aspose.com/page/java) | [Examples](https://github.com/aspose-page/Aspose.Page-for-Java) | [Blog](https://blog.aspose.com/category/page/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/page) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
