@@ -16,7 +16,7 @@ weight:  5
 
 {{< Common/h4 text="Download Aspose.Total Rendering Extensions for SQL Server® Reporting Services"  >}}
 {{< Common/paragraph class="package-instructions">}}
-{{< Common/link href="https://products.aspose.com/total/reporting-services/" text="Aspose.Total for Reporting Services"  >}} is a suite of rendering extensions for MS SQL Server Reporting Services supporting many popular formats.
+Aspose.Total for Reporting Services is a suite of rendering extensions for MS SQL Server Reporting Services supporting many popular formats.
 {{< Common/release-notes-link family="total" product="reportingservices" href="https://docs.aspose.com/barcode/reportingservices/release-notes/" text="https://docs.aspose.com/barcode/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
@@ -25,15 +25,11 @@ weight:  5
 
 Aspose.Total for Reporting Services contains the following components:
 
-* [Aspose.BarCode for Reporting Services](https://products.aspose.com/barcode/reporting-services/): Enhances your SQL Reports to display 60+ types of Barcodes in High-res.
-* [Aspose.Cells for Reporting Services](https://products.aspose.com/cells/reporting-services/): Design and deliver Microsoft Excel Reports in Microsoft SQL Server Reporting Services.
-* [Aspose.PDF for Reporting Services](https://products.aspose.com/pdf/reporting-services/): Generate high-quality PDF, PDF/A, and XPS reports from MS SQL Server Reporting Services.
-* [Aspose.Slides for Reporting Services](https://products.aspose.com/slides/reporting-services/): Easily generate reports in PPT and PPS format within Microsoft SQL Server Reporting Services.
-* [Aspose.Words for Reporting Services](https://products.aspose.com/words/reporting-services/): Manipulate and export RDL & RDLC reports to supported file formats from within MS SQL Server Reporting Services.
-
-[Product Page](https://products.aspose.com/total/reporting-services/) | [Docs](https://docs.aspose.com/total/reportingservices/) | [API Reference](https://reference.aspose.com/) | [Blog](https://blog.aspose.com/categories/aspose.total-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/total/7) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-{{< Common/hr >}}
+* Aspose.BarCode for Reporting Services: Enhances your SQL Reports to display 60+ types of Barcodes in High-res.
+* Aspose.Cells for Reporting Services: Design and deliver Microsoft Excel Reports in Microsoft SQL Server Reporting Services.
+* Aspose.PDF for Reporting Services: Generate high-quality PDF, PDF/A, and XPS reports from MS SQL Server Reporting Services.
+* Aspose.Slides for Reporting Services: Easily generate reports in PPT and PPS format within Microsoft SQL Server Reporting Services.
+* Aspose.Words for Reporting Services: Manipulate and export RDL & RDLC reports to supported file formats from within MS SQL Server Reporting Services.
 
 {{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
