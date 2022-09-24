@@ -9,7 +9,7 @@ family_listing_page_selfHosted: "1"
 family_listing_page_type: "2"
 family_listing_page_venture: "4"
 family_listing_page_package: ""
-tags: ['Excel-Component', 'Aspose.Cells', 'Aspose.Cells.GridDesktop', 'Aspose.Cells.GridWeb', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'CSV', 'DIF', 'ODS', 'OpenDocument', 'OpenOffice', 'Pivot-Table', 'TabDelimited', 'TSV', 'VBA', 'XLS-to-PDF', 'XLS-to-XLSX', 'XLS-to-XPS', 'XLSX-to-DOCX', 'XLSX-to-HTML', 'XLSX-to-Markdown', 'XLSX-to-MD', 'XLSX-to-MHTML', 'XLSX-to-PDF', 'XLSX-to-PPTX', 'Excel-Alternative', 'Spreadsheet', 'Workbook', 'SpreadsheetML', 'XLS', 'XLSX', 'XLSB', 'XLSM', 'XLT', 'XLTX', 'XLTM', 'XLAM', 'CSV', 'TSV', 'TXT', 'HTML', 'MHTML', 'ODS', 'Numbers', 'DIF', 'PDF', 'XPS', 'SVG', 'TIFF', 'PNG', 'BMP', 'EMF', 'JPEG', 'GIF', 'Markdown', 'MD', 'SXC', 'FODS', 'DOCX', 'PPTX', 'CHART-TO-IMAGE', 'Encryption', 'Decryption', 'Print', 'Cells', 'Sparkline', 'Slicer', 'Table', 'jasperreports']
+tags: ['XLS-to-PDF', 'XLS-to-XLSX', 'XLS-to-XPS', 'XLSX-to-DOCX', 'XLSX-to-HTML', 'XLSX-to-Markdown', 'XLSX-to-MD', 'XLSX-to-MHTML', 'XLSX-to-PDF', 'XLSX-to-PPTX']
 weight:  8
 ---
 
@@ -17,7 +17,15 @@ weight:  8
 
 {{< Common/h3 text="Download Aspose.Cells to Export JasperReports® to Spreadsheet Formats"  >}}
 {{< Common/paragraph class="package-instructions">}}
-{{< Common/link href="https://products.aspose.com/cells/jasperreports/" text="Aspose.Cells for JasperReports"  >}} helps you export the reports from the JasperReports&reg; and JasperServer&reg; to the supported file formats without losing any layout or formatting details. The charts converted into the Microsoft Excel&reg; format remain editable.
+Aspose.Cells for JasperReports helps you export the reports from the JasperReports&reg; and JasperServer&reg; to the supported file formats without losing any layout or formatting details. The charts converted into the Microsoft Excel&reg; format remain editable.
+
+{{< Common/h4 class=" " text="Try Free Online Excel® Processing Apps" >}}
+{{< Common/ul>}}
+{{< Common/li >}} {{< Common/link href="https://products.aspose.app/cells/editor" text="Free Excel® Editor Online App to modify Excel® & OpenOffice spreadsheets"  >}} {{< /Common/li >}}
+{{< Common/li >}} {{< Common/link href="https://products.aspose.app/cells/conversion" text="Free Excel® Converter Online App to convert spreadsheets to various supported formats."  >}} {{< /Common/li >}}
+{{< Common/li >}} {{< Common/link href="https://products.aspose.app/cells/parser" text="Free Spreadsheet Parsing Online App to parse text & images form XLS, ODS, & NUMBERS formats"  >}} {{< /Common/li >}}
+{{< /Common/ul>}}
+
 {{< Common/release-notes-link family="cells" product="jasperreports" href="https://docs.aspose.com/cells/jasperreports/release-notes/" text="https://docs.aspose.com/jasperreports/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
@@ -44,8 +52,6 @@ weight:  8
 
 - Java 2 Platform Standard Edition 1.6 or higher.
 - JasperReports 6.3.0 or higher
-
-[Product Page](https://products.aspose.com/cells/jasperreports/) | [Docs](https://docs.aspose.com/cells/jasperreports/) | [API Reference](https://reference.aspose.com/cells/) | [Blog](https://blog.aspose.com/category/cells/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
