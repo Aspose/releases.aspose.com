@@ -15,7 +15,7 @@ weight: 11
 
 {{< Common/h3 text="Download Aspose.Cells Python Library for Spreadsheet Processing"  >}}
 {{< Common/paragraph class="package-instructions">}}
-{{< Common/link href="https://products.aspose.com/cells/python-net/" text="Aspose.Cells for Python via .NET"  >}} is a scalable and feature-rich API to process Excel&reg; spreadsheets using Python. API offers Excel&reg; file creation, manipulation, conversion and rendering. Developers can format worksheets, rows, columns or cells to the most granular level, create manipulate chart and pivot tables, render worksheets, charts and specific data ranges to PDF or images, add calculate Excel&reg;'s built-in and custom formulas and much more - all without any dependency on Microsoft Office or Excel&reg; application.
+Aspose.Cells for Python via .NET is a scalable and feature-rich API to process Excel&reg; spreadsheets using Python. API offers Excel&reg; file creation, manipulation, conversion and rendering. Developers can format worksheets, rows, columns or cells to the most granular level, create manipulate chart and pivot tables, render worksheets, charts and specific data ranges to PDF or images, add calculate Excel&reg;'s built-in and custom formulas and much more - all without any dependency on Microsoft Office or Excel&reg; application.
 Please use the following {{< Common/link href="https://pypi.org/project/aspose-cells-python/" text="pip"  >}} command:
 {{< Common/release-notes-link family="cells" product="python-net" href="https://docs.aspose.com/cells/python-net/release-notes/" text="https://docs.aspose.com/cells/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
@@ -75,8 +75,6 @@ Your machine does not need to have Microsoft Excel&reg; or OpenOffice&reg; softw
 **Microsoft Windows&reg;:** Windows Desktop & Server (`x64`, `x86`)\
 **Linux:** Ubuntu, OpenSUSE, CentOS, and others\
 **Other:** Any operating system (OS) that can install Mono(.NET 4.0 Framework support) or use .NET core.
-
-[Product Page](https://products.aspose.com/cells/python-net/) | [Docs](https://docs.aspose.com/cells/python-net/) | [Demos](https://products.aspose.app/cells/family/) | [API Reference](https://reference.aspose.com/cells/net/) | [Examples](https://github.com/aspose-cells/Aspose.Cells-for-Python-via-.NET) | [Blog](https://blog.aspose.com/category/cells/) | [Free Support](https://forum.aspose.com/c/cells) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
