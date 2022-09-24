@@ -10,8 +10,8 @@ family_listing_page_venture: "4"
 family_listing_page_package: "214"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.PUB.Cpp"
-tags: ['API', 'Aspose', 'Aspose.PUB', 'Aspose.Total', 'Assembly', 'C++', 'Component', 'Conholdate', 'Conholdate.Total', 'Convert-PUB', 'Converter', 'Document', 'File-Format', 'Library', 'Metadata', 'Microsoft', 'PDF', 'PUB', 'PUB-to-PDF', 'VisualStudio', 'Publisher', 'Publisher-API', 'Native', 'CPP']
 weight:  3
+tags: ['API', 'Aspose', 'Aspose.PUB', 'Aspose.Total', 'Assembly', 'C++', 'Component', 'Conholdate', 'Conholdate.Total', 'Convert-PUB', 'Converter', 'Document', 'File-Format', 'Library', 'Metadata', 'Microsoft', 'PDF', 'PUB', 'PUB-to-PDF', 'VisualStudio', 'Publisher', 'Publisher-API', 'Native', 'CPP']
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/pub" linktext=" Support Forum " >}}
@@ -33,12 +33,12 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.PUB.Cpp/" text=
 
 ## Why download Aspose.PUB for C++?
 
-[Aspose.PUB for C++](https://products.aspose.com/pub/cpp/) is a simple API that allows you to read & convert Microsoft Publisher&reg; (PUB) files to PDF format programmatically in your C++ Apps. It also provides easy-to-understand interfaces to edit the metadata of PUB files.
+Aspose.PUB for C++ is a simple API that allows you to read & convert Microsoft Publisher&reg; (PUB) files to PDF format programmatically in your C++ Apps. It also provides easy-to-understand interfaces to edit the metadata of PUB files.
 
 ## PUB File Processing Features
 
-- Read Microsoft Publisher&reg; [(PUB) files for conversion to PDF](https://docs.aspose.com/pub/cpp/pub-to-pdf/) format.
-- [Read & Edit metadata of PUB files](https://docs.aspose.com/pub/cpp/programming-with-documents/) via API.
+- Read Microsoft Publisher&reg; (PUB) files for conversion to PDF format.
+- Read & Edit metadata of PUB files via API.
 
 ### Read PUB Files
 
@@ -51,8 +51,6 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.PUB.Cpp/" text=
 ### Platform Independence
 
 You can use Aspose.PUB for C++ to build any type of 32-bit and 64-bit C++ applications. You can use it on the server and client-side by simply copying the assembly without worrying about other services or modules.
-
-[Product Page](https://products.aspose.com/pub/cpp/) | [Docs](https://docs.aspose.com/pub/cpp/) | [API Reference](https://reference.aspose.com/pub/cpp) | [Examples](https://github.com/aspose-pub/Aspose.PUB-for-C) | [Blog](https://blog.aspose.com/category/pub/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pub) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
