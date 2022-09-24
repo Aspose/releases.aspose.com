@@ -17,6 +17,14 @@ weight: 7
 {{< Common/h3 text="Download Aspose.Cells for Excel® Conversion in SharePoint®"  >}}
 {{< Common/paragraph class="package-instructions">}}
 {{< Common/link href="https://products.aspose.com/cells/sharepoint/" text="Aspose.Cells for SharePoint"  >}} allows processing and converting Microsoft Excel&reg; files within your SharePoint&reg; Apps.
+
+{{< Common/h4 class=" " text="Try Free Online Excel® Processing Apps" >}}
+{{< Common/ul>}}
+{{< Common/li >}} {{< Common/link href="https://products.aspose.app/cells/editor" text="Free Excel® Editor Online App to modify Excel® & OpenOffice spreadsheets"  >}} {{< /Common/li >}}
+{{< Common/li >}} {{< Common/link href="https://products.aspose.app/cells/conversion" text="Free Excel® Converter Online App to convert spreadsheets to various supported formats."  >}} {{< /Common/li >}}
+{{< Common/li >}} {{< Common/link href="https://products.aspose.app/cells/parser" text="Free Spreadsheet Parsing Online App to parse text & images form XLS, ODS, & NUMBERS formats"  >}} {{< /Common/li >}}
+{{< /Common/ul>}}
+
 {{< Common/release-notes-link family="cells" product="sharepoint" href="https://docs.aspose.com/cells/sharepoint/release-notes/" text="https://docs.aspose.com/cells/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
@@ -28,26 +36,35 @@ weight: 7
 - Combine files of various formats into a single one.
 - Recursively convert all documents within a folder and its subfolders.
 - Overwrite any existing files at the destination folder.
-- Preview Microsoft Excel&reg; files within SharePoint.
+- Preview Microsoft Excel&reg; files within SharePoint&reg;.
 - Availability of the Aspose Tools Ribbon within the SharePoint 2010.
-- Search within Microsoft Excel&reg; documents stored at your SharePoint site.
+- Search within Microsoft Excel&reg; documents stored at your SharePoint&reg; site.
 - Advanced search options let your search for specific Excel&reg; formulas or expressions.
 - Support for case-sensitive search is also available.
 - Add footer and watermark to single or multiple Excel&reg; files.
+- Convert individual or multiple files from Excel&reg; to other supported formats.
+
+### Supported Excel&reg; Preview Formats in SharePoint&reg;
+
+- XLS (Microsoft Excel&reg; 97 - 2003)
+- XLSX (Office Open XML)
+- XLSM, XLTX, XLTM (Office&reg; Open XML)
+- XML (Microsoft Excel&reg; SpreadsheetML)
 
 ### Supported Read & Write Formats
 
 **Microsoft Excel&reg;:** XLS, XLSX, XLSB, XLSM, XLTX, XLTM, XML, CSV, TSV, TabDelimited\
-**OpenOffice:** ODS\
+**OpenDocument Spreadsheet:** ODS\
 **Text:** TXT\
-**Web:** HTML, MHTML
 
 ### Save Excel&reg; Files As
 
+**Apache OpenOffice Calc:** DIF\
 **Fixed Layout:** PDF, XPS\
 **Vector Graphics:** SVG\
 **Image:** TIFF, PNG, BMP, JPEG, GIF\
-**Metafile:** EMF
+**Metafile:** EMF\
+**Web:** MHTML
 
 ### System Requirements
 
@@ -69,8 +86,6 @@ weight: 7
 - Mozilla Firefox
 - Google Chrome
 - Safari
-
-[Product Page](https://products.aspose.com/cells/sharepoint/) | [Docs](https://docs.aspose.com/cells/sharepoint/) | [API Reference](https://reference.aspose.com/cells/) | [Blog](https://blog.aspose.com/category/cells/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
