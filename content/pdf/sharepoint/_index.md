@@ -18,7 +18,7 @@ weight: 6
 
 {{< Common/h3 text="Download Aspose.PDF to Export, Convert PDF in SharePoint®"  >}}
 {{< Common/paragraph class="package-instructions">}}
-{{< Common/link href="https://products.aspose.com/pdf/sharepoint/" text="Aspose.PDF for SharePoint"  >}} helps you work with, export, convert and merge PDF files within your SharePoint sites.
+Aspose.PDF for SharePoint helps you work with, export, convert and merge PDF files within your SharePoint sites.
 {{< Common/release-notes-link family="pdf" product="sharepoint" href="https://docs.aspose.com/pdf/sharepoint/release-notes/" text="https://docs.aspose.com/pdf/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
@@ -59,10 +59,6 @@ weight: 6
 - Mozilla Firefox 3.5
 - Google Chrome 3
 - Safari 4
-
-[Product Page](https://products.aspose.com/pdf/sharepoint/) | [Docs](https://docs.aspose.com/pdf/sharepoint/) | [API Reference](https://reference.aspose.com/pdf/) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf/14) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-{{< Common/hr >}}
 
 {{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
