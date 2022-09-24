@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "206"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.OCR.Cpp"
-tags: ['Aspose.OCR', 'Aspose.Total', 'C++', 'OCR-C++-API', 'API', 'Component', 'Library', 'English-OCR', 'German-OCR', 'Portuguese-OCR', 'Spanish-OCR', 'French-OCR', 'Italian-OCR', 'Skew', 'Image-OCR', 'Optical-Recognition', 'Image-Recognition', 'Character-Recognition', 'JPEG', 'PNG', 'BMP', 'OCR-Deep-Learning', 'Computer-Vision', 'Native-C++-Library', 'Page-OCR', 'Line-OCR', 'Calculate-Skew', 'Skew-Correction', 'Language-OCR', 'Zonal-OCR', 'Optical-Character-Recognition', 'OCR-Area-Detection', 'OCR-to-JSON', 'Conholdate', 'Native', 'CPP']
+tags: ['English-OCR', 'German-OCR', 'Portuguese-OCR', 'Spanish-OCR', 'French-OCR', 'Italian-OCR', 'Skew', 'Image-OCR', 'Optical-Recognition', 'Image-Recognition', 'Character-Recognition', 'JPEG', 'PNG', 'BMP', 'OCR-Deep-Learning', 'Computer-Vision','Language-OCR', 'Zonal-OCR', 'Optical-Character-Recognition', 'OCR-Area-Detection', 'OCR-to-JSON', 'Conholdate', 'Native', 'CPP']
 weight:  3
 ---
 
@@ -34,7 +34,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.OCR.Cpp/" text=
 
 ## Why download Aspose.OCR for C++?
 
-[Aspose.OCR for C++](https://products.aspose.com/ocr/cpp/) is a standalone OCR API that enhances your C++ apps to perform the [OCR operation on JPEG, PNG, & BMP images](https://docs.aspose.com/ocr/cpp/supported-file-formats/) for extraction of English content.
+Aspose.OCR for C++ is a standalone OCR API that enhances your C++ apps to perform the OCR operation on JPEG, PNG, & BMP images for extraction of English content.
 
 ## Image OCR API Features
 
@@ -59,8 +59,6 @@ Aspose OCR library requires `onnxruntime.dll` in the system path.
 ### Evaluation Version Limitation
 
 The evaluation version of Aspose.OCR for C++ limits the number of characters extracted from an image to 300.
-
-[Product Page](https://products.aspose.com/ocr/cpp/) | [Docs](https://docs.aspose.com/ocr/cpp/) | [Demos](https://products.aspose.app/ocr/family) | [API Reference](https://reference.aspose.com/ocr/cpp) | [Examples](https://github.com/aspose-ocr/Aspose.OCR-for-C) | [Blog](https://blog.aspose.com/category/ocr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/ocr) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
