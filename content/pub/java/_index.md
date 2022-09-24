@@ -18,7 +18,7 @@ weight:  2
 
 {{< Common/h2 text="Download Aspose.PUB to work with Microsoft Publisher® Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/pub/" text="Aspose.PUB for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/pub/java/installation/" text="Installing Aspose.PUB for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the Aspose.PUB for Java API directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/pub/java/installation/" text="Installing Aspose.PUB for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="pub" product="java" href="https://docs.aspose.com/pub/java/release-notes/" text="https://docs.aspose.com/pub/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 
@@ -47,7 +47,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 
 ## Why download Aspose.PUB for Java?
 
-[Aspose.PUB for Java](https://products.aspose.com/pub/java) is a Java API that can read, manipulate and convert Microsoft Publisher&reg; (.pub) files to PDF. You can use the API in your Java applications to work with .pub files without worrying about the underlying filie format. The API can be used in Java desktop as well as web applications using JSP. The API is light, easy to use and simplifies your application with simple lines of code in your application.
+Aspose.PUB for Java is a Java API that can read, manipulate and convert Microsoft Publisher&reg; (.pub) files to PDF. You can use the API in your Java applications to work with .pub files without worrying about the underlying filie format. The API can be used in Java desktop as well as web applications using JSP. The API is light, easy to use and simplifies your application with simple lines of code in your application.
 
 ## PUB Java API Features
 
@@ -68,8 +68,6 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 - **macOS:** Mac OS X
 - **Linux:** Ubuntu, CentOS, and others
 - **Java Versions:** `J2SE 8.0 (1.8)` or above
-
-[Product Page](https://products.aspose.com/pub/java) | [Docs](https://docs.aspose.com/pub/java/) | [API Reference](https://reference.aspose.com/pub/java) | [Examples](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/Examples) | [Blog](https://blog.aspose.com/category/pub/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pub) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
