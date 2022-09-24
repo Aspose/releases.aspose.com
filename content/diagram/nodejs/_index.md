@@ -35,9 +35,7 @@ You can easily use <b>aspose.diagram</b> for Javascript from {{< Common/link hre
 - Create Microsoft Visio&reg; diagrams from scratch via API. 
 - Read or write Microsoft Visio&reg; files. 
 - Export Visio&reg; diagrams to various popular formats including PDF, images, HTML and more.
-- Access diagram elements & properties for manipulation or just inspection. 
-
-[Product Page](https://products.aspose.com/diagram/nodejs-java/) | [Docs]() | [Demos](https://products.aspose.app/diagram/family) | [API Reference](https://reference.aspose.com/diagram/) | [Examples](https://github.com/aspose-diagram/Aspose.Diagram-for-Java) | [Blog](https://blog.aspose.com/categories/aspose.diagram-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/diagram/17) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+- Access diagram elements & properties for manipulation or just inspection.
 
 {{< Common/hr >}}
 
