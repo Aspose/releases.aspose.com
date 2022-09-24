@@ -39,10 +39,6 @@ You can easily use  <b>aspose-cells</b> for Python from  {{< Common/link href="h
 - Chart creation & rendering.
 - Reliable formula calculation engine and much more.
 
-[Product Page](https://products.aspose.com/cells/python-java) | [Docs](https://docs.aspose.com/cells/pythonjava/) | [Demos](https://products.aspose.app/cells/family) | [Examples](https://github.com/aspose-cells/Aspose.Cells-for-Java) | [Blog](https://blog.aspose.com/categories/aspose.cells-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells/9) | [Temporary License](https://purchase.aspose.com/temporary-license)
-
-{{< Common/hr >}}
-
 {{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
