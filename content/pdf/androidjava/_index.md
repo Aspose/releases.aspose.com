@@ -78,11 +78,6 @@ You can easily use Aspose.PDF for Java directly from a {{< Common/link href="htt
 - Any platform where Android Runtime environment is installed.
 - Android OS 2.0 or greater.
 
-
-[Product Page](https://products.aspose.com/pdf/android-java/) | [Docs](https://docs.aspose.com/pdf/androidjava/) | [Demos](https://products.aspose.app/pdf/family) | [API Reference](https://reference.aspose.com/pdf/java) | [Examples](https://github.com/aspose-pdf/Aspose.PDF-for-Java) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf/10) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-{{< Common/hr >}}
-
 {{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
