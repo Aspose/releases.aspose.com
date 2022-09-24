@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "201"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Page.Cpp/"
-tags: ['API', 'Aspose', 'Aspose.Page', 'Aspose.Total', 'Assembly', 'bmp', 'C++', 'canvas', 'Component', 'Conholdate', 'Conholdate.Total', 'console', 'Document', 'emf', 'eps', 'file', 'format', 'gif', 'glyph', 'image', 'jpeg', 'Library', 'Microsoft', 'pdf', 'png', 'postscript', 'postscript-to-image', 'postscript-to-pdf', 'print', 'ps', 'ps-to-image', 'ps-to-pdf', 'qt', 'text', 'tiff', 'VisualStudio', 'wmf', 'xps', 'xps-to-bmp', 'xps-to-image', 'xps-to-jpeg', 'xps-to-pdf', 'xps-to-png', 'xps-to-tiff', 'native', 'CPP', 'CFF', 'Visual-C++', 'Windows']
+tags: ['postscript-to-image', 'postscript-to-pdf', 'ps-to-image', 'ps-to-pdf', 'xps-to-bmp', 'xps-to-image', 'xps-to-jpeg', 'xps-to-pdf', 'xps-to-png', 'xps-to-tiff']
 weight:  3
 ---
 
@@ -34,20 +34,20 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Page.Cpp/" text
 
 ## Why download Aspsoe.Page for C++?
 
-[Aspose.Page for C++](https://products.aspose.com/page/cpp/) is an on premise C++ API that allows you to add XPS manipulation features to your own applications. The API also supports converting XPS, EPS & PS documents to other formats.
+Aspose.Page for C++ is an on premise C++ API that allows you to add XPS manipulation features to your own applications. The API also supports converting XPS, EPS & PS documents to other formats.
 
 ## XPS Processing Features
 
-- Create and [edit `XPS` documents](https://docs.aspose.com/page/cpp/add-text-in-xps-document/).
-- Add or remove [pages of `XPS` document](https://docs.aspose.com/page/cpp/add-pages-to-xps-document/).
+- Create and edit `XPS` documents.
+- Add or remove pages of `XPS` document.
 - Create vector graphics shapes (Path element) using a set of primitives (elliptical arcs, Bezier curve segments, and straight-line segments).
 - Create text strings (Glyphs element).
 - Group elements (Canvas element) to manipulate a group as a whole.
-- [Supports brushes of various types](https://docs.aspose.com/page/cpp/add-grid-using-visual-brush/), such as solid color brush, image brush, visual brush, etc.
+- Supports brushes of various types, such as solid color brush, image brush, visual brush, etc.
 - Supports different color spaces including `sRGB`, `scRGB`, and any space-based on `ICC` profile.
 - Works for multiple documents inside an `XPS` document.
 - Add default print tickets into the new `XPS` document or preserve print tickets in opened `XPS`.
-- Save `XPS` documents in various [supported file formats](https://docs.aspose.com/page/cpp/supported-file-formats/).
+- Save `XPS` documents in various supported file formats.
 
 ### Supported Read Formats
 
@@ -63,8 +63,6 @@ XPS, EPS, PS
 **Metafiles:** EMF, WMF\
 **Animation:** GIF\
 **Image:** BMP, TIFF, JPEG, PNG
-
-[Product Page](https://products.aspose.com/page/cpp/) | [Docs](https://docs.aspose.com/page/cpp/) | [Demos](https://products.aspose.app/page/family) | [API Reference](https://reference.aspose.com/page/cpp) | [Examples](https://github.com/aspose-page/Aspose.Page-for-C) | [Blog](https://blog.aspose.com/category/page/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/page) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
