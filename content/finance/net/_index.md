@@ -34,11 +34,11 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Finance/" text=
 
 ## Why download Aspose.Finance for .NET?
 
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) is a standalone on-premise API consisting of C# classes that allow you to process and manipulate finance-related formats, such as, XBRL and iXBRL from within your .NET applications.
+Aspose.Finance for .NET is a standalone on-premise API consisting of C# classes that allow you to process and manipulate finance-related formats, such as, XBRL and iXBRL from within your .NET applications.
 
 ## Finance Processing Features
 
-- [Create XBRL instance](https://docs.aspose.com/finance/net/create-xbrl-files/) from scratch.
+- Create XBRL instance from scratch.
 - Read XBRL & iXBRL format.
 - Supports XBRL & iXBRL validation.
 - Import and export XBRL & iXBRL format files.
@@ -51,8 +51,6 @@ XBRL
 ### Read Finance Formats
 
 iXBRL
-
-[Product Page](https://products.aspose.com/finance/net/) | [Docs](https://docs.aspose.com/finance/net/) | [Demos](https://products.aspose.app/finance/family) | [API Reference](https://reference.aspose.com/finance/net/) | [Examples](https://github.com/aspose-finance/Aspose.finance-for-.NET) | [Blog](https://blog.aspose.com/category/finance/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/finance) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
