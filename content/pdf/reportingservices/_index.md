@@ -16,9 +16,7 @@ weight: 5
 
 {{< Common/h3 text="Download Aspose.PDF Rendering Extension for SQL Reports"  >}}
 {{< Common/paragraph class="package-instructions">}}
-{{< Common/link href="https://products.aspose.com/pdf/reporting-services/" text="Aspose.PDF for Reporting Services"  >}}
-is a report rendering extension that seamlessly integrates with Microsoft SQL Server&reg; Reporting Services. Supports to
-manipulate RDL features and export to the supported formats in a highly accurate manner.
+Aspose.PDF for Reporting Services is a report rendering extension that seamlessly integrates with Microsoft SQL Server&reg; Reporting Services. Supports to manipulate RDL features and export to the supported formats in a highly accurate manner.
 {{< Common/release-notes-link family="pdf" product="reportingservices" href="https://docs.aspose.com/pdf/reportingservices/release-notes/" text="https://docs.aspose.com/pdf/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
@@ -92,10 +90,6 @@ manipulate RDL features and export to the supported formats in a highly accurate
 - Microsoft SQL Server 2016 Reporting Services
 - Aspose.PDF for Reporting Services2000/2005 needs .NET Framework 2.0
 - Aspose.PDF for Reporting Services2008 needs .NET Framework 3.5
-
-[Product Page](https://products.aspose.com/pdf/reporting-services/) | [Docs](https://docs.aspose.com/pdf/reportingservices/) | [API Reference](https://reference.aspose.com/pdf/) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf/10) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-{{< Common/hr >}}
 
 {{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
