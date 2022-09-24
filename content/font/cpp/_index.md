@@ -34,14 +34,14 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Font.Cpp/" text
 
 ## Why download Aspose.Font for C++?
 
-[Aspose.Font for C++](https://products.aspose.com/font/cpp/) is a C++ API that offers you a library of readily available C++ code for font processing and manipulation. Our API enables your C++ applications to load, edit, and save font data as well as render any desired Glyph or text.
+Aspose.Font for C++ is a C++ API that offers you a library of readily available C++ code for font processing and manipulation. Our API enables your C++ applications to load, edit, and save font data as well as render any desired Glyph or text.
 
 ## Font Processing Features
 
-- [Load font files from disc](https://docs.aspose.com/font/cpp/loading-saving-cff-fonts/) as well as stream.
+- Load font files from disc as well as stream.
 - Read font information and save updated font files to disc.
-- Support for [*TrueType* and *OpenType*](https://docs.aspose.com/font/cpp/working-with-truetype-and-opentype-fonts/) Fonts.
-- Work with [CFF](https://docs.aspose.com/font/cpp/working-with-cff-fonts/) & [Type1 fonts](https://docs.aspose.com/font/cpp/working-with-type1-fonts/) in your C++ Apps.
+- Support for *TrueType* and *OpenType* Fonts.
+- Work with CFF & Type1 fonts in your C++ Apps.
 - Read Glyphs and Metrics information from Font files.
 - Detect Latin Symbols in Fonts.
 - Extract embedded licensing information from font files.
@@ -61,8 +61,6 @@ Aspose.Font for C++ is a native library. It supports `32-bit` as well as `64-bit
 
 **Microsoft Windows&reg;:** Microsoft Windows desktop (XP, Vista, 7, 8, 10) and server operating systems (2003, 2008, 2012), etc.
 **Development Environments:** Microsoft Visual C++ version 2017 or higher.
-
-[Product Page](https://products.aspose.com/font/cpp/) | [Docs](https://docs.aspose.com/font/cpp/) | [API Reference](https://reference.aspose.com/font/cpp) | [Examples](https://github.com/aspose-font/Aspose.Font-for-C) | [Blog](https://blog.aspose.com/category/font/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/font) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
