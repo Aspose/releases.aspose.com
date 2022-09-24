@@ -42,11 +42,6 @@ You can easily use  <b>aspose-diagram</b> for Python from  {{< Common/link href=
 - Export Visio&reg; diagrams to various popular formats including PDF, images, HTML and more.
 - Access diagram elements & properties for manipulation or just inspection. 
 
-
-[Product Page](https://products.aspose.com/diagram/python-java) | [Docs](https://docs.aspose.com/diagram/pythonjava/) | [Demos](https://products.aspose.app/diagram/family) | [Examples](https://github.com/aspose-diagram/Aspose.Diagram-for-Java) | [Blog](https://blog.aspose.com/categories/aspose.diagram-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/diagram/17) | [Temporary License](https://purchase.aspose.com/temporary-license)
-
-{{< Common/hr >}}
-
 {{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
