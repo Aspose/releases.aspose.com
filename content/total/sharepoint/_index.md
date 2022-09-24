@@ -14,7 +14,7 @@ weight:  4
 
 {{< dbToolbar link="https://forum.aspose.com/c/total" linktext=" Support Forum " >}}
 
-{{< Common/h3 text="Download Aspose.Total for SharePoint®"  >}}
+{{< Common/h3 text="Download Aspose.Total for SharePoint"  >}}
 {{< Common/release-notes-link family="total" product="sharepoint" href="https://docs.aspose.com/total/sharepoint/" text="https://docs.aspose.com/total/sharepoint/"  >}}
 {{< Common/hr >}}
 
@@ -22,15 +22,13 @@ weight:  4
 
 Aspose.Total for SharePoint contains the following components:
 
-* [Aspose.Words for SharePoint](https://products.aspose.com/words/sharepoint/): Work with Reporting, Document Conversion, and Workflows within SharePoint.
-* [Aspose.PDF for SharePoint](https://products.aspose.com/pdf/sharepoint/): Export lists, list items, and SharePoint Wiki pages to the PDF file format.
-* [Aspose.Cells for SharePoint](https://products.aspose.com/cells/sharepoint/): Preview, process, and convert Microsoft Excel® documents in SharePoint.
-* [Aspose.Email for SharePoint](https://products.aspose.com/email/sharepoint/): Add email conversion, document library synchronization, and email synchronization features to SharePoint.
-* [Aspose.Slides for SharePoint](https://products.aspose.com/slides/sharepoint/): Convert PowerPoint® presentations to other supported formats within your Microsoft SharePoint sites.
-* [Aspose.Imaging for SharePoint](https://products.aspose.com/imaging/sharepoint/): Convert, edit, resize, rotate, and flip images in SharePoint.
-* [Aspose.BarCode for SharePoint](https://products.aspose.com/barcode/sharepoint/): Generate Postal and 2D barcodes in SharePoint.
-
-[Product Page](https://products.aspose.com/total/sharepoint/) | [Docs](https://docs.aspose.com/total/sharepoint/) | [Blog](https://blog.aspose.com/categories/aspose.total-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/total/7) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+* Aspose.Words for SharePoint: Work with Reporting, Document Conversion, and Workflows within SharePoint&reg;.
+* Aspose.PDF for SharePoint: Export lists, list items, and SharePoint&reg; Wiki pages to the PDF file format.
+* Aspose.Cells for SharePoint: Preview, process, and convert Microsoft Excel&reg; documents in SharePoint&reg;.
+* Aspose.Email for SharePoint: Add email conversion, document library synchronization, and email synchronization features to SharePoint.
+* Aspose.Slides for SharePoint: Convert PowerPoint&reg; presentations to other supported formats within your Microsoft SharePoint&reg; sites.
+* Aspose.Imaging for SharePoint: Convert, edit, resize, rotate, and flip images in SharePoint&reg;.
+* Aspose.BarCode for SharePoint: Generate Postal and 2D barcodes in SharePoint&reg;.
 
 {{< Common/hr >}}
 
