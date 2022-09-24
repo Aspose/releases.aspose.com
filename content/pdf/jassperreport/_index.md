@@ -17,7 +17,7 @@ weight:  7
 
 {{< Common/h3 text="Download Aspose.PDF to Export JasperReports® to PDF Formats"  >}}
 {{< Common/paragraph class="package-instructions">}}
-{{< Common/link href="https://products.aspose.com/pdf/jasperreports/" text="Aspose.PDF for JasperReports"  >}} helps you export reports from JasperReports® and JasperServer® to the PDF, PDF/A, and other supported file formats. The important report features, such as charts and tables are converted without any loss in the layout or formatting.
+Aspose.PDF for JasperReports helps you export reports from JasperReports® and JasperServer® to the PDF, PDF/A, and other supported file formats. The important report features, such as charts and tables are converted without any loss in the layout or formatting.
 {{< Common/release-notes-link family="pdf" product="jasperreports" href="https://docs.aspose.com/pdf/jasperreports/release-notes/" text="https://docs.aspose.com/pdf/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
@@ -44,10 +44,6 @@ weight:  7
 - Java 2 Platform Standard Edition 5.0 or higher.
 - JasperReports® 6.7.0 or higher.
 - JasperServer® 6.7.0 or higher.
-
-[Product Page](https://products.aspose.com/pdf/jasperreports/) | [Docs](https://docs.aspose.com/pdf/jasperreports/) | [API Reference](https://reference.aspose.com/pdf/) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-{{< Common/hr >}}
 
 {{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
