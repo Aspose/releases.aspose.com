@@ -95,8 +95,6 @@ For a more comprehensive list of features please visit [Features Overview](https
 - **Microsoft Windows:** Windows Desktop & Server (`x86`, `x64`)
 - **Python Versions:** Python `3.5` or higher
 
-[Product Page](https://products.aspose.com/email/python-net) | [Docs](https://docs.aspose.com/email/pythonnet/) | [Demos](https://products.aspose.app/email/family) | [API Reference](https://apireference.aspose.com/email/java) | [Examples](https://github.com/aspose-email/Aspose.Email-Python-Dotnet/tree/master/Examples) | [Blog](https://blog.aspose.com/category/email/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/email) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
 {{< Common/hr >}}
 
 {{< Tags/TagsWrapper >}}
