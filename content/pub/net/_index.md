@@ -12,6 +12,7 @@ family_listing_page_package: "176"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.PUB/"
 weight:  1
+tags: ['Aspose.PUB', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'API', 'Component', 'Assembly', 'Windows', 'Azure', '.NET-Framework', '.NET-Core', '.NETCore2.0', '.NETCore2.1', 'Mono', 'Visual-Studio', 'VisualStudio', 'C#', 'CSharp', 'VB.NET', 'ASP.NET', 'Publisher', 'Publisher-API', 'PUB-to-PDF']
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/pub" linktext=" Support Forum " >}}
@@ -33,12 +34,12 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.PUB/" text="NuG
 
 ## Why download Aspose.PUB for .NET?
 
-[Aspose.PUB for .NET](https://products.aspose.com/pub/net/) is a simple API that allows you to read & convert Microsoft Publisher&reg; (PUB) files to PDF format. It also provides easy-to-understand interfaces to edit the metadata of PUB files.
+Aspose.PUB for .NET is a simple API that allows you to read & convert Microsoft Publisher&reg; (PUB) files to PDF format. It also provides easy-to-understand interfaces to edit the metadata of PUB files.
 
 ## PUB File Processing Features
 
-- Read Microsoft Publisher&reg; [(PUB) files for conversion to PDF](https://docs.aspose.com/pub/net/pub-to-pdf/) format.
-- [Read & write metadata of PUB files](https://docs.aspose.com/pub/net/programming-with-documents/) via API.
+- Read Microsoft Publisher&reg; (PUB) files for conversion to PDF format.
+- Read & write metadata of PUB files via API.
 
 ### Read PUB Files
 
@@ -47,8 +48,6 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.PUB/" text="NuG
 ### Save PUB As
 
 **Fixed Layout:** PDF
-
-[Product Page](https://products.aspose.com/pub/net/) | [Docs](https://docs.aspose.com/pub/net/) | [API Reference](https://reference.aspose.com/pub/net/) | [Examples](https://github.com/aspose-pub/Aspose.PUB-for-.NET) | [Blog](https://blog.aspose.com/category/pub/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pub) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
