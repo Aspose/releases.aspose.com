@@ -43,13 +43,23 @@ classifier: 'android.via.java')
 ### Spreadsheet Android Features
 
 - Programmatically generate, combine, modify and parse spreadsheets.
-- Convert Excel to XPS, PDF, HTML & other popular formats.
+- Convert Excel&reg; to XPS, PDF, HTML & other popular formats.
 - Robust Formula Calculation Engine supporting all of Excel's native & custom functions.
 - Apply formatting to worksheet, row, column, cell and ranges.
 - Export and import data from ArrayList, Array, Recordset & Resultset.
 - Encrypt & decrypt Excel files on the fly.
 
-[Product Page](https://products.aspose.com/cells/android-java/) | [Docs](https://docs.aspose.com/cells/androidjava/) | [Demos](https://products.aspose.app/cells/family) | [API Reference](https://reference.aspose.com/cells/java) | [Examples](https://github.com/aspose-cells/Aspose.Cells-for-Java) | [Blog](https://blog.aspose.com/category/cells/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+### Supported Input & Output Formats
+
+**Microsoft Excel&reg;:** XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML\
+**OpenOffice&reg;:** ODS\
+**Text:** CSV, TSV, TXT\
+**Web:** HTML, MHTML
+
+### Suported Output Only Formats
+
+**Fixed Layout:** PDF, PDF/A, XPS\
+**Images:** JPEG, PNG, BMP, SVG, EMF
 
 {{< Common/hr >}}
 
