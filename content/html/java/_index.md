@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "9"
 homepage_package_type: "Maven"
 homepage_package_link: "https://repository.aspose.com/html/"
-tags: ['Aspose.Total', 'Aspose.HTML', 'Aspose-Java-API', 'html-java-library', 'html-java-class', 'Maven', 'html-converter', 'svg-converter', 'mhtml-converter', 'markdown-converter', 'template-converter', 'html-to-image', 'html-to-pdf', 'html-to-xps', 'html-to-mhtml', 'html-to-markdown', 'svg-to-image', 'svg-to-pdf', 'svg-to-xps', 'epub-to-image', 'epub-to-pdf', 'epub-to-xps', 'mhtml-to-image', 'mhtml-to-pdf', 'mhtml-to-xps', 'markdown-to-html', 'html-template', 'html-navigation', 'html5', 'DOM', 'html-form-editor', 'css-extension']
+tags: ['html-to-image', 'html-to-pdf', 'html-to-xps', 'html-to-mhtml', 'html-to-markdown', 'svg-to-image', 'svg-to-pdf', 'svg-to-xps', 'epub-to-image', 'epub-to-pdf', 'epub-to-xps', 'mhtml-to-image', 'mhtml-to-pdf', 'mhtml-to-xps', 'markdown-to-html']
 weight:  2
 ---
 
@@ -19,7 +19,7 @@ weight:  2
 
 {{< Common/h2 text="Download Aspose.HTML for HTML File Manipulation"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the {{< Common/link href="https://repository.aspose.com/html/" text="Aspose.HTML for Java API"  >}} directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/html/java/installation/" text="Installing Aspose.HTML for Java from Maven Repository"  >}} documentation page.
+Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the Aspose.HTML for Java API directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/html/java/installation/" text="Installing Aspose.HTML for Java from Maven Repository"  >}} documentation page.
 {{< Common/release-notes-link family="html" product="java" href="https://docs.aspose.com/html/java/release-notes/" text="https://docs.aspose.com/html/java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 
@@ -46,11 +46,11 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 
 [Product Page](https://products.aspose.com/html/java) | [Docs](https://docs.aspose.com/html/java/) | [Demos](https://products.aspose.app/html/family) | [API Reference](https://reference.aspose.com/html/java) | [Examples](https://github.com/aspose-html/Aspose.Html-for-Java) | [Blog](https://blog.aspose.com/category/html/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/html) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-The [Java HTML API](https://products.aspose.com/html/java) assists developers to write, read, modify, navigate and convert (X)HTML documents from within Java applications.
+The Java HTML API assists developers to write, read, modify, navigate and convert (X)HTML documents from within Java applications.
 
 ## Why download Aspose.HTML for Java?
 
-Aspose.HTML for Java API works as a headless browser that allows you to [create or open existing HTML documents](https://docs.aspose.com/html/java/creating-a-document/) from various sources in order to perform manipulation operations such as remove and replace HTML nodes, save HTML documents, extract CSS from HTML, configure a document sandbox and more. You may navigate HTML documents by using various methods, such as, element traversal, document traversal, XPath queries, and CSS selector queries as well as manipulate HTML DOM via JavaScript, convert HTML file to images or fixed layout formats, and convert XHTML and EPUB files to other file formats.
+Aspose.HTML for Java API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform manipulation operations such as remove and replace HTML nodes, save HTML documents, extract CSS from HTML, configure a document sandbox and more. You may navigate HTML documents by using various methods, such as, element traversal, document traversal, XPath queries, and CSS selector queries as well as manipulate HTML DOM via JavaScript, convert HTML file to images or fixed layout formats, and convert XHTML and EPUB files to other file formats.
 
 ## HTML Processing Features
 
@@ -92,8 +92,6 @@ Aspose.HTML for Java API works as a headless browser that allows you to [create 
 - **macOS:** Mac OS X
 - **Linux:** Ubuntu, OpenSUSE, CentOS, and others
 - **Java Versions:** `J2SE 6.0 (1.6)`, `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)`
-
-[Product Page](https://products.aspose.com/html/java) | [Docs](https://docs.aspose.com/html/java/) | [Demos](https://products.aspose.app/html/family) | [API Reference](https://reference.aspose.com/html/java) | [Examples](https://github.com/aspose-html/Aspose.Html-for-Java) | [Blog](https://blog.aspose.com/category/html/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/html) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
