@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "48"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.PDF.Cpp/"
-tags: ['Aspose.PDF', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'PDF', 'PDF/A', 'JPEG', 'PNG', 'BMP', 'DOC', 'DOCX', 'SVG', 'Windows', 'Visual-Studio', 'VisualStudio', 'PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-SVG', 'C++', 'Assembly', 'Component', 'API', 'Converter', 'PDF-Formatting', 'PDF-Metadata', 'PDF-Attachment', 'PDF-Images', 'PDF-Encryption', 'PDF-Decryption', 'Encryption', 'Decryption', 'Search-PDF', 'PDF-Table', 'PDF-Annotations', 'PDF-Bookmarks', 'PDF-Security', 'PDF-Signature', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP', 'Native', 'CPP', 'EPS', 'PS', 'XPS', 'PPTX', 'TEX']
+tags: ['PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-SVG', 'PDF-Formatting', 'PDF-Metadata', 'PDF-Attachment', 'PDF-Images', 'PDF-Encryption', 'PDF-Decryption', 'Search-PDF', 'PDF-Table', 'PDF-Annotations', 'PDF-Bookmarks', 'PDF-Security', 'PDF-Signature', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP']
 weight:  3
 ---
 
@@ -32,7 +32,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.PDF.Cpp/" text=
 
 [Product Page](https://products.aspose.com/pdf/cpp/) | [Docs](https://docs.aspose.com/pdf/cpp/) | [Demos](https://products.aspose.app/pdf/family) | [API Reference](https://reference.aspose.com/pdf/cpp) | [Examples](https://github.com/aspose-pdf/Aspose.Pdf-for-C) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-[Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) is a native C++ library that allows creating, processing, manipulating, and converting PDF documents without installing Adobe Acrobat®.
+Aspose.PDF for C++ is a native C++ library that allows creating, processing, manipulating, and converting PDF documents without installing Adobe Acrobat®.
 
 ## Why download Aspose.PDF for C++?
 
@@ -44,20 +44,20 @@ Aspose.PDF for C++ performs equally well at the client-end and server-side. It c
 
 ## `Aspose::Pdf` (DOM) Processing Features
 
-- [Set how PDF pages display](https://docs.aspose.com/pdf/cpp/formatting-pdf-document/) in the application.
+- Set how PDF pages display in the application.
 - Embed the font information into the PDF file.
 - Set the zoom factor of the PDF file.
 - Set a particular page to be displayed when the PDF document is opened.
-- [Convert PDF documents](https://docs.aspose.com/pdf/cpp/converting/) to other [supported file formats](https://docs.aspose.com/pdf/cpp/supported-file-formats/).
+- Convert PDF documents to other supported file formats.
 - Work with all the attachments of the PDF file.
-- [Add images to PDF](https://docs.aspose.com/pdf/cpp/working-with-images/) document.
-- [Secure and sign a PDF](https://docs.aspose.com/pdf/cpp/securing-and-signing/) file.
+- Add images to PDF document.
+- Secure and sign a PDF file.
 - Decrypt a PDF document.
-- [Search a particular phrase](https://docs.aspose.com/pdf/cpp/search-and-get-text-from-pdf/) and change its style in PDF file.
+- Search a particular phrase and change its style in PDF file.
 
 ## `Aspose::Pdf::Facades` Processing Features
 
-- Add, update, delete, import, export and extract [annotations of a PDF document](https://docs.aspose.com/pdf/cpp/annotations/).
+- Add, update, delete, import, export and extract annotations of a PDF document.
 - Add bookmarks and child bookmarks to PDF files.
 - Configure various access privileges for the PDF document.
 - Extract text from all pages of a PDF file.
@@ -70,8 +70,6 @@ Aspose.PDF for C++ performs equally well at the client-end and server-side. It c
 
 **Microsoft Word&reg;:** DOC, DOCX\
 **Images:** JPEG, PNG, BMP, SVG
-
-[Product Page](https://products.aspose.com/pdf/cpp/) | [Docs](https://docs.aspose.com/pdf/cpp/) | [Demos](https://products.aspose.app/pdf/family) | [API Reference](https://reference.aspose.com/pdf/cpp) | [Examples](https://github.com/aspose-pdf/Aspose.Pdf-for-C) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
