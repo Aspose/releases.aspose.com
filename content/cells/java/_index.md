@@ -48,7 +48,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 
 ## Why download Aspose.Cells for Java?
 
-[Aspose.Cells for Java](https://products.aspose.com/cells/java) is an award-winning Excel&reg; Spreadsheet Processing API that allows Java developers to embed the ability to read, write and manipulate Excel&reg; spreadsheets (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, PDF, and image file formats into their own Java applications without needing to rely on Microsoft Excel&reg;.
+Aspose.Cells for Java is an award-winning Excel&reg; Spreadsheet Processing API that allows Java developers to embed the ability to read, write and manipulate Excel&reg; spreadsheets (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, PDF, and image file formats into their own Java applications without needing to rely on Microsoft Excel&reg;.
 
 ### Document Features
 
@@ -112,8 +112,6 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
 - **macOS&reg;:** Mac OS X
 - **Linux:** Ubuntu, OpenSUSE, CentOS, and others
 - **Java Versions:** `J2SE 7.0 (1.7)`, or above
-
-[Product Page](https://products.aspose.com/cells/java) | [Docs](https://docs.aspose.com/cells/java/) | [Demos](https://products.aspose.app/cells/family) | [API Reference](https://apireference.aspose.com/cells/java) | [Examples](https://github.com/aspose-cells/Aspose.Cells-for-Java) | [Blog](https://blog.aspose.com/category/cells/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
 
