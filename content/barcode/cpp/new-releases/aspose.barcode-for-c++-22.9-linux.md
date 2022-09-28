@@ -16,7 +16,7 @@ parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-22-8-release-notes/"
+release_notes_url: "https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-22-9-release-notes/"
 weight: 78
 
 ---
@@ -40,7 +40,7 @@ weight: 78
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-22-8-release-notes/'>https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-22-8-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-22-9-release-notes/'>https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 22.9 Linux release</div>
