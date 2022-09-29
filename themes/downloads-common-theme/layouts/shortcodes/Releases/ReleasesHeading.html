@@ -3,7 +3,8 @@
 
 {{ if $H2txt }}
 {{ $imagelink := .Get "imagelink" }}
-<h2> <img src="{{ $imagelink }}">{{ $H2txt }}</h2>
+{{ $alt_text := .Get "alt_text" }}
+<h2> <img src="{{ $imagelink }}" alt="{{ $alt_text }}">{{ $H2txt }}</h2>
 {{ end }}
 
 
