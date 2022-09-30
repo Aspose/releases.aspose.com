@@ -1,4 +1,5 @@
 {{ $id := .Get "id" }}
-<textarea id="{{$id}}" class="copyboard" readonly="">
+{{ $height := .Get "height" }}
+<textarea id="{{$id}}" class="copyboard" style='height: {{ $height }};' readonly="">
     {{ .Inner }}
 </textarea>
