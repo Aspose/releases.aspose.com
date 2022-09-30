@@ -19,7 +19,7 @@ weight: 346
 ---
 
 {{< Releases/ReleasesWapper >}}
-{{< Releases/ReleasesHeading H2txt="Aspose.Imaging for .NET 22.9" imagelink="/resources/img/msi-icon.png">}}
+{{< Releases/ReleasesHeading H2txt="Aspose.Imaging for .NET 22.9" imagelink="/resources/img/msi-icon.png" alt_text=“Aspose.Imaging for .NET 22.9”>}}
 {{< Releases/ReleasesButtons >}}
 {{< Releases/ReleasesSingleButtons text="Download" link="/imaging/net/new-releases/aspose.imaging-for-.net-22.9/c787e764e21727e5a86a25566fce6c6e-9-7845" >}}
 {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/imaging" >}}
@@ -47,21 +47,18 @@ weight: 346
 {{< Common/wrapper class="HTMLDescription">}}
 {{% Releases/ReleasesFileFeatures %}}
 
-## Icon (.ico) File Format Support
+# Icon (.ico) File Format Support
 
 Added the support for the Icon File (.ico) file format.
-
-Execute the below code snippet to see how Aspose.Imaging performs in your environment or please visit the [GitHub Repository](https://github.com/aspose-imaging/Aspose.Imaging-for-.NET) for other common usage scenarios.
 
 ```csharp
 using(Image image = Image.Load("icon-24bit.ico"))
 {
     image.Save("result.png", new PngOptions());
 }
-
 ```
 
-## Apple MakerNote tags parsing
+# Apple MakerNote tags parsing
 
 Ability to parse the Apple MakerNote tags. The following example demonstrates how to fetch `EXIF` maker notes from `JPEG`:
 
@@ -83,8 +80,7 @@ using (var image = Image.Load("input.jpeg") as JpegImage)
     }
 }
 ```
-
-## CDR to PDF conversion
+# CDR to PDF conversion
 
 Support for converting the CorelDRAW's CDR vector graphic files to Adobe Acrobat PDF file format.
 
@@ -96,8 +92,6 @@ using (Image image = Image.Load(inputFile))
     image.Save(inputFile + ".pdf", new PdfOptions());
 }
 ```
-
-
 {{% /Releases/ReleasesFileFeatures %}}
 
 {{< /Common/wrapper >}}
