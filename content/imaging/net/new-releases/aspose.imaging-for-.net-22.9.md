@@ -32,9 +32,9 @@ weight: 346
 {{< Common/li >}} File Size: {{< /Common/li >}}
 {{< Common/li id="size-update-c787e764e21727e5a86a25566fce6c6e-9-7845" >}} 43.59MB {{< /Common/li >}}
 
-      {{< Common/li >}} Date Added: {{< /Common/li >}}
-      {{< Common/li id="added-update-c787e764e21727e5a86a25566fce6c6e-9-7845" >}}2/9/2022 {{< /Common/li >}}
-    {{< /Releases/ReleasesDetailsUl >}}
+{{< Common/li >}} Date Added: {{< /Common/li >}}
+{{< Common/li id="added-update-c787e764e21727e5a86a25566fce6c6e-9-7845" >}}2/9/2022 {{< /Common/li >}}
+{{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -80,6 +80,7 @@ using (var image = Image.Load("input.jpeg") as JpegImage)
     }
 }
 ```
+
 # CDR to PDF conversion
 
 Support for converting the CorelDRAW's CDR vector graphic files to Adobe Acrobat PDF file format.
@@ -92,11 +93,13 @@ using (Image image = Image.Load(inputFile))
     image.Save(inputFile + ".pdf", new PdfOptions());
 }
 ```
+
+For a complete list of feautures, enhancements, and bug fixed in this release please visit, [Aspose.Imaging for .NET 22.9 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-9-release-notes/).
+
 {{% /Releases/ReleasesFileFeatures %}}
 
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}
-
 
 {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
