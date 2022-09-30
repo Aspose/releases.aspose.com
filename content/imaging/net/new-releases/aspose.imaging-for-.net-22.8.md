@@ -100,6 +100,7 @@ using (var image = Image.Load("image.wmz"))
     image.Save("result.png", options);
 }
 ```
+For a complete list of feautures, enhancements, and bug fixed in this release please visit, [Aspose.Imaging for .NET 22.8 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-8-release-notes/).
 
 {{% Releases/ReleasesFileFeatures %}}
 
