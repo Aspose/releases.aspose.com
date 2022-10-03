@@ -9,7 +9,7 @@ download_link: " /total/java/new-releases/aspose.total-for-java/6b6092fa7e1740e6
 download_text: " Download"
 Intro_text: " Aspose.Total for Java contains most recent version of all Java products."
 image_link: "/resources/img/zip-icon.png"
-download_count: "   Added: 08/29/2022  Downloads: 47213  Views: 13759"
+download_count: "   Added: 03/10/2022  Downloads: 47213  Views: 13759"
 file_size: "  File Size: 657.4 MB "
 parent_path: "total/java"
 section_parent_path: "total/java"
@@ -34,7 +34,7 @@ weight: 1
       {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
       {{< Common/li class="hide" id="view-update-6b6092fa7e1740e69793eeb15dda1beb" >}} 13760 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
-      {{< Common/li id="added-update-6b6092fa7e1740e69793eeb15dda1beb" >}} : 3 weeks ago [08/29/2022] {{< /Common/li >}} 
+      {{< Common/li id="added-update-6b6092fa7e1740e69793eeb15dda1beb" >}} : 03/10/2022 {{< /Common/li >}} 
       {{< Common/li  >}} SHA1: {{< /Common/li >}} 
       {{< Common/li id="sha1-update-6b6092fa7e1740e69793eeb15dda1beb" >}}  a9be4c003d23d01766c8ce1344329c68cefa6c3e: {{< /Common/li >}} 
       {{< Common/li  >}} MD5: {{< /Common/li >}} 
