@@ -5,12 +5,12 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/cpp/new-releases/aspose.ocr.cpp-22.8.0/"
-folder_name: "Aspose.OCR.Cpp-22.8.0"
+folder_name: "Aspose.OCR.Cpp-22.9.0"
 download_link: "/ocr/cpp/new-releases/aspose.ocr.cpp-22.8.0/38281bf1fd8a40210d86952eb563106b-31-7971"
 download_text: "Download"
 intro_text: "Recognize receipts, Small fonts recognition"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 3/10/2022 Downloads: 1  Views: 1 "
+download_count: " 3/10/2022 Downloads: 2  Views: 1 "
 file_size: "File Size: 151.69MB"
 parent_path: "ocr/cpp"
 section_parent_path: "ocr/cpp"
@@ -22,7 +22,7 @@ weight: 64
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.OCR.Cpp-22.8.0" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.OCR.Cpp-22.9.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/ocr/cpp/new-releases/aspose.ocr.cpp-22.8.0/38281bf1fd8a40210d86952eb563106b-31-7971" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/ocr" >}}
@@ -31,7 +31,7 @@ weight: 64
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-38281bf1fd8a40210d86952eb563106b-31-7971" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-38281bf1fd8a40210d86952eb563106b-31-7971" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
       {{< Common/li id="size-update-38281bf1fd8a40210d86952eb563106b-31-7971" >}} 151.69MB {{< /Common/li >}}
 
