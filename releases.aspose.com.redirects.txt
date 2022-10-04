@@ -20,4 +20,4 @@ rewrite /barcode/python/$ https://releases.aspose.com/barcode/python-java/ perma
 rewrite /words/java/new-releases/aspose.words-for-j/$ https://releases.aspose.com/words/java/ permanent;
 rewrite /metafiles/java/$ https://releases.aspose.com/total/java/ permanent;
 rewrite /admin/file/upload/$ https://releases.aspose.com/ permanent;
-rewrite (.*)(new-releases)\/([^\/]+)\/(.+) https://releases.aspose.com$1$2$3 permanent;
+rewrite (.*)(new-releases)\/([^\/]+)\/(.+) https://releases.aspose.com$1$2/$3/ permanent;
