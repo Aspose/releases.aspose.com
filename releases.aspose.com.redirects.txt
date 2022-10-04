@@ -23,3 +23,4 @@ rewrite /metafiles/java/$ https://releases.aspose.com/total/java/ permanent;
 rewrite /admin/file/upload/$ https://releases.aspose.com/ permanent;
 rewrite (.*)(new-releases)\/([^\/]+)\/(.+) https://releases.aspose.com$1$2/$3/ permanent;
 rewrite /cells/python/new-releases/aspose.cells-for-python-via-java-22.8/ https://releases.aspose.com/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.8/
+rewrite /corporate/success-stories/aspose.total/the-pitfalls-of-microsoft-office-automation-an-aspose-whitepaper/2e0c7c8d92904bcaafe3851bfebdd507 https://releases.aspose.com/corporate/success-stories/aspose.total/the-pitfalls-of-microsoft-office-automation-an-aspose-whitepaper/
