@@ -7,9 +7,7 @@ folder_link: " tasks/net/new-releases/aspose.tasks-for-.net-7.4.0-(dlls-only)/"
 folder_name: " Aspose.Tasks for .NET 7.4.0 (DLLs Only)"
 download_link: " /tasks/net/new-releases/aspose.tasks-for-.net-7.4.0-(dlls-only)/d3452eeec4d04c89a61a92e36d4d3d33"
 download_text: " Download"
-Intro_text: " 
-
-            
+intro_text: "
 
             
 

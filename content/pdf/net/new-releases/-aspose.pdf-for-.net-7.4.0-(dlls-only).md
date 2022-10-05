@@ -7,9 +7,7 @@ folder_link: " pdf/net/new-releases/-aspose.pdf-for-.net-7.4.0-(dlls-only)/"
 folder_name: "  Aspose.PDF for .NET 7.4.0 (DLLs only)"
 download_link: " /pdf/net/new-releases/-aspose.pdf-for-.net-7.4.0-(dlls-only)/24bd560288b64aae9ae6c26e4cd2e0c7"
 download_text: " Download"
-Intro_text: " 
-
-            This
+intro_text: "This
  ZIP file contains only the Aspose.Pdf for .NET assemblies..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   10/5/2012  Downloads: 628  Views: 712"

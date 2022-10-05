@@ -7,9 +7,7 @@ folder_link: " tasks/net/new-releases/aspose.tasks-for-.net-6.3.0-(dlls-only)/"
 folder_name: " Aspose.Tasks for .NET 6.3.0 (DLLs Only)"
 download_link: " /tasks/net/new-releases/aspose.tasks-for-.net-6.3.0-(dlls-only)/931481ba60ad4323adfcf7d3804a0fd9"
 download_text: " Download"
-Intro_text: " 
-
-            This ZIP file contains only the Aspose.Tasks
+intro_text: "This ZIP file contains only the Aspose.Tasks
  for .NET assembli..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/27/2015  Downloads: 31  Views: 247"

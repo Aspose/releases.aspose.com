@@ -7,9 +7,7 @@ folder_link: " barcode/reportingservices/new-releases/aspose.barcode-for-reporti
 folder_name: " Aspose.BarCode for Reporting Services 7.5.0 (DLLs only)"
 download_link: " /barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-7.5.0-(dlls-only)/7f5e9c135c2345e6a35fc4231cc65e1e"
 download_text: " Download"
-Intro_text: " 
-
-            The list of improvements and changes that are  released  in Aspo..."
+intro_text: "The list of improvements and changes that are  released  in Aspo..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/24/2015  Downloads: 3  Views: 46"
 file_size: "  File Size: 2.9 MB "

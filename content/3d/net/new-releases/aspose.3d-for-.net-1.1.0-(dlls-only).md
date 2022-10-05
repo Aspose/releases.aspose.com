@@ -7,9 +7,7 @@ folder_link: " 3d/net/new-releases/aspose.3d-for-.net-1.1.0-(dlls-only)/"
 folder_name: " Aspose.3D for .NET 1.1.0 (DLLs only)"
 download_link: " /3d/net/new-releases/aspose.3d-for-.net-1.1.0-(dlls-only)/c4051ce55435455180d58aab305affb0"
 download_text: " Download"
-Intro_text: " 
-
-            
+intro_text: "
 
             This ZIP file contains only the Aspose.3D for .N..."
 image_link: "/resources/img/zip-icon.png"

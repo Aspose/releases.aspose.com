@@ -7,9 +7,7 @@ folder_link: " 3d/net/new-releases/aspose.3d-for-.net-1.2.0-(dlls-only)/"
 folder_name: " Aspose.3D for .NET 1.2.0 (DLLs only)"
 download_link: " /3d/net/new-releases/aspose.3d-for-.net-1.2.0-(dlls-only)/fdc28a36d59c418b9fdb2fd7f2564d71"
 download_text: " Download"
-Intro_text: " 
-
-            
+intro_text: "
 
             
 
