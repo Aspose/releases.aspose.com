@@ -7,10 +7,7 @@ folder_link: " words/net/new-releases/aspose.words-for-.net-5.2.1/"
 folder_name: " Aspose.Words for .NET 5.2.1"
 download_link: " /words/net/new-releases/aspose.words-for-.net-5.2.1/cab63fc132bf48e2bd902da1f77bc6f4"
 download_text: " Download"
-Intro_text: " Here is a good set of new fixes, mostly in the HTML and PDF export modules.
-
-
-..."
+Intro_text: " Here is a good set of new fixes, mostly in the HTML and PDF export modules..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/2/2008  Downloads: 1011  Views: 2550"
 file_size: "  File Size: 15.7 MB "

@@ -7,11 +7,7 @@ folder_link: " words/net/new-releases/aspose.words-.net-3.7.0.0-new-release-(dll
 folder_name: " Aspose.Words .Net 3.7.0.0 New Release (Dlls Only)"
 download_link: " /words/net/new-releases/aspose.words-.net-3.7.0.0-new-release-(dlls-only)/0eaa806a9b41420097f58922f28411c6"
 download_text: " Download"
-Intro_text: " New Features
-
-
-Microsoft Word 2007 files are now supported.
-Added public API..."
+Intro_text: " New Features for Microsoft Word 2007 files are now supported. Added public API..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 14  Views: 47"
 file_size: "  File Size: 601.5 KB "

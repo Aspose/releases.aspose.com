@@ -1,16 +1,16 @@
 ---
-title:  "  Downloads ---New-Releases--aspose.words-for-.net-13.8.0 . " 
-description:  "    . " 
-keywords:  "    . " 
-page_type:  single_release_page
-folder_link: " words/net/new-releases/-aspose.words-for-.net-13.8.0/"
-folder_name: "  Aspose.Words for .NET 13.8.0"
-download_link: " /words/net/new-releases/-aspose.words-for-.net-13.8.0/5a2079264c0e4aa79f09172a2438a632"
-download_text: " Download"
-Intro_text: " It contains  Aspose.Words for .NET 13.8.0 release."
+title: "New Release for aspose.words.net 13.8.0" 
+description: "New Release for aspose.words.net 13.8.0 " 
+keywords: "" 
+page_type: single_release_page
+folder_link: "words/net/new-releases/-aspose.words-for-.net-13.8.0/"
+folder_name: " Aspose.Words for .NET 13.8.0"
+download_link: "/words/net/new-releases/-aspose.words-for-.net-13.8.0/5a2079264c0e4aa79f09172a2438a632"
+download_text: "Download"
+Intro_text: "It contains  Aspose.Words for .NET 13.8.0 release."
 image_link: "/resources/img/msi-icon.png"
-download_count: "   9/3/2013  Downloads: 1566  Views: 1879"
-file_size: "  File Size: 18.9 MB "
+download_count: "9/3/2013  Downloads: 1566  Views: 1879"
+file_size: "File Size: 18.9 MB "
 parent_path: "words/net"
 section_parent_path: "words/net"
 weight: 489

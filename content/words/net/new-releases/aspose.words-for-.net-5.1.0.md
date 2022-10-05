@@ -7,9 +7,7 @@ folder_link: " words/net/new-releases/aspose.words-for-.net-5.1.0/"
 folder_name: " Aspose.Words for .NET 5.1.0"
 download_link: " /words/net/new-releases/aspose.words-for-.net-5.1.0/976c4ebe77aa4c79a45a10076741550e"
 download_text: " Download"
-Intro_text: " What's New
-
-Improvements to DOCX (Office Open XML) import of DrawingML graphic..."
+Intro_text: "Improvements to DOCX (Office Open XML) import of DrawingML graphic..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   3/27/2008  Downloads: 1472  Views: 3146"
 file_size: "  File Size: 16.1 MB "

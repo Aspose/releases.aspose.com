@@ -7,9 +7,7 @@ folder_link: " words/net/new-releases/aspose.words-.net-4.3.0.0-new-release/"
 folder_name: " Aspose.Words .Net 4.3.0.0 New Release"
 download_link: " /words/net/new-releases/aspose.words-.net-4.3.0.0-new-release/2e98dd3b464f48faad34b101c483434e"
 download_text: " Download"
-Intro_text: " What's New
-
-64-bit Windows operating systems are fully supported. Fully tested..."
+Intro_text: "64-bit Windows operating systems are fully supported. Fully tested..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 242  Views: 1199"
 file_size: "  File Size: 15.6 MB "

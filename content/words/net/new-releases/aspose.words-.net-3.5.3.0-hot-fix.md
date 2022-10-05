@@ -1,18 +1,16 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.words-.net-3.5.3.0-hot-fix . " 
-description:  "    . " 
-keywords:  "    . " 
-page_type:  single_release_page
-folder_link: " words/net/new-releases/aspose.words-.net-3.5.3.0-hot-fix/"
-folder_name: " Aspose.Words .Net 3.5.3.0 Hot Fix"
-download_link: " /words/net/new-releases/aspose.words-.net-3.5.3.0-hot-fix/4056efcd6ec84852aa67eed3fdc26e82"
-download_text: " Download"
-Intro_text: " New Features
-
-AddedÂ the Document.AttachedTemplate property that allows to get/..."
+title: "Downloads ---New-Releases-aspose.words-.net-3.5.3.0-hot-fix." 
+description: "Downloads ---New-Releases-aspose.words-.net-3.5.3.0-hot-fix" 
+keywords: "" 
+page_type: single_release_page
+folder_link: "words/net/new-releases/aspose.words-.net-3.5.3.0-hot-fix/"
+folder_name: "Aspose.Words .Net 3.5.3.0 Hot Fix"
+download_link: "/words/net/new-releases/aspose.words-.net-3.5.3.0-hot-fix/4056efcd6ec84852aa67eed3fdc26e82"
+download_text: "Download"
+Intro_text: "New Features added the Document.AttachedTemplate property that allows to get/..."
 image_link: "/resources/img/msi-icon.png"
-download_count: "   7/25/2007  Downloads: 20  Views: 70"
-file_size: "  File Size: 5.4 MB "
+download_count: "7/25/2007  Downloads: 20  Views: 70"
+file_size: "File Size: 5.4 MB "
 parent_path: "words/net"
 section_parent_path: "words/net"
 weight: 371

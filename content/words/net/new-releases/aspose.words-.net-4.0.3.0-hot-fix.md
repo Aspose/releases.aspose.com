@@ -7,9 +7,7 @@ folder_link: " words/net/new-releases/aspose.words-.net-4.0.3.0-hot-fix/"
 folder_name: " Aspose.Words .Net 4.0.3.0 Hot Fix"
 download_link: " /words/net/new-releases/aspose.words-.net-4.0.3.0-hot-fix/6fc72b009e78456b9041756d4d650bcc"
 download_text: " Download"
-Intro_text: " Enhancements and Fixes
-
-1259 Rescale raster images during HTML export. Added t..."
+Intro_text: " Enhancements and Fixes 1259 Rescale raster images during HTML export. Added t..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 10  Views: 115"
 file_size: "  File Size: 7.4 MB "

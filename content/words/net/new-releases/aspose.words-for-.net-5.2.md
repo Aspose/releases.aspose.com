@@ -7,10 +7,7 @@ folder_link: " words/net/new-releases/aspose.words-for-.net-5.2/"
 folder_name: " Aspose.Words for .NET 5.2"
 download_link: " /words/net/new-releases/aspose.words-for-.net-5.2/a63b1be1d4e84907a079f48c288188b0"
 download_text: " Download"
-Intro_text: " New Features
-
-Save documents as MHTML (Single File Web Page). 
-Save as OpenDo..."
+Intro_text: " New Features, Save documents as MHTML (Single File Web Page). Save as OpenDo..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   5/14/2008  Downloads: 1548  Views: 3454"
 file_size: "  File Size: 16.5 MB "

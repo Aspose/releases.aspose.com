@@ -7,10 +7,7 @@ folder_link: " words/net/new-releases/aspose.words-for-.net-4.4.0.0/"
 folder_name: " Aspose.Words for .NET 4.4.0.0"
 download_link: " /words/net/new-releases/aspose.words-for-.net-4.4.0.0/7ee7bbbd0419452ca153f18143483e47"
 download_text: " Download"
-Intro_text: " What's New
-
-Export to Microsoft Office 2007 Open XML (DOCX) format. 
-Aspose.W..."
+Intro_text: "Export to Microsoft Office 2007 Open XML (DOCX) format. Aspose.W..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   8/22/2007  Downloads: 1252  Views: 2373"
 file_size: "  File Size: 16.0 MB "

@@ -1,15 +1,13 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.words-.net-3.6.1.0-hot-fix . " 
+title:  "Downloads ---New-Releases-aspose.words-.net-3.6.1.0-hot-fix . " 
 description:  "    . " 
-keywords:  "    . " 
+keywords: "    . " 
 page_type:  single_release_page
 folder_link: " words/net/new-releases/aspose.words-.net-3.6.1.0-hot-fix/"
 folder_name: " Aspose.Words .Net 3.6.1.0 Hot Fix"
 download_link: " /words/net/new-releases/aspose.words-.net-3.6.1.0-hot-fix/1a1b387916074f518db5e07d815eba6d"
 download_text: " Download"
-Intro_text: " New Features
-
-List styles are fully supported during load, save and copy betwe..."
+Intro_text: " New Features for list styles are fully supported during load, save and copy betwe..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 13  Views: 71"
 file_size: "  File Size: 5.8 MB "

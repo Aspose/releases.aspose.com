@@ -7,10 +7,7 @@ folder_link: " words/net/new-releases/aspose.words-.net-4.2.2.0-hot-fix/"
 folder_name: " Aspose.Words .Net 4.2.2.0 Hot Fix"
 download_link: " /words/net/new-releases/aspose.words-.net-4.2.2.0-hot-fix/11ac0c3029774a9f8e6b803bcbcc011a"
 download_text: " Download"
-Intro_text: " This is a maintenance release. Here is what's been fixed:
-RTF
-
-Duplicate erro..."
+Intro_text: " This is a maintenance release..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 17  Views: 648"
 file_size: "  File Size: 12.5 MB "

@@ -1,19 +1,16 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.words-.net-3.5.0.0-new-release-(dlls-only) . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "Downloads ---New-Releases-aspose.words-.net-3.5.0.0-new-release-(dlls-only)" 
+description:  "" 
+keywords: "" 
 page_type:  single_release_page
-folder_link: " words/net/new-releases/aspose.words-.net-3.5.0.0-new-release-(dlls-only)/"
-folder_name: " Aspose.Words .Net 3.5.0.0 New Release (Dlls Only)"
-download_link: " /words/net/new-releases/aspose.words-.net-3.5.0.0-new-release-(dlls-only)/1b68ae6521eb4e618d193f3178d2db98"
-download_text: " Download"
-Intro_text: " Dear Customers,
-We have released Aspose.Words 3.5
-Name Change
-Please note Asp..."
+folder_link: "words/net/new-releases/aspose.words-.net-3.5.0.0-new-release-(dlls-only)/"
+folder_name: "Aspose.Words .Net 3.5.0.0 New Release (Dlls Only)"
+download_link: "/words/net/new-releases/aspose.words-.net-3.5.0.0-new-release-(dlls-only)/1b68ae6521eb4e618d193f3178d2db98"
+download_text: "Download"
+Intro_text: "Dear Customers, We have released Aspose.Words 3.5 Name Change Please note Asp..."
 image_link: "/resources/img/zip-icon.png"
-download_count: "   7/25/2007  Downloads: 46  Views: 173"
-file_size: "  File Size: 444.9 KB "
+download_count: "7/25/2007  Downloads: 46  Views: 173"
+file_size: "File Size: 444.9 KB "
 parent_path: "words/net"
 section_parent_path: "words/net"
 weight: 378

@@ -1,18 +1,16 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.words-.net-3.5.1.0-hot-fix . " 
-description:  "    . " 
-keywords:  "    . " 
-page_type:  single_release_page
+title:  "Downloads ---New-Releases-aspose.words-.net-3.5.1.0-hot-fix" 
+description: "Downloads ---New-Releases-aspose.words-.net-3.5.1.0-hot-fix" 
+keywords:  "" 
+page_type: single_release_page
 folder_link: " words/net/new-releases/aspose.words-.net-3.5.1.0-hot-fix/"
-folder_name: " Aspose.Words .Net 3.5.1.0 Hot Fix"
-download_link: " /words/net/new-releases/aspose.words-.net-3.5.1.0-hot-fix/8f50d8df46c64ef1bc281fd7606732c8"
-download_text: " Download"
-Intro_text: " New Features
-
-Added public classes to create/modify tab stops and tab leaders...."
+folder_name: "Aspose.Words .Net 3.5.1.0 Hot Fix"
+download_link: "/words/net/new-releases/aspose.words-.net-3.5.1.0-hot-fix/8f50d8df46c64ef1bc281fd7606732c8"
+download_text: "Download"
+Intro_text: "New Features added public classes to create/modify tab stops and tab leaders...."
 image_link: "/resources/img/msi-icon.png"
-download_count: "   7/25/2007  Downloads: 33  Views: 146"
-file_size: "  File Size: 5.4 MB "
+download_count: "7/25/2007  Downloads: 33  Views: 146"
+file_size: "File Size: 5.4 MB "
 parent_path: "words/net"
 section_parent_path: "words/net"
 weight: 375

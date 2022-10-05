@@ -7,9 +7,7 @@ folder_link: " words/net/new-releases/aspose.words-.net-4.1.0.0-new-release/"
 folder_name: " Aspose.Words .Net 4.1.0.0 New Release"
 download_link: " /words/net/new-releases/aspose.words-.net-4.1.0.0-new-release/c32ad49f199e4e53b4be99470b5995d0"
 download_text: " Download"
-Intro_text: " This release of Aspose.Words contains a single important new feature:
-
-RTF Imp..."
+Intro_text: " This release of Aspose.Words contains a single important new feature: RTF Imp..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 25  Views: 148"
 file_size: "  File Size: 7.5 MB "

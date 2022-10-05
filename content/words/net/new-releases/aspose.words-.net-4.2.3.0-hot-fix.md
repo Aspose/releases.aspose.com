@@ -7,10 +7,7 @@ folder_link: " words/net/new-releases/aspose.words-.net-4.2.3.0-hot-fix/"
 folder_name: " Aspose.Words .Net 4.2.3.0 Hot Fix"
 download_link: " /words/net/new-releases/aspose.words-.net-4.2.3.0-hot-fix/2ec62a42ab6c4075998a313416de9770"
 download_text: " Download"
-Intro_text: " This is a maintenance release, here is what's been done:
-New Features
-
-API do..."
+Intro_text: " This is a maintenance release..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 12  Views: 615"
 file_size: "  File Size: 12.5 MB "

@@ -1,18 +1,16 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.words-.net-3.5.2.0-hot-fix-(dlls-only) . " 
-description:  "    . " 
-keywords:  "    . " 
-page_type:  single_release_page
-folder_link: " words/net/new-releases/aspose.words-.net-3.5.2.0-hot-fix-(dlls-only)/"
-folder_name: " Aspose.Words .Net 3.5.2.0 Hot Fix (Dlls Only)"
-download_link: " /words/net/new-releases/aspose.words-.net-3.5.2.0-hot-fix-(dlls-only)/b868505856fb4c109cd3571fb7ee2fa7"
-download_text: " Download"
-Intro_text: " New Features
-
-AddedÂ ClearFormatting method for RowFormat and CellFormat classe..."
+title: "Downloads ---New-Releases-aspose.words-.net-3.5.2.0-hot-fix-(dlls-only)" 
+description: "Downloads ---New-Releases-aspose.words-.net-3.5.2.0-hot-fix-(dlls-only)" 
+keywords: "" 
+page_type: single_release_page
+folder_link: "words/net/new-releases/aspose.words-.net-3.5.2.0-hot-fix-(dlls-only)/"
+folder_name: "Aspose.Words .Net 3.5.2.0 Hot Fix (Dlls Only)"
+download_link: "/words/net/new-releases/aspose.words-.net-3.5.2.0-hot-fix-(dlls-only)/b868505856fb4c109cd3571fb7ee2fa7"
+download_text: "Download"
+Intro_text: "New Features added ClearFormatting method for RowFormat and CellFormat classe..."
 image_link: "/resources/img/zip-icon.png"
-download_count: "   7/25/2007  Downloads: 7  Views: 43"
-file_size: "  File Size: 443.7 KB "
+download_count: "7/25/2007  Downloads: 7  Views: 43"
+file_size: "File Size: 443.7 KB "
 parent_path: "words/net"
 section_parent_path: "words/net"
 weight: 374

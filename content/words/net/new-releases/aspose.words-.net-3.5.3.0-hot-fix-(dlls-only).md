@@ -1,15 +1,13 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.words-.net-3.5.3.0-hot-fix-(dlls-only) . " 
-description:  "    . " 
-keywords:  "    . " 
+title: "Downloads ---New-Releases-aspose.words-.net-3.5.3.0-hot-fix-(dlls-only)" 
+description: "Downloads ---New-Releases-aspose.words-.net-3.5.3.0-hot-fix-(dlls-only)" 
+keywords: "" 
 page_type:  single_release_page
-folder_link: " words/net/new-releases/aspose.words-.net-3.5.3.0-hot-fix-(dlls-only)/"
-folder_name: " Aspose.Words .Net 3.5.3.0 Hot Fix (Dlls Only)"
-download_link: " /words/net/new-releases/aspose.words-.net-3.5.3.0-hot-fix-(dlls-only)/c0d4bbbed1464124ae08d7adc0f5a05e"
-download_text: " Download"
-Intro_text: " New Features
-
-AddedÂ the Document.AttachedTemplate property that allows to get/..."
+folder_link: "words/net/new-releases/aspose.words-.net-3.5.3.0-hot-fix-(dlls-only)/"
+folder_name: "Aspose.Words .Net 3.5.3.0 Hot Fix (Dlls Only)"
+download_link: "/words/net/new-releases/aspose.words-.net-3.5.3.0-hot-fix-(dlls-only)/c0d4bbbed1464124ae08d7adc0f5a05e"
+download_text: "Download"
+Intro_text: "New Features added the Document.AttachedTemplate property that allows to get/..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 0  Views: 63"
 file_size: "  File Size: 500.6 KB "

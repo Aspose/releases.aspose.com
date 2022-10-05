@@ -1,15 +1,13 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.words-.net-3.6.1.0-hot-fix-(dlls-only) . " 
-description:  "    . " 
-keywords:  "    . " 
-page_type:  single_release_page
-folder_link: " words/net/new-releases/aspose.words-.net-3.6.1.0-hot-fix-(dlls-only)/"
-folder_name: " Aspose.Words .Net 3.6.1.0 Hot Fix (Dlls Only)"
-download_link: " /words/net/new-releases/aspose.words-.net-3.6.1.0-hot-fix-(dlls-only)/0ec5360742ab46e0b293fbf1f5cdedd0"
-download_text: " Download"
-Intro_text: " New Features
-
-List styles are fully supported during load, save and copy betwe..."
+title: "Downloads ---New-Releases-aspose.words-.net-3.6.1.0-hot-fix-(dlls-only) . " 
+description:  "Downloads ---New-Releases-aspose.words-.net-3.6.1.0-hot-fix-(dlls-only) " 
+keywords: "    . " 
+page_type: single_release_page
+folder_link: "words/net/new-releases/aspose.words-.net-3.6.1.0-hot-fix-(dlls-only)/"
+folder_name: "Aspose.Words .Net 3.6.1.0 Hot Fix (Dlls Only)"
+download_link: "/words/net/new-releases/aspose.words-.net-3.6.1.0-hot-fix-(dlls-only)/0ec5360742ab46e0b293fbf1f5cdedd0"
+download_text: "Download"
+Intro_text: " New Features for list styles are fully supported during load, save and copy betwe..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 10  Views: 57"
 file_size: "  File Size: 526.1 KB "

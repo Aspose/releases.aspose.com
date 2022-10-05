@@ -1,19 +1,16 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.words-.net-3.5.0.0-new-release . " 
-description:  "    . " 
-keywords:  "    . " 
-page_type:  single_release_page
-folder_link: " words/net/new-releases/aspose.words-.net-3.5.0.0-new-release/"
-folder_name: " Aspose.Words .Net 3.5.0.0 New Release"
-download_link: " /words/net/new-releases/aspose.words-.net-3.5.0.0-new-release/b4ee81f1f8f0479fb1dee28384e45a08"
-download_text: " Download"
-Intro_text: " Dear Customers,
-We have released Aspose.Words 3.5
-Name Change
-Please note Asp..."
+title: "New Release for aspose.words.net 3.5.0.0" 
+description: "New Release for aspose.words.net 3.5.0.0" 
+keywords: "aspose.words" 
+page_type: "single_release_page"
+folder_link: "words/net/new-releases/aspose.words-.net-3.5.0.0-new-release/"
+folder_name: "Aspose.Words .Net 3.5.0.0 New Release"
+download_link: "/words/net/new-releases/aspose.words-.net-3.5.0.0-new-release/b4ee81f1f8f0479fb1dee28384e45a08"
+download_text: "Download"
+Intro_text: "We have releases Aspose.Words 3.5.0.0"
 image_link: "/resources/img/msi-icon.png"
-download_count: "   7/25/2007  Downloads: 64  Views: 257"
-file_size: "  File Size: 5.4 MB "
+download_count: "7/25/2007  Downloads: 64  Views: 257"
+file_size: "File Size: 5.4 MB "
 parent_path: "words/net"
 section_parent_path: "words/net"
 weight: 377

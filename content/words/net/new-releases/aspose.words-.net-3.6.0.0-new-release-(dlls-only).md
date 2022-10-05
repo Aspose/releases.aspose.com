@@ -1,18 +1,16 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.words-.net-3.6.0.0-new-release-(dlls-only) . " 
-description:  "    . " 
-keywords:  "    . " 
-page_type:  single_release_page
-folder_link: " words/net/new-releases/aspose.words-.net-3.6.0.0-new-release-(dlls-only)/"
-folder_name: " Aspose.Words .Net 3.6.0.0 New Release (Dlls Only)"
-download_link: " /words/net/new-releases/aspose.words-.net-3.6.0.0-new-release-(dlls-only)/c43e9263c02f41b2aa3e087bcd18e721"
-download_text: " Download"
-Intro_text: " New Features
-
-Added a lot of new code examples to the API. Both in C# and VB.N..."
+title: "Downloads ---New-Releases-aspose.words-.net-3.6.0.0-new-release-(dlls-only) . " 
+description: "Downloads ---New-Releases-aspose.words-.net-3.6.0.0-new-release-(dlls-only) .  " 
+keywords: "" 
+page_type: single_release_page
+folder_link: "words/net/new-releases/aspose.words-.net-3.6.0.0-new-release-(dlls-only)/"
+folder_name: "Aspose.Words .Net 3.6.0.0 New Release (Dlls Only)"
+download_link: "/words/net/new-releases/aspose.words-.net-3.6.0.0-new-release-(dlls-only)/c43e9263c02f41b2aa3e087bcd18e721"
+download_text: "Download"
+Intro_text: "New Features added a lot of new code examples to the API. Both in C# and VB.N..."
 image_link: "/resources/img/zip-icon.png"
-download_count: "   7/25/2007  Downloads: 7  Views: 66"
-file_size: "  File Size: 516.3 KB "
+download_count: "7/25/2007  Downloads: 7  Views: 66"
+file_size: "File Size: 516.3 KB "
 parent_path: "words/net"
 section_parent_path: "words/net"
 weight: 370

@@ -1,18 +1,16 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.words-.net-3.6.0.0-new-release . " 
-description:  "    . " 
+title:  "  Downloads ---New-Releases-aspose.words-.net-3.6.0.0-new-release-(dlls-only) " 
+description:  "Downloads ---New-Releases-aspose.words-.net-3.6.0.0-new-release-(dlls-only) " 
 keywords:  "    . " 
 page_type:  single_release_page
 folder_link: " words/net/new-releases/aspose.words-.net-3.6.0.0-new-release/"
 folder_name: " Aspose.Words .Net 3.6.0.0 New Release"
-download_link: " /words/net/new-releases/aspose.words-.net-3.6.0.0-new-release/4cea20ec5e5546fdae350c255c5be32a"
-download_text: " Download"
-Intro_text: " New Features
-
-Added a lot of new code examples to the API. Both in C# and VB.N..."
+download_link: "/words/net/new-releases/aspose.words-.net-3.6.0.0-new-release/4cea20ec5e5546fdae350c255c5be32a"
+download_text: "Download"
+Intro_text: "New Features added a lot of new code examples to the API. Both in C# and VB.N..."
 image_link: "/resources/img/msi-icon.png"
-download_count: "   7/25/2007  Downloads: 11  Views: 122"
-file_size: "  File Size: 5.7 MB "
+download_count: "7/25/2007  Downloads: 11  Views: 122"
+file_size: "File Size: 5.7 MB "
 parent_path: "words/net"
 section_parent_path: "words/net"
 weight: 369

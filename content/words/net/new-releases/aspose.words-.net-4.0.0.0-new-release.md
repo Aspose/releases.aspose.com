@@ -7,9 +7,7 @@ folder_link: " words/net/new-releases/aspose.words-.net-4.0.0.0-new-release/"
 folder_name: " Aspose.Words .Net 4.0.0.0 New Release"
 download_link: " /words/net/new-releases/aspose.words-.net-4.0.0.0-new-release/742d8ba85c384080ba8a220a4bd181bc"
 download_text: " Download"
-Intro_text: " This is to confirm that Aspose.Words for .NET 4.0.0 Final is released.
- 
-Impor..."
+Intro_text: " This is to confirm that Aspose.Words for .NET 4.0.0 Final is released..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 21  Views: 213"
 file_size: "  File Size: 7.2 MB "

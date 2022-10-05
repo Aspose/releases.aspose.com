@@ -7,15 +7,7 @@ folder_link: " words/net/new-releases/aspose.words-.net-4.1.1.0-hot-fix/"
 folder_name: " Aspose.Words .Net 4.1.1.0 Hot Fix"
 download_link: " /words/net/new-releases/aspose.words-.net-4.1.1.0-hot-fix/53c7181eff904118a8d225000ec2867f"
 download_text: " Download"
-Intro_text: " This maintenance release includes a number of useful fixes:
-
-
-
-
-
-1455
-
-T..."
+Intro_text: " This maintenance release includes a number of useful fixes..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 14  Views: 167"
 file_size: "  File Size: 7.6 MB "

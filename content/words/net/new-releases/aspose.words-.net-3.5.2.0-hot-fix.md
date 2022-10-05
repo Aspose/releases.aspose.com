@@ -1,18 +1,16 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.words-.net-3.5.2.0-hot-fix . " 
-description:  "    . " 
-keywords:  "    . " 
-page_type:  single_release_page
-folder_link: " words/net/new-releases/aspose.words-.net-3.5.2.0-hot-fix/"
-folder_name: " Aspose.Words .Net 3.5.2.0 Hot Fix"
-download_link: " /words/net/new-releases/aspose.words-.net-3.5.2.0-hot-fix/ccb3d7a37ceb40169b66da2c2e932046"
-download_text: " Download"
-Intro_text: " New Features
-
-AddedÂ ClearFormatting method for RowFormat and CellFormat classe..."
+title: "Downloads ---New-Releases-aspose.words-.net-3.5.2.0-hot-fix" 
+description: "Downloads ---New-Releases-aspose.words-.net-3.5.2.0-hot-fix" 
+keywords: "" 
+page_type: single_release_page
+folder_link: "words/net/new-releases/aspose.words-.net-3.5.2.0-hot-fix/"
+folder_name: "Aspose.Words .Net 3.5.2.0 Hot Fix"
+download_link: "/words/net/new-releases/aspose.words-.net-3.5.2.0-hot-fix/ccb3d7a37ceb40169b66da2c2e932046"
+download_text: "Download"
+Intro_text: "New Features added ClearFormatting method for RowFormat and CellFormat classe..."
 image_link: "/resources/img/msi-icon.png"
-download_count: "   7/25/2007  Downloads: 5  Views: 100"
-file_size: "  File Size: 5.4 MB "
+download_count: "7/25/2007  Downloads: 5  Views: 100"
+file_size: "File Size: 5.4 MB "
 parent_path: "words/net"
 section_parent_path: "words/net"
 weight: 373

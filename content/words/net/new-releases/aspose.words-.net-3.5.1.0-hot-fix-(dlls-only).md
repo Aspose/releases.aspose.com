@@ -1,17 +1,15 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.words-.net-3.5.1.0-hot-fix-(dlls-only) . " 
-description:  "    . " 
-keywords:  "    . " 
-page_type:  single_release_page
-folder_link: " words/net/new-releases/aspose.words-.net-3.5.1.0-hot-fix-(dlls-only)/"
-folder_name: " Aspose.Words .Net 3.5.1.0 Hot Fix (Dlls Only)"
-download_link: " /words/net/new-releases/aspose.words-.net-3.5.1.0-hot-fix-(dlls-only)/83f26d4275a84325a64b72b78e6d5090"
+title: "Downloads ---New-Releases-aspose.words-.net-3.5.1.0-hot-fix-(dlls-only)" 
+description:  "" 
+keywords:  "" 
+page_type: single_release_page
+folder_link: "words/net/new-releases/aspose.words-.net-3.5.1.0-hot-fix-(dlls-only)/"
+folder_name: "Aspose.Words .Net 3.5.1.0 Hot Fix (Dlls Only)"
+download_link: "/words/net/new-releases/aspose.words-.net-3.5.1.0-hot-fix-(dlls-only)/83f26d4275a84325a64b72b78e6d5090"
 download_text: " Download"
-Intro_text: " New Features
-
-Added public classes to create/modify tab stops and tab leaders...."
+Intro_text: "New Features added public classes to create/modify tab stops and tab leaders...."
 image_link: "/resources/img/zip-icon.png"
-download_count: "   7/25/2007  Downloads: 7  Views: 65"
+download_count: "7/25/2007  Downloads: 7  Views: 65"
 file_size: "  File Size: 446.1 KB "
 parent_path: "words/net"
 section_parent_path: "words/net"
