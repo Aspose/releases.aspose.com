@@ -7,7 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-2.8.4.0-hot-fix-(d
 folder_name: " Aspose.Slides for .Net 2.8.4.0 Hot Fix (Dlls only)"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-2.8.4.0-hot-fix-(dlls-only)/e131eb32b9ac4dd088947a513afc85c1"
 download_text: " Download"
-Intro_text: " What's New:Implemented slides cloning inside one presentation for pptx format. I..."
+Intro_text: " Implemented slides cloning inside one presentation for pptx format. I..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   4/4/2008  Downloads: 80  Views: 353"
 file_size: "  File Size: 1.0 MB "

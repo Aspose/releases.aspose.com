@@ -7,11 +7,7 @@ folder_link: " cells/java/new-releases/aspose.cells-for-java-1.9.2-hot-fix/"
 folder_name: " Aspose.Cells For Java 1.9.2 Hot Fix"
 download_link: " /cells/java/new-releases/aspose.cells-for-java-1.9.2-hot-fix/b570e57a5a7b4daa9fa9fbba03d5e6af"
 download_text: " Download"
-Intro_text: " Dear Customers, 
-We have released Aspose.Cells for Java V1.9.2!
-What's New?
-
-..."
+Intro_text: " Dear Customers, We have released Aspose.Cells for Java V1.9.2!"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/24/2007  Downloads: 126  Views: 1467"
 file_size: "  File Size: 11.2 MB "

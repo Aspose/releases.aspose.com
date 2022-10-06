@@ -7,12 +7,7 @@ folder_link: " pdf/net/new-releases/-aspose.pdf-for-.net-3.5.7.0-hot-fix/"
 folder_name: "  Aspose.PDF for .Net 3.5.7.0 Hot Fix"
 download_link: " /pdf/net/new-releases/-aspose.pdf-for-.net-3.5.7.0-hot-fix/a7741fafa7e249a3932c53952918a62c"
 download_text: " Download"
-Intro_text: " 	
-		What's New?
-		
-			
-				3514 - Embedded ImageData as Base64 string is 
-	..."
+Intro_text: "It contains Embedded ImageData as Base64 string is..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   8/14/2007  Downloads: 270  Views: 1297"
 file_size: "  File Size: 4.6 MB "

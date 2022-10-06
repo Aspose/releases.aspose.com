@@ -7,11 +7,7 @@ folder_link: " cells/net/new-releases/aspose.cells-4.5.0.0-new-release/"
 folder_name: " Aspose.Cells 4.5.0.0 New Release"
 download_link: " /cells/net/new-releases/aspose.cells-4.5.0.0-new-release/7c326712c5b74898bc77d321d5dae8fa"
 download_text: " Download"
-Intro_text: " What's New?
- 
-
- Convert Worksheet to image.
- Support to convert Excel file t..."
+Intro_text: "Convert Worksheet to image. Support to convert Excel file t..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   6/27/2008  Downloads: 2160  Views: 3708"
 file_size: "  File Size: 12.1 MB "

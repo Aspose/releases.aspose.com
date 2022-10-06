@@ -7,12 +7,7 @@ folder_link: " tasks/net/new-releases/aspose.tasks-for-.net-2.1.2/"
 folder_name: " Aspose.Tasks for .NET 2.1.2"
 download_link: " /tasks/net/new-releases/aspose.tasks-for-.net-2.1.2/110b5c457894450695ff7b2c0be9e68e"
 download_text: " Download"
-Intro_text: " This is maintenance release of Aspose.Tasks for .NET.
-What's New:
-
- 
-  
-   ..."
+Intro_text: " This is maintenance release of Aspose.Tasks for .NET."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   8/15/2009  Downloads: 49  Views: 375"
 file_size: "  File Size: 1.5 MB "

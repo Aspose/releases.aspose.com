@@ -7,9 +7,7 @@ folder_link: " slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: " Aspose.Slides for Reporting Services 1.1.2.0"
 download_link: " /slides/reportingservices/new-releases/aspose.slides-for-reporting-services-1.1.2.0/677168501321412abce6b5916b2a240f"
 download_text: " Download"
-Intro_text: " What's New:
-Reimplemented rendering of TextBox borders. TextBox can have
-diffe..."
+Intro_text: "Reimplemented rendering of TextBox borders. TextBox can have diffe..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   11/30/2007  Downloads: 27  Views: 371"
 file_size: "  File Size: 2.9 MB "

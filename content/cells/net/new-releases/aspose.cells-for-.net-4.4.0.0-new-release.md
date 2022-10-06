@@ -7,13 +7,7 @@ folder_link: " cells/net/new-releases/aspose.cells-for-.net-4.4.0.0-new-release/
 folder_name: " Aspose.Cells for .Net 4.4.0.0 New Release"
 download_link: " /cells/net/new-releases/aspose.cells-for-.net-4.4.0.0-new-release/dbbc4da81a794522bb23bb5f51b44026"
 download_text: " Download"
-Intro_text: " 
-
-
-
-
-What's New?
-3208 - Allows to delete defined names from template files..."
+Intro_text: "3208 - Allows to delete defined names from template files..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   10/11/2007  Downloads: 2606  Views: 4034"
 file_size: "  File Size: 10.3 MB "

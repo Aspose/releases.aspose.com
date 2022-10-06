@@ -7,9 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-2.8.1.0-hot-fix/"
 folder_name: " Aspose.Slides for .Net 2.8.1.0 Hot Fix"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-2.8.1.0-hot-fix/844b169f6a3e45b28048bb7f61c542d5"
 download_text: " Download"
-Intro_text: " What's New:
-Support for bidirectional writing. PowerPoint presentations can
-ha..."
+Intro_text: "Support for bidirectional writing. PowerPoint presentations can ha..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   3/5/2008  Downloads: 91  Views: 647"
 file_size: "  File Size: 5.2 MB "

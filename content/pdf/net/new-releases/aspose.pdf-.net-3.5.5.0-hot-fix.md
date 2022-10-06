@@ -7,9 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-3.5.5.0-hot-fix/"
 folder_name: " Aspose.PDF .Net 3.5.5.0 Hot Fix"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.5.5.0-hot-fix/49683310d4244d4b98a83916a9093e1f"
 download_text: " Download"
-Intro_text: " What's New? 
-
-3281 - Importing data from ASP.NET control DataGrid. A new mothe..."
+Intro_text: "3281 - Importing data from ASP.NET control DataGrid. A new mothe..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 78  Views: 554"
 file_size: "  File Size: 4.6 MB "

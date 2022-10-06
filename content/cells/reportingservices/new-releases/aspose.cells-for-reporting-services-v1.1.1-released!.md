@@ -7,11 +7,7 @@ folder_link: " cells/reportingservices/new-releases/aspose.cells-for-reporting-s
 folder_name: " Aspose.Cells for Reporting Services V1.1.1 Released!"
 download_link: " /cells/reportingservices/new-releases/aspose.cells-for-reporting-services-v1.1.1-released!/1200c05619d5405e9da2ae2d244fa8f8"
 download_text: " Download"
-Intro_text: " What's Improved?
-
-
-Rewrote the client tool, improved its stability
-Supported..."
+Intro_text: "It contains improvements like Rewrote the client tool, improved its stability Supported..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   3/27/2008  Downloads: 110  Views: 1323"
 file_size: "  File Size: 4.9 MB "

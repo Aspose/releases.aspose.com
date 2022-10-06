@@ -7,7 +7,7 @@ folder_link: " slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: " Aspose.Slides for Reporting Services 2.0.4.0 (Dlls Only)"
 download_link: " /slides/reportingservices/new-releases/aspose.slides-for-reporting-services-2.0.4.0-(dlls-only)/f70859a85db04fa5b65e53fc4980dc89"
 download_text: " Download"
-Intro_text: " What's New:Another try to avoid text overlapping problem. For long text blocks (..."
+Intro_text: "Another try to avoid text overlapping problem. For long text blocks (..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   10/12/2008  Downloads: 26  Views: 330"
 file_size: "  File Size: 2.3 MB "

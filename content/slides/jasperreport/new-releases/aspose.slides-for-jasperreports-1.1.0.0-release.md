@@ -7,9 +7,7 @@ folder_link: " slides/jasperreport/new-releases/aspose.slides-for-jasperreports-
 folder_name: " Aspose.Slides for JasperReports 1.1.0.0 Release"
 download_link: " /slides/jasperreport/new-releases/aspose.slides-for-jasperreports-1.1.0.0-release/fa75db19e3d643d1810a41793c4dbcdd"
 download_text: " Download"
-Intro_text: " What's New:
-
-Aspose.Slides for JasperReports can be easily integrated with Jas..."
+Intro_text: "Aspose.Slides for JasperReports can be easily integrated with Jas..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/15/2010  Downloads: 26  Views: 1207"
 file_size: "  File Size: 2.1 MB "

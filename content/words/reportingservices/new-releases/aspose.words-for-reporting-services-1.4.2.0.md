@@ -7,10 +7,7 @@ folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-s
 folder_name: " Aspose.Words for Reporting Services 1.4.2.0"
 download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-1.4.2.0/2dc3f2d77de2487f985d05c618bc09f6"
 download_text: " Download"
-Intro_text: " This is a maintenance release.
-What's new
-
-MSI installer now automatically ad..."
+Intro_text: " This is a maintenance release.MSI installer now automatically ad..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   10/9/2007  Downloads: 65  Views: 428"
 file_size: "  File Size: 5.5 MB "

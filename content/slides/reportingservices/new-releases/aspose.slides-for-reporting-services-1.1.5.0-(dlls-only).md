@@ -7,7 +7,7 @@ folder_link: " slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: " Aspose.Slides for Reporting Services 1.1.5.0 (Dlls Only)"
 download_link: " /slides/reportingservices/new-releases/aspose.slides-for-reporting-services-1.1.5.0-(dlls-only)/89180c61c027442c8081ae353445db8c"
 download_text: " Download"
-Intro_text: " What's New:Implemented export of Hyperlink actions. By RDL specifications, hyper..."
+Intro_text: "Implemented export of Hyperlink actions. By RDL specifications, hyper..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   4/2/2008  Downloads: 52  Views: 402"
 file_size: "  File Size: 2.5 MB "

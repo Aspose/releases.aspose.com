@@ -7,8 +7,7 @@ folder_link: " words/jasperreports/new-releases/aspose.words-for-jasperreports-1
 folder_name: " Aspose.Words for JasperReports 1.0.1"
 download_link: " /words/jasperreports/new-releases/aspose.words-for-jasperreports-1.0.1/66148b11718e452c9fc972b2850e30ee"
 download_text: " Download"
-Intro_text: " This is a maintenance release containing a number of important updates.
-What's ..."
+Intro_text: " This is a maintenance release containing a number of important updates."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/4/2009  Downloads: 39  Views: 488"
 file_size: "  File Size: 3.2 MB "

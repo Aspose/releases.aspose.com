@@ -7,7 +7,7 @@ folder_link: " slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: " Aspose.Slides for Reporting Services 2.1.0.0 (Dlls Only)"
 download_link: " /slides/reportingservices/new-releases/aspose.slides-for-reporting-services-2.1.0.0-(dlls-only)/77049e8340b34362ae32b0f0beaa4ccb"
 download_text: " Download"
-Intro_text: " What's New:Merged with latest stable version of Aspose.Slides for .Net.Fixed:Fit..."
+Intro_text: "Merged with latest stable version of Aspose.Slides for .Net.Fixed:Fit..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   10/30/2008  Downloads: 28  Views: 374"
 file_size: "  File Size: 2.3 MB "

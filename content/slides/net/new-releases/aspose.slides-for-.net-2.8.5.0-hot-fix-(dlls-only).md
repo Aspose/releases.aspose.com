@@ -7,7 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-2.8.5.0-hot-fix-(d
 folder_name: " Aspose.Slides for .Net 2.8.5.0 Hot Fix (Dlls only)"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-2.8.5.0-hot-fix-(dlls-only)/81c79028a2204e1abcafee512314afbe"
 download_text: " Download"
-Intro_text: " What's New:Paragraph.HasBullet property has bool type now.Slide.Layout property ..."
+Intro_text: "Paragraph.HasBullet property has bool type now.Slide.Layout property ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/24/2008  Downloads: 75  Views: 234"
 file_size: "  File Size: 1.0 MB "

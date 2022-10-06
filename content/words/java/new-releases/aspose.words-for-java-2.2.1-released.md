@@ -7,12 +7,7 @@ folder_link: " words/java/new-releases/aspose.words-for-java-2.2.1-released/"
 folder_name: " Aspose.Words for Java 2.2.1 Released"
 download_link: " /words/java/new-releases/aspose.words-for-java-2.2.1-released/bb861509db814f3ea7d6e186b2f4fe38"
 download_text: " Download"
-Intro_text: " What's New
-
-Aspose.Words for Java now supports Java 1.6.
-Fixes
-
-3407 - AW 2..."
+Intro_text: "Aspose.Words for Java now supports Java 1.6."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/30/2007  Downloads: 163  Views: 684"
 file_size: "  File Size: 4.7 MB "

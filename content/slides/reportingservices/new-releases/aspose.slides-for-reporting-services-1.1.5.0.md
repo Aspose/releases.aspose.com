@@ -7,8 +7,7 @@ folder_link: " slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: " Aspose.Slides for Reporting Services 1.1.5.0"
 download_link: " /slides/reportingservices/new-releases/aspose.slides-for-reporting-services-1.1.5.0/00d407d83b2c466d8d01f9d658827057"
 download_text: " Download"
-Intro_text: " What's New:
-Implemented export of Hyperlink actions. By RDL specifications, hyp..."
+Intro_text: "Implemented export of Hyperlink actions. By RDL specifications, hyp..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   4/2/2008  Downloads: 199  Views: 1297"
 file_size: "  File Size: 2.9 MB "

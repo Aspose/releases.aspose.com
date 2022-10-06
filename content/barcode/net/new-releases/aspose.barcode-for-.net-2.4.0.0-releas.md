@@ -7,10 +7,7 @@ folder_link: " barcode/net/new-releases/aspose.barcode-for-.net-2.4.0.0-releas/"
 folder_name: " Aspose.BarCode for .NET 2.4.0.0 Releas"
 download_link: " /barcode/net/new-releases/aspose.barcode-for-.net-2.4.0.0-releas/e9fba45de2b34f9094845c8bf2cb04d0"
 download_text: " Download"
-Intro_text: " Dear Customers, 
-We have released Aspose.BarCode for .NET 2.4.0.0.
-What's New
-..."
+Intro_text: " Dear Customers, We have released Aspose.BarCode for .NET 2.4.0.0."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/22/2007  Downloads: 105  Views: 520"
 file_size: "  File Size: 1.4 MB "

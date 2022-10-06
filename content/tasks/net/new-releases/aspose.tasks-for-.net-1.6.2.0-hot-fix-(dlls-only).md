@@ -7,9 +7,7 @@ folder_link: " tasks/net/new-releases/aspose.tasks-for-.net-1.6.2.0-hot-fix-(dll
 folder_name: " Aspose.Tasks for .Net 1.6.2.0 Hot Fix (Dlls Only)"
 download_link: " /tasks/net/new-releases/aspose.tasks-for-.net-1.6.2.0-hot-fix-(dlls-only)/c33b46d2433d4d44b6db8c625d8e54df"
 download_text: " Download"
-Intro_text: " What's New:
-Support for mpx files with different encoding (for example to
-read..."
+Intro_text: "Support for mpx files with different encoding (for example to read..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/3/2008  Downloads: 80  Views: 835"
 file_size: "  File Size: 254.1 KB "

@@ -7,9 +7,7 @@ folder_link: " cells/java/new-releases/aspose.cells-for-java-v1.9.4-hot-fix/"
 folder_name: " Aspose.Cells for Java V1.9.4 Hot Fix"
 download_link: " /cells/java/new-releases/aspose.cells-for-java-v1.9.4-hot-fix/6e7a68c07628445d95d09ad8084a8691"
 download_text: " Download"
-Intro_text: " What's New?
-
-Supports to add rich text for shapes such as Arc, Oval, Rectangle..."
+Intro_text: "Supports to add rich text for shapes such as Arc, Oval, Rectangle..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   3/4/2008  Downloads: 311  Views: 1203"
 file_size: "  File Size: 11.5 MB "

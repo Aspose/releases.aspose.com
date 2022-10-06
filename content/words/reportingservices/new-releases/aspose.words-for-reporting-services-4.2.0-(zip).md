@@ -7,7 +7,7 @@ folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-s
 folder_name: " Aspose.Words for Reporting Services 4.2.0 (Zip)"
 download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-4.2.0-(zip)/b39d95f628d6468bb8da811651f321b1"
 download_text: " Download"
-Intro_text: " Please welcome a major release of Aspose.Words for Reporting Services.What's imp..."
+Intro_text: " Please welcome a major release of Aspose.Words for Reporting Services..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/28/2014  Downloads: 48  Views: 181"
 file_size: "  File Size: 33.4 MB "

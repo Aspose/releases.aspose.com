@@ -7,11 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-for-.net-3.5.6.0-hot-fix/"
 folder_name: " Aspose.PDF for .Net 3.5.6.0 Hot Fix"
 download_link: " /pdf/net/new-releases/aspose.pdf-for-.net-3.5.6.0-hot-fix/8a4cf33be3334278903659544ae7dc4a"
 download_text: " Download"
-Intro_text: " 		What's New?
-		
-			
-				3420 - Non-breaking 
-					space. Non-breaking space..."
+Intro_text: "Non-breaking, space. Non-breaking space..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   8/3/2007  Downloads: 225  Views: 736"
 file_size: "  File Size: 4.6 MB "

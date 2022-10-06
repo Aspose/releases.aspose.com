@@ -7,7 +7,7 @@ folder_link: " cells/java/new-releases/aspose.cells-for-java-v2.0.0-new-release/
 folder_name: " Aspose.Cells for Java V2.0.0 New Release"
 download_link: " /cells/java/new-releases/aspose.cells-for-java-v2.0.0-new-release/cb635c4dfc284cf0a3a9c6ace1a26f40"
 download_text: " Download"
-Intro_text: " Dear Customers, We have released Aspose.Cells for Java V2.0.0! What's New? S..."
+Intro_text: " Dear Customers, We have released Aspose.Cells for Java V2.0.0!"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/16/2008  Downloads: 372  Views: 1640"
 file_size: "  File Size: 13.0 MB "

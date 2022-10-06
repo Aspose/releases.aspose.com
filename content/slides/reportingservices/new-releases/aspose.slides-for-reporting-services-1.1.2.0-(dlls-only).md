@@ -7,7 +7,7 @@ folder_link: " slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: " Aspose.Slides for Reporting Services 1.1.2.0 (Dlls Only)"
 download_link: " /slides/reportingservices/new-releases/aspose.slides-for-reporting-services-1.1.2.0-(dlls-only)/c71860157f2f4162a09002d12bc52433"
 download_text: " Download"
-Intro_text: " What's New:Reimplemented rendering of TextBox borders. TextBox can have differen..."
+Intro_text: "Reimplemented rendering of TextBox borders. TextBox can have differen..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/30/2007  Downloads: 9  Views: 323"
 file_size: "  File Size: 2.5 MB "

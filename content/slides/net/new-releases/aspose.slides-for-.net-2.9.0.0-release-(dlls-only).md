@@ -7,7 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-2.9.0.0-release-(d
 folder_name: " Aspose.Slides for .Net 2.9.0.0 Release (Dlls only)"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-2.9.0.0-release-(dlls-only)/3678287ae9934f1685d7b3f00ff0bbf5"
 download_text: " Download"
-Intro_text: " What's New:New PDF Rendering engine. Public API wasn't changed so please check P..."
+Intro_text: "New PDF Rendering engine. Public API wasn't changed so please check P..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   10/12/2008  Downloads: 137  Views: 480"
 file_size: "  File Size: 1.5 MB "

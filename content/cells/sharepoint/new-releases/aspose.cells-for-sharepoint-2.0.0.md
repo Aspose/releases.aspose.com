@@ -7,10 +7,7 @@ folder_link: " cells/sharepoint/new-releases/aspose.cells-for-sharepoint-2.0.0/"
 folder_name: " Aspose.Cells for SharePoint 2.0.0"
 download_link: " /cells/sharepoint/new-releases/aspose.cells-for-sharepoint-2.0.0/7a5e616c6f2b4c6e83f5f0355e076b75"
 download_text: " Download"
-Intro_text: " We are happy to announce Aspose.Cells for SharePoint v2.0.0!
- 
-What's new:
-Â· ..."
+Intro_text: " We are happy to announce Aspose.Cells for SharePoint v2.0.0!"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/11/2010  Downloads: 105  Views: 627"
 file_size: "  File Size: 7.6 MB "

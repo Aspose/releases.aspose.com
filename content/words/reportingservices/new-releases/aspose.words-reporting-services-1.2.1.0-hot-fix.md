@@ -7,9 +7,7 @@ folder_link: " words/reportingservices/new-releases/aspose.words-reporting-servi
 folder_name: " Aspose.Words Reporting Services 1.2.1.0 Hot Fix"
 download_link: " /words/reportingservices/new-releases/aspose.words-reporting-services-1.2.1.0-hot-fix/fc0a4e41d7fd4898b786d649ac38b4f2"
 download_text: " Download"
-Intro_text: " This is a minor release containing a fix for the MSI installer.
-What's fixed:
-..."
+Intro_text: " This is a minor release containing a fix for the MSI installer."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 0  Views: 121"
 file_size: "  File Size: 4.8 MB "

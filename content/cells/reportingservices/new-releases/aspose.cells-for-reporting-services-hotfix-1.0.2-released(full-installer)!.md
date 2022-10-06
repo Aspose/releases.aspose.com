@@ -7,12 +7,7 @@ folder_link: " cells/reportingservices/new-releases/aspose.cells-for-reporting-s
 folder_name: " Aspose.Cells for Reporting Services Hotfix 1.0.2 Released(full installer)!"
 download_link: " /cells/reportingservices/new-releases/aspose.cells-for-reporting-services-hotfix-1.0.2-released(full-installer)!/08b19cadedd2409c967607daee9f40bd"
 download_text: " Download"
-Intro_text: " 
-What's New?  
-
-  Supported to export list 
-  Supported to export subreport
-..."
+Intro_text: " It contains latest release..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   8/28/2007  Downloads: 165  Views: 1373"
 file_size: "  File Size: 1.1 MB "

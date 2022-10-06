@@ -7,11 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-3.1.1/"
 folder_name: " Aspose.Slides for .NET 3.1.1"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-3.1.1/61ef2595152745b6be08759d4332063c"
 download_text: " Download"
-Intro_text: " This is maintenance release of Aspose.Slides for .NET.What's new:
-
- 
-  
-   I..."
+Intro_text: " This is maintenance release of Aspose.Slides for .NET"
 image_link: "/resources/img/msi-icon.png"
 download_count: "   8/23/2009  Downloads: 236  Views: 767"
 file_size: "  File Size: 9.6 MB "

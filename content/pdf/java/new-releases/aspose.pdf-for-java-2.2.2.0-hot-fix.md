@@ -7,11 +7,7 @@ folder_link: " pdf/java/new-releases/aspose.pdf-for-java-2.2.2.0-hot-fix/"
 folder_name: " Aspose.PDF for Java 2.2.2.0 Hot Fix"
 download_link: " /pdf/java/new-releases/aspose.pdf-for-java-2.2.2.0-hot-fix/35cc651e7e084548b085c0b0f0c240ed"
 download_text: " Download"
-Intro_text: " 		What's Fixed?
-		
-			
-				3279 - set 
-					page-transition and page duratio..."
+Intro_text: "It contains page-transition and page duratio..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/5/2007  Downloads: 199  Views: 903"
 file_size: "  File Size: 2.1 MB "

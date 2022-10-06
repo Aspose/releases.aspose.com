@@ -7,10 +7,7 @@ folder_link: " barcode/net/new-releases/aspose.barcode-.net-2.3.1.0-hot-fix/"
 folder_name: " Aspose.BarCode .Net 2.3.1.0 Hot Fix"
 download_link: " /barcode/net/new-releases/aspose.barcode-.net-2.3.1.0-hot-fix/fa8a61cb0f7a44ee95e2e8de6b933d1e"
 download_text: " Download"
-Intro_text: " Dear customers,
-We have released hotfix 2.3.1 for Aspose.BarCode!
-What's new?
-..."
+Intro_text: " Dear customers, We have released hotfix 2.3.1 for Aspose.BarCode!"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/24/2007  Downloads: 67  Views: 299"
 file_size: "  File Size: 1.0 MB "

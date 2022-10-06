@@ -7,10 +7,7 @@ folder_link: " slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: " Aspose.Slides for Reporting Services 3.1.0 (Dlls Only)"
 download_link: " /slides/reportingservices/new-releases/aspose.slides-for-reporting-services-3.1.0-(dlls-only)/dbad0012ddea46af9e5d9b244468d63b"
 download_text: " Download"
-Intro_text: " What's new:
-
-Perfomance improvements in both 2005 and 2008 versions.
-Installe..."
+Intro_text: "Perfomance improvements in both 2005 and 2008 versions.Installe..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   6/11/2009  Downloads: 52  Views: 327"
 file_size: "  File Size: 3.4 MB "

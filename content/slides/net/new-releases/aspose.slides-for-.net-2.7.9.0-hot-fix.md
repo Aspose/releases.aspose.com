@@ -7,9 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-2.7.9.0-hot-fix/"
 folder_name: " Aspose.Slides for .Net 2.7.9.0 Hot Fix"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-2.7.9.0-hot-fix/403074f9a64a4af5bacdf09688b77c45"
 download_text: " Download"
-Intro_text: " What's New:
-Support for Ole1 native objects. Now OleObjectFrame class can
-reco..."
+Intro_text: "Support for Ole1 native objects. Now OleObjectFrame class can reco..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   2/7/2008  Downloads: 116  Views: 343"
 file_size: "  File Size: 4.7 MB "

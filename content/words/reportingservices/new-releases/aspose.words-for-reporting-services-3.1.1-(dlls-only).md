@@ -7,10 +7,7 @@ folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-s
 folder_name: " Aspose.Words for Reporting Services 3.1.1 (Dlls Only)"
 download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-3.1.1-(dlls-only)/28e8dfcb4928478b8f81721fd25d9860"
 download_text: " Download"
-Intro_text: " This is a maintenance release containing two important bugfixes.
-What's new:
-
-..."
+Intro_text: " This is a maintenance release containing two important bugfixes.."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/13/2009  Downloads: 67  Views: 336"
 file_size: "  File Size: 10.3 MB "

@@ -7,11 +7,7 @@ folder_link: " pdf/net/new-releases/--aspose.pdf-for-.net-3.5.8.0-hot-fix/"
 folder_name: "   Aspose.PDF for .Net 3.5.8.0 Hot Fix"
 download_link: " /pdf/net/new-releases/--aspose.pdf-for-.net-3.5.8.0-hot-fix/6d0e58e563b942f3af38794a1d217640"
 download_text: " Download"
-Intro_text: " 		What's Fixed?
-		
-			
-				3477 - Text 
-					goes to new page while there is..."
+Intro_text: "It contains fixes that goes to new page while there is..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   8/20/2007  Downloads: 429  Views: 939"
 file_size: "  File Size: 4.7 MB "

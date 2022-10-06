@@ -7,10 +7,7 @@ folder_link: " pdf/java/new-releases/aspose.pdf-java-2.2.1.0-hot-fix/"
 folder_name: " Aspose.PDF Java 2.2.1.0 Hot Fix"
 download_link: " /pdf/java/new-releases/aspose.pdf-java-2.2.1.0-hot-fix/74935124049f4b4eab97e3d41a712ba6"
 download_text: " Download"
-Intro_text: " What's Fixed?
-
-3303 -  Unable to add table to pdf-document 
-3311 -  getColor ..."
+Intro_text: "It contains fixes for Unable to add table to pdf-document"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 54  Views: 493"
 file_size: "  File Size: 2.1 MB "

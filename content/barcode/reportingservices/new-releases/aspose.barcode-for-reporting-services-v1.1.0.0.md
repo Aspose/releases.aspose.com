@@ -7,9 +7,7 @@ folder_link: " barcode/reportingservices/new-releases/aspose.barcode-for-reporti
 folder_name: " Aspose.BarCode for Reporting Services v1.1.0.0"
 download_link: " /barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-v1.1.0.0/a7318310f4164690b4ad25290b028630"
 download_text: " Download"
-Intro_text: " What's new
-
-MSI installer automatically adds Aspose.BarCode for reporting serv..."
+Intro_text: "MSI installer automatically adds Aspose.BarCode for reporting serv..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   10/10/2007  Downloads: 26  Views: 491"
 file_size: "  File Size: 2.1 MB "

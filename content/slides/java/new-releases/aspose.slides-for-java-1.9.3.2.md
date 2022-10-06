@@ -7,11 +7,7 @@ folder_link: " slides/java/new-releases/aspose.slides-for-java-1.9.3.2/"
 folder_name: " Aspose.Slides for Java 1.9.3.2"
 download_link: " /slides/java/new-releases/aspose.slides-for-java-1.9.3.2/0fddb4f375584467a1d63589b70143bc"
 download_text: " Download"
-Intro_text: " We are happy to announce Aspose.Slides for Java 1.9.3.2!
-What's changed:
-
-
-P..."
+Intro_text: " We are happy to announce Aspose.Slides for Java 1.9.3.2!"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/15/2010  Downloads: 403  Views: 1761"
 file_size: "  File Size: 3.5 MB "

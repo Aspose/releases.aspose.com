@@ -7,7 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-2.8.8.0-hot-fix-(d
 folder_name: " Aspose.Slides for .Net 2.8.8.0 Hot Fix (Dlls only)"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-2.8.8.0-hot-fix-(dlls-only)/01a32505d6aa4cdda4d4d88cfa9f8864"
 download_text: " Download"
-Intro_text: " What's New:PPTXPartial implementation of connectors. It's possible to read, writ..."
+Intro_text: "PPTXPartial implementation of connectors. It's possible to read, writ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/4/2008  Downloads: 23  Views: 320"
 file_size: "  File Size: 2.1 MB "
