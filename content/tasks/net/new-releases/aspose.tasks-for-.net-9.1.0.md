@@ -7,9 +7,7 @@ folder_link: " tasks/net/new-releases/aspose.tasks-for-.net-9.1.0/"
 folder_name: " Aspose.Tasks for .NET 9.1.0"
 download_link: " /tasks/net/new-releases/aspose.tasks-for-.net-9.1.0/2ad31867f57c4dca9f7dbeb69fb68c32"
 download_text: " Download"
-Intro_text: " Major Features
-
-We have implemented Task.DurationText field for mpp writing an..."
+Intro_text: "We have implemented Task.DurationText field for mpp writing an..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   12/30/2015  Downloads: 115  Views: 157"
 file_size: "  File Size: 13.2 MB "

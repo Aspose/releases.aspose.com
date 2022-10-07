@@ -7,8 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-2.7.3.0-hot-fix/"
 folder_name: " Aspose.Slides for .Net 2.7.3.0 Hot Fix"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-2.7.3.0-hot-fix/5feb4226e57c40bbb20872298bb4645e"
 download_text: " Download"
-Intro_text: " Fixes:
-3819, 3834 - DeleteHandout method didn't clear all
+Intro_text: "3819, 3834 - DeleteHandout method didn't clear all
 cross-references to ..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   10/4/2007  Downloads: 78  Views: 282"

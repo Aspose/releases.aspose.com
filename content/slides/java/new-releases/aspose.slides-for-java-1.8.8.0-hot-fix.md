@@ -7,9 +7,7 @@ folder_link: " slides/java/new-releases/aspose.slides-for-java-1.8.8.0-hot-fix/"
 folder_name: " Aspose.Slides for Java 1.8.8.0 Hot Fix"
 download_link: " /slides/java/new-releases/aspose.slides-for-java-1.8.8.0-hot-fix/7ba049fd798646c4b2aa2b299a6e2a0f"
 download_text: " Download"
-Intro_text: " Fixed:
-
-Improved cleaning PPT files (removing XML tags) created in MS PowerPoi..."
+Intro_text: "Improved cleaning PPT files (removing XML tags) created in MS PowerPoi..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/15/2010  Downloads: 178  Views: 822"
 file_size: "  File Size: 3.0 MB "

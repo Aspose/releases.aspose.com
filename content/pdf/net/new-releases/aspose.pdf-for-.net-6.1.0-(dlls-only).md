@@ -7,11 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-for-.net-6.1.0-(dlls-only)/"
 folder_name: " Aspose.PDF for .NET 6.1.0 (DLLs only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-for-.net-6.1.0-(dlls-only)/4dc98ff7924f42c39498e5c2bf750b43"
 download_text: " Download"
-Intro_text: " 
-				
-				
-This ZIP file contains only the 
-Aspose.Pdf for .NET assemblies. ..."
+Intro_text: "This ZIP file contains only the Aspose.Pdf for .NET assemblies. ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/15/2011  Downloads: 209  Views: 278"
 file_size: "  File Size: 27.7 MB "

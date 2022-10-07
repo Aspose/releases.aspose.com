@@ -7,8 +7,7 @@ folder_link: " slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: " Aspose.Slides for Reporting Services 1.1.4.0"
 download_link: " /slides/reportingservices/new-releases/aspose.slides-for-reporting-services-1.1.4.0/b7b2f952d08344f68dcef9c37787b842"
 download_text: " Download"
-Intro_text: " Fixed:
-Couldn't find and automatically use Aspose.Total for Reporting Services ..."
+Intro_text: "Couldn't find and automatically use Aspose.Total for Reporting Services ..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   2/7/2008  Downloads: 94  Views: 543"
 file_size: "  File Size: 2.9 MB "

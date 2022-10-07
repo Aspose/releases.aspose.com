@@ -7,11 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-15.8.0-(dlls-only)
 folder_name: " Aspose.Slides for .NET 15.8.0 (Dlls only)"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-15.8.0-(dlls-only)/d1e19ebc85574f338e8c6b09a79e08fd"
 download_text: " Download"
-Intro_text: " Minor Changes
-
-
-SLIDESNET-36003 - Setting Doughnut hole size
-SLIDESNET-35418..."
+Intro_text: "SLIDESNET-36003 - Setting Doughnut hole size SLIDESNET-35418..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   10/5/2015  Downloads: 74  Views: 169"
 file_size: "  File Size: 55.6 MB "

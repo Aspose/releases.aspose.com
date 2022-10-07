@@ -7,8 +7,7 @@ folder_link: " slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: " Aspose.Slides for Reporting Services 1.1.1.0"
 download_link: " /slides/reportingservices/new-releases/aspose.slides-for-reporting-services-1.1.1.0/4e4d17e798404f1db673de3844fdf6df"
 download_text: " Download"
-Intro_text: " Fixed:
-Headers and footers with text fields with CanGrow property set to True w..."
+Intro_text: "Headers and footers with text fields with CanGrow property set to True w..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   11/18/2007  Downloads: 22  Views: 326"
 file_size: "  File Size: 2.9 MB "

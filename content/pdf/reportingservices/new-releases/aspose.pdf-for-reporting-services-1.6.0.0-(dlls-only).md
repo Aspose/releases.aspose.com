@@ -7,8 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: " Aspose.PDF for Reporting Services 1.6.0.0 (Dlls Only)"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.6.0.0-(dlls-only)/5085f040a5ca4713876b8eac4e8b5910"
 download_text: " Download"
-Intro_text: " Introduction
-This release is a breakthrough which provides support of amazing f..."
+Intro_text: "This release is a breakthrough which provides support of amazing f..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/30/2009  Downloads: 150  Views: 523"
 file_size: "  File Size: 10.8 MB "

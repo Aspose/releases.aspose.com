@@ -7,11 +7,7 @@ folder_link: " tasks/net/new-releases/aspose.tasks-.net-1.5.0.0-new-release-(dll
 folder_name: " Aspose.Tasks .Net 1.5.0.0 New Release (Dlls Only)"
 download_link: " /tasks/net/new-releases/aspose.tasks-.net-1.5.0.0-new-release-(dlls-only)/0954217a3f8a481bbd42409d175f62c8"
 download_text: " Download"
-Intro_text: " Dear Customers,
- 
-We have release Aspose.Tasks 1.5!
-
-Aspose.Tasks is a Proje..."
+Intro_text: "We have release Aspose.Tasks 1.5! Aspose.Tasks is a Proje..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 5  Views: 328"
 file_size: "  File Size: 245.1 KB "

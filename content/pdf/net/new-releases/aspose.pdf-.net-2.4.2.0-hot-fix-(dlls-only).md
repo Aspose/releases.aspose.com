@@ -7,7 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.4.2.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.4.2.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.4.2.0-hot-fix-(dlls-only)/564e619ac6c3489ab74421febe7206ab"
 download_text: " Download"
-Intro_text: " 		Aspose.Pdf for .NET version 2.5.0.0 includes all the features provided in Hotf..."
+Intro_text: "Aspose.Pdf for .NET version 2.5.0.0 includes all the features provided in Hotf..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 40"
 file_size: "  File Size: 602.1 KB "

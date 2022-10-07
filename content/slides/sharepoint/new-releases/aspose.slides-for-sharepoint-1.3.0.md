@@ -7,9 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-1.3.0
 folder_name: " Aspose.Slides for SharePoint 1.3.0"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-1.3.0/0a04049a995f4ad98128296629c6a967"
 download_text: " Download"
-Intro_text: " 
-We like to share the
-announcement of the new release of Aspose.Slides for Sha..."
+Intro_text: "We like to share the announcement of the new release of Aspose.Slides for Sha..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/30/2012  Downloads: 84  Views: 379"
 file_size: "  File Size: 3.3 MB "

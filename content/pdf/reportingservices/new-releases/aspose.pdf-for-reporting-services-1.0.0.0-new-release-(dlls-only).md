@@ -7,8 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: " Aspose.PDF for Reporting Services 1.0.0.0 New Release (Dlls Only)"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.0.0.0-new-release-(dlls-only)/7ab57e4b785749c3995c0f80637139f3"
 download_text: " Download"
-Intro_text: " 		Introduction
-		Microsoft SQL Server Reporting Services fulfills a need that m..."
+Intro_text: "Microsoft SQL Server Reporting Services fulfills a need that m..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/18/2007  Downloads: 103  Views: 871"
 file_size: "  File Size: 2.5 MB "

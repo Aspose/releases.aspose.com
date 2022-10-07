@@ -7,7 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.9.1.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.9.1.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.9.1.0-hot-fix-(dlls-only)/226264cd824f4812b59068b5fe7512fd"
 download_text: " Download"
-Intro_text: " 1) TOC bug and text indent bug areÂ fixed. Refer toÂ http://www.aspose.com/Communi..."
+Intro_text: "TOC bug and text indent bug areÂ fixed. Refer toÂ http://www.aspose.com/Communi..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 6  Views: 12"
 file_size: "  File Size: 671.5 KB "

@@ -7,8 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: " Aspose.PDF for Reporting Services 1.4.0.0"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.4.0.0/51b24af0bef64d96b3bb4c24023bd910"
 download_text: " Download"
-Intro_text: " Introduction
-In this release, some new features of inline HTML and bookmarks ar..."
+Intro_text: "In this release, some new features of inline HTML and bookmarks ar..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   10/26/2008  Downloads: 64  Views: 1128"
 file_size: "  File Size: 3.7 MB "

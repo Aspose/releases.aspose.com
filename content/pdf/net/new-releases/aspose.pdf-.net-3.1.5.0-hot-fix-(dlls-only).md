@@ -7,8 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-3.1.5.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 3.1.5.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.1.5.0-hot-fix-(dlls-only)/b8caba45b37e4c8fa994157923140e58"
 download_text: " Download"
-Intro_text: " In this hotfix:
-1) System.Drawing.Image is supported. Refer to Image.FromSystem..."
+Intro_text: " In this hotfix: 1) System.Drawing.Image is supported. Refer to Image.FromSystem..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 18"
 file_size: "  File Size: 701.4 KB "

@@ -7,7 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.5.1.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.5.1.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.5.1.0-hot-fix-(dlls-only)/f51dc46d691b4172aea36a277da72d84"
 download_text: " Download"
-Intro_text: " In this hotfix: 1) problem in Heading(List) is fixed. Please refer to ..."
+Intro_text: " In this hotfix: 1) problem in Heading(List) is fixed Please refer to ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 3"
 file_size: "  File Size: 640.6 KB "

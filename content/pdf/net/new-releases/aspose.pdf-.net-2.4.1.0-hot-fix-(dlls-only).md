@@ -7,9 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.4.1.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.4.1.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.4.1.0-hot-fix-(dlls-only)/cc226452f23a40c49b3e666ad266c12d"
 download_text: " Download"
-Intro_text: " 		In this hotfix:
-		1) Table.IsFirstRowRepeated Bug fixed. Refer to 
-				Table..."
+Intro_text: "In this hotfix Table.IsFirstRowRepeated Bug fixed. Refer to..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 3  Views: 23"
 file_size: "  File Size: 704.5 KB "

@@ -7,9 +7,7 @@ folder_link: " tasks/java/new-releases/aspose.tasks-for-java-8.3.0/"
 folder_name: " Aspose.Tasks for Java 8.3.0"
 download_link: " /tasks/java/new-releases/aspose.tasks-for-java-8.3.0/80b7b25a643543e9965ab8568ed9838c"
 download_text: " Download"
-Intro_text: " Major Features
-
-We have implemented converting MPP to MPX format. Option to se..."
+Intro_text: "We have implemented converting MPP to MPX format. Option to se..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/28/2015  Downloads: 51  Views: 292"
 file_size: "  File Size: 21.6 MB "

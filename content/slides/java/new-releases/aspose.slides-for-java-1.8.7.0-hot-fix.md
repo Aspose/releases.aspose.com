@@ -7,10 +7,7 @@ folder_link: " slides/java/new-releases/aspose.slides-for-java-1.8.7.0-hot-fix/"
 folder_name: " Aspose.Slides for Java 1.8.7.0 Hot Fix"
 download_link: " /slides/java/new-releases/aspose.slides-for-java-1.8.7.0-hot-fix/99d7e81b47a34e7d888091c2830cda29"
 download_text: " Download"
-Intro_text: " Fixed:
-
-5717 - Image warped on cloned slide.
-5775 - Bullets appearing after c..."
+Intro_text: "5717 - Image warped on cloned slide. 5775 - Bullets appearing after c..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/15/2010  Downloads: 67  Views: 654"
 file_size: "  File Size: 2.9 MB "

@@ -7,10 +7,7 @@ folder_link: " tasks/java/new-releases/aspose.tasks-for-java-9.0.0/"
 folder_name: " Aspose.Tasks For Java 9.0.0"
 download_link: " /tasks/java/new-releases/aspose.tasks-for-java-9.0.0/a4b42cf685fb44b1a34c30dc544fc511"
 download_text: " Download"
-Intro_text: " Major Features
-
-We have implemented enhancement
- which allow to read subproje..."
+Intro_text: "We have implemented enhancement which allow to read subproje..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/30/2015  Downloads: 41  Views: 229"
 file_size: "  File Size: 20.7 MB "

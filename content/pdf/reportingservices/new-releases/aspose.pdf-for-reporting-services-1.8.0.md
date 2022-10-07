@@ -7,8 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: " Aspose.PDF for Reporting Services 1.8.0"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.8.0/cf1470aedfe54960b62e6c7aa52f2564"
 download_text: " Download"
-Intro_text: " Introduction
-We are ecstatic to publicize the release of another version of Asp..."
+Intro_text: "We are ecstatic to publicize the release of another version of Asp..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   9/7/2010  Downloads: 78  Views: 341"
 file_size: "  File Size: 12.0 MB "

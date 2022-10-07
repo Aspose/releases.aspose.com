@@ -7,8 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.9.0.0-new-release-(dlls-on
 folder_name: " Aspose.PDF .Net 2.9.0.0 New Release (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.9.0.0-new-release-(dlls-only)/b009902df5144f04901188d68c126693"
 download_text: " Download"
-Intro_text: " In this release:
-New features supported:1) Justification for multi-segment text..."
+Intro_text: " In this release, New features supported:1) Justification for multi-segment text..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 20  Views: 22"
 file_size: "  File Size: 669.8 KB "

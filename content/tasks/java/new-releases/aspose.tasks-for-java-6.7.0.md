@@ -7,9 +7,7 @@ folder_link: " tasks/java/new-releases/aspose.tasks-for-java-6.7.0/"
 folder_name: " Aspose.Tasks for Java 6.7.0"
 download_link: " /tasks/java/new-releases/aspose.tasks-for-java-6.7.0/e336d037dd1341b2b73a002be97c94e0"
 download_text: " Download"
-Intro_text: " Major Features
-
-We have supported  the facility to print expanded/non-expanded..."
+Intro_text: "We have supported  the facility to print expanded/non-expanded..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/30/2014  Downloads: 61  Views: 217"
 file_size: "  File Size: 18.2 MB "

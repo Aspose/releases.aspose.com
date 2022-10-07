@@ -7,8 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.2.2.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.2.2.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.2.2.0-hot-fix-(dlls-only)/c9e7cf3442d845e3af6918bc94c39c9a"
 download_text: " Download"
-Intro_text: " 			In this hotfix, a bug about nested table is fixed. Please refer to 
-					Spl..."
+Intro_text: "In this hotfix, a bug about nested table is fixed. Please refer to..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 4  Views: 16"
 file_size: "  File Size: 400.8 KB "

@@ -7,8 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-3.1.3.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 3.1.3.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.1.3.0-hot-fix-(dlls-only)/4d1ce59979af4ec79ac6ca7025a5e307"
 download_text: " Download"
-Intro_text: " In this hotfix:
-1) A bold font bug is fixed. Refer to http://www.aspose.com/Com..."
+Intro_text: " In this hotfix: 1) A bold font bug is fixed. Refer to http://www.aspose.com/Com..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 1  Views: 16"
 file_size: "  File Size: 706.4 KB "

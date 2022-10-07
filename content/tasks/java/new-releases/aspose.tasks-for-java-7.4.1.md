@@ -7,9 +7,7 @@ folder_link: " tasks/java/new-releases/aspose.tasks-for-java-7.4.1/"
 folder_name: " Aspose.Tasks for Java 7.4.1"
 download_link: " /tasks/java/new-releases/aspose.tasks-for-java-7.4.1/07151ba085734ca0b5e577d5832c4980"
 download_text: " Download"
-intro_text: "Major Features
-
-We have fixed two bugs this release. Please, s..."
+intro_text: "Major Features We have fixed two bugs this release. Please, s..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/28/2015  Downloads: 26  Views: 208"
 file_size: "  File Size: 20.6 MB "

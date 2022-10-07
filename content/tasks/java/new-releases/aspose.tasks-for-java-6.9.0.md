@@ -7,9 +7,7 @@ folder_link: " tasks/java/new-releases/aspose.tasks-for-java-6.9.0/"
 folder_name: " Aspose.Tasks for Java 6.9.0"
 download_link: " /tasks/java/new-releases/aspose.tasks-for-java-6.9.0/bc73e59d1ceb46fdaaac4406bc3cd74b"
 download_text: " Download"
-Intro_text: " Major Features
-
-We have improved rendering the project data to PDF and other f..."
+Intro_text: "We have improved rendering the project data to PDF and other f..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/4/2014  Downloads: 85  Views: 281"
 file_size: "  File Size: 25.7 MB "

@@ -7,8 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.2.1.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.2.1.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.2.1.0-hot-fix-(dlls-only)/bcfa7767d53b42a8a27582582d718b09"
 download_text: " Download"
-Intro_text: " 			In this hot fix:
-			1) Stroke operation out of scope bug is fixed. Please re..."
+Intro_text: "In this hot fix Stroke operation out of scope bug is fixed. Please re..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 2"
 file_size: "  File Size: 358.3 KB "

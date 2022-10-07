@@ -7,9 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.6.3.0-hot-fix/"
 folder_name: " Aspose.PDF .Net 2.6.3.0 Hot Fix"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.6.3.0-hot-fix/fb58d5f5272748cd8fe767e206ce8709"
 download_text: " Download"
-Intro_text: " In this hot fix:
-1) License code is updated to avoid crypto error.
-2) PNG imag..."
+Intro_text: " In this hot fix License code is updated to avoid crypto error..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 4  Views: 96"
 file_size: "  File Size: 3.1 MB "

@@ -7,8 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.6.2.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.6.2.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.6.2.0-hot-fix-(dlls-only)/e67fdf1b25754b87aee78c7eb4b01561"
 download_text: " Download"
-Intro_text: " In this hotfix:
-1) Table border bug in 2.6.1 is fixed. Refer to Aspose Pdf hotf..."
+Intro_text: "In this hotfix Table border bug in 2.6.1 is fixed. Refer to Aspose Pdf hotf..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 5"
 file_size: "  File Size: 643.8 KB "

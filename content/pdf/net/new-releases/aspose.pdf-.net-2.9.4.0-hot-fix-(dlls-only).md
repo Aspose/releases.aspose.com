@@ -7,8 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.9.4.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.9.4.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.9.4.0-hot-fix-(dlls-only)/5800f1a24ff547a8964253ce13cf5626"
 download_text: " Download"
-Intro_text: " In this hotfix:
-1) Center and right alignment for multiple-segment text is impr..."
+Intro_text: " In this hotfix, Center and right alignment for multiple-segment text is impr..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 3  Views: 8"
 file_size: "  File Size: 689.0 KB "

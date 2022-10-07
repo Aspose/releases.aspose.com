@@ -7,9 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/-aspose.pdf-for-reporting-serv
 folder_name: "  Aspose.PDF for Reporting Services 1.2.0.0"
 download_link: " /pdf/reportingservices/new-releases/-aspose.pdf-for-reporting-services-1.2.0.0/83c65b0b517c4b67a5be7c5554df11c0"
 download_text: " Download"
-Intro_text: " 		Introduction
-		
-			In this release, report parameter is supported. Customers..."
+Intro_text: "In this release, report parameter is supported. Customers..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   3/19/2008  Downloads: 61  Views: 680"
 file_size: "  File Size: 3.6 MB "

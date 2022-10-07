@@ -7,9 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: " Aspose.PDF for Reporting Services 1.1.0.0"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.1.0.0/b442f18fd3364ec8beabdea0225ba89b"
 download_text: " Download"
-Intro_text: " 		Introduction
-		
-			In this release, some new features like watermark, link a..."
+Intro_text: "In this release, some new features like watermark, link a..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   1/25/2008  Downloads: 70  Views: 807"
 file_size: "  File Size: 3.1 MB "

@@ -7,9 +7,7 @@ folder_link: " words/java/new-releases/aspose.words-java-1.0.1.0-hot-fix/"
 folder_name: " Aspose.Words Java 1.0.1.0 Hot Fix"
 download_link: " /words/java/new-releases/aspose.words-java-1.0.1.0-hot-fix/82164c0eea2a490bbaddf4d4e34ae449"
 download_text: " Download"
-Intro_text: " New Features
-
-Both JDK 1.4 and 1.5 are now supported. There are two separate A..."
+Intro_text: " New Features Both JDK 1.4 and 1.5 are now supported. There are two separate A..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 8  Views: 49"
 file_size: "  File Size: 2.3 MB "

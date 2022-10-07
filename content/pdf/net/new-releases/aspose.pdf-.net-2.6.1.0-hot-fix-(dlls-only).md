@@ -7,9 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.6.1.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.6.1.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.6.1.0-hot-fix-(dlls-only)/1fe83dd97b2c4219a6d5a1ef41a1ad1a"
 download_text: " Download"
-Intro_text: " In this hotfix:
-1) A bug in TOC is fixed. Please refer to Table of Contents;
-2..."
+Intro_text: " In this hotfix A bug in TOC is fixed. Please refer to Table of Contents..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 46"
 file_size: "  File Size: 643.5 KB "

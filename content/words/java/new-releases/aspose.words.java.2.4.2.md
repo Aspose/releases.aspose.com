@@ -7,16 +7,7 @@ folder_link: " words/java/new-releases/aspose.words.java.2.4.2/"
 folder_name: " Aspose.Words.Java.2.4.2"
 download_link: " /words/java/new-releases/aspose.words.java.2.4.2/4d6adfda0b3a4c8a92cdc5d0af7e7aaa"
 download_text: " Download"
-Intro_text: " Only one fix included by urgent request:
-
-
-
-
-Issue ID
-
-Component
-
-Summa..."
+Intro_text: " Only one fix included by urgent request..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/26/2008  Downloads: 680  Views: 2726"
 file_size: "  File Size: 7.1 MB "

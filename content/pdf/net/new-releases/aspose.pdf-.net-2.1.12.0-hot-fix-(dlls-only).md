@@ -7,9 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.1.12.0-hot-fix-(dlls-only)
 folder_name: " Aspose.PDF .Net 2.1.12.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.1.12.0-hot-fix-(dlls-only)/45071f1d35084f7f89cbaa4d698680a8"
 download_text: " Download"
-Intro_text: " In this hotfix:
-1) A bug about tab stop position underline is fixed.
-2) A bug ..."
+Intro_text: "A bug about tab stop position underline is fixed.."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 3  Views: 5"
 file_size: "  File Size: 498.1 KB "

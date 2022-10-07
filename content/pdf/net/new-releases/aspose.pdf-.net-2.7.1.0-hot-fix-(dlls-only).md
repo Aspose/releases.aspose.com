@@ -7,8 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.7.1.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.7.1.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.7.1.0-hot-fix-(dlls-only)/992da9efb90b49a7b413740e55ecd569"
 download_text: " Download"
-Intro_text: " In this hotfix:
-1) Fixed: a bug about list indent when the default tab stop pos..."
+Intro_text: "In this hotfix Fixed a bug about list indent when the default tab stop pos..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 36"
 file_size: "  File Size: 615.6 KB "

@@ -7,7 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.9.6.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.9.6.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.9.6.0-hot-fix-(dlls-only)/884c211bf1a64fedb8e5bd7a62e40ce6"
 download_text: " Download"
-Intro_text: " In this hotfix: 1)HTML2PDF is improved. Text in body element is supported; dfn..."
+Intro_text: "In this hotfix: 1)HTML2PDF is improved. Text in body element is supported; dfn..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 6  Views: 13"
 file_size: "  File Size: 691.9 KB "

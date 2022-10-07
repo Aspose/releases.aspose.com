@@ -7,9 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.4.2.0-hot-fix/"
 folder_name: " Aspose.PDF .Net 2.4.2.0 Hot Fix"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.4.2.0-hot-fix/d283437849274e8c8f6a59bb3607d9ac"
 download_text: " Download"
-Intro_text: " 		In this hotfix:
-		1) Space mising bug is fixed. Please refer to 
-				Bold an..."
+Intro_text: "In this hotfix Space mising bug is fixed. Please refer to..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 0  Views: 96"
 file_size: "  File Size: 3.1 MB "

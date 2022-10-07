@@ -7,9 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-15.7.0-(dlls-only)
 folder_name: " Aspose.Slides for .NET 15.7.0 (Dlls only)"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-15.7.0-(dlls-only)/c0e698598ad647fabb5feaaf746d6d41"
 download_text: " Download"
-Intro_text: " Minor Changes
-
-SLIDESNET-36588 - Exporting slides to Graphics Object
+Intro_text: "SLIDESNET-36588 - Exporting slides to Graphics Object
 SLIDESNE..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/3/2015  Downloads: 140  Views: 263"

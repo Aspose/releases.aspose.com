@@ -7,8 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-15.3.0-(dlls-only)
 folder_name: " Aspose.Slides for .NET 15.3.0 (Dlls only)"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-15.3.0-(dlls-only)/7819d9989b4c4a5292dafc2c82784121"
 download_text: " Download"
-Intro_text: " Major Features
-There are 64 improvements and fixes in this regular monthly rele..."
+Intro_text: "There are 64 improvements and fixes in this regular monthly rele..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   4/14/2015  Downloads: 108  Views: 271"
 file_size: "  File Size: 52.9 MB "

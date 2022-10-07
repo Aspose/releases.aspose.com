@@ -7,8 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-3.1.6.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 3.1.6.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.1.6.0-hot-fix-(dlls-only)/1c1ac196a0c54405b5c281f9ff7ce989"
 download_text: " Download"
-Intro_text: " In this hotfix:
-1) Decimal tabstop is supported. 2) A new method GetCell is add..."
+Intro_text: " In this hotfix: 1) Decimal tabstop is supported. 2) A new method GetCell is add..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 3  Views: 28"
 file_size: "  File Size: 706.5 KB "

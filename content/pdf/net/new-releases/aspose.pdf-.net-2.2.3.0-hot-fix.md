@@ -7,9 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.2.3.0-hot-fix/"
 folder_name: " Aspose.PDF .Net 2.2.3.0 Hot Fix"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.2.3.0-hot-fix/7f7f04c8843a4662bdfa9be7c867ee69"
 download_text: " Download"
-Intro_text: " 			In this hotfix:
-			1) A bold font format bing ignored bug is fixed.
-			2) A..."
+Intro_text: "In this hotfix A bold font format bing ignored bug is fixed..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 1  Views: 97"
 file_size: "  File Size: 2.5 MB "

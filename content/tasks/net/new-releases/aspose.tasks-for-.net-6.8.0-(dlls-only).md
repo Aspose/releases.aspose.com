@@ -7,13 +7,7 @@ folder_link: " tasks/net/new-releases/aspose.tasks-for-.net-6.8.0-(dlls-only)/"
 folder_name: " Aspose.Tasks for .NET 6.8.0 (DLLs Only)"
 download_link: " /tasks/net/new-releases/aspose.tasks-for-.net-6.8.0-(dlls-only)/9b18bb3794854b25aff80dd0094480b1"
 download_text: " Download"
-intro_text: "
-
-            
-
-            
-
-            This ZIP file co..."
+intro_text: "This ZIP file co..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/27/2015  Downloads: 36  Views: 111"
 file_size: "  File Size: 9.3 MB "

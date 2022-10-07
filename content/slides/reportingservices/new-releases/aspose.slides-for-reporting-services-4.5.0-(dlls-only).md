@@ -7,9 +7,7 @@ folder_link: " slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: " Aspose.Slides for Reporting Services 4.5.0 (Dlls Only)"
 download_link: " /slides/reportingservices/new-releases/aspose.slides-for-reporting-services-4.5.0-(dlls-only)/0182525e8b804de0ae2eb633167418c3"
 download_text: " Download"
-Intro_text: " 
-
-We would like to share the announcement of new release of
+Intro_text: "We would like to share the announcement of new release of
 Aspose.Slides for..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/23/2012  Downloads: 62  Views: 263"

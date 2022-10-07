@@ -7,9 +7,7 @@ folder_link: " tasks/java/new-releases/aspose.tasks-for-java-8.5.0/"
 folder_name: " Aspose.Tasks for Java 8.5.0"
 download_link: " /tasks/java/new-releases/aspose.tasks-for-java-8.5.0/185469c7a6fb4be9ba666517a52a13bc"
 download_text: " Download"
-Intro_text: " Major Features
-
-We have supported several important features this release. Abi..."
+Intro_text: "We have supported several important features this release. Abi..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/28/2015  Downloads: 50  Views: 223"
 file_size: "  File Size: 19.9 MB "

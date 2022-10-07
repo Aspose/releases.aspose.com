@@ -7,8 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.2.4.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.2.4.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.2.4.0-hot-fix-(dlls-only)/fb15e21757734b07abcaa6f68e5d0076"
 download_text: " Download"
-Intro_text: " 		In this hotfix, a bug about heading indent is fixed. Please refer to 
-				Mul..."
+Intro_text: "In this hotfix, a bug about heading indent is fixed. Please refer to..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 3  Views: 41"
 file_size: "  File Size: 401.2 KB "

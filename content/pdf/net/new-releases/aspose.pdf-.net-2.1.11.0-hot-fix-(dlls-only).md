@@ -7,9 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.1.11.0-hot-fix-(dlls-only)
 folder_name: " Aspose.PDF .Net 2.1.11.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.1.11.0-hot-fix-(dlls-only)/1a3260d37ccf49d7bfdf205d3111c357"
 download_text: " Download"
-Intro_text: " In this hotfix:
-1) Dot tab leader is improved.
-2) A bug about tab underline is..."
+Intro_text: "Dot tab leader is improved and a bug about tab underline is..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 10  Views: 41"
 file_size: "  File Size: 498.0 KB "

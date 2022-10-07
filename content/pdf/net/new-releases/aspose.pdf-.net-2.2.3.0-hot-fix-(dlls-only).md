@@ -7,9 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.2.3.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.2.3.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.2.3.0-hot-fix-(dlls-only)/c43f7a0100344d61912645adfc4f9514"
 download_text: " Download"
-Intro_text: " 			In this hotfix:
-			1) A bold font format bing ignored bug is fixed.
-			2) A..."
+Intro_text: "In this hotfix A bold font format bing ignored bug is fixed..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 4  Views: 13"
 file_size: "  File Size: 401.1 KB "

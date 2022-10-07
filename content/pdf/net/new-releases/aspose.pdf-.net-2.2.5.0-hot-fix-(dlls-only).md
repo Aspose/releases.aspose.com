@@ -7,9 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.2.5.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.2.5.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.2.5.0-hot-fix-(dlls-only)/e0fa915d8e6f480da9a4dcbd95f24d93"
 download_text: " Download"
-Intro_text: " 		In this hot fix:
-		1) Tab stop position supporting is improved.
-		2) A bug a..."
+Intro_text: "In this hot fix Tab stop position supporting is improved..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 1"
 file_size: "  File Size: 401.6 KB "

@@ -7,9 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-for-.net-4.1.0.0/"
 folder_name: " Aspose.PDF for .NET 4.1.0.0"
 download_link: " /pdf/net/new-releases/aspose.pdf-for-.net-4.1.0.0/04b90e14b6094d1d85e830e7c94de228"
 download_text: " Download"
-Intro_text: " 		Introduction
-        
-            In this release, we have made significant ..."
+Intro_text: "In this release, we have made significant ..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   8/20/2009  Downloads: 1255  Views: 1644"
 file_size: "  File Size: 13.1 MB "

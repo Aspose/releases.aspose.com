@@ -7,8 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.8.1.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.8.1.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.8.1.0-hot-fix-(dlls-only)/6dcdb2b5270c4df69297ec12bbe1fcb5"
 download_text: " Download"
-Intro_text: " In this hotfix:
-1) A custom positioning bug is fixed. Refer toÂ http://www.aspos..."
+Intro_text: " In this hotfix, A custom positioning bug is fixed. Refer toÂ http://www.aspos..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 34"
 file_size: "  File Size: 660.1 KB "

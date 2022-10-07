@@ -7,9 +7,7 @@ folder_link: " pdf/net/new-releases/-aspose.pdf-for-.net-3.6.0.0-new-release/"
 folder_name: "  Aspose.PDF for .Net 3.6.0.0 New Release"
 download_link: " /pdf/net/new-releases/-aspose.pdf-for-.net-3.6.0.0-new-release/5c6c2887f113417d9af9471f96a6993b"
 download_text: " Download"
-Intro_text: " 		Introduction
-		In this release, XML meta data is supported when creating 
-		..."
+Intro_text: "In this release, XML meta data is supported when creating..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   9/10/2007  Downloads: 1029  Views: 1428"
 file_size: "  File Size: 4.7 MB "

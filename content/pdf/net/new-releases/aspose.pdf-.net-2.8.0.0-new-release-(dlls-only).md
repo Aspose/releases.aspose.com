@@ -7,8 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.8.0.0-new-release-(dlls-on
 folder_name: " Aspose.PDF .Net 2.8.0.0 New Release (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.8.0.0-new-release-(dlls-only)/877a6f9a85f443f0b143c40d298cfc43"
 download_text: " Download"
-Intro_text: " In this release:
-1) FloatingBox is supported. A new class FloatingBoxÂ is added...."
+Intro_text: " In this release, FloatingBox is supported. A new class FloatingBoxÂ is added...."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 41"
 file_size: "  File Size: 660.0 KB "

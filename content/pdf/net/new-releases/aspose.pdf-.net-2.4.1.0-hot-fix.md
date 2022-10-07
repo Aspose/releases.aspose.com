@@ -7,9 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.4.1.0-hot-fix/"
 folder_name: " Aspose.PDF .Net 2.4.1.0 Hot Fix"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.4.1.0-hot-fix/d71eaab9d31d49898bab166dc53b52b8"
 download_text: " Download"
-Intro_text: " 		In this hotfix:
-		1) Table.IsFirstRowRepeated Bug fixed. Refer to 
-				Table..."
+Intro_text: "In this hotfix Table.IsFirstRowRepeated Bug fixed. Refer to..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 0  Views: 110"
 file_size: "  File Size: 3.1 MB "

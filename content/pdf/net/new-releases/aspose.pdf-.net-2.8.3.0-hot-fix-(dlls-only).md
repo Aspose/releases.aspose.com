@@ -7,8 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.8.3.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.8.3.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.8.3.0-hot-fix-(dlls-only)/cf0478bd7c0a4a5c9ac198ed2d774d4a"
 download_text: " Download"
-Intro_text: " In this hotfix:
-1) A image too large bug fixed is fixed. Refer to http://www.as..."
+Intro_text: " In this hotfix, A image too large bug fixed is fixed. Refer to http://www.as..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 13"
 file_size: "  File Size: 660.7 KB "

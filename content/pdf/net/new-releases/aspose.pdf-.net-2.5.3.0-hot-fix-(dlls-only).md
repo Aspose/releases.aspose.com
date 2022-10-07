@@ -7,8 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.5.3.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.5.3.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.5.3.0-hot-fix-(dlls-only)/99a85dd545eb439da4e5cf3133ccf803"
 download_text: " Download"
-Intro_text: " In this hotfix:
-1) Â Arabic support is improved. Latin words in Arabic sentence ..."
+Intro_text: " In this hotfix Â Arabic support is improved. Latin words in Arabic sentence ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 3  Views: 39"
 file_size: "  File Size: 640.7 KB "

@@ -7,9 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: " Aspose.PDF for Reporting Services 1.5.0.0 (Dlls Only)"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.5.0.0-(dlls-only)/aa772ea8a04046a6a4477e993e1a2af1"
 download_text: " Download"
-Intro_text: " 		Introduction
-		
-            Some important new features are added in this re..."
+Intro_text: "Some important new features are added in this re..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/27/2009  Downloads: 27  Views: 426"
 file_size: "  File Size: 10.8 MB "

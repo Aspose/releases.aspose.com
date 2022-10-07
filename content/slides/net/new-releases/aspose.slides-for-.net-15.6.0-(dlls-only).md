@@ -7,9 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-15.6.0-(dlls-only)
 folder_name: " Aspose.Slides for .NET 15.6.0 (Dlls only)"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-15.6.0-(dlls-only)/d0b54287356548bbbc9920835b09d3bc"
 download_text: " Download"
-Intro_text: " Minor Changes
-
-SLIDESNET-36494 - Support for cleaning of PowerPoint document p..."
+Intro_text: "SLIDESNET-36494 - Support for cleaning of PowerPoint document p..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/22/2015  Downloads: 134  Views: 227"
 file_size: "  File Size: 54.0 MB "

@@ -7,11 +7,7 @@ folder_link: " tasks/net/new-releases/aspose.tasks-.net-1.5.0.0-new-release/"
 folder_name: " Aspose.Tasks .Net 1.5.0.0 New Release"
 download_link: " /tasks/net/new-releases/aspose.tasks-.net-1.5.0.0-new-release/d4f38958fbc24ecba442a1c19467664a"
 download_text: " Download"
-Intro_text: " Dear Customers,
- 
-We have release Aspose.Tasks 1.5!
-
-Aspose.Tasks is a Proje..."
+Intro_text: "We have release Aspose.Tasks 1.5! Aspose.Tasks is a Proje..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 3  Views: 431"
 file_size: "  File Size: 1.6 MB "

@@ -7,8 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-3.0.3.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 3.0.3.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.0.3.0-hot-fix-(dlls-only)/9a7601d36cdf40d7bd30853bdf33d616"
 download_text: " Download"
-Intro_text: " In this hotfix:
-1) A new method GetTextHeight() is added into Text class.2) Two..."
+Intro_text: " In this hotfix, A new method GetTextHeight() is added into Text class.2) Two..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 5  Views: 13"
 file_size: "  File Size: 646.5 KB "

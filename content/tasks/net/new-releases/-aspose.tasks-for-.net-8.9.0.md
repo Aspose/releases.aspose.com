@@ -7,9 +7,7 @@ folder_link: " tasks/net/new-releases/-aspose.tasks-for-.net-8.9.0/"
 folder_name: "  Aspose.Tasks for .NET 8.9.0"
 download_link: " /tasks/net/new-releases/-aspose.tasks-for-.net-8.9.0/c16f896ea2d44b118713312b37c59f81"
 download_text: " Download"
-Intro_text: " Major Features
-
-We have implemented reading   Primavera XML file with multiple..."
+Intro_text: "We have implemented reading   Primavera XML file with multiple..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   11/6/2015  Downloads: 92  Views: 237"
 file_size: "  File Size: 13.2 MB "

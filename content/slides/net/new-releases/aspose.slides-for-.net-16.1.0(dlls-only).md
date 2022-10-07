@@ -7,10 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-16.1.0(dlls-only)/
 folder_name: " Aspose.Slides for .NET 16.1.0(Dlls only)"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-16.1.0(dlls-only)/428b92db187b4ec39435d4796928352e"
 download_text: " Download"
-Intro_text: " Minor Changes
-
-SLIDESNET-37033 - Setting custom rotation angle for textframe
-..."
+Intro_text: "SLIDESNET-37033 - Setting custom rotation angle for textframe..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/4/2016  Downloads: 68  Views: 194"
 file_size: "  File Size: 55.7 MB "

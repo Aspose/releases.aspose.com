@@ -7,10 +7,7 @@ folder_link: " tasks/net/new-releases/-aspose.tasks-for-.net-9.0.1/"
 folder_name: "  Aspose.Tasks for .NET 9.0.1"
 download_link: " /tasks/net/new-releases/-aspose.tasks-for-.net-9.0.1/99241541496f44228f052b0051f8997e"
 download_text: " Download"
-Intro_text: " Major Features
-
-We have implemented enhancement
- which allow to read subproje..."
+Intro_text: "We have implemented enhancement which allow to read subproje..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   11/30/2015  Downloads: 74  Views: 221"
 file_size: "  File Size: 13.2 MB "

@@ -7,9 +7,7 @@ folder_link: " words/java/new-releases/aspose.words-java-1.0.5.0-hot-fix/"
 folder_name: " Aspose.Words Java 1.0.5.0 Hot Fix"
 download_link: " /words/java/new-releases/aspose.words-java-1.0.5.0-hot-fix/5963de0707104c179ac6236f77b4395a"
 download_text: " Download"
-Intro_text: " In this version:
-
-Updated Aspose.Words for Java API Reference. It is always up..."
+Intro_text: " In this version: Updated Aspose.Words for Java API Reference. It is always up..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 10  Views: 268"
 file_size: "  File Size: 3.6 MB "

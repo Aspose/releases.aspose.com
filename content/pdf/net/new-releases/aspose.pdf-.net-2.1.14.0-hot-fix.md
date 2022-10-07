@@ -7,11 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.1.14.0-hot-fix/"
 folder_name: " Aspose.PDF .Net 2.1.14.0 Hot Fix"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.1.14.0-hot-fix/b052cf57aa7b4b76a7b02c1e49335ba6"
 download_text: " Download"
-Intro_text: " In this fix:
-
-1) A bug about text border is fixed.
-
-2) A text missing bug is..."
+Intro_text: " In this fix A bug about text border is fixed..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 1  Views: 155"
 file_size: "  File Size: 2.4 MB "

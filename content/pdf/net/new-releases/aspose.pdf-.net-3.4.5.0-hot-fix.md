@@ -7,10 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-3.4.5.0-hot-fix/"
 folder_name: " Aspose.PDF .Net 3.4.5.0 Hot Fix"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.4.5.0-hot-fix/f06a4a9e39da4d9e8e4d299c6d629273"
 download_text: " Download"
-Intro_text: " 
-In this hotfix:
-1) Background color for text bug is fixed. 
-2) A table broke..."
+Intro_text: "In this hotfix: 1) Background color for text bug is fixed. 2) A table broke..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 6  Views: 119"
 file_size: "  File Size: 4.3 MB "

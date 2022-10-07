@@ -7,9 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.9.5.0-hot-fix/"
 folder_name: " Aspose.PDF .Net 2.9.5.0 Hot Fix"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.9.5.0-hot-fix/2c59a260ffcc4aa8b40178b0c405d016"
 download_text: " Download"
-Intro_text: " In this hotfix,
-1) AÂ  auto image scaling bugÂ is fixed.
-2) A cener alignment bu..."
+Intro_text: " In this hotfix,An auto image scaling bugÂ is fixed..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 1  Views: 136"
 file_size: "  File Size: 3.2 MB "

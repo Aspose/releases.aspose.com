@@ -7,9 +7,7 @@ folder_link: " words/java/new-releases/aspose.words-java-2.0.0.0-new-release/"
 folder_name: " Aspose.Words Java 2.0.0.0 New Release"
 download_link: " /words/java/new-releases/aspose.words-java-2.0.0.0-new-release/e33eab1b6cd743f186961ec23eefcbcf"
 download_text: " Download"
-Intro_text: " New Features
-
-Full support for all drawing objects: shapes, images, textboxes,..."
+Intro_text: " New Features Full support for all drawing objects: shapes, images, textboxes,..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 13  Views: 309"
 file_size: "  File Size: 4.0 MB "

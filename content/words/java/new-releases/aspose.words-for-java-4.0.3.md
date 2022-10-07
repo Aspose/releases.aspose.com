@@ -7,9 +7,7 @@ folder_link: " words/java/new-releases/aspose.words-for-java-4.0.3/"
 folder_name: " Aspose.Words for Java 4.0.3"
 download_link: " /words/java/new-releases/aspose.words-for-java-4.0.3/3d394dfbed9b43c5bb77ef9beb8f28b9"
 download_text: " Download"
-Intro_text: " This release is essentially the same as previous with only two changes:
-
-We ha..."
+Intro_text: " This release is essentially the same as previous with only two changes.."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/15/2010  Downloads: 1504  Views: 2355"
 file_size: "  File Size: 10.4 MB "

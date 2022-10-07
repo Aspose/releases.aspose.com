@@ -7,8 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: " Aspose.PDF for Reporting Services 1.3.0.0"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.3.0.0/f5dc66c76532483eac89e3310043cafa"
 download_text: " Download"
-Intro_text: " Introduction
-In this release, some new features of custom embedded font, line a..."
+Intro_text: "In this release, some new features of custom embedded font, line a..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   6/14/2008  Downloads: 122  Views: 1283"
 file_size: "  File Size: 3.7 MB "

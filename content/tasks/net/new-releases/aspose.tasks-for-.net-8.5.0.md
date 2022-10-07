@@ -7,9 +7,7 @@ folder_link: " tasks/net/new-releases/aspose.tasks-for-.net-8.5.0/"
 folder_name: " Aspose.Tasks for .NET 8.5.0"
 download_link: " /tasks/net/new-releases/aspose.tasks-for-.net-8.5.0/8a6dd48603f24a17aa34ce2bb407504b"
 download_text: " Download"
-Intro_text: " Major Features
-
-We have supported several important features this release. Abi..."
+Intro_text: "We have supported several important features this release. Abi..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   8/27/2015  Downloads: 186  Views: 196"
 file_size: "  File Size: 12.4 MB "

@@ -7,9 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.6.3.0-hot-fix-(dlls-only)/
 folder_name: " Aspose.PDF .Net 2.6.3.0 Hot Fix (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.6.3.0-hot-fix-(dlls-only)/ed0e1a4f05674f47b75a80b93e43c6d8"
 download_text: " Download"
-Intro_text: " In this hot fix:
-1) License code is updated to avoid crypto error.
-2) PNG imag..."
+Intro_text: "In this hot fix License code is updated to avoid crypto error..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 2  Views: 34"
 file_size: "  File Size: 646.5 KB "

@@ -7,9 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-2.8.4.0-hot-fix/"
 folder_name: " Aspose.PDF .Net 2.8.4.0 Hot Fix"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-2.8.4.0-hot-fix/edefead1ab5645e28b500e625fbcd03f"
 download_text: " Download"
-Intro_text: " In this hotfix:
-1) A floating box bug is fixed.
-2) A row span bug is fixed. As..."
+Intro_text: " In this hotfix, A floating box bug is fixed..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 0  Views: 92"
 file_size: "  File Size: 3.2 MB "

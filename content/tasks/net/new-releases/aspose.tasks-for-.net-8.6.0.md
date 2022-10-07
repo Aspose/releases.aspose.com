@@ -7,9 +7,7 @@ folder_link: " tasks/net/new-releases/aspose.tasks-for-.net-8.6.0/"
 folder_name: " Aspose.Tasks for .NET 8.6.0"
 download_link: " /tasks/net/new-releases/aspose.tasks-for-.net-8.6.0/31ab780750b441ad9aded8130c4507bb"
 download_text: " Download"
-Intro_text: " Major Features
-
-We have suported major feature - reading project data from Pri..."
+Intro_text: "We have suported major feature - reading project data from Pri..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   8/27/2015  Downloads: 102  Views: 210"
 file_size: "  File Size: 12.6 MB "

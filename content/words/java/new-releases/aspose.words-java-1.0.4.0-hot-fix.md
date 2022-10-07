@@ -7,10 +7,7 @@ folder_link: " words/java/new-releases/aspose.words-java-1.0.4.0-hot-fix/"
 folder_name: " Aspose.Words Java 1.0.4.0 Hot Fix"
 download_link: " /words/java/new-releases/aspose.words-java-1.0.4.0-hot-fix/a375457ab66d4ee4b3986106ba9f434a"
 download_text: " Download"
-Intro_text: " Just two fixes in this release:
-
-Digital signature for VBA projects is lost.
-..."
+Intro_text: " Just two fixes in this release: Digital signature for VBA projects is lost...."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 7  Views: 182"
 file_size: "  File Size: 2.4 MB "

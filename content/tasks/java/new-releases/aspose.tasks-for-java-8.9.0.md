@@ -7,10 +7,7 @@ folder_link: " tasks/java/new-releases/aspose.tasks-for-java-8.9.0/"
 folder_name: " Aspose.Tasks For Java 8.9.0"
 download_link: " /tasks/java/new-releases/aspose.tasks-for-java-8.9.0/e2d6661589564b6e9427c23229d0f70b"
 download_text: " Download"
-Intro_text: " Major Features
-
-We
- have supported export and import Project Data for HTML fo..."
+Intro_text: " We have supported export and import Project Data for HTML fo..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/6/2015  Downloads: 29  Views: 291"
 file_size: "  File Size: 20.6 MB "

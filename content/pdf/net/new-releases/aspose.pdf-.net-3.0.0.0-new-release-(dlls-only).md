@@ -7,8 +7,7 @@ folder_link: " pdf/net/new-releases/aspose.pdf-.net-3.0.0.0-new-release-(dlls-on
 folder_name: " Aspose.PDF .Net 3.0.0.0 New Release (Dlls Only)"
 download_link: " /pdf/net/new-releases/aspose.pdf-.net-3.0.0.0-new-release-(dlls-only)/7f7c14f29c6f4faea946934bbb1b4300"
 download_text: " Download"
-Intro_text: " In this release:
-New features added:1) Inline paragraph. A new property InlineP..."
+Intro_text: " In this release, New features added:1) Inline paragraph. A new property InlineP..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 12  Views: 20"
 file_size: "  File Size: 695.5 KB "

@@ -7,9 +7,7 @@ folder_link: " tasks/java/new-releases/aspose.tasks-for-java-8.6.0/"
 folder_name: " Aspose.Tasks For Java 8.6.0"
 download_link: " /tasks/java/new-releases/aspose.tasks-for-java-8.6.0/7e5203bf17a64e7eade3f15439d427c7"
 download_text: " Download"
-Intro_text: " Major Features
-
-We have suported major feature - reading project data from Pri..."
+Intro_text: "We have suported major feature - reading project data from Pri..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/28/2015  Downloads: 47  Views: 259"
 file_size: "  File Size: 20.1 MB "

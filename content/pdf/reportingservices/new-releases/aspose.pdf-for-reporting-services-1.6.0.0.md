@@ -7,8 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: " Aspose.PDF for Reporting Services 1.6.0.0"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.6.0.0/f646d6e2424845cf9e07944f660aa834"
 download_text: " Download"
-Intro_text: " Introduction
-This release is a breakthrough which provides support of amazing f..."
+Intro_text: "This release is a breakthrough which provides support of amazing f..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   9/30/2009  Downloads: 95  Views: 470"
 file_size: "  File Size: 12.2 MB "

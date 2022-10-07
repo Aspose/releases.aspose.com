@@ -7,9 +7,7 @@ folder_link: " tasks/java/new-releases/aspose.tasks-for-java-7.2.1/"
 folder_name: " Aspose.Tasks for Java 7.2.1"
 download_link: " /tasks/java/new-releases/aspose.tasks-for-java-7.2.1/f0a70cea23384949b2c656968c2eba92"
 download_text: " Download"
-Intro_text: " Major Features
-
-We have supported WBS code fields reading and writing this rel..."
+Intro_text: "We have supported WBS code fields reading and writing this rel..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/28/2015  Downloads: 35  Views: 250"
 file_size: "  File Size: 20.2 MB "

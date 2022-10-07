@@ -7,7 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: " Aspose.PDF for Reporting Services 2.5.1"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.5.1/a6d63f7ff0644dc8a85e2bb75c5e50a2"
 download_text: " Download"
-Intro_text: " IntroductionWe are pleased to announce another version of Aspose.Pdf for Reporti..."
+Intro_text: " Introduction We are pleased to announce another version of Aspose.Pdf for Reporti..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   3/22/2013  Downloads: 121  Views: 583"
 file_size: "  File Size: 30.7 MB "

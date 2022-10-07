@@ -7,9 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-2.7.4.0-hot-fix/"
 folder_name: " Aspose.Slides for .Net 2.7.4.0 Hot Fix"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-2.7.4.0-hot-fix/52399f67ce544d58b4980ae69762d9bd"
 download_text: " Download"
-Intro_text: " Fixes:
-3695 - Slide rendering
-  Visible bullets in empty paragraphs.Rendering ..."
+Intro_text: "3695 - Slide rendering, Visible bullets in empty paragraphs.Rendering ..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   10/21/2007  Downloads: 44  Views: 226"
 file_size: "  File Size: 2.6 MB "

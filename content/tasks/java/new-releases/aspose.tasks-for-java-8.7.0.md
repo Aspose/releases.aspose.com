@@ -7,9 +7,7 @@ folder_link: " tasks/java/new-releases/aspose.tasks-for-java-8.7.0/"
 folder_name: " Aspose.Tasks For Java 8.7.0"
 download_link: " /tasks/java/new-releases/aspose.tasks-for-java-8.7.0/7853ad08ddbf411796e5b4ac8b987067"
 download_text: " Download"
-Intro_text: " Major Features
-
-We have supported several important features in this release. ..."
+Intro_text: "We have supported several important features in this release. ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/27/2015  Downloads: 90  Views: 135"
 file_size: "  File Size: 20.3 MB "

@@ -7,9 +7,7 @@ folder_link: " tasks/java/new-releases/aspose.tasks-for-java-7.3.0/"
 folder_name: " Aspose.Tasks for Java 7.3.0"
 download_link: " /tasks/java/new-releases/aspose.tasks-for-java-7.3.0/e74fd04dbbce4499bf2ddfde333b5335"
 download_text: " Download"
-Intro_text: " Major Features
-
-We have fixed several bugs this release. Details column in usa..."
+Intro_text: "We have fixed several bugs this release. Details column in usa..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/28/2015  Downloads: 66  Views: 291"
 file_size: "  File Size: 20.3 MB "

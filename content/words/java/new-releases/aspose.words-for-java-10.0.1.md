@@ -7,17 +7,7 @@ folder_link: " words/java/new-releases/aspose.words-for-java-10.0.1/"
 folder_name: " Aspose.Words for Java 10.0.1"
 download_link: " /words/java/new-releases/aspose.words-for-java-10.0.1/2d36be7aad4d4f35ab8994aad00915e2"
 download_text: " Download"
-Intro_text: " This hotfix addresses the following issues:
-
-
-
-
-
-
-
-
-Issue ID
-Type Desc..."
+Intro_text: " This hotfix addresses the following issues..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/6/2011  Downloads: 382  Views: 699"
 file_size: "  File Size: 26.0 MB "

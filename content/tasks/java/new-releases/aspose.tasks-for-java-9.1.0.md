@@ -7,9 +7,7 @@ folder_link: " tasks/java/new-releases/aspose.tasks-for-java-9.1.0/"
 folder_name: " Aspose.Tasks For Java 9.1.0"
 download_link: " /tasks/java/new-releases/aspose.tasks-for-java-9.1.0/396f76f21ea6434194b2ff8a1d9d8272"
 download_text: " Download"
-Intro_text: " Major Features
-
-We have implemented Task.DurationText field for mpp writing an..."
+Intro_text: "We have implemented Task.DurationText field for mpp writing an..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/30/2015  Downloads: 31  Views: 262"
 file_size: "  File Size: 20.7 MB "

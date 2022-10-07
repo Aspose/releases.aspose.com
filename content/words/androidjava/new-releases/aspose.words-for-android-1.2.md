@@ -7,8 +7,7 @@ folder_link: " words/androidjava/new-releases/aspose.words-for-android-1.2/"
 folder_name: " Aspose.Words for Android 1.2"
 download_link: " /words/androidjava/new-releases/aspose.words-for-android-1.2/9879fa70574a4513843fd1a8296b2df2"
 download_text: " Download"
-Intro_text: " 
-Aspose.Words for Android 1.2 Release Notes
+Intro_text: "Aspose.Words for Android 1.2 Release Notes
 This is our regular monthly releas..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   10/13/2013  Downloads: 148  Views: 238"

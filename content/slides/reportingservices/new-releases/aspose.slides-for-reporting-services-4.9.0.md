@@ -7,8 +7,7 @@ folder_link: " slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: " Aspose.Slides for Reporting Services 4.9.0"
 download_link: " /slides/reportingservices/new-releases/aspose.slides-for-reporting-services-4.9.0/bad09857c91a4c59a1b967c6b1a9a943"
 download_text: " Download"
-Intro_text: " We like to share the new release of
-Aspose.Slides for Reporting Services. The f..."
+Intro_text: " We like to share the new release of Aspose.Slides for Reporting Services. The f..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   8/26/2013  Downloads: 151  Views: 253"
 file_size: "  File Size: 21.2 MB "
