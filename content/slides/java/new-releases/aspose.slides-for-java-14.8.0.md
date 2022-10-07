@@ -7,9 +7,7 @@ folder_link: " slides/java/new-releases/aspose.slides-for-java-14.8.0/"
 folder_name: " Aspose.Slides for Java 14.8.0"
 download_link: " /slides/java/new-releases/aspose.slides-for-java-14.8.0/9e284c723e3341ca8f3b33e70b0913e8"
 download_text: " Download"
-Intro_text: " Aspose.Slides for Java has been updated to version 14.8.0.
-
-Using Aspose.Slide..."
+Intro_text: " Aspose.Slides for Java has been updated to version 14.8.0.Using Aspose.Slide..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/13/2014  Downloads: 282  Views: 688"
 file_size: "  File Size: 47.9 MB "

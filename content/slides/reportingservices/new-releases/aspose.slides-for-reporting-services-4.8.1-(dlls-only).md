@@ -7,8 +7,7 @@ folder_link: " slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: " Aspose.Slides for Reporting Services 4.8.1 (Dlls Only)"
 download_link: " /slides/reportingservices/new-releases/aspose.slides-for-reporting-services-4.8.1-(dlls-only)/4418ecdeb30e434e8f70c14cca76a642"
 download_text: " Download"
-Intro_text: " We like to share the new hotfix release of Aspose.Slides
-for Reporting Services..."
+Intro_text: " We like to share the new hotfix release of Aspose.Slides for Reporting Services..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   6/18/2013  Downloads: 18  Views: 186"
 file_size: "  File Size: 14.7 MB "

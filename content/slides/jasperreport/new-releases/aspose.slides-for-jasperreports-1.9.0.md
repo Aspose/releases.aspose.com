@@ -7,8 +7,7 @@ folder_link: " slides/jasperreport/new-releases/aspose.slides-for-jasperreports-
 folder_name: " Aspose.Slides for JasperReports 1.9.0"
 download_link: " /slides/jasperreport/new-releases/aspose.slides-for-jasperreports-1.9.0/c90d569fc74e42869106fcca0b95259c"
 download_text: " Download"
-Intro_text: " We like to share the new release of Aspose.Slides for Jasper
-Reports. The follo..."
+Intro_text: " We like to share the new release of Aspose.Slides for JasperReports. The follo..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/23/2013  Downloads: 43  Views: 520"
 file_size: "  File Size: 17.7 MB "

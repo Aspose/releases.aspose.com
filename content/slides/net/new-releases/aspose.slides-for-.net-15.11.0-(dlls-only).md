@@ -7,10 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-15.11.0-(dlls-only
 folder_name: " Aspose.Slides for .NET 15.11.0 (Dlls only)"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-15.11.0-(dlls-only)/81bb2fe312534a619c13779eeea6fe8a"
 download_text: " Download"
-Intro_text: " Other Improvements and Changes
-Bug Fixes
-
-SLIDESNET-37050 - Content missing o..."
+Intro_text: " Other Improvements and Changes Bug Fixes SLIDESNET-37050 - Content missing o..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   1/11/2016  Downloads: 132  Views: 299"
 file_size: "  File Size: 56.1 MB "

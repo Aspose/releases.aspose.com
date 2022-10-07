@@ -7,9 +7,7 @@ folder_link: " words/reportingservices/new-releases/aspose.words-reporting-servi
 folder_name: " Aspose.Words Reporting Services 1.0.3.0 Hot Fix"
 download_link: " /words/reportingservices/new-releases/aspose.words-reporting-services-1.0.3.0-hot-fix/04d90f1b033c478183a60fa96679f7ad"
 download_text: " Download"
-Intro_text: " In this release:
-
-Added support of nested subreports (those located in table c..."
+Intro_text: " In this release, Added support of nested subreports (those located in table c..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 0  Views: 73"
 file_size: "  File Size: 3.4 MB "

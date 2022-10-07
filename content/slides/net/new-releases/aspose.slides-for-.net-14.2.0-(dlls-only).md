@@ -7,8 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-14.2.0-(dlls-only)
 folder_name: " Aspose.Slides for .NET 14.2.0 (DLLs only)"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-14.2.0-(dlls-only)/2c5c4b48b8024093b6efbf66efd0851b"
 download_text: " Download"
-Intro_text: " Aspose.Slides for .NET 14.2.0 Release Notes
-We are pleased to announce the rele..."
+Intro_text: " Aspose.Slides for .NET 14.2.0 Release Notes We are pleased to announce the rele..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   3/24/2014  Downloads: 188  Views: 325"
 file_size: "  File Size: 39.6 MB "

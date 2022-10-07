@@ -7,14 +7,7 @@ folder_link: " words/java/new-releases/aspose.words-for-java-3.1.1/"
 folder_name: " Aspose.Words for Java 3.1.1"
 download_link: " /words/java/new-releases/aspose.words-for-java-3.1.1/8f7cefbe78654283b9093becc527f668"
 download_text: " Download"
-Intro_text: " This maintenance release contains only one urgent fix:
-
-
-
-
-Issue
-
-Type ID..."
+Intro_text: " This maintenance release contains only one urgent fix."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/22/2009  Downloads: 170  Views: 510"
 file_size: "  File Size: 9.2 MB "

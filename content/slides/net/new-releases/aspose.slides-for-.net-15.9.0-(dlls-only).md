@@ -7,10 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-15.9.0-(dlls-only)
 folder_name: " Aspose.Slides for .NET 15.9.0 (Dlls only)"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-15.9.0-(dlls-only)/a6e56cc034d149a6ad15e884df281d0d"
 download_text: " Download"
-Intro_text: " Other Improvements and changes
-Bug Fixes
-
-SLIDESNET-36905 - Incorrect color v..."
+Intro_text: " Other Improvements and changes Bug Fixes, SLIDESNET-36905 - Incorrect color v..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/6/2015  Downloads: 125  Views: 315"
 file_size: "  File Size: 55.6 MB "

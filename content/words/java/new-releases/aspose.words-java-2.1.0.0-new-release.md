@@ -7,9 +7,7 @@ folder_link: " words/java/new-releases/aspose.words-java-2.1.0.0-new-release/"
 folder_name: " Aspose.Words Java 2.1.0.0 New Release"
 download_link: " /words/java/new-releases/aspose.words-java-2.1.0.0-new-release/df17a0f95acf4317bd4bb142fd8c7200"
 download_text: " Download"
-Intro_text: " This release of Aspose.Words for Java features:
-
-HTML export (fully matches HT..."
+Intro_text: " This release of Aspose.Words for Java features: HTML export (fully matches HT..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 39  Views: 427"
 file_size: "  File Size: 4.3 MB "

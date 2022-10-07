@@ -7,8 +7,7 @@ folder_link: " slides/net/new-releases/aspose.slides-for-.net-8.4.0-(dlls-only)/
 folder_name: " Aspose.Slides for .NET 8.4.0 (DLLs only)"
 download_link: " /slides/net/new-releases/aspose.slides-for-.net-8.4.0-(dlls-only)/eacc87daea6148589e88e85bfc5499e0"
 download_text: " Download"
-Intro_text: " Aspose.Slides for .NET 8.4.0 Release Notes
-Aspose.Slides for .NET has been upda..."
+Intro_text: " Aspose.Slides for .NET 8.4.0 Release Notes Aspose.Slides for .NET has been upda..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   3/3/2014  Downloads: 183  Views: 316"
 file_size: "  File Size: 34.7 MB "

@@ -7,9 +7,7 @@ folder_link: " slides/java/new-releases/aspose.slides-for-java-1.8.6.0-hot-fix/"
 folder_name: " Aspose.Slides for Java 1.8.6.0 Hot Fix"
 download_link: " /slides/java/new-releases/aspose.slides-for-java-1.8.6.0-hot-fix/05850e8d2025488e9fcbb224e79d01a2"
 download_text: " Download"
-Intro_text: " Contains fixes similar to .NET 2.8.7.0 version.
-
-When view presentations in Po..."
+Intro_text: " Contains fixes similar to .NET 2.8.7.0 version. When view presentations in Po..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/15/2010  Downloads: 47  Views: 579"
 file_size: "  File Size: 2.9 MB "

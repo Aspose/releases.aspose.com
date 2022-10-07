@@ -7,9 +7,7 @@ folder_link: " slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: " Aspose.Slides for Reporting Services 5.1.0 (Dlls Only)"
 download_link: " /slides/reportingservices/new-releases/aspose.slides-for-reporting-services-5.1.0-(dlls-only)/2faa1beabd54473fb5c418ff79f35545"
 download_text: " Download"
-Intro_text: " Aspose.Slides for Reporting Services has been updated to version 5.1.0.
-
-Visit..."
+Intro_text: " Aspose.Slides for Reporting Services has been updated to version 5.1.0. Visit..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/3/2014  Downloads: 81  Views: 202"
 file_size: "  File Size: 19.3 MB "

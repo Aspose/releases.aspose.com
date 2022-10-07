@@ -7,9 +7,7 @@ folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-s
 folder_name: " Aspose.Words for Reporting Services 3.0.2"
 download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.2/31a5b11d12134440964b9522ff253798"
 download_text: " Download"
-Intro_text: " This release includes some minor improvements:
-
-Based on the latest Aspose.Wor..."
+Intro_text: " This release includes some minor improvements:Based on the latest Aspose.Wor..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   4/15/2009  Downloads: 65  Views: 294"
 file_size: "  File Size: 10.5 MB "
