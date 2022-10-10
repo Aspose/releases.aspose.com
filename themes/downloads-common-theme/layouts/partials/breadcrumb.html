@@ -32,7 +32,7 @@
         <li><span>Aspose.Total Product Family</span><span class="divider"> </span></li>
       </ul> -->
       <ul id="dvBC" class="breadcrumb">
-        <li><a href="/">Home</a><span class="divider"> </span></li>
+        <li><a href="/">{{ i18n "Home" }}</a><span class="divider"> </span></li>
         {{ $currentpath := .RelPermalink  }}
         {{- $.Scratch.Set "url" "" -}}
         {{- range (split .RelPermalink "/") -}}

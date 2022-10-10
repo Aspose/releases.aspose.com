@@ -6,7 +6,7 @@
 {{ if (in $directdownload "true") }}
 <div class="col-md-12">
   <h3 id="hTitle" class="files-header" style="display: block">
-    Direct Download
+     {{ i18n "Direct_Download" }}
   </h3>
 </div>
 {{ end }} 
@@ -32,9 +32,9 @@
                   {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
                   {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                   {{with $added_date}}
-                  <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                  <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
                   {{end}}
-                  <span class="glyphicon glyphicon-save leftme five5" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
+                  <span class="glyphicon glyphicon-save leftme five5" aria-hidden="true"></span> {{ i18n "Downloads" }}: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                   <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
                 </p>
               </div>
@@ -43,8 +43,8 @@
                 <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                   <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
                   <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
-                    <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
-                <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
+                    <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ i18n "Download" }}</a>
+                <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ i18n "File_Size" }}: {{ replace .Params.file_size "File Size:" "" }}  </p>
               </div>
             </div>
           </div>
@@ -68,9 +68,9 @@
                           {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
                           {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                           {{with $added_date}}
-                          <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                          <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
                           {{end}}
-                          <span class="glyphicon glyphicon-save leftme six6" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
+                          <span class="glyphicon glyphicon-save leftme six6" aria-hidden="true"></span> {{ i18n "Downloads" }}: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                           <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
                         </p>
                       </div>
@@ -79,8 +79,8 @@
                         <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                           <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
                           <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
-                            <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
-                        <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
+                            <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ i18n "Download" }}</a>
+                        <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ i18n "File_Size" }}: {{ replace .Params.file_size "File Size:" "" }} </p>
                       </div>
                     </div>
                   </div>
@@ -105,9 +105,9 @@
                         {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
                         {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                         {{with $added_date}}
-                        <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                        <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
                         {{end}}
-                        <span class="glyphicon glyphicon-save leftme one1" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
+                        <span class="glyphicon glyphicon-save leftme one1" aria-hidden="true"></span> {{ i18n "Downloads" }}: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                         <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
                       </p>
                     </div>
@@ -116,8 +116,8 @@
                       <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                         <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
                         <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
-                          <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
-                      <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
+                          <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ i18n "Download" }}</a>
+                      <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ i18n "File_Size" }}: {{ replace .Params.file_size "File Size:" "" }} </p>
                     </div>
                   </div>
                 </div>
@@ -146,9 +146,9 @@
                 {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
                 {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                 {{with $added_date}}
-                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
                 {{end}}
-                <span class="glyphicon glyphicon-save leftme two1" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
+                <span class="glyphicon glyphicon-save leftme two1" aria-hidden="true"></span> {{ i18n "Downloads" }}: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                 <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
               </p>
             </div>
@@ -157,8 +157,8 @@
               <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                 <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
                 <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
-                  <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
-              <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
+                  <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ i18n "Download" }}</a>
+              <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ i18n "File_Size" }}: {{ replace .Params.file_size "File Size:" "" }} </p>
             </div>
           </div>
         </div>
@@ -182,9 +182,9 @@
                           {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
                           {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                           {{with $added_date}}
-                          <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                          <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
                           {{end}}
-                          <span class="glyphicon glyphicon-save leftme three3" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
+                          <span class="glyphicon glyphicon-save leftme three3" aria-hidden="true"></span> {{ i18n "Downloads" }}: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                           <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
                         </p>
                       </div>
@@ -193,8 +193,8 @@
                           <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                           <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
                           <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
-                            <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
-                        <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
+                            <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ i18n "Download" }}</a>
+                        <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ i18n "File_Size" }}: {{ replace .Params.file_size "File Size:" "" }} </p>
                       </div>
                     </div>
                   </div>
@@ -221,9 +221,9 @@
                 {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
                 {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                 {{with $added_date}}
-                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Added: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
                 {{end}}
-                <span class="glyphicon glyphicon-save leftme four4" aria-hidden="true"></span> Downloads: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
+                <span class="glyphicon glyphicon-save leftme four4" aria-hidden="true"></span> {{ i18n "Downloads" }}: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                 <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
               </p>
             </div>
@@ -232,8 +232,8 @@
               <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                 <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
                 <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
-                  <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>
-              <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ .Params.file_size }} </p>
+                  <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ i18n "Download" }}</a>
+              <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ i18n "File_Size" }}: {{ replace .Params.file_size "File Size:" "" }} </p>
             </div>
           </div>
         </div>
@@ -273,7 +273,7 @@
       item: '.col-md-12',
       count: 10,
       // itemsToLoad: 10,
-      btnHTML: '<a style="margin-left: 15px;" href="#" class="btn btn-primary load-more__btn"> Show more files... </a>'
+      btnHTML: '<a style="margin-left: 15px;" href="#" class="btn btn-primary load-more__btn"> {{ i18n "Show_More_Files" }}... </a>'
     });
  });
 </script>
