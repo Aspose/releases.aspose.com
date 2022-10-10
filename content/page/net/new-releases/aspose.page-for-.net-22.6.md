@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.page-for-.net-22.6"
-description: " "
+title: "Shading in DeviceN Colorspace CMYK API for C#, .NET Apps"
+description: "C# .NET API to apply shading pattern in DeviceN colorspace with alternative CMYK, generate EPS to TIF with over 96 DPI, merge XPS files, and convert PS to PDF."
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-22.6/"
