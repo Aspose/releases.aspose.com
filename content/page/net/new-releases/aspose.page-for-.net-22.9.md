@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.page-for-.net-22.9"
-description: " "
+title: "Convert Image to EPS NET6.0 Support API for C#, ASP.NET Apps"
+description: "C# .NET API to convert image formats to EPS file format with correct image orientation, Set XMP metadata in EPS documents, Support for .NET6.0 is available."
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-22.9/"
