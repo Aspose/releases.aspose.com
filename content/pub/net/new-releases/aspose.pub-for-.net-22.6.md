@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pub-for-.net-22.6"
-description: " "
+title: "PUB to PDF Converter on-premise API for C#, ASP.NET Apps"
+description: "Convert Microsoft Publisher PUB files to Adobe Acrobat PDF documents using on-premise C# API. PUB to PDF converter high-code API enhances your .NET Apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pub/net/new-releases/aspose.pub-for-.net-22.6/"
