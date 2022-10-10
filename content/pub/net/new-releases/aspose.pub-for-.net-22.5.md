@@ -1,6 +1,6 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.pub-for-.net-22.5 . " 
-description:  "    . " 
+title:  "MS Publisher PUB Converter C# API with .NET Core 6.0 Support" 
+description:  "Microsoft Publisher PUB format conversion & processing via high code API for C#, ASP.NET Apps. Supports .NET 6.0 / 5.0, .NET Standard 2.1, & .NET Framework 4.0." 
 keywords:  "    . " 
 page_type:  single_release_page
 folder_link: " pub/net/new-releases/aspose.pub-for-.net-22.5/"
