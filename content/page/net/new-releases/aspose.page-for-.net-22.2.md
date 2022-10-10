@@ -1,6 +1,6 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.page-for-.net-22.2 . " 
-description:  "    . " 
+title:  "Use Wingdings & Zapfdingbats Fonts via API for C#, .NET Apps" 
+description:  "C# .NET API that offers a better handling of the dingbat typefaces such as the Wingdings font and the Zapfdingbats font with various supported document formats." 
 keywords:  "    . " 
 page_type:  single_release_page
 folder_link: " page/net/new-releases/aspose.page-for-.net-22.2/"
