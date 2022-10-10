@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.page-for-.net-22.8"
-description: " "
+title: "Enhanced XPS Print Tickets Support API for C#, ASP.NET Apps"
+description: "C# .NET API that offers enhanced Print Tickets feature for the XPS documents & support for metered licensing. Also offers the image to EPS conversion feature."
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-22.8/"
