@@ -1,0 +1,48 @@
+---
+title: " Downloads ---New-Releases-aspose.pdf-for-java-20.2 . "
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " pdf/java/new-releases/aspose.pdf-for-java-20.2/"
+folder_name: "Aspose.PDF für Java 20.2"
+download_link: " /pdf/java/new-releases/aspose.pdf-for-java-20.2/09ebeae7783f435c95d6b28a46fbe9c7"
+download_text: " Download"
+Intro_text: "Wir freuen uns, eine neue Version von Aspose.PDF für Java mit folgenden i..."
+image_link: "/resources/img/zip-icon.png"
+download_count: "   2/20/2020  Downloads: 169  Views: 264"
+file_size: "  File Size: 65.3 MB "
+parent_path: "pdf/java"
+section_parent_path: "pdf/java"
+weight: 213
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.PDF für Java 20.2" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/pdf/java/new-releases/aspose.pdf-for-java-20.2/09ebeae7783f435c95d6b28a46fbe9c7%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="Dateidetails">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li >}} Downloads: {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-09ebeae7783f435c95d6b28a46fbe9c7" >}} 169 {{< /Common/li >}}
+      {{< Common/li >}} Dateigröße: {{< /Common/li >}}
+      {{< Common/li id="size-update-09ebeae7783f435c95d6b28a46fbe9c7" >}} 65.3 MB {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-09ebeae7783f435c95d6b28a46fbe9c7" >}} bornwild {{< /Common/li >}}
+      {{< Common/li class="hide" >}} Ansichten: {{< /Common/li >}}
+      {{< Common/li class="hide" id="view-update-09ebeae7783f435c95d6b28a46fbe9c7" >}} 265 {{< /Common/li >}}
+      {{< Common/li >}} Hinzugefügt am: {{< /Common/li >}}
+      {{< Common/li id="added-update-09ebeae7783f435c95d6b28a46fbe9c7" >}} 2/20/2020 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/pdfjava/Aspose.PDF+for+Java+20.2+Release+Notes">https://docs.aspose.com/display/pdfjava/Aspose.PDF+for+Java+20.2+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Wir freuen uns, eine neue Version von Aspose.PDF für Java mit folgenden Verbesserungen ankündigen zu können.</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+
+

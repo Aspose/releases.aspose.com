@@ -6,6 +6,28 @@ theme =  "downloads-common-theme"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreErrors = ["error-disable-taxonomy"]
 enableRobotsTXT = true
+
+################################# Localization #########################
+# Disabled languages
+disableLanguages = []
+defaultContentLang = 'en'
+[languages]
+    [languages.en]
+      contentDir = 'content/en'
+      languageName = "English"
+      languageCode = "en"
+      flag = "flag-us"
+      weight = 1
+      menuCode = "aspose-en"
+    [languages.de]
+      contentDir = 'content/de'
+      languageName = "Deutsch"
+      languageCode = "de"
+      flag = "flag-de"
+      weight = 2
+      menuCode = "aspose-de"
+################################# Localization #########################
+
 [params]
     # googleAnalytics = ""
      googletagmanager = "GTM-NJMHSH"

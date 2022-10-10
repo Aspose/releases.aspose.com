@@ -1,0 +1,48 @@
+---
+title: " Downloads ---Neue-Releases-aspose.cells-for-java-19.3 . "
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " cells/java/new-releases/aspose.cells-for-java-19.3/"
+folder_name: "Aspose.Cells für Java 19.3"
+download_link: " /cells/java/new-releases/aspose.cells-for-java-19.3/f1743c9ffcac49efbcd7b8b6ff6ed550"
+download_text: " Download"
+Intro_text: "Es enthält die Version Aspose.Cells für Java 19.3."
+image_link: "/resources/img/zip-icon.png"
+download_count: "   3/19/2019  Downloads: 140  Views: 363"
+file_size: "  File Size: 17.6 MB "
+parent_path: "cells/java"
+section_parent_path: "cells/java"
+weight: 291
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Cells für Java 19.3" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/cells/java/new-releases/aspose.cells-for-java-19.3/f1743c9ffcac49efbcd7b8b6ff6ed550%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="Dateidetails">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li >}} Downloads: {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-f1743c9ffcac49efbcd7b8b6ff6ed550" >}} 140 {{< /Common/li >}}
+      {{< Common/li >}} Dateigröße: {{< /Common/li >}}
+      {{< Common/li id="size-update-f1743c9ffcac49efbcd7b8b6ff6ed550" >}} 17.6 MB {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-f1743c9ffcac49efbcd7b8b6ff6ed550" >}} johnson.shi {{< /Common/li >}}
+      {{< Common/li class="hide" >}} Ansichten: {{< /Common/li >}}
+      {{< Common/li class="hide" id="view-update-f1743c9ffcac49efbcd7b8b6ff6ed550" >}} 364 {{< /Common/li >}}
+      {{< Common/li >}} Hinzugefügt am: {{< /Common/li >}}
+      {{< Common/li id="added-update-f1743c9ffcac49efbcd7b8b6ff6ed550" >}} 3/19/2019 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/cellsjava/Aspose.Cells+for+Java+19.3+Release+Notes">https://docs.aspose.com/display/cellsjava/Aspose.Cells+for+Java+19.3+Release+Notes</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+
+
