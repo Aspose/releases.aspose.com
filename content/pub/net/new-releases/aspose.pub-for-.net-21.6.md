@@ -1,6 +1,6 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.pub-for-.net-21.6 . " 
-description:  "    . " 
+title:  "Convert MS Publisher 2000 PUB to PDF via API for C# Apps" 
+description:  "PUB Conversion API now supports converting Microsoft Publisher 2000 PUB files to Adobe PDF file format within C#, ASP.NET Apps. .NET Framework 5.0 Compliance." 
 keywords:  "    . " 
 page_type:  single_release_page
 folder_link: " pub/net/new-releases/aspose.pub-for-.net-21.6/"
