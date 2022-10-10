@@ -1,6 +1,6 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.page-for-.net-22.4 . " 
-description:  "    . " 
+title:  "Embed XMP Metadata in EPS Files via API for C#, ASP.NET Apps" 
+description:  "C# .NET API to embed the Adobe's XMP (Extensible Metadata Platform) metadata in the EPS (Encapsulated PostScript) document, increasing file's business value." 
 keywords:  "    . " 
 page_type:  single_release_page
 folder_link: " page/net/new-releases/aspose.page-for-.net-22.4/"
