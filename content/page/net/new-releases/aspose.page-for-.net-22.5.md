@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.page-for-.net-22.5"
-description: " "
+title: "Set XMP Metadata in EPS Documents API for C#, ASP.NET Apps"
+description: "C# .NET API for setting the Adobe's XMP (Extensible Metadata Platform) metadata within the EPS (Encapsulated PostScript) documents, increasing App's efficiency."
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-22.5/"
