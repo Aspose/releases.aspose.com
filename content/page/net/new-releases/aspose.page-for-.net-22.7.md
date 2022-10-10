@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.page-for-.net-22.7"
-description: " "
+title: "Convert XPS to Image Set Image Size API for C#, ASP.NET Apps"
+description: "C# .NET API to convert XPS to image formats with option to set the required image size. Supports XPS conversion to BMP, JPG, PNG, and TIFF raster image formats."
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-22.7/"
