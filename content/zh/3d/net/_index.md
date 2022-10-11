@@ -42,7 +42,7 @@ Aspose.3D for .NET 是一个本地类库，使您的 .NET 应用程序能够创�
 
 Aspose.3D for .NET API 增强了您的 .NET 应用程序以打开 3D 格式的文件并使用 3D 场景中的元素；如;线、网格、nurbs、曲线到更复杂的元素，如动画。您还可以使用纹理、参数化几何图形、场景图、自定义属性、骨架、变形变形器等等。
 
-Aspose.3D for .NET 可以在任何可以安装 Mono（.NET 4.0 框架支持）或使用 .NET Core 的操作系统（Windows、MacOS、Linux）上使用。它是一个单一的 .NET 库，您可以通过简单地复制它来部署任何 .NET 应用程序。您不必担心其他服务或模块。 Aspose.3D for .NET 被设计为在服务器端和客户端上表现同样出色。
+Aspose.3D for .NET 可以在任何可以安装 Mono（.NET 4.0 Framework 支持）或使用 .NET Core 的操作系统（Windows、MacOS、Linux）上使用。它是一个单一的 .NET 库，您可以通过简单地复制它来部署任何 .NET 应用程序。您不必担心其他服务或模块。 Aspose.3D for .NET 被设计为在服务器端和客户端上表现同样出色。
 
 ## 3D 文件处理功能
 
@@ -81,7 +81,7 @@ Aspose.3D for .NET 可以在任何可以安装 Mono（.NET 4.0 框架支持）�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 
