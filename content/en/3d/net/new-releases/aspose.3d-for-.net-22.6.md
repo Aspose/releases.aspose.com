@@ -16,7 +16,7 @@ parent_path: "3d/net"
 section_parent_path: "3d/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-8-release-notes/"
+release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-7-release-notes/"
 weight: 312
 
 ---
@@ -40,7 +40,7 @@ weight: 312
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-8-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-8-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-7-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 22.7 release.</div>
