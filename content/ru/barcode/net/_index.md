@@ -103,7 +103,7 @@ Aspose.BarCode для .NET полностью написан на C# и сост
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

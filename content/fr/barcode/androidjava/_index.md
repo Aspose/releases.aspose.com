@@ -105,7 +105,7 @@ groupe d'implémentation : 'com.aspose', nom : 'aspose-barcode', classificateur 
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

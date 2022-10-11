@@ -87,7 +87,7 @@ Aspose.CAD pour Java permet aux dÃ©veloppeurs de convertir des fichiers AutoCADÂ
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

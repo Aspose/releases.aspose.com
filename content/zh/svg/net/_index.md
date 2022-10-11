@@ -57,7 +57,7 @@ SVG
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -64,7 +64,7 @@ maven {url "https://repository.aspose.com/repo/"}
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

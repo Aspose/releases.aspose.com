@@ -76,7 +76,7 @@ Aspose.HTML for .NET API 的类和属性与 W3C HTML 规范的名称相似。
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

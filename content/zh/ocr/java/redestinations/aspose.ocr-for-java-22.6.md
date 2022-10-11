@@ -16,7 +16,7 @@ parent_path: "ocr/java/resources"
 section_parent_path: "ocr/java"
 
 tags: ""
-release_notes_url：“https://docs.aspose.com/ocr/java/release-notes/latest/”
+release_notes_url: "https://docs.aspose.com/ocr/java/release-notes/latest/"
 weight: 171
 
 ---

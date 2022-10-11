@@ -41,7 +41,7 @@ Aspose.BarCode pour Node.js via Java est implémenté en utilisant le pont nodej
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

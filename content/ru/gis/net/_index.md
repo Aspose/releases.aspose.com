@@ -82,7 +82,7 @@ Aspose.GIS for .NET API помогает разработчикам отобра
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

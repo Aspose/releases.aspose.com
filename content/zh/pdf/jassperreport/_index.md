@@ -45,7 +45,7 @@ Aspose.PDF for JasperReports 帮助您将报告从 JasperReports® 和 JasperSer
 - JasperReports® 6.7.0 或更高版本。
 - JasperServer® 6.7.0 或更高版本。
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

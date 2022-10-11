@@ -136,7 +136,7 @@ Aspose.Font for .NET поможет вам включить возможност
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

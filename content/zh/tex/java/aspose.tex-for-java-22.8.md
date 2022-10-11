@@ -16,7 +16,7 @@ parent_path: "tex/java"
 section_parent_path: "tex/java"
 
 tags: ""
-release_notes_url：“https://docs.aspose.com/tex/java/aspose-tex-for-java-22-8-release-notes/”
+release_notes_url: "https://docs.aspose.com/tex/java/aspose-tex-for-java-22-8-release-notes/"
 weight: 2
 
 ---

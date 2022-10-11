@@ -82,7 +82,7 @@ BMP, PNG, JPEG, GIF, TIFF
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

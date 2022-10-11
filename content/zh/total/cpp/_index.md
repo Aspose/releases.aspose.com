@@ -85,7 +85,7 @@ Aspose.TeX for C++ 是一个原生 C++ 库，使开发人员能够将 TeX 操作
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

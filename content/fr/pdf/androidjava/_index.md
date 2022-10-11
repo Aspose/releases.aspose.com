@@ -80,7 +80,7 @@ Vous pouvez facilement utiliser Aspose.PDF pour Java directement à partir d'un
 - Toute plate-forme sur laquelle l'environnement d'exécution Android est installé.
 -Android OS 2.0 ou supérieur.
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -59,8 +59,8 @@ API для работы с файлами PowerPoint для разработчи
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Примечания к выпуску"  >}}
 {{< Common/release-notes-link family="slides" product="androidjava" href="https://docs.aspose.com/slides/androidjava/release-notes/" text="https://docs.aspose.com/slides/androidjava/release-notes/"  >}}
-{{< /Common/обертка >}}
-{{< /Common/обертка >}}
+{{< /Common/wrapper >}}
+{{< /Common/wrapper >}}
 
 <!-- /ProductPageContent-->
 

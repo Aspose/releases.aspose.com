@@ -53,7 +53,7 @@ Aspose.PUB pour .NET est une API simple qui vous permet de lire et de convertir 
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

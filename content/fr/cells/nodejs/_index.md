@@ -38,7 +38,7 @@ Vous pouvez facilement utiliser <b>aspose.cells</b> pour Javascript à partir de
 - Création et rendu de graphiques.
 - Moteur de calcul de formule fiable et bien plus encore.
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

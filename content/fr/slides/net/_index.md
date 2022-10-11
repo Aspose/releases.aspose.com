@@ -61,7 +61,7 @@ Aspose.Slides pour .NET est une API multiplateforme qui aide au développement d
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

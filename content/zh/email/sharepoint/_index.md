@@ -23,11 +23,11 @@ tags: ['Aspose.Email', 'Aspose.Total', 'Conholdate.Total', 'Conholdate', 'ShareP
 
 {{< Common/h4 class=" " text="试用免费的在线电子邮件处理应用程序" >}}
 {{< Common/ul>}}
-{{< 普通/里 >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/email/conversion" text="免费电子邮件转换器在线应用程序转换电子邮件格式"  >}}{{< /Common/li >}}
-{{< 普通/里 >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/email/parser" text="免费电子邮件解析在线应用程序从电子邮件中提取图像和文件"  >}}{{< /Common/li >}}
-{{< 普通/里 >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/email/metadata" text="免费的电子邮件元数据应用程序可查看和编辑电子邮件元数据"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
@@ -82,7 +82,7 @@ tags: ['Aspose.Email', 'Aspose.Total', 'Conholdate.Total', 'Conholdate', 'ShareP
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

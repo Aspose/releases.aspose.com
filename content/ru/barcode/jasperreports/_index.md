@@ -80,7 +80,7 @@ Aspose.BarCode for JasperReports позволяет отображать лин�
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

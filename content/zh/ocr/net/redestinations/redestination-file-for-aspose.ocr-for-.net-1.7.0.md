@@ -7,8 +7,7 @@ folder_link: " ocr/net/resources/resource-file-for-aspose.ocr-for-.net-1.7.0/"
 folder_name: "Aspose.OCR for .NET 1.7.0 的资源文件"
 download_link: " /ocr/net/resources/resource-file-for-aspose.ocr-for-.net-1.7.0/359c0cb27e4a4bba9bbaeeca6bb4575b"
 download_text: " Download"
-Intro_text: " Aspose.OCR for .NET uses a resource file to perform OCR operations 
-反对这...”
+Intro_text: " Aspose.OCR for .NET uses a resource file to perform OCR operations 反对这..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   10/4/2013  Downloads: 411  Views: 1397"
 file_size: "  File Size: 87.8 MB "

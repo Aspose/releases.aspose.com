@@ -63,7 +63,7 @@ cmbsy10, cmbx10, cmbx5, cmbx6, cmbx7, cmbx8, cmbx9, cmcsc10, cmdunh10, cmex10, c
 - Системы Linux (Ubuntu-16.04 или новее)
 - Microsoft Visual Studio 2015 или более поздней версии
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

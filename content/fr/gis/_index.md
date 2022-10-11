@@ -85,7 +85,7 @@ Il vous permet de lire et d'écrire des données SIG, [convert GIS file formats]
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

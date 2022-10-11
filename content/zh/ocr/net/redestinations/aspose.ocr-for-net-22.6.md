@@ -16,7 +16,7 @@ parent_path: "ocr/net/resources"
 section_parent_path: "ocr/net"
 
 tags: ""
-release_notes_url：“https://docs.aspose.com/ocr/net/release-notes/latest/”
+release_notes_url: "https://docs.aspose.com/ocr/net/release-notes/latest/"
 weight: 282
 
 ---

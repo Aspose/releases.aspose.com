@@ -3,9 +3,7 @@ title: "Скачать файлы PSD и PSB Ceation .NET DLL | Aspose.PSD API"
 description: "Загрузите DLL, содержащую библиотеку классов C#, для чтения, записи, редактирования и преобразования векторной графики Adobe Photoshop® (PSD, PSB) и Adobe Illustrator® (AI) через .NET API."
 keywords: "PSD .NET Library"
 family_listing_page_title: "Aspose.PSD для .NET"
-family_listing_page_description: "Aspose.PSD for .NET provides extensive manipulation capabilities for PSD & PSB file formats without requiring Adobe Photoshop.
-
-Aspose.PSD для .NET позволяет создавать и редактировать файлы Photoshop, а также предоставляет возможность обновлять свойства слоя, добавлять водяные знаки, выполнять графические операции или преобразовывать один формат файла в другой».
+family_listing_page_description: "Aspose.PSD for .NET provides extensive manipulation capabilities for PSD & PSB file formats without requiring Adobe Photoshop.Aspose.PSD для .NET позволяет создавать и редактировать файлы Photoshop, а также предоставляет возможность обновлять свойства слоя, добавлять водяные знаки, выполнять графические операции или преобразовывать один формат файла в другой»"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-net.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -77,7 +75,7 @@ Aspose.PSD для .NET API позволяет создавать и редакт
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -82,7 +82,7 @@ Veuillez consulter le [product overview](https://docs.aspose.com/slides/java/pro
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

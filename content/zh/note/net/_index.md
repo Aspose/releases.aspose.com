@@ -64,7 +64,7 @@ Aspose.Note for .NET 可用于打印 ONE 文档以及处理页面、图像、文
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

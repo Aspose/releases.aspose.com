@@ -85,7 +85,7 @@ Aspose.TeX pour C++ est une bibliothèque C++ native qui permet aux développeur
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

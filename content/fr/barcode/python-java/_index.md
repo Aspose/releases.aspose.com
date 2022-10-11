@@ -42,7 +42,7 @@ Vous pouvez facilement utiliser <b>aspose-barcode</b> pour Python à partir de
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

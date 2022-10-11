@@ -66,7 +66,7 @@ Aspose.Email for .NET 允许您使用 MIME 消息、约会、Microsoft Outlook®
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

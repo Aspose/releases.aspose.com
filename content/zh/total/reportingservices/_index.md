@@ -31,7 +31,7 @@ Aspose.Total for Reporting Services 包含以下组件：
 * Aspose.Slides for Reporting Services：在 Microsoft SQL Server Reporting Services 中轻松生成 PPT 和 PPS 格式的报告。
 * Aspose.Words for Reporting Services：从 MS SQL Server Reporting Services 中处理 RDL 和 RDLC 报告并将其导出为支持的文件格式。
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -73,7 +73,7 @@ Aspose.PUB for Java 是一个 Java API，可以读取、操作 Microsoft Publish
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -119,7 +119,7 @@ Pour une liste plus complète des fonctionnalités, veuillez visiter [Feature Ov
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -56,7 +56,7 @@ Aspose.Words pour SharePoint améliore votre interactivité avec vos documents S
 - Microsoft SharePoint Server 2016
 - Serveurs `x32` et `x64` pris en charge.
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

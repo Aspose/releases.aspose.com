@@ -59,7 +59,7 @@ cmbsy10，cmbx10，cmbx5，cmbx6，cmbx7，cmbx8，cmbx9，cmcsc10，cmdunh10，
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

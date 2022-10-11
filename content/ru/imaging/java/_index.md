@@ -96,7 +96,7 @@ Aspose.Imaging работает как с версиями x86, так и с x64
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -44,7 +44,7 @@ Une bibliothèque PHP qui permet aux développeurs d'ajouter rapidement et facil
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

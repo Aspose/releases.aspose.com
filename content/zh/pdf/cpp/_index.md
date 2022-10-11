@@ -75,7 +75,7 @@ Aspose.PDF for C++ 在客户端和服务器端表现同样出色。它可以在�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

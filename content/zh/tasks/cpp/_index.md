@@ -74,7 +74,7 @@ This distribution package contains both the 32-bit as well as the 64-bit binarie
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

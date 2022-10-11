@@ -125,7 +125,7 @@ Aspose.Cells for Reporting Services легко добавляет множест
 - .NET Framework 3.5
 - .NET Framework 4.x
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

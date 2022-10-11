@@ -80,7 +80,7 @@ Aztec, Compact PDF 417, Data Matrix, DotCode, GS1 Data Matrix, GS1 QR, MaxiCode,
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -91,7 +91,7 @@ Aspose.PDF для .NET доступен по цене и предлагает н
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -27,7 +27,7 @@ weight:  5
         {{< Common/wrapper class="productbox" >}}
             {{< Common/wrapper class="col-sm-1" >}}
                 {{< Common/image class="product-icon" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-reporting-services-min.png"  >}}
-            {{< /Common/обертка >}}
+            {{< /Common/wrapper >}}
             {{< Common/wrapper class="col-sm-11" >}}
                 <h3 class="product-title">Aspose.Slides для служб отчетов</h3>
                 {{< Common/paragraph>}}
@@ -90,10 +90,10 @@ weight:  5
 {{< Common/link href="https://purchase.aspose.com/pricing/slides/reporting-services" text="Информация о ценах"  >}}страница. {{< /Common/li >}}
                      {{< /Common/ul>}}
                 {{< Common/paragraph>}}{{< /Common/paragraph>}}
-            {{< /Common/обертка >}}
-        {{< /Common/обертка >}}
-    {{< /Common/обертка >}}
-{{< /Common/обертка >}}
+            {{< /Common/wrapper >}}
+        {{< /Common/wrapper >}}
+    {{< /Common/wrapper >}}
+{{< /Common/wrapper >}}
 
 <!-- /ProductPageContent-->
 

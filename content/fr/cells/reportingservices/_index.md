@@ -125,7 +125,7 @@ Aspose.Cells for Reporting Services (y compris le client Aspose.Cells.ReportingS
 -.NET Framework 3.5
 -.NET Framework 4.x
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

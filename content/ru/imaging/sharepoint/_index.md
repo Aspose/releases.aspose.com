@@ -100,7 +100,7 @@ Aspose.Imaging for SharePoint позволяет вам получать дос�
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

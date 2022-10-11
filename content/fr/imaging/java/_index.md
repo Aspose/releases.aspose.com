@@ -96,7 +96,7 @@ Aspose.Imaging fonctionne pour les versions x86 et x64 des systèmes d'exploitat
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

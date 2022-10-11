@@ -41,7 +41,7 @@ Aspose.BarCode for Node.js via Java 是通过使用 nodejs-java 桥实现的。�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

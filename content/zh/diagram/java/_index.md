@@ -87,7 +87,7 @@ Aspose.Diagram for Java 还可用于通过锁定背景、模板（母版）以�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -82,7 +82,7 @@ Aspose.PSD for Java 是一个易于使用的 Adobe Photoshop® 文件格式操�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

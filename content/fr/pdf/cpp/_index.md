@@ -75,7 +75,7 @@ Aspose.PDF pour C++ fonctionne aussi bien côté client que côté serveur. Il p
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

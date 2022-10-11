@@ -56,7 +56,7 @@ Vous pouvez utiliser Aspose.PUB pour C++ pour créer tout type d'applications C+
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -75,7 +75,7 @@ Aspose.Diagram for .NET API поддерживает все объекты и с
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

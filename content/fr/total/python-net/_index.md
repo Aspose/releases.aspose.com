@@ -122,7 +122,7 @@ Aspose.3D pour Python via .NET est une API de manipulation Python 3D à code él
 - Manipuler les fichiers de stockage des messages
 - beaucoup beaucoup plus.
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

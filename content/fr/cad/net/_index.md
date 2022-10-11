@@ -78,7 +78,7 @@ Il permet à vos applications C#, VB.NET, ASP.NET de travailler avec des tracés
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -16,7 +16,7 @@ parent_path: "imaging/net"
 section_parent_path: "imaging/net"
 
 tags: ""
-release_notes_url：“https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-7-release-notes/”
+release_notes_url: "https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-7-release-notes/"
 weight: 1
 
 ---

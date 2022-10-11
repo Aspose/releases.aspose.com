@@ -66,7 +66,7 @@ Aspose.Font for C++ 是一个原生库。它支持“32 位”和“64 位”操
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

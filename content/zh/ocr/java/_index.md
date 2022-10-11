@@ -99,7 +99,7 @@ Aspose.OCR for Java 是一个字符和光学标记识别 API，允许开发人�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -77,7 +77,7 @@ L'API Aspose.PSD pour .NET vous permet de créer et de modifier les fichiers Pho
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

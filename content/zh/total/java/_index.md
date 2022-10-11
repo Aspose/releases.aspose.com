@@ -134,7 +134,7 @@ XPS 和 PostScript 文档处理 API，支持 XPS、PS 和 EPS 格式的创建、
 
 排版 TeX 文件的 API。支持多种输出格式，如 XPS、PDF、PNG、JPEG、TIFF、BMP。
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

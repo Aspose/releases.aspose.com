@@ -42,8 +42,8 @@ aspose/slides est disponible sur Packagist en tant que
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Notes de version"  >}}
 {{< Common/release-notes-link family="slides" product="php-java" href="https://docs.aspose.com/slides/php-java/release-notes/" text="https://docs.aspose.com/slides/php-java/release-notes/"  >}}
-{{< /Commun/emballage>}}
-{{< /Commun/emballage>}}
+{{< /Common/wrapper >}}
+{{< /Common/wrapper >}}
 
 <!-- /ProductPageContent-->
 

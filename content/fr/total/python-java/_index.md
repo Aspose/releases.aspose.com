@@ -80,7 +80,7 @@ Aspose.Diagram pour Python via Java est une bibliothèque de classes qui permet 
 - Prise en charge des symbologies de codes-barres populaires
 - beaucoup beaucoup plus.
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

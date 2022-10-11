@@ -45,7 +45,7 @@ Aspose.PDF для JasperReports помогает экспортировать о
 - JasperReports® 6.7.0 или выше.
 - JasperServer® 6.7.0 или выше.
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

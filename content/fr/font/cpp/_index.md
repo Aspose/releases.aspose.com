@@ -66,7 +66,7 @@ Aspose.Font pour C++ est une bibliothèque native. Il prend en charge les systè
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

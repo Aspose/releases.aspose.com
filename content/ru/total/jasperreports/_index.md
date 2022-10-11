@@ -49,7 +49,7 @@ Aspose.Total for Reporting Services содержит следующие комп
 
 Экспорт отчетов из JasperReports® и JasperServer в поддерживаемые форматы Microsoft Word®.
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

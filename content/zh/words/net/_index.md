@@ -81,7 +81,7 @@ Aspose.Words for .NET 是一个类库，可供 C#、F#、VB.NET 开发人员用�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

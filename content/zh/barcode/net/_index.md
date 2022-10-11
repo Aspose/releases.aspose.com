@@ -103,7 +103,7 @@ Aspose.BarCode for .NET 完全用 C# 编写，只包含一个没有任何依赖�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

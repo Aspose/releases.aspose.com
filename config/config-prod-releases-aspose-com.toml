@@ -26,6 +26,27 @@ defaultContentLang = 'en'
       flag = "flag-de"
       weight = 2
       menuCode = "aspose-de"
+    [languages.fr]
+      contentDir = 'content/fr'
+      languageName = "Français"
+      languageCode = "fr"
+      flag = "flag-fr"
+      weight = 3
+      menuCode = "aspose-fr"
+    [languages.ru]
+      contentDir = 'content/ru'
+      languageName = "Русский"
+      languageCode = "ru"
+      flag = "flag-ru"
+      weight = 4
+      menuCode = "aspose-ru"
+    [languages.zh]
+      contentDir = 'content/zh'
+      languageName = "简体中文"
+      languageCode = "zh"
+      flag = "flag-zh"
+      weight = 5
+      menuCode = "aspose-zh"
 ################################# Localization #########################
 
 [params]

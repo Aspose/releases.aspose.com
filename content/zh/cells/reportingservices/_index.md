@@ -125,7 +125,7 @@ Aspose.Cells for Reporting Services 在 Microsoft SQL Server® Reporting Service
 - .NET 框架 3.5
 - .NET 框架 4.x
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

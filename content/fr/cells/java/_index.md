@@ -118,7 +118,7 @@ Aspose.Cells for Java est une API de traitement de feuille de calcul Excel® pri
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

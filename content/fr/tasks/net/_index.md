@@ -70,7 +70,7 @@ L'API sur site Aspose.Tasks pour .NET vous permet de travailler avec des projets
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

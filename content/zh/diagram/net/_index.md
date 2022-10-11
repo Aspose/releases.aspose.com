@@ -75,7 +75,7 @@ Aspose.Diagram for .NET API 支持所有 Visio® 对象和属性，包括形状�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

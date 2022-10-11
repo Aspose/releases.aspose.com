@@ -25,11 +25,11 @@ weight:  3
 
 {{< Common/h4 class=" " text="试用免费的在线 CAD 绘图操作应用程序" >}}
 {{< Common/ul>}}
-{{< 普通/里 >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cad/viewer" text="用于查看 CAD 和 BIM 图纸的免费 CAD 查看器在线应用程序"  >}}{{< /Common/li >}}
-{{< 普通/里 >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cad/conversion" text="免费的 CAD 转换器在线应用程序可将 BIM 和 CAD 转换为各种支持的格式。"  >}}{{< /Common/li >}}
-{{< 普通/里 >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cad/text-extractor" text="免费文本提取器在线应用程序从 BIM 或 CAD 图纸中提取文本"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
@@ -91,7 +91,7 @@ weight:  3
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

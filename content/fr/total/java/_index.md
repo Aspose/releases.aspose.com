@@ -134,7 +134,7 @@ API de chargement et de rendu des polices avec prise en charge de TrueType, CFF,
 
 API pour composer des fichiers TeX. Prend en charge plusieurs formats de sortie tels que XPS, PDF, PNG, JPEG, TIFF, BMP.
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

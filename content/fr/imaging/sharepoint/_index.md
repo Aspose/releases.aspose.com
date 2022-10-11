@@ -20,11 +20,11 @@ Aspose.Imaging for SharePoint vous permet d'accéder, de modifier et de converti
 
 {{< Common/h4 class=" " text="Essayez des applications de traitement d'images en ligne gratuites" >}}
 {{< Common/ul>}}
-{{< Commun/li >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/imaging/conversion" text="Application en ligne gratuite de conversion d'images pour convertir les formats d'image"  >}}{{< /Common/li >}}
-{{< Commun/li >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/imaging/image-search" text="Application en ligne gratuite de recherche d'images inversées pour trouver des images similaires"  >}}{{< /Common/li >}}
-{{< Commun/li >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/imaging/object-detection" text="Application en ligne gratuite de détection d'objets pour identifier les objets dans les images"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
@@ -100,7 +100,7 @@ Aspose.Imaging for SharePoint vous permet d'accéder, de modifier et de converti
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

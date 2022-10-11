@@ -58,7 +58,7 @@ Aspose.Cells for JasperReports помогает экспортировать о�
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

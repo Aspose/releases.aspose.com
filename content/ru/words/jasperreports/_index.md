@@ -51,7 +51,7 @@ Aspose.Words for JasperReports помогает экспортировать о�
 - JasperServers 5.6.1 или выше (если вы хотите использовать Aspose.Words для JasperReports с JasperServer)
 - Сервер JasperReports 7.1.0
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

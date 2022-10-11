@@ -32,7 +32,7 @@ Aspose.Total for SharePoint 包含以下组件：
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

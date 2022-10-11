@@ -74,7 +74,7 @@ Aspose.Email for C++ 使您的 C++ 应用程序能够处理各种 Outlook® 对�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -89,7 +89,7 @@ Aspose.Words for Reporting Services vous aide à manipuler et à exporter des ra
 - Contrôles Microsoft.ReportingServices.ReportViewerControl.Winforms, Microsoft.ReportingServices.ReportViewerControl.WebForms des versions 140.XX et 150.XX
 - Concepteur de rapports Microsoft Visual Studio 2005/ 2008/ 2010/ 2012/ 2013/ 2015
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

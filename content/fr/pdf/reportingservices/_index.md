@@ -91,7 +91,7 @@ Aspose.PDF for Reporting Services est une extension de rendu de rapport qui s'in
 - Aspose.PDF pour Reporting Services2000/2005 nécessite .NET Framework 2.0
 - Aspose.PDF pour Reporting Services2008 nécessite .NET Framework 3.5
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -82,7 +82,7 @@ Aspose.GIS for .NET API 可帮助开发人员渲染地图、读取、写入和�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

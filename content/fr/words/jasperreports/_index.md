@@ -51,7 +51,7 @@ Aspose.Words for JasperReports vous aide à exporter des rapports de JasperRepor
 - JasperServers 5.6.1 ou supérieur (si vous souhaitez utiliser Aspose.Words pour JasperReports avec JasperServer)
 - Serveur de rapports Jasper 7.1.0
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

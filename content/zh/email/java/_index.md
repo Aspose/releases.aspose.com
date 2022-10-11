@@ -82,7 +82,7 @@ Aspose 在 [Aspose Repository](https://repository.aspose.com/webapp/#/artifacts/
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

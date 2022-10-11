@@ -35,7 +35,7 @@ weight: 2
       {{< Common/li >}} Taille du fichier : {{< /Common/li >}}
       {{< Common/li id="size-update-31edaf58858f0200bad512f70a9c41d5-5-7799" >}} 22.32MB {{< /Common/li >}}
 
-      {{< Commun/li >}} Date d'ajout : {{< /Common/li >}}
+      {{< Common/li >}} Date d'ajout : {{< /Common/li >}}
       {{< Common/li id="added-update-31edaf58858f0200bad512f70a9c41d5-5-7799" >}}25/8/2022 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 

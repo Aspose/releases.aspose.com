@@ -76,7 +76,7 @@ Aspose.Imaging for .NET предлагает надежное сжатие из�
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

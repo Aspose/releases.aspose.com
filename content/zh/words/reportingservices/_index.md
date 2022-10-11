@@ -89,7 +89,7 @@ Aspose.Words for Reporting Services 可帮助您从 MS SQL Server Reporting Serv
 - 140.XX 和 150.XX 版本的 Microsoft.ReportingServices.ReportViewerControl.Winforms、Microsoft.ReportingServices.ReportViewerControl.WebForms 控件
 - Microsoft Visual Studio 2005/ 2008/ 2010/ 2012/ 2013/ 2015 报表设计器
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

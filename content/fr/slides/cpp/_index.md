@@ -59,7 +59,7 @@ Cette bibliothèque de classes C++ autonome vous aide à créer, lire, écrire, 
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

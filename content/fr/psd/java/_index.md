@@ -82,7 +82,7 @@ Aspose.PSD pour Java est une API de manipulation de format de fichier Adobe Phot
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

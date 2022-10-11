@@ -62,7 +62,7 @@ La bibliothèque de classes Aspose.ZIP pour .NET permet à vos applications .NET
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

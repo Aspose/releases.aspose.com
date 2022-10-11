@@ -136,7 +136,7 @@ Aspose.Font for .NET 帮助您将字体加载和绘图功能整合到您的 .NET
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

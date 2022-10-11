@@ -56,7 +56,7 @@ Aspose.OCR for .NET 不仅提供光学字符识别引擎，而且还提供更多
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

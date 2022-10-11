@@ -56,7 +56,7 @@ Aspose.OCR pour .NET fournit non seulement le moteur de reconnaissance optique d
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

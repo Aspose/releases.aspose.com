@@ -37,7 +37,7 @@ Vous pouvez facilement utiliser <b>aspose-words</b> pour Python à partir de
 - Générez des rapports avec Mail Merge qui permet de remplir des documents avec des données provenant de diverses sources.
 - Moteur de génération de rapports LINQ pour récupérer des données à partir de bases de données, XML, JSON, OData, documents externes, etc.
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

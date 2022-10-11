@@ -84,7 +84,7 @@ Aspose.Page for Java 提供创建和操作 XPS 文档。它还提供将 XPS、PS
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

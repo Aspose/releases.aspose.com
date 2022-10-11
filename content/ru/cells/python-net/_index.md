@@ -79,7 +79,7 @@ Aspose.Cells for Python через .NET — это масштабируемый 
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -66,7 +66,7 @@ Aspose.Font для C++ — это нативная библиотека. Он п
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

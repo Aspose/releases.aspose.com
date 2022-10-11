@@ -44,8 +44,8 @@ weight:  8
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Примечания к выпуску"  >}}
 {{< Common/release-notes-link family="slides" product="python-net" href="" text=""  >}}
-{{< /Common/обертка >}}
-{{< /Common/обертка >}}
+{{< /Common/wrapper >}}
+{{< /Common/wrapper >}}
 
 <!-- /ProductPageContent-->
 

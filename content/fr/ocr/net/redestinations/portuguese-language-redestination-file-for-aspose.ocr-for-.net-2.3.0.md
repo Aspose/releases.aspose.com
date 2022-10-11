@@ -33,7 +33,7 @@ weight: 16
       {{< Common/li class="hide" id="author-update-b3ab7c506a9342d38061261ec602cf80" >}} evgeniy.koryagin {{< /Common/li >}}
       {{< Common/li class="hide" >}} Vues : {{< /Common/li >}}
       {{< Common/li class="hide" id="view-update-b3ab7c506a9342d38061261ec602cf80" >}} 498 {{< /Common/li >}}
-      {{< Commun/li >}} Date d'ajout : {{< /Common/li >}}
+      {{< Common/li >}} Date d'ajout : {{< /Common/li >}}
       {{< Common/li id="added-update-b3ab7c506a9342d38061261ec602cf80" >}} 2/25/2015 {{< /Common/li >}} 
 
     {{< /Releases/ReleasesDetailsUl >}}

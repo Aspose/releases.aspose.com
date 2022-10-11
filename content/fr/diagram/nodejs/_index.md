@@ -40,7 +40,7 @@ Vous pouvez facilement utiliser <b>aspose.diagram</b> pour Javascript à partir 
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

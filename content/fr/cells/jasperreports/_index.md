@@ -21,11 +21,11 @@ Aspose.Cells for JasperReports vous aide à exporter les rapports de JasperRepor
 
 {{< Common/h4 class=" " text="Essayez gratuitement les applications de traitement Excel® en ligne" >}}
 {{< Common/ul>}}
-{{< Commun/li >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/editor" text="Application en ligne Excel® Editor gratuite pour modifier les feuilles de calcul Excel® et OpenOffice"  >}}{{< /Common/li >}}
-{{< Commun/li >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/conversion" text="Application en ligne gratuite Excel® Converter pour convertir des feuilles de calcul dans divers formats pris en charge."  >}}{{< /Common/li >}}
-{{< Commun/li >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/parser" text="Application en ligne gratuite d'analyse de feuille de calcul pour analyser le texte et les images des formats XLS, ODS et NUMBERS"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
@@ -58,7 +58,7 @@ Aspose.Cells for JasperReports vous aide à exporter les rapports de JasperRepor
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

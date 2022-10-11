@@ -59,8 +59,8 @@ Vous pouvez facilement utiliser Aspose.Slides pour Java directement à partir d'
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Notes de version"  >}}
 {{< Common/release-notes-link family="slides" product="androidjava" href="https://docs.aspose.com/slides/androidjava/release-notes/" text="https://docs.aspose.com/slides/androidjava/release-notes/"  >}}
-{{< /Commun/emballage>}}
-{{< /Commun/emballage>}}
+{{< /Common/wrapper >}}
+{{< /Common/wrapper >}}
 
 <!-- /ProductPageContent-->
 

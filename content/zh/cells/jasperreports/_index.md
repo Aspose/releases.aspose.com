@@ -21,11 +21,11 @@ Aspose.Cells for JasperReports 帮助您将报告从 JasperReports® 和 JasperS
 
 {{< Common/h4 class=" " text="试用免费的在线 Excel® 处理应用程序" >}}
 {{< Common/ul>}}
-{{< 普通/里 >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/editor" text="用于修改 Excel® 和 OpenOffice 电子表格的免费 Excel® 编辑器在线应用程序"  >}}{{< /Common/li >}}
-{{< 普通/里 >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/conversion" text="免费的 Excel® Converter Online 应用程序可将电子表格转换为各种支持的格式。"  >}}{{< /Common/li >}}
-{{< 普通/里 >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/parser" text="免费的电子表格解析在线应用程序可解析 XLS、ODS 和 NUMBERS 格式的文本和图像"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
@@ -58,7 +58,7 @@ Aspose.Cells for JasperReports 帮助您将报告从 JasperReports® 和 JasperS
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

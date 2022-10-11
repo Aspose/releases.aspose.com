@@ -82,7 +82,7 @@ Son modèle d'objet riche se compose de plus de 100 classes publiques qui permet
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

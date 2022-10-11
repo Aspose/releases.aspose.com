@@ -49,7 +49,7 @@ Exportez les rapports de JasperReports® et JasperServer vers les formats Micros
 
 Exportez les rapports de JasperReports® & JasperServer vers les formats pris en charge par Microsoft Word®.
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

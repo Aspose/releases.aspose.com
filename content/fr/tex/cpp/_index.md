@@ -63,7 +63,7 @@ cmbsy10, cmbx10, cmbx5, cmbx6, cmbx7, cmbx8, cmbx9, cmcsc10, cmdunh10, cmex10, c
 - Systèmes Linux (Ubuntu-16.04 ou version ultérieure)
 -Microsoft Visual Studio 2015 ou version ultérieure
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

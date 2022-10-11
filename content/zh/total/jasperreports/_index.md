@@ -49,7 +49,7 @@ Aspose.Total for Reporting Services 包含以下组件：
 
 将报告从 JasperReports® 和 JasperServer 导出为 Microsoft Word® 支持的格式。
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -91,7 +91,7 @@ XLSX, HTML, TXT, PDF, XER, PrimaveraP6XML\
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

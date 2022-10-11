@@ -99,7 +99,7 @@ Aspose.OCR pour Java est une API de reconnaissance de caractères et de marques 
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

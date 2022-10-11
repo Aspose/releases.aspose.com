@@ -64,7 +64,7 @@ Aspose.OCR for C++ 的评估版将从图像中提取的字符数限制为 300 �
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

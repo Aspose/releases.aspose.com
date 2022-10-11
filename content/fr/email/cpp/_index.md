@@ -74,7 +74,7 @@ Aspose.Email pour C++ permet à vos applications C++ de fonctionner avec divers 
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

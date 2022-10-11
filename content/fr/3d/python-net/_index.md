@@ -136,7 +136,7 @@ Votre machine n'a pas besoin d'avoir un logiciel de modélisation et de rendu in
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

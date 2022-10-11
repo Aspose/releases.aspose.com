@@ -73,7 +73,7 @@ Aspose.PUB pour Java est une API Java qui peut lire, manipuler et convertir des 
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

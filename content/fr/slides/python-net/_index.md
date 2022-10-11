@@ -44,8 +44,8 @@ Vous pouvez facilement utiliser <b>aspose.slides</b> pour Python à partir de
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Notes de version"  >}}
 {{< Common/release-notes-link family="slides" product="python-net" href="" text=""  >}}
-{{< /Commun/emballage>}}
-{{< /Commun/emballage>}}
+{{< /Common/wrapper >}}
+{{< /Common/wrapper >}}
 
 <!-- /ProductPageContent-->
 

@@ -82,7 +82,7 @@ Aspose héberge toutes les API Java sur [Aspose Repository](https://repository.a
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

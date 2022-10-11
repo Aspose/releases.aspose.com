@@ -51,7 +51,7 @@ Aspose.Words for JasperReports 可帮助您将报告从 JasperReports® 和 Jasp
 - JasperServers 5.6.1 或更高版本（如果您想使用 Aspose.Words for JasperReports 和 JasperServer）
 - JasperReports 服务器 7.1.0
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

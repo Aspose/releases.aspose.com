@@ -87,7 +87,7 @@ Aspose.Diagram pour Java peut également être utilisé pour appliquer une prote
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

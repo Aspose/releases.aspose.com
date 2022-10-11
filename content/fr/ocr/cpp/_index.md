@@ -64,7 +64,7 @@ La version d'évaluation d'Aspose.OCR pour C++ limite le nombre de caractères e
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

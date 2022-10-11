@@ -63,7 +63,7 @@ cmbsy10，cmbx10，cmbx5，cmbx6，cmbx7，cmbx8，cmbx9，cmcsc10，cmdunh10，
 - Linux 系统（Ubuntu-16.04 或更高版本）
 - Microsoft Visual Studio 2015 或更高版本
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

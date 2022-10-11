@@ -83,7 +83,7 @@ Aspose.Words pour C++ est une puissante API sur site qui peut être utilisée po
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -59,7 +59,7 @@ Aspose.Imaging for JasperReports 可帮助您将报告从 JasperReports® 导出
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

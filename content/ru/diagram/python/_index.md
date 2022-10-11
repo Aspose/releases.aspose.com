@@ -3,12 +3,7 @@ title: "Aspose — Загрузки"
 description: "Он содержит файлы для диаграммы"
 keywords: "diagram "
 family_listing_page_title: "Aspose.Diagram для Python через Java"
-family_listing_page_description: "Aspose.Diagram for Python via Java is a scalable and feature-rich API to
-обрабатывать файлы visio с помощью Python. API предлагает создание файлов Visio,
-манипулирование, преобразование и рендеринг. Разработчики могут форматировать страницы
-самый детальный уровень, создавайте и манипулируйте фигурами, визуализируйте страницы, фигуры
-в PDF и изображения и многое другое - все это без какой-либо зависимости от Microsoft
-Приложение Office или Visio».
+family_listing_page_description: "Aspose.Diagram for Python via Java is a scalable and feature-rich API to обрабатывать файлы visio с помощью Python. API предлагает создание файлов Visio, манипулирование, преобразование и рендеринг. Разработчики могут форматировать страницы самый детальный уровень, создавайте и манипулируйте фигурами, визуализируйте страницы, фигуры в PDF и изображения и многое другое - все это без какой-либо зависимости от Microsoft Приложение Office или Visio"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-python.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -43,7 +38,7 @@ weight:  4
 - Экспорт диаграмм Visio® в различные популярные форматы, включая PDF, изображения, HTML и другие.
 - Доступ к элементам и свойствам диаграммы для управления или просто проверки.
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

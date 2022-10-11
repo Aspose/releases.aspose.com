@@ -59,7 +59,7 @@ Aspose.Imaging for JasperReports vous aide à exporter des rapports de JasperRep
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

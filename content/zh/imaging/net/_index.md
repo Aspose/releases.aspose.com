@@ -76,7 +76,7 @@ Aspose.Imaging for .NET 通过本机字节访问和一系列高效算法提供�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

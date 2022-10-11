@@ -3,9 +3,7 @@ title: "下载 PSD 和 PSB 文件 Ceation .NET DLL | Aspose.PSD API"
 description: "下载包含 C# 类库的 DLL，以通过 .NET API 读取、写入、编辑和转换 Adobe Photoshop®（PSD、PSB）和 Adobe Illustrator®（AI）矢量图形。"
 keywords: "PSD .NET Library"
 family_listing_page_title: "Aspose.PSD for .NET"
-family_listing_page_description: "Aspose.PSD for .NET provides extensive manipulation capabilities for PSD & PSB file formats without requiring Adobe Photoshop.
-
-Aspose.PSD for .NET 允许创建和编辑 Photoshop 文件，并提供更新图层属性、添加水印、执行图形操作或将一种文件格式转换为另一种文件格式的能力。”
+family_listing_page_description: "Aspose.PSD for .NET provides extensive manipulation capabilities for PSD & PSB file formats without requiring Adobe Photoshop.Aspose.PSD for .NET 允许创建和编辑 Photoshop 文件，并提供更新图层属性、添加水印、执行图形操作或将一种文件格式转换为另一种文件格式的能力。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-net.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -77,7 +75,7 @@ Aspose.PSD for .NET API 允许您创建和编辑 Photoshop® 文件，并提供�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

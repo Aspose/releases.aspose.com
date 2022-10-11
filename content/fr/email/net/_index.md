@@ -66,7 +66,7 @@ Aspose.Email pour .NET vous permet de travailler avec des messages MIME, des ren
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

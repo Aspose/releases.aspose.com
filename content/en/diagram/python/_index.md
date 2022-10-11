@@ -3,12 +3,7 @@ title: " Aspose - Downloads"
 description: "It contains files for diagram "
 keywords: "diagram "
 family_listing_page_title: "Aspose.Diagram for Python via Java"
-family_listing_page_description: "Aspose.Diagram for Python via Java is a scalable and feature-rich API to
-process visio files using Python. API offers Visio file creation,
-manipulation, conversion, & rendering. Developers can format pages to
-the most granular level, create & manipulate shape, render pages, shapes
-to PDF & images, and much more - all without any dependency on Microsoft
-Office or Visio application."
+family_listing_page_description: "Aspose.Diagram for Python via Java is a scalable and feature-rich API to process visio files using Python. API offers Visio file creation,manipulation, conversion, & rendering. Developers can format pages to the most granular level, create & manipulate shape, render pages, shapes to PDF & images, and much more - all without any dependency on Microsoft Office or Visio application."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-python.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"

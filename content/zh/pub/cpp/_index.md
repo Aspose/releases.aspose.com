@@ -56,7 +56,7 @@ Aspose.PUB for C++ 是一个简单的 API，允许您在 C++ 应用程序中以�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

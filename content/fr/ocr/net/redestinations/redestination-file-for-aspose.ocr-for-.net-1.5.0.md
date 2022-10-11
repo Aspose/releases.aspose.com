@@ -33,7 +33,7 @@ weight: 8
       {{< Common/li class="hide" id="author-update-2cba70794cb84eb6b9ec5943e9b96f5a" >}} tilal.ahmad {{< /Common/li >}}
       {{< Common/li class="hide" >}} Vues : {{< /Common/li >}}
       {{< Common/li class="hide" id="view-update-2cba70794cb84eb6b9ec5943e9b96f5a" >}} 590 {{< /Common/li >}}
-      {{< Commun/li >}} Date d'ajout : {{< /Common/li >}}
+      {{< Common/li >}} Date d'ajout : {{< /Common/li >}}
       {{< Common/li id="added-update-2cba70794cb84eb6b9ec5943e9b96f5a" >}} 4/3/2013 {{< /Common/li >}} 
 
     {{< /Releases/ReleasesDetailsUl >}}

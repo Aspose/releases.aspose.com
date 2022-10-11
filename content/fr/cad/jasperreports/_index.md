@@ -25,11 +25,11 @@ Vous pouvez facilement utiliser aspose-cad-jasperreports pour Java directement Ã
 
 {{< Common/h4 class=" " text="Essayez gratuitement des applications de manipulation de dessin CAO en ligne" >}}
 {{< Common/ul>}}
-{{< Commun/li >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cad/viewer" text="Application en ligne CAD Viewer gratuite pour visualiser les dessins CAO et BIM"  >}}{{< /Common/li >}}
-{{< Commun/li >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cad/conversion" text="Application gratuite en ligne CAD Converter pour convertir BIM et CAD en divers formats pris en charge."  >}}{{< /Common/li >}}
-{{< Commun/li >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cad/text-extractor" text="Application en ligne Free Text Extractor pour extraire le texte des dessins BIM ou CAO"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
@@ -91,7 +91,7 @@ Vous pouvez facilement utiliser aspose-cad-jasperreports pour Java directement Ã
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

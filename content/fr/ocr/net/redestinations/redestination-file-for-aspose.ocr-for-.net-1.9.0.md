@@ -33,7 +33,7 @@ weight: 12
       {{< Common/li class="hide" id="author-update-b177162f81734747a650c8a1e671ff1c" >}} vitaly.krivenko {{< /Common/li >}}
       {{< Common/li class="hide" >}} Vues : {{< /Common/li >}}
       {{< Common/li class="hide" id="view-update-b177162f81734747a650c8a1e671ff1c" >}} 801 {{< /Common/li >}}
-      {{< Commun/li >}} Date d'ajout : {{< /Common/li >}}
+      {{< Common/li >}} Date d'ajout : {{< /Common/li >}}
       {{< Common/li id="added-update-b177162f81734747a650c8a1e671ff1c" >}} 4/3/2014 {{< /Common/li >}} 
 
     {{< /Releases/ReleasesDetailsUl >}}

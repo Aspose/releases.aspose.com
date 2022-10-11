@@ -33,7 +33,7 @@ weight: 13
       {{< Common/li class="hide" id="author-update-3d5c658df4bf413aa8cd1fab779f8edf" >}} egor.kluban {{< /Common/li >}}
       {{< Common/li class="hide" >}} Vues : {{< /Common/li >}}
       {{< Common/li class="hide" id="view-update-3d5c658df4bf413aa8cd1fab779f8edf" >}} 1337 {{< /Common/li >}}
-      {{< Commun/li >}} Date d'ajout : {{< /Common/li >}}
+      {{< Common/li >}} Date d'ajout : {{< /Common/li >}}
       {{< Common/li id="added-update-3d5c658df4bf413aa8cd1fab779f8edf" >}} 6/23/2014 {{< /Common/li >}} 
 
     {{< /Releases/ReleasesDetailsUl >}}

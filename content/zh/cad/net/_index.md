@@ -78,7 +78,7 @@ Aspose.CAD for .NET 是一个无缝集成的跨平台库； AutoCAD 和其他 CA
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

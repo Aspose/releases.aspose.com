@@ -79,7 +79,7 @@ Aspose.Cells pour C++ vous permet de travailler avec les propriétés de documen
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -76,7 +76,7 @@ Aspose.Imaging pour .NET offre une compression d'image robuste et une vitesse de
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

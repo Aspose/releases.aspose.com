@@ -64,7 +64,7 @@ Votre machine n'a pas besoin d'avoir le logiciel Microsoft Visio® installé.
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

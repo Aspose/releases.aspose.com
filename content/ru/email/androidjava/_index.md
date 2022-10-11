@@ -68,7 +68,7 @@ Android API позволяет разработчикам программног
 
 > Aspose.Email для Android через Java не требует установки Microsoft Outlook®.
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

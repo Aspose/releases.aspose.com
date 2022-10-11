@@ -91,7 +91,7 @@ Aspose.PDF pour .NET est abordable et offre une richesse incroyable de fonctionn
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

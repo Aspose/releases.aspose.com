@@ -43,7 +43,7 @@ Aspose.Email pour Android via Java est une API de manipulation de messages Micro
 
 Aspose.Slides pour Android via Java est une API de gestion PowerPoint unique qui permet aux applications basées sur Android de lire, écrire et manipuler des présentations PowerPoint sans utiliser Microsoft PowerPoint. Il offre une prise en charge intégrée pour la création de graphiques MSO, de formes SmartArt et de contrôles ActiveX.
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

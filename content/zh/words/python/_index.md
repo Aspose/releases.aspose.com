@@ -37,7 +37,7 @@ Aspose.Words for Python 通过 .NET，Word 文档处理 API，允许开发人员
 - 使用邮件合并生成报告，允许使用来自各种来源的数据填充文档。
 - LINQ 报告引擎，用于从数据库、XML、JSON、OData、外部文档等中获取数据。
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

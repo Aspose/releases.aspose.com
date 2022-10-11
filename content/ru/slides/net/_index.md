@@ -61,7 +61,7 @@ Aspose.Slides для .NET — это кроссплатформенный API, �
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

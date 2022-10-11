@@ -84,7 +84,7 @@ Aspose.Page pour Java propose de créer et de manipuler des documents XPS. Il fo
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

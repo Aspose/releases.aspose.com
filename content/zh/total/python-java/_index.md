@@ -80,7 +80,7 @@ Aspose.Diagram for Python via Java 是一个类库，使您的应用程序无需
 - 支持流行的条码符号
 - 很多很多。
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

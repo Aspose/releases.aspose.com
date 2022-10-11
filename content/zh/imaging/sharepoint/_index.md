@@ -20,11 +20,11 @@ Aspose.Imaging for SharePoint 使您能够访问、编辑和转换您的 SharePo
 
 {{< Common/h4 class=" " text="试用免费的在线图像处理应用程序" >}}
 {{< Common/ul>}}
-{{< 普通/里 >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/imaging/conversion" text="免费图像转换在线应用程序转换图像格式"  >}}{{< /Common/li >}}
-{{< 普通/里 >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/imaging/image-search" text="免费反向图像搜索在线应用程序以查找相似图像"  >}}{{< /Common/li >}}
-{{< 普通/里 >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/imaging/object-detection" text="免费的对象检测在线应用程序可识别图像中的对象"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
@@ -100,7 +100,7 @@ Aspose.Imaging for SharePoint 使您能够访问、编辑和转换您的 SharePo
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

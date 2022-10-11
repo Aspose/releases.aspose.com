@@ -82,7 +82,7 @@ Aspose.Cells for .NET позволяет приложениям .NET, C#, ASP.NE
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

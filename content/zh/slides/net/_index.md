@@ -61,7 +61,7 @@ Aspose.Slides for .NET 是一个跨平台 API，可帮助开发能够创建、�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

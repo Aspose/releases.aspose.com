@@ -91,7 +91,7 @@ Aspose.PDF for Reporting Services 是一个与 Microsoft SQL Server® Reporting 
 - Aspose.PDF for Reporting Services2000/2005 需要 .NET Framework 2.0
 - Aspose.PDF for Reporting Services2008 需要 .NET Framework 3.5
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

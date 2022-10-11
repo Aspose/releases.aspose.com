@@ -98,7 +98,7 @@ Pour une liste plus complète des fonctionnalités, veuillez visiter la page [Fe
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

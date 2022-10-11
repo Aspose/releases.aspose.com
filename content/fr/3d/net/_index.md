@@ -81,7 +81,7 @@ Aspose.3D pour .NET peut être utilisé sur n'importe quel système d'exploitati
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -75,7 +75,7 @@ L'API Aspose.Diagram pour .NET prend en charge tous les objets et propriétés V
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

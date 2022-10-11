@@ -7,8 +7,7 @@ folder_link: " ocr/java/resources/resource-file-for-aspose.ocr-for-java-1.5.0/"
 folder_name: "Aspose.OCR for Java 1.5.0 的资源文件"
 download_link: " /ocr/java/resources/resource-file-for-aspose.ocr-for-java-1.5.0/769cf4a482aa4f94851a67bb48e8e9b6"
 download_text: " Download"
-Intro_text: " Aspose.OCR for Java uses a resource file to perform OCR operations 
-反对这...”
+Intro_text: " Aspose.OCR for Java uses a resource file to perform OCR operations 反对这..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/12/2013  Downloads: 999  Views: 1314"
 file_size: "  File Size: 289.8 MB "

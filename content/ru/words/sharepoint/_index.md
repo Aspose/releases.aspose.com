@@ -56,7 +56,7 @@ Aspose.Words for SharePoint повышает интерактивность ва
 - Microsoft SharePoint Server 2016
 - Поддерживаются серверы `x32` и `x64`.
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

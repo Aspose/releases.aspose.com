@@ -43,7 +43,7 @@ Aspose.Email для Android через Java — это API для обработ
 
 Aspose.Slides для Android через Java — это уникальный API для управления PowerPoint, который позволяет приложениям на базе Android читать, писать и управлять презентациями PowerPoint без использования Microsoft PowerPoint. Он предлагает встроенную поддержку для создания диаграмм MSO, фигур SmartArt и элементов управления ActiveX.
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

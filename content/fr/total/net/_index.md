@@ -136,7 +136,7 @@ Aspose.Font pour .NET vous aide à intégrer des fonctionnalités de chargement 
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

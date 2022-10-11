@@ -23,11 +23,11 @@ pour effectuer la conversion des e-mails, la synchronisation de la bibliothèque
 
 {{< Common/h4 class=" " text="Essayez des applications gratuites de manipulation d'e-mails en ligne" >}}
 {{< Common/ul>}}
-{{< Commun/li >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/email/conversion" text="Application en ligne gratuite de conversion d'e-mails pour convertir les formats d'e-mails"  >}}{{< /Common/li >}}
-{{< Commun/li >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/email/parser" text="Application en ligne gratuite d'analyse d'e-mails pour extraire des images et des fichiers d'e-mails"  >}}{{< /Common/li >}}
-{{< Commun/li >}}
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/email/metadata" text="Application gratuite de métadonnées d'e-mail pour afficher et modifier les métadonnées d'e-mail"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
@@ -82,7 +82,7 @@ Microsoft SharePoint Server 2010
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

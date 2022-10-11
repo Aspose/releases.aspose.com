@@ -81,7 +81,7 @@ Pour vous familiariser avec la fonctionnalité Aspose.Words la plus populaire, v
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -45,7 +45,7 @@ Aspose.PDF pour JasperReports vous aide à exporter des rapports de JasperReport
 - JasperReports® 6.7.0 ou supérieur.
 - JasperServer® 6.7.0 ou supérieur.
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

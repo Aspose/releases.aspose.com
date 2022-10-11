@@ -27,7 +27,7 @@ weight:  5
         {{< Common/wrapper class="productbox" >}}
             {{< Common/wrapper class="col-sm-1" >}}
                 {{< Common/image class="product-icon" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-reporting-services-min.png"  >}}
-            {{< /Commun/emballage>}}
+            {{< /Common/wrapper >}}
             {{< Common/wrapper class="col-sm-11" >}}
                 <h3 class="product-title">Aspose.Slides pour les services de rapport</h3>
                 {{< Common/paragraph>}}
@@ -45,44 +45,44 @@ weight:  5
                     {{< Common/h3 class=" " text="Formats d'entrée pris en charge"  >}}
                      {{< Common/ul>}} 
                            {{< Common/li >}} RPL (Mise en page du rapport) {{< /Common/li >}}
-                           {{< Commun/li >}} RDL (langage de définition de rapport) {{< /Common/li >}}
+                           {{< Common/li >}} RDL (langage de définition de rapport) {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Formats de sortie pris en charge"  >}}
                      {{< Common/ul>}} 
-                           {{< Commun/li >}} <strong>Microsoft PowerPoint :</strong> PPT, PPS, PPTX, PPSX {{< /Common/li >}}
+                           {{< Common/li >}} <strong>Microsoft PowerPoint :</strong> PPT, PPS, PPTX, PPSX {{< /Common/li >}}
                            {{< Common/li >}} <strong>Disposition fixe :</strong> XPS {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Éléments RDL pris en charge"  >}}
                      {{< Common/ul>}} 
                            {{< Common/li >}} Page, en-têtes, pieds de page {{< /Common/li >}}
                            {{< Common/li >}} Zones de texte {{< /Common/li >}}
-                           {{< Commun/li >}} Images {{< /Common/li >}}
+                           {{< Common/li >}} Images {{< /Common/li >}}
                            {{< Common/li >}} Sous-rapports {{< /Common/li >}}
-                           {{< Commun/li >}} Graphiques {{< /Common/li >}}
-                           {{< Commun/li >}} Listes {{< /Common/li >}}
-                           {{< Commun/li >}} Tableaux {{< /Common/li >}}
-                           {{< Commun/li >}} Matrices {{< /Common/li >}}
-                           {{< Commun/li >}} Styles {{< /Common/li >}}
-                           {{< Commun/li >}} Rectangles {{< /Common/li >}}
+                           {{< Common/li >}} Graphiques {{< /Common/li >}}
+                           {{< Common/li >}} Listes {{< /Common/li >}}
+                           {{< Common/li >}} Tableaux {{< /Common/li >}}
+                           {{< Common/li >}} Matrices {{< /Common/li >}}
+                           {{< Common/li >}} Styles {{< /Common/li >}}
+                           {{< Common/li >}} Rectangles {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Plates-formes prises en charge"  >}}
                      {{< Common/ul>}} 
-                           {{< Commun/li >}} Services de rapports Microsoft SQL Server 2005 (32 bits et 64 bits) {{< /Common/li >}}
-                           {{< Commun/li >}} Services de rapports Microsoft SQL Server 2008 (32 bits et 64 bits) {{< /Common/li >}}
-                           {{< Commun/li >}} .NET Framework 2.0 {{< /Common/li >}}
+                           {{< Common/li >}} Services de rapports Microsoft SQL Server 2005 (32 bits et 64 bits) {{< /Common/li >}}
+                           {{< Common/li >}} Services de rapports Microsoft SQL Server 2008 (32 bits et 64 bits) {{< /Common/li >}}
+                           {{< Common/li >}} .NET Framework 2.0 {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Versions Microsoft PowerPoint prises en charge"  >}}
                      {{< Common/ul>}} 
-                           {{< Commun/li >}} Microsoft PowerPoint 97 {{< /Common/li >}}
-                           {{< Commun/li >}} Microsoft PowerPoint 2000 {{< /Common/li >}}
-                           {{< Commun/li >}} Microsoft PowerPoint XP {{< /Common/li >}}
-                           {{< Commun/li >}} Microsoft PowerPoint 2003 {{< /Common/li >}}
-                           {{< Commun/li >}} Microsoft PowerPoint 2007 {{< /Common/li >}}
-                           {{< Commun/li >}} Microsoft PowerPoint 2010 {{< /Common/li >}}
-                           {{< Commun/li >}} Microsoft PowerPoint 2013 {{< /Common/li >}}
-                           {{< Commun/li >}} Microsoft PowerPoint 2016 {{< /Common/li >}}
-                           {{< Commun/li >}} Microsoft PowerPoint 2019 {{< /Common/li >}}
-                           {{< Commun/li >}} Microsoft PowerPoint pour MAC {{< /Common/li >}}
+                           {{< Common/li >}} Microsoft PowerPoint 97 {{< /Common/li >}}
+                           {{< Common/li >}} Microsoft PowerPoint 2000 {{< /Common/li >}}
+                           {{< Common/li >}} Microsoft PowerPoint XP {{< /Common/li >}}
+                           {{< Common/li >}} Microsoft PowerPoint 2003 {{< /Common/li >}}
+                           {{< Common/li >}} Microsoft PowerPoint 2007 {{< /Common/li >}}
+                           {{< Common/li >}} Microsoft PowerPoint 2010 {{< /Common/li >}}
+                           {{< Common/li >}} Microsoft PowerPoint 2013 {{< /Common/li >}}
+                           {{< Common/li >}} Microsoft PowerPoint 2016 {{< /Common/li >}}
+                           {{< Common/li >}} Microsoft PowerPoint 2019 {{< /Common/li >}}
+                           {{< Common/li >}} Microsoft PowerPoint pour MAC {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Tarification"  >}}
                      {{< Common/ul>}} 
@@ -90,10 +90,10 @@ weight:  5
 {{< Common/link href="https://purchase.aspose.com/pricing/slides/reporting-services" text="Information sur les prix"  >}}page. {{< /Common/li >}}
                      {{< /Common/ul>}}
                 {{< Common/paragraph>}}{{< /Common/paragraph>}}
-            {{< /Commun/emballage>}}
-        {{< /Commun/emballage>}}
-    {{< /Commun/emballage>}}
-{{< /Commun/emballage>}}
+            {{< /Common/wrapper >}}
+        {{< /Common/wrapper >}}
+    {{< /Common/wrapper >}}
+{{< /Common/wrapper >}}
 
 <!-- /ProductPageContent-->
 

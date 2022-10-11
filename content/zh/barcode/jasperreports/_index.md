@@ -80,7 +80,7 @@ Aspose.BarCode for JasperReports 使您能够以多种支持的图像格式呈�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

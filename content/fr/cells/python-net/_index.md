@@ -79,7 +79,7 @@ Votre machine n'a pas besoin d'avoir le logiciel Microsoft Excel® ou OpenOffice
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

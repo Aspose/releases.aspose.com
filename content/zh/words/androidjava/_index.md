@@ -57,7 +57,7 @@ Aspose.Words for Android via Java 为您的 Android 应用程序添加了 Word �
 - 以编程方式访问所有文档元素的格式属性。
 - 使用邮件合并生成报告，允许使用来自各种来源的数据填充文档。
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

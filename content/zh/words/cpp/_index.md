@@ -83,7 +83,7 @@ Aspose.Words for C++ 是一个强大的本地 API，可用于各种文档处理�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

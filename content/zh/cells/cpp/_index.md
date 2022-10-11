@@ -79,7 +79,7 @@ Aspose.Cells for C++ 允许您使用 Microsoft Excel 中的内置和自定义文
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -89,7 +89,7 @@ Aspose.Words for Reporting Services помогает вам манипулиро
 - Элементы управления Microsoft.ReportingServices.ReportViewerControl.Winforms, Microsoft.ReportingServices.ReportViewerControl.WebForms версий 140.XX и 150.XX
 - Microsoft Visual Studio 2005/2008/2010/2012/2013/2015 Дизайнер отчетов
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

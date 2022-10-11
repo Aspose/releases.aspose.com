@@ -97,7 +97,7 @@ L'API Aspose.HTML pour Java fonctionne comme un navigateur sans tête qui vous p
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

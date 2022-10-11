@@ -80,7 +80,7 @@ Aspose.BarCode for JasperReports vous permet de restituer des codes-barres liné
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

@@ -91,7 +91,7 @@ Aspose.PDF for Reporting Services — это расширение для под�
 - Aspose.PDF для Reporting Services2000/2005 требует .NET Framework 2.0.
 - Aspose.PDF для Reporting Services2008 требует .NET Framework 3.5.
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

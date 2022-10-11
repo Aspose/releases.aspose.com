@@ -68,7 +68,7 @@ Vous pouvez facilement utiliser Aspose.Email pour Java directement à partir d'u
 
 > Aspose.Email pour Android via Java ne nécessite pas l'installation de Microsoft Outlook®.
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

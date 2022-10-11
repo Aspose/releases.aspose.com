@@ -41,7 +41,7 @@ Aspose.BarCode для Node.js через Java реализуется с помо
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

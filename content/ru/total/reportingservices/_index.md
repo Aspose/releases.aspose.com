@@ -31,7 +31,7 @@ Aspose.Total for Reporting Services содержит следующие комп
 * Aspose.Slides for Reporting Services: легко создавайте отчеты в формате PPT и PPS в службах Microsoft SQL Server Reporting Services.
 * Aspose.Words для Reporting Services: манипулируйте отчетами RDL и RDLC и экспортируйте их в поддерживаемые форматы файлов из MS SQL Server Reporting Services.
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

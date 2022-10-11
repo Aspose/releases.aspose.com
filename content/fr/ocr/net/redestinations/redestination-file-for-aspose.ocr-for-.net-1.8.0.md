@@ -33,7 +33,7 @@ weight: 11
       {{< Common/li class="hide" id="author-update-46b93c6b83e54d9ab48620d232ec8dc0" >}} babar.raza {{< /Common/li >}}
       {{< Common/li class="hide" >}} Vues : {{< /Common/li >}}
       {{< Common/li class="hide" id="view-update-46b93c6b83e54d9ab48620d232ec8dc0" >}} 1064 {{< /Common/li >}}
-      {{< Commun/li >}} Date d'ajout : {{< /Common/li >}}
+      {{< Common/li >}} Date d'ajout : {{< /Common/li >}}
       {{< Common/li id="added-update-46b93c6b83e54d9ab48620d232ec8dc0" >}} 11/20/2013 {{< /Common/li >}} 
 
     {{< /Releases/ReleasesDetailsUl >}}

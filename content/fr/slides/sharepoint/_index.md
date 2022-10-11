@@ -76,7 +76,7 @@ pour convertir des documents Microsoft PowerPoint® au sein de vos sites SharePo
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

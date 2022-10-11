@@ -68,7 +68,7 @@ Android API 使软件开发人员能够设计具有管理和操作电子邮件�
 
 > Aspose.Email for Android via Java 不需要安装 Microsoft Outlook®。
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

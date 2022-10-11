@@ -56,7 +56,7 @@ Aspose.Words for SharePoint 通过允许您使用报告、文档转换和 ShareP
 - 微软 SharePoint 服务器 2016
 - 支持“x32”和“x64”服务器。
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

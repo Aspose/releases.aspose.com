@@ -3,12 +3,7 @@ title: "Aspose - 下载"
 description: "它包含图表文件"
 keywords: "diagram "
 family_listing_page_title: "Aspose.Diagram for Python via Java"
-family_listing_page_description: "Aspose.Diagram for Python via Java is a scalable and feature-rich API to
-使用 Python 处理 visio 文件。 API 提供 Visio 文件创建，
-操作、转换和渲染。开发人员可以将页面格式化为
-最精细的级别，创建和操作形状，渲染页面，形状
-到 PDF 和图像等等 - 完全不依赖于 Microsoft
-Office 或 Visio 应用程序。”
+family_listing_page_description: "Aspose.Diagram for Python via Java is a scalable and feature-rich API to 使用 Python 处理 visio 文件。 API 提供 Visio 文件创建，操作、转换和渲染。开发人员可以将页面格式化为 最精细的级别，创建和操作形状，渲染页面，形状 到 PDF 和图像等等 - 完全不依赖于 Microsoft Office 或 Visio 应用程序"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-python.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -43,7 +38,7 @@ weight:  4
 - 将 Visio® 图表导出为各种流行格式，包括 PDF、图像、HTML 等。
 - 访问图表元素和属性以进行操作或仅检查。
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

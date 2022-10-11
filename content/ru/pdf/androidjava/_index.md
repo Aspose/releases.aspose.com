@@ -80,7 +80,7 @@ weight:  4
 - Любая платформа, на которой установлена среда выполнения Android.
 - ОС Android 2.0 или выше.
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

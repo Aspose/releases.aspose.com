@@ -75,7 +75,7 @@ Aspose.PDF для C++ одинаково хорошо работает как н
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

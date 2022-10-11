@@ -105,7 +105,7 @@ maven {URL-адрес "http://repository.aspose.com/repo/"}
 
 {{< Common/hr >}}
 
-{{< Теги/Оболочка тегов >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

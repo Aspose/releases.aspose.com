@@ -57,7 +57,7 @@ Vous pouvez facilement utiliser Aspose.Words pour Java directement à partir d'u
 - Accès par programme aux propriétés de formatage de tous les éléments du document.
 - Générez des rapports avec Mail Merge qui permet de remplir des documents avec des données provenant de diverses sources.
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

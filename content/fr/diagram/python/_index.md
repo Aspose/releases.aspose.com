@@ -43,7 +43,7 @@ Vous pouvez facilement utiliser <b>aspose-diagram</b> pour Python à partir de
 - Exportez des diagrammes Visio® vers divers formats populaires, notamment PDF, images, HTML, etc.
 - Accédez aux éléments et propriétés du diagramme pour la manipulation ou simplement l'inspection.
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

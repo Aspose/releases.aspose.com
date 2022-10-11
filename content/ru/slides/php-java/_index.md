@@ -42,8 +42,8 @@ aspose/slides доступен на Packagist как
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Примечания к выпуску"  >}}
 {{< Common/release-notes-link family="slides" product="php-java" href="https://docs.aspose.com/slides/php-java/release-notes/" text="https://docs.aspose.com/slides/php-java/release-notes/"  >}}
-{{< /Common/обертка >}}
-{{< /Common/обертка >}}
+{{< /Common/wrapper >}}
+{{< /Common/wrapper >}}
 
 <!-- /ProductPageContent-->
 

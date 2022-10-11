@@ -82,7 +82,7 @@ Aspose.Cells for .NET 使您的 .NET、C#、ASP.NET 和 VB.NET 应用程序能�
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

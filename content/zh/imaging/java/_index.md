@@ -96,7 +96,7 @@ Aspose.Imaging 适用于上述操作系统的 x86 和 x64 版本。
 
 {{< Common/hr >}}
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

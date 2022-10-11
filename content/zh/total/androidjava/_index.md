@@ -43,7 +43,7 @@ Aspose.Email for Android via Java 是一个 Microsoft Outlook 消息操作 API�
 
 Aspose.Slides for Android via Java 是一个独特的 PowerPoint 管理 API，它使基于 Android 的应用程序能够在不使用 Microsoft PowerPoint 的情况下读取、写入和操作 PowerPoint 演示文稿。它为创建 MSO 图表、SmartArt 形状和 ActiveX 控件提供内置支持。
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

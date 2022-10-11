@@ -80,7 +80,7 @@ weight:  4
 - 任何安装了 Android 运行时环境的平台。
 - 安卓操作系统 2.0 或更高版本。
 
-{{< 标签/标签包装器 >}}
+{{< Tags/TagsWrapper>}}
 {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

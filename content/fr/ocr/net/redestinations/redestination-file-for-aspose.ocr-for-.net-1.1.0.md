@@ -33,7 +33,7 @@ weight: 7
       {{< Common/li class="hide" id="author-update-78989af443814d76bfc550b8ee09615b" >}} zaheer.tariq {{< /Common/li >}}
       {{< Common/li class="hide" >}} Vues : {{< /Common/li >}}
       {{< Common/li class="hide" id="view-update-78989af443814d76bfc550b8ee09615b" >}} 827 {{< /Common/li >}}
-      {{< Commun/li >}} Date d'ajout : {{< /Common/li >}}
+      {{< Common/li >}} Date d'ajout : {{< /Common/li >}}
       {{< Common/li id="added-update-78989af443814d76bfc550b8ee09615b" >}} 8/22/2011 {{< /Common/li >}} 
 
     {{< /Releases/ReleasesDetailsUl >}}

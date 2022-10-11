@@ -64,7 +64,7 @@ Aspose.Note pour .NET peut être utilisé pour imprimer des documents ONE ainsi 
 
 {{< Common/hr >}}
 
-{{< Balises/TagsWrapper >}}
+{{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 

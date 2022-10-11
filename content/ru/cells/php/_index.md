@@ -46,8 +46,8 @@ aspose/cells доступен на Packagist как
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Примечания к выпуску"  >}}
 {{< Common/release-notes-link family="cells" product="php" href="https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-3-release-notes/" text="https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-3-release-notes/"  >}}
-{{< /Common/обертка >}}
-{{< /Common/обертка >}}
+{{< /Common/wrapper >}}
+{{< /Common/wrapper >}}
 
 <!-- /ProductPageContent-->
 
