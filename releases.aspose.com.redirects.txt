@@ -9,6 +9,7 @@ rewrite /pdf/net/new-releases/aspose.pdf-for-.net-22.5-\(dlls-only\)/$ https://r
 rewrite /words/net/new-releases/aspose.words-for-.net-22.5-\(dlls-only\)$ https://releases.aspose.com/words/net/new-releases/aspose.words-for-.net-22.5-dlls-only/ permanent;
 rewrite /total/id$ https://releases.aspose.com/total/ permanent;
 rewrite /total/id/$ https://releases.aspose.com/total/ permanent;
+rewrite /corporate/case-studies/(.*) https://releases.aspose.com/success-stories/$1
 rewrite /corporate/success-stories/Aspose.Slides/$ https://releases.aspose.com/corporate/success-stories/aspose.slides/ permanent;
 rewrite /DownloadFile.aspx/$ https://releases.aspose.com/ permanent;
 rewrite /corporate/success-stories/aspose.total/ubisoft---human-resource-\(hr\)-applications/$ https://releases.aspose.com/corporate/success-stories/aspose.total/ubisoft---human-resource-hr-applications/ permanent;
