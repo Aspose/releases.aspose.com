@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/cpp/new-releases/aspose.cells-for-cpp-22.10---october-2022/"
-folder_name: "Aspose.Cells for CPP 22.10 - October 2022"
+folder_name: "Aspose.Cells for C++ 22.10(Linux)"
 download_link: "/cells/cpp/new-releases/aspose.cells-for-cpp-22.10---october-2022/b6e0228bc0361cdbff5f8baa88cfb112-19-7995"
 download_text: "Download"
 intro_text: "Please refer to release notes and ReadMe for detail"
@@ -22,7 +22,7 @@ weight: 88
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Cells for CPP 22.10 - October 2022" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Cells for C++ 22.10(Linux)" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/cells/cpp/new-releases/aspose.cells-for-cpp-22.10---october-2022/b6e0228bc0361cdbff5f8baa88cfb112-19-7995" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cells" >}}
