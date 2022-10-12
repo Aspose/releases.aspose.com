@@ -24,4 +24,5 @@
   translation: "Просмотрите наши продукты"
 - id: Direct_Download
   translation: "Прямая загрузка"
-  
+- id: New_Releases
+  translation: "Новые релизы"
