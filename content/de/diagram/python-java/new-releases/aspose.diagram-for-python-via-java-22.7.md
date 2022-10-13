@@ -4,16 +4,16 @@ title: "Downloads ---Neue Releases-aspose.diagram-for-python-via-java-22.7"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/diagram/python/new-releases/aspose.diagram-for-python-via-java-22.7/"
+folder_link: "/diagram/python-java/new-releases/aspose.diagram-for-python-via-java-22.7/"
 folder_name: "Aspose.Diagram für Python über Java 22.8"
-download_link: "/diagram/python/new-releases/aspose.diagram-for-python-via-java-22.7/e7e3a5e3e422e24980bff6d3e0f8e045-1-7748"
+download_link: "/diagram/python-java/new-releases/aspose.diagram-for-python-via-java-22.7/e7e3a5e3e422e24980bff6d3e0f8e045-1-7748"
 download_text: "Download"
 Intro_text: "Aspose.Diagram für Python über Java 22.8"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 8/8/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 3.24MB"
-parent_path: "diagram/python"
-section_parent_path: "diagram/python"
+parent_path: "diagram/python-java"
+section_parent_path: "diagram/python-java"
 
 tags: ""
 release_notes_url: "https://docs.aspose.com/diagram/java/aspose-diagram-for-python-via-java-22-8-release-notes/"
@@ -24,7 +24,7 @@ weight: 12
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Diagram für Python über Java 22.8" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/diagram/python/new-releases/aspose.diagram-for-python-via-java-22.7/e7e3a5e3e422e24980bff6d3e0f8e045-1-7748" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/diagram/python-java/new-releases/aspose.diagram-for-python-via-java-22.7/e7e3a5e3e422e24980bff6d3e0f8e045-1-7748" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/diagram" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
