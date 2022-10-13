@@ -168,14 +168,14 @@
 </style>
 <!-- /Common CSS -->
 
-{{ if .Page.IsTranslated }}
 <script type="text/javascript">
 const langarray = [];
+{{ if .Page.IsTranslated }}
   {{- range $.Site.Home.AllTranslations -}}
     langarray.push({{.Language.Params.languageCode}});
   {{- end -}}
-</script>
 {{ end }}
+</script>
 <script type="text/javascript">
     
     //jQuery.noConflict();
