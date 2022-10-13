@@ -28,3 +28,4 @@ rewrite /corporate/success-stories/aspose.total/the-pitfalls-of-microsoft-office
 rewrite /barcode/python/new-releases/aspose.barcode-for-python-via-java-21.3/ https://releases.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-21.3/ permanent;
 rewrite /(.*)/new-releases/$ https://releases.aspose.com/$1 permanent;
 rewrite /barcode/python/new-releases/aspose.barcode-for-python-via-java-21.2/ https://releases.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-21.2/ permanent;
+rewrite /diagram/python/(.*) https://releases.aspose.com/diagram/python-java/$1 permanent;
