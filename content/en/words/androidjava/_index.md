@@ -39,7 +39,7 @@ You can easily use Aspose.Words for Java directly from a {{< Common/link href="h
       implementation (
          group: 'com.aspose',
          name: 'aspose-words',
-         version: '22.3',
+         version: '22.9',
          classifier: 'android.via.java')
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
