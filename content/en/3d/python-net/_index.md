@@ -1,11 +1,11 @@
 ---
 title: "Aspose.3D for Python via .NET"
-description:  "Aspose.3D for Python via .NET is a feature-rich Gameware and Computer-Aided-Designing (CAD) API to manipulate documents without any 3D modeling and rendering software dependencies. API supports Discreet3DS, WavefrontOBJ, FBX (ASCII, Binary), USD, USDZ, STL (ASCII, Binary), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco file formats and more. Developers can create, read, convert, modify and control the substance of 3D document formats easily."
-keywords:  "FBX,USDZ,FBX,Python,.NET,OBJ,STL,GLTF,U3D,JT,RVM"
+description:  "Aspose.3D for Python via .NET is a feature-rich Gameware and Computer-Aided-Designing (CAD) API to manipulate documents without any 3D modeling and rendering software dependencies. API supports Discreet3DS, WavefrontOBJ, FBX (ASCII, Binary), USD, USDZ, STL (ASCII, Binary), Maya(ASCII), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco file formats and more. Developers can create, read, convert, modify and control the substance of 3D document formats easily."
+keywords:  "FBX,USDZ,FBX,Python,.NET,OBJ,STL,GLTF,U3D,JT,RVM,MA"
 family_listing_page_title:  "Aspose.3D for Python via .NET"
 family_listing_page_description:  "Aspose.3D for Python via .NET is a feature-rich Gameware and Computer-Aided-Designing (CAD) API to manipulate documents without any 3D modeling and rendering software dependencies. API supports Discre"
 family_listing_page_iconurl:  "https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg"
-tags: ['Aspose.Total', 'Aspose.3D', 'Python', 'Library', 'CAD', 'gameware', 'scene', 'object', 'model', 'modeling', 'render', 'VRML', 'polygon', 'linear', 'extrusion', 'viewport', 'cylinder', 'pointcloud', 'animation', 'geometry', 'format', 'file', '3DS', '3MF', 'AMF', 'ASE', 'RVM', 'DAE', 'DRC', 'DXF', 'FBX', 'gITF', 'OBJ', 'PDF', 'HTML', 'PLY', 'JT', 'STL', 'U3D', 'USD', 'USDZ', 'VRML', 'X', 'DirectX']
+tags: ['Aspose.Total', 'Aspose.3D', 'Python', 'Library', 'CAD', 'gameware', 'scene', 'object', 'model', 'modeling', 'render', 'VRML', 'polygon', 'linear', 'extrusion', 'viewport', 'cylinder', 'pointcloud', 'animation', 'geometry', 'format', 'file', '3DS', '3MF', 'AMF', 'ASE', 'RVM', 'DAE', 'DRC', 'DXF', 'FBX', 'gITF', 'OBJ', 'PDF', 'HTML', 'PLY', 'JT', 'STL', 'U3D', 'USD', 'USDZ', 'VRML', 'X', 'DirectX', 'Maya']
 weight: 3
 ---
 
@@ -97,6 +97,7 @@ Please use the following {{< Common/link href="https://pypi.org/project/aspose-3
 **Microsoft&reg; 3D Builder:** 3MF\
 **Autodesk&reg;:** ASE\
 **AutoCAD&reg;:** DXF\
+**Maya&reg;:** MA\
 **Siemens&reg; PLM:** JT\
 **Pixar&reg;:** USD, USDZ\
 **Virtual Reality:** VRML\

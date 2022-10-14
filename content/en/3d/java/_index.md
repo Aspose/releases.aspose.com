@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "62"
 homepage_package_type: "Maven"
 homepage_package_link: "https://repository.aspose.com/3d/"
-tags: ['3D-Modeling', '3D-Objects', '3D-PDF', '3D-Scene', '3D-Studio-Max', '3D-Viewports', '3DS', '3D-to-GLTF2.0', '3D-to-HTML', '3D-to-PDF', '3MF', 'AMF', 'Animation', 'ASE', 'Aspose.3D', 'Aspose.Total', 'AutoCAD', 'Autodesk', 'Collada', 'Conholdate', 'Conholdate.Total', 'Cylinder', 'DAE', 'Darco', 'DirectX', 'DRC', 'DXF', 'FBX', 'Geometry', 'gITF', 'HTML', 'JT', 'Linear-Extrusion', 'Mesh', 'Morph', 'NURBS', 'OBJ', 'PDF', 'PLY', 'PointCloud', 'Polygons', 'Redenring', 'RVM', 'Skeleton', 'STL', 'U3D', 'VRML', 'Wavefront', 'X']
+tags: ['3D-Modeling', '3D-Objects', '3D-PDF', '3D-Scene', '3D-Studio-Max', '3D-Viewports', '3DS', '3D-to-GLTF2.0', '3D-to-HTML', '3D-to-PDF', '3MF', 'AMF', 'Animation', 'ASE', 'Aspose.3D', 'Aspose.Total', 'AutoCAD', 'Autodesk', 'Collada', 'Conholdate', 'Conholdate.Total', 'Cylinder', 'DAE', 'Darco', 'DirectX', 'DRC', 'DXF', 'FBX', 'Geometry', 'gITF', 'HTML', 'JT', 'Linear-Extrusion', 'Mesh', 'Morph', 'NURBS', 'OBJ', 'PDF', 'PLY', 'PointCloud', 'Polygons', 'Redenring', 'RVM', 'Skeleton', 'STL', 'U3D', 'VRML', 'Wavefront', 'X', 'Maya']
 weight:  2
 ---
 
@@ -38,7 +38,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
       <dependency>
       <groupId>com.aspose</groupId>
       <artifactId>aspose-3d</artifactId>
-      <version>22.8</version>
+      <version>22.10</version>
       </dependency>
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
@@ -62,11 +62,11 @@ Aspose.3D for Java API is built to create, edit, manipulate and save 3D formats.
 
 ### Supported 3D File Formats
 
-FBX 7.5 ASCII, FBX 7.5 Binary, FBX 7.4 ASCII, FBX 7.4 Binary, FBX 7.3 ASCII, FBX 7.3 Binary, FBX 7.2 ASCII, FBX 7.2 Binary, STL (ASCII, Binary), WavefrontOBJ, Discreet3DS, Universal3D, COLLADA, glTF, DXF, PLY (ASCII, Binary), X (ASCII, Binary), Draco, GLTF 2.0 (ASCII, Binary), 3MF, RVM (Text, Binary), ASE, GLB
+FBX 7.5 ASCII, FBX 7.5 Binary, FBX 7.4 ASCII, FBX 7.4 Binary, FBX 7.3 ASCII, FBX 7.3 Binary, FBX 7.2 ASCII, FBX 7.2 Binary, STL (ASCII, Binary), WavefrontOBJ, Discreet3DS, Universal3D, COLLADA, glTF, DXF, PLY (ASCII, Binary), X (ASCII, Binary), Draco, GLTF 2.0 (ASCII, Binary), 3MF, RVM (Text, Binary), ASE, GLB, Maya ASCII
 
 ### Read & Write 3D Formats
 
-3DS, AMF, RVM, DAE, DRC, FBX, gITF, OBJ, PLY, STL, U3D, ATT
+3DS, AMF, RVM, DAE, DRC, FBX, gITF, OBJ, PLY, STL, U3D, ATT, MA
 
 ### Save 3D File As
 
