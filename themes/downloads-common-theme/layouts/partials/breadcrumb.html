@@ -27,62 +27,76 @@
   <div id="sticky1" class="stickytopheight">&nbsp;</div>
   <div class="container">
     <div class="moduletable">
-      <!-- <ul id="dvBC" class="breadcrumb">
-        <li><a href="https://downloads.aspose.com/">Home</a><span class="divider"> </span></li>
-        <li><span>Aspose.Total Product Family</span><span class="divider"> </span></li>
-      </ul> -->
       <ul id="dvBC" class="breadcrumb">
-        <li><a href="/">{{ i18n "Home" }}</a><span class="divider"> </span></li>
-        {{ $currentpath := .RelPermalink  }}
-        {{- $.Scratch.Set "url" "" -}}
-        {{- range (split .RelPermalink "/") -}}
-            {{- if (gt (len .) 0) -}}
-              {{- $.Scratch.Set "isPage" "false" -}}
-              {{- $.Scratch.Set "isSection" "false" -}}
-              {{- $.Scratch.Add "url" (print "/" . ) -}}
-              {{- $.Scratch.Add "fpath" (print "/" . "/_index.md") -}}
-              {{$sectionfilepath := print ($.Scratch.Get "url") "/_index.md"}}
-              {{$loopcurrent := print ($.Scratch.Get "url") "/"}}
-              {{- if fileExists (print . ".md") -}}
-              {{- with $.Site.GetPage (print . ".md") -}}
-              {{- if .IsPage -}}
-              {{- $.Scratch.Set "isPage" "true" -}}
-              {{- end -}}
-              {{- end -}}
-              {{else}}
-              {{- if $.Site.GetPage ($sectionfilepath ) -}}
-              {{- $.Scratch.Set "isSection" "true" -}}
-              {{- end -}}
+        {{ $currentlang :=  replaceRE "(\\s)" "" $.Site.Language }}
+        {{$pattern_current_lang := print "/" $currentlang }}
+        {{ $currentpath_without_lang := replace .RelPermalink  $pattern_current_lang "" }}
+          {{ $dot := . }}
+          {{ $dot.Scratch.Set "path" "" }}
+          {{ $dot.Scratch.Set "breadcrumb" slice }}
+          {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+          {{ $.Scratch.Add "path" .Site.BaseURL }}
+          {{ if eq $currentlang "en" }} 
+              {{ $.Scratch.Add "breadcrumb" (slice (dict "url" .Site.BaseURL "name" "home" "position" 1 )) }}
+              {{ range $index, $element := split $url "/" }}
+                  {{ $dot.Scratch.Add "path" $element }}
+                  {{ $.Scratch.Add "path" "/" }}
+                  {{ if ne $element "" }}
+                    {{ $.Scratch.Add "breadcrumb" (slice (dict "url" ($.Scratch.Get "path") "name" . "position" (add $index 1))) }}
+                  {{ end }}
               {{ end }}
-              {{- if eq ($.Scratch.Get "isSection") "true" -}}
-                    {{- with $.Site.GetPage ($sectionfilepath ) -}}
-                   
-                    {{ if not (eq $currentpath $loopcurrent )}}
-                         <li><a href="{{ $.Scratch.Get `url` }}" class="">{{.Params.family_listing_page_title }}</a><span class="divider"> </span></li>
-                    {{else}} 
-                        <li><span>{{.Params.family_listing_page_title }}</span><span class="divider"> </span></li>
-                    {{end}}
-                    {{- end -}}
-              {{- else -}}
-                  {{- if eq ($.Scratch.Get "isPage") "true" -}}
-                    {{- with $.Site.GetPage (print . ".md") -}}
-                    {{ if not (eq $currentpath $loopcurrent )}}
-                        <li><a href="{{ $.Scratch.Get `url` }}" class="">{{.Params.family_listing_page_title }}</a><span class="divider"> </span></li>
-                    {{else}} 
-                        <li><span>{{.Params.family_listing_page_title }}</span><span class="divider"> </span></li>
-                    {{end}}
-                    {{- end -}}
-                  {{- else -}}
-              
-                    {{ if not (eq $currentpath $loopcurrent )}}
-                        <li><a href="{{ $.Scratch.Get `url` }}" class="">{{ humanize . }}</a><span class="divider"> </span></li>
-                    {{else}} 
-                        <li><span>{{ humanize . }}</span><span class="divider"> </span></li>
-                    {{end}}
-                  {{- end -}}
-                {{- end -}}
-            {{- end -}}
-        {{- end -}}
+          {{else}}
+              {{ range $index, $element := split $url "/" }}
+                    {{ $dot.Scratch.Add "path" $element }}
+                    {{ $.Scratch.Add "path" "/" }}
+                    {{ if ne $element "" }}
+                          {{ if eq $index 0 }} 
+                            {{ $.Scratch.Add "breadcrumb" (slice (dict "url" ($.Scratch.Get "path") "name" . "position" (add $index 2))) }}
+                          {{else}}
+                            {{ $.Scratch.Add "breadcrumb" (slice (dict "url" ($.Scratch.Get "path") "name" . "position" (add $index 2))) }}
+                          {{end}}
+                    {{ end }}
+              {{ end }}
+          {{end}}
+
+          {{ range $index, $element := $.Scratch.Get "breadcrumb" }}
+
+              {{ $urlpage := .url }}
+              {{ $urlparams := urls.Parse $urlpage }}
+              {{ $position := .position }}
+              {{ $name := .name }}
+
+              {{ if eq $currentlang "en" }} 
+                {{ with site.GetPage $urlparams.Path }}
+                      {{ $family_listing_page_title := .Params.family_listing_page_title }}
+                      {{ if eq $urlparams.Path "/" }} 
+                        <li><a href="{{$urlpage}}" class="">{{ i18n "Home" }}</a><span class="divider"> </span></li>
+                      {{else}}
+                        {{ if not (eq $currentpath_without_lang $urlparams.Path )}}
+                            <li><a href="{{$urlpage}}" class="">{{$family_listing_page_title}} </a><span class="divider"> </span></li>
+                        {{else}}
+                            <li><span>{{$family_listing_page_title}}</span><span class="divider"> </span></li>
+                        {{end}}
+                      {{end}}
+                  {{ end }}
+              {{else}}
+                
+                {{$pattern_current_lang := print "/" $currentlang }}
+                  {{ $lang_path_removed := replace $urlparams.Path  $pattern_current_lang "" }}
+                  {{ with site.GetPage $lang_path_removed }}
+                      {{ $family_listing_page_title := .Params.family_listing_page_title }}
+                      {{ if eq $lang_path_removed "/" }} 
+                          <li><a href="{{$urlpage}}" class="">{{ i18n "Home" }}</a><span class="divider"> </span></li>
+                      {{else}}
+                        {{ if not (eq $currentpath_without_lang $lang_path_removed )}}
+                            <li><a href="{{$urlpage}}" class="">{{$family_listing_page_title}} </a><span class="divider"> </span></li>
+                        {{else}}
+                            <li><span>{{$family_listing_page_title}}</span><span class="divider"> </span></li>
+                        {{end}}
+                      {{end}}
+                  {{ end }}
+              {{end}}
+          {{ end }}
       </ul>
     </div>
   </div>
