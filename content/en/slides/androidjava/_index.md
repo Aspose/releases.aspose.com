@@ -47,7 +47,7 @@ You can easily use Aspose.Slides for Java directly from a {{< Common/link href="
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}
  maven {
-    url "https://repository.aspose.com/repo/" } {{< /consolebox/textarea >}}
+    url "https://releases.aspose.com/java/repo/" } {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< consolebox/consoleboxwrapper id="dependency" >}}
 {{< consolebox/textarea id="dependency" >}} compile (
