@@ -31,7 +31,7 @@ Aspose 将所有 Java API 托管在
       <repository>
       <id>AsposeJavaAPI</id>
       <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
+      <url>https://releases.aspose.com/java/repo/</url>
       </repository>
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}

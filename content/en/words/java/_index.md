@@ -28,7 +28,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
       <repository>
          <id>AsposeJavaAPI</id>
          <name>Aspose Java API</name>
-         <url>https://repository.aspose.com/repo/</url>
+         <url>https://releases.aspose.com/java/repo/</url>
       </repository> 
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}

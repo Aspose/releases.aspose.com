@@ -31,7 +31,7 @@ Aspose héberge toutes les API Java au
       <repository>
       <id>AsposeJavaAPI</id>
       <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
+      <url>https://releases.aspose.com/java/repo/</url>
       </repository>   
     Niveau :
     maven { url "https://artifact.aspose.com/repo/" }
