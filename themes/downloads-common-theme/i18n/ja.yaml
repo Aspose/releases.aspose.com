@@ -1,28 +1,30 @@
 - id: Home
-  translation: "Home"
+  translation: "家"
 - id: Download
-  translation: "Download"
+  translation: "ダウンロード"
 - id: Downloads
-  translation: "Downloads"
+  translation: "ダウンロード"
 - id: Date_Added
-  translation: "Date Added"
+  translation: "追加日"
 - id: Added
-  translation: "Added"
+  translation: "追加した"
 - id: Description
-  translation: "Description"
+  translation: "説明"
 - id: Support_Forum 
-  translation: "Support Forum"
+  translation: "サポートフォーラム"
 - id: File_Details
-  translation: "File Details"
+  translation: "ファイルの詳細"
 - id: Release_Notes
-  translation: "Release Notes"
+  translation: "リリースノート"
 - id: Show_More_Files
-  translation: "Show more files"
+  translation: "さらにファイルを表示"
 - id: File_Size
-  translation: "File Size"
+  translation: "ファイルサイズ"
 - id: Browse_our_Products
-  translation: "Browse our Products"
+  translation: "製品を閲覧する"
 - id: Direct_Download
-  translation: "Direct Download"
+  translation: "直接ダウンロード"
 - id: New_Releases
   translation: "ニューリリース"
+- id: Product_Family
+  translation: "製品ファミリー"

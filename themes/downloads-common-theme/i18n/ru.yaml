@@ -26,3 +26,5 @@
   translation: "Прямая загрузка"
 - id: New_Releases
   translation: "Новые релизы"
+- id: Product_Family
+  translation: "Семейство продуктов"

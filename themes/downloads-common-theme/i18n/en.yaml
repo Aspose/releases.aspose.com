@@ -26,4 +26,5 @@
   translation: "Direct Download"
 - id: New_Releases
   translation: "New Releases"
-  
+- id: Product_Family
+  translation: "Product Family"

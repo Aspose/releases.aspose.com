@@ -46,6 +46,20 @@ defaultContentLang = 'en'
       flag = "flag-zh"
       weight = 5
       menuCode = "aspose-zh"
+    [languages.ja]
+      contentDir = 'content/ja'
+      languageName = "日本"
+      languageCode = "ja"
+      flag = "flag-jp"
+      weight = 6
+      menuCode = "aspose-ja"
+    [languages.pt]
+      contentDir = 'content/pt'
+      languageName = "Português"
+      languageCode = "pt"
+      flag = "flag-pt"
+      weight = 7
+      menuCode = "aspose-pt"
 ################################# Localization #########################
 
 [params]
