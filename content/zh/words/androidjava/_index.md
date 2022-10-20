@@ -31,17 +31,17 @@ Aspose.Words for Android via Java 为您的 Android 应用程序添加了 Word �
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
    {{< consolebox/textarea id="repository" >}}
-      行家{url“https://repository.aspose.com/repo/”}
+      maven {url "https://repository.aspose.com/repo/" }
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
    {{< consolebox/textarea id="dependency" >}}
-      执行 （
-         组：'com.aspose'，
-         名称：'aspose-words'，
-         版本：'22.3'，
-         分类器：'android.via.java'）
+      implementation (
+         group: 'com.aspose',
+         name: 'aspose-words',
+         version: '22.9',
+         classifier: 'android.via.java')
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

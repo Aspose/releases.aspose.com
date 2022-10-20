@@ -24,16 +24,16 @@ weight: 4
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}
-maven {url "https://repository.aspose.com/repo/"}
+maven {url "https://repository.aspose.com/repo/" }
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< consolebox/consoleboxwrapper id="dependency" >}}
 {{< consolebox/textarea id="dependency" >}}
-компилировать (
-группа: 'com.aspose',
-название: 'aspose-cells',
-версия: '22.9',
-классификатор: 'android.via.java')
+compile (
+group: 'com.aspose',
+name: 'aspose-cells',
+version: '22.9',
+classifier: 'android.via.java')
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

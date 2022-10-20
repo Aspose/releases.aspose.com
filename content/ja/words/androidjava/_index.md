@@ -31,17 +31,17 @@ Aspose.Words for Android via Java は、Word ドキュメント処理機能を A
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
    {{< consolebox/textarea id="repository" >}}
-      Maven {url "https://repository.aspose.com/repo/" }
+      maven {url "https://repository.aspose.com/repo/" }
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
    {{< consolebox/textarea id="dependency" >}}
-      実装 （
-         グループ: 'com.aspose',
+      implementation (
+         group: 'com.aspose',
          name: 'aspose-words',
-         バージョン: '22.9',
-         分類子: 'android.via.java')
+         version: '22.9',
+         classifier: 'android.via.java')
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

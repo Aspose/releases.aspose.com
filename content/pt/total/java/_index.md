@@ -31,7 +31,7 @@ Você pode facilmente usar o Aspose.Total para Java diretamente de um
       <repository>
          <id>AsposeJavaAPI</id>
          <name>Aspose Java API</name>
-         <url>https://repository.aspose.com/repo/</url>
+         <url>https://releases.aspose.com/java/repo/</url>
       </repository>
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}

@@ -24,16 +24,16 @@ Aspose.Cells for Android は、Java 経由で直接、
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}
-Maven {url "https://repository.aspose.com/repo/" }
+maven {url "https://repository.aspose.com/repo/" }
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< consolebox/consoleboxwrapper id="dependency" >}}
 {{< consolebox/textarea id="dependency" >}}
-コンパイル（
-グループ: 'com.aspose',
-名前: 'Aspose-セル',
-バージョン: '22.9',
-分類子: 'android.via.java')
+compile (
+group: 'com.aspose',
+name: 'aspose-cells',
+version: '22.9',
+classifier: 'android.via.java')
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

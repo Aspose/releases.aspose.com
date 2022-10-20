@@ -24,16 +24,16 @@ weight: 4
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}
-行家{url“https://repository.aspose.com/repo/”}
+maven {url "https://repository.aspose.com/repo/" }
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< consolebox/consoleboxwrapper id="dependency" >}}
 {{< consolebox/textarea id="dependency" >}}
-编译 (
-组：'com.aspose'，
-名称：'aspose-cells'，
-版本：'22.9'，
-分类器：'android.via.java'）
+compile (
+group: 'com.aspose',
+name: 'aspose-cells',
+version: '22.9',
+classifier: 'android.via.java')
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

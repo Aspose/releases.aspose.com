@@ -26,17 +26,17 @@ Android API 使软件开发人员能够设计具有管理和操作电子邮件�
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
    {{< consolebox/textarea id="repository" >}}
-      行家{url“http://repository.aspose.com/repo/”}
+      maven {url "http://repository.aspose.com/repo/" }
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
    {{< consolebox/textarea id="dependency" >}}
-      编译 (
-         组：'com.aspose'，
-         名称：'aspose-email'，
-         版本：'22.6'，
-         分类器：'android.via.java'）
+      compile (
+         group: 'com.aspose',
+         name: 'aspose-email',
+         version: '22.6',
+         classifier: 'android.via.java')
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

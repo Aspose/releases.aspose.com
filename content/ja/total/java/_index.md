@@ -31,7 +31,7 @@ Aspose.Total for Java を直接から簡単に使用できます。
       <repository>
          <id>AsposeJavaAPI</id>
          <name>Aspose Java API</name>
-         <url>https://repository.aspose.com/repo/</url>
+         <url>https://releases.aspose.com/java/repo/</url>
       </repository>
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
@@ -42,7 +42,7 @@ Aspose.Total for Java を直接から簡単に使用できます。
          <groupId>com.aspose</groupId>
          <artifactId>aspose-total</artifactId>
          <version>21.10</version>
-         <type>ポンポン</type>
+         <type>pom</type>
       </dependency>
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}

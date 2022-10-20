@@ -37,11 +37,11 @@ Sie können Aspose.Words für Java ganz einfach direkt aus einer verwenden
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
    {{< consolebox/textarea id="dependency" >}}
-      Implementierung (
-         Gruppe: 'com.aspose',
+      implementation (
+         group: 'com.aspose',
          name: 'aspose-words',
-         Version: '22.3',
-         Klassifikator: 'android.via.java')
+         version: '22.9',
+         classifier: 'android.via.java')
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

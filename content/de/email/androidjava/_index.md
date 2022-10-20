@@ -32,11 +32,11 @@ Sie können Aspose.Email für Java ganz einfach direkt von a aus verwenden
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
    {{< consolebox/textarea id="dependency" >}}
-      kompilieren (
-         Gruppe: 'com.aspose',
+      compile (
+         group: 'com.aspose',
          name: 'aspose-email',
-         Version: '22.6',
-         Klassifikator: 'android.via.java')
+         version: '22.6',
+         classifier: 'android.via.java')
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

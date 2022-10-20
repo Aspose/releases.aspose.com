@@ -60,6 +60,34 @@ defaultContentLang = 'en'
       flag = "flag-pt"
       weight = 7
       menuCode = "aspose-pt"
+    [languages.el]
+      contentDir = 'content/el'
+      languageName = "Ελληνικά"
+      languageCode = "el"
+      flag = "flag-gr"
+      weight = 8
+      menuCode = "aspose-gr"
+    [languages.es]
+      contentDir = 'content/es'
+      languageName = "Español"
+      languageCode = "es"
+      flag = "flag-es"
+      weight = 9
+      menuCode = "aspose-pt"
+    [languages.id]
+      contentDir = 'content/id'
+      languageName = "Indonesia"
+      languageCode = "id"
+      flag = "flag-id"
+      weight = 10
+      menuCode = "aspose-id"
+    [languages.tr]
+      contentDir = 'content/tr'
+      languageName = "Türkçe"
+      languageCode = "tr"
+      flag = "flag-tr"
+      weight = 11
+      menuCode = "aspose-tr"
 ################################# Localization #########################
 
 [params]

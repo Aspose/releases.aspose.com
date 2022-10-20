@@ -29,11 +29,11 @@ maven {url "https://repository.aspose.com/repo/" }
 {{< /consolebox/consoleboxwrapper >}}
 {{< consolebox/consoleboxwrapper id="dependency" >}}
 {{< consolebox/textarea id="dependency" >}}
-kompilieren (
-Gruppe: 'com.aspose',
+compile (
+group: 'com.aspose',
 name: 'aspose-cells',
-Version: '22.9',
-Klassifikator: 'android.via.java')
+version: '22.9',
+classifier: 'android.via.java')
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

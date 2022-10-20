@@ -25,14 +25,14 @@ weight: 3
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}
-Maven {url "http://repository.aspose.com/repo/" }
+maven {url "http://repository.aspose.com/repo/" }
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
 {{< consolebox/textarea id="dependency" >}}
-実装グループ: 'com.aspose'、名前: 'aspose-barcode'、分類子: 'control.android.via.java'、バージョン: '22.9'、拡張子: 'aar'
-実装グループ: 'com.aspose'、名前: 'aspose-barcode'、分類子: 'control.android.via.java-javadoc'、バージョン: '22.9'
+implementation group: 'com.aspose', name: 'aspose-barcode', classifier: 'control.android.via.java', version: '22.9', ext: 'aar'      
+implementation group: 'com.aspose', name: 'aspose-barcode', classifier: 'control.android.via.java-javadoc', version: '22.9'     
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

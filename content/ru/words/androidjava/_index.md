@@ -31,17 +31,17 @@ Aspose.Words для Android через Java добавляет возможно�
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
    {{< consolebox/textarea id="repository" >}}
-      maven {url "https://repository.aspose.com/repo/"}
+      maven {url "https://repository.aspose.com/repo/" }
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
    {{< consolebox/textarea id="dependency" >}}
-      реализация (
-         группа: 'com.aspose',
-         имя: 'aspose-слова',
-         версия: «22.3»,
-         классификатор: 'android.via.java')
+      implementation (
+         group: 'com.aspose',
+         name: 'aspose-words',
+         version: '22.9',
+         classifier: 'android.via.java')
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

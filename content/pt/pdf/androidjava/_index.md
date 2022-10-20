@@ -39,11 +39,11 @@ Você pode facilmente usar o Aspose.PDF para Java diretamente de um
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
    {{< consolebox/textarea id="dependency" >}}
-      compilar (
-         grupo: 'com.aspose',
-         nome: 'aspose-pdf',
-         versão: '20.11',
-         classificador: 'android.via.java')
+      compile (
+         group: 'com.aspose',
+         name: 'aspose-pdf',
+         version: '20.11',
+         classifier: 'android.via.java')
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

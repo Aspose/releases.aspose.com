@@ -27,28 +27,28 @@ Aspose はすべての Java API を
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
    {{< consolebox/textarea id="repository" >}}
-    メイヴン:
+    Maven:   
       <repository>
       <id>AsposeJavaAPI</id>
       <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
+      <url>https://releases.aspose.com/java/repo/</url>
       </repository>   
-    グレード:
-    Maven { url "https://artifact.aspose.com/repo/" }
+    Gradle:   
+    maven { url "https://artifact.aspose.com/repo/" }
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
    {{< consolebox/textarea id="dependency" >}}
-    メイヴン:
+    Maven:      
       <dependency>
       <groupId>com.aspose</groupId>
       <artifactId>aspose-barcode</artifactId>
       <version>22.9</version>
       </dependency>  
-     グレード:
-     コンパイル グループ: 'com.aspose'、名前: 'aspose-barcode'、分類子: 'jdk18'、バージョン: '22.9'
-     コンパイル グループ: 'com.aspose'、名前: 'aspose-barcode'、分類子: 'javadoc'、バージョン: '22.9'
+     Gradle:  
+     compile group: 'com.aspose', name: 'aspose-barcode', classifier: 'jdk18', version:  '22.9'
+     compile group: 'com.aspose', name: 'aspose-barcode', classifier: 'javadoc', version: '22.9'
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}

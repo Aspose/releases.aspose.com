@@ -33,17 +33,17 @@ weight:  4
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
    {{< consolebox/textarea id="repository" >}}
-      行家{url“http://repository.aspose.com/repo/”}
+      maven {url "http://repository.aspose.com/repo/" }
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
    {{< consolebox/textarea id="dependency" >}}
-      编译 (
-         组：'com.aspose'，
-         名称：'aspose-pdf'，
-         版本：'20.11'，
-         分类器：'android.via.java'）
+      compile (
+         group: 'com.aspose',
+         name: 'aspose-pdf',
+         version: '20.11',
+         classifier: 'android.via.java')
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

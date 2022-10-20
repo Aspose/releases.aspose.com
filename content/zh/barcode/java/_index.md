@@ -27,28 +27,28 @@ Aspose 将所有 Java API 托管在
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
    {{< consolebox/textarea id="repository" >}}
-    马文：
+    Maven:   
       <repository>
       <id>AsposeJavaAPI</id>
       <name>Aspose Java API</name>
       <url>https://releases.aspose.com/java/repo/</url>
       </repository>   
-    摇篮：
+    Gradle:   
     maven { url "https://artifact.aspose.com/repo/" }
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
    {{< consolebox/textarea id="dependency" >}}
-    马文：
+    Maven:      
       <dependency>
       <groupId>com.aspose</groupId>
       <artifactId>aspose-barcode</artifactId>
       <version>22.9</version>
       </dependency>  
-     摇篮：
-     编译组：'com.aspose'，名称：'aspose-barcode'，分类器：'jdk18'，版本：'22.9'
-     编译组：'com.aspose'，名称：'aspose-barcode'，分类器：'javadoc'，版本：'22.9'
+     Gradle:  
+     compile group: 'com.aspose', name: 'aspose-barcode', classifier: 'jdk18', version:  '22.9'
+     compile group: 'com.aspose', name: 'aspose-barcode', classifier: 'javadoc', version: '22.9'
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}

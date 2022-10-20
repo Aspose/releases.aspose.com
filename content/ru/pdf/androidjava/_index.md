@@ -33,17 +33,17 @@ weight:  4
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
    {{< consolebox/textarea id="repository" >}}
-      maven {URL-адрес "http://repository.aspose.com/repo/"}
+      maven {url "http://repository.aspose.com/repo/" }
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
    {{< consolebox/textarea id="dependency" >}}
-      компилировать (
-         группа: 'com.aspose',
-         имя: 'aspose-pdf',
-         версия: "20.11",
-         классификатор: 'android.via.java')
+      compile (
+         group: 'com.aspose',
+         name: 'aspose-pdf',
+         version: '20.11',
+         classifier: 'android.via.java')
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

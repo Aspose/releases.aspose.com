@@ -27,28 +27,28 @@ Aspose hostet alle Java-APIs auf der
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
    {{< consolebox/textarea id="repository" >}}
-    Maven:
+    Maven:   
       <repository>
       <id>AsposeJavaAPI</id>
       <name>Aspose Java API</name>
       <url>https://releases.aspose.com/java/repo/</url>
       </repository>   
-    Grad:
+    Gradle:   
     maven { url "https://artifact.aspose.com/repo/" }
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
    {{< consolebox/textarea id="dependency" >}}
-    Maven:
+    Maven:      
       <dependency>
       <groupId>com.aspose</groupId>
       <artifactId>aspose-barcode</artifactId>
       <version>22.9</version>
       </dependency>  
-     Grad:
-     Kompilierungsgruppe: 'com.aspose', Name: 'aspose-barcode', Klassifikator: 'jdk18', Version: '22.9'
-     Kompilierungsgruppe: 'com.aspose', Name: 'aspose-barcode', Klassifikator: 'javadoc', Version: '22.9'
+     Gradle:  
+     compile group: 'com.aspose', name: 'aspose-barcode', classifier: 'jdk18', version:  '22.9'
+     compile group: 'com.aspose', name: 'aspose-barcode', classifier: 'javadoc', version: '22.9'
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}

@@ -25,14 +25,14 @@ weight: 3
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}
-maven {URL-адрес "http://repository.aspose.com/repo/"}
+maven {url "http://repository.aspose.com/repo/" }
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
 {{< consolebox/textarea id="dependency" >}}
-группа реализации: 'com.aspose', имя: 'aspose-barcode', классификатор: 'control.android.via.java', версия: '22.9', расширение: 'aar'
-группа реализации: «com.aspose», имя: «aspose-barcode», классификатор: «control.android.via.java-javadoc», версия: «22.9»
+implementation group: 'com.aspose', name: 'aspose-barcode', classifier: 'control.android.via.java', version: '22.9', ext: 'aar'      
+implementation group: 'com.aspose', name: 'aspose-barcode', classifier: 'control.android.via.java-javadoc', version: '22.9'     
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

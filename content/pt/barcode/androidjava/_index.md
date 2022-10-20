@@ -31,8 +31,8 @@ maven {url "http://repository.aspose.com/repo/" }
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
 {{< consolebox/textarea id="dependency" >}}
-grupo de implementação: 'com.aspose', nome: 'aspose-barcode', classificador: 'control.android.via.java', versão: '22.9', ext: 'aar'
-grupo de implementação: 'com.aspose', nome: 'aspose-barcode', classificador: 'control.android.via.java-javadoc', versão: '22.9'
+implementation group: 'com.aspose', name: 'aspose-barcode', classifier: 'control.android.via.java', version: '22.9', ext: 'aar'      
+implementation group: 'com.aspose', name: 'aspose-barcode', classifier: 'control.android.via.java-javadoc', version: '22.9'     
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

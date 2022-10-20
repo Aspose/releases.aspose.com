@@ -42,7 +42,7 @@ Vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'u
          <groupId>com.aspose</groupId>
          <artifactId>aspose-total</artifactId>
          <version>21.10</version>
-         <type>pompon</type>
+         <type>pom</type>
       </dependency>
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}

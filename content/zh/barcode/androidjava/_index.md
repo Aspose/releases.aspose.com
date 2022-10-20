@@ -25,14 +25,14 @@ weight: 3
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}
-行家{url“http://repository.aspose.com/repo/”}
+maven {url "http://repository.aspose.com/repo/" }
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
 {{< consolebox/textarea id="dependency" >}}
-实现组：'com.aspose'，名称：'aspose-barcode'，分类器：'control.android.via.java'，版本：'22.9'，分机：'aar'
-实现组：'com.aspose'，名称：'aspose-barcode'，分类器：'control.android.via.java-javadoc'，版本：'22.9'
+implementation group: 'com.aspose', name: 'aspose-barcode', classifier: 'control.android.via.java', version: '22.9', ext: 'aar'      
+implementation group: 'com.aspose', name: 'aspose-barcode', classifier: 'control.android.via.java-javadoc', version: '22.9'     
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

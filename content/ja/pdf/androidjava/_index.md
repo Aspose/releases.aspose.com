@@ -33,17 +33,17 @@ Aspose.PDF for Java は、
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
    {{< consolebox/textarea id="repository" >}}
-      Maven {url "http://repository.aspose.com/repo/" }
+      maven {url "http://repository.aspose.com/repo/" }
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
    {{< consolebox/textarea id="dependency" >}}
-      コンパイル（
-         グループ: 'com.aspose',
-         名前: 'aspose-pdf',
-         バージョン: '20.11',
-         分類子: 'android.via.java')
+      compile (
+         group: 'com.aspose',
+         name: 'aspose-pdf',
+         version: '20.11',
+         classifier: 'android.via.java')
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 

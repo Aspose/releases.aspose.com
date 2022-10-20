@@ -47,15 +47,15 @@ weight:  4
  {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}
- メイヴン{
-    url "https://repository.aspose.com/repo/" } {{< /consolebox/textarea >}}
+ maven {
+    url "https://releases.aspose.com/java/repo/" } {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< consolebox/consoleboxwrapper id="dependency" >}}
 {{< consolebox/textarea id="dependency" >}} compile (
-        グループ: 'com.aspose',
-        名前: 'aspose-スライド',
-        バージョン: '22.9',
-        分類子: 'android.via.java') {{< /consolebox/textarea >}}
+        group: 'com.aspose',
+        name: 'aspose-slides',
+        version: '22.10',
+        classifier: 'android.via.java') {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="リリースノート"  >}}
 {{< Common/release-notes-link family="slides" product="androidjava" href="https://docs.aspose.com/slides/androidjava/release-notes/" text="https://docs.aspose.com/slides/androidjava/release-notes/"  >}}

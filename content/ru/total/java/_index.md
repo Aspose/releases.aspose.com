@@ -42,7 +42,7 @@ weight:  2
          <groupId>com.aspose</groupId>
          <artifactId>aspose-total</artifactId>
          <version>21.10</version>
-         <type>помпон</type>
+         <type>pom</type>
       </dependency>
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}

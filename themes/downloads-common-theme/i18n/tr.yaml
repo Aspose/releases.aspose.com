@@ -1,0 +1,30 @@
+- id: Home
+  translation: "Ev"
+- id: Download
+  translation: "İndirmek"
+- id: Downloads
+  translation: "İndirilenler"
+- id: Date_Added
+  translation: "Ekleme Tarihi"
+- id: Added
+  translation: "Katma"
+- id: Description
+  translation: "Tanım"
+- id: Support_Forum 
+  translation: "Destek Forumu"
+- id: File_Details
+  translation: "Dosya Ayrıntıları"
+- id: Release_Notes
+  translation: "Sürüm notları"
+- id: Show_More_Files
+  translation: "Daha fazla dosya göster"
+- id: File_Size
+  translation: "Dosya boyutu"
+- id: Browse_our_Products
+  translation: "Ürünlerimize göz atın"
+- id: Direct_Download
+  translation: "Direkt indirme"
+- id: New_Releases
+  translation: "Yeni sürümler"
+- id: Product_Family
+  translation: "Ürün Ailesi"

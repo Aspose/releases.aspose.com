@@ -26,17 +26,17 @@ Android API позволяет разработчикам программног
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
    {{< consolebox/textarea id="repository" >}}
-      maven {URL-адрес "http://repository.aspose.com/repo/"}
+      maven {url "http://repository.aspose.com/repo/" }
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
    {{< consolebox/textarea id="dependency" >}}
-      компилировать (
-         группа: 'com.aspose',
-         имя: 'aspose-email',
-         версия: '22.6',
-         классификатор: 'android.via.java')
+      compile (
+         group: 'com.aspose',
+         name: 'aspose-email',
+         version: '22.6',
+         classifier: 'android.via.java')
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
