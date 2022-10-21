@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-22.10-linux/"
 folder_name: "Aspose.PDF for C++ 22.10 Linux"
-download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-22.10-linux/f6c074d69cacfe6ba6d2e30647d9e8fe-21-8042"
+download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-22.10-linux/38b13d502cec117965132b41d2725f2e-21-8042"
 download_text: "Download"
 intro_text: "Linux version"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 20/10/2022 Downloads: 1  Views: 1 "
-file_size: "File Size: 102.67MB"
+download_count: " 20/10/2022 Downloads: 2  Views: 1 "
+file_size: "File Size: 101.59MB"
 parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
 
@@ -24,19 +24,19 @@ weight: 161
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.PDF for C++ 22.10 Linux" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-22.10-linux/f6c074d69cacfe6ba6d2e30647d9e8fe-21-8042" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-22.10-linux/38b13d502cec117965132b41d2725f2e-21-8042" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-f6c074d69cacfe6ba6d2e30647d9e8fe-21-8042" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-38b13d502cec117965132b41d2725f2e-21-8042" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
-      {{< Common/li id="size-update-f6c074d69cacfe6ba6d2e30647d9e8fe-21-8042" >}} 102.67MB {{< /Common/li >}}
+      {{< Common/li id="size-update-38b13d502cec117965132b41d2725f2e-21-8042" >}} 101.59MB {{< /Common/li >}}
 
       {{< Common/li >}} Date Added: {{< /Common/li >}}
-      {{< Common/li id="added-update-f6c074d69cacfe6ba6d2e30647d9e8fe-21-8042" >}}20/10/2022 {{< /Common/li >}}
+      {{< Common/li id="added-update-38b13d502cec117965132b41d2725f2e-21-8042" >}}20/10/2022 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
