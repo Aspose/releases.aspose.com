@@ -33,3 +33,4 @@ rewrite /(.*)\(msi\)(.*) https://releases.aspose.com/$1msi$2 permanent;
 rewrite /(.*)\(javadoc\)(.*) https://releases.aspose.com/$1javadoc$2 permanent;
 rewrite /email/pythonnet/new-releases/aspose.email-for-python-via-.net-20.8,-windows-x86/$ https://releases.aspose.com/email/pythonnet/new-releases/aspose.email-for-python-via-.net-20.8-windows-x86/ permanent;
 rewrite /(.*)\(zip\)(.*) https://releases.aspose.com/$1zip$2 permanent;
+rewrite /(.*)\(linux\)(.*) https://releases.aspose.com/$1linux$2 permanent;
