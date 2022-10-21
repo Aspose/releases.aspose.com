@@ -30,3 +30,4 @@ rewrite /(.*)/new-releases/$ https://releases.aspose.com/$1 permanent;
 rewrite /barcode/python/new-releases/aspose.barcode-for-python-via-java-21.2/ https://releases.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-21.2/ permanent;
 rewrite /diagram/python/(.*) https://releases.aspose.com/diagram/python-java/$1 permanent;
 rewrite /(.*)\(msi\)(.*) https://releases.aspose.com/$1msi$2 permanent;
+rewrite /(.*)\(javadoc\)(.*) https://releases.aspose.com/$1javadoc$2 permanent;
