@@ -35,4 +35,4 @@ rewrite /email/pythonnet/new-releases/aspose.email-for-python-via-.net-20.8,-win
 rewrite /(.*)\(zip\)(.*) https://releases.aspose.com/$1zip$2 permanent;
 rewrite /(.*)\(linux\)(.*) https://releases.aspose.com/$1linux$2 permanent;
 rewrite /corporate/success-stories/aspose.total/qualetech-used-aspose.total-to-create-previews-and-extract-text-in-visiodoc.-/fee14b9556444f55a1236e088b525997/ https://releases.aspose.com/corporate/success-stories/aspose.total/qualetech-used-aspose.total-to-create-previews-and-extract-text-in-visiodoc.-/ permanent;
-rewrite https://releases.aspose.com/corporate/success-stories/aspose.words/case-study-for-gladstone---aspose.words.net/d8f79bb0708e48d99c66890088837fa0 https://releases.aspose.com/corporate/success-stories/aspose.words/case-study-for-gladstone---aspose.words.net/ permanent;
+rewrite /corporate/success-stories/aspose.words/case-study-for-gladstone---aspose.words.net/d8f79bb0708e48d99c66890088837fa0 https://releases.aspose.com/corporate/success-stories/aspose.words/case-study-for-gladstone---aspose.words.net/ permanent;
