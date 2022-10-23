@@ -66,12 +66,22 @@ var DynabicTreeview = /*#__PURE__*/function () {
           data.venture = dtself.options.venture;
         }
 
+        var lang = window.location.pathname.split('/')[1];
+        console.log(langarray);
+        console.log(lang);
+        var json_file_path = "/index.json";
+        console.log(langarray.indexOf(lang));
+        if(langarray.indexOf(lang) !== -1){
+          json_file_path = "/" + lang + "/index.json";
+        }
+        console.log(json_file_path);
         $.ajax({
-          url: "/index.json",
+          url: json_file_path,
           type: "get",
           data: data,
           success: dtself.onTreeContent
         });
+
       } else {
         dtself.error("endpoint is not defined");
       }

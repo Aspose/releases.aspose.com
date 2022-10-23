@@ -1,0 +1,30 @@
+- id: Home
+  translation: "Дом"
+- id: Download
+  translation: "Скачать"
+- id: Downloads
+  translation: "Загрузки"
+- id: Date_Added
+  translation: "Дата добавления"
+- id: Added
+  translation: "Добавлен"
+- id: Description
+  translation: "Описание"
+- id: Support_Forum 
+  translation: "Форум поддержки"
+- id: File_Details
+  translation: "Сведения о файле"
+- id: Release_Notes
+  translation: "Примечания к выпуску"
+- id: Show_More_Files
+  translation: "Показать больше файлов"
+- id: File_Size
+  translation: "Размер файла"
+- id: Browse_our_Products
+  translation: "Просмотрите наши продукты"
+- id: Direct_Download
+  translation: "Прямая загрузка"
+- id: New_Releases
+  translation: "Новые релизы"
+- id: Product_Family
+  translation: "Семейство продуктов"

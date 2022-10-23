@@ -1,0 +1,49 @@
+<div class="lang-selector" id="locale" style="display:none!important">
+    <a><em class="{{- .Language.Params.flag}}  flag-24"> </em>&nbsp; {{- .Language.LanguageName | title -}}</a>
+    </div>
+    <div class="modal fade lanpopup" id="langModal" tabindex="-1" aria-labelledby="langModalLabel" data-nosnippet="" aria-modal="true" role="dialog" style="display:none">
+  <div class="modal-dialog modal-dialog-centered modal-lg">
+    <div class="modal-content" style="background-color: #343a40">
+            <a class="lang-close" id="lang-close"><img src="https://www.aspose.com/images/common/close.svg" width="14" height="14" alt="Close"></em></a>
+      <div class="modal-body">
+        <div class="rowbox">
+        {{- range .Translations -}}
+        <div class="col langbox"><a href="{{- .Permalink | absLangURL  -}}" data-title="{{- .Lang | title -}}" class="langmenu" >
+            <span><em class="{{- .Language.Params.flag}}  flag-24"> </em>&nbsp;{{.Language.LanguageName}}</span></a></div>
+        {{- end -}}
+    </div></div></div></div></div>
+  </div>
+  <script defer>  
+  
+  const langshowpop = document.getElementById('locale');
+  const langhidepop = document.getElementById('lang-close');
+  langshowpop.addEventListener('click', addClass,  false);
+  langhidepop.addEventListener('click', removeClass,  false);
+  function addClass() {
+  var langshow = document.querySelector('.lanpopup');
+  langshow.classList.toggle('show');
+  }
+  function removeClass() {
+  var langclose = document.querySelector('.lanpopup');
+  langclose.classList.remove('show');
+  }
+  </script>
+  <script defer>
+    const observer = new MutationObserver((mutations, obs) => {
+        const parent = document.getElementById('DynabicMenuUserControls');
+        if (parent) {
+            const child = document.getElementById('locale');
+            parent.prepend(child);
+            child.setAttribute("id", "localswitch");
+            child.setAttribute('style', 'visibility:visible'); 
+            obs.disconnect();
+            return;
+        }
+    });
+  
+    observer.observe(document, {
+        childList: true,
+        subtree: true
+    });
+  </script>
+  <link rel="stylesheet" href="https://www.fileformat.com/css/locale.min.css" />  

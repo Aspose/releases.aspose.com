@@ -1,0 +1,30 @@
+- id: Home
+  translation: "Rumah"
+- id: Download
+  translation: "Unduh"
+- id: Downloads
+  translation: "Unduhan"
+- id: Date_Added
+  translation: "Tanggal Ditambahkan"
+- id: Added
+  translation: "Ditambahkan"
+- id: Description
+  translation: "Keterangan"
+- id: Support_Forum 
+  translation: "Forum Dukungan"
+- id: File_Details
+  translation: "Detail File"
+- id: Release_Notes
+  translation: "Catatan Rilis"
+- id: Show_More_Files
+  translation: "Tampilkan lebih banyak file"
+- id: File_Size
+  translation: "Ukuran file"
+- id: Browse_our_Products
+  translation: "Jelajahi Produk kami"
+- id: Direct_Download
+  translation: "Unduh langsung"
+- id: New_Releases
+  translation: "Keluaran terbaru"
+- id: Product_Family
+  translation: "Keluarga Produk"

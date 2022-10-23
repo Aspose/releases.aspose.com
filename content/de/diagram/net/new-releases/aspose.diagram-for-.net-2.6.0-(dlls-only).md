@@ -1,0 +1,48 @@
+---
+title: " Downloads ---Neue-Releases-aspose.diagram-for-.net-2.6.0-(nur-dlls) . "
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " diagram/net/new-releases/aspose.diagram-for-.net-2.6.0-(dlls-only)/"
+folder_name: "Aspose.Diagram für .NET 2.6.0 (nur DLLs)"
+download_link: " /diagram/net/new-releases/aspose.diagram-for-.net-2.6.0-(dlls-only)/fb7380d8e0c1451285d346cb876678ac"
+download_text: " Download"
+Intro_text: "Aspose.Diagram für .NET 2.6.0 (nur DLLs)"
+image_link: "/resources/img/zip-icon.png"
+download_count: "   10/1/2012  Downloads: 25  Views: 183"
+file_size: "  File Size: 6.4 MB "
+parent_path: "diagram/net"
+section_parent_path: "diagram/net"
+weight: 257
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Diagram für .NET 2.6.0 (nur DLLs)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/diagram/net/new-releases/aspose.diagram-for-.net-2.6.0-(dlls-only)/fb7380d8e0c1451285d346cb876678ac%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/diagram" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="Dateidetails">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li >}} Downloads: {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-fb7380d8e0c1451285d346cb876678ac" >}} 25 {{< /Common/li >}}
+      {{< Common/li >}} Dateigröße: {{< /Common/li >}}
+      {{< Common/li id="size-update-fb7380d8e0c1451285d346cb876678ac" >}} 6.4 MB {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-fb7380d8e0c1451285d346cb876678ac" >}} imran.rafique {{< /Common/li >}}
+      {{< Common/li class="hide" >}} Ansichten: {{< /Common/li >}}
+      {{< Common/li class="hide" id="view-update-fb7380d8e0c1451285d346cb876678ac" >}} 184 {{< /Common/li >}}
+      {{< Common/li >}} Hinzugefügt am: {{< /Common/li >}}
+      {{< Common/li id="added-update-fb7380d8e0c1451285d346cb876678ac" >}} 10/1/2012 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Beschreibung</h4><div class="HTMLDescription"> Aspose.Diagram für .NET 2.6.0 (nur DLLs)</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+
+

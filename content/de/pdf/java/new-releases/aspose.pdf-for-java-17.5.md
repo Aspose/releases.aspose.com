@@ -1,0 +1,48 @@
+---
+title: " Downloads ---New-Releases-aspose.pdf-for-java-17.5 . "
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " pdf/java/new-releases/aspose.pdf-for-java-17.5/"
+folder_name: "Aspose.PDF für Java 17.5"
+download_link: " /pdf/java/new-releases/aspose.pdf-for-java-17.5/e1b3e70d31f6468cb585941dee7cd152"
+download_text: " Download"
+Intro_text: "Wir freuen uns, eine neue Version von Aspose.Pdf für Java mit folgenden i..."
+image_link: "/resources/img/zip-icon.png"
+download_count: "   6/8/2017  Downloads: 230  Views: 1314"
+file_size: "  File Size: 45.4 MB "
+parent_path: "pdf/java"
+section_parent_path: "pdf/java"
+weight: 180
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.PDF für Java 17.5" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/pdf/java/new-releases/aspose.pdf-for-java-17.5/e1b3e70d31f6468cb585941dee7cd152%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="Dateidetails">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li >}} Downloads: {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-e1b3e70d31f6468cb585941dee7cd152" >}} 230 {{< /Common/li >}}
+      {{< Common/li >}} Dateigröße: {{< /Common/li >}}
+      {{< Common/li id="size-update-e1b3e70d31f6468cb585941dee7cd152" >}} 45.4 MB {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-e1b3e70d31f6468cb585941dee7cd152" >}} bornwild {{< /Common/li >}}
+      {{< Common/li class="hide" >}} Ansichten: {{< /Common/li >}}
+      {{< Common/li class="hide" id="view-update-e1b3e70d31f6468cb585941dee7cd152" >}} 1315 {{< /Common/li >}}
+      {{< Common/li >}} Hinzugefügt am: {{< /Common/li >}}
+      {{< Common/li id="added-update-e1b3e70d31f6468cb585941dee7cd152" >}} 6/8/2017 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/pdfjava/Aspose.Pdf+for+Java+17.5+Release+Notes">https://docs.aspose.com/display/pdfjava/Aspose.Pdf+for+Java+17.5+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Wir freuen uns, eine neue Version von Aspose.Pdf für Java mit folgenden Verbesserungen ankündigen zu können.</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+
+

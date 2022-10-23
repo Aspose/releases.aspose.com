@@ -1,0 +1,48 @@
+---
+title: " Downloads ---New-Releases-aspose.barcode-for-reporting-services-7.3.0-(nur-dlls) . "
+description:  "    . " 
+keywords:  "    . " 
+page_type:  single_release_page
+folder_link: " barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-7.3.0-(dlls-only)/"
+folder_name: "Aspose.BarCode für Reporting Services 7.3.0 (nur DLLs)"
+download_link: " /barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-7.3.0-(dlls-only)/ad867ae8e1aa45d5b21ce695be5b628a"
+download_text: " Download"
+Intro_text: "Es enthält die Version Aspose.BarCode for Reporting Services 7.3.0 (nur DLLs)."
+image_link: "/resources/img/random-file-icon.png"
+download_count: "   9/22/2015  Downloads: 14  Views: 83"
+file_size: "  File Size: 2.7 MB "
+parent_path: "barcode/reportingservices"
+section_parent_path: "barcode/reportingservices"
+weight: 216
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.BarCode für Reporting Services 7.3.0 (nur DLLs)" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-7.3.0-(dlls-only)/ad867ae8e1aa45d5b21ce695be5b628a%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="Dateidetails">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li >}} Downloads: {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-ad867ae8e1aa45d5b21ce695be5b628a" >}} 14 {{< /Common/li >}}
+      {{< Common/li >}} Dateigröße: {{< /Common/li >}}
+      {{< Common/li id="size-update-ad867ae8e1aa45d5b21ce695be5b628a" >}} 2.7 MB {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="author-update-ad867ae8e1aa45d5b21ce695be5b628a" >}} AlexBaranov {{< /Common/li >}}
+      {{< Common/li class="hide" >}} Ansichten: {{< /Common/li >}}
+      {{< Common/li class="hide" id="view-update-ad867ae8e1aa45d5b21ce695be5b628a" >}} 84 {{< /Common/li >}}
+      {{< Common/li >}} Hinzugefügt am: {{< /Common/li >}}
+      {{< Common/li id="added-update-ad867ae8e1aa45d5b21ce695be5b628a" >}} 9/22/2015 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+
+

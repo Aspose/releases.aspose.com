@@ -164,13 +164,20 @@
         background: #23527c!important;
         color: #eff9ff!important;
     }
-    .downloadandnotes a.btn.dwnam3 {
-        display: inline-block;
-    }
+
 </style>
 <!-- /Common CSS -->
 
 <script type="text/javascript">
+const langarray = [];
+{{ if .Page.IsTranslated }}
+  {{- range $.Site.Home.AllTranslations -}}
+    langarray.push({{.Language.Params.languageCode}});
+  {{- end -}}
+{{ end }}
+</script>
+<script type="text/javascript">
+    
     //jQuery.noConflict();
 
     /*jQuery(document).ready(function () {

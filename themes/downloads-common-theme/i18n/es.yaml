@@ -1,0 +1,30 @@
+- id: Home
+  translation: "Hogar"
+- id: Download
+  translation: "Descargar"
+- id: Downloads
+  translation: "Descargas"
+- id: Date_Added
+  translation: "Fecha Agregada"
+- id: Added
+  translation: "Adicional"
+- id: Description
+  translation: "Descripción"
+- id: Support_Forum 
+  translation: "Foro de soporte"
+- id: File_Details
+  translation: "detalles del archivo"
+- id: Release_Notes
+  translation: "Notas de lanzamiento"
+- id: Show_More_Files
+  translation: "Mostrar más archivos"
+- id: File_Size
+  translation: "Tamaño del archivo"
+- id: Browse_our_Products
+  translation: "Explore nuestros productos"
+- id: Direct_Download
+  translation: "Descarga directa"
+- id: New_Releases
+  translation: "Nuevos lanzamientos"
+- id: Product_Family
+  translation: "Familia de productos"

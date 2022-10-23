@@ -1,12 +1,12 @@
 {{ $family := .Get "family" }}
 <div class="panel-default downloadbox ">
     <div id="dvrow" class="row">
-        
+        {{ $ParentPathMultilang := .Page.RelPermalink  }}
         {{ range (where ( where $.Site.Pages.ByWeight ".Section" $family ) ".Params.page_type" "!=" "single_release_page")  }}
                 {{ $SectionPath := .RelPermalink  }}
                 {{ $ParentPath := print "/" $family "/" }}  
                
-                {{ if not (eq $SectionPath $ParentPath )}}
+                {{ if not (eq $SectionPath $ParentPathMultilang )}}
                 
                         {{ if eq $family "corporate" }}    
                             {{ if or ( (eq $SectionPath "/corporate/success-stories/")) ( eq $SectionPath "/corporate/brochures/") }}

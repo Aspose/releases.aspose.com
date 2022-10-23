@@ -1,0 +1,30 @@
+- id: Home
+  translation: "Home"
+- id: Download
+  translation: "Download"
+- id: Downloads
+  translation: "Downloads"
+- id: Date_Added
+  translation: "Date Added"
+- id: Added
+  translation: "Added"
+- id: Description
+  translation: "Description"
+- id: Support_Forum 
+  translation: "Support Forum"
+- id: File_Details
+  translation: "File Details"
+- id: Release_Notes
+  translation: "Release Notes"
+- id: Show_More_Files
+  translation: "Show more files"
+- id: File_Size
+  translation: "File Size"
+- id: Browse_our_Products
+  translation: "Browse our Products"
+- id: Direct_Download
+  translation: "Direct Download"
+- id: New_Releases
+  translation: "새로운 출시"
+- id: Product_Family
+  translation: "제품군"
