@@ -54,7 +54,7 @@ It enables your C#, VB.NET, ASP.NET applications to work with plain plots, 3D so
 - Support for BigFont.
 - Automatically detect optimal zoom for the CAD drawings.
 
-### #Supported Read CAD Formats
+### Supported Read CAD Formats
 
 **AutoCAD®:** DWG, DGN, DWT, DWF, DWFx\
 **Plotter Configuration:** PC3\
