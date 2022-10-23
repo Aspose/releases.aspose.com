@@ -1,6 +1,6 @@
 ---
-title: "DLL to Convert EPS to PNG, Enhance CDR Processing .NET API"
-description: "Download the C# .NET DLL & API to speed up CDR graphic Loading, EPS to PNG raster file conversion, .NET6 Configuration, & process BMP SVG & other file formats."
+title: "Convert EPS to PNG, Process CDR via API for C#, ASP.NET Apps"
+description: "C# .NET API to optimize CorelDRAW® CDR graphics loading via memory management & rasterization, EPS to PNG raster file conversion, supports .NET6 configuration."
 keywords: ""
 page_type: single_release_page
 folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-22.7/"
@@ -49,7 +49,7 @@ weight: 342
 
 # Optimize Memory Management of `CDR` Format
 
-Ability to speed up the CorelDRAW `CDR` vector graphics loading and processing via various strategies such as memory management & rasterization etc.
+Ability to speed up the CorelDRAW&reg; `CDR` vector graphics loading and processing via various strategies such as memory management & rasterization etc.
 
 ```csharp
 var baseFolder = @"D:\";
@@ -83,7 +83,7 @@ using (var image = Image.Load("3_a_1_2.eps"))
 
 Added support of `NET6` configuration for Aspose.Imaging.
 
-For a complete list of feautures, enhancements, and bug fixed in this release please visit, [Aspose.Imaging for .NET 22.7 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-7-release-notes/).
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Imaging for .NET 22.7 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-7-release-notes/).
 
 {{% Releases/ReleasesFileFeatures %}}
 
