@@ -26,14 +26,14 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
             submodules: true  # Fetch Hugo themes
             fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       # Step 2 - Sets up the latest version of Hugo
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
             hugo-version: 'latest'
             
