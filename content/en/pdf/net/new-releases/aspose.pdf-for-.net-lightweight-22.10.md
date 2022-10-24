@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-lightweight-22.10/"
-folder_name: "Aspose.PDF for .NET Lightweight 22.10"
+folder_name: "Aspose.PDF for .NET 22.10 Lightweight"
 download_link: "/pdf/net/new-releases/aspose.pdf-for-.net-lightweight-22.10/eff88f855e6284966512a5919aac19b9-2-8056"
 download_text: "Download"
 intro_text: "Aspose.PDF for .NET Lightweight is a light version of the main version Aspose.PDF for .NET with a smaller size and allowing documents management. Assembly can be used for creating, modifying, securing and printing PDF documents. This ZIP file contains the Aspose.PDF for .NET 4.0 Framework assembly."
@@ -17,12 +17,12 @@ section_parent_path: "pdf/net"
 
 tags: ""
 release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-10-release-notes"
-weight: 825
+weight: 826
 
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.PDF for .NET Lightweight 22.10" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.PDF for .NET 22.10 Lightweight" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/pdf/net/new-releases/aspose.pdf-for-.net-lightweight-22.10/eff88f855e6284966512a5919aac19b9-2-8056" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
