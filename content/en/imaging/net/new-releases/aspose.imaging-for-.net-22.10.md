@@ -7,7 +7,7 @@ page_type: single_release_page
 folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-22.10/"
 folder_name: "Aspose.Imaging for .NET 22.10"
 download_link: "/imaging/net/new-releases/aspose.imaging-for-.net-22.10/a7a7b0e3195a0ad50763355b528316ba-9-7967"
-download_text: "Download"---
+download_text: "Download"
 title: "Export JPG to PSD in CMYK Color via API for C#, ASP.NET Apps"
 description: "C# .NET API with support for 16-bit/Channel 64 bit PNG, JPG to PSD export in CMYK color mode, alternative graphics engine, better DNG to JPG conversion option."
 keywords: ""
