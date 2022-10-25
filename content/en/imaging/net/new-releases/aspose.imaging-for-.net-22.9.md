@@ -1,6 +1,6 @@
 ---
-title: "Enhanced CDR to PDF Conversion API for C#, ASP.NET Apps"
-description: "C# .NET API for enhanced CDR to PDF conversion, Apple MakerNote tags parsing, SVG compression, processing of ICO BMP JPEG and other imaging file formats."
+title: "Convert CDR to PDF Parse MakerNote Tags API for C# .NET Apps"
+description: "C# .NET API for converting CorelDRAW® CDR vector files to Acrobat® PDF, Apple® MakerNote tags parsing, SVG compression, support for Icon (.ico) file format."
 keywords: ""
 page_type: single_release_page
 folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-22.9/"
@@ -58,7 +58,7 @@ using(Image image = Image.Load("icon-24bit.ico"))
 }
 ```
 
-# Apple MakerNote tags parsing
+# Apple&reg; MakerNote Tags Parsing
 
 Ability to parse the Apple MakerNote tags. The following example demonstrates how to fetch `EXIF` maker notes from `JPEG`:
 
@@ -94,7 +94,7 @@ using (Image image = Image.Load(inputFile))
 }
 ```
 
-For a complete list of feautures, enhancements, and bug fixed in this release please visit, [Aspose.Imaging for .NET 22.9 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-9-release-notes/).
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Imaging for .NET 22.9 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

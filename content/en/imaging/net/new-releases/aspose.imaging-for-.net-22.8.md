@@ -1,6 +1,6 @@
 ---
 title: "WMZ to PNG Conversion & Exporter API for C#, ASP.NET Apps"
-description: "Download the C# .NET DLL & API to convert, export zipped WMZ to PNG raster format, JPG image quality estimation, & process BMP PNG EPS & other file formats."
+description: "C# .NET API to convert, export zipped WMZ to PNG raster format, configure JPG image quality estimation, updated error messages for better exception handling."
 keywords: ""
 page_type: single_release_page
 folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-22.8/"
@@ -100,7 +100,7 @@ using (var image = Image.Load("image.wmz"))
     image.Save("result.png", options);
 }
 ```
-For a complete list of feautures, enhancements, and bug fixed in this release please visit, [Aspose.Imaging for .NET 22.8 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-8-release-notes/).
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Imaging for .NET 22.8 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-8-release-notes/).
 
 {{% Releases/ReleasesFileFeatures %}}
 
