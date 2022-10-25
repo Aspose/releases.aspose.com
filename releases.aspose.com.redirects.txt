@@ -54,3 +54,4 @@ rewrite /corporate/success-stories/aspose.total/bimser-solutions-aspose.total-fo
 rewrite /words/java/new-releases/aspose.words-for-java-20.11-\(jdk1.6-only\)/ https://releases.aspose.com/words/java/new-releases/aspose.words-for-java-20.11-jdk1.6-only/ permanent;
 rewrite /corporate/success-stories/aspose.total/case-study-for-generac---aspose.total-for-.net/383ce652b43a4a7c9926e3f53a844218/ https://releases.aspose.com/corporate/success-stories/aspose.total/case-study-for-generac---aspose.total-for-.net/ permanent;
 rewrite /corporate/success-stories/aspose.words/xpand-it-found-that-aspose.words-for-java-created-value-for-xporter-plugin-for-jira/709633465edd479bac1ca393a3c9d151/ https://releases.aspose.com/corporate/success-stories/aspose.words/xpand-it-found-that-aspose.words-for-java-created-value-for-xporter-plugin-for-jira/ permanent;
+rewrite /barcode/python/(.*) https://releases.aspose.com/barcode/python-java/$1 permanent;
