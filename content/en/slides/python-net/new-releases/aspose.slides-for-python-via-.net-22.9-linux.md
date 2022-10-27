@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.9-linux/"
-folder_name: "Aspose.Slides for Python via .NET 22.9 Linux"
+folder_name: "Aspose.Slides for Python via .NET 22.10 Linux"
 download_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.9-linux/7c94fc27284e17d1e74afe315ca981b6-14-8066"
 download_text: "Download"
 intro_text: "Presentation Manipulation Python API"
@@ -22,7 +22,7 @@ weight: 14
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Slides for Python via .NET 22.9 Linux" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Slides for Python via .NET 22.10 Linux" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.9-linux/7c94fc27284e17d1e74afe315ca981b6-14-8066" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/slides" >}}
