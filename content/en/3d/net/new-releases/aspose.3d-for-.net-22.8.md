@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.3d-for-.net-22.8"
-description: " "
+title: "3D Model FBX to USDZ Conversion API for C#, ASP.NET Apps"
+description: "C# .NET API with custom xform operator support in USD / USDZ importer, improved 3D model FBX to USDZ conversion, export material attributes without any issue."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-22.8/"
@@ -14,11 +13,9 @@ download_count: " 3/8/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 11.38MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-8-release-notes/"
 weight: 314
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,29 @@ weight: 314
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 22.8 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Custom `XFORM` Operator Support
+
+Added the custom `xform` operator support in USD / USDZ importer.
+
+# Improved 3D Model FBX to USDZ Conversion
+
+Previously the Models converted from FBX to USDZ were turning out to be all black. This issue has been resolved within the current release of the API.
+
+# Improved Material Attributes Export
+
+Material attributes were not being exported when no texture was attached. This issue has now been resolved.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 22.8 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-8-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
