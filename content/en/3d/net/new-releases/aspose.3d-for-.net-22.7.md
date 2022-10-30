@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.3d-for-.net-22.7"
-description: " "
+title: "USDZ HTML5 Default Internal Format API for C#, ASP.NET Apps"
+description: "C# .NET API added support of .NET 6.0. For better extensibility switched support to the `USDZ` as HTML5’s default internal format instead of the `A3DW` format."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-22.7/"
@@ -14,11 +13,9 @@ download_count: " 8/7/2022 Downloads: 64  Views: 1 "
 file_size: "File Size: 11.34MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-7-release-notes/"
 weight: 312
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,25 @@ weight: 312
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 22.7 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Support of .NET 6.0
+
+Added the support of .NET 6.0.
+
+# USDZ as HTML5 Default Internal Format
+
+Switched the support to the `USDZ` as HTML5’s default internal format instead of the `A3DW` format.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 22.7 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-7-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
