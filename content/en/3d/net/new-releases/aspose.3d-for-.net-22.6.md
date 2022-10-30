@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.3d-for-.net-22.6"
-description: " "
+title: "Save 3D Scene, Convert USDZ to GLTF API for C#, ASP.NET Apps"
+description: "C# .NET API that allows saving 3D scene without specifying the file format, improved USDZ to GLTF conversion & DAE to USDZ format conversion via high code API."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-22.6/"
@@ -14,11 +13,9 @@ download_count: " 10/6/2022 Downloads: 57  Views: 1 "
 file_size: "File Size: 10.02MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/"
 weight: 310
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,25 @@ weight: 310
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 22.6 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Save 3D Scene
+
+Allow save 3D scene without specifying the file format.
+
+# Improved USDZ to GLTF Conversion 
+
+Previously exception occurred while saving `USDZ` to `GLTF`. This issue has now been resolved in the current version of the API.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 22.6 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
