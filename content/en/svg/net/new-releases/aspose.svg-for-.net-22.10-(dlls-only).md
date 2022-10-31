@@ -10,7 +10,7 @@ download_link: "/svg/net/new-releases/aspose.svg-for-.net-22.10-(dlls-only)/5d30
 download_text: "Download"
 intro_text: "This ZIP file contains only the Aspose.SVG for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 31/10/2022 Downloads: 1  Views: 1 "
+download_count: " 31/10/2022 Downloads: 2  Views: 1 "
 file_size: "File Size: 16.42MB"
 parent_path: "svg/net"
 section_parent_path: "svg/net"
@@ -31,7 +31,7 @@ weight: 120
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-5d30706717bae9f7024970e4533e2e85-4-8080" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-5d30706717bae9f7024970e4533e2e85-4-8080" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
       {{< Common/li id="size-update-5d30706717bae9f7024970e4533e2e85-4-8080" >}} 16.42MB {{< /Common/li >}}
 
