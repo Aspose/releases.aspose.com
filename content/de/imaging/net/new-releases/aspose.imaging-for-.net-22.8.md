@@ -1,6 +1,6 @@
 ---
 title: "WMZ-zu-PNG-Konvertierungs- und Exporter-API für C#-, ASP.NET-Apps"
-description: "Laden Sie die C# .NET DLL & API herunter, um gezippte WMZ in das PNG-Rasterformat zu konvertieren, zu exportieren, die JPG-Bildqualität zu schätzen und BMP, PNG, EPS und andere Dateiformate zu verarbeiten."
+description: "C# .NET-API zum Konvertieren, Exportieren von gezipptem WMZ in das PNG-Rasterformat, Konfigurieren der JPG-Bildqualitätsschätzung, aktualisierte Fehlermeldungen für eine bessere Ausnahmebehandlung."
 keywords: ""
 page_type: single_release_page
 folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-22.8/"
@@ -29,10 +29,10 @@ weight: 344
 {{< Releases/ReleasesDetailsUl >}}
 {{< Common/li >}} Downloads: {{< /Common/li >}}
 {{< Common/li class="downloadcount" id="dwn-update-5348b8cd847eabe707f6a932e39fa9d5-9-7740" >}} 1 {{< /Common/li >}}
-{{< Common/li >}} Dateigröße: {{< /Common/li >}}
+{{< Common/li >}} File Size: {{< /Common/li >}}
 {{< Common/li id="size-update-5348b8cd847eabe707f6a932e39fa9d5-9-7740" >}} 43.51MB {{< /Common/li >}}
 
-      {{< Common/li >}} Hinzugefügt am: {{< /Common/li >}}
+      {{< Common/li >}} Date Added: {{< /Common/li >}}
       {{< Common/li id="added-update-5348b8cd847eabe707f6a932e39fa9d5-9-7740" >}}4/8/2022 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
@@ -100,7 +100,7 @@ using (var image = Image.Load("image.wmz"))
     image.Save("result.png", options);
 }
 ```
-Eine vollständige Liste der Funktionen, Verbesserungen und behobenen Fehler in dieser Version finden Sie unter [Aspose.Imaging for .NET 22.8 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-8-release-notes/).
+Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Imaging for .NET 22.8 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-8-release-notes/).
 
 {{% Releases/ReleasesFileFeatures %}}
 

@@ -1,6 +1,6 @@
 ---
-title: "Verbesserte CDR-zu-PDF-Konvertierungs-API für C#- und ASP.NET-Apps"
-description: "C# .NET API für erweiterte CDR-in-PDF-Konvertierung, Parsing von Apple MakerNote-Tags, SVG-Komprimierung, Verarbeitung von ICO BMP JPEG und anderen Bilddateiformaten."
+title: "Konvertieren Sie CDR in PDF Parse MakerNote Tags API für C# .NET Apps"
+description: "C# .NET-API zum Konvertieren von CorelDRAW® CDR-Vektordateien in Acrobat® PDF, Parsing von Apple® MakerNote-Tags, SVG-Komprimierung, Unterstützung für das Icon-Dateiformat (.ico)."
 keywords: ""
 page_type: single_release_page
 folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-22.9/"
@@ -29,10 +29,10 @@ weight: 346
 {{< Releases/ReleasesDetailsUl >}}
 {{< Common/li >}} Downloads: {{< /Common/li >}}
 {{< Common/li class="downloadcount" id="dwn-update-c787e764e21727e5a86a25566fce6c6e-9-7845" >}} 1 {{< /Common/li >}}
-{{< Common/li >}} Dateigröße: {{< /Common/li >}}
+{{< Common/li >}} File Size: {{< /Common/li >}}
 {{< Common/li id="size-update-c787e764e21727e5a86a25566fce6c6e-9-7845" >}} 43.59MB {{< /Common/li >}}
 
-{{< Common/li >}} Hinzugefügt am: {{< /Common/li >}}
+{{< Common/li >}} Date Added: {{< /Common/li >}}
 {{< Common/li id="added-update-c787e764e21727e5a86a25566fce6c6e-9-7845" >}}2/9/2022 {{< /Common/li >}}
 {{< /Releases/ReleasesDetailsUl >}}
 
@@ -58,7 +58,7 @@ using(Image image = Image.Load("icon-24bit.ico"))
 }
 ```
 
-# Analysieren von Apple MakerNote-Tags
+# Parsen von Apple® MakerNote-Tags
 
 Möglichkeit, die Apple MakerNote-Tags zu analysieren. Das folgende Beispiel zeigt, wie `EXIF` Maker Notes aus `JPEG` abgerufen werden:
 
@@ -83,7 +83,7 @@ using (var image = Image.Load("input.jpeg") as JpegImage)
 
 # Konvertierung von CDR in PDF
 
-Unterstützung für die Konvertierung der CDR-Vektorgrafikdateien von CorelDRAW in das Dateiformat Adobe Acrobat PDF.
+Unterstützung für die Konvertierung der CDR-Vektorgrafikdateien von CorelDRAW in das Adobe Acrobat PDF-Dateiformat.
 
 ```csharp
 var baseFolder = @"D:\";
@@ -94,7 +94,7 @@ using (Image image = Image.Load(inputFile))
 }
 ```
 
-Eine vollständige Liste der Funktionen, Verbesserungen und behobenen Fehler in dieser Version finden Sie unter [Aspose.Imaging for .NET 22.9 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-9-release-notes/).
+Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Imaging for .NET 22.9 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

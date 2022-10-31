@@ -1,7 +1,7 @@
 ---
-title: " Downloads ---Neue-Releases-aspose.3d-for-.net-22.1 . "
-description:  "    . " 
-keywords:  "    . " 
+title: "NET2.0-Unterstützung Konvertieren von USDZ in GLB-API für C#-, ASP.NET-Apps"
+description:  "C# .NET API with support of .NET Standard 2.0, improved USDZ to GLB conversion of 3D formats, the primitive entities encoding, decoding support in USD exporter."
+keywords:  "    . "
 page_type:  single_release_page
 folder_link: " 3d/net/new-releases/aspose.3d-for-.net-22.1/"
 folder_name: "Aspose.3D für .NET 22.1"
@@ -41,8 +41,30 @@ weight: 301
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-1-release-notes/">https://docs.aspose.com/3d/net/aspose-3d-for-net-22-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Bemerkenswerte Eigenschaften">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Unterstützung von .Net 2.0
+
+Die Unterstützung von .NET Standard 2.0 wurde wiederhergestellt.
+
+# Verbesserte Umwandlung von USDZ in GLB
+
+Zuvor konnte die API in einigen Fällen keine „USDZ“-Dateien öffnen, um sie in das „GLB“-Format zu konvertieren. Diese Version der API hat dieses Problem behoben.
+
+# Codierung und Decodierung primitiver Entitäten
+
+Unterstützung für die Codierung und Decodierung primitiver Entitäten im USD-Exporteur hinzugefügt.
+
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.3D for .NET 22.1 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-1-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

@@ -1,6 +1,6 @@
 ---
-title: "DLL zum Konvertieren von EPS in PNG, Verbessern der CDR-Verarbeitung der .NET-API"
-description: "Laden Sie die C# .NET DLL & API herunter, um das Laden von CDR-Grafiken, die Umwandlung von EPS in PNG-Rasterdateien, die .NET6-Konfiguration und die Verarbeitung von BMP SVG und anderen Dateiformaten zu beschleunigen."
+title: "Konvertieren Sie EPS in PNG, verarbeiten Sie CDR über die API für C#, ASP.NET-Apps"
+description: "C# .NET-API zur Optimierung des Ladens von CorelDRAW® CDR-Grafiken über Speicherverwaltung und Rasterung, Konvertierung von EPS- in PNG-Rasterdateien, unterstützt .NET6-Konfiguration."
 keywords: ""
 page_type: single_release_page
 folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-22.7/"
@@ -30,10 +30,10 @@ weight: 342
 {{< Releases/ReleasesDetailsUl >}}
 {{< Common/li >}} Downloads: {{< /Common/li >}}
 {{< Common/li class="downloadcount" id="dwn-update-8ba58bdeaf8026703d83bc5f628a1371-9-7615" >}} 1 {{< /Common/li >}}
-{{< Common/li >}} Dateigröße: {{< /Common/li >}}
+{{< Common/li >}} File Size: {{< /Common/li >}}
 {{< Common/li id="size-update-8ba58bdeaf8026703d83bc5f628a1371-9-7615" >}} 43.5MB {{< /Common/li >}}
 
-      {{< Common/li >}} Hinzugefügt am: {{< /Common/li >}}
+      {{< Common/li >}} Date Added: {{< /Common/li >}}
       {{< Common/li id="added-update-8ba58bdeaf8026703d83bc5f628a1371-9-7615" >}}7/7/2022 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
@@ -49,7 +49,7 @@ weight: 342
 
 # Optimieren Sie die Speicherverwaltung des `CDR`-Formats
 
-Möglichkeit, das Laden und Verarbeiten von CorelDRAW-„CDR“-Vektorgrafiken über verschiedene Strategien wie Speicherverwaltung und Rasterung usw. zu beschleunigen.
+Fähigkeit, das Laden und Verarbeiten von CorelDRAW® „CDR“-Vektorgrafiken über verschiedene Strategien wie Speicherverwaltung und Rasterung usw. zu beschleunigen.
 
 ```csharp
 var baseFolder = @"D:\";
@@ -83,7 +83,7 @@ using (var image = Image.Load("3_a_1_2.eps"))
 
 Unterstützung der `NET6`-Konfiguration für Aspose.Imaging hinzugefügt.
 
-Eine vollständige Liste der Funktionen, Verbesserungen und behobenen Fehler in dieser Version finden Sie unter [Aspose.Imaging for .NET 22.7 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-7-release-notes/).
+Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Imaging for .NET 22.7 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-7-release-notes/).
 
 {{% Releases/ReleasesFileFeatures %}}
 
