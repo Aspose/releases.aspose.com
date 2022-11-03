@@ -16,7 +16,7 @@ parent_path: "ocr/net/resources"
 section_parent_path: "ocr/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-8-release-notes/"
+release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-9-release-notes/"
 weight: 288
 
 ---
@@ -40,7 +40,7 @@ weight: 288
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-8-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-8-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-9-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Preprocessing Filters for area , RecognizeImage from byte array</div>
