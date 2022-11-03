@@ -15,5 +15,5 @@ weight:  9
 
 {{< dbToolbar link="https://forum.aspose.com/c/diagram" linktext=" Support Forum " >}}
 
-{{< ProductListingWrapper familia="diagrama">}}
+{{< ProductListingWrapper family="diagram">}}
 

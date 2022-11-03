@@ -15,5 +15,5 @@ weight:  24
 
 {{< dbToolbar link="https://forum.aspose.com/c/finance" linktext=" Support Forum " >}}
 
-{{< ProductListingWrapper familia="finanzas">}}
+{{< ProductListingWrapper family="finance">}}
 

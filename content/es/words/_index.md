@@ -15,5 +15,5 @@ weight:  2
 
 {{< dbToolbar link="https://forum.aspose.com/c/words" linktext=" Support Forum " >}}
 
-{{< ProductListingWrapper familia="palabras">}}
+{{< ProductListingWrapper family="words">}}
 
