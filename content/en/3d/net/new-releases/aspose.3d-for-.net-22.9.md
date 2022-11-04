@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.3d-for-.net-22.9"
-description: " "
+title: "Temp File Support for FBX Importer API for C#, ASP.NET Apps"
+description: "C# .NET API with an internal temporary file system support for FBX importer, and an improved support for the GLTF file export via 3D Format Manipulation API."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-22.9/"
@@ -14,11 +13,9 @@ download_count: " 9/9/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 11.37MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/"
 weight: 317
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,25 @@ weight: 317
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 22.9 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Temp File Support for FBX Importer
+
+Added the internal temporary file system support for FBX importer.
+
+# Improved GLTF Export
+
+`GLTF` export was not as good in the previous releases. However with the current version release of the 3D API the exporting feature of `GLTF` format files has been improved.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 22.9 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

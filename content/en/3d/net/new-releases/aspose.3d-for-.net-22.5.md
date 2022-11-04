@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.3d-for-.net-22.5 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "GLTF Custom Vertex Attributes API for C#, ASP.NET Apps"
+description:  "C# .NET API mesh triangulate support `VertexElementUserData` with mapping mode Polygon / PolygonVertex,  & in TriMesh, export `VertexElementUserData` to `glTF`."
+keywords:  "    . "
 page_type:  single_release_page
 folder_link: " 3d/net/new-releases/aspose.3d-for-.net-22.5/"
 folder_name: " Aspose.3D for .NET 22.5"
@@ -39,7 +39,33 @@ weight: 309
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-5-release-notes/">https://docs.aspose.com/3d/net/aspose-3d-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Mesh Triangulate Support
+
+Mesh triangulate supports `VertexElementUserData` with mapping mode Polygon / PolygonVertex.
+
+# `VertexElementUserData` Support in TriMesh
+
+Added the support of `VertexElementUserData` in TriMesh.
+
+# `VertexElementUserData` to `glTF` Export
+
+Added the ability to export `VertexElementUserData` to `glTF`.
+
+# `GLTF` Custom Vertex Attributes
+
+Added the support for GLTF Custom Vertex Attributes.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 22.5 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-5-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

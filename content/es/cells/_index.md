@@ -15,5 +15,5 @@ weight:  4
 
 {{< dbToolbar link="https://forum.aspose.com/c/cells" linktext=" Support Forum " >}}
 
-{{< ProductListingWrapper familia="celdas">}}
+{{< ProductListingWrapper family="cells">}}
 

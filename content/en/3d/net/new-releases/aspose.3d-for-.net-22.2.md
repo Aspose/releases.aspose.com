@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.3d-for-.net-22.2 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "Embed Textures in U3D & 3D PDF via API for C#, ASP.NET Apps" 
+description:  "C# .NET API to embed textures in U3D & 3D PDF, generate U3D file with embedded texture files, access extras & extensions in GLTF, encode / decode the 3D scene."
+keywords:  "    . "
 page_type:  single_release_page
 folder_link: " 3d/net/new-releases/aspose.3d-for-.net-22.2/"
 folder_name: " Aspose.3D for .NET 22.2"
@@ -41,7 +41,59 @@ weight: 303
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-2-release-notes/">https://docs.aspose.com/3d/net/aspose-3d-for-net-22-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Embed Textures in U3D & PDF
+
+Embed textures in U3D and PDF format files. Generate 3D PDF file with embedded texture files.
+
+```csharp
+var scene = new Scene();
+scene.Open($"test.obj");
+var opt = new PdfSaveOptions();
+//embed the external textures in the output PDF file.
+opt.EmbedTextures = true;
+//Look up external textures in the  common/textures directory
+opt.LookupPaths.Add("common/textures");
+scene.Save("test.pdf", opt);
+```
+
+# Generate U3D with Embedded Texture
+
+Set this to true to generate 3D U3D file with embedded texture files.
+
+```csharp
+        var scene = new Scene();
+        scene.Open($"test.obj");
+        var opt = new U3dSaveOptions();
+        //embed the external textures in the output PDF file.
+        opt.EmbedTextures = true;
+        //Look up external textures in the  common/textures directory
+        opt.LookupPaths.Add("common/textures");
+        scene.Save("test.u3d", opt);
+```
+
+# Improved Support of GLTF Format
+
+Ability to access extras and extensions in the `GLTF` format file.
+
+# Encode 3D Scene & Node Metadata
+
+Allow to encode the scene and node’s metadata to `USD`.
+
+# Decode 3D Scene & Node Metadata
+
+Allow to decode the scene and node’s metadata from `USD`.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 22.2 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-2-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

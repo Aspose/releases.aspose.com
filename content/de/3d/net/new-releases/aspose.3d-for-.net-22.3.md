@@ -1,7 +1,7 @@
 ---
-title: " Downloads ---Neue-Releases-aspose.3d-for-.net-22.3 . "
-description:  "    . " 
-keywords:  "    . " 
+title: "Large Mesh Support & Merge 3D Scene API for C#, ASP.NET Apps"
+description:  "C# .NET API with improved support of the large mesh in U3D / PDF file exporting, enhanced 3D scene merging to merge everything from any node to current node."
+keywords:  "    . "
 page_type:  single_release_page
 folder_link: " 3d/net/new-releases/aspose.3d-for-.net-22.3/"
 folder_name: "Aspose.3D für .NET 22.3"
@@ -41,8 +41,33 @@ weight: 305
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-3-release-notes/">https://docs.aspose.com/3d/net/aspose-3d-for-net-22-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Bemerkenswerte Eigenschaften">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Verbessertes großes Mesh im U3D/PDF-Export
+
+Das große Netz beim Exportieren von U3D-/PDF-Dateien wurde verbessert.
+
+# Vereinfachtes Zusammenführen von 3D-Szenen
+
+Vereinfachte Funktionen zum Zusammenführen von Szenen. Diese neue Methode ermöglicht es, alles von einem anderen Knoten mit dem aktuellen Knoten zusammenzuführen.
+
+```csharp
+var scene1 = Scene.FromFile("file1");
+var scene2 = Scene.FromFile("file2");
+scene1.RootNode.Merge(scene2.RootNode);
+scene1.Save("output.fbx", FileFormat.FBX7700Binary);
+```
+
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.3D for .NET 22.3 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-3-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

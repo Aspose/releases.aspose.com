@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.3d-for-.net-22.10"
-description: " "
+title: "Autodesk® Maya ASCII File Support API for C#, ASP.NET Apps"
+description: "C# .NET API with the feature to import the Autodesk® Maya ASCII File. Now our 3D API supports the Maya ASCII format (MEL script) as an input format (.ma)."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-22.10/"
@@ -14,11 +13,9 @@ download_count: " 14/10/2022 Downloads: 7  Views: 1 "
 file_size: "File Size: 11.92MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-10-release-notes/"
 weight: 319
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,21 @@ weight: 319
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 22.10 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Import Maya ASCII File
+
+Added the ability in the 3D manipulation API to import the Autodesk&reg; Maya ASCII File. Now our 3D API supports the Maya ASCII format as an input format (.ma).
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 22.10 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-10-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

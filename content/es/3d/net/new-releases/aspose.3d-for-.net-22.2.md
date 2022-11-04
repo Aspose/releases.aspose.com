@@ -1,0 +1,100 @@
+---
+title: "Incrustar texturas en U3D y PDF 3D a través de API para aplicaciones C#, ASP.NET"
+description:  "C# .NET API to embed textures in U3D & 3D PDF, generate U3D file with embedded texture files, access extras & extensions in GLTF, encode / decode the 3D scene."
+keywords:  "    . "
+page_type:  single_release_page
+folder_link: " 3d/net/new-releases/aspose.3d-for-.net-22.2/"
+folder_name: "Aspose.3D para .NET 22.2"
+download_link: " /3d/net/new-releases/aspose.3d-for-.net-22.2/5fc191542f0644c5af4f2762a35aa460"
+download_text: " Download"
+Intro_text: "Contiene Aspose.3D para la versión .NET 22.2."
+image_link: "/resources/img/msi-icon.png"
+download_count: "   2/7/2022  Downloads: 19  Views: 46"
+file_size: "  File Size: 9.9 MB "
+parent_path: "3d/net"
+section_parent_path: "3d/net"
+weight: 303
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.3D para .NET 22.2" imagelink="/resources/img/icono-msi.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/3d/net/new-releases/aspose.3d-for-.net-22.2/5fc191542f0644c5af4f2762a35aa460%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/3d" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}
+    {{< Releases/ReleasesDetailsUl >}}
+            {{< Common/li >}} Descargas: {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-5fc191542f0644c5af4f2762a35aa460" >}} 19 {{< /Common/li >}}
+      {{< Common/li >}} Tamaño del archivo: {{< /Common/li >}}
+      {{< Common/li id="size-update-5fc191542f0644c5af4f2762a35aa460" >}} 9.9 MB {{< /Common/li >}} 
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+      {{< Common/li class="hide" id="autor-actualización-5fc191542f0644c5af4f2762a35aa460" >}} lex.chou {{< /Common/li >}}
+      {{< Common/li class="hide" >}} Vistas: {{< /Common/li >}}
+      {{< Common/li class="hide" id="view-update-5fc191542f0644c5af4f2762a35aa460" >}} 47 {{< /Common/li >}}
+      {{< Common/li >}} Fecha de adición: {{< /Common/li >}}
+      {{< Common/li id="added-update-5fc191542f0644c5af4f2762a35aa460" >}} 2/7/2022 {{< /Common/li >}} 
+
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Notas de lanzamiento</h4><div> <a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-2-release-notes/">https://docs.aspose.com/3d/net/aspose-3d-for-net-22-2-release-notes/</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Características notables">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Texturas incrustadas en U3D y PDF
+
+Incruste texturas en archivos de formato U3D y PDF. Genere un archivo PDF 3D con archivos de textura incrustados.
+
+```csharp
+var scene = new Scene();
+scene.Open($"test.obj");
+var opt = new PdfSaveOptions();
+//embed the external textures in the output PDF file.
+opt.EmbedTextures = true;
+//Look up external textures in the  common/textures directory
+opt.LookupPaths.Add("common/textures");
+scene.Save("test.pdf", opt);
+```
+
+# Generar U3D con textura incrustada
+
+Establézcalo en verdadero para generar un archivo 3D U3D con archivos de textura incrustados.
+
+```csharp
+        var scene = new Scene();
+        scene.Open($"test.obj");
+        var opt = new U3dSaveOptions();
+        //embed the external textures in the output PDF file.
+        opt.EmbedTextures = true;
+        //Look up external textures in the  common/textures directory
+        opt.LookupPaths.Add("common/textures");
+        scene.Save("test.u3d", opt);
+```
+
+# Compatibilidad mejorada con el formato GLTF
+
+Capacidad para acceder a extras y extensiones en el archivo de formato `GLTF`.
+
+# Codificar escena 3D y metadatos de nodo
+
+Permitir codificar la escena y los metadatos del nodo en `USD`.
+
+# Decodificar escena 3D y metadatos de nodo
+
+Permitir decodificar la escena y los metadatos del nodo desde `USD`.
+
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.3D for .NET 22.2 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-2-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
