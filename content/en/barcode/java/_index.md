@@ -45,7 +45,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
       </dependency>  
      Gradle:  
      compile group: 'com.aspose', name: 'aspose-barcode', classifier: 'jdk18', version:  '22.9'
-     compile group: 'com.aspose', name: 'aspose-barcode', classifier: 'javadoc', version: '22.9'
+     compile group: 'com.aspose', name: 'aspose-barcode', classifier: 'javadoc', version: '22.10'
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
