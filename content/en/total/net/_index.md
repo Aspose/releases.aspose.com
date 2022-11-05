@@ -1,5 +1,5 @@
 ---
-title: ".NET APIs for File Formats | Aspose.Total for .NET"
+title: ".NET APIs for File Formats | Aspose.Total for .NET" 
 description: "Download .NET library suite to create, manipulate, convert, render & print Microsoft Word, Excel, PowerPoint, Outlook, Publisher, Visio, Project & OneNote files. Package also includes APIs for PDF, Photoshop, CAD, GIS & 3D file formats as well as APIs for barcodes, OCR & OMR. "
 keywords: ".NET libraries "
 family_listing_page_title: "Aspose.Total for .NET"
