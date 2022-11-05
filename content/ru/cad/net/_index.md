@@ -30,9 +30,9 @@ weight:  1
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
 
-!{{ГИПЕРССЫЛКА1}} !{{ГИПЕРССЫЛКА2}}
+![Version](https://img.shields.io/nuget/v/Aspose.Total) ![Nuget](https://img.shields.io/nuget/dt/Aspose.Total?label=nuget%20downloads)
 
-{{ГИПЕРССЫЛКА1}} | {{ГИПЕРССЫЛКА2}} | {{ГИПЕРССЫЛКА3}} | {{ГИПЕРССЫЛКА4}} | {{ГИПЕРССЫЛКА5}} | {{ГИПЕРССЫЛКА6}} | {{ГИПЕРССЫЛКА7}} | {{ГИПЕРССЫЛКА8}} | {{ГИПЕРССЫЛКА9}} | {{ГИПЕРССЫЛКА10}}
+[Product Page](https://products.aspose.com/total/net/) | [Docs](https://docs.aspose.com/total/net/) | [API Reference](https://reference.aspose.com/) | [Examples](http://aspose.github.io) | [Blog](https://blog.aspose.com/category/total/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/) | [Temporary License](https://purchase.aspose.com/temporary-license) | [Policies](https://purchase.aspose.com/policies) | {{ГИПЕРССЫЛКА10}}
 
 Aspose.CAD для .NET — это автономная библиотека классов для улучшения приложений ASP.NET и Windows для обработки и рендеринга чертежей САПР без использования AutoCAD или любого другого рабочего процесса рендеринга. Библиотека классов САПР обеспечивает высококачественное преобразование файлов, макетов и слоев DWG, DWF, DWFX, DWT, DGN, STL, OBJ, STL, CF2, IGES, IFC, PLT и DXF в форматы PDF и растровых изображений.
 

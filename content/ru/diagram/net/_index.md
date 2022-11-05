@@ -30,9 +30,9 @@ weight:  1
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
 
-!{{ГИПЕРССЫЛКА1}} !{{ГИПЕРССЫЛКА2}}
+![Version](https://img.shields.io/nuget/v/Aspose.Total) ![Nuget](https://img.shields.io/nuget/dt/Aspose.Total?label=nuget%20downloads)
 
-{{ГИПЕРССЫЛКА1}} | {{ГИПЕРССЫЛКА2}} | {{ГИПЕРССЫЛКА3}} | {{ГИПЕРССЫЛКА4}} | {{ГИПЕРССЫЛКА5}} | {{ГИПЕРССЫЛКА6}} | {{ГИПЕРССЫЛКА7}} | {{ГИПЕРССЫЛКА8}} | {{ГИПЕРССЫЛКА9}}
+[Product Page](https://products.aspose.com/total/net/) | [Docs](https://docs.aspose.com/total/net/) | [API Reference](https://reference.aspose.com/) | [Examples](http://aspose.github.io) | [Blog](https://blog.aspose.com/category/total/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/) | [Temporary License](https://purchase.aspose.com/temporary-license) | [Policies](https://purchase.aspose.com/policies)
 
 Aspose.Diagram for .NET API — это решение для требований к работе с файлами Microsoft Visio®. Это позволяет приложениям .NET читать, записывать, экспортировать и обрабатывать диаграммы Microsoft Visio®, поддерживая все объекты и свойства Visio®, включая фигуры, страницы, изображения, образцы форм, трафареты, текст, слои, верхние и нижние колонтитулы, определяемые пользователем ячейки, гиперссылки, защита файлов, геометрия, текстовые поля и комментарии.
 
