@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.pdf-for-.net-22.1 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "Convert PDF to DOCX Redaction Annotation API C# ASP.NET Apps"
+description:  "C# .NET API with the popup property for the Redaction Annotation, improved HTLM to PDF conversion & resolved 0 kb file, convert PDF to DOCX with annotations."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " pdf/net/new-releases/aspose.pdf-for-.net-22.1/"
 folder_name: " Aspose.PDF for .NET 22.1"
@@ -41,7 +41,30 @@ weight: 803
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-1-release-notes/">https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-1-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 22.1 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+  {{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Redaction Annotation Popup Property
+
+Added the Popup property for the `RedactionAnnotation` in the PDF API.
+
+# Improved HTLM to PDF Conversion
+
+Resolved the issue where HTML to PDF conversion was producing `0` kb file.
+
+# Improved PDF to DOCX Conversion
+
+Resolved the issue where during conversion of PDF to DOCX, annotation was missing in the output.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PDF for .NET 22.1 Release Notes](https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-1-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
