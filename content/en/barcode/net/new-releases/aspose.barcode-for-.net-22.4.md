@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.barcode-for-.net-22.4 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "Read Big QR with Geometric Distortions API for C#, .NET Apps"
+description:  "C# .NET API with better barcode and QR Code recognition ability to detect & read the Big QR Code with small geometric distortions via high code on-premise API."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " barcode/net/new-releases/aspose.barcode-for-.net-22.4/"
 folder_name: " Aspose.BarCode for .NET 22.4"
@@ -37,9 +37,25 @@ weight: 548
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-4-release-notes/">https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-4-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 22.4 release.</div>
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-4-release-notes/">https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-4-release-notes/</a></div><h4>Description</h4>
+      <div class="HTMLDescription">It contains Aspose.BarCode for .NET 22.4 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+  {{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Read Big QR Code with Geometric Distortions
+
+Previously in some instances the Big QR code was not being recognized with small geometric distortions. This issue has now been resolved.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.BarCode for .NET 22.4 Release Notes](https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-4-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
