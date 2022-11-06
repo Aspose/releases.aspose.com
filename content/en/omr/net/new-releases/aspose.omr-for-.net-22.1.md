@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.omr-for-.net-22.1 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "Support for checkbox Element in OMR API for C#, ASP.NET Apps"
+description:  "C# .NET API offers a new OMR element; i.e. `checkbox`. Specify OMR recognition accuracy of checkbox to detect slightest filled marks. Add answer to checkbox."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " omr/net/new-releases/aspose.omr-for-.net-22.1/"
 folder_name: " Aspose.OMR for .NET 22.1"
@@ -41,7 +41,39 @@ weight: 82
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/omr/net/aspose-omr-for-net-22-1-release-notes/">https://docs.aspose.com/omr/net/aspose-omr-for-net-22-1-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Contains Aspose.OMR for .NET 22.1 release</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+  {{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Support for `checkbox` Element in OMR
+
+This release of the API offers a new addition to the various OMR elements; i.e. [`checkbox`](https://docs.aspose.com/omr/net/txt-markup/checkbox/). The recognition accuracy of this element can be specified to make sure that even the slightest filled marks are detected. This element can be used along with the [`content`](https://docs.aspose.com/omr/net/txt-markup/content/) element, that is used to provide the answers to be placed inside the checkbox declaration.
+
+```csharp
+?checkbox=Food preference:
+	bubble_size=extrasmall
+	font_size=10
+?content=Vegan
+	font_size=10
+?content=Kosher
+	font_size=10
+?content=Low-carb
+	font_size=10
+&checkbox
+```
+
+**Result**
+
+![CheckBox](https://docs.aspose.com/omr/net/txt-markup/checkbox/checkbox-example.png)
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OMR for .NET 22.1 Release Notes](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-1-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
