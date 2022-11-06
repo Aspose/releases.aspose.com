@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases--aspose.ocr-for-net-22.4 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "XLSX, TXT, PDF File Creation OCR API for C#, ASP.NET Apps"
+description:  "C# .NET API with improved Text TXT & Microsoft Excel® XLSX file creation algorithm, save OCR recognition result as PDF in MemoryStream, updated ONNX version."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " ocr/net/new-releases/-aspose.ocr-for-net-22.4/"
 folder_name: "  Aspose.OCR for NET 22.4"
@@ -39,7 +39,29 @@ weight: 279
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-4-release-notes/">https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-4-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">improved XLSX, recognition of PDF from MemoryStream and ability to get words coordinates</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Improved `XLSX` File Creation
+
+Improved the algorithm for Microsoft Excel&reg; `XLSX` file creation (placement of result by cells).
+
+# Improved `TXT` File Creation
+
+Implemented the improved algorithm for creating the Text `TXT` file (placement of result by position).
+
+# Save OCR Result as PDF in MemoryStream
+
+Implemented the ability to save OCR recognition result as a PDF in MemoryStream. Also added the ability to load PDF from MemoryStream.
+
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.4 - Release Notes](https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-4-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
