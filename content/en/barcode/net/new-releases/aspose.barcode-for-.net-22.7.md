@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.barcode-for-.net-22.7"
-description: " "
+title: "Low Memory Cost to Read PDF417 Barcodes API for C# .NET Apps"
+description: "C# .NET API release offers great improvement in the time it takes to read the PDF417 barcodes, memory cost of reading the PDF417 barcodes has been reduced."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/net/new-releases/aspose.barcode-for-.net-22.7/"
@@ -14,11 +13,9 @@ download_count: " 26/07/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 15.32MB"
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-7-release-notes/"
 weight: 557
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,5 +42,22 @@ weight: 557
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 22.7 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+  {{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Reduced Memory Cost to Read PDF417 Barcodes
+
+This release of the API offers great improvement in the time it takes to read the PDF417 barcodes. At the same time the memory cost of reading the PDF417 barcodes has been considerably reduced.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.BarCode for .NET 22.7 Release Notes](https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-7-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
