@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases--aspose.ocr-for-net-22.3 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "Searchable PDF Multipage DJVU OCR API for C#, ASP.NET Apps"
+description:  "C# .NET API with added support for multipage DJVU files, PDF to searchable PDF conversion, text area detection OCR algorithm, COMBINE mode area recognition."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " ocr/net/new-releases/-aspose.ocr-for-net-22.3/"
 folder_name: "  Aspose.OCR for NET 22.3"
@@ -41,7 +41,33 @@ weight: 277
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-3-release-notes/">https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-3-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Add DJVU input format support</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Multipage DJVU Input Support
+
+Added the support for multipage DJVU files.
+
+# Improved Areas Recognition
+
+Improved the logic of the `COMBINE` mode for areas recognition.
+
+# Convert PDF to Searchable PDF
+
+Previously in some instances we observed error while converting PDF to a searchable PDF. This issue has now been resolved.
+
+# Improved Text Area Detection Algorithm
+
+This release of the API offers an improved text area detection algorithm.
+
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.3 - Release Notes](https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-3-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
