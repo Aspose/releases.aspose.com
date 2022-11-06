@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases--aspose.ocr-for-net-22.2 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "OCR Text Detector Image Extraction API for C#, ASP.NET Apps"
+description:  "C# .NET API with craft text detector integration, combine mode for DSR/CRAFT area recognition, reduced OCR API package size, improved image extraction from PDF."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " ocr/net/new-releases/-aspose.ocr-for-net-22.2/"
 folder_name: "  Aspose.OCR for NET 22.2"
@@ -41,7 +41,41 @@ weight: 274
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-2-release-notes/">https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-2-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">added new areas detection modes, increased speed, reduced size</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Craft Text Detector Integration
+
+Craft text detector integration has been made in the current version of the API.
+
+# Combine Mode for DSR/CRAFT Areas Recognition
+
+Created the combine mode for DSR/CRAFT areas recognition.
+
+# Reduced OCR API Package Size
+
+Reduced package size of OCR API.
+
+# Choose Mode of Areas Detection
+
+Added the ability to choose mode of areas detection.
+
+# Increased Recognition Speed of OCR
+
+Improved the speed of OCR recognition.
+
+# Improved Image Extraction from PDF
+
+Improved the ability to extract images from PDF files via OCR API.
+
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.2 - Release Notes](https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-2-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
