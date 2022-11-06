@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.barcode-for-.net-22.5"
-description: " "
+title: "GS1 Composite Barcode Generation API for C#, ASP.NET Apps"
+description: "C# .NET API with the support for the GS1 composite barcode generation. Barcode recognition API that works with 1D (linear), 2D & composite barcode symbologies."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/net/new-releases/aspose.barcode-for-.net-22.5/"
@@ -14,10 +13,8 @@ download_count: " 10/6/2022 Downloads: 12  Views: 13 "
 file_size: "File Size: 15.32MB"
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-
 release_notes_url: "https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-5-release-notes/"
 weight: 550
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,7 +41,22 @@ weight: 550
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 22.5 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+  {{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# GS1 Composite Barcode Generation Support
+
+Implemented the support of GS1 Composite Barcode generation.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.BarCode for .NET 22.5 Release Notes](https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-5-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
