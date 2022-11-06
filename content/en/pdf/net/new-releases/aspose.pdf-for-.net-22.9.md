@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.pdf-for-.net-22.9"
-description: " "
+title: "Convert PDF to PNG Transparent Background API C#, .NET Apps"
+description: "C# .NET API with ability to convert PDF to PNG with transparent background, efficient PDF to TIFF conversion, new API property to modify subject rubrics order."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-22.9/"
@@ -14,11 +13,9 @@ download_count: " 12/9/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 217.82MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-9-release-notes"
 weight: 823
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,30 @@ weight: 823
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 22.9 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+  {{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Modify Subject Rubrics Order
+
+Added the property to modify the order of the subject rubrics (E=, CN=, O=, OU=, ) into the signature.
+
+# PDF to PNG Conversion with Transparent Background
+
+Ability to convert PDF to PNG with transparent background.
+
+# Efficient PDF to TIFF Conversion
+
+Previously, it was observed that the PDF to Tiff conversion had slow performance. This issue has now been resolved.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PDF for .NET 22.9 Release Notes](https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-9-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
