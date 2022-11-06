@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.barcode-for-.net-22.6"
-description: " "
+title: "Barcode SVG Vector Image Scaling API for C#, ASP.NET Apps"
+description: "C# .NET API with SVG image scalability feature. Scale barcode vector SVG files to various sizes without losing resolution or barcode recognition ability."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/net/new-releases/aspose.barcode-for-.net-22.6/"
@@ -14,10 +13,8 @@ download_count: " 25/6/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 15.32MB"
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-
 release_notes_url: "https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-6-release-notes/"
 weight: 553
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,7 +41,30 @@ weight: 553
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 22.6 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+  {{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Scalable SVG Support
+
+Introduced the scalability feature of SVG images. The vector SVG file can be scaled to various sizes without losing resolution.
+
+The following C# code snippet demonstrates how to generate barcodes in the SVG format using API:
+
+```csharp
+BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.Code128, "12345678");
+//save as Svg
+gen.Save($"{path}VectorImageSvg.svg", BarCodeImageFormat.Svg);
+```
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.BarCode for .NET 22.6 Release Notes](https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-6-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
