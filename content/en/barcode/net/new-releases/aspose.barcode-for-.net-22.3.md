@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.barcode-for-.net-22.3 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "SwissQRBill, SwissQRCodetext Support API for C# ASP.NET Apps"
+description:  "C# .NET API with better handling of `SwissQRBill` type of barcode for automated digital payments, improved handling of `SwissQRCodetext` via on-premise API."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " barcode/net/new-releases/aspose.barcode-for-.net-22.3/"
 folder_name: " Aspose.BarCode for .NET 22.3"
@@ -39,9 +39,51 @@ weight: 546
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-3-release-notes/">https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-3-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 22.3 release.</div>
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-3-release-notes/">https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-3-release-notes/</a></div><h4>Description</h4>
+      <div class="HTMLDescription">It contains Aspose.BarCode for .NET 22.3 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+  {{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Improved Handling of `SwissQRBill`
+
+Swiss QR Code symbology is typically used in facilitating automated digital payments. Aspose.BarCode for .NET contains `SwissQRBill` class that can be used to implement the Swiss QR Code support in your Apps.
+
+In some instances it was observed that the API was not throwing exception in case of `SwissQRBill` empty element `StrdBkgInf` (BillInformation). The current version of the API has resolved this issue.
+
+The following C# sample of demonstrates how to read Swiss QR Code (QR Code Recognition) via API:
+
+```csharp
+Console.OutputEncoding = Encoding.Unicode;
+//recognize Swiss QR Code
+BarCodeReader reader = new BarCodeReader($"{path}SwissQRBill.png", DecodeType.QR);
+foreach (BarCodeResult result in reader.ReadBarCodes())
+{
+    SwissQRCodetext swissResult = ComplexCodetextReader.TryDecodeSwissQR(result.CodeText);
+    if (null == swissResult) continue;
+    Console.WriteLine($"Version:{swissResult.Bill.Version}");
+    Console.WriteLine($"Account:{swissResult.Bill.Account}");
+    Console.WriteLine($"Amount:{swissResult.Bill.Amount}");
+    Console.WriteLine($"Currency:{swissResult.Bill.Currency}");
+    Console.WriteLine($"Reference:{swissResult.Bill.Reference}");
+    Console.WriteLine($"Creditor:{swissResult.Bill.Creditor.Name}");
+    Console.WriteLine($"Debtor:{swissResult.Bill.Debtor.Name}");
+}
+```
+
+# Improved Handling of `SwissQRCodetext`
+
+An issue was observed with `SwissQRCodetext` where after the End-Tag (EPD-Trailer) there was an unnecessary New-Line (CR-LF). This issue has now been resolved.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.BarCode for .NET 22.3 Release Notes](https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-3-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
