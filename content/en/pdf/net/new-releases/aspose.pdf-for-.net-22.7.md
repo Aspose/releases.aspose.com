@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.pdf-for-.net-22.7"
-description: " "
+title: "Improved EPUB, HTML to PDF Conversion API for C#, .NET Apps"
+description: "C# .NET API with improved link annotation, memory efficient EPUB conversion, improved handling of multibyte characters, convert HTML to PDF, text formatting."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-22.7/"
@@ -14,11 +13,9 @@ download_count: " 18/7/2022 Downloads: 136  Views: 1 "
 file_size: "File Size: 217.45MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-7-release-notes"
 weight: 817
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,37 @@ weight: 817
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 22.7 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+  {{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Improved Handling of Link Annotation
+
+Modify link annotation and set action as none or null.
+
+# Memory Efficient EPUB Conversion
+
+It was observed that in some instances the loading of `EPUB` for conversion was taking all memory of the System. This issue has now been resolved.
+
+# Improved Handling of Multibyte Characters
+
+Previously, the Multibyte Characters were not being displayed. This issue has now been resolved.
+
+# Improved HTML to PDF Conversion
+
+Introduced various aspects of HTML to PDF conversion, such as:
+
+- Position of text elements
+- Text formatting
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PDF for .NET 22.7 Release Notes](https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-7-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
