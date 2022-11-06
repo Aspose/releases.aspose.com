@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.barcode-for-.net-22.1 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "Improved PDF417 Barcode Size Handling API for C#, .NET Apps"
+description:  "C# .NET API with improved handling of CompactPDF417 or PDF417Truncate barcode size. Compact PDF417 Specs are somewhat similar to Basic PDF417 and Macro PDF417."
+keywords:  "    . "
 page_type:  single_release_page
 folder_link: " barcode/net/new-releases/aspose.barcode-for-.net-22.1/"
 folder_name: " Aspose.BarCode for .NET 22.1"
@@ -39,9 +39,37 @@ weight: 542
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-1-release-notes/">https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-1-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 22.1 release.</div>
+      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-1-release-notes/">https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-1-release-notes/</a></div><h4>Description</h4>
+      
+      <div class="HTMLDescription">It contains Aspose.BarCode for .NET 22.1 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+  {{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Improved Barcode Size Handling of CompactPDF417
+
+Previously in some instances the incorrect barcode size for Compact PDF417 / Truncated PDF417 was observed. This issue has been resolved in the current version of the API.
+
+The following C# code sample demonstrates how to generate CompactPDF417 barcode using API: 
+
+```csharp
+BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.Pdf417, "Åspóse.Barcóde©");
+gen.Parameters.Barcode.XDimension.Pixels = 2;
+gen.Parameters.Barcode.Pdf417.Columns = 3;
+//set Pdf417 truncated or Compact Pdf417
+gen.Parameters.Barcode.Pdf417.Pdf417Truncate = true;
+gen.Save($"{path}CompactPdf417Basic.png", BarCodeImageFormat.Png);
+```
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.BarCode for .NET 22.1 Release Notes](https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-1-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
