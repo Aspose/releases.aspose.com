@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases--aspose.ocr-for-net-22.1 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "Multipage TIFF Recognition Support API for C#, ASP.NET Apps"
+description:  "C# .NET API with the added ability to recognize multipage `TIFF` input. Extract text from a multi-page TIFF image, using the RecognizeTiff method of OCR API."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " ocr/net/new-releases/-aspose.ocr-for-net-22.1/"
 folder_name: "  Aspose.OCR for NET 22.1"
@@ -41,7 +41,29 @@ weight: 273
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-1-release-notes/">https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-1-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Add multipage TIFF input format support</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+## Multipage `TIFF` Recognition Support
+
+Added the ability to recognize multipage `TIFF` input to extract text from a multi-page `TIFF`.
+
+```csharp
+Aspose.OCR.AsposeOcr recognitionEngine = new Aspose.OCR.AsposeOcr();
+Aspose.OCR.DocumentRecognitionSettings recognitionSettings = new Aspose.OCR.DocumentRecognitionSettings();
+recognitionSettings.Language = Aspose.OCR.Language.Ukr;
+List<Aspose.OCR.RecognitionResult> results = recognitionEngine.RecognizeTiff("source.tiff", recognitionSettings);
+Aspose.OCR.AsposeOcr.SaveMultipageDocument("result.pdf", Aspose.OCR.SaveFormat.Pdf, results);
+```
+
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.1 - Release Notes](https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-1-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
