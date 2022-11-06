@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.omr-for-.net-22.8"
-description: " "
+title: "Improved Image Rotation in OMR Form API for C#, ASP.NET Apps"
+description: "C# .NET API with improved processing speed of image rotation by adding an extra positioning marker, ability to add more than one write-in fields in OMR forms."
 keywords: ""
 page_type: single_release_page
 folder_link: "/omr/net/new-releases/aspose.omr-for-.net-22.8/"
@@ -14,11 +13,9 @@ download_count: " 19/8/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 77.75MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-22-8-release-notes/"
 weight: 96
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,69 @@ weight: 96
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Contains Aspose.OMR for .NET 22.8 release</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+  {{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Improved Image Rotation in OMR Forms
+
+Improved processing speed and handling of image rotation by adding an extra [positioning marker](https://docs.aspose.com/omr/net/omr-form-structure/) to the upper right corner of the printable OMR forms.
+
+![Additional Positioning Marker](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-8-release-notes/markers.png)
+
+# Insert Multiple OMR Write-in Fields
+
+Ability to add more than one write-in fields within your OMR forms. The following C# code sample demonstrates how to insert multiple OMR write-in fields via API:
+
+```csharp
+?container=Example
+?block=Border
+	border=Square
+	border_size=5
+?content=What does OMR stand for?
+	font_style=Bold
+	font_size=12
+?vertical_choicebox=Definition
+	top_padding=100
+?answer=1
+?content=Optical mark recognition
+	font_style=Bold
+	font_size=10
+&answer
+?answer=2
+?content=Optical character recognition
+	font_style=Bold
+	font_size=10
+&answer
+?answer=write-in
+?content=Own answer 1
+	font_style=Bold
+	font_size=10
+?write_in=Definition
+&answer
+?answer=Custom answer
+?content=Own answer 2
+	font_style=Bold
+	font_size=10
+?write_in=Custom definition
+&answer
+&vertical_choicebox
+&block
+&container
+```
+
+**Result**
+
+![Insert Multiple OMR Write-in Fields](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-8-release-notes/form.png)
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OMR for .NET 22.8 Release Notes](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-8-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
