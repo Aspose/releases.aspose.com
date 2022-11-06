@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.pdf-for-.net-22.6"
-description: " "
+title: "Extract Subscript, SuperScript PDF to PNG API C# .NET Apps"
+description: "C# .NET API to extract subscript, superscript text from PDF, faster PDF to PNG conversion, convert EPUB to DOC on Docker container, text replacement alignment."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-22.6/"
@@ -14,10 +13,8 @@ download_count: " 20/6/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 217.05MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-
 release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-6-release-notes/"
 weight: 813
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,7 +41,42 @@ weight: 813
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 22.6 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+  {{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Extract Subscript & Superscript
+
+Support to extract Subscript and Superscript text from PDF.
+
+# Faster PDF to PNG Conversion
+
+While converting PDF to PNG raster graphics, it was observed that the API is taking long time. This issue has been resolved and now you can convert PDF pages into PNG images in a faster way.
+
+# Improved EPUB to DOC Conversion on Docker Container
+
+An OOM exception was observed when converting EPUB to DOC on Linux Docker Container. This issue has now been resolved.
+
+# Improved HTML to PDF Mechanism
+
+Numerous improvements regarding HTML to PDF conversion mechanism.
+
+# Improved PDF to Text Converter
+
+Incorrect sequence of the text was observed in some instances of PDF to Text conversion. This issue has now been resolved.
+
+# Text Replacement & Text Alignment
+
+Text alignment was getting changed unnecessarily while replacing text. This issue has now been resolved.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PDF for .NET 22.6 Release Notes](https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-6-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
