@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr-for-net-22.5"
-description: " "
+title: "Cyrillic Alphabet OCR, JSON XML Output API for C#, .NET Apps"
+description: "C# .NET API supports Cyrillic alphabet, Belorussian, Bulgarian, Ukrainian, Kazakh, Russian, Serbian languages, JSON & XML Output Formats, Improved OCR Speed."
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-22.5/"
@@ -44,7 +44,29 @@ weight: 280
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">New Cyrillic ML model; fast recognition method; XML, JSON output file formats</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Integrated Support for the Cyrillic Alphabet
+
+Within this release of the API integration of the Cyrillic model has been implemented. Added the support for Cyrillic alphabet as well as the support for the Belorussian, Bulgarian, Ukrainian, Kazakh, Russian, and Serbian languages.
+
+# Added Support for JSON & XML Output Formats
+
+Extended the fields for JSON output format. Also introduced the XML output format support. Added the ability to get results in the XML or JSON file formats.
+
+# Improved OCR Speed
+
+Added the fast recognition method to improve the OCR detection and recognition speed.
+
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.5 - Release Notes](https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-5-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
