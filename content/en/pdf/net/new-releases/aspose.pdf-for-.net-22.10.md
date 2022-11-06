@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.pdf-for-.net-22.10"
-description: " "
+title: "Faster PNG to PDF Conversion via API for C#, ASP.NET Apps"
+description: "C# .NET API with improved speed of PNG to PDF conversion via on-premise API. Convert PNG raster graphics to Adobe Acrobat® PDF files format quickly and easily."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-22.10/"
@@ -14,11 +13,9 @@ download_count: " 19/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 219.66MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-10-release-notes"
 weight: 826
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,22 @@ weight: 826
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 22.10 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+  {{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Improved Speed of PNG to PDF Conversion
+
+It was observed that in some instances the API is taking longer to generate PNG from PDF. This issue has now been resolved.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PDF for .NET 22.10 Release Notes](https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-10-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
