@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.pdf-for-.net-22.2 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "SHA256 Sign PDF Improved Image Quality API C#, ASP.NET Apps"
+description:  "C# .NET API with support to sign PDF files with SHA256, Image quality has been improved while converting PDF to image formats, better image downscale quality."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " pdf/net/new-releases/aspose.pdf-for-.net-22.2/"
 folder_name: " Aspose.PDF for .NET 22.2"
@@ -41,7 +41,26 @@ weight: 805
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-2-release-notes/">https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-2-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 22.2 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+  {{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# SHA256 Signing PDF Support
+
+Support has been added to sign PDF files with `SHA256`.
+
+# Improved Converted Image Quality
+
+Image quality has been improved while converting PDF to image format. Also improved the image downscale quality.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PDF for .NET 22.2 Release Notes](https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-2-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
