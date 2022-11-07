@@ -30,9 +30,7 @@ Abierto
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
 
-!{{HIPERVINCULO1}} !{{HIPERVINCULO2}}
-
-{{HIPERVINCULO1}} | {{HIPERVINCULO2}} | {{HIPERVINCULO3}} | {{HIPERVINCULO4}} | {{HIPERVINCULO5}} | {{HIPERVINCULO6}} | {{HIPERVINCULO7}} | {{HIPERVINCULO8}} | {{HIPERVINCULO9}} | {{HIPERVINCULO10}}
+[Product Page](https://products.aspose.com/pdf/cpp/) | [Docs](https://docs.aspose.com/pdf/cpp/) | [Demos](https://products.aspose.app/pdf/family) | [API Reference](https://reference.aspose.com/pdf/cpp) | [Examples](https://github.com/aspose-pdf/Aspose.Pdf-for-C) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 Aspose.Cells para C++ es una biblioteca nativa de C++ para crear, manipular, procesar y convertir archivos de Microsoft Excel® sin necesidad de Microsoft Office® o automatización. La API de Excel C++ es compatible con Excel 97-2003 (XLS), Excel 2007-2013/2016 (XLSX, XLSM, XLSB), OpenOffice XML y otros formatos como CSV, TSV y más.
 

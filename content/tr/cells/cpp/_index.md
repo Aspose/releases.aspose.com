@@ -30,9 +30,7 @@ Açık
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
 
-!{{KÖPRÜ1}} !{{KÖPRÜ2}}
-
-{{KÖPRÜ1}} | {{KÖPRÜ2}} | {{KÖPRÜ3}} | {{KÖPRÜ4}} | {{KÖPRÜ5}} | {{KÖPRÜ6}} | {{KÖPRÜ7}} | {{KÖPRÜ8}} | {{KÖPRÜ9}} | {{KÖPRÜ10}}
+[Product Page](https://products.aspose.com/pdf/cpp/) | [Docs](https://docs.aspose.com/pdf/cpp/) | [Demos](https://products.aspose.app/pdf/family) | [API Reference](https://reference.aspose.com/pdf/cpp) | [Examples](https://github.com/aspose-pdf/Aspose.Pdf-for-C) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 Aspose.Cells for C++, Microsoft Office® veya Otomasyona ihtiyaç duymadan Microsoft Excel® dosyalarını oluşturmak, işlemek, işlemek ve dönüştürmek için yerel bir C++ kitaplığıdır. Excel C++ API, Excel 97-2003 (XLS), Excel 2007-2013/2016 (XLSX, XLSM, XLSB), OpenOffice XML ve CSV, TSV ve daha fazlası gibi diğer biçimleri destekler.
 

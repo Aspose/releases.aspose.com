@@ -30,9 +30,7 @@ Abierto
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
 
-!{{HIPERVINCULO1}} !{{HIPERVINCULO2}}
-
-{{HIPERVINCULO1}} | {{HIPERVINCULO2}} | {{HIPERVINCULO3}} | {{HIPERVINCULO4}} | {{HIPERVINCULO5}} | {{HIPERVINCULO6}} | {{HIPERVINCULO7}} | {{HIPERVINCULO8}} | {{HIPERVINCULO9}} | {{HIPERVINCULO10}}
+[Product Page](https://products.aspose.com/pdf/cpp/) | [Docs](https://docs.aspose.com/pdf/cpp/) | [Demos](https://products.aspose.app/pdf/family) | [API Reference](https://reference.aspose.com/pdf/cpp) | [Examples](https://github.com/aspose-pdf/Aspose.Pdf-for-C) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 Aspose.CAD para .NET es una biblioteca de clases independiente para mejorar las aplicaciones ASP.NET y Windows para procesar y renderizar dibujos CAD sin necesidad de AutoCAD ni ningún otro flujo de trabajo de renderizado. La biblioteca de clases de CAD permite la conversión de alta calidad de archivos, diseños y capas DWG, DWF, DWFX, DWT, DGN, STL, OBJ, STL, CF2, IGES, IFC, PLT y DXF a PDF y formatos de imagen de trama.
 
