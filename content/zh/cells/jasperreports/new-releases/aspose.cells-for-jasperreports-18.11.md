@@ -7,7 +7,7 @@ folder_link: " cells/jasperreports/new-releases/aspose.cells-for-jasperreports-1
 folder_name: "Aspose.JasperReports 18.11"
 download_link: " /cells/jasperreports/new-releases/aspose.cells-for-jasperreports-18.11/189cc1189a3a4d96874fbfeaeebd925d"
 download_text: " 下载"
-Intro_text: "它包含aspose.JasperReports 18.11发行。"
+intro_text: "它包含aspose.JasperReports 18.11发行。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/15/2018  下载s: 38  Views: 1004"
 file_size: "  File Size: 6.8 MB "

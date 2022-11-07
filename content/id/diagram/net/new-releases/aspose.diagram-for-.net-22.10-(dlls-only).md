@@ -8,7 +8,7 @@ folder_link: "/diagram/net/new-releases/aspose.diagram-for-.net-22.10-(dlls-only
 folder_name: "Aspose.diagram untuk .NET 22.10 (hanya DLL)"
 download_link: "/diagram/net/new-releases/aspose.diagram-for-.net-22.10-(dlls-only)/be0c62de8c520bb9f74107794909d5bc-4-7991"
 download_text: "Unduh"
-intro_text: "This ZIP file contains only the Aspose.Diagram for .NET assemblies"
+intro_text: "File zip ini hanya berisi aspose.diagram untuk rakitan .net"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 11/10/2022 Unduhs: 1  Views: 1 "
 file_size: "File Size: 18.18MB"

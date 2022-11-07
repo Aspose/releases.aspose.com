@@ -7,7 +7,7 @@ folder_link: " cad/jasperreports/new-releases/-aspose.cad-for-jasperreports-20.1
 folder_name: "Aspose.cad for jasperreports 20.12"
 download_link: " /cad/jasperreports/new-releases/-aspose.cad-for-jasperreports-20.12/3762fc1d906c46ada22aa4cbb8855b82"
 download_text: " Download"
-Intro_text: "Ele contém aspose.cad para JasperReports 20.12 Release"
+intro_text: "Ele contém aspose.cad para JasperReports 20.12 Release"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/16/2021  Downloads: 6  Views: 16"
 file_size: "  File Size: 32.0 MB "

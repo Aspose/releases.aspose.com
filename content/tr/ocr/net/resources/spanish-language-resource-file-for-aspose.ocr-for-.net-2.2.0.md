@@ -7,7 +7,7 @@ folder_link: " ocr/net/resources/spanish-language-resource-file-for-aspose.ocr-f
 folder_name: ".NET 2.2.0 için aspose.ocr için İspanyolca dil kaynak dosyası"
 download_link: " /ocr/net/resources/spanish-language-resource-file-for-aspose.ocr-for-.net-2.2.0/98317117c1bb487ab87a6f06951ae101"
 download_text: " İndirmek"
-Intro_text: "ASPOSE.OCR."
+intro_text: "ASPOSE.OCR."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/30/2014  İndirmeks: 100  Views: 801"
 file_size: "  File Size: 3.1 MB "

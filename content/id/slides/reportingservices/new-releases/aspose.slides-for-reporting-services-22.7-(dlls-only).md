@@ -8,7 +8,7 @@ folder_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: "Aspose.slides untuk Layanan Pelaporan 22.7 (HANYA DLL)"
 download_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-22.7-(dlls-only)/71a1caba9a7bb2f9de3051578a7e14ef-7-7656"
 download_text: "Unduh"
-intro_text: "It contains Aspose.Slides for Reporting Services 22.7 (DLLs Only)"
+intro_text: "Ini berisi aspose.slides untuk Layanan Pelaporan 22.7 (DLLS saja)"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 19/7/2022 Unduhs: 1  Views: 1 "
 file_size: "File Size: 32.83MB"

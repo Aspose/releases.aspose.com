@@ -7,7 +7,7 @@ folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-s
 folder_name: "Raporlama Hizmetleri için Kelimeler 21.12 (MSI)"
 download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-21.12-(msi)/662fb0d997be4cc8aebac568e0111893"
 download_text: " İndirmek"
-Intro_text: "Net için Aspose.words'in en son sürümüne yükseltin (21.12). Hata düzeltmeleri."
+intro_text: "Net için Aspose.words'in en son sürümüne yükseltin (21.12). Hata düzeltmeleri."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   12/8/2021  İndirmeks: 2  Views: 81"
 file_size: "  File Size: 65.9 MB "

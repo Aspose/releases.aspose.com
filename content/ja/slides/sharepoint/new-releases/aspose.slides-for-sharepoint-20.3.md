@@ -7,7 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.3/
 folder_name: "SharePoint 20.3のAspose.Slides"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.3/819da3fc7ffa460aa7d8e4441a834017"
 download_text: " ダウンロード"
-Intro_text: "SharePoint 20.3リリース用のAsoppes.Slidesが含まれています。"
+intro_text: "SharePoint 20.3リリース用のAsoppes.Slidesが含まれています。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   3/23/2020  ダウンロードs: 0  Views: 146"
 file_size: "  File Size: 52.1 MB "

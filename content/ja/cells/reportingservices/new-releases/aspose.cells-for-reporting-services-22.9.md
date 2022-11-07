@@ -8,7 +8,7 @@ folder_link: "/cells/reportingservices/new-releases/aspose.cells-for-reporting-s
 folder_name: "レポートサービスのためのAsopsion.cells 22.9"
 download_link: "/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.9/65d988996750ab4f23a05191964f08b0-6-7893"
 download_text: "ダウンロード"
-intro_text: "Aspose.Cells for Reporting Services 22.9"
+intro_text: "レポートサービスのためのAsopsion.cells 22.9"
 image_link: "/resources/img/msi-icon.png"
 download_count: " 14/9/2022 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 29.67MB"

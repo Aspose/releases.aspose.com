@@ -7,7 +7,7 @@ folder_link: " cells/androidjava/new-releases/aspose.cells-for-android-via-java-
 folder_name: "Java 22.3を介したAndroid用のAspose.cells"
 download_link: " /cells/androidjava/new-releases/aspose.cells-for-android-via-java-22.3/1004e74773514895aa3b6418bbec21fd"
 download_text: " ダウンロード"
-Intro_text: "Java 22.3リリースを介してAndroid用のAspose.cellsが含まれています。"
+intro_text: "Java 22.3リリースを介してAndroid用のAspose.cellsが含まれています。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   Added: 5 weeks ago [3/14/2022]  ダウンロードs: 9  Views: 17"
 file_size: "  File Size: 10.3 MB "

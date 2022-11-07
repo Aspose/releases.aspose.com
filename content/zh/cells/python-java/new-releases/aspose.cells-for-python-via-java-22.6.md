@@ -8,7 +8,7 @@ folder_link: "/cells/python-java/new-releases/aspose.cells-for-python-via-java-2
 folder_name: "aspose.cells for Python通过Java 22.6"
 download_link: "/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.6/dbee37a76c70ba3ef5e06c380260546d-3-7509"
 download_text: "下载"
-intro_text: "Aspose.Cells for Python via Java 22.6"
+intro_text: "aspose.cells for Python通过Java 22.6"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 13/6/2022 下载s: 1  Views: 1 "
 file_size: "File Size: 11.63MB"

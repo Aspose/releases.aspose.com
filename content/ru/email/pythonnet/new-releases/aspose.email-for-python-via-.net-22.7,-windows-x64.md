@@ -8,7 +8,7 @@ folder_link: "/email/pythonnet/new-releases/aspose.email-for-python-via-.net-22.
 folder_name: "Aspose.mail для python wia .net 22.7, Windows x64"
 download_link: "/email/pythonnet/new-releases/aspose.email-for-python-via-.net-22.7,-windows-x64/ddbe49b5a52fb65ff058064e7792f0b4-9-7810"
 download_text: "Скачать"
-intro_text: "It contains Aspose.Email for Python via .NET 22.7, Windows x64 release."
+intro_text: "Он содержит aspose.mail для python wia .net 22.7, релиз Windows x64."
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 26/8/2022 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 44.25MB"

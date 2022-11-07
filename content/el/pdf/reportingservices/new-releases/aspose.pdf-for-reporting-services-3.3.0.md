@@ -7,7 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: "Aspose.pdf για υπηρεσίες αναφοράς 3.3.0"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.3.0/c5374efc66cb411ca1d57733b6d46e2c"
 download_text: " Κατεβάστε"
-Intro_text: "Περιέχει aspose.pdf για τις υπηρεσίες αναφοράς 3.3.0 έκδοση."
+intro_text: "Περιέχει aspose.pdf για τις υπηρεσίες αναφοράς 3.3.0 έκδοση."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/27/2015  Κατεβάστεs: 212  Views: 744"
 file_size: "  File Size: 104.4 MB "

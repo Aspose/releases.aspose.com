@@ -8,7 +8,7 @@ folder_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: "Aspose.s glisse pour les services de rapport 22.8"
 download_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-22.8/93eca9db54e399caad4e1b649833ab39-6-7769"
 download_text: "Télécharger"
-intro_text: "It contains Aspose.Slides for Reporting Services 22.8"
+intro_text: "Il contient ASPOSE."
 image_link: "/resources/img/msi-icon.png"
 download_count: " 17/8/2022 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 29.79MB"

@@ -7,7 +7,7 @@ folder_link: " barcode/reportingservices/new-releases/aspose.barcode-for-reporti
 folder_name: "Aspose.barcode pour les services de rapport 21.6"
 download_link: " /barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.6/c39de54c82d3472e860bc95077776d7a"
 download_text: " Télécharger"
-Intro_text: "Il contient Aspose.Barcode for Reporting Services 21.6 Release."
+intro_text: "Il contient Aspose.Barcode for Reporting Services 21.6 Release."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   6/20/2021  Téléchargers: 7  Views: 83"
 file_size: "  File Size: 10.7 MB "

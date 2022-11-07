@@ -7,7 +7,7 @@ folder_link: " barcode/reportingservices/new-releases/aspose.barcode-for-reporti
 folder_name: "Raporlama Hizmetleri için ASPOSE.BARCODE 21.6 (Yalnızca DLLS)"
 download_link: " /barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.6-(dlls-only)/266fca4786ce4220a02ab49515e30673"
 download_text: " İndirmek"
-Intro_text: "21.6 (Yalnızca DLLS) Raporlama Hizmetleri için ASPOS.BARCODE içerir."
+intro_text: "21.6 (Yalnızca DLLS) Raporlama Hizmetleri için ASPOS.BARCODE içerir."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   6/20/2021  İndirmeks: 2  Views: 38"
 file_size: "  File Size: 16.0 MB "

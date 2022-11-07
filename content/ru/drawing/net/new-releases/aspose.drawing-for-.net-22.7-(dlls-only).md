@@ -8,7 +8,7 @@ folder_link: "/drawing/net/new-releases/aspose.drawing-for-.net-22.7-(dlls-only)
 folder_name: "Aspose.Drawing для .NET 22.7 (только DLL)"
 download_link: "/drawing/net/new-releases/aspose.drawing-for-.net-22.7-(dlls-only)/45bfc670b9a574dcf6b3d8a48226dda6-2-7638"
 download_text: "Скачать"
-intro_text: "This ZIP file contains Aspose.Drawing for .NET Framework 2.0 and .NET Standard 2.0"
+intro_text: "Этот zip -файл содержит Aspose.Drawing для .NET Framework 2.0 и .NET Standard 2.0"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 14/7/2022 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 6.41MB"

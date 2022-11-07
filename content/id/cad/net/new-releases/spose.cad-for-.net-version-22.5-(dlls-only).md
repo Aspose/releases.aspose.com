@@ -8,7 +8,7 @@ folder_link: "/cad/net/new-releases/spose.cad-for-.net-version-22.5-(dlls-only)/
 folder_name: "Aspose.cad untuk .NET Versi 22.5 (DLLS saja)"
 download_link: "/cad/net/new-releases/spose.cad-for-.net-version-22.5-(dlls-only)/b40c8274f05e0aac6039b2e66c86cb14-7-7425"
 download_text: "Unduh"
-intro_text: "This ZIP file contains only the Aspose.CAD for .NET assemblies v22.5. The assemb.."
+intro_text: "File zip ini hanya berisi aspose.cad untuk rakitan .net v22.5. The Assembor .."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 10/6/2022 Unduhs: 20  Views: 15 "
 file_size: "File Size: 94.94MB"

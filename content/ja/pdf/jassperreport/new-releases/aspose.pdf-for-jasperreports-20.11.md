@@ -7,7 +7,7 @@ folder_link: " pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-20.11
 folder_name: "JasperReports 20.11のAsopse.pdf"
 download_link: " /pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-20.11/a81decca7cbf487b9e92795a0e19b3d1"
 download_text: " ダウンロード"
-Intro_text: "JasperReportsの新しいバージョンのAspose.pdfをfolloと共有できることを嬉しく思います..."
+intro_text: "JasperReportsの新しいバージョンのAspose.pdfをfolloと共有できることを嬉しく思います..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/27/2020  ダウンロードs: 41  Views: 137"
 file_size: "  File Size: 362.0 MB "

@@ -7,7 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-21.7/
 folder_name: "Aspose.s glisse pour SharePoint 21.7"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-21.7/5f6b78de86a04b0184b68322f5259e79"
 download_text: " Télécharger"
-Intro_text: "Il contient ASPOSE.SLINES pour la version SharePoint 21.7."
+intro_text: "Il contient ASPOSE.SLINES pour la version SharePoint 21.7."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/15/2021  Téléchargers: 8  Views: 48"
 file_size: "  File Size: 56.1 MB "

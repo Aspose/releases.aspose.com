@@ -7,7 +7,7 @@ folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-s
 folder_name: "aspose.Words用于报告服务21.12（MSI）"
 download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-21.12-(msi)/662fb0d997be4cc8aebac568e0111893"
 download_text: " 下载"
-Intro_text: "升级到最新版本的aspose.words for Net（21.12）。 Bug修复。"
+intro_text: "升级到最新版本的aspose.words for Net（21.12）。 Bug修复。"
 image_link: "/resources/img/msi-icon.png"
 download_count: "   12/8/2021  下载s: 2  Views: 81"
 file_size: "  File Size: 65.9 MB "

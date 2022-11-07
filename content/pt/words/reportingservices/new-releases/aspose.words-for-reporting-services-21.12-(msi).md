@@ -7,7 +7,7 @@ folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-s
 folder_name: "Aspose.Words for Reporting Services 21.12 (MSI)"
 download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-21.12-(msi)/662fb0d997be4cc8aebac568e0111893"
 download_text: " Download"
-Intro_text: "Atualize para a versão mais recente do Aspose.Words for Net (21.12). Correções de bug."
+intro_text: "Atualize para a versão mais recente do Aspose.Words for Net (21.12). Correções de bug."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   12/8/2021  Downloads: 2  Views: 81"
 file_size: "  File Size: 65.9 MB "

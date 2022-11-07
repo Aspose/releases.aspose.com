@@ -7,7 +7,7 @@ folder_link: " ocr/net/resources/french-language-resource-file-for-aspose.ocr-fo
 folder_name: ".NET 2.2.0 için Aspose.ocr için Fransızca Dili Kaynak Dosyası"
 download_link: " /ocr/net/resources/french-language-resource-file-for-aspose.ocr-for-.net-2.2.0/7b1a9a36333b40ec8dbeb05d8e69873d"
 download_text: " İndirmek"
-Intro_text: "ASPOSE.OCR."
+intro_text: "ASPOSE.OCR."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/30/2014  İndirmeks: 69  Views: 613"
 file_size: "  File Size: 3.7 MB "

@@ -7,7 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: "レポートサービス3.2.0のAspose.pdf（dllsのみ）"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.2.0-(dlls-only)/437220f8983e4164bd9a52d8b4bb06b5"
 download_text: " ダウンロード"
-Intro_text: "レポートサービス用のAspose.pdfはバージョン3.2.0に更新されており、私たちはpです。"
+intro_text: "レポートサービス用のAspose.pdfはバージョン3.2.0に更新されており、私たちはpです。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/11/2015  ダウンロードs: 12  Views: 377"
 file_size: "  File Size: 105.8 MB "

@@ -7,7 +7,7 @@ folder_link: " pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-19.3
 folder_name: "Aspose.pdf for Android通过Java 19.3"
 download_link: " /pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-19.3/1c68f7052a9445ff9b98dab8a9c7687e"
 download_text: " 下载"
-Intro_text: "我们很高兴宣布Aspose.pdf的新版本，用于Android通过Java使用..."
+intro_text: "我们很高兴宣布Aspose.pdf的新版本，用于Android通过Java使用..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   3/29/2019  下载s: 92  Views: 219"
 file_size: "  File Size: 30.6 MB "

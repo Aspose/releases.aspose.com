@@ -7,7 +7,7 @@ folder_link: " barcode/sharepoint/new-releases/aspose.barcode-for-sharepoint-v1.
 folder_name: "Aspose.barcode pour SharePoint v1.0.0"
 download_link: " /barcode/sharepoint/new-releases/aspose.barcode-for-sharepoint-v1.0.0/df89a445f6034137bdcaffa532ed8412"
 download_text: " Télécharger"
-Intro_text: "Aspose.barcode pour SharePoint fournit une solution unique et robuste pour faire de votre ..."
+intro_text: "Aspose.barcode pour SharePoint fournit une solution unique et robuste pour faire de votre ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/20/2012  Téléchargers: 153  Views: 1022"
 file_size: "  File Size: 836.0 KB "

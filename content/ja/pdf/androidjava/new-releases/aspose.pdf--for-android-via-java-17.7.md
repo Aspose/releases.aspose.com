@@ -7,7 +7,7 @@ folder_link: " pdf/androidjava/new-releases/aspose.pdf--for-android-via-java-17.
 folder_name: "Java 17.7を介したAndroid用のAspose.pdf"
 download_link: " /pdf/androidjava/new-releases/aspose.pdf--for-android-via-java-17.7/bdc2c8f0a47c4c4abf752ae30e6a3755"
 download_text: " ダウンロード"
-Intro_text: "Java 17.7リリースを介してAndroid用のAspose.pdfが含まれています。"
+intro_text: "Java 17.7リリースを介してAndroid用のAspose.pdfが含まれています。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/17/2017  ダウンロードs: 84  Views: 598"
 file_size: "  File Size: 34.0 MB "

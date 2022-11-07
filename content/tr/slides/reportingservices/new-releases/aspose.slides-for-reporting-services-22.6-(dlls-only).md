@@ -8,7 +8,7 @@ folder_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: "Raporlama Hizmetleri için Aspose.slides 22.6 (Yalnızca DLL'ler)"
 download_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-22.6-(dlls-only)/bf189830bdf60f76a27f02b05a0cd129-7-7555"
 download_text: "İndirmek"
-intro_text: "It contains Aspose.Slides for Reporting Services 22.6 (DLLs Only)"
+intro_text: "22.6 raporlama hizmetleri için aspose.slides içerir (yalnızca DLL'ler)"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 24/6/2022 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 32.7MB"

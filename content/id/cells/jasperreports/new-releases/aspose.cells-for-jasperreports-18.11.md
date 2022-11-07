@@ -7,7 +7,7 @@ folder_link: " cells/jasperreports/new-releases/aspose.cells-for-jasperreports-1
 folder_name: "Aspose.Cells for Jasperreports 18.11"
 download_link: " /cells/jasperreports/new-releases/aspose.cells-for-jasperreports-18.11/189cc1189a3a4d96874fbfeaeebd925d"
 download_text: " Unduh"
-Intro_text: "Ini berisi aspose.cells untuk rilis Jasperreports 18.11."
+intro_text: "Ini berisi aspose.cells untuk rilis Jasperreports 18.11."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/15/2018  Unduhs: 38  Views: 1004"
 file_size: "  File Size: 6.8 MB "

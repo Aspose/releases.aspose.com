@@ -7,7 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-21.1/
 folder_name: "SharePoint 21.1のAspose.Slides"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-21.1/2e73abef7a35415ea553f8398c404fcf"
 download_text: " ダウンロード"
-Intro_text: "SharePoint 21.1リリース用のAsoppes.Slidesが含まれています。"
+intro_text: "SharePoint 21.1リリース用のAsoppes.Slidesが含まれています。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   1/21/2021  ダウンロードs: 7  Views: 61"
 file_size: "  File Size: 54.6 MB "

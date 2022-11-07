@@ -7,7 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.5/
 folder_name: "Aspose.lide para o SharePoint 20.5"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.5/3efcf2d17ae04599bfcde2862a74738a"
 download_text: " Download"
-Intro_text: "Ele contém asppos.lides para a liberação do SharePoint 20.5."
+intro_text: "Ele contém asppos.lides para a liberação do SharePoint 20.5."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/7/2020  Downloads: 0  Views: 86"
 file_size: "  File Size: 52.6 MB "

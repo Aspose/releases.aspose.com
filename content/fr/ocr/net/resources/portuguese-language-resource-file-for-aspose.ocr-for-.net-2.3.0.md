@@ -7,7 +7,7 @@ folder_link: " ocr/net/resources/portuguese-language-resource-file-for-aspose.oc
 folder_name: "Fichier de ressources en langue portugaise pour Aspose.ocr pour .net 2.3.0"
 download_link: " /ocr/net/resources/portuguese-language-resource-file-for-aspose.ocr-for-.net-2.3.0/b3ab7c506a9342d38061261ec602cf80"
 download_text: " Télécharger"
-Intro_text: "Aspose.ocr pour .net utilise des fichiers de ressources pour différentes langues pour effectuer l'OCR O ..."
+intro_text: "Aspose.ocr pour .net utilise des fichiers de ressources pour différentes langues pour effectuer l'OCR O ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/25/2015  Téléchargers: 84  Views: 497"
 file_size: "  File Size: 3.4 MB "

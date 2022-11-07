@@ -8,7 +8,7 @@ folder_link: "/finance/net/new-releases/aspose.finance-for-.net-22.8(dlls-only)/
 folder_name: "aspose.Finance .NET 22.8（仅DLL）"
 download_link: "/finance/net/new-releases/aspose.finance-for-.net-22.8(dlls-only)/7b73ec51f424df5730215d54e1a8dd4a-2-7826"
 download_text: "下载"
-intro_text: "Aspose.Finance for .NET 22.8 dlls release"
+intro_text: "Aspose.Finance .NET 22.8 DLLS发布"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 30/8/2022 下载s: 1  Views: 1 "
 file_size: "File Size: 6.63MB"

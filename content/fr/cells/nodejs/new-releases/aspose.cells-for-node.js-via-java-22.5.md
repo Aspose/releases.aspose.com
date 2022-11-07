@@ -7,7 +7,7 @@ folder_link: " cells/nodejs/new-releases/aspose.cells-for-node.js-via-java-22.5/
 folder_name: "Aspose.Cells pour Node.js via Java 22.5"
 download_link: " /cells/nodejs/new-releases/aspose.cells-for-node.js-via-java-22.5/1e512c6ff1644fd79e10c51082949723"
 download_text: " Télécharger"
-Intro_text: "Il contient Aspose.Cells pour Node.js via la version Java 22.5."
+intro_text: "Il contient Aspose.Cells pour Node.js via la version Java 22.5."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   Added: 3 days ago [5/13/2022]  Téléchargers: 0  Views: 3"
 file_size: "  File Size: 11.6 MB "

@@ -8,7 +8,7 @@ folder_link: "/finance/net/new-releases/aspose.finance-for-.net-22.6(dlls-only)/
 folder_name: "Aspose.Finance pour .net 22.6 (DLLS uniquement)"
 download_link: "/finance/net/new-releases/aspose.finance-for-.net-22.6(dlls-only)/f25f32897b6d42f37701e511a0e26326-2-7522"
 download_text: "Télécharger"
-intro_text: "Aspose.Finance for .NET 22.6 dlls release"
+intro_text: "ASPOSE.FINANCE POUR .NET 22.6 DLLS Libération"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 16/6/2022 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 6.62MB"

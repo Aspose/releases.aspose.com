@@ -7,7 +7,7 @@ folder_link: " total/reportingservices/new-releases/aspose.total-for-reporting-s
 folder_name: "Aspose.total untuk Layanan Pelaporan"
 download_link: " /total/reportingservices/new-releases/aspose.total-for-reporting-services/2ef3c559e249443faaf056d3fd6589b9"
 download_text: " Unduh"
-Intro_text: "Aspose.total untuk layanan pelaporan berisi versi terbaru dari semua laporan ..."
+intro_text: "Aspose.total untuk layanan pelaporan berisi versi terbaru dari semua laporan ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/22/2021  Unduhs: 6100  Views: 1198"
 file_size: "  File Size: 261.2 MB "

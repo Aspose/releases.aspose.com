@@ -7,7 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.4/
 folder_name: "aspose.sharepoint 20.4的滑坡"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.4/caeec829686c4fd2878982727f5150b5"
 download_text: " 下载"
-Intro_text: "它包含aspose.sharepoint 20.4版本的aspose。"
+intro_text: "它包含aspose.sharepoint 20.4版本的aspose。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   4/22/2020  下载s: 1  Views: 78"
 file_size: "  File Size: 52.4 MB "

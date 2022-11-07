@@ -7,7 +7,7 @@ folder_link: " barcode/reportingservices/new-releases/aspose.barcode-for-reporti
 folder_name: "Aspose.barcode для отчетности. 21.6"
 download_link: " /barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.6/c39de54c82d3472e860bc95077776d7a"
 download_text: " Скачать"
-Intro_text: "Он содержит Aspose.barcode для отчетности Services 21.6."
+intro_text: "Он содержит Aspose.barcode для отчетности Services 21.6."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   6/20/2021  Скачатьs: 7  Views: 83"
 file_size: "  File Size: 10.7 MB "

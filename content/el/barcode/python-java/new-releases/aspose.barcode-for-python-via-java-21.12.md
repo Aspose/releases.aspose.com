@@ -7,7 +7,7 @@ folder_link: " barcode/python-java/new-releases/aspose.barcode-for-python-via-ja
 folder_name: "Aspose.Barcode για Python μέσω Java 21.12"
 download_link: " /barcode/python-java/new-releases/aspose.barcode-for-python-via-java-21.12/25130898a5bf4d4b9be0eecd304060fa"
 download_text: " Κατεβάστε"
-Intro_text: "Aspose.Barcode για Python μέσω Java 21.12 έχει κυκλοφορήσει"
+intro_text: "Aspose.Barcode για Python μέσω Java 21.12 έχει κυκλοφορήσει"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/31/2021  Κατεβάστεs: 0  Views: 24"
 file_size: "  File Size: 11.5 MB "

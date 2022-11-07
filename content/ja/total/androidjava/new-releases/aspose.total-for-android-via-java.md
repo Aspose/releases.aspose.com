@@ -7,7 +7,7 @@ folder_link: " total/androidjava/new-releases/aspose.total-for-android-via-java/
 folder_name: "Java経由のAndroid用のAspose.Total"
 download_link: " /total/androidjava/new-releases/aspose.total-for-android-via-java/a5a33797f13c474d8172e4680439f294"
 download_text: " ダウンロード"
-Intro_text: "Aspose.Total for Androidには、すべてのAndroid製品の最新バージョンが含まれています。"
+intro_text: "Aspose.Total for Androidには、すべてのAndroid製品の最新バージョンが含まれています。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/22/2021  ダウンロードs: 8418  Views: 1400"
 file_size: "  File Size: 127.4 MB "

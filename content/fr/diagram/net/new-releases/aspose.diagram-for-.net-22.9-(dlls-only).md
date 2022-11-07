@@ -8,7 +8,7 @@ folder_link: "/diagram/net/new-releases/aspose.diagram-for-.net-22.9-(dlls-only)
 folder_name: "Aspose.diagram pour .net 22.9 (DLLS uniquement)"
 download_link: "/diagram/net/new-releases/aspose.diagram-for-.net-22.9-(dlls-only)/2f4d764592ccb0b3242e0d8642b4844b-4-7863"
 download_text: "Télécharger"
-intro_text: "Aspose.Diagram for .NET 22.9 (DLLs Only)"
+intro_text: "Aspose.diagram pour .net 22.9 (DLLS uniquement)"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 6/9/2022 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 18.18MB"

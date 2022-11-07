@@ -8,7 +8,7 @@ folder_link: "/email/net/new-releases/aspose.email-for-python-via-.net-22.5,-win
 folder_name: "Aspose.email για την Python μέσω .NET 22.5, Windows x64"
 download_link: "/email/net/new-releases/aspose.email-for-python-via-.net-22.5,-windows-x64/5b2b29c8920a6abd378831074ba68ae0-9-7594"
 download_text: "Κατεβάστε"
-intro_text: "It contains Aspose.Email for Python via .NET 22.5, Windows x64 release."
+intro_text: "Περιέχει AsPose.Email για Python μέσω .NET 22.5, Windows X64 Release."
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 1/7/2022 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 44MB"

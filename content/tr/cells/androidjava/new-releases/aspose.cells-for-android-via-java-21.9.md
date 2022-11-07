@@ -7,7 +7,7 @@ folder_link: " cells/androidjava/new-releases/aspose.cells-for-android-via-java-
 folder_name: "Java 21.9 üzerinden Android için Aspose.Cells"
 download_link: " /cells/androidjava/new-releases/aspose.cells-for-android-via-java-21.9/ea807ad0fdb84880a42de3ab400cf1a7"
 download_text: " İndirmek"
-Intro_text: "Java 21.9 sürümü ile Android için aspose.cels içerir."
+intro_text: "Java 21.9 sürümü ile Android için aspose.cels içerir."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/16/2021  İndirmeks: 18  Views: 54"
 file_size: "  File Size: 10.1 MB "

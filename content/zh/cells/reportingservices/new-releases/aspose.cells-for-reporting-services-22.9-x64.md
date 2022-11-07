@@ -8,7 +8,7 @@ folder_link: "/cells/reportingservices/new-releases/aspose.cells-for-reporting-s
 folder_name: "aspose.cells报道服务22.9 x64"
 download_link: "/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.9-x64/493b17a9edb8cb65d8a4922965f9588f-6-7894"
 download_text: "下载"
-intro_text: "Aspose.Cells for Reporting Services 22.9 x64"
+intro_text: "aspose.cells报道服务22.9 x64"
 image_link: "/resources/img/msi-icon.png"
 download_count: " 14/9/2022 下载s: 1  Views: 1 "
 file_size: "File Size: 29.81MB"

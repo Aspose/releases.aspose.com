@@ -7,7 +7,7 @@ folder_link: " cells/jasperreports/new-releases/aspose.cells-for-jasperreports-1
 folder_name: "Aspose.cells για JasperReports 1.1.0"
 download_link: " /cells/jasperreports/new-releases/aspose.cells-for-jasperreports-1.1.0/308cbbf7013141e29d044e627f725437"
 download_text: " Κατεβάστε"
-Intro_text: "Είμαστε στην ευχάριστη θέση να ανακοινώσουμε το Aspose.cells για το JasperReports v1.1.0 για τους χρήστες! Wha ..."
+intro_text: "Είμαστε στην ευχάριστη θέση να ανακοινώσουμε το Aspose.cells για το JasperReports v1.1.0 για τους χρήστες! Wha ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   4/29/2010  Κατεβάστεs: 45  Views: 1426"
 file_size: "  File Size: 3.9 MB "

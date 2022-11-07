@@ -7,7 +7,7 @@ folder_link: " imaging/jasperreports/new-releases/aspose.imaging-for-jasperrepor
 folder_name: "Aspose."
 download_link: " /imaging/jasperreports/new-releases/aspose.imaging-for-jasperreports-20.8/9661ca851f5d49889a55e2674a0539be"
 download_text: " İndirmek"
-Intro_text: "Bu, JasperReports için ASPOSE. Şimdi ihracatın tadını çıkarabilirsiniz ..."
+intro_text: "Bu, JasperReports için ASPOSE. Şimdi ihracatın tadını çıkarabilirsiniz ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/19/2020  İndirmeks: 3  Views: 86"
 file_size: "  File Size: 29.3 MB "

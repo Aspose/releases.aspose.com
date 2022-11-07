@@ -7,7 +7,7 @@ folder_link: " slides/androidjava/new-releases/aspose.slides-for-android-via-jav
 folder_name: "aspose.spose。"
 download_link: " /slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.2/d10e1b23889b49cebcc2aacfe553937a"
 download_text: " 下载"
-Intro_text: "它包含Android的aspose.spose。"
+intro_text: "它包含Android的aspose.spose。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/16/2022  下载s: 7  Views: 15"
 file_size: "  File Size: 32.1 MB "

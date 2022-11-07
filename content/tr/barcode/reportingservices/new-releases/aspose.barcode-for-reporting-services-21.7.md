@@ -7,7 +7,7 @@ folder_link: " barcode/reportingservices/new-releases/aspose.barcode-for-reporti
 folder_name: "Raporlama Hizmetleri için ASPOSE.BARCODE 21.7"
 download_link: " /barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.7/98ab7961f12a4cfb874c92a35ab76268"
 download_text: " İndirmek"
-Intro_text: "Raporlama Hizmetleri 21.7 sürümü için aspose.barcode içerir."
+intro_text: "Raporlama Hizmetleri 21.7 sürümü için aspose.barcode içerir."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/19/2021  İndirmeks: 1  Views: 73"
 file_size: "  File Size: 10.7 MB "

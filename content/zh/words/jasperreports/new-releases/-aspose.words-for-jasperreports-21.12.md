@@ -7,7 +7,7 @@ folder_link: " words/jasperreports/new-releases/-aspose.words-for-jasperreports-
 folder_name: "Aspose.JasperReports的词21.12"
 download_link: " /words/jasperreports/new-releases/-aspose.words-for-jasperreports-21.12/2cc6cd9d234549efa39ccc942cd1b43a"
 download_text: " 下载"
-Intro_text: "它包含aspose.JasperReports 21.12版本。"
+intro_text: "它包含aspose.JasperReports 21.12版本。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/13/2021  下载s: 15  Views: 51"
 file_size: "  File Size: 51.8 MB "

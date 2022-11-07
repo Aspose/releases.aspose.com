@@ -8,7 +8,7 @@ folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-
 folder_name: "Aspose.slides для Python Via .net 22.9 Win x86"
 download_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.9-win-x86/495af743570859bf7b6469f2dafbcf3c-10-7981"
 download_text: "Скачать"
-intro_text: "Presentation Manipulation Python API"
+intro_text: "Презентация манипуляции с Python API"
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 5/10/2022 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 48.83MB"

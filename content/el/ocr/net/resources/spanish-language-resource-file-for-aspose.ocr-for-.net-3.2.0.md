@@ -7,7 +7,7 @@ folder_link: " ocr/net/resources/spanish-language-resource-file-for-aspose.ocr-f
 folder_name: "Αρχείο πόρων ισπανικής γλώσσας για aspose.ocr για .NET 3.2.0"
 download_link: " /ocr/net/resources/spanish-language-resource-file-for-aspose.ocr-for-.net-3.2.0/94072ae1510b4b689dca342734c4110a"
 download_text: " Κατεβάστε"
-Intro_text: "Aspose.ocr για το .NET χρησιμοποιεί αρχεία πόρων για διαφορετικές γλώσσες για να εκτελέσει o ..."
+intro_text: "Aspose.ocr για το .NET χρησιμοποιεί αρχεία πόρων για διαφορετικές γλώσσες για να εκτελέσει o ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/29/2015  Κατεβάστεs: 103  Views: 727"
 file_size: "  File Size: 4.8 MB "

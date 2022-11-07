@@ -7,7 +7,7 @@ folder_link: " cells/nodejs/new-releases/aspose.cells-for-node.js-via-java-22.4/
 folder_name: "Aspose.cells για το Node.js μέσω Java 22.4"
 download_link: " /cells/nodejs/new-releases/aspose.cells-for-node.js-via-java-22.4/88a1fe6e6a6442b7ab85e96bf6660903"
 download_text: " Κατεβάστε"
-Intro_text: "Περιέχει aspose.cells για node.js μέσω Java 22.4 απελευθέρωση."
+intro_text: "Περιέχει aspose.cells για node.js μέσω Java 22.4 απελευθέρωση."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   4/15/2022  Κατεβάστεs: 11  Views: 34"
 file_size: "  File Size: 11.6 MB "

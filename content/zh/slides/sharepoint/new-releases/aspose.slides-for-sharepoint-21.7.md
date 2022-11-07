@@ -7,7 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-21.7/
 folder_name: "aspose.sharepoint 21.7"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-21.7/5f6b78de86a04b0184b68322f5259e79"
 download_text: " 下载"
-Intro_text: "它包含aspose.sharepoint 21.7版本的aspose。"
+intro_text: "它包含aspose.sharepoint 21.7版本的aspose。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/15/2021  下载s: 8  Views: 48"
 file_size: "  File Size: 56.1 MB "

@@ -7,7 +7,7 @@ folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-s
 folder_name: "Aspose.Words untuk Layanan Pelaporan 21.12 (ZIP)"
 download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-21.12-(zip)-/1a94d4815d5c461d98495660b8ec7700"
 download_text: " Unduh"
-Intro_text: "Tingkatkan ke versi terbaru dari Aspose.Words untuk NET (21.12). Perbaikan kerusakan."
+intro_text: "Tingkatkan ke versi terbaru dari Aspose.Words untuk NET (21.12). Perbaikan kerusakan."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/8/2021  Unduhs: 5  Views: 30"
 file_size: "  File Size: 64.8 MB "

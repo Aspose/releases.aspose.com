@@ -7,7 +7,7 @@ folder_link: " imaging/jasperreports/new-releases/aspose.imaging-for-jasperrepor
 folder_name: "Aspose.Imaging for Jasperreports 20.10"
 download_link: " /imaging/jasperreports/new-releases/aspose.imaging-for-jasperreports-20.10/f53101a8e5ed4d55b6ce28d5a9753930"
 download_text: " Unduh"
-Intro_text: "Ini berisi aspose. Pembiusan untuk rilis Jasperreports 20.10."
+intro_text: "Ini berisi aspose. Pembiusan untuk rilis Jasperreports 20.10."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   10/28/2020  Unduhs: 4  Views: 68"
 file_size: "  File Size: 29.4 MB "

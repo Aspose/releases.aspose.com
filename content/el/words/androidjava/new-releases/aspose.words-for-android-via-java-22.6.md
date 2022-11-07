@@ -8,7 +8,7 @@ folder_link: "/words/androidjava/new-releases/aspose.words-for-android-via-java-
 folder_name: "Aspose.words για Android μέσω Java 22.6"
 download_link: "/words/androidjava/new-releases/aspose.words-for-android-via-java-22.6/263090fce1dc1b438bd70c2701b15709-3-7550"
 download_text: "Κατεβάστε"
-intro_text: "It contains Aspose.Words for Android via Java 22.6 release."
+intro_text: "Περιέχει aspose.words για Android μέσω της απελευθέρωσης Java 22.6."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 24/6/2022 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 14.13MB"

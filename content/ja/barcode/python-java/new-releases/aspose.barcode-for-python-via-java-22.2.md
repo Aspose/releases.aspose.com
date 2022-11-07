@@ -7,7 +7,7 @@ folder_link: " barcode/python-java/new-releases/aspose.barcode-for-python-via-ja
 folder_name: "Java 22.2経由のPython用のAsopsion.Barcode"
 download_link: " /barcode/python-java/new-releases/aspose.barcode-for-python-via-java-22.2/adacdf735423435fb0423903104557e2"
 download_text: " ダウンロード"
-Intro_text: "Java 22.2経由のPython用のAsopsion.Barcodeがリリースされました"
+intro_text: "Java 22.2経由のPython用のAsopsion.Barcodeがリリースされました"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/24/2022  ダウンロードs: 2  Views: 21"
 file_size: "  File Size: 11.6 MB "

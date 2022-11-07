@@ -7,7 +7,7 @@ folder_link: " pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.6.0
 folder_name: "JasperReports için aspose.pdf 1.6.0"
 download_link: " /pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.6.0/b048b2c23bee484db7aeeac182c2c77f"
 download_text: " İndirmek"
-Intro_text: "Follo ile JasperReports için yeni bir aspose.pdf sürümünü paylaşmaktan mutluluk duyuyoruz ..."
+intro_text: "Follo ile JasperReports için yeni bir aspose.pdf sürümünü paylaşmaktan mutluluk duyuyoruz ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/2/2016  İndirmeks: 78  Views: 795"
 file_size: "  File Size: 73.9 MB "

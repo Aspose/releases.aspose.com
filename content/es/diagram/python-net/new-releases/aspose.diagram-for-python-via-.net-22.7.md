@@ -8,7 +8,7 @@ folder_link: "/diagram/python-net/new-releases/aspose.diagram-for-python-via-.ne
 folder_name: "Aspose.diagram para python a través de .net 22.7"
 download_link: "/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-22.7/1a2c82c3b1f5b95e4b37933b1f3bbd68-23-7708"
 download_text: "Descargar"
-intro_text: "Aspose.Diagram for Python via .NET 22.7"
+intro_text: "Aspose.diagram para python a través de .net 22.7"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 28/7/2022 Descargars: 1  Views: 1 "
 file_size: "File Size: 110.6MB"

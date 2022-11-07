@@ -8,7 +8,7 @@ folder_link: "/words/jasperreports/new-releases/aspose.words-for-jasperreports-2
 folder_name: "JasperReports için Aspose.Words 22.6"
 download_link: "/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.6/aac3b97086cb3a50e7b9aebe7489a3ee-11-7581"
 download_text: "İndirmek"
-intro_text: "It contains Aspose.Words for JasperReports 22.6 release"
+intro_text: "JasperReports 22.6 Sürüm için Aspose.words içerir"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 30/6/2022 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 51.62MB"

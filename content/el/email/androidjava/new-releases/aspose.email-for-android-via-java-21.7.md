@@ -7,7 +7,7 @@ folder_link: " email/androidjava/new-releases/aspose.email-for-android-via-java-
 folder_name: "Aspose.email για το Android μέσω Java 21.7"
 download_link: " /email/androidjava/new-releases/aspose.email-for-android-via-java-21.7/daee8d84c2ef4e64ad4a9422da899420"
 download_text: " Κατεβάστε"
-Intro_text: "Περιέχει AsPose.EMAIL για Android μέσω της απελευθέρωσης Java 21.7."
+intro_text: "Περιέχει AsPose.EMAIL για Android μέσω της απελευθέρωσης Java 21.7."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/13/2021  Κατεβάστεs: 2  Views: 42"
 file_size: "  File Size: 9.5 MB "

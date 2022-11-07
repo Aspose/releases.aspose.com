@@ -8,7 +8,7 @@ folder_link: "/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-
 folder_name: "Aspose.s glisser pour JasperReports 22.5"
 download_link: "/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-22.5/d698c986efbc48f78f43a4464ac87ad9-1-7475"
 download_text: "Télécharger"
-intro_text: "It contains Aspose.Slides for JasperReports 22.5 release."
+intro_text: "Il contient ASPOSE.SLAIDS pour la version JasperReports 22.5."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 10/6/2022 Téléchargers: 1  Views: 6 "
 file_size: "File Size: 64.0 MB"

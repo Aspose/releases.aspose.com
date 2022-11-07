@@ -7,7 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: "Aspose.pdf para serviços de relatórios 3.1.0 (somente DLLs)"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.1.0-(dlls-only)/bc8d06e287db4c7f9fc6de8a8d78460f"
 download_text: " Download"
-Intro_text: "Aspose.pdf para relatórios Serviços foi atualizado para a versão 3.1.0 e nós somos p ..."
+intro_text: "Aspose.pdf para relatórios Serviços foi atualizado para a versão 3.1.0 e nós somos p ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/6/2015  Downloads: 16  Views: 608"
 file_size: "  File Size: 106.3 MB "

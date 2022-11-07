@@ -7,7 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: "Raporlama Hizmetleri için Aspose.pdf 3.2.0 (Yalnızca DLLS)"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.2.0-(dlls-only)/437220f8983e4164bd9a52d8b4bb06b5"
 download_text: " İndirmek"
-Intro_text: "Raporlama hizmetleri için aspose.pdf, 3.2.0 sürümüne güncellendi ve biz P ..."
+intro_text: "Raporlama hizmetleri için aspose.pdf, 3.2.0 sürümüne güncellendi ve biz P ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/11/2015  İndirmeks: 12  Views: 377"
 file_size: "  File Size: 105.8 MB "

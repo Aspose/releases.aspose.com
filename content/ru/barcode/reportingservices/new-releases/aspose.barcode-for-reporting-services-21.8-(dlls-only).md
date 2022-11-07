@@ -7,7 +7,7 @@ folder_link: " barcode/reportingservices/new-releases/aspose.barcode-for-reporti
 folder_name: "Aspose.barcode для отчетности Службы 21,8 (только DLL)"
 download_link: " /barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.8-(dlls-only)/07dec6d9a105463daa88f55f1cec77ab"
 download_text: " Скачать"
-Intro_text: "Он содержит Aspose.barcode для отчетности Services 21.8 (только DLL)."
+intro_text: "Он содержит Aspose.barcode для отчетности Services 21.8 (только DLL)."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/20/2021  Скачатьs: 7  Views: 40"
 file_size: "  File Size: 9.5 MB "

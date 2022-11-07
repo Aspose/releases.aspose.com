@@ -8,7 +8,7 @@ folder_link: "/cells/reportingservices/new-releases/aspose.cells-for-reporting-s
 folder_name: "Aspose.Cells untuk Layanan Pelaporan 22.8 x64"
 download_link: "/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.8-x64/733fa48d5c07d92f46014881d0f0f0ab-6-7756"
 download_text: "Unduh"
-intro_text: "Aspose.Cells for Reporting Services 22.8 x64"
+intro_text: "Aspose.Cells untuk Layanan Pelaporan 22.8 x64"
 image_link: "/resources/img/msi-icon.png"
 download_count: " 12/8/2022 Unduhs: 1  Views: 1 "
 file_size: "File Size: 29.79MB"

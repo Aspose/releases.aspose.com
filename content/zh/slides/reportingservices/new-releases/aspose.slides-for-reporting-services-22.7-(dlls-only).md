@@ -8,7 +8,7 @@ folder_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: "aspose.slines报告服务服务22.7（仅DLL）"
 download_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-22.7-(dlls-only)/71a1caba9a7bb2f9de3051578a7e14ef-7-7656"
 download_text: "下载"
-intro_text: "It contains Aspose.Slides for Reporting Services 22.7 (DLLs Only)"
+intro_text: "它包含aspose.spose。报告服务服务22.7（仅DLL）"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 19/7/2022 下载s: 1  Views: 1 "
 file_size: "File Size: 32.83MB"

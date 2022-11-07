@@ -7,7 +7,7 @@ folder_link: " ocr/net/resources/spanish-language-resource-file-for-aspose.ocr-f
 folder_name: ".NET 3.2.0のAspose.ocrのスペイン語リソースファイル"
 download_link: " /ocr/net/resources/spanish-language-resource-file-for-aspose.ocr-for-.net-3.2.0/94072ae1510b4b689dca342734c4110a"
 download_text: " ダウンロード"
-Intro_text: ".net for .net for .netは、さまざまな言語のリソースファイルを使用してOCR oを実行します。"
+intro_text: ".net for .net for .netは、さまざまな言語のリソースファイルを使用してOCR oを実行します。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/29/2015  ダウンロードs: 103  Views: 727"
 file_size: "  File Size: 4.8 MB "

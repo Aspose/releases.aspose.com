@@ -7,7 +7,7 @@ folder_link: " barcode/jasperreports/new-releases/aspose.barcode-for-jasperrepor
 folder_name: "aspose.jasperreports的barcode 22.1"
 download_link: " /barcode/jasperreports/new-releases/aspose.barcode-for-jasperreports-22.1/4418a4a8786a405987343ec6f7398ebd"
 download_text: " 下载"
-Intro_text: "Aspose.JasperReports 22.1的Barcode已发布"
+intro_text: "Aspose.JasperReports 22.1的Barcode已发布"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   1/19/2022  下载s: 0  Views: 17"
 file_size: "  File Size: 10.4 MB "

@@ -7,7 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: "Aspose.pdf для отчетности Службы 19.7.0 (только DLL)"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-19.7.0-(dlls-only)/ba41804393ea4bfab377b5616ebb8ea8"
 download_text: " Скачать"
-Intro_text: "Он содержит Aspose.pdf для отчетности услуг 19.7.0 (только DLLS)."
+intro_text: "Он содержит Aspose.pdf для отчетности услуг 19.7.0 (только DLLS)."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/30/2019  Скачатьs: 41  Views: 138"
 file_size: "  File Size: 139.5 MB "

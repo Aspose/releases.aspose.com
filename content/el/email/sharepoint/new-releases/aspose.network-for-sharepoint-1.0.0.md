@@ -7,7 +7,7 @@ folder_link: " email/sharepoint/new-releases/aspose.network-for-sharepoint-1.0.0
 folder_name: "Aspose.network για το SharePoint 1.0.0"
 download_link: " /email/sharepoint/new-releases/aspose.network-for-sharepoint-1.0.0/7da83ec92c474795bde2caeb3763103e"
 download_text: " Κατεβάστε"
-Intro_text: "Η πρώτη έκδοση του aspose.network για το SharePoint έχει κυκλοφορήσει. Παρέχει ..."
+intro_text: "Η πρώτη έκδοση του aspose.network για το SharePoint έχει κυκλοφορήσει. Παρέχει ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   3/4/2011  Κατεβάστεs: 4  Views: 351"
 file_size: "  File Size: 2.3 MB "

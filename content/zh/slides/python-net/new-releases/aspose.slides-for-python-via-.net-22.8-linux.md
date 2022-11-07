@@ -8,7 +8,7 @@ folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-
 folder_name: "aspose.spose for python通过.NET 22.8 Linux"
 download_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.8-linux/f288af2e68779f6bac1840b818ac41c1-14-7852"
 download_text: "下载"
-intro_text: "Presentation Manipulation Python API"
+intro_text: "演示操纵Python API"
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 2/9/2022 下载s: 1  Views: 1 "
 file_size: "File Size: 68.05MB"

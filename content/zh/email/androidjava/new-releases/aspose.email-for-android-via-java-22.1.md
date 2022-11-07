@@ -7,7 +7,7 @@ folder_link: " email/androidjava/new-releases/aspose.email-for-android-via-java-
 folder_name: "Aspose.Email for Android通过Java 22.1"
 download_link: " /email/androidjava/new-releases/aspose.email-for-android-via-java-22.1/e01cfd0191004f24a3d71d34c2209d4f"
 download_text: " 下载"
-Intro_text: "它包含Android的Aspose.Email通过Java 22.1发布。"
+intro_text: "它包含Android的Aspose.Email通过Java 22.1发布。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/8/2022  下载s: 3  Views: 15"
 file_size: "  File Size: 9.6 MB "

@@ -7,7 +7,7 @@ folder_link: " barcode/reportingservices/new-releases/aspose.barcode-for-reporti
 folder_name: "aspose.barcode报告服务21.5"
 download_link: " /barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.5/99d667538cc047a6ad4dd61a02cfcb08"
 download_text: " 下载"
-Intro_text: "它包含aspose.barcode报告服务21.5版本。"
+intro_text: "它包含aspose.barcode报告服务21.5版本。"
 image_link: "/resources/img/msi-icon.png"
 download_count: "   5/19/2021  下载s: 7  Views: 102"
 file_size: "  File Size: 10.7 MB "

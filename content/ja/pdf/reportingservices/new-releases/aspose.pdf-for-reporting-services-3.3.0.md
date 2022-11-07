@@ -7,7 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: "レポートサービス3.3.0のAspose.pdf"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.3.0/c5374efc66cb411ca1d57733b6d46e2c"
 download_text: " ダウンロード"
-Intro_text: "レポートサービス3.3.0リリース用のAsopsion.pdfが含まれています。"
+intro_text: "レポートサービス3.3.0リリース用のAsopsion.pdfが含まれています。"
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/27/2015  ダウンロードs: 212  Views: 744"
 file_size: "  File Size: 104.4 MB "

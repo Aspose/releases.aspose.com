@@ -7,7 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: "レポートサービスのAspose.pdf 19.7.0"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-19.7.0/e3ff06b209f7414e88d2f936518989b8"
 download_text: " ダウンロード"
-Intro_text: "レポートサービス19.7.0リリースのためのAspose.pdfが含まれています。"
+intro_text: "レポートサービス19.7.0リリースのためのAspose.pdfが含まれています。"
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/30/2019  ダウンロードs: 112  Views: 526"
 file_size: "  File Size: 133.9 MB "

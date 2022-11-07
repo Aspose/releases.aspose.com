@@ -7,7 +7,7 @@ folder_link: " pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-18.9/
 folder_name: "aspose.pdf for jasperReports 18.9"
 download_link: " /pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-18.9/abc025327f71497e968a4ce100ada29a"
 download_text: " 下载"
-Intro_text: "我们很高兴与follo共享一个新版本的jasperreports。"
+intro_text: "我们很高兴与follo共享一个新版本的jasperreports。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/25/2018  下载s: 24  Views: 1195"
 file_size: "  File Size: 163.4 MB "

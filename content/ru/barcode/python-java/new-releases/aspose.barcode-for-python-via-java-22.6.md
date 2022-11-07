@@ -8,7 +8,7 @@ folder_link: "/barcode/python-java/new-releases/aspose.barcode-for-python-via-ja
 folder_name: "Aspose.barcode для Python через Java 22.6"
 download_link: "/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-22.6/c6c4857c635cb15b8c99843cf7887192-3-7585"
 download_text: "Скачать"
-intro_text: "Aspose.BarCode for Python via Java 22.6 has been released"
+intro_text: "Aspose.barcode для Python через Java 22.6 был выпущен"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 30/6/2022 Скачатьs: 10  Views: 1 "
 file_size: "File Size: 11.62MB"

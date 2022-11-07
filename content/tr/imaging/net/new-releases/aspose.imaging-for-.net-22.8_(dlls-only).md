@@ -8,7 +8,7 @@ folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-22.8_(dlls-only)
 folder_name: "Aspose."
 download_link: "/imaging/net/new-releases/aspose.imaging-for-.net-22.8_(dlls-only)/deb598719d091a60ffeee9b3c6abf99d-9-7741"
 download_text: "İndirmek"
-intro_text: "It contains Aspose.Imaging for .NET 22.8 (Dlls only) release."
+intro_text: ".NET 22.8 (Yalnızca DLLS) Sürüm için ASPOS.INAGING içerir."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 4/8/2022 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 40.96MB"

@@ -7,7 +7,7 @@ folder_link: " cells/androidjava/new-releases/aspose.cells-for-android-via-java-
 folder_name: "Aspose.cells untuk Android via Java 20.12"
 download_link: " /cells/androidjava/new-releases/aspose.cells-for-android-via-java-20.12/1924ce35a48b4dd0ab56fe6eb275530e"
 download_text: " Unduh"
-Intro_text: "Ini berisi aspose.cells untuk Android melalui rilis Java 20.12."
+intro_text: "Ini berisi aspose.cells untuk Android melalui rilis Java 20.12."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/22/2020  Unduhs: 7  Views: 74"
 file_size: "  File Size: 9.7 MB "

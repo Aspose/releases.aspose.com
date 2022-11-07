@@ -7,7 +7,7 @@ folder_link: " barcode/androidjava/new-releases/aspose.barcode-for-android-via-j
 folder_name: "Aspose.barcode pour Android via Java 22.2"
 download_link: " /barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-22.2/577d145362de4edeb81b3e12ba060141"
 download_text: " Télécharger"
-Intro_text: "Aspose.barcode pour Android via Java 22.2 a été publié"
+intro_text: "Aspose.barcode pour Android via Java 22.2 a été publié"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/17/2022  Téléchargers: 2  Views: 20"
 file_size: "  File Size: 13.8 MB "

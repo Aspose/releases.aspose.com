@@ -7,7 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.6/
 folder_name: "aspose.sharepoint 20.6"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.6/61228ad456354f5eb986241772d215d0"
 download_text: " 下载"
-Intro_text: "它包含aspose.sharepoint 20.6版本的aspose。"
+intro_text: "它包含aspose.sharepoint 20.6版本的aspose。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   6/12/2020  下载s: 0  Views: 114"
 file_size: "  File Size: 52.6 MB "

@@ -7,7 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: "aspose.pdf用于报告服务3.1.0"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.1.0/b73340b259c54fc9ad6ddd3324bae179"
 download_text: " 下载"
-Intro_text: "它包含用于报告服务3.1.0版本的Aspose.pdf。"
+intro_text: "它包含用于报告服务3.1.0版本的Aspose.pdf。"
 image_link: "/resources/img/msi-icon.png"
 download_count: "   2/6/2015  下载s: 134  Views: 624"
 file_size: "  File Size: 103.6 MB "

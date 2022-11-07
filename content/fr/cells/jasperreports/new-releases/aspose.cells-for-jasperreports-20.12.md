@@ -7,7 +7,7 @@ folder_link: " cells/jasperreports/new-releases/aspose.cells-for-jasperreports-2
 folder_name: "Aspose.Cells pour JasperReports 20.12"
 download_link: " /cells/jasperreports/new-releases/aspose.cells-for-jasperreports-20.12/e6e113b87411466b8411e53543f2d1c6"
 download_text: " Télécharger"
-Intro_text: "Il contient Aspose.Cells pour la version JasperReports 20.12."
+intro_text: "Il contient Aspose.Cells pour la version JasperReports 20.12."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/7/2020  Téléchargers: 10  Views: 92"
 file_size: "  File Size: 7.4 MB "

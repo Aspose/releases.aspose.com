@@ -7,7 +7,7 @@ folder_link: " slides/androidjava/new-releases/aspose.slides-for-android-via-jav
 folder_name: "Aspose.s glisser pour Android via Java 22.1"
 download_link: " /slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.1/42fb09cb2e494bc986f19507d26b23c7"
 download_text: " Télécharger"
-Intro_text: "Il contient ASPOSE.SLAIDS pour Android via la version Java 22.1."
+intro_text: "Il contient ASPOSE.SLAIDS pour Android via la version Java 22.1."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   1/24/2022  Téléchargers: 2  Views: 15"
 file_size: "  File Size: 32.0 MB "

@@ -8,7 +8,7 @@ folder_link: "/slides/androidjava/new-releases/aspose.slides-for-android-via-jav
 folder_name: "Java 22.5 üzerinden Android için aspose.slides"
 download_link: "/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.5/5b71f91c12054cc69439ac83155c3f80-1-7471"
 download_text: "İndirmek"
-intro_text: "It contains Aspose.Slides for Android via Java 22.5 release."
+intro_text: "Java 22.5 sürümü ile Android için aspose.slides içerir."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 10/6/2022 İndirmeks: 3  Views: 7 "
 file_size: "File Size: 30.3 MB"

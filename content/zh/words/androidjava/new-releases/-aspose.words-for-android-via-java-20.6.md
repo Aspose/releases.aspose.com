@@ -7,7 +7,7 @@ folder_link: " words/androidjava/new-releases/-aspose.words-for-android-via-java
 folder_name: "Aspose.Words for Android通过Java 20.6"
 download_link: " /words/androidjava/new-releases/-aspose.words-for-android-via-java-20.6/ea1c30c47c91402b991ccd3d65ee6ee2"
 download_text: " 下载"
-Intro_text: "它包含aspose.words android通过Java 20.6发行版。"
+intro_text: "它包含aspose.words android通过Java 20.6发行版。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   6/23/2020  下载s: 67  Views: 208"
 file_size: "  File Size: 14.1 MB "

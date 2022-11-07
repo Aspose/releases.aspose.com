@@ -7,7 +7,7 @@ folder_link: " total/reportingservices/new-releases/aspose.total-for-reporting-s
 folder_name: "Raporlama hizmetleri için aspose.total"
 download_link: " /total/reportingservices/new-releases/aspose.total-for-reporting-services/2ef3c559e249443faaf056d3fd6589b9"
 download_text: " İndirmek"
-Intro_text: "Raporlama Hizmetleri için Aspose.Total, tüm raporların en son sürümünü içerir ..."
+intro_text: "Raporlama Hizmetleri için Aspose.Total, tüm raporların en son sürümünü içerir ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/22/2021  İndirmeks: 6100  Views: 1198"
 file_size: "  File Size: 261.2 MB "

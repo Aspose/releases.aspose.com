@@ -7,7 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: "Aspose.pdf para serviços de relatório 17.1.0"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-17.1.0/60a7126bddf44ab5a607aeae50630ffa"
 download_text: " Download"
-Intro_text: "Ele contém aspose.pdf para serviços de relatórios 17.1.0 Release."
+intro_text: "Ele contém aspose.pdf para serviços de relatórios 17.1.0 Release."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   1/2/2017  Downloads: 120  Views: 1220"
 file_size: "  File Size: 115.0 MB "

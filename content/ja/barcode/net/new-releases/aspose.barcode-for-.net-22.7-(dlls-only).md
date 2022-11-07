@@ -8,7 +8,7 @@ folder_link: "/barcode/net/new-releases/aspose.barcode-for-.net-22.7-(dlls-only)
 folder_name: ".net 22.7のasophes.barcode（dllsのみ）"
 download_link: "/barcode/net/new-releases/aspose.barcode-for-.net-22.7-(dlls-only)/7ed189882b213d0e53d16529c878f8bd-4-7699"
 download_text: "ダウンロード"
-intro_text: "It contains Aspose.BarCode for .NET 22.7 (DLLs Only) release."
+intro_text: ".NET 22.7（DLLSのみ）リリースのASOPSE.BARCODEが含まれています。"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 26/07/2022 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 15.37MB"

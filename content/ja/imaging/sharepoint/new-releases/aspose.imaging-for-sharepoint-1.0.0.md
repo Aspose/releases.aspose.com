@@ -7,7 +7,7 @@ folder_link: " imaging/sharepoint/new-releases/aspose.imaging-for-sharepoint-1.0
 folder_name: "SharePoint 1.0.0のAspose.imaging"
 download_link: " /imaging/sharepoint/new-releases/aspose.imaging-for-sharepoint-1.0.0/d30743f69aaf443ea0233fd23c9b39a7"
 download_text: " ダウンロード"
-Intro_text: "SharePointのImagingは、Sharepを作る軽量コンポーネントです..."
+intro_text: "SharePointのImagingは、Sharepを作る軽量コンポーネントです..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/10/2013  ダウンロードs: 161  Views: 1517"
 file_size: "  File Size: 2.0 MB "

@@ -7,7 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: "Aspose.pdf pour les services de rapport 17.1.0 (DLLS uniquement)"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-17.1.0-(dlls-only)/0d7e12b161a848d198b4cb639b2143e5"
 download_text: " Télécharger"
-Intro_text: "Il contient ASPOSE.PDF pour les services de rapport 17.1.0 (DLLS uniquement)."
+intro_text: "Il contient ASPOSE.PDF pour les services de rapport 17.1.0 (DLLS uniquement)."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   1/2/2017  Téléchargers: 187  Views: 837"
 file_size: "  File Size: 120.9 MB "

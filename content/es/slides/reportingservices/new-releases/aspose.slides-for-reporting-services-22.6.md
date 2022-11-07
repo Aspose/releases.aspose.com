@@ -8,7 +8,7 @@ folder_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: "Aspose.lides para servicios de informes 22.6"
 download_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-22.6/b57eafc57da6bcb90ae9abb86a4ad18b-6-7554"
 download_text: "Descargar"
-intro_text: "It contains Aspose.Slides for Reporting Services 22.6 (DLLs Only)"
+intro_text: "Contiene aspose.lides para los servicios de informes 22.6 (solo DLLS)"
 image_link: "/resources/img/msi-icon.png"
 download_count: " 24/6/2022 Descargars: 1  Views: 1 "
 file_size: "File Size: 29.72MB"

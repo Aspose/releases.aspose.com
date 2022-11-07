@@ -7,7 +7,7 @@ folder_link: " words/jasperreports/new-releases/aspose.words-for-jasperreports-2
 folder_name: "Aspose.Words pour JasperReports 22.4"
 download_link: " /words/jasperreports/new-releases/aspose.words-for-jasperreports-22.4/8fe88c7feb264895953282707b8f6810"
 download_text: " Télécharger"
-Intro_text: "Il contient Aspose.Words pour la version JasperReports 22.4"
+intro_text: "Il contient Aspose.Words pour la version JasperReports 22.4"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   Added: 4 weeks ago [4/22/2022]  Téléchargers: 11  Views: 30"
 file_size: "  File Size: 51.4 MB "

@@ -7,7 +7,7 @@ folder_link: " email/androidjava/new-releases/aspose.email-for-android-via-java-
 folder_name: "Java 20.10を介したAndroid用のAspose.Email"
 download_link: " /email/androidjava/new-releases/aspose.email-for-android-via-java-20.10/6fe50b1161b44092bb2c43abf03b0b76"
 download_text: " ダウンロード"
-Intro_text: "Java 20.10リリースを介してAndroid用のAspose.Emailが含まれています。"
+intro_text: "Java 20.10リリースを介してAndroid用のAspose.Emailが含まれています。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/30/2020  ダウンロードs: 1  Views: 58"
 file_size: "  File Size: 9.3 MB "

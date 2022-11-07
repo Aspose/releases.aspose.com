@@ -8,7 +8,7 @@ folder_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22
 folder_name: "Aspose.cells για Python μέσω .NET 22.9"
 download_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.9/674a81c84945327c05bef1fb4a1cb604-29-7875"
 download_text: "Κατεβάστε"
-intro_text: "Please refer to release notes and ReadMe for detail"
+intro_text: "Ανατρέξτε στο Σημειώσεις έκδοσης and Readme για λεπτομέρειες"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 9/9/2022 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 140.47MB"

@@ -8,7 +8,7 @@ folder_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: "aspose.slides报告服务22.9"
 download_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-22.9/cc7feabd8a21d952c1a5c01d387b76dc-6-7891"
 download_text: "下载"
-intro_text: "It contains Aspose.Slides for Reporting Services 22.9"
+intro_text: "它包含aspose.spose。报告服务服务22.9"
 image_link: "/resources/img/msi-icon.png"
 download_count: " 13/9/2022 下载s: 1  Views: 1 "
 file_size: "File Size: 29.8MB"

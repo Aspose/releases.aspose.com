@@ -7,7 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-22.1/
 folder_name: "Aspose.lide para o SharePoint 22.1"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-22.1/5f3cd596b3af4bee9925cec4aa570e06"
 download_text: " Download"
-Intro_text: "Ele contém asppos.lides para o SharePoint 22.1 Release."
+intro_text: "Ele contém asppos.lides para o SharePoint 22.1 Release."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   1/19/2022  Downloads: 2  Views: 20"
 file_size: "  File Size: 57.3 MB "

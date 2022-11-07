@@ -7,7 +7,7 @@ folder_link: " words/jasperreports/new-releases/aspose.words-for-jasperreports-2
 folder_name: "JasperReports 22.4のAspose.Words"
 download_link: " /words/jasperreports/new-releases/aspose.words-for-jasperreports-22.4/8fe88c7feb264895953282707b8f6810"
 download_text: " ダウンロード"
-Intro_text: "JasperReports 22.4リリースのAsops.Wordsが含まれています"
+intro_text: "JasperReports 22.4リリースのAsops.Wordsが含まれています"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   Added: 4 weeks ago [4/22/2022]  ダウンロードs: 11  Views: 30"
 file_size: "  File Size: 51.4 MB "

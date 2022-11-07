@@ -8,7 +8,7 @@ folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-22.10_(dlls-only
 folder_name: "Aspose.imaging για .NET 22.10_ (μόνο DLLS)"
 download_link: "/imaging/net/new-releases/aspose.imaging-for-.net-22.10_(dlls-only)/dbf320045bc320670a1102581c8f1292-9-7968"
 download_text: "Κατεβάστε"
-intro_text: "It contains Aspose.Imaging for .NET 22.10 (Dlls only) release."
+intro_text: "Περιέχει aspose.imaging για .NET 22.10 (μόνο DLLS) απελευθέρωση."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 3/10/2022 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 41.33MB"

@@ -8,7 +8,7 @@ folder_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: "Aspose.lides para los servicios de informes 22.8 (solo DLLS)"
 download_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-22.8-(dlls-only)/e4311044136394273ba0bda4059696d4-7-7770"
 download_text: "Descargar"
-intro_text: "It contains Aspose.Slides for Reporting Services 22.8 (DLLs Only)"
+intro_text: "Contiene aspose.lides para los servicios de informes 22.8 (solo DLLS)"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 17/8/2022 Descargars: 1  Views: 1 "
 file_size: "File Size: 32.74MB"

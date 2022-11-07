@@ -7,7 +7,7 @@ folder_link: " barcode/reportingservices/new-releases/aspose.barcode-for-reporti
 folder_name: "Aspose.Barcode untuk Layanan Pelaporan 21.5"
 download_link: " /barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.5/99d667538cc047a6ad4dd61a02cfcb08"
 download_text: " Unduh"
-Intro_text: "Ini berisi aspose.barcode untuk pelaporan layanan 21.5."
+intro_text: "Ini berisi aspose.barcode untuk pelaporan layanan 21.5."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   5/19/2021  Unduhs: 7  Views: 102"
 file_size: "  File Size: 10.7 MB "

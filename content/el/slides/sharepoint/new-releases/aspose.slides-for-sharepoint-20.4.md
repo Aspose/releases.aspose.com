@@ -7,7 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.4/
 folder_name: "Aspose.slides για το SharePoint 20.4"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.4/caeec829686c4fd2878982727f5150b5"
 download_text: " Κατεβάστε"
-Intro_text: "Περιέχει aspose.slides για την απελευθέρωση SharePoint 20.4."
+intro_text: "Περιέχει aspose.slides για την απελευθέρωση SharePoint 20.4."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   4/22/2020  Κατεβάστεs: 1  Views: 78"
 file_size: "  File Size: 52.4 MB "

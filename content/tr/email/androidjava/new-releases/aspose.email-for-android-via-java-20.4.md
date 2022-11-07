@@ -7,7 +7,7 @@ folder_link: " email/androidjava/new-releases/aspose.email-for-android-via-java-
 folder_name: "Java 20.4 üzerinden Android için Email"
 download_link: " /email/androidjava/new-releases/aspose.email-for-android-via-java-20.4/26f396e89eb34d5fab621c7b4f883b41"
 download_text: " İndirmek"
-Intro_text: "Java 20.4 sürümü aracılığıyla Android için aspose. -posta içerir."
+intro_text: "Java 20.4 sürümü aracılığıyla Android için aspose. -posta içerir."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   6/3/2020  İndirmeks: 3  Views: 87"
 file_size: "  File Size: 9.2 MB "

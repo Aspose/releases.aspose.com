@@ -8,7 +8,7 @@ folder_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22
 folder_name: "Aspose.NET 22.8 üzerinden python için"
 download_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.8/96b76b3d6c2b426415cc8315eb2ab983-29-7860"
 download_text: "İndirmek"
-intro_text: "Please refer to release notes and ReadMe for detail"
+intro_text: "Detay için lütfen sürüm notlarına ve ReadMe'ye bakın"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 5/9/2022 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 140.36MB"

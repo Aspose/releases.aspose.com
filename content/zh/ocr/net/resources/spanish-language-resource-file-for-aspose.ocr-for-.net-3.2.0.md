@@ -7,7 +7,7 @@ folder_link: " ocr/net/resources/spanish-language-resource-file-for-aspose.ocr-f
 folder_name: "aspose.ocr的西班牙语资源文件.NET 3.2.0"
 download_link: " /ocr/net/resources/spanish-language-resource-file-for-aspose.ocr-for-.net-3.2.0/94072ae1510b4b689dca342734c4110a"
 download_text: " 下载"
-Intro_text: "aspose.ocr .net使用不同语言的资源文件来执行OCR O ..."
+intro_text: "aspose.ocr .net使用不同语言的资源文件来执行OCR O ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/29/2015  下载s: 103  Views: 727"
 file_size: "  File Size: 4.8 MB "

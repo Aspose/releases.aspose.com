@@ -7,7 +7,7 @@ folder_link: " email/androidjava/new-releases/aspose.email-for-android-via-java-
 folder_name: "Aspose.ail para Android via Java 21.4"
 download_link: " /email/androidjava/new-releases/aspose.email-for-android-via-java-21.4/55198c47f3294addb44fa9a1fbe32d04"
 download_text: " Download"
-Intro_text: "Ele contém asppos.ail para Android via Java 21.4 Release."
+intro_text: "Ele contém asppos.ail para Android via Java 21.4 Release."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/30/2021  Downloads: 2  Views: 53"
 file_size: "  File Size: 9.4 MB "

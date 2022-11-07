@@ -7,7 +7,7 @@ folder_link: " diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-2
 folder_name: "Java 22.1を介したnode.jsのasoppes.diagram"
 download_link: " /diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.1/26f278da608742c196e0510b294b22ec"
 download_text: " ダウンロード"
-Intro_text: "Java 22.1リリースを介してnode.js用のAsoppes.diagramが含まれています。"
+intro_text: "Java 22.1リリースを介してnode.js用のAsoppes.diagramが含まれています。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   1/12/2022  ダウンロードs: 0  Views: 13"
 file_size: "  File Size: 3.2 MB "

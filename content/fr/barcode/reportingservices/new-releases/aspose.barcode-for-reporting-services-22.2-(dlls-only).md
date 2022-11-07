@@ -7,7 +7,7 @@ folder_link: " barcode/reportingservices/new-releases/aspose.barcode-for-reporti
 folder_name: "Aspose.barcode pour les services de rapport 22.2 (DLL uniquement)"
 download_link: " /barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-22.2-(dlls-only)/4c7306c4a49847bb9df8dbefff9eb57a"
 download_text: " Télécharger"
-Intro_text: "Il contient Aspose.Barcode for Reporting Services 22.2 (DLLS uniquement)."
+intro_text: "Il contient Aspose.Barcode for Reporting Services 22.2 (DLLS uniquement)."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/26/2022  Téléchargers: 5  Views: 11"
 file_size: "  File Size: 8.8 MB "

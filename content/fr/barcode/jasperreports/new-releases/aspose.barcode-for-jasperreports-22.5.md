@@ -8,7 +8,7 @@ folder_link: "/barcode/jasperreports/new-releases/aspose.barcode-for-jasperrepor
 folder_name: "Aspose.barcode pour JasperReports 22.5"
 download_link: "/barcode/jasperreports/new-releases/aspose.barcode-for-jasperreports-22.5/911764fa7c65c8dae8b435d0e958d67c-7413"
 download_text: "Télécharger"
-intro_text: "Aspose.BarCode for JasperReports 22.5 has been released"
+intro_text: "Aspose.barcode pour JasperReports 22.5 a été publié"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 10/6/2022 Téléchargers: 1  Views: 3 "
 file_size: "File Size: 10.4MB"

@@ -7,7 +7,7 @@ folder_link: " barcode/reportingservices/new-releases/aspose.barcode-for-reporti
 folder_name: "aspose.barcode用于报告服务21.6（仅DLL）"
 download_link: " /barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.6-(dlls-only)/266fca4786ce4220a02ab49515e30673"
 download_text: " 下载"
-Intro_text: "它包含aspose.barcode用于报告服务21.6（仅DLLS）版本。"
+intro_text: "它包含aspose.barcode用于报告服务21.6（仅DLLS）版本。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   6/20/2021  下载s: 2  Views: 38"
 file_size: "  File Size: 16.0 MB "

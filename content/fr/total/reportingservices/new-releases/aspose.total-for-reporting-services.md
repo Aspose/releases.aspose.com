@@ -7,7 +7,7 @@ folder_link: " total/reportingservices/new-releases/aspose.total-for-reporting-s
 folder_name: "Aspose.total pour les services de rapport"
 download_link: " /total/reportingservices/new-releases/aspose.total-for-reporting-services/2ef3c559e249443faaf056d3fd6589b9"
 download_text: " Télécharger"
-Intro_text: "ASPOSE.TOTAL for Reporting Services contient la version la plus récente de tous les rapports ..."
+intro_text: "ASPOSE.TOTAL for Reporting Services contient la version la plus récente de tous les rapports ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/22/2021  Téléchargers: 6100  Views: 1198"
 file_size: "  File Size: 261.2 MB "

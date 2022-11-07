@@ -7,7 +7,7 @@ folder_link: " email/sharepoint/new-releases/aspose.network-for-sharepoint-1.2.0
 folder_name: "SharePoint 1.2.0のAspose.Network"
 download_link: " /email/sharepoint/new-releases/aspose.network-for-sharepoint-1.2.0/f813bf25fa154bfebe248ae26f96274a"
 download_text: " ダウンロード"
-Intro_text: "SharePoint V1.2のAsopse.Networkがリリースされました。次のものが含まれています..."
+intro_text: "SharePoint V1.2のAsopse.Networkがリリースされました。次のものが含まれています..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   3/4/2011  ダウンロードs: 9  Views: 580"
 file_size: "  File Size: 3.6 MB "

@@ -8,7 +8,7 @@ folder_link: "/words/reportingservices/new-releases/aspose.words-for-reporting-s
 folder_name: "レポートサービス22.8（MSI）のAsopsion.Words"
 download_link: "/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.8-(msi)/3c4e24832f515c59b6c7852ccae369c5-14-7736"
 download_text: "ダウンロード"
-intro_text: "Upgrade to the latest version of Aspose.Words for Net (22.8). Bug fixes."
+intro_text: "ネット用の最新バージョンのAspose.Words（22.8）にアップグレードします。バグの修正。"
 image_link: "/resources/img/msi-icon.png"
 download_count: " 4/8/2022 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 67.47MB"

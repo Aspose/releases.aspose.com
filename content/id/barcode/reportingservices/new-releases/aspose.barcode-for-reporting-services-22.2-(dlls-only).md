@@ -7,7 +7,7 @@ folder_link: " barcode/reportingservices/new-releases/aspose.barcode-for-reporti
 folder_name: "Aspose.Barcode untuk Layanan Pelaporan 22.2 (HANYA DLL)"
 download_link: " /barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-22.2-(dlls-only)/4c7306c4a49847bb9df8dbefff9eb57a"
 download_text: " Unduh"
-Intro_text: "Ini berisi aspose.barcode untuk layanan pelaporan 22.2 (hanya DLLS) rilis."
+intro_text: "Ini berisi aspose.barcode untuk layanan pelaporan 22.2 (hanya DLLS) rilis."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/26/2022  Unduhs: 5  Views: 11"
 file_size: "  File Size: 8.8 MB "

@@ -7,7 +7,7 @@ folder_link: " imaging/jasperreports/new-releases/-aspose.imaging-for-jasperrepo
 folder_name: "Aspose.Imaging for Jasperreports 21.5"
 download_link: " /imaging/jasperreports/new-releases/-aspose.imaging-for-jasperreports-21.5/acc62f9e0d7947feb2a7ca4eb80b9265"
 download_text: " Unduh"
-Intro_text: "Ini berisi aspose. Pembiusan untuk rilis Jasperreports 21.5."
+intro_text: "Ini berisi aspose. Pembiusan untuk rilis Jasperreports 21.5."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/7/2021  Unduhs: 4  Views: 60"
 file_size: "  File Size: 29.5 MB "

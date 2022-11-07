@@ -7,7 +7,7 @@ folder_link: " imaging/jasperreports/new-releases/aspose.imaging-for-jasperrepor
 folder_name: "Aspose."
 download_link: " /imaging/jasperreports/new-releases/aspose.imaging-for-jasperreports-20.9/f3f0463daa6e476eb45d62118a2c74a1"
 download_text: " İndirmek"
-Intro_text: "JasperReports 20.9 sürümü için ASPOS."
+intro_text: "JasperReports 20.9 sürümü için ASPOS."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/29/2020  İndirmeks: 0  Views: 61"
 file_size: "  File Size: 30.0 MB "

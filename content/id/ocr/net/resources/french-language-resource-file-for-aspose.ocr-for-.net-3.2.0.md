@@ -7,7 +7,7 @@ folder_link: " ocr/net/resources/french-language-resource-file-for-aspose.ocr-fo
 folder_name: "File sumber daya bahasa Prancis untuk aspose.ocr untuk .net 3.2.0"
 download_link: " /ocr/net/resources/french-language-resource-file-for-aspose.ocr-for-.net-3.2.0/8ddc2ce2b5ff4b049b24ce598b3ccb68"
 download_text: " Unduh"
-Intro_text: "Aspose.ocr untuk .net menggunakan file sumber daya untuk berbagai bahasa untuk melakukan oCr o ..."
+intro_text: "Aspose.ocr untuk .net menggunakan file sumber daya untuk berbagai bahasa untuk melakukan oCr o ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/29/2015  Unduhs: 113  Views: 724"
 file_size: "  File Size: 5.3 MB "

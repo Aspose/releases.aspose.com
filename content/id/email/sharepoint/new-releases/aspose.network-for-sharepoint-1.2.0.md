@@ -7,7 +7,7 @@ folder_link: " email/sharepoint/new-releases/aspose.network-for-sharepoint-1.2.0
 folder_name: "Aspose.network untuk SharePoint 1.2.0"
 download_link: " /email/sharepoint/new-releases/aspose.network-for-sharepoint-1.2.0/f813bf25fa154bfebe248ae26f96274a"
 download_text: " Unduh"
-Intro_text: "Aspose.network untuk SharePoint v1.2 telah dirilis. Itu termasuk yang berikut ..."
+intro_text: "Aspose.network untuk SharePoint v1.2 telah dirilis. Itu termasuk yang berikut ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   3/4/2011  Unduhs: 9  Views: 580"
 file_size: "  File Size: 3.6 MB "

@@ -7,7 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.5/
 folder_name: "aspose.sharepoint 20.5的滑坡"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.5/3efcf2d17ae04599bfcde2862a74738a"
 download_text: " 下载"
-Intro_text: "它包含aspose.sharepoint 20.5版本的aspose。"
+intro_text: "它包含aspose.sharepoint 20.5版本的aspose。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/7/2020  下载s: 0  Views: 86"
 file_size: "  File Size: 52.6 MB "

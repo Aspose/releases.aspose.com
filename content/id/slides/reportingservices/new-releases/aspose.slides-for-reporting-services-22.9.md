@@ -8,7 +8,7 @@ folder_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: "Aspose.slides untuk Layanan Pelaporan 22.9"
 download_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-22.9/cc7feabd8a21d952c1a5c01d387b76dc-6-7891"
 download_text: "Unduh"
-intro_text: "It contains Aspose.Slides for Reporting Services 22.9"
+intro_text: "Ini berisi aspose.slides untuk layanan pelaporan 22.9"
 image_link: "/resources/img/msi-icon.png"
 download_count: " 13/9/2022 Unduhs: 1  Views: 1 "
 file_size: "File Size: 29.8MB"

@@ -7,7 +7,7 @@ folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-s
 folder_name: "aspose.Words用于报告服务22.5（ZIP）"
 download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-22.5-(zip)/3a2ad763ed344754baa9d19d7ec9784f"
 download_text: " 下载"
-Intro_text: "升级到最新版本的aspose.words for Net（22.5）。 Bug修复。"
+intro_text: "升级到最新版本的aspose.words for Net（22.5）。 Bug修复。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   Added: 2 weeks ago [5/6/2022]  下载s: 1  Views: 6"
 file_size: "  File Size: 65.4 MB "

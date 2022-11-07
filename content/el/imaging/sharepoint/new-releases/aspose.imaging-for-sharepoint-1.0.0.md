@@ -7,7 +7,7 @@ folder_link: " imaging/sharepoint/new-releases/aspose.imaging-for-sharepoint-1.0
 folder_name: "Aspose.imaging για το SharePoint 1.0.0"
 download_link: " /imaging/sharepoint/new-releases/aspose.imaging-for-sharepoint-1.0.0/d30743f69aaf443ea0233fd23c9b39a7"
 download_text: " Κατεβάστε"
-Intro_text: "Aspose.imaging για το SharePoint είναι ένα ελαφρύ στοιχείο βάρους που κάνει το Sharep σας ..."
+intro_text: "Aspose.imaging για το SharePoint είναι ένα ελαφρύ στοιχείο βάρους που κάνει το Sharep σας ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/10/2013  Κατεβάστεs: 161  Views: 1517"
 file_size: "  File Size: 2.0 MB "

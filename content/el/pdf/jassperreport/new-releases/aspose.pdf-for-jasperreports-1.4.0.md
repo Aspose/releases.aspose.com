@@ -7,7 +7,7 @@ folder_link: " pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.4.0
 folder_name: "Aspose.pdf για jasperreports 1.4.0"
 download_link: " /pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.4.0/b7a92faedf674dbd91b1ed1b23d878d3"
 download_text: " Κατεβάστε"
-Intro_text: "Είμαστε στην ευχάριστη θέση να μοιραστούμε μια νέα έκδοση του aspose.pdf για το JasperReports με το Follo ..."
+intro_text: "Είμαστε στην ευχάριστη θέση να μοιραστούμε μια νέα έκδοση του aspose.pdf για το JasperReports με το Follo ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/19/2015  Κατεβάστεs: 112  Views: 635"
 file_size: "  File Size: 8.5 MB "

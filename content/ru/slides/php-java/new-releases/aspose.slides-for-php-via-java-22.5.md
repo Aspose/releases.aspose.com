@@ -8,7 +8,7 @@ folder_link: "/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.5/
 folder_name: "Aspose.slides для PHP через Java 22,5"
 download_link: "/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.5/f04627a2103dc5ecf76553dfaae109f2-2-7518"
 download_text: "Скачать"
-intro_text: "It contains Aspose.Slides for PHP via Java 22.5 release."
+intro_text: "Он содержит Aspose.slides для PHP через выпуск Java 22.5."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 15/6/2022 Скачатьs: 1  Views: 18 "
 file_size: "File Size: 26.0 MB"

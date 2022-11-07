@@ -7,7 +7,7 @@ folder_link: " diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-2
 folder_name: "Aspose.diagram pour node.js via Java 22.3"
 download_link: " /diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.3/e198b2f3c2b74094b4b9112d55146e93"
 download_text: " Télécharger"
-Intro_text: "Il contient Aspose.Diagram pour Node.js via la version Java 22.3."
+intro_text: "Il contient Aspose.Diagram pour Node.js via la version Java 22.3."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   3/9/2022  Téléchargers: 0  Views: 6"
 file_size: "  File Size: 3.2 MB "

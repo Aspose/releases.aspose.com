@@ -7,7 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.8/
 folder_name: "SharePoint 20.8 için aspose.slides"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.8/4f3c2f8e4d634ebdb7a235def30d155f"
 download_text: " İndirmek"
-Intro_text: "SharePoint 20.8 sürümü için aspose.slides içerir."
+intro_text: "SharePoint 20.8 sürümü için aspose.slides içerir."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/17/2020  İndirmeks: 4  Views: 98"
 file_size: "  File Size: 52.9 MB "

@@ -7,7 +7,7 @@ folder_link: " ocr/net/resources/portuguese-language-resource-file-for-aspose.oc
 folder_name: ".NET 2.3.0 için aspose.ocr için Portekizce Dil Kaynak Dosyası"
 download_link: " /ocr/net/resources/portuguese-language-resource-file-for-aspose.ocr-for-.net-2.3.0/b3ab7c506a9342d38061261ec602cf80"
 download_text: " İndirmek"
-Intro_text: "ASPOSE.OCR."
+intro_text: "ASPOSE.OCR."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/25/2015  İndirmeks: 84  Views: 497"
 file_size: "  File Size: 3.4 MB "

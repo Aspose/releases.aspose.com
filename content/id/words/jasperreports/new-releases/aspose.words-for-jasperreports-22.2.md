@@ -7,7 +7,7 @@ folder_link: " words/jasperreports/new-releases/aspose.words-for-jasperreports-2
 folder_name: "Aspose.Words untuk Jasperreports 22.2"
 download_link: " /words/jasperreports/new-releases/aspose.words-for-jasperreports-22.2/d949fd001ebf49b7872e75bf66ab1121"
 download_text: " Unduh"
-Intro_text: "Ini berisi aspose.words untuk rilis Jasperreports 22.2 dan beberapa perbaikan"
+intro_text: "Ini berisi aspose.words untuk rilis Jasperreports 22.2 dan beberapa perbaikan"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/18/2022  Unduhs: 25  Views: 89"
 file_size: "  File Size: 52.0 MB "

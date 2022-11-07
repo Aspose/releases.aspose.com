@@ -7,7 +7,7 @@ folder_link: " barcode/net/new-releases/aspose.barcode-for-.net-22.3-(dlls-only)
 folder_name: "Aspose.barcode untuk .net 22.3 (hanya DLL)"
 download_link: " /barcode/net/new-releases/aspose.barcode-for-.net-22.3-(dlls-only)/86223a1f8bb74b4e8b2192f978fb0e75"
 download_text: " Unduh"
-Intro_text: "Ini berisi aspose.barcode untuk .NET 22.3 (hanya DLLS) rilis."
+intro_text: "Ini berisi aspose.barcode untuk .NET 22.3 (hanya DLLS) rilis."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   Added: 3 weeks ago [3/26/2022]  Unduhs: 15  Views: 21"
 file_size: "  File Size: 15.3 MB "

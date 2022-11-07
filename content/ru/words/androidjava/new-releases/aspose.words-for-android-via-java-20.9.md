@@ -7,7 +7,7 @@ folder_link: " words/androidjava/new-releases/aspose.words-for-android-via-java-
 folder_name: "Aspose.words для Android через Java 20.9"
 download_link: " /words/androidjava/new-releases/aspose.words-for-android-via-java-20.9/792e3887b0db4ca5acda30992f0d4f03"
 download_text: " Скачать"
-Intro_text: "Он содержит Aspose.words для Android через выпуск Java 20.9."
+intro_text: "Он содержит Aspose.words для Android через выпуск Java 20.9."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/4/2020  Скачатьs: 52  Views: 155"
 file_size: "  File Size: 13.4 MB "

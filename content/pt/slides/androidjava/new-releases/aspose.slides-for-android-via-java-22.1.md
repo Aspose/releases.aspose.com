@@ -7,7 +7,7 @@ folder_link: " slides/androidjava/new-releases/aspose.slides-for-android-via-jav
 folder_name: "Aspose.lide para Android via Java 22.1"
 download_link: " /slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.1/42fb09cb2e494bc986f19507d26b23c7"
 download_text: " Download"
-Intro_text: "Ele contém aspostos.lide para Android via Java 22.1 Release."
+intro_text: "Ele contém aspostos.lide para Android via Java 22.1 Release."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   1/24/2022  Downloads: 2  Views: 15"
 file_size: "  File Size: 32.0 MB "

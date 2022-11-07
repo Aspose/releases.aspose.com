@@ -7,7 +7,7 @@ folder_link: " total/androidjava/new-releases/aspose.total-for-android-via-java/
 folder_name: "aspose.total for Android通过Java"
 download_link: " /total/androidjava/new-releases/aspose.total-for-android-via-java/a5a33797f13c474d8172e4680439f294"
 download_text: " 下载"
-Intro_text: "Android的Aspose.Toctal包含所有Android产品的最新版本。"
+intro_text: "Android的Aspose.Toctal包含所有Android产品的最新版本。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/22/2021  下载s: 8418  Views: 1400"
 file_size: "  File Size: 127.4 MB "

@@ -7,7 +7,7 @@ folder_link: " barcode/reportingservices/new-releases/aspose.barcode-for-reporti
 folder_name: "Aspose.BARCODE για τις υπηρεσίες αναφοράς 21.8"
 download_link: " /barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.8/ac4e0fae6e9d40e0b9a41354101b4858"
 download_text: " Κατεβάστε"
-Intro_text: "Περιέχει ASPOSE.BARCODE για τις Υπηρεσίες Αναφοράς 21.8 Έκδοση."
+intro_text: "Περιέχει ASPOSE.BARCODE για τις Υπηρεσίες Αναφοράς 21.8 Έκδοση."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   8/20/2021  Κατεβάστεs: 13  Views: 95"
 file_size: "  File Size: 10.1 MB "

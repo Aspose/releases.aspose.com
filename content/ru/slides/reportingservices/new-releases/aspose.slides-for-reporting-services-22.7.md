@@ -8,7 +8,7 @@ folder_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: "Aspose.slides для отчетности Услуги 22.7"
 download_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-22.7/eee25bd25673cb4fb76e938af1b46be9-6-7658"
 download_text: "Скачать"
-intro_text: "It contains Aspose.Slides for Reporting Services 22.7"
+intro_text: "Он содержит Aspose.slides для отчетности Услуг 22.7"
 image_link: "/resources/img/msi-icon.png"
 download_count: " 19/7/2022 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 29.85MB"

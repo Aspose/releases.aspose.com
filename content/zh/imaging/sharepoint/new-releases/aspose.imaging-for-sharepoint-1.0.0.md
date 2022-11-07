@@ -7,7 +7,7 @@ folder_link: " imaging/sharepoint/new-releases/aspose.imaging-for-sharepoint-1.0
 folder_name: "aspose.miging SharePoint 1.0.0"
 download_link: " /imaging/sharepoint/new-releases/aspose.imaging-for-sharepoint-1.0.0/d30743f69aaf443ea0233fd23c9b39a7"
 download_text: " 下载"
-Intro_text: "aspose.mimaging SharePoint是一个轻巧的组件，可使您的Sharep ..."
+intro_text: "aspose.mimaging SharePoint是一个轻巧的组件，可使您的Sharep ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/10/2013  下载s: 161  Views: 1517"
 file_size: "  File Size: 2.0 MB "

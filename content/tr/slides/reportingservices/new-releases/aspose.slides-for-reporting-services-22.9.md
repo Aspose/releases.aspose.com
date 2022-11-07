@@ -8,7 +8,7 @@ folder_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting
 folder_name: "Raporlama hizmetleri için aspose.slides 22.9"
 download_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-22.9/cc7feabd8a21d952c1a5c01d387b76dc-6-7891"
 download_text: "İndirmek"
-intro_text: "It contains Aspose.Slides for Reporting Services 22.9"
+intro_text: "Raporlama hizmetleri için aspose.slides içerir 22.9"
 image_link: "/resources/img/msi-icon.png"
 download_count: " 13/9/2022 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 29.8MB"

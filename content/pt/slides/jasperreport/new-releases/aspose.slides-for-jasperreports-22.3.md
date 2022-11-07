@@ -7,7 +7,7 @@ folder_link: " slides/jasperreport/new-releases/aspose.slides-for-jasperreports-
 folder_name: "Aspose.slide para JasperReports 22.3"
 download_link: " /slides/jasperreport/new-releases/aspose.slides-for-jasperreports-22.3/333e73cbb3c54ab8b564e1a2689308ce"
 download_text: " Download"
-Intro_text: "Ele contém asppos.lides para JasperReports 22.3 Release."
+intro_text: "Ele contém asppos.lides para JasperReports 22.3 Release."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   Added: 3 weeks ago [3/24/2022]  Downloads: 0  Views: 3"
 file_size: "  File Size: 70.6 MB "

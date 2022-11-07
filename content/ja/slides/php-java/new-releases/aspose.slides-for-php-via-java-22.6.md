@@ -8,7 +8,7 @@ folder_link: "/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.6/
 folder_name: "Java 22.6を介したPHPのAspose.Slides"
 download_link: "/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.6/84c1dad79f655f6b4a97e8dcc4178454-6-7570"
 download_text: "ダウンロード"
-intro_text: "It contains Aspose.Slides for PHP via Java 22.6 release."
+intro_text: "Java 22.6リリースを介してPHPのAsoppes.slidesが含まれています。"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 27/6/2022 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 26.84MB"

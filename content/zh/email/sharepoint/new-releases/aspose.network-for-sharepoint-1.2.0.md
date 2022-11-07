@@ -7,7 +7,7 @@ folder_link: " email/sharepoint/new-releases/aspose.network-for-sharepoint-1.2.0
 folder_name: "Aspose.SharePoint 1.2.0的网络"
 download_link: " /email/sharepoint/new-releases/aspose.network-for-sharepoint-1.2.0/f813bf25fa154bfebe248ae26f96274a"
 download_text: " 下载"
-Intro_text: "SharePoint v1.2的aspose.network已发布。它包括以下..."
+intro_text: "SharePoint v1.2的aspose.network已发布。它包括以下..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   3/4/2011  下载s: 9  Views: 580"
 file_size: "  File Size: 3.6 MB "

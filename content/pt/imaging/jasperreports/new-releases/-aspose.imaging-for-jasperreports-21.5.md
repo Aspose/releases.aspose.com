@@ -7,7 +7,7 @@ folder_link: " imaging/jasperreports/new-releases/-aspose.imaging-for-jasperrepo
 folder_name: "Aspose.imação para JasperReports 21.5"
 download_link: " /imaging/jasperreports/new-releases/-aspose.imaging-for-jasperreports-21.5/acc62f9e0d7947feb2a7ca4eb80b9265"
 download_text: " Download"
-Intro_text: "Ele contém aspoções."
+intro_text: "Ele contém aspoções."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/7/2021  Downloads: 4  Views: 60"
 file_size: "  File Size: 29.5 MB "

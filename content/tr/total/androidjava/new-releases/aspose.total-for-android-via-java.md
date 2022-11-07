@@ -7,7 +7,7 @@ folder_link: " total/androidjava/new-releases/aspose.total-for-android-via-java/
 folder_name: "Java üzerinden Android için aspose.total"
 download_link: " /total/androidjava/new-releases/aspose.total-for-android-via-java/a5a33797f13c474d8172e4680439f294"
 download_text: " İndirmek"
-Intro_text: "Android için aspose.total, tüm Android ürünlerinin en son sürümünü içerir."
+intro_text: "Android için aspose.total, tüm Android ürünlerinin en son sürümünü içerir."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/22/2021  İndirmeks: 8418  Views: 1400"
 file_size: "  File Size: 127.4 MB "

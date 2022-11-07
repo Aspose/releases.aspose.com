@@ -8,7 +8,7 @@ folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-22.10_(dlls-only
 folder_name: "aspose.mimaging .net 22.10_（仅DLL）"
 download_link: "/imaging/net/new-releases/aspose.imaging-for-.net-22.10_(dlls-only)/dbf320045bc320670a1102581c8f1292-9-7968"
 download_text: "下载"
-intro_text: "It contains Aspose.Imaging for .NET 22.10 (Dlls only) release."
+intro_text: "它包含aspose.mimaging .NET 22.10（仅DLLS）释放。"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 3/10/2022 下载s: 1  Views: 1 "
 file_size: "File Size: 41.33MB"

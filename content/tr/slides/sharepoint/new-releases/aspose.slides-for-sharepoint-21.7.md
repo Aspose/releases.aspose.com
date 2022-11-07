@@ -7,7 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-21.7/
 folder_name: "SharePoint 21.7 için aspose.slides"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-21.7/5f6b78de86a04b0184b68322f5259e79"
 download_text: " İndirmek"
-Intro_text: "SharePoint 21.7 sürümü için aspose.slides içerir."
+intro_text: "SharePoint 21.7 sürümü için aspose.slides içerir."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/15/2021  İndirmeks: 8  Views: 48"
 file_size: "  File Size: 56.1 MB "

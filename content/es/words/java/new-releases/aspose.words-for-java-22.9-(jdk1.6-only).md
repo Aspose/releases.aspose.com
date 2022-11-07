@@ -8,7 +8,7 @@ folder_link: "/words/java/new-releases/aspose.words-for-java-22.9-(jdk1.6-only)/
 folder_name: "Aspose.words para Java 22.9 (solo JDK1.6)"
 download_link: "/words/java/new-releases/aspose.words-for-java-22.9-(jdk1.6-only)/9f129011b5c6267b998cf4ed71c4c5b3-4-7873"
 download_text: "Descargar"
-intro_text: "Descargar this if you have no choice but to use Aspose.Words on an old Java 6 environment. This JAR of Aspose.Words for Java is compiled for JDK1.6. Please get all other components (such as Javadoc and License agreements) from the main ZIP download package."
+intro_text: "Descargue esto si no tiene más remedio que usar Aspose.Words en un antiguo entorno Java 6. Este frasco de Aspose.Words para Java se compila para JDK1.6. Obtenga todos los demás componentes (como Javadoc y acuerdos de licencia) del paquete principal de descarga ZIP."
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 8/9/2022 Descargars: 1  Views: 1 "
 file_size: "File Size: 15.69MB"

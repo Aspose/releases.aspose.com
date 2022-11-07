@@ -7,7 +7,7 @@ folder_link: " cells/androidjava/new-releases/aspose.cells-for-android-via-java-
 folder_name: "Java 21.9を介したAndroid用のAspose.cells"
 download_link: " /cells/androidjava/new-releases/aspose.cells-for-android-via-java-21.9/ea807ad0fdb84880a42de3ab400cf1a7"
 download_text: " ダウンロード"
-Intro_text: "Java 21.9リリースを介してAndroid用のAspose.cellsが含まれています。"
+intro_text: "Java 21.9リリースを介してAndroid用のAspose.cellsが含まれています。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/16/2021  ダウンロードs: 18  Views: 54"
 file_size: "  File Size: 10.1 MB "

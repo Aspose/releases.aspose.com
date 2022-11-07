@@ -8,7 +8,7 @@ folder_link: "/finance/net/new-releases/aspose.finance-for-.net-22.6(dlls-only)/
 folder_name: ".NET 22.6 için aspose.finance (yalnızca DLL'ler)"
 download_link: "/finance/net/new-releases/aspose.finance-for-.net-22.6(dlls-only)/f25f32897b6d42f37701e511a0e26326-2-7522"
 download_text: "İndirmek"
-intro_text: "Aspose.Finance for .NET 22.6 dlls release"
+intro_text: "Aspose.net 22.6 dlls sürümü için"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 16/6/2022 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 6.62MB"

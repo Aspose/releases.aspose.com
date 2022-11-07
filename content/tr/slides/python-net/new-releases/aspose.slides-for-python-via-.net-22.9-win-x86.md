@@ -8,7 +8,7 @@ folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-
 folder_name: "Python için aspose.slides .NET 22.9 Win x86"
 download_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.9-win-x86/495af743570859bf7b6469f2dafbcf3c-10-7981"
 download_text: "İndirmek"
-intro_text: "Presentation Manipulation Python API"
+intro_text: "Sunum Manipülasyonu Python API"
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 5/10/2022 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 48.83MB"

@@ -7,7 +7,7 @@ folder_link: " barcode/sharepoint/new-releases/aspose.barcode-for-sharepoint-v1.
 folder_name: "aspose.barcode for SharePoint v1.0.0"
 download_link: " /barcode/sharepoint/new-releases/aspose.barcode-for-sharepoint-v1.0.0/df89a445f6034137bdcaffa532ed8412"
 download_text: " 下载"
-Intro_text: "aspose.barcode for SharePoint提供了一个独特而强大的解决方案，以使您的..."
+intro_text: "aspose.barcode for SharePoint提供了一个独特而强大的解决方案，以使您的..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/20/2012  下载s: 153  Views: 1022"
 file_size: "  File Size: 836.0 KB "

@@ -7,7 +7,7 @@ folder_link: " cells/androidjava/new-releases/aspose.cells-for-android-via-java-
 folder_name: "Aspose.cells για Android μέσω Java 20.12"
 download_link: " /cells/androidjava/new-releases/aspose.cells-for-android-via-java-20.12/1924ce35a48b4dd0ab56fe6eb275530e"
 download_text: " Κατεβάστε"
-Intro_text: "Περιέχει AsPose.Cells για Android μέσω της Java 20.12 απελευθέρωση."
+intro_text: "Περιέχει AsPose.Cells για Android μέσω της Java 20.12 απελευθέρωση."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/22/2020  Κατεβάστεs: 7  Views: 74"
 file_size: "  File Size: 9.7 MB "

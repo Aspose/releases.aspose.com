@@ -7,7 +7,7 @@ folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-s
 folder_name: "Raporlama Hizmetleri için Kelimeler 21.12 (ZIP)"
 download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-21.12-(zip)-/1a94d4815d5c461d98495660b8ec7700"
 download_text: " İndirmek"
-Intro_text: "Net için Aspose.words'in en son sürümüne yükseltin (21.12). Hata düzeltmeleri."
+intro_text: "Net için Aspose.words'in en son sürümüne yükseltin (21.12). Hata düzeltmeleri."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/8/2021  İndirmeks: 5  Views: 30"
 file_size: "  File Size: 64.8 MB "

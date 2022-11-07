@@ -7,7 +7,7 @@ folder_link: " words/androidjava/new-releases/aspose.words-for-android-via-java-
 folder_name: "Aspose.words για Android μέσω Java 21.12"
 download_link: " /words/androidjava/new-releases/aspose.words-for-android-via-java-21.12/a1565c9e3b094d3a97ea6b49b9ae2064"
 download_text: " Κατεβάστε"
-Intro_text: "Περιέχει aspose.words για Android μέσω της απελευθέρωσης Java 21.12."
+intro_text: "Περιέχει aspose.words για Android μέσω της απελευθέρωσης Java 21.12."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/21/2021  Κατεβάστεs: 29  Views: 54"
 file_size: "  File Size: 14.0 MB "

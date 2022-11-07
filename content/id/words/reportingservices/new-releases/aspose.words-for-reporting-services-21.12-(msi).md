@@ -7,7 +7,7 @@ folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-s
 folder_name: "Aspose.Words untuk Layanan Pelaporan 21.12 (MSI)"
 download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-21.12-(msi)/662fb0d997be4cc8aebac568e0111893"
 download_text: " Unduh"
-Intro_text: "Tingkatkan ke versi terbaru dari Aspose.Words untuk NET (21.12). Perbaikan kerusakan."
+intro_text: "Tingkatkan ke versi terbaru dari Aspose.Words untuk NET (21.12). Perbaikan kerusakan."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   12/8/2021  Unduhs: 2  Views: 81"
 file_size: "  File Size: 65.9 MB "

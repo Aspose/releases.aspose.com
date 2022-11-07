@@ -7,7 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: "Aspose.pdf για υπηρεσίες αναφοράς 19.7.0 (μόνο DLLS)"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-19.7.0-(dlls-only)/ba41804393ea4bfab377b5616ebb8ea8"
 download_text: " Κατεβάστε"
-Intro_text: "Περιέχει aspose.pdf για την αναφορά υπηρεσιών 19.7.0 (μόνο DLLS) απελευθέρωση."
+intro_text: "Περιέχει aspose.pdf για την αναφορά υπηρεσιών 19.7.0 (μόνο DLLS) απελευθέρωση."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/30/2019  Κατεβάστεs: 41  Views: 138"
 file_size: "  File Size: 139.5 MB "

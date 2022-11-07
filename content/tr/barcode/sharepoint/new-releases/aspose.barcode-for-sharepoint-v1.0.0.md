@@ -7,7 +7,7 @@ folder_link: " barcode/sharepoint/new-releases/aspose.barcode-for-sharepoint-v1.
 folder_name: "SharePoint v1.0.0 için aspose.barcode"
 download_link: " /barcode/sharepoint/new-releases/aspose.barcode-for-sharepoint-v1.0.0/df89a445f6034137bdcaffa532ed8412"
 download_text: " İndirmek"
-Intro_text: "SharePoint için aspose.barcode, ..."
+intro_text: "SharePoint için aspose.barcode, ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/20/2012  İndirmeks: 153  Views: 1022"
 file_size: "  File Size: 836.0 KB "

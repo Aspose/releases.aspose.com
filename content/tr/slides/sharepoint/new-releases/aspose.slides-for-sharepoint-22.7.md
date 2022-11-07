@@ -8,7 +8,7 @@ folder_link: "/slides/sharepoint/new-releases/aspose.slides-for-sharepoint-22.7/
 folder_name: "SharePoint 22.7 için aspose.slides"
 download_link: "/slides/sharepoint/new-releases/aspose.slides-for-sharepoint-22.7/8cc363680bdc05d0fcd8c685dd69c728-12-7657"
 download_text: "İndirmek"
-intro_text: "It contains Aspose.Slides for SharePoint 22.7 release."
+intro_text: "SharePoint 22.7 sürümü için aspose.slides içerir."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 19/7/2022 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 55.57MB"

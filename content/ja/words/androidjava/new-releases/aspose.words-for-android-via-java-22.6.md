@@ -8,7 +8,7 @@ folder_link: "/words/androidjava/new-releases/aspose.words-for-android-via-java-
 folder_name: "Java 22.6を介したAndroid用のAspose.Words"
 download_link: "/words/androidjava/new-releases/aspose.words-for-android-via-java-22.6/263090fce1dc1b438bd70c2701b15709-3-7550"
 download_text: "ダウンロード"
-intro_text: "It contains Aspose.Words for Android via Java 22.6 release."
+intro_text: "Java 22.6リリースを介してAndroid用のAspose.Wordsが含まれています。"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 24/6/2022 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 14.13MB"

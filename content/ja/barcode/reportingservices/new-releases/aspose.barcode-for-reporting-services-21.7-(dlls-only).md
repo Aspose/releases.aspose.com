@@ -7,7 +7,7 @@ folder_link: " barcode/reportingservices/new-releases/aspose.barcode-for-reporti
 folder_name: "レポートサービス21.7（dllsのみ）のaspose.barcode"
 download_link: " /barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.7-(dlls-only)/5e785b7ccf344b77a91e7a038a2c5417"
 download_text: " ダウンロード"
-Intro_text: "レポートサービス21.7（DLLSのみ）リリース用のAsopsion.Barcodeが含まれています。"
+intro_text: "レポートサービス21.7（DLLSのみ）リリース用のAsopsion.Barcodeが含まれています。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/19/2021  ダウンロードs: 0  Views: 33"
 file_size: "  File Size: 26.5 MB "

@@ -7,7 +7,7 @@ folder_link: " email/androidjava/new-releases/aspose.email-for-android-via-java-
 folder_name: "ASPOSE.EMAIL Java 21.10 üzerinden android"
 download_link: " /email/androidjava/new-releases/aspose.email-for-android-via-java-21.10/2cb873357f134e47afa9e7a96ee56721"
 download_text: " İndirmek"
-Intro_text: "Java 21.10 sürümü aracılığıyla Android için aspose. -posta içerir."
+intro_text: "Java 21.10 sürümü aracılığıyla Android için aspose. -posta içerir."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/10/2021  İndirmeks: 14  Views: 38"
 file_size: "  File Size: 9.6 MB "

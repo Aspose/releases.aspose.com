@@ -7,7 +7,7 @@ folder_link: " slides/jasperreport/new-releases/aspose.slides-for-jasperreports-
 folder_name: "JasperReports 22.1 için aspose.slides"
 download_link: " /slides/jasperreport/new-releases/aspose.slides-for-jasperreports-22.1/abf9dae08f074b5a937291e3b89fed61"
 download_text: " İndirmek"
-Intro_text: "JasperReports 22.1 sürümü için aspose.slides içerir."
+intro_text: "JasperReports 22.1 sürümü için aspose.slides içerir."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   1/24/2022  İndirmeks: 0  Views: 12"
 file_size: "  File Size: 70.4 MB "

@@ -7,7 +7,7 @@ folder_link: " email/sharepoint/new-releases/aspose.network-for-sharepoint-1.2.0
 folder_name: "SharePoint 1.2.0 için aspose.network"
 download_link: " /email/sharepoint/new-releases/aspose.network-for-sharepoint-1.2.0/f813bf25fa154bfebe248ae26f96274a"
 download_text: " İndirmek"
-Intro_text: "SharePoint V1.2 için aspose.network yayınlandı. Aşağıdakileri içerir ..."
+intro_text: "SharePoint V1.2 için aspose.network yayınlandı. Aşağıdakileri içerir ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   3/4/2011  İndirmeks: 9  Views: 580"
 file_size: "  File Size: 3.6 MB "

@@ -7,7 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-21.7/
 folder_name: "Aspose.lides para SharePoint 21.7"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-21.7/5f6b78de86a04b0184b68322f5259e79"
 download_text: " Descargar"
-Intro_text: "Contiene aspose.slides para el lanzamiento de SharePoint 21.7."
+intro_text: "Contiene aspose.slides para el lanzamiento de SharePoint 21.7."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/15/2021  Descargars: 8  Views: 48"
 file_size: "  File Size: 56.1 MB "

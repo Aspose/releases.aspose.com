@@ -7,7 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: "Aspose.pdf pour les services de rapport 3.2.0 (DLLS uniquement)"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.2.0-(dlls-only)/437220f8983e4164bd9a52d8b4bb06b5"
 download_text: " Télécharger"
-Intro_text: "Aspose.pdf pour les services de rapport a été mis à jour à la version 3.2.0 et nous sommes p ..."
+intro_text: "Aspose.pdf pour les services de rapport a été mis à jour à la version 3.2.0 et nous sommes p ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/11/2015  Téléchargers: 12  Views: 377"
 file_size: "  File Size: 105.8 MB "

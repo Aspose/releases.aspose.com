@@ -7,7 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-22.1/
 folder_name: "aspose.sharepoint 22.1的滑坡"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-22.1/5f3cd596b3af4bee9925cec4aa570e06"
 download_text: " 下载"
-Intro_text: "它包含aspose.sharepoint 22.1版本的aspose。"
+intro_text: "它包含aspose.sharepoint 22.1版本的aspose。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   1/19/2022  下载s: 2  Views: 20"
 file_size: "  File Size: 57.3 MB "

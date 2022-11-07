@@ -7,7 +7,7 @@ folder_link: " total/reportingservices/new-releases/aspose.total-for-reporting-s
 folder_name: "Aspose.Total για υπηρεσίες αναφοράς"
 download_link: " /total/reportingservices/new-releases/aspose.total-for-reporting-services/2ef3c559e249443faaf056d3fd6589b9"
 download_text: " Κατεβάστε"
-Intro_text: "Aspose.Total για τις υπηρεσίες αναφοράς περιέχει την πιο πρόσφατη έκδοση όλων των αναφορών ..."
+intro_text: "Aspose.Total για τις υπηρεσίες αναφοράς περιέχει την πιο πρόσφατη έκδοση όλων των αναφορών ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/22/2021  Κατεβάστεs: 6100  Views: 1198"
 file_size: "  File Size: 261.2 MB "

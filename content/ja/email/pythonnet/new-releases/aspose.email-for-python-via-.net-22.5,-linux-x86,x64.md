@@ -8,7 +8,7 @@ folder_link: "/email/pythonnet/new-releases/aspose.email-for-python-via-.net-22.
 folder_name: ".NET 22.5、Linux X86、X64経由でPython用のAsopse.Email"
 download_link: "/email/pythonnet/new-releases/aspose.email-for-python-via-.net-22.5,-linux-x86,x64/8d751383ddc7bcf57be6a54c0e0e14e3-12-7593"
 download_text: "ダウンロード"
-intro_text: "It contains Aspose.Email for Python via .NET 22.5, Linux x86,x64 release."
+intro_text: ".NET 22.5、Linux X86、X64リリースを介してPython用のAspose.Emailが含まれています。"
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 1/7/2022 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 57.85MB"

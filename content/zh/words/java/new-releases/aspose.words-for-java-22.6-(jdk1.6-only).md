@@ -8,7 +8,7 @@ folder_link: "/words/java/new-releases/aspose.words-for-java-22.6-(jdk1.6-only)/
 folder_name: "Java 22.6（仅JDK1.6）的Aspose.Words"
 download_link: "/words/java/new-releases/aspose.words-for-java-22.6-(jdk1.6-only)/b099751731d0313831feb46f6929a351-4-7584"
 download_text: "下载"
-intro_text: "下载 this if you have no choice but to use Aspose.Words on an old Java 6 environment. This JAR of Aspose.Words for Java is compiled for JDK1.6. Please get all other components (such as Javadoc and License agreements) from the main ZIP download package."
+intro_text: "如果您别无选择，只能在旧的Java 6环境上使用aspose.words下载。 JDK1.6编译了Java的aspose.words。请从主ZIP下载包中获取所有其他组件（例如Javadoc和许可协议）。"
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 30/6/2022 下载s: 1  Views: 1 "
 file_size: "File Size: 15.52MB"

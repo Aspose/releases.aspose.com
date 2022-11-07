@@ -8,7 +8,7 @@ folder_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22
 folder_name: "Aspose.cells para Python a través de .NET 22.7"
 download_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.7/bc70536d8971f66076e6d1d85e5d0c13-28-7620"
 download_text: "Descargar"
-intro_text: "Please refer to release notes for detail"
+intro_text: "Consulte las notas de la versión para obtener detalles"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 8/7/2022 Descargars: 1  Views: 1 "
 file_size: "File Size: 137.06MB"

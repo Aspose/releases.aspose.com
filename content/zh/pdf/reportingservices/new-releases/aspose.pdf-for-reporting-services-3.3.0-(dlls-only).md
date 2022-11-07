@@ -7,7 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: "aspose.pdf用于报告服务3.3.0（仅DLL）"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.3.0-(dlls-only)/192f32e3083f4d79aad3a503e5e86b99"
 download_text: " 下载"
-Intro_text: "它包含用于报告服务3.3.0（仅DLLS）发布的Aspose.pdf。"
+intro_text: "它包含用于报告服务3.3.0（仅DLLS）发布的Aspose.pdf。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   6/27/2016  下载s: 82  Views: 612"
 file_size: "  File Size: 111.4 MB "

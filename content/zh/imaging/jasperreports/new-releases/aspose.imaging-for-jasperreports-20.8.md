@@ -7,7 +7,7 @@ folder_link: " imaging/jasperreports/new-releases/aspose.imaging-for-jasperrepor
 folder_name: "aspose.imaging jasperReports 20.8"
 download_link: " /imaging/jasperreports/new-releases/aspose.imaging-for-jasperreports-20.8/9661ca851f5d49889a55e2674a0539be"
 download_text: " 下载"
-Intro_text: "这是Aspose的第一版。现在您可以享受出口..."
+intro_text: "这是Aspose的第一版。现在您可以享受出口..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/19/2020  下载s: 3  Views: 86"
 file_size: "  File Size: 29.3 MB "

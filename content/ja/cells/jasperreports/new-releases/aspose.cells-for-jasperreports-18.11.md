@@ -7,7 +7,7 @@ folder_link: " cells/jasperreports/new-releases/aspose.cells-for-jasperreports-1
 folder_name: "JasperReports 18.11用のAsopsion.cells"
 download_link: " /cells/jasperreports/new-releases/aspose.cells-for-jasperreports-18.11/189cc1189a3a4d96874fbfeaeebd925d"
 download_text: " ダウンロード"
-Intro_text: "JasperReports 18.11リリース用のAsopsion.cellsが含まれています。"
+intro_text: "JasperReports 18.11リリース用のAsopsion.cellsが含まれています。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/15/2018  ダウンロードs: 38  Views: 1004"
 file_size: "  File Size: 6.8 MB "

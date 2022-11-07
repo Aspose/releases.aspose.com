@@ -8,7 +8,7 @@ folder_link: "/words/jasperreports/new-releases/aspose.words-for-jasperreports-2
 folder_name: "Aspose.JasperReports的词22.7"
 download_link: "/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.7/4b42bc220b13e85cd702fba876d3f9ce-11-7684"
 download_text: "下载"
-intro_text: "It contains Aspose.Words for JasperReports 22.7 release"
+intro_text: "它包含aspose.JasperReports 22.7版本"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 22/7/2022 下载s: 1  Views: 1 "
 file_size: "File Size: 51.79MB"

@@ -7,7 +7,7 @@ folder_link: " pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.0.0
 folder_name: "JasperReports 1.0.0のAsopse.pdf"
 download_link: " /pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.0.0/62e85f1e4b3d4f25b0a01e91cd05d44b"
 download_text: " ダウンロード"
-Intro_text: "jasperReports用のブランドの新しい製品、asopsion.pdfを歓迎してください..."
+intro_text: "jasperReports用のブランドの新しい製品、asopsion.pdfを歓迎してください..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/3/2011  ダウンロードs: 65  Views: 657"
 file_size: "  File Size: 8.4 MB "

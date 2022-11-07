@@ -8,7 +8,7 @@ folder_link: "/drawing/net/new-releases/aspose.drawing-for-.net-22.7-(dlls-only)
 folder_name: "Aspose.drawing untuk .NET 22.7 (DLLS saja)"
 download_link: "/drawing/net/new-releases/aspose.drawing-for-.net-22.7-(dlls-only)/45bfc670b9a574dcf6b3d8a48226dda6-2-7638"
 download_text: "Unduh"
-intro_text: "This ZIP file contains Aspose.Drawing for .NET Framework 2.0 and .NET Standard 2.0"
+intro_text: "File zip ini berisi aspose.drawing untuk .NET Framework 2.0 dan .NET Standard 2.0"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 14/7/2022 Unduhs: 1  Views: 1 "
 file_size: "File Size: 6.41MB"

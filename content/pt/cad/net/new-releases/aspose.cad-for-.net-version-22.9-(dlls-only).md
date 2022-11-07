@@ -8,7 +8,7 @@ folder_link: "/cad/net/new-releases/aspose.cad-for-.net-version-22.9-(dlls-only)
 folder_name: "Aspose.cad para .NET versão 22.9 (somente DLLs)"
 download_link: "/cad/net/new-releases/aspose.cad-for-.net-version-22.9-(dlls-only)/3e21cb6a87ef24c734ae0cddd42059ac-21-7978"
 download_text: "Download"
-intro_text: "This ZIP file contains only the Aspose.CAD for .NET assemblies v22.9. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.CAD for .NET without the MSI installer."
+intro_text: "Este arquivo ZIP contém apenas o Aspose.cad para os assemblies .NET v22.9. Os assemblies são os mesmos do instalador do MSI do produto da mesma versão. Faça o download disso se quiser usar aspose.cad para .NET sem o instalador do MSI."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 4/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 102.08MB"

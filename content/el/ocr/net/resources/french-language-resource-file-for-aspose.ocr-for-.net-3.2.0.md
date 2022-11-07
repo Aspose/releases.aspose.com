@@ -7,7 +7,7 @@ folder_link: " ocr/net/resources/french-language-resource-file-for-aspose.ocr-fo
 folder_name: "Αρχείο πόρων γαλλικής γλώσσας για ASPOSE.OCR για .NET 3.2.0"
 download_link: " /ocr/net/resources/french-language-resource-file-for-aspose.ocr-for-.net-3.2.0/8ddc2ce2b5ff4b049b24ce598b3ccb68"
 download_text: " Κατεβάστε"
-Intro_text: "Aspose.ocr για το .NET χρησιμοποιεί αρχεία πόρων για διαφορετικές γλώσσες για να εκτελέσει o ..."
+intro_text: "Aspose.ocr για το .NET χρησιμοποιεί αρχεία πόρων για διαφορετικές γλώσσες για να εκτελέσει o ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/29/2015  Κατεβάστεs: 113  Views: 724"
 file_size: "  File Size: 5.3 MB "

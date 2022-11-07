@@ -7,7 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: "Aspose.pdf untuk Layanan Pelaporan 3.1.0 (DLLS saja)"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.1.0-(dlls-only)/bc8d06e287db4c7f9fc6de8a8d78460f"
 download_text: " Unduh"
-Intro_text: "Aspose.pdf untuk layanan pelaporan telah diperbarui ke versi 3.1.0 dan kami adalah p ..."
+intro_text: "Aspose.pdf untuk layanan pelaporan telah diperbarui ke versi 3.1.0 dan kami adalah p ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/6/2015  Unduhs: 16  Views: 608"
 file_size: "  File Size: 106.3 MB "

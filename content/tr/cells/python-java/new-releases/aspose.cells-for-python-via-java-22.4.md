@@ -7,7 +7,7 @@ folder_link: " cells/python-java/new-releases/aspose.cells-for-python-via-java-2
 folder_name: "Java 22.4 üzerinden python için aspose.cels"
 download_link: " /cells/python-java/new-releases/aspose.cells-for-python-via-java-22.4/d769d662d8d84d05a160f07bc395ca6b"
 download_text: " İndirmek"
-Intro_text: "Java 22.4 sürümü ile Python için aspose.cels içerir."
+intro_text: "Java 22.4 sürümü ile Python için aspose.cels içerir."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   4/15/2022  İndirmeks: 6  Views: 21"
 file_size: "  File Size: 11.6 MB "

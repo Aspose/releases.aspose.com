@@ -7,7 +7,7 @@ folder_link: " barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-2
 folder_name: "Java 22.4を介したnode.jsのasoppes.barcode"
 download_link: " /barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-22.4/e8e8b54226224521a11c8bfc41232a5e"
 download_text: " ダウンロード"
-Intro_text: "Java 22.4経由のnode.jsのasopsion.barcodeがリリースされました"
+intro_text: "Java 22.4経由のnode.jsのasopsion.barcodeがリリースされました"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   Added: 3 weeks ago [4/27/2022]  ダウンロードs: 0  Views: 9"
 file_size: "  File Size: 10.7 MB "

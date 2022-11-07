@@ -7,7 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.8/
 folder_name: "Aspose.slides untuk SharePoint 20.8"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.8/4f3c2f8e4d634ebdb7a235def30d155f"
 download_text: " Unduh"
-Intro_text: "Ini berisi aspose.slides untuk rilis SharePoint 20.8."
+intro_text: "Ini berisi aspose.slides untuk rilis SharePoint 20.8."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   8/17/2020  Unduhs: 4  Views: 98"
 file_size: "  File Size: 52.9 MB "

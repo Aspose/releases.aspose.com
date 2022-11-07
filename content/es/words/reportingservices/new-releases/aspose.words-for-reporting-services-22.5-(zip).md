@@ -7,7 +7,7 @@ folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-s
 folder_name: "Aspose.Words for Reporting Services 22.5 (ZIP)"
 download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-22.5-(zip)/3a2ad763ed344754baa9d19d7ec9784f"
 download_text: " Descargar"
-Intro_text: "Actualice a la última versión de Aspose.Words for Net (22.5). Corrección de errores."
+intro_text: "Actualice a la última versión de Aspose.Words for Net (22.5). Corrección de errores."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   Added: 2 weeks ago [5/6/2022]  Descargars: 1  Views: 6"
 file_size: "  File Size: 65.4 MB "

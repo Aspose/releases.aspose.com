@@ -8,7 +8,7 @@ folder_link: "/cells/reportingservices/new-releases/aspose.cells-for-reporting-s
 folder_name: "Aspose.Cells for Reporting Services 22.9 (ZIP)"
 download_link: "/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.9(zip)/b8a9cc32f973e3568a79c6723eb51c6e-12-7895"
 download_text: "Download"
-intro_text: "Aspose.Cells for Reporting Services 22.9(zip)"
+intro_text: "Aspose.Cells for Reporting Services 22.9 (ZIP)"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 14/9/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 59.84MB"

@@ -7,7 +7,7 @@ folder_link: " words/reportingservices/new-releases/aspose.words-for-reporting-s
 folder_name: "Aspose.words για υπηρεσίες αναφοράς 21.12 (zip)"
 download_link: " /words/reportingservices/new-releases/aspose.words-for-reporting-services-21.12-(zip)-/1a94d4815d5c461d98495660b8ec7700"
 download_text: " Κατεβάστε"
-Intro_text: "Αναβάθμιση στην τελευταία έκδοση του Aspose.Words για το Net (21.12). Διορθώσεις σφαλμάτων."
+intro_text: "Αναβάθμιση στην τελευταία έκδοση του Aspose.Words για το Net (21.12). Διορθώσεις σφαλμάτων."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/8/2021  Κατεβάστεs: 5  Views: 30"
 file_size: "  File Size: 64.8 MB "

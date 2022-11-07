@@ -7,7 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.4/
 folder_name: "Aspose.s glisse pour SharePoint 20.4"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.4/caeec829686c4fd2878982727f5150b5"
 download_text: " Télécharger"
-Intro_text: "Il contient ASPOSE.SLINES pour la version SharePoint 20.4."
+intro_text: "Il contient ASPOSE.SLINES pour la version SharePoint 20.4."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   4/22/2020  Téléchargers: 1  Views: 78"
 file_size: "  File Size: 52.4 MB "

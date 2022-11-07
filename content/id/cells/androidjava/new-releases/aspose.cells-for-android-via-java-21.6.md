@@ -7,7 +7,7 @@ folder_link: " cells/androidjava/new-releases/aspose.cells-for-android-via-java-
 folder_name: "Aspose.cells untuk Android via Java 21.6"
 download_link: " /cells/androidjava/new-releases/aspose.cells-for-android-via-java-21.6/d9cd3c2c018b422799cea0996049fd45"
 download_text: " Unduh"
-Intro_text: "Ini berisi aspose.cells untuk Android melalui rilis Java 21.6."
+intro_text: "Ini berisi aspose.cells untuk Android melalui rilis Java 21.6."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   6/18/2021  Unduhs: 28  Views: 81"
 file_size: "  File Size: 9.8 MB "

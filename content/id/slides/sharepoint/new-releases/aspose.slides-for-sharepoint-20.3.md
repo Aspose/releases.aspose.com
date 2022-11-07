@@ -7,7 +7,7 @@ folder_link: " slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.3/
 folder_name: "Aspose.slides untuk SharePoint 20.3"
 download_link: " /slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.3/819da3fc7ffa460aa7d8e4441a834017"
 download_text: " Unduh"
-Intro_text: "Ini berisi aspose.slides untuk rilis SharePoint 20.3."
+intro_text: "Ini berisi aspose.slides untuk rilis SharePoint 20.3."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   3/23/2020  Unduhs: 0  Views: 146"
 file_size: "  File Size: 52.1 MB "

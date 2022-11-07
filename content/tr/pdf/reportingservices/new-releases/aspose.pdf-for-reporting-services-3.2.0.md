@@ -7,7 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: "Raporlama Hizmetleri için Aspose.pdf 3.2.0"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.2.0/1a0225fed52246d4a65fe7982ebf47d8"
 download_text: " İndirmek"
-Intro_text: "Raporlama hizmetleri için aspose.pdf içerir 3.2.0 sürümü."
+intro_text: "Raporlama hizmetleri için aspose.pdf içerir 3.2.0 sürümü."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   5/11/2015  İndirmeks: 88  Views: 511"
 file_size: "  File Size: 103.0 MB "

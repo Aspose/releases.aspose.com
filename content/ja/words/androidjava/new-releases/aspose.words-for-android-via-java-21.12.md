@@ -7,7 +7,7 @@ folder_link: " words/androidjava/new-releases/aspose.words-for-android-via-java-
 folder_name: "Java 21.12を介したAndroid用のAspose.Words"
 download_link: " /words/androidjava/new-releases/aspose.words-for-android-via-java-21.12/a1565c9e3b094d3a97ea6b49b9ae2064"
 download_text: " ダウンロード"
-Intro_text: "Java 21.12リリースを介してAndroid用のAspose.Wordsが含まれています。"
+intro_text: "Java 21.12リリースを介してAndroid用のAspose.Wordsが含まれています。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/21/2021  ダウンロードs: 29  Views: 54"
 file_size: "  File Size: 14.0 MB "

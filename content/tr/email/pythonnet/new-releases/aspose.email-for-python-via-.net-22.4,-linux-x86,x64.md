@@ -8,7 +8,7 @@ folder_link: "/email/pythonnet/new-releases/aspose.email-for-python-via-.net-22.
 folder_name: "Aspose."
 download_link: "/email/pythonnet/new-releases/aspose.email-for-python-via-.net-22.4,-linux-x86,x64/71063943e395017441eb70036d4c8bad-11-7426"
 download_text: "İndirmek"
-intro_text: "It contains Aspose.Email for Python via .NET 22.4, Linux x86,x64 release."
+intro_text: "Python için .NET 22.4, Linux X86, X64 sürümü için aspose."
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 10/6/2022 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 54.44MB"

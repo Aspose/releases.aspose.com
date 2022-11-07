@@ -7,7 +7,7 @@ folder_link: " barcode/reportingservices/new-releases/aspose.barcode-for-reporti
 folder_name: "Aspose.Barcode untuk Layanan Pelaporan 21.5 (HANYA DLL)"
 download_link: " /barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.5-(dlls-only)/e779f4f3a3294ef48790ca480389be68"
 download_text: " Unduh"
-Intro_text: "Ini berisi aspose.barcode untuk pelaporan layanan 21.5 (hanya DLLS)."
+intro_text: "Ini berisi aspose.barcode untuk pelaporan layanan 21.5 (hanya DLLS)."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   5/19/2021  Unduhs: 1  Views: 36"
 file_size: "  File Size: 10.1 MB "

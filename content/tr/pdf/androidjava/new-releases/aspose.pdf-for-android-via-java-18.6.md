@@ -7,7 +7,7 @@ folder_link: " pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-18.6
 folder_name: "Java 18.6 üzerinden Android için aspose.pdf"
 download_link: " /pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-18.6/de364e1e90344487b5107713f3812059"
 download_text: " İndirmek"
-Intro_text: "Java ile Android için yeni bir aspose.pdf sürümünü duyurmaktan mutluluk duyuyoruz ..."
+intro_text: "Java ile Android için yeni bir aspose.pdf sürümünü duyurmaktan mutluluk duyuyoruz ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   6/29/2018  İndirmeks: 96  Views: 442"
 file_size: "  File Size: 34.3 MB "

@@ -7,7 +7,7 @@ folder_link: " total/reportingservices/new-releases/aspose.total-for-reporting-s
 folder_name: "Aspose.total для отчетности"
 download_link: " /total/reportingservices/new-releases/aspose.total-for-reporting-services/2ef3c559e249443faaf056d3fd6589b9"
 download_text: " Скачать"
-Intro_text: "Aspose.total для отчетных услуг содержит самую последнюю версию All Reportin ..."
+intro_text: "Aspose.total для отчетных услуг содержит самую последнюю версию All Reportin ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/22/2021  Скачатьs: 6100  Views: 1198"
 file_size: "  File Size: 261.2 MB "

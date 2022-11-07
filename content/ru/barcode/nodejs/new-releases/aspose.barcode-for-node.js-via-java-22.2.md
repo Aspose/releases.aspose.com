@@ -7,7 +7,7 @@ folder_link: " barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-2
 folder_name: "Aspose.barcode для node.js через Java 22.2"
 download_link: " /barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-22.2/7461770db854493499327899bd13b7eb"
 download_text: " Скачать"
-Intro_text: "Aspose.barcode для node.js через Java 22.2 был выпущен"
+intro_text: "Aspose.barcode для node.js через Java 22.2 был выпущен"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/23/2022  Скачатьs: 1  Views: 15"
 file_size: "  File Size: 10.7 MB "

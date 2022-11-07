@@ -7,7 +7,7 @@ folder_link: " pdf/reportingservices/new-releases/aspose.pdf-for-reporting-servi
 folder_name: "Raporlama Hizmetleri için Aspose.pdf 19.7.0 (Yalnızca DLLS)"
 download_link: " /pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-19.7.0-(dlls-only)/ba41804393ea4bfab377b5616ebb8ea8"
 download_text: " İndirmek"
-Intro_text: "19.7.0 (yalnızca DLL'ler) sürümünü raporlama için aspose.pdf içerir."
+intro_text: "19.7.0 (yalnızca DLL'ler) sürümünü raporlama için aspose.pdf içerir."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/30/2019  İndirmeks: 41  Views: 138"
 file_size: "  File Size: 139.5 MB "

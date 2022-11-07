@@ -7,7 +7,7 @@ folder_link: " pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-17.1
 folder_name: "Java 17.12 üzerinden Android için aspose.pdf"
 download_link: " /pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-17.12/f5708ae07557409daaf7ce113d2189bb"
 download_text: " İndirmek"
-Intro_text: "Java ile Android için yeni bir aspose.pdf sürümünü duyurmaktan mutluluk duyuyoruz ..."
+intro_text: "Java ile Android için yeni bir aspose.pdf sürümünü duyurmaktan mutluluk duyuyoruz ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   12/20/2017  İndirmeks: 57  Views: 172"
 file_size: "  File Size: 34.2 MB "

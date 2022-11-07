@@ -7,7 +7,7 @@ folder_link: " email/sharepoint/new-releases/aspose.network-for-sharepoint-1.1.0
 folder_name: "Aspose.SharePoint 1.1.0的网络"
 download_link: " /email/sharepoint/new-releases/aspose.network-for-sharepoint-1.1.0/d49eeae8c1d84d2eb896698c5b8c2a78"
 download_text: " 下载"
-Intro_text: "Aspose.SharePoint的网络已发布。它包括以下新的f ..."
+intro_text: "Aspose.SharePoint的网络已发布。它包括以下新的f ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   3/4/2011  下载s: 5  Views: 370"
 file_size: "  File Size: 2.3 MB "
