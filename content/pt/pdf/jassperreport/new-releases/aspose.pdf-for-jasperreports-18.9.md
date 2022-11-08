@@ -20,7 +20,7 @@ weight: 17
   {{< Releases/ReleasesHeading H2txt="Aspose.pdf para JasperReports 18.9" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Download" link="/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-18.9/abc025327f71497e968a4ce100ada29a%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Fórum de suporte " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}

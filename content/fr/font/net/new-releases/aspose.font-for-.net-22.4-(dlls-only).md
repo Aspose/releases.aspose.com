@@ -20,7 +20,7 @@ weight: 28
   {{< Releases/ReleasesHeading H2txt="Aspose.font pour .net 22.4 (DLLS uniquement)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Télécharger" link="/font/net/new-releases/aspose.font-for-.net-22.4-(dlls-only)/9af75bdd537a4cdba514d8e7c2987a9d%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum d'entraide " link="https://forum.aspose.com/c/font" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/font" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}

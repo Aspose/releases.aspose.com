@@ -20,7 +20,7 @@ weight: 26
   {{< Releases/ReleasesHeading H2txt="Aspose.font для .net 21.12 (только DLL)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Скачать" link="/font/net/new-releases/aspose.font-for-.net-21.12-(dlls-only)/fee70ba788554ad99a60464a0fdb637e%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Форум поддержки " link="https://forum.aspose.com/c/font" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/font" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Детали файла">}}

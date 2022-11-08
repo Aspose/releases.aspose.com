@@ -20,7 +20,7 @@ weight: 17
   {{< Releases/ReleasesHeading H2txt="Aspose.tex pour .net 22.3 (DLLS et docs)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Télécharger" link="/tex/net/new-releases/aspose.tex-for-.net-22.3-(dlls-and-docs)/4c39c37375ea4b49a6b731c2f181c5be%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum d'entraide " link="https://forum.aspose.com/c/tex" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/tex" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}

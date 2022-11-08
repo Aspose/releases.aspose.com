@@ -20,7 +20,7 @@ weight: 95
   {{< Releases/ReleasesHeading H2txt="Aspose.s glisse pour SharePoint 20.7" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Télécharger" link="/slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.7/f51da43f4f164154be882d0b516a42e0%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum d'entraide " link="https://forum.aspose.com/c/slides" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}

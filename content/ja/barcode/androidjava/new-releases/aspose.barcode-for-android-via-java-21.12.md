@@ -20,7 +20,7 @@ weight: 85
   {{< Releases/ReleasesHeading H2txt="Java 21.12を介したAndroid用のAspose.Barcode" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-21.12/bcae18789b4848c190c8bf2bdf4b852e%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

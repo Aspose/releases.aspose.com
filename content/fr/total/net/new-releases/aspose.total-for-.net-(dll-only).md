@@ -20,7 +20,7 @@ weight: 1
   {{< Releases/ReleasesHeading H2txt="Aspose.total pour .net (dll uniquement)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Télécharger" link="/total/net/new-releases/aspose.total-for-.net-(dll-only)/7af12cd208ae4ea6b40f232c663550a8%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum d'entraide " link="https://forum.aspose.com/c/total" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/total" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}

@@ -20,7 +20,7 @@ weight: 24
   {{< Releases/ReleasesHeading H2txt="aspose.pub for .net 21.6（仅DLL）" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/pub/net/new-releases/aspose.pub-for-.net-21.6-(dlls-only)/47cb51311d494f7e8af95b5ace763c62%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/pub" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pub" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

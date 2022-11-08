@@ -20,7 +20,7 @@ weight: 45
   {{< Releases/ReleasesHeading H2txt="Java 21.12 üzerinden PHP için aspose.barcode" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/barcode/php/new-releases/aspose.barcode-for-php-via-java-21.12/743d33606d7e402e9e3c0702fa94bb50%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

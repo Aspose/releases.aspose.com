@@ -20,7 +20,7 @@ weight: 325
   {{< Releases/ReleasesHeading H2txt="Aspose.Cells untuk Java 22.1" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Unduh" link="/cells/java/new-releases/aspose.cells-for-java-22.1/9345c0606baa450189afa062109db7dc%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum Dukungan " link="https://forum.aspose.com/c/cells" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}

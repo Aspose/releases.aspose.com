@@ -20,7 +20,7 @@ weight: 56
   {{< Releases/ReleasesHeading H2txt="Aspose.email для Android через Java 21.4" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Скачать" link="/email/androidjava/new-releases/aspose.email-for-android-via-java-21.4/55198c47f3294addb44fa9a1fbe32d04%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Форум поддержки " link="https://forum.aspose.com/c/email" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/email" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Детали файла">}}

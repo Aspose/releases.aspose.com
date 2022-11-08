@@ -20,7 +20,7 @@ weight: 76
   {{< Releases/ReleasesHeading H2txt="Aspose.cells para Android a través de Java 21.6" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Descargar" link="/cells/androidjava/new-releases/aspose.cells-for-android-via-java-21.6/d9cd3c2c018b422799cea0996049fd45%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Foro de soporte " link="https://forum.aspose.com/c/cells" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}

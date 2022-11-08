@@ -20,7 +20,7 @@ weight: 6
   {{< Releases/ReleasesHeading H2txt="Aspose.mail для SharePoint 1.4" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Скачать" link="/email/sharepoint/new-releases/aspose.email-for-sharepoint-1.4/8618a53d3be24fa6977facf841c6e48f%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Форум поддержки " link="https://forum.aspose.com/c/email" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/email" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Детали файла">}}

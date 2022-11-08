@@ -20,7 +20,7 @@ weight: 11
   {{< Releases/ReleasesHeading H2txt="Aspose.psd para Java 20.4" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Download" link="/psd/java/new-releases/aspose.psd-for-java-20.4/aa69df7d869240c484053bea836e745a%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Fórum de suporte " link="https://forum.aspose.com/c/psd" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/psd" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}

@@ -20,7 +20,7 @@ weight: 84
   {{< Releases/ReleasesHeading H2txt="Aspose.Words for Android via Java 21.2" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Download" link="/words/androidjava/new-releases/aspose.words-for-android-via-java-21.2/e92cd0ebb858439981899d4818116644%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Fórum de suporte " link="https://forum.aspose.com/c/words" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/words" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}

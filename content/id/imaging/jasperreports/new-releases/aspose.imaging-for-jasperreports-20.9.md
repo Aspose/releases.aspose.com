@@ -20,7 +20,7 @@ weight: 2
   {{< Releases/ReleasesHeading H2txt="Aspose.Imaging for Jasperreports 20.9" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Unduh" link="/imaging/jasperreports/new-releases/aspose.imaging-for-jasperreports-20.9/f3f0463daa6e476eb45d62118a2c74a1%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum Dukungan " link="https://forum.aspose.com/c/imaging" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/imaging" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}

@@ -20,7 +20,7 @@ weight: 12
   {{< Releases/ReleasesHeading H2txt="aspose.pdf for jasperReports 1.2.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.2.0/6283159ee1cf4543adcbf71834e9c19c%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

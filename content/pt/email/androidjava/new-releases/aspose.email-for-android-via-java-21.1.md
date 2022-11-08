@@ -20,7 +20,7 @@ weight: 55
   {{< Releases/ReleasesHeading H2txt="Aspose.ail para Android via Java 21.1" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Download" link="/email/androidjava/new-releases/aspose.email-for-android-via-java-21.1/0084b0d537084ced9184f39120d3fb75%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Fórum de suporte " link="https://forum.aspose.com/c/email" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/email" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}

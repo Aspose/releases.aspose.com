@@ -20,7 +20,7 @@ weight: 18
   {{< Releases/ReleasesHeading H2txt="Aspose.cells для SharePoint 17.8" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Скачать" link="/cells/sharepoint/new-releases/-aspose.cells-for-sharepoint-17.8/ebf558d1d1a349af9bda7a1e0b1797b8%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Форум поддержки " link="https://forum.aspose.com/c/cells" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Детали файла">}}

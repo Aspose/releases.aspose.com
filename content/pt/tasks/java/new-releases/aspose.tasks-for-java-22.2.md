@@ -20,7 +20,7 @@ weight: 147
   {{< Releases/ReleasesHeading H2txt="Aspose.Tasks for Java 22.2" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Download" link="/tasks/java/new-releases/aspose.tasks-for-java-22.2/51c9c6f2ea154a9f83db13d090b98e0c%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Fórum de suporte " link="https://forum.aspose.com/c/tasks" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/tasks" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}

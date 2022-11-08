@@ -21,7 +21,7 @@ weight: 14
   {{< Releases/ReleasesHeading H2txt="Aspose.Cells pour SharePoint 3.0.2" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Télécharger" link="/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-3.0.2/3b10a614a16144648b298ae30e6df430%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum d'entraide " link="https://forum.aspose.com/c/cells" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}

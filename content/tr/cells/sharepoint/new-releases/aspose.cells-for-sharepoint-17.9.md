@@ -20,7 +20,7 @@ weight: 19
   {{< Releases/ReleasesHeading H2txt="SharePoint 17.9 için aspose.cels" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-17.9/d3cfaf36c49e4a19957ca8f2d78fa252%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/cells" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

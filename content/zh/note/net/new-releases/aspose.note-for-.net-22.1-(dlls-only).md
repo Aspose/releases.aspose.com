@@ -20,7 +20,7 @@ weight: 176
   {{< Releases/ReleasesHeading H2txt="aspose.note .net 22.1（仅DLL）" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/note/net/new-releases/aspose.note-for-.net-22.1-(dlls-only)/60a365e125974812ab655145c2f625e8%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/note" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/note" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

@@ -20,7 +20,7 @@ weight: 96
   {{< Releases/ReleasesHeading H2txt="Aspose.pdf untuk Layanan Pelaporan 17.1.0" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Unduh" link="/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-17.1.0/60a7126bddf44ab5a607aeae50630ffa%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum Dukungan " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}

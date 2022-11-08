@@ -21,7 +21,7 @@ weight: 19
 {{< Releases/ReleasesHeading H2txt="22.4 için aspose.tex" imagelink="/resources/img/msi-icon.png">}}
 {{< Releases/ReleasesButtons >}}
 {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/tex/net/new-releases/aspose.tex-for-.net-22.4/854e74b1103042fa952c697f3ae51497%20%20" >}}
-{{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/tex" >}}
+{{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/tex" >}}
 {{< Releases/ReleasesButtons >}}
 {{< Releases/ReleasesFileArea >}}
 {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

@@ -20,7 +20,7 @@ weight: 204
   {{< Releases/ReleasesHeading H2txt="Aspose.gis para .NET 21.11" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Descargar" link="/gis/net/new-releases/aspose.gis-for-.net-21.11/a8481a27cf474f71ab285d78c6843b0e%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Foro de soporte " link="https://forum.aspose.com/c/gis" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/gis" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}

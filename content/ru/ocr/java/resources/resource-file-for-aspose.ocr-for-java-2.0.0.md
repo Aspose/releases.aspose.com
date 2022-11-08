@@ -20,7 +20,7 @@ weight: 88
   {{< Releases/ReleasesHeading H2txt="Файл ресурсов для aspose.ocr для java 2.0.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Скачать" link="/ocr/java/resources/resource-file-for-aspose.ocr-for-java-2.0.0/91050d578b61464a91f0d16cb6711a1e%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Форум поддержки " link="https://forum.aspose.com/c/ocr" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/ocr" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Детали файла">}}

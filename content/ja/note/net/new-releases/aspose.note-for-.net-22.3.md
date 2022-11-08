@@ -21,7 +21,7 @@ weight: 179
 {{< Releases/ReleasesHeading H2txt=".NET 22.3のAspose.Note" imagelink="/resources/img/msi-icon.png">}}
 {{< Releases/ReleasesButtons >}}
 {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/note/net/new-releases/aspose.note-for-.net-22.3/2d7bbdf1a6fa40a3bfe1f76850f82ae8%20%20" >}}
-{{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/note" >}}
+{{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/note" >}}
 {{< Releases/ReleasesButtons >}}
 {{< Releases/ReleasesFileArea >}}
 {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

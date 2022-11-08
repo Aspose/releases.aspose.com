@@ -20,7 +20,7 @@ weight: 18
   {{< Releases/ReleasesHeading H2txt="Aspose.cells untuk Python via Java 22.4" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Unduh" link="/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.4/d769d662d8d84d05a160f07bc395ca6b%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum Dukungan " link="https://forum.aspose.com/c/cells" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}

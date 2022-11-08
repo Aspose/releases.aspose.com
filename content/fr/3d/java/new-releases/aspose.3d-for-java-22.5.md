@@ -20,7 +20,7 @@ weight: 89
   {{< Releases/ReleasesHeading H2txt="Aspose.3d pour Java 22.5" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Télécharger" link="/3d/java/new-releases/aspose.3d-for-java-22.5/cd2c9d7915b6482b9e7bcbd73b1f0a24%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum d'entraide " link="https://forum.aspose.com/c/3d" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/3d" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}

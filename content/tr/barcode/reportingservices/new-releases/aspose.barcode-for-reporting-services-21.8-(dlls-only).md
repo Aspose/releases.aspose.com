@@ -20,7 +20,7 @@ weight: 306
   {{< Releases/ReleasesHeading H2txt="Raporlama Hizmetleri için ASPOSE.BARCODE 21.8 (Yalnızca DLLS)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.8-(dlls-only)/07dec6d9a105463daa88f55f1cec77ab%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

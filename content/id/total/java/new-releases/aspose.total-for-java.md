@@ -20,7 +20,7 @@ weight: 1
   {{< Releases/ReleasesHeading H2txt="Aspose.total untuk Java" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Unduh" link="/total/java/new-releases/aspose.total-for-java/6b6092fa7e1740e69793eeb15dda1beb%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum Dukungan " link="https://forum.aspose.com/c/total" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/total" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}

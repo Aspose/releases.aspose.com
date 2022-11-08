@@ -20,7 +20,7 @@ weight: 274
   {{< Releases/ReleasesHeading H2txt="Aspose.Words untuk Layanan Pelaporan 21.12 (MSI)" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Unduh" link="/words/reportingservices/new-releases/aspose.words-for-reporting-services-21.12-(msi)/662fb0d997be4cc8aebac568e0111893%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum Dukungan " link="https://forum.aspose.com/c/words" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/words" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}

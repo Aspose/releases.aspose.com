@@ -20,7 +20,7 @@ weight: 27
   {{< Releases/ReleasesHeading H2txt="Aspose.pub untuk .net 21.9" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Unduh" link="/pub/net/new-releases/aspose.pub-for-.net-21.9/9d6ebf671cb340b8a9a0bed5674009c5%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum Dukungan " link="https://forum.aspose.com/c/pub" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pub" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}

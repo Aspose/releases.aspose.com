@@ -20,7 +20,7 @@ weight: 97
   {{< Releases/ReleasesHeading H2txt="Aspose.lides para SharePoint 21.1" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Descargar" link="/slides/sharepoint/new-releases/aspose.slides-for-sharepoint-21.1/2e73abef7a35415ea553f8398c404fcf%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Foro de soporte " link="https://forum.aspose.com/c/slides" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}

@@ -20,7 +20,7 @@ weight: 8
   {{< Releases/ReleasesHeading H2txt="Java 22.3 için aspose.tex" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/tex/java/new-releases/aspose.tex-for-java-22.3/ac2d3706a52f4c10b9ba17d7bd7d2205%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/tex" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/tex" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

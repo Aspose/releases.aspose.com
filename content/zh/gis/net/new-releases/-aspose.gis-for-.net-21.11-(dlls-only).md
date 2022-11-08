@@ -20,7 +20,7 @@ weight: 205
   {{< Releases/ReleasesHeading H2txt="aspose.gis for .net 21.11（仅DLL）" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/gis/net/new-releases/-aspose.gis-for-.net-21.11-(dlls-only)/2ead2f9264b546dbaba673ac7137f70b%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/gis" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/gis" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

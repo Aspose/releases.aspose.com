@@ -20,7 +20,7 @@ weight: 18
   {{< Releases/ReleasesHeading H2txt="aspose.tex for .net 22.4（dlls and docs）" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/tex/net/new-releases/aspose.tex-for-.net-22.4-(dlls-and-docs)/78f60ea698674ffe8570b8ec54130104%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/tex" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/tex" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

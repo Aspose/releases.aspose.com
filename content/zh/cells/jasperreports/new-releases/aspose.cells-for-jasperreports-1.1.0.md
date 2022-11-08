@@ -20,7 +20,7 @@ weight: 3
   {{< Releases/ReleasesHeading H2txt="jasperReports 1.1.0的aspose.cells" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/cells/jasperreports/new-releases/aspose.cells-for-jasperreports-1.1.0/308cbbf7013141e29d044e627f725437%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/cells" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

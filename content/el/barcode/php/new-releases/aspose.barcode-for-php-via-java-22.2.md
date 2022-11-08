@@ -20,7 +20,7 @@ weight: 47
   {{< Releases/ReleasesHeading H2txt="Aspose.barcode για PHP μέσω Java 22.2" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Κατεβάστε" link="/barcode/php/new-releases/aspose.barcode-for-php-via-java-22.2/dc58674b08a946bdb60628b28c4c3c02%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Φόρουμ υποστήριξης " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}

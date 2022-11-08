@@ -20,7 +20,7 @@ weight: 278
   {{< Releases/ReleasesHeading H2txt="aspose.Words用于报告服务22.5（MSI）" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.5-(msi)/bf0048e6da444c7ab27d4157a1894de0%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/words" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/words" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

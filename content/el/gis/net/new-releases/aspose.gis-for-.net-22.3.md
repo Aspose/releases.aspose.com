@@ -20,7 +20,7 @@ weight: 208
 {{< Releases/ReleasesHeading H2txt="Aspose.gis για .NET 22.3" imagelink="/resources/img/msi-icon.png">}}
 {{< Releases/ReleasesButtons >}}
 {{< Releases/ReleasesSingleButtons text=" Κατεβάστε" link="/gis/net/new-releases/aspose.gis-for-.net-22.3/6dd857b35a4f46bea62cc65ed6b223db%20%20" >}}
-{{< Releases/ReleasesSingleButtons text=" Φόρουμ υποστήριξης " link="https://forum.aspose.com/c/gis" >}}
+{{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/gis" >}}
 {{< Releases/ReleasesButtons >}}
 {{< Releases/ReleasesFileArea >}}
 {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}

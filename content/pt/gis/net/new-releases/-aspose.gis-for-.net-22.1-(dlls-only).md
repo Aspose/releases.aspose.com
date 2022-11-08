@@ -20,7 +20,7 @@ weight: 207
   {{< Releases/ReleasesHeading H2txt="Aspose.gis para .NET 22.1 (somente DLLs)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Download" link="/gis/net/new-releases/-aspose.gis-for-.net-22.1-(dlls-only)/c55204790d454e79ba74b0b518505f2c%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Fórum de suporte " link="https://forum.aspose.com/c/gis" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/gis" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}

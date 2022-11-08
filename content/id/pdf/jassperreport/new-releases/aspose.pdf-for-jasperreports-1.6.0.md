@@ -20,7 +20,7 @@ weight: 16
   {{< Releases/ReleasesHeading H2txt="Aspose.pdf untuk Jasperreports 1.6.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Unduh" link="/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.6.0/b048b2c23bee484db7aeeac182c2c77f%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum Dukungan " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}

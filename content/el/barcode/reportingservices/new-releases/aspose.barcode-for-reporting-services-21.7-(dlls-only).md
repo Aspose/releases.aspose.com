@@ -20,7 +20,7 @@ weight: 304
   {{< Releases/ReleasesHeading H2txt="Aspose.barcode για τις υπηρεσίες αναφοράς 21.7 (μόνο DLL)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Κατεβάστε" link="/barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.7-(dlls-only)/5e785b7ccf344b77a91e7a038a2c5417%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Φόρουμ υποστήριξης " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}

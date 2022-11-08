@@ -20,7 +20,7 @@ weight: 25
   {{< Releases/ReleasesHeading H2txt="Aspose.pdf для Android через Java 17.12" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Скачать" link="/pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-17.12/f5708ae07557409daaf7ce113d2189bb%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Форум поддержки " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Детали файла">}}

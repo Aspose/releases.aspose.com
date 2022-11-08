@@ -20,7 +20,7 @@ weight: 174
   {{< Releases/ReleasesHeading H2txt="Aspose.note для .net 21.11 (только DLL)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Скачать" link="/note/net/new-releases/aspose.note-for-.net-21.11-(dlls-only)/37987b282ff64d41bf0d352b6d20d59b%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Форум поддержки " link="https://forum.aspose.com/c/note" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/note" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Детали файла">}}

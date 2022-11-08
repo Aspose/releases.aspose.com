@@ -20,7 +20,7 @@ weight: 93
   {{< Releases/ReleasesHeading H2txt="Aspose.slides για το SharePoint 20.5" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Κατεβάστε" link="/slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.5/3efcf2d17ae04599bfcde2862a74738a%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Φόρουμ υποστήριξης " link="https://forum.aspose.com/c/slides" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}

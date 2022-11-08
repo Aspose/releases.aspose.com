@@ -20,7 +20,7 @@ weight: 10
   {{< Releases/ReleasesHeading H2txt="JasperReports 1.0.0のAsopse.pdf" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.0.0/62e85f1e4b3d4f25b0a01e91cd05d44b%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

@@ -20,7 +20,7 @@ weight: 14
   {{< Releases/ReleasesHeading H2txt="File sumber daya bahasa Prancis untuk aspose.ocr untuk .net 2.2.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Unduh" link="/ocr/net/resources/french-language-resource-file-for-aspose.ocr-for-.net-2.2.0/7b1a9a36333b40ec8dbeb05d8e69873d%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum Dukungan " link="https://forum.aspose.com/c/ocr" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/ocr" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}

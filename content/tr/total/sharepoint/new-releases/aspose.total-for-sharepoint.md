@@ -20,7 +20,7 @@ weight: 1
   {{< Releases/ReleasesHeading H2txt="SharePoint için aspose.total" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/total/sharepoint/new-releases/aspose.total-for-sharepoint/234d21a4fe6e4f669d7d862026704ba0%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/total" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/total" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

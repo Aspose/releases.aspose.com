@@ -20,7 +20,7 @@ weight: 88
   {{< Releases/ReleasesHeading H2txt="Java 22.3を介したAndroid用のAspose.Slides" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.3/d4c5615e4fe645aabebbf3a3cf093368%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/slides" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

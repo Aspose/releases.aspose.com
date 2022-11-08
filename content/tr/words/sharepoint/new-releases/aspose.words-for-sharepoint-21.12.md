@@ -20,7 +20,7 @@ weight: 68
   {{< Releases/ReleasesHeading H2txt="SharePoint 21.12 için Aspose.Words" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/words/sharepoint/new-releases/aspose.words-for-sharepoint-21.12/bb2f792760fb4388abfda9e558a6b32b%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/words" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/words" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

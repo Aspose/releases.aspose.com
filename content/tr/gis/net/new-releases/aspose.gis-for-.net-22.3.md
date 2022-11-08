@@ -20,7 +20,7 @@ weight: 208
 {{< Releases/ReleasesHeading H2txt="22.3 için aspose.gis" imagelink="/resources/img/msi-icon.png">}}
 {{< Releases/ReleasesButtons >}}
 {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/gis/net/new-releases/aspose.gis-for-.net-22.3/6dd857b35a4f46bea62cc65ed6b223db%20%20" >}}
-{{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/gis" >}}
+{{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/gis" >}}
 {{< Releases/ReleasesButtons >}}
 {{< Releases/ReleasesFileArea >}}
 {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

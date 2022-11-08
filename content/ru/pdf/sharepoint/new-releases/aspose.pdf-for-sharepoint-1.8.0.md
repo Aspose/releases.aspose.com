@@ -20,7 +20,7 @@ weight: 24
   {{< Releases/ReleasesHeading H2txt="Aspose.pdf для SharePoint 1.8.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Скачать" link="/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.8.0/37b119e93823414dba5e16f6bafa8ccc%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Форум поддержки " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Детали файла">}}

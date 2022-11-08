@@ -25,7 +25,7 @@ weight: 5
   {{< Releases/ReleasesHeading H2txt="JasperReports 1.1.2用のAsophes.cells" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/cells/jasperreports/new-releases/aspose.cells-for-jasperreports-1.1.2/e1849dd60c09414cbcabe75f864ceea1%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/cells" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

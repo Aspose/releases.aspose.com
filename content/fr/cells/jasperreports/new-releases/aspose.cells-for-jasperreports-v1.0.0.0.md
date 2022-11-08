@@ -20,7 +20,7 @@ weight: 1
   {{< Releases/ReleasesHeading H2txt="Aspose.Cells pour JasperReports v1.0.0.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Télécharger" link="/cells/jasperreports/new-releases/aspose.cells-for-jasperreports-v1.0.0.0/4928537f16db4f459d5f972b4ae9253a%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum d'entraide " link="https://forum.aspose.com/c/cells" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}

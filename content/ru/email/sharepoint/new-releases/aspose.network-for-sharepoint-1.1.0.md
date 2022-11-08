@@ -20,7 +20,7 @@ weight: 1
   {{< Releases/ReleasesHeading H2txt="Aspose.network для SharePoint 1.1.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Скачать" link="/email/sharepoint/new-releases/aspose.network-for-sharepoint-1.1.0/d49eeae8c1d84d2eb896698c5b8c2a78%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Форум поддержки " link="https://forum.aspose.com/c/email" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/email" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Детали файла">}}

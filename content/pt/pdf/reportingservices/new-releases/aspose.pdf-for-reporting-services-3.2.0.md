@@ -20,7 +20,7 @@ weight: 93
   {{< Releases/ReleasesHeading H2txt="Aspose.pdf para serviços de relatório 3.2.0" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Download" link="/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.2.0/1a0225fed52246d4a65fe7982ebf47d8%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Fórum de suporte " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}

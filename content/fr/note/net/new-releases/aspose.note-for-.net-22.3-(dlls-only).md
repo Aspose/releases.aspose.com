@@ -20,7 +20,7 @@ weight: 178
   {{< Releases/ReleasesHeading H2txt="Aspose.note pour .net 22.3 (DLLS uniquement)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Télécharger" link="/note/net/new-releases/aspose.note-for-.net-22.3-(dlls-only)/b1afaf8fb46f4c718642e84e195a31fb%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum d'entraide " link="https://forum.aspose.com/c/note" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/note" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}

@@ -20,7 +20,7 @@ weight: 98
   {{< Releases/ReleasesHeading H2txt="SharePoint 21.7のAspose.Slides" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/slides/sharepoint/new-releases/aspose.slides-for-sharepoint-21.7/5f6b78de86a04b0184b68322f5259e79%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/slides" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

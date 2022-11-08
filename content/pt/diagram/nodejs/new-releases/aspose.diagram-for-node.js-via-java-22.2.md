@@ -20,7 +20,7 @@ weight: 16
   {{< Releases/ReleasesHeading H2txt="Aspose.diagram para node.js via java 22.2" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Download" link="/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.2/c95c45be32d147b58b64d5d3803c235a%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Fórum de suporte " link="https://forum.aspose.com/c/diagram" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/diagram" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}

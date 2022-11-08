@@ -20,7 +20,7 @@ weight: 149
   {{< Releases/ReleasesHeading H2txt="JasperReports 22.4 için aspose.slides" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-22.4/15d059fb0d3b4cb29c5bc3539ef06e88%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/slides" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

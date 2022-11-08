@@ -20,7 +20,7 @@ weight: 18
   {{< Releases/ReleasesHeading H2txt="Aspose.tex για .NET 22.4 (DLLS και DOCS)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Κατεβάστε" link="/tex/net/new-releases/aspose.tex-for-.net-22.4-(dlls-and-docs)/78f60ea698674ffe8570b8ec54130104%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Φόρουμ υποστήριξης " link="https://forum.aspose.com/c/tex" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/tex" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}

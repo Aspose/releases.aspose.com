@@ -20,7 +20,7 @@ weight: 96
   {{< Releases/ReleasesHeading H2txt="aspose.sharepoint 20.8" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.8/4f3c2f8e4d634ebdb7a235def30d155f%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/slides" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

@@ -20,7 +20,7 @@ weight: 24
   {{< Releases/ReleasesHeading H2txt="Aspose.pdf για το SharePoint 1.8.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Κατεβάστε" link="/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.8.0/37b119e93823414dba5e16f6bafa8ccc%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Φόρουμ υποστήριξης " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}

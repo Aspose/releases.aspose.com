@@ -20,7 +20,7 @@ weight: 29
   {{< Releases/ReleasesHeading H2txt="Aspose.pdf para Android a través de Java 20.11" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Descargar" link="/pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-20.11/a9ee0af5819c415fa4e4b4ab85b966f8%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Foro de soporte " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}

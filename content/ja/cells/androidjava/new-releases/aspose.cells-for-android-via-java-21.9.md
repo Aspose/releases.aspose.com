@@ -20,7 +20,7 @@ weight: 77
   {{< Releases/ReleasesHeading H2txt="Java 21.9を介したAndroid用のAspose.cells" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/cells/androidjava/new-releases/aspose.cells-for-android-via-java-21.9/ea807ad0fdb84880a42de3ab400cf1a7%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/cells" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

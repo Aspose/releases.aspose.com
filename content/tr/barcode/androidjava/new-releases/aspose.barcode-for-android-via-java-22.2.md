@@ -20,7 +20,7 @@ weight: 87
   {{< Releases/ReleasesHeading H2txt="Java 22.2 üzerinden Android için aspose.barcode" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-22.2/577d145362de4edeb81b3e12ba060141%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

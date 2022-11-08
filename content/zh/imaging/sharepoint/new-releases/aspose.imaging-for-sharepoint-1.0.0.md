@@ -20,7 +20,7 @@ weight: 1
   {{< Releases/ReleasesHeading H2txt="aspose.miging SharePoint 1.0.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/imaging/sharepoint/new-releases/aspose.imaging-for-sharepoint-1.0.0/d30743f69aaf443ea0233fd23c9b39a7%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/imaging" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/imaging" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

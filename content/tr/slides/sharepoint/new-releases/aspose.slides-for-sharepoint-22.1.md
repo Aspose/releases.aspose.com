@@ -20,7 +20,7 @@ weight: 99
   {{< Releases/ReleasesHeading H2txt="SharePoint 22.1 için aspose.slides" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/slides/sharepoint/new-releases/aspose.slides-for-sharepoint-22.1/5f3cd596b3af4bee9925cec4aa570e06%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/slides" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

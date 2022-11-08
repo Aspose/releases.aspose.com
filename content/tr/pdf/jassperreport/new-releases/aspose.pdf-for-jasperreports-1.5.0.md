@@ -20,7 +20,7 @@ weight: 15
   {{< Releases/ReleasesHeading H2txt="JasperReports 1.5.0 için aspose.pdf" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.5.0/b3a6d813c0f748108d8ae88df4d1a293%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

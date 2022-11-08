@@ -20,7 +20,7 @@ weight: 91
   {{< Releases/ReleasesHeading H2txt="レポートサービス3.1.0のAspose.pdf" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.1.0/b73340b259c54fc9ad6ddd3324bae179%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

@@ -20,7 +20,7 @@ weight: 53
   {{< Releases/ReleasesHeading H2txt="Aspose.Mail untuk Android via Java 20.7" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Unduh" link="/email/androidjava/new-releases/aspose.email-for-android-via-java-20.7/3f20567ac7bf4037afd8358e32089e0d%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum Dukungan " link="https://forum.aspose.com/c/email" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/email" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}

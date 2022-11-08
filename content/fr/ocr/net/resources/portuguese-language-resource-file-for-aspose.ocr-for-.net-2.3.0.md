@@ -20,7 +20,7 @@ weight: 16
   {{< Releases/ReleasesHeading H2txt="Fichier de ressources en langue portugaise pour Aspose.ocr pour .net 2.3.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Télécharger" link="/ocr/net/resources/portuguese-language-resource-file-for-aspose.ocr-for-.net-2.3.0/b3ab7c506a9342d38061261ec602cf80%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum d'entraide " link="https://forum.aspose.com/c/ocr" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/ocr" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}

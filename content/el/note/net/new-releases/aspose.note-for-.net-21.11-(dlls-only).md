@@ -20,7 +20,7 @@ weight: 174
   {{< Releases/ReleasesHeading H2txt="Aspose.note για το .NET 21.11 (μόνο DLLS)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Κατεβάστε" link="/note/net/new-releases/aspose.note-for-.net-21.11-(dlls-only)/37987b282ff64d41bf0d352b6d20d59b%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Φόρουμ υποστήριξης " link="https://forum.aspose.com/c/note" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/note" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}

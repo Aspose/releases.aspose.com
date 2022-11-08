@@ -20,7 +20,7 @@ weight: 97
   {{< Releases/ReleasesHeading H2txt="Aspose.pdf για υπηρεσίες αναφοράς 17.1.0 (μόνο DLLS)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Κατεβάστε" link="/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-17.1.0-(dlls-only)/0d7e12b161a848d198b4cb639b2143e5%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Φόρουμ υποστήριξης " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}

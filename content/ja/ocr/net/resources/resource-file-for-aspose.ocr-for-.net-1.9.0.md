@@ -20,7 +20,7 @@ weight: 12
   {{< Releases/ReleasesHeading H2txt=".NET 1.9.0用のAsopse.ocrのリソースファイル" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/ocr/net/resources/resource-file-for-aspose.ocr-for-.net-1.9.0/b177162f81734747a650c8a1e671ff1c%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/ocr" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/ocr" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

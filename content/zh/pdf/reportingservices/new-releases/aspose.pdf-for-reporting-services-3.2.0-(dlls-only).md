@@ -20,7 +20,7 @@ weight: 92
   {{< Releases/ReleasesHeading H2txt="aspose.pdf用于报告服务3.2.0（仅DLL）" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.2.0-(dlls-only)/437220f8983e4164bd9a52d8b4bb06b5%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

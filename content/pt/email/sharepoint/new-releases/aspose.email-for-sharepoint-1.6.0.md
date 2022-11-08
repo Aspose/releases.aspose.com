@@ -20,7 +20,7 @@ weight: 8
   {{< Releases/ReleasesHeading H2txt="Aspose.ail para o SharePoint 1.6.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Download" link="/email/sharepoint/new-releases/aspose.email-for-sharepoint-1.6.0/079620f2d8f44d67b975e6b827e5fca3%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Fórum de suporte " link="https://forum.aspose.com/c/email" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/email" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}

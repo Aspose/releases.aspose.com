@@ -20,7 +20,7 @@ weight: 9
   {{< Releases/ReleasesHeading H2txt="JasperReports 20.12のAspose.cells" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/cells/jasperreports/new-releases/aspose.cells-for-jasperreports-20.12/e6e113b87411466b8411e53543f2d1c6%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/cells" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

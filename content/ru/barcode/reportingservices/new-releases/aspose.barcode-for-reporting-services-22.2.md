@@ -20,7 +20,7 @@ weight: 309
   {{< Releases/ReleasesHeading H2txt="Aspose.barcode для отчетности. 22.2" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Скачать" link="/barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-22.2/d3ce532c54f748b0b97af6952195b32d%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Форум поддержки " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Детали файла">}}

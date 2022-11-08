@@ -20,7 +20,7 @@ weight: 116
   {{< Releases/ReleasesHeading H2txt="Aspose.words para JasperReports 21.9" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Descargar" link="/words/jasperreports/new-releases/aspose.words-for-jasperreports-21.9/c164cf53e2a54fd5a4a245b79724caa0%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Foro de soporte " link="https://forum.aspose.com/c/words" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/words" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}

@@ -20,7 +20,7 @@ weight: 90
   {{< Releases/ReleasesHeading H2txt="Aspose.pdf untuk Layanan Pelaporan 3.1.0 (DLLS saja)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Unduh" link="/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.1.0-(dlls-only)/bc8d06e287db4c7f9fc6de8a8d78460f%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum Dukungan " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}

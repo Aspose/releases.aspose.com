@@ -20,7 +20,7 @@ weight: 22
   {{< Releases/ReleasesHeading H2txt=".net 21.4のaspose.pub（dllsのみ）" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/pub/net/new-releases/aspose.pub-for-.net-21.4-(dlls-only)/6bdcc41e0eab4e28875735cab5f119b1%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/pub" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pub" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

@@ -20,7 +20,7 @@ weight: 49
   {{< Releases/ReleasesHeading H2txt="Aspose.barcode para PHP a través de Java 22.4" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Descargar" link="/barcode/php/new-releases/aspose.barcode-for-php-via-java-22.4/157bad39cdd74a3aacd89c973cf029e6%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Foro de soporte " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}

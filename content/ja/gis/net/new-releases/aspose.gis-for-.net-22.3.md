@@ -20,7 +20,7 @@ weight: 208
 {{< Releases/ReleasesHeading H2txt=".net 22.3のasops.gis" imagelink="/resources/img/msi-icon.png">}}
 {{< Releases/ReleasesButtons >}}
 {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/gis/net/new-releases/aspose.gis-for-.net-22.3/6dd857b35a4f46bea62cc65ed6b223db%20%20" >}}
-{{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/gis" >}}
+{{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/gis" >}}
 {{< Releases/ReleasesButtons >}}
 {{< Releases/ReleasesFileArea >}}
 {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

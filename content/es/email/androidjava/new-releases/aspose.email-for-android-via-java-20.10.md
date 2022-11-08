@@ -20,7 +20,7 @@ weight: 54
   {{< Releases/ReleasesHeading H2txt="Aspose.Email para Android a través de Java 20.10" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Descargar" link="/email/androidjava/new-releases/aspose.email-for-android-via-java-20.10/6fe50b1161b44092bb2c43abf03b0b76%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Foro de soporte " link="https://forum.aspose.com/c/email" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/email" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}

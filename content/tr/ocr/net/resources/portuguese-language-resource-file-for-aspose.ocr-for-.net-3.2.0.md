@@ -20,7 +20,7 @@ weight: 19
   {{< Releases/ReleasesHeading H2txt=".NET 3.2.0 için aspose.ocr için Portekizce Dil Kaynak Dosyası" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/ocr/net/resources/portuguese-language-resource-file-for-aspose.ocr-for-.net-3.2.0/da4131985aa248149c01c43fe4098a04%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/ocr" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/ocr" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

@@ -20,7 +20,7 @@ weight: 36
   {{< Releases/ReleasesHeading H2txt="Java 22.1 üzerinden Node.js için aspose.barcode" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-22.1/df185e79a51c46bd93ca40279bf529f3%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

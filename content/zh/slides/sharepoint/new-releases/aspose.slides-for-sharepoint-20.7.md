@@ -20,7 +20,7 @@ weight: 95
   {{< Releases/ReleasesHeading H2txt="aspose.sharepoint 20.7的滑坡" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.7/f51da43f4f164154be882d0b516a42e0%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/slides" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

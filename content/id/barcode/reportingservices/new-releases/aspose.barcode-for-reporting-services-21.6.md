@@ -20,7 +20,7 @@ weight: 303
   {{< Releases/ReleasesHeading H2txt="Aspose.Barcode untuk Layanan Pelaporan 21.6" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Unduh" link="/barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.6/c39de54c82d3472e860bc95077776d7a%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum Dukungan " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}

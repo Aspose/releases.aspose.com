@@ -20,7 +20,7 @@ weight: 84
   {{< Releases/ReleasesHeading H2txt="Java 1.5.0用のAsopsion.ocrのリソースファイル" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/ocr/java/resources/resource-file-for-aspose.ocr-for-java-1.5.0/769cf4a482aa4f94851a67bb48e8e9b6%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/ocr" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/ocr" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

@@ -20,7 +20,7 @@ weight: 2
   {{< Releases/ReleasesHeading H2txt="JasperReports 20.9のAspose.imaging" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/imaging/jasperreports/new-releases/aspose.imaging-for-jasperreports-20.9/f3f0463daa6e476eb45d62118a2c74a1%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/imaging" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/imaging" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

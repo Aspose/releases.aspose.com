@@ -20,7 +20,7 @@ weight: 300
   {{< Releases/ReleasesHeading H2txt="aspose.barcode用于报告服务21.5（仅DLL）" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.5-(dlls-only)/e779f4f3a3294ef48790ca480389be68%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

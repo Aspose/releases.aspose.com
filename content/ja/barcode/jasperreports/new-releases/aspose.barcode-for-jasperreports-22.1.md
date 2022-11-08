@@ -20,7 +20,7 @@ weight: 126
   {{< Releases/ReleasesHeading H2txt="JasperReports 22.1用のAsoppes.Barcode" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/barcode/jasperreports/new-releases/aspose.barcode-for-jasperreports-22.1/4418a4a8786a405987343ec6f7398ebd%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

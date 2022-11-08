@@ -20,7 +20,7 @@ weight: 117
   {{< Releases/ReleasesHeading H2txt="JasperReports 21.12のAspose.Words" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/words/jasperreports/new-releases/-aspose.words-for-jasperreports-21.12/2cc6cd9d234549efa39ccc942cd1b43a%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/words" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/words" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

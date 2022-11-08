@@ -20,7 +20,7 @@ weight: 547
   {{< Releases/ReleasesHeading H2txt=".NET 22.3のasophes.barcode（dllsのみ）" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/barcode/net/new-releases/aspose.barcode-for-.net-22.3-(dlls-only)/86223a1f8bb74b4e8b2192f978fb0e75%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

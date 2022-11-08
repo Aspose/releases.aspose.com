@@ -20,7 +20,7 @@ weight: 177
 {{< Releases/ReleasesHeading H2txt="Aspose.note для .NET 22.1" imagelink="/resources/img/msi-icon.png">}}
 {{< Releases/ReleasesButtons >}}
 {{< Releases/ReleasesSingleButtons text=" Скачать" link="/note/net/new-releases/aspose.note-for-.net-22.1/22ac41f1a603464baebf4913e5abee7a%20%20" >}}
-{{< Releases/ReleasesSingleButtons text=" Форум поддержки " link="https://forum.aspose.com/c/note" >}}
+{{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/note" >}}
 {{< Releases/ReleasesButtons >}}
 {{< Releases/ReleasesFileArea >}}
 {{< Releases/ReleasesHeading h4txt="Детали файла">}}

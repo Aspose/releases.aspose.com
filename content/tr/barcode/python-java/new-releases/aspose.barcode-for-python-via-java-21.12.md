@@ -20,7 +20,7 @@ weight: 25
   {{< Releases/ReleasesHeading H2txt="Java 21.12 üzerinden python için aspose.barcode" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-21.12/25130898a5bf4d4b9be0eecd304060fa%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

@@ -20,7 +20,7 @@ weight: 22
   {{< Releases/ReleasesHeading H2txt="Aspose.pub para .NET 21.4 (solo DLLS)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Descargar" link="/pub/net/new-releases/aspose.pub-for-.net-21.4-(dlls-only)/6bdcc41e0eab4e28875735cab5f119b1%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Foro de soporte " link="https://forum.aspose.com/c/pub" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pub" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}

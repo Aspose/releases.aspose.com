@@ -20,7 +20,7 @@ weight: 302
   {{< Releases/ReleasesHeading H2txt="Aspose.barcode para servicios de informes 21.6 (solo DLLS)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Descargar" link="/barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.6-(dlls-only)/266fca4786ce4220a02ab49515e30673%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Foro de soporte " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}

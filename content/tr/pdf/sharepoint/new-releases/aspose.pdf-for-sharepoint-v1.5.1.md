@@ -20,7 +20,7 @@ weight: 20
   {{< Releases/ReleasesHeading H2txt="SharePoint v1.5.1 için aspose.pdf" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.5.1/159825b79dfc4b3e8e373351bb86ee49%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

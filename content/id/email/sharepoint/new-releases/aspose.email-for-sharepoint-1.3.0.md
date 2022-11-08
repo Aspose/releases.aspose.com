@@ -20,7 +20,7 @@ weight: 5
   {{< Releases/ReleasesHeading H2txt="Aspose.Mail untuk SharePoint 1.3.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Unduh" link="/email/sharepoint/new-releases/aspose.email-for-sharepoint-1.3.0/ec54712b0c604eb89536302f26d5a002%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum Dukungan " link="https://forum.aspose.com/c/email" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/email" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}

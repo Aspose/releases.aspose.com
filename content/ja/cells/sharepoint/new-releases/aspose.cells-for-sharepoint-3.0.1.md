@@ -24,7 +24,7 @@ weight: 13
   {{< Releases/ReleasesHeading H2txt="SharePoint 3.0.1用のAsopsion.cells" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-3.0.1/dd7596669fe34bb7a2cb49c9fae86799%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/cells" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

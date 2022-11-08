@@ -20,7 +20,7 @@ weight: 4
   {{< Releases/ReleasesHeading H2txt="Aspose.imação para JasperReports 21.5" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Download" link="/imaging/jasperreports/new-releases/-aspose.imaging-for-jasperreports-21.5/acc62f9e0d7947feb2a7ca4eb80b9265%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Fórum de suporte " link="https://forum.aspose.com/c/imaging" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/imaging" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}

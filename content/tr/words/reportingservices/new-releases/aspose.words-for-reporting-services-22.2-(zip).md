@@ -20,7 +20,7 @@ weight: 277
   {{< Releases/ReleasesHeading H2txt="Raporlama Hizmetleri için Kelimeler 22.2 (ZIP)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.2-(zip)/a5ea3f9fee8143dc835ff615966e2f4d%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/words" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/words" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

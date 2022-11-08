@@ -20,7 +20,7 @@ weight: 19
   {{< Releases/ReleasesHeading H2txt="aspose.diagram for Node.js通过Java 22.5" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.5/b0d3bdd56f2d42b38c382d144d939546%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/diagram" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/diagram" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

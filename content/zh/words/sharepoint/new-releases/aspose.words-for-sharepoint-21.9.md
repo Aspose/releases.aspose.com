@@ -20,7 +20,7 @@ weight: 67
   {{< Releases/ReleasesHeading H2txt="Aspose.SharePoint 21.9的词" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/words/sharepoint/new-releases/aspose.words-for-sharepoint-21.9/4b7e480ed4b94d82acd2aace63157c6b%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/words" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/words" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

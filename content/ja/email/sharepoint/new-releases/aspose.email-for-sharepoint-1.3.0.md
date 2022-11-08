@@ -20,7 +20,7 @@ weight: 5
   {{< Releases/ReleasesHeading H2txt="SharePoint 1.3.0のAsopse.Email" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/email/sharepoint/new-releases/aspose.email-for-sharepoint-1.3.0/ec54712b0c604eb89536302f26d5a002%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/email" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/email" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

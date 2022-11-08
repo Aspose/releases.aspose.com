@@ -20,7 +20,7 @@ weight: 19
   {{< Releases/ReleasesHeading H2txt="Java 22.5 üzerinden python için aspose.cels" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.5/5c0b311d1ea14bf7b1b6ab314ca374ab%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/cells" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

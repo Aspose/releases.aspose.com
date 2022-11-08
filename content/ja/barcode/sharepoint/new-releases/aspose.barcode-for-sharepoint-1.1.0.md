@@ -20,7 +20,7 @@ weight: 2
   {{< Releases/ReleasesHeading H2txt="SharePoint 1.1.0用のAsoppes.Barcode" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/barcode/sharepoint/new-releases/aspose.barcode-for-sharepoint-1.1.0/9126d7f586f9436fabcbe0df2a50050d%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

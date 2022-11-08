@@ -20,7 +20,7 @@ weight: 305
   {{< Releases/ReleasesHeading H2txt="Raporlama Hizmetleri için ASPOSE.BARCODE 21.7" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.7/98ab7961f12a4cfb874c92a35ab76268%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

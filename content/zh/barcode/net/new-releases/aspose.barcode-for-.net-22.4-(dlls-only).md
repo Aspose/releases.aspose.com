@@ -20,7 +20,7 @@ weight: 549
   {{< Releases/ReleasesHeading H2txt="aspose.barcode for .net 22.4（仅DLL）" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/barcode/net/new-releases/aspose.barcode-for-.net-22.4-(dlls-only)/4aa4b4f15d57486d8d89fa2f350beba4%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

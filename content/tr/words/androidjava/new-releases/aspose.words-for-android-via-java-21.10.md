@@ -20,7 +20,7 @@ weight: 87
   {{< Releases/ReleasesHeading H2txt="Java 21.10 üzerinden Android için Aspose.Words" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/words/androidjava/new-releases/aspose.words-for-android-via-java-21.10/d50dc7cfb37a42a983130357c9d9940e%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/words" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/words" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

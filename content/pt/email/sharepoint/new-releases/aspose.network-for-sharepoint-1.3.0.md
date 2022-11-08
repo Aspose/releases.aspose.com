@@ -20,7 +20,7 @@ weight: 4
   {{< Releases/ReleasesHeading H2txt="Aspose.network for sharepoint 1.3.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Download" link="/email/sharepoint/new-releases/aspose.network-for-sharepoint-1.3.0/9277ebc0bb674f1c891db0a3d47f28dd%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Fórum de suporte " link="https://forum.aspose.com/c/email" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/email" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}

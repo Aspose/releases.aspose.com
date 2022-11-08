@@ -20,7 +20,7 @@ weight: 96
   {{< Releases/ReleasesHeading H2txt="SharePoint 20.8 için aspose.slides" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.8/4f3c2f8e4d634ebdb7a235def30d155f%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/slides" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

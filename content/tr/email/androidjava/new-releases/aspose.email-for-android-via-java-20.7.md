@@ -20,7 +20,7 @@ weight: 53
   {{< Releases/ReleasesHeading H2txt="Java 20.7 üzerinden Android için e -posta." imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/email/androidjava/new-releases/aspose.email-for-android-via-java-20.7/3f20567ac7bf4037afd8358e32089e0d%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/email" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/email" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

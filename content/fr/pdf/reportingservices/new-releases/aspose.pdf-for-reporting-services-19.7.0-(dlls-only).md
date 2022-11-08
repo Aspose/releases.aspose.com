@@ -20,7 +20,7 @@ weight: 98
   {{< Releases/ReleasesHeading H2txt="Aspose.pdf pour les services de rapport 19.7.0 (DLLS uniquement)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Télécharger" link="/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-19.7.0-(dlls-only)/ba41804393ea4bfab377b5616ebb8ea8%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum d'entraide " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}

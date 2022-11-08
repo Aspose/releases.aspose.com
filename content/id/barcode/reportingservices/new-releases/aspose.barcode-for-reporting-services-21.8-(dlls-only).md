@@ -20,7 +20,7 @@ weight: 306
   {{< Releases/ReleasesHeading H2txt="Aspose.Barcode untuk Layanan Pelaporan 21.8 (HANYA DLL)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Unduh" link="/barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.8-(dlls-only)/07dec6d9a105463daa88f55f1cec77ab%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum Dukungan " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}

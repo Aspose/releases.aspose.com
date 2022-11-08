@@ -20,7 +20,7 @@ weight: 276
   {{< Releases/ReleasesHeading H2txt="ASPOSE.WORDS for Reporting Services 22.2 (MSI)" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Télécharger" link="/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.2-(msi)/38b0d66b94a1412a8c1136981d6efa74%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum d'entraide " link="https://forum.aspose.com/c/words" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/words" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}

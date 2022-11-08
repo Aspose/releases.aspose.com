@@ -20,7 +20,7 @@ weight: 16
   {{< Releases/ReleasesHeading H2txt="atspose.ocr的葡萄牙语语言资源文件.NET 2.3.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/ocr/net/resources/portuguese-language-resource-file-for-aspose.ocr-for-.net-2.3.0/b3ab7c506a9342d38061261ec602cf80%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/ocr" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/ocr" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

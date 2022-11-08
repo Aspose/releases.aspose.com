@@ -20,7 +20,7 @@ weight: 17
   {{< Releases/ReleasesHeading H2txt="Java 22.3 üzerinden Node.js için aspose.diagram" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.3/e198b2f3c2b74094b4b9112d55146e93%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Destek Forumu " link="https://forum.aspose.com/c/diagram" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/diagram" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}

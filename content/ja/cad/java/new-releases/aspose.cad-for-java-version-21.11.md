@@ -20,7 +20,7 @@ weight: 66
   {{< Releases/ReleasesHeading H2txt="Javaバージョン21.11用のAsophes.cad" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/cad/java/new-releases/aspose.cad-for-java-version-21.11/4515ef853e94478ea1cc41aed55256a3%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/cad" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cad" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

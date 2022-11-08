@@ -20,7 +20,7 @@ weight: 277
   {{< Releases/ReleasesHeading H2txt="ASPOSE.WORDS for Reporting Services 22.2 (ZIP)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Télécharger" link="/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.2-(zip)/a5ea3f9fee8143dc835ff615966e2f4d%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum d'entraide " link="https://forum.aspose.com/c/words" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/words" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}

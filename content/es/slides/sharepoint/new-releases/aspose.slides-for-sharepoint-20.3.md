@@ -20,7 +20,7 @@ weight: 91
   {{< Releases/ReleasesHeading H2txt="Aspose.lides para SharePoint 20.3" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Descargar" link="/slides/sharepoint/new-releases/aspose.slides-for-sharepoint-20.3/819da3fc7ffa460aa7d8e4441a834017%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Foro de soporte " link="https://forum.aspose.com/c/slides" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}

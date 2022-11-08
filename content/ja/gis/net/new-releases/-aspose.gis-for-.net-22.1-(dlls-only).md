@@ -20,7 +20,7 @@ weight: 207
   {{< Releases/ReleasesHeading H2txt=".NET 22.1（DLLSのみ）のasophes.gis" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/gis/net/new-releases/-aspose.gis-for-.net-22.1-(dlls-only)/c55204790d454e79ba74b0b518505f2c%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/gis" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/gis" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

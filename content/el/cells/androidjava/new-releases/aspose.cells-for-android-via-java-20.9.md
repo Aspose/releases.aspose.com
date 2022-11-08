@@ -20,7 +20,7 @@ weight: 73
   {{< Releases/ReleasesHeading H2txt="Aspose.cells για Android μέσω Java 20.9" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Κατεβάστε" link="/cells/androidjava/new-releases/aspose.cells-for-android-via-java-20.9/0dd81b2e7a7c4cd9b1e5876f89dd2770%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Φόρουμ υποστήριξης " link="https://forum.aspose.com/c/cells" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}

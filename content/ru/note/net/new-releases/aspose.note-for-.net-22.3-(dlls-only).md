@@ -20,7 +20,7 @@ weight: 178
   {{< Releases/ReleasesHeading H2txt="Aspose.note для .NET 22.3 (только DLL)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Скачать" link="/note/net/new-releases/aspose.note-for-.net-22.3-(dlls-only)/b1afaf8fb46f4c718642e84e195a31fb%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Форум поддержки " link="https://forum.aspose.com/c/note" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/note" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Детали файла">}}

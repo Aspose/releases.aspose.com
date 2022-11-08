@@ -20,7 +20,7 @@ weight: 29
   {{< Releases/ReleasesHeading H2txt="Aspose.pdf pour SharePoint 2.2.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Télécharger" link="/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-2.2.0/fd010d74716f4ae98d3aad1e1e783389%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Forum d'entraide " link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}

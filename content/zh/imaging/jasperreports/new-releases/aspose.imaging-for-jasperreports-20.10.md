@@ -20,7 +20,7 @@ weight: 3
   {{< Releases/ReleasesHeading H2txt="aspose.imaging jasperReports 20.10" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/imaging/jasperreports/new-releases/aspose.imaging-for-jasperreports-20.10/f53101a8e5ed4d55b6ce28d5a9753930%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/imaging" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/imaging" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

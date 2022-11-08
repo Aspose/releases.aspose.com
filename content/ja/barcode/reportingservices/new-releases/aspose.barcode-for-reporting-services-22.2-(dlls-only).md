@@ -20,7 +20,7 @@ weight: 308
   {{< Releases/ReleasesHeading H2txt="レポートサービス22.2（dllsのみ）のaspose.barcode" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" ダウンロード" link="/barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-22.2-(dlls-only)/4c7306c4a49847bb9df8dbefff9eb57a%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" サポートフォーラム " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}

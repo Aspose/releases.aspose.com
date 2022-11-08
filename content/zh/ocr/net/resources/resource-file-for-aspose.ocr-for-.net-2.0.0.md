@@ -20,7 +20,7 @@ weight: 13
   {{< Releases/ReleasesHeading H2txt="aspose.ocr的资源文件.NET 2.0.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" 下载" link="/ocr/net/resources/resource-file-for-aspose.ocr-for-.net-2.0.0/3d5c658df4bf413aa8cd1fab779f8edf%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" 支持论坛 " link="https://forum.aspose.com/c/ocr" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/ocr" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}

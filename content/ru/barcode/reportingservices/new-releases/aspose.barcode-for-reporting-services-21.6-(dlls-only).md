@@ -20,7 +20,7 @@ weight: 302
   {{< Releases/ReleasesHeading H2txt="Aspose.barcode для отчетности Службы 21.6 (только DLL)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text=" Скачать" link="/barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-21.6-(dlls-only)/266fca4786ce4220a02ab49515e30673%20%20" >}}
-    {{< Releases/ReleasesSingleButtons text=" Форум поддержки " link="https://forum.aspose.com/c/barcode" >}}
+    {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Детали файла">}}
