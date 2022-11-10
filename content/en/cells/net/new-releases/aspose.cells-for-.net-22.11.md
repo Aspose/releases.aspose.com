@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/cells/net/new-releases/aspose.cells-for-.net-22.11/"
 folder_name: "Aspose.Cells for .NET 22.11"
-download_link: "/cells/net/new-releases/aspose.cells-for-.net-22.11/33db6c70e59560a8ccb799c7e7606b8d-13-8108"
+download_link: "/cells/net/new-releases/aspose.cells-for-.net-22.11/86f0b6eceb185fea57cf1511c3ac50b3-11-8108"
 download_text: "Download"
 intro_text: "Aspose.Cells for .NET 22.11"
 image_link: "/resources/img/msi-icon.png"
-download_count: " 10/11/2022 Downloads: 1  Views: 1 "
-file_size: "File Size: 64.1MB"
+download_count: " 10/11/2022 Downloads: 3  Views: 1 "
+file_size: "File Size: 54.66MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
 
@@ -24,19 +24,19 @@ weight: 675
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Cells for .NET 22.11" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/cells/net/new-releases/aspose.cells-for-.net-22.11/33db6c70e59560a8ccb799c7e7606b8d-13-8108" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/cells/net/new-releases/aspose.cells-for-.net-22.11/86f0b6eceb185fea57cf1511c3ac50b3-11-8108" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-33db6c70e59560a8ccb799c7e7606b8d-13-8108" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-86f0b6eceb185fea57cf1511c3ac50b3-11-8108" >}} 3 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
-      {{< Common/li id="size-update-33db6c70e59560a8ccb799c7e7606b8d-13-8108" >}} 64.1MB {{< /Common/li >}}
+      {{< Common/li id="size-update-86f0b6eceb185fea57cf1511c3ac50b3-11-8108" >}} 54.66MB {{< /Common/li >}}
 
       {{< Common/li >}} Date Added: {{< /Common/li >}}
-      {{< Common/li id="added-update-33db6c70e59560a8ccb799c7e7606b8d-13-8108" >}}10/11/2022 {{< /Common/li >}}
+      {{< Common/li id="added-update-86f0b6eceb185fea57cf1511c3ac50b3-11-8108" >}}10/11/2022 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
