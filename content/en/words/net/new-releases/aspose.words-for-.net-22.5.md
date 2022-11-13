@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.words-for-.net-22.5 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "Print Envelope Size #10 Page Doc API for C#, ASP.NET Apps"
+description:  "C# .NET API to print 'Envelope No. 10' (a.k.a. Envelope #10) page size, load documents of eBook EPUB & XML formats, improved text wrapping for RTL paragraphs."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " words/net/new-releases/aspose.words-for-.net-22.5/"
 folder_name: " Aspose.Words for .NET 22.5"
@@ -39,7 +39,30 @@ weight: 699
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/words/net/aspose-words-for-net-22-5-release-notes/">https://docs.aspose.com/words/net/aspose-words-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Print Envelope No. 10 Page Size
+
+Introduced the ability of printing "Envelope No. 10" (a.k.a. Envelope #10) page size.
+
+# Ability to Load `EPUB` & `XML` Format Files
+
+Added the support for loading the digital eBooks / epublications `EPUB` format and markup-based `XML` format.
+
+# Improved RTL Text Wrapping
+
+This API release comes with improved text wrapping for Right-to-Left (RTL) paragraphs with custom left indent.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 22.5 Release Notes](https://docs.aspose.com/words/net/aspose-words-for-net-22-5-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
