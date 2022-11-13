@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.slides-for-.net-22.2 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "Perform ODP Encryption, Decryption via API for C#, .NET Apps"
+description:  "C# .NET API with OpenDocument Presentation ODP format encryption & decryption feature, better PPT to PDF conversion, convert PPTX to PPS with slide background."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " slides/net/new-releases/aspose.slides-for-.net-22.2/"
 folder_name: " Aspose.Slides for .NET 22.2"
@@ -41,7 +41,36 @@ weight: 734
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/slides/net/aspose-slides-for-net-22-2-release-notes/">https://docs.aspose.com/slides/net/aspose-slides-for-net-22-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Improved ODP Encryption / Decryption
+
+It was observed that the when encryption or decryption of the OpenDocument Presentation `ODP` format files were being done an exception was being thrown. This version of the API offers a resolution to such issues.
+
+# Improved PPT to PDF Conversion
+
+This release of the API offers numerous improvements when it comes to converting the Microsoft PowerPoint&reg; PPT presentations to Adobe Acrobat&reg; PDF files, such as:
+
+- Image was missing when converting PPT to PDF.
+- PPT to PDF conversion crashes without messages.
+- Text wrapping is not applied when converting PPT to PDF.
+
+All the aforementioned issues have been resolved within this release.
+
+# Improved PPTX to PPS Conversion
+
+Previously while saving PPTX as PPS it was noticed that slide background is being lost. This issue has been resolved.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for .NET 22.2 Release Notes](https://docs.aspose.com/slides/net/aspose-slides-for-net-22-2-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
