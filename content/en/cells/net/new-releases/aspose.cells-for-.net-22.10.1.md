@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.cells-for-.net-22.10.1"
-description: " "
+title: "Excel® Pivot Table Timeline Filter API for C#, ASP.NET Apps"
+description: "C# .NET API with improved handling of pivot table timeline filter, Chart Template-XML (CRTX) file format support, better execution speed of `MAXIF` formulas."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/net/new-releases/aspose.cells-for-.net-22.10.1/"
@@ -14,11 +13,9 @@ download_count: " 20/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 94.76MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-22-10-release-notes/"
 weight: 672
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,30 @@ weight: 672
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for .NET 22.10.1</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Improved Handling of Pivot Table Timeline Filter
+
+It was observed that PivotTable timeline filter disappeared after Microsoft Excel&reg; document is loaded and updated. This issue has now been resolved.
+
+# `CRTX` File Format Support
+
+This API release introduces the support for the Chart Template-XML (`CRTX`) file format. `CRTX` contains a chart template to be used typically in MS Excel&reg;. It can also be used in other Microsoft Office&reg; programs.
+
+# Better Execution Speed of `MAXIF` Formulas
+
+Previously, `MAXIF` formulas were taking longer time to be calculated. This issue has now been resolved.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for .NET 22.10 Release Notes](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-10-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
