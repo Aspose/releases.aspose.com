@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.slides-for-.net-22.3 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "Bevel Support for Slide Charts via API for C#, ASP.NET Apps"
+description:  "C# .NET API with additional new bevel support for slide charts, ability to identify if a shape is textbox or a regular shape via 'AutoShape.IsTextBox' property."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " slides/net/new-releases/aspose.slides-for-.net-22.3/"
 folder_name: " Aspose.Slides for .NET 22.3"
@@ -41,7 +41,39 @@ weight: 736
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/slides/net/aspose-slides-for-net-22-3-release-notes/">https://docs.aspose.com/slides/net/aspose-slides-for-net-22-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Chart Bevel Support
+
+Introduced the bevel support for charts.
+
+# Check if Shape is Textbox
+
+Ability to identify if a shape is a textbox or a regular shape. This is achieved via a newly added [`AutoShape.IsTextBox`](https://reference.aspose.com/slides/net/aspose.slides/autoshape/istextbox/) property.
+
+```csharp
+using (Presentation pres = new Presentation("pres.pptx"))
+{
+    Aspose.Slides.LowCode.ForEach.Shape(pres, (shape, slide, index) =>
+    {
+        if (shape is AutoShape autoShape)
+        {
+            Console.WriteLine(autoShape.IsTextBox ? "shape is text box" : "shape is text not box");
+        }
+    });
+}
+```
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for .NET 22.3 Release Notes](https://docs.aspose.com/slides/net/aspose-slides-for-net-22-3-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
