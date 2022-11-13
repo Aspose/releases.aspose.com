@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.words-for-.net-22.3 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "Improved Table Comparison Algorithm API for C#, ASP.NET Apps"
+description:  "C# .NET API with improved table comparison algorithm, PDF2.0 support, saving progress notification for TXT, comments syntax for LINQ reporting, AES encryption."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " words/net/new-releases/aspose.words-for-.net-22.3/"
 folder_name: " Aspose.Words for .NET 22.3"
@@ -41,7 +41,42 @@ weight: 695
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/words/net/aspose-words-for-net-22-3-release-notes/">https://docs.aspose.com/words/net/aspose-words-for-net-22-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Improved Table Comparison Algorithm
+
+This release of the API offers improvements within the algorithm for comparing tables.
+
+# Improved PDF Output Support
+
+Added the ability to save to PDF 2.0. Introduced several other improvements in PDF output.
+
+# Saving Progress Notification TXT Support
+
+Saving progress notifications support has been extended to accommodate the `TXT` format.
+
+# Comments Syntax in `LINQ` Reporting
+
+Made the comments syntax available in the `LINQ` Reporting.
+
+# `AES` Encryption Support
+
+Support has been added for the `AES` encryption algorithms.
+
+# Preserve Paragraph Outline Level
+
+Introduced the feature to preserve paragraph outline level upon importing tagged PDF document.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 22.3 Release Notes](https://docs.aspose.com/words/net/aspose-words-for-net-22-3-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
