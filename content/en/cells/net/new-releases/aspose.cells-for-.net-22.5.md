@@ -1,7 +1,7 @@
 ---
 title:  "  Downloads ---New-Releases-aspose.cells-for-.net-22.5 . " 
-description:  "    . " 
-keywords:  "    . " 
+description:  "C# .NET API with improved dynamic array formula handling, faster blank column deletion, fetch linked `OLE` attachments from `ODS`, export JSON string to Excel®."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " cells/net/new-releases/aspose.cells-for-.net-22.5/"
 folder_name: " Aspose.Cells for .NET 22.5"
@@ -39,7 +39,34 @@ weight: 658
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Improved Dynamic Array Formula Handling
+
+Ability to initialize cell’s calculated value while setting dynamic array formula.
+
+# Faster Blank Column Deletion
+
+Improved performance of deleting blank columns.
+
+# Fetch Linked `OLE` Attachments from `ODS`
+
+Issue was observed while retrieving Linked OLE attachments in `ODS` file. This issue has now been resolved.
+
+# Export JSON String to Excel&reg;
+
+This API release offers a fix to the issue of exporting JSON string to Excel&reg;.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for .NET 22.5 Release Notes](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
