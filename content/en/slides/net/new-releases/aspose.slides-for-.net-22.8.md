@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-.net-22.8"
-description: " "
+title: "Extract Audio from PowerPoint® Slide API for C# ASP.NET Apps"
+description: "C# .NET API to extract audio file or sound effect from slide timeline, setup PowerPoint® presentation slide show settings, 3D chart support, render PPT to HTML."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/net/new-releases/aspose.slides-for-.net-22.8/"
@@ -14,11 +13,9 @@ download_count: " 17/8/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 81.78MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-22-8-release-notes/"
 weight: 747
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,41 @@ weight: 747
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 22.8 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Extract Audio File from Slide Timeline
+
+This API release offers the ability to extract audio file or sound effect from Microsoft PowerPoint&reg; slide timeline.
+
+# Setup Slide Show Settings via API
+
+Ability to setup and configure various slide show settings for the PowerPoint&reg; presentations. Support to set slide show settings.
+
+The [`SlideShowSettings`](https://reference.aspose.com/slides/net/aspose.slides/slideshowsettings/) class allows you to interact with and set numerous properties, such as;
+
+- [`Loop`](https://reference.aspose.com/slides/net/aspose.slides/slideshowsettings/loop/)
+- [`PenColor`](https://reference.aspose.com/slides/net/aspose.slides/slideshowsettings/pencolor/)
+- [`Slides`](https://reference.aspose.com/slides/net/aspose.slides/slideshowsettings/slides/)
+- [`UseTimings`](https://reference.aspose.com/slides/net/aspose.slides/slideshowsettings/usetimings/)
+
+# 3D Surface Chart Type Support
+
+The support of 3-D Surface chart type has been made available in the API.
+
+# Presentation Rendering to HTML
+
+This API release allows rendering presentations to pure HTML without the `SVG` parent tag.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for .NET 22.8 Release Notes](https://docs.aspose.com/slides/net/aspose-slides-for-net-22-8-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
