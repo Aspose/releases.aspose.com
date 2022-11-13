@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.words-for-.net-22.1 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "Set Dynamic Text Color via LINQ Engine API for C# .NET Apps"
+description:  "C# .NET API to perform dynamic text color setting using LINQ reporting engine, change or replace shape background image, improved Word® DOCX to PDF conversion."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " words/net/new-releases/aspose.words-for-.net-22.1/"
 folder_name: " Aspose.Words for .NET 22.1"
@@ -41,7 +41,37 @@ weight: 691
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/words/net/aspose-words-for-net-22-1-release-notes/">https://docs.aspose.com/words/net/aspose-words-for-net-22-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Perform Dynamic Text Color Setting
+
+Introduced the ability to provide dynamic text color setting using `LINQ` Reporting Engine.
+
+# Replace Shape Background Image
+
+Implemented the feature to change or replace shape background image via API.
+
+# Improved DOCX to PDF Conversion
+
+This API release a number of improvements and issue resolutions when it comes to converting Microsoft Word&reg; `DOCX` format to `PDF` file format. Some of those fixes for the following issues:
+
+- Conversion issue with accessibility
+- Conversion issue with chart rendering
+- `NullReferenceException` while converting
+- Strikethrough formatting in list indent disappears after conversion
+- Wrong date format in chart after converting
+- Structure element issues
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 22.1 Release Notes](https://docs.aspose.com/words/net/aspose-words-for-net-22-1-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
