@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.cells-for-.net-22.9"
-description: " "
+title: "Add Multiple Tables in Apple Numbers API for C#, .NET Apps"
+description: "C# .NET API, insert multiple tables in Apple Numbers worksheet, export Excel to JSON, convert Excel to PDF, set table formula for DataTable, read SHA512 range."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/net/new-releases/aspose.cells-for-.net-22.9/"
@@ -14,11 +13,9 @@ download_count: " 8/9/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 93.6MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-22-9-release-notes/"
 weight: 668
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,38 @@ weight: 668
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for .NET 22.9</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Add Multiple Table in Numbers&reg;
+
+Ability to insert multiple tables in Apple&reg; Numbers&reg; worksheet.
+
+# Export Empty Cells to JSON
+
+This API release offers the enhancement to export empty cells as `null` to `JSON`.
+
+# Improved Excel to PDF Conversion
+
+It was observed that while converting Excel To PDF, the resultant PDF did not show axis correctly. This issue has now been resolved.
+
+# Set table formula for `DataTable`
+
+Ability of setting table formula for the `DataTable`.
+
+# Read & Write `SHA512` Protected Range
+
+Added the ability to read and write protected range of `XLSB` with `SHA-512` algorithm.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for .NET 22.9 Release Notes](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-9-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
