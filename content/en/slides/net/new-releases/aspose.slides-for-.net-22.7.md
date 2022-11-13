@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-.net-22.7"
-description: " "
+title: "Add Column Chart to PowerPoint® PPT API for C#, ASP.NET Apps"
+description: "C# .NET API supports 3D Charts to let you create 3D Column Charts in your Microsoft PowerPoint® presentations, apply text shadow to Hebrew text on PPTX slides."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/net/new-releases/aspose.slides-for-.net-22.7/"
@@ -14,11 +13,9 @@ download_count: " 19/7/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 81.99MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-22-7-release-notes/"
 weight: 745
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,26 @@ weight: 745
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 22.7 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Support of 3D Column Chart
+
+Introduced the support for 3D Column Charts to let you create 3D Charts within your Microsoft PowerPoint&reg; presentations.
+
+# Text Shadow for Hebrew Text
+
+It was observed that when PowerPoint&reg; PPTX is converted to PDF the Hebrew text had incorrect text shadow. This API release offers the resolution to this issue.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for .NET 22.7 Release Notes](https://docs.aspose.com/slides/net/aspose-slides-for-net-22-7-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
