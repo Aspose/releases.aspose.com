@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.cells-for-.net-22.4 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "Convert, Render Excel to PDF WordArt API for C# ASP.NET Apps"
+description:  "C# .NET API with improved rendering of Excel® WordArt shapes and effects while converting to PDF, better XLS to PDF conversion, remove CSV trailing blank cells."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " cells/net/new-releases/aspose.cells-for-.net-22.4/"
 folder_name: " Aspose.Cells for .NET 22.4"
@@ -39,7 +39,30 @@ weight: 656
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Improved Rendering of WordArt Shapes
+
+It was observed that Microsoft Excel&reg; WordArt effects and shapes were not being rendered properly during Excel to PDF conversion. This issue has now been resolved.
+
+# Improved XLS to PDF Conversion
+
+Previously in some instances, when we converted `XLS` to `PDF`, the blank text line size in textbox was not being rendered correctly. This issue has now been resolved.
+
+# Remove Trailing Blank Cells from CSV
+
+This API release introduces the ability to remove tailing blank cells while saving Comma Separated Values (CSV) file.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for .NET 22.4 Release Notes](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
