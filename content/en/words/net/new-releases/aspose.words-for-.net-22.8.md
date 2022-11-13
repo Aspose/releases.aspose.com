@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.words-for-.net-22.8"
-description: " "
+title: "Import Export AZW3 Kindle Format 8 (KF8) API C# ASP.NET Apps"
+description: "C# .NET API to import and export the AZW3, a.k.a. Kindle Format 8 (KF8) Amazon's eBook format, substitute fonts for symbols, axis label rotation for charts."
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/net/new-releases/aspose.words-for-.net-22.8/"
@@ -14,11 +13,9 @@ download_count: " 2/8/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 95.34MB"
 parent_path: "words/net"
 section_parent_path: "words/net"
-
 tags: "docx to pdf convert compare create edit word split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub azw3 png emf jpg gif mail merge table reporting document"
 release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-22-8-release-notes/"
 weight: 705
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,37 @@ weight: 705
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for .NET 22.8 MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# `AZW3` (`KF8`) Format Import/Export Support
+
+This version of the API introduces the ability to import and export the AZW3, a.k.a. Kindle Format 8 (KF8) eBook format. Amazon's KF8 (`.azw3`) is the next generation file format of Kindle eReaders.
+
+Use is as simple as demonstrated in the following C# code sample:
+
+```csharp
+Document doc = new Document("in.docx");
+doc.Save("out.azw3");
+```
+
+# Font Substitution for Symbols
+
+Improved ability to substitute fonts for symbols.
+
+# Improved Axis Label Rotation for Charts
+
+In this release of the API we have made improvements to the rotation algorithm of axis labels of the charts.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 22.8 Release Notes](https://docs.aspose.com/words/net/aspose-words-for-net-22-8-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
