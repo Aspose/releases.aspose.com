@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.words-for-.net-22.7"
-description: " "
+title: "Glyph Outlines Parsing for CFF Fonts API for C# ASP.NET Apps"
+description: "C# .NET API to parse glyph outlines for OpenType Compact Font Format (CFF) fonts, supports DATABASE fields, Web Content Accessibility Guidelines (WCAG) 2.0 PDF."
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/net/new-releases/aspose.words-for-.net-22.7/"
@@ -14,11 +13,9 @@ download_count: " 4/7/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 94.75MB"
 parent_path: "words/net"
 section_parent_path: "words/net"
-
 tags: "docx to pdf convert compare create edit word split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub png emf jpg gif mail merge table reporting document"
 release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-22-7-release-notes/"
 weight: 703
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,53 @@ weight: 703
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for .NET 22.7 release</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Glyph Outlines Parsing for OpenType (CFF) Fonts
+
+This API version offers our own mechanism of parsing glyph outlines for OpenType Compact Font Format (CFF) fonts.
+
+# `DATABASE` Fields Support
+
+Added support of the DATABASE fields.
+
+```csharp
+document.FieldOptions.FieldDatabaseProvider = new OleDbFieldDatabaseProvider();
+document.UpdateFields();
+ 
+public class OleDbFieldDatabaseProvider : IFieldDatabaseProvider
+{
+    FieldDatabaseDataTable IFieldDatabaseProvider.GetQueryResult(string fileName, string connection, string query, FieldDatabase field)
+    {
+        OleDbConnectionStringBuilder connectionStringBuilder = new OleDbConnectionStringBuilder(connection);
+        connectionStringBuilder.DataSource = fileName;
+ 
+        using (OleDbConnection oleDbConnection = new OleDbConnection(connectionStringBuilder.ToString()))
+        {
+            OleDbDataAdapter oleDbDataAdapter = new OleDbDataAdapter(query, oleDbConnection);
+            DataTable dataTable = new DataTable();
+            oleDbDataAdapter.Fill(dataTable);
+ 
+            return FieldDatabaseDataTable.CreateFrom(dataTable);
+        }
+    }
+}
+```
+
+# WCAG 2.0 Support
+
+Implemented the support of Web Content Accessibility Guidelines (WCAG) 2.0 PDF.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 22.7 Release Notes](https://docs.aspose.com/words/net/aspose-words-for-net-22-7-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
