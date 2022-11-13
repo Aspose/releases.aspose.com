@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.cells-for-.net-22.3 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "Spreadsheet Template XLT (Excel) OTS (Calc) API C# .NET Apps"
+description:  "C# .NET API with support for Excel® (XLT) & Calc (OTS) spreadsheet template formats, set inside borders, sort pivot field values as per selected column or row."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " cells/net/new-releases/aspose.cells-for-.net-22.3/"
 folder_name: " Aspose.Cells for .NET 22.3"
@@ -41,7 +41,30 @@ weight: 654
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-3-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Support for Spreadsheet Template Formats
+
+This API release has introduced support for spreadsheet template formats for both Excel&reg; (XLT) & OpenOffice Calc&reg; (OTS) programs. These are supported as the output formats via `SaveFormat.Ots` & `SaveFormat.Xlt`.
+
+# Set Inside Borders
+
+Ability to set the inside borders.
+
+# Sort PivotField per Selected Row or Column
+
+Sorting support for Pivot Field values has been added. The Pivot Field sorting can be done based on desired row or column.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for .NET 22.3 Release Notes](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-3-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
