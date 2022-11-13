@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-.net-22.6"
-description: " "
+title: "Text Wrapping & Text Alignment PPT API for C#, ASP.NET Apps"
+description: "C# .NET API with better text alignment & text wrapping while converting PPTX to SVG, font size handling in grouping placeholders, convert PPTX to PDF on Linux."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/net/new-releases/aspose.slides-for-.net-22.6/"
@@ -14,10 +13,8 @@ download_count: " 24/6/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 81.81MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-
 release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-22-6-release-notes/"
 weight: 743
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,7 +41,30 @@ weight: 743
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 22.6 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Text Wrapping & Text Alignment in Presentations
+
+Previously there was an issue while converting PPTX to SVG that led to the incorrect wrapping and alignment of text. This issue has now been resolved.
+
+# Improved Font Size Handling in Placeholders
+
+It was observed that grouping placeholders worked fine but font size was being changed. This issue is now fixed.
+
+# Improved PPTX to PDF Conversion on Linux
+
+Previously when Microsoft PowerPoint&reg; PPTX presentation was converted to Acrobat&reg; PDF file on Linux, the conversion process crashed. There was also an issue on Alpine Linux for the same. Both of these issues have now been resolved.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for .NET 22.6 Release Notes](https://docs.aspose.com/slides/net/aspose-slides-for-net-22-6-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
