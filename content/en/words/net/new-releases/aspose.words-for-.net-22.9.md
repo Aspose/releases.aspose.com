@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.words-for-.net-22.9"
-description: " "
+title: "Reduce PDF Size by Caching Shapes API for C#, ASP.NET Apps"
+description: "C# .NET API to cache header /footer shapes to reduce output PDF size, create group structured document tags at row level, auto numbering detection on TXT load."
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/net/new-releases/aspose.words-for-.net-22.9/"
@@ -14,11 +13,9 @@ download_count: " 5/9/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 83.19MB"
 parent_path: "words/net"
 section_parent_path: "words/net"
-
 tags: "docx to pdf convert compare create edit word split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub png emf jpg gif mail merge table reporting document"
 release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-22-9-release-notes/"
 weight: 707
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,89 @@ weight: 707
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for .NET 22.9 MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Cache Header / Footer Shapes to Reduce PDF Size
+
+This API release has the ability to cache the header and footer shapes and reduce the output PDF file size.
+
+# Create Group Structured Document Tags at Row Level
+
+With this API version now you have the option to create the structured document tags (SDT) as a child of a Table node among table rows.
+
+The following C# code is a sample of creating group structured document tags at row level via API:
+
+```csharp
+Document doc = new Document();
+DocumentBuilder builder = new DocumentBuilder(doc);
+
+// Insert a table.
+Table table = builder.StartTable();
+
+// Create a Group structured document tag at the Row level.
+StructuredDocumentTag groupSdt = new StructuredDocumentTag(doc, SdtType.Group, MarkupLevel.Row);
+table.AppendChild(groupSdt);
+groupSdt.IsShowingPlaceholderText = false;
+groupSdt.RemoveAllChildren();
+
+// Create a child row of the structured document tag.
+Row row = new Row(doc);
+groupSdt.AppendChild(row);
+
+// Append a cell.
+Cell cell = new Cell(doc);
+row.AppendChild(cell);
+
+builder.EndTable();
+
+// Insert cell contents.
+cell.EnsureMinimum();
+builder.MoveTo(cell.LastParagraph);
+builder.Write("Some text 1");
+
+// Insert text after the table.
+builder.MoveTo(table.NextSibling);
+builder.Write("Some text 2");
+
+doc.Save(dir + "Out.docx");
+```
+
+# Auto Numbering Detection on `TXT` Load
+
+The `TxtLoadOptions` class has been extended by an `AutoNumberingDetection` public property. This allows you to set the autonumbering detection mode upon loading of the `TXT` document.
+
+The following C# code demonstrates disabling automatic numbering detection on TXT loading:
+
+```csharp
+// Disable automatic numbering detection.
+TxtLoadOptions options = new TxtLoadOptions { AutoNumberingDetection = false };
+Document doc = new Document("input.txt", options);
+
+int listItemsCount = 0;
+foreach (Paragraph paragraph in doc.GetChildNodes(NodeType.Paragraph, true))
+{
+    if (paragraph.IsListItem)
+        listItemsCount++;
+}
+
+Console.WriteLine(
+    "The expected number of list items in document with 'AutoNumberingDetection' option disabled is 0." +
+    " And the actual is: {0}.", listItemsCount);
+
+// The code produces the following output:
+// The expected number of list items in document with 'AutoNumberingDetection' option disabled is 0. And the actual is: 0.
+```
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 22.9 Release Notes](https://docs.aspose.com/words/net/aspose-words-for-net-22-9-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
