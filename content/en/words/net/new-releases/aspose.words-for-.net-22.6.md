@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.words-for-.net-22.6"
-description: " "
+title: "Gradient, Texture, Pattern Fills Chart API for C#, .NET Apps"
+description: "C# .NET API to fill charts with gradient, pattern, texture. Convert or Render PDF directly to fixed page format, loading process notification for ODT documents."
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/net/new-releases/aspose.words-for-.net-22.6/"
@@ -14,10 +13,8 @@ download_count: " 10/6/2022 Downloads: 28  Views: 32 "
 file_size: "File Size: 93.2 MB"
 parent_path: "words/net"
 section_parent_path: "words/net"
-
 release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-22-6-release-notes/"
 weight: 700
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,7 +41,30 @@ weight: 700
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for .NET 22.6 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Gradient, Texture, Pattern Fills Support
+
+This API release introduces ability of fill Charts with gradient fill, texture fill, or pattern fill.
+
+# Convert PDF to Fixed Page Formats
+
+Implemented the feature for converting or rendering PDF documents directly to fixed page formats without any intermediate flow layout.
+
+# Loading Process Notification for `ODT`
+
+Loading progress notification has been introduced for the OpenDocument Text format `ODT` documents.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 22.6 Release Notes](https://docs.aspose.com/words/net/aspose-words-for-net-22-6-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
