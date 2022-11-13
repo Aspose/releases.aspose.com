@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.slides-for-.net-22.1 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "Improved Slide Export & Rasterization API for C#, .NET Apps"
+description:  "C# .NET API for slide export and rasterization, clone presentation slides with custom table style, set time unit for chart data to be presented in the slides."
+keywords:  ""
 page_type:  single_release_page
 folder_link: " slides/net/new-releases/aspose.slides-for-.net-22.1/"
 folder_name: " Aspose.Slides for .NET 22.1"
@@ -41,7 +41,39 @@ weight: 732
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href="https://docs.aspose.com/slides/net/aspose-slides-for-net-22-1-release-notes/">https://docs.aspose.com/slides/net/aspose-slides-for-net-22-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Improved Export & Rasterization of Slides
+
+Previously after export or rasterization the word breaks for text frames were incorrect. This issue has now been resolved.
+
+# Improved Presentation Slide Cloning
+
+Previously when slide cloning was done from one presentation to another, it was observed that custom table style was being lost. This issue has now been resolved.
+
+# Improved Time Unit for Chart Data
+
+A new member `None` has been introduced within he [`TimeUnitType`](https://reference.aspose.com/slides/net/aspose.slides.charts/timeunittype/) enumeration. It enables the chart data values to be displayed as is, without setting any unit for the appropriate unit scale.
+
+```csharp
+using (Presentation pres = new Presentation())
+{
+    IChart chart = pres.Slides[0].Shapes.AddChart(ChartType.Area, 10, 10, 400, 300, true);
+    chart.Axes.HorizontalAxis.MajorUnitScale = TimeUnitType.None;
+    pres.Save("chart.pptx", SaveFormat.Pptx);
+}
+```
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for .NET 22.1 Release Notes](https://docs.aspose.com/slides/net/aspose-slides-for-net-22-1-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
