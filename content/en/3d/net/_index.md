@@ -75,6 +75,7 @@ Aspose.3D for .NET can be used on any operating system (Windows, MacOS, Linux) t
 
 **DirectX:** X (ASCII/Binary)\
 **Siemens:** JT\
+**Maya:** MA, MB\
 **Other:** DXF, ASF, VRML, 3MF
 
 {{< Common/hr >}}
