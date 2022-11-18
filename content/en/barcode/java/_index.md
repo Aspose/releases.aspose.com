@@ -257,7 +257,7 @@ packages_refs:
 
 ## Read & Write Barcode Labels
 
-**Images:** JPEG, TIFF, PNG, BMP, GIF, EXIF
+**Images:** JPEG, TIFF, PNG, BMP, GIF, EXIF, EMF, SVG
 
 ## Save Barcodes As
 
@@ -265,10 +265,8 @@ packages_refs:
 
 ## Supported Environments
 
-- **Microsoft Windows:** Windows Desktop & Server (x86, x64)
-- **Java Runtime:** `JRE 1.6` or above
-- **Java Development:** `J2SE 6.0 (1.6)`, `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)`, or above.
-- **J2ME Requirement:** Java Mobile Edition SDK 3.0
+- **Java Runtime:** `JRE 8` or above
+- **Java Development:** `Java SE 8`, or above.
 
 ## Get Started
 
