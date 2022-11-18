@@ -97,7 +97,7 @@ Please use the following {{< Common/link href="https://pypi.org/project/aspose-3
 **Microsoft&reg; 3D Builder:** 3MF\
 **Autodesk&reg;:** ASE\
 **AutoCAD&reg;:** DXF\
-**Maya&reg;:** MA\
+**Maya&reg;:** MA MB\
 **Siemens&reg; PLM:** JT\
 **Pixar&reg;:** USD, USDZ\
 **Virtual Reality:** VRML\

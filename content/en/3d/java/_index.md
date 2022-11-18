@@ -38,7 +38,7 @@ Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspos
       <dependency>
       <groupId>com.aspose</groupId>
       <artifactId>aspose-3d</artifactId>
-      <version>22.10</version>
+      <version>22.11</version>
       </dependency>
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
@@ -74,7 +74,7 @@ HTML
 
 ### Read 3D Formats
 
-3MF, ASE, DXF, JT, VRML 1.0, X
+3MF, ASE, DXF, JT, VRML 1.0, X, MA, MB
 
 ### Supported Environments
 
