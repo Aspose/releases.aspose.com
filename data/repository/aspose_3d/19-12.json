@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-3d",
+  "id" : "19-12",
+  "packageFiles" : [ {
+    "size" : "853.18 KB",
+    "name" : "aspose-3d-19.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "2.11 MB",
+    "name" : "aspose-3d-19.12.jar"
+  }, {
+    "size" : "392 bytes",
+    "name" : "aspose-3d-19.12.pom"
+  } ],
+  "releasehDate" : "2019-12-09T00:00:00+00:00",
+  "version" : "19.12",
+  "ReleaseNotes" : "https://docs.aspose.com/3d/java/aspose-3d-for-java-19-12-release-notes/"
+}

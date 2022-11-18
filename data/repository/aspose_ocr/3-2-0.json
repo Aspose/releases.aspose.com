@@ -1,0 +1,25 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-ocr",
+  "id" : "3-2-0",
+  "packageFiles" : [ {
+    "size" : "92.16 KB",
+    "name" : "aspose-ocr-21.4-javadoc.jar"
+  }, {
+    "size" : "201.85 MB",
+    "name" : "aspose-ocr-21.4.jar"
+  }, {
+    "size" : "324.97 KB",
+    "name" : "aspose-ocr-3.2.0-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "14.90 MB",
+    "name" : "aspose-ocr-3.2.0.jar"
+  }, {
+    "size" : "452 bytes",
+    "name" : "aspose-ocr-3.2.0.pom"
+  } ],
+  "releasehDate" : "2016-02-11T00:00:00+00:00",
+  "version" : "3.2.0",
+  "ReleaseNotes" : "https://docs.aspose.com/ocr/java/aspose-ocr-for-java-3-2-0-release-notes/"
+}

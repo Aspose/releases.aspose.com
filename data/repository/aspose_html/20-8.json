@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-html",
+  "id" : "20-8",
+  "packageFiles" : [ {
+    "size" : "2.37 MB",
+    "name" : "aspose-html-20.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "23.39 MB",
+    "name" : "aspose-html-20.8-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "447 bytes",
+    "name" : "aspose-html-20.8.pom"
+  } ],
+  "releasehDate" : "2020-08-30T00:00:00+00:00",
+  "version" : "20.8",
+  "ReleaseNotes" : "https://docs.aspose.com/html/java/aspose-html-for-java-20-8-release-notes/"
+}

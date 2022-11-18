@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-3d",
+  "id" : "20-4",
+  "packageFiles" : [ {
+    "size" : "908.36 KB",
+    "name" : "aspose-3d-20.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "2.16 MB",
+    "name" : "aspose-3d-20.4.jar"
+  }, {
+    "size" : "1.09 KB",
+    "name" : "aspose-3d-20.4.pom"
+  } ],
+  "releasehDate" : "2020-04-09T00:00:00+00:00",
+  "version" : "20.4",
+  "ReleaseNotes" : "https://docs.aspose.com/3d/java/aspose-3d-for-java-20-4-release-notes/"
+}

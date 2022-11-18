@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-3d",
+  "id" : "18-7",
+  "packageFiles" : [ {
+    "size" : "1.32 MB",
+    "name" : "aspose-3d-18.7-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "1.67 MB",
+    "name" : "aspose-3d-18.7.jar"
+  }, {
+    "size" : "391 bytes",
+    "name" : "aspose-3d-18.7.pom"
+  } ],
+  "releasehDate" : "2018-07-11T00:00:00+00:00",
+  "version" : "18.7",
+  "ReleaseNotes" : "https://docs.aspose.com/3d/java/release-notes/"
+}

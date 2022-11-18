@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-note",
+  "id" : "16-11-0",
+  "packageFiles" : [ {
+    "size" : "1.70 MB",
+    "name" : "aspose-note-16.11.0-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "8.59 MB",
+    "name" : "aspose-note-16.11.0-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "455 bytes",
+    "name" : "aspose-note-16.11.0.pom"
+  } ],
+  "releasehDate" : "2016-11-23T00:00:00+00:00",
+  "version" : "16.11.0",
+  "ReleaseNotes" : "https://docs.aspose.com/note/java/aspose-note-for-java-16-11-0-release-notes/"
+}

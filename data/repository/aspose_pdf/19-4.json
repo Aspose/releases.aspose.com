@@ -1,0 +1,27 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-pdf",
+  "id" : "19-4",
+  "packageFiles" : [ {
+    "size" : "5.00 MB",
+    "name" : "aspose-pdf-19.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "44.15 MB",
+    "name" : "aspose-pdf-19.4-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "44.15 MB",
+    "name" : "aspose-pdf-19.4-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "44.15 MB",
+    "name" : "aspose-pdf-19.4.jar"
+  }, {
+    "size" : "446 bytes",
+    "name" : "aspose-pdf-19.4.pom"
+  } ],
+  "releasehDate" : "2019-04-30T00:00:00+00:00",
+  "version" : "19.4",
+  "ReleaseNotes" : "https://docs.aspose.com/pdf/java/aspose-pdf-for-java-19-4-release-notes/"
+}

@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-slides",
+  "id" : "18-5",
+  "packageFiles" : [ {
+    "size" : "3.11 MB",
+    "name" : "aspose-slides-18.5-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "26.06 MB",
+    "name" : "aspose-slides-18.5-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "1.35 KB",
+    "name" : "aspose-slides-18.5.pom"
+  } ],
+  "releasehDate" : "2018-05-30T00:00:00+00:00",
+  "version" : "18.5",
+  "ReleaseNotes" : "https://docs.aspose.com/slides/java/aspose-slides-for-java-18-5-release-notes/"
+}

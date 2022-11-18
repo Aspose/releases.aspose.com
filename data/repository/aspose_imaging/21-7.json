@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-imaging",
+  "id" : "21-7",
+  "packageFiles" : [ {
+    "size" : "7.39 MB",
+    "name" : "aspose-imaging-21.7-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "26.38 MB",
+    "name" : "aspose-imaging-21.7-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "549 bytes",
+    "name" : "aspose-imaging-21.7.pom"
+  } ],
+  "releasehDate" : "2021-07-05T00:00:00+00:00",
+  "version" : "21.7",
+  "ReleaseNotes" : "https://docs.aspose.com/imaging/java/aspose-imaging-for-java-21-7-release-notes/"
+}

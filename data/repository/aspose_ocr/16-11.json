@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-ocr",
+  "id" : "16-11",
+  "packageFiles" : [ {
+    "size" : "327.58 KB",
+    "name" : "aspose-ocr-16.11-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "9.76 MB",
+    "name" : "aspose-ocr-16.11.jar"
+  }, {
+    "size" : "452 bytes",
+    "name" : "aspose-ocr-16.11.pom"
+  } ],
+  "releasehDate" : "2016-11-29T00:00:00+00:00",
+  "version" : "16.11",
+  "ReleaseNotes" : "https://docs.aspose.com/ocr/java/aspose-ocr-for-java-16-11-release-notes/"
+}

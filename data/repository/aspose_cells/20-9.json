@@ -1,0 +1,43 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cells",
+  "id" : "20-9",
+  "packageFiles" : [ {
+    "size" : "1.97 MB",
+    "name" : "aspose-cells-20.9-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
+    "size" : "1.17 MB",
+    "name" : "aspose-cells-20.9-android.via.java-resources.jar",
+    "classifier" : "android.via.java-resources"
+  }, {
+    "size" : "6.92 MB",
+    "name" : "aspose-cells-20.9-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "209.52 KB",
+    "name" : "aspose-cells-20.9-gridweb-javadoc.jar",
+    "classifier" : "gridweb-javadoc"
+  }, {
+    "size" : "111.80 KB",
+    "name" : "aspose-cells-20.9-gridweb-resources.jar",
+    "classifier" : "gridweb-resources"
+  }, {
+    "size" : "6.89 MB",
+    "name" : "aspose-cells-20.9-gridweb.jar",
+    "classifier" : "gridweb"
+  }, {
+    "size" : "1.97 MB",
+    "name" : "aspose-cells-20.9-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "7.46 MB",
+    "name" : "aspose-cells-20.9.jar"
+  }, {
+    "size" : "448 bytes",
+    "name" : "aspose-cells-20.9.pom"
+  } ],
+  "releasehDate" : "2020-09-10T00:00:00+00:00",
+  "version" : "20.9",
+  "ReleaseNotes" : "https://docs.aspose.com/cells/java/aspose-cells-for-java-20-9-release-notes/"
+}

@@ -1,6 +1,31 @@
 ---
-title: "Download PUB Reading & Conversion JAR Files | Aspose.PUB API"
-description: "Download JAR files containing Java classes to parse, process & convert Microsoft Publisher document formats to PDF via on-premise API."
+title: Aspose.PUB | Electronic Publishing Files Java Class Library
+linktitle: Aspose.PUB
+description: Java library to parse, process and convert Publisher document formats to PDF. Implement the functionality into your own product.
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose PUB
+- Aspose Java API
+- pub java library
+- pub java class
+- PUB
+- PDF
+- Microsoft Publisher
+- PUB conversion
+- Convert PUB
+- PUB to PDF
+- metadata
+- Windows
+- Linux
+- Mac
+- J2SE
+- Maven
+- edit metadata
+- modify metadata
 family_listing_page_title: "Aspose.PUB for Java"
 family_listing_page_description: "Aspose.PUB library provides a simple and convenient API that can load & convert PUB files to PDF. It is implemented using Java and it can be used with any Java based application including Web based or desktop application."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png"
@@ -9,77 +34,64 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "225"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/pub/"
-tags: ['Aspose.Total', 'Aspose.PUB', 'Aspose-Java-API', 'pub-java-library', 'pub-java-class', 'PUB', 'PDF', 'Microsoft-Publisher', 'PUB-conversion', 'Convert-PUB', 'PUB-to-PDF', 'metadata', 'Windows', 'Linux', 'Mac', 'J2SE', 'Maven', 'edit-metadata', 'modify-metadata']
-weight:  2
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-pub/"
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/pub/40
+productLink: https://products.aspose.com/pub/java/
+dataFolder: aspose_pub
+packages_refs:
+- "22-8"
+- "20-8"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/pub" linktext=" Support Forum " >}}
+# Process PUB files via Java API
 
-{{< Common/h2 text="Download Aspose.PUB to work with Microsoft Publisher® Files"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the Aspose.PUB for Java API directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/pub/java/installation/" text="Installing Aspose.PUB for Java from Maven Repository"  >}} documentation page.
-{{< Common/release-notes-link family="pub" product="java" href="https://docs.aspose.com/pub/java/release-notes/" text="https://docs.aspose.com/pub/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[![banner](./aspose_pub-for-java-banner.png)](./)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Product Page](https://products.aspose.com/pub/java) | [Docs](https://docs.aspose.com/pub/java/) | [API Reference](https://apireference.aspose.com/pub/java) | [Examples](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/Examples) | [Blog](https://blog.aspose.com/category/pub/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pub) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-pub</artifactId>
-      <version>20.8</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
-
-[Product Page](https://products.aspose.com/pub/java) | [Docs](https://docs.aspose.com/pub/java/) | [API Reference](https://reference.aspose.com/pub/java) | [Examples](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/Examples) | [Blog](https://blog.aspose.com/category/pub/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pub) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-## Why download Aspose.PUB for Java?
-
-Aspose.PUB for Java is a Java API that can read, manipulate and convert Microsoft Publisher&reg; (.pub) files to PDF. You can use the API in your Java applications to work with .pub files without worrying about the underlying filie format. The API can be used in Java desktop as well as web applications using JSP. The API is light, easy to use and simplifies your application with simple lines of code in your application.
+[Aspose.PUB for Java](https://products.aspose.com/pub/java) is a Java API that can read, manipulate and convert Microsoft Publisher (.pub) files to PDF. You can use the API in your Java applications to work with .pub files without worrying about the underlying filie format. The API can be used in Java desktop as well as web applications using JSP. The API is light, easy to use and simplifies your application with simple lines of code in your application.
 
 ## PUB Java API Features
 
-- Read Microsoft Publisher&reg; (PUB) files for conversion to PDF format.
+- Read Microsoft Publisher (PUB) files for conversion to PDF format.
 - Working with Metadata of PUB files.
 
-### Read PUB Files
+## Read PUB Files
 
-**Microsoft Publisher&reg;:** PUB
+**Microsoft Publisher:** PUB
 
-### Save PUB As
+## Save PUB As
 
 **Fixed Layout:** PDF
 
-### Supported Environments
+## Supported Environments
 
-- **Microsoft Windows&reg;:** Windows Desktop & Server (x86, x64)
+- **Microsoft Windows:** Windows Desktop & Server (x86, x64)
 - **macOS:** Mac OS X
 - **Linux:** Ubuntu, CentOS, and others
 - **Java Versions:** `J2SE 8.0 (1.8)` or above
 
-{{< Common/hr >}}
+## Get Started
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+Aspose.PUB Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/pub/). You can easily use Aspose.PUB for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.PUB for Java from Aspose Repository](https://docs.aspose.com/pub/java/installation/) documentation page.
 
-{{< Common/hr >}}
+## Edit Metadata of Microsoft Publisher Files using Java
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="pub" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+```java
+// For complete examples and data files, please go to https://github.com/aspose-pub/Aspose.PUB-for-Java
+IPubParser parser = PubFactory.createParser(fileName);
+Document document = parser.parse();
+
+document.getDocumentSummaryInfo().setCategory("category");
+document.getDocumentSummaryInfo().setCompany("company");
+document.getDocumentSummaryInfo().setLanguage("language");
+
+document.getSummaryInfo().setComments("comments");
+document.getSummaryInfo().setKeywords("keywords");
+document.getSummaryInfo().setLastAuthor("last author");
+document.getSummaryInfo().setTitle("title");
+document.getSummaryInfo().setSubject("subject");
+```
+
+[Product Page](https://products.aspose.com/pub/java) | [Docs](https://docs.aspose.com/pub/java/) | [API Reference](https://apireference.aspose.com/pub/java) | [Examples](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/Examples) | [Blog](https://blog.aspose.com/category/pub/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pub) | [Temporary License](https://purchase.aspose.com/temporary-license)

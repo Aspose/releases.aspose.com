@@ -1,0 +1,25 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk18",
+  "artifactId" : "aspose-tasks",
+  "id" : "19-4",
+  "packageFiles" : [ {
+    "size" : "1.84 MB",
+    "name" : "aspose-tasks-19.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "11.62 MB",
+    "name" : "aspose-tasks-19.4-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "11.59 MB",
+    "name" : "aspose-tasks-19.4-jdk18.jar",
+    "classifier" : "jdk18"
+  }, {
+    "size" : "448 bytes",
+    "name" : "aspose-tasks-19.4.pom"
+  } ],
+  "releasehDate" : "2019-04-08T00:00:00+00:00",
+  "version" : "19.4",
+  "ReleaseNotes" : "https://docs.aspose.com/tasks/java/aspose-tasks-for-java-19-4-release-notes/"
+}

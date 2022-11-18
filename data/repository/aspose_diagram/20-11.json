@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-diagram",
+  "id" : "20-11",
+  "packageFiles" : [ {
+    "size" : "826.01 KB",
+    "name" : "aspose-diagram-20.11-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "3.31 MB",
+    "name" : "aspose-diagram-20.11-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "451 bytes",
+    "name" : "aspose-diagram-20.11.pom"
+  } ],
+  "releasehDate" : "2020-11-03T00:00:00+00:00",
+  "version" : "20.11",
+  "ReleaseNotes" : "https://docs.aspose.com/diagram/java/aspose-diagram-for-java-20-11-release-notes/"
+}

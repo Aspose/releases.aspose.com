@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-diagram",
+  "id" : "21-3",
+  "packageFiles" : [ {
+    "size" : "827.39 KB",
+    "name" : "aspose-diagram-21.3-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "3.34 MB",
+    "name" : "aspose-diagram-21.3-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "450 bytes",
+    "name" : "aspose-diagram-21.3.pom"
+  } ],
+  "releasehDate" : "2021-03-12T00:00:00+00:00",
+  "version" : "21.3",
+  "ReleaseNotes" : "https://docs.aspose.com/diagram/java/aspose-diagram-for-java-21-3-release-notes/"
+}

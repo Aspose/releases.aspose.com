@@ -1,0 +1,9 @@
+
+{{ with .Params.featured_image_path }}
+  <img src="{{ . }}" alt="Featured Image for {{ $.Title }}" class="mw-100">
+{{ end }}
+
+<div class="prose" id="prose">
+  {{- partial "docs/functions-signature.html" . -}}
+  {{ .Content }}
+</div>

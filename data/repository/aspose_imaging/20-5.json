@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-imaging",
+  "id" : "20-5",
+  "packageFiles" : [ {
+    "size" : "7.21 MB",
+    "name" : "aspose-imaging-20.5-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "25.01 MB",
+    "name" : "aspose-imaging-20.5-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "549 bytes",
+    "name" : "aspose-imaging-20.5.pom"
+  } ],
+  "releasehDate" : "2020-05-20T00:00:00+00:00",
+  "version" : "20.5",
+  "ReleaseNotes" : "https://docs.aspose.com/imaging/java/aspose-imaging-for-java-20-5-release-notes/"
+}

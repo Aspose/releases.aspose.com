@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-barcode",
+  "id" : "17-01",
+  "packageFiles" : [ {
+    "size" : "286.29 KB",
+    "name" : "aspose-barcode-17.01-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "6.57 MB",
+    "name" : "aspose-barcode-17.01.jar"
+  }, {
+    "size" : "456 bytes",
+    "name" : "aspose-barcode-17.01.pom"
+  } ],
+  "releasehDate" : "2017-02-07T00:00:00+00:00",
+  "version" : "17.01",
+  "ReleaseNotes" : "https://docs.aspose.com/barcode/java/aspose-barcode-for-java-17-01-release-notes/"
+}

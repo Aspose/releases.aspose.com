@@ -1,0 +1,27 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-tasks",
+  "id" : "9-1-0",
+  "packageFiles" : [ {
+    "size" : "1.56 MB",
+    "name" : "aspose-tasks-9.1.0-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "9.52 MB",
+    "name" : "aspose-tasks-9.1.0-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "9.52 MB",
+    "name" : "aspose-tasks-9.1.0-jdk18.jar",
+    "classifier" : "jdk18"
+  }, {
+    "size" : "9.52 MB",
+    "name" : "aspose-tasks-9.1.0.jar"
+  }, {
+    "size" : "454 bytes",
+    "name" : "aspose-tasks-9.1.0.pom"
+  } ],
+  "releasehDate" : "2015-12-30T00:00:00+00:00",
+  "version" : "9.1.0",
+  "ReleaseNotes" : "https://docs.aspose.com/tasks/java/aspose-tasks-for-java-9-1-0-release-notes/"
+}

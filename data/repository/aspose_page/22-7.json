@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "22-7",
+  "packageFiles" : [ {
+    "size" : "848 KB",
+    "name" : "aspose-page-22.7-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "13 MB",
+    "name" : "aspose-page-22.7.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-page-22.7.pom"
+  } ],
+  "releasehDate" : "2022-07-20T11:39:16+00:00",
+  "version" : "22.7",
+  "ReleaseNotes" : "https://docs.aspose.com/page/java/aspose-page-for-java-22-7-release-notes/"
+}

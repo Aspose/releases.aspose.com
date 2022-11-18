@@ -1,0 +1,47 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-barcode",
+  "id" : "20-4",
+  "packageFiles" : [ {
+    "size" : "428.21 KB",
+    "name" : "aspose-barcode-20.4-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
+    "size" : "6.78 MB",
+    "name" : "aspose-barcode-20.4-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "453.23 KB",
+    "name" : "aspose-barcode-20.4-control.android.via.java-javadoc.jar",
+    "classifier" : "control.android.via.java-javadoc"
+  }, {
+    "size" : "6.00 MB",
+    "name" : "aspose-barcode-20.4-control.android.via.java.aar",
+    "classifier" : "control.android.via.java.aar"
+  }, {
+    "size" : "451.35 KB",
+    "name" : "aspose-barcode-20.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "10.42 MB",
+    "name" : "aspose-barcode-20.4-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "590.68 KB",
+    "name" : "aspose-barcode-20.4-php.via.java-javadoc.jar",
+    "classifier" : "php.via.java-javadoc"
+  }, {
+    "size" : "10.49 MB",
+    "name" : "aspose-barcode-20.4-php.via.java.jar",
+    "classifier" : "php.via.java"
+  }, {
+    "size" : "10.42 MB",
+    "name" : "aspose-barcode-20.4.jar"
+  }, {
+    "size" : "452 bytes",
+    "name" : "aspose-barcode-20.4.pom"
+  } ],
+  "releasehDate" : "2020-04-30T00:00:00+00:00",
+  "version" : "20.4",
+  "ReleaseNotes" : "https://docs.aspose.com/barcode/java/aspose-barcode-for-java-20-4-release-notes/"
+}

@@ -1,0 +1,15 @@
+<!-- TOCs need to be declared explicitly in the front matter of content/*.md -->
+<aside class="fixed-lTK mw5-l right-0 f6  b--moon-gray pv4 pv0-ns ph4-l nested-list-reset nested-links nested-copy-line-height">
+	{{ if .Params.toc }}
+	<button class="linkshow btn btn-link btn-sm d-table"><small><i class="fa fa-plus-square fa-minus-square"></i></small></button>
+		<p class="b">What's on this Page</p>
+		<ul class="linkshowbox">
+  	{{ .TableOfContents }}
+		</ul>
+	{{ end }}
+
+	{{- if .Params.godocref -}}
+	<a target="_blank" class="tooltip right godoc-link" data-tooltip="See the related Godocs for {{.Title }}" href="{{.Params.godocref}}" >
+	</a>
+	{{- end -}}
+</aside>

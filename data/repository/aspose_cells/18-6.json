@@ -1,0 +1,42 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cells",
+  "id" : "18-6",
+  "packageFiles" : [ {
+    "size" : "1.54 MB",
+    "name" : "aspose-cells-18.6-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
+    "size" : "555.48 KB",
+    "name" : "aspose-cells-18.6-android.via.java-libs.apk"
+  }, {
+    "size" : "6.21 MB",
+    "name" : "aspose-cells-18.6-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "194.43 KB",
+    "name" : "aspose-cells-18.6-gridweb-javadoc.jar",
+    "classifier" : "gridweb-javadoc"
+  }, {
+    "size" : "109.13 KB",
+    "name" : "aspose-cells-18.6-gridweb-resources.jar",
+    "classifier" : "gridweb-resources"
+  }, {
+    "size" : "6.36 MB",
+    "name" : "aspose-cells-18.6-gridweb.jar",
+    "classifier" : "gridweb"
+  }, {
+    "size" : "1.54 MB",
+    "name" : "aspose-cells-18.6-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "6.67 MB",
+    "name" : "aspose-cells-18.6.jar"
+  }, {
+    "size" : "448 bytes",
+    "name" : "aspose-cells-18.6.pom"
+  } ],
+  "releasehDate" : "2018-06-22T00:00:00+00:00",
+  "version" : "18.6",
+  "ReleaseNotes" : "https://docs.aspose.com/cells/java/aspose-cells-for-java-18-6-release-notes/"
+}

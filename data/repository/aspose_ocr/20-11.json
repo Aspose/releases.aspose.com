@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-ocr",
+  "id" : "20-11",
+  "packageFiles" : [ {
+    "size" : "53.74 KB",
+    "name" : "aspose-ocr-20.11-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "191.72 MB",
+    "name" : "aspose-ocr-20.11.jar"
+  }, {
+    "size" : "1.59 KB",
+    "name" : "aspose-ocr-20.11.pom"
+  } ],
+  "releasehDate" : "2020-11-29T00:00:00+00:00",
+  "version" : "20.11",
+  "ReleaseNotes" : "https://docs.aspose.com/ocr/java/aspose-ocr-for-java-20-11-release-notes/"
+}

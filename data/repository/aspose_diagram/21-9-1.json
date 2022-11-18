@@ -1,0 +1,17 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-diagram",
+  "id" : "21-9-1",
+  "packageFiles" : [ {
+    "size" : "3.40 MB",
+    "name" : "aspose-diagram-21.9.1-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "452 bytes",
+    "name" : "aspose-diagram-21.9.1.pom"
+  } ],
+  "releasehDate" : "2021-09-16T00:00:00+00:00",
+  "version" : "21.9.1",
+  "ReleaseNotes" : "https://docs.aspose.com/diagram/java/release-notes/"
+}

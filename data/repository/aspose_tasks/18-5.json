@@ -1,0 +1,25 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk18",
+  "artifactId" : "aspose-tasks",
+  "id" : "18-5",
+  "packageFiles" : [ {
+    "size" : "1.69 MB",
+    "name" : "aspose-tasks-18.5-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "10.70 MB",
+    "name" : "aspose-tasks-18.5-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "10.70 MB",
+    "name" : "aspose-tasks-18.5-jdk18.jar",
+    "classifier" : "jdk18"
+  }, {
+    "size" : "448 bytes",
+    "name" : "aspose-tasks-18.5.pom"
+  } ],
+  "releasehDate" : "2018-05-31T00:00:00+00:00",
+  "version" : "18.5",
+  "ReleaseNotes" : "https://docs.aspose.com/tasks/java/aspose-tasks-for-java-18-5-release-notes/"
+}

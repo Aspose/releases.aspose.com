@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-font",
+  "id" : "21-8",
+  "packageFiles" : [ {
+    "size" : "540.20 KB",
+    "name" : "aspose-font-21.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "11.27 MB",
+    "name" : "aspose-font-21.8.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-font-21.8.pom"
+  } ],
+  "releasehDate" : "2021-08-25T00:00:00+00:00",
+  "version" : "21.8",
+  "ReleaseNotes" : "https://docs.aspose.com/font/java/aspose-font-for-java-21-8-release-notes/"
+}

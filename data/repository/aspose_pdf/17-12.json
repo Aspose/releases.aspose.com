@@ -1,0 +1,27 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-pdf",
+  "id" : "17-12",
+  "packageFiles" : [ {
+    "size" : "32.23 MB",
+    "name" : "aspose-pdf-17.12-android-via-java.jar",
+    "classifier" : "android-via-java"
+  }, {
+    "size" : "32.23 MB",
+    "name" : "aspose-pdf-17.12-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "4.24 MB",
+    "name" : "aspose-pdf-17.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "42.32 MB",
+    "name" : "aspose-pdf-17.12.jar"
+  }, {
+    "size" : "452 bytes",
+    "name" : "aspose-pdf-17.12.pom"
+  } ],
+  "releasehDate" : "2017-12-31T00:00:00+00:00",
+  "version" : "17.12",
+  "ReleaseNotes" : "https://docs.aspose.com/pdf/java/aspose-pdf-for-java-17-12-release-notes/"
+}

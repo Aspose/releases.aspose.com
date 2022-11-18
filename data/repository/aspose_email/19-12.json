@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-email",
+  "id" : "19-12",
+  "packageFiles" : [ {
+    "size" : "4.13 MB",
+    "name" : "aspose-email-19.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "12.27 MB",
+    "name" : "aspose-email-19.12-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "1.68 KB",
+    "name" : "aspose-email-19.12.pom"
+  } ],
+  "releasehDate" : "2020-01-02T00:00:00+00:00",
+  "version" : "19.12",
+  "ReleaseNotes" : "https://docs.aspose.com/email/java/aspose-email-for-java-19-12-release-notes/"
+}

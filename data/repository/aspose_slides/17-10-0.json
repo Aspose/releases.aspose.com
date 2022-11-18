@@ -1,0 +1,16 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-slides",
+  "id" : "17-10-0",
+  "packageFiles" : [ {
+    "size" : "3.04 MB",
+    "name" : "aspose-slides-17.10.0-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "457 bytes",
+    "name" : "aspose-slides-17.10.0.pom"
+  } ],
+  "releasehDate" : "2017-11-01T00:00:00+00:00",
+  "version" : "17.10.0",
+  "ReleaseNotes" : "https://docs.aspose.com/slides/java/release-notes/"
+}

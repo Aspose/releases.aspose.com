@@ -1,0 +1,27 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-pdf",
+  "id" : "21-4",
+  "packageFiles" : [ {
+    "size" : "5.16 MB",
+    "name" : "aspose-pdf-21.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "70.31 MB",
+    "name" : "aspose-pdf-21.4-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "70.31 MB",
+    "name" : "aspose-pdf-21.4-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "70.31 MB",
+    "name" : "aspose-pdf-21.4.jar"
+  }, {
+    "size" : "446 bytes",
+    "name" : "aspose-pdf-21.4.pom"
+  } ],
+  "releasehDate" : "2021-04-20T00:00:00+00:00",
+  "version" : "21.4",
+  "ReleaseNotes" : "https://docs.aspose.com/pdf/java/aspose-pdf-for-java-21-4-release-notes/"
+}

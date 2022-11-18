@@ -1,0 +1,23 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cells",
+  "id" : "17-12",
+  "packageFiles" : [ {
+    "size" : "6.01 MB",
+    "name" : "aspose-cells-17.12-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "1.48 MB",
+    "name" : "aspose-cells-17.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "6.45 MB",
+    "name" : "aspose-cells-17.12.jar"
+  }, {
+    "size" : "454 bytes",
+    "name" : "aspose-cells-17.12.pom"
+  } ],
+  "releasehDate" : "2017-12-18T00:00:00+00:00",
+  "version" : "17.12",
+  "ReleaseNotes" : "https://docs.aspose.com/cells/java/aspose-cells-for-java-17-12-release-notes/"
+}

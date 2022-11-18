@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-diagram",
+  "id" : "21-8",
+  "packageFiles" : [ {
+    "size" : "830.01 KB",
+    "name" : "aspose-diagram-21.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "3.39 MB",
+    "name" : "aspose-diagram-21.8-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "450 bytes",
+    "name" : "aspose-diagram-21.8.pom"
+  } ],
+  "releasehDate" : "2021-08-04T00:00:00+00:00",
+  "version" : "21.8",
+  "ReleaseNotes" : "https://docs.aspose.com/diagram/java/aspose-diagram-for-java-21-8-release-notes/"
+}

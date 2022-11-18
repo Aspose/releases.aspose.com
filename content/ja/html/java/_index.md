@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "9"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/html/"
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-html/"
 tags: ['html-to-image', 'html-to-pdf', 'html-to-xps', 'html-to-mhtml', 'html-to-markdown', 'svg-to-image', 'svg-to-pdf', 'svg-to-xps', 'epub-to-image', 'epub-to-pdf', 'epub-to-xps', 'mhtml-to-image', 'mhtml-to-pdf', 'mhtml-to-xps', 'markdown-to-html']
 weight:  2
 ---

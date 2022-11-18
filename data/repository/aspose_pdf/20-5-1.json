@@ -1,0 +1,17 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-pdf",
+  "id" : "20-5-1",
+  "packageFiles" : [ {
+    "size" : "67.32 MB",
+    "name" : "aspose-pdf-20.5.1-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "448 bytes",
+    "name" : "aspose-pdf-20.5.1.pom"
+  } ],
+  "releasehDate" : "2020-05-28T00:00:00+00:00",
+  "version" : "20.5.1",
+  "ReleaseNotes" : "https://docs.aspose.com/pdf/java/release-notes/"
+}

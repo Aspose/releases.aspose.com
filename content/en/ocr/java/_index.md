@@ -1,7 +1,49 @@
 ---
-title: "Download JAR Files to Extract Image Text | Aspose.OCR API"
-description: "Download JAR files to perform optical character recognition (OCR) on JPEG, PNG, GIF, BMP & TIFF images. Extract English, French, Spanish & Portuguese via OCR."
-keywords: "OCR Java, OCR English, OCR French"
+title: Aspose.OCR | Image Character Recognition Java Class Library
+linktitle: Aspose.OCR
+description: Java class library to perform optical character recognition (OCR) on JPEG, PNG, GIF, BMP & TIFF images. Extract English, French, Spanish & Portuguese via OCR.
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose OCR
+- Aspose Java API
+- ocr java library
+- ocr java class
+- Maven
+- JPEG
+- PNG
+- GIF
+- BMP
+- TIFF
+- TXT
+- DOCX
+- PDF
+- Windows
+- Linux
+- Mac
+- J2SE
+- JSON
+- optical character recognition
+- OCR
+- recognize text
+- recognize image
+- spell correction
+- spell check
+- skew correction
+- image correction
+- recognize pdf
+- recognize tiff
+- searchable pdf
+- searchable docx
+- multi lang ocr
+- recognize multi image
+- multi threading
+- image detection
+- text detection
+weight: 02	#rem
 family_listing_page_title: "Aspose.OCR for Java"
 family_listing_page_description: "Aspose.OCR for Java is an optical character API that allows developers to add OCR functionality to their Java applications without requiring any additional tool or API. Aspose.OCR for Java allows extracting text from images having different fonts and styles - saving the time and effort involved in developing an OCR solution from scratch."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java-min.png"
@@ -10,45 +52,61 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "19"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/ocr/"
-tags: ['optical-character-recognition', 'OCR', 'recognize-text', 'recognize-image', 'spell-correction', 'spell-check', 'skew-correction', 'image-correction', 'recognize-pdf', 'recognize-tiff', 'searchable-pdf', 'searchable-docx', 'multi-lang-ocr', 'recognize-multi-image', 'multi-threading', 'image-detection', 'text-detection']
-weight:  2
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-ocr/"
+forumLink: https://forum.aspose.com/c/ocr/16
+productLink: https://products.aspose.com/ocr/java/
+dataFolder: aspose_ocr
+packages_refs:
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "16-10"
+- "16-11"
+- "16-12"
+- "17-01"
+- "17-11"
+- "17-2"
+- "17-3"
+- "17-6"
+- "20-10"
+- "20-11"
+- "20-5"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-1"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-1"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
+- "3-2-0"
+- "3-3-0"
+- "3-4-0"
+- "3-6-0"
+- "3-7-0"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/ocr" linktext=" Support Forum " >}}
+# Java OCR Library
 
-{{< Common/h1 text="Download Aspose.OCR to extract image text"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the Aspose.OCR for Java API directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/ocr/java/installation/" text="Installing Aspose.OCR for Java from Maven Repository"  >}} documentation page.
-{{< Common/release-notes-link family="ocr" product="java" href="https://docs.aspose.com/ocr/java/release-notes/" text="https://docs.aspose.com/ocr/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[![banner](./aspose_ocr-for-java-banner.png)](./)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Product Page](https://products.aspose.com/ocr/java) | [Docs](https://docs.aspose.com/ocr/java/) | [Demos](https://products.aspose.app/ocr/family) | [API Reference](https://apireference.aspose.com/ocr/java) | [Examples](https://github.com/aspose-ocr/Aspose.OCR-for-Java) | [Blog](https://blog.aspose.com/category/ocr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/ocr) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-ocr</artifactId>
-      <version>22.6</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
-
-[Product Page](https://products.aspose.com/ocr/java) | [Docs](https://docs.aspose.com/ocr/java/) | [Demos](https://products.aspose.app/ocr/family) | [API Reference](https://reference.aspose.com/ocr/java) | [Examples](https://github.com/aspose-ocr/Aspose.OCR-for-Java) | [Blog](https://blog.aspose.com/category/ocr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/ocr) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-## Why download Aspose.OCR for Java?
-
-Aspose.OCR for Java is a character and optical mark recognition API that allows developers to add OCR functionality in their applications. It provides a simple set of classes for controlling character recognition.
+[Aspose.OCR for Java](https://products.aspose.com/ocr/java) is a character and optical mark recognition API that allows developers to add OCR functionality in their applications. It provides a simple set of classes for controlling character recognition.
 
 ## Convert Image to Text via Java
 
@@ -63,49 +121,54 @@ Aspose.OCR for Java is a character and optical mark recognition API that allows 
 - Extract optical marked elements from Scanned images.
 - Support for various optical marked elements such as Check Box, Choice Box, Grid, Barcode & OCR.
 
-### Supported Characters
+## Supported Characters
 
-|       |     |     |     |     |     |     |     |     |     |
-| ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| space | !   | "   | #   | $   | %   | &   | '   | (   | )   |
-| *     | +   | ,   | -   | .   | /   | 0   | 1   | 2   | 3   |
-| 4     | 5   | 6   | 7   | 8   | 9   | :   | ;   | <   | =   |
-| >     | ?   | @   | [   | \   | ]   | _   | `   | {   | \|  |
-| }     | ~   | A   | B   | C   | D   | E   | F   | G   | H   |
-| I     | J   | K   | L   | M   | N   | O   | P   | Q   | R   |
-| S     | T   | U   | V   | W   | X   | Y   | Z   | a   | b   |
-| c     | d   | e   | f   | g   | h   | i   | j   | k   | l   |
-| m     | n   | o   | p   | q   | r   | s   | t   | u   | v   |
-| w     | x   | y   | z   | Â   | À   | Á   | Ã   | Ä   | Æ   |
-| Ç     | È   | É   | Ê   | Ë   | Ì   | Í   | Î   | Ï   | Ñ   |
-| Ò     | Ó   | Ô   | Õ   | Ö   | Ù   | Ú   | Û   | Ü   | ẞ   |
-| ß     | à   | á   | â   | ã   | ä   | æ   | ç   | è   | é   |
-| ê     | ë   | ì   | í   | î   | ï   | ñ   | ò   | ó   | ô   |
-| õ     | ö   | ù   | ú   | û   | ü   | ÿ   | Œ   | œ   | Ÿ   |
+|   |   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|
+| space | ! | " | # | $ | % | & | ' | ( | ) |
+| * | + | , | - | . | / | 0 | 1 | 2 | 3 |
+| 4 | 5 | 6 | 7 | 8 | 9 | : | ; | < | = |
+| > | ? | @ | [ | \ | ] | _ | ` | { | \| |
+| } | ~ | A | B | C | D | E | F | G | H |
+| I | J | K | L | M | N | O | P | Q | R |
+| S | T | U | V | W | X | Y | Z | a | b |
+| c | d | e | f | g | h | i | j | k | l |
+| m | n | o | p | q | r | s | t | u | v |
+| w | x | y | z | Â | À | Á | Ã | Ä | Æ |
+| Ç | È | É | Ê | Ë | Ì | Í | Î | Ï | Ñ |
+| Ò | Ó | Ô | Õ | Ö | Ù | Ú | Û | Ü | ẞ |
+| ß | à | á | â | ã | ä | æ | ç | è | é |
+| ê | ë | ì | í | î | ï | ñ | ò | ó | ô |
+| õ | ö | ù | ú | û | ü | ÿ | Œ | œ | Ÿ |
 
 
-### Load Images for OCR
+## Load Images for OCR
 
 **Raster Formats:** JPEG, PNG, GIF, BMP, TIFF
 
-### Supported Environments
+## Supported Environments
 
-- **Microsoft Windows&reg;:** Windows Desktop & Server (x86, x64)
+- **Microsoft Windows:** Windows Desktop & Server (x86, x64)
 - **macOS:** Mac OS X
 - **Linux:** Ubuntu, OpenSUSE, CentOS, and others
 - **Java Versions:** `J2SE 6.0 (1.6)` or above
 
-{{< Common/hr >}}
+## Get Started
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+Aspose.OCR Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/ocr/). You can easily use Aspose.OCR for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.OCR for Java from Maven Repository](https://docs.aspose.com/ocr/java/installation/) documentation page.
 
-{{< Common/hr >}}
+## Extract Text from Specific Areas on Image
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="ocr" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+```java
+// create API instance
+AsposeOCR api = new AsposeOCR();
+// prepare rectangles with texts.
+ArrayList rectArray = new ArrayList();
+rectArray.add(new Rectangle(138, 352, 2033, 537));
+rectArray.add(new Rectangle(147, 890, 2033, 1157));
+String result = api.RecognizePage("template.png", rectArray);
+
+System.out.println("Result with rect: " + result);
+```
+
+[Product Page](https://products.aspose.com/ocr/java) | [Docs](https://docs.aspose.com/ocr/java/) | [Demos](https://products.aspose.app/ocr/family) | [API Reference](https://apireference.aspose.com/ocr/java) | [Examples](https://github.com/aspose-ocr/Aspose.OCR-for-Java) | [Blog](https://blog.aspose.com/category/ocr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/ocr) | [Temporary License](https://purchase.aspose.com/temporary-license)

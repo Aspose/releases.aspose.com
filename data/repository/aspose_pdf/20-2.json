@@ -1,0 +1,27 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-pdf",
+  "id" : "20-2",
+  "packageFiles" : [ {
+    "size" : "5.07 MB",
+    "name" : "aspose-pdf-20.2-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "67.15 MB",
+    "name" : "aspose-pdf-20.2-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "67.15 MB",
+    "name" : "aspose-pdf-20.2-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "67.15 MB",
+    "name" : "aspose-pdf-20.2.jar"
+  }, {
+    "size" : "446 bytes",
+    "name" : "aspose-pdf-20.2.pom"
+  } ],
+  "releasehDate" : "2020-02-20T00:00:00+00:00",
+  "version" : "20.2",
+  "ReleaseNotes" : "https://docs.aspose.com/pdf/java/aspose-pdf-for-java-20-2-release-notes/"
+}

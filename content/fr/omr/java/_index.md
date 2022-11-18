@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "192"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/omr/"
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-omr/"
 tags: ['SVG-to-HTML5', 'CMX-to-PNG', 'DjVu-to-TIFF', 'DjVu-to-PDF', 'DNG-to-JPEG', 'image-to-PSD', 'PSD-to-JPG', 'image-to-PSD', 'WMF-to-PNG']
 weight:  2
 ---

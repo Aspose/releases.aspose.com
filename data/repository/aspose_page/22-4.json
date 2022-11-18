@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "22-4",
+  "packageFiles" : [ {
+    "size" : "845.26 KB",
+    "name" : "aspose-page-22.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "13.97 MB",
+    "name" : "aspose-page-22.4.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-page-22.4.pom"
+  } ],
+  "releasehDate" : "2022-04-20T00:00:00+00:00",
+  "version" : "22.4",
+  "ReleaseNotes" : "https://docs.aspose.com/page/java/aspose-page-for-java-22-4-release-notes/"
+}

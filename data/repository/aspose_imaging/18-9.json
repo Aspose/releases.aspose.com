@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-imaging",
+  "id" : "18-9",
+  "packageFiles" : [ {
+    "size" : "6.81 MB",
+    "name" : "aspose-imaging-18.9-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "23.88 MB",
+    "name" : "aspose-imaging-18.9-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "450 bytes",
+    "name" : "aspose-imaging-18.9.pom"
+  } ],
+  "releasehDate" : "2018-09-26T00:00:00+00:00",
+  "version" : "18.9",
+  "ReleaseNotes" : "https://docs.aspose.com/imaging/java/aspose-imaging-for-java-18-9-release-notes/"
+}

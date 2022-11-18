@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-pdf",
+  "id" : "17-9",
+  "packageFiles" : [ {
+    "size" : "4.19 MB",
+    "name" : "aspose-pdf-17.9-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "43.30 MB",
+    "name" : "aspose-pdf-17.9.jar"
+  }, {
+    "size" : "451 bytes",
+    "name" : "aspose-pdf-17.9.pom"
+  } ],
+  "releasehDate" : "2017-10-02T00:00:00+00:00",
+  "version" : "17.9",
+  "ReleaseNotes" : "https://docs.aspose.com/pdf/java/aspose-pdf-for-java-17-9-release-notes/"
+}

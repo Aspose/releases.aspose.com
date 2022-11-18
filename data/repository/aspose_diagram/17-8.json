@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-diagram",
+  "id" : "17-8",
+  "packageFiles" : [ {
+    "size" : "808.80 KB",
+    "name" : "aspose-diagram-17.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "3.09 MB",
+    "name" : "aspose-diagram-17.8.jar"
+  }, {
+    "size" : "455 bytes",
+    "name" : "aspose-diagram-17.8.pom"
+  } ],
+  "releasehDate" : "2017-08-22T00:00:00+00:00",
+  "version" : "17.8",
+  "ReleaseNotes" : "https://docs.aspose.com/diagram/java/aspose-diagram-for-java-17-8-release-notes/"
+}

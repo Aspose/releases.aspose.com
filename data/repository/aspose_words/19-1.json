@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-words",
+  "id" : "19-1",
+  "packageFiles" : [ {
+    "size" : "2.36 MB",
+    "name" : "aspose-words-19.1-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "13.01 MB",
+    "name" : "aspose-words-19.1-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "448 bytes",
+    "name" : "aspose-words-19.1.pom"
+  } ],
+  "releasehDate" : "2019-01-04T00:00:00+00:00",
+  "version" : "19.1",
+  "ReleaseNotes" : "https://docs.aspose.com/words/java/aspose-words-for-java-19-1-release-notes/"
+}

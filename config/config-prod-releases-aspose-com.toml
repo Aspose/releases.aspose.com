@@ -98,13 +98,14 @@ defaultContentLang = 'en'
      dynamicmenuid = "aspose-en"
      faviconfolder = "aspose"
      contentsection = "com"
+     env = "production"
 
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-      
+
 [outputs]
   home= ["HTML", "JSON"]
 
@@ -119,4 +120,4 @@ URL = "s3://releases.aspose.com/?region=us-west-2"
 pattern = "^.+\\.(xml)$"
 contentType = "application/xml"
 gzip = true
-force = true      
+force = true

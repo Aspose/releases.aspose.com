@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-ocr",
+  "id" : "22-10",
+  "packageFiles" : [ {
+    "size" : "206 KB",
+    "name" : "aspose-ocr-22.10-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "159 MB",
+    "name" : "aspose-ocr-22.10.jar"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-ocr-22.10.pom"
+  } ],
+  "releasehDate" : "2022-11-02T09:24:08+00:00",
+  "version" : "22.10",
+  "ReleaseNotes" : "https://docs.aspose.com/ocr/java/aspose-ocr-for-java-22-10-release-notes/"
+}

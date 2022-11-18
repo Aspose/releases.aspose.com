@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "19-12",
+  "packageFiles" : [ {
+    "size" : "788.38 KB",
+    "name" : "aspose-page-19.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "11.12 MB",
+    "name" : "aspose-page-19.12.jar"
+  }, {
+    "size" : "394 bytes",
+    "name" : "aspose-page-19.12.pom"
+  } ],
+  "releasehDate" : "2019-12-18T00:00:00+00:00",
+  "version" : "19.12",
+  "ReleaseNotes" : "https://docs.aspose.com/page/java/aspose-page-for-java-19-12-release-notes/"
+}

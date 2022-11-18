@@ -1,7 +1,57 @@
 ---
-title: "Download Font Drawing & Processing JAR Files | Aspose.Font"
-description: "Download Java classes as JAR to render, process, & convert fonts (TTF, TTC, OpenType, CFF, Type1, etc.). Supports compact font, Latin font, symbols & glyphs."
-keywords: "font"
+title: Aspose.Font | Java Font Processing API | TT, CFF, OT, Type1
+linktitle: Aspose.Font
+description: Java class library for font (TTF, TTC, OpenType, CFF, Type1, etc.) rendering, processing, and conversion. Supports compact font, Latin font, symbols, & glyphs.
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+ - Aspose Total
+ - Aspose Font
+ - Aspose Java API
+ - font java library
+ - font java class
+ - TTF
+ - TTC
+ - OpenType
+ - CFF
+ - Type1
+ - postscript
+ - scalabale font
+ - true type
+ - compact font
+ - latin font
+ - symbols
+ - glyphs
+ - font rendering
+ - render text
+ - Windows
+ - Linux
+ - Mac
+ - J2SE
+ - Maven
+ - font converter
+ - font conversion
+ - WOFF
+ - WOFF2
+ - EOT
+ - TTF to WOFF
+ - TTF to WOFF2
+ - WOFF to TTF
+ - WOFF to WOFF2
+ - WOFF2 to TTF
+ - WOFF2 to WOFF
+ - EOT to TTF
+ - EOT to WOFF
+ - EOT to WOFF2
+ - Type1 to TFF
+ - Type1 to WOFF
+ - Type1 to WOFF2
+ - CFF to TTF
+ - CFF to WOFF
+ - CFF to WOFF2
+ - load font
 family_listing_page_title: "Aspose.Font for Java"
 family_listing_page_description: "Aspose.Font for Java is flexible and easy to use library to work with different font files. API supports multiple font formats like TrueType CFF, OpenType, and Type1."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-java.png"
@@ -10,51 +60,36 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "268"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/font/"
-tags: ['TTF-to-WOFF', 'TTF-to-WOFF2', 'WOFF-to-TTF', 'WOFF-to-WOFF2', 'WOFF2-to-TTF', '', 'WOFF2-to-WOFF', 'EOT-to-TTF', 'EOT-to-WOFF', 'EOT-to-WOFF2', 'Type1-to-TFF', 'Type1-to-WOFF', 'Type1-to-WOFF2', 'CFF-to-TTF', 'CFF-to-WOFF', 'CFF-to-WOFF2']
-weight:  2
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-font/"
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/font/41
+productLink: https://products.aspose.com/font/java/
+dataFolder: aspose_font
+packages_refs:
+- "22-10"
+- "22-9"
+- "22-7"
+- "22-6"
+- "20-10"
+- "21-10"
+- "21-12"
+- "21-4"
+- "21-8"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/font" linktext=" Support Forum " >}}
+# Java API for Various Font Formats
 
-{{< Common/h2 text="Download Aspose.Font to Draw and work with Fonts"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose hosts all Java APIs at the {{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. You can easily use the Aspose.Font for Java API directly in your Maven based projects by adding following configurations to your pom.xml. For the detailed instructions please visit {{< Common/link href="https://docs.aspose.com/font/java/installation/" text="Installing Aspose.Font for Java from Maven Repository"  >}} documentation page.
-{{< Common/release-notes-link family="font" product="java" href="https://docs.aspose.com/font/java/release-notes/" text="https://docs.aspose.com/font/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[![banner](./aspose_font-for-java-banner.png)](./)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Product Page](https://products.aspose.com/font/java) | [Docs](https://docs.aspose.com/font/java/) | [API Reference](https://apireference.aspose.com/font/java) | [Examples](https://github.com/aspose-font/Aspose.Font-for-Java) | [Blog](https://blog.aspose.com/category/font/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/font) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-font</artifactId>
-      <version>22.6</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
-
-[Product Page](https://products.aspose.com/font/java) | [Docs](https://docs.aspose.com/font/java/) | [API Reference](https://apireference.aspose.com/font/java) | [Examples](https://github.com/aspose-font/Aspose.Font-for-Java) | [Blog](https://blog.aspose.com/category/font/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/font) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-## Why download Aspose.Font for Java?
-
-Aspose.Font for Java is a font loading and drawing library. It supports multiple front formats such as TrueType (with TrueType collectons), CFF, OpenType, and Type1. The API provides rich functionality to load/save font and provide information about its data structures along with any glyph that is supported by all the font types. It also provides encoding information for all the font types which represents a mapping between character codes and glyph identifiers. Its rendering subsystem helps end-users to render any desired glyph or text. Special glyphs can be rendered by implementing interface using simple graphics functionality (move point, draw line, curve).
+[Aspose.Font for Java](https://products.aspose.com/font/java) is a font loading and drawing library. It supports multiple front formats such as TrueType (with TrueType collectons), CFF, OpenType, and Type1. The API provides rich functionality to load/save font and provide information about its data structures along with any glyph that is supported by all the font types. It also provides encoding information for all the font types which represents a mapping between character codes and glyph identifiers. Its rendering subsystem helps end-users to render any desired glyph or text. Special glyphs can be rendered by implementing interface using simple graphics functionality (move point, draw line, curve).
 
 ## Font API Features
 
-- Load font files from disc as well as stream.
+- [Load font files from disc](https://docs.aspose.com/font/java/loading-saving-cff-fonts/) as well as stream.
 - Read font information and save updated font files to disc.
-- Support for *`TrueType`* and *`OpenType`* Fonts.
+- Support for [*`TrueType`* and *`OpenType`*](https://docs.aspose.com/font/java/working-with-truetype-and-opentype-fonts/) Fonts.
 - Load `TrueType` Font types from locally stored files, update parameters and save.
 - Work with Glyphs and Metrics of `TrueType` Fonts.
 - Render text using `TrueType` and `Type1` font.
@@ -65,32 +100,54 @@ Aspose.Font for Java is a font loading and drawing library. It supports multiple
 
 For a more comprehensive list of features, please visit [Feature Overview](https://docs.aspose.com/font/java/feature-list/).
 
-### Read & Write Font Formats
+## Read & Write Font Formats
 
 TTF
 
-### Read Font Formats
+## Read Font Formats
 
 TTC, OpenType, CFF, Type1
 
-### Supported Environments
+## Supported Environments
 
-- **Microsoft Windows&reg;:** Windows Desktop & Server (x86, x64), Windows Azure
+- **Microsoft Windows:** Windows Desktop & Server (x86, x64), Windows Azure
 - **macOS:** Mac OS X
 - **Linux:** Ubuntu, CentOS, and others
 - **Java Versions:** `J2SE 8.0 (1.8)` or above.
 
-{{< Common/hr >}}
+## Get Started
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+Aspose.Font Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/font/). You can easily use Aspose.Font for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/) documentation page.
 
-{{< Common/hr >}}
+## Detect Latin Symbols Support in the Font using Java
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="font" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+```java
+// For complete examples and data files, please go to https://github.com/aspose-font/Aspose.Font-for-Java
+String fileName = Utils.getDataDir() + "Montserrat-Regular.ttf"; //Font file name with full path
+
+      FontDefinition fd = new FontDefinition(FontType.TTF, new FontFileDefinition("ttf", new FileSystemStreamSource(fileName)));
+      TtfFont ttfFont = (TtfFont) Font.open(fd);
+
+      boolean latinText = true;
+
+
+      for (int code = 65; code < 123; code++)
+      {
+          GlyphId gid = ttfFont.getEncoding().decodeToGid(code);
+          if (gid == null || gid == GlyphUInt32Id.getNotDef())
+          {
+              latinText = false;
+          }
+      }
+
+      if (latinText)
+      {
+          System.out.println(MessageFormat.format("Font {0} supports latin symbols.", ttfFont.getFontName()));
+      }
+      else
+      {
+      	System.out.println(MessageFormat.format("Latin symbols are not supported by font {0}.", ttfFont.getFontName()));
+      }
+```
+
+[Product Page](https://products.aspose.com/font/java) | [Docs](https://docs.aspose.com/font/java/) | [API Reference](https://apireference.aspose.com/font/java) | [Examples](https://github.com/aspose-font/Aspose.Font-for-Java) | [Blog](https://blog.aspose.com/category/font/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/font) | [Temporary License](https://purchase.aspose.com/temporary-license)

@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-pdf",
+  "id" : "18-2",
+  "packageFiles" : [ {
+    "size" : "4.30 MB",
+    "name" : "aspose-pdf-18.2-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "42.46 MB",
+    "name" : "aspose-pdf-18.2.jar"
+  }, {
+    "size" : "451 bytes",
+    "name" : "aspose-pdf-18.2.pom"
+  } ],
+  "releasehDate" : "2018-02-28T00:00:00+00:00",
+  "version" : "18.2",
+  "ReleaseNotes" : "https://docs.aspose.com/pdf/java/aspose-pdf-for-java-18-2-release-notes/"
+}

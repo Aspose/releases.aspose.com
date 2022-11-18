@@ -1,0 +1,32 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-slides",
+  "id" : "19-4",
+  "packageFiles" : [ {
+    "size" : "3.28 MB",
+    "name" : "aspose-slides-19.4-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
+    "size" : "26.43 MB",
+    "name" : "aspose-slides-19.4-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "1.16 KB",
+    "name" : "aspose-slides-19.4-android.via.java.pom"
+  }, {
+    "size" : "3.15 MB",
+    "name" : "aspose-slides-19.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "26.98 MB",
+    "name" : "aspose-slides-19.4-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "1.17 KB",
+    "name" : "aspose-slides-19.4.pom"
+  } ],
+  "releasehDate" : "2019-04-26T00:00:00+00:00",
+  "version" : "19.4",
+  "ReleaseNotes" : "https://docs.aspose.com/slides/java/aspose-slides-for-java-19-4-release-notes/"
+}

@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-ocr",
+  "id" : "17-2",
+  "packageFiles" : [ {
+    "size" : "323.44 KB",
+    "name" : "aspose-ocr-17.2-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "10.12 MB",
+    "name" : "aspose-ocr-17.2.jar"
+  }, {
+    "size" : "451 bytes",
+    "name" : "aspose-ocr-17.2.pom"
+  } ],
+  "releasehDate" : "2017-03-06T00:00:00+00:00",
+  "version" : "17.2",
+  "ReleaseNotes" : "https://docs.aspose.com/ocr/java/release-notes/"
+}

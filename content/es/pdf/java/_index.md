@@ -6,7 +6,7 @@ family_listing_page_title: "Aspose.PDF para Java"
 family_listing_page_description: "Aspose.PDF para Java es una API de creación de documentos PDF que permite que las aplicaciones Java lean, escriban y manipulen documentos PDF sin utilizar Adobe Acrobat. Admite trabajar con formatos de archivo PDF, XFA, TXT, HTML, PCL, XML, XPS y de imagen."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-java-min.png"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/pdf/"
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-pdf/"
 tags: ['PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-XLS', 'PDF-to-XLSX', 'PDF-to-PPTX', 'PDF-to-TIFF', 'PDF-to-SVG', 'PDF-to-EPUB', 'PDF-to-LaTeX', 'PDF-to-TeX', 'PDF-to-TXT', 'PDF-to-XPS', 'PDFA-to-PDF']
 weight:  2
 ---

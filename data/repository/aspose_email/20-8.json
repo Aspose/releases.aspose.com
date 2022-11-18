@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-email",
+  "id" : "20-8",
+  "packageFiles" : [ {
+    "size" : "4.38 MB",
+    "name" : "aspose-email-20.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "12.53 MB",
+    "name" : "aspose-email-20.8-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "1.72 KB",
+    "name" : "aspose-email-20.8.pom"
+  } ],
+  "releasehDate" : "2020-08-31T00:00:00+00:00",
+  "version" : "20.8",
+  "ReleaseNotes" : "https://docs.aspose.com/email/java/aspose-email-for-java-20-8-release-notes/"
+}

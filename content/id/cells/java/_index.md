@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "34"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/cells/"
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-cells/"
 tags: ['Aspose.Total', 'Aspose.Cells', 'Aspose-Java-API', 'spreadsheet-java-library', 'spreadsheet-java-class', 'Maven', 'XLS', 'XLSX', 'XLSB', 'XLSM', 'XLT', 'XLTX', 'XLTM', 'XLAM', 'CSV', 'TSV', 'TabDelimited', 'TXT', 'HTML', 'MHTML', 'ODS', 'SpreadsheetML', 'Numbers', 'JSON', 'DIF', 'PDF', 'XPS', 'SVG', 'TIFF', 'PNG', 'BMP', 'EMF', 'JPEG', 'GIF', 'Markdown', 'SXC', 'FODS', 'DOCX', 'PPTX', 'Windows', 'Linux', 'Mac', 'J2SE', 'print', 'rendering', 'spreadsheet', 'encryption', 'workbook', 'excel-to-XPS', 'worksheet-to-XPS', 'workbook-to-XPS', 'excel-to-HTML', 'excel-to-PDF', 'conversion', 'convert', 'PDFA', 'worksheet-to-image', 'worksheet-to-SVG', 'JSON-to-CSV', 'CSV-to-JSON', 'import']
 weight:  2
 ---

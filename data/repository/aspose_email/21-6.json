@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-email",
+  "id" : "21-6",
+  "packageFiles" : [ {
+    "size" : "4.40 MB",
+    "name" : "aspose-email-21.6-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "12.59 MB",
+    "name" : "aspose-email-21.6-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "1.72 KB",
+    "name" : "aspose-email-21.6.pom"
+  } ],
+  "releasehDate" : "2021-07-06T00:00:00+00:00",
+  "version" : "21.6",
+  "ReleaseNotes" : "https://docs.aspose.com/email/java/aspose-email-for-java-21-6-release-notes/"
+}

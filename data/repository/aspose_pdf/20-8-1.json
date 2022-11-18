@@ -1,0 +1,12 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-pdf",
+  "id" : "20-8-1",
+  "packageFiles" : [ {
+    "size" : "67.43 MB",
+    "name" : "aspose-pdf-20.8.1.jar"
+  } ],
+  "releasehDate" : "2020-09-14T00:00:00+00:00",
+  "version" : "20.8.1",
+  "ReleaseNotes" : "https://docs.aspose.com/pdf/java/release-notes/"
+}
