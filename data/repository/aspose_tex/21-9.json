@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-tex",
+  "id" : "21-9",
+  "packageFiles" : [ {
+    "size" : "275.85 KB",
+    "name" : "aspose-tex-21.9-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "18.97 MB",
+    "name" : "aspose-tex-21.9.jar"
+  }, {
+    "size" : "1.29 KB",
+    "name" : "aspose-tex-21.9.pom"
+  } ],
+  "releasehDate" : "2021-09-20T00:00:00+00:00",
+  "version" : "21.9",
+  "ReleaseNotes" : "https://docs.aspose.com/tex/java/aspose-tex-for-java-21-9-release-notes/"
+}

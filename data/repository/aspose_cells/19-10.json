@@ -1,0 +1,31 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cells",
+  "id" : "19-10",
+  "packageFiles" : [ {
+    "size" : "196.81 KB",
+    "name" : "aspose-cells-19.10-gridweb-javadoc.jar",
+    "classifier" : "gridweb-javadoc"
+  }, {
+    "size" : "109.16 KB",
+    "name" : "aspose-cells-19.10-gridweb-resources.jar",
+    "classifier" : "gridweb-resources"
+  }, {
+    "size" : "6.64 MB",
+    "name" : "aspose-cells-19.10-gridweb.jar",
+    "classifier" : "gridweb"
+  }, {
+    "size" : "1.86 MB",
+    "name" : "aspose-cells-19.10-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "7.04 MB",
+    "name" : "aspose-cells-19.10.jar"
+  }, {
+    "size" : "449 bytes",
+    "name" : "aspose-cells-19.10.pom"
+  } ],
+  "releasehDate" : "2019-10-21T00:00:00+00:00",
+  "version" : "19.10",
+  "ReleaseNotes" : "https://docs.aspose.com/cells/java/aspose-cells-for-java-19-10-release-notes/"
+}

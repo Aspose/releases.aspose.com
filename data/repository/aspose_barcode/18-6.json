@@ -1,0 +1,31 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-barcode",
+  "id" : "18-6",
+  "packageFiles" : [ {
+    "size" : "261.12 KB",
+    "name" : "aspose-barcode-18.6-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
+    "size" : "6.21 MB",
+    "name" : "aspose-barcode-18.6-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "281.59 KB",
+    "name" : "aspose-barcode-18.6-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "9.89 MB",
+    "name" : "aspose-barcode-18.6-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "9.89 MB",
+    "name" : "aspose-barcode-18.6.jar"
+  }, {
+    "size" : "452 bytes",
+    "name" : "aspose-barcode-18.6.pom"
+  } ],
+  "releasehDate" : "2018-06-26T00:00:00+00:00",
+  "version" : "18.6",
+  "ReleaseNotes" : "https://docs.aspose.com/barcode/java/aspose-barcode-for-java-18-6-release-notes/"
+}

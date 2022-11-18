@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "22-10",
+  "packageFiles" : [ {
+    "size" : "1 MB",
+    "name" : "aspose-page-22.10-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "14 MB",
+    "name" : "aspose-page-22.10.jar"
+  }, {
+    "size" : "394 bytes",
+    "name" : "aspose-page-22.10.pom"
+  } ],
+  "releasehDate" : "2022-10-28T07:37:41+00:00",
+  "version" : "22.10",
+  "ReleaseNotes" : "https://docs.aspose.com/page/java/aspose-page-for-java-22-10-release-notes/"
+}

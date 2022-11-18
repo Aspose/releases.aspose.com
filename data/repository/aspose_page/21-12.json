@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "21-12",
+  "packageFiles" : [ {
+    "size" : "815.14 KB",
+    "name" : "aspose-page-21.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "13.88 MB",
+    "name" : "aspose-page-21.12.jar"
+  }, {
+    "size" : "394 bytes",
+    "name" : "aspose-page-21.12.pom"
+  } ],
+  "releasehDate" : "2021-12-22T00:00:00+00:00",
+  "version" : "21.12",
+  "ReleaseNotes" : "https://docs.aspose.com/page/java/aspose-page-for-java-21-12-release-notes/"
+}

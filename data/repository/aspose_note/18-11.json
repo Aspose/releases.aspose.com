@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk17",
+  "artifactId" : "aspose-note",
+  "id" : "18-11",
+  "packageFiles" : [ {
+    "size" : "429.15 KB",
+    "name" : "aspose-note-18.11-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "11.77 MB",
+    "name" : "aspose-note-18.11-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "448 bytes",
+    "name" : "aspose-note-18.11.pom"
+  } ],
+  "releasehDate" : "2018-12-01T00:00:00+00:00",
+  "version" : "18.11",
+  "ReleaseNotes" : "https://docs.aspose.com/note/java/aspose-note-for-java-18-11-release-notes/"
+}

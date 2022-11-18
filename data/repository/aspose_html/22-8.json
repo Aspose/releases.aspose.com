@@ -1,0 +1,24 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-html",
+  "id" : "22-8",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-html-22.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "32 MB",
+    "name" : "aspose-html-22.8-jdk1.8.jar",
+    "classifier" : "jdk1.8"
+  }, {
+    "size" : "33 MB",
+    "name" : "aspose-html-22.8-jdk11.jar",
+    "classifier" : "jdk11"
+  }, {
+    "size" : "394 bytes",
+    "name" : "aspose-html-22.8.pom"
+  } ],
+  "releasehDate" : "2022-08-30T06:29:10+00:00",
+  "version" : "22.8",
+  "ReleaseNotes" : "https://docs.aspose.com/html/java/aspose-html-for-java-22-8-release-notes/"
+}

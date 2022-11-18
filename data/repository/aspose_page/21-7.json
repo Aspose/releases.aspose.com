@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "21-7",
+  "packageFiles" : [ {
+    "size" : "809.94 KB",
+    "name" : "aspose-page-21.7-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "13.81 MB",
+    "name" : "aspose-page-21.7.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-page-21.7.pom"
+  } ],
+  "releasehDate" : "2021-07-21T00:00:00+00:00",
+  "version" : "21.7",
+  "ReleaseNotes" : "https://docs.aspose.com/page/java/aspose-page-for-java-21-7-release-notes/"
+}

@@ -1,0 +1,23 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cells",
+  "id" : "18-3",
+  "packageFiles" : [ {
+    "size" : "6.12 MB",
+    "name" : "aspose-cells-18.3-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "1.51 MB",
+    "name" : "aspose-cells-18.3-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "6.58 MB",
+    "name" : "aspose-cells-18.3.jar"
+  }, {
+    "size" : "453 bytes",
+    "name" : "aspose-cells-18.3.pom"
+  } ],
+  "releasehDate" : "2018-03-19T00:00:00+00:00",
+  "version" : "18.3",
+  "ReleaseNotes" : "https://docs.aspose.com/cells/java/aspose-cells-for-java-18-3-release-notes/"
+}

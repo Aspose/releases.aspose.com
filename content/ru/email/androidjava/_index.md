@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "28"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/email/"
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-email/"
 weight: 4
 ---
 

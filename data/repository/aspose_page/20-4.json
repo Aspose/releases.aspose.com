@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "20-4",
+  "packageFiles" : [ {
+    "size" : "790.92 KB",
+    "name" : "aspose-page-20.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "11.13 MB",
+    "name" : "aspose-page-20.4.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-page-20.4.pom"
+  } ],
+  "releasehDate" : "2020-04-13T00:00:00+00:00",
+  "version" : "20.4",
+  "ReleaseNotes" : "https://docs.aspose.com/page/java/aspose-page-for-java-20-4-release-notes/"
+}

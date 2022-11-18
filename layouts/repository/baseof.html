@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html class="no-js" lang="{{ with $.Site.LanguageCode }}{{ . }}{{ else }}en-us{{ end }}">
+
+<head>
+  <meta charset="utf-8">
+  {{/* https://www.zachleat.com/web/preload/ */}}
+  <link rel="preload" href="{{ "/res_repo/fonts/muli-latin-200.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ "/res_repo/fonts/muli-latin-400.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ "/res_repo/fonts/muli-latin-800.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
+  <title>{{ block "title" . }}{{ with .Title }}{{ . }} {{ end }}{{ end }}</title>
+
+
+<meta name="description" content="{{ block "description" . }}{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ (substr .Summary 0 160)  }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}{{ end }}" />
+
+{{ block "keywords" . }}
+  {{ if .Keywords }}
+  <meta name="keywords" content="{{ delimit .Keywords ","  }}" />
+  {{ end }}
+{{ end }}
+
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+
+{{ if $.Param "author.display_name" }}
+  <meta name="author" content="{{ $.Param "author.display_name"  }}" />
+{{ end }}
+
+<link rel="canonical" href="{{ .Permalink }}" />
+
+  {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+  <meta name="robots" content="index, follow">
+  {{ else }}
+  <meta name="robots" content="noindex, nofollow">
+  {{ end }}
+
+  {{ range .AlternativeOutputFormats -}}
+  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+  {{ end -}}
+
+
+
+
+  {{ $isDev := eq hugo.Environment "development" }}
+  {{ $stylesheet := resources.Get "/res_repo/output/css/app.min.css"  }}
+  {{ if not $isDev }}
+  {{ $stylesheet = $stylesheet }}
+  {{ end }}
+  {{ with $stylesheet }}
+  {{ if $isDev }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" crossorigin="anonymous">
+  {{ else }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+  {{ end }}
+  {{ $.Scratch.Set "stylesheet" . }}
+  {{end}}
+
+  {{ block "scripts" . }}
+  {{- partial "repository/site-scripts.html" . -}}
+  {{ end }}
+  {{ partial "repository/site-manifest.html" . }}
+  {{ partial "repository/opengraph.html" . }}
+  {{partial "repository/schema.html" . }}
+  {{partial "repository/twitter_cards.html" . }}
+
+  {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+  {{ partial "repository/gtag" . }}
+  {{ end }}
+
+  {{/* Head script used for containerize.menu */}}
+  {{- partial "repository/head-additions.html" . -}}
+
+
+</head>
+
+<body class="ma0 sans-serif bg-primary-color-light{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+  {{ partial "repository/site-start-of-body.html" . }}
+ {{ block "nav" . }}{{ partial "repository/site-nav.html" . }}{{ end }}
+  {{ block "header" . }}{{ end }}
+  <main role="main" class="content-with-sidebar min-vh-100 pb7 pb0-ns">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+
+{{ partial "repository/site-end-of-body.html" . }}
+</body>
+
+</html>

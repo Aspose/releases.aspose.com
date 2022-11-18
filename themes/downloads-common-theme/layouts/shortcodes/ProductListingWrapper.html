@@ -4,11 +4,11 @@
         {{ $ParentPathMultilang := .Page.RelPermalink  }}
         {{ range (where ( where $.Site.Pages.ByWeight ".Section" $family ) ".Params.page_type" "!=" "single_release_page")  }}
                 {{ $SectionPath := .RelPermalink  }}
-                {{ $ParentPath := print "/" $family "/" }}  
-               
+                {{ $ParentPath := print "/" $family "/" }}
+
                 {{ if not (eq $SectionPath $ParentPathMultilang )}}
-                
-                        {{ if eq $family "corporate" }}    
+
+                        {{ if eq $family "corporate" }}
                             {{ if or ( (eq $SectionPath "/corporate/success-stories/")) ( eq $SectionPath "/corporate/brochures/") }}
                                 <div class="col-md-12">
                                     <div class="panel-body downloadfilebody">
@@ -25,6 +25,8 @@
                                 </div>
                             {{end}}
                         {{else}}
+                                {{ if and (eq .Params.type "repository") (eq .IsPage true) }}
+                                {{else}}
                                 {{ if not (eq .Params.hide_homepage "yes") }}
                                 <div class="col-md-12">
                                     <div class="panel-body downloadfilebody">
@@ -39,6 +41,7 @@
                                         </div>
                                     </div>
                                 </div>
+                                {{ end }}
                                 {{ end }}
                         {{ end }}
                 {{ end }}

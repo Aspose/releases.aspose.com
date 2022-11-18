@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "19"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/ocr/"
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-ocr/"
 tags: ['optical-character-recognition', 'OCR', 'recognize-text', 'recognize-image', 'spell-correction', 'spell-check', 'skew-correction', 'image-correction', 'recognize-pdf', 'recognize-tiff', 'searchable-pdf', 'searchable-docx', 'multi-lang-ocr', 'recognize-multi-image', 'multi-threading', 'image-detection', 'text-detection']
 weight:  2
 ---

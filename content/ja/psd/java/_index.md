@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "160"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/psd/"
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-psd/"
 tags: ['raw-data-processing', 'image-compression', 'psd-compression', 'image-rotation', 'flip-image', 'image-scale', 'cache-system', 'exif-data', 'dithering', 'crop', 'vector-to-raster', 'cubic-bézier', 'matrix-transformation', 'adjustment-layer', 'median-filter', 'wiener-filter', 'graphics', 'linked-layer', 'text-layer']
 weight:  2
 ---

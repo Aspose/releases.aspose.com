@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "169"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/page/"
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-page/"
 tags: ['J2SE', 'Maven', 'EPS-to-BMP', 'EPS-to-EMF', 'EPS-to-JPG', 'EPS-to-PDF', 'EPS-to-PNG', 'EPS-to-TIFF', 'EPS-to-WMF', 'postscript-to-BMP', 'postscript-to-JPG', 'postscript-to-PDF', 'postscript-to-PNG', 'postscript-to-TIFF', 'XPS-to-BMP', 'XPS-to-JPG', 'XPS-to-PDF', 'XPS-to-PNG', 'XPS-to-TIFF']
 weight:  2
 ---

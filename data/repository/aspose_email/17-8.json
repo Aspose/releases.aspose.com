@@ -1,0 +1,25 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-email",
+  "id" : "17-8",
+  "packageFiles" : [ {
+    "size" : "6.34 MB",
+    "name" : "aspose-email-17.8-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "3.68 MB",
+    "name" : "aspose-email-17.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "10.86 MB",
+    "name" : "aspose-email-17.8-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "1.29 KB",
+    "name" : "aspose-email-17.8.pom"
+  } ],
+  "releasehDate" : "2017-08-09T00:00:00+00:00",
+  "version" : "17.8",
+  "ReleaseNotes" : "https://docs.aspose.com/email/java/aspose-email-for-java-17-8-release-notes/"
+}

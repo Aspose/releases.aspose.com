@@ -1,0 +1,29 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk17",
+  "artifactId" : "aspose-words",
+  "id" : "22-11",
+  "packageFiles" : [ {
+    "size" : "3 MB",
+    "name" : "aspose-words-22.11-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "15 MB",
+    "name" : "aspose-words-22.11-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "15 MB",
+    "name" : "aspose-words-22.11-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "2 MB",
+    "name" : "aspose-words-22.11-shaping-harfbuzz-plugin.jar",
+    "classifier" : "shaping-harfbuzz-plugin"
+  }, {
+    "size" : "3 KB",
+    "name" : "aspose-words-22.11.pom"
+  } ],
+  "releasehDate" : "2022-11-16T10:08:21+00:00",
+  "version" : "22.11",
+  "ReleaseNotes" : "https://docs.aspose.com/words/java/aspose-words-for-java-22-11-release-notes/"
+}

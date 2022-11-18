@@ -1,0 +1,25 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-email",
+  "id" : "20-7",
+  "packageFiles" : [ {
+    "size" : "6.47 MB",
+    "name" : "aspose-email-20.7-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "4.56 MB",
+    "name" : "aspose-email-20.7-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "12.52 MB",
+    "name" : "aspose-email-20.7-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "1.72 KB",
+    "name" : "aspose-email-20.7.pom"
+  } ],
+  "releasehDate" : "2020-08-04T00:00:00+00:00",
+  "version" : "20.7",
+  "ReleaseNotes" : "https://docs.aspose.com/email/java/aspose-email-for-java-20-7-release-notes/"
+}

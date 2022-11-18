@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-imaging",
+  "id" : "18-7",
+  "packageFiles" : [ {
+    "size" : "6.80 MB",
+    "name" : "aspose-imaging-18.7-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "19.31 MB",
+    "name" : "aspose-imaging-18.7.jar"
+  }, {
+    "size" : "412 bytes",
+    "name" : "aspose-imaging-18.7.pom"
+  } ],
+  "releasehDate" : "2018-07-23T00:00:00+00:00",
+  "version" : "18.7",
+  "ReleaseNotes" : "https://docs.aspose.com/imaging/java/aspose-imaging-for-java-18-7-release-notes/"
+}

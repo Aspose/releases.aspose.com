@@ -1,0 +1,43 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cells",
+  "id" : "20-12",
+  "packageFiles" : [ {
+    "size" : "1.98 MB",
+    "name" : "aspose-cells-20.12-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
+    "size" : "1.17 MB",
+    "name" : "aspose-cells-20.12-android.via.java-resources.jar",
+    "classifier" : "android.via.java-resources"
+  }, {
+    "size" : "6.96 MB",
+    "name" : "aspose-cells-20.12-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "208.26 KB",
+    "name" : "aspose-cells-20.12-gridweb-javadoc.jar",
+    "classifier" : "gridweb-javadoc"
+  }, {
+    "size" : "111.80 KB",
+    "name" : "aspose-cells-20.12-gridweb-resources.jar",
+    "classifier" : "gridweb-resources"
+  }, {
+    "size" : "6.94 MB",
+    "name" : "aspose-cells-20.12-gridweb.jar",
+    "classifier" : "gridweb"
+  }, {
+    "size" : "1.98 MB",
+    "name" : "aspose-cells-20.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "7.50 MB",
+    "name" : "aspose-cells-20.12.jar"
+  }, {
+    "size" : "449 bytes",
+    "name" : "aspose-cells-20.12.pom"
+  } ],
+  "releasehDate" : "2020-12-18T00:00:00+00:00",
+  "version" : "20.12",
+  "ReleaseNotes" : "https://docs.aspose.com/cells/java/aspose-cells-for-java-20-12-release-notes/"
+}

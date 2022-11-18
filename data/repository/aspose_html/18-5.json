@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-html",
+  "id" : "18-5",
+  "packageFiles" : [ {
+    "size" : "3.02 MB",
+    "name" : "aspose-html-18.5-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "15.90 MB",
+    "name" : "aspose-html-18.5.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-html-18.5.pom"
+  } ],
+  "releasehDate" : "2018-06-01T00:00:00+00:00",
+  "version" : "18.5",
+  "ReleaseNotes" : "https://docs.aspose.com/html/java/aspose-html-for-java-18-5-release-notes/"
+}

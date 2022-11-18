@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk17",
+  "artifactId" : "aspose-tasks",
+  "id" : "22-8",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-tasks-22.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "12 MB",
+    "name" : "aspose-tasks-22.8-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "394 bytes",
+    "name" : "aspose-tasks-22.8.pom"
+  } ],
+  "releasehDate" : "2022-08-16T07:55:57+00:00",
+  "version" : "22.8",
+  "ReleaseNotes" : "https://docs.aspose.com/tasks/java/aspose-tasks-for-java-22-8-release-notes/"
+}

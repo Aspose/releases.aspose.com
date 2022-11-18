@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-font",
+  "id" : "21-4",
+  "packageFiles" : [ {
+    "size" : "533.25 KB",
+    "name" : "aspose-font-21.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "11.25 MB",
+    "name" : "aspose-font-21.4.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-font-21.4.pom"
+  } ],
+  "releasehDate" : "2021-04-20T00:00:00+00:00",
+  "version" : "21.4",
+  "ReleaseNotes" : "https://docs.aspose.com/font/java/aspose-font-for-java-21-4-release-notes/"
+}

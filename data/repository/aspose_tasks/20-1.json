@@ -1,0 +1,25 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk18",
+  "artifactId" : "aspose-tasks",
+  "id" : "20-1",
+  "packageFiles" : [ {
+    "size" : "1.87 MB",
+    "name" : "aspose-tasks-20.1-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "11.94 MB",
+    "name" : "aspose-tasks-20.1-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "11.94 MB",
+    "name" : "aspose-tasks-20.1-jdk18.jar",
+    "classifier" : "jdk18"
+  }, {
+    "size" : "448 bytes",
+    "name" : "aspose-tasks-20.1.pom"
+  } ],
+  "releasehDate" : "2020-01-31T00:00:00+00:00",
+  "version" : "20.1",
+  "ReleaseNotes" : "https://docs.aspose.com/tasks/java/aspose-tasks-for-java-20-1-release-notes/"
+}

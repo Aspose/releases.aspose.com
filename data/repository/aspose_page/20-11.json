@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "20-11",
+  "packageFiles" : [ {
+    "size" : "803.63 KB",
+    "name" : "aspose-page-20.11-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "11.15 MB",
+    "name" : "aspose-page-20.11.jar"
+  }, {
+    "size" : "394 bytes",
+    "name" : "aspose-page-20.11.pom"
+  } ],
+  "releasehDate" : "2020-11-12T00:00:00+00:00",
+  "version" : "20.11",
+  "ReleaseNotes" : "https://docs.aspose.com/page/java/aspose-page-for-java-20-11-release-notes/"
+}

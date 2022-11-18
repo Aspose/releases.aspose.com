@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "3"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/words/"
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-words/"
 tags: ['Word-to-PDF', 'DOC-to-PDF', 'DOCX-to-PDF', 'Word-to-Image', 'DOCX-to-JPG', 'DOC-to-PNG', 'Image-to-PDF', 'JPG-to-PDF', 'TIFF-to-PDF', 'HTML-to-Markdown', 'HTML-to-MD', 'DOCX-to-Markdown', 'DOCX-to-MD', 'Markdown-to-PDF', 'MD-to-PDF', 'HTML-to-PDF', 'MHT-to-PDF', 'MHTML-to-PDF', 'Word-to-HTML', 'Markdown-to-HTML', 'MD-to-HTML', 'Mobi-to-EPUB', 'RTF-to-PDF', 'ODT-to-PDF', 'TXT-to-PDF', 'Mobi-to-PDF', 'DOCX-to-DOC', 'HTML-to-Word']
 weight:  2
 ---

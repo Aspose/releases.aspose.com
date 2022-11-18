@@ -1,0 +1,39 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-barcode",
+  "id" : "22-3",
+  "packageFiles" : [ {
+    "size" : "440.81 KB",
+    "name" : "aspose-barcode-22.3-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
+    "size" : "6.76 MB",
+    "name" : "aspose-barcode-22.3-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "480.21 KB",
+    "name" : "aspose-barcode-22.3-control.android.via.java-javadoc.jar",
+    "classifier" : "control.android.via.java-javadoc"
+  }, {
+    "size" : "5.97 MB",
+    "name" : "aspose-barcode-22.3-control.android.via.java.aar",
+    "classifier" : "control.android.via.java.aar"
+  }, {
+    "size" : "469.14 KB",
+    "name" : "aspose-barcode-22.3-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "10.51 MB",
+    "name" : "aspose-barcode-22.3-jdk18.jar",
+    "classifier" : "jdk18"
+  }, {
+    "size" : "10.51 MB",
+    "name" : "aspose-barcode-22.3.jar"
+  }, {
+    "size" : "452 bytes",
+    "name" : "aspose-barcode-22.3.pom"
+  } ],
+  "releasehDate" : "2022-03-16T00:00:00+00:00",
+  "version" : "22.3",
+  "ReleaseNotes" : "https://docs.aspose.com/barcode/java/aspose-barcode-for-java-22-3-release-notes/"
+}

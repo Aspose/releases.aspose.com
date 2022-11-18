@@ -1,0 +1,13 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-total",
+  "id" : "22-9",
+  "packageFiles" : [ {
+    "size" : "5 KB",
+    "name" : "aspose-total-22.9.pom"
+  } ],
+  "type" : "pom",
+  "releasehDate" : "2022-10-12T06:09:57+00:00",
+  "version" : "22.9",
+  "ReleaseNotes" : "https://docs.aspose.com/total/java/aspose-total-for-java-22-9-release-notes/"
+}

@@ -1,0 +1,43 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cells",
+  "id" : "22-9",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-cells-22.9-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
+    "size" : "1 MB",
+    "name" : "aspose-cells-22.9-android.via.java-resources.jar",
+    "classifier" : "android.via.java-resources"
+  }, {
+    "size" : "7 MB",
+    "name" : "aspose-cells-22.9-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "214 KB",
+    "name" : "aspose-cells-22.9-gridweb-javadoc.jar",
+    "classifier" : "gridweb-javadoc"
+  }, {
+    "size" : "112 KB",
+    "name" : "aspose-cells-22.9-gridweb-resources.jar",
+    "classifier" : "gridweb-resources"
+  }, {
+    "size" : "7 MB",
+    "name" : "aspose-cells-22.9-gridweb.jar",
+    "classifier" : "gridweb"
+  }, {
+    "size" : "2 MB",
+    "name" : "aspose-cells-22.9-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "7 MB",
+    "name" : "aspose-cells-22.9.jar"
+  }, {
+    "size" : "388 bytes",
+    "name" : "aspose-cells-22.9.pom"
+  } ],
+  "releasehDate" : "2022-09-13T06:24:52+00:00",
+  "version" : "22.9",
+  "ReleaseNotes" : "https://docs.aspose.com/cells/java/aspose-cells-for-java-22-9-release-notes/"
+}

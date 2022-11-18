@@ -1,0 +1,39 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-barcode",
+  "id" : "19-8",
+  "packageFiles" : [ {
+    "size" : "341.25 KB",
+    "name" : "aspose-barcode-19.8-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
+    "size" : "6.62 MB",
+    "name" : "aspose-barcode-19.8-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "405.36 KB",
+    "name" : "aspose-barcode-19.8-control.android.via.java-javadoc.jar",
+    "classifier" : "control.android.via.java-javadoc"
+  }, {
+    "size" : "5.87 MB",
+    "name" : "aspose-barcode-19.8-control.android.via.java.aar",
+    "classifier" : "control.android.via.java.aar"
+  }, {
+    "size" : "364.30 KB",
+    "name" : "aspose-barcode-19.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "10.17 MB",
+    "name" : "aspose-barcode-19.8-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "10.17 MB",
+    "name" : "aspose-barcode-19.8.jar"
+  }, {
+    "size" : "452 bytes",
+    "name" : "aspose-barcode-19.8.pom"
+  } ],
+  "releasehDate" : "2019-08-08T00:00:00+00:00",
+  "version" : "19.8",
+  "ReleaseNotes" : "https://docs.aspose.com/barcode/java/aspose-barcode-for-java-19-8-release-notes/"
+}

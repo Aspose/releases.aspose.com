@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-diagram",
+  "id" : "22-2",
+  "packageFiles" : [ {
+    "size" : "843.63 KB",
+    "name" : "aspose-diagram-22.2-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "3.47 MB",
+    "name" : "aspose-diagram-22.2-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "450 bytes",
+    "name" : "aspose-diagram-22.2.pom"
+  } ],
+  "releasehDate" : "2022-02-11T00:00:00+00:00",
+  "version" : "22.2",
+  "ReleaseNotes" : "https://docs.aspose.com/diagram/java/aspose-diagram-for-java-22-2-release-notes/"
+}

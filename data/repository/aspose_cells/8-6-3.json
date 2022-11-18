@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cells",
+  "id" : "8-6-3",
+  "packageFiles" : [ {
+    "size" : "1.35 MB",
+    "name" : "aspose-cells-8.6.3-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "6.14 MB",
+    "name" : "aspose-cells-8.6.3.jar"
+  }, {
+    "size" : "454 bytes",
+    "name" : "aspose-cells-8.6.3.pom"
+  } ],
+  "releasehDate" : "2015-12-24T00:00:00+00:00",
+  "version" : "8.6.3",
+  "ReleaseNotes" : "https://docs.aspose.com/cells/java/release-notes/"
+}

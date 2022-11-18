@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-imaging",
+  "id" : "19-4",
+  "packageFiles" : [ {
+    "size" : "7.93 MB",
+    "name" : "aspose-imaging-19.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "24.76 MB",
+    "name" : "aspose-imaging-19.4-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "549 bytes",
+    "name" : "aspose-imaging-19.4.pom"
+  } ],
+  "releasehDate" : "2019-04-25T00:00:00+00:00",
+  "version" : "19.4",
+  "ReleaseNotes" : "https://docs.aspose.com/imaging/java/aspose-imaging-for-java-19-4-release-notes/"
+}

@@ -1,0 +1,32 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-slides",
+  "id" : "19-3",
+  "packageFiles" : [ {
+    "size" : "3.25 MB",
+    "name" : "aspose-slides-19.3-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
+    "size" : "26.40 MB",
+    "name" : "aspose-slides-19.3-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "1.16 KB",
+    "name" : "aspose-slides-19.3-android.via.java.pom"
+  }, {
+    "size" : "3.14 MB",
+    "name" : "aspose-slides-19.3-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "26.37 MB",
+    "name" : "aspose-slides-19.3-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "1.17 KB",
+    "name" : "aspose-slides-19.3.pom"
+  } ],
+  "releasehDate" : "2019-04-04T00:00:00+00:00",
+  "version" : "19.3",
+  "ReleaseNotes" : "https://docs.aspose.com/slides/java/aspose-slides-for-java-19-3-release-notes/"
+}

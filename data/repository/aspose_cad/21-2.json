@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cad",
+  "id" : "21-2",
+  "packageFiles" : [ {
+    "size" : "3.76 MB",
+    "name" : "aspose-cad-21.2-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "28.54 MB",
+    "name" : "aspose-cad-21.2.jar"
+  }, {
+    "size" : "446 bytes",
+    "name" : "aspose-cad-21.2.pom"
+  } ],
+  "releasehDate" : "2021-06-02T00:00:00+00:00",
+  "version" : "21.2",
+  "ReleaseNotes" : "https://docs.aspose.com/cad/java/aspose-cad-for-java-21-2-release-notes/"
+}

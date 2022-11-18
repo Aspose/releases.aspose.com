@@ -1,0 +1,31 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cells",
+  "id" : "20-5",
+  "packageFiles" : [ {
+    "size" : "199.71 KB",
+    "name" : "aspose-cells-20.5-gridweb-javadoc.jar",
+    "classifier" : "gridweb-javadoc"
+  }, {
+    "size" : "109.50 KB",
+    "name" : "aspose-cells-20.5-gridweb-resources.jar",
+    "classifier" : "gridweb-resources"
+  }, {
+    "size" : "6.77 MB",
+    "name" : "aspose-cells-20.5-gridweb.jar",
+    "classifier" : "gridweb"
+  }, {
+    "size" : "1.95 MB",
+    "name" : "aspose-cells-20.5-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "7.35 MB",
+    "name" : "aspose-cells-20.5.jar"
+  }, {
+    "size" : "448 bytes",
+    "name" : "aspose-cells-20.5.pom"
+  } ],
+  "releasehDate" : "2020-05-21T00:00:00+00:00",
+  "version" : "20.5",
+  "ReleaseNotes" : "https://docs.aspose.com/cells/java/aspose-cells-for-java-20-5-release-notes/"
+}

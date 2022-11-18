@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-slides",
+  "id" : "16-11-0",
+  "packageFiles" : [ {
+    "size" : "2.69 MB",
+    "name" : "aspose-slides-16.11.0-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "36.57 MB",
+    "name" : "aspose-slides-16.11.0.jar"
+  }, {
+    "size" : "1.35 KB",
+    "name" : "aspose-slides-16.11.0.pom"
+  } ],
+  "releasehDate" : "2016-11-30T00:00:00+00:00",
+  "version" : "16.11.0",
+  "ReleaseNotes" : "https://docs.aspose.com/slides/java/aspose-slides-for-java-16-11-0-release-notes/"
+}

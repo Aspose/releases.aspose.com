@@ -1,0 +1,15 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-ocr",
+  "id" : "3-4-0",
+  "packageFiles" : [ {
+    "size" : "9.74 MB",
+    "name" : "aspose-ocr-3.4.0.jar"
+  }, {
+    "size" : "452 bytes",
+    "name" : "aspose-ocr-3.4.0.pom"
+  } ],
+  "releasehDate" : "2016-04-20T00:00:00+00:00",
+  "version" : "3.4.0",
+  "ReleaseNotes" : "https://docs.aspose.com/ocr/java/aspose-ocr-for-java-3-4-0-release-notes/"
+}

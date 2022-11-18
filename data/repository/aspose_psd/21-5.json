@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-psd",
+  "id" : "21-5",
+  "packageFiles" : [ {
+    "size" : "3.83 MB",
+    "name" : "aspose-psd-21.5-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "23.86 MB",
+    "name" : "aspose-psd-21.5-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "1.32 KB",
+    "name" : "aspose-psd-21.5.pom"
+  } ],
+  "releasehDate" : "2021-05-28T00:00:00+00:00",
+  "version" : "21.5",
+  "ReleaseNotes" : "https://docs.aspose.com/psd/java/aspose-psd-for-java-21-5-release-notes/"
+}

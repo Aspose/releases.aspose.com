@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "20-8",
+  "packageFiles" : [ {
+    "size" : "791.14 KB",
+    "name" : "aspose-page-20.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "11.13 MB",
+    "name" : "aspose-page-20.8.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-page-20.8.pom"
+  } ],
+  "releasehDate" : "2020-08-07T00:00:00+00:00",
+  "version" : "20.8",
+  "ReleaseNotes" : "https://docs.aspose.com/page/java/aspose-page-for-java-20-8-release-notes/"
+}

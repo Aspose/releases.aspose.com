@@ -1,0 +1,31 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cells",
+  "id" : "21-8",
+  "packageFiles" : [ {
+    "size" : "210.36 KB",
+    "name" : "aspose-cells-21.8-gridweb-javadoc.jar",
+    "classifier" : "gridweb-javadoc"
+  }, {
+    "size" : "111.86 KB",
+    "name" : "aspose-cells-21.8-gridweb-resources.jar",
+    "classifier" : "gridweb-resources"
+  }, {
+    "size" : "7.28 MB",
+    "name" : "aspose-cells-21.8-gridweb.jar",
+    "classifier" : "gridweb"
+  }, {
+    "size" : "1.99 MB",
+    "name" : "aspose-cells-21.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "7.70 MB",
+    "name" : "aspose-cells-21.8.jar"
+  }, {
+    "size" : "448 bytes",
+    "name" : "aspose-cells-21.8.pom"
+  } ],
+  "releasehDate" : "2021-08-12T00:00:00+00:00",
+  "version" : "21.8",
+  "ReleaseNotes" : "https://docs.aspose.com/cells/java/aspose-cells-for-java-21-8-release-notes/"
+}

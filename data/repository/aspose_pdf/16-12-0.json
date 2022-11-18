@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-pdf",
+  "id" : "16-12-0",
+  "packageFiles" : [ {
+    "size" : "3.99 MB",
+    "name" : "aspose-pdf-16.12.0-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "37.02 MB",
+    "name" : "aspose-pdf-16.12.0.jar"
+  }, {
+    "size" : "454 bytes",
+    "name" : "aspose-pdf-16.12.0.pom"
+  } ],
+  "releasehDate" : "2016-12-27T00:00:00+00:00",
+  "version" : "16.12.0",
+  "ReleaseNotes" : "https://docs.aspose.com/pdf/java/aspose-pdf-for-java-16-12-0-release-notes/"
+}

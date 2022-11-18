@@ -1,0 +1,25 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk18",
+  "artifactId" : "aspose-tasks",
+  "id" : "22-10",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-tasks-22.10-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "15 MB",
+    "name" : "aspose-tasks-22.10-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "15 MB",
+    "name" : "aspose-tasks-22.10-jdk18.jar",
+    "classifier" : "jdk18"
+  }, {
+    "size" : "396 bytes",
+    "name" : "aspose-tasks-22.10.pom"
+  } ],
+  "releasehDate" : "2022-10-07T09:32:59+00:00",
+  "version" : "22.10",
+  "ReleaseNotes" : "https://docs.aspose.com/tasks/java/aspose-tasks-for-java-22-10-release-notes/"
+}

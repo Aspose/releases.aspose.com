@@ -1,0 +1,32 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-slides",
+  "id" : "20-1",
+  "packageFiles" : [ {
+    "size" : "3.34 MB",
+    "name" : "aspose-slides-20.1-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
+    "size" : "26.87 MB",
+    "name" : "aspose-slides-20.1-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "1.16 KB",
+    "name" : "aspose-slides-20.1-android.via.java.pom"
+  }, {
+    "size" : "3.21 MB",
+    "name" : "aspose-slides-20.1-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "27.38 MB",
+    "name" : "aspose-slides-20.1-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "1.17 KB",
+    "name" : "aspose-slides-20.1.pom"
+  } ],
+  "releasehDate" : "2020-01-21T00:00:00+00:00",
+  "version" : "20.1",
+  "ReleaseNotes" : "https://docs.aspose.com/slides/java/aspose-slides-for-java-20-1-release-notes/"
+}

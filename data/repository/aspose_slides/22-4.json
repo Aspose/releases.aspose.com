@@ -1,0 +1,32 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-slides",
+  "id" : "22-4",
+  "packageFiles" : [ {
+    "size" : "3.78 MB",
+    "name" : "aspose-slides-22.4-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
+    "size" : "32.21 MB",
+    "name" : "aspose-slides-22.4-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "1.16 KB",
+    "name" : "aspose-slides-22.4-android.via.java.pom"
+  }, {
+    "size" : "3.63 MB",
+    "name" : "aspose-slides-22.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "31.46 MB",
+    "name" : "aspose-slides-22.4-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "1.17 KB",
+    "name" : "aspose-slides-22.4.pom"
+  } ],
+  "releasehDate" : "2022-04-18T00:00:00+00:00",
+  "version" : "22.4",
+  "ReleaseNotes" : "https://docs.aspose.com/slides/java/aspose-slides-for-java-22-4-release-notes/"
+}

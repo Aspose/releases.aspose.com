@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "284"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/total/"
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-total/"
 weight:  2
 ---
 

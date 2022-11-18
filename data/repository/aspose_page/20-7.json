@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "20-7",
+  "packageFiles" : [ {
+    "size" : "791.24 KB",
+    "name" : "aspose-page-20.7-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "11.13 MB",
+    "name" : "aspose-page-20.7.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-page-20.7.pom"
+  } ],
+  "releasehDate" : "2020-07-21T00:00:00+00:00",
+  "version" : "20.7",
+  "ReleaseNotes" : "https://docs.aspose.com/page/java/aspose-page-for-java-20-7-release-notes/"
+}

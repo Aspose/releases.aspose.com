@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-tex",
+  "id" : "22-10",
+  "packageFiles" : [ {
+    "size" : "344 KB",
+    "name" : "aspose-tex-22.10-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "21 MB",
+    "name" : "aspose-tex-22.10.jar"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-tex-22.10.pom"
+  } ],
+  "releasehDate" : "2022-10-13T13:24:36+00:00",
+  "version" : "22.10",
+  "ReleaseNotes" : "https://docs.aspose.com/tex/java/aspose-tex-for-java-22-10-release-notes/"
+}

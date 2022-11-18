@@ -1,0 +1,32 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-slides",
+  "id" : "18-12",
+  "packageFiles" : [ {
+    "size" : "3.22 MB",
+    "name" : "aspose-slides-18.12-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
+    "size" : "26.22 MB",
+    "name" : "aspose-slides-18.12-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "1.16 KB",
+    "name" : "aspose-slides-18.12-android.via.java.pom"
+  }, {
+    "size" : "3.12 MB",
+    "name" : "aspose-slides-18.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "26.21 MB",
+    "name" : "aspose-slides-18.12-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "1.17 KB",
+    "name" : "aspose-slides-18.12.pom"
+  } ],
+  "releasehDate" : "2018-12-27T00:00:00+00:00",
+  "version" : "18.12",
+  "ReleaseNotes" : "https://docs.aspose.com/slides/java/aspose-slides-for-java-18-12-release-notes/"
+}

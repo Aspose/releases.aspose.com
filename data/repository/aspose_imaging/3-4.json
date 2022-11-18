@@ -1,0 +1,20 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-imaging",
+  "id" : "3-4",
+  "packageFiles" : [ {
+    "size" : "14.10 MB",
+    "name" : "aspose-imaging-3.4-java.jar",
+    "classifier" : "java"
+  }, {
+    "size" : "3.66 MB",
+    "name" : "aspose-imaging-3.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "454 bytes",
+    "name" : "aspose-imaging-3.4.pom"
+  } ],
+  "releasehDate" : "2016-04-13T00:00:00+00:00",
+  "version" : "3.4",
+  "ReleaseNotes" : "https://docs.aspose.com/imaging/java/release-notes/"
+}

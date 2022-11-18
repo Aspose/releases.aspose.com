@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-html",
+  "id" : "17-11-1",
+  "packageFiles" : [ {
+    "size" : "1.76 MB",
+    "name" : "aspose-html-17.11.1-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "17.18 MB",
+    "name" : "aspose-html-17.11.1.jar"
+  }, {
+    "size" : "455 bytes",
+    "name" : "aspose-html-17.11.1.pom"
+  } ],
+  "releasehDate" : "2017-12-19T00:00:00+00:00",
+  "version" : "17.11.1",
+  "ReleaseNotes" : "https://docs.aspose.com/html/java/release-notes/"
+}

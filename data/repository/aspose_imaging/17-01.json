@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-imaging",
+  "id" : "17-01",
+  "packageFiles" : [ {
+    "size" : "16.67 MB",
+    "name" : "aspose-imaging-17.01-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "16.10 MB",
+    "name" : "aspose-imaging-17.01-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "456 bytes",
+    "name" : "aspose-imaging-17.01.pom"
+  } ],
+  "releasehDate" : "2017-01-31T00:00:00+00:00",
+  "version" : "17.01",
+  "ReleaseNotes" : "https://docs.aspose.com/imaging/java/aspose-imaging-for-java-17-01-release-notes/"
+}

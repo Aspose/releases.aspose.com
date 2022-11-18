@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk17",
+  "artifactId" : "aspose-note",
+  "id" : "21-1",
+  "packageFiles" : [ {
+    "size" : "428.99 KB",
+    "name" : "aspose-note-21.1-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "10.25 MB",
+    "name" : "aspose-note-21.1-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "447 bytes",
+    "name" : "aspose-note-21.1.pom"
+  } ],
+  "releasehDate" : "2021-02-02T00:00:00+00:00",
+  "version" : "21.1",
+  "ReleaseNotes" : "https://docs.aspose.com/note/java/aspose-note-for-java-21-1-release-notes/"
+}

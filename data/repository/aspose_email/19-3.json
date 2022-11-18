@@ -1,0 +1,25 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-email",
+  "id" : "19-3",
+  "packageFiles" : [ {
+    "size" : "6.27 MB",
+    "name" : "aspose-email-19.3-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "3.97 MB",
+    "name" : "aspose-email-19.3-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "12.06 MB",
+    "name" : "aspose-email-19.3-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "1.10 KB",
+    "name" : "aspose-email-19.3.pom"
+  } ],
+  "releasehDate" : "2019-04-03T00:00:00+00:00",
+  "version" : "19.3",
+  "ReleaseNotes" : "https://docs.aspose.com/email/java/aspose-email-for-java-19-3-release-notes/"
+}

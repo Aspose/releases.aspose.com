@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-diagram",
+  "id" : "18-9",
+  "packageFiles" : [ {
+    "size" : "816.47 KB",
+    "name" : "aspose-diagram-18.9-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "3.12 MB",
+    "name" : "aspose-diagram-18.9-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "450 bytes",
+    "name" : "aspose-diagram-18.9.pom"
+  } ],
+  "releasehDate" : "2018-09-14T00:00:00+00:00",
+  "version" : "18.9",
+  "ReleaseNotes" : "https://docs.aspose.com/diagram/java/aspose-diagram-for-java-18-9-release-notes/"
+}

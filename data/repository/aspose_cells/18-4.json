@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cells",
+  "id" : "18-4",
+  "packageFiles" : [ {
+    "size" : "1.51 MB",
+    "name" : "aspose-cells-18.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "6.60 MB",
+    "name" : "aspose-cells-18.4.jar"
+  }, {
+    "size" : "448 bytes",
+    "name" : "aspose-cells-18.4.pom"
+  } ],
+  "releasehDate" : "2018-04-20T00:00:00+00:00",
+  "version" : "18.4",
+  "ReleaseNotes" : "https://docs.aspose.com/cells/java/aspose-cells-for-java-18-4-release-notes/"
+}
