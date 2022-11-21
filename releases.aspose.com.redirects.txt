@@ -58,3 +58,4 @@ rewrite /corporate/success-stories/aspose.total/case-study-for-generac---aspose.
 rewrite /corporate/success-stories/aspose.words/xpand-it-found-that-aspose.words-for-java-created-value-for-xporter-plugin-for-jira/709633465edd479bac1ca393a3c9d151/ https://releases.aspose.com/corporate/success-stories/aspose.words/xpand-it-found-that-aspose.words-for-java-created-value-for-xporter-plugin-for-jira/ permanent;
 rewrite /barcode/python/(.*) https://releases.aspose.com/barcode/python-java/$1 permanent;
 rewrite /words/java/new-releases/aspose.words-for-java-20.2-\(jdk1.6-only\)/ https://releases.aspose.com/words/java/new-releases/aspose.words-for-java-20.2-jdk1.6-only/ permanent;
+rewrite /barcode/jasperreports//aspose.barcode-for-jasperreports-22.10/ba6934072b2147342e4b68b9a13d7064-3-8057/ https:///barcode/jasperreports/aspose.barcode-for-jasperreports-22.10/ permanent;
