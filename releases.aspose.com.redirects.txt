@@ -59,3 +59,5 @@ rewrite /corporate/success-stories/aspose.words/xpand-it-found-that-aspose.words
 rewrite /barcode/python/(.*) https://releases.aspose.com/barcode/python-java/$1 permanent;
 rewrite /words/java/new-releases/aspose.words-for-java-20.2-\(jdk1.6-only\)/ https://releases.aspose.com/words/java/new-releases/aspose.words-for-java-20.2-jdk1.6-only/ permanent;
 rewrite /barcode/jasperreports//aspose.barcode-for-jasperreports-22.10/ba6934072b2147342e4b68b9a13d7064-3-8057/ https:///releases.aspose.com/barcode/jasperreports/aspose.barcode-for-jasperreports-22.10/ permanent;
+rewrite /slides/de/$ https://releases.aspose.com/de/slides/ permanent;
+
