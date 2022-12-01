@@ -28,3 +28,5 @@
   translation: "Новые релизы"
 - id: Product_Family
   translation: "Семейство продуктов"
+- id: Releases
+  translation: "Релизы"

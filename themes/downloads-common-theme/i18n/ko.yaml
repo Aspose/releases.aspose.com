@@ -28,3 +28,5 @@
   translation: "새로운 출시"
 - id: Product_Family
   translation: "제품군"
+- id: Releases
+  translation: "릴리스"

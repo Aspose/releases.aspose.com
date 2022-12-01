@@ -28,3 +28,5 @@
   translation: "Yeni sürümler"
 - id: Product_Family
   translation: "Ürün Ailesi"
+- id: Releases
+  translation: "Salıverme"

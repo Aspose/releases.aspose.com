@@ -28,3 +28,5 @@
   translation: "Keluaran terbaru"
 - id: Product_Family
   translation: "Keluarga Produk"
+- id: Releases
+  translation: "Rilis"

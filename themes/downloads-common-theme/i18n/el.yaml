@@ -28,3 +28,5 @@
   translation: "Νέες κυκλοφορίες"
 - id: Product_Family
   translation: "Οικογένεια προϊόντων"
+- id: Releases
+  translation: "Εκδόσεις"

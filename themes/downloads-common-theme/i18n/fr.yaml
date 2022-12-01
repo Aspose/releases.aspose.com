@@ -19,7 +19,7 @@
 - id: Show_More_Files
   translation: "Show more files"
 - id: File_Size
-  translation: "File Size"
+  translation: "Taille du fichier"
 - id: Browse_our_Products
   translation: "Browse our Products"
 - id: Direct_Download
@@ -28,3 +28,5 @@
   translation: "Nouvelles versions"
 - id: Product_Family
   translation: "Famille de produits"
+- id: Releases
+  translation: "Communiqués"

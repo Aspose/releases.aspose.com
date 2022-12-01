@@ -28,3 +28,5 @@
   translation: "New Releases"
 - id: Product_Family
   translation: "Product Family"
+- id: Releases
+  translation: "Releases"

@@ -28,3 +28,5 @@
   translation: "Nieuwe uitgaven"
 - id: Product_Family
   translation: "Productfamilie"
+- id: Releases
+  translation: "Freigaben"

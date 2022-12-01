@@ -28,3 +28,5 @@
   translation: "新版本"
 - id: Product_Family
   translation: "产品系列"
+- id: Releases
+  translation: "发布"
