@@ -1,8 +1,8 @@
 ---
-title: "API Grafik Vektor 2D di tempat | Aspose.Menggambar untuk .NET"
+title: "API Grafik Vektor 2D di tempat | Aspose.Menggambar Keluarga Produk"
 description: "Unduh DLL API gambar 2D yang identik dengan GDI+ untuk merender & mengonversi grafik vektor (garis, kurva, dan gambar) serta teks multi-gaya dalam .NET Apps."
 keywords: "2d drawing"
-family_listing_page_title: "Aspose.Menggambar untuk .NET"
+family_listing_page_title: "Aspose.Drawing Keluarga Produk"
 family_listing_page_description: "Unduh DLL API gambar 2D yang identik dengan GDI+ untuk merender & mengonversi grafik vektor (garis, kurva, dan gambar) serta teks multi-gaya dalam .NET Apps."
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/drawing/272x272/aspose_drawing-for-net.png"
 

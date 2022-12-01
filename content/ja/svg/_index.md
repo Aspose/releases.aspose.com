@@ -2,7 +2,7 @@
 title: "SVG パーサー & コンバーター .NET DLL をダウンロード | Aspose.SVG API"
 description: "C# クラス ライブラリを含む DLL をダウンロードして、SVG ベクター イメージ ファイルの作成、編集、レンダリング、および変換機能を API 経由で .NET アプリ内に統合します。"
 keywords: "SVG .NET API"
-family_listing_page_title: "Aspose.SVG for .NET"
+family_listing_page_title: "Aspose.SVG 製品ファミリー"
 family_listing_page_description: "Aspose.SVG for .NET API は、SVG ドキュメントの処理とレンダリングのための幅広い機能を提供するように設計されています。そのドキュメント オブジェクト モデル (DOM) は公式の SVG 仕様と完全に互換性があり、SVG ノードとそのプロパティを完全に制御できます。ドキュメント ツリーの変更、ノードの追加と削除、ノード プロパティの変更、フィルターとスクリプトの適用は、公式の仕様に記載されているとおりに簡単に行うことができます。この API を使用すると、SVG ドキュメントを PDF や一般的な画像形式 (BMP、PNG、JPEG、GIF など) に変換できます。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/svg/272x272/aspose_svg-for-net.png"
 family_listing_page_selfHosted: "1"

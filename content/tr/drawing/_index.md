@@ -1,8 +1,8 @@
 ---
-title: "Yerinde 2B Vektör Grafikleri API'sı | .NET için Aspose.Drawing"
+title: "Yerinde 2B Vektör Grafikleri API'sı | Aspose.Drawing Ürün Ailesi"
 description: "Vektör grafiklerini (çizgiler, eğriler ve şekiller) ve ayrıca .NET Apps içindeki çok stilli metni oluşturmak ve dönüştürmek için GDI+ ile aynı 2B çizim API'lerinin DLL dosyasını indirin."
 keywords: "2d drawing"
-family_listing_page_title: ".NET için Aspose.Drawing"
+family_listing_page_title: "Aspose.Drawing Ürün Ailesi"
 family_listing_page_description: "Vektör grafiklerini (çizgiler, eğriler ve şekiller) ve ayrıca .NET Apps içindeki çok stilli metni oluşturmak ve dönüştürmek için GDI+ ile aynı 2B çizim API'lerinin DLL dosyasını indirin."
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/drawing/272x272/aspose_drawing-for-net.png"
 

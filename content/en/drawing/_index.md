@@ -1,8 +1,8 @@
 ---
-title: "On-premise 2D Vector Graphics API | Aspose.Drawing for .NET"
+title: "On-premise 2D Vector Graphics API | Aspose.Drawing"
 description: "Download DLL of 2D drawing APIs identical to GDI+ to render & convert vector graphics (lines, curves, and figures) as well as multi-style text within .NET Apps."
 keywords: "2d drawing"
-family_listing_page_title: "Aspose.Drawing for .NET"
+family_listing_page_title: "Aspose.Drawing Product Family"
 family_listing_page_description: "Download DLL of 2D drawing APIs identical to GDI+ to render & convert vector graphics (lines, curves, and figures) as well as multi-style text within .NET Apps."
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/drawing/272x272/aspose_drawing-for-net.png"
 

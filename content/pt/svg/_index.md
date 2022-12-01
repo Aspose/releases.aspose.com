@@ -2,7 +2,7 @@
 title: "Baixar SVG Parser & Converter DLL .NET | API Aspose.SVG"
 description: "Baixe a DLL contendo a biblioteca de classes C# para integrar recursos de criação, edição, renderização e conversão de arquivos de imagem vetorial SVG em seus aplicativos .NET via API."
 keywords: "SVG .NET API"
-family_listing_page_title: "Aspose.SVG para .NET"
+family_listing_page_title: "Aspose.SVG Produto familiar"
 family_listing_page_description: "Aspose.SVG para .NET API foi projetado para fornecer uma ampla gama de recursos para processamento e renderização de documentos SVG. Seu Document Object Model (DOM) é totalmente compatível com as especificações oficiais do SVG, permitindo que você tenha controle total sobre os nós SVG e suas propriedades. Você pode facilmente modificar a árvore do documento, adicionar e remover nós, alterar as propriedades do nó, aplicar filtros e scripts conforme descrito nas especificações oficiais. A API permite converter seu documento SVG em PDF e formatos de imagem populares, como BMP, PNG, JPEG e GIF."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/svg/272x272/aspose_svg-for-net.png"
 family_listing_page_selfHosted: "1"

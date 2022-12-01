@@ -2,7 +2,7 @@
 title: "Unduh Pengurai & Konverter SVG .NET DLL | Aspose.SVG API"
 description: "Unduh DLL yang berisi pustaka kelas C# untuk mengintegrasikan fitur pembuatan, pengeditan, rendering & konversi file gambar vektor SVG dalam Aplikasi .NET Anda melalui API."
 keywords: "SVG .NET API"
-family_listing_page_title: "Aspose.SVG untuk .NET"
+family_listing_page_title: "Aspose.SVG Keluarga Produk"
 family_listing_page_description: "Aspose.SVG untuk .NET API telah dirancang untuk menyediakan berbagai fitur untuk pemrosesan dan rendering dokumen SVG. Ini Document Object Model (DOM) sepenuhnya kompatibel dengan spesifikasi SVG resmi, memungkinkan Anda untuk memiliki kontrol penuh atas node SVG dan propertinya. Anda dapat dengan mudah memodifikasi pohon dokumen, menambah dan menghapus node, mengubah properti node, menerapkan filter dan skrip seperti yang dijelaskan dalam spesifikasi resmi. API memungkinkan Anda mengonversi dokumen SVG Anda menjadi PDF dan format gambar populer seperti BMP, PNG, JPEG, dan GIF."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/svg/272x272/aspose_svg-for-net.png"
 family_listing_page_selfHosted: "1"

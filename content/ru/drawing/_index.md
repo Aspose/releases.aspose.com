@@ -1,8 +1,8 @@
 ---
-title: "Локальный API для 2D-векторной графики | Aspose.Drawing для .NET"
+title: "Локальный API для 2D-векторной графики | Aspose.Drawing Семейство продуктов"
 description: "Загрузите DLL API-интерфейсов для 2D-рисования, идентичных GDI+, для рендеринга и преобразования векторной графики (линий, кривых и фигур), а также текста в нескольких стилях в приложениях .NET."
 keywords: "2d drawing"
-family_listing_page_title: "Aspose.Drawing для .NET"
+family_listing_page_title: "Aspose.Drawing Семейство продуктов"
 family_listing_page_description: "Загрузите DLL API-интерфейсов для 2D-рисования, идентичных GDI+, для рендеринга и преобразования векторной графики (линий, кривых и фигур), а также текста в нескольких стилях в приложениях .NET."
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/drawing/272x272/aspose_drawing-for-net.png"
 

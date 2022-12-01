@@ -1,8 +1,8 @@
 ---
-title: "On-premise 2D Vector Graphics API | Aspose.Σχέδιο για .NET"
+title: "On-premise 2D Vector Graphics API | Aspose.Drawing Οικογένεια προϊόντων"
 description: "Κατεβάστε το DLL των API δισδιάστατων σχεδίων που είναι πανομοιότυπα με το GDI+ για απόδοση και μετατροπή διανυσματικών γραφικών (γραμμές, καμπύλες και σχήματα) καθώς και κείμενο πολλαπλών στυλ εντός των εφαρμογών .NET."
 keywords: "2d drawing"
-family_listing_page_title: "Aspose.Σχέδιο για .NET"
+family_listing_page_title: "Aspose.Drawing Οικογένεια προϊόντων"
 family_listing_page_description: "Κατεβάστε το DLL των API δισδιάστατων σχεδίων που είναι πανομοιότυπα με το GDI+ για απόδοση και μετατροπή διανυσματικών γραφικών (γραμμές, καμπύλες και σχήματα) καθώς και κείμενο πολλαπλών στυλ εντός των εφαρμογών .NET."
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/drawing/272x272/aspose_drawing-for-net.png"
 

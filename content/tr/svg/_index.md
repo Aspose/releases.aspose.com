@@ -2,7 +2,7 @@
 title: "SVG Ayrıştırıcı ve Dönüştürücü .NET DLL dosyasını indirin | Aspose.SVG API'si"
 description: "API aracılığıyla .NET Uygulamalarınız içinde SVG vektör görüntü dosyası oluşturma, düzenleme, oluşturma ve dönüştürme özelliklerini entegre etmek için C# sınıf kitaplığını içeren DLL'yi indirin."
 keywords: "SVG .NET API"
-family_listing_page_title: ".NET için Aspose.SVG"
+family_listing_page_title: "Aspose.SVG Ürün Ailesi"
 family_listing_page_description: "Aspose.SVG for .NET API, SVG belgelerinin işlenmesi ve oluşturulması için çok çeşitli özellikler sağlamak üzere tasarlanmıştır. Belge Nesne Modeli (DOM), resmi SVG spesifikasyonlarıyla tamamen uyumludur ve SVG düğümleri ve özellikleri üzerinde tam kontrole sahip olmanızı sağlar. Belge ağacını kolayca değiştirebilir, düğüm ekleyip çıkarabilir, düğüm özelliklerini değiştirebilir, resmi özelliklerde açıklandığı gibi filtreler ve komut dosyaları uygulayabilirsiniz. API, SVG belgenizi PDF'ye ve BMP, PNG, JPEG ve GIF gibi popüler görüntü biçimlerine dönüştürmenize olanak tanır."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/svg/272x272/aspose_svg-for-net.png"
 family_listing_page_selfHosted: "1"

@@ -2,7 +2,7 @@
 title: "下载 SVG 解析器和转换器 .NET DLL | Aspose.SVG API"
 description: "下载包含 C# 类库的 DLL，以通过 API 在您的 .NET 应用程序中集成 SVG 矢量图像文件的创建、编辑、渲染和转换功能。"
 keywords: "SVG .NET API"
-family_listing_page_title: "Aspose.SVG for .NET"
+family_listing_page_title: "Aspose.SVG 产品系列"
 family_listing_page_description: "Aspose.SVG for .NET API 旨在为处理和呈现 SVG 文档提供广泛的功能。它的文档对象模型 (DOM) 与官方 SVG 规范完全兼容，使您能够完全控制 SVG 节点及其属性。您可以轻松地修改文档树、添加和删除节点、更改节点属性、应用过滤器和脚本，如官方规范中所述。该 API 可让您将 SVG 文档转换为 PDF 和流行的图像格式，例如 BMP、PNG、JPEG 和 GIF。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/svg/272x272/aspose_svg-for-net.png"
 family_listing_page_selfHosted: "1"

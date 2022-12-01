@@ -1,8 +1,8 @@
 ---
-title: "オンプレミス 2D ベクター グラフィックス API | Aspose.Drawing for .NET"
+title: "オンプレミス 2D ベクター グラフィックス API | Aspose.Drawing for 製品ファミリー"
 description: "GDI+ と同じ 2D 描画 API の DLL をダウンロードして、ベクター グラフィックス (線、曲線、図形) や .NET アプリ内のマルチスタイル テキストをレンダリングおよび変換します。"
 keywords: "2d drawing"
-family_listing_page_title: "Aspose.Drawing for .NET"
+family_listing_page_title: "Aspose.Drawing 製品ファミリー"
 family_listing_page_description: "GDI+ と同じ 2D 描画 API の DLL をダウンロードして、ベクター グラフィックス (線、曲線、図形) や .NET アプリ内のマルチスタイル テキストをレンダリングおよび変換します。"
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/drawing/272x272/aspose_drawing-for-net.png"
 

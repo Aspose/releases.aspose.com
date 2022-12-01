@@ -1,8 +1,8 @@
 ---
-title: "On-Premise-API für 2D-Vektorgrafiken | Aspose.Drawing für .NET"
+title: "On-Premise-API für 2D-Vektorgrafiken | Aspose.Drawing Productfamilie"
 description: "Laden Sie eine DLL mit 2D-Zeichnungs-APIs herunter, die mit GDI+ identisch sind, um Vektorgrafiken (Linien, Kurven und Figuren) sowie Text mit mehreren Stilen in .NET-Apps zu rendern und zu konvertieren."
 keywords: "2d drawing"
-family_listing_page_title: "Aspose.Drawing für .NET"
+family_listing_page_title: "Aspose.Drawing Productfamilie"
 family_listing_page_description: "Laden Sie eine DLL mit 2D-Zeichnungs-APIs herunter, die mit GDI+ identisch sind, um Vektorgrafiken (Linien, Kurven und Figuren) sowie Text mit mehreren Stilen in .NET-Apps zu rendern und zu konvertieren."
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/drawing/272x272/aspose_drawing-for-net.png"
 

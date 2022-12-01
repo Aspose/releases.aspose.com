@@ -1,8 +1,8 @@
 ---
-title: "API de gráficos vectoriales 2D local | Aspose.Dibujo para .NET"
+title: "API de gráficos vectoriales 2D local | Aspose.Dibujo Familia de productos"
 description: "Descargue DLL de API de dibujo 2D idénticas a GDI+ para renderizar y convertir gráficos vectoriales (líneas, curvas y figuras), así como texto de varios estilos dentro de las aplicaciones .NET."
 keywords: "2d drawing"
-family_listing_page_title: "Aspose.Dibujo para .NET"
+family_listing_page_title: "Aspose.Dibujo Familia de productos"
 family_listing_page_description: "Descargue DLL de API de dibujo 2D idénticas a GDI+ para renderizar y convertir gráficos vectoriales (líneas, curvas y figuras), así como texto de varios estilos dentro de las aplicaciones .NET."
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/drawing/272x272/aspose_drawing-for-net.png"
 

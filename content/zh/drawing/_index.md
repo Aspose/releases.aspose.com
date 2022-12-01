@@ -1,8 +1,8 @@
 ---
-title: "本地 2D 矢量图形 API | Aspose.Drawing for .NET"
+title: "本地 2D 矢量图形 API | Aspose.Drawing 产品系列"
 description: "下载与 GDI+ 相同的 2D 绘图 API 的 DLL，以在 .NET 应用程序中渲染和转换矢量图（直线、曲线和图形）以及多样式文本。"
 keywords: "2d drawing"
-family_listing_page_title: "Aspose.Drawing for .NET"
+family_listing_page_title: "Aspose.Drawing 产品系列"
 family_listing_page_description: "下载与 GDI+ 相同的 2D 绘图 API 的 DLL，以在 .NET 应用程序中渲染和转换矢量图（直线、曲线和图形）以及多样式文本。"
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/drawing/272x272/aspose_drawing-for-net.png"
 
