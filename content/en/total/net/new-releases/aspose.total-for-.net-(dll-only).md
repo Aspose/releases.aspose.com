@@ -9,8 +9,8 @@ download_link: " /total/net/new-releases/aspose.total-for-.net-(dll-only)/7af12c
 download_text: " Download"
 Intro_text: " Aspose.Total for .NET contains most recent version of all .NET products."
 image_link: "/resources/img/zip-icon.png"
-download_count: "   Added: 03/10/2022  Downloads: 10988  Views: 29629"
-file_size: "  File Size: 1.1 GB "
+download_count: "   Added: 01/12/2022  Downloads: 10988  Views: 29629"
+file_size: "  File Size: 1.5 GB "
 parent_path: "total/net"
 section_parent_path: "total/net"
 weight: 1
@@ -28,13 +28,13 @@ weight: 1
             {{< Common/li  >}} Downloads: {{< /Common/li >}} 
       {{< Common/li class="downloadcount" id="dwn-update-7af12cd208ae4ea6b40f232c663550a8" >}} 10988 {{< /Common/li >}} 
       {{< Common/li  >}} File Size: {{< /Common/li >}} 
-      {{< Common/li id="size-update-7af12cd208ae4ea6b40f232c663550a8" >}} 1.1 GB {{< /Common/li >}} 
+      {{< Common/li id="size-update-7af12cd208ae4ea6b40f232c663550a8" >}} 1.5 GB {{< /Common/li >}} 
       {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
       {{< Common/li class="hide" id="author-update-7af12cd208ae4ea6b40f232c663550a8" >}} aspose.total {{< /Common/li >}} 
       {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
       {{< Common/li class="hide" id="view-update-7af12cd208ae4ea6b40f232c663550a8" >}} 29630 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
-      {{< Common/li id="added-update-7af12cd208ae4ea6b40f232c663550a8" >}} : 03/10/2022 {{< /Common/li >}} 
+      {{< Common/li id="added-update-7af12cd208ae4ea6b40f232c663550a8" >}} : 01/12/2022 {{< /Common/li >}} 
       {{< Common/li  >}} SHA1: {{< /Common/li >}} 
       {{< Common/li id="sha1-update-7af12cd208ae4ea6b40f232c663550a8" >}} aff723f2c0398ed18e08f997b4b258bd12c437d1: {{< /Common/li >}} 
       {{< Common/li  >}} MD5: {{< /Common/li >}} 

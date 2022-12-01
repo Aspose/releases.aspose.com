@@ -9,7 +9,7 @@ download_link: " /total/cpp/new-releases/aspose.total-for-c--/534b1980fd16471680
 download_text: " Download"
 Intro_text: " Aspose.Total for C++ contains most recent version of all C++ products."
 image_link: "/resources/img/zip-icon.png"
-download_count: "   28/10/2022  Downloads: 915  Views: 1609"
+download_count: "   01/12/2022  Downloads: 915  Views: 1609"
 file_size: "  File Size: 1.6 GB "
 parent_path: "total/cpp"
 section_parent_path: "total/cpp"
@@ -34,7 +34,7 @@ weight: 1
       {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
       {{< Common/li class="hide" id="view-update-534b1980fd16471680bac6f7c9445eff" >}} 1610 {{< /Common/li >}} 
       {{< Common/li  >}} Date Added: {{< /Common/li >}} 
-      {{< Common/li id="added-update-534b1980fd16471680bac6f7c9445eff" >}} 28/10/2022 {{< /Common/li >}} 
+      {{< Common/li id="added-update-534b1980fd16471680bac6f7c9445eff" >}} 01/12/2022 {{< /Common/li >}} 
       {{< Common/li  >}} SHA1: {{< /Common/li >}} 
       {{< Common/li id="sha1-update-534b1980fd16471680bac6f7c9445eff" >}} 2b8d5aef0af6344d58c85909382700f71d3bcc05: {{< /Common/li >}} 
       {{< Common/li  >}} MD5: {{< /Common/li >}} 
