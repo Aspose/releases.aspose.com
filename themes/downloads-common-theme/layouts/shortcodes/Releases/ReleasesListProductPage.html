@@ -32,7 +32,7 @@
                   {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
                   {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                   {{with $added_date}}
-                  <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                  <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                   {{end}}
                   <span class="glyphicon glyphicon-save leftme five5" aria-hidden="true"></span> {{ i18n "Downloads" }}: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                   <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
@@ -68,7 +68,7 @@
                           {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
                           {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                           {{with $added_date}}
-                          <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                          <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                           {{end}}
                           <span class="glyphicon glyphicon-save leftme six6" aria-hidden="true"></span> {{ i18n "Downloads" }}: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                           <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
@@ -105,7 +105,7 @@
                         {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
                         {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                         {{with $added_date}}
-                        <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                        <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                         {{end}}
                         <span class="glyphicon glyphicon-save leftme one1" aria-hidden="true"></span> {{ i18n "Downloads" }}: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                         <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
@@ -146,7 +146,7 @@
                 {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
                 {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                 {{with $added_date}}
-                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                 {{end}}
                 <span class="glyphicon glyphicon-save leftme two1" aria-hidden="true"></span> {{ i18n "Downloads" }}: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                 <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
@@ -182,7 +182,7 @@
                           {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
                           {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                           {{with $added_date}}
-                          <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                          <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                           {{end}}
                           <span class="glyphicon glyphicon-save leftme three3" aria-hidden="true"></span> {{ i18n "Downloads" }}: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                           <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
@@ -221,7 +221,7 @@
                 {{ $dwn_count := (findRE `Downloads:\s(\d+)` $download_countddd 1 ) }}
                 {{ $view_count := (findRE `Views:\s(\d+)` $download_countddd 1 ) }}
                 {{with $added_date}}
-                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}">{{ index $added_date 0 }}</span>
+                <span class="glyphicon glyphicon-time" aria-hidden="true"></span> {{ i18n "Added" }}: <span id="added-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                 {{end}}
                 <span class="glyphicon glyphicon-save leftme four4" aria-hidden="true"></span> {{ i18n "Downloads" }}: <span id="dwn-update-{{ $lastUrlElement }}"><img style="width: 22px;" src="/images/loading.svg"></span>
                 <!--<span class="glyphicon glyphicon-eye-open leftme" aria-hidden="true"></span> Views: <span id="view-update-{{ $lastUrlElement }}">{{ index $view_count 0 }}</span>-->
@@ -264,7 +264,7 @@
             //console.log(key + " Dwn Count " + value.download_count);
             $("#dwn-update-"+ key).text(value.download_count);
            // $("#view-update-"+ key).text(value.view_count);
-            //$("#added-update-"+ key).text(value.date_added);
+            $("#added-update-"+ key).text(value.date_added);
             
         });
   });
