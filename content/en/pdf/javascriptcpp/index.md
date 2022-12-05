@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "280"
 homepage_package_type: ""
 homepage_package_link: "https://products.aspose.com/javascript-cpp/release-latest.zip"
-weight:  9
+weight:  11
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/pdf" linktext=" Support Forum " >}}
@@ -42,8 +42,8 @@ The **Aspose.PDF for JavaScript via C++**  supports a wide variety of functions 
 
 ## Conversion Features
 
-1. Convert PDF to jpg-images
-1. Convert PDF to png-images
+1. Convert PDF to JPEG images
+1. Convert PDF to PNG images
 
 ## System Requirements
 
