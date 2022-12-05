@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-imaging",
+  "id" : "22-12",
+  "packageFiles" : [ {
+    "size" : "7 MB",
+    "name" : "aspose-imaging-22.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "28 MB",
+    "name" : "aspose-imaging-22.12-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "550 bytes",
+    "name" : "aspose-imaging-22.12.pom"
+  } ],
+  "releasehDate" : "2022-12-05T13:31:14+00:00",
+  "version" : "22.12",
+  "ReleaseNotes" : "https://docs.aspose.com/imaging/java/aspose-imaging-for-java-22-12-release-notes/"
+}
