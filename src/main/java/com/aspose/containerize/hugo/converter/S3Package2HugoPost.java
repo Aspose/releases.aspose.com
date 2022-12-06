@@ -460,7 +460,8 @@ public class S3Package2HugoPost {
                     // push to remote:
                     PushCommand pushCommand = result.push();
                     
-                    pushCommand.setCredentialsProvider(new UsernamePasswordCredentialsProvider("aspose-repo", "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"));
+                    
+                    pushCommand.setCredentialsProvider(new UsernamePasswordCredentialsProvider("aspose-repo", System.getenv("ASPOSE_REPO_CI")));
                     
                     pushCommand.call();
                     
