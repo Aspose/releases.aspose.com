@@ -36,6 +36,8 @@ jobs:
           distribution: 'adopt'
 
       - name: Build
+        env:
+          ASPOSE_REPO_CI: ${{ secrets.ASPOSE_REPO_CI }}
         run: mvn --batch-mode -DskipTests package
 
       - name: Run
@@ -44,3 +46,4 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
           AWS_REGION: "us-west-2"
+          ASPOSE_REPO_CI: ${{ secrets.ASPOSE_REPO_CI }}
