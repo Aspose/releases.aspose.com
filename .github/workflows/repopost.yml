@@ -1,0 +1,46 @@
+name: Workflow to add java release post page
+on:
+  workflow_dispatch:
+    inputs:
+      ventureName:
+        description: 'ventureName'
+        required: true
+        default: 'aspose'
+      productId:
+        description: 'productId'
+        required: true
+        default: 'total'
+      productVersion:
+        description: 'productVersion'
+        required: true
+        default: '22.5.2'
+      repoBranch:
+        description: 'repoBranch'
+        required: true
+        default: 'test'
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: repo
+
+      - name: Set up JDK 1.11
+        uses: actions/setup-java@v2
+        with:
+          java-version: '11'
+          distribution: 'adopt'
+
+      - name: Build
+        run: mvn --batch-mode -DskipTests package
+
+      - name: Run
+        run: mvn --batch-mode -DskipTests exec:java -Dexec.args="${{ github.event.inputs.ventureName}} ${{ github.event.inputs.productId}} ${{ github.event.inputs.productVersion}} ${{ github.event.inputs.repoBranch}}"
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+          AWS_REGION: "us-west-2"
