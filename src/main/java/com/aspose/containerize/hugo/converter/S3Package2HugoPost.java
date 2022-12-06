@@ -332,7 +332,7 @@ public class S3Package2HugoPost {
             // then clone
             try (Git result = Git.cloneRepository()
                       .setURI(REMOTE_URL)
-                      .setCredentialsProvider(new UsernamePasswordCredentialsProvider("aspose-repo", "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"))
+                      .setCredentialsProvider(new UsernamePasswordCredentialsProvider("aspose-repo", System.getenv("ASPOSE_REPO_CI")))
                       .setDirectory(localPath)
                       .setBranch(repoBranch)
                       .call()) {
