@@ -1,0 +1,141 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.aspose</groupId>
+	<artifactId>containerize.hugo.s3toHugoPostConverterAsposeMerger</artifactId>
+	<packaging>jar</packaging>
+	<version>1.0</version>
+	<name>s3toHugoPostConverter for Containerize.Releases Java (Aspose)</name>
+
+
+	<properties>
+  	<mainClass>com.aspose.containerize.hugo.converter.S3Package2HugoPost</mainClass>
+  	  <cleanupDaemonThreads>false</cleanupDaemonThreads>
+     <maven.compiler.source>1.8</maven.compiler.source>
+     <maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
+
+
+<dependencies>
+
+
+	<dependency>
+		<groupId>org.apache.commons</groupId>
+		<artifactId>commons-lang3</artifactId>
+		<version>3.9</version>
+	</dependency>
+
+	<dependency>
+        <groupId>com.fasterxml.jackson.core</groupId>
+         <artifactId>jackson-core</artifactId>
+        <version>2.9.8</version>
+    </dependency>
+
+    <dependency>
+        <groupId>com.fasterxml.jackson.core</groupId>
+        <artifactId>jackson-databind</artifactId>
+        <version>2.9.8</version>
+    </dependency>
+
+     <dependency>
+        <groupId>com.fasterxml.jackson.dataformat</groupId>
+        <artifactId>jackson-dataformat-yaml</artifactId>
+        <version>2.9.8</version>
+    </dependency>
+
+
+    <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
+	<dependency>
+		<groupId>commons-io</groupId>
+		<artifactId>commons-io</artifactId>
+		<version>2.11.0</version>
+	</dependency>
+
+
+    <!-- https://mvnrepository.com/artifact/org.jsoup/jsoup -->
+	<dependency>
+		<groupId>org.jsoup</groupId>
+		<artifactId>jsoup</artifactId>
+		<version>1.14.3</version>
+	</dependency>
+
+ <!-- https://mvnrepository.com/artifact/org.freemarker/freemarker -->
+	<dependency>
+		<groupId>org.freemarker</groupId>
+		<artifactId>freemarker</artifactId>
+		<version>2.3.31</version>
+	</dependency>
+
+
+    <dependency>
+            <groupId>software.amazon.awssdk</groupId>
+            <artifactId>s3</artifactId>
+            <version>2.17.136</version>
+        </dependency>
+        <dependency>
+            <groupId>software.amazon.awssdk</groupId>
+            <artifactId>s3-transfer-manager</artifactId>
+            <version>2.17.103-PREVIEW</version>
+        </dependency>
+        <dependency>
+            <groupId>software.amazon.awssdk</groupId>
+            <artifactId>kms</artifactId>
+            <version>2.17.136</version>
+        </dependency>
+        <dependency>
+            <groupId>software.amazon.awssdk</groupId>
+            <artifactId>s3control</artifactId>
+            <version>2.17.136</version>
+        </dependency>
+
+
+	<dependency>
+		  <groupId>org.eclipse.jgit</groupId>
+		  <artifactId>org.eclipse.jgit</artifactId>
+		  <version>6.3.0.202209071007-r</version>
+	</dependency>
+
+	<dependency>
+		  <groupId>org.eclipse.jgit</groupId>
+		  <artifactId>org.eclipse.jgit.archive</artifactId>
+		  <version>6.3.0.202209071007-r</version>
+	</dependency>
+
+	<dependency>
+		  <groupId>org.eclipse.jgit</groupId>
+		  <artifactId>org.eclipse.jgit.ssh.jsch</artifactId>
+		  <version>6.3.0.202209071007-r</version>
+	</dependency>
+
+
+		<dependency>
+			<groupId>junit</groupId>
+				<artifactId>junit</artifactId>
+				<version>4.11</version>
+
+			<scope>test</scope>
+			</dependency>
+		</dependencies>
+
+
+	<build>
+    <plugins>
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>exec-maven-plugin</artifactId>
+        <version>3.0.0</version>
+        <executions>
+          <execution>
+            <goals>
+              <goal>java</goal>
+            </goals>
+          </execution>
+        </executions>
+        <configuration>
+          <mainClass>${mainClass}</mainClass>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+
+</project>
