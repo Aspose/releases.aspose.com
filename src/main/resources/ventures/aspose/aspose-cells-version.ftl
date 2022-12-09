@@ -2,7 +2,8 @@
 title: Aspose.Cells ${productVersion} | Process Spreadsheet Formats via Java API 
 description: Java library to process, manipulate, & convert Excel & OpenOffice spreadsheets. Supports formula(e), charts, validations, rendering, printing, & encryption.
 layout: package
-weight: 04	#rem
+type: repository
+weight: 00	#rem
 publishDate: "${publishDate}"
 ---
 
