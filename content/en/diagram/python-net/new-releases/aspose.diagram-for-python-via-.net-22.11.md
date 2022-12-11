@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.diagram-for-python-via-.net-22.11"
-description: " "
+title: "Convert Visio® Diagram VSDX to PDF via API for Python Apps"
+description: "Python API with added support for saving XAML as stream, convert digrams from Visio® VSDX to PDF via App, flowchart format conversion from Visio® VSDX to SVG."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-22.11/"
@@ -14,11 +13,9 @@ download_count: " 15/11/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 110.66MB"
 parent_path: "diagram/python-net"
 section_parent_path: "diagram/python-net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-11-release-notes/"
 weight: 5
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,30 @@ weight: 5
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via .NET 22.11</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Save XAML as Stream
+
+Added the support for saving `XAML` as stream.
+
+# Improved VSDX to PDF Conversion
+
+It was observed that while saving digrams from Visio&reg; `VSDX` to `PDF` via App made the shapes lost. This issue has now been resolved.
+
+# Improved VSDX to SVG Conversion
+
+Previously in some instances while converting flowcharts from Visio&reg; `VSDX` to `SVG` led to lost image. This issue has now been resolved.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Diagram for Python via .NET 22.11 Release Notes](https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-11-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
