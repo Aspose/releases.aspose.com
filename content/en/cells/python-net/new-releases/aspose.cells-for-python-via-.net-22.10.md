@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.cells-for-python-via-.net-22.10"
-description: " "
+title: "Locale Regional Setting of Legend Labels API for Python Apps"
+description: "Python API supports macOS® & Office® Chart Template (CRTX) files, translate legend labels as per locale / regional settings, faster MAXIF formula calculation."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.10/"
@@ -14,11 +13,9 @@ download_count: " 20/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 193.03MB"
 parent_path: "cells/python-net"
 section_parent_path: "cells/python-net"
-
 tags: "Python .Net Excel  Aspose.Cells"
 release_notes_url: "https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-10-release-notes/"
 weight: 4
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,34 @@ weight: 4
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Please refer to release notes and ReadMe for detail</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# macOS Support
+
+Support for macOS.
+
+# Support for CRTX File Format
+
+Support has been added for the Office&reg; Chart Template (`CRTX`) File format.
+
+# Translate Labels as per Locale Settings
+
+Legend entries labels' translation ability has been added in accordance with the locale or regional settings.
+
+# Improved `MAXIFS` Formula Execution Time
+
+It was observed that the `MAXIFS` formulas were taking longer time to be calculated. This API release offers an improvement to the execution time of the `MAXIFS` formulas calculation.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for Python via .NET 22.10 Release Notes](https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-10-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
