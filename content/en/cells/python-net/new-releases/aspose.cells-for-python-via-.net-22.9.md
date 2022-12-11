@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.cells-for-python-via-.net-22.9"
-description: " "
+title: "Multiple Tables in .Numbers Worksheet API for Python Apps"
+description: "Python API supports multiple tables in NUMBERS worksheet, discrete group data support for XLS, set datatable table formula, read & write XLSB range with SHA512."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.9/"
@@ -14,11 +13,9 @@ download_count: " 9/9/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 140.47MB"
 parent_path: "cells/python-net"
 section_parent_path: "cells/python-net"
-
 tags: "Python Excel Aspose.Cells"
 release_notes_url: "https://docs.aspose.com/cells/python-net/release-notes/"
 weight: 3
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -40,12 +37,39 @@ weight: 3
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/cells/python-net/release-notes/'>https://docs.aspose.com/cells/python-net/release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-9-release-notes/'>https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Please refer to release notes and ReadMe for detail</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Multiple Tables in .Numbers Worksheet
+
+Added the support to work with multiple tables in a worksheet of .Numbers.
+
+# Discrete Group Data Support
+
+Introduced the support of discrete group data for `XLS` file.
+
+# Set Table Formula for Datatable
+
+Added the feature to set table formula for the datatable.
+
+# Read & Write Protected Range
+
+The API can now perform reading and writing protected range of `XLSB` with SHA-512 algorithm.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for Python via .NET 22.9 Release Notes](https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-9-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
