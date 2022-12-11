@@ -4,7 +4,7 @@ description: "Aspose.PDF for JavaScript via C++ allows you to create own JavaScr
 keywords: "JavaScript via C++, JavaScript toolkit"
 family_listing_page_title: "Aspose.PDF for JavaScript via C++"
 family_listing_page_description: "Aspose.PDF for JavaScript via C++ is a easy and secure toolkit used to work with PDF directly in the web browser."
-family_listing_page_iconurl: ""
+family_listing_page_iconurl: "https://products.aspose.com/pdf/images/aspose_pdf-for-javascript-cpp.svg"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
@@ -54,7 +54,7 @@ Use Web-server or get an installer from the Python homepage (for run local web-s
 - Firefox
 - WebKit/Safari
 
-## Installation 
+## Installation
 
 To install and use **Aspose.PDF for JavaScript via C++** from a -*ZIP archive, follow the following instructions:
 

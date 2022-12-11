@@ -4,7 +4,7 @@ description: "Download .NET, Java, C++ & Android libraries to create, manipulate
 keywords: "PDF API, PDF Library, Python PDF module"
 family_listing_page_title: "Aspose.PDF for Python via .NET"
 family_listing_page_description: "Aspose.PDF for Python via .NET is an advanced PDF Document Processing API that enables you to perform a wide range of document processing tasks directly within your applications."
-family_listing_page_iconurl: "https://products.aspose.com/pdf/img/python-net.svg"
+family_listing_page_iconurl: "https://products.aspose.com/pdf/images/aspose_pdf-for-python-net.svg"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
