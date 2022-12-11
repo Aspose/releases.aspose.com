@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.cells-for-python-via-.net-22.8"
-description: " "
+title: "PivotTable Expand/Collapse Button Style API for Python Apps"
+description: "Python API with support for PivotTable expand / collapse button style, copy row height while processing table smart markers, convert threaded comments to HTML."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.8/"
@@ -14,11 +13,9 @@ download_count: " 5/9/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 140.36MB"
 parent_path: "cells/python-net"
 section_parent_path: "cells/python-net"
-
 tags: "Python Excel  Aspose.Cells"
 release_notes_url: "https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-8-release-notes/"
 weight: 2
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,30 @@ weight: 2
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Please refer to release notes and ReadMe for detail</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Expand/Collapse Button Style for PivotTable
+
+Added the support for the PivotTable expand and collapse button style.
+
+# Copy Row Height
+
+Ability to copy row height while processing smart markers of a table.
+
+# Convert Comments to HTML
+
+This release offers you the feature to convert the threaded comments to `HTML`.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for Python via .NET 22.8 Release Notes](https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-8-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
