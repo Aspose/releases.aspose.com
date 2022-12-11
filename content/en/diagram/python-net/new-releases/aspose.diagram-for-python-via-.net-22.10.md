@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.diagram-for-python-via-.net-22.10"
-description: " "
+title: "Visio® to SVG, Visio® to HTML Conversion API for Python Apps"
+description: "Python API to display Visio® diagram in great quality when exported to SVG vector format, export Visio® flowchart graphics to HTML with incorporated links."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-22.10/"
@@ -14,11 +13,9 @@ download_count: " 17/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 110.62MB"
 parent_path: "diagram/python-net"
 section_parent_path: "diagram/python-net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-10-release-notes/"
 weight: 4
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,26 @@ weight: 4
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via .NET 22.10</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Improved Visio&reg; to SVG Export
+
+It was observed that a Visio&reg; graphic is being displayed in poor quality when it is exported to `SVG` format. This issue has now been resolved.
+
+# Improved Visio&reg; to HTML Export
+
+In some instances while exporting Visio&reg; digrams to HTML format, the incorporated links were lost. This issue has now been resolved.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Diagram for Python via .NET 22.10 Release Notes](https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-10-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
