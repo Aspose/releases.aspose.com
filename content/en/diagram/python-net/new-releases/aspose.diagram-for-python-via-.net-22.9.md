@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.diagram-for-python-via-.net-22.9"
-description: " "
+title: "Validation Rule Set in Visio® Diagrams API for Python Apps"
+description: "Python API to view and work with rule sets of Visio® diagram validation data, correctly display text within flowchart boxes while converting VSDX to SVG format."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-22.9/"
@@ -14,11 +13,9 @@ download_count: " 14/9/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 110.61MB"
 parent_path: "diagram/python-net"
 section_parent_path: "diagram/python-net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-9-release-notes/"
 weight: 3
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,26 @@ weight: 3
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via .NET 22.9</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# View Visio&reg; Diagram Validation Rule Sets
+
+It was observed that the RuleSets were not being appeared in the Visio&reg; diagram validation data. This issue has now been resolved.
+
+# Improved VSDX to SVG Conversion
+
+While converting the Visio&reg; `VSDX` to `SVG`, in some instances it was observed that all the text in the boxes was being gotten over the box border lines. This issue has now been resolved.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Diagram for Python via .NET 22.9 Release Notes](https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-9-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
