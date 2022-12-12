@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "35"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells"
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-cells/"
 weight: 4
 ---
 
@@ -18,12 +18,12 @@ weight: 4
 
 {{< Common/h2 text="Download Aspose.Cells for Android Applications"  >}}
 {{< Common/paragraph class="package-instructions">}}
-You can easily use Aspose.Cells for Android via Java directly from a {{< Common/link href="https://repository.aspose.com/cells/" text="Maven"  >}} based project by adding following configurations to the build.gradle.
+You can easily use Aspose.Cells for Android via Java directly from a {{< Common/link href="https://releases.aspose.com/cells/java/" text="Maven"  >}} based project by adding following configurations to the build.gradle.
 {{< Common/release-notes-link family="cells" product="androidjava" href="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/" text="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}
-maven {url "https://repository.aspose.com/repo/" }
+maven {url "https://releases.aspose.com/java/repo/" }
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< consolebox/consoleboxwrapper id="dependency" >}}
