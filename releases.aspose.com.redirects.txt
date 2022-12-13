@@ -61,4 +61,7 @@ rewrite /words/java/new-releases/aspose.words-for-java-20.2-\(jdk1.6-only\)/ htt
 rewrite /barcode/jasperreports//aspose.barcode-for-jasperreports-22.10/ba6934072b2147342e4b68b9a13d7064-3-8057/ https:///releases.aspose.com/barcode/jasperreports/aspose.barcode-for-jasperreports-22.10/ permanent;
 rewrite /slides/de/$ https://releases.aspose.com/de/slides/ permanent;
 rewrite /slides/de/(.*) https://releases.aspose.com/de/slides/$1 permanent;
-
+rewrite ^/webapp/.* https://releases.aspose.com/ permanent;
+rewrite ^/ui/auth/passport/request https://releases.aspose.com/ permanent;
+rewrite ^/repo$ https://releases.aspose.com/java/repo/ permanent;
+rewrite ^/repo/$ https://releases.aspose.com/java/repo/ permanent;
