@@ -1,9 +1,138 @@
 ---
-title: "Descargar archivos JAR de procesamiento de código de barras | API Aspose.BarCode"
-description: "Descargue archivos JAR para generar, reconocer y convertir códigos de barras. Admite simbologías de códigos de barras numéricos, alfanuméricos y 2D. Personalice los códigos de barras en su aplicación Java."
-keywords: "Generate barcode Java, Scan barcode java"
-family_listing_page_title: "Aspose.BarCode para Java"
-family_listing_page_description: "Aspose.BarCode para Java es un componente robusto y fiable de generación y reconocimiento de códigos de barras. Permite a los desarrolladores agregar rápida y fácilmente la funcionalidad de generación y reconocimiento de códigos de barras a sus aplicaciones Java basadas en las plataformas Java SE, Java EE y Java ME."
+title: "Aspose.BARCODE | Proceso 1D, 2D y códigos de barras postales a través de Java" 
+linktitle: Aspose.BarCode
+description: "Biblioteca de clase Java para generar, reconocer y convertir códigos de barras. Admite simbologías numéricas, alfa-numéricas y de código de barras 2D. Personalice los códigos de barras en su aplicación Java." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Java barcode API
+- Java barcode library
+- Java barcode class
+- 1D Barcode
+- 2D Barcode
+- Alpha numeric Barcodes
+- Java Bacode API
+- Barcode API
+- Barcode Formatting API
+- Barcode generation API
+- barcode generator API
+- Barcode imaging API
+- Barcode reader API
+- Barcode recognition API
+- Barcode scanning API
+- Barcode symbologies
+- BMP
+- Checksum
+- Codabar
+- Code11
+- Code128
+- Code39
+- CompactPDF417
+- Controls & Libraries
+- EAN14(SCC14)
+- EMF
+- EXIF
+- GIF
+- JPEG
+- MicroQR
+- MSI
+- Numeric Barcodes
+- On premise API
+- Planet
+- PNG
+- Postnet
+- PZN
+- QR
+- SSCC18
+- SVG
+- Swiss QR
+- TIFF
+- UPCA
+- UPCE
+- Aspose.Total
+- Conholdate
+- Conholdate.Total
+- Aspose.Barcode
+- barcode
+- generation
+- recognition
+- Alpha Numeric
+- AI 8102 Coupon
+- AustralianPosteParcel
+- AustraliaPost
+- Aztec
+- Codabar
+- CodablockF
+- Code11
+- Code128
+- Code16K
+- Code32
+- Code39Extended
+- Code39Standard
+- Code93Extended
+- Code93Standard
+- DatabarExpanded
+- DatabarExpandedStacked
+- DatabarLimited
+- DatabarOmniDirectional
+- DatabarStacked
+- DatabarStackedOmniDirectional
+- DatabarTruncated
+- DataLogic2of5
+- DataMatrix
+- DeutschePostIdentcode
+- DeutschePostLeitcode
+- DotCode
+- DutchKIX
+- EAN13
+- EAN14
+- EAN8
+- GS1CodablockF
+- GS1Code128
+- GS1DataMatrix
+- GS1QR
+- IATA2of5
+- Interleaved2of5
+- ISBN
+- ISMN
+- ISSN
+- ItalianPost25
+- ITF14
+- ITF6
+- MacroPdf417
+- Matrix2of5
+- MaxiCode
+- MicroPdf417
+- MICR
+- (only
+- BarCode
+- reader)
+- MSI
+- OneCode
+- OPC
+- PatchCode
+- Pdf417
+- Pharmacode
+- Planet
+- Postnet
+- PZN
+- QR
+- RM4SCC
+- SCC14
+- SingaporePost
+- SSCC18
+- Standard2of5
+- SwissQR
+- SwissPostParcel
+- UPCA
+- UpcaGs1Code128Coupon
+- UpcaGs1DatabarCoupon
+- UPCE
+- VIN
+family_listing_page_title: "Aspose.barcode para java" 
+family_listing_page_description: "Aspose.barcode para Java es un componente de generación y reconocimiento de código de barras robusto y confiable. Permite a los desarrolladores agregar rápida y fácilmente la generación de códigos de barras y la funcionalidad de reconocimiento a sus aplicaciones Java basadas en las plataformas Java SE, Java EE y Java ME." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,102 +140,148 @@ family_listing_page_venture: "4"
 family_listing_page_package: "25"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-barcode/"
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/barcode/13
+productLink: https://products.aspose.com/barcode/java/
+dataFolder: aspose_barcode
+packages_refs:
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-6"
+- "16-10"
+- "16-11"
+- "16-12"
+- "17-01"
+- "17-02"
+- "17-03"
+- "17-10"
+- "17-11"
+- "17-12"
+- "17-4"
+- "17-5"
+- "17-6"
+- "17-7"
+- "17-8"
+- "17-9"
+- "18-1"
+- "18-10"
+- "18-10-1"
+- "18-11"
+- "18-12"
+- "18-2"
+- "18-3"
+- "18-4"
+- "18-5"
+- "18-6"
+- "18-7"
+- "18-8"
+- "19-1"
+- "19-10"
+- "19-11"
+- "19-12"
+- "19-2"
+- "19-3"
+- "19-4"
+- "19-5"
+- "19-6"
+- "19-7"
+- "19-8"
+- "19-9"
+- "20-1"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-2"
+- "20-3"
+- "20-4"
+- "20-5"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-1"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-1"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
+- "7-5-0"
+- "7-6-0"
+- "7-7-0"
+- "7-8-0"
+- "7-9-0"
+- "8-0-0"
+- "8-1-0"
+- "8-2-0"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/barcode" linktext=" Support Forum " >}}
+# Biblioteca de código de barras para aplicaciones Java
+[![banner](./aspose_barcode-for-java-banner.png)](./)
 
-{{< Common/h2 text="Descargue la biblioteca de códigos de barras para aplicaciones Java"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose aloja todas las API de Java en el
-{{< Common/link href="https://repository.aspose.com" text="Repositorio Aspose"  >}}. Puede usar fácilmente el
-{{< Common/link href="https://repository.aspose.com/barcode/" text="Aspose.BarCode para la API de Java"  >}}directamente en sus proyectos basados en Maven agregando las siguientes configuraciones a su pom.xml. Para obtener instrucciones detalladas, visite
-{{< Common/link href="https://docs.aspose.com/barcode/java/installation/" text="Instalación de Aspose.BarCode para Java desde el repositorio de Maven"  >}}página de documentación.
-{{< Common/release-notes-link family="barcode" product="java" href="https://docs.aspose.com/barcode/java/release-notes/" text="https://docs.aspose.com/barcode/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Página del producto](https://products.aspose.com/barcode/java) | [Documentos](https://docs.aspose.com/barcode/java/) | [Población](https://products.aspose.app/barcode/family) | [Referencia de API](https://apireference.aspose.com/barcode/java) | [Ejemplos](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [Blog](https://blog.aspose.com/category/barcode/) | [Búsqueda](https://search.aspose.com/) | [Soporte gratuito](https://forum.aspose.com/c/barcode) | [Licencia temporal](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-    Maven:   
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository>   
-    Gradle:   
-    maven { url "https://artifact.aspose.com/repo/" }
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-    Maven:      
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-barcode</artifactId>
-      <version>22.9</version>
-      </dependency>  
-     Gradle:  
-     compile group: 'com.aspose', name: 'aspose-barcode', classifier: 'jdk18', version:  '22.9'
-     compile group: 'com.aspose', name: 'aspose-barcode', classifier: 'javadoc', version: '22.9'
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
-
-{{HIPERVINCULO1}} | {{HIPERVINCULO2}} | {{HIPERVINCULO3}} | {{HIPERVINCULO4}} | {{HIPERVINCULO5}} | {{HIPERVINCULO6}} | {{HIPERVINCULO7}} | {{HIPERVINCULO8}} | {{HIPERVINCULO9}} | {{HIPERVINCULO10}}
-
-## ¿Por qué descargar Aspose.BarCode para Java?
-
-[Aspose.BarCode for Java](https://products.aspose.com/barcode/java) es un componente robusto y confiable de generación y reconocimiento de códigos de barras, escrito en Java, que permite a los desarrolladores agregar rápida y fácilmente la funcionalidad de generación y reconocimiento de códigos de barras a sus aplicaciones Java.
+[Aspose.BarCode for Java](https://products.aspose.com/barcode/java) es un componente de generación y reconocimiento de código de barras robusto y confiable, escrito en Java, permite a los desarrolladores agregar rápida y fácilmente la generación de códigos de barras y la funcionalidad de reconocimiento a sus aplicaciones Java.
 
 ## Aplicaciones de demostración
 
-| {{HIPERVINCULO1}} | {{HIPERVINCULO2}} | {{HIPERVINCULO3}} |
-| :------------------------------------------------- -------------------------------------------------- --------------------------------------------------: | :------------------------------------------------- -------------------------------------------------- ---------------------------------------: | :------------------------------------------------- -------------------------------------------------- -----------------------: |
-| [![Generate](https://products.aspose.app/barcode/generate/img/aspose_generate-app-48.png)](https://products.aspose.app/barcode/generate) | [![Recognize](https://products.aspose.app/barcode/recognize/img/aspose_recognize-app-48.png)](https://products.aspose.app/barcode/recognize) | [![Embed](https://products.aspose.app/barcode/embed/img/aspose_embed-app-48.png)](https://products.aspose.app/barcode/embed) |
+[Generar código de barras](https://products.aspose.app/barcode/generate) | [Reconocer código de barras](https://products.aspose.app/barcode/recognize) | [Incrustar código de barras](https://products.aspose.app/barcode/embed)
+: ---: | : ---: | : ---:
+
+[![Generar](https://products.aspose.app/barcode/generate/img/aspose_generate-app-48.png)] (https://products.aspose.app/barcode/generate) | [![Reconocer](https://products.aspose.app/barcode/recognize/img/aspose_recognize-app-48.png)] (https://products.aspose.app/barcode/recognize) | [![Empotrar](https://products.aspose.app/barcode/embed/img/aspose_embed-app-48.png)] (https://products.aspose.app/barcode/embed)
 
 ## Características de la API de código de barras
+- Especifique diferentes tipos de simbologías.
+- Establezca texto de código de código de barras, apariencia y otras propiedades.
+- Soporte de la suma de verificación y los datos de suplementos.
+- Imprimir imágenes de código de barras.
 
-- Especificar diferentes tipos de simbologías.
-- Establecer texto de código de barras, apariencia y otras propiedades.
-- Soporte de Checksum y Datos Suplementarios.
-- Imprimir imágenes de códigos de barras.
+## Simbologías de código de barras
+** Solo numérico: ** Ean13, Ean8, UPCA, Upce, Booklandean, Interleaveaved2of5, Standard2of5, MSI, Code11, Codabar, Postnet, Planet, Ean14 (SCC14), SSCC18, ITF14, Leticode, OPC \
+** Alfa-numérico: ** Code128, Ean128, Code39 Extended, Code39 Standard, Code93, Extended, Code93 Standard, Matrix 2 de 5, PZN, Deutsche Post IdentCode, Vin \
+** Simbologías 2d: ** PDF417, Datamatrix, Qr, Swiss Qr (QR Bill) \
+** Soporte de solo codificación: ** Australia Post, aztec
 
-### Simbologías de códigos de barras
+## leer y escribir etiquetas de código de barras
+** Imágenes: ** JPEG, TIFF, PNG, BMP, GIF, EXIF, EMF, SVG
 
-- **Solo numérico:** EAN13, EAN8, UPCA, UPCE, BooklandEAN, Interleaved2of5, Standard2of5, MSI, Code11, Codabar, Postnet, Planet, EAN14(SCC14), SSCC18, ITF14, Leticode, OPC
-- **Alfanumérico:** Code128, EAN128, Code39 Extended, Code39 Standard, Code93, Extended, Code93 Standard, Matrix 2 of 5, PZN, Deutsche Post Identcode, VIN
-- **Simbologías 2D:** PDF417, DataMatrix, QR, Swiss QR (QR Bill)
-- **Compatibilidad solo con codificación:** Australia Post, Aztec
+## Guardar códigos de barras como
+** Imágenes: ** JPEG, TIFF, PNG, BMP, GIF, EXIF, EMF, SVG
 
-### Leer y escribir etiquetas de código de barras
+## Entornos compatibles
+- ** Java Runtime: ** `jre 8` o arriba
+- ** Desarrollo de Java: ** `Java se 8`, o superior.
 
-**Imágenes:** JPEG, TIFF, PNG, BMP, GIF, EXIF, EMF, SVG
+## Empezar
 
-### Guardar códigos de barras como
+Aspose.barcode Java Las apis están alojadas en el [Repositorio de asposio](https://repository.aspose.com/barcode/). Puede usar fácilmente Aspose.BARCODE para Java API directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.BarCode for Java from Maven Repository](https://docs.aspose.com/barcode/java/installation/).
 
-**Imágenes:** JPEG, TIFF, PNG, BMP, GIF, EXIF, EMF, SVG
+## Escanear un código de barras de una imagen a través de Java
 
-### Entornos compatibles
+```java
+// The path to the resource directory.
+String dataDir = Utils.getDataDir(Barcode_Recognition.class) + "BarcodeReader/basic_features/";
 
-- **Cualquier sistema operativo compatible con Java:**
-- **Java Runtime:** `JRE 1.8` o superior
-- **Desarrollo Java:** `J2SE 8.0 (1.8)`, o superior.
+// Initialize barcode reader
+BarCodeReader reader = new BarCodeReader(dataDir + "CodeText.jpg");
 
-{{HIPERVINCULO1}} | {{HIPERVINCULO2}} | {{HIPERVINCULO3}} | {{HIPERVINCULO4}} | {{HIPERVINCULO5}} | {{HIPERVINCULO6}} | {{HIPERVINCULO7}} | {{HIPERVINCULO8}} | {{HIPERVINCULO9}} | {{HIPERVINCULO10}}
+// read barcode of type Code39Extended
+for (BarCodeResult result : reader.readBarCodes()) {
+    System.out.println("CodeText: " + result.getCodeText());
+    System.out.println("Symbology type: " + result.getCodeType());
+}
+```
 
-{{< Common/hr >}}
-
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
-
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="barcode" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[Página del producto](https://products.aspose.com/barcode/java) | [Documentos](https://docs.aspose.com/barcode/java/) | [Población](https://products.aspose.app/barcode/family) | [Referencia de API](https://apireference.aspose.com/barcode/java) | [Ejemplos](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [Blog](https://blog.aspose.com/category/barcode/) | [Búsqueda](https://search.aspose.com/) | [Soporte gratuito](https://forum.aspose.com/c/barcode) | [Licencia temporal](https://purchase.aspose.com/temporary-license)

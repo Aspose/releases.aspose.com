@@ -1,9 +1,56 @@
 ---
-title: "下载 JAR 文件以创建编辑 PSD PSB | Aspose.PSD API"
-description: "下载 Java JAR 文件以通过本机 API 创建、修改和转换 Photoshop PSD 和 PSB 格式。支持图像压缩、抖动、渲染和缩放等。"
-keywords: "PSD Java Classes"
-family_listing_page_title: "Aspose.PSD for Java"
-family_listing_page_description: "Aspose.PSD for Java 是一个易于使用的 Adobe Photoshop 格式操作 API。它可以轻松加载和读取当前的 PSD 和 PSB 格式。开发人员无需安装 Adobe Photoshop 即可执行更新图层属性、添加水印、压缩、旋转、缩放或将一种文件格式渲染为另一种文件格式等操作。可以轻松导出 TIFF、JPEG、PNG、GIF、BMP 等图像格式。"
+title: "aspose.psd | Java类库，以渲染PSD和PSB格式" 
+linktitle: Aspose.PSD
+description: "Java类库可以使您的应用程序创建，修改和转换Photoshop PSD和PSB格式。支持图像压缩，抖动，渲染和缩放等。" 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose PSD
+- Aspose Java API
+- psd java library
+- psd java class
+- PSD
+- PSB
+- TIFF
+- JPEG
+- PNG
+- GIF
+- BMP
+- JPEG2000
+- PDF
+- AI
+- convert format
+- image loading
+- photoshop
+- raw data processing
+- image compression
+- psd compression
+- image rotation
+- flip image
+- image scale
+- cache system
+- exif data
+- dithering
+- crop
+- vector to raster
+- cubic b�zier
+- matrix transformation
+- Maven
+- Windows
+- Linux
+- Mac
+- JDK
+- adjustment layer
+- median filter
+- wiener filter
+- graphics
+- linked layer
+- text layer
+family_listing_page_title: "aspose.psd for Java" 
+family_listing_page_description: "Java的Aspose.psd是一种易于使用的Adobe Photoshop格式操纵API。当前，它可以轻松加载和读取PSD和PSB格式。开发人员可以执行操作，例如更新图层属性，添加水印，压缩，旋转，缩放或渲染一种文件格式，而无需安装Adobe Photoshop。 TIFF，JPEG，PNG，GIF，BMP等图像格式可以轻松地导出。" 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,87 +58,78 @@ family_listing_page_venture: "4"
 family_listing_page_package: "160"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-psd/"
-tags: ['raw-data-processing', 'image-compression', 'psd-compression', 'image-rotation', 'flip-image', 'image-scale', 'cache-system', 'exif-data', 'dithering', 'crop', 'vector-to-raster', 'cubic-bézier', 'matrix-transformation', 'adjustment-layer', 'median-filter', 'wiener-filter', 'graphics', 'linked-layer', 'text-layer']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/psd/34
+productLink: https://products.aspose.com/psd/java/
+dataFolder: aspose_psd
+packages_refs:
+- "19-12"
+- "19-4"
+- "20-2"
+- "20-3"
+- "20-4"
+- "20-5"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-5"
+- "21-6"
+- "21-7"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/psd" linktext=" Support Forum " >}}
+# 用于Photoshop文件的Java库
+[![banner](./aspose_psd-for-java-banner.png)](./)
 
-{{< Common/h3 text="下载 Aspose.PSD Java JAR 以处理 Photoshop® 文件"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose 在
-{{< Common/link href="https://repository.aspose.com" text="假设存储库"  >}}.通过将以下配置添加到 pom.xml，您可以直接在基于 Maven 的项目中轻松使用 Aspose.PSD for Java API。有关详细说明，请访问
-{{< Common/link href="https://docs.aspose.com/psd/java/installation/" text="从 Maven 存储库安装 Aspose.PSD for Java"  >}}文档页面。
-{{< Common/release-notes-link family="psd" product="java" href="https://docs.aspose.com/psd/java/release-notes/" text="https://docs.aspose.com/psd/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[产品页面](https://products.aspose.com/psd/java) | [文档](https://docs.aspose.com/psd/java/) | [演示](https://products.aspose.app/psd/family) | [API参考](https://apireference.aspose.com/psd/java) | [例子](https://github.com/aspose-psd/Aspose.PSD-for-Java) | [博客](https://blog.aspose.com/category/psd/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/psd) | [临时许可](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.PSD for Java](https://products.aspose.com/psd/java)是一种易于使用的Adobe Photoshop文件格式操纵API。它可以轻松地加载和读取PSD，PSB和AI文件，使Java开发人员可以执行更新层属性，添加水印，压缩，旋转，缩放或渲染一个文件格式的操作，而无需安装Adobe Photoshop。
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-psd</artifactId>
-      <version>21.7</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+## Photoshop文件处理
+ - 加载，创建和操纵PSD和PSB文件。
+ - 用RLE压缩PSD。
+ - 旋转，翻转，比例或作物图像。
+ - 读取并编写EXIF数据。
+ - 将向量转换为栅格。
+ - 调整亮度，对比度和伽玛。
+ - 绘制并填充基本形状。
+ - 夹子矩形区域。
+ - 应用抖动。
 
-[Product Page](https://products.aspose.com/psd/java) | [Docs](https://docs.aspose.com/psd/java/) | [Demos](https://products.aspose.app/psd/family) | [API Reference](https://reference.aspose.com/psd/java) | [Examples](https://github.com/aspose-psd/Aspose.PSD-for-Java) | [Blog](https://blog.aspose.com/category/psd/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/psd) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+## 加载Photoshop和Illustrator文件
+** Adob​​e **：PSD，PSB，AI
 
-## 为什么要下载 Aspose.PSD for Java？
+## 将Photoshop和Illustrator文件保存为
+**栅格**：TIFF，JPEG，PNG，GIF，BMP，JPEG2000 \
+**固定布局**：PDF
 
-Aspose.PSD for Java 是一个易于使用的 Adobe Photoshop® 文件格式操作 API。它可以轻松加载和读取 PSD、PSB 和 AI 文件，使 Java 开发人员能够执行更新图层属性、添加水印、压缩、旋转、缩放或将一种文件格式渲染为另一种文件格式等操作，而无需安装 Adobe Photoshop® .
+## 支持环境
+ -  ** Microsoft Windows：** Windows Desktop＆Server（X86，X64）
+ -  ** macOS：** Mac OS X
+ -  ** Linux：** Ubuntu，Opensuse，Centos等
+ -  ** java版本：**```J2SE 6.0（1.6）`或更高版本
 
-## Photoshop® 文件处理
+## 开始
 
-- 加载、创建和操作 PSD 和 PSB 文件。
-- 使用 RLE 压缩 PSD。
-- 旋转、翻转、缩放或裁剪图像。
-- 读取和写入 EXIF 数据。
-- 将矢量转换为栅格。
-- 调整亮度、对比度和伽玛。
-- 绘制和填充基本形状。
-- 剪辑矩形区域。
-- 应用抖动。
+Aspose.psd Java API托管在[Aspose存储库](https://repository.aspose.com/psd/)。您可以在Maven项目中轻松地将Aspose.psd用于Java API，并具有简单的配置。有关详细说明，请访问[Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/)文档PSD。
 
-### 加载 Photoshop® 和 Illustrator® 文件
+## 从头​​开始创建一个PSD
 
-**Adobe®：** PSD、PSB、AI
+```java
+PsdImage bmpImage = new PsdImage(300, 300);
 
-### 将 Photoshop® 和 Illustrator® 文件另存为
+// fill image data.
+Graphics graphics = new Graphics(bmpImage);
+graphics.clear(Color.getWhite());
+Pen pen = new Pen(Color.getBrown());
+graphics.drawRectangle(pen, bmpImage.getBounds());
 
-**光栅：** TIFF、JPEG、PNG、GIF、BMP、JPEG2000\
-**固定布局：** PDF
+// create an instance of PsdOptions, Set it's various properties Save image to disk in PSD format
+PsdOptions psdOptions = new PsdOptions();
+psdOptions.setColorMode(ColorModes.Rgb);
+psdOptions.setCompressionMethod(CompressionMethod.Raw);
+psdOptions.setVersion(4);
+bmpImage.save("output.psd", psdOptions);
+```
 
-### 支持的环境
-
-- **Microsoft Windows®：** Windows 桌面和服务器（x86、x64）
-- **macOS：** Mac OS X
-- **Linux：** Ubuntu、OpenSUSE、CentOS 等
-- **Java 版本：** `J2SE 6.0 (1.6)` 或更高版本
-
-{{< Common/hr >}}
-
-{{< Tags/TagsWrapper>}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
-
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="psd" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[产品页面](https://products.aspose.com/psd/java) | [文档](https://docs.aspose.com/psd/java/) | [演示](https://products.aspose.app/psd/family) | [API参考](https://apireference.aspose.com/psd/java) | [例子](https://github.com/aspose-psd/Aspose.PSD-for-Java) | [博客](https://blog.aspose.com/category/psd/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/psd) | [临时许可](https://purchase.aspose.com/temporary-license)

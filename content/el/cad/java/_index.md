@@ -1,9 +1,61 @@
 ---
-title: "Κατεβάστε CAD Drawing & Rendering Files JAR | Aspose.CAD API"
-description: "Κατεβάστε το JAR που περιέχει κλάσεις Java για απόδοση, επεξεργασία, αναφορά και μετατροπή σχεδίων AutoCAD®. Υποστηρίζει 3D στερεά, κωνικά, σφαίρα, torus, κύλινδρο, κουτί και σφήνα κ.λπ."
-keywords: "AutoCAD Java API"
-family_listing_page_title: "Aspose.CAD για Java"
-family_listing_page_description: "Το Aspose.CAD για Java επιτρέπει στους προγραμματιστές να μετατρέπουν αρχεία AutoCAD DWG και DXF και DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, CF2, CFF2, OBJ σε αρχεία PDF, SVG, WMF και Raster. Είναι ένα εγγενές API και δεν απαιτεί την εγκατάσταση του AutoCAD ή άλλου λογισμικού."
+title: "Aspose.cad | Βιβλιοθήκη Java για επεξεργασία/μετατροπή μορφών AutoCAD" 
+linktitle: Aspose.CAD
+description: "Βιβλιοθήκη κλάσης Java για την απόδοση, την επεξεργασία, την αναφορά και τη μετατροπή των σχεδίων AutoCAD εντός των εφαρμογών σας. Υποστηρίζει 3D στερεά, κωνικό, σφαίρα, torus, κύλινδρο, κουτί, & σφήνα κ.λπ." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose CAD
+- Aspose Java API
+- cad java library
+- cad java class
+- DWG
+- DXF
+- DGN
+- IFC
+- IGES
+- STL
+- DWT
+- PLT
+- DWF
+- DWFx
+- CFF2
+- OBJ
+- PDF
+- TIFF
+- JPEG
+- PNG
+- GIF
+- BMP
+- Maven
+- Windows
+- Linux
+- Mac
+- J2SE
+- drawing
+- cad drawing
+- raster image
+- export 3D
+- autocad
+- cad layout
+- mesh model
+- ATTRIB
+- MTEXT
+- 3D solids
+- conic
+- sphere
+- torus
+- cylinder
+- box
+- wedge
+- wired models
+- 3D faces
+- Unix
+family_listing_page_title: "Aspose.cad για java" 
+family_listing_page_description: "Το Aspose.CAD για το Java επιτρέπει στους προγραμματιστές να μετατρέψουν τα αρχεία AutoCAD DWG και DXF και DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, CF2, CFF2, OBJ σε PDF, SVG, WMF και Raster. Πρόκειται για ένα εγγενές API και δεν απαιτεί την εγκατάσταση του AutoCAD ή οποιουδήποτε άλλου λογισμικού." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,92 +63,118 @@ family_listing_page_venture: "4"
 family_listing_page_package: "11"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-cad/"
-tags: ['Aspose.Total', 'Aspose.CAD', 'Aspose-Java-API', 'cad-java-library', 'cad-java-class', 'DWG', 'DXF', 'DGN', 'IFC', 'IGES', 'STL', 'DWT', 'PLT', 'DWF', 'DWFx', 'CFF2', 'OBJ', 'PDF', 'TIFF', 'JPEG', 'PNG', 'GIF', 'BMP', 'Maven', 'Windows', 'Linux', 'Mac', 'J2SE', 'drawing', 'cad-drawing', 'raster-image', 'export-3D', 'autocad', 'cad-layout', 'mesh-model', 'ATTRIB', 'MTEXT', '3D-solids', 'conic', 'sphere', 'torus', 'cylinder', 'box', 'wedge', 'wired-models', '3D-faces', 'Unix']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/cad/19
+productLink: https://products.aspose.com/cad/java/
+dataFolder: aspose_cad
+packages_refs:
+- "22-7"
+- "22-6-1"
+- "22-6"
+- "22-5"
+- "22-4"
+- "22-3"
+- "1-0"
+- "1-1-0"
+- "16-12"
+- "16-12-1"
+- "17-02"
+- "17-12"
+- "17-4"
+- "17-9"
+- "18-12"
+- "18-3"
+- "18-8"
+- "19-2"
+- "19-5"
+- "19-7"
+- "19-9"
+- "20-1"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-3"
+- "20-4"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-1"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-1"
+- "22-2"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/cad" linktext=" Support Forum " >}}
+# API μετατροπής αρχείων CAD για Java
+[![banner](./aspose_cad-for-java-banner.png)](./)
 
-{{< Common/h2 text="Κάντε λήψη του Aspose.CAD για επεξεργασία αρχείων CAD"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Το Aspose φιλοξενεί όλα τα Java API στο
-{{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. Μπορείτε εύκολα να χρησιμοποιήσετε το
-{{< Common/link href="https://repository.aspose.com/cad/" text="Aspose.CAD για Java API"  >}}απευθείας στα έργα σας που βασίζονται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml σας. Για αναλυτικές οδηγίες παρακαλούμε επισκεφθείτε
-{{< Common/link href="https://docs.aspose.com/cad/java/installation/" text="Εγκατάσταση Aspose.CAD για Java από το Maven Repository"  >}}σελίδα τεκμηρίωσης.
-{{< Common/release-notes-link family="cad" product="java" href="https://docs.aspose.com/cad/java/release-notes/" text="https://docs.aspose.com/cad/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Σελίδα προϊόντος](https://products.aspose.com/cad/java) | [Έγγραφα](https://docs.aspose.com/cad/java/) | [Επίδειξη](https://products.aspose.app/cad/family) | [Αναφορά API](https://apireference.aspose.com/cad/java) | [Παραδείγματα](https://github.com/aspose-cad/Aspose.CAD-for-Java) | [Ιστολόγιο](https://blog.aspose.com/category/cad/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/cad) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.CAD for Java](https://products.aspose.com/cad/java) επιτρέπει στους προγραμματιστές να μετατρέψουν τα αρχεία AutoCAD DWG και DXF σε εικόνες PDF και Raster. Πρόκειται για ένα εγγενές API και δεν απαιτεί την εγκατάσταση του AutoCAD ή οποιουδήποτε άλλου λογισμικού. Μπορείτε επίσης να μετατρέψετε τα επιλεγμένα στρώματα και τις διατάξεις από τα αρχεία AutoCAD. Η μετατροπή σε εικόνες PDF και Raster είναι πολύ υψηλής ποιότητας.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-cad</artifactId>
-      <version>22.3</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+Επεξεργασία αρχείων ## CAD
 
-[Product Page](https://products.aspose.com/cad/java) | [Docs](https://docs.aspose.com/cad/java/) | [Demos](https://products.aspose.app/cad/family) | [API Reference](https://apireference.aspose.com/cad/java) | [Examples](https://github.com/aspose-cad/Aspose.CAD-for-Java) | [Blog](https://blog.aspose.com/category/cad/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cad) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+- [Ρυθμίστε το μέγεθος σχεδίασης CAD](https://docs.aspose.com/cad/java/adjusting-cad-drawing-size/).
+- Μετατρέψτε τα σχέδια CAD σε άλλες μορφές αρχείων.
 
-## Γιατί να κατεβάσετε το Aspose.CAD για Java;
-
-Το Aspose.CAD για Java επιτρέπει στους προγραμματιστές να μετατρέπουν αρχεία AutoCAD® DWG και DXF σε εικόνες PDF και Raster. Είναι ένα εγγενές API και δεν απαιτεί την εγκατάσταση AutoCAD® ή άλλου λογισμικού. Μπορείτε επίσης να μετατρέψετε τα επιλεγμένα επίπεδα και διατάξεις από τα αρχεία AutoCAD®. Η μετατροπή σε εικόνες PDF και Raster είναι πολύ υψηλής ποιότητας.
-
-## Επεξεργασία αρχείων CAD
-
-- Προσαρμόστε το μέγεθος σχεδίασης CAD.
-- Μετατροπή σχεδίων CAD σε άλλες μορφές αρχείων.
-- Εξαγωγή εικόνων 3D AutoCAD® σε PDF.
+- [Εξαγωγή εικόνων 3D AutoCAD σε PDF](https://docs.aspose.com/cad/java/exporting-cad/).
 - Εξαγωγή διατάξεων CAD σε PDF.
-- Ρυθμίστε το timeout στο save για να αποφύγετε να ξοδέψετε πολύ χρόνο ή να καταναλώσετε πολλή μνήμη.
+- Ρυθμίστε το χρονικό όριο για την αποθήκευση για να αποφύγετε να περάσετε πολύ χρόνο ή να καταναλώσετε πολλή μνήμη.
 
-### Διαβάστε μορφές CAD
+## Διαβάστε μορφές CAD
+** AutoCAD: ** DWG, DWT, DWF, DWXF, IFC, PLT \
+** Microstation: ** DGN \
+** Ο προηγμένος οπτικοποιητής: ** obj \
+** Άλλο: ** STL, IGES, CFF2
 
-**AutoCAD®:** DWG, DWT, DWF, DWXF, IFC, PLT\
-**MicroStation:** DGN\
-**Το Advanced Visualizer:** OBJ\
-**Άλλα:** STL, IGES, CFF2
+## Αποθήκευση CAD ως
+** Σταθερή διάταξη: ** PDF \
+** Raster Εικόνες: ** PNG, BMP, TIFF, JPEG, GIF
 
-### Αποθήκευση CAD ως
+## Διαβάζω γράφω
+** CAD: ** DXF \
+(Οι λειτουργίες εγγραφής υποστηρίζονται εν μέρει.)
 
-**Σταθερή διάταξη:** PDF\
-**Εικόνες Raster:** PNG, BMP, TIFF, JPEG, GIF
+## υποστηριζόμενα περιβάλλοντα
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** macos: ** mac os x
+- ** Linux: ** ubuntu, opensuse, centos και άλλοι
+- ** Εκδόσεις Java: ** `J2SE 7,0 (1,7)`, `J2SE 8,0 (1,8)`
 
-### Διαβάζω γράφω
+## Ξεκίνα
 
-**CAD:** DXF\
-(Υποστηρίζονται εν μέρει οι δυνατότητες εγγραφής.)
+Το ASPOSPER.CAD JAVA API φιλοξενούνται στο [Θέτω σε αποθήκη](https://repository.aspose.com/cad/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.cad για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.CAD for Java from Maven Repository](https://docs.aspose.com/cad/java/installation/).
 
-### Υποστηριζόμενα περιβάλλοντα
+## μετατρέψτε το σχέδιο DXF σε μορφή PNG
 
-- **Microsoft Windows:** Επιφάνεια εργασίας και διακομιστής Windows (x86, x64)
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, OpenSUSE, CentOS και άλλα
-- **Εκδόσεις Java:** `J2SE 7.0 (1.7)`, `J2SE 8.0 (1,8)`
+```java
+Image image = Image.load("template.dxf");
 
-{{< Common/hr >}}
+// create an instance of CadRasterizationOptions
+CadRasterizationOptions rasterizationOptions = new CadRasterizationOptions();
 
-{{< Tags/TagsWrapper >}}
-{{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+// set page width & height
+rasterizationOptions.setPageWidth(1200);
+rasterizationOptions.setPageHeight(1200);
 
-{{< Common/hr >}}
+// create an instance of PngOptions for the resultant image
+ImageOptionsBase options = new PngOptions();
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="cad" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+// set rasterization options
+options.setVectorRasterizationOptions(rasterizationOptions);
 
+// save resultant image
+image.save("output.png", options);
+```
+
+[Σελίδα προϊόντος](https://products.aspose.com/cad/java) | [Έγγραφα](https://docs.aspose.com/cad/java/) | [Επίδειξη](https://products.aspose.app/cad/family) | [Αναφορά API](https://apireference.aspose.com/cad/java) | [Παραδείγματα](https://github.com/aspose-cad/Aspose.CAD-for-Java) | [Ιστολόγιο](https://blog.aspose.com/category/cad/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/cad) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)

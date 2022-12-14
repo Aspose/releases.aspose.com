@@ -1,9 +1,66 @@
 ---
-title: "Baixar arquivos JAR de análise e gerenciamento de e-mail | Aspose.E-mail"
-description: "Baixe arquivos JAR que funcionam com SMTP, MIME, POP3, IMAP, HTTP, mensagens de e-mail em PST, MSG, OST, EML via Java API. Suporta iCalendar, validação e segurança."
-keywords: "Java Email API, IMAP, POP3, MAPI"
-family_listing_page_title: "Aspose.Email para Java"
-family_listing_page_description: "Aspose.Email para Java é um conjunto de APIs de processamento de e-mail para criar, manipular ou converter formatos de mensagem como MSG, EML e MHT de dentro de aplicativos Java. A API fornece a capacidade de manipular o conteúdo da mensagem, cabeçalhos, anexos e propriedades Mapi, bem como a capacidade de enviar e receber mensagens por meio de vários protocolos populares"
+title: "Aspose.Email | Biblioteca de classe Java para processar formatos de Outlook" 
+linktitle: Aspose.Email
+description: "Biblioteca de classe Java para trabalhar com SMTP, MIME, POP3, IMAP, HTTP, Correio eletrônico (email) em PST, MSG, OST, EML, etc. suporta iCalendar, validação e segurança." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Email
+- Aspose Java API
+- email java library
+- email java class
+- MSG
+- PST
+- OST
+- OFT
+- OLM
+- EML
+- EMLX
+- MBOX
+- ICS
+- VCF
+- HTML
+- MHTML
+- mail
+- electronic mail
+- import email
+- export email
+- mail merge
+- email embedded object
+- email attachment
+- email calendar
+- email utility
+- mime
+- email mime
+- email parsing
+- pop3
+- email pop3
+- exchange
+- email exchange
+- imap
+- email imap
+- email validation
+- icalendar
+- protocols
+- email protocols
+- RFC822
+- bulk mail
+- email parsing
+- parse emails
+- APOP
+- RFC2195
+- RFC283
+- exchange server
+- RFC2831
+- RFC2595
+- email authentication
+- RFC2445
+- http
+family_listing_page_title: "Aspose.ail para java" 
+family_listing_page_description: "Aspose.Email para Java é um conjunto de APIs de processamento de email para criar, manipular ou converter formatos de mensagem como MSG, EML & MHT nos aplicativos Java. A API fornece a capacidade de manipular conteúdo de mensagens, cabeçalhos, anexos e propriedades MAPI, bem como capacidade de enviar e receber mensagens através de vários protocolos populares" 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,87 +68,150 @@ family_listing_page_venture: "4"
 family_listing_page_package: "27"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-email/"
-tags: ['Aspose.Total', 'Aspose.Email', 'Aspose-Java-API', 'email-java-library', 'email-java-class', 'MSG', 'PST', 'OST', 'OFT', 'OLM', 'EML', 'EMLX', 'MBOX', 'ICS', 'VCF', 'HTML', 'MHTML', 'mail', 'electronic-mail', 'import-email', 'export-email', 'mail-merge', 'email-embedded-object', 'email-attachment', 'email-calendar', 'email-utility', 'mime', 'email-mime', 'email-parsing', 'pop3', 'email-pop3', 'exchange', 'email-exchange', 'imap', 'email-imap', 'email-validation', 'icalendar', 'protocols', 'email-protocols', 'RFC822', 'bulk-mail', 'email-parsing', 'parse-emails', 'APOP', 'RFC2195', 'RFC283', 'exchange-server', 'RFC2831', 'RFC2595', 'email-authentication', 'RFC2445', 'http']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/email/12
+productLink: https://products.aspose.com/email/java/
+dataFolder: aspose_email
+packages_refs:
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "22-5"
+- "16-10-0"
+- "16-11-0"
+- "16-12-0"
+- "17-1-0"
+- "17-10"
+- "17-11"
+- "17-12"
+- "17-2-0"
+- "17-3-0"
+- "17-4-0"
+- "17-5-0"
+- "17-6-0"
+- "17-7"
+- "17-8"
+- "17-9"
+- "18-1"
+- "18-10"
+- "18-11"
+- "18-12"
+- "18-2"
+- "18-3"
+- "18-4"
+- "18-5"
+- "18-6"
+- "18-7"
+- "18-8"
+- "18-9"
+- "19-1"
+- "19-10"
+- "19-11"
+- "19-12"
+- "19-2"
+- "19-3"
+- "19-4"
+- "19-5"
+- "19-6"
+- "19-7"
+- "19-8"
+- "19-9"
+- "20-1"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-2"
+- "20-3"
+- "20-4"
+- "20-5"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-1"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-2-1"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-1"
+- "22-2"
+- "22-3"
+- "22-4"
+- "6-0-0"
+- "6-1-0"
+- "6-2-0"
+- "6-3-0"
+- "6-4-0"
+- "6-5-0"
+- "6-6-0"
+- "6-7-0"
+- "6-8-0"
+- "6-9-0"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/email" linktext=" Support Forum " >}}
+# API de email java
+[![banner](./aspose_email-for-java-banner.png)](./)
 
-{{< Common/h2 text="Baixe o Aspose.Email para processar formatos de arquivo do Outlook®"  >}}
-{{< Common/paragraph class="package-instructions">}}
-O Aspose hospeda todas as APIs Java no
-{{< Common/link href="https://repository.aspose.com" text="Repositório Aspose"  >}}. Você pode facilmente usar a API Aspose.Email para Java diretamente em seus projetos baseados em Maven adicionando as seguintes configurações ao seu pom.xml. Para obter instruções detalhadas, visite
-{{< Common/link href="https://docs.aspose.com/email/java/installation/" text="Instalando o Aspose.Email para Java do Repositório Maven"  >}}página de documentação.
-{{< Common/release-notes-link family="email" product="java" href="https://docs.aspose.com/email/java/release-notes/" text="https://docs.aspose.com/email/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Página do produto](https://products.aspose.com/email/java) | [Documentos](https://docs.aspose.com/email/java/) | [Demos](https://products.aspose.app/email/family) | [Referência da API](https://apireference.aspose.com/email/java) | [Exemplos](https://github.com/aspose-email/Aspose.Email-for-Java) | [Blog](https://blog.aspose.com/category/email/) | [Procurar](https://search.aspose.com/) | [Suporte gratuito](https://forum.aspose.com/c/email) | [Licença temporária](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.Email for Java](https://products.aspose.com/email/java) é um conjunto completo de APIs de processamento de email para criar, ler e manipular e -mails de seus aplicativos. Isso facilita o trabalho com muitos formatos de mensagem de e -mail do Outlook, como arquivos MSG, EML, EMLX e MHT sem a necessidade de instalar o Microsoft Outlook. Ele também permite gerenciar arquivos de armazenamento de mensagens - arquivos de armazenamento pessoal (PST), arquivos de armazenamento offline (OST) junto com recursos de envio e recebimento de mensagens. Você também pode ler e extrair o arquivo PST do Outlook que pode ser salvo no disco no formato MSG.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-email</artifactId>
-      <version>22.6</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+## Recursos de API de email
+- Crie mensagens do zero ou carregue arquivos de email existentes para edição.
+- Crie e defina o conteúdo das mensagens MIME.
+- Extraia o conteúdo de e -mails.
 
-[Product Page](https://products.aspose.com/email/java) | [Docs](https://docs.aspose.com/email/java/) | [Demos](https://products.aspose.app/email/family) | [API Reference](https://reference.aspose.com/email/java) | [Examples](https://github.com/aspose-email/Aspose.Email-for-Java) | [Blog](https://blog.aspose.com/category/email/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/email) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+- Carregue e salve [nomeação em formato de ICS](https://docs.aspose.com/email/java/working-with-appointments/).
+- Capacidade de conectar -se ao SMTP, POP3, IMAP, Exchange Server.
+- Trabalha com as notas Thunderbird, Zimbra e IBM.
 
-Aspose.Email para Java é um conjunto completo de APIs de processamento de email para criar, ler e manipular emails de dentro de seus aplicativos. Facilita o trabalho com muitos formatos de mensagens de e-mail do Outlook, como arquivos MSG, EML, EMLX e MHT, sem a necessidade de instalar o Microsoft Outlook. Ele também permite que você gerencie arquivos de armazenamento de mensagens - Arquivos de Armazenamento Pessoal (PST), Arquivos de Armazenamento Offline (OST), juntamente com recursos de envio e recebimento de mensagens. Você também pode ler e extrair o arquivo PST do Outlook que pode ser salvo em disco no formato MSG.
+## Leia e escreva formatos de email
+** Microsoft Outlook: ** MSG, PST, OST, OFT \
+** E -mail: ** EML, EMLX, MBOX \
+** Outros: ** ICS, VCF, HTML, MHTML
 
-### Recursos da API de e-mail
+## Leia formatos de e -mail
+** Mac Outlook: ** olm
 
-- Crie mensagens do zero ou carregue arquivos de e-mail existentes para edição.
-- Criar e definir o conteúdo de mensagens MIME.
-- Extraia o conteúdo dos e-mails.
-- Carregue e salve o compromisso no formato ICS.
-- Capacidade de se conectar ao servidor SMTP, POP3, IMAP, Exchange.
-- Funciona com Thunderbird, Zimbra e IBM Notes.
+## Ambientes suportados
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** MacOS: ** Mac OS X
+- ** Linux: ** Ubuntu, OpenSuse, Centos e outros
+- ** Versões Java: ** `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)`
 
-### Ler e escrever formatos de e-mail
+## Iniciar
 
-**Microsoft Outlook®:** MSG, PST, OST, OFT\
-**E-mail:** EML, EMLX, MBOX\
-**Outros:** ICS, VCF, HTML, MHTML
+Aspis java aspom.ail estão hospedadas no [Aspose repositório](https://repository.aspose.com/email/). Você pode facilmente usar o Aspose.ail para a API Java diretamente em seus projetos Maven com configurações simples. Para as instruções detalhadas, visite [Installing Aspose.Email for Java from Maven Repository](https://docs.aspose.com/email/java/installation/) Página de documentação.
 
-### Ler formatos de e-mail
+## Execute a operação de backup de mensagens IMAP usando Java
 
-**Mac Outlook:** OLM
+```java
+ImapClient imapClient = new ImapClient();
+imapClient.setHost("<HOST>");
+imapClient.setPort(993);
+imapClient.setUsername("<USERNAME>");
+imapClient.setPassword("<PASSWORD>");
+imapClient.setSupportedEncryption(EncryptionProtocols.Tls);
+imapClient.setSecurityOptions(SecurityOptions.SSLImplicit);
 
-### Ambientes Suportados
+ImapMailboxInfo mailboxInfo = imapClient.getMailboxInfo();
 
-- **Microsoft Windows®:** Windows Desktop & Server (x86, x64)
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, OpenSUSE, CentOS e outros
-- **Versões Java:** `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)`
+ImapFolderInfo info = imapClient.getFolderInfo(mailboxInfo.getInbox().getName());
+ImapFolderInfoCollection infos = new ImapFolderInfoCollection();
+infos.add(info);
 
-### Iniciar
+imapClient.backup(infos, dataDir + "\\ImapBackup.pst", BackupOptions.None);
+```
 
-O Aspose hospeda todas as APIs Java no [Aspose Repository](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email). Você pode facilmente usar a API Aspose.BarCode para Java diretamente em seus projetos Maven com configurações simples. Para obter instruções detalhadas, visite a página de documentação [Installing Aspose.Email for Java from Maven Repository](https://docs.aspose.com/email/java/installation/).
-
-{{< Common/hr >}}
-
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
-
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="email" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[Página do produto](https://products.aspose.com/email/java) | [Documentos](https://docs.aspose.com/email/java/) | [Demos](https://products.aspose.app/email/family) | [Referência da API](https://apireference.aspose.com/email/java) | [Exemplos](https://github.com/aspose-email/Aspose.Email-for-Java) | [Blog](https://blog.aspose.com/category/email/) | [Procurar](https://search.aspose.com/) | [Suporte gratuito](https://forum.aspose.com/c/email) | [Licença temporária](https://purchase.aspose.com/temporary-license)

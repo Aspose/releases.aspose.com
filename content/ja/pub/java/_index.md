@@ -1,8 +1,33 @@
 ---
-title: "PUB 読み取り & 変換 JAR ファイルをダウンロード | Aspose.PUB API"
-description: "Java クラスを含む JAR ファイルをダウンロードして、オンプレミス API を介して Microsoft Publisher ドキュメント形式を解析、処理、および PDF に変換します。"
-family_listing_page_title: "Aspose.PUB for Java"
-family_listing_page_description: "Aspose.PUB ライブラリは、PUB ファイルをロードして PDF に変換できるシンプルで便利な API を提供します。 Java を使用して実装され、Web ベースまたはデスクトップ アプリケーションを含む Java ベースのアプリケーションで使用できます。"
+title: "Aspose.pub |電子パブリッシングファイルJavaクラスライブラリ" 
+linktitle: Aspose.PUB
+description: "Java Libraryは、パブリッシャーのドキュメント形式をPDFに解析、処理、変換します。独自の製品に機能を実装します。" 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose PUB
+- Aspose Java API
+- pub java library
+- pub java class
+- PUB
+- PDF
+- Microsoft Publisher
+- PUB conversion
+- Convert PUB
+- PUB to PDF
+- metadata
+- Windows
+- Linux
+- Mac
+- J2SE
+- Maven
+- edit metadata
+- modify metadata
+family_listing_page_title: "JavaのAspose.pub" 
+family_listing_page_description: "Aspose.Pubライブラリは、PUBファイルをPDFにロードおよび変換できるシンプルで便利なAPIを提供します。 Javaを使用して実装されており、Webベースまたはデスクトップアプリケーションを含むJavaベースのアプリケーションで使用できます。" 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -10,79 +35,59 @@ family_listing_page_venture: "4"
 family_listing_page_package: "225"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-pub/"
-tags: ['Aspose.Total', 'Aspose.PUB', 'Aspose-Java-API', 'pub-java-library', 'pub-java-class', 'PUB', 'PDF', 'Microsoft-Publisher', 'PUB-conversion', 'Convert-PUB', 'PUB-to-PDF', 'metadata', 'Windows', 'Linux', 'Mac', 'J2SE', 'Maven', 'edit-metadata', 'modify-metadata']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/pub/40
+productLink: https://products.aspose.com/pub/java/
+dataFolder: aspose_pub
+packages_refs:
+- "22-8"
+- "20-8"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/pub" linktext=" Support Forum " >}}
+# JavaAPI経由でPUBファイルを処理します
 
-{{< Common/h2 text="Aspose.PUB をダウンロードして Microsoft Publisher® ファイルを操作する"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose はすべての Java API を
-{{< Common/link href="https://repository.aspose.com" text="Aspose リポジトリ"  >}}.以下の構成を pom.xml に追加することにより、Maven ベースのプロジェクトで Aspose.PUB for Java API を直接簡単に使用できます。詳細な手順については、次の URL をご覧ください。
-{{< Common/link href="https://docs.aspose.com/pub/java/installation/" text="Maven リポジトリから Aspose.PUB for Java をインストールする"  >}}ドキュメントページ。
-{{< Common/release-notes-link family="pub" product="java" href="https://docs.aspose.com/pub/java/release-notes/" text="https://docs.aspose.com/pub/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[![banner](./aspose_pub-for-java-banner.png)](./)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[製品ページ](https://products.aspose.com/pub/java) | [ドキュメント](https://docs.aspose.com/pub/java/) | [APIリファレンス](https://apireference.aspose.com/pub/java) | [例](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/例) | [ブログ](https://blog.aspose.com/category/pub/) | [探す](https://search.aspose.com/) | [無料サポート](https://forum.aspose.com/c/pub) | [一時ライセンス](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-pub</artifactId>
-      <version>20.8</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+[Aspose.PUB for Java](https://products.aspose.com/pub/java)は、Microsoft Publisher（.Pub）ファイルをPDFに読み取り、操作、変換できるJava APIです。 JavaアプリケーションのAPIを使用して、基礎となるFilie形式を心配することなく.pubファイルを使用できます。 APIは、JSPを使用してJavaデスクトップとWebアプリケーションで使用できます。 APIは軽量で、使いやすく、アプリケーションの単純なコード行でアプリケーションを簡素化します。
 
-[Product Page](https://products.aspose.com/pub/java) | [Docs](https://docs.aspose.com/pub/java/) | [API Reference](https://reference.aspose.com/pub/java) | [Examples](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/Examples) | [Blog](https://blog.aspose.com/category/pub/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pub) | [Temporary License](https://purchase.aspose.com/temporary-license) | {{ハイパーリンク9}}
+## Pub Java API機能
+-PDF形式への変換のために、Microsoft Publisher（PUB）ファイルをお読みください。
+-Pubファイルのメタデータを操作します。
 
-## Aspose.PUB for Java をダウンロードする理由
+## パブファイルを読みます
+** Microsoft Publisher：** Pub
 
-Aspose.PUB for Java は、Microsoft Publisher® (.pub) ファイルを読み取り、操作し、PDF に変換できる Java API です。 Java アプリケーションで API を使用して、基になるファイル形式を気にせずに .pub ファイルを操作できます。この API は、JSP を使用する Web アプリケーションだけでなく、Java デスクトップでも使用できます。 API は軽量で使いやすく、アプリケーション内の単純なコード行でアプリケーションを簡素化します。
+## パブとして保存します
+**レイアウトを修正：** PDF
 
-## PUB Java API 機能
+## サポートされている環境
+ -  ** Microsoft Windows：** Windowsデスクトップ＆サーバー（x86、x64）
+ -  ** macOS：** Mac OS X
+ -  ** linux：** ubuntu、centos、その他
+ -  ** Javaバージョン：** `J2SE 8.0（1.8）`または
 
-- Microsoft Publisher® (PUB) ファイルを読み込んで PDF 形式に変換します。
-- PUB ファイルのメタデータの操作。
+## 始めましょう
 
-### PUB ファイルの読み取り
+Aspose.pub Java APIは[Aspose Repository](https://repository.aspose.com/pub/)でホストされています。簡単な構成を使用して、MavenプロジェクトでJava APIのAspose.pubを簡単に使用できます。詳細な手順については、[Installing Aspose.PUB for Java from Aspose Repository](https://docs.aspose.com/pub/java/installation/)ドキュメントページをご覧ください。
 
-**Microsoft Publisher®:** PUB
+## Javaを使用してMicrosoft Publisherファイルのメタデータを編集します
 
-### PUB を名前を付けて保存
+```java
+// For complete examples and data files, please go to https://github.com/aspose-pub/Aspose.PUB-for-Java
+IPubParser parser = PubFactory.createParser(fileName);
+Document document = parser.parse();
 
-**固定レイアウト:** PDF
+document.getDocumentSummaryInfo().setCategory("category");
+document.getDocumentSummaryInfo().setCompany("company");
+document.getDocumentSummaryInfo().setLanguage("language");
 
-### サポートされている環境
+document.getSummaryInfo().setComments("comments");
+document.getSummaryInfo().setKeywords("keywords");
+document.getSummaryInfo().setLastAuthor("last author");
+document.getSummaryInfo().setTitle("title");
+document.getSummaryInfo().setSubject("subject");
+```
 
-- **Microsoft Windows®:** Windows デスクトップおよびサーバー (x86、x64)
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu、CentOS など
-- **Java バージョン:** `J2SE 8.0 (1.8)` 以降
-
-{{< Common/hr >}}
-
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
-
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="pub" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[製品ページ](https://products.aspose.com/pub/java) | [ドキュメント](https://docs.aspose.com/pub/java/) | [APIリファレンス](https://apireference.aspose.com/pub/java) | [例](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/例) | [ブログ](https://blog.aspose.com/category/pub/) | [探す](https://search.aspose.com/) | [無料サポート](https://forum.aspose.com/c/pub) | [一時ライセンス](https://purchase.aspose.com/temporary-license)

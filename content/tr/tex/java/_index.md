@@ -1,9 +1,43 @@
 ---
-title: "Oluşturmak ve TypeSet TeX için JAR Dosyalarını İndirin | Aspose.TeX API'si"
-description: "Uygulamanıza dizgi özelliği eklemek için JAR dosyalarını indirin. TeX ve LaTeX'i PDF, XPS, SVG vb.'ye dönüştürün. Yazı tipi alt ayarı, bitişik harf, rasterleştirme vb. destekler."
-keywords: "tex"
-family_listing_page_title: "Java için Aspose.TeX"
-family_listing_page_description: "Aspose.TeX for Java, geliştiricilerin TeX dosya dizgisi için uygulamalar oluşturmasına izin vermek için oluşturulmuş bir Java API'sidir."
+title: "Aspose.tex | Java Kütüphanesi Tex Dosyalarını dizgi ve dönüştürmek için" 
+linktitle: Aspose.TeX
+description: "Uygulamanızda dizgi özelliği eklemek için Java Sınıf Kütüphanesi. Tex & Latex'i PDF, XPS, SVG vb." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose TeX
+- Aspose Java API
+- tex-java-library
+- tex-java-class
+- XPS
+- PDF
+- PNG
+- JPEG
+- TIFF
+- BMP
+- TEXT
+- typesetting
+- ZIP
+- J2SE
+- Windows
+- Linux
+- Mac
+- format conversion
+- tex conversion
+- latex conversion
+- font subsetting
+- ligature
+- rasterization
+- OXPS
+- PS
+- EPS
+- SVG
+- TeX to SVG
+family_listing_page_title: "Java için aspose.tex" 
+family_listing_page_description: "Java için aspose.tex, geliştiricilerin Tex dosyaları yazımı için uygulamalar oluşturmasına izin vermek için oluşturulan bir Java API'sıdır." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,78 +45,64 @@ family_listing_page_venture: "4"
 family_listing_page_package: "276"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-tex/"
-tags: ['XPS', 'PDF', 'PNG', 'JPEG', 'TIFF', 'BMP', 'TEXT', 'typesetting', 'ZIP', 'J2SE', 'Windows', 'Linux', 'Mac', 'format-conversion', 'tex-conversion', 'latex-conversion', 'font-subsetting', 'ligature', 'rasterization', 'OXPS', 'PS', 'EPS', 'SVG', 'TeX-to-SVG']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/tex/47
+productLink: https://products.aspose.com/tex/java/
+dataFolder: aspose_tex
+packages_refs:
+- "22-11"
+- "22-10"
+- "22-8"
+- "22-6"
+- "21-11"
+- "21-4"
+- "21-8"
+- "21-9"
+- "22-2"
+- "22-3"
+- "22-4"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/tex" linktext=" Support Forum " >}}
+# Java API TEX DOSYALARI YAZILARI İÇİN
+[![banner](./aspose_tex-for-java-banner.png)](./)
 
-{{< Common/h2 text="Aspose.TeX'i TypeSet TeX Dosyalarına İndirin"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose, tüm Java API'lerini şu adreste barındırır:
-{{< Common/link href="https://repository.aspose.com" text="Aspose Deposu"  >}}. Pom.xml'inize aşağıdaki konfigürasyonları ekleyerek Aspose.TeX for Java API'sini doğrudan Maven tabanlı projelerinizde kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen ziyaret edin
-{{< Common/link href="https://docs.aspose.com/tex/java/installation/" text="Aspose.TeX for Java'yı Maven Repository'den Kurmak"  >}}dokümantasyon sayfası.
-{{< Common/release-notes-link family="tex" product="java" href="https://docs.aspose.com/tex/java/release-notes/" text="https://docs.aspose.com/tex/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Ürün sayfası](https://products.aspose.com/tex/java) | [Belgeler](https://downloads.aspose.com/tex/java) | [Demolar](https://products.aspose.app/tex/family) | [API referansı](https://apireference.aspose.com/tex/java) | [Örnekler](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/Örnekler) | [Blog](https://blog.aspose.com/category/tex/) | [Ücretsiz Destek](https://forum.aspose.com/c/tex) | [Geçici lisans](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.TeX for Java](https://products.aspose.com/tex/java), ObjectTex adlı bir Tex Engine uzantısı sağlayan bir kütüphane. Tex dosyaları tarafından açıklanan belgeleri dizmek için kullanılabilir. `` Nesne '', IntermediaryTypesetting sonucunun, daha sonra bir dizi son formata eşit olarak dönüştürülebilen belirli bir nesne modeli olduğu anlamına gelir.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-tex</artifactId>
-      <version>22.6</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+## Dosya İşleme Özellikleri Dinetleme
+- Typesetting of TeX files
+- Create custom TeX formats
+- Provide input data in various ways
+- Fetch output data in various ways
 
-{{KÖPRÜ1}} | {{KÖPRÜ2}} | {{KÖPRÜ3}} | {{KÖPRÜ4}} | {{KÖPRÜ5}} | {{KÖPRÜ6}} | {{KÖPRÜ7}} | {{KÖPRÜ8}} | {{KÖPRÜ9}}
+## Desteklenen giriş formatları
+Tex
 
-## Neden Java için Aspose.TeX'i indirmelisiniz?
-
-Aspose.TeX for Java, ObjectTeX adlı bir TeX motoru uzantısı sağlayan bir kütüphanedir. TeX dosyaları tarafından açıklanan belgeleri dizmek için kullanılabilir. "Nesne", ara tip ayarı sonucunun belirli bir nesne modeli olduğu ve daha sonra bir dizi son biçime tek biçimli olarak dönüştürülebileceği anlamına gelir.
-
-## TypeAyar Dosya İşleme Özellikleri
-
-- TeX dosyalarının dizgisi
-- Özel TeX formatları oluşturun
-- Giriş verilerini çeşitli şekillerde sağlayın
-- Çıktı verilerini çeşitli şekillerde getir
-
-### Desteklenen Giriş Formatları
-
-TeX
-
-### TeX'i Farklı Kaydet
-
+## Tex'i şöyle kaydedin
 XPS, PDF, JPEG, PNG, TIFF ve BMP
 
-### Dizgi için Desteklenen Gömülü Yazı Tipleri
+## dizgi için desteklenen gömülü yazı tipleri
+cmbsy10, cmbx10, cmbx5, cmbx6, cmbx7, cmbx8, cmbx9, cmcsc10, cmdunh10, cmex10, cmmi10, cmmi5, cmmi6, cmm7, cmmi8, cmmi9, cmmib10, cmr10, cmr5, cmr6, cmr7, cmr8, cmr9, cmsl10, cmsl8, CMSL9, CMSLTT10, CMSS10, CMSSBX10, CMSSI10, CMSSQ8, CMSSQI8, CMSY10, CMSY8, CMSY9, CMSY7, CMSY8, CMSY9, CMTI10, CMTI7, CMT1, CMT1, CMT8, CMT8, CMT8, CMT8, CMT8, CMT8, CMT8, CMT8, CMT8, CMT8, CMT8, CMT8, CMT8,
 
-cmbsy10, cmbx10, cmbx5, cmbx6, cmbx7, cmbx8, cmbx9, cmcsc10, cmdunh10, cmex10, cmmi10, cmmi5, cmmi6, cmm7, cmmi8, cmmi9, cmmib10, cmr10, cmr5, cmr6, cmr10, cms8 cmsl9, cmsltt10, cmss10, cmssbx10, cmssi10, cmssq8, cmssqi8, cmsy10, cmsy5, cmsy6, cmsy7, cmsy8, cmsy9, cmti10, cmti7, cmti8, cmti9, cmtt10, cmtt8, cmtt9, cmu
+## Desteklenen Platformlar
+Windows (32 bit veya 64 bit) Linux ve macOS için herhangi bir Java uygulaması oluşturmak için Java için aspose.tex kullanabilirsiniz. Java için aspose.tex, J2SE 8.0 (1.8) veya üstünü (örneğin Java 10) destekler.
 
-{{< Common/hr >}}
+## Özel bir Tex biçimi oluşturmak için Java'yı kullanın
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+```java
+// Create typesetting options for no format on ObjectTeX engine extension.
+TeXOptions options = TeXOptions.consoleAppOptions(TeXConfig.objectIniTeX());
+// Specify a file system working directory for input.
+options.setInputWorkingDirectory(new InputFileSystemDirectory(Utils.getInputDirectory()));
+// Specify a file system working directory for output.
+options.setOutputWorkingDirectory(new OutputFileSystemDirectory(Utils.getOutputDirectory()));
 
-{{< Common/hr >}}
+// Run format creation.
+TeX.createFormat("customtex", options);
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="tex" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+// For further output to look write.
+options.getTerminalOut().getWriter().newLine();
+```
 
+[Ürün sayfası](https://products.aspose.com/tex/java) | [Belgeler](https://downloads.aspose.com/tex/java) | [Demolar](https://products.aspose.app/tex/family) | [API referansı](https://apireference.aspose.com/tex/java) | [Örnekler](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/Örnekler) | [Blog](https://blog.aspose.com/category/tex/) | [Ücretsiz Destek](https://forum.aspose.com/c/tex) | [Geçici lisans](https://purchase.aspose.com/temporary-license)

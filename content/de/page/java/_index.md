@@ -1,9 +1,77 @@
 ---
-title: "Laden Sie JAR-Dateien zum Erstellen, Konvertieren von XPS PS | Aspose.Page"
-description: "Laden Sie JAR-Dateien herunter, um XPS-, PS- und EPS-Formate über die API zu lesen, zu erstellen und zu konvertieren. Unterstützt Glyphen, Pinsel, Vektoren, Bezier, Farbpinsel, Transparenz und Deckkraftmaske."
-keywords: "Java XPS Library"
-family_listing_page_title: "Aspose.Page für Java"
-family_listing_page_description: "Aspose.Page ist eine Java-API, die entwickelt wurde, um Entwicklern die Arbeit mit XPS- und EPS-Dokumenten zu ermöglichen. Mit der API können Sie bestehende sowie neue XPS-Dokumente erstellen, bearbeiten und speichern. Darüber hinaus können Sie XPS- und EPS-Dokumente in PDF und Bilder konvertieren. Es bietet umfassende Manipulationsmöglichkeiten und kann in jede Art von Desktop-GUI-Anwendungen, Webanwendungen und Konsolenanwendungen integriert werden."
+title: "ASSONE.PAGE | Java -Klassenbibliothek für die PostScript -Verarbeitung" 
+linktitle: Aspose.Page
+description: "Java -Klassenbibliothek zum Lesen, Erstellen und Konvertieren von XPS, PS & EPS -Formaten. Unterstützt Glyphe, Bildpinsel, Vektor, Bezier, Farbpinsel, Transparenz und Opazitätsmaske." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Page
+- Aspose Java API
+- page java library
+- page java class
+- XPS
+- EPS
+- PS
+- PDF
+- BMP
+- TIFF
+- JPEG
+- PNG
+- postscript
+- canvas
+- path
+- glyph
+- vector
+- bezier
+- solid color brush
+- image brush
+- visual brush
+- sRGB
+- scRGB
+- ICC
+- print schema
+- Type2
+- CFF
+- Type14
+- Chameleon
+- CID
+- raster
+- Windows
+- Linux
+- Mac
+- J2SE
+- Maven
+- EPS to BMP
+- EPS to EMF
+- EPS to JPG
+- EPS to PDF
+- EPS to PNG
+- EPS to TIFF
+- EPS to WMF
+- postscript to BMP
+- postscript to JPG
+- postscript to PDF
+- postscript to PNG
+- postscript to TIFF
+- XPS to BMP
+- XPS to JPG
+- XPS to PDF
+- XPS to PNG
+- XPS to TIFF
+- text
+- image
+- page
+- gradient
+- visual brush
+- transparency
+- tiled image
+- horizontal gradient
+- opacity mask
+family_listing_page_title: "ASSOSPE.PAGE FÜR JAVA" 
+family_listing_page_description: "ASSONE.PAGE ist eine Java -API, mit der Entwickler mit XPS- und EPS -Dokumenten arbeiten können. Mit der API können Sie vorhandene sowie neue XPS -Dokumente erstellen, bearbeiten und speichern. Darüber hinaus können Sie XPS- und EPS -Dokumente in PDF und Bilder konvertieren. Es bietet umfangreiche Manipulationsfunktionen und kann in jede Art von Desktop -GUI -Anwendungen, Webanwendungen und Konsolenanwendungen integriert werden." 
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,89 +79,98 @@ family_listing_page_venture: "4"
 family_listing_page_package: "169"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-page/"
-tags: ['J2SE', 'Maven', 'EPS-to-BMP', 'EPS-to-EMF', 'EPS-to-JPG', 'EPS-to-PDF', 'EPS-to-PNG', 'EPS-to-TIFF', 'EPS-to-WMF', 'postscript-to-BMP', 'postscript-to-JPG', 'postscript-to-PDF', 'postscript-to-PNG', 'postscript-to-TIFF', 'XPS-to-BMP', 'XPS-to-JPG', 'XPS-to-PDF', 'XPS-to-PNG', 'XPS-to-TIFF']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/page/39
+productLink: https://products.aspose.com/page/java/
+dataFolder: aspose_page
+packages_refs:
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "19-10"
+- "19-11"
+- "19-12"
+- "19-6"
+- "19-7"
+- "19-8"
+- "19-9"
+- "20-1"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-3"
+- "20-4"
+- "20-5"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-1"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-4"
+- "21-6"
+- "21-7"
+- "21-8"
+- "22-2"
+- "22-4"
+- "22-5"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/page" linktext=" Support Forum " >}}
+# Java -APIs für PS-, EPS- und XPS -Dateiformate
+[![banner](./aspose_page-for-java-banner.png)](./)
 
-{{< Common/h3 text="Laden Sie Aspose.Page herunter, um mit PS-, EPS- und XPS-Dateiformaten zu arbeiten"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose hostet alle Java-APIs auf der
-{{< Common/link href="https://repository.aspose.com" text="Aspose-Repository"  >}}. Sie können die Aspose.Page für Java-API ganz einfach direkt in Ihren Maven-basierten Projekten verwenden, indem Sie Ihrer pom.xml die folgenden Konfigurationen hinzufügen. Für die detaillierten Anweisungen besuchen Sie bitte
-{{< Common/link href="https://docs.aspose.com/page/java/installation/" text="Aspose.Page für Java aus dem Maven-Repository installieren"  >}}Dokumentationsseite.
-{{< Common/release-notes-link family="page" product="java" href="https://docs.aspose.com/page/java/release-notes/" text="https://docs.aspose.com/page/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Produktseite](https://products.aspose.com/page/java) | [Dokumente](https://docs.aspose.com/page/java/) | [Demos](https://products.aspose.app/page/family) | [API -Referenz](https://apireference.aspose.com/page/java) | [Beispiele](https://github.com/aspose-page/Aspose.Page-for-Java) | [Blog](https://blog.aspose.com/category/page/) | [Suche](https://search.aspose.com/) | [Freie Unterstützung](https://forum.aspose.com/c/page) | [Vorübergehende Lizenz](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.Page for Java](https://products.aspose.com/page/java) bietet XPS -Dokumente an. Es bietet auch Funktionen zum Umwandeln von XPS-, PS- und EPS -Dokumenten in Bildformate und PDF.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-page</artifactId>
-      <version>22.6</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
-
-[Product Page](https://products.aspose.com/page/java) | [Docs](https://docs.aspose.com/page/java/) | [Demos](https://products.aspose.app/page/family) | [API Reference](https://reference.aspose.com/page/java) | [Examples](https://github.com/aspose-page/Aspose.Page-for-Java) | [Blog](https://blog.aspose.com/category/page/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/page) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-### Warum Aspose.Page für Java herunterladen?
-
-Aspose.Page für Java bietet die Möglichkeit, XPS-Dokumente zu erstellen und zu manipulieren. Es bietet auch Funktionen zum Konvertieren von XPS-, PS- und EPS-Dokumenten in Bildformate und PDF.
-
-### Bearbeiten Sie XPS-Dokumente über Java
-
-- XPS-Dokument erstellen und bearbeiten.
-- Seiten des XPS-Dokuments hinzufügen oder entfernen.
-- Speichern Sie XPS-Dokumente als Rasterbilder und PDF.
+## Manipulieren Sie XPS -Dokumente über Java
+- XPS -Dokument erstellen und bearbeiten.
+- Seiten des XPS -Dokuments hinzufügen oder entfernen.
+- Speichern Sie XPS -Dokumente als Rasterbilder & PDF.
 - Arbeiten Sie mit Leinwänden, Pfaden und Glyphenelementen.
-- Erstellen Sie Vektorgrafikformen (Path-Element) mit einer Reihe von Primitiven (elliptische Bögen, Bézier-Kurvensegmente und gerade Liniensegmente).
-- Erstellen Sie Textzeichenfolgen (Glyphs-Element).
-- Gruppenelemente (Canvas-Element), um eine Gruppe als Ganzes zu bearbeiten.
+- Erstellen Sie Vektorgrafikformen (Pfadelement) mit einem Satz von Primitiven (Elliptikbögen, Bezier -Kurvensegmente und geraden Liniensegmente).
+- Erstellen Sie Textzeichenfolgen (Glyphenelement).
+- Gruppenelemente (Canvas -Element), um eine Gruppe als Ganzes zu manipulieren.
 - Manipulieren Sie das Erscheinungsbild von Grafiken und Textzeichenfolgen.
-- Verwenden Sie verschiedene Arten von Pinseln, darunter Volltonpinsel, Bildpinsel, visuelle Pinsel und mehr.
-- Geben Sie Farben in verschiedenen Farbräumen an, einschließlich sRGB, scRGB und jedem Raum, der auf dem ICC-Profil basiert.
-- Arbeiten Sie mit mehreren Dokumenten in einem XPS-Dokument.
-- Gedruckte Tickets im geöffneten XPS-Dokument aufbewahren, falls vorhanden.
-- Fügen Sie Standard-Drucktickets zu einem neuen XPS-Dokument oder einem geöffneten Dokument hinzu, wenn es keine Tickets enthält.
-- Manipulieren Sie Hyperlinks, die XPS-Elementen zugeordnet sind.
-- Bearbeiten, speichern und konvertieren Sie XPS-Gliederungselemente.
+- Verwenden Sie Pinsel verschiedener Typen, einschließlich fester Farbpinsel, Bildpinsel, visueller Pinsel und mehr.
+- Geben Sie Farben in verschiedenen Farbräumen an, einschließlich SRGB, SCRGB und jedem Speicherplatz basierend auf dem ICC -Profil.
+- Arbeiten Sie mit mehreren Dokumenten in einem XPS -Dokument.
+- Drucken Tickets in geöffnetem XPS -Dokument erhalten, falls vorhanden.
+- Fügen Sie Standard -Drucktickets in ein neues XPS -Dokument oder eine geöffnete hinzu, wenn keine Tickets darin enthalten sind.
+- Manipulieren Sie Hyperlinks, die mit XPS -Elementen verbunden sind.
+- Manipulieren, speichern und konvertieren XPS -Umrisselemente.
 
-### PostScript-Dateien über Java konvertieren
+## Wirkungsdateien über Java konvertieren Sie Postscript -Dateien
+- Supports PostScript language levels 1-3 with an exception of font types: Type2 (CFF), Type14 (Chameleon), Types 9, 10, 11, 32 (CID-Keyed)
+- Speichern Sie PS & EPS als PDF & Bilder.
 
-- Unterstützt die PostScript-Sprachebenen 1-3 mit Ausnahme von Schriftarten: Type2 (CFF), Type14 (Chameleon), Types 9, 10, 11, 32 (CID-Keyed)
-- PS & EPS als PDF & Bilder speichern.
+## unterstützte Umgebungen
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** macOS: ** Mac OS x
+- ** Linux: ** Ubuntu, OpenSuse, Centos und andere
+- ** Java -Versionen: ** `J2SE 8.0 (1,8) oder höher
 
-### Unterstützte Umgebungen
+## Loslegen
 
-- **Microsoft Windows®:** Windows-Desktop und -Server (x86, x64)
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, OpenSUSE, CentOS und andere
-- **Java-Versionen:** `J2SE 8.0 (1.8)` oder höher
+ASSONE.PAGE JAVA APIs werden am [ASSOSE Repository](https://repository.aspose.com/page/) gehostet. Sie können ASSONE.PAGE für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/) -Dokumentationsseite.
 
-{{< Common/hr >}}
+## Fügen Sie Seiten zu vorhandenem XPS -Dokument hinzu
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+```java
+// create new XPS Document
+XpsDocument doc = new XpsDocument("output.xps");
 
-{{< Common/hr >}}
+// insert an empty page at beginning of pages list
+doc.insertPage(1, true);
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="page" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+// save resultant XPS document
+doc.save("output.xps");
+```
 
+[Produktseite](https://products.aspose.com/page/java) | [Dokumente](https://docs.aspose.com/page/java/) | [Demos](https://products.aspose.app/page/family) | [API -Referenz](https://apireference.aspose.com/page/java) | [Beispiele](https://github.com/aspose-page/Aspose.Page-for-Java) | [Blog](https://blog.aspose.com/category/page/) | [Suche](https://search.aspose.com/) | [Freie Unterstützung](https://forum.aspose.com/c/page) | [Vorübergehende Lizenz](https://purchase.aspose.com/temporary-license)

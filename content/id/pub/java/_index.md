@@ -1,8 +1,33 @@
 ---
-title: "Unduh PUB Membaca & Konversi File JAR | Aspose.PUB API"
-description: "Unduh file JAR yang berisi kelas Java untuk mengurai, memproses & mengonversi format dokumen Microsoft Publisher ke PDF melalui API lokal."
-family_listing_page_title: "Aspose.PUB untuk Java"
-family_listing_page_description: "Pustaka Aspose.PUB menyediakan API sederhana dan nyaman yang dapat memuat & mengonversi file PUB ke PDF. Ini diimplementasikan menggunakan Java dan dapat digunakan dengan aplikasi berbasis Java apa pun termasuk aplikasi berbasis Web atau desktop."
+title: "Aspose.pub | File Penerbitan Elektronik Perpustakaan Kelas Java" 
+linktitle: Aspose.PUB
+description: "Perpustakaan Java untuk parse, memproses, dan mengonversi format dokumen penerbit ke PDF. Menerapkan fungsionalitas ke dalam produk Anda sendiri." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose PUB
+- Aspose Java API
+- pub java library
+- pub java class
+- PUB
+- PDF
+- Microsoft Publisher
+- PUB conversion
+- Convert PUB
+- PUB to PDF
+- metadata
+- Windows
+- Linux
+- Mac
+- J2SE
+- Maven
+- edit metadata
+- modify metadata
+family_listing_page_title: "Aspose.pub untuk Java" 
+family_listing_page_description: "Aspose.pub Library menyediakan API sederhana dan nyaman yang dapat memuat & mengonversi file pub ke PDF. Ini diimplementasikan menggunakan Java dan dapat digunakan dengan aplikasi berbasis Java termasuk aplikasi berbasis web atau desktop." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -10,79 +35,58 @@ family_listing_page_venture: "4"
 family_listing_page_package: "225"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-pub/"
-tags: ['Aspose.Total', 'Aspose.PUB', 'Aspose-Java-API', 'pub-java-library', 'pub-java-class', 'PUB', 'PDF', 'Microsoft-Publisher', 'PUB-conversion', 'Convert-PUB', 'PUB-to-PDF', 'metadata', 'Windows', 'Linux', 'Mac', 'J2SE', 'Maven', 'edit-metadata', 'modify-metadata']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/pub/40
+productLink: https://products.aspose.com/pub/java/
+dataFolder: aspose_pub
+packages_refs:
+- "22-8"
+- "20-8"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/pub" linktext=" Support Forum " >}}
+# Proses file pub melalui Java API
+[![banner](./aspose_pub-for-java-banner.png)](./)
 
-{{< Common/h2 text="Unduh Aspose.PUB untuk bekerja dengan File Microsoft Publisher®"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Asumsikan host semua Java API di
-{{< Common/link href="https://repository.aspose.com" text="Apose Repositori"  >}}. Anda dapat dengan mudah menggunakan Aspose.PUB untuk Java API langsung di proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml Anda. Untuk petunjuk rinci, silakan kunjungi
-{{< Common/link href="https://docs.aspose.com/pub/java/installation/" text="Menginstal Aspose.PUB untuk Java dari Maven Repository"  >}}halaman dokumentasi.
-{{< Common/release-notes-link family="pub" product="java" href="https://docs.aspose.com/pub/java/release-notes/" text="https://docs.aspose.com/pub/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Halaman produk](https://products.aspose.com/pub/java) | [Dokumen](https://docs.aspose.com/pub/java/) | [Referensi API](https://apireference.aspose.com/pub/java) | [Contoh](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/Contoh) | [Blog](https://blog.aspose.com/category/pub/) | [Mencari](https://search.aspose.com/) | [Dukungan gratis](https://forum.aspose.com/c/pub) | [Lisensi sementara](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.PUB for Java](https://products.aspose.com/pub/java) adalah API Java yang dapat membaca, memanipulasi, dan mengonversi file Microsoft Publisher (.pub) ke PDF. Anda dapat menggunakan API di aplikasi Java Anda untuk bekerja dengan file .pub tanpa khawatir tentang format filie yang mendasarinya. API dapat digunakan di Java Desktop serta aplikasi web menggunakan JSP. API ringan, mudah digunakan dan menyederhanakan aplikasi Anda dengan baris kode sederhana di aplikasi Anda.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-pub</artifactId>
-      <version>20.8</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+## fitur API java pub
+- Baca file Microsoft Publisher (pub) untuk konversi ke format PDF.
+- Bekerja dengan metadata file pub.
 
-[Product Page](https://products.aspose.com/pub/java) | [Docs](https://docs.aspose.com/pub/java/) | [API Reference](https://reference.aspose.com/pub/java) | [Examples](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/Examples) | [Blog](https://blog.aspose.com/category/pub/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pub) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+## Baca file pub
+** Penerbit Microsoft: ** pub
 
-## Mengapa mengunduh Aspose.PUB untuk Java?
+## simpan pub as
+** Tata letak tetap: ** pdf
 
-Aspose.PUB for Java adalah Java API yang dapat membaca, memanipulasi, dan mengonversi file Microsoft Publisher® (.pub) ke PDF. Anda dapat menggunakan API di aplikasi Java untuk bekerja dengan file .pub tanpa mengkhawatirkan format file yang mendasarinya. API dapat digunakan di desktop Java serta aplikasi web menggunakan JSP. API ini ringan, mudah digunakan, dan menyederhanakan aplikasi Anda dengan baris kode sederhana di aplikasi Anda.
+## Lingkungan yang Didukung
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** MacOS: ** Mac OS X
+- ** Linux: ** Ubuntu, Centos, dan lainnya
+- ** Versi Java: ** `j2se 8.0 (1.8)` atau di atas
 
-## Fitur PUB Java API
+## Memulai
 
-- Baca file Microsoft Publisher® (PUB) untuk konversi ke format PDF.
-- Bekerja dengan Metadata file PUB.
+Aspose.pub Java API di -host di [Repositori Aspose](https://repository.aspose.com/pub/). Anda dapat dengan mudah menggunakan Aspose.pub untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.PUB for Java from Repositori Aspose](https://docs.aspose.com/pub/java/installation/).
 
-### Baca File PUB
+## Edit metadata file penerbit Microsoft menggunakan java
 
-**Microsoft Publisher®:** PUB
+```java
+// For complete examples and data files, please go to https://github.com/aspose-pub/Aspose.PUB-for-Java
+IPubParser parser = PubFactory.createParser(fileName);
+Document document = parser.parse();
 
-### Simpan PUB Sebagai
+document.getDocumentSummaryInfo().setCategory("category");
+document.getDocumentSummaryInfo().setCompany("company");
+document.getDocumentSummaryInfo().setLanguage("language");
 
-**Tata Letak Tetap:** PDF
+document.getSummaryInfo().setComments("comments");
+document.getSummaryInfo().setKeywords("keywords");
+document.getSummaryInfo().setLastAuthor("last author");
+document.getSummaryInfo().setTitle("title");
+document.getSummaryInfo().setSubject("subject");
+```
 
-### Lingkungan yang Didukung
-
-- **Microsoft Windows®:** Desktop & Server Windows (x86, x64)
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, CentOS, dan lainnya
-- **Versi Java:** `J2SE 8.0 (1.8)` atau lebih tinggi
-
-{{< Common/hr >}}
-
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
-
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="pub" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[Halaman produk](https://products.aspose.com/pub/java) | [Dokumen](https://docs.aspose.com/pub/java/) | [Referensi API](https://apireference.aspose.com/pub/java) | [Contoh](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/Contoh) | [Blog](https://blog.aspose.com/category/pub/) | [Mencari](https://search.aspose.com/) | [Dukungan gratis](https://forum.aspose.com/c/pub) | [Lisensi sementara](https://purchase.aspose.com/temporary-license)

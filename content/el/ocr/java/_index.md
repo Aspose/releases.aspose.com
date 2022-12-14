@@ -1,9 +1,51 @@
 ---
-title: "Λήψη αρχείων JAR για εξαγωγή κειμένου εικόνας | Aspose.OCR API"
-description: "Κατεβάστε αρχεία JAR για να εκτελέσετε οπτική αναγνώριση χαρακτήρων (OCR) σε εικόνες JPEG, PNG, GIF, BMP & TIFF. Εξαγωγή Αγγλικών, Γαλλικών, Ισπανικών και Πορτογαλικών μέσω OCR."
-keywords: "OCR Java, OCR English, OCR French"
-family_listing_page_title: "Aspose.OCR για Java"
-family_listing_page_description: "Το Aspose.OCR για Java είναι ένα API οπτικών χαρακτήρων που επιτρέπει στους προγραμματιστές να προσθέτουν λειτουργικότητα OCR στις εφαρμογές τους Java χωρίς να απαιτούν πρόσθετο εργαλείο ή API. Το Aspose.OCR για Java επιτρέπει την εξαγωγή κειμένου από εικόνες με διαφορετικές γραμματοσειρές και στυλ - εξοικονομώντας χρόνο και προσπάθεια για την ανάπτυξη μιας λύσης OCR από την αρχή."
+title: "Aspose.ocr | Αναγνώριση χαρακτήρων εικόνας Java Βιβλιοθήκη κλάσης" 
+linktitle: Aspose.OCR
+description: "Βιβλιοθήκη κλάσης Java για την εκτέλεση οπτικής αναγνώρισης χαρακτήρων (OCR) σε εικόνες JPEG, PNG, GIF, BMP & TIFF. Εξαγάγετε αγγλικά, γαλλικά, ισπανικά και πορτογαλικά μέσω OCR." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose OCR
+- Aspose Java API
+- ocr java library
+- ocr java class
+- Maven
+- JPEG
+- PNG
+- GIF
+- BMP
+- TIFF
+- TXT
+- DOCX
+- PDF
+- Windows
+- Linux
+- Mac
+- J2SE
+- JSON
+- optical character recognition
+- OCR
+- recognize text
+- recognize image
+- spell correction
+- spell check
+- skew correction
+- image correction
+- recognize pdf
+- recognize tiff
+- searchable pdf
+- searchable docx
+- multi lang ocr
+- recognize multi image
+- multi threading
+- image detection
+- text detection
+weight: 02	#rem
+family_listing_page_title: "Aspose.ocr για java" 
+family_listing_page_description: "Το Aspose.ocr για το Java είναι ένα API οπτικού χαρακτήρα που επιτρέπει στους προγραμματιστές να προσθέσουν λειτουργικότητα OCR στις εφαρμογές Java τους χωρίς να απαιτούν πρόσθετο εργαλείο ή API. Το Aspose.ocr για το Java επιτρέπει την εξαγωγή κειμένου από εικόνες που έχουν διαφορετικές γραμματοσειρές και στυλ - εξοικονομώντας το χρόνο και την προσπάθεια που εμπλέκονται στην ανάπτυξη μιας λύσης OCR από το μηδέν." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,104 +53,118 @@ family_listing_page_venture: "4"
 family_listing_page_package: "19"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-ocr/"
-tags: ['optical-character-recognition', 'OCR', 'recognize-text', 'recognize-image', 'spell-correction', 'spell-check', 'skew-correction', 'image-correction', 'recognize-pdf', 'recognize-tiff', 'searchable-pdf', 'searchable-docx', 'multi-lang-ocr', 'recognize-multi-image', 'multi-threading', 'image-detection', 'text-detection']
-weight:  2
+forumLink: https://forum.aspose.com/c/ocr/16
+productLink: https://products.aspose.com/ocr/java/
+dataFolder: aspose_ocr
+packages_refs:
+- "22-11-1"
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "16-10"
+- "16-11"
+- "16-12"
+- "17-01"
+- "17-11"
+- "17-2"
+- "17-3"
+- "17-6"
+- "20-10"
+- "20-11"
+- "20-5"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-1"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-1"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
+- "3-2-0"
+- "3-3-0"
+- "3-4-0"
+- "3-6-0"
+- "3-7-0"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/ocr" linktext=" Support Forum " >}}
+# Βιβλιοθήκη Java OCR
+[![banner](./aspose_ocr-for-java-banner.png)](./)
 
-{{< Common/h1 text="Κάντε λήψη του Aspose.OCR για εξαγωγή κειμένου εικόνας"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Το Aspose φιλοξενεί όλα τα Java API στο
-{{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.OCR για Java API απευθείας στα έργα σας που βασίζονται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml σας. Για αναλυτικές οδηγίες παρακαλούμε επισκεφθείτε
-{{< Common/link href="https://docs.aspose.com/ocr/java/installation/" text="Εγκατάσταση του Aspose.OCR για Java από το Maven Repository"  >}}σελίδα τεκμηρίωσης.
-{{< Common/release-notes-link family="ocr" product="java" href="https://docs.aspose.com/ocr/java/release-notes/" text="https://docs.aspose.com/ocr/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Σελίδα προϊόντος](https://products.aspose.com/ocr/java) | [Έγγραφα](https://docs.aspose.com/ocr/java/) | [Επίδειξη](https://products.aspose.app/ocr/family) | [Αναφορά API](https://apireference.aspose.com/ocr/java) | [Παραδείγματα](https://github.com/aspose-ocr/Aspose.OCR-for-Java) | [Ιστολόγιο](https://blog.aspose.com/category/ocr/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/ocr) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+Το [Aspose.OCR for Java](https://products.aspose.com/ocr/java) είναι ένα API αναγνώρισης χαρακτήρων και οπτικού σήματος που επιτρέπει στους προγραμματιστές να προσθέτουν λειτουργικότητα OCR στις εφαρμογές τους. Παρέχει ένα απλό σύνολο τάξεων για τον έλεγχο της αναγνώρισης χαρακτήρων.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-ocr</artifactId>
-      <version>22.6</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
-
-[Product Page](https://products.aspose.com/ocr/java) | [Docs](https://docs.aspose.com/ocr/java/) | [Demos](https://products.aspose.app/ocr/family) | [API Reference](https://reference.aspose.com/ocr/java) | [Examples](https://github.com/aspose-ocr/Aspose.OCR-for-Java) | [Blog](https://blog.aspose.com/category/ocr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/ocr) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-## Γιατί να κατεβάσετε το Aspose.OCR για Java;
-
-Το Aspose.OCR για Java είναι ένα API αναγνώρισης χαρακτήρων και οπτικών σημάτων που επιτρέπει στους προγραμματιστές να προσθέτουν λειτουργικότητα OCR στις εφαρμογές τους. Παρέχει ένα απλό σύνολο κλάσεων για τον έλεγχο της αναγνώρισης χαρακτήρων.
-
-## Μετατροπή εικόνας σε κείμενο μέσω Java
-
+## μετατρέψτε την εικόνα σε κείμενο μέσω Java
 - Διαβάστε χαρακτήρες από εικόνες.
-- Υποστήριξη για μορφές αρχείων εικόνας JPG, PNG, GIF, BMP και TIFF για OCR.
-- Υποστήριξη για Αγγλικά, Γαλλικά, Ισπανικά και Πορτογαλικά.
-- Διαβάστε δημοφιλείς γραμματοσειρές όπως Arial, Times New Roman, Courier New, Verdana, Tahoma και Calibri.
-- Υποστήριξη για κανονικές, έντονες και πλάγιες γραμματοσειρές.
-- Σαρώστε ολόκληρη την εικόνα ή οποιοδήποτε μέρος της εικόνας.
+- Υποστήριξη μορφών αρχείων εικόνων JPG, PNG, GIF, BMP και TIFF για OCR.
+- Υποστήριξη για τα αγγλικά, τα γαλλικά, τα ισπανικά και τα πορτογαλικά.
+- Διαβάστε τις δημοφιλείς γραμματοσειρές, συμπεριλαμβανομένων των Arial, Times New Roman, Courier New, Verdana, Tahoma και Calibri.
+- Υποστήριξη για κανονικά, τολμηρά και πλάγια γραμματοσειρά.
+- σαρώστε ολόκληρη την εικόνα ή οποιοδήποτε μέρος της εικόνας.
 - Σάρωση περιστρεφόμενων εικόνων.
-- Μπορεί να εφαρμόσει διαφορετικά φίλτρα αφαίρεσης θορύβου πριν από την αναγνώριση εικόνας.
-- Εξαγωγή οπτικών επισημασμένων στοιχείων από σαρωμένες εικόνες.
-- Υποστήριξη για διάφορα οπτικά επισημασμένα στοιχεία, όπως Πλαίσιο ελέγχου, Πλαίσιο επιλογής, Πλέγμα, γραμμωτός κώδικας & OCR.
+- Μπορεί να εφαρμόσει διαφορετικά φίλτρα απομάκρυνσης θορύβου πριν από την αναγνώριση εικόνας.
+- Εξαγωγή οπτικών στοιχείων από σαρωμένες εικόνες.
+- Υποστήριξη διαφόρων οπτικών στοιχείων όπως το πλαίσιο ελέγχου, το πλαίσιο επιλογής, το πλέγμα, το barcode & ocr.
 
-### Υποστηριζόμενοι χαρακτήρες
-
+## υποστηριζόμενοι χαρακτήρες
 | | | | | | | | | | |
-| ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| χώρος | ! | " | # | $ | % | & | ' | ( | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+| χώρος | ! | "| # | $ | % | & | '| (|) |
 | * | + | , | - | . | / | 0 | 1 | 2 | 3 |
-| 4 | 5 | 6 | 7 | 8 | 9 | : | ; | < | = |
-| > | ? | @ | [ | \ | ] | _ | ` | { | \| |
-| } | ~ | A | Β | C | D | E | F | G | H |
-| I | J | K | L | M | N | O | P | Q | R |
-| S | T | U | V | W | X | Υ | Z | α | β |
-| γ | δ | e | f | g | h | i | j | k | l |
-| m | n | o | σ | q | r | s | t | u | v |
-| w | x | y | z | Â | À | Á | Ã | Ä | Æ |
-| Ç | È | É | Ê | Ë | Ì | Í | Î | Ï | Ñ |
-| Ò | Ó | Ô | Õ | Ö | Ù | Ú | Û | Ü | ẞ |
-| ß | à | á | â | ã | ä | æ | ç | è | é |
-| ê | ë | ì | í | î | ï | ñ | ò | ó | ô |
-| õ | ö | ù | ú | û | ü | ÿ | Œ | œ | Ÿ |
+| 4 | 5 | 6 | 7 | 8 | 9 | : | ; | <| = |
+| > | ; | | [| \ | ] | _ | `| {| \ | |
+| } | ~ | Α | B | C | Δ | Ε | F | G | H |
+| I | J | Κ | L | M | N | O | P | Q | R |
+| | T | U | V | W | X | | | α | B |
+| C | Δ | Ε | f | G | H | I | J | Κ | L |
+| M | n | O | P | Q | R | | t | u | V |
+| W | x | | | | À | Á | | | Ä | Æ |
+| Ç | È | É | Ê | Ë | Ì | Í | | Ï | Ñ ​​|
+| Ò | Ó | Ô | Õ | Ö | Ù | Ú | Û | Ü | Ss |
+| ß | à | á | | | | ä | æ | ç | è | é |
+| ê | ë | ì | í | | ï | ñ | ò | Ó | ô |
+| õ | Ö | ù | ú | û | ü | | | Œ | œ | | |
 
+## φορτώστε εικόνες για OCR
+** Μορφές Raster: ** JPEG, PNG, GIF, BMP, TIFF
 
-### Φόρτωση εικόνων για OCR
+## υποστηριζόμενα περιβάλλοντα
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** macos: ** mac os x
+- ** Linux: ** ubuntu, opensuse, centos και άλλοι
+- ** Εκδόσεις Java: ** `J2SE 6.0 (1,6)` ή παραπάνω
 
-**Μορφές Raster:** JPEG, PNG, GIF, BMP, TIFF
+## Ξεκίνα
 
-### Υποστηριζόμενα περιβάλλοντα
+Το ASOPSE.OCR APIs Java φιλοξενείται στο [Θέτω σε αποθήκη](https://repository.aspose.com/ocr/). Μπορείτε εύκολα να χρησιμοποιήσετε το ASPOSE.OCR για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.OCR for Java from Maven Repository](https://docs.aspose.com/ocr/java/installation/).
 
-- **Microsoft Windows®:** Windows Desktop & Server (x86, x64)
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, OpenSUSE, CentOS και άλλα
-- **Εκδόσεις Java: ** `J2SE 6.0 (1.6)` ή νεότερη έκδοση
+## Εξαγάγετε κείμενο από συγκεκριμένες περιοχές της εικόνας
 
-{{< Common/hr >}}
+```java
+// create API instance
+AsposeOCR api = new AsposeOCR();
+// prepare rectangles with texts.
+ArrayList rectArray = new ArrayList();
+rectArray.add(new Rectangle(138, 352, 2033, 537));
+rectArray.add(new Rectangle(147, 890, 2033, 1157));
+String result = api.RecognizePage("template.png", rectArray);
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+System.out.println("Result with rect: " + result);
+```
 
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="ocr" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[Σελίδα προϊόντος](https://products.aspose.com/ocr/java) | [Έγγραφα](https://docs.aspose.com/ocr/java/) | [Επίδειξη](https://products.aspose.app/ocr/family) | [Αναφορά API](https://apireference.aspose.com/ocr/java) | [Παραδείγματα](https://github.com/aspose-ocr/Aspose.OCR-for-Java) | [Ιστολόγιο](https://blog.aspose.com/category/ocr/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/ocr) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)

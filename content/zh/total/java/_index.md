@@ -1,9 +1,39 @@
 ---
-title: "Java 文件格式 API | Aspose.Total for Java"
-description: "下载 Java 库套件以创建、操作、转换、呈现和打印 Microsoft Word、Excel、PowerPoint、Outlook、Publisher、Visio、Project 和 OneNote 文件。软件包还包括适用于 PDF、Photoshop、CAD、GIS 和 3D 文件格式的 API，以及适用于条形码、OCR 和 OMR 的 API。"
-keywords: "Java libraries  "
-family_listing_page_title: "Aspose.Total for Java"
-family_listing_page_description: "Aspose.Total for Java 允许开发人员构建能够处理 100 多种流行文件格式的极其通用的文件处理系统。 Java SE 或 EE 应用程序程序员可以通过加载、创建、修改、渲染和相互转换来自 Microsoft Office、OpenOffice、Visio、Project、CAD 和许多其他常用格式类别的文件的能力来增强他们的应用程序。"
+title: "aspose.total | Java类库处理文件格式" 
+linktitle: Aspose.Total
+description: "Java高码API使您的应用程序可以使用Microsoft Word，Excel，PowerPoint，Outlook，OneNote，3D，CAD，PDF，PDF，GIS，GIS，电子邮件，电子邮件，HTML等的文件格式。" 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Words
+- Aspose Cells
+- Aspose PDF
+- Aspose Slides
+- Aspose Email
+- Aspose BarCode
+- Aspose Imaging
+- Aspose Tasks
+- Aspose OCR
+- Aspose Diagram
+- Aspose Note
+- Aspose CAD
+- Aspose HTML
+- Aspose 3D
+- Aspose Page
+- Aspose PSD
+- Aspose PUB
+- Aspose Font
+- Aspose TeX
+- Maven
+- J2SE
+- Windows
+- Linux
+- Mac
+family_listing_page_title: "aspose.total for Java" 
+family_listing_page_description: "aspose.total for Java允许开发人员构建能够处理100多个流行文件格式的功能多功能文件处理系统。 Java SE或EE应用程序程序员可以通过Microsoft Office，OpenOffice，Visio，Project，Project，CAD，CAD和许多其他常用格式类别加载，创建，渲染和转换文件来增强其应用程序。" 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,139 +41,116 @@ family_listing_page_venture: "4"
 family_listing_page_package: "284"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-total/"
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/total/7
+productLink: https://products.aspose.com/total/java/
+dataFolder: aspose_total
+packages_refs:
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "20-12"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-1"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/total" linktext=" Support Forum " >}}
+# 文档格式操纵的Java课程
+[![banner](./aspose_total-for-java-banner.png)](./)
 
-{{< Common/h2 text="从 Maven 下载 Aspose.Total"  >}}
+[产品页面](https://products.aspose.com/total/java/) | [文档](https://docs.aspose.com/total/java/)​​ | [API参考](https://apireference.aspose.com/) | [例子](http://aspose.github.io) | [博客](https://blog.aspose.com/category/total/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/) | [临时许可](https://purchase.aspose.com/temporary-license) | [政策](https://purchase.aspose.com/policies)
 
-{{< Common/paragraph class="package-instructions">}}
-您可以直接从
-{{< Common/link href="https://repository.aspose.com/total/" text="马文"  >}}通过将以下配置添加到 pom.xml 来基于项目。
+[Aspose.Total for Java](https://docs.aspose.com/total/java/)是Aspose提供的所有Java文件格式API中最完整的软件包。它使开发人员能够在任何Java应用程序中创建，编辑，渲染，打印和转换。
 
-{{< Common/release-notes-link family="total" product="java" href="https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/" text="https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/"  >}}
+## aspose.words for Java
 
-{{< /Common/paragraph>}}
+[单词java库](https://products.aspose.com/words/java/)允许执行MS Word文档处理操作，例如文档创建，处理，渲染和Microsoft Word，OpenOffice，Markup和Ebook文档格式的转换。
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-         <id>AsposeJavaAPI</id>
-         <name>Aspose Java API</name>
-         <url>https://releases.aspose.com/java/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+## aspose.cells for Java
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-         <groupId>com.aspose</groupId>
-         <artifactId>aspose-total</artifactId>
-         <version>21.10</version>
-         <type>pom</type>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Excel Java API & GUI controls](https://products.aspose.com/cells/java/)允许创建，处理，操纵和转换Excel和OpenOffice电子表格。它提供了读写公式，枢轴表，切片机，表，图表，图形对象，智能标记等的能力。
 
-{{< Common/hr >}}
+## aspose.pdf for java
 
-[Product Page](https://products.aspose.com/tasks/java) | [Docs](https://docs.aspose.com/tasks/java/) | [Demos](https://products.aspose.app/tasks/family) | [API Reference](https://reference.aspose.com/tasks/java) | [Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java) | [Blog](https://blog.aspose.com/category/tasks/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/tasks) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+[PDF Java组件](https://products.aspose.com/pdf/java/)使您可以在不安装Adobe Acrobat的情况下创建，处理和操纵PDF文档。使用附件，书签，注释，链接，操作，安全性，签名，操作员，表格，表，标记为PDF文件，PDF表单，图形，标题，图像，单个PDF页面，邮票，邮票，水印和安全性。
 
-### 为什么要下载 Aspose.Total for Java？
+## aspose.slides for java
 
-Aspose.Total for Java 是面向 Java 开发人员的文件格式自动化 API 集合，可在任何 Java J2SE、J2EE、J2ME 应用程序中使用。该套件由以下单独的 API 组成：
+[PowerPoint演示处理和操纵API](https://products.aspose.com/slides/java/)有助于阅读，写作和编辑所有流行格式的演示文件。
 
-### Aspose.Words for Java
+## Aspose.Email Java
 
-用于创建、处理、转换或呈现 Word® 文档为各种格式的文字处理 API。
+[Java电子邮件API](https://products.aspose.com/email/java/)帮助您创建，操纵，发送和接收电子邮件以及管理日历和电子邮件存档文件。它支持SMTP，MIME，POP3，IMAP和HTTP协议。
 
-### Aspose.PDF for Java
+## aspose.barcode for Java
 
-PDF 操作 API 无需 Adobe Acrobat® 即可创建、解析、保护、签名和转换 PDF 文件。
+[Java条形码API](https://products.aspose.com/barcode/java/)有助于识别和生成40+符号的1D，2D和邮政条形码。
 
-### Aspose.Cells for Java
+## aspose.imaving java
 
-电子表格处理 API，无需安装 MS Excel® 即可创建、操作、转换、保护或打印电子表格。
+一个[easy-to-use Imaging API](https://products.aspose.com/imaging/java/)，可帮助您创建，转换，绘制和转换图像。
 
-### Aspose.Email for Java
-用于创建、生成电子邮件、发送电子邮件和解析来自 Outlook® 和 Thunderbird® 的电子邮件的电子邮件管理 API。
+## aspose.tasks for Java
 
-### Aspose.Slides for Java
+[Java API开发项目管理应用程序](https://products.aspose.com/tasks/java/)具有处理，操纵和转换Microsoft项目文档的能力。
 
-无需 MS PowerPoint® 即可创建、修改、合并、克隆、保护、转换和操作 PPT/PPTX 的演示文稿操作 API。
+## aspose.ocr for java
 
-### Aspose.Imaging for Java
+[OCR Java组件](https://products.aspose.com/ocr/java/)可以帮助您开发有关英语，西班牙语，法语和葡萄牙语的光学角色识别（OCR）应用程序。
 
-图像编辑器 API 用于创建、加载、转换或转换具有内存优化的图像。
+## aspose.diagram for java
 
-### Aspose.BarCode for Java
+[Visio Java API](https://products.aspose.com/diagram/java/)增强了您的应用程序，以创建从头开始创建Visio图，操纵现有图或将Visio转换为固定的Layout和Image格式。
 
-BarCode Generation & Recognition API 用于生成、定制和识别线性、二维和邮政条码。
+## aspose.note for java
 
-### Aspose.Diagram for Java
+[Java OneNote API](https://products.aspose.com/note/java/)可以帮助您创建，操纵和转换OneNote文件，而无需任何其他库。
 
-图表操作 API 用于操作 Microsoft Visio® 文件并将其导出为 PDF、HTML、图像和 XAML 格式。
+## aspose.cad for Java
 
-### Aspose.Tasks for Java
+将您的Java应用程序启用到[处理并转换CAD图纸](https://products.aspose.com/cad/java/)，而无需安装AutoCAD。
 
-用于将 MS Project® 文件操作或导出为 Primavera、Excel、PDF、图像、HTML 和 XML 格式的项目文档操作 API。
+## aspose.html Java
 
-### Aspose.OCR for Java
+一个模仿无头浏览器的行为的前提[Java HTML API](https://products.aspose.com/html/java/)，可帮助您处理和操纵HTML页面。
 
-光学字符识别 API，用于向您的 Java 应用程序添加光学字符识别和文档扫描功能。
+## aspose.3d for java
 
-### Aspose.Note for Java
+[3D API无缝集成3D文件处理](https://products.aspose.com/3d/java/)和基于Java的桌面和Web应用程序的操作功能。
 
-用于创建、阅读、编辑、转换和操作 Microsoft OneNote® 文档的 Notes 操作 API。
+## aspose.page for java
 
-#### Aspose.CAD for Java
+从您自己的Java应用程序中创建，编辑和保存XPS文档。 [Aspose.Page for Java](https://products.aspose.com/page/java/)还允许您将XPS，EPS和EP文件转换为PDF格式。
 
-无需安装 AutoCAD® 即可处理和转换 AutoCAD® 文件（DWG、DXF、STL）为 PDF 和光栅图像格式的 API。
+## aspose.psd for java
 
-### Aspose.3D for Java
+[Photoshop Java API](https://products.aspose.com/psd/java/)无缝将PSD和PSB文件处理，操作和转换功能集成到您的Java应用程序中，而无需Adobe Photoshop。
 
-无需任何外部建模和渲染软件即可工作的 3D 文件处理 API。支持处理 Autodesk®、Wavefront、Collada、Draco 和更多 3D 格式。
+## aspose.pub for java
 
-### Aspose.HTML for Java
+轻巧的Java API至[read, convert & manipulate Microsoft Publisher files (.PUB)](https://products.aspose.com/pub/java/)，而无需任何第三方库或软件。
 
-用于操作和呈现 HTML 文档的 API，包括将 CSS 样式转换为 PDF 和其他光栅图像格式。
+## aspose.font for Java
 
-### Aspose.Page for Java
+aspose.font for Java帮助您[合并字体加载和绘图功能](https://products.aspose.com/font/java/)进入Java本机应用程序。它支持各种字体格式，例如`trueType'（带有trueType collectons），`cff`，`opentype`和type1`。
 
-XPS 和 PostScript 文档处理 API，支持 XPS、PS 和 EPS 格式的创建、解析和转换。
+## aspose.tex for java
 
-### Aspose.PSD for Java
+Java的Aspose.tex是[收集排版Java类的Tex文件](https://products.aspose.com/tex/java/)。它可以帮助您以字体TEX文件的形式获取格式的文档，例如XPS，PDF，PNG，JPEG，TIFF和BMP。自定义Tex格式的创建也得到了支持。
 
-无需安装任何第三方软件即可创建、加载、修改和渲染 Adobe Photoshop®（PSD 和 PSB）格式文档的 API。
-
-### Aspose.OMR for Java
-
-光学标记识别 API，用于检测和解析来自各种扫描图像格式的 OMR 数字化纸张图像。
-
-### Aspose.PUB for Java
-
-电子出版物文件处理 API，用于加载 Microsoft Publisher® 格式的 PUB 并将其转换为 PDF。
-
-### Aspose.Font for Java
-
-支持 TrueType、CFF、OpenType、Type1 等的字体加载和渲染 API。
-
-### Aspose.TeX for Java
-
-排版 TeX 文件的 API。支持多种输出格式，如 XPS、PDF、PNG、JPEG、TIFF、BMP。
-
-{{< Tags/TagsWrapper>}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
-
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="total" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[产品页面](https://products.aspose.com/total/java/) | [文档](https://docs.aspose.com/total/java/) | [API参考](https://apireference.aspose.com/) | [例子](http://aspose.github.io) | [博客](https://blog.aspose.com/category/total/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/) | [临时许可](https://purchase.aspose.com/temporary-license) | [政策](https://purchase.aspose.com/policies)

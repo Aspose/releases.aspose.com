@@ -1,9 +1,55 @@
 ---
-title: "下载 JAR 文件以通过 API 处理 Visio |假设图"
-description: "下载包含类的 JAR 文件以读取、写入、导出和处理 Visio 图表。通过 Java API 处理页面、母版（模板）、样式表等对象。"
-keywords: "Java Visio Library, Java Visio API"
-family_listing_page_title: "Aspose.Diagram for Java"
-family_listing_page_description: "Aspose.Diagram for Java 是一个易于使用、高性能且文档完善的 Java API，允许开发人员在其 Java 应用程序中创建、操作和转换本机 Visio 文件格式，而无需依赖 Microsoft Visio ®。"
+title: "aspose.diagram | Java库创建，导出Visio文档" 
+linktitle: Aspose.Diagram
+description: "Java类库读，编写，导出和过程Visio图。支持Visio对象，例如文档，页面，主（模板），形状，样式表和连接。" 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Diagram
+- Aspose Java API
+- diagram java library
+- diagram java class
+- Maven
+- visio to pdf
+- visio to html
+- visio to image
+- VSD to VDX
+- VSD to VTX
+- VSD to XPS
+- diagram to SVG
+- diagram to XAML
+- shape
+- page
+- VSDX
+- VDX
+- VSD
+- VSX
+- VTX
+- VSSX
+- VSTX
+- VSDM
+- VSSM
+- VSTM
+- VDW
+- VSS
+- VST
+- PDF
+- XPS
+- XAML
+- SVG
+- EMF
+- JPEG
+- PNG
+- BMP
+- TIFF
+- HTML
+- Linux
+- Unix
+family_listing_page_title: "aspose.diagram的java" 
+family_listing_page_description: "Java的Aspose.diagram是一种易于使用，高性能且有据可查的Java API，它允许开发人员从其Java应用程序中创建，操纵和转换本机Visio文件格式，而无需依靠Microsoft Visio ®。" 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,92 +57,160 @@ family_listing_page_venture: "4"
 family_listing_page_package: "17"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-diagram/"
-tags: ['Aspose.Total', 'Aspose.Diagram', 'Aspose-Java-API', 'diagram-java-library', 'diagram-java-class', 'Maven', 'visio-to-pdf', 'visio-to-html', 'visio-to-image', 'VSD-to-VDX', 'VSD-to-VTX', 'VSD-to-XPS', 'diagram-to-SVG', 'diagram-to-XAML', 'shape', 'page', 'VSDX', 'VDX', 'VSD', 'VSX', 'VTX', 'VSSX', 'VSTX', 'VSDM', 'VSSM', 'VSTM', 'VDW', 'VSS', 'VST', 'PDF', 'XPS', 'XAML', 'SVG', 'EMF', 'JPEG', 'PNG', 'BMP', 'TIFF', 'HTML', 'Linux', 'Unix']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/diagram/17
+productLink: https://products.aspose.com/diagram/java/
+dataFolder: aspose_diagram
+packages_refs:
+- "22-12"
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "22-5"
+- "16-10-0"
+- "16-11-0"
+- "16-12-0"
+- "17-02-0"
+- "17-1-0"
+- "17-10"
+- "17-11"
+- "17-12"
+- "17-3-0"
+- "17-4-0"
+- "17-5-0"
+- "17-6"
+- "17-7"
+- "17-8"
+- "17-8-0"
+- "17-9"
+- "18-1"
+- "18-10"
+- "18-11"
+- "18-12"
+- "18-2"
+- "18-3"
+- "18-4"
+- "18-5"
+- "18-6"
+- "18-7"
+- "18-8"
+- "18-9"
+- "18-9-0"
+- "19-1"
+- "19-10"
+- "19-11"
+- "19-12"
+- "19-2"
+- "19-3"
+- "19-4"
+- "19-5"
+- "19-6"
+- "19-7"
+- "19-8"
+- "19-9"
+- "20-1"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-2"
+- "20-3"
+- "20-4"
+- "20-5"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-1"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "21-9-1"
+- "22-1"
+- "22-2"
+- "22-3"
+- "22-4"
+- "5-9-0"
+- "6-0-0"
+- "6-1-0"
+- "6-2-0"
+- "6-3-0"
+- "6-4-0"
+- "6-5-0"
+- "6-6-0"
+- "6-7-0"
+- "6-8-0"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/diagram" linktext=" Support Forum " >}}
+# Microsoft Visio＆Reg; java api;文件格式
+[![banner](./aspose_diagram-for-java-banner.png)](./)
 
-{{< Common/h2 text="下载 Aspose.Diagram 以处理 Visio® 文件格式"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose 将所有 Java API 托管在
-{{< Common/link href="https://repository.aspose.com" text="假设存储库"  >}}.通过向 pom.xml 添加以下配置，您可以直接在基于 Maven 的项目中轻松使用 Aspose.Diagram for Java API。有关详细说明，请访问
-{{< Common/link href="https://docs.aspose.com/diagram/java/installation/" text="从 Maven 存储库安装 Aspose.Diagram for Java"  >}}文档页面。
-{{< Common/release-notes-link family="diagram" product="java" href="https://docs.aspose.com/diagram/java/release-notes/" text="https://docs.aspose.com/diagram/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[产品页面](https://products.aspose.com/diagram/java) | [文档](https://docs.aspose.com/diagram/java/) | [演示](https://products.aspose.app/diagram/family) | [API参考](https://apireference.aspose.com/diagram/java) | [例子](https://github.com/aspose-diagram/Aspose.Diagram-for-Java) | [博客](https://blog.aspose.com/category/diagram/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/diagram) | [临时许可](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.Diagram for Java](https://products.aspose.com/diagram/java) API是Microsoft Visio文件操作要求的解决方案。它允许Java应用程序在支持所有Visio对象和属性的同时读取，写入，导出和处理Microsoft Visio图，包括形状，页面，图像，形状大师，模板，文本，文本，层，标头，页脚，页脚，用户定义的单元格，超链接，超链接，超链接，超链接，超链接，超链接，超链接，超链接，超级链接文件保护，几何，文本框和评论。
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-diagram</artifactId>
-      <version>22.7</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+Java的Aspose.diagram也可以通过锁定背景，模具（主）以及形状和样式来使用[在Microsoft Visio图纸上应用保护](https://docs.aspose.com/diagram/java/working-with-protection/)，以避免任何意外修正。
 
-[Product Page](https://products.aspose.com/diagram/java) | [Docs](https://docs.aspose.com/diagram/java/) | [Demos](https://products.aspose.app/diagram/family) | [API Reference](https://reference.aspose.com/diagram/java) | [Examples](https://github.com/aspose-diagram/Aspose.Diagram-for-Java) | [Blog](https://blog.aspose.com/category/diagram/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/diagram) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+## Visio文件处理功能
+ - 加载，创建，保存和转换Microsoft Visio图。
 
-## 为什么要下载 Aspose.Diagram for Java？
+-[从Sctrach创建主](https://docs.aspose.com/diagram/java/working-with-masters/)或从形状模板中添加。
+ - 创建，布局和自动拟合形状以及检索visio连接器和字体信息。
+ - 修改连接器形状的几何部分。
+ - 在Visio图中插入ActiveX控件。
 
-Aspose.Diagram for Java API 是针对 Microsoft Visio® 文件操作要求的解决方案。它允许 Java 应用程序读取、写入、导出和处理 Microsoft Visio® 图表，同时支持所有 Visio® 对象和属性，包括形状、页面、图像、形状母版、模板、文本、图层、页眉、页脚、用户定义的单元格、超链接、文件保护、几何图形、文本框和注释。
+-[打印到特定打印机](https://docs.aspose.com/diagram/java/working-with-print/)或设置打印机和文档名称。
 
-Aspose.Diagram for Java 还可用于通过锁定背景、模板（母版）以及形状和样式来保护 Microsoft Visio® 绘图，以避免任何意外修改。
+## 读写Visio格式
+** Microsoft Visio：** VSDX，VSX，VTX，VDX，VSSX，VSTX，VSDM，VSSM，VSTM
 
-## Visio® 文件处理功能
+## 将Visio图保存为
+**固定布局：** PDF，XPS \
+**图像：** JPEG，PNG，BMP，TIFF，SVG，EMF \
+**网络：** html \
+**其他：** XAML，SWF
 
-- 加载、创建、保存和转换 Microsoft Visio® 图表。
-- 从 sctrach 创建 Master 或从 Stencil of Shapes 添加。
-- 创建、布局和自动调整形状以及检索 Visio® 连接器和字体信息。
-- 修改连接器形状的几何部分。
-- 在 Visio® 图表中插入 ActiveX 控件。
-- 打印到特定打印机或设置打印机和文档名称。
+## 阅读Visio格式
+** Microsoft Visio：** VDW，VSD，VSS，VST
 
-### 读写 Visio® 格式
+## 支持环境
+ -  ** Microsoft Windows：** Windows Desktop＆Server（X86，X64）
+ -  ** macOS：** Mac OS X
+ -  ** Linux：** Ubuntu，Opensuse，Centos等
+ -  ** Java版本：**``J2SE 7.0（1.7）`，`J2SE 8.0（1.8）``
 
-**Microsoft Visio®：** VSDX、VSX、VTX、VDX、VSSX、VSTX、VSDM、VSSM、VSTM
+## 开始
 
-### 将 Visio® 图表另存为
+Aspose.diagram Java API托管在[Aspose存储库](https://repository.aspose.com/diagram/)。您可以在Maven项目中轻松地使用Java API的Aspose.diagram，并具有简单的配置。有关详细说明，请访问[Installing Aspose.Diagram for Java from Aspose存储库](https://docs.aspose.com/diagram/java/installation/)文档页面。
 
-**固定布局：** PDF、XPS\
-**图像：** JPEG、PNG、BMP、TIFF、SVG、EMF\
-**网页：** HTML\
-**其他：** XAML、SWF
+## 使用Java的自动拟合Visio图
 
-### 读取 Visio® 格式
+```java
+// For complete examples and data files, please go to https://github.com/aspose-diagram/Aspose.Diagram-for-Java
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(AutoFitShapesInVisio.class);
 
-**Microsoft Visio®：** VDW、VSD、VSS、VST
+// load a Visio diagram
+Diagram diagram = new Diagram(dataDir + "BFlowcht.vsdx");
 
-### 支持的环境
+// use saving options
+DiagramSaveOptions options = new DiagramSaveOptions(SaveFileFormat.VSDX);
 
-- **Microsoft Windows®：** Windows 桌面和服务器（x86、x64）
-- **macOS：** Mac OS X
-- **Linux：** Ubuntu、OpenSUSE、CentOS 等
-- **Java 版本：** `J2SE 7.0 (1.7)`、`J2SE 8.0 (1.8)`
+// set Auto fit page property
+options.setAutoFitPageToDrawingContent(true);
 
-{{< Common/hr >}}
+// save Visio diagram
+diagram.save(dataDir + "AutoFitShapesInVisio_Out.vsdx", options);
+```
 
-{{< Tags/TagsWrapper>}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
-
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="diagram" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[产品页面](https://products.aspose.com/diagram/java) | [文档](https://docs.aspose.com/diagram/java/) | [演示](https://products.aspose.app/diagram/family) | [API参考](https://apireference.aspose.com/diagram/java) | [例子](https://github.com/aspose-diagram/Aspose.Diagram-for-Java) | [博客](https://blog.aspose.com/category/diagram/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/diagram) | [临时许可](https://purchase.aspose.com/temporary-license)

@@ -1,9 +1,59 @@
 ---
-title: "Загрузить JAR-файлы для рисования и обработки шрифтов | Aspose.Font"
-description: "Загрузите классы Java в виде JAR для рендеринга, обработки и преобразования шрифтов (TTF, TTC, OpenType, CFF, Type1 и т. д.). Поддерживает компактный шрифт, латинский шрифт, символы и глифы."
-keywords: "font"
-family_listing_page_title: "Aspose.Font для Java"
-family_listing_page_description: "Aspose.Font for Java — это гибкая и простая в использовании библиотека для работы с различными файлами шрифтов. API поддерживает несколько форматов шрифтов, таких как TrueType CFF, OpenType и Type1."
+title: "Aspose.font | Java Font обработка API | TT, CFF, OT, Type1" 
+linktitle: Aspose.Font
+description: "Библиотека классов Java для шрифта (TTF, TTC, OpenType, CFF, тип1 и т. Д.) рендеринг, обработка и преобразование. Поддерживает компактный шрифт, латинский шрифт, символы и глифы." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Font
+- Aspose Java API
+- font java library
+- font java class
+- TTF
+- TTC
+- OpenType
+- CFF
+- Type1
+- postscript
+- scalabale font
+- true type
+- compact font
+- latin font
+- symbols
+- glyphs
+- font rendering
+- render text
+- Windows
+- Linux
+- Mac
+- J2SE
+- Maven
+- font converter
+- font conversion
+- WOFF
+- WOFF2
+- EOT
+- TTF to WOFF
+- TTF to WOFF2
+- WOFF to TTF
+- WOFF to WOFF2
+- WOFF2 to TTF
+- WOFF2 to WOFF
+- EOT to TTF
+- EOT to WOFF
+- EOT to WOFF2
+- Type1 to TFF
+- Type1 to WOFF
+- Type1 to WOFF2
+- CFF to TTF
+- CFF to WOFF
+- CFF to WOFF2
+- load font
+family_listing_page_title: "Aspose.font для java" 
+family_listing_page_description: "Aspose.font для java является гибкой и простым в использовании библиотеки для работы с различными файлами шрифтов. API поддерживает несколько форматов шрифтов, таких как TrueType CFF, Opentype и Type1." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,89 +61,91 @@ family_listing_page_venture: "4"
 family_listing_page_package: "268"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-font/"
-tags: ['TTF-to-WOFF', 'TTF-to-WOFF2', 'WOFF-to-TTF', 'WOFF-to-WOFF2', 'WOFF2-to-TTF', '', 'WOFF2-to-WOFF', 'EOT-to-TTF', 'EOT-to-WOFF', 'EOT-to-WOFF2', 'Type1-to-TFF', 'Type1-to-WOFF', 'Type1-to-WOFF2', 'CFF-to-TTF', 'CFF-to-WOFF', 'CFF-to-WOFF2']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/font/41
+productLink: https://products.aspose.com/font/java/
+dataFolder: aspose_font
+packages_refs:
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-7"
+- "22-6"
+- "20-10"
+- "21-10"
+- "21-12"
+- "21-4"
+- "21-8"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/font" linktext=" Support Forum " >}}
+# Java API для различных форматов шрифтов
+[![banner](./aspose_font-for-java-banner.png)](./)
 
-{{< Common/h2 text="Скачайте Aspose.Font для рисования и работы со шрифтами"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose размещает все API Java на
-{{< Common/link href="https://repository.aspose.com" text="Aspose Репозиторий"  >}}. Вы можете легко использовать Aspose.Font for Java API непосредственно в ваших проектах на основе Maven, добавив следующие конфигурации в ваш pom.xml. Подробные инструкции см.
-{{< Common/link href="https://docs.aspose.com/font/java/installation/" text="Установка Aspose.Font для Java из репозитория Maven"  >}}страница документации.
-{{< Common/release-notes-link family="font" product="java" href="https://docs.aspose.com/font/java/release-notes/" text="https://docs.aspose.com/font/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Страница продукта](https://products.aspose.com/font/java) | [Док](https://docs.aspose.com/font/java/) | [Ссылка на API](https://apireference.aspose.com/font/java) | [Примеры](https://github.com/aspose-font/Aspose.Font-for-Java) | [Блог](https://blog.aspose.com/category/font/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/c/font) | [Временная лицензия](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.Font for Java](https://products.aspose.com/font/java) - это библиотека загрузки и рисования шрифта. Он поддерживает несколько передних форматов, таких как TrueType (с TrueType Collenons), CFF, Opentype и Type1. API предоставляет богатую функциональность для загрузки/сохранения шрифта и предоставления информации о своих структурах данных, а также любым глифом, который поддерживается всеми типами шрифтов. Он также предоставляет информацию о кодировании для всех типов шрифтов, которые представляют собой отображение между кодами символов и идентификаторами глифа. Его подсистема рендеринга помогает конечным пользователям сделать любой желаемый глиф или текст. Специальные глифы могут быть отображены путем реализации интерфейса с использованием простых графических функций (точка перемещения, линия рисования, кривая).
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-font</artifactId>
-      <version>22.6</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+## функции API FONT
 
-{{ГИПЕРССЫЛКА1}} | {{ГИПЕРССЫЛКА2}} | {{ГИПЕРССЫЛКА3}} | {{ГИПЕРССЫЛКА4}} | {{ГИПЕРССЫЛКА5}} | {{ГИПЕРССЫЛКА6}} | {{ГИПЕРССЫЛКА7}} | {{ГИПЕРССЫЛКА8}} | {{ГИПЕРССЫЛКА9}}
+- [Загрузите файлы шрифтов с диска](https://docs.aspose.com/font/java/loading-saving-cff-fonts/), а также поток.
+- Прочитайте информацию о шрифте и сохраните обновленные файлы шрифтов для диска.
 
-## Зачем скачивать Aspose.Font для Java?
-
-Aspose.Font для Java — это библиотека для загрузки и рисования шрифтов. Он поддерживает несколько передних форматов, таких как TrueType (с коллекциями TrueType), CFF, OpenType и Type1. API предоставляет широкие возможности для загрузки/сохранения шрифта и предоставления информации о его структурах данных вместе с любым глифом, который поддерживается всеми типами шрифтов. Он также предоставляет информацию о кодировке для всех типов шрифтов, которая представляет сопоставление между кодами символов и идентификаторами глифов. Его подсистема рендеринга помогает конечным пользователям отображать любой желаемый глиф или текст. Специальные глифы могут отображаться путем реализации интерфейса с использованием простых графических функций (переместить точку, нарисовать линию, кривую).
-
-## Возможности API шрифтов
-
-- Загружайте файлы шрифтов с диска, а также из потока.
-- Чтение информации о шрифтах и сохранение обновленных файлов шрифтов на диск.
-- Поддержка шрифтов *`TrueType`* и *`OpenType`*.
-- Загрузите типы шрифтов TrueType из локально сохраненных файлов, обновите параметры и сохраните.
-- Работа с глифами и метриками шрифтов TrueType.
-- Визуализация текста с использованием шрифтов TrueType и Type1.
+-Поддержка [*`trueType`*и*` opentype`*] (https://docs.aspose.com/font/java/working-with-truetype-and-opentype-fonts/) шрифты.
+- Загрузите типы шрифтов `truetype` из локально хранимых файлов, обновлять параметры и сохранение.
+- Работайте с глифами и метриками шрифтов `trueType.
+- рендеринг текста с использованием шрифта `trueType` и` type1`.
 - Обнаружение латинских символов в шрифтах.
-- Загрузите и извлеките данные из шрифта `Type1`, хранящегося на локальном диске.
-- Работа с глифами и метриками шрифтов `Type1`.
-- Визуализация текста с использованием пользовательских интерфейсов.
+- Загрузите и извлеките данные из шрифта `type1`, хранящегося на локальном диске.
+- Работать с глифами и метриками шрифтов типа1.
+- рендеринг текст с использованием пользовательских интерфейсов.
 
-Чтобы получить более полный список функций, посетите [Feature Overview](https://docs.aspose.com/font/java/feature-list/).
+Для более полного списка функций, пожалуйста, посетите [Обзор функций](https://docs.aspose.com/font/java/feature-list/).
 
-### Чтение и запись форматов шрифтов
+## Читать и написать форматы шрифтов
+TTF
 
-ТТФ
+## Читать форматы шрифтов
+TTC, OpenType, CFF, Type1
 
-### Чтение форматов шрифтов
+## поддерживаемые среды
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64), Windows Azure
+- ** macOS: ** Mac OS X
+- ** Linux: ** Ubuntu, Centos и другие
+- ** Java версии: ** `j2se 8.0 (1.8)` или выше.
 
-ТТК, OpenType, CFF, Type1
+## Начать
 
-### Поддерживаемые среды
+Aspose.Font Java API размещены на [Применить репозиторий](https://repository.aspose.com/font/). Вы можете легко использовать Aspose.font для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/).
 
-- **Microsoft Windows®:** Windows Desktop & Server (x86, x64), Windows Azure
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, CentOS и другие
-- **Версии Java:** `J2SE 8.0 (1.8)` или выше.
+## Обнаружение поддержки латинских символов в шрифте с помощью Java
 
-{{< Common/hr >}}
+```java
+// For complete examples and data files, please go to https://github.com/aspose-font/Aspose.Font-for-Java
+String fileName = Utils.getDataDir() + "Montserrat-Regular.ttf"; //Font file name with full path
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+      FontDefinition fd = new FontDefinition(FontType.TTF, new FontFileDefinition("ttf", new FileSystemStreamSource(fileName)));
+      TtfFont ttfFont = (TtfFont) Font.open(fd);
 
-{{< Common/hr >}}
+      boolean latinText = true;
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="font" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
 
+      for (int code = 65; code < 123; code++)
+      {
+          GlyphId gid = ttfFont.getEncoding().decodeToGid(code);
+          if (gid == null || gid == GlyphUInt32Id.getNotDef())
+          {
+              latinText = false;
+          }
+      }
+
+      if (latinText)
+      {
+          System.out.println(MessageFormat.format("Font {0} supports latin symbols.", ttfFont.getFontName()));
+      }
+      else
+      {
+      	System.out.println(MessageFormat.format("Latin symbols are not supported by font {0}.", ttfFont.getFontName()));
+      }
+```
+
+[Страница продукта](https://products.aspose.com/font/java) | [Док](https://docs.aspose.com/font/java/) | [Ссылка на API](https://apireference.aspose.com/font/java) | [Примеры](https://github.com/aspose-font/Aspose.Font-for-Java) | [Блог](https://blog.aspose.com/category/font/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/c/font) | [Временная лицензия](https://purchase.aspose.com/temporary-license)

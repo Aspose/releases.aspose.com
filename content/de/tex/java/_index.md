@@ -1,9 +1,43 @@
 ---
-title: "Laden Sie JAR-Dateien herunter, um TeX zu erstellen und zu setzen | Aspose.TeX-API"
-description: "Laden Sie JAR-Dateien herunter, um Satzfunktionen in Ihrer App hinzuzufügen. Konvertieren Sie TeX & LaTeX in PDF, XPS, SVG usw. Unterstützt Font-Subsetting, Ligatur, Rasterung usw."
-keywords: "tex"
-family_listing_page_title: "Aspose.TeX für Java"
-family_listing_page_description: "Aspose.TeX für Java ist eine Java-API, die erstellt wurde, um Entwicklern das Erstellen von Anwendungen für den Satz von TeX-Dateien zu ermöglichen."
+title: "ASSON.TEX | Java -Bibliothek zum Typenset & konvertieren Tex -Dateien" 
+linktitle: Aspose.TeX
+description: "Java -Klassenbibliothek zum Hinzufügen von Funktionen in Ihrer App. Konvertieren Sie Tex & Latex in PDF, XPS, SVG usw. Unterstützt Schriftarten, Ligatur, Rasterisierung usw." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose TeX
+- Aspose Java API
+- tex-java-library
+- tex-java-class
+- XPS
+- PDF
+- PNG
+- JPEG
+- TIFF
+- BMP
+- TEXT
+- typesetting
+- ZIP
+- J2SE
+- Windows
+- Linux
+- Mac
+- format conversion
+- tex conversion
+- latex conversion
+- font subsetting
+- ligature
+- rasterization
+- OXPS
+- PS
+- EPS
+- SVG
+- TeX to SVG
+family_listing_page_title: "ASSON.TEX FÜR JAVA" 
+family_listing_page_description: "ASSON.TEX FÜR JAVA ist eine Java -API, die es Entwicklern ermöglicht, Anwendungen für Tex -Dateien zu erstellen." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,78 +45,64 @@ family_listing_page_venture: "4"
 family_listing_page_package: "276"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-tex/"
-tags: ['XPS', 'PDF', 'PNG', 'JPEG', 'TIFF', 'BMP', 'TEXT', 'typesetting', 'ZIP', 'J2SE', 'Windows', 'Linux', 'Mac', 'format-conversion', 'tex-conversion', 'latex-conversion', 'font-subsetting', 'ligature', 'rasterization', 'OXPS', 'PS', 'EPS', 'SVG', 'TeX-to-SVG']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/tex/47
+productLink: https://products.aspose.com/tex/java/
+dataFolder: aspose_tex
+packages_refs:
+- "22-11"
+- "22-10"
+- "22-8"
+- "22-6"
+- "21-11"
+- "21-4"
+- "21-8"
+- "21-9"
+- "22-2"
+- "22-3"
+- "22-4"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/tex" linktext=" Support Forum " >}}
+# Java -API zu Typeet Tex -Dateien
+[![banner](./aspose_tex-for-java-banner.png)](./)
 
-{{< Common/h2 text="Laden Sie Aspose.TeX in TypeSet TeX-Dateien herunter"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose hostet alle Java-APIs auf der
-{{< Common/link href="https://repository.aspose.com" text="Aspose-Repository"  >}}. Sie können die Aspose.TeX for Java API ganz einfach direkt in Ihren Maven-basierten Projekten verwenden, indem Sie Ihrer pom.xml die folgenden Konfigurationen hinzufügen. Für die detaillierten Anweisungen besuchen Sie bitte
-{{< Common/link href="https://docs.aspose.com/tex/java/installation/" text="Installieren von Aspose.TeX für Java aus dem Maven-Repository"  >}}Dokumentationsseite.
-{{< Common/release-notes-link family="tex" product="java" href="https://docs.aspose.com/tex/java/release-notes/" text="https://docs.aspose.com/tex/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Produktseite](https://products.aspose.com/tex/java) | [Dokumente](https://downloads.aspose.com/tex/java) | [Demos](https://products.aspose.app/tex/family) | [API -Referenz](https://apireference.aspose.com/tex/java) | [Beispiele](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/Beispiele) | [Blog](https://blog.aspose.com/category/tex/) | [Freie Unterstützung](https://forum.aspose.com/c/tex) | [Vorübergehende Lizenz](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.TeX for Java](https://products.aspose.com/tex/java) ist eine Bibliothek, die eine Tex Engine -Erweiterung namens ObjectTex bietet. Es kann verwendet werden, um Dokumente von Tex -Dateien zu entsprechen. "Objekt" bedeutet, dass ein intermediNTypeSeting -Ergebnis ein spezifisches Objektmodell ist, das dann gleichmäßig in eine Reihe von Endformaten umgewandelt werden kann.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-tex</artifactId>
-      <version>22.6</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+## Features -Datei -Verarbeitungsfunktionen
+- Typesetting of TeX files
+- Create custom TeX formats
+- Provide input data in various ways
+- Fetch output data in various ways
 
-[Product Page](https://products.aspose.com/tex/java) | [Docs](https://downloads.aspose.com/tex/java) | [Demos](https://products.aspose.app/tex/family) | [API Reference](https://reference.aspose.com/tex/java) | [Examples](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/Examples) | [Blog](https://blog.aspose.com/category/tex/) | [Free Support](https://forum.aspose.com/c/tex) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+## unterstützte Eingangsformate
+Tex
 
-## Warum Aspose.TeX für Java herunterladen?
-
-Aspose.TeX für Java ist eine Bibliothek, die eine TeX-Engine-Erweiterung namens ObjectTeX bereitstellt. Es kann verwendet werden, um Dokumente zu setzen, die von TeX-Dateien beschrieben werden. „Objekt“ bedeutet, dass das Zwischenergebnis des Satzes ein spezifisches Objektmodell ist, das dann einheitlich in mehrere Endformate umgewandelt werden kann.
-
-## Funktionen zur Verarbeitung von Schriftsatzdateien
-
-- Satz von TeX-Dateien
-- Erstellen Sie benutzerdefinierte TeX-Formate
-- Eingabedaten auf verschiedene Weise bereitstellen
-- Abrufen von Ausgabedaten auf verschiedene Weise
-
-### Unterstützte Eingabeformate
-
-TeX
-
-### TeX speichern unter
-
+## retten tex als
 XPS, PDF, JPEG, PNG, TIFF und BMP
 
-### Unterstützte eingebettete Schriftarten für den Satz
-
+## unterstützte eingebettete Schriftarten zum Artensetting
 cmbsy10, cmbx10, cmbx5, cmbx6, cmbx7, cmbx8, cmbx9, cmcsc10, cmdunh10, cmex10, cmmi10, cmmi5, cmmi6, cmm7, cmmi8, cmmi9, cmmib10, cmr10, cmr5, cmr6, cmr7, cmr8, cmr9, cmsl10, cmsl8, cmsl9, cmsltt10, cmss10, cmssbx10, cmssi10, cmssq8, cmssqi8, cmsy10, cmsy5, cmsy6, cmsy7, cmsy8, cmsy9, cmti10, cmti7, cmti8, cmti9, cmtt10, cmtt8, cmtt9, cmu10
 
-{{< Common/hr >}}
+## unterstützte Plattformen
+Sie können asspose.tex für Java verwenden, um jede Art von Java-Anwendung für Windows (32-Bit- oder 64-Bit) Linux und macOS zu erstellen. ASSON.TEX für Java unterstützt die J2SE 8.0 (1,8) oder höher (z. B. Java 10).
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+## Verwenden Sie Java, um ein benutzerdefiniertes Tex -Format zu erstellen
 
-{{< Common/hr >}}
+```java
+// Create typesetting options for no format on ObjectTeX engine extension.
+TeXOptions options = TeXOptions.consoleAppOptions(TeXConfig.objectIniTeX());
+// Specify a file system working directory for input.
+options.setInputWorkingDirectory(new InputFileSystemDirectory(Utils.getInputDirectory()));
+// Specify a file system working directory for output.
+options.setOutputWorkingDirectory(new OutputFileSystemDirectory(Utils.getOutputDirectory()));
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="tex" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+// Run format creation.
+TeX.createFormat("customtex", options);
 
+// For further output to look write.
+options.getTerminalOut().getWriter().newLine();
+```
+
+[Produktseite](https://products.aspose.com/tex/java) | [Dokumente](https://downloads.aspose.com/tex/java) | [Demos](https://products.aspose.app/tex/family) | [API -Referenz](https://apireference.aspose.com/tex/java) | [Beispiele](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/Beispiele) | [Blog](https://blog.aspose.com/category/tex/) | [Freie Unterstützung](https://forum.aspose.com/c/tex) | [Vorübergehende Lizenz](https://purchase.aspose.com/temporary-license)

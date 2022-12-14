@@ -1,9 +1,138 @@
 ---
-title: "Κατεβάστε τα αρχεία JAR Επεξεργασία Barcode | Aspose.BarCode API"
-description: "Κατεβάστε αρχεία JAR για να δημιουργήσετε, να αναγνωρίσετε και να μετατρέψετε γραμμωτούς κώδικες. Υποστηρίζει αριθμητικές, αλφαριθμητικές και 2D συμβολολογίες γραμμωτού κώδικα. Προσαρμόστε τους γραμμωτούς κώδικες στην εφαρμογή Java σας."
-keywords: "Generate barcode Java, Scan barcode java"
-family_listing_page_title: "Aspose.BarCode για Java"
-family_listing_page_description: "Το Aspose.BarCode για Java είναι ένα ισχυρό και αξιόπιστο στοιχείο δημιουργίας και αναγνώρισης γραμμωτού κώδικα. Επιτρέπει στους προγραμματιστές να προσθέτουν γρήγορα και εύκολα τη λειτουργία δημιουργίας και αναγνώρισης γραμμωτού κώδικα στις εφαρμογές τους Java που βασίζονται σε πλατφόρμες Java SE, Java EE και Java ME."
+title: "Aspose.barcode | Διαδικασία 1D, 2D & Ταχυδρομικοί κώδικες μέσω Java" 
+linktitle: Aspose.BarCode
+description: "Βιβλιοθήκη κλάσης Java για τη δημιουργία, την αναγνώριση και τη μετατροπή των γραμμωτών κώδικα. Υποστηρίζει αριθμητικές, αλφαριθμητικές και 2D συμβολαίες γραμμωτού κώδικα. Προσαρμόστε τους barcodes στην εφαρμογή Java." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Java barcode API
+- Java barcode library
+- Java barcode class
+- 1D Barcode
+- 2D Barcode
+- Alpha numeric Barcodes
+- Java Bacode API
+- Barcode API
+- Barcode Formatting API
+- Barcode generation API
+- barcode generator API
+- Barcode imaging API
+- Barcode reader API
+- Barcode recognition API
+- Barcode scanning API
+- Barcode symbologies
+- BMP
+- Checksum
+- Codabar
+- Code11
+- Code128
+- Code39
+- CompactPDF417
+- Controls & Libraries
+- EAN14(SCC14)
+- EMF
+- EXIF
+- GIF
+- JPEG
+- MicroQR
+- MSI
+- Numeric Barcodes
+- On premise API
+- Planet
+- PNG
+- Postnet
+- PZN
+- QR
+- SSCC18
+- SVG
+- Swiss QR
+- TIFF
+- UPCA
+- UPCE
+- Aspose.Total
+- Conholdate
+- Conholdate.Total
+- Aspose.Barcode
+- barcode
+- generation
+- recognition
+- Alpha Numeric
+- AI 8102 Coupon
+- AustralianPosteParcel
+- AustraliaPost
+- Aztec
+- Codabar
+- CodablockF
+- Code11
+- Code128
+- Code16K
+- Code32
+- Code39Extended
+- Code39Standard
+- Code93Extended
+- Code93Standard
+- DatabarExpanded
+- DatabarExpandedStacked
+- DatabarLimited
+- DatabarOmniDirectional
+- DatabarStacked
+- DatabarStackedOmniDirectional
+- DatabarTruncated
+- DataLogic2of5
+- DataMatrix
+- DeutschePostIdentcode
+- DeutschePostLeitcode
+- DotCode
+- DutchKIX
+- EAN13
+- EAN14
+- EAN8
+- GS1CodablockF
+- GS1Code128
+- GS1DataMatrix
+- GS1QR
+- IATA2of5
+- Interleaved2of5
+- ISBN
+- ISMN
+- ISSN
+- ItalianPost25
+- ITF14
+- ITF6
+- MacroPdf417
+- Matrix2of5
+- MaxiCode
+- MicroPdf417
+- MICR
+- (only
+- BarCode
+- reader)
+- MSI
+- OneCode
+- OPC
+- PatchCode
+- Pdf417
+- Pharmacode
+- Planet
+- Postnet
+- PZN
+- QR
+- RM4SCC
+- SCC14
+- SingaporePost
+- SSCC18
+- Standard2of5
+- SwissQR
+- SwissPostParcel
+- UPCA
+- UpcaGs1Code128Coupon
+- UpcaGs1DatabarCoupon
+- UPCE
+- VIN
+family_listing_page_title: "Aspose.barcode για java" 
+family_listing_page_description: "Το Aspose.BARCODE για το Java είναι ένα ισχυρό και αξιόπιστο στοιχείο γενιάς γραμμωτού κώδικα και αναγνώρισης. Επιτρέπει στους προγραμματιστές να προσθέτουν γρήγορα και εύκολα τη λειτουργία δημιουργίας γραμμωτού κώδικα και αναγνώρισης στις εφαρμογές Java με βάση τις πλατφόρμες Java SE, Java EE και Java ME." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,102 +140,148 @@ family_listing_page_venture: "4"
 family_listing_page_package: "25"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-barcode/"
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/barcode/13
+productLink: https://products.aspose.com/barcode/java/
+dataFolder: aspose_barcode
+packages_refs:
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-6"
+- "16-10"
+- "16-11"
+- "16-12"
+- "17-01"
+- "17-02"
+- "17-03"
+- "17-10"
+- "17-11"
+- "17-12"
+- "17-4"
+- "17-5"
+- "17-6"
+- "17-7"
+- "17-8"
+- "17-9"
+- "18-1"
+- "18-10"
+- "18-10-1"
+- "18-11"
+- "18-12"
+- "18-2"
+- "18-3"
+- "18-4"
+- "18-5"
+- "18-6"
+- "18-7"
+- "18-8"
+- "19-1"
+- "19-10"
+- "19-11"
+- "19-12"
+- "19-2"
+- "19-3"
+- "19-4"
+- "19-5"
+- "19-6"
+- "19-7"
+- "19-8"
+- "19-9"
+- "20-1"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-2"
+- "20-3"
+- "20-4"
+- "20-5"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-1"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-1"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
+- "7-5-0"
+- "7-6-0"
+- "7-7-0"
+- "7-8-0"
+- "7-9-0"
+- "8-0-0"
+- "8-1-0"
+- "8-2-0"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/barcode" linktext=" Support Forum " >}}
+# Βιβλιοθήκη γραμμωτού κώδικα για εφαρμογές Java
+[![banner](./aspose_barcode-for-java-banner.png)](./)
 
-{{< Common/h2 text="Κατεβάστε τη Βιβλιοθήκη Barcode για εφαρμογές Java"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Το Aspose φιλοξενεί όλα τα Java API στο
-{{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. Μπορείτε εύκολα να χρησιμοποιήσετε το
-{{< Common/link href="https://repository.aspose.com/barcode/" text="Aspose.BarCode για Java API"  >}}απευθείας στα έργα σας που βασίζονται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml σας. Για αναλυτικές οδηγίες παρακαλούμε επισκεφθείτε
-{{< Common/link href="https://docs.aspose.com/barcode/java/installation/" text="Εγκατάσταση Aspose.BarCode για Java από το Maven Repository"  >}}σελίδα τεκμηρίωσης.
-{{< Common/release-notes-link family="barcode" product="java" href="https://docs.aspose.com/barcode/java/release-notes/" text="https://docs.aspose.com/barcode/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Σελίδα προϊόντος](https://products.aspose.com/barcode/java) | [Έγγραφα](https://docs.aspose.com/barcode/java/) | [Επίδειξη](https://products.aspose.app/barcode/family) | [Αναφορά API](https://apireference.aspose.com/barcode/java) | [Παραδείγματα](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [Ιστολόγιο](https://blog.aspose.com/category/barcode/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/barcode) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-    Maven:   
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository>   
-    Gradle:   
-    maven { url "https://artifact.aspose.com/repo/" }
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-    Maven:      
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-barcode</artifactId>
-      <version>22.9</version>
-      </dependency>  
-     Gradle:  
-     compile group: 'com.aspose', name: 'aspose-barcode', classifier: 'jdk18', version:  '22.9'
-     compile group: 'com.aspose', name: 'aspose-barcode', classifier: 'javadoc', version: '22.9'
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
-
-[Product Page](https://products.aspose.com/barcode/java) | [Docs](https://docs.aspose.com/barcode/java/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/java) | [Examples](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-## Γιατί να κατεβάσετε το Aspose.BarCode για Java;
-
-Το [Aspose.BarCode for Java](https://products.aspose.com/barcode/java) είναι ένα ισχυρό και αξιόπιστο στοιχείο δημιουργίας και αναγνώρισης γραμμικού κώδικα, γραμμένο σε Java, επιτρέπει στους προγραμματιστές να προσθέτουν γρήγορα και εύκολα τη λειτουργία δημιουργίας και αναγνώρισης γραμμικού κώδικα στις εφαρμογές Java τους.
+[Aspose.BarCode for Java](https://products.aspose.com/barcode/java) είναι ένα ισχυρό και αξιόπιστο στοιχείο παραγωγής γραμμωτού κώδικα και αναγνώρισης, γραμμένο στην Java, επιτρέπει στους προγραμματιστές να προσθέτουν γρήγορα και εύκολα τη λειτουργία δημιουργίας γραμμωτού κώδικα και αναγνώρισης στις εφαρμογές Java τους.
 
 ## Εφαρμογές επίδειξης
 
-| [Generate Barcode](https://products.aspose.app/barcode/generate) | [Recognize Barcode](https://products.aspose.app/barcode/recognize) | [Embed Barcode](https://products.aspose.app/barcode/embed) |
-| :------------------------------------------------- -------------------------------------------------- ------------------------------------: | :------------------------------------------------- -------------------------------------------------- ---------------------------------------: | :------------------------------------------------- -------------------------------------------------- -----------------------: |
-| [![Generate](https://products.aspose.app/barcode/generate/img/aspose_generate-app-48.png)](https://products.aspose.app/barcode/generate) | [![Recognize](https://products.aspose.app/barcode/recognize/img/aspose_recognize-app-48.png)](https://products.aspose.app/barcode/recognize) | [![Embed](https://products.aspose.app/barcode/embed/img/aspose_embed-app-48.png)](https://products.aspose.app/barcode/embed) |
+[Δημιουργήστε γραμμικό κώδικα](https://products.aspose.app/barcode/generate) | [Αναγνωρίστε τον γραμμωτό κώδικα](https://products.aspose.app/barcode/recognize) | [Ενσωματωμένος γραμμικός κώδικας](https://products.aspose.app/barcode/embed)
+: ---: | : ---: | : ---:
 
-## Χαρακτηριστικά API Barcode
+[![Παράγω](https://products.aspose.app/barcode/generate/img/aspose_generate-app-48.png)] (https://products.aspose.app/barcode/generate) | [![Αναγνωρίζω](https://products.aspose.app/barcode/recognize/img/aspose_recognize-app-48.png)] (https://products.aspose.app/barcode/recognize) | [![Ενθέτω](https://products.aspose.app/barcode/embed/img/aspose_embed-app-48.png)] (https://products.aspose.app/barcode/embed)
 
-- Προσδιορίστε διαφορετικά είδη συμβολισμών.
-- Ορισμός κειμένου κωδικού γραμμικού κώδικα, εμφάνισης και άλλων ιδιοτήτων.
-- Υποστήριξη αθροίσματος ελέγχου και συμπληρωματικών δεδομένων.
-- Εκτύπωση εικόνων barcode.
+## χαρακτηριστικά API barcode
+- Καθορίστε διαφορετικά είδη συμβολομένων.
+- Ρυθμίστε το κείμενο κώδικα γραμμωτού κώδικα, την εμφάνιση και άλλες ιδιότητες.
+- Υποστήριξη δεδομένων ελέγχου και συμπλήρωσης.
+- Εκτύπωση εικόνων γραμμωτού κώδικα.
 
-### Συμβολισμοί γραμμωτού κώδικα
+## συμβόλαιο γραμμωτού κώδικα
+** Μόνο αριθμητική: ** EAN13, EAN8, UPCA, UPCE, Booklandean, Interaleved2OF5, Standard2OF5, MSI, Code11, Codabar, Postnet, Planet, EAN14 (SCC14), SSCC18, ITF14, LETICODE, OPC \
+** Alpha-Numeric: ** Code128, EAN128, Code39 Extended, Code39 Standard, Code93, Extended, Code93 Standard, Matrix 2 από 5, PZN, Deutsche Post Identcode, VIN \
+** 2D Symbologies: ** PDF417, DataMatrix, QR, Swiss QR (QR Bill) \
+** Κωδικοποίηση Μόνο υποστήριξη: ** Australia Post, Aztec
 
-- **Μόνο αριθμητικά:** EAN13, EAN8, UPCA, UPCE, BooklandEAN, Interleaved2of5, Standard2of5, MSI, Code11, Codabar, Postnet, Planet, EAN14(SCC14), SSCC18, ITF14, Leticode, OPC
-- **Alpha-Numeric:** Code128, EAN128, Code39 Extended, Code39 Standard, Code93, Extended, Code93 Standard, Matrix 2 of 5, PZN, Deutsche Post Identcode, VIN
-- **Δισδιάστατες συμβολολογίες:** PDF417, DataMatrix, QR, Swiss QR (QR Bill)
-- **Υποστήριξη μόνο κωδικοποίησης: ** Australia Post, Aztec
+## Διαβάστε και γράψτε ετικέτες γραμμωτού κώδικα
+** Εικόνες: ** JPEG, TIFF, PNG, BMP, GIF, EXIF, EMF, SVG
 
-### Διαβάστε και γράψτε ετικέτες γραμμωτού κώδικα
+## Αποθήκευση barcodes ως
+** Εικόνες: ** JPEG, TIFF, PNG, BMP, GIF, EXIF, EMF, SVG
 
-**Εικόνες:** JPEG, TIFF, PNG, BMP, GIF, EXIF, EMF, SVG
+## υποστηριζόμενα περιβάλλοντα
+- ** Java Runtime: ** `jre 8` ή παραπάνω
+- ** Ανάπτυξη Java: ** `java se 8`, ή παραπάνω.
 
-### Αποθήκευση γραμμωτών κωδίκων ως
+## Ξεκίνα
 
-**Εικόνες:** JPEG, TIFF, PNG, BMP, GIF, EXIF, EMF, SVG
+Το ASPOSPER.BARCODE JAVA API φιλοξενούνται στο [Θέτω σε αποθήκη](https://repository.aspose.com/barcode/). Μπορείτε εύκολα να χρησιμοποιήσετε το ASPOSPE.BARCODE για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.BarCode for Java from Maven Repository](https://docs.aspose.com/barcode/java/installation/).
 
-### Υποστηριζόμενα περιβάλλοντα
+## Σάρωση ενός γραμμωτού κώδικα από μια εικόνα μέσω Java
 
-- **Οποιοδήποτε λειτουργικό σύστημα που υποστηρίζει Java:**
-- **Χρόνος εκτέλεσης Java:** `JRE 1.8` ή παραπάνω
-- **Ανάπτυξη Java:** `J2SE 8.0 (1.8)` ή νεότερη έκδοση.
+```java
+// The path to the resource directory.
+String dataDir = Utils.getDataDir(Barcode_Recognition.class) + "BarcodeReader/basic_features/";
 
-[Product Page](https://products.aspose.com/barcode/java) | [Docs](https://docs.aspose.com/barcode/java/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/java) | [Examples](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+// Initialize barcode reader
+BarCodeReader reader = new BarCodeReader(dataDir + "CodeText.jpg");
 
-{{< Common/hr >}}
+// read barcode of type Code39Extended
+for (BarCodeResult result : reader.readBarCodes()) {
+    System.out.println("CodeText: " + result.getCodeText());
+    System.out.println("Symbology type: " + result.getCodeType());
+}
+```
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
-
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="barcode" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[Σελίδα προϊόντος](https://products.aspose.com/barcode/java) | [Έγγραφα](https://docs.aspose.com/barcode/java/) | [Επίδειξη](https://products.aspose.app/barcode/family) | [Αναφορά API](https://apireference.aspose.com/barcode/java) | [Παραδείγματα](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [Ιστολόγιο](https://blog.aspose.com/category/barcode/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/barcode) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)

@@ -1,9 +1,43 @@
 ---
-title: "JAR ファイルをダウンロードして TeX を作成および TypeSet | Aspose.TeX API"
-description: "JAR ファイルをダウンロードして、アプリ内に組版機能を追加します。 TeX と LaTeX を PDF、XPS、SVG などに変換します。フォントのサブセット化、合字、ラスタライズなどをサポートします。"
-keywords: "tex"
-family_listing_page_title: "Aspose.TeX for Java"
-family_listing_page_description: "Aspose.TeX for Java は、開発者が TeX ファイル タイプセット用のアプリケーションを作成できるようにするために作成された Java API です。"
+title: "Aspose.tex | JavaライブラリはTexファイルをタイプセットして変換します" 
+linktitle: Aspose.TeX
+description: "アプリ内にタイプセット機能を追加するJavaクラスライブラリ。 Tex＆LaTexをPDF、XPS、SVGなどに変換します。フォントサブセット、結晶、ラスター化などをサポートします。" 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose TeX
+- Aspose Java API
+- tex-java-library
+- tex-java-class
+- XPS
+- PDF
+- PNG
+- JPEG
+- TIFF
+- BMP
+- TEXT
+- typesetting
+- ZIP
+- J2SE
+- Windows
+- Linux
+- Mac
+- format conversion
+- tex conversion
+- latex conversion
+- font subsetting
+- ligature
+- rasterization
+- OXPS
+- PS
+- EPS
+- SVG
+- TeX to SVG
+family_listing_page_title: "Java用のAspose.tex" 
+family_listing_page_description: "JavaのAspose.texは、開発者がTexファイルタイプセットのアプリケーションを作成できるように作成されたJava APIです。" 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,78 +45,67 @@ family_listing_page_venture: "4"
 family_listing_page_package: "276"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-tex/"
-tags: ['XPS', 'PDF', 'PNG', 'JPEG', 'TIFF', 'BMP', 'TEXT', 'typesetting', 'ZIP', 'J2SE', 'Windows', 'Linux', 'Mac', 'format-conversion', 'tex-conversion', 'latex-conversion', 'font-subsetting', 'ligature', 'rasterization', 'OXPS', 'PS', 'EPS', 'SVG', 'TeX-to-SVG']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/tex/47
+productLink: https://products.aspose.com/tex/java/
+dataFolder: aspose_tex
+packages_refs:
+- "22-11"
+- "22-10"
+- "22-8"
+- "22-6"
+- "21-11"
+- "21-4"
+- "21-8"
+- "21-9"
+- "22-2"
+- "22-3"
+- "22-4"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/tex" linktext=" Support Forum " >}}
+# Java APIからTexファイルをタイプセットします
 
-{{< Common/h2 text="Aspose.TeX を TypeSet TeX ファイルにダウンロード"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose はすべての Java API を
-{{< Common/link href="https://repository.aspose.com" text="Aspose リポジトリ"  >}}.以下の構成を pom.xml に追加することで、Maven ベースのプロジェクトで Aspose.TeX for Java API を直接簡単に使用できます。詳細な手順については、次の URL をご覧ください。
-{{< Common/link href="https://docs.aspose.com/tex/java/installation/" text="Maven リポジトリから Aspose.TeX for Java をインストールする"  >}}ドキュメントページ。
-{{< Common/release-notes-link family="tex" product="java" href="https://docs.aspose.com/tex/java/release-notes/" text="https://docs.aspose.com/tex/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[![banner](./aspose_tex-for-java-banner.png)](./)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[製品ページ](https://products.aspose.com/tex/java) | [ドキュメント](https://downloads.aspose.com/tex/java) | [デモ](https://products.aspose.app/tex/family) | [APIリファレンス](https://apireference.aspose.com/tex/java) | [例](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/例) | [ブログ](https://blog.aspose.com/category/tex/) | [無料サポート](https://forum.aspose.com/c/tex) | [一時ライセンス](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-tex</artifactId>
-      <version>22.6</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+[Aspose.TeX for Java](https://products.aspose.com/tex/java)は、ObjectTexと呼ばれるTexエンジン拡張機能を提供するライブラリです。 Tex Filesで説明されているドキュメントをタイプセットするために使用できます。 「オブジェクト」とは、中間タイプの結果が特定のオブジェクトモデルであり、その後、多くのエンド形式に均一に変換できることを意味します。
 
-[Product Page](https://products.aspose.com/tex/java) | [Docs](https://downloads.aspose.com/tex/java) | [Demos](https://products.aspose.app/tex/family) | [API Reference](https://reference.aspose.com/tex/java) | [Examples](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/Examples) | [Blog](https://blog.aspose.com/category/tex/) | [Free Support](https://forum.aspose.com/c/tex) | [Temporary License](https://purchase.aspose.com/temporary-license) | {{ハイパーリンク9}}
+## タイプセットファイル処理機能
+- Typesetting of TeX files
+- Create custom TeX formats
+- Provide input data in various ways
+- Fetch output data in various ways
 
-## Aspose.TeX for Java をダウンロードする理由
+## サポートされている入力形式
+テックス
 
-Aspose.TeX for Java は、ObjectTeX と呼ばれる TeX エンジン拡張を提供するライブラリです。 TeX ファイルで記述された文書をタイプセットするために使用できます。 「オブジェクト」とは、中間の植字結果が特定のオブジェクト モデルであることを意味し、これを多数の最終フォーマットに均一に変換できます。
-
-## TypeSetting ファイル処理機能
-
-- TeXファイルの組版
-- カスタム TeX 形式を作成する
-- さまざまな方法で入力データを提供する
-- さまざまな方法で出力データを取得する
-
-### サポートされている入力形式
-
-TeX
-
-### TeX を名前を付けて保存
-
+## tex asを保存します
 XPS、PDF、JPEG、PNG、TIFF、BMP
 
-### タイプセットでサポートされている埋め込みフォント
+## は、組織化用のサポートされている埋め込みフォント
 
-cmbsy10、cmbx10、cmbx5、cmbx6、cmbx7、cmbx8、cmbx9、cmcsc10、cmdunh10、cmex10、cmmi10、cmmi5、cmmi6、cmm7、cmmi8、cmmi9、cmmib10、cmr10、cmr5、cmr6、cmr7、cmr8、cmr9、cmsl10、cmsl8、 cmsl9、cmsltt10、cmss10、cmssbx10、cmssi10、cmssq8、cmssqi8、cmsy10、cmsy5、cmsy6、cmsy7、cmsy8、cmsy9、cmti10、cmti7、cmti8、cmti9、cmtt10、cmtt8、cmtt9、cmu10
+cmbsy10, cmbx10, cmbx5, cmbx6, cmbx7, cmbx8, cmbx9, cmcsc10, cmdunh10, cmex10, cmmi10, cmmi5, cmmi6, cmm7, cmmi8, cmmi9, cmmib10, cmr10, cmr5, cmr6, cmr7, cmr8, cmr9, cmsl10, cmsl8, CMSL9、CMSLTT10、CMSS10、CMSSBX10、CMSSI10、CMSSQ8、CMSSQI8、CMSY10、CMSY5、CMSY6、CMSY7、CMSY8、CMSY9、CMTI10、CMTI7、CMTI8、CMTI9、CMTT10、CMTT10、CMTT1
 
-{{< Common/hr >}}
+## サポートされているプラ​​ットフォーム
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+JavaにAspose.Texを使用して、Windows（32ビットまたは64ビット）LinuxおよびMacOS用のあらゆるタイプのJavaアプリケーションを構築できます。 JavaのAspose.Texは、J2SE 8.0（1.8）以上（たとえばJava 10）をサポートしています。
 
-{{< Common/hr >}}
+## Javaを使用して、カスタムTex形式を作成します
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="tex" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+```java
+// Create typesetting options for no format on ObjectTeX engine extension.
+TeXOptions options = TeXOptions.consoleAppOptions(TeXConfig.objectIniTeX());
+// Specify a file system working directory for input.
+options.setInputWorkingDirectory(new InputFileSystemDirectory(Utils.getInputDirectory()));
+// Specify a file system working directory for output.
+options.setOutputWorkingDirectory(new OutputFileSystemDirectory(Utils.getOutputDirectory()));
 
+// Run format creation.
+TeX.createFormat("customtex", options);
+
+// For further output to look write.
+options.getTerminalOut().getWriter().newLine();
+```
+
+[製品ページ](https://products.aspose.com/tex/java) | [ドキュメント](https://downloads.aspose.com/tex/java) | [デモ](https://products.aspose.app/tex/family) | [APIリファレンス](https://apireference.aspose.com/tex/java) | [例](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/例) | [ブログ](https://blog.aspose.com/category/tex/) | [無料サポート](https://forum.aspose.com/c/tex) | [一時ライセンス](https://purchase.aspose.com/temporary-license)

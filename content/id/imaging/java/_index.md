@@ -1,9 +1,88 @@
 ---
-title: "Unduh File JAR Pemrosesan Gambar Gambar | Aspose. Pencitraan"
-description: "Unduh pemrosesan gambar, manipulasi, & konversi file JAR. Mendukung masking, filter, deskew, transformasi matriks, bentuk, dithering, dan vektor."
-keywords: "Java Imaging Library"
-family_listing_page_title: "Aspose.Imaging untuk Java"
-family_listing_page_description: "Aspose.Imaging for Java adalah API pencitraan berkinerja tinggi dan terdokumentasi dengan baik yang menyediakan kelompok rutinitas pemrosesan gambar paling fleksibel bagi para pengembang untuk membuat, memanipulasi, menyimpan, dan mengonversi gambar dalam aplikasi Java mereka, tanpa memerlukan editor gambar ."
+title: "Aspose.Imaging | Proses & Konversi Gambar Melalui Perpustakaan Java" 
+linktitle: Aspose.Imaging
+description: "Perpustakaan Kelas Java untuk pemrosesan gambar, manipulasi, & konversi. Mendukung masking, filter, deskew, transformasi matriks, bentuk, ganda, dan vektor." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Imaging
+- Aspose Java API
+- image java library
+- image java class
+- Maven
+- BMP
+- GIF
+- DICOM
+- DJVU
+- DNG
+- EMF
+- JPEG
+- JPEG2000
+- ODG
+- PNG
+- APNG
+- PSD
+- DXF
+- SVG
+- TIFF
+- DIB
+- EPS
+- WEBP
+- WMF
+- CDR
+- CMX
+- OTG
+- PDF
+- HTML5
+- EMZ
+- WMZ
+- TGA
+- SVGZ
+- canvas
+- Windows
+- Linux
+- Mac
+- JPG to TGA
+- PNG to TGA
+- HTML5
+- SVG to HTML5
+- CorelDRAW
+- CMX to PNG
+- binarization
+- dithering
+- DjVu to TIFF
+- DjVu to PDF
+- image processing
+- multithreading
+- optimization
+- DNG to JPEG
+- FODG
+- JPEG LS
+- CMYK
+- YCK
+- EXIF
+- image to PSD
+- color replacement
+- raster image
+- flat psd
+- PSD to JPG
+- Alpha
+- Subscript
+- smallcap
+- gradient
+- transparency
+- WebP
+- Bezier
+- Polygon
+- vector
+- multipage image
+- image to PSD
+- WMF to PNG
+family_listing_page_title: "Aspose. Imaging untuk Java" 
+family_listing_page_description: "Aspose.Imaging for Java adalah API pencitraan berkinerja tinggi dan terdokumentasi dengan baik yang menyediakan kelompok rutinitas pemrosesan gambar yang paling fleksibel bagi pengembang untuk membuat, memanipulasi, menyimpan, dan mengonversi gambar dalam aplikasi Java mereka, tanpa perlu editor gambar gambarnya ." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,101 +90,141 @@ family_listing_page_venture: "4"
 family_listing_page_package: "23"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-imaging/"
-tags: ['JPG-to-TGA', 'PNG-to-TGA', 'SVG-to-HTML5', 'DjVu-to-TIFF', 'DjVu-to-PDF', 'DNG-to-JPEG', 'image-to-PSD', 'PSD-to-JPG', 'image-to-PSD', 'WMF-to-PNG']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/imaging/14
+productLink: https://products.aspose.com/imaging/java/
+dataFolder: aspose_imaging
+packages_refs:
+- "22-12"
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "16-10"
+- "16-12"
+- "17-01"
+- "17-03"
+- "17-11"
+- "17-12"
+- "17-4"
+- "17-6"
+- "17-7"
+- "17-9"
+- "18-11"
+- "18-2"
+- "18-3"
+- "18-4"
+- "18-6"
+- "18-7"
+- "18-8"
+- "18-9"
+- "19-1"
+- "19-10"
+- "19-11"
+- "19-12"
+- "19-2"
+- "19-3"
+- "19-4"
+- "19-6"
+- "19-7"
+- "19-9"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-2"
+- "20-3"
+- "20-4"
+- "20-5"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
+- "3-3"
+- "3-4"
+- "3-5"
+- "3-6"
+- "3-6-0"
+- "3-7-0"
+- "3-8-0"
+- "3-8-1"
+- "3-9-0"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/imaging" linktext=" Support Forum " >}}
+# Java API untuk pemrosesan gambar
+[![banner](./aspose_imaging-for-java-banner.png)](./)
 
-{{< Common/h3 text="Unduh Aspose.Imaging Java JAR untuk memproses Gambar Raster & Vektor"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Asumsikan host semua Java API di
-{{< Common/link href="https://repository.aspose.com" text="Apose Repositori"  >}}. Anda dapat dengan mudah menggunakan
-{{< Common/link href="https://repository.aspose.com/imaging/" text="Aspose.Imaging untuk Java API"  >}}langsung di proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml Anda. Untuk petunjuk terperinci, silakan kunjungi
-{{< Common/link href="https://docs.aspose.com/imaging/java/installation/" text="Menginstal Aspose.Imaging untuk Java dari Repositori Maven"  >}}halaman dokumentasi.
-{{< Common/release-notes-link family="imaging" product="java" href="https://docs.aspose.com/imaging/java/release-notes/" text="https://docs.aspose.com/imaging/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Halaman produk](https://products.aspose.com/imaging/java) | [Dokumen](https://docs.aspose.com/imaging/java/) | [Demo](https://products.aspose.app/imaging/family) | [Referensi API](https://apireference.aspose.com/imaging/java) | [Contoh](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [Blog](https://blog.aspose.com/category/imaging/) | [Mencari](https://search.aspose.com/) | [Dukungan gratis](https://forum.aspose.com/c/imaging) | [Lisensi sementara](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+Ini adalah mandiri [API Pencitraan](https://products.aspose.com/imaging/java) yang terdiri dari rutinitas Java yang memungkinkan aplikasi Java Anda untuk menggambar serta melakukan pemrosesan dasar hingga tingkat lanjut dari gambar raster & vektor.
+Aspose.Imaging for Java menawarkan kompresi gambar yang kuat dan kecepatan pemrosesan tinggi melalui akses byte asli dan berbagai algoritma yang efisien. Ini tidak hanya memanipulasi, mengekspor, dan mengonversi gambar tetapi juga memungkinkan Anda secara dinamis menggambar objek menggunakan manipulasi piksel dan jalur grafis.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-imaging</artifactId>
-      <version>22.7</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+Fitur API pencitraan ##
+- Gambar gambar raster dengan grafik.
+- Gambar gambar vektor.
+- Mengubah gambar ke berbagai format.
 
-[Product Page](https://products.aspose.com/imaging/java) | [Docs](https://docs.aspose.com/imaging/java/) | [Demos](https://products.aspose.app/imaging/family) | [API Reference](https://reference.aspose.com/imaging/java) | [Examples](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [Blog](https://blog.aspose.com/category/imaging/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/imaging) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-Ini adalah API Pencitraan mandiri yang terdiri dari rutinitas Java yang memungkinkan aplikasi Java Anda untuk menggambar serta melakukan pemrosesan tingkat dasar hingga lanjutan dari gambar raster & vektor.
-
-## Mengapa mengunduh Aspose.Imaging untuk Java?
-
-Aspose.Imaging for Java menawarkan kompresi gambar yang kuat dan kecepatan pemrosesan yang tinggi melalui akses byte asli dan serangkaian algoritme yang efisien. Ini tidak hanya memanipulasi, mengekspor, dan mengonversi gambar, tetapi juga memungkinkan Anda menggambar objek secara dinamis menggunakan manipulasi piksel dan Jalur Grafik.
-
-## Fitur API Pencitraan
-
-- Gambarkan gambar raster dengan grafik.
-- Menggambar gambar vektor.
-- Mengonversi gambar ke berbagai format.
-- Terapkan masking serta filter Median & Wiener.
-- Pangkas, putar & ubah ukuran gambar melalui API.
-- De-skew & ubah gambar.
+- [Terapkan masking](https://docs.aspose.com/imaging/java/applying-masking-to-images/) serta [Median & Wiener](https://docs.aspose.com/imaging/java/applying-median-and-wiener-filters/) filter.
+- CROP, ROTATE & UKURAN Gambar Via API.
+- DE-SKEW & mengubah gambar.
 - Atur properti gambar.
 
-### Membaca & Menulis Format Gambar
+## Baca & Tulis Format Gambar
+** Format raster: ** jpeg2000, jpeg, bmp, tiff, gif, png, apng \
+** Metafiles: ** EMF, EMZ, WMF, WMZ \
+** Lainnya: ** SVG, SVGZ, DICOM
 
-**Format Raster:** JPEG2000, JPEG, BMP, TIFF, GIF, PNG, APNG\
-**Metafile:** EMF, EMZ, WMF, WMZ\
-**Lainnya:** SVG, SVGZ, DICOM
+## Simpan gambar sebagai
+** diperbaiki: ** pdf \
+** Photoshop: ** psd \
+** Markup: ** HTML5 Canvas
 
-### Simpan Gambar Sebagai
+## Baca format gambar
+** Berbagai: ** DJVU, DNG, ODG, CMX, CDR, DIB, OTG, FODG, EPS (Hanya Pratinjau Raster), Webp
 
-**Tetap:** PDF\
-**Photoshop:** PSD\
-**Markup:** Kanvas HTML5
-
-### Baca Format Gambar
-
-**Berbagai:** DjVu, DNG, ODG, CMX, CDR, DIB, OTG, FODG, EPS (hanya pratinjau raster), WEBP
-
-### Sistem Operasi yang Didukung
-
-Aspose.Imaging untuk Java dapat dijalankan secara virtual di OS mana pun yang menginstal Java (sejak JDK 1.6)
-
-- Jendela (sejak 7)
+## Sistem operasi yang didukung
+Aspose.Imaging for Java dapat dijalankan secara virtual di OS mana pun di mana Java diinstal (karena JDK 1.6)
+- Windows (since 7)
 - Linux
 - MacOS
-- Setiap OS di mana Java diinstal.
+- OS mana pun di mana java diinstal.
+Aspose.Imaging berfungsi untuk versi x86 dan x64 dari sistem operasi yang terdaftar di atas.
+** Catatan: ** Di Linux OS, disarankan untuk menginstal paket dengan font yang kompatibel dengan Microsoft (mis. `Sudo apt-get instal TTF-MSCOREFONTS-INSTALLER`).
 
-Aspose.Imaging berfungsi untuk versi x86 dan x64 dari sistem operasi yang tercantum di atas.
+## Memulai
 
-**Catatan:** Di OS Linux, disarankan untuk menginstal paket dengan font yang kompatibel dengan Microsoft (misalnya `sudo apt-get install ttf-mscorefonts-installer`).
+Aspose.Imaging Java API di -host di [Repositori Aspose](https://repository.aspose.com/imaging/). Anda dapat dengan mudah menggunakan Aspose. Pencipil untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/).
 
-{{< Common/hr >}}
+## crop eMF gambar dengan persegi panjang
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+```java
+try (MetafileImage metaImage = (MetafileImage) Image.load(dataDir + "Picture1.emf"))
+{
+	// create an instance of Rectangle class with desired size
+	Rectangle rectangle = new Rectangle(10, 10, 100, 100);
 
-{{< Common/hr >}}
+	// perform the crop operation on object of Rectangle class
+	metaImage.crop(rectangle);
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="imaging" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+	// save the result in PNG format
+	metaImage.save(dataDir + "CropbyRectangle_out.png", new PngOptions());
+}
+```
 
+[Halaman produk](https://products.aspose.com/imaging/java) | [Dokumen](https://docs.aspose.com/imaging/java/) | [Demo](https://products.aspose.app/imaging/family) | [Referensi API](https://apireference.aspose.com/imaging/java) | [Contoh](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [Blog](https://blog.aspose.com/category/imaging/) | [Mencari](https://search.aspose.com/) | [Dukungan gratis](https://forum.aspose.com/c/imaging) | [Lisensi sementara](https://purchase.aspose.com/temporary-license)

@@ -1,9 +1,61 @@
 ---
-title: "Unduh CAD Drawing & Rendering File JAR | Aspose.CAD API"
-description: "Unduh JAR yang berisi kelas Java untuk merender, mengedit, melaporkan & mengonversi gambar AutoCAD®. Mendukung padatan 3D, kerucut, bola, torus, silinder, kotak, & baji, dll."
-keywords: "AutoCAD Java API"
-family_listing_page_title: "Aspose.CAD untuk Java"
-family_listing_page_description: "Aspose.CAD untuk Java memungkinkan pengembang untuk mengonversi AutoCAD DWG dan DXF dan DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, CF2, CFF2, file OBJ ke PDF, SVG, WMF dan gambar Raster. Ini adalah API asli dan tidak memerlukan AutoCAD atau perangkat lunak lain untuk diinstal."
+title: "Aspose.cad | Perpustakaan Java Untuk Memproses/Mengonversi Format AutoCAD" 
+linktitle: Aspose.CAD
+description: "Perpustakaan Kelas Java untuk merender, mengedit, melaporkan & mengonversi gambar AutoCAD di dalam aplikasi Anda. Mendukung padatan 3D, kerucut, bola, torus, silinder, kotak, & irisan, dll." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose CAD
+- Aspose Java API
+- cad java library
+- cad java class
+- DWG
+- DXF
+- DGN
+- IFC
+- IGES
+- STL
+- DWT
+- PLT
+- DWF
+- DWFx
+- CFF2
+- OBJ
+- PDF
+- TIFF
+- JPEG
+- PNG
+- GIF
+- BMP
+- Maven
+- Windows
+- Linux
+- Mac
+- J2SE
+- drawing
+- cad drawing
+- raster image
+- export 3D
+- autocad
+- cad layout
+- mesh model
+- ATTRIB
+- MTEXT
+- 3D solids
+- conic
+- sphere
+- torus
+- cylinder
+- box
+- wedge
+- wired models
+- 3D faces
+- Unix
+family_listing_page_title: "Aspose.cad untuk Java" 
+family_listing_page_description: "Aspose.cad untuk Java memungkinkan pengembang untuk mengonversi AutoCAD DWG dan DXF dan DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, CF2, CFF2, OBJ file ke PDF, SVG, WMF dan gambar raster. Ini adalah API asli dan tidak memerlukan AutoCAD atau perangkat lunak lain untuk diinstal." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,92 +63,118 @@ family_listing_page_venture: "4"
 family_listing_page_package: "11"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-cad/"
-tags: ['Aspose.Total', 'Aspose.CAD', 'Aspose-Java-API', 'cad-java-library', 'cad-java-class', 'DWG', 'DXF', 'DGN', 'IFC', 'IGES', 'STL', 'DWT', 'PLT', 'DWF', 'DWFx', 'CFF2', 'OBJ', 'PDF', 'TIFF', 'JPEG', 'PNG', 'GIF', 'BMP', 'Maven', 'Windows', 'Linux', 'Mac', 'J2SE', 'drawing', 'cad-drawing', 'raster-image', 'export-3D', 'autocad', 'cad-layout', 'mesh-model', 'ATTRIB', 'MTEXT', '3D-solids', 'conic', 'sphere', 'torus', 'cylinder', 'box', 'wedge', 'wired-models', '3D-faces', 'Unix']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/cad/19
+productLink: https://products.aspose.com/cad/java/
+dataFolder: aspose_cad
+packages_refs:
+- "22-7"
+- "22-6-1"
+- "22-6"
+- "22-5"
+- "22-4"
+- "22-3"
+- "1-0"
+- "1-1-0"
+- "16-12"
+- "16-12-1"
+- "17-02"
+- "17-12"
+- "17-4"
+- "17-9"
+- "18-12"
+- "18-3"
+- "18-8"
+- "19-2"
+- "19-5"
+- "19-7"
+- "19-9"
+- "20-1"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-3"
+- "20-4"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-1"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-1"
+- "22-2"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/cad" linktext=" Support Forum " >}}
+# CAD File Conversion API untuk Java
+[![banner](./aspose_cad-for-java-banner.png)](./)
 
-{{< Common/h2 text="Unduh Aspose.CAD untuk Memproses File CAD"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Asumsikan host semua Java API di
-{{< Common/link href="https://repository.aspose.com" text="Apose Repositori"  >}}. Anda dapat dengan mudah menggunakan
-{{< Common/link href="https://repository.aspose.com/cad/" text="Aspose.CAD untuk Java API"  >}}langsung di proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml Anda. Untuk petunjuk rinci, silakan kunjungi
-{{< Common/link href="https://docs.aspose.com/cad/java/installation/" text="Menginstal Aspose.CAD untuk Java dari Maven Repository"  >}}halaman dokumentasi.
-{{< Common/release-notes-link family="cad" product="java" href="https://docs.aspose.com/cad/java/release-notes/" text="https://docs.aspose.com/cad/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Halaman produk](https://products.aspose.com/cad/java) | [Dokumen](https://docs.aspose.com/cad/java/) | [Demo](https://products.aspose.app/cad/family) | [Referensi API](https://apireference.aspose.com/cad/java) | [Contoh](https://github.com/aspose-cad/Aspose.CAD-for-Java) | [Blog](https://blog.aspose.com/category/cad/) | [Mencari](https://search.aspose.com/) | [Dukungan gratis](https://forum.aspose.com/c/cad) | [Lisensi sementara](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-cad</artifactId>
-      <version>22.3</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
-
-[Product Page](https://products.aspose.com/cad/java) | [Docs](https://docs.aspose.com/cad/java/) | [Demos](https://products.aspose.app/cad/family) | [API Reference](https://apireference.aspose.com/cad/java) | [Examples](https://github.com/aspose-cad/Aspose.CAD-for-Java) | [Blog](https://blog.aspose.com/category/cad/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cad) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-## Mengapa mengunduh Aspose.CAD untuk Java?
-
-Aspose.CAD untuk Java memungkinkan pengembang untuk mengonversi file AutoCAD® DWG dan DXF ke gambar PDF dan Raster. Ini adalah API asli dan tidak memerlukan AutoCAD® atau perangkat lunak lain untuk diinstal. Anda juga dapat mengonversi lapisan dan tata letak yang dipilih dari file AutoCAD®. Konversi ke PDF dan gambar Raster berkualitas sangat tinggi.
+[Aspose.CAD for Java](https://products.aspose.com/cad/java) memungkinkan pengembang untuk mengonversi file DWG dan DXF AutoCAD ke gambar PDF dan raster. Ini adalah API asli dan tidak memerlukan AutoCAD atau perangkat lunak lain untuk diinstal. Anda juga dapat mengonversi lapisan dan tata letak yang dipilih dari file AutoCAD. Konversi ke gambar PDF dan raster berkualitas sangat tinggi.
 
 ## Pemrosesan File CAD
 
-- Sesuaikan ukuran gambar CAD.
+- [Sesuaikan ukuran gambar CAD](https://docs.aspose.com/cad/java/adjusting-cad-drawing-size/).
 - Konversi gambar CAD ke format file lain.
-- Ekspor Gambar 3D AutoCAD® ke PDF.
-- Mengekspor Tata Letak CAD ke PDF.
-- Setel batas waktu pada simpan untuk menghindari menghabiskan banyak waktu atau menghabiskan banyak memori.
 
-### Baca Format CAD
+- [Ekspor gambar AutoCAD 3D ke PDF](https://docs.aspose.com/cad/java/exporting-cad/).
+- Mengekspor tata letak CAD ke PDF.
+- Tetapkan batas waktu untuk menghindari menghabiskan banyak waktu atau mengonsumsi banyak memori.
 
-**AutoCAD®:** DWG, DWT, DWF, DWXF, IFC, PLT\
-**MicroStation:** DGN\
-**Pemvisualisasi Tingkat Lanjut:** OBJ\
-**Lainnya:** STL, IGES, CFF2
+## Baca format CAD
+** AutoCAD: ** dwg, dwt, dwf, dwxf, ifc, plt \
+** MicroStation: ** DGN \
+** Visualisator canggih: ** obj \
+** Lainnya: ** STL, IGES, CFF2
 
-### Simpan CAD Sebagai
+## Simpan CAD sebagai
+** Tata letak tetap: ** pdf \
+** Gambar Raster: ** PNG, BMP, TIFF, JPEG, GIF
 
-**Tata Letak Tetap:** PDF\
-**Gambar Raster:** PNG, BMP, TIFF, JPEG, GIF
+## Baca tulis
+** CAD: ** DXF \
+(Tulis fitur didukung sebagian.)
 
-### Baca tulis
+## Lingkungan yang Didukung
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** MacOS: ** Mac OS X
+- ** Linux: ** Ubuntu, OpenSuse, Centos, dan lainnya
+- ** Versi Java: ** `j2se 7.0 (1.7)`, `j2se 8.0 (1.8)`
 
-**CAD:** DXF\
-(Fitur tulis didukung sebagian.)
+## Memulai
 
-### Lingkungan yang Didukung
+Aspose.cad Java API di -host di [Repositori Aspose](https://repository.aspose.com/cad/). Anda dapat dengan mudah menggunakan Aspose.cad untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.CAD for Java from Maven Repository](https://docs.aspose.com/cad/java/installation/).
 
-- **Microsoft Windows:** Windows Desktop & Server (x86, x64)
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, OpenSUSE, CentOS, dan lainnya
-- **Versi Java:** `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)`
+## Konversi gambar DXF ke format PNG
 
-{{< Common/hr >}}
+```java
+Image image = Image.load("template.dxf");
 
-{{< Tags/TagsWrapper >}}
-{{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+// create an instance of CadRasterizationOptions
+CadRasterizationOptions rasterizationOptions = new CadRasterizationOptions();
 
-{{< Common/hr >}}
+// set page width & height
+rasterizationOptions.setPageWidth(1200);
+rasterizationOptions.setPageHeight(1200);
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="cad" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+// create an instance of PngOptions for the resultant image
+ImageOptionsBase options = new PngOptions();
 
+// set rasterization options
+options.setVectorRasterizationOptions(rasterizationOptions);
+
+// save resultant image
+image.save("output.png", options);
+```
+
+[Halaman produk](https://products.aspose.com/cad/java) | [Dokumen](https://docs.aspose.com/cad/java/) | [Demo](https://products.aspose.app/cad/family) | [Referensi API](https://apireference.aspose.com/cad/java) | [Contoh](https://github.com/aspose-cad/Aspose.CAD-for-Java) | [Blog](https://blog.aspose.com/category/cad/) | [Mencari](https://search.aspose.com/) | [Dukungan gratis](https://forum.aspose.com/c/cad) | [Lisensi sementara](https://purchase.aspose.com/temporary-license)

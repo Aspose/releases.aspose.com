@@ -1,9 +1,46 @@
 ---
-title: "Загрузка файлов JAR для обработки HTML и CSS | Aspose.HTML API"
-description: "Загрузите файлы JAR, содержащие классы Java, для записи, редактирования, анализа, чтения, перевода и преобразования форматов (X)HTML, MHTML и EPUB. Управляйте DOM через JavaScript и API."
-keywords: "HTML Java API"
-family_listing_page_title: "Aspose.HTML для Java"
-family_listing_page_description: "Aspose.HTML для Java — это расширенный API для работы с HTML, созданный для выполнения широкого спектра задач по работе с HTML непосредственно в приложениях Java."
+title: "Aspose.html | Библиотека классов Java для манипулирования HTML -файлами" 
+linktitle: Aspose.HTML
+description: "Библиотека классов Java, чтобы написать, редактировать, разрабатывать, читать, переводить и преобразовать форматы HTML, XHTML, MHTML и EPUB. Также поддерживает манипулирование DOM через JavaScript." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose HTML
+- Aspose Java API
+- html java library
+- html java class
+- Maven
+- html converter
+- svg converter
+- mhtml converter
+- markdown converter
+- template converter
+- html to image
+- html to pdf
+- html to xps
+- html to mhtml
+- html to markdown
+- svg to image
+- svg to pdf
+- svg to xps
+- epub to image
+- epub to pdf
+- epub to xps
+- mhtml to image
+- mhtml to pdf
+- mhtml to xps
+- markdown to html
+- html template
+- html navigation
+- html5
+- DOM
+- html form editor
+- css extension
+family_listing_page_title: "Aspose.html для Java" 
+family_listing_page_description: "Aspose.html для Java - это расширенный API манипуляции HTML, созданный для выполнения широкого спектра задач манипуляции HTML, непосредственно в приложениях Java." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,102 +48,153 @@ family_listing_page_venture: "4"
 family_listing_page_package: "9"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-html/"
-tags: ['html-to-image', 'html-to-pdf', 'html-to-xps', 'html-to-mhtml', 'html-to-markdown', 'svg-to-image', 'svg-to-pdf', 'svg-to-xps', 'epub-to-image', 'epub-to-pdf', 'epub-to-xps', 'mhtml-to-image', 'mhtml-to-pdf', 'mhtml-to-xps', 'markdown-to-html']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/html/29
+productLink: https://products.aspose.com/html/java/
+dataFolder: aspose_html
+packages_refs:
+- "22-9"
+- "22-8"
+- "22-7"
+- "17-10"
+- "17-11"
+- "17-11-1"
+- "17-12"
+- "17-8"
+- "17-9"
+- "18-10"
+- "18-10-1"
+- "18-10-2"
+- "18-11"
+- "18-11-1"
+- "18-5"
+- "18-5-1"
+- "18-6"
+- "18-8"
+- "19-3"
+- "19-4"
+- "19-5"
+- "19-6"
+- "19-7"
+- "19-8"
+- "19-9"
+- "20-12"
+- "20-6"
+- "20-8"
+- "20-9-1"
+- "21-12"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/html" linktext=" Support Forum " >}}
+# HTML -файлы манипулирование Java API
+[![banner](./aspose_html-for-java-banner.png)](./)
 
-{{< Common/h2 text="Скачать Aspose.HTML для работы с файлами HTML"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose размещает все API Java на
-{{< Common/link href="https://repository.aspose.com" text="Aspose Репозиторий"  >}}. Вы можете легко использовать Aspose.HTML для Java API непосредственно в ваших проектах на основе Maven, добавив следующие конфигурации в ваш pom.xml. Подробные инструкции см.
-{{< Common/link href="https://docs.aspose.com/html/java/installation/" text="Установка Aspose.HTML для Java из репозитория Maven"  >}}страница документации.
-{{< Common/release-notes-link family="html" product="java" href="https://docs.aspose.com/html/java/release-notes/" text="https://docs.aspose.com/html/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Страница продукта](https://products.aspose.com/html/java) | [Док](https://docs.aspose.com/html/java/) | [Демо](https://products.aspose.app/html/family) | [Ссылка на API](https://apireference.aspose.com/html/java) | [Примеры](https://github.com/aspose-html/Aspose.Html-for-Java) | [Блог](https://blog.aspose.com/category/html/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/c/html) | [Временная лицензия](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Java Html API](https://products.aspose.com/html/java) помогает разработчикам написать, читать, модифицировать, ориентироваться и преобразовать (x) HTML -документы из приложений Java.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-html</artifactId>
-      <version>21.12</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+Aspose.html для Java API работает в качестве безголового браузера, который позволяет вам преодолеть [Создать или открыть существующие HTML -документы](https://docs.aspose.com/html/java/creating-a-document/) из различных источников, чтобы выполнить операции манипуляции, такие как удаление и замену HTML -узлов, сохранение документов HTML, извлечение CSS из HTML, настройка песочницей документа и многого другого. Вы можете ориентироваться в документах HTML, используя различные методы, такие как обход элемента, обход документов, запросы xPath и запросы селектора CSS, а также манипулирование HTML DOM через JavaScript, преобразование файла HTML в изображения или фиксированные форматы склады файлы в другие форматы файлов.
 
-{{ГИПЕРССЫЛКА1}} | {{ГИПЕРССЫЛКА2}} | {{ГИПЕРССЫЛКА3}} | {{ГИПЕРССЫЛКА4}} | {{ГИПЕРССЫЛКА5}} | {{ГИПЕРССЫЛКА6}} | {{ГИПЕРССЫЛКА7}} | {{ГИПЕРССЫЛКА8}} | {{ГИПЕРССЫЛКА9}} | {{ГИПЕРССЫЛКА10}}
-
-Java HTML API помогает разработчикам писать, читать, изменять, перемещаться и преобразовывать (X)HTML-документы из приложений Java.
-
-## Зачем скачивать Aspose.HTML для Java?
-
-Aspose.HTML для Java API работает как безголовый браузер, который позволяет создавать или открывать существующие HTML-документы из различных источников для выполнения операций манипуляции, таких как удаление и замена узлов HTML, сохранение документов HTML, извлечение CSS из HTML, настройка документа. песочница и многое другое. Вы можете перемещаться по документам HTML, используя различные методы, такие как обход элементов, обход документа, запросы XPath и запросы селектора CSS, а также манипулировать HTML DOM с помощью JavaScript, преобразовывать HTML-файл в изображения или фиксированные форматы макета, а также преобразовывать XHTML и EPUB. файлы в файлы других форматов.
-
-## Особенности обработки HTML
-
-- Полностью написан на Java и работает с JRE.
-- Поддерживает как 32-битную, так и 64-битную ОС.
-- Создайте или откройте существующий документ HTML из разных источников.
-- Возможность манипулировать (создавать, редактировать, удалять, заменять) узлами HTML через API.
-- Извлечение стилей CSS для определенного узла HTML.
-- Настройте изолированную программную среду для документов, влияющую на обработку HTML-документов.
-- Поддерживает навигацию по HTML-документу различными способами (обход элементов, обход документа, запросы XPath, запросы выбора CSS).
-- Управление HTML DOM через JavaScript.
-- Преобразование веб-документов в различные поддерживаемые форматы файлов.
-- Извлечение текста со страниц.
+## HTML -функции обработки
+- написано полностью на Java и работает с JRE.
+-Поддерживает как 32-разрядную поддержку ОС, так и 64-разрядную поддержку.
+- Создать или открыть существующий HTML -документ из разных источников.
+- Возможность манипулировать (создавать, редактировать, удалять, заменить) HTML -узлы через API.
+- Извлеките стили CSS для конкретного HTML -узла.
+- Настройте песочницу документа, которая влияет на обработку документов HTML.
+- Поддерживает навигацию через HTML -документ различными способами (обход элемента, обход документа, запросы XPath, запросы селектора CSS).
+- Манипулировать HTML DOM через JavaScript.
+- Преобразовать веб -документы в различные поддерживаемые форматы файлов.
+- Извлечь текст со страниц.
 - Поиск текста со страниц.
-- Добавить текст в файл HTML.
-- Создание, редактирование, удаление и замена узлов HTML
-- Извлечение стилей CSS для определенного узла HTML
-- Преобразование HTML-документов в различные поддерживаемые форматы изображений: JPEG, PNG, BMP, TIFF.
-- Преобразование HTML-документов в формат PDF
-- Преобразование документов HTML в формат XPS.
+- Добавить текст в HTML -файл.
+- Create, edit, remove and replace HTML nodes
+- Extracting CSS styles for particular HTML node
+- Convert HTML documents into various supported image formats: JPEG, PNG, BMP, TIFF
+- Convert HTML documents to PDF format
+- Преобразовать документы HTML в формат XPS.
 
-### Чтение и запись веб-форматов
+## Читать и написать веб -форматы
+** web: ** html, xhtml^, mhtml ^^ \
+** Другое: ** SVG*, MD **
 
-**Интернет:** HTML, XHTML^, MHTML^^\
-**Другое:** SVG*, MD**
+## Сохранить HTML как
+** Фиксированный макет: ** pdf, xps \
+** Изображения: ** Tiff, JPEG, PNG, BMP
 
-### Сохранить HTML как
+## Читать форматы
+** Изображения: ** epub
 
-**Фиксированный макет:** PDF, XPS\
-**Изображения:** TIFF, JPEG, PNG, BMP
+## поддерживаемые среды
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** macOS: ** Mac OS X
+- ** Linux: ** Ubuntu, OpenSuse, Centos и другие
+- ** java версии: ** `j2se 6.0 (1.6)`, `j2se 7.0 (1.7)`, `j2se 8.0 (1.8)`
 
-### Чтение форматов
+## Начать
 
-**Изображения:** EPUB
+Aspose.html Java API размещены на [Применить репозиторий](https://repository.aspose.com/html/). Вы можете легко использовать Aspose.html для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.HTML for Java from Применить репозиторий](https://docs.aspose.com/html/java/installation/).
 
-### Поддерживаемые среды
+## загрузить HTML из удаленного места
 
-- **Microsoft Windows®:** Windows Desktop & Server (x86, x64)
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, OpenSUSE, CentOS и др.
-- **Версии Java:** `J2SE 6.0 (1.6)`, `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)`
+```java
+HTMLDocument document = HTMLDocument(new Url("template.html"));
+// read children nodes and get length information
+if (document.getBody().getChildNodes().getLength() == 0)
+    System.out.println("No ChildNodes found...");
+// print Document URI to console. As per information above, it has to be https://www.w3.org/TR/html5/
+System.out.println("Print Document URI = " + document.getDocumentURI());
+// print domain name for remote HTML
+System.out.println("Domain Name = " + document.getDomain());
+```
 
-{{< Common/hr >}}
+## How to use the Примеры?
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+Clone or Download the ZIP and extract the contents to your local hard drive. This project uses Maven/Gradle build system and can be opened in any modern IDE like IntelliJ IDEA, Eclipse or NetBeans. For more details, visit our [Documentation website](https://docs.aspose.com/display/htmljava/How+to+Run+the+Примеры).
 
-{{< Common/hr >}}
+## Step one
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="html" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+For maven
+```
+mvn compile test
+```
+For gradle
+```
+gradle build
+```
 
+
+## Execute all tests
+Maven
+```
+mvn -Dtest="com.aspose.html.examples.**" test
+```
+
+Gradle
+```
+./gradlew test --tests "com.aspose.html.examples.*"
+```
+
+## Execute single test
+Maven
+```
+mvn -Dtest=Примеры_Java_AdvancedUsage_DOMMutationObserver_ObserveHowNodesAreAdded test
+```
+Gradle
+```
+./gradlew test --tests "com.aspose.html.examples.Примеры_Java_AdvancedUsage_DOMMutationObserver_ObserveHowNodesAreAdded"
+```
+## Execute asynchronously test in Thread
+Maven
+```
+mvn org.codehaus.mojo:exec-maven-plugin:3.0.0:java -Dexec.mainClass="com.aspose.html.examples.SimpleWait" -Dexec.classpathScope="test" -Dexec.cleanupDaemonThreads=false
+```
+Gradle
+```
+./gradlew SimpleWait
+```
+
+[Страница продукта](https://products.aspose.com/html/java) | [Док](https://docs.aspose.com/html/java/) | [Демо](https://products.aspose.app/html/family) | [Ссылка на API](https://apireference.aspose.com/html/java) | [Примеры](https://github.com/aspose-html/Aspose.Html-for-Java) | [Блог](https://blog.aspose.com/category/html/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/c/html) | [Временная лицензия](https://purchase.aspose.com/temporary-license)

@@ -1,9 +1,42 @@
 ---
-title: "下载 JAR 文件以从图像中提取数据 | Aspose.OMR"
-description: "下载光学标记识别 (OMR) JAR 文件。通过本地 Java API 从数字化或扫描的图像、照片、调查和考试中识别和提取标记。"
-keywords: "OMR Java Library"
-family_listing_page_title: "用于 Java 的 Aspose.OMR"
-family_listing_page_description: "Aspose.OMR for Java 是一种从 OMR 数字化纸张图像中识别光学标记的 API。它可用于识别各种图像格式的光学标记，如 BMP、JPG、TIF、TIFF、GIF。 API 允许从调查、问卷、多项选择试卷和其他测试等文档形式中捕获人工标记的数据。"
+title: "aspose.omr |用于数字标记提取的Java类库" 
+linktitle: Aspose.OMR
+description: "Java类库的光标识识别（OMR）。从数字化或扫描的图像，照片，调查，考试和问卷中识别并提取标记。" 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose OMR
+- Aspose Java API
+- omr java library
+- omr java class
+- JPEG
+- PNG
+- GIF
+- TIFF
+- BMP
+- CSV
+- JSON
+- XML
+- image recognition
+- image perspective
+- test
+- exam
+- questionnaire
+- survey
+- J2SE
+- Windows
+- Linux
+- Mac
+- Azure
+- Maven
+- optical mark recognition
+- extract marks
+- marks extraction
+family_listing_page_title: "aspose.omr for Java" 
+family_listing_page_description: "Java的Aspose.OMR是一种API，可以从OMR数字化板图像中识别光标记。它可用于识别BMP，JPG，TIF，TIFF，GIF等各种图像格式的光标记。 API允许从文档表格，调查，问卷，多项选择检查文件和其他测试中捕获人类标记的数据。" 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,83 +44,81 @@ family_listing_page_venture: "4"
 family_listing_page_package: "192"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-omr/"
-tags: ['SVG-to-HTML5', 'CMX-to-PNG', 'DjVu-to-TIFF', 'DjVu-to-PDF', 'DNG-to-JPEG', 'image-to-PSD', 'PSD-to-JPG', 'image-to-PSD', 'WMF-to-PNG']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/omr/38
+productLink: https://products.aspose.com/omr/java/
+dataFolder: aspose_omr
+packages_refs:
+- "19-12"
+- "2-3-0"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/omr" linktext=" Support Forum " >}}
+# 执行OMR的Java API
+[![banner](./aspose_omr-for-java-banner.png)](./)
 
-{{< Common/h2 text="下载 Aspose.OMR 以提取人工标记数据"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose 在
-{{< Common/link href="https://repository.aspose.com" text="假设存储库"  >}}.您可以轻松使用
-{{< Common/link href="https://repository.aspose.com/omr/" text="Aspose.OMR for Java API"  >}}通过向 pom.xml 添加以下配置，直接在基于 Maven 的项目中。有关详细说明，请访问
-{{< Common/link href="https://docs.aspose.com/omr/java/installation/" text="从 Maven 存储库安装 Aspose.OMR for Java"  >}}文档页面。
-{{< Common/release-notes-link family="omr" product="java" href="https://docs.aspose.com/omr/java/release-notes/" text="https://docs.aspose.com/omr/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[家](https://www.aspose.com/) | [产品页面](https://products.aspose.com/omr/java) | [文档](https://docs.aspose.com/omr/java/) | [演示](https://products.aspose.app/omr/family) | [API参考](https://apireference.aspose.com/omr/java) | [例子](https://github.com/aspose-omr/Aspose.OMR-for-Java) | [博客](https://blog.aspose.com/category/omr/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/omr) | [临时许可](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.OMR for Java](https://products.aspose.com/omr/java)是一个Java类库，它提供了API，可以从OMR数字化的片段图像中识别光标记。它可用于识别BMP，JPG，TIF，TIFF，GIF等各种图像格式的光标记。 API允许从文档表格，调查，问卷，多项选择检查文件和其他测试中捕获人类标记的数据。使用此解决方案，可以以高精度识别扫描的图像甚至照片。识别基于模板标记，该模板标记包含要从扫描图像中识别的元素的图形映射。
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-omr</artifactId>
-      <version>19.12</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+## OMR API功能
+ - 识别扫描的图像和照片。
+ - 能够处理旋转和透视图（侧视图）图像的能力。
+ - 识别来自测试，考试，问卷，调查等的数据。
+ - 高精度率和以“ CSV”和`json'文件格式导出结果的能力。
 
-[Home](https://www.aspose.com/) | [Product Page](https://products.aspose.com/omr/java) | [Docs](https://docs.aspose.com/omr/java/) | [Demos](https://products.aspose.app/omr/family) | [API Reference](https://reference.aspose.com/omr/java) | [Examples](https://github.com/aspose-omr/Aspose.OMR-for-Java) | [Blog](https://blog.aspose.com/category/omr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/omr) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+-[创建OMR模板](https://docs.aspose.com/omr/java/create-omr-template/)来自文本标记。
 
-## 为什么要下载 Aspose.OMR for Java？
+## 将OMR结果保存为
+CSV，JSON
 
-Aspose.OMR for Java 是一个 Java 类库，它提供了从 OMR 数字化纸张图像中识别光学标记的 API。它可用于识别各种图像格式的光学标记，如 BMP、JPG、TIF、TIFF、GIF。 API 允许从调查、问卷、多项选择试卷和其他测试等文档形式中捕获人工标记的数据。使用此解决方案，可以高精度地识别扫描的图像甚至照片。识别基于模板标记，其中包含要从扫描图像中识别的元素的图形映射。
+## 读取OMR的图像
+JPEG，PNG，GIF，TIFF，BMP
 
-## OMR API 功能
+## 支持环境
+ -  ** Microsoft Windows：** Windows Desktop＆Server（X86，X64）
+ -  ** macOS：** Mac OS X
+ -  ** Linux：** Ubuntu，Opensuse，Centos等
+ -  ** java版本：**``j2se 7.0（1.7）`，`j2se 8.0（1.8）`或更高版本
 
-- 识别扫描的图像和照片。
-- 能够处理旋转和透视（侧视）图像。
-- 识别来自测试、考试、问卷、调查等的数据。
-- 高准确率和以“CSV”和“JSON”文件格式导出结果的能力。
-- 从文本标记创建 OMR 模板。
+## 开始
 
-### 将 OMR 结果另存为
+Aspose.omr Java API托管在[Aspose存储库](https://repository.aspose.com/omr/)。您可以直接在使用简单配置的Maven项目中轻松地将Aspose.omr用于Java API。有关详细说明，请访问[Installing Aspose.OMR for Java from Maven Repository](https://docs.aspose.com/omr/java/installation/)文档页面。
 
-CSV、JSON
+## 使用Java在图像上执行OMR操作
 
-### 为 OMR 读取图像
+```java
+// For complete examples and data files, please go to https://github.com/aspose-omr/Aspose.OMR-for-Java
+String TemplateName = "Sheet.omr";
+String[] UserImages = new String[] { "Sheet1.jpg", "Sheet2.jpg" };
+String[] UserImagesNoExt = new String[] { "Sheet1", "Sheet2" };
 
-JPEG、PNG、GIF、TIFF、BMP
+String sourceDirectory = Utils.getSourceDirectory();
+String outputDirectory = Utils.combine(Utils.getOutputDirectory(), "Result");
+String templatePath = Utils.combine(Utils.getSourceDirectory(), TemplateName);
 
-### 支持的环境
+// initialize engine and get template processor providing path to the .omr file
+OmrEngine engine = new OmrEngine();
+TemplateProcessor templateProcessor = engine.getTemplateProcessor(templatePath);
+System.out.println("Template loaded.");
 
-- **Microsoft Windows®：** Windows 桌面和服务器（x86、x64）
-- **macOS：** Mac OS X
-- **Linux：** Ubuntu、OpenSUSE、CentOS 等
-- **Java 版本：** `J2SE 7.0 (1.7)`、`J2SE 8.0 (1.8)` 或更高版本
+// images loop
+for (int i = 0; i < UserImages.length; i++) {
+    // path to the image to be recognized
+    String imagePath = Utils.combine(sourceDirectory, UserImages[i]);
+    System.out.println("Processing image: " + imagePath);
 
-{{< Common/hr >}}
+    // recognize image and receive result
+    RecognitionResult result = templateProcessor.recognizeImage(imagePath);
 
-{{< Tags/TagsWrapper>}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+    // export results as csv string
+    String csvResult = result.getCsv();
 
-{{< Common/hr >}}
+    String json = result.getJson();
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="omr" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+    // save csv to the output folder
+    PrintWriter wr = new PrintWriter(new FileOutputStream(Utils.combine(outputDirectory, UserImagesNoExt[i] + ".csv")), true);
+    wr.println(csvResult);
+}
+```
 
+[家](https://www.aspose.com/) | [产品页面](https://products.aspose.com/omr/java) | [文档](https://docs.aspose.com/omr/java/) | [演示](https://products.aspose.app/omr/family) | [API参考](https://apireference.aspose.com/omr/java) | [例子](https://github.com/aspose-omr/Aspose.OMR-for-Java) | [博客](https://blog.aspose.com/category/omr/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/omr) | [临时许可](https://purchase.aspose.com/temporary-license)

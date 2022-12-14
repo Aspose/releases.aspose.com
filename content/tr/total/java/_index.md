@@ -1,9 +1,39 @@
 ---
-title: "Java Dosya Biçimleri API'leri | Java için Aspose.Total"
-description: "Microsoft Word, Excel, PowerPoint, Outlook, Publisher, Visio, Project ve OneNote dosyaları oluşturmak, işlemek, dönüştürmek, işlemek ve yazdırmak için Java kitaplık paketini indirin. Paket ayrıca PDF, Photoshop, CAD, GIS ve 3D dosya biçimleri için API'lerin yanı sıra barkodlar, OCR ve OMR için API'ler içerir."
-keywords: "Java libraries  "
-family_listing_page_title: "Java için Aspose.Total"
-family_listing_page_description: "Aspose.Total for Java, geliştiricilerin 100'den fazla popüler dosya formatını işleyebilen inanılmaz derecede çok yönlü dosya işleme sistemleri oluşturmasına olanak tanır. Java SE veya EE uygulama programcıları, Microsoft Office, OpenOffice, Visio, Project, CAD ve diğer yaygın olarak kullanılan format kategorilerindeki dosyaları yükleme, oluşturma, değiştirme, oluşturma ve aralarında dönüştürme yeteneği ile uygulamalarını geliştirebilir."
+title: "Aspose.total | Dosya biçimlerini işlemek için java sınıfı kütüphaneleri" 
+linktitle: Aspose.Total
+description: "Uygulamalarınızın Microsoft Word, Excel, PowerPoint, Outlook, OneNote, 3D, CAD, PDF, CBS, E -posta, HTML, vb." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Words
+- Aspose Cells
+- Aspose PDF
+- Aspose Slides
+- Aspose Email
+- Aspose BarCode
+- Aspose Imaging
+- Aspose Tasks
+- Aspose OCR
+- Aspose Diagram
+- Aspose Note
+- Aspose CAD
+- Aspose HTML
+- Aspose 3D
+- Aspose Page
+- Aspose PSD
+- Aspose PUB
+- Aspose Font
+- Aspose TeX
+- Maven
+- J2SE
+- Windows
+- Linux
+- Mac
+family_listing_page_title: "Java için aspose.total" 
+family_listing_page_description: "Java için aspose.total, geliştiricilerin 100'den fazla popüler dosya formatını işleyebilen inanılmaz derecede çok yönlü dosya işleme sistemleri oluşturmasına olanak tanır. Java SE veya EE uygulama programcıları, Microsoft Office, OpenOffice, Visio, Project, CAD ve yaygın olarak kullanılan diğer birçok format kategorisinden dosyaları yükleme, oluşturma, değiştirme, oluşturma ve dönüştürme yeteneği ile geliştirebilir." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,139 +41,116 @@ family_listing_page_venture: "4"
 family_listing_page_package: "284"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-total/"
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/total/7
+productLink: https://products.aspose.com/total/java/
+dataFolder: aspose_total
+packages_refs:
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "20-12"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-1"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/total" linktext=" Support Forum " >}}
+# Belge biçimi manipülasyonu için java sınıfları
+[![banner](./aspose_total-for-java-banner.png)](./)
 
-{{< Common/h2 text="Aspose.Total'ı Maven'den indirin"  >}}
+[Ürün sayfası](https://products.aspose.com/total/java/) | [Belgeler](https://docs.aspose.com/total/java/) ​​| [API referansı](https://apireference.aspose.com/) | [Örnekler](http://aspose.github.io) | [Blog](https://blog.aspose.com/category/total/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/) | [Geçici lisans](https://purchase.aspose.com/temporary-license) | [Politikalar](https://purchase.aspose.com/policies)
 
-{{< Common/paragraph class="package-instructions">}}
-Aspose.Total for Java'yı doğrudan bir
-{{< Common/link href="https://repository.aspose.com/total/" text="Uzman"  >}}pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek proje tabanlı.
+[Aspose.Total for Java](https://docs.aspose.com/total/java/), Aspose tarafından sunulan tüm Java dosya formatı API'lerinin en eksiksiz paketidir. Geliştiricilere, herhangi bir Java uygulamasından çok çeşitli popüler belge formatları arasında oluşturma, düzenleme, oluşturma, yazdırma ve dönüştürme yetkisi verir.
 
-{{< Common/release-notes-link family="total" product="java" href="https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/" text="https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/"  >}}
+## ASPOSE.Words Java
 
-{{< /Common/paragraph>}}
+[Kelime Java Kütüphanesi](https://products.aspose.com/words/java/), Microsoft Word, OpenOffice, İşaretleme ve e -kitap belge formatlarının belge oluşturma, işleme, oluşturma ve dönüştürülmesi gibi MS Word belge işleme işlemlerinin gerçekleştirilmesine izin verir.
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-         <id>AsposeJavaAPI</id>
-         <name>Aspose Java API</name>
-         <url>https://releases.aspose.com/java/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+## Java için aspose.cels
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-         <groupId>com.aspose</groupId>
-         <artifactId>aspose-total</artifactId>
-         <version>21.10</version>
-         <type>pom</type>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Excel Java API & GUI controls](https://products.aspose.com/cells/java/) Excel & OpenOffice elektronik tablolarının oluşturulmasına, işlenmesine, manipüle edilmesine ve dönüştürülmesine izin verir. Bir formül, pivot tabloları, dilimleyicileri, tabloları, grafikleri, çizim nesnelerini, akıllı işaretleyicileri ve çok daha fazlasını okuma ve yazma yeteneği sağlar.
 
-{{< Common/hr >}}
+## Java için aspose.pdf
 
-{{KÖPRÜ1}} | {{KÖPRÜ2}} | {{KÖPRÜ3}} | {{KÖPRÜ4}} | {{KÖPRÜ5}} | {{KÖPRÜ6}} | {{KÖPRÜ7}} | {{KÖPRÜ8}} | {{KÖPRÜ9}} | {{KÖPRÜ10}}
+[PDF Java Bileşeni](https://products.aspose.com/pdf/java/), Adobe Acrobat'ı yüklemeden PDF belgeleri oluşturmanıza, işlemenize ve manipüle etmenize olanak tanır. Ekler, yer imleri, ek açıklamalar, bağlantılar, eylemler, güvenlik, imza, operatörler, tablolar, etiketli PDF dosyaları, PDF formları, grafikler, başlıklar, görüntüler, bireysel PDF sayfaları, pullar, filigranlar ve güvenlik ile çalışın.
 
-### Neden Aspose.Total for Java'yı indirmelisiniz?
+## Java için aspose.slides
 
-Aspose.Total for Java, Java geliştiricileri için herhangi bir Java J2SE, J2EE, J2ME uygulamasında kullanılabilen bir Dosya Formatı Otomasyonu API'leri koleksiyonudur. Paket aşağıdaki bireysel API'lerden oluşur:
+[PowerPoint Sunum İşleme ve Manipülasyon API'sı](https://products.aspose.com/slides/java/), tüm popüler formatların sunum dosyalarını okumaya, yazmaya ve düzenlemeye yardımcı olur.
 
-### Java için Aspose.Words
+## ASPOSE.EMAIL Java
 
-Word® belgelerini çeşitli biçimlerde oluşturmak, işlemek, dönüştürmek veya işlemek için kelime işleme API'leri.
+[Java E -posta API](https://products.aspose.com/email/java/), e -posta oluşturmanıza, manipüle etmenize, göndermenize ve almanıza ve takvim ve e -posta arşiv dosyalarını yönetmenize yardımcı olur. SMTP, MIME, POP3, IMAP ve HTTP protokollerini destekler.
 
-### Java için Aspose.PDF
+## ASPOSE.BARCODE Java
 
-Adobe Acrobat® gerektirmeden PDF dosyalarını oluşturmak, ayrıştırmak, korumak, imzalamak ve dönüştürmek için PDF Manipulation API.
+[Java Barkod API](https://products.aspose.com/barcode/java/), 40+ sembolojinin 1D, 2D ve posta barkodlarını tanımaya ve üretmeye yardımcı olur.
 
-### Java için Aspose.Cells
+## ASPOSE. Java için Hayal Edin
 
-MS Excel® yüklemeden elektronik tablolar oluşturmak, işlemek, dönüştürmek, korumak veya yazdırmak için Elektronik Tablo İşleme API'leri.
+Görüntüler oluşturmanıza, dönüştürmenize, çizmenize ve dönüştürmenize yardımcı olan bir [easy-to-use Imaging API](https://products.aspose.com/imaging/java/).
 
-### Java için Aspose.E-posta
-Outlook® ve Thunderbird®'den e-posta oluşturmak, oluşturmak, e-posta göndermek ve e-postaları ayrıştırmak için E-posta Yönetimi API'leri.
+## aspose.tasks için java
 
-### Java için Aspose.Slides
+[Proje yönetimi uygulamalarını geliştirmek için Java API](https://products.aspose.com/tasks/java/) Microsoft proje belgelerini işleme, manipüle etme ve dönüştürme yeteneği ile.
 
-MS PowerPoint® olmadan PPT/PPTX oluşturmak, değiştirmek, birleştirmek, klonlamak, korumak, dönüştürmek ve işlemek için Sunum Manipülasyonu API'leri.
+## Java için aspose.ocr
 
-### Aspose.Imaging for Java
+[OCR Java Bileşeni](https://products.aspose.com/ocr/java/), İngilizce, İspanyolca, Fransızca ve Portekizce dilleri için Optik Karakter Tanıma (OCR) uygulamaları geliştirmenize yardımcı olur.
 
-Bellek optimizasyonu ile görüntüleri oluşturmak, yüklemek, dönüştürmek veya dönüştürmek için Image Editor API'leri.
+## Java için aspose.diagram
 
-### Java için Aspose.BarCode
+[Visio Java API](https://products.aspose.com/diagram/java/) Sıfırdan visio diyagramları oluşturmak, mevcut diyagramları manipüle etmek veya Visio'yu sabit ödeme ve görüntü formatlarına dönüştürmek için uygulamalarınızı geliştirir.
 
-Doğrusal, 2D ve posta barkodları oluşturmak, özelleştirmek ve tanımak için BarCode Generation & Recognition API.
+## aspose.not java
 
-### Java için Aspose.Diagram
+[Java Onenote API](https://products.aspose.com/note/java/), ek kütüphaneler gerektirmeden Onenote dosyalarını oluşturmanıza, değiştirmenize ve dönüştürmenize yardımcı olur.
 
-Microsoft Visio® dosyalarını değiştirmek ve PDF, HTML, Görüntüler ve XAML biçimlerine dışa aktarmak için Diyagram Manipülasyon API'leri.
+## Java için aspose.cad
 
-### Java için Aspose.Tasks
+AutoCAD yüklemeden Java uygulamalarınızı [CAD Çizimlerini İşleme ve Dönüştürün](https://products.aspose.com/cad/java/) olarak etkinleştirir.
 
-MS Project® dosyalarını işlemek veya Primavera, Excel, PDF, Görüntüler, HTML ve XML biçimlerine aktarmak için Proje Belgesi İşleme API'leri.
+## Java için aspose.html
 
-### Java için Aspose.OCR
+Başsız bir tarayıcının davranışını taklit eden ve HTML sayfalarını işlemenize ve manipüle etmenize yardımcı olan bir öncül [Java HTML API](https://products.aspose.com/html/java/).
 
-Java Uygulamalarınıza Optik Karakter Tanıma ve Belge Tarama özellikleri eklemek için Optik Karakter Tanıma API'leri.
+## Java için aspose.3d
 
-### Java için Aspose.Note
+[3D API, 3D dosya işlemeyi sorunsuz bir şekilde entegre eder](https://products.aspose.com/3d/java/) ve Java tabanlı masaüstü ve web uygulamalarınıza manipülasyon işlevselliği.
 
-Microsoft OneNote® belgelerini Oluşturmak, Okumak, Düzenlemek, Dönüştürmek ve Değiştirmek için Notes Manipülasyon API'leri.
+## Java için aspose.page
 
-#### Java için Aspose.CAD
+Kendi Java uygulamalarınızdaki XPS belgelerini oluşturun, düzenleyin ve kaydedin. [Aspose.Page for Java](https://products.aspose.com/page/java/) ayrıca XPS, EPS ve EP dosyalarını PDF biçimine dönüştürmenizi sağlar.
 
-AutoCAD® dosyalarını (DWG, DXF, STL) AutoCAD® yüklemeden PDF ve raster görüntü formatlarına dönüştürmek ve işlemek için API'ler.
+## Java için aspose.psd
 
-### Java için Aspose.3D
+[Photoshop Java API](https://products.aspose.com/psd/java/), Adobe Photoshop'a ihtiyaç duymadan PSD & PSB dosya işleme, manipülasyon ve dönüştürme özelliklerini Java uygulamalarınıza sorunsuz bir şekilde entegre eder.
 
-Herhangi bir harici modelleme ve işleme yazılımı olmadan çalışan 3D Dosya İşleme API'leri. Autodesk®, Wavefront, Collada, Draco ve daha birçok 3D formatının işlenmesini destekler.
+## Java için aspose.pub
 
-### Java için Aspose.HTML
+3. taraf kütüphanesi veya yazılım gerektirmeden [read, convert & manipulate Microsoft Publisher files (.PUB)](https://products.aspose.com/pub/java/)'a kadar hafif bir Java API'sı.
 
-CSS stilleri de dahil olmak üzere HTML belgelerini PDF'ye ve diğer raster görüntü biçimlerine işlemek ve işlemek için API'ler.
+## Java için aspose.font
 
-### Java için Aspose.Page
+Java için aspose.font, Java yerel uygulamalarınıza [Yazı tipi yükleme ve çizim özelliklerini dahil edin](https://products.aspose.com/font/java/) size yardımcı olur. `Truetype` (Truetype Collectons ile),` cff`, `opentype` ve` type1 'gibi çeşitli yazı tipi formatlarını destekler.
 
-XPS, PS ve EPS biçimlerinin oluşturulması, ayrıştırılması ve dönüştürülmesi için destek içeren XPS ve PostScript Belge İşleme API'leri.
+## Java için aspose.tex
 
-### Java için Aspose.PSD
+Java için aspose.tex [Tex dosyalarının toplanması Java sınıfları](https://products.aspose.com/tex/java/). Tex dosyalarını, XPS, PDF, PNG, JPEG, TIFF ve BMP gibi formatlar halinde belgeler almasına yardımcı olur. Özel Tex formatları oluşturma da desteklenmektedir.
 
-Herhangi bir üçüncü taraf yazılımı yüklemeden Adobe Photoshop® (PSD ve PSB) formatındaki belgeleri oluşturmak, yüklemek, değiştirmek ve işlemek için API'ler.
-
-### Java için Aspose.OMR
-
-Çeşitli taranmış görüntü biçimlerinden OMR sayısallaştırılmış sayfa görüntülerini algılamak ve ayrıştırmak için Optik İşaret Tanıma API'leri.
-
-### Java için Aspose.PUB
-
-Elektronik Yayın Dosyaları Microsoft Publisher® formatındaki PUB'u PDF'ye yüklemek ve dönüştürmek için API'leri İşleme.
-
-### Java için Aspose.Font
-
-TrueType, CFF, OpenType, Type1, vb. desteği olan Yazı Tipi Yükleme ve İşleme API'leri.
-
-### Java için Aspose.TeX
-
-Typeset TeX dosyalarına yönelik API'ler. XPS, PDF, PNG, JPEG, TIFF, BMP gibi çoklu çıktı formatlarını destekler.
-
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
-
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="total" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[Ürün sayfası](https://products.aspose.com/total/java/) | [Belgeler](https://docs.aspose.com/total/java/) | [API referansı](https://apireference.aspose.com/) | [Örnekler](http://aspose.github.io) | [Blog](https://blog.aspose.com/category/total/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/) | [Geçici lisans](https://purchase.aspose.com/temporary-license) | [Politikalar](https://purchase.aspose.com/policies)

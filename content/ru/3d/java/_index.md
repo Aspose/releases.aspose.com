@@ -1,9 +1,69 @@
 ---
-title: "Загрузить JAR-файлы для обработки 3D-моделей и графики | Aspose.3D"
-description: "Загрузите файлы Java JAR для создания, чтения, преобразования и сохранения форматов 3D (например, 3DS, 3MF, DAE, DFX и т. д.). Поддерживает геометрию, графики, скелеты и деформаторы морфинга."
-keywords: "3D Java Library"
-family_listing_page_title: "Aspose.3D для Java"
-family_listing_page_description: "Aspose.3D for Java API создан для создания, редактирования, управления и сохранения 3D-форматов. Он позволяет приложениям Java подключаться к 3D-документам без установки какого-либо программного пакета на компьютер. Aspose.3D для Java API помогает разработчикам моделировать и создавать огромные миры в играх, превосходные сцены для визуализации дизайна и использовать возможности виртуальной реальности. API удобен для пользователя и экономит время и деньги, чем создание аналогичного решения с нуля."
+title: "Aspose.3d | Библиотека классов Java для обработки трехмерных изображений, моделей" 
+linktitle: Aspose.3D
+description: "Библиотека Java для создания, чтения, преобразования и сохранения 3D форматов (например, 3DS, 3MF, DAE, DFX, GITF, U3D и т. Д.). Поддерживает геометрию, графики, скелеты и деформаторы Morph." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Java 3D API
+- Java 3D Component
+- Java 3D Library
+- Java 3D Class
+- 3D
+- 3D Geometry3D Manufecturing
+- 3D Modeling
+- 3D Objects
+- 3D PDF
+- 3D Scene
+- 3D Studio Max
+- 3D Viewports
+- 3DS
+- 3D to GLTF2.0
+- 3D to HTML
+- 3D to PDF
+- 3MF
+- AMF
+- Animation
+- ASE
+- Aspose.3D
+- Aspose.Total
+- AutoCAD
+- Autodesk
+- Collada
+- Conholdate
+- Conholdate.Total
+- Cylinder
+- DAE
+- Darco
+- DirectX
+- DRC
+- DXF
+- FBX
+- Geometry
+- gITF
+- HTML
+- JT
+- Linear Extrusion
+- Mesh
+- Morph
+- NURBS
+- OBJ
+- PDF
+- PLY
+- Точка
+- Polygons
+- Redenring
+- RVM
+- Skeleton
+- STL
+- U3D
+- VRML
+- Wavefront
+weight: 02	#rem
+family_listing_page_title: "Aspose.3d для Java" 
+family_listing_page_description: "Aspose.3d для Java API создан для создания, редактирования, манипулирования и сохранения трехмерных форматов. Он дает Java приложения для подключения к 3D -документам без установки какого -либо программного пакета на компьютере. Aspose.3d для Java API помогает разработчикам моделировать и создавать огромные миры в играх, превосходные сцены для визуализации дизайна и привлекать опыт виртуальной реальности. API удобен для пользователя и экономит время и деньги, чем создание аналогичного решения с нуля." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,93 +71,124 @@ family_listing_page_venture: "4"
 family_listing_page_package: "62"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-3d/"
-tags: ['3D-Modeling', '3D-Objects', '3D-PDF', '3D-Scene', '3D-Studio-Max', '3D-Viewports', '3DS', '3D-to-GLTF2.0', '3D-to-HTML', '3D-to-PDF', '3MF', 'AMF', 'Animation', 'ASE', 'Aspose.3D', 'Aspose.Total', 'AutoCAD', 'Autodesk', 'Collada', 'Conholdate', 'Conholdate.Total', 'Cylinder', 'DAE', 'Darco', 'DirectX', 'DRC', 'DXF', 'FBX', 'Geometry', 'gITF', 'HTML', 'JT', 'Linear-Extrusion', 'Mesh', 'Morph', 'NURBS', 'OBJ', 'PDF', 'PLY', 'PointCloud', 'Polygons', 'Redenring', 'RVM', 'Skeleton', 'STL', 'U3D', 'VRML', 'Wavefront', 'X']
-weight:  2
+forumLink: https://forum.aspose.com/c/3d/18
+productLink: https://products.aspose.com/3d/java/
+dataFolder: aspose_3d
+packages_refs:
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "18-10"
+- "18-11"
+- "18-12"
+- "18-5"
+- "18-6"
+- "18-7"
+- "18-8"
+- "18-9"
+- "19-1"
+- "19-10"
+- "19-11"
+- "19-12"
+- "19-2"
+- "19-3"
+- "19-4"
+- "19-5"
+- "19-6"
+- "19-7"
+- "19-8"
+- "19-9"
+- "20-1"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-2"
+- "20-3"
+- "20-4"
+- "20-5"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-1"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-7-1"
+- "21-8"
+- "21-9"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/3d" linktext=" Support Forum " >}}
+# Java API для обработки трехмерного изображения
+[![banner](./aspose_3d-for-java-banner.png)](./)
 
-{{< Common/h2 text="Загрузите Aspose.3D для обработки форматов 3D-файлов"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose размещает все API Java на
-{{< Common/link href="https://repository.aspose.com" text="Aspose Репозиторий"  >}}. Вы можете легко использовать
-{{< Common/link href="https://repository.aspose.com/3d/" text="Aspose.3D для Java API"  >}}непосредственно в ваших проектах на основе Maven, добавив следующие конфигурации в ваш pom.xml. Подробные инструкции см.
-{{< Common/link href="https://docs.aspose.com/3d/java/installation/" text="Установка Aspose.3D для Java из репозитория Maven"  >}}страница документации.
-{{< Common/release-notes-link family="3d" product="java" href="https://docs.aspose.com/3d/java/release-notes/" text="https://docs.aspose.com/3d/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Страница продукта](https://products.aspose.com/3d/java) | [Док](https://docs.aspose.com/3d/java/) | [Демо](https://products.aspose.app/3d/family) | [Ссылка на API](https://apireference.aspose.com/3d/java) | [Примеры](https://github.com/aspose-3d/Aspose.3D-for-Java) | [Блог](https://blog.aspose.com/category/3d/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/c/3d) | [Временная лицензия](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.3D for Java API](https://products.aspose.com/3d/java) создан для создания, редактирования, манипулирования и сохранения 3D -форматов. Он дает Java приложения для подключения к 3D -документам без установки какого -либо программного пакета на компьютере. Aspose.3d для Java API помогает разработчикам моделировать и создавать огромные миры в играх, превосходные сцены для визуализации дизайна и привлекать опыт виртуальной реальности. API удобен для пользователя и экономит время и деньги, чем создание аналогичного решения с нуля.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-3d</artifactId>
-      <version>22.8</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+## Функции обработки 3D -файлов
 
-{{< Common/hr >}}
+- [Создавать](https://docs.aspose.com/3d/java/create-an-empty-3d-document/), загрузить и сохранить 3D -сцену.
+- Работать с 3D -моделями и 3D -объектами.
+- Настройка целевой камеры в 3D -документе.
+- Добавьте иерархию узла и обменивайте геометрические данные сетки среди нескольких узлов 3D -сцены.
+- Создать трехмерную сетку и выставить геометрическое преобразование.
+- Преобразовать все многоугольники в треугольники в 3D -модели.
 
+- Работа с [линейная экструзия](https://docs.aspose.com/3d/java/working-with-linear-extrusion/), [цилиндр](https://docs.aspose.com/3d/java/working-with-цилиндр/) и [Точка](https://docs.aspose.com/3d/java/working-with-pointcloud/).
 
-{{ГИПЕРССЫЛКА1}} | {{ГИПЕРССЫЛКА2}} | {{ГИПЕРССЫЛКА3}} | {{ГИПЕРССЫЛКА4}} | {{ГИПЕРССЫЛКА5}} | {{ГИПЕРССЫЛКА6}} | {{ГИПЕРССЫЛКА7}} | {{ГИПЕРССЫЛКА8}} | {{ГИПЕРССЫЛКА9}} | {{ГИПЕРССЫЛКА10}} | {{ГИПЕРССЫЛКА10}}
+## Поддерживаемые форматы 3D -файлов
+FBX 7,5 ASCII, FBX 7,5 Binary, FBX 7.4 ASCII, FBX 7.4, FBX 7.3 ASCII, FBX 7.3 Бинарник, FBX 7.2 ASCII, FBX 7.2 Binary, STL (ASCII, двоичный), Wavefrontobj, Discreet3ds, Universal3d, Collada, Gltf, DXF , Ply (ASCII, бинар), x (ASCII, бинарный), Draco, GLTF 2.0 (ASCII, бинарный), 3MF, RVM (текст, бинарный), ASE, GLB
 
-Aspose.3D for Java API создан для создания, редактирования, управления и сохранения 3D-форматов. Он позволяет приложениям Java подключаться к 3D-документам без установки какого-либо программного пакета на компьютер. Aspose.3D для Java API помогает разработчикам моделировать и создавать огромные миры в играх, превосходные сцены для визуализации дизайна и использовать возможности виртуальной реальности. API удобен для пользователя и экономит время и деньги, чем создание аналогичного решения с нуля.
+## Читать и написать 3D форматы
+3DS, AMF, RVM, DAE, DRC, FBX, GITF, OBJ, PLY, STL, U3D, ATT
 
-## Функции обработки 3D-файлов
-
-- Создание, загрузка и сохранение 3D-сцены.
-- Работа с 3D моделями и 3D объектами.
-- Настройка целевой камеры в 3D-документе.
-- Добавить иерархию узлов и поделиться геометрическими данными сетки между несколькими узлами 3D-сцены.
-- Создайте 3D-сетку и выставьте геометрическое преобразование.
-- Преобразование всех полигонов в треугольники в 3D-модели.
-- Работа с линейной экструзией, цилиндром и PointCloud.
-
-### Поддерживаемые форматы файлов 3D
-
-FBX 7.5 ASCII, FBX 7.5 Binary, FBX 7.4 ASCII, FBX 7.4 Binary, FBX 7.3 ASCII, FBX 7.3 Binary, FBX 7.2 ASCII, FBX 7.2 Binary, STL (ASCII, Binary), WavefrontOBJ, Discreet3DS, Universal3D, COLLADA, glTF, DXF , PLY (ASCII, двоичный), X (ASCII, двоичный), Draco, GLTF 2.0 (ASCII, двоичный), 3MF, RVM (текстовый, двоичный), ASE, GLB
-
-### Чтение и запись 3D-форматов
-
-3DS, AMF, RVM, DAE, DRC, FBX, gITF, OBJ, PLY, STL, U3D, ATT
-
-### Сохранить 3D-файл как
-
+## Сохранить 3D -файл как
 HTML
 
-### Чтение 3D-форматов
+## Читать 3D форматы
+3MF, ASE, DXF, JT, VRML 1.0, x
 
-3MF, ASE, DXF, JT, VRML 1.0, X
+## поддерживаемые среды
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** macOS: ** Mac OS X
+- ** Linux: ** Ubuntu, Centos и другие
+- ** java версии: ** `j2se 9.0 (1.9+)` или выше (например, Java 11)
 
-### Поддерживаемые среды
+## Начать
 
-- **Microsoft Windows:** Windows Desktop & Server (x86, x64)
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, CentOS и другие
-- **Версии Java:** `J2SE 9.0 (1.9+)` или выше (например, Java 11)
+Aspose.3d Java API размещены на [Применить репозиторий](https://repository.aspose.com/3d/). Вы можете легко использовать Aspose.3d для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.3D for Java from Применить репозиторий](https://docs.aspose.com/3d/java/installation/).
 
-{{< Common/hr >}}
+## Выполните линейную экструзию с помощью Java API
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+``` java
+RectangleShape profile = new RectangleShape();
+profile.setRoundingRadius(0.3);
+// perform Linear extrusion by passing a 2D shape as input and extend the shape in the 3rd dimension
+LinearExtrusion extrusion = new LinearExtrusion(profile, 10) {{ setSlices(100); setCenter(true); setTwist(360); setTwistOffset(new Vector3(10, 0, 0));}};
+extrusion.setSlices(100);
+extrusion.setCenter(true);
+extrusion.setTwist(360);
+extrusion.setTwistOffset(new Vector3(10, 0, 0));
+// create a scene
+Scene scene = new Scene();
+// create a child node by passing extrusion
+scene.getRootNode().createChildNode(extrusion);
+// save 3D scene
+scene.save("output.obj", FileFormat.WAVEFRONTOBJ);
+```
 
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="3d" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[Страница продукта](https://products.aspose.com/3d/java) | [Док](https://docs.aspose.com/3d/java/) | [Демо](https://products.aspose.app/3d/family) | [Ссылка на API](https://apireference.aspose.com/3d/java) | [Примеры](https://github.com/aspose-3d/Aspose.3D-for-Java) | [Блог](https://blog.aspose.com/category/3d/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/c/3d) | [Временная лицензия](https://purchase.aspose.com/temporary-license)

@@ -1,9 +1,43 @@
 ---
-title: "下载 JAR 文件以创建和排版 TeX | Aspose.TeX API"
-description: "下载 JAR 文件以在您的应用程序中添加排版功能。将 TeX 和 LaTeX 转换为 PDF、XPS、SVG 等。支持字体子集、连字、光栅化等。"
-keywords: "tex"
-family_listing_page_title: "用于 Java 的 Aspose.TeX"
-family_listing_page_description: "Aspose.TeX for Java 是一个 Java API，允许开发人员创建用于 TeX 文件排版的应用程序。"
+title: "aspose.tex | Java库将排版和转换Tex文件转换" 
+linktitle: Aspose.TeX
+description: "Java类库将在您的应用中添加排版功能。将TEX和乳胶转换为PDF，XPS，SVG等。" 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose TeX
+- Aspose Java API
+- tex-java-library
+- tex-java-class
+- XPS
+- PDF
+- PNG
+- JPEG
+- TIFF
+- BMP
+- TEXT
+- typesetting
+- ZIP
+- J2SE
+- Windows
+- Linux
+- Mac
+- format conversion
+- tex conversion
+- latex conversion
+- font subsetting
+- ligature
+- rasterization
+- OXPS
+- PS
+- EPS
+- SVG
+- TeX to SVG
+family_listing_page_title: "aspose.tex for Java" 
+family_listing_page_description: "Java的Aspose.tex是创建Java API，允许开发人员为Tex文件排列的应用程序创建应用程序。" 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,78 +45,64 @@ family_listing_page_venture: "4"
 family_listing_page_package: "276"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-tex/"
-tags: ['XPS', 'PDF', 'PNG', 'JPEG', 'TIFF', 'BMP', 'TEXT', 'typesetting', 'ZIP', 'J2SE', 'Windows', 'Linux', 'Mac', 'format-conversion', 'tex-conversion', 'latex-conversion', 'font-subsetting', 'ligature', 'rasterization', 'OXPS', 'PS', 'EPS', 'SVG', 'TeX-to-SVG']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/tex/47
+productLink: https://products.aspose.com/tex/java/
+dataFolder: aspose_tex
+packages_refs:
+- "22-11"
+- "22-10"
+- "22-8"
+- "22-6"
+- "21-11"
+- "21-4"
+- "21-8"
+- "21-9"
+- "22-2"
+- "22-3"
+- "22-4"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/tex" linktext=" Support Forum " >}}
+# java api到排版TEX文件
+[![banner](./aspose_tex-for-java-banner.png)](./)
 
-{{< Common/h2 text="下载 Aspose.TeX 到 TypeSet TeX 文件"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose 在
-{{< Common/link href="https://repository.aspose.com" text="假设存储库"  >}}.通过将以下配置添加到 pom.xml，您可以直接在基于 Maven 的项目中轻松使用 Aspose.TeX for Java API。有关详细说明，请访问
-{{< Common/link href="https://docs.aspose.com/tex/java/installation/" text="从 Maven 存储库安装 Aspose.TeX for Java"  >}}文档页面。
-{{< Common/release-notes-link family="tex" product="java" href="https://docs.aspose.com/tex/java/release-notes/" text="https://docs.aspose.com/tex/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[产品页面](https://products.aspose.com/tex/java) | [文档](https://downloads.aspose.com/tex/java) | [演示](https://products.aspose.app/tex/family) | [API参考](https://apireference.aspose.com/tex/java) | [例子](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/例子) | [博客](https://blog.aspose.com/category/tex/) | [免费支持](https://forum.aspose.com/c/tex) | [临时许可](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.TeX for Java](https://products.aspose.com/tex/java)是提供称为Objecttex的TEX引擎扩展名的库。它可用于排版Tex文件描述的文档。 “对象”表示InterMediaryTypestting结果是一个特定的对象模型，然后可以将其均匀地转换为多种末端格式。
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-tex</artifactId>
-      <version>22.6</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+## 排版文件处理功能
+- Typesetting of TeX files
+- Create custom TeX formats
+- Provide input data in various ways
+- Fetch output data in various ways
 
-[Product Page](https://products.aspose.com/tex/java) | [Docs](https://downloads.aspose.com/tex/java) | [Demos](https://products.aspose.app/tex/family) | [API Reference](https://reference.aspose.com/tex/java) | [Examples](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/Examples) | [Blog](https://blog.aspose.com/category/tex/) | [Free Support](https://forum.aspose.com/c/tex) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+## 支持的输入格式
+德克萨斯
 
-## 为什么要下载 Aspose.TeX for Java？
+## 将Tex保存为
+XPS，PDF，JPEG，PNG，TIFF和BMP
 
-Aspose.TeX for Java 是一个提供名为 ObjectTeX 的 TeX 引擎扩展的库。它可用于排版由 TeX 文件描述的文档。 “对象”是指中间排版结果是一个特定的对象模型，然后可以统一转换成多种最终格式。
+## 支持排版的嵌入式字体
+cmbsy10, cmbx10, cmbx5, cmbx6, cmbx7, cmbx8, cmbx9, cmcsc10, cmdunh10, cmex10, cmmi10, cmmi5, cmmi6, cmm7, cmmi8, cmmi9, cmmib10, cmr10, cmr5, cmr6, cmr7, cmr8, cmr9, cmsl10, cmsl8, CMSL9，CMSLTT10，CMSS10，CMSSSBX10，CMSSI10，CMSSQ8，CMSSQI8，CMSY10，CMSY5，CMSY5，CMSY6，CMSY7，CMSY7，CMSY8，CMSY9，CMSY9，CMTI10，CMTI10，CMTI10，CMTI7，CMTI7，CMTI8，CMTI110，CMTIS9，CMT98，CMT98，CMTT9，CMTT9，CMTT8，CMTT8，CMTT8，CMTT8，CMTT8，CMTT8，
 
-## 类型设置文件处理功能
+## 支持平台
+您可以使用aspose.tex for Java来构建Windows（32位或64位）Linux和MacOS的任何类型的Java应用程序。 Java的Aspose.tex支持J2SE 8.0（1.8）或更高（例如Java 10）。
 
-- TeX 文件的排版
-- 创建自定义 TeX 格式
-- 以多种方式提供输入数据
-- 以各种方式获取输出数据
+## 使用Java创建自定义Tex格式
 
-### 支持的输入格式
+```java
+// Create typesetting options for no format on ObjectTeX engine extension.
+TeXOptions options = TeXOptions.consoleAppOptions(TeXConfig.objectIniTeX());
+// Specify a file system working directory for input.
+options.setInputWorkingDirectory(new InputFileSystemDirectory(Utils.getInputDirectory()));
+// Specify a file system working directory for output.
+options.setOutputWorkingDirectory(new OutputFileSystemDirectory(Utils.getOutputDirectory()));
 
-特克斯
+// Run format creation.
+TeX.createFormat("customtex", options);
 
-### 将 TeX 保存为
+// For further output to look write.
+options.getTerminalOut().getWriter().newLine();
+```
 
-XPS、PDF、JPEG、PNG、TIFF 和 BMP
-
-### 支持的嵌入式字体排版
-
-cmbsy10，cmbx10，cmbx5，cmbx6，cmbx7，cmbx8，cmbx9，cmcsc10，cmdunh10，cmex10，cmmi10，cmmi5，cmmi6，cmm7，cmmi8，cmmi9，cmmib10，cmr10，cmr5，cmr6，cmr7，cmr8，cmr9，cmsl10，cmsl8， cmsl9, cmsltt10, cmss10, cmssbx10, cmssi10, cmssq8, cmssqi8, cmsy10, cmsy5, cmsy6, cmsy7, cmsy8, cmsy9, cmti10, cmti7, cmti8, cmti9, cmtt10, cmtt8, cmtt9, cmu10
-
-{{< Common/hr >}}
-
-{{< Tags/TagsWrapper>}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
-
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="tex" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[产品页面](https://products.aspose.com/tex/java) | [文档](https://downloads.aspose.com/tex/java) | [演示](https://products.aspose.app/tex/family) | [API参考](https://apireference.aspose.com/tex/java) | [例子](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/例子) | [博客](https://blog.aspose.com/category/tex/) | [免费支持](https://forum.aspose.com/c/tex) | [临时许可](https://purchase.aspose.com/temporary-license)

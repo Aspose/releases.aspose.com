@@ -1,9 +1,59 @@
 ---
-title: "Λήψη Σχεδίασης και Επεξεργασίας Γραμματοσειράς Αρχείων JAR | Aspose.Font"
-description: "Λήψη κλάσεων Java ως JAR για απόδοση, επεξεργασία και μετατροπή γραμματοσειρών (TTF, TTC, OpenType, CFF, Type1, κ.λπ.). Υποστηρίζει συμπαγή γραμματοσειρά, λατινική γραμματοσειρά, σύμβολα και γλυφές."
-keywords: "font"
-family_listing_page_title: "Aspose.Font για Java"
-family_listing_page_description: "Το Aspose.Font για Java είναι ευέλικτη και εύχρηστη βιβλιοθήκη για εργασία με διαφορετικά αρχεία γραμματοσειρών. Το API υποστηρίζει πολλές μορφές γραμματοσειράς όπως TrueType CFF, OpenType και Type1."
+title: "Aspose.font | Επεξεργασία γραμματοσειράς Java API | TT, CFF, OT, Type1" 
+linktitle: Aspose.Font
+description: "Βιβλιοθήκη κλάσης Java για γραμματοσειρά (TTF, TTC, Opentype, CFF, Type1, κλπ.) Απόδοση, επεξεργασία και μετατροπή. Υποστηρίζει συμπαγή γραμματοσειρά, λατινική γραμματοσειρά, σύμβολα και glyphs." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Font
+- Aspose Java API
+- font java library
+- font java class
+- TTF
+- TTC
+- OpenType
+- CFF
+- Type1
+- postscript
+- scalabale font
+- true type
+- compact font
+- latin font
+- symbols
+- glyphs
+- font rendering
+- render text
+- Windows
+- Linux
+- Mac
+- J2SE
+- Maven
+- font converter
+- font conversion
+- WOFF
+- WOFF2
+- EOT
+- TTF to WOFF
+- TTF to WOFF2
+- WOFF to TTF
+- WOFF to WOFF2
+- WOFF2 to TTF
+- WOFF2 to WOFF
+- EOT to TTF
+- EOT to WOFF
+- EOT to WOFF2
+- Type1 to TFF
+- Type1 to WOFF
+- Type1 to WOFF2
+- CFF to TTF
+- CFF to WOFF
+- CFF to WOFF2
+- load font
+family_listing_page_title: "Aspose.font για java" 
+family_listing_page_description: "Το Aspose.font για το Java είναι ευέλικτο και εύκολο στη χρήση της βιβλιοθήκης για να συνεργαστεί με διαφορετικά αρχεία γραμματοσειράς. Το API υποστηρίζει πολλαπλές μορφές γραμματοσειράς όπως το Truetype CFF, το OpenType και το Type1." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,89 +61,91 @@ family_listing_page_venture: "4"
 family_listing_page_package: "268"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-font/"
-tags: ['TTF-to-WOFF', 'TTF-to-WOFF2', 'WOFF-to-TTF', 'WOFF-to-WOFF2', 'WOFF2-to-TTF', '', 'WOFF2-to-WOFF', 'EOT-to-TTF', 'EOT-to-WOFF', 'EOT-to-WOFF2', 'Type1-to-TFF', 'Type1-to-WOFF', 'Type1-to-WOFF2', 'CFF-to-TTF', 'CFF-to-WOFF', 'CFF-to-WOFF2']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/font/41
+productLink: https://products.aspose.com/font/java/
+dataFolder: aspose_font
+packages_refs:
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-7"
+- "22-6"
+- "20-10"
+- "21-10"
+- "21-12"
+- "21-4"
+- "21-8"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/font" linktext=" Support Forum " >}}
+# Java API για διάφορες μορφές γραμματοσειράς
+[![banner](./aspose_font-for-java-banner.png)](./)
 
-{{< Common/h2 text="Κατεβάστε το Aspose.Font για Σχεδίαση και εργασία με Γραμματοσειρές"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Το Aspose φιλοξενεί όλα τα Java API στο
-{{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Font for Java API απευθείας στα έργα σας που βασίζονται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml σας. Για αναλυτικές οδηγίες παρακαλούμε επισκεφθείτε
-{{< Common/link href="https://docs.aspose.com/font/java/installation/" text="Εγκατάσταση Aspose.Font για Java από το Maven Repository"  >}}σελίδα τεκμηρίωσης.
-{{< Common/release-notes-link family="font" product="java" href="https://docs.aspose.com/font/java/release-notes/" text="https://docs.aspose.com/font/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Σελίδα προϊόντος](https://products.aspose.com/font/java) | [Έγγραφα](https://docs.aspose.com/font/java/) | [Αναφορά API](https://apireference.aspose.com/font/java) | [Παραδείγματα](https://github.com/aspose-font/Aspose.Font-for-Java) | [Ιστολόγιο](https://blog.aspose.com/category/font/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/font) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.Font for Java](https://products.aspose.com/font/java) είναι μια βιβλιοθήκη φόρτωσης και σχεδίασης γραμματοσειράς. Υποστηρίζει πολλαπλές μπροστινές μορφές όπως Truetype (με συλλεκτικά Truetype), CFF, OpenType και Type1. Το API παρέχει πλούσια λειτουργικότητα για τη φόρτωση/αποθήκευση γραμματοσειράς και παρέχει πληροφορίες σχετικά με τις δομές δεδομένων του μαζί με οποιοδήποτε glyph που υποστηρίζεται από όλους τους τύπους γραμματοσειρών. Παρέχει επίσης πληροφορίες κωδικοποίησης για όλους τους τύπους γραμματοσειρών που αντιπροσωπεύει μια χαρτογράφηση μεταξύ κωδικών χαρακτήρων και αναγνωριστικών glyph. Το υποσύστημα της απόδοσης βοηθά τους τελικούς χρήστες να καταστήσουν οποιοδήποτε επιθυμητό glyph ή κείμενο. Τα ειδικά glyphs μπορούν να αποδοθούν με την εφαρμογή της διεπαφής χρησιμοποιώντας απλή λειτουργικότητα γραφικών (σημείο μετακίνησης, γραμμή κλήρωσης, καμπύλη).
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-font</artifactId>
-      <version>22.6</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+Χαρακτηριστικά API ## γραμματοσειράς
 
-[Product Page](https://products.aspose.com/font/java) | [Docs](https://docs.aspose.com/font/java/) | [API Reference](https://apireference.aspose.com/font/java) | [Examples](https://github.com/aspose-font/Aspose.Font-for-Java) | [Blog](https://blog.aspose.com/category/font/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/font) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+- [Φόρτωση αρχείων γραμματοσειράς από το δίσκο](https://docs.aspose.com/font/java/loading-saving-cff-fonts/) καθώς και ρεύμα.
+- Διαβάστε πληροφορίες γραμματοσειράς και αποθηκεύστε ενημερωμένα αρχεία γραμματοσειράς στο δίσκο.
 
-## Γιατί να κατεβάσετε το Aspose.Font για Java;
-
-Το Aspose.Font για Java είναι μια βιβλιοθήκη φόρτωσης και σχεδίασης γραμματοσειρών. Υποστηρίζει πολλαπλές μπροστινές μορφές όπως TrueType (με συλλογές TrueType), CFF, OpenType και Type1. Το API παρέχει πλούσια λειτουργικότητα για τη φόρτωση/αποθήκευση γραμματοσειράς και την παροχή πληροφοριών σχετικά με τις δομές δεδομένων της μαζί με οποιοδήποτε γλυφό που υποστηρίζεται από όλους τους τύπους γραμματοσειρών. Παρέχει επίσης πληροφορίες κωδικοποίησης για όλους τους τύπους γραμματοσειρών που αντιπροσωπεύουν μια αντιστοίχιση μεταξύ κωδικών χαρακτήρων και αναγνωριστικών γλυφών. Το υποσύστημα απόδοσης του βοηθά τους τελικούς χρήστες να αποδώσουν οποιοδήποτε επιθυμητό γλυφό ή κείμενο. Ειδικά γλυφά μπορούν να αποδοθούν με την εφαρμογή διεπαφής χρησιμοποιώντας απλή λειτουργικότητα γραφικών (σημείο κίνησης, γραμμή σχεδίασης, καμπύλη).
-
-## Χαρακτηριστικά API γραμματοσειράς
-
-- Φόρτωση αρχείων γραμματοσειρών από δίσκο καθώς και ροή.
-- Διαβάστε πληροφορίες γραμματοσειράς και αποθηκεύστε τα ενημερωμένα αρχεία γραμματοσειράς στο δίσκο.
-- Υποστήριξη για γραμματοσειρές *`TrueType`* και *`OpenType`*.
-- Φορτώστε τους τύπους γραμματοσειρών «TrueType» από τοπικά αποθηκευμένα αρχεία, ενημερώστε τις παραμέτρους και αποθηκεύστε.
-- Εργαστείτε με γλυφές και μετρήσεις γραμματοσειρών «TrueType».
-- Απόδοση κειμένου χρησιμοποιώντας τη γραμματοσειρά "TrueType" και "Type1".
+-Υποστήριξη για [*`truetype`*και*` opentype`*] (https://docs.aspose.com/font/java/working-with-truetype-and-opentype-fonts/) γραμματοσειρές.
+- Φόρτωση τύπων γραμματοσειρών `truetype` από τοπικά αποθηκευμένα αρχεία, ενημερώστε παραμέτρους και αποθήκευση.
+- Εργαστείτε με glyphs και μετρήσεις των γραμματοσειρών `truetype.
+- Κεφάλαιο, χρησιμοποιώντας τη γραμματοσειρά `truetype` και` type1`.
 - Ανίχνευση λατινικών συμβόλων σε γραμματοσειρές.
-- Φόρτωση και εξαγωγή δεδομένων από τη γραμματοσειρά «Type1» που είναι αποθηκευμένη στον τοπικό δίσκο.
-- Εργαστείτε με γλυφές και μετρήσεις γραμματοσειρών «Type1».
-- Απόδοση κειμένου χρησιμοποιώντας προσαρμοσμένες διεπαφές.
+- Φορτώστε και εξαγάγετε δεδομένα από τη γραμματοσειρά `type1` αποθηκεύονται στον τοπικό δίσκο.
+- Εργαστείτε με glyphs και μετρήσεις των γραμματοσειρών `type1`.
+- Κεφάλαιο, χρησιμοποιώντας προσαρμοσμένες διεπαφές.
 
-Για μια πιο ολοκληρωμένη λίστα λειτουργιών, επισκεφτείτε τη διεύθυνση [Feature Overview](https://docs.aspose.com/font/java/feature-list/).
+Για έναν πιο ολοκληρωμένο κατάλογο χαρακτηριστικών, επισκεφτείτε το [Επισκόπηση χαρακτηριστικών](https://docs.aspose.com/font/java/feature-list/).
 
-### Μορφές γραμματοσειράς ανάγνωσης και εγγραφής
-
+## Διαβάστε και γράψτε μορφές γραμματοσειράς
 TTF
 
-### Διαβάστε τις μορφές γραμματοσειράς
+## Διαβάστε μορφές γραμματοσειράς
+TTC, Opentype, CFF, Type1
 
-TTC, OpenType, CFF, Type1
+## υποστηριζόμενα περιβάλλοντα
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64), Windows Azure
+- ** macos: ** mac os x
+- ** Linux: ** Ubuntu, Centos και άλλοι
+- ** Εκδόσεις Java: ** `J2SE 8.0 (1,8)` ή παραπάνω.
 
-### Υποστηριζόμενα περιβάλλοντα
+## Ξεκίνα
 
-- **Microsoft Windows®:** Windows Desktop & Server (x86, x64), Windows Azure
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, CentOS και άλλα
-- **Εκδόσεις Java: ** `J2SE 8.0 (1.8)` ή νεότερη έκδοση.
+Το ASPOSPER.FONT JAVA API φιλοξενούνται στο [Θέτω σε αποθήκη](https://repository.aspose.com/font/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.font για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/).
 
-{{< Common/hr >}}
+## Ανίχνευση στήριξης των λατινικών συμβόλων στη γραμματοσειρά χρησιμοποιώντας Java
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+```java
+// For complete examples and data files, please go to https://github.com/aspose-font/Aspose.Font-for-Java
+String fileName = Utils.getDataDir() + "Montserrat-Regular.ttf"; //Font file name with full path
 
-{{< Common/hr >}}
+      FontDefinition fd = new FontDefinition(FontType.TTF, new FontFileDefinition("ttf", new FileSystemStreamSource(fileName)));
+      TtfFont ttfFont = (TtfFont) Font.open(fd);
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="font" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+      boolean latinText = true;
 
+
+      for (int code = 65; code < 123; code++)
+      {
+          GlyphId gid = ttfFont.getEncoding().decodeToGid(code);
+          if (gid == null || gid == GlyphUInt32Id.getNotDef())
+          {
+              latinText = false;
+          }
+      }
+
+      if (latinText)
+      {
+          System.out.println(MessageFormat.format("Font {0} supports latin symbols.", ttfFont.getFontName()));
+      }
+      else
+      {
+      	System.out.println(MessageFormat.format("Latin symbols are not supported by font {0}.", ttfFont.getFontName()));
+      }
+```
+
+[Σελίδα προϊόντος](https://products.aspose.com/font/java) | [Έγγραφα](https://docs.aspose.com/font/java/) | [Αναφορά API](https://apireference.aspose.com/font/java) | [Παραδείγματα](https://github.com/aspose-font/Aspose.Font-for-Java) | [Ιστολόγιο](https://blog.aspose.com/category/font/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/font) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)

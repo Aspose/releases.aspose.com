@@ -7,51 +7,51 @@ type: repository
 categories:
   - fundamentals
 keywords:
- - Aspose Total
- - Aspose Font
- - Aspose Java API
- - font java library
- - font java class
- - TTF
- - TTC
- - OpenType
- - CFF
- - Type1
- - postscript
- - scalabale font
- - true type
- - compact font
- - latin font
- - symbols
- - glyphs
- - font rendering
- - render text
- - Windows
- - Linux
- - Mac
- - J2SE
- - Maven
- - font converter
- - font conversion
- - WOFF
- - WOFF2
- - EOT
- - TTF to WOFF
- - TTF to WOFF2
- - WOFF to TTF
- - WOFF to WOFF2
- - WOFF2 to TTF
- - WOFF2 to WOFF
- - EOT to TTF
- - EOT to WOFF
- - EOT to WOFF2
- - Type1 to TFF
- - Type1 to WOFF
- - Type1 to WOFF2
- - CFF to TTF
- - CFF to WOFF
- - CFF to WOFF2
- - load font
+- Aspose Total
+- Aspose Font
+- Aspose Java API
+- font java library
+- font java class
+- TTF
+- TTC
+- OpenType
+- CFF
+- Type1
+- postscript
+- scalabale font
+- true type
+- compact font
+- latin font
+- symbols
+- glyphs
+- font rendering
+- render text
+- Windows
+- Linux
+- Mac
+- J2SE
+- Maven
+- font converter
+- font conversion
+- WOFF
+- WOFF2
+- EOT
+- TTF to WOFF
+- TTF to WOFF2
+- WOFF to TTF
+- WOFF to WOFF2
+- WOFF2 to TTF
+- WOFF2 to WOFF
+- EOT to TTF
+- EOT to WOFF
+- EOT to WOFF2
+- Type1 to TFF
+- Type1 to WOFF
+- Type1 to WOFF2
+- CFF to TTF
+- CFF to WOFF
+- CFF to WOFF2
+- load font
 family_listing_page_title: "Aspose.Font for Java"
 family_listing_page_description: "Aspose.Font for Java is flexible and easy to use library to work with different font files. API supports multiple font formats like TrueType CFF, OpenType, and Type1."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-java.png"
@@ -90,7 +90,7 @@ packages_refs:
 
 - [Load font files from disc](https://docs.aspose.com/font/java/loading-saving-cff-fonts/) as well as stream.
 - Read font information and save updated font files to disc.
-- Support for [*`TrueType`* and *`OpenType`*](https://docs.aspose.com/font/java/working-with-truetype-and-opentype-fonts/) Fonts.
+- Support for  [*`TrueType`* and *`OpenType`*](https://docs.aspose.com/font/java/working-with-truetype-and-opentype-fonts/) Fonts.
 - Load `TrueType` Font types from locally stored files, update parameters and save.
 - Work with Glyphs and Metrics of `TrueType` Fonts.
 - Render text using `TrueType` and `Type1` font.

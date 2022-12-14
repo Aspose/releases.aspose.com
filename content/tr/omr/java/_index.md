@@ -1,9 +1,42 @@
 ---
-title: "Görüntülerden Veri Ayıklamak için JAR Dosyalarını İndirin | Aspose.OMR"
-description: "Optik işaret tanıma (OMR) JAR dosyalarını indirin. Yerinde Java API aracılığıyla sayısallaştırılmış veya taranmış görüntüler, fotoğraflar, anketler ve sınavlardan işaretleri tanıyın ve çıkarın."
-keywords: "OMR Java Library"
-family_listing_page_title: "Java için Aspose.OMR"
-family_listing_page_description: "Aspose.OMR for Java, OMR sayısallaştırılmış sayfa görüntülerinden optik işaretleri tanıyan bir API'dir. BMP, JPG, TIF, TIFF, GIF gibi çeşitli görüntü formatlarındaki optik işaretleri tanımak için kullanılabilir. API, anketler, anketler, çoktan seçmeli sınav kağıtları ve diğer testler gibi belge formlarından insan tarafından işaretlenmiş verilerin yakalanmasına izin verir."
+title: "Aspose.omr | Dijital İşaretler Çıkarma için Java Sınıf Kütüphanesi" 
+linktitle: Aspose.OMR
+description: "Optik İşaret Tanıma için Java Sınıf Kütüphanesi (OMR). Sayısallaştırılmış veya taranan görüntülerden, fotoğraflardan, anketlerden, sınavlardan ve anketlerden işaretleri tanıyın ve çıkarın." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose OMR
+- Aspose Java API
+- omr java library
+- omr java class
+- JPEG
+- PNG
+- GIF
+- TIFF
+- BMP
+- CSV
+- JSON
+- XML
+- image recognition
+- image perspective
+- test
+- exam
+- questionnaire
+- survey
+- J2SE
+- Windows
+- Linux
+- Mac
+- Azure
+- Maven
+- optical mark recognition
+- extract marks
+- marks extraction
+family_listing_page_title: "Java için aspose.omr" 
+family_listing_page_description: "Java için aspose.omr, OMR sayısallaştırılmış sayfa görüntülerinden optik işaretleri tanımak için bir API'dır. BMP, JPG, TIF, TIFF, GIF gibi çeşitli görüntü formatlarında optik işaretleri tanımak için kullanılabilir. API, anketler, anketler, çoktan seçmeli sınav kağıtları ve diğer testler gibi belge formlarından insan işaretli verilerin yakalanmasına izin verir." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,83 +44,81 @@ family_listing_page_venture: "4"
 family_listing_page_package: "192"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-omr/"
-tags: ['SVG-to-HTML5', 'CMX-to-PNG', 'DjVu-to-TIFF', 'DjVu-to-PDF', 'DNG-to-JPEG', 'image-to-PSD', 'PSD-to-JPG', 'image-to-PSD', 'WMF-to-PNG']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/omr/38
+productLink: https://products.aspose.com/omr/java/
+dataFolder: aspose_omr
+packages_refs:
+- "19-12"
+- "2-3-0"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/omr" linktext=" Support Forum " >}}
+# Java API OMR yapmak için
+[![banner](./aspose_omr-for-java-banner.png)](./)
 
-{{< Common/h2 text="İnsan İşaretli Verileri Çıkarmak için Aspose.OMR'yi İndirin"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose, tüm Java API'lerini şu adreste barındırır:
-{{< Common/link href="https://repository.aspose.com" text="Aspose Deposu"  >}}. kolayca kullanabilirsiniz
-{{< Common/link href="https://repository.aspose.com/omr/" text="Java API için Aspose.OMR"  >}}pom.xml'inize aşağıdaki konfigürasyonları ekleyerek doğrudan Maven tabanlı projelerinizde. Ayrıntılı talimatlar için lütfen ziyaret edin
-{{< Common/link href="https://docs.aspose.com/omr/java/installation/" text="Aspose.OMR for Java'yı Maven Deposundan Kurmak"  >}}dokümantasyon sayfası.
-{{< Common/release-notes-link family="omr" product="java" href="https://docs.aspose.com/omr/java/release-notes/" text="https://docs.aspose.com/omr/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Ev](https://www.aspose.com/) | [Ürün sayfası](https://products.aspose.com/omr/java) | [Belgeler](https://docs.aspose.com/omr/java/) | [Demolar](https://products.aspose.app/omr/family) | [API referansı](https://apireference.aspose.com/omr/java) | [Örnekler](https://github.com/aspose-omr/Aspose.OMR-for-Java) | [Blog](https://blog.aspose.com/category/omr/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/omr) | [Geçici lisans](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.OMR for Java](https://products.aspose.com/omr/java), OMR sayısallaştırılmış sayfa görüntülerinden optik işaretleri tanımak için API sağlayan bir Java sınıfı kütüphanesidir. BMP, JPG, TIF, TIFF, GIF gibi çeşitli görüntü formatlarında optik işaretleri tanımak için kullanılabilir. API, anketler, anketler, çoktan seçmeli sınav kağıtları ve diğer testler gibi belge formlarından insan işaretli verilerin yakalanmasına izin verir. Bu çözümle, taranan görüntüleri ve hatta yüksek doğrulukla fotoğrafları tanımak mümkündür. Tanıma, taranan görüntülerden tanınacak öğelerin grafiksel bir eşlemesini içeren bir şablon işaretlemesine dayanır.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-omr</artifactId>
-      <version>19.12</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+## OMR API özellikleri
+- Taranmış görüntülerin ve fotoğrafların tanınması.
+- döndürülmüş ve perspektifi işleme yeteneği (yan görüntülenir) görüntüler.
+- Testler, sınavlar, anketler, anketler vb. Verileri tanıyın.
+- Yüksek doğruluk oranı ve sonuçları `csv` ve` json 'dosya biçiminde dışa aktarma yeteneği.
 
-{{KÖPRÜ1}} | {{KÖPRÜ2}} | {{KÖPRÜ3}} | {{KÖPRÜ4}} | {{KÖPRÜ5}} | {{KÖPRÜ6}} | {{KÖPRÜ7}} | {{KÖPRÜ8}} | {{KÖPRÜ9}} | {{KÖPRÜ10}} | {{KÖPRÜ11}}
+- [OMR şablonları oluşturun](https://docs.aspose.com/omr/java/create-omr-template/) metin işaretlemesinden.
 
-## Neden Aspose.OMR for Java'yı indirmelisiniz?
-
-Aspose.OMR for Java, OMR sayısallaştırılmış sayfa görüntülerinden optik işaretleri tanımak için API sağlayan bir Java sınıfı kitaplığıdır. BMP, JPG, TIF, TIFF, GIF gibi çeşitli görüntü formatlarındaki optik işaretleri tanımak için kullanılabilir. API, anketler, anketler, çoktan seçmeli sınav kağıtları ve diğer testler gibi belge formlarından insan tarafından işaretlenmiş verilerin yakalanmasına izin verir. Bu çözüm ile taranan görüntüleri ve hatta fotoğrafları yüksek doğrulukla tanımak mümkündür. Tanıma, taranan görüntülerden tanınacak öğelerin grafiksel bir haritasını içeren bir şablon işaretlemesine dayanır.
-
-## OMR API Özellikleri
-
-- Taranan resimlerin ve fotoğrafların tanınması.
-- Döndürülmüş ve perspektif (yan görünüm) görüntüleri işleyebilme.
-- Testler, sınavlar, anketler, anketler vb.
-- Yüksek doğruluk oranı ve sonuçları "CSV" ve "JSON" dosya formatında dışa aktarma yeteneği.
-- Metin işaretlemesinden OMR şablonları oluşturun.
-
-### OMR Sonuçlarını Farklı Kaydet
-
+## OMR sonuçlarını kaydedin
 CSV, JSON
 
-### OMR için Görselleri Okuyun
-
+## OMR için resimleri okuyun
 JPEG, PNG, GIF, TIFF, BMP
 
-### Desteklenen Ortamlar
+## Desteklenen Ortamlar
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** MacOS: ** Mac OS X
+- ** linux: ** ubuntu, opense, centos ve diğerleri
+- ** Java Sürümleri: ** `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)` veya üstü
 
-- **Microsoft Windows®:** Windows Masaüstü ve Sunucu (x86, x64)
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, OpenSUSE, CentOS ve diğerleri
-- **Java Sürümleri:** `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)` veya üzeri
+## Başlamak
 
-{{< Common/hr >}}
+Aspose.OMR Java API'leri [Aspose deposu](https://repository.aspose.com/omr/)'da barındırılır. Java API için aspose.omr'ı doğrudan Maven projelerinizde basit konfigürasyonlarla kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.OMR for Java from Maven Repository](https://docs.aspose.com/omr/java/installation/) belge sayfasını ziyaret edin.
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+## Java kullanarak resimlerde OMR işlemi gerçekleştirin
 
-{{< Common/hr >}}
+```java
+// For complete examples and data files, please go to https://github.com/aspose-omr/Aspose.OMR-for-Java
+String TemplateName = "Sheet.omr";
+String[] UserImages = new String[] { "Sheet1.jpg", "Sheet2.jpg" };
+String[] UserImagesNoExt = new String[] { "Sheet1", "Sheet2" };
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="omr" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+String sourceDirectory = Utils.getSourceDirectory();
+String outputDirectory = Utils.combine(Utils.getOutputDirectory(), "Result");
+String templatePath = Utils.combine(Utils.getSourceDirectory(), TemplateName);
 
+// initialize engine and get template processor providing path to the .omr file
+OmrEngine engine = new OmrEngine();
+TemplateProcessor templateProcessor = engine.getTemplateProcessor(templatePath);
+System.out.println("Template loaded.");
+
+// images loop
+for (int i = 0; i < UserImages.length; i++) {
+    // path to the image to be recognized
+    String imagePath = Utils.combine(sourceDirectory, UserImages[i]);
+    System.out.println("Processing image: " + imagePath);
+
+    // recognize image and receive result
+    RecognitionResult result = templateProcessor.recognizeImage(imagePath);
+
+    // export results as csv string
+    String csvResult = result.getCsv();
+
+    String json = result.getJson();
+
+    // save csv to the output folder
+    PrintWriter wr = new PrintWriter(new FileOutputStream(Utils.combine(outputDirectory, UserImagesNoExt[i] + ".csv")), true);
+    wr.println(csvResult);
+}
+```
+
+[Ev](https://www.aspose.com/) | [Ürün sayfası](https://products.aspose.com/omr/java) | [Belgeler](https://docs.aspose.com/omr/java/) | [Demolar](https://products.aspose.app/omr/family) | [API referansı](https://apireference.aspose.com/omr/java) | [Örnekler](https://github.com/aspose-omr/Aspose.OMR-for-Java) | [Blog](https://blog.aspose.com/category/omr/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/omr) | [Geçici lisans](https://purchase.aspose.com/temporary-license)

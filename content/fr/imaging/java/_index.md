@@ -1,9 +1,88 @@
 ---
-title: "Télécharger les fichiers JAR de traitement de dessin d'image | Aspose.Imaging"
-description: "Téléchargez les fichiers JAR de traitement, de manipulation et de conversion d'images. Prend en charge le masquage, les filtres, le redressement, la transformation matricielle, les formes, le tramage et les vecteurs."
-keywords: "Java Imaging Library"
-family_listing_page_title: "Aspose.Imaging pour Java"
-family_listing_page_description: "Aspose.Imaging for Java est une API d'imagerie hautes performances et bien documentée qui fournit le groupe le plus flexible de routines de traitement d'images permettant aux développeurs de créer, manipuler, enregistrer et convertir des images dans leurs applications Java, sans avoir besoin d'un éditeur d'images. ."
+title: "Aspose.imaging | Traiter et convertir des images via la bibliothèque Java" 
+linktitle: Aspose.Imaging
+description: "Bibliothèque de classe Java pour le traitement, la manipulation et la conversion de l'image. Prend en charge le masquage, les filtres, le deskew, la transformation de la matrice, les formes, le tramage et les vecteurs." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Imaging
+- Aspose Java API
+- image java library
+- image java class
+- Maven
+- BMP
+- GIF
+- DICOM
+- DJVU
+- DNG
+- EMF
+- JPEG
+- JPEG2000
+- ODG
+- PNG
+- APNG
+- PSD
+- DXF
+- SVG
+- TIFF
+- DIB
+- EPS
+- WEBP
+- WMF
+- CDR
+- CMX
+- OTG
+- PDF
+- HTML5
+- EMZ
+- WMZ
+- TGA
+- SVGZ
+- canvas
+- Windows
+- Linux
+- Mac
+- JPG to TGA
+- PNG to TGA
+- HTML5
+- SVG to HTML5
+- CorelDRAW
+- CMX to PNG
+- binarization
+- dithering
+- DjVu to TIFF
+- DjVu to PDF
+- image processing
+- multithreading
+- optimization
+- DNG to JPEG
+- FODG
+- JPEG LS
+- CMYK
+- YCK
+- EXIF
+- image to PSD
+- color replacement
+- raster image
+- flat psd
+- PSD to JPG
+- Alpha
+- Subscript
+- smallcap
+- gradient
+- transparency
+- WebP
+- Bezier
+- Polygon
+- vector
+- multipage image
+- image to PSD
+- WMF to PNG
+family_listing_page_title: "Aspose.imaging pour Java" 
+family_listing_page_description: "ASPOSE.I-IMAGIER POUR Java est une API d'imagerie haute performance et bien documentée qui fournit le groupe le plus flexible de routines de traitement d'images pour que les développeurs puissent créer, manipuler, enregistrer et convertir des images dans leurs applications Java, sans avoir besoin d'un éditeur d'image ." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,101 +90,141 @@ family_listing_page_venture: "4"
 family_listing_page_package: "23"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-imaging/"
-tags: ['JPG-to-TGA', 'PNG-to-TGA', 'SVG-to-HTML5', 'DjVu-to-TIFF', 'DjVu-to-PDF', 'DNG-to-JPEG', 'image-to-PSD', 'PSD-to-JPG', 'image-to-PSD', 'WMF-to-PNG']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/imaging/14
+productLink: https://products.aspose.com/imaging/java/
+dataFolder: aspose_imaging
+packages_refs:
+- "22-12"
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "16-10"
+- "16-12"
+- "17-01"
+- "17-03"
+- "17-11"
+- "17-12"
+- "17-4"
+- "17-6"
+- "17-7"
+- "17-9"
+- "18-11"
+- "18-2"
+- "18-3"
+- "18-4"
+- "18-6"
+- "18-7"
+- "18-8"
+- "18-9"
+- "19-1"
+- "19-10"
+- "19-11"
+- "19-12"
+- "19-2"
+- "19-3"
+- "19-4"
+- "19-6"
+- "19-7"
+- "19-9"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-2"
+- "20-3"
+- "20-4"
+- "20-5"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
+- "3-3"
+- "3-4"
+- "3-5"
+- "3-6"
+- "3-6-0"
+- "3-7-0"
+- "3-8-0"
+- "3-8-1"
+- "3-9-0"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/imaging" linktext=" Support Forum " >}}
+# API Java pour le traitement d'image
+[![banner](./aspose_imaging-for-java-banner.png)](./)
 
-{{< Common/h3 text="Téléchargez Aspose.Imaging Java JAR pour traiter les images raster et vectorielles"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose héberge toutes les API Java au
-{{< Common/link href="https://repository.aspose.com" text="Référentiel Aspose"  >}}. Vous pouvez facilement utiliser le
-{{< Common/link href="https://repository.aspose.com/imaging/" text="API Aspose.Imaging pour Java"  >}}directement dans vos projets basés sur Maven en ajoutant les configurations suivantes à votre pom.xml. Pour les instructions détaillées, veuillez visiter
-{{< Common/link href="https://docs.aspose.com/imaging/java/installation/" text="Installation d'Aspose.Imaging pour Java à partir du référentiel Maven"  >}}page documentaire.
-{{< Common/release-notes-link family="imaging" product="java" href="https://docs.aspose.com/imaging/java/release-notes/" text="https://docs.aspose.com/imaging/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Page de produit](https://products.aspose.com/imaging/java) | [Docs](https://docs.aspose.com/imaging/java/) | [Démos](https://products.aspose.app/imaging/family) | [Référence de l'API](https://apireference.aspose.com/imaging/java) | [Exemples](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [Blog](https://blog.aspose.com/category/imaging/) | [Chercher](https://search.aspose.com/) | [Support gratuit](https://forum.aspose.com/c/imaging) | [Licence temporaire](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+Il s'agit d'un [API d'imagerie](https://products.aspose.com/imaging/java) autonome composé de routines Java qui permettent à vos applications Java de dessiner et d'effectuer un traitement de base au niveau avancé des images raster et vectorielles.
+ASPOSE.I-IMAGIER POUR Java offre une compression d'image robuste et une vitesse de traitement élevée grâce à un accès d'octets natifs et une gamme d'algorithmes efficaces. Non seulement il manipule, exporte et convertit les images, mais vous permet également de dessiner dynamiquement des objets en utilisant la manipulation de pixels et le chemin graphique.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-imaging</artifactId>
-      <version>22.7</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
-
-[Product Page](https://products.aspose.com/imaging/java) | [Docs](https://docs.aspose.com/imaging/java/) | [Demos](https://products.aspose.app/imaging/family) | [API Reference](https://reference.aspose.com/imaging/java) | [Examples](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [Blog](https://blog.aspose.com/category/imaging/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/imaging) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-Il s'agit d'une API d'imagerie autonome composée de routines Java qui permettent à vos applications Java de dessiner et d'effectuer un traitement de niveau basique à avancé des images raster et vectorielles.
-
-## Pourquoi télécharger Aspose.Imaging pour Java ?
-
-Aspose.Imaging pour Java offre une compression d'image robuste et une vitesse de traitement élevée grâce à un accès natif aux octets et à une gamme d'algorithmes efficaces. Non seulement il manipule, exporte et convertit des images, mais il vous permet également de dessiner dynamiquement des objets à l'aide de la manipulation de pixels et du chemin graphique.
-
-## Fonctionnalités de l'API d'imagerie
-
+## API d'imagerie Fonctions
 - Dessinez des images raster avec des graphiques.
-- Dessinez des images vectorielles.
-- Conversion d'images en différents formats.
-- Appliquez le masquage ainsi que les filtres médian et Wiener.
-- Recadrer, faire pivoter et redimensionner les images via l'API.
-- De-skew & transformer les images.
+- dessiner des images vectorielles.
+- Convertir des images en différents formats.
+
+- [Appliquer le masquage](https://docs.aspose.com/imaging/java/applying-masking-to-images/) ainsi que [Median & Wiener](https://docs.aspose.com/imaging/java/applying-median-and-wiener-filters/) filtres.
+- Cramez, tournez et redimensionnez les images via l'API.
+- De-Skew & Transformer des images.
 - Définir les propriétés de l'image.
 
-### Formats d'image en lecture et en écriture
+## lire et écrire des formats d'image
+** Formats raster: ** jpeg2000, jpeg, bmp, tiff, gif, png, apng \
+** Metafiles: ** EMF, EMZ, WMF, WMZ \
+** Autre: ** SVG, SVGZ, DICOM
 
-**Formats raster :** JPEG2000, JPEG, BMP, TIFF, GIF, PNG, APNG\
-**Métafichiers :** EMF, EMZ, WMF, WMZ\
-**Autre :** SVG, SVGZ, DICOM
+## Enregistrer les images sous
+** Correction: ** PDF \
+** Photoshop: ** PSD \
+** Marquage: ** toile HTML5
 
-### Enregistrer les images sous
+## lire les formats d'image
+** Divers: ** DJVU, DNG, ODG, CMX, CDR, DIB, OTG, FODG, EPS (Raster Preview Only), WebP
 
-**Fixé :** PDF\
-**Photoshop :** PSD\
-**Marquage :** Toile HTML5
+## Systèmes d'exploitation pris en charge
+Aspose.imagerie pour Java peut être pratiquement exécuté dans n'importe quel système d'exploitation où Java est installé (depuis JDK 1.6)
+- Windows (since 7)
+- Linux
+- MacOS
+- tout système d'exploitation où Java est installé.
+ASPOSE.IMAGIER fonctionne pour les versions x86 et x64 des systèmes d'exploitation répertoriés ci-dessus.
+** Remarque: ** Dans Linux OS, il est recommandé d'installer le package avec des polices compatibles Microsoft (par exemple `sudo apt-get install ttf-mscorefonts-installer`).
 
-### Lire les formats d'image
+## Commencer
 
-**Divers :** DjVu, DNG, ODG, CMX, CDR, DIB, OTG, FODG, EPS (aperçu raster uniquement), WEBP
+Les API Java ASPOSE.IMAGING sont hébergées au [Référentiel](https://repository.aspose.com/imaging/). Vous pouvez facilement utiliser ASPOSE.IMAGIER pour l'API Java directement dans vos projets Maven avec des configurations simples. Pour les instructions détaillées, veuillez visiter la page de documentation [Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/).
 
-### Systèmes d'exploitation pris en charge
+## Image EMF de recadrage par rectangle
 
-Aspose.Imaging pour Java peut être exécuté virtuellement dans n'importe quel système d'exploitation sur lequel Java est installé (depuis JDK 1.6)
+```java
+try (MetafileImage metaImage = (MetafileImage) Image.load(dataDir + "Picture1.emf"))
+{
+	// create an instance of Rectangle class with desired size
+	Rectangle rectangle = new Rectangle(10, 10, 100, 100);
 
-- Windows (depuis 7)
--Linux
-- Mac OS
-- Tout système d'exploitation sur lequel Java est installé.
+	// perform the crop operation on object of Rectangle class
+	metaImage.crop(rectangle);
 
-Aspose.Imaging fonctionne pour les versions x86 et x64 des systèmes d'exploitation répertoriés ci-dessus.
+	// save the result in PNG format
+	metaImage.save(dataDir + "CropbyRectangle_out.png", new PngOptions());
+}
+```
 
-**Remarque :** Sous Linux, il est recommandé d'installer le package avec des polices compatibles Microsoft (par exemple, `sudo apt-get install ttf-mscorefonts-installer`).
-
-{{< Common/hr >}}
-
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
-
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="imaging" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[Page de produit](https://products.aspose.com/imaging/java) | [Docs](https://docs.aspose.com/imaging/java/) | [Démos](https://products.aspose.app/imaging/family) | [Référence de l'API](https://apireference.aspose.com/imaging/java) | [Exemples](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [Blog](https://blog.aspose.com/category/imaging/) | [Chercher](https://search.aspose.com/) | [Support gratuit](https://forum.aspose.com/c/imaging) | [Licence temporaire](https://purchase.aspose.com/temporary-license)

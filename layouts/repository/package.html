@@ -33,8 +33,12 @@
                               <div class="package-title">
                                  <h1>
                                     <span class="pull-left">
-                                    <img class="package-icon img-responsive" aria-hidden="true" alt="{{ $p.Parent.LinkTitle }}"
-                                        src="/res_repo/img/aspose{{ lower (replace (replace  $t.Parent.RelPermalink "/" "_") "_java_" "-for-java") }}.png" />
+                                    <!--<img class="package-icon img-responsive" aria-hidden="true" alt="{{ $p.Parent.LinkTitle }}"
+                                        src="/res_repo/img/aspose{{ lower (replace (replace  $t.Parent.RelPermalink "/" "_") "_java_" "-for-java") }}.png" />-->
+                                     <!-- @am modified fix path for multilingual -->
+                                     <img class="package-icon img-responsive" aria-hidden="true" alt="{{ $p.Parent.LinkTitle }}"
+                                     src="/res_repo/img/aspose_{{ lower ($t.Parent.Section) }}-for-java.png" />
+                                      <!-- /@am modified fix path for multilingual -->   
                                     </span>
                                     <span class="title" tabindex="0">
                                     <a href="{{ $p.Parent.RelPermalink }}" title="{{$p.Parent.LinkTitle}}">

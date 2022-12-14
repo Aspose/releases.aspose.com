@@ -1,9 +1,59 @@
 ---
-title: "下载字体绘图和处理 JAR 文件 | Aspose.字体"
-description: "将 Java 类下载为 JAR 以呈现、处理和转换字体（TTF、TTC、OpenType、CFF、Type1 等）。支持紧凑字体、拉丁字体、符号和字形。"
-keywords: "font"
-family_listing_page_title: "Aspose.Font for Java"
-family_listing_page_description: "Aspose.Font for Java 是一个灵活且易于使用的库来处理不同的字体文件。 API 支持多种字体格式，如 TrueType CFF、OpenType 和 Type1。"
+title: "aspose.font | Java字体处理API | TT，CFF，OT，Type1" 
+linktitle: Aspose.Font
+description: "字体的Java类库（TTF，TTC，Opentype，CFF，Type1等）渲染，处理和转换。支持紧凑的字体，拉丁字体，符号和字形。" 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Font
+- Aspose Java API
+- font java library
+- font java class
+- TTF
+- TTC
+- OpenType
+- CFF
+- Type1
+- postscript
+- scalabale font
+- true type
+- compact font
+- latin font
+- symbols
+- glyphs
+- font rendering
+- render text
+- Windows
+- Linux
+- Mac
+- J2SE
+- Maven
+- font converter
+- font conversion
+- WOFF
+- WOFF2
+- EOT
+- TTF to WOFF
+- TTF to WOFF2
+- WOFF to TTF
+- WOFF to WOFF2
+- WOFF2 to TTF
+- WOFF2 to WOFF
+- EOT to TTF
+- EOT to WOFF
+- EOT to WOFF2
+- Type1 to TFF
+- Type1 to WOFF
+- Type1 to WOFF2
+- CFF to TTF
+- CFF to WOFF
+- CFF to WOFF2
+- load font
+family_listing_page_title: "aspose.font for Java" 
+family_listing_page_description: "Java的Aspose.font具有灵活性且易于使用的库来处理不同的字体文件。 API支持多种字体格式，例如TrueType CFF，Opentype和Type1。" 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,89 +61,91 @@ family_listing_page_venture: "4"
 family_listing_page_package: "268"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-font/"
-tags: ['TTF-to-WOFF', 'TTF-to-WOFF2', 'WOFF-to-TTF', 'WOFF-to-WOFF2', 'WOFF2-to-TTF', '', 'WOFF2-to-WOFF', 'EOT-to-TTF', 'EOT-to-WOFF', 'EOT-to-WOFF2', 'Type1-to-TFF', 'Type1-to-WOFF', 'Type1-to-WOFF2', 'CFF-to-TTF', 'CFF-to-WOFF', 'CFF-to-WOFF2']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/font/41
+productLink: https://products.aspose.com/font/java/
+dataFolder: aspose_font
+packages_refs:
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-7"
+- "22-6"
+- "20-10"
+- "21-10"
+- "21-12"
+- "21-4"
+- "21-8"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/font" linktext=" Support Forum " >}}
+# 各种字体格式的Java API
+[![banner](./aspose_font-for-java-banner.png)](./)
 
-{{< Common/h2 text="下载 Aspose.Font 以绘制和使用字体"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose 将所有 Java API 托管在
-{{< Common/link href="https://repository.aspose.com" text="假设存储库"  >}}.通过向 pom.xml 添加以下配置，您可以直接在基于 Maven 的项目中轻松使用 Aspose.Font for Java API。有关详细说明，请访问
-{{< Common/link href="https://docs.aspose.com/font/java/installation/" text="从 Maven 存储库安装 Aspose.Font for Java"  >}}文档页面。
-{{< Common/release-notes-link family="font" product="java" href="https://docs.aspose.com/font/java/release-notes/" text="https://docs.aspose.com/font/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[产品页面](https://products.aspose.com/font/java) | [文档](https://docs.aspose.com/font/java/) | [API参考](https://apireference.aspose.com/font/java) | [例子](https://github.com/aspose-font/Aspose.Font-for-Java) | [博客](https://blog.aspose.com/category/font/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/font) | [临时许可](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.Font for Java](https://products.aspose.com/font/java)是字体加载和绘图库。它支持多种前面格式，例如TrueType（带有TrueType Collectons），CFF，Opentype和Type1。 API提供了丰富的功能来加载/保存字体，并提供有关其数据结构的信息以及所有字体类型支持的任何字形。它还为所有代表字符代码和字形标识符之间的映射的字体类型提供编码信息。它的渲染子系统有助于最终用户渲染任何所需的字形或文字。可以通过使用简单的图形功能（移动点，绘制线，曲线）实现接口来渲染特殊的字形。
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-font</artifactId>
-      <version>22.6</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+## 字体API功能
 
-[Product Page](https://products.aspose.com/font/java) | [Docs](https://docs.aspose.com/font/java/) | [API Reference](https://apireference.aspose.com/font/java) | [Examples](https://github.com/aspose-font/Aspose.Font-for-Java) | [Blog](https://blog.aspose.com/category/font/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/font) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+-[从光盘加载字体文件](https://docs.aspose.com/font/java/loading-saving-cff-fonts/)以及流。
+ - 读取字体信息，并将更新的字体文件保存到光盘。
 
-## 为什么要下载 Aspose.Font for Java？
+ - 支持 [*`TrueType`* and *`OpenType`*]（https://docs.aspose.com/font/java/working-with-with-truetype-andype-and-popentype-fonts/）字体。
+ - 从本地存储的文件中加载`trueType`字体类型，更新参数并保存。
+ - 使用“ TrueType”字体的字形和指标。
+ - 使用`TrueType` and `Type1`字体渲染文本。
+ - 检测字体中的拉丁符号。
+ - 从存储在本地光盘上的`type1`字体中加载并提取数据。
+ - 使用`type1`字体的字形和指标。
+ - 使用自定义接口渲染文本。
 
-Aspose.Font for Java 是一个字体加载和绘图库。它支持多种前端格式，如TrueType（带有TrueType 集合）、CFF、OpenType 和Type1。 API 提供了丰富的功能来加载/保存字体，并提供有关其数据结构的信息以及所有字体类型支持的任何字形。它还为所有字体类型提供编码信息，表示字符代码和字形标识符之间的映射。它的渲染子系统可帮助最终用户渲染任何所需的字形或文本。可以通过使用简单的图形功能（移动点、画线、曲线）实现接口来渲染特殊字形。
+有关功能的更全面列表，请访问[功能概述](https://docs.aspose.com/font/java/feature-list/)。
 
-## 字体 API 功能
-
-- 从光盘和流中加载字体文件。
-- 读取字体信息并将更新的字体文件保存到光盘。
-- 支持 *`TrueType`* 和 *`OpenType`* 字体。
-- 从本地存储的文件中加载“TrueType”字体类型，更新参数并保存。
-- 使用“TrueType”字体的字形和度量。
-- 使用 `TrueType` 和 `Type1` 字体渲染文本。
-- 检测字体中的拉丁符号。
-- 从存储在本地磁盘的“Type1”字体加载和提取数据。
-- 使用“Type1”字体的字形和度量。
-- 使用自定义界面呈现文本。
-
-如需更全面的功能列表，请访问 [Feature Overview](https://docs.aspose.com/font/java/feature-list/)。
-
-### 读写字体格式
-
+## 读写字体格式
 TTF
 
-### 读取字体格式
+## 阅读字体格式
+ttc，opentype，cff，type1
 
-TTC、OpenType、CFF、Type1
+## 支持环境
+ -  ** Microsoft Windows：** Windows Desktop＆Server（X86，X64），Windows Azure
+ -  ** macOS：** Mac OS X
+ -  ** linux：** ubuntu，centos等
+ -  ** Java版本：**``J2SE 8.0（1.8）或更高版本。
 
-### 支持的环境
+## 开始
 
-- **Microsoft Windows®：** Windows 桌面和服务器（x86、x64）、Windows Azure
-- **macOS：** Mac OS X
-- **Linux：** Ubuntu、CentOS 等
-- **Java 版本：** `J2SE 8.0 (1.8)` 或更高版本。
+Aspose.font Java API托管在[Aspose存储库](https://repository.aspose.com/font/)。您可以在Maven项目中轻松地使用Aspose.font将其用于Java API，并具有简单的配置。有关详细说明，请访问[Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/)文档页面。
 
-{{< Common/hr >}}
+## 使用Java检测字体中的拉丁符号支持
 
-{{< Tags/TagsWrapper>}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+```java
+// For complete examples and data files, please go to https://github.com/aspose-font/Aspose.Font-for-Java
+String fileName = Utils.getDataDir() + "Montserrat-Regular.ttf"; //Font file name with full path
 
-{{< Common/hr >}}
+      FontDefinition fd = new FontDefinition(FontType.TTF, new FontFileDefinition("ttf", new FileSystemStreamSource(fileName)));
+      TtfFont ttfFont = (TtfFont) Font.open(fd);
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="font" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+      boolean latinText = true;
 
+
+      for (int code = 65; code < 123; code++)
+      {
+          GlyphId gid = ttfFont.getEncoding().decodeToGid(code);
+          if (gid == null || gid == GlyphUInt32Id.getNotDef())
+          {
+              latinText = false;
+          }
+      }
+
+      if (latinText)
+      {
+          System.out.println(MessageFormat.format("Font {0} supports latin symbols.", ttfFont.getFontName()));
+      }
+      else
+      {
+      	System.out.println(MessageFormat.format("Latin symbols are not supported by font {0}.", ttfFont.getFontName()));
+      }
+```
+
+[产品页面](https://products.aspose.com/font/java) | [文档](https://docs.aspose.com/font/java/) | [API参考](https://apireference.aspose.com/font/java) | [例子](https://github.com/aspose-font/Aspose.Font-for-Java) | [博客](https://blog.aspose.com/category/font/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/font) | [临时许可](https://purchase.aspose.com/temporary-license)

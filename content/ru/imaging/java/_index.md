@@ -1,9 +1,88 @@
 ---
-title: "Загрузить Файлы JAR для обработки рисунков изображений | Aspose.Imaging"
-description: "Загрузите JAR-файлы обработки, обработки и преобразования изображений. Поддерживает маскирование, фильтры, выравнивание, матричное преобразование, формы, сглаживание и векторы."
-keywords: "Java Imaging Library"
-family_listing_page_title: "Aspose.Imaging для Java"
-family_listing_page_description: "Aspose.Imaging for Java — это высокопроизводительный и хорошо документированный API обработки изображений, который предоставляет разработчикам наиболее гибкую группу процедур обработки изображений для создания, обработки, сохранения и преобразования изображений в своих приложениях Java без необходимости использования редактора изображений. ."
+title: "Aspose.imaging | Процесс и преобразование изображений через библиотеку Java" 
+linktitle: Aspose.Imaging
+description: "Библиотека классов Java для обработки изображений, манипуляций и преобразования. Поддерживает маскировку, фильтры, деспев, матричное преобразование, формы, рассеяние и векторы." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Imaging
+- Aspose Java API
+- image java library
+- image java class
+- Maven
+- BMP
+- GIF
+- DICOM
+- DJVU
+- DNG
+- EMF
+- JPEG
+- JPEG2000
+- ODG
+- PNG
+- APNG
+- PSD
+- DXF
+- SVG
+- TIFF
+- DIB
+- EPS
+- WEBP
+- WMF
+- CDR
+- CMX
+- OTG
+- PDF
+- HTML5
+- EMZ
+- WMZ
+- TGA
+- SVGZ
+- canvas
+- Windows
+- Linux
+- Mac
+- JPG to TGA
+- PNG to TGA
+- HTML5
+- SVG to HTML5
+- CorelDRAW
+- CMX to PNG
+- binarization
+- dithering
+- DjVu to TIFF
+- DjVu to PDF
+- image processing
+- multithreading
+- optimization
+- DNG to JPEG
+- FODG
+- JPEG LS
+- CMYK
+- YCK
+- EXIF
+- image to PSD
+- color replacement
+- raster image
+- flat psd
+- PSD to JPG
+- Alpha
+- Subscript
+- smallcap
+- gradient
+- transparency
+- WebP
+- Bezier
+- Polygon
+- vector
+- multipage image
+- image to PSD
+- WMF to PNG
+family_listing_page_title: "Применить. Иметь для Java" 
+family_listing_page_description: "Aspose.imaging for Java-это высокопроизводительный и хорошо документированный API визуализации, который предоставляет наиболее гибкую группу процедур обработки изображений для создания, манипулирования, сохранения и конвертации изображений в своих приложениях Java без необходимости редактора изображений. Анкет" 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,101 +90,141 @@ family_listing_page_venture: "4"
 family_listing_page_package: "23"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-imaging/"
-tags: ['JPG-to-TGA', 'PNG-to-TGA', 'SVG-to-HTML5', 'DjVu-to-TIFF', 'DjVu-to-PDF', 'DNG-to-JPEG', 'image-to-PSD', 'PSD-to-JPG', 'image-to-PSD', 'WMF-to-PNG']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/imaging/14
+productLink: https://products.aspose.com/imaging/java/
+dataFolder: aspose_imaging
+packages_refs:
+- "22-12"
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "16-10"
+- "16-12"
+- "17-01"
+- "17-03"
+- "17-11"
+- "17-12"
+- "17-4"
+- "17-6"
+- "17-7"
+- "17-9"
+- "18-11"
+- "18-2"
+- "18-3"
+- "18-4"
+- "18-6"
+- "18-7"
+- "18-8"
+- "18-9"
+- "19-1"
+- "19-10"
+- "19-11"
+- "19-12"
+- "19-2"
+- "19-3"
+- "19-4"
+- "19-6"
+- "19-7"
+- "19-9"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-2"
+- "20-3"
+- "20-4"
+- "20-5"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
+- "3-3"
+- "3-4"
+- "3-5"
+- "3-6"
+- "3-6-0"
+- "3-7-0"
+- "3-8-0"
+- "3-8-1"
+- "3-9-0"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/imaging" linktext=" Support Forum " >}}
+# Java API для обработки изображений
+[![banner](./aspose_imaging-for-java-banner.png)](./)
 
-{{< Common/h3 text="Скачайте Aspose.Imaging Java JAR для обработки растровых и векторных изображений"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose размещает все API Java на
-{{< Common/link href="https://repository.aspose.com" text="Aspose Репозиторий"  >}}. Вы можете легко использовать
-{{< Common/link href="https://repository.aspose.com/imaging/" text="Aspose.Imaging для API Java"  >}}непосредственно в ваших проектах на основе Maven, добавив следующие конфигурации в ваш pom.xml. Подробные инструкции см.
-{{< Common/link href="https://docs.aspose.com/imaging/java/installation/" text="Установка Aspose.Imaging для Java из репозитория Maven"  >}}страница документации.
-{{< Common/release-notes-link family="imaging" product="java" href="https://docs.aspose.com/imaging/java/release-notes/" text="https://docs.aspose.com/imaging/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Страница продукта](https://products.aspose.com/imaging/java) | [Док](https://docs.aspose.com/imaging/java/) | [Демо](https://products.aspose.app/imaging/family) | [Ссылка на API](https://apireference.aspose.com/imaging/java) | [Примеры](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [Блог](https://blog.aspose.com/category/imaging/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/c/imaging) | [Временная лицензия](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+Это автономный [Визуализация API](https://products.aspose.com/imaging/java), состоящий из процедур Java, которые позволяют вашим приложениям Java рисовать, а также выполнять базовую до расширенного уровня обработки растровых и векторных изображений.
+Aspose.imaging для Java предлагает надежное сжатие изображений и высокую скорость обработки с помощью нативного доступа к байту и целого ряда эффективных алгоритмов. Он не только манипулирует, экспортирует и преобразует изображения, но также позволяет динамически рисовать объекты, используя манипуляции с пикселями и графическим путем.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-imaging</artifactId>
-      <version>22.7</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
-
-{{ГИПЕРССЫЛКА1}} | {{ГИПЕРССЫЛКА2}} | {{ГИПЕРССЫЛКА3}} | {{ГИПЕРССЫЛКА4}} | {{ГИПЕРССЫЛКА5}} | {{ГИПЕРССЫЛКА6}} | {{ГИПЕРССЫЛКА7}} | {{ГИПЕРССЫЛКА8}} | {{ГИПЕРССЫЛКА9}} | {{ГИПЕРССЫЛКА10}}
-
-Это автономный API обработки изображений, состоящий из подпрограмм Java, которые позволяют вашим Java-приложениям рисовать, а также выполнять базовую и продвинутую обработку растровых и векторных изображений.
-
-## Зачем скачивать Aspose.Imaging для Java?
-
-Aspose.Imaging for Java предлагает надежное сжатие изображений и высокую скорость обработки за счет собственного доступа к байтам и ряда эффективных алгоритмов. Он не только манипулирует, экспортирует и конвертирует изображения, но также позволяет динамически рисовать объекты с помощью манипулирования пикселями и графического контура.
-
-## Возможности API обработки изображений
-
-- Рисовать растровые изображения с графикой.
-- Рисовать векторные изображения.
+## Особенности API Imaging
+- Нарисуйте растровые изображения с графикой.
+- Нарисуйте векторные изображения.
 - Преобразование изображений в различные форматы.
-- Примените маскирование, а также фильтры Median & Wiener.
-- Обрезайте, поворачивайте и изменяйте размер изображений через API.
-- Устранение перекоса и преобразование изображений.
+
+- [Применить маскировку](https://docs.aspose.com/imaging/java/applying-masking-to-images/), а также фильтры [Median & Wiener](https://docs.aspose.com/imaging/java/applying-median-and-wiener-filters/).
+- Разберите, вращайте и изменяйте размер изображений через API.
+- De-Skew & Transform Images.
 - Установить свойства изображения.
 
-### Чтение и запись форматов изображений
+## Читать и написать форматы изображений
+** Растровые форматы: ** JPEG2000, JPEG, BMP, TIFF, GIF, PNG, APNG \
+** Метафилы: ** EMF, EMZ, WMF, WMZ \
+** Другое: ** SVG, SVGZ, DICOM
 
-**Растровые форматы:** JPEG2000, JPEG, BMP, TIFF, GIF, PNG, APNG\
-**Метафайлы:** EMF, EMZ, WMF, WMZ\
-**Другое:** SVG, SVGZ, DICOM
+## Сохранить изображения как
+** Исправлено: ** pdf \
+** Photoshop: ** psd \
+** Markup: ** HTML5 Canvas
 
-### Сохранить изображения как
+## Читать форматы изображений
+** Различный: ** DJVU, DNG, ODG, CMX, CDR, DIB, OTG, FODG, EPS (только растровый предварительный просмотр), WebP
 
-**Исправлено:** PDF\
-**Фотошоп:** PSD\
-**Разметка:** холст HTML5
+## поддерживаемые операционные системы
+Aspose.imaging for Java можно практически работать в любой ОС, где установлен Java (с тех пор, как JDK 1.6)
+- Windows (since 7)
+- Linux
+- MacOS
+- любая ОС, где установлена ​​Java.
+Aspose.imaging Works для версий x86 и x64 в перечисленных выше операционных системах.
+** ПРИМЕЧАНИЕ.
 
-### Чтение форматов изображений
+## Начать
 
-**Различные:** DjVu, DNG, ODG, CMX, CDR, DIB, OTG, FODG, EPS (только растровый предварительный просмотр), WEBP
+Aspose.imaging Java API размещены на [Применить репозиторий](https://repository.aspose.com/imaging/). Вы можете легко использовать Aspose.mating для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/).
 
-### Поддерживаемые операционные системы
+## Crop EMF -изображение от прямоугольника
 
-Aspose.Imaging for Java можно запускать практически в любой ОС, где установлена Java (начиная с JDK 1.6).
+```java
+try (MetafileImage metaImage = (MetafileImage) Image.load(dataDir + "Picture1.emf"))
+{
+	// create an instance of Rectangle class with desired size
+	Rectangle rectangle = new Rectangle(10, 10, 100, 100);
 
-- Windows (с 7)
-- Линукс
-- МакОС
-- Любая ОС, где установлена Java.
+	// perform the crop operation on object of Rectangle class
+	metaImage.crop(rectangle);
 
-Aspose.Imaging работает как с версиями x86, так и с x64 перечисленных выше операционных систем.
+	// save the result in PNG format
+	metaImage.save(dataDir + "CropbyRectangle_out.png", new PngOptions());
+}
+```
 
-**Примечание:** В ОС Linux рекомендуется установить пакет с совместимыми с Microsoft шрифтами (например, `sudo apt-get install ttf-mscorefonts-installer`).
-
-{{< Common/hr >}}
-
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
-
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="imaging" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[Страница продукта](https://products.aspose.com/imaging/java) | [Док](https://docs.aspose.com/imaging/java/) | [Демо](https://products.aspose.app/imaging/family) | [Ссылка на API](https://apireference.aspose.com/imaging/java) | [Примеры](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [Блог](https://blog.aspose.com/category/imaging/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/c/imaging) | [Временная лицензия](https://purchase.aspose.com/temporary-license)

@@ -1,8 +1,33 @@
 ---
-title: "下载 PUB 阅读和转换 JAR 文件 | Aspose.PUB API"
-description: "下载包含 Java 类的 JAR 文件，以通过本地 API 解析、处理 Microsoft Publisher 文档格式并将其转换为 PDF。"
-family_listing_page_title: "Aspose.PUB for Java"
-family_listing_page_description: "Aspose.PUB 库提供了一个简单方便的 API，可以将 PUB 文件加载和转换为 PDF。它是使用 Java 实现的，它可以与任何基于 Java 的应用程序一起使用，包括基于 Web 的应用程序或桌面应用程序。"
+title: "aspose.pub |电子出版文件Java类库" 
+linktitle: Aspose.PUB
+description: "Java库解析，处理和将发布者文档格式转换为PDF。将功能实施到您自己的产品中。" 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose PUB
+- Aspose Java API
+- pub java library
+- pub java class
+- PUB
+- PDF
+- Microsoft Publisher
+- PUB conversion
+- Convert PUB
+- PUB to PDF
+- metadata
+- Windows
+- Linux
+- Mac
+- J2SE
+- Maven
+- edit metadata
+- modify metadata
+family_listing_page_title: "aspose.pub for Java" 
+family_listing_page_description: "Aspose.pub库提供了一个简单便捷的API，可以将酒吧文件加载并转换为PDF。它是使用Java实现的，可以与任何基于Java的应用程序（包括基于Web的或桌面应用程序）一起使用。" 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -10,79 +35,58 @@ family_listing_page_venture: "4"
 family_listing_page_package: "225"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-pub/"
-tags: ['Aspose.Total', 'Aspose.PUB', 'Aspose-Java-API', 'pub-java-library', 'pub-java-class', 'PUB', 'PDF', 'Microsoft-Publisher', 'PUB-conversion', 'Convert-PUB', 'PUB-to-PDF', 'metadata', 'Windows', 'Linux', 'Mac', 'J2SE', 'Maven', 'edit-metadata', 'modify-metadata']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/pub/40
+productLink: https://products.aspose.com/pub/java/
+dataFolder: aspose_pub
+packages_refs:
+- "22-8"
+- "20-8"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/pub" linktext=" Support Forum " >}}
+# 通过Java API处理酒吧文件
+[![banner](./aspose_pub-for-java-banner.png)](./)
 
-{{< Common/h2 text="下载 Aspose.PUB 以使用 Microsoft Publisher® 文件"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose 将所有 Java API 托管在
-{{< Common/link href="https://repository.aspose.com" text="假设存储库"  >}}.通过将以下配置添加到 pom.xml，您可以直接在基于 Maven 的项目中轻松地使用 Aspose.PUB for Java API。有关详细说明，请访问
-{{< Common/link href="https://docs.aspose.com/pub/java/installation/" text="从 Maven 存储库安装 Aspose.PUB for Java"  >}}文档页面。
-{{< Common/release-notes-link family="pub" product="java" href="https://docs.aspose.com/pub/java/release-notes/" text="https://docs.aspose.com/pub/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[产品页面](https://products.aspose.com/pub/java) | [文档](https://docs.aspose.com/pub/java/) | [API参考](https://apireference.aspose.com/pub/java) | [例子](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/例子) | [博客](https://blog.aspose.com/category/pub/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/pub) | [临时许可](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.PUB for Java](https://products.aspose.com/pub/java)是可以读取，操纵和转换Microsoft Publisher（.pub）文件为PDF的Java API。您可以在Java应用程序中使用API​​与.pub文件一起使用，而不必担心基础档案格式。可以使用JSP在Java桌面以及Web应用程序中使用API​​。 API轻巧，易于使用，并在应用程序中使用简单的代码行简化了应用程序。
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-pub</artifactId>
-      <version>20.8</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+## Pub Java API功能
+ - 阅读Microsoft Publisher（pub）文件以转换为PDF格式。
+ - 使用酒吧文件的元数据。
 
-[Product Page](https://products.aspose.com/pub/java) | [Docs](https://docs.aspose.com/pub/java/) | [API Reference](https://reference.aspose.com/pub/java) | [Examples](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/Examples) | [Blog](https://blog.aspose.com/category/pub/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pub) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+## 阅读酒吧文件
+** Microsoft Publisher：** Pub
 
-## 为什么要下载 Aspose.PUB for Java？
-
-Aspose.PUB for Java 是一个 Java API，可以读取、操作 Microsoft Publisher® (.pub) 文件并将其转换为 PDF。您可以在 Java 应用程序中使用 API 来处理 .pub 文件，而无需担心底层文件格式。该 API 可用于 Java 桌面以及使用 JSP 的 Web 应用程序。该 API 轻巧、易于使用，并通过应用程序中的简单代码行简化了您的应用程序。
-
-## PUB Java API 功能
-
-- 阅读 Microsoft Publisher® (PUB) 文件以转换为 PDF 格式。
-- 使用 PUB 文件的元数据。
-
-### 读取 PUB 文件
-
-**Microsoft Publisher®：** PUB
-
-### 将 PUB 保存为
-
+## 将酒吧保存为
 **固定布局：** PDF
 
-### 支持的环境
+## 支持环境
+ -  ** Microsoft Windows：** Windows Desktop＆Server（X86，X64）
+ -  ** macOS：** Mac OS X
+ -  ** linux：** ubuntu，centos等
+ -  ** java版本：**``J2SE 8.0（1.8）`或更高版本
 
-- **Microsoft Windows®：** Windows 桌面和服务器（x86、x64）
-- **macOS：** Mac OS X
-- **Linux：** Ubuntu、CentOS 等
-- **Java 版本：** `J2SE 8.0 (1.8)` 或更高版本
+## 开始
 
-{{< Common/hr >}}
+Aspose.pub Java API托管在[Aspose存储库](https://repository.aspose.com/pub/)。您可以在Maven项目中轻松地将Aspose.pub用于Java API，并具有简单的配置。有关详细说明，请访问[Installing Aspose.PUB for Java from Aspose存储库](https://docs.aspose.com/pub/java/installation/)文档页面。
 
-{{< Tags/TagsWrapper>}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+## Microsoft Publisher文件的编辑元数据使用Java
 
-{{< Common/hr >}}
+```java
+// For complete examples and data files, please go to https://github.com/aspose-pub/Aspose.PUB-for-Java
+IPubParser parser = PubFactory.createParser(fileName);
+Document document = parser.parse();
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="pub" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+document.getDocumentSummaryInfo().setCategory("category");
+document.getDocumentSummaryInfo().setCompany("company");
+document.getDocumentSummaryInfo().setLanguage("language");
 
+document.getSummaryInfo().setComments("comments");
+document.getSummaryInfo().setKeywords("keywords");
+document.getSummaryInfo().setLastAuthor("last author");
+document.getSummaryInfo().setTitle("title");
+document.getSummaryInfo().setSubject("subject");
+```
+
+[产品页面](https://products.aspose.com/pub/java) | [文档](https://docs.aspose.com/pub/java/) | [API参考](https://apireference.aspose.com/pub/java) | [例子](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/例子) | [博客](https://blog.aspose.com/category/pub/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/pub) | [临时许可](https://purchase.aspose.com/temporary-license)

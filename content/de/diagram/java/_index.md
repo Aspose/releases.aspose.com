@@ -1,9 +1,55 @@
 ---
-title: "Laden Sie JAR-Dateien herunter, um Visio über die API zu verarbeiten | Aspose.Diagram"
-description: "Laden Sie JAR-Dateien mit Klassen zum Lesen, Schreiben, Exportieren und Verarbeiten von Visio-Diagrammen herunter. Arbeiten Sie mit Objekten wie Seite, Master (Schablonen), Stylesheet über die Java-API."
-keywords: "Java Visio Library, Java Visio API"
-family_listing_page_title: "Aspose.Diagram für Java"
-family_listing_page_description: "Aspose.Diagram for Java ist eine benutzerfreundliche, leistungsstarke und gut dokumentierte Java-API, mit der Entwickler native Visio-Dateiformate aus ihren Java-Anwendungen heraus erstellen, bearbeiten und konvertieren können, ohne sich auf Microsoft Visio verlassen zu müssen ®."
+title: "ASSON.DIAGRAM | Java -Bibliothek zum Erstellen, Exportieren von Visio -Dokumenten" 
+linktitle: Aspose.Diagram
+description: "Java -Klassenbibliothek zum Lesen, Schreiben, Exportieren und Verarbeiten von Visio -Diagrammen. Unterstützt Visio -Objekte wie Dokument, Seite, Master (Schablonen), Form, Stylesheet & Connect." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Diagram
+- Aspose Java API
+- diagram java library
+- diagram java class
+- Maven
+- visio to pdf
+- visio to html
+- visio to image
+- VSD to VDX
+- VSD to VTX
+- VSD to XPS
+- diagram to SVG
+- diagram to XAML
+- shape
+- page
+- VSDX
+- VDX
+- VSD
+- VSX
+- VTX
+- VSSX
+- VSTX
+- VSDM
+- VSSM
+- VSTM
+- VDW
+- VSS
+- VST
+- PDF
+- XPS
+- XAML
+- SVG
+- EMF
+- JPEG
+- PNG
+- BMP
+- TIFF
+- HTML
+- Linux
+- Unix
+family_listing_page_title: "ASSOSE.Digram für Java" 
+family_listing_page_description: "ASSOSE.DIAGRAM für Java ist eine benutzerfreundliche, leistungsstarke und gut dokumentierte Java-API, mit der Entwickler native Visio-Dateiformate aus ihren Java-Anwendungen erstellen, manipulieren und konvertieren können, und ohne die Notwendigkeit, sich auf Microsoft Visio zu verlassen ®." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,92 +57,160 @@ family_listing_page_venture: "4"
 family_listing_page_package: "17"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-diagram/"
-tags: ['Aspose.Total', 'Aspose.Diagram', 'Aspose-Java-API', 'diagram-java-library', 'diagram-java-class', 'Maven', 'visio-to-pdf', 'visio-to-html', 'visio-to-image', 'VSD-to-VDX', 'VSD-to-VTX', 'VSD-to-XPS', 'diagram-to-SVG', 'diagram-to-XAML', 'shape', 'page', 'VSDX', 'VDX', 'VSD', 'VSX', 'VTX', 'VSSX', 'VSTX', 'VSDM', 'VSSM', 'VSTM', 'VDW', 'VSS', 'VST', 'PDF', 'XPS', 'XAML', 'SVG', 'EMF', 'JPEG', 'PNG', 'BMP', 'TIFF', 'HTML', 'Linux', 'Unix']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/diagram/17
+productLink: https://products.aspose.com/diagram/java/
+dataFolder: aspose_diagram
+packages_refs:
+- "22-12"
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "22-5"
+- "16-10-0"
+- "16-11-0"
+- "16-12-0"
+- "17-02-0"
+- "17-1-0"
+- "17-10"
+- "17-11"
+- "17-12"
+- "17-3-0"
+- "17-4-0"
+- "17-5-0"
+- "17-6"
+- "17-7"
+- "17-8"
+- "17-8-0"
+- "17-9"
+- "18-1"
+- "18-10"
+- "18-11"
+- "18-12"
+- "18-2"
+- "18-3"
+- "18-4"
+- "18-5"
+- "18-6"
+- "18-7"
+- "18-8"
+- "18-9"
+- "18-9-0"
+- "19-1"
+- "19-10"
+- "19-11"
+- "19-12"
+- "19-2"
+- "19-3"
+- "19-4"
+- "19-5"
+- "19-6"
+- "19-7"
+- "19-8"
+- "19-9"
+- "20-1"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-2"
+- "20-3"
+- "20-4"
+- "20-5"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-1"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "21-9-1"
+- "22-1"
+- "22-2"
+- "22-3"
+- "22-4"
+- "5-9-0"
+- "6-0-0"
+- "6-1-0"
+- "6-2-0"
+- "6-3-0"
+- "6-4-0"
+- "6-5-0"
+- "6-6-0"
+- "6-7-0"
+- "6-8-0"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/diagram" linktext=" Support Forum " >}}
+# Java API für Microsoft Visio & Reg; Dateiformate
+[![banner](./aspose_diagram-for-java-banner.png)](./)
 
-{{< Common/h2 text="Laden Sie Aspose.Diagram herunter, um Visio®-Dateiformate zu verarbeiten"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose hostet alle Java-APIs auf der
-{{< Common/link href="https://repository.aspose.com" text="Aspose-Repository"  >}}. Sie können die Aspose.Diagram for Java API ganz einfach direkt in Ihren Maven-basierten Projekten verwenden, indem Sie Ihrer pom.xml die folgenden Konfigurationen hinzufügen. Für die detaillierten Anweisungen besuchen Sie bitte
-{{< Common/link href="https://docs.aspose.com/diagram/java/installation/" text="Installieren von Aspose.Diagram für Java aus dem Maven-Repository"  >}}Dokumentationsseite.
-{{< Common/release-notes-link family="diagram" product="java" href="https://docs.aspose.com/diagram/java/release-notes/" text="https://docs.aspose.com/diagram/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Produktseite](https://products.aspose.com/diagram/java) | [Dokumente](https://docs.aspose.com/diagram/java/) | [Demos](https://products.aspose.app/diagram/family) | [API -Referenz](https://apireference.aspose.com/diagram/java) | [Beispiele](https://github.com/aspose-diagram/Aspose.Diagram-for-Java) | [Blog](https://blog.aspose.com/category/diagram/) | [Suche](https://search.aspose.com/) | [Freie Unterstützung](https://forum.aspose.com/c/diagram) | [Vorübergehende Lizenz](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.Diagram for Java](https://products.aspose.com/diagram/java) API ist eine Lösung für Microsoft Visio -Dateimanipulationsanforderungen. Die Java-Anwendungen können Microsoft-Visio-Diagramme lesen, schreiben, exportieren und verarbeiten, während alle Visio-Objekte und Eigenschaften einschließlich Formen, Seiten, Bilder, Formmeister, Schablonen, Text, Schichten, Header, Fußzeilen, benutzerdefinierten Zellen, Hyperlinks, Hyperlinks, Layer, Header, Fußzeilen, Hyperlinks, unterstützt werden, die Unterstützung Dateischutz, Geometrien, Textfelder und Kommentare.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-diagram</artifactId>
-      <version>22.7</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+ASSOSE.Digram für Java kann auch mit [Wenden Sie den Schutz der Microsoft Visio -Zeichnungen an](https://docs.aspose.com/diagram/java/working-with-protection/) verwendet werden, indem Hintergründe, Schablonen (Master) sowie Formen und Stile verkleinert werden, um versehentliche Änderungen zu vermeiden.
 
-[Product Page](https://products.aspose.com/diagram/java) | [Docs](https://docs.aspose.com/diagram/java/) | [Demos](https://products.aspose.app/diagram/family) | [API Reference](https://reference.aspose.com/diagram/java) | [Examples](https://github.com/aspose-diagram/Aspose.Diagram-for-Java) | [Blog](https://blog.aspose.com/category/diagram/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/diagram) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+## Visio -Dateiverarbeitungsfunktionen
+- Microsoft Visio -Diagramme laden, erstellen, speichern und konvertieren.
 
-## Warum Aspose.Diagram für Java herunterladen?
+- [Erstellen Sie Master aus Sctrach](https://docs.aspose.com/diagram/java/working-with-masters/) oder fügen Sie aus Schablonen von Formen hinzu.
+- Erstellen, Layout- und automatisch-fit-Formen sowie Visio-Steckverbinder und Schriftinformationen abrufen.
+- Ändern Sie den Geometrieabschnitt einer Steckerform.
+- Fügen Sie eine ActiveX -Steuerung in das Visio -Diagramm ein.
 
-Aspose.Diagram for Java API ist eine Lösung für die Anforderungen an die Dateimanipulation von Microsoft Visio®. Es ermöglicht den Java-Anwendungen, Microsoft Visio®-Diagramme zu lesen, zu schreiben, zu exportieren und zu verarbeiten, während alle Visio®-Objekte und -Eigenschaften unterstützt werden, einschließlich Formen, Seiten, Bilder, Formmaster, Schablonen, Text, Ebenen, Kopfzeilen, Fußzeilen, benutzerdefinierte Zellen, Hyperlinks, Dateischutz, Geometrien, Textfelder und Kommentare.
+- [Drucken zum bestimmten Drucker](https://docs.aspose.com/diagram/java/working-with-print/) oder setzen Sie den Drucker- und Dokumentnamen.
 
-Aspose.Diagram for Java kann auch verwendet werden, um Microsoft Visio®-Zeichnungen zu schützen, indem Hintergründe, Schablonen (Master) sowie Formen und Stile gesperrt werden, um versehentliche Änderungen zu vermeiden.
+## Lesen und Schreiben von Visio -Formaten
+** Microsoft Visio: ** VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
 
-## Visio®-Dateiverarbeitungsfunktionen
+## Save Visio Diagramme als
+** Behobene Layout: ** PDF, XPS \
+** Bilder: ** JPEG, PNG, BMP, TIFF, SVG, EMF \
+** Web: ** html \
+** Andere: ** xaml, SWF
 
-- Laden, erstellen, speichern und konvertieren Sie Microsoft Visio®-Diagramme.
-- Master von Scratch erstellen oder aus Stencil of Shapes hinzufügen.
-- Erstellen, Layouten und automatisches Anpassen von Formen sowie Abrufen von Visio®-Konnektoren und Schriftinformationen.
-- Ändern Sie den Geometrieabschnitt einer Verbindungsform.
-- Fügen Sie ein ActiveX-Steuerelement in das Visio®-Diagramm ein.
-- Drucken auf einem bestimmten Drucker oder Festlegen des Drucker- und Dokumentnamens.
+## Visio -Formate lesen
+** Microsoft Visio: ** VDW, VSD, VSS, VST
 
-### Visio®-Formate lesen und schreiben
+## unterstützte Umgebungen
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** macOS: ** Mac OS x
+- ** Linux: ** Ubuntu, OpenSuse, Centos und andere
+- ** Java -Versionen: ** `J2SE 7.0 (1,7)`, `J2SE 8.0 (1,8)`
 
-**Microsoft Visio®:** VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
+## Loslegen
 
-### Visio®-Diagramme speichern unter
+ASSOSE.DIAGRAM JAVA APIs werden im [ASSOSE Repository](https://repository.aspose.com/diagram/) gehostet. Sie können ASSOSE.diagram für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.Diagram for Java from ASSOSE Repository](https://docs.aspose.com/diagram/java/installation/) -Dokumentationsseite.
 
-**Festes Layout:** PDF, XPS\
-**Bilder:** JPEG, PNG, BMP, TIFF, SVG, EMF\
-**Web:** HTML\
-**Andere:** XAML, SWF
+## Auto-Fit-Visio-Diagramm mit Java
 
-### Visio®-Formate lesen
+```java
+// For complete examples and data files, please go to https://github.com/aspose-diagram/Aspose.Diagram-for-Java
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(AutoFitShapesInVisio.class);
 
-**Microsoft Visio®:** VDW, VSD, VSS, VST
+// load a Visio diagram
+Diagram diagram = new Diagram(dataDir + "BFlowcht.vsdx");
 
-### Unterstützte Umgebungen
+// use saving options
+DiagramSaveOptions options = new DiagramSaveOptions(SaveFileFormat.VSDX);
 
-- **Microsoft Windows®:** Windows-Desktop und -Server (x86, x64)
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, OpenSUSE, CentOS und andere
-- **Java-Versionen:** `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)`
+// set Auto fit page property
+options.setAutoFitPageToDrawingContent(true);
 
-{{< Common/hr >}}
+// save Visio diagram
+diagram.save(dataDir + "AutoFitShapesInVisio_Out.vsdx", options);
+```
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
-
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="diagram" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[Produktseite](https://products.aspose.com/diagram/java) | [Dokumente](https://docs.aspose.com/diagram/java/) | [Demos](https://products.aspose.app/diagram/family) | [API -Referenz](https://apireference.aspose.com/diagram/java) | [Beispiele](https://github.com/aspose-diagram/Aspose.Diagram-for-Java) | [Blog](https://blog.aspose.com/category/diagram/) | [Suche](https://search.aspose.com/) | [Freie Unterstützung](https://forum.aspose.com/c/diagram) | [Vorübergehende Lizenz](https://purchase.aspose.com/temporary-license)

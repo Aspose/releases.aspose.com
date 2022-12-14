@@ -1,9 +1,39 @@
 ---
-title: "API Format File Java | Aspose.Total untuk Java"
-description: "Unduh Java library suite untuk membuat, memanipulasi, mengonversi, merender & mencetak file Microsoft Word, Excel, PowerPoint, Outlook, Publisher, Visio, Project & OneNote. Paket juga termasuk API untuk format file PDF, Photoshop, CAD, GIS & 3D serta API untuk barcode, OCR & OMR."
-keywords: "Java libraries  "
-family_listing_page_title: "Aspose.Total untuk Java"
-family_listing_page_description: "Aspose.Total untuk Java memungkinkan pengembang untuk membangun sistem pemrosesan file yang sangat serbaguna yang mampu menangani 100+ format file populer. Pemrogram aplikasi Java SE atau EE dapat meningkatkan aplikasi mereka dengan kemampuan memuat, membuat, memodifikasi, merender, dan mengonversi file dari Microsoft Office, OpenOffice, Visio, Project, CAD, dan banyak kategori format lain yang umum digunakan."
+title: "Aspose.total | Perpustakaan kelas Java untuk memproses format file" 
+linktitle: Aspose.Total
+description: "Java High Code API untuk memungkinkan aplikasi Anda bekerja dengan format file Microsoft Word, Excel, PowerPoint, Outlook, OneNote, 3D, CAD, PDF, GIS, Email, HTML, dll." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Words
+- Aspose Cells
+- Aspose PDF
+- Aspose Slides
+- Aspose Email
+- Aspose BarCode
+- Aspose Imaging
+- Aspose Tasks
+- Aspose OCR
+- Aspose Diagram
+- Aspose Note
+- Aspose CAD
+- Aspose HTML
+- Aspose 3D
+- Aspose Page
+- Aspose PSD
+- Aspose PUB
+- Aspose Font
+- Aspose TeX
+- Maven
+- J2SE
+- Windows
+- Linux
+- Mac
+family_listing_page_title: "Aspose.total untuk Java" 
+family_listing_page_description: "Aspose.total untuk Java memungkinkan pengembang untuk membangun sistem pemrosesan file yang sangat fleksibel yang mampu menangani 100+ format file populer. Pemrogram aplikasi Java SE atau EE dapat meningkatkan aplikasi mereka dengan kemampuan untuk memuat, membuat, memodifikasi, merender, dan melakukan inter-convert file dari Microsoft Office, OpenOffice, Visio, Project, CAD dan banyak kategori format lainnya yang umum digunakan." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,139 +41,116 @@ family_listing_page_venture: "4"
 family_listing_page_package: "284"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-total/"
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/total/7
+productLink: https://products.aspose.com/total/java/
+dataFolder: aspose_total
+packages_refs:
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "20-12"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-1"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/total" linktext=" Support Forum " >}}
+# Kelas Java untuk manipulasi format dokumen
+[![banner](./aspose_total-for-java-banner.png)](./)
 
-{{< Common/h2 text="Unduh Aspose.Total dari Maven"  >}}
+[Halaman produk](https://products.aspose.com/total/java/) | [Dokumen](https://docs.aspose.com/total/java/) ​​| [Referensi API](https://apireference.aspose.com/) | [Contoh](http://aspose.github.io) | [Blog](https://blog.aspose.com/category/total/) | [Mencari](https://search.aspose.com/) | [Dukungan gratis](https://forum.aspose.com/) | [Lisensi sementara](https://purchase.aspose.com/temporary-license) | [Kebijakan](https://purchase.aspose.com/policies)
 
-{{< Common/paragraph class="package-instructions">}}
-Anda dapat dengan mudah menggunakan Aspose.Total untuk Java langsung dari a
-{{< Common/link href="https://repository.aspose.com/total/" text="Maven"  >}}proyek berbasis dengan menambahkan konfigurasi berikut ke pom.xml.
+[Aspose.Total for Java](https://docs.aspose.com/total/java/) adalah paket paling lengkap dari semua format file java API yang ditawarkan oleh Aspose. Ini memberdayakan pengembang untuk membuat, mengedit, merender, mencetak, dan mengonversi antara berbagai format dokumen populer dari dalam aplikasi Java apa pun.
 
-{{< Common/release-notes-link family="total" product="java" href="https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/" text="https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/"  >}}
+## aspose.words untuk java
 
-{{< /Common/paragraph>}}
+[Perpustakaan Java Word](https://products.aspose.com/words/java/) memungkinkan melakukan operasi pemrosesan dokumen MS Word seperti pembuatan dokumen, pemrosesan, rendering, dan konversi Format Dokumen Microsoft Word, OpenOffice, Markup, dan Ebook.
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-         <id>AsposeJavaAPI</id>
-         <name>Aspose Java API</name>
-         <url>https://releases.aspose.com/java/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+## aspose.cells untuk java
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-         <groupId>com.aspose</groupId>
-         <artifactId>aspose-total</artifactId>
-         <version>21.10</version>
-         <type>pom</type>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Excel Java API & GUI controls](https://products.aspose.com/cells/java/) memungkinkan untuk membuat, memproses, memanipulasi & mengonversi spreadsheet Excel & OpenOffice. Ini memberikan kemampuan untuk membaca & menulis formula, tabel pivot, pengiris, tabel, grafik, objek menggambar, penanda pintar, dan banyak lagi.
 
-{{< Common/hr >}}
+## aspose.pdf untuk java
 
-[Product Page](https://products.aspose.com/tasks/java) | [Docs](https://docs.aspose.com/tasks/java/) | [Demos](https://products.aspose.app/tasks/family) | [API Reference](https://reference.aspose.com/tasks/java) | [Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java) | [Blog](https://blog.aspose.com/category/tasks/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/tasks) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+[Komponen Java PDF](https://products.aspose.com/pdf/java/) memungkinkan Anda untuk membuat, memproses, dan memanipulasi dokumen PDF tanpa menginstal Adobe Acrobat. Bekerja dengan lampiran, bookmark, anotasi, tautan, tindakan, keamanan, tanda tangan, operator, tabel, file PDF yang ditandai, formulir PDF, grafik, judul, gambar, halaman PDF individu, perangko, tanda air, dan keamanan.
 
-### Mengapa mengunduh Aspose.Total untuk Java?
+## aspose.slides untuk java
 
-Aspose.Total for Java adalah kumpulan File Format Automation APIs untuk pengembang Java yang dapat digunakan dalam aplikasi Java J2SE, J2EE, J2ME. Suite ini terdiri dari API individual berikut:
+[Presentasi Presentasi PowerPoint API](https://products.aspose.com/slides/java/) membantu dalam membaca, menulis, dan mengedit file presentasi dari semua format populer.
 
-### Aspose.Words untuk Java
+## Aspose.Mail untuk Java
 
-API pemrosesan kata untuk membuat, memproses, mengonversi, atau merender dokumen Word® ke berbagai format.
+[Java Email API](https://products.aspose.com/email/java/) membantu Anda membuat, memanipulasi, mengirim & menerima email serta mengelola file arsip kalender dan email. Ini mendukung protokol SMTP, MIME, POP3, IMAP, dan HTTP.
 
-### Aspose.PDF untuk Java
+## aspose.barcode untuk java
 
-PDF Manipulation API untuk membuat, mengurai, melindungi, menandatangani, dan mengonversi file PDF tanpa memerlukan Adobe Acrobat®.
+[Java Barcode API](https://products.aspose.com/barcode/java/) membantu untuk mengenali dan menghasilkan barcode 1D, 2D, dan pos dari 40+ simbologi.
 
-### Aspose.Sel untuk Java
+## Aspose.Imaging for Java
 
-API Pemrosesan Spreadsheet untuk membuat, memanipulasi, mengonversi, melindungi, atau mencetak spreadsheet tanpa menginstal MS Excel®.
+[easy-to-use Imaging API](https://products.aspose.com/imaging/java/) yang membantu Anda membuat, mengubah, menggambar, dan mengonversi gambar.
 
-### Aspose.Email untuk Java
-API Manajemen Email untuk membuat, membuat email, mengirim email & mengurai email dari Outlook® & Thunderbird®.
+## aspose.tasks for java
 
-### Aspose.Slides untuk Java
+[Java API untuk mengembangkan aplikasi manajemen proyek](https://products.aspose.com/tasks/java/) dengan kemampuan untuk memproses, memanipulasi & mengonversi dokumen Proyek Microsoft.
 
-API Presentasi Manipulasi untuk membuat, memodifikasi, menggabungkan, mengkloning, melindungi, mengubah, dan memanipulasi PPT/PPTX tanpa MS PowerPoint®.
+## aspose.ocr untuk java
 
-### Aspose.Imaging untuk Java
+[Komponen Java OCR](https://products.aspose.com/ocr/java/) membantu Anda mengembangkan aplikasi Optical Character Recognition (OCR) untuk bahasa Inggris, Spanyol, Prancis, dan Portugis.
 
-Image Editor API untuk membuat, memuat, mengubah, atau mengonversi gambar dengan pengoptimalan memori.
+## aspose.diagram untuk java
 
-### Aspose.BarCode untuk Java
+[Visio Java API](https://products.aspose.com/diagram/java/) Meningkatkan aplikasi Anda untuk membuat diagram Visio dari awal, memanipulasi diagram yang ada, atau mengonversi Visio menjadi format tata letak & gambar tetap.
 
-BarCode Generation & Recognition API untuk menghasilkan, menyesuaikan & mengenali barcode linier, 2D & pos.
+## Aspose.CATAT UNTUK JAVA
 
-### Aspose.Diagram untuk Java
+[Java OneNote API](https://products.aspose.com/note/java/) membantu Anda membuat, memanipulasi & mengonversi file OneNote tanpa memerlukan perpustakaan tambahan.
 
-Diagram Manipulation API untuk memanipulasi dan mengekspor file Microsoft Visio® ke format PDF, HTML, Gambar, dan XAML.
+## aspose.cad untuk java
 
-### Aspose.Tugas untuk Java
+Mengaktifkan aplikasi Java Anda ke [memproses dan mengonversi gambar CAD](https://products.aspose.com/cad/java/) tanpa perlu menginstal AutoCAD.
 
-API Manipulasi Dokumen Proyek untuk memanipulasi atau mengekspor file MS Project® ke format Primavera, Excel, PDF, Gambar, HTML & XML.
+## aspose.html untuk java
 
-### Aspose.OCR untuk Java
+Sebuah premis [Java HTML API](https://products.aspose.com/html/java/) yang meniru perilaku browser tanpa kepala dan membantu Anda memproses dan memanipulasi halaman HTML.
 
-API Pengenalan Karakter Optik untuk Menambahkan Fitur Pengenalan Karakter Optik dan Pemindaian Dokumen ke Aplikasi Java Anda.
+## aspose.3d untuk java
 
-### Aspose.Catatan untuk Java
+[3D API dengan mulus mengintegrasikan pemrosesan file 3D](https://products.aspose.com/3d/java/) dan fungsionalitas manipulasi ke dalam aplikasi desktop dan web berbasis Java Anda.
 
-API Manipulasi Catatan untuk Membuat, Membaca, Mengedit, Mengonversi, dan Memanipulasi dokumen Microsoft OneNote®.
+## aspose.page untuk java
 
-#### Aspose.CAD untuk Java
+Buat, edit, dan simpan dokumen XPS dari dalam aplikasi Java Anda sendiri. [Aspose.Page for Java](https://products.aspose.com/page/java/) juga memungkinkan Anda untuk mengonversi file XPS, EPS & EP ke format PDF.
 
-API untuk Memproses dan Mengonversi file AutoCAD® (DWG, DXF, STL) ke format gambar PDF & raster tanpa menginstal AutoCAD®.
+## aspose.psd untuk java
 
-### Aspose.3D untuk Java
+[Photoshop Java API](https://products.aspose.com/psd/java/) dengan mulus mengintegrasikan pemrosesan file PSD & PSB, manipulasi & fitur konversi ke dalam aplikasi Java Anda tanpa memerlukan Adobe Photoshop.
 
-API Pemrosesan File 3D yang berfungsi tanpa perangkat lunak pemodelan & rendering eksternal. Mendukung pemrosesan Autodesk®, Wavefront, Collada, Draco, dan banyak lagi format 3D lainnya.
+## aspose.pub untuk java
 
-### Aspose.HTML untuk Java
+API Java ringan hingga [read, convert & manipulate Microsoft Publisher files (.PUB)](https://products.aspose.com/pub/java/) tanpa memerlukan perpustakaan atau perangkat lunak pihak ke-3.
 
-API untuk memanipulasi dan merender dokumen HTML termasuk gaya CSS ke PDF dan format gambar raster lainnya.
+## aspose.font untuk java
 
-### Aspose.Halaman untuk Java
+Aspose.font untuk Java membantu Anda [menggabungkan kemampuan pemuatan dan gambar font](https://products.aspose.com/font/java/) ke dalam aplikasi asli Java. Ini mendukung berbagai format font seperti `truetype` (dengan truetype collectons),` cff`, `opentype`, dan` type1`.
 
-XPS & API Pemrosesan Dokumen PostScript dengan dukungan untuk pembuatan, penguraian, dan konversi format XPS, PS, dan EPS.
+## aspose.tex untuk java
 
-### Aspose.PSD untuk Java
+Aspose.tex untuk Java adalah [Koleksi File Tex Meneteskan Kelas Java](https://products.aspose.com/tex/java/). Ini membantu Anda mengeset file TEX untuk mendapatkan dokumen dalam format, seperti, XPS, PDF, PNG, JPEG, TIFF dan BMP. Pembuatan format TEX khusus juga didukung.
 
-API untuk membuat, memuat, memodifikasi & merender dokumen format Adobe Photoshop® (PSD & PSB) tanpa menginstal perangkat lunak pihak ketiga.
-
-### Aspose.OMR untuk Java
-
-Optical Mark Recognition API untuk mendeteksi dan mengurai gambar lembar digital OMR dari berbagai format gambar yang dipindai.
-
-### Aspose.PUB untuk Java
-
-API Pemrosesan File Publikasi Elektronik untuk memuat dan mengonversi format Microsoft Publisher® PUB ke PDF.
-
-### Aspose.Font untuk Java
-
-Font Loading dan Rendering API dengan dukungan untuk TrueType, CFF, OpenType, Type1, dll.
-
-### Aspose.TeX untuk Java
-
-API ke file Typeset TeX. Mendukung beberapa format output seperti XPS, PDF, PNG, JPEG, TIFF, BMP.
-
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
-
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="total" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[Halaman produk](https://products.aspose.com/total/java/) | [Dokumen](https://docs.aspose.com/total/java/) | [Referensi API](https://apireference.aspose.com/) | [Contoh](http://aspose.github.io) | [Blog](https://blog.aspose.com/category/total/) | [Mencari](https://search.aspose.com/) | [Dukungan gratis](https://forum.aspose.com/) | [Lisensi sementara](https://purchase.aspose.com/temporary-license) | [Kebijakan](https://purchase.aspose.com/policies)

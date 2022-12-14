@@ -34,8 +34,12 @@
                               <div class="package-title">
 
                                     <span class="pull-left">
-                                    <img class="package-icon img-responsive" aria-hidden="true" alt=""
-                                       src="/res_repo/img/aspose{{ lower (replace  (replace  $.context.RelPermalink "/" "_") "_java_" "-for-java") }}.png" />
+                                    <!--<img class="package-icon img-responsive" aria-hidden="true" alt=""
+                                       src="/res_repo/img/aspose{{ lower (replace  (replace  $.context.RelPermalink "/" "_") "_java_" "-for-java") }}.png" />-->
+                                       <!-- @am modified fix path for multilingual -->
+                                       <img class="package-icon img-responsive" aria-hidden="true" alt=""
+                                       src="/res_repo/img/aspose_{{ lower ($.context.Section) }}-for-java.png" />
+                                       <!-- @am /modified fix path for multilingual -->
                                     </span>
                                     <span class="title" tabindex="0">
                                       <h2>

@@ -1,9 +1,59 @@
 ---
-title: "Yazı Tipi Çizimi ve İşleme JAR Dosyalarını İndirin | Aspose.Font"
-description: "Yazı tiplerini (TTF, TTC, OpenType, CFF, Type1, vb.) oluşturmak, işlemek ve dönüştürmek için Java sınıflarını JAR olarak indirin. Kompakt yazı tipini, Latin yazı tipini, sembolleri ve glifleri destekler."
-keywords: "font"
-family_listing_page_title: "Java için Aspose.Font"
-family_listing_page_description: "Aspose.Font for Java, farklı yazı tipi dosyalarıyla çalışmak için esnek ve kullanımı kolay bir kitaplıktır. API, TrueType CFF, OpenType ve Type1 gibi birden çok yazı tipi biçimini destekler."
+title: "Aspose.font | Java Yazı Tipi İşleme API | TT, CFF, OT, TYPE1" 
+linktitle: Aspose.Font
+description: "Yazı tipi (TTF, TTC, OpenType, CFF, Type1, vb.) İçin Java Sınıf Kütüphanesi oluşturma, işleme ve dönüşüm. Kompakt yazı tipini, Latin yazı tipini, sembolleri ve glifleri destekler." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Font
+- Aspose Java API
+- font java library
+- font java class
+- TTF
+- TTC
+- OpenType
+- CFF
+- Type1
+- postscript
+- scalabale font
+- true type
+- compact font
+- latin font
+- symbols
+- glyphs
+- font rendering
+- render text
+- Windows
+- Linux
+- Mac
+- J2SE
+- Maven
+- font converter
+- font conversion
+- WOFF
+- WOFF2
+- EOT
+- TTF to WOFF
+- TTF to WOFF2
+- WOFF to TTF
+- WOFF to WOFF2
+- WOFF2 to TTF
+- WOFF2 to WOFF
+- EOT to TTF
+- EOT to WOFF
+- EOT to WOFF2
+- Type1 to TFF
+- Type1 to WOFF
+- Type1 to WOFF2
+- CFF to TTF
+- CFF to WOFF
+- CFF to WOFF2
+- load font
+family_listing_page_title: "Java için aspose.font" 
+family_listing_page_description: "Aspose.font Java için esnektir ve farklı yazı tipi dosyalarıyla çalışmak için kullanımı kolaydır. API, Truetype CFF, OpenType ve Type1 gibi birden fazla yazı tipi formatını destekler." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,89 +61,91 @@ family_listing_page_venture: "4"
 family_listing_page_package: "268"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-font/"
-tags: ['TTF-to-WOFF', 'TTF-to-WOFF2', 'WOFF-to-TTF', 'WOFF-to-WOFF2', 'WOFF2-to-TTF', '', 'WOFF2-to-WOFF', 'EOT-to-TTF', 'EOT-to-WOFF', 'EOT-to-WOFF2', 'Type1-to-TFF', 'Type1-to-WOFF', 'Type1-to-WOFF2', 'CFF-to-TTF', 'CFF-to-WOFF', 'CFF-to-WOFF2']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/font/41
+productLink: https://products.aspose.com/font/java/
+dataFolder: aspose_font
+packages_refs:
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-7"
+- "22-6"
+- "20-10"
+- "21-10"
+- "21-12"
+- "21-4"
+- "21-8"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/font" linktext=" Support Forum " >}}
+# Çeşitli yazı tipi formatları için Java API
+[![banner](./aspose_font-for-java-banner.png)](./)
 
-{{< Common/h2 text="Yazı Tipleriyle Çizmek ve Çalışmak için Aspose.Font'u İndirin"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose, tüm Java API'lerini şu adreste barındırır:
-{{< Common/link href="https://repository.aspose.com" text="Aspose Deposu"  >}}. Pom.xml'inize aşağıdaki konfigürasyonları ekleyerek Aspose.Font for Java API'sini doğrudan Maven tabanlı projelerinizde kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen ziyaret edin
-{{< Common/link href="https://docs.aspose.com/font/java/installation/" text="Aspose.Font for Java'yı Maven Repository'den Yükleme"  >}}dokümantasyon sayfası.
-{{< Common/release-notes-link family="font" product="java" href="https://docs.aspose.com/font/java/release-notes/" text="https://docs.aspose.com/font/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Ürün sayfası](https://products.aspose.com/font/java) | [Belgeler](https://docs.aspose.com/font/java/) | [API referansı](https://apireference.aspose.com/font/java) | [Örnekler](https://github.com/aspose-font/Aspose.Font-for-Java) | [Blog](https://blog.aspose.com/category/font/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/font) | [Geçici lisans](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.Font for Java](https://products.aspose.com/font/java) bir yazı tipi yükleme ve çizim kütüphanesidir. Truetype (Truetype Collectons ile), CFF, OpenType ve Type1 gibi çoklu ön formatları destekler. API, yazı tipini yüklemek/kaydetmek için zengin işlevsellik sağlar ve veri yapıları hakkında tüm yazı tipi türleri tarafından desteklenen herhangi bir Glif ile bilgi sağlar. Ayrıca, karakter kodları ve glif tanımlayıcıları arasında bir eşlemeyi temsil eden tüm yazı tipi türleri için kodlama bilgileri sağlar. Oluşturma alt sistemi, son kullanıcıların istenen glif veya metni oluşturmalarına yardımcı olur. Özel glifler, basit grafik işlevselliği (taşıma noktası, çizme hattı, eğri) kullanılarak arayüz uygulayarak oluşturulabilir.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-font</artifactId>
-      <version>22.6</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+## Font API özellikleri
 
-{{KÖPRÜ1}} | {{KÖPRÜ2}} | {{KÖPRÜ3}} | {{KÖPRÜ4}} | {{KÖPRÜ5}} | {{KÖPRÜ6}} | {{KÖPRÜ7}} | {{KÖPRÜ8}} | {{KÖPRÜ9}}
+- [Diskten yazı tipi dosyaları yükleyin](https://docs.aspose.com/font/java/loading-saving-cff-fonts/) ve akış.
+- Yazı tipi bilgilerini okuyun ve güncellenmiş yazı tipi dosyalarını diske kaydedin.
 
-## Java için Aspose.Font'u neden indirmeliyim?
+-[*`truetype`*ve*` opentype`*] (https://docs.aspose.com/font/java/working-with-truetype-and-opentype-fonts/) yazı desteği için destek.
+- Yerel olarak depolanan dosyalardan `truetype` yazı tipi türlerini yükleyin, parametreleri güncelleyin ve kaydet.
+- Glifler ve `truetype` yazı tiplerinin metrikleri ile çalışın.
+- `truetype` ve` type1 'yazı tipini kullanarak metin oluşturun.
+- Yazı tiplerinde Latin sembollerini tespit edin.
+- Yerel diskte depolanan `type1` yazı tipinden veri yükleyin ve çıkarın.
+- `type1 'yazı tiplerinin glifleri ve metrikleri ile çalışın.
+- Özel arabirimleri kullanarak metin oluşturun.
 
-Aspose.Font for Java, bir font yükleme ve çizim kütüphanesidir. TrueType (TrueType koleksiyonlarıyla), CFF, OpenType ve Type1 gibi birden çok ön formatı destekler. API, yazı tipini yüklemek/kaydetmek için zengin işlevsellik sağlar ve tüm yazı tipi türleri tarafından desteklenen herhangi bir glif ile birlikte veri yapıları hakkında bilgi sağlar. Ayrıca, karakter kodları ve glif tanımlayıcıları arasında bir eşlemeyi temsil eden tüm yazı tipi türleri için kodlama bilgisi sağlar. Oluşturma alt sistemi, son kullanıcıların istenen herhangi bir glif veya metni oluşturmasına yardımcı olur. Basit grafik işlevselliği (hareket noktası, çizgi çizme, eğri) kullanılarak arayüz uygulanarak özel glifler oluşturulabilir.
+Daha kapsamlı bir özellik listesi için lütfen [Özellik Genel Bakış](https://docs.aspose.com/font/java/feature-list/) adresini ziyaret edin.
 
-## Yazı Tipi API Özellikleri
-
-- Yazı tipi dosyalarını diskten ve akıştan yükleyin.
-- Yazı tipi bilgilerini okuyun ve güncellenen yazı tipi dosyalarını diske kaydedin.
-- *`TrueType`* ve *`OpenType`* Yazı Tipleri için destek.
-- Yerel olarak depolanan dosyalardan 'TrueType' Yazı tipi türlerini yükleyin, parametreleri güncelleyin ve kaydedin.
-- "TrueType" Yazı Tiplerinin Glifleri ve Metrikleri ile çalışın.
-- Metni "TrueType" ve "Type1" yazı tipini kullanarak oluşturun.
-- Yazı Tiplerinde Latin Sembollerini Algıla.
-- Yerel diskte saklanan 'Type1' Yazı Tipi'nden veri yükleyin ve çıkarın.
-- "Type1" Yazı Tiplerinin Glifleri ve Metrikleri ile çalışın.
-- Özel arayüzler kullanarak metin oluşturun.
-
-Daha kapsamlı bir özellik listesi için lütfen [Feature Overview](https://docs.aspose.com/font/java/feature-list/) adresini ziyaret edin.
-
-### Yazı Tipi Biçimlerini Okuma ve Yazma
-
+## Yazı tipi formatlarını oku ve yaz
 TTF
 
-### Yazı Tipi Biçimlerini Oku
+## Yazı tipi formatlarını okuyun
+TTC, Opentype, CFF, Tip1
 
-TTC, OpenType, CFF, Type1
+## Desteklenen Ortamlar
+- ** Microsoft Windows: ** Windows Desktop & Server (X86, X64), Windows Azure
+- ** MacOS: ** Mac OS X
+- ** linux: ** ubuntu, centos ve diğerleri
+- ** Java sürümleri: ** `J2SE 8.0 (1.8)` veya üstü.
 
-### Desteklenen Ortamlar
+## Başlamak
 
-- **Microsoft Windows®:** Windows Masaüstü ve Sunucu (x86, x64), Windows Azure
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, CentOS ve diğerleri
-- **Java Sürümleri:** "J2SE 8.0 (1.8)" veya üstü.
+Aspose.font Java API'leri [Aspose deposu](https://repository.aspose.com/font/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose.font kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/) Dokümantasyon sayfasını ziyaret edin.
 
-{{< Common/hr >}}
+## Java kullanarak yazı tipindeki Latin sembolleri desteği tespit edin
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+```java
+// For complete examples and data files, please go to https://github.com/aspose-font/Aspose.Font-for-Java
+String fileName = Utils.getDataDir() + "Montserrat-Regular.ttf"; //Font file name with full path
 
-{{< Common/hr >}}
+      FontDefinition fd = new FontDefinition(FontType.TTF, new FontFileDefinition("ttf", new FileSystemStreamSource(fileName)));
+      TtfFont ttfFont = (TtfFont) Font.open(fd);
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="font" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+      boolean latinText = true;
 
+
+      for (int code = 65; code < 123; code++)
+      {
+          GlyphId gid = ttfFont.getEncoding().decodeToGid(code);
+          if (gid == null || gid == GlyphUInt32Id.getNotDef())
+          {
+              latinText = false;
+          }
+      }
+
+      if (latinText)
+      {
+          System.out.println(MessageFormat.format("Font {0} supports latin symbols.", ttfFont.getFontName()));
+      }
+      else
+      {
+      	System.out.println(MessageFormat.format("Latin symbols are not supported by font {0}.", ttfFont.getFontName()));
+      }
+```
+
+[Ürün sayfası](https://products.aspose.com/font/java) | [Belgeler](https://docs.aspose.com/font/java/) | [API referansı](https://apireference.aspose.com/font/java) | [Örnekler](https://github.com/aspose-font/Aspose.Font-for-Java) | [Blog](https://blog.aspose.com/category/font/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/font) | [Geçici lisans](https://purchase.aspose.com/temporary-license)

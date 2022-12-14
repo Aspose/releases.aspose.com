@@ -1,9 +1,75 @@
 ---
-title: "Descargar archivos JAR de procesamiento de hojas de cálculo | API Aspose.Cells"
-description: "Descargue archivos JAR que contienen clases de Java para procesar, manipular y convertir hojas de cálculo de Excel® a través de la API local. Admite gráficos, impresión, encriptación y más."
-keywords: "Java Excel Library, Java Excel API"
-family_listing_page_title: "Aspose.Cells para Java"
-family_listing_page_description: "Aspose.Cells for Java es una API de procesamiento de hojas de cálculo de Excel galardonada que permite a los desarrolladores de Java incorporar la capacidad de leer, escribir y manipular hojas de cálculo de Excel en sus propias aplicaciones de Java sin necesidad de depender de Microsoft Excel."
+title: "Aspose.cells | Biblioteca Java de procesamiento de hoja de cálculo de Excel" 
+linktitle: Aspose.Cells
+description: "Biblioteca Java para procesar, manipular y convertir hojas de cálculo de Excel y OpenOffice. Admite fórmula (E), gráficos, validaciones, representación, impresión y cifrado." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Cells
+- Aspose Java API
+- spreadsheet java library
+- spreadsheet java class
+- Maven
+- XLS
+- XLSX
+- XLSB
+- XLSM
+- XLT
+- XLTX
+- XLTM
+- XLAM
+- CSV
+- TSV
+- TabDelimited
+- TXT
+- HTML
+- MHTML
+- ODS
+- SpreadsheetML
+- Numbers
+- JSON
+- DIF
+- PDF
+- XPS
+- SVG
+- TIFF
+- PNG
+- BMP
+- EMF
+- JPEG
+- GIF
+- Markdown
+- SXC
+- FODS
+- DOCX
+- PPTX
+- Windows
+- Linux
+- Mac
+- J2SE
+- print
+- rendering
+- spreadsheet
+- encryption
+- workbook
+- excel to XPS
+- worksheet to XPS
+- workbook to XPS
+- excel to HTML
+- excel to PDF
+- conversion
+- convert
+- PDFA
+- worksheet to image
+- worksheet to SVG
+- JSON to CSV
+- CSV to JSON
+- import
+family_listing_page_title: "Aspose.cells para java" 
+family_listing_page_description: "Aspose.Cells for Java es una API de procesamiento de hoja de cálculo de Excel galardonada que permite a los desarrolladores de Java incrustar la capacidad de leer, escribir y manipular hojas de cálculo de Excel en sus propias aplicaciones Java sin necesidad de confiar en Microsoft Excel." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,123 +77,185 @@ family_listing_page_venture: "4"
 family_listing_page_package: "34"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-cells/"
-tags: ['Aspose.Total', 'Aspose.Cells', 'Aspose-Java-API', 'spreadsheet-java-library', 'spreadsheet-java-class', 'Maven', 'XLS', 'XLSX', 'XLSB', 'XLSM', 'XLT', 'XLTX', 'XLTM', 'XLAM', 'CSV', 'TSV', 'TabDelimited', 'TXT', 'HTML', 'MHTML', 'ODS', 'SpreadsheetML', 'Numbers', 'JSON', 'DIF', 'PDF', 'XPS', 'SVG', 'TIFF', 'PNG', 'BMP', 'EMF', 'JPEG', 'GIF', 'Markdown', 'SXC', 'FODS', 'DOCX', 'PPTX', 'Windows', 'Linux', 'Mac', 'J2SE', 'print', 'rendering', 'spreadsheet', 'encryption', 'workbook', 'excel-to-XPS', 'worksheet-to-XPS', 'workbook-to-XPS', 'excel-to-HTML', 'excel-to-PDF', 'conversion', 'convert', 'PDFA', 'worksheet-to-image', 'worksheet-to-SVG', 'JSON-to-CSV', 'CSV-to-JSON', 'import']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/cells/9
+productLink: https://products.aspose.com/cells/java/
+dataFolder: aspose_cells
+packages_refs:
+- "22-12"
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "16-10-0"
+- "16-11-0"
+- "16-12-0"
+- "17-02-0"
+- "17-1-0"
+- "17-10"
+- "17-11"
+- "17-12"
+- "17-3-0"
+- "17-4-0"
+- "17-5"
+- "17-6"
+- "17-7"
+- "17-8"
+- "17-9"
+- "18-1"
+- "18-10"
+- "18-11"
+- "18-12"
+- "18-2"
+- "18-3"
+- "18-4"
+- "18-5"
+- "18-6"
+- "18-7"
+- "18-8"
+- "18-9"
+- "19-1"
+- "19-10"
+- "19-11"
+- "19-12"
+- "19-2"
+- "19-3"
+- "19-4"
+- "19-5"
+- "19-6"
+- "19-7"
+- "19-8"
+- "19-9"
+- "20-1"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-2"
+- "20-3"
+- "20-4"
+- "20-5"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-1"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-1"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
+- "8-6-3"
+- "8-7-0"
+- "8-7-1"
+- "8-7-2"
+- "8-8-0"
+- "8-8-1"
+- "8-8-2"
+- "8-8-3"
+- "8-9-0"
+- "8-9-1"
+- "8-9-2"
+- "9-0-0"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/cells" linktext=" Support Forum " >}}
+# API Java para formatos de archivo de Excel
+[![banner](./aspose_cells-for-java-banner.png)](./)
 
-{{< Common/h2 text="Descargue Aspose.Cells para procesar formatos de archivo de Excel®"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose aloja todas las API de Java en el
-{{< Common/link href="https://repository.aspose.com" text="Repositorio Aspose"  >}}. Puede usar fácilmente el
-{{< Common/link href="https://repository.aspose.com/cells/" text="Aspose.Cells para la API de Java"  >}}directamente en sus proyectos basados en Maven agregando las siguientes configuraciones a su pom.xml. Para obtener instrucciones detalladas, visite
-{{< Common/link href="https://docs.aspose.com/cells/java/installation/" text="Instalación de Aspose.Cells para Java desde el repositorio de Maven"  >}}página de documentación.
-{{< Common/release-notes-link family="cells" product="java" href="https://docs.aspose.com/cells/java/release-notes/" text="https://docs.aspose.com/cells/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Página del producto](https://products.aspose.com/cells/java) | [Documentos](https://docs.aspose.com/cells/java/) | [Población](https://products.aspose.app/cells/family) | [Referencia de API](https://apireference.aspose.com/cells/java) | [Ejemplos](https://github.com/aspose-cells/Aspose.Cells-for-Java) | [Blog](https://blog.aspose.com/category/cells/) | [Búsqueda](https://search.aspose.com/) | [Soporte gratuito](https://forum.aspose.com/c/cells) | [Licencia temporal](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.Cells for Java](https://products.aspose.com/cells/java) es una API de procesamiento de hoja de cálculo de Excel galardonada que permite a los desarrolladores de Java incorporar la capacidad de leer, escribir y manipular Excel & Reg; Hojas de cálculo (XLS, XLSX, XLSM, XLSB, XLTX, Hoja de cálculo, CSV, ODS), HTML, MHTML, PDF y formatos de archivo de imagen en sus propias aplicaciones Java sin necesidad de confiar en Microsoft Excel & Reg ;.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-cells</artifactId>
-      <version>22.10</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
-
-{{HIPERVINCULO1}} | {{HIPERVINCULO2}} | {{HIPERVINCULO3}} | {{HIPERVINCULO4}} | {{HIPERVINCULO5}} | {{HIPERVINCULO6}} | {{HIPERVINCULO7}} | {{HIPERVINCULO8}} | {{HIPERVINCULO9}} | {{HIPERVINCULO10}}
-
-## ¿Por qué descargar Aspose.Cells para Java?
-
-Aspose.Cells para Java es una API de procesamiento de hojas de cálculo de Excel® galardonada que permite a los desarrolladores de Java integrar la capacidad de leer, escribir y manipular hojas de cálculo de Excel® (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, PDF y formatos de archivo de imagen en sus propias aplicaciones Java sin necesidad de depender de Microsoft Excel®.
+## Funciones de procesamiento de archivos de Excel
 
 ### Características del documento
-
-- Abrir archivos Excel® simples o cifrados (Excel97, Excel2007/2010/2013) de diferentes fuentes.
-- Guarde archivos de Excel® (Excel97- Excel2007/2010/2013) en varios formatos admitidos.
-- Convierta archivos y hojas de cálculo de Excel® a varios formatos admitidos.
-- Convertir a formato de archivo de imagen etiquetado (`TIFF`).
-- Leer y escribir formato de hoja de cálculo OpenDocument (`ODS`).
-- Modificar las propiedades de los documentos de los archivos de Excel®.
+- Abra los archivos de Excel simples o encriptados (Excel97, Excel2007/2010/2013) de diferentes fuentes.
+- Guarde los archivos de Excel (Excel97- Excel2007/2010/2013) en varios formatos compatibles.
+- Convertir archivos de Excel y hojas de cálculo a varios formatos compatibles.
+- Convertir al formato de archivo de imagen etiquetado (`TIFF`).
+- Lea y escriba el formato de hoja de cálculo de OpenDocument (`ODS`).
+- Modifique las propiedades del documento de los archivos de Excel.
 
 ### Características de la hoja de trabajo
-
-- Hacer que la hoja de trabajo sea visible u oculta.
-- Capacidad para mostrar u ocultar pestañas de hojas de trabajo, barras de desplazamiento, líneas de cuadrícula y encabezados.
+- Haga que la hoja de trabajo sea visible o oculta.
+- Capacidad para mostrar u ocultar pestañas de hojas de trabajo, barras de desplazamiento, cuadrículas y encabezados.
 - Aplicar el nivel de zoom de la hoja de trabajo.
-- Mantenga visibles los datos seleccionados mientras se desplaza por los paneles congelados.
-- Capacidad para obtener una vista previa de los saltos de página de la hoja de trabajo.
-- Soporte de protección para el contenido de la hoja de trabajo, objetos y escenarios.
-- Realice y aplique la configuración de configuración de página a las hojas de trabajo.
-- Realizar varias acciones en filas y columnas individuales o grupales.
+- Mantenga los datos seleccionados visibles mientras se desplazan en paneles de congelación.
+- Capacidad para obtener una vista previa de los descansos de la página de la hoja de trabajo.
+- Soporte de protección para el contenido de hojas de trabajo, objetos y escenarios.
+- Realice y aplique la configuración de configuración de la página en hojas de trabajo.
+- Realice varias acciones en individuo o grupo de filas y columnas.
 
-### Funciones de gestión de datos
+### Características de gestión de datos
+- Inserte datos en celdas específicas en tiempo de ejecución.
+- Obtenga datos de varios datos de datos e importe en hojas de trabajo.
+- Recuperar datos de las celdas en función de su tipo de datos.
+- Obtenga datos de las celdas de hojas de trabajo y exporte a la matriz.
+- Aplicar formateo condicional.
+- Realice numerosas acciones de formato en datos, como la configuración de fuentes.
 
-- Insertar datos en celdas específicas en tiempo de ejecución.
-- Obtenga datos de varias fuentes de datos e impórtelos en hojas de trabajo.
-- Recuperar datos de celdas en función de su tipo de datos.
-- Obtenga datos de las celdas de la hoja de trabajo y expórtelos a una matriz.
-- Aplicar formato condicional.
-- Realice numerosas acciones de formato en los datos, como la configuración de la fuente.
-
-### Funciones de gráficos y gráficos
-
+### Características de gráficos y gráficos
 - Admite la creación de varios tipos de gráficos.
-- Agregar gráficos personalizados a la hoja de trabajo.
-- Agregue imágenes a las hojas de trabajo en el tiempo de ejecución.
-- Posibilidad de imprimir hojas de trabajo.
+- Agregue gráficos personalizados a la hoja de trabajo.
+- Agregue imágenes a las hojas de trabajo en tiempo de ejecución.
+- Capacidad para imprimir hojas de trabajo.
 
 ### Características avanzadas
+- Use el motor de cálculo de fórmula robusto para soportar el cálculo de la fórmula.
+- Manipule el código VBA o las macros.
+- Cree tablas de pivote y cambie sus datos de origen en tiempo de ejecución.
 
-- Utilice un motor de cálculo de fórmulas sólido para respaldar el cálculo de fórmulas.
-- Manipular código VBA o Macros.
-- Cree tablas dinámicas y cambie sus datos de origen en tiempo de ejecución.
+## Leer y escribir formatos de hoja de cálculo
+** Microsoft Excel: ** XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML \
+** OpenOffice: ** ODS \
+** Texto: ** CSV, TSV \
+** web: ** html, mhtml \
+** Números: ** Documentos de la aplicación de los números de la suite de la oficina de la oficina de Apple
 
-### Leer y escribir formatos de hoja de cálculo
+## Guardar archivos de Excel como
+** Diseño fijo: ** PDF, PDF/A, XPS \
+** Intercambio de datos: ** DIF \
+** Imágenes: ** JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
 
-**Microsoft Excel®:** XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML\
-**OpenOffice®:** SAO\
-**Texto:** CSV, TSV\
-**Web:** HTML, MHTML\
-**Números:** Documentos de la aplicación Numbers de la suite ofimática iWork de Apple
+## Entornos compatibles
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** macOS: ** Mac OS X
+- ** Linux: ** Ubuntu, OpenSuse, CentOS y otros
+- ** versiones Java: ** `J2SE 7.0 (1.7)`, o arriba
 
-### Guardar archivos de Excel® como
+## Empezar
 
-**Diseño fijo:** PDF, PDF/A, XPS\
-**Intercambio de datos:** DIF\
-**Imágenes:** JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+Aspose.Cells Las API Java están alojadas en el [Repositorio de asposio](https://releases.aspose.com/cells/java/). Puede usar fácilmente Aspose.cells para la API Java directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.Cells for Java from Maven Repository](https://docs.aspose.com/cells/java/installation/).
 
-### Entornos compatibles
+## Convertir la tabla para variar con opciones con Java
 
-- **Microsoft Windows®:** Escritorio y servidor de Windows (x86, x64)
-- **macOS®:** Mac OS X
-- **Linux:** Ubuntu, OpenSUSE, CentOS y otros
-- **Versiones de Java:** `J2SE 7.0 (1.7)`, o superior
+```java
+// For complete examples and data files, please go to https://github.com/aspose-cells/Aspose.Cells-for-Java
+// The path to the documents directory.
+String dataDir = Utils.getSharedDataDir(ConvertTableToRangeWithOptions.class) + "Tables/";
+// Open an existing file that contains a table/list object in it
+Workbook workbook = new Workbook(dataDir + "book1.xlsx");
 
-{{< Common/hr >}}
+TableToRangeOptions options = new TableToRangeOptions();
+options.setLastRow(5);
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+// Convert the first table/list object (from the first worksheet) to normal range
+workbook.getWorksheets().get(0).getListObjects().get(0).convertToRange(options);
 
-{{< Common/hr >}}
+// Save the file
+workbook.save(dataDir + "ConvertTableToRangeWithOptions_out.xlsx");
+```
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="cells" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[Página del producto](https://products.aspose.com/cells/java) | [Documentos](https://docs.aspose.com/cells/java/) | [Población](https://products.aspose.app/cells/family) | [Referencia de API](https://apireference.aspose.com/cells/java) | [Ejemplos](https://github.com/aspose-cells/Aspose.Cells-for-Java) | [Blog](https://blog.aspose.com/category/cells/) | [Búsqueda](https://search.aspose.com/) | [Soporte gratuito](https://forum.aspose.com/c/cells) | [Licencia temporal](https://purchase.aspose.com/temporary-license)

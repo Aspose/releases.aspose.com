@@ -1,9 +1,39 @@
 ---
-title: "API форматов файлов Java | Aspose.Total для Java"
-description: "Загрузите набор библиотек Java для создания, обработки, преобразования, рендеринга и печати файлов Microsoft Word, Excel, PowerPoint, Outlook, Publisher, Visio, Project и OneNote. Пакет также включает API для форматов файлов PDF, Photoshop, CAD, GIS и 3D, а также API для штрих-кодов, OCR и OMR."
-keywords: "Java libraries  "
-family_listing_page_title: "Aspose.Total для Java"
-family_listing_page_description: "Aspose.Total для Java позволяет разработчикам создавать невероятно универсальные системы обработки файлов, способные обрабатывать более 100 популярных форматов файлов. Разработчики приложений Java SE или EE могут расширять свои приложения с помощью возможности загрузки, создания, изменения, рендеринга и взаимного преобразования файлов из Microsoft Office, OpenOffice, Visio, Project, CAD и многих других широко используемых категорий форматов."
+title: "Aspose.total | Библиотеки классов Java для обработки форматов файлов" 
+linktitle: Aspose.Total
+description: "Java High Code API, позволяющие вашим приложениям работать с форматами файлов Microsoft Word, Excel, PowerPoint, Outlook, OneNote, 3D, CAD, PDF, ГИС, электронной почты, HTML и т. Д." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Words
+- Aspose Cells
+- Aspose PDF
+- Aspose Slides
+- Aspose Email
+- Aspose BarCode
+- Aspose Imaging
+- Aspose Tasks
+- Aspose OCR
+- Aspose Diagram
+- Aspose Note
+- Aspose CAD
+- Aspose HTML
+- Aspose 3D
+- Aspose Page
+- Aspose PSD
+- Aspose PUB
+- Aspose Font
+- Aspose TeX
+- Maven
+- J2SE
+- Windows
+- Linux
+- Mac
+family_listing_page_title: "Aspose.total для Java" 
+family_listing_page_description: "Aspose.total для Java позволяет разработчикам создавать невероятно универсальные системы обработки файлов, способные обрабатывать 100+ популярных форматов файлов. Прикладные программисты Java SE или EE могут улучшить свои приложения с возможностью загрузки, создания, модификации, рендеринга и межконвертных файлов из Microsoft Office, OpenOffice, Visio, Project, CAD и многих других часто используемых категорий форматов." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,139 +41,116 @@ family_listing_page_venture: "4"
 family_listing_page_package: "284"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-total/"
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/total/7
+productLink: https://products.aspose.com/total/java/
+dataFolder: aspose_total
+packages_refs:
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "20-12"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-1"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/total" linktext=" Support Forum " >}}
+# Классы Java для манипулирования форматом документов
+[![banner](./aspose_total-for-java-banner.png)](./)
 
-{{< Common/h2 text="Скачать Aspose.Total с Maven"  >}}
+[Страница продукта](https://products.aspose.com/total/java/) | [Док](https://docs.aspose.com/total/java/) ​​| [Ссылка на API](https://apireference.aspose.com/) | [Примеры](http://aspose.github.io) | [Блог](https://blog.aspose.com/category/total/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/) | [Временная лицензия](https://purchase.aspose.com/temporary-license) | [Политика](https://purchase.aspose.com/policies)
 
-{{< Common/paragraph class="package-instructions">}}
-Вы можете легко использовать Aspose.Total для Java непосредственно из
-{{< Common/link href="https://repository.aspose.com/total/" text="Мавен"  >}}на основе проекта, добавив следующие конфигурации в файл pom.xml.
+[Aspose.Total for Java](https://docs.aspose.com/total/java/) является наиболее полным пакетом всех API формата файлов Java, предлагаемых Aspose. Он дает возможность разработчикам создавать, редактировать, отображать, печатать и преобразовать между широким спектром популярных форматов документов из любого приложения Java.
 
-{{< Common/release-notes-link family="total" product="java" href="https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/" text="https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/"  >}}
+## aspose.words для java
 
-{{< /Common/paragraph>}}
+[Word Java Library](https://products.aspose.com/words/java/) позволяет выполнять операции обработки документов MS Word, такие как создание документов, обработка, рендеринг и преобразование форматов Microsoft Word, OpenOffice, разметки и форматов документов электронных книг.
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-         <id>AsposeJavaAPI</id>
-         <name>Aspose Java API</name>
-         <url>https://releases.aspose.com/java/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+## aspose.cells для java
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-         <groupId>com.aspose</groupId>
-         <artifactId>aspose-total</artifactId>
-         <version>21.10</version>
-         <type>pom</type>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Excel Java API & GUI controls](https://products.aspose.com/cells/java/) позволяет создавать, обрабатывать, манипулировать и конвертировать электронные таблицы Excel & OpenOffice. Он обеспечивает возможность читать и писать формулу, шарнирные таблицы, слайсеры, таблицы, диаграммы, объекты рисования, интеллектуальные маркеры и многое другое.
 
-{{< Common/hr >}}
+## aspose.pdf для java
 
-{{ГИПЕРССЫЛКА1}} | {{ГИПЕРССЫЛКА2}} | {{ГИПЕРССЫЛКА3}} | {{ГИПЕРССЫЛКА4}} | {{ГИПЕРССЫЛКА5}} | {{ГИПЕРССЫЛКА6}} | {{ГИПЕРССЫЛКА7}} | {{ГИПЕРССЫЛКА8}} | {{ГИПЕРССЫЛКА9}} | {{ГИПЕРССЫЛКА10}}
+[PDF Java Component](https://products.aspose.com/pdf/java/) позволяет создавать, обрабатывать и манипулировать PDF -документами без установки Adobe Acrobat. Работайте с вложениями, закладками, аннотациями, ссылками, действиями, безопасностью, подписью, операторами, таблицами, тегами файлами PDF, формами PDF, графиками, заголовками, изображениями, отдельными страницами PDF, штампами, водяными знаками и безопасности.
 
-### Зачем скачивать Aspose.Total для Java?
+## aspose.slides для java
 
-Aspose.Total для Java — это набор API-интерфейсов автоматизации форматов файлов для разработчиков Java, которые можно использовать в любом приложении Java J2SE, J2EE, J2ME. Набор состоит из следующих отдельных API-интерфейсов:
+[PowerPoint Presentation обработка и манипуляции API](https://products.aspose.com/slides/java/) помогает в чтении, написании и редактировании файлов презентаций всех популярных форматов.
 
-### Aspose.Words для Java
+## aspose.email для java
 
-API-интерфейсы обработки текстов для создания, обработки, преобразования или преобразования документов Word® в различные форматы.
+[Java Email API](https://products.aspose.com/email/java/) помогает вам создавать, манипулировать, отправлять и получать электронные письма, а также управлять календарями и файлами электронной почты. Он поддерживает протоколы SMTP, MIME, POP3, IMAP и HTTP.
 
-### Aspose.PDF для Java
+## aspose.barcode для java
 
-API управления PDF для создания, анализа, защиты, подписи и преобразования PDF-файлов без использования Adobe Acrobat®.
+[Java Barcode API](https://products.aspose.com/barcode/java/) помогает распознать и генерировать 1D, 2D и почтовые штрих -коды 40+ символогий.
 
-### Aspose.Cells для Java
+## aspose.imaging для java
 
-API обработки электронных таблиц для создания, обработки, преобразования, защиты или печати электронных таблиц без установки MS Excel®.
+[easy-to-use Imaging API](https://products.aspose.com/imaging/java/), который помогает вам создавать, преобразовать, рисовать и преобразовать изображения.
 
-### Aspose.Email для Java
-API управления электронной почтой для создания, генерации электронных писем, отправки электронных писем и анализа электронных писем из Outlook® и Thunderbird®.
+## aspose.tasks для java
 
-### Aspose.Slides для Java
+[Java API для разработки приложений управления проектами](https://products.aspose.com/tasks/java/) с возможностью обрабатывать, манипулировать и преобразовать документы Microsoft Project.
 
-API управления презентациями для создания, изменения, объединения, клонирования, защиты, преобразования и управления PPT/PPTX без MS PowerPoint®.
+## aspose.ocr для java
 
-### Aspose.Imaging для Java
+[Компонент Java ocr](https://products.aspose.com/ocr/java/) помогает вам разрабатывать приложения оптического распознавания персонажей (OCR) для английского, испанского, французского и португальского языков.
 
-API-интерфейсы редактора изображений для создания, загрузки, преобразования или преобразования изображений с оптимизацией памяти.
+## aspose.diagram для java
 
-### Aspose.BarCode для Java
+[Visio Java API](https://products.aspose.com/diagram/java/) Увеличивает ваши приложения для создания диаграмм Visio с нуля, манипулируют существующими диаграммами или преобразовывают Visio в форматы с фиксированным лайатом и изображениями.
 
-API генерации и распознавания штрих-кодов для создания, настройки и распознавания линейных, двумерных и почтовых штрих-кодов.
+## aspose.note для java
 
-### Aspose.Diagram для Java
+[Java OneNote API](https://products.aspose.com/note/java/) помогает вам создавать, манипулировать и преобразовать файлы OneNote, не требуя никаких дополнительных библиотек.
 
-API управления диаграммами для управления и экспорта файлов Microsoft Visio® в форматы PDF, HTML, изображения и XAML.
+## aspose.cad для java
 
-### Aspose.Tasks для Java
+Включает ваши приложения Java на [обрабатывать и преобразовать рисунки САПР](https://products.aspose.com/cad/java/), не требуя установить AutoCAD.
 
-API-интерфейсы управления документами проекта для управления или экспорта файлов MS Project® в форматы Primavera, Excel, PDF, изображения, HTML и XML.
+## aspose.html для java
 
-### Aspose.OCR для Java
+На предпосылке [Java Html API](https://products.aspose.com/html/java/) имитирует поведение безголового браузера и помогает вам обрабатывать и манипулировать HTML -страницами.
 
-API оптического распознавания символов для добавления функций оптического распознавания символов и сканирования документов в ваши Java-приложения.
+## aspose.3d для Java
 
-### Aspose.Note для Java
+[3D API плавно интегрирует 3D -обработку файлов](https://products.aspose.com/3d/java/) и функциональность манипуляции в ваших рабочих и веб -приложениях на основе Java.
 
-API управления заметками для создания, чтения, редактирования, преобразования и управления документами Microsoft OneNote®.
+## aspose.page для java
 
-#### Aspose.CAD для Java
+Создайте, редактируйте и сохраните документы XPS из ваших собственных приложений Java. [Aspose.Page for Java](https://products.aspose.com/page/java/) также позволяет конвертировать файлы XPS, EPS и EP в формат PDF.
 
-API для обработки и преобразования файлов AutoCAD® (DWG, DXF, STL) в форматы PDF и растровых изображений без установки AutoCAD®.
+## aspose.psd для java
 
-### Aspose.3D для Java
+[Photoshop Java API](https://products.aspose.com/psd/java/) плавно интегрирует функции обработки, манипуляции и преобразования PSD & PSB и PSB в ваши приложения Java, не требуя Adobe Photoshop.
 
-API-интерфейсы обработки 3D-файлов, которые работают без какого-либо внешнего программного обеспечения для моделирования и рендеринга. Поддерживает обработку Autodesk®, Wavefront, Collada, Draco и многих других 3D-форматов.
+## aspose.pub для java
 
-### Aspose.HTML для Java
+Легкий API Java до [read, convert & manipulate Microsoft Publisher files (.PUB)](https://products.aspose.com/pub/java/), не требуя каких-либо сторонних библиотек или программного обеспечения.
 
-API для обработки и рендеринга HTML-документов, включая стили CSS, в PDF и другие форматы растровых изображений.
+## aspose.font для java
 
-### Aspose.Page для Java
+Aspose.font для java помогает вам [Включите возможности загрузки и рисунка](https://products.aspose.com/font/java/) в ваших приложениях Java. Он поддерживает различные форматы шрифтов, такие как «trueType» (с TrueType Colleonons), `cff`,` opentype` и `type1`.
 
-API обработки документов XPS и PostScript с поддержкой создания, анализа и преобразования форматов XPS, PS и EPS.
+## aspose.tex для java
 
-### Aspose.PSD для Java
+Aspose.tex для java - [Коллекция TEX Filesting Typesting Java классы](https://products.aspose.com/tex/java/). Это помогает вам набрать файлы Tex для получения документов в форматах, таких как XPS, PDF, PNG, JPEG, TIFF и BMP. Пользовательское создание форматов Tex также поддерживается.
 
-API для создания, загрузки, изменения и рендеринга документов формата Adobe Photoshop® (PSD и PSB) без установки какого-либо стороннего программного обеспечения.
-
-### Aspose.OMR для Java
-
-API оптического распознавания меток для обнаружения и анализа оцифрованных изображений листов OMR из различных форматов отсканированных изображений.
-
-### Aspose.PUB для Java
-
-API-интерфейсы обработки файлов электронных публикаций для загрузки и преобразования формата PUB Microsoft Publisher® в PDF.
-
-### Aspose.Font для Java
-
-API загрузки и рендеринга шрифтов с поддержкой TrueType, CFF, OpenType, Type1 и т. д.
-
-### Aspose.TeX для Java
-
-API для верстки файлов TeX. Поддерживает несколько выходных форматов, таких как XPS, PDF, PNG, JPEG, TIFF, BMP.
-
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
-
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="total" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[Страница продукта](https://products.aspose.com/total/java/) | [Док](https://docs.aspose.com/total/java/) | [Ссылка на API](https://apireference.aspose.com/) | [Примеры](http://aspose.github.io) | [Блог](https://blog.aspose.com/category/total/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/) | [Временная лицензия](https://purchase.aspose.com/temporary-license) | [Политика](https://purchase.aspose.com/policies)

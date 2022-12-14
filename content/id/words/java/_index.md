@@ -1,9 +1,118 @@
 ---
-title: "Unduh JAR untuk Memproses Word® OpenOffice® | Aspose.Words API"
-description: "Unduh file JAR untuk membuat, mengedit, mengonversi, melihat dokumen Word & OpenOffice. Bekerja dengan teks, gambar, formulir, tabel, XML khusus, SmartArt, OLE, VBA & lainnya."
-keywords: "Word API, Java Word Classes"
-family_listing_page_title: "Aspose.Words untuk Java"
-family_listing_page_description: "Aspose.Words for Java adalah Java Word processing API yang memungkinkan Anda untuk melakukan berbagai macam tugas pemrosesan dokumen secara langsung dalam aplikasi Java Anda."
+title: "Aspose.words | Perpustakaan Java untuk memproses format dokumen" 
+linktitle: Aspose.Words
+description: "Perpustakaan Java untuk membuat tampilan edit dan mengonversi dokumen Word dan OpenOffice. Bekerja secara terprogram dengan teks dokumen, gambar, formulir, tabel, xml, ole dan banyak lagi." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Words
+- Aspose Java API
+- word java library
+- word java class
+- Maven
+- conversion
+- converter
+- import
+- export
+- document object model
+- dom
+- render
+- LINQ
+- reporting
+- mail merge
+- DOC
+- DOT
+- DocPreWord60
+- DOCX
+- DOCM
+- DOTX
+- DOTM
+- FlatOpc
+- FlatOpcMacroEnabled
+- FlatOpcTemplate
+- FlatOpcTemplateMacroEnabled
+- RTF
+- WordML
+- HTML
+- MHTML
+- MOBI
+- CHM
+- ODT
+- OTT
+- TXT
+- MD
+- PDF
+- XPS
+- XamlFixed
+- SVG
+- OpenXps
+- PS
+- PCL
+- EPUB
+- XamlFlow
+- XamlFlowPack
+- TIFF
+- PNG
+- BMP
+- EMF
+- JPEG
+- GIF
+- content
+- Word to PDF
+- DOC to PDF
+- DOCX to PDF
+- Word to Image
+- DOCX to JPG
+- DOC to PNG
+- Image to PDF
+- JPG to PDF
+- TIFF to PDF
+- HTML to Markdown
+- HTML to MD
+- DOCX to Markdown
+- DOCX to MD
+- Markdown to PDF
+- MD to PDF
+- HTML to PDF
+- MHT to PDF
+- MHTML to PDF
+- Word to HTML
+- Markdown to HTML
+- MD to HTML
+- Mobi to EPUB
+- RTF to PDF
+- ODT to PDF
+- TXT to PDF
+- Mobi to PDF
+- DOCX to DOC
+- HTML to Word
+- page layout engine
+- flow layout
+- theme
+- section
+- range
+- header
+- footer
+- bookmar
+- table
+- list
+- paragraph
+- hypernation
+- font
+- opentype
+- textbox
+- comment
+- graphic
+- form fields
+- VBA
+- macros
+- markdown
+- J2SE
+family_listing_page_title: "Aspose.Words untuk Java" 
+family_listing_page_description: "Aspose.Words untuk Java adalah API pengolah kata Java canggih yang memungkinkan Anda melakukan sejumlah besar tugas pemrosesan dokumen secara langsung dalam aplikasi Java Anda." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,125 +120,199 @@ family_listing_page_venture: "4"
 family_listing_page_package: "3"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-words/"
-tags: ['Word-to-PDF', 'DOC-to-PDF', 'DOCX-to-PDF', 'Word-to-Image', 'DOCX-to-JPG', 'DOC-to-PNG', 'Image-to-PDF', 'JPG-to-PDF', 'TIFF-to-PDF', 'HTML-to-Markdown', 'HTML-to-MD', 'DOCX-to-Markdown', 'DOCX-to-MD', 'Markdown-to-PDF', 'MD-to-PDF', 'HTML-to-PDF', 'MHT-to-PDF', 'MHTML-to-PDF', 'Word-to-HTML', 'Markdown-to-HTML', 'MD-to-HTML', 'Mobi-to-EPUB', 'RTF-to-PDF', 'ODT-to-PDF', 'TXT-to-PDF', 'Mobi-to-PDF', 'DOCX-to-DOC', 'HTML-to-Word']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/words/8
+productLink: https://products.aspose.com/words/java/
+dataFolder: aspose_words
+packages_refs:
+- "22-12"
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "15-12-0"
+- "16-1-0"
+- "16-10-0"
+- "16-11-0"
+- "16-12-0"
+- "16-2-0"
+- "16-3-0"
+- "16-4-0"
+- "16-5-0"
+- "16-6-0"
+- "16-7-0"
+- "16-8-0"
+- "17-1-0"
+- "17-10"
+- "17-11"
+- "17-12"
+- "17-2-0"
+- "17-3-0"
+- "17-4-0"
+- "17-5"
+- "17-6"
+- "17-7"
+- "17-8"
+- "17-9"
+- "18-1"
+- "18-10"
+- "18-11"
+- "18-12"
+- "18-2"
+- "18-3"
+- "18-4"
+- "18-5"
+- "18-6"
+- "18-7"
+- "18-8"
+- "18-9"
+- "19-1"
+- "19-10"
+- "19-11"
+- "19-12"
+- "19-2"
+- "19-3"
+- "19-4"
+- "19-5"
+- "19-6"
+- "19-7"
+- "19-8"
+- "19-9"
+- "20-1"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-2"
+- "20-3"
+- "20-4"
+- "20-5"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-1"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-1"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/words" linktext=" Support Forum " >}}
+# Java API untuk berbagai format dokumen
+[![Develop applications with the ability to create, process, render and convert Word documents to multiple formats in Java.](./aspose_words-for-java-banner.png)](./)
 
-{{< Common/h3 text="Unduh Aspose.Words Java JAR untuk memproses File Word®"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Asumsikan host semua Java API di
-{{< Common/link href="https://repository.aspose.com" text="Apose Repositori"  >}}. Anda dapat dengan mudah menggunakan
-{{< Common/link href="https://repository.aspose.com/words/" text="Aspose.Words untuk Java API"  >}}langsung di proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml Anda. Untuk petunjuk terperinci, silakan kunjungi
-{{< Common/link href="https://docs.aspose.com/words/java/installation/" text="Menginstal Aspose.Words untuk Java dari Repositori Maven"  >}}halaman dokumentasi.
-{{< Common/release-notes-link family="words" product="java" href="https://docs.aspose.com/words/java/release-notes/" text="https://docs.aspose.com/words/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Halaman produk](https://products.aspose.com/words/java) | [Dokumen](https://docs.aspose.com/words/java/) | [Demo](https://products.aspose.app/words/family) | [Referensi API](https://apireference.aspose.com/words/java) | [Contoh](https://github.com/aspose-words/Aspose.Words-for-Java/tree/master/Contoh) | [Blog](https://blog.aspose.com/category/words/) | [Mencari](https://search.aspose.com/) | [Dukungan gratis](https://forum.aspose.com/c/words) | [Lisensi sementara](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-         <id>AsposeJavaAPI</id>
-         <name>Aspose Java API</name>
-         <url>https://repository.aspose.com/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.Words for Java](https://products.aspose.com/words/java) adalah API pengolah kata Java canggih yang memungkinkan Anda melakukan berbagai tugas pemrosesan dokumen secara langsung dalam aplikasi Java Anda. Aspose.Words untuk Java API mendukung pemrosesan Word (DOC, DOCX, OOXML, RTF) HTML, OpenDocument, PDF, EPUB, XPS, SWF dan semua format gambar. Dengan Aspose.Words Anda dapat menghasilkan, memodifikasi, dan mengonversi dokumen tanpa menggunakan Microsoft Word & Reg;.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-         <groupId>com.aspose</groupId>
-         <artifactId>aspose-words</artifactId>
-         <version>22.10</version>
-         <classifier>jdk17</classifier>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+## aspose.words untuk fitur Java API
 
-[Product Page](https://products.aspose.com/words/java) | [Docs](https://docs.aspose.com/words/java/) | [Demos](https://products.aspose.app/words/family) | [API Reference](https://reference.aspose.com/words/java) | [Examples](https://github.com/aspose-words/Aspose.Words-for-Java/tree/master/Examples) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+### ** rendering dan pencetakan **
+- Dokumen tata letak ke halaman dengan kesetiaan tinggi (persis seperti Microsoft Word & Reg; akan melakukan itu) untuk semua format di bawah ini.
+- Render halaman individual atau dokumen lengkap ke `pdf`,` xps`, atau `swf`.
+- Render halaman dokumen ke gambar raster (multipage `TIFF`,` png`, `jpeg`,` bmp`).
+- Render halaman ke objek grafis Java ke ukuran tertentu.
+- Cetak halaman dokumen menggunakan infrastruktur pencetakan java.
+- Perbarui TOC, nomor halaman, dan bidang lainnya sebelum rendering atau pencetakan.
+- Efek 3D rendering melalui `OpenGL`.
 
-## Mengapa mengunduh Aspose.Words untuk Java?
-
-[Aspose.Words for Java adalah API pemrosesan kata Java tingkat lanjut yang memungkinkan Anda melakukan berbagai tugas pemrosesan dokumen secara langsung di dalam aplikasi Java Anda. Aspose.Words untuk Java API mendukung pengolah kata (DOC, DOCX, OOXML, RTF) HTML, OpenDocument, PDF, EPUB, XPS, SWF dan semua format gambar. Dengan Aspose.Words Anda dapat membuat, memodifikasi, dan mengonversi dokumen tanpa menggunakan Microsoft Word®.
-
-## Fitur API Kata
-
-### Merender dan Mencetak
-
-- Tata letak dokumen ke halaman dengan fidelitas tinggi (persis seperti Microsoft Word® akan melakukannya) ke semua format di bawah ini.
-- Render halaman individual atau dokumen lengkap ke `PDF`, `XPS`, atau `SWF`.
-- Render halaman dokumen ke gambar raster (Multipage `TIFF`, `PNG`, `JPEG`, `BMP`).
-- Render halaman ke objek Java Graphics ke ukuran tertentu.
-- Mencetak halaman dokumen menggunakan infrastruktur pencetakan Java.
-- Perbarui TOC, nomor halaman, dan bidang lainnya sebelum merender atau mencetak.
-- Rendering Efek 3D melalui `OpenGL`.
-
-### Fitur Konten Dokumen
-
-- Akses, buat, dan modifikasi berbagai elemen dokumen.
-- Akses dan modifikasi semua elemen dokumen menggunakan kelas dan metode seperti `XmlDocument`.
+### ** Fitur Konten Dokumen **
+- Akses, buat, dan ubah berbagai elemen dokumen.
+- Akses dan modifikasi semua elemen dokumen menggunakan kelas dan metode seperti `xmldocument`.
 - Salin dan pindahkan elemen dokumen antar dokumen.
 - Bergabung dan pisahkan dokumen.
-- Tentukan proteksi dokumen, proteksi terbuka, dan dokumen terenkripsi.
-- Temukan dan ganti teks, sebutkan di atas konten dokumen.
-- Pertahankan atau ekstrak objek OLE dan kontrol ActiveX dari dokumen.
-- Pertahankan atau hapus makro VBA dari dokumen. Pertahankan tanda tangan digital makro VBA.
+- Tentukan perlindungan dokumen, dokumen terbuka yang dilindungi, dan terenkripsi.
+- Temukan dan ganti teks, sebutkan konten dokumen.
+- Lestarikan atau ekstrak objek OLE dan kontrol ActiveX dari dokumen.
+- Lestarikan atau hapus makro VBA dari dokumen. Menjaga tanda tangan digital Macro VBA.
 
-### Fitur Pelaporan
-
-- Dukungan sintaks C# dan metode ekstensi LINQ langsung dalam template (bahkan untuk sumber data `ADO.NET`).
-- Dukungan blok dokumen berulang dan bersyarat (loop dan kondisi) untuk tabel, daftar, dan konten umum.
+### ** Fitur Pelaporan **
+- Dukungan metode ekstensi sintaks C# dan LINQ secara langsung dalam templat (bahkan untuk sumber data `ado.net`).
+- Dukungan blok dokumen yang berulang dan bersyarat (loop dan ketentuan) untuk tabel, daftar, dan konten umum.
 - Dukungan grafik dan gambar yang dihasilkan secara dinamis.
-- Dukungan penyisipan dokumen luar dan blok `HTML` ke dalam dokumen.
-- Dukungan berbagai sumber data (termasuk dari jenis yang berbeda) untuk pembuatan satu dokumen.
-- Dukungan built-in hubungan data (master-detail).
-- Dukungan komprehensif dari berbagai manipulasi data seperti pengelompokan, pengurutan, pemfilteran, dan lainnya langsung di templat.
+- Dukungan penyisipan dokumen luar dan blok `html` ke dalam dokumen.
+- Dukungan beberapa sumber data (termasuk berbagai jenis) untuk pembuatan satu dokumen tunggal.
+-Dukungan bawaan dari hubungan data (master-detail).
+- Dukungan komprehensif dari berbagai manipulasi data seperti pengelompokan, penyortiran, penyaringan, dan lainnya langsung dalam templat.
 
-Untuk daftar fitur yang lebih lengkap, kunjungi [Feature Overview](https://docs.aspose.com/words/java/feature-overview/).
+Untuk daftar fitur yang lebih komprehensif, silakan kunjungi [Tinjauan Fitur](https://docs.aspose.com/words/java/feature-overview/).
 
-### Membaca & Menulis Format Dokumen
+### ** Java API untuk dibaca, tulis berbagai jenis format dokumen dan ekstensi **
+** Microsoft Word: ** doc, docx, rtf, dot, dotx, dotm, docm flatopc, flatopcmacroenabled, flatopctemplate, flatopctemplateMacroenabled \
+** OpenOffice: ** Odt, Ott \
+** WordProcessingMl: ** WordMl \
+** Web: ** html, mhtml \
+** Tata letak tetap: ** pdf \
+** Teks: ** txt
+** Lainnya: ** MD
 
-**Microsoft Word®:** DOC, DOCX, RTF, DOT, DOTX, DOTM, DOCM FlatOPC, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled\
-**OpenOffice®:** ODT, OTT\
-**WordprocessingML:** WordML\
-**Web:** HTML, MHTML\
-**Tata Letak Tetap:** PDF\
-**Teks:** TXT\
-**Lainnya:** MD
+### ** Java API untuk Konverter Dokumen Kata **
+** Tata Letak Tetap: ** XPS, OpenXPS, PostScript (PS) \
+** Gambar: ** tiff, jpeg, png, bmp, svg, emf, gif \
+** Web: ** htmlfixed \
+** Lainnya: ** pcl, epub, xamlfixed, xamlflow, xamlflowpack
 
-### Simpan File Word Sebagai
+### ** Baca format file **
+** MS Office: ** docPreword60
+** ebook: ** mobi
 
-**Tata Letak Tetap:** XPS, OpenXPS, PostScript (PS)\
-**Gambar:** TIFF, JPEG, PNG, BMP, SVG, EMF, GIF\
-**Web:** HtmlTetap\
-**Lainnya:** PCL, EPUB, XamlFixed, XamlFlow, XamlFlowPack
+### ** Lingkungan yang Didukung **
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** MacOS: ** Mac OS X
+- ** Linux: ** Ubuntu, OpenSuse, Centos, dan lainnya
+- ** Versi Java: ** `j2se 7.0 (1.7)`, `j2se 8.0 (1.8)` atau di atas.
 
-### Baca Format File
+## Memulai
 
-**MS Office®:** DocPreWord60\
-**eBuku:** MOBI
+Aspose.Words Java API di -host di [Repositori Aspose](https://repository.aspose.com/words/). Anda dapat dengan mudah menggunakan Aspose.words untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.Words for Java from Maven Repository](https://docs.aspose.com/words/java/installation/).
 
-### Lingkungan yang Didukung
+Kode contoh ## API
 
-- **Microsoft Windows®:** Desktop & Server Windows (x86, x64)
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, OpenSUSE, CentOS, dan lainnya
-- **Versi Java:** `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)` atau lebih tinggi.
+### ** mencetak beberapa halaman pada satu lembar menggunakan java **
 
-{{< Common/hr >}}
+```java
+// Open the document.
+Document doc = new Document(dataDir + "TestFile.doc");
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+// Create a print job to print our document with.
+PrinterJob pj = PrinterJob.getPrinterJob();
 
-{{< Common/hr >}}
+// Initialize an attribute set with the number of pages in the document.
+PrintRequestAttributeSet attributes = new HashPrintRequestAttributeSet();
+attributes.add(new PageRanges(1, doc.getPageCount()));
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="words" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+// Pass the printer settings along with the other parameters to the print document.
+MultipagePrintDocument awPrintDoc = new MultipagePrintDocument(doc, 4, true, attributes);
 
+// Pass the document to be printed using the print job.
+pj.setPrintable(awPrintDoc);
+
+pj.print();
+```
+
+## aplikasi online gratis menggunakan aspose.words API
+
+- ** [Editor Dokumen Online Gratis](https://products.aspose.app/words/editor) ** adalah alternatif untuk Microsoft Word dan OpenOffice. Ini memungkinkan Edit Word dan dokumen PDF secara online dari perangkat apa pun.
+
+- ** [Penampil online gratis](https://products.aspose.app/words/viewer) ** Untuk melihat Word & amp; Dokumen OpenOffice dari perangkat apa pun.
+
+- ** [Penghilang halaman dokumen online gratis](https://products.aspose.app/words/removepages) ** Untuk menghapus satu halaman atau beberapa halaman dari dokumen. Hapus halaman kosong dalam dokumen.
+
+- ** [Tanda Tangan Dokumen Online Gratis](https://products.aspose.app/words/signature) ** Untuk menambahkan teks, gambar, atau tanda tangan berbasis gambar ke dokumen Word.
+
+- ** [Penghilang anotasi online gratis](https://products.aspose.app/words/annotation) ** Untuk menghapus komentar dari dokumen, dapatkan salinan dokumen yang bersih.
+
+[Halaman produk](https://products.aspose.com/words/java) | [Dokumen](https://docs.aspose.com/words/java/) | [Demo](https://products.aspose.app/words/family) | [Referensi API](https://apireference.aspose.com/words/java) | [Contoh](https://github.com/aspose-words/Aspose.Words-for-Java/tree/master/Contoh) | [Blog](https://blog.aspose.com/category/words/) | [Mencari](https://search.aspose.com/) | [Dukungan gratis](https://forum.aspose.com/c/words) | [Lisensi sementara](https://purchase.aspose.com/temporary-license)

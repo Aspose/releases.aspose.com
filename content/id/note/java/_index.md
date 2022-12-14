@@ -1,9 +1,46 @@
 ---
-title: "Unduh OneNote® Memproses File JAR | Aspose.Note API"
-description: "Unduh file JAR untuk memuat, mengedit, menyimpan, & mengonversi format OneNote®. Mendukung halaman, gambar, teks, tabel, lampiran, tag, tugas, gaya teks, dan hyperlink."
-keywords: "Java OneNote Library"
-family_listing_page_title: "Aspose.Catatan untuk Java"
-family_listing_page_description: "Aspose.Note untuk Java adalah OneNote API yang kaya fitur yang memungkinkan aplikasi Java berinteraksi secara dinamis dengan dokumen OneNote tanpa memerlukan Microsoft OneNote. Aspose.Note untuk Java memberdayakan pengembang untuk membuat, membaca, memanipulasi, dan mengekspor konten format file Microsoft OneNote. API juga memungkinkan untuk mengelola lampiran, teks, hyperlink, tabel, tag, dan gaya teks."
+title: "Aspose.Catnote | Perpustakaan Java untuk membuat/memanipulasi dokumen OneNote" 
+linktitle: Aspose.Note
+description: "Perpustakaan Kelas Java untuk Memuat, Mengedit, Simpan, & Konversi Format OneNote. Mendukung halaman, gambar, teks, tabel, lampiran, tag, tugas, gaya teks, dan hyperlink." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Note
+- Aspose Java API
+- note java library
+- note java class
+- Maven
+- ONE
+- ONETOC2
+- PNG
+- GIF
+- JPEG
+- BMP
+- TIFF
+- PDF
+- Windows
+- J2SE
+- HTML to OneNote
+- OneNote to BMP
+- OneNote to JPEG
+- OneNote to TIFF
+- extract text
+- printing document
+- OneNote to HTML
+- text rendering
+- image rendering
+- document navigation
+- text extraction
+- insert text
+- replace text
+- FIPS
+- OneNote
+- SharePoint
+family_listing_page_title: "Aspose. Catatan untuk Java" 
+family_listing_page_description: "Aspose.Catatan untuk Java adalah OneNote API yang kaya fitur yang memungkinkan aplikasi Java untuk berinteraksi secara dinamis dengan dokumen OneNote tanpa memerlukan Microsoft OneNote. Aspose. Catatan untuk Java memberdayakan pengembang untuk membuat, membaca, memanipulasi, dan mengekspor konten format file OneNote Microsoft. API juga memungkinkan untuk mengelola lampiran, teks, hyperlink, tabel, tag, dan gaya teks." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,88 +48,98 @@ family_listing_page_venture: "4"
 family_listing_page_package: "15"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-note/"
-tags: ['Aspose.Total', 'Aspose.Note', 'Aspose-Java-API', 'note-java-library', 'note-java-class', 'Maven', 'ONE', 'ONETOC2', 'PNG', 'GIF', 'JPEG', 'BMP', 'TIFF', 'PDF', 'Windows', 'J2SE', 'HTML-to-OneNote', 'OneNote-to-BMP', 'OneNote-to-JPEG', 'OneNote-to-TIFF', 'extract-text', 'printing-document', 'OneNote-to-HTML', 'text-rendering', 'image-rendering', 'document-navigation', 'text-extraction', 'insert-text', 'replace-text', 'FIPS', 'OneNote', 'SharePoint']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/note/28
+productLink: https://products.aspose.com/note/java/
+dataFolder: aspose_note
+packages_refs:
+- "22-11"
+- "22-9"
+- "22-7"
+- "22-5"
+- "16-11-0"
+- "16-12-0"
+- "17-11"
+- "17-3-0"
+- "17-8"
+- "18-1"
+- "18-11"
+- "18-3"
+- "18-5"
+- "18-7"
+- "18-9"
+- "19-1"
+- "19-11"
+- "19-4"
+- "19-5"
+- "19-7"
+- "19-9"
+- "2-1-0-0"
+- "2-2-0-0"
+- "2-3-0-0"
+- "2-4-0-0"
+- "2-5-0-0"
+- "20-1"
+- "20-11"
+- "20-5"
+- "20-7"
+- "20-9"
+- "21-1"
+- "21-11"
+- "21-3"
+- "21-5"
+- "21-7"
+- "21-9"
+- "22-1"
+- "22-3"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/note" linktext=" Support Forum " >}}
+# Java API untuk pemrosesan dokumen OneNote
+[![banner](./aspose_note-for-java-banner.png)](./)
 
-{{< Common/h3 text="Unduh Aspose.Note Java JAR untuk Pemrosesan Dokumen OneNote®"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Asumsikan host semua Java API di
-{{< Common/link href="https://repository.aspose.com" text="Apose Repositori"  >}}. Anda dapat dengan mudah menggunakan Aspose.Note untuk Java API langsung di proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml Anda. Untuk petunjuk terperinci, silakan kunjungi
-{{< Common/link href="https://docs.aspose.com/note/java/installation/" text="Menginstal Aspose.Note untuk Java dari Maven Repository"  >}}halaman dokumentasi.
-{{< Common/release-notes-link family="note" product="java" href="https://docs.aspose.com/note/java/release-notes/" text="https://docs.aspose.com/note/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Halaman produk](https://products.aspose.com/note/java) | [Dokumen](https://docs.aspose.com/note/java/) | [Demo](https://products.aspose.app/note/family) | [Referensi API](https://apireference.aspose.com/note/java) | [Contoh](https://github.com/aspose-note/Aspose.Note-for-Java) | [Blog](https://blog.aspose.com/category/note/) | [Mencari](https://search.aspose.com/) | [Dukungan gratis](https://forum.aspose.com/c/note) | [Lisensi sementara](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.Note for Java](https://products.aspose.com/note/java) adalah pustaka kelas yang memungkinkan aplikasi untuk berinteraksi dengan Microsoft Office OneNote secara terprogram tanpa instalasinya di server. Ini adalah alternatif murni untuk model objek MS OneNote memberikan kinerja yang jauh lebih baik dan kemudahan penggunaan untuk mengelola dokumen OneNote. Aspose.Catatan untuk Java API memberikan fitur untuk dibaca, mengonversi, membuat, dan mengedit/memanipulasi konten format file OneNote Microsoft.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-note</artifactId>
-      <version>22.5</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+## Microsoft OneNote File Processing
+- Muat, simpan dan konversi dokumen OneNote.
 
-[Product Page](https://products.aspose.com/note/java) | [Docs](https://docs.aspose.com/note/java/) | [Demos](https://products.aspose.app/note/family) | [API Reference](https://apireference.aspose.com/note/java) | [Examples](https://github.com/aspose-note/Aspose.Note-for-Java) | [Blog](https://blog.aspose.com/category/note/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/note) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+- [Hasilkan halaman root dan sub level di OneNote](https://docs.aspose.com/note/java/working-with-pages/).
+- Dapatkan revisi halaman dan kembali ke versi sebelumnya.
+- Ekstrak gambar dari dokumen OneNote.
 
-## Mengapa mengunduh Aspose.Note untuk Java?
+- [Ekstrak atau ganti teks dari halaman yang ditentukan](https://docs.aspose.com/note/java/working-with-text/) dari dokumen OneNote.
+- Buat tabel dengan kolom yang terkunci di dokumen OneNote.
 
-Aspose.Note untuk Java adalah pustaka kelas yang memungkinkan aplikasi berinteraksi dengan Microsoft Office OneNote® secara terprogram tanpa penginstalannya di server. Ini adalah alternatif murni untuk MS OneNote® Object Model memberikan kinerja yang jauh lebih baik dan kemudahan penggunaan untuk mengelola dokumen OneNote®. Aspose.Note untuk Java API memberikan fitur untuk membaca, mengonversi, membuat, dan mengedit/memanipulasi konten format file Microsoft OneNote®.
+- [Lampirkan file ke dokumen OneNote](https://docs.aspose.com/note/java/working-with-attachments/).
 
-## Pemrosesan File Microsoft OneNote®
+- ceate, simpan, baca, konversi [OneNote Notebook](https://docs.aspose.com/note/java/working-with-onenote-notebook/).
 
-- Muat, Simpan, dan Konversi dokumen ONENote®.
-- Hasilkan Halaman Root dan Sub Level di OneNote®.
-- Dapatkan revisi halaman dan putar kembali ke versi sebelumnya.
-- Ekstrak gambar dari dokumen OneNote®.
-- Ekstrak atau ganti teks dari Halaman Tertentu dari Dokumen OneNote®.
-- Buat Tabel dengan Kolom Terkunci di Dokumen OneNote®.
-- Lampirkan File ke Dokumen OneNote®.
-- Buat, simpan, baca, konversikan OneNote® Notebook.
+## Baca & Tulis Format OneNote
+** Microsoft OneNote: ** satu
 
-## Baca & Tulis Format OneNote®
+## Simpan file OneNote sebagai
+** Tata letak tetap: ** pdf \
+** Gambar: ** gif, jpeg, png, bmp, tiff
 
-**Microsoft OneNote®:** SATU
-
-## Simpan File OneNote® Sebagai
-
-**Tata Letak Tetap:** PDF\
-**Gambar:** GIF, JPEG, PNG, BMP, TIFF
-
-## Baca Format
-
-ONETOC2
+## Baca format
+Onetoc2
 
 ## Lingkungan yang Didukung
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** Versi Java: ** `j2se 7.0 (1.7)`, `j2se 8.0 (1.8)` atau di atas
 
-- **Microsoft Windows®:** Desktop & Server Windows (x86, x64)
-- **Versi Java:** `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)` atau lebih tinggi
+## Memulai
 
-{{< Common/hr >}}
+Aspose. Catatan Java API di -host di [Repositori Aspose](https://repository.aspose.com/note/). Anda dapat dengan mudah menggunakan Aspose.Catnote untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.Note for Java from Maven Repository](https://docs.aspose.com/note/java/installation/).
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+## Konversi dokumen OneNote ke PDF dengan opsi default menggunakan java
 
-{{< Common/hr >}}
+```java
+Document oneFile = new Document("template.one");
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="note" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+// save the document as PDF
+oneFile.save("output.pdf", new PdfSaveOptions());
+```
 
+[Halaman produk](https://products.aspose.com/note/java) | [Dokumen](https://docs.aspose.com/note/java/) | [Demo](https://products.aspose.app/note/family) | [Referensi API](https://apireference.aspose.com/note/java) | [Contoh](https://github.com/aspose-note/Aspose.Note-for-Java) | [Blog](https://blog.aspose.com/category/note/) | [Mencari](https://search.aspose.com/) | [Dukungan gratis](https://forum.aspose.com/c/note) | [Lisensi sementara](https://purchase.aspose.com/temporary-license)

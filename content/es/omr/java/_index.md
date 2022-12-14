@@ -1,9 +1,42 @@
 ---
-title: "Descargar archivos JAR para extraer datos de imágenes | Aspose.OMR"
-description: "Descargue archivos JAR de reconocimiento óptico de marcas (OMR). Reconozca y extraiga marcas de imágenes, fotos, encuestas y exámenes digitalizados o escaneados a través de la API Java local."
-keywords: "OMR Java Library"
-family_listing_page_title: "Aspose.OMR para Java"
-family_listing_page_description: "Aspose.OMR para Java es una API para reconocer marcas ópticas de imágenes de hojas digitalizadas OMR. Puede usarse para reconocer marcas ópticas en una variedad de formatos de imagen como BMP, JPG, TIF, TIFF, GIF. La API permite capturar datos marcados por humanos de formularios de documentos como encuestas, cuestionarios, exámenes de opción múltiple y otras pruebas."
+title: "Aspose.omr | Biblioteca de clase Java para la extracción de marcas digitales" 
+linktitle: Aspose.OMR
+description: "Biblioteca de clase Java para reconocimiento de marcas ópticas (OMR). Reconocer y extraer marcas de imágenes digitalizadas o escaneadas, fotos, encuestas, exámenes y cuestionarios." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose OMR
+- Aspose Java API
+- omr java library
+- omr java class
+- JPEG
+- PNG
+- GIF
+- TIFF
+- BMP
+- CSV
+- JSON
+- XML
+- image recognition
+- image perspective
+- test
+- exam
+- questionnaire
+- survey
+- J2SE
+- Windows
+- Linux
+- Mac
+- Azure
+- Maven
+- optical mark recognition
+- extract marks
+- marks extraction
+family_listing_page_title: "Aspose.omr para Java" 
+family_listing_page_description: "Aspose.omr para Java es una API para reconocer las marcas ópticas de las imágenes de hoja digitalizadas OMR. Se puede usar para reconocer las marcas ópticas en una variedad de formatos de imagen como BMP, JPG, TIF, TIFF, GIF. La API permite capturar datos marcados por humanos de formularios de documentos como encuestas, cuestionarios, documentos de examen de opción múltiple y otras pruebas." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,83 +44,81 @@ family_listing_page_venture: "4"
 family_listing_page_package: "192"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-omr/"
-tags: ['SVG-to-HTML5', 'CMX-to-PNG', 'DjVu-to-TIFF', 'DjVu-to-PDF', 'DNG-to-JPEG', 'image-to-PSD', 'PSD-to-JPG', 'image-to-PSD', 'WMF-to-PNG']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/omr/38
+productLink: https://products.aspose.com/omr/java/
+dataFolder: aspose_omr
+packages_refs:
+- "19-12"
+- "2-3-0"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/omr" linktext=" Support Forum " >}}
+# API Java para realizar OMR
+[![banner](./aspose_omr-for-java-banner.png)](./)
 
-{{< Common/h2 text="Descargue Aspose.OMR para extraer datos marcados por humanos"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose aloja todas las API de Java en el
-{{< Common/link href="https://repository.aspose.com" text="Repositorio Aspose"  >}}. Puede usar fácilmente el
-{{< Common/link href="https://repository.aspose.com/omr/" text="Aspose.OMR para la API de Java"  >}}directamente en sus proyectos basados en Maven agregando las siguientes configuraciones a su pom.xml. Para obtener instrucciones detalladas, visite
-{{< Common/link href="https://docs.aspose.com/omr/java/installation/" text="Instalación de Aspose.OMR para Java desde el repositorio de Maven"  >}}página de documentación.
-{{< Common/release-notes-link family="omr" product="java" href="https://docs.aspose.com/omr/java/release-notes/" text="https://docs.aspose.com/omr/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Hogar](https://www.aspose.com/) | [Página del producto](https://products.aspose.com/omr/java) | [Documentos](https://docs.aspose.com/omr/java/) | [Población](https://products.aspose.app/omr/family) | [Referencia de API](https://apireference.aspose.com/omr/java) | [Ejemplos](https://github.com/aspose-omr/Aspose.OMR-for-Java) | [Blog](https://blog.aspose.com/category/omr/) | [Búsqueda](https://search.aspose.com/) | [Soporte gratuito](https://forum.aspose.com/c/omr) | [Licencia temporal](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.OMR for Java](https://products.aspose.com/omr/java) es una biblioteca de clase Java que proporciona API para reconocer las marcas ópticas de las imágenes de hoja digitalizadas OMR. Se puede usar para reconocer las marcas ópticas en una variedad de formatos de imagen como BMP, JPG, TIF, TIFF, GIF. La API permite capturar datos marcados por humanos de formularios de documentos como encuestas, cuestionarios, documentos de examen de opción múltiple y otras pruebas. Con esta solución, es posible reconocer imágenes escaneadas e incluso fotos con alta precisión. El reconocimiento se basa en un marcado de plantilla que contiene un mapeo gráfico de los elementos que se reconocen a partir de las imágenes escaneadas.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-omr</artifactId>
-      <version>19.12</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
-
-{{HIPERVINCULO1}} | {{HIPERVINCULO2}} | {{HIPERVINCULO3}} | {{HIPERVINCULO4}} | {{HIPERVINCULO5}} | {{HIPERVINCULO6}} | {{HIPERVINCULO7}} | {{HIPERVINCULO8}} | {{HIPERVINCULO9}} | {{HIPERVINCULO10}} | {{HIPERVINCULO11}}
-
-## ¿Por qué descargar Aspose.OMR para Java?
-
-Aspose.OMR para Java es una biblioteca de clases de Java que proporciona API para reconocer marcas ópticas de imágenes de hojas digitalizadas OMR. Puede usarse para reconocer marcas ópticas en una variedad de formatos de imagen como BMP, JPG, TIF, TIFF, GIF. La API permite capturar datos marcados por humanos de formularios de documentos como encuestas, cuestionarios, exámenes de opción múltiple y otras pruebas. Con esta solución, es posible reconocer imágenes escaneadas e incluso fotografías con gran precisión. El reconocimiento se basa en un marcado de plantilla que contiene un mapeo gráfico de los elementos que se reconocerán de las imágenes escaneadas.
-
-## Características de la API OMR
-
-- Reconocimiento de imágenes y fotografías escaneadas.
-- Capacidad para procesar imágenes rotadas y en perspectiva (vista lateral).
+## Características de la API de OMR
+- Reconocimiento de imágenes y fotos escaneadas.
+- Capacidad para procesar imágenes rotadas y perspectivas (vistas laterales).
 - Reconocer datos de pruebas, exámenes, cuestionarios, encuestas, etc.
-- Alta tasa de precisión y capacidad para exportar los resultados en formato de archivo `CSV` y `JSON`.
-- Cree plantillas OMR a partir de marcas de texto.
+- Alta tasa de precisión y capacidad para exportar los resultados en formato de archivo `CSV` y` JSON`.
 
-### Guardar resultados OMR como
+- [Crear plantillas OMR](https://docs.aspose.com/omr/java/create-omr-template/) del marcado de texto.
 
+## Guardar resultados de OMR como
 CSV, JSON
 
-### Leer imágenes para OMR
-
+## leer imágenes para OMR
 JPEG, PNG, GIF, TIFF, BMP
 
-### Entornos compatibles
+## Entornos compatibles
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** macOS: ** Mac OS X
+- ** Linux: ** Ubuntu, OpenSuse, CentOS y otros
+- ** versiones Java: ** `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)` o superior
 
-- **Microsoft Windows®:** Escritorio y servidor de Windows (x86, x64)
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, OpenSUSE, CentOS y otros
-- **Versiones de Java:** `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)` o superior
+## Empezar
 
-{{< Common/hr >}}
+Aspose.OMR Las API Java están alojadas en el [Repositorio de asposio](https://repository.aspose.com/omr/). Puede usar fácilmente Aspose.omr para la API Java directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.OMR for Java from Maven Repository](https://docs.aspose.com/omr/java/installation/).
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+## Realizar operación OMR en imágenes usando Java
 
-{{< Common/hr >}}
+```java
+// For complete examples and data files, please go to https://github.com/aspose-omr/Aspose.OMR-for-Java
+String TemplateName = "Sheet.omr";
+String[] UserImages = new String[] { "Sheet1.jpg", "Sheet2.jpg" };
+String[] UserImagesNoExt = new String[] { "Sheet1", "Sheet2" };
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="omr" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+String sourceDirectory = Utils.getSourceDirectory();
+String outputDirectory = Utils.combine(Utils.getOutputDirectory(), "Result");
+String templatePath = Utils.combine(Utils.getSourceDirectory(), TemplateName);
 
+// initialize engine and get template processor providing path to the .omr file
+OmrEngine engine = new OmrEngine();
+TemplateProcessor templateProcessor = engine.getTemplateProcessor(templatePath);
+System.out.println("Template loaded.");
+
+// images loop
+for (int i = 0; i < UserImages.length; i++) {
+    // path to the image to be recognized
+    String imagePath = Utils.combine(sourceDirectory, UserImages[i]);
+    System.out.println("Processing image: " + imagePath);
+
+    // recognize image and receive result
+    RecognitionResult result = templateProcessor.recognizeImage(imagePath);
+
+    // export results as csv string
+    String csvResult = result.getCsv();
+
+    String json = result.getJson();
+
+    // save csv to the output folder
+    PrintWriter wr = new PrintWriter(new FileOutputStream(Utils.combine(outputDirectory, UserImagesNoExt[i] + ".csv")), true);
+    wr.println(csvResult);
+}
+```
+
+[Hogar](https://www.aspose.com/) | [Página del producto](https://products.aspose.com/omr/java) | [Documentos](https://docs.aspose.com/omr/java/) | [Población](https://products.aspose.app/omr/family) | [Referencia de API](https://apireference.aspose.com/omr/java) | [Ejemplos](https://github.com/aspose-omr/Aspose.OMR-for-Java) | [Blog](https://blog.aspose.com/category/omr/) | [Búsqueda](https://search.aspose.com/) | [Soporte gratuito](https://forum.aspose.com/c/omr) | [Licencia temporal](https://purchase.aspose.com/temporary-license)

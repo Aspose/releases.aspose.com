@@ -1,9 +1,61 @@
 ---
-title: "Télécharger les fichiers JAR de dessin et de rendu CAO | API Aspose.CAD"
-description: "Téléchargez JAR contenant des classes Java pour rendre, modifier, créer des rapports et convertir des dessins AutoCAD®. Prend en charge les solides 3D, la conique, la sphère, le tore, le cylindre, la boîte et le coin, etc."
-keywords: "AutoCAD Java API"
-family_listing_page_title: "Aspose.CAD pour Java"
-family_listing_page_description: "Aspose.CAD pour Java permet aux développeurs de convertir les fichiers AutoCAD DWG et DXF et DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, CF2, CFF2, OBJ en images PDF, SVG, WMF et Raster. Il s'agit d'une API native et ne nécessite pas l'installation d'AutoCAD ou de tout autre logiciel."
+title: "Aspose.cad | Bibliothèque Java pour traiter / convertir les formats AutoCAD" 
+linktitle: Aspose.CAD
+description: "Bibliothèque de classe Java pour rendre, modifier, signaler et convertir les dessins AutoCAD dans vos applications. Prend en charge les solides 3D, la conique, la sphère, le tore, le cylindre, la boîte et le coin, etc." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose CAD
+- Aspose Java API
+- cad java library
+- cad java class
+- DWG
+- DXF
+- DGN
+- IFC
+- IGES
+- STL
+- DWT
+- PLT
+- DWF
+- DWFx
+- CFF2
+- OBJ
+- PDF
+- TIFF
+- JPEG
+- PNG
+- GIF
+- BMP
+- Maven
+- Windows
+- Linux
+- Mac
+- J2SE
+- drawing
+- cad drawing
+- raster image
+- export 3D
+- autocad
+- cad layout
+- mesh model
+- ATTRIB
+- MTEXT
+- 3D solids
+- conic
+- sphere
+- torus
+- cylinder
+- box
+- wedge
+- wired models
+- 3D faces
+- Unix
+family_listing_page_title: "Aspose.cad pour java" 
+family_listing_page_description: "ASPOSE.CAD pour Java permet aux développeurs de convertir AutoCAD DWG et DXF et DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, CF2, CFF2, OBJ aux images PDF, SVG, WMF et raster. Il s'agit d'une API native et ne nécessite pas AutoCAD ou tout autre logiciel à installer." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,92 +63,118 @@ family_listing_page_venture: "4"
 family_listing_page_package: "11"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-cad/"
-tags: ['Aspose.Total', 'Aspose.CAD', 'Aspose-Java-API', 'cad-java-library', 'cad-java-class', 'DWG', 'DXF', 'DGN', 'IFC', 'IGES', 'STL', 'DWT', 'PLT', 'DWF', 'DWFx', 'CFF2', 'OBJ', 'PDF', 'TIFF', 'JPEG', 'PNG', 'GIF', 'BMP', 'Maven', 'Windows', 'Linux', 'Mac', 'J2SE', 'drawing', 'cad-drawing', 'raster-image', 'export-3D', 'autocad', 'cad-layout', 'mesh-model', 'ATTRIB', 'MTEXT', '3D-solids', 'conic', 'sphere', 'torus', 'cylinder', 'box', 'wedge', 'wired-models', '3D-faces', 'Unix']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/cad/19
+productLink: https://products.aspose.com/cad/java/
+dataFolder: aspose_cad
+packages_refs:
+- "22-7"
+- "22-6-1"
+- "22-6"
+- "22-5"
+- "22-4"
+- "22-3"
+- "1-0"
+- "1-1-0"
+- "16-12"
+- "16-12-1"
+- "17-02"
+- "17-12"
+- "17-4"
+- "17-9"
+- "18-12"
+- "18-3"
+- "18-8"
+- "19-2"
+- "19-5"
+- "19-7"
+- "19-9"
+- "20-1"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-3"
+- "20-4"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-1"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-1"
+- "22-2"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/cad" linktext=" Support Forum " >}}
+# API de conversion de fichiers CAD pour Java
+[![banner](./aspose_cad-for-java-banner.png)](./)
 
-{{< Common/h2 text="Télécharger Aspose.CAD pour traiter les fichiers CAO"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose héberge toutes les API Java au
-{{< Common/link href="https://repository.aspose.com" text="Référentiel Aspose"  >}}. Vous pouvez facilement utiliser le
-{{< Common/link href="https://repository.aspose.com/cad/" text="API Aspose.CAD pour Java"  >}}directement dans vos projets basés sur Maven en ajoutant les configurations suivantes à votre pom.xml. Pour les instructions détaillées, veuillez visiter
-{{< Common/link href="https://docs.aspose.com/cad/java/installation/" text="Installation d'Aspose.CAD pour Java à partir du référentiel Maven"  >}}page documentaire.
-{{< Common/release-notes-link family="cad" product="java" href="https://docs.aspose.com/cad/java/release-notes/" text="https://docs.aspose.com/cad/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Page de produit](https://products.aspose.com/cad/java) | [Docs](https://docs.aspose.com/cad/java/) | [Démos](https://products.aspose.app/cad/family) | [Référence de l'API](https://apireference.aspose.com/cad/java) | [Exemples](https://github.com/aspose-cad/Aspose.CAD-for-Java) | [Blog](https://blog.aspose.com/category/cad/) | [Chercher](https://search.aspose.com/) | [Support gratuit](https://forum.aspose.com/c/cad) | [Licence temporaire](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://releases.aspose.com/java/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.CAD for Java](https://products.aspose.com/cad/java) permet aux développeurs de convertir les fichiers AutoCAD DWG et DXF en images PDF et raster. Il s'agit d'une API native et ne nécessite pas AutoCAD ou tout autre logiciel à installer. Vous pouvez également convertir les couches et les dispositions sélectionnées à partir des fichiers AutoCAD. La conversion en PDF et en images raster est de très haute qualité.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-cad</artifactId>
-      <version>22.3</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+## Traitement de fichiers CAD
 
-[Product Page](https://products.aspose.com/cad/java) | [Docs](https://docs.aspose.com/cad/java/) | [Demos](https://products.aspose.app/cad/family) | [API Reference](https://apireference.aspose.com/cad/java) | [Examples](https://github.com/aspose-cad/Aspose.CAD-for-Java) | [Blog](https://blog.aspose.com/category/cad/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cad) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+- [Ajuster la taille du dessin CAD](https://docs.aspose.com/cad/java/adjusting-cad-drawing-size/).
+- Convertir les dessins CAO en d'autres formats de fichiers.
 
-## Pourquoi télécharger Aspose.CAD pour Java ?
+- [Exporter des images 3D AutoCAD vers PDF](https://docs.aspose.com/cad/java/exporting-cad/).
+- Exportation de dispositions CAO vers PDF.
+- Réglez le délai d'expiration sur Save pour éviter de passer beaucoup de temps ou de consommer beaucoup de mémoire.
 
-Aspose.CAD pour Java permet aux développeurs de convertir des fichiers AutoCAD® DWG et DXF en images PDF et Raster. Il s'agit d'une API native et ne nécessite pas l'installation d'AutoCAD® ou de tout autre logiciel. Vous pouvez également convertir les calques et les mises en page sélectionnés à partir des fichiers AutoCAD®. La conversion en images PDF et Raster est de très haute qualité.
+## lire les formats CAO
+** AutoCAD: ** dwg, dwt, dwf, dwxf, ifc, plt \
+** MicroStation: ** dgn \
+** Le visualiseur avancé: ** Obj \
+** Autre: ** STL, IGES, CFF2
 
-## Traitement des fichiers CAO
+## Sauver CAD comme
+** Disposition fixe: ** PDF \
+** Images raster: ** png, bmp, tiff, jpeg, gif
 
-- Ajuster la taille du dessin CAO.
-- Convertir des dessins CAO vers d'autres formats de fichiers.
-- Exportez des images 3D AutoCAD® au format PDF.
-- Exportation des mises en page CAO au format PDF.
-- Définissez un délai d'attente lors de la sauvegarde pour éviter de perdre beaucoup de temps ou de consommer beaucoup de mémoire.
-
-### Lire les formats CAO
-
-**AutoCAD® :** DWG, DWT, DWF, DWXF, IFC, PLT\
-**MicroStation :** DGN\
-**Le visualiseur avancé :** OBJ\
-**Autre :** STL, IGES, CFF2
-
-### Enregistrer CAO sous
-
-**Mise en page fixe :** PDF\
-**Images matricielles :** PNG, BMP, TIFF, JPEG, GIF
-
-### Lire écrire
-
-**CAO :** DXF\
+## Lire écrire
+** CAD: ** dxf \
 (Les fonctionnalités d'écriture sont partiellement prises en charge.)
 
-### Environnements pris en charge
+## Environnements pris en charge
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** macOS: ** mac os x
+- ** Linux: ** Ubuntu, OpenSuse, Centos et autres
+- ** Versions Java: ** `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)`
 
-- **Microsoft Windows :** Bureau et serveur Windows (x86, x64)
-- **macOS :** Mac OS X
-- **Linux :** Ubuntu, OpenSUSE, CentOS et autres
-- **Versions Java :** `J2SE 7.0 (1.7)`, `J2SE 8.0 (1.8)`
+## Commencer
 
-{{< Common/hr >}}
+Les API Java ASPOSE.CAD sont hébergées au [Référentiel](https://repository.aspose.com/cad/). Vous pouvez facilement utiliser ASPOSE.CAD pour l'API Java directement dans vos projets Maven avec des configurations simples. Pour les instructions détaillées, veuillez visiter la page de documentation [Installing Aspose.CAD for Java from Maven Repository](https://docs.aspose.com/cad/java/installation/).
 
-{{< Tags/TagsWrapper >}}
-{{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+## Convertir le dessin DXF au format PNG
 
-{{< Common/hr >}}
+```java
+Image image = Image.load("template.dxf");
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="cad" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+// create an instance of CadRasterizationOptions
+CadRasterizationOptions rasterizationOptions = new CadRasterizationOptions();
 
+// set page width & height
+rasterizationOptions.setPageWidth(1200);
+rasterizationOptions.setPageHeight(1200);
+
+// create an instance of PngOptions for the resultant image
+ImageOptionsBase options = new PngOptions();
+
+// set rasterization options
+options.setVectorRasterizationOptions(rasterizationOptions);
+
+// save resultant image
+image.save("output.png", options);
+```
+
+[Page de produit](https://products.aspose.com/cad/java) | [Docs](https://docs.aspose.com/cad/java/) | [Démos](https://products.aspose.app/cad/family) | [Référence de l'API](https://apireference.aspose.com/cad/java) | [Exemples](https://github.com/aspose-cad/Aspose.CAD-for-Java) | [Blog](https://blog.aspose.com/category/cad/) | [Chercher](https://search.aspose.com/) | [Support gratuit](https://forum.aspose.com/c/cad) | [Licence temporaire](https://purchase.aspose.com/temporary-license)

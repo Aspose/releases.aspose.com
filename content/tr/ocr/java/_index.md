@@ -1,9 +1,51 @@
 ---
-title: "Resim Metnini Çıkarmak için JAR Dosyalarını İndirin | Aspose.OCR API'si"
-description: "JPEG, PNG, GIF, BMP ve TIFF görüntülerinde optik karakter tanıma (OCR) gerçekleştirmek için JAR dosyalarını indirin. OCR yoluyla İngilizce, Fransızca, İspanyolca ve Portekizce ayıklayın."
-keywords: "OCR Java, OCR English, OCR French"
-family_listing_page_title: "Java için Aspose.OCR"
-family_listing_page_description: "Aspose.OCR for Java, geliştiricilerin herhangi bir ek araç veya API gerektirmeden Java uygulamalarına OCR işlevselliği eklemelerine olanak tanıyan bir optik karakter API'sidir. Aspose.OCR for Java, farklı yazı tiplerine ve stillere sahip görüntülerden metin çıkarmaya izin vererek, sıfırdan bir OCR çözümü geliştirmek için gereken zamandan ve emekten tasarruf sağlar."
+title: "Aspose.OCR | Resim Karakter Tanıma Java Sınıf Kütüphanesi" 
+linktitle: Aspose.OCR
+description: "JPEG, PNG, GIF, BMP ve TIFF görüntülerinde optik karakter tanıma (OCR) gerçekleştirmek için Java Sınıf Kütüphanesi. OCR aracılığıyla İngilizce, Fransızca, İspanyolca ve Portekizce çıkarın." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose OCR
+- Aspose Java API
+- ocr java library
+- ocr java class
+- Maven
+- JPEG
+- PNG
+- GIF
+- BMP
+- TIFF
+- TXT
+- DOCX
+- PDF
+- Windows
+- Linux
+- Mac
+- J2SE
+- JSON
+- optical character recognition
+- OCR
+- recognize text
+- recognize image
+- spell correction
+- spell check
+- skew correction
+- image correction
+- recognize pdf
+- recognize tiff
+- searchable pdf
+- searchable docx
+- multi lang ocr
+- recognize multi image
+- multi threading
+- image detection
+- text detection
+weight: 02	#rem
+family_listing_page_title: "Java için aspose.ocr" 
+family_listing_page_description: "Java için Aspose.OCR, geliştiricilerin herhangi bir ek araç veya API gerektirmeden Java uygulamalarına OCR işlevselliği eklemelerini sağlayan bir optik karakter API'sıdır. Java için Aspose.OCR, farklı yazı tiplerine ve stillerine sahip görüntülerden metin çıkarılmasına izin verir - Sıfırdan bir OCR çözümünün geliştirilmesinde yer alan zamanı ve çabadan tasarruf sağlar." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,104 +53,118 @@ family_listing_page_venture: "4"
 family_listing_page_package: "19"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-ocr/"
-tags: ['optical-character-recognition', 'OCR', 'recognize-text', 'recognize-image', 'spell-correction', 'spell-check', 'skew-correction', 'image-correction', 'recognize-pdf', 'recognize-tiff', 'searchable-pdf', 'searchable-docx', 'multi-lang-ocr', 'recognize-multi-image', 'multi-threading', 'image-detection', 'text-detection']
-weight:  2
+forumLink: https://forum.aspose.com/c/ocr/16
+productLink: https://products.aspose.com/ocr/java/
+dataFolder: aspose_ocr
+packages_refs:
+- "22-11-1"
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "16-10"
+- "16-11"
+- "16-12"
+- "17-01"
+- "17-11"
+- "17-2"
+- "17-3"
+- "17-6"
+- "20-10"
+- "20-11"
+- "20-5"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-1"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-1"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
+- "3-2-0"
+- "3-3-0"
+- "3-4-0"
+- "3-6-0"
+- "3-7-0"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/ocr" linktext=" Support Forum " >}}
+# Java OCR Kütüphanesi
+[![banner](./aspose_ocr-for-java-banner.png)](./)
 
-{{< Common/h1 text="Resim metnini çıkarmak için Aspose.OCR'ı indirin"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose, tüm Java API'lerini şu adreste barındırır:
-{{< Common/link href="https://repository.aspose.com" text="Aspose Deposu"  >}}. Pom.xml'inize aşağıdaki konfigürasyonları ekleyerek Aspose.OCR for Java API'sini doğrudan Maven tabanlı projelerinizde kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen ziyaret edin
-{{< Common/link href="https://docs.aspose.com/ocr/java/installation/" text="Aspose.OCR for Java'yı Maven Repository'den Kurmak"  >}}dokümantasyon sayfası.
-{{< Common/release-notes-link family="ocr" product="java" href="https://docs.aspose.com/ocr/java/release-notes/" text="https://docs.aspose.com/ocr/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Ürün sayfası](https://products.aspose.com/ocr/java) | [Belgeler](https://docs.aspose.com/ocr/java/) | [Demolar](https://products.aspose.app/ocr/family) | [API referansı](https://apireference.aspose.com/ocr/java) | [Örnekler](https://github.com/aspose-ocr/Aspose.OCR-for-Java) | [Blog](https://blog.aspose.com/category/ocr/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/ocr) | [Geçici lisans](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.OCR for Java](https://products.aspose.com/ocr/java), geliştiricilerin uygulamalarına OCR işlevselliği eklemelerini sağlayan bir karakter ve optik işaret tanıma API'sıdır. Karakter tanımayı kontrol etmek için basit bir sınıf kümesi sağlar.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-ocr</artifactId>
-      <version>22.6</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
-
-{{KÖPRÜ1}} | {{KÖPRÜ2}} | {{KÖPRÜ3}} | {{KÖPRÜ4}} | {{KÖPRÜ5}} | {{KÖPRÜ6}} | {{KÖPRÜ7}} | {{KÖPRÜ8}} | {{KÖPRÜ9}} | {{KÖPRÜ10}}
-
-## Neden Java için Aspose.OCR'ı indirmelisiniz?
-
-Aspose.OCR for Java, geliştiricilerin uygulamalarına OCR işlevselliği eklemelerini sağlayan bir karakter ve optik işaret tanıma API'sidir. Karakter tanımayı kontrol etmek için basit bir sınıf seti sağlar.
-
-## Java ile Görüntüyü Metne Dönüştür
-
+## Java üzerinden görüntüyü metne dönüştürün
 - Görüntülerden karakterleri okuyun.
-- OCR için JPG, PNG, GIF, BMP ve TIFF görüntü dosyası biçimleri desteği.
-- İngilizce, Fransızca, İspanyolca ve Portekizce desteği.
+- OCR için JPG, PNG, GIF, BMP ve TIFF görüntü dosyası formatları için destek.
+- İngilizce, Fransızca, İspanyolca ve Portekizce destek.
 - Arial, Times New Roman, Courier New, Verdana, Tahoma ve Calibri gibi popüler yazı tiplerini okuyun.
-- Normal, kalın ve italik yazı tipi stilleri için destek.
-- Resmin tamamını veya herhangi bir bölümünü tarayın.
-- Döndürülmüş görüntüleri tarayın.
-- Görüntü tanımadan önce farklı gürültü giderme filtreleri uygulayabilir.
-- Taranan görüntülerden optik olarak işaretlenmiş öğeleri çıkarın.
-- Onay Kutusu, Seçim Kutusu, Izgara, Barkod ve OCR gibi çeşitli optik işaretli öğeler için destek.
+- Düzenli, cesur ve italik yazı tipi stilleri için destek.
+- Görüntünün tamamını veya görüntünün herhangi bir bölümünü tarayın.
+- Dönmüş görüntüleri tarayın.
+- Görüntü tanımadan önce farklı gürültü çıkarma filtreleri uygulayabilir.
+- Taranmış görüntülerden optik işaretli öğeleri çıkarın.
+- onay kutusu, seçim kutusu, ızgara, barkod ve OCR gibi çeşitli optik işaretli öğeler için destek.
 
-### Desteklenen Karakterler
-
+## Desteklenen Karakterler
 | | | | | | | | | | |
-| ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| boşluk | ! | " | # | $ | % | & | ' | ( | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Alan | ! | "| # | $ | % | & | '| (|) |
 | * | + | , | - | . | / | 0 | 1 | 2 | 3 |
-| 4 | 5 | 6 | 7 | 8 | 9 | : | ; | < | = |
-| > | ? | @ | [ | \ | ] | _ | ` | { | \| |
-| } | ~ | bir | B | C | D | E | F | G | H |
-| ben | J | K | L | M | N | O | P | S | sağ |
-| S | T | U | V | B | X | Y | Z | bir | b |
-| c | g | e | f | g | h | ben | j | k | ben |
-| m | n | o | p | q | r | s | t | sen | v |
-| w | x | y | z | Â | À | Á | ü | Ä | Æ |
-| Ç | È | ben | Ê | Ë | Ì | Í | Î | Ï | Ñ |
-| Ò | Ó | Ô | o | Ö | Ù | Ú | Û | Ü | ẞ |
-| ß | ve | ve | ve | ı | ve | æ | ç | ve | e |
-| e | ë | ben | ve | ı | ı | ñ | o | o | o |
-| o | ö | ü | ü | ü | ü | ÿ | Œ | œ | ü |
+| 4 | 5 | 6 | 7 | 8 | 9 | : | ; | <| = |
+| > | ? | @ | [| \ | ] | _ | `| {| \ | |
+| } | ~ | A | B | C | D | E | F | G | H |
+| İ | J | K | L | M | N | O | P | S | R |
+| S | T | U | V | W | X | Y | Z | A | B |
+| C | D | E | F | G | H | i | J | K | l |
+| M | n | O | P | S | R | S | t | U | V |
+| W | X | Y | Z | Â | À | Á | Ã | Ä | Æ |
+| Ç | È | É | Ê | Ë | Ì | Í | Î | Ï | Ñ ​​|
+| Ò | Ó | Ô | Õ | Ö | Ù | Ú | Û | Ü | Ss |
+| ß | à | Á | Â | Ã | ä | æ | Ç | è | é |
+| ê | ë | ì | í | î | ï | ñ | ò | ó | ô |
+| õ | Ö | ù | ú | û | ü | ÿ | Œ | œ | Ÿ |
 
+## OCR için resimleri yükleyin
+** Raster formatları: ** JPEG, PNG, GIF, BMP, TIFF
 
-### OCR için Görüntüleri Yükle
+## Desteklenen Ortamlar
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** MacOS: ** Mac OS X
+- ** linux: ** ubuntu, opense, centos ve diğerleri
+- ** Java Sürümleri: ** `J2SE 6.0 (1.6)` veya üstü
 
-**Raster Formatları:** JPEG, PNG, GIF, BMP, TIFF
+## Başlamak
 
-### Desteklenen Ortamlar
+Aspose.OCR Java API'leri [Aspose deposu](https://repository.aspose.com/ocr/)'da barındırılmaktadır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose.ocr'ı kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.OCR for Java from Maven Repository](https://docs.aspose.com/ocr/java/installation/) belge sayfasını ziyaret edin.
 
-- **Microsoft Windows®:** Windows Masaüstü ve Sunucu (x86, x64)
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, OpenSUSE, CentOS ve diğerleri
-- **Java Sürümleri:** "J2SE 6.0 (1.6)" veya üstü
+## Resim üzerindeki belirli alanlardan metin çıkarın
 
-{{< Common/hr >}}
+```java
+// create API instance
+AsposeOCR api = new AsposeOCR();
+// prepare rectangles with texts.
+ArrayList rectArray = new ArrayList();
+rectArray.add(new Rectangle(138, 352, 2033, 537));
+rectArray.add(new Rectangle(147, 890, 2033, 1157));
+String result = api.RecognizePage("template.png", rectArray);
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+System.out.println("Result with rect: " + result);
+```
 
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="ocr" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[Ürün sayfası](https://products.aspose.com/ocr/java) | [Belgeler](https://docs.aspose.com/ocr/java/) | [Demolar](https://products.aspose.app/ocr/family) | [API referansı](https://apireference.aspose.com/ocr/java) | [Örnekler](https://github.com/aspose-ocr/Aspose.OCR-for-Java) | [Blog](https://blog.aspose.com/category/ocr/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/ocr) | [Geçici lisans](https://purchase.aspose.com/temporary-license)

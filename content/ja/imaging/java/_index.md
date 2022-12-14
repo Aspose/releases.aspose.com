@@ -1,9 +1,88 @@
 ---
-title: "画像描画処理 JAR ファイルのダウンロード | Aspose.Imaging"
-description: "画像処理、操作、および変換 JAR ファイルをダウンロードします。マスキング、フィルター、デスキュー、マトリックス変換、形状、ディザリング、およびベクトルをサポートします。"
-keywords: "Java Imaging Library"
-family_listing_page_title: "Aspose.Imaging for Java"
-family_listing_page_description: "Aspose.Imaging for Java は、開発者が Java アプリケーションで画像を作成、操作、保存、変換するための最も柔軟な画像処理ルーチンのグループを提供する高性能で十分に文書化された画像処理 API であり、画像エディターを必要としません。 ."
+title: "Aspose.imaging | Javaライブラリを介して画像を処理および変換します" 
+linktitle: Aspose.Imaging
+description: "画像処理、操作、変換のためのJavaクラスライブラリ。マスキング、フィルター、デスケウ、マトリックス変換、形状、ディザリング、およびベクトルをサポートします。" 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Imaging
+- Aspose Java API
+- image java library
+- image java class
+- Maven
+- BMP
+- GIF
+- DICOM
+- DJVU
+- DNG
+- EMF
+- JPEG
+- JPEG2000
+- ODG
+- PNG
+- APNG
+- PSD
+- DXF
+- SVG
+- TIFF
+- DIB
+- EPS
+- WEBP
+- WMF
+- CDR
+- CMX
+- OTG
+- PDF
+- HTML5
+- EMZ
+- WMZ
+- TGA
+- SVGZ
+- canvas
+- Windows
+- Linux
+- Mac
+- JPG to TGA
+- PNG to TGA
+- HTML5
+- SVG to HTML5
+- CorelDRAW
+- CMX to PNG
+- binarization
+- dithering
+- DjVu to TIFF
+- DjVu to PDF
+- image processing
+- multithreading
+- optimization
+- DNG to JPEG
+- FODG
+- JPEG LS
+- CMYK
+- YCK
+- EXIF
+- image to PSD
+- color replacement
+- raster image
+- flat psd
+- PSD to JPG
+- Alpha
+- Subscript
+- smallcap
+- gradient
+- transparency
+- WebP
+- Bezier
+- Polygon
+- vector
+- multipage image
+- image to PSD
+- WMF to PNG
+family_listing_page_title: "JavaのAspose.imaging" 
+family_listing_page_description: "JavaのImagingのImagingは、画像エディターを必要とせずに、開発者がJavaアプリケーションで画像を作成、操作、保存、変換するための最も柔軟な画像処理ルーチンを提供する高性能で十分に文書化されたイメージングAPIです。 。" 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,101 +90,142 @@ family_listing_page_venture: "4"
 family_listing_page_package: "23"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-imaging/"
-tags: ['JPG-to-TGA', 'PNG-to-TGA', 'SVG-to-HTML5', 'DjVu-to-TIFF', 'DjVu-to-PDF', 'DNG-to-JPEG', 'image-to-PSD', 'PSD-to-JPG', 'image-to-PSD', 'WMF-to-PNG']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/imaging/14
+productLink: https://products.aspose.com/imaging/java/
+dataFolder: aspose_imaging
+packages_refs:
+- "22-12"
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "16-10"
+- "16-12"
+- "17-01"
+- "17-03"
+- "17-11"
+- "17-12"
+- "17-4"
+- "17-6"
+- "17-7"
+- "17-9"
+- "18-11"
+- "18-2"
+- "18-3"
+- "18-4"
+- "18-6"
+- "18-7"
+- "18-8"
+- "18-9"
+- "19-1"
+- "19-10"
+- "19-11"
+- "19-12"
+- "19-2"
+- "19-3"
+- "19-4"
+- "19-6"
+- "19-7"
+- "19-9"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-2"
+- "20-3"
+- "20-4"
+- "20-5"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
+- "3-3"
+- "3-4"
+- "3-5"
+- "3-6"
+- "3-6-0"
+- "3-7-0"
+- "3-8-0"
+- "3-8-1"
+- "3-9-0"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/imaging" linktext=" Support Forum " >}}
+# 画像処理用のJava API
 
-{{< Common/h3 text="Aspose.Imaging Java JAR をダウンロードして、ラスターおよびベクター イメージを処理します"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose はすべての Java API を
-{{< Common/link href="https://repository.aspose.com" text="Aspose リポジトリ"  >}}.を簡単に使用できます。
-{{< Common/link href="https://repository.aspose.com/imaging/" text="Aspose.Imaging for Java API"  >}}次の構成を pom.xml に追加して、Maven ベースのプロジェクトに直接追加します。詳細な手順については、次の URL をご覧ください。
-{{< Common/link href="https://docs.aspose.com/imaging/java/installation/" text="Maven リポジトリから Aspose.Imaging for Java をインストールする"  >}}ドキュメントページ。
-{{< Common/release-notes-link family="imaging" product="java" href="https://docs.aspose.com/imaging/java/release-notes/" text="https://docs.aspose.com/imaging/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[![banner](./aspose_imaging-for-java-banner.png)](./)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[製品ページ](https://products.aspose.com/imaging/java) | [ドキュメント](https://docs.aspose.com/imaging/java/) | [デモ](https://products.aspose.app/imaging/family) | [APIリファレンス](https://apireference.aspose.com/imaging/java) | [例](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [ブログ](https://blog.aspose.com/category/imaging/) | [探す](https://search.aspose.com/) | [無料サポート](https://forum.aspose.com/c/imaging) | [一時ライセンス](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-imaging</artifactId>
-      <version>22.7</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+これは、JavaアプリケーションがRaster＆Vector画像の基本から高度なレベル処理を実行できるようにするJavaルーチンで構成されるスタンドアロン[イメージングAPI](https://products.aspose.com/imaging/java)です。
+JavaのAspose.imagingは、ネイティブバイトアクセスとさまざまな効率的なアルゴリズムを介した堅牢な画像圧縮と高い処理速度を提供します。画像を操作、エクスポート、変換するだけでなく、ピクセルの操作とグラフィックスパスを使用してオブジェクトを動的に描画することもできます。
 
-[Product Page](https://products.aspose.com/imaging/java) | [Docs](https://docs.aspose.com/imaging/java/) | [Demos](https://products.aspose.app/imaging/family) | [API Reference](https://reference.aspose.com/imaging/java) | [Examples](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [Blog](https://blog.aspose.com/category/imaging/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/imaging) | [Temporary License](https://purchase.aspose.com/temporary-license) | {{ハイパーリンク10}}
+## イメージングAPI機能
+ - グラフィックスでラスター画像を描画します。
+ - ベクトル画像を描画します。
+ - 画像をさまざまな形式に変換します。
 
-これは、Java アプリケーションがラスター画像とベクター画像の基本レベルから高度なレベルの処理を実行できるだけでなく、描画できるようにする Java ルーチンで構成されるスタンドアロンの Imaging API です。
+-[マスキングを適用します](https://docs.aspose.com/imaging/java/applying-masking-to-images/)および[Median & Wiener](https://docs.aspose.com/imaging/java/applying-median-and-wiener-filters/)フィルター。
+ -  APIを介して画像を切り取り、回転させ、サイズ変更します。
+ - 画像を剥がし、変換します。
+ - 画像プロパティを設定します。
 
-## Aspose.Imaging for Java をダウンロードする理由
+## 画像形式の読み取りと書き込み
+**ラスターフォーマット：** jpeg2000、jpeg、bmp、tiff、gif、png、apng \
+**メタファイル：** emf、emz、wmf、wmz \
+**その他：** SVG、SVGZ、DICOM
 
-Aspose.Imaging for Java は、ネイティブ バイト アクセスと一連の効率的なアルゴリズムにより、堅牢な画像圧縮と高い処理速度を提供します。画像を操作、エクスポート、変換するだけでなく、ピクセル操作とグラフィック パスを使用してオブジェクトを動的に描画することもできます。
+## ASを保存します
+**修正：** pdf \
+** Photoshop：** psd \
+**マークアップ：** HTML5キャンバス
 
-## イメージング API の機能
+## 画像形式を読む
+**さまざまな：** DJVU、DNG、ODG、CMX、CDR、DIB、OTG、FODG、EPS（ラスタープレビューのみ）、WebP
 
-- ラスター イメージをグラフィックスで描画します。
-- ベクトル画像を描画します。
-- 画像をさまざまな形式に変換します。
-- マスキングとメジアン フィルターおよびウィーナー フィルターを適用します。
-- API を介して画像をトリミング、回転、サイズ変更します。
-- 画像の歪み補正と変換。
-- 画像のプロパティを設定します。
-
-### 画像形式の読み取りと書き込み
-
-**ラスター形式:** JPEG2000、JPEG、BMP、TIFF、GIF、PNG、APNG\
-**メタファイル:** EMF、EMZ、WMF、WMZ\
-**その他:** SVG、SVGZ、DICOM
-
-### 画像を名前を付けて保存
-
-**固定:** PDF\
-**Photoshop:** PSD\
-**マークアップ:** HTML5 キャンバス
-
-### 画像形式の読み取り
-
-**さまざま:** DjVu、DNG、ODG、CMX、CDR、DIB、OTG、FODG、EPS (ラスター プレビューのみ)、WEBP
-
-### サポートされているオペレーティング システム
-
-Aspose.Imaging for Java は、Java がインストールされている任意の OS で仮想的に実行できます (JDK 1.6 以降)。
-
-- Windows (7以降)
+## サポートされているオペレーティングシステム
+JavaのImagingのImagingは、Javaがインストールされている任意のOSで実質的に実行できます（JDK 1.6以降）
+- Windows (since 7)
 - Linux
-- マックOS
-- Java がインストールされているすべての OS。
+- MacOS
+-JavaがインストールされているOS。
+Aspose.imagingは、上記のリストされているオペレーティングシステムのx86バージョンとX64バージョンの両方で動作します。
+**注：** Linux OSでは、Microsoft互換フォント（例： `sudo apt-getインストールttf-mscorefonts-installer`）でパッケージをインストールすることをお勧めします。
 
-Aspose.Imaging は、上記のオペレーティング システムの x86 バージョンと x64 バージョンの両方で動作します。
+## 始めましょう
 
-**注:** Linux OS では、Microsoft 互換フォントを使用してパッケージをインストールすることをお勧めします (例: `sudo apt-get install ttf-mscorefonts-installer`)。
+Aspose.imaging Java APIは[Aspose Repository](https://repository.aspose.com/imaging/)でホストされています。簡単な構成を使用して、MavenプロジェクトでJava APIのImagingを簡単に使用できます。詳細な手順については、[Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/)ドキュメントページをご覧ください。
 
-{{< Common/hr >}}
+## 長方形のEMF画像をトリミングします
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+```java
+try (MetafileImage metaImage = (MetafileImage) Image.load(dataDir + "Picture1.emf"))
+{
+	// create an instance of Rectangle class with desired size
+	Rectangle rectangle = new Rectangle(10, 10, 100, 100);
 
-{{< Common/hr >}}
+	// perform the crop operation on object of Rectangle class
+	metaImage.crop(rectangle);
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="imaging" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+	// save the result in PNG format
+	metaImage.save(dataDir + "CropbyRectangle_out.png", new PngOptions());
+}
+```
 
+[製品ページ](https://products.aspose.com/imaging/java) | [ドキュメント](https://docs.aspose.com/imaging/java/) | [デモ](https://products.aspose.app/imaging/family) | [APIリファレンス](https://apireference.aspose.com/imaging/java) | [例](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [ブログ](https://blog.aspose.com/category/imaging/) | [探す](https://search.aspose.com/) | [無料サポート](https://forum.aspose.com/c/imaging) | [一時ライセンス](https://purchase.aspose.com/temporary-license)

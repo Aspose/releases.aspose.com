@@ -1,9 +1,77 @@
 ---
-title: "XPS PS Oluşturmak, Dönüştürmek için JAR Dosyalarını İndirin | Aspose.Sayfa"
-description: "API aracılığıyla XPS, PS ve EPS formatlarını okumak, oluşturmak ve dönüştürmek için JAR dosyalarını indirin. Destek glif, fırça, vektör, bezier, renkli fırça, şeffaflık ve opaklık maskesi."
-keywords: "Java XPS Library"
-family_listing_page_title: "Java için Aspose.Page"
-family_listing_page_description: "Aspose.Page, geliştiricilerin XPS ve EPS belgeleriyle çalışmasına izin vermek için oluşturulmuş bir Java API'sidir. API'yi kullanarak mevcut ve yeni XPS belgelerini oluşturabilir, düzenleyebilir ve kaydedebilirsiniz. Ayrıca, XPS ve EPS belgelerini PDF ve Görüntülere dönüştürebilirsiniz. Kapsamlı manipülasyon yetenekleri sağlar ve her türlü Masaüstü GUI Uygulamaları, Web Uygulamaları ve Konsol Uygulamaları ile entegre edilebilir."
+title: "Aspose. sayfa | Postscript işleme için Java Sınıf Kütüphanesi" 
+linktitle: Aspose.Page
+description: "XPS, PS & EPS formatlarını okumak, oluşturmak ve dönüştürmek için Java Sınıf Kütüphanesi. Glif, görüntü fırçası, vektör, Bezier, renk fırçası, şeffaflık ve opaklık maskesini destekler." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Page
+- Aspose Java API
+- page java library
+- page java class
+- XPS
+- EPS
+- PS
+- PDF
+- BMP
+- TIFF
+- JPEG
+- PNG
+- postscript
+- canvas
+- path
+- glyph
+- vector
+- bezier
+- solid color brush
+- image brush
+- visual brush
+- sRGB
+- scRGB
+- ICC
+- print schema
+- Type2
+- CFF
+- Type14
+- Chameleon
+- CID
+- raster
+- Windows
+- Linux
+- Mac
+- J2SE
+- Maven
+- EPS to BMP
+- EPS to EMF
+- EPS to JPG
+- EPS to PDF
+- EPS to PNG
+- EPS to TIFF
+- EPS to WMF
+- postscript to BMP
+- postscript to JPG
+- postscript to PDF
+- postscript to PNG
+- postscript to TIFF
+- XPS to BMP
+- XPS to JPG
+- XPS to PDF
+- XPS to PNG
+- XPS to TIFF
+- text
+- image
+- page
+- gradient
+- visual brush
+- transparency
+- tiled image
+- horizontal gradient
+- opacity mask
+family_listing_page_title: "Java için aspose. sayfası" 
+family_listing_page_description: "Aspose.Page, geliştiricilerin XPS ve EPS belgeleriyle çalışmasına izin vermek için bir Java API'sıdır. API'yi kullanarak mevcut ve yeni XPS belgelerini oluşturabilir, düzenleyebilir ve kaydedebilirsiniz. Ayrıca, XPS ve EPS belgelerini PDF ve görüntülere dönüştürebilirsiniz. Kapsamlı manipülasyon özellikleri sağlar ve her türlü masaüstü GUI uygulaması, web uygulamaları ve konsol uygulamaları ile entegre edilebilir." 
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,89 +79,98 @@ family_listing_page_venture: "4"
 family_listing_page_package: "169"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-page/"
-tags: ['J2SE', 'Maven', 'EPS-to-BMP', 'EPS-to-EMF', 'EPS-to-JPG', 'EPS-to-PDF', 'EPS-to-PNG', 'EPS-to-TIFF', 'EPS-to-WMF', 'postscript-to-BMP', 'postscript-to-JPG', 'postscript-to-PDF', 'postscript-to-PNG', 'postscript-to-TIFF', 'XPS-to-BMP', 'XPS-to-JPG', 'XPS-to-PDF', 'XPS-to-PNG', 'XPS-to-TIFF']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/page/39
+productLink: https://products.aspose.com/page/java/
+dataFolder: aspose_page
+packages_refs:
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "19-10"
+- "19-11"
+- "19-12"
+- "19-6"
+- "19-7"
+- "19-8"
+- "19-9"
+- "20-1"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-3"
+- "20-4"
+- "20-5"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-1"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-4"
+- "21-6"
+- "21-7"
+- "21-8"
+- "22-2"
+- "22-4"
+- "22-5"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/page" linktext=" Support Forum " >}}
+# PS, EPS ve XPS dosya biçimleri için Java API'leri
+[![banner](./aspose_page-for-java-banner.png)](./)
 
-{{< Common/h3 text="PS, EPS ve XPS Dosya Formatlarıyla çalışmak için Aspose.Page'i indirin"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose, tüm Java API'lerini şu adreste barındırır:
-{{< Common/link href="https://repository.aspose.com" text="Aspose Deposu"  >}}. Pom.xml'inize aşağıdaki konfigürasyonları ekleyerek Aspose.Page for Java API'sini doğrudan Maven tabanlı projelerinizde kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen ziyaret edin
-{{< Common/link href="https://docs.aspose.com/page/java/installation/" text="Aspose.Page for Java'yı Maven Repository'den Kurmak"  >}}dokümantasyon sayfası.
-{{< Common/release-notes-link family="page" product="java" href="https://docs.aspose.com/page/java/release-notes/" text="https://docs.aspose.com/page/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Ürün sayfası](https://products.aspose.com/page/java) | [Belgeler](https://docs.aspose.com/page/java/) | [Demolar](https://products.aspose.app/page/family) | [API referansı](https://apireference.aspose.com/page/java) | [Örnekler](https://github.com/aspose-page/Aspose.Page-for-Java) | [Blog](https://blog.aspose.com/category/page/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/page) | [Geçici lisans](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.Page for Java](https://products.aspose.com/page/java), XPS belgelerinin oluşturulmasını ve manipüle edilmesini teklif eder. Ayrıca XPS, PS & EPS belgelerini görüntü formatlarına ve PDF'ye dönüştürmek için işlevsellik sağlar.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-page</artifactId>
-      <version>22.6</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
-
-{{KÖPRÜ1}} | {{KÖPRÜ2}} | {{KÖPRÜ3}} | {{KÖPRÜ4}} | {{KÖPRÜ5}} | {{KÖPRÜ6}} | {{KÖPRÜ7}} | {{KÖPRÜ8}} | {{KÖPRÜ9}} | {{KÖPRÜ10}}
-
-### Neden Aspose.Page for Java'yı indirmelisiniz?
-
-Aspose.Page for Java, XPS belgeleri oluşturmayı ve değiştirmeyi önerir. Ayrıca XPS, PS ve EPS belgelerini görüntü biçimlerine ve PDF'ye dönüştürmek için işlevsellik sağlar.
-
-### XPS Belgelerini Java ile Değiştirin
-
-- XPS belgesi oluşturun ve düzenleyin.
+## Java üzerinden XPS belgelerini manipüle edin
+- XPS belgesini oluşturun ve düzenleyin.
 - XPS belgesinin sayfalarını ekleyin veya kaldırın.
-- XPS belgelerini tarama görüntüleri ve PDF olarak kaydedin.
-- Tuvaller, yollar ve glif öğeleriyle çalışın.
-- Bir dizi ilkel (eliptik yaylar, Bezier eğrisi parçaları ve düz çizgi parçaları) kullanarak vektör grafik şekilleri (Yol öğesi) oluşturun.
-- Metin dizeleri oluşturun (Glifler öğesi).
-- Bir grubu bir bütün olarak işlemek için grup öğeleri (Tuval öğesi).
-- Grafiklerin ve metin dizilerinin görünümünü değiştirin.
-- Düz renk fırçası, görüntü fırçası, görsel fırça ve daha fazlasını içeren farklı türde fırçalar kullanın.
-- sRGB, scRGB ve ICC profiline dayalı herhangi bir boşluk dahil olmak üzere farklı renk uzaylarında renkleri belirtin.
-- Bir XPS belgesi içinde birden çok belgeyle çalışın.
-- Varsa, açılan XPS belgesinde basılı biletleri koruyun.
-- Yeni XPS belgesine varsayılan yazdırma biletleri veya içinde bilet yoksa açılmış bir bilet ekleyin.
-- XPS öğeleriyle ilişkili köprüleri değiştirin.
-- XPS anahat öğelerini işleyin, kaydedin ve dönüştürün.
+- XPS belgelerini raster görüntüleri ve pdf olarak kaydedin.
+- Tuval, yol ve glif elemanları ile çalışın.
+- Bir dizi ilkel (eliptik yaylar, Bezier eğri segmentleri ve düz çizgi segmentleri) kullanarak vektör grafik şekilleri (yol elemanı) oluşturun.
+- Metin dizeleri oluşturun (glif öğeleri).
+- Bir grubu bir bütün olarak manipüle etmek için grup elemanları (tuval öğesi).
+- Grafiklerin ve metin dizelerinin görünümünü değiştirin.
+- Düz renkli fırça, görüntü fırçası, görsel fırça ve daha fazlası dahil olmak üzere farklı tiplerde fırçalar kullanın.
+- SRGB, SCRGB ve ICC profiline dayalı herhangi bir alan dahil olmak üzere farklı renk boşluklarında renk belirtin.
+- Bir XPS belgesinde birden fazla belge ile çalışın.
+- Baskı biletlerini açık XPS belgesinde koruyun.
+- İçinde bilet yoksa, yeni XPS belgesine veya açılan bir belgeye varsayılan yazdırma biletleri ekleyin.
+- XPS elemanlarıyla ilişkili köprüleri manipüle edin.
+- XPS anahat öğelerini manipüle edin, kaydedin ve dönüştürün.
 
-### PostScript Dosyalarını Java ile Dönüştürme
+## PostScript dosyalarını Java üzerinden dönüştürün
+- Supports PostScript language levels 1-3 with an exception of font types: Type2 (CFF), Type14 (Chameleon), Types 9, 10, 11, 32 (CID-Keyed)
+- PS & EPS'yi PDF ve görüntüler olarak kaydedin.
 
-- Font türleri hariç 1-3 PostScript dil seviyelerini destekler: Type2 (CFF), Type14 (Chameleon), Types 9, 10, 11, 32 (CID-Keyed)
-- PS ve EPS'yi PDF ve görüntüler olarak kaydedin.
+## Desteklenen Ortamlar
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** MacOS: ** Mac OS X
+- ** linux: ** ubuntu, opense, centos ve diğerleri
+- ** Java Sürümleri: ** `J2SE 8.0 (1.8)` veya üstü
 
-### Desteklenen Ortamlar
+## Başlamak
 
-- **Microsoft Windows®:** Windows Masaüstü ve Sunucu (x86, x64)
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, OpenSUSE, CentOS ve diğerleri
-- **Java Sürümleri:** "J2SE 8.0 (1.8)" veya üstü
+Aspose.Page Java API'leri [Aspose deposu](https://repository.aspose.com/page/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için Aspose.Page'i kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/) belge sayfasını ziyaret edin.
 
-{{< Common/hr >}}
+## Mevcut XPS belgesine sayfa ekleyin
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+```java
+// create new XPS Document
+XpsDocument doc = new XpsDocument("output.xps");
 
-{{< Common/hr >}}
+// insert an empty page at beginning of pages list
+doc.insertPage(1, true);
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="page" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+// save resultant XPS document
+doc.save("output.xps");
+```
 
+[Ürün sayfası](https://products.aspose.com/page/java) | [Belgeler](https://docs.aspose.com/page/java/) | [Demolar](https://products.aspose.app/page/family) | [API referansı](https://apireference.aspose.com/page/java) | [Örnekler](https://github.com/aspose-page/Aspose.Page-for-Java) | [Blog](https://blog.aspose.com/category/page/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/page) | [Geçici lisans](https://purchase.aspose.com/temporary-license)

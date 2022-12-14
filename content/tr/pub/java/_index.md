@@ -1,8 +1,33 @@
 ---
-title: "PUB Okuma ve Dönüştürme JAR Dosyalarını İndirin | Aspose.PUB API'si"
-description: "Şirket içi API aracılığıyla Microsoft Publisher belge biçimlerini ayrıştırmak, işlemek ve PDF'ye dönüştürmek için Java sınıfları içeren JAR dosyalarını indirin."
-family_listing_page_title: "Java için Aspose.PUB"
-family_listing_page_description: "Aspose.PUB kütüphanesi, PUB dosyalarını yükleyebilen ve PDF'ye dönüştürebilen basit ve kullanışlı bir API sağlar. Java kullanılarak uygulanır ve Web tabanlı veya masaüstü uygulaması dahil olmak üzere herhangi bir Java tabanlı uygulama ile kullanılabilir."
+title: "Aspose.pub | Elektronik Yayın Dosyaları Java Sınıf Kütüphanesi" 
+linktitle: Aspose.PUB
+description: "Yayıncı belge biçimlerini PDF'ye ayrıştırmak, işlemek ve dönüştürmek için Java Kütüphanesi. İşlevselliği kendi ürününüze uygulayın." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose PUB
+- Aspose Java API
+- pub java library
+- pub java class
+- PUB
+- PDF
+- Microsoft Publisher
+- PUB conversion
+- Convert PUB
+- PUB to PDF
+- metadata
+- Windows
+- Linux
+- Mac
+- J2SE
+- Maven
+- edit metadata
+- modify metadata
+family_listing_page_title: "Java için aspose.pub" 
+family_listing_page_description: "Aspose.pub kütüphanesi, pub dosyalarını PDF'ye yükleyebilen ve dönüştürebilen basit ve kullanışlı bir API sağlar. Java kullanılarak uygulanır ve web tabanlı veya masaüstü uygulaması dahil olmak üzere herhangi bir Java tabanlı uygulamayla kullanılabilir." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pub/272x272/aspose_pub-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -10,79 +35,58 @@ family_listing_page_venture: "4"
 family_listing_page_package: "225"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-pub/"
-tags: ['Aspose.Total', 'Aspose.PUB', 'Aspose-Java-API', 'pub-java-library', 'pub-java-class', 'PUB', 'PDF', 'Microsoft-Publisher', 'PUB-conversion', 'Convert-PUB', 'PUB-to-PDF', 'metadata', 'Windows', 'Linux', 'Mac', 'J2SE', 'Maven', 'edit-metadata', 'modify-metadata']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/pub/40
+productLink: https://products.aspose.com/pub/java/
+dataFolder: aspose_pub
+packages_refs:
+- "22-8"
+- "20-8"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/pub" linktext=" Support Forum " >}}
+# Java API üzerinden PROBU PUS DOSYALARI
+[![banner](./aspose_pub-for-java-banner.png)](./)
 
-{{< Common/h2 text="Microsoft Publisher® Files ile çalışmak için Aspose.PUB'u indirin"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose, tüm Java API'lerini şu adreste barındırır:
-{{< Common/link href="https://repository.aspose.com" text="Aspose Deposu"  >}}. Pom.xml'inize aşağıdaki konfigürasyonları ekleyerek Aspose.PUB for Java API'sini doğrudan Maven tabanlı projelerinizde kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen ziyaret edin
-{{< Common/link href="https://docs.aspose.com/pub/java/installation/" text="Aspose.PUB for Java'yı Maven Repository'den Kurmak"  >}}dokümantasyon sayfası.
-{{< Common/release-notes-link family="pub" product="java" href="https://docs.aspose.com/pub/java/release-notes/" text="https://docs.aspose.com/pub/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Ürün sayfası](https://products.aspose.com/pub/java) | [Belgeler](https://docs.aspose.com/pub/java/) | [API referansı](https://apireference.aspose.com/pub/java) | [Örnekler](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/Örnekler) | [Blog](https://blog.aspose.com/category/pub/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/pub) | [Geçici lisans](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.PUB for Java](https://products.aspose.com/pub/java), Microsoft Publisher (.pub) dosyalarını PDF'ye okuyabilen, manipüle edebilen ve dönüştürebilen bir Java API'sıdır. Temel Filie formatı hakkında endişelenmeden .pub dosyalarıyla çalışmak için Java uygulamalarınızdaki API'yi kullanabilirsiniz. API, Java masaüstünde ve JSP kullanılarak web uygulamalarında kullanılabilir. API hafif, kullanımı kolaydır ve uygulamanızı uygulamanızda basit kod satırlarıyla basitleştirir.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-pub</artifactId>
-      <version>20.8</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+## Pub Java API özellikleri
+- PDF formatına dönüştürmek için Microsoft Publisher (Pub) dosyalarını okuyun.
+- Pub dosyalarının meta verileriyle çalışmak.
 
-{{KÖPRÜ1}} | {{KÖPRÜ2}} | {{KÖPRÜ3}} | {{KÖPRÜ4}} | {{KÖPRÜ5}} | {{KÖPRÜ6}} | {{KÖPRÜ7}} | {{KÖPRÜ8}} | {{KÖPRÜ9}}
+## Pub dosyalarını okuyun
+** Microsoft Publisher: ** Pub
 
-## Neden Java için Aspose.PUB'u indirmelisiniz?
+## Pub'ı Şöyle KAYDET
+** Sabit Düzen: ** PDF
 
-Aspose.PUB for Java, Microsoft Publisher® (.pub) dosyalarını okuyabilen, değiştirebilen ve PDF'ye dönüştürebilen bir Java API'sidir. Temel dosya biçimi hakkında endişelenmeden .pub dosyalarıyla çalışmak için Java uygulamalarınızdaki API'yi kullanabilirsiniz. API, Java masaüstünde ve JSP kullanan web uygulamalarında kullanılabilir. API hafiftir, kullanımı kolaydır ve uygulamanızdaki basit kod satırlarıyla uygulamanızı basitleştirir.
+## Desteklenen Ortamlar
+- ** Microsoft Windows: ** Windows Desktop & Server (x86, x64)
+- ** MacOS: ** Mac OS X
+- ** linux: ** ubuntu, centos ve diğerleri
+- ** Java Sürümleri: ** `J2SE 8.0 (1.8)` veya üstü
 
-## PUB Java API Özellikleri
+## Başlamak
 
-- PDF formatına dönüştürmek için Microsoft Publisher® (PUB) dosyalarını okuyun.
-- PUB dosyalarının Meta Verileri ile çalışma.
+Aspose.pub Java API'leri [Aspose deposu](https://repository.aspose.com/pub/)'da barındırılır. Java API için aspose.pub'u doğrudan Maven projelerinizde basit konfigürasyonlarla kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.PUB for Java from Aspose deposu](https://docs.aspose.com/pub/java/installation/) belge sayfasını ziyaret edin.
 
-### PUB Dosyalarını Oku
+## Java kullanarak Microsoft Publisher dosyalarının meta verilerini düzenleyin
 
-**Microsoft Publisher®:** PUB
+```java
+// For complete examples and data files, please go to https://github.com/aspose-pub/Aspose.PUB-for-Java
+IPubParser parser = PubFactory.createParser(fileName);
+Document document = parser.parse();
 
-### PUB'u Farklı Kaydet
+document.getDocumentSummaryInfo().setCategory("category");
+document.getDocumentSummaryInfo().setCompany("company");
+document.getDocumentSummaryInfo().setLanguage("language");
 
-**Sabit Düzen:** PDF
+document.getSummaryInfo().setComments("comments");
+document.getSummaryInfo().setKeywords("keywords");
+document.getSummaryInfo().setLastAuthor("last author");
+document.getSummaryInfo().setTitle("title");
+document.getSummaryInfo().setSubject("subject");
+```
 
-### Desteklenen Ortamlar
-
-- **Microsoft Windows®:** Windows Masaüstü ve Sunucu (x86, x64)
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, CentOS ve diğerleri
-- **Java Sürümleri:** "J2SE 8.0 (1.8)" veya üstü
-
-{{< Common/hr >}}
-
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
-
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="pub" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[Ürün sayfası](https://products.aspose.com/pub/java) | [Belgeler](https://docs.aspose.com/pub/java/) | [API referansı](https://apireference.aspose.com/pub/java) | [Örnekler](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/Örnekler) | [Blog](https://blog.aspose.com/category/pub/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/pub) | [Geçici lisans](https://purchase.aspose.com/temporary-license)

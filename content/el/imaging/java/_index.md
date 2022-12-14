@@ -1,9 +1,88 @@
 ---
-title: "Λήψη Αρχείων JAR Επεξεργασία Σχεδίου Εικόνων | Aspose.Απεικόνιση"
-description: "Λήψη αρχείων JAR επεξεργασίας, χειρισμού και μετατροπής εικόνας. Υποστηρίζει κάλυψη, φίλτρα, deskew, μετασχηματισμό μήτρας, σχήματα, πρόσμειξη και διανύσματα."
-keywords: "Java Imaging Library"
-family_listing_page_title: "Aspose.Imaging για Java"
-family_listing_page_description: "Το Aspose.Imaging for Java είναι ένα υψηλής απόδοσης και καλά τεκμηριωμένο API απεικόνισης που παρέχει την πιο ευέλικτη ομάδα ρουτινών επεξεργασίας εικόνων στους προγραμματιστές για τη δημιουργία, το χειρισμό, την αποθήκευση και τη μετατροπή εικόνων στις εφαρμογές Java τους, χωρίς την ανάγκη επεξεργασίας εικόνας ."
+title: "Aspose.imaging | Διαδικασία και μετατροπή εικόνων μέσω βιβλιοθήκης Java" 
+linktitle: Aspose.Imaging
+description: "Βιβλιοθήκη κλάσης Java για επεξεργασία εικόνας, χειραγώγηση και μετατροπή. Υποστηρίζει κάλυψη, φίλτρα, deskew, μετασχηματισμός μήτρας, σχήματα, dithering και φορείς." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Imaging
+- Aspose Java API
+- image java library
+- image java class
+- Maven
+- BMP
+- GIF
+- DICOM
+- DJVU
+- DNG
+- EMF
+- JPEG
+- JPEG2000
+- ODG
+- PNG
+- APNG
+- PSD
+- DXF
+- SVG
+- TIFF
+- DIB
+- EPS
+- WEBP
+- WMF
+- CDR
+- CMX
+- OTG
+- PDF
+- HTML5
+- EMZ
+- WMZ
+- TGA
+- SVGZ
+- canvas
+- Windows
+- Linux
+- Mac
+- JPG to TGA
+- PNG to TGA
+- HTML5
+- SVG to HTML5
+- CorelDRAW
+- CMX to PNG
+- binarization
+- dithering
+- DjVu to TIFF
+- DjVu to PDF
+- image processing
+- multithreading
+- optimization
+- DNG to JPEG
+- FODG
+- JPEG LS
+- CMYK
+- YCK
+- EXIF
+- image to PSD
+- color replacement
+- raster image
+- flat psd
+- PSD to JPG
+- Alpha
+- Subscript
+- smallcap
+- gradient
+- transparency
+- WebP
+- Bezier
+- Polygon
+- vector
+- multipage image
+- image to PSD
+- WMF to PNG
+family_listing_page_title: "Aspose.imaging για java" 
+family_listing_page_description: "Το Aspose.imaging for Java είναι ένα API υψηλής απόδοσης και καλά τεκμηριωμένο API που παρέχει την πιο ευέλικτη ομάδα εικόνων που επεξεργάζονται ρουτίνες για τους προγραμματιστές να δημιουργούν, να χειρίζονται, να αποθηκεύουν και να μετατρέπουν εικόνες στις εφαρμογές Java, χωρίς την ανάγκη ενός επεξεργαστή εικόνων ." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,101 +90,141 @@ family_listing_page_venture: "4"
 family_listing_page_package: "23"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-imaging/"
-tags: ['JPG-to-TGA', 'PNG-to-TGA', 'SVG-to-HTML5', 'DjVu-to-TIFF', 'DjVu-to-PDF', 'DNG-to-JPEG', 'image-to-PSD', 'PSD-to-JPG', 'image-to-PSD', 'WMF-to-PNG']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/imaging/14
+productLink: https://products.aspose.com/imaging/java/
+dataFolder: aspose_imaging
+packages_refs:
+- "22-12"
+- "22-11"
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "16-10"
+- "16-12"
+- "17-01"
+- "17-03"
+- "17-11"
+- "17-12"
+- "17-4"
+- "17-6"
+- "17-7"
+- "17-9"
+- "18-11"
+- "18-2"
+- "18-3"
+- "18-4"
+- "18-6"
+- "18-7"
+- "18-8"
+- "18-9"
+- "19-1"
+- "19-10"
+- "19-11"
+- "19-12"
+- "19-2"
+- "19-3"
+- "19-4"
+- "19-6"
+- "19-7"
+- "19-9"
+- "20-10"
+- "20-11"
+- "20-12"
+- "20-2"
+- "20-3"
+- "20-4"
+- "20-5"
+- "20-6"
+- "20-7"
+- "20-8"
+- "20-9"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
+- "3-3"
+- "3-4"
+- "3-5"
+- "3-6"
+- "3-6-0"
+- "3-7-0"
+- "3-8-0"
+- "3-8-1"
+- "3-9-0"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/imaging" linktext=" Support Forum " >}}
+# Java API για επεξεργασία εικόνας
+[![banner](./aspose_imaging-for-java-banner.png)](./)
 
-{{< Common/h3 text="Πραγματοποιήστε λήψη του Aspose.Imaging Java JAR για επεξεργασία εικόνων Raster & Vector"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Το Aspose φιλοξενεί όλα τα Java API στο
-{{< Common/link href="https://repository.aspose.com" text="Aspose Repository"  >}}. Μπορείτε εύκολα να χρησιμοποιήσετε το
-{{< Common/link href="https://repository.aspose.com/imaging/" text="Aspose.Imaging for Java API"  >}}απευθείας στα έργα σας που βασίζονται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml σας. Για αναλυτικές οδηγίες παρακαλούμε επισκεφθείτε
-{{< Common/link href="https://docs.aspose.com/imaging/java/installation/" text="Εγκατάσταση του Aspose.Imaging για Java από το Maven Repository"  >}}σελίδα τεκμηρίωσης.
-{{< Common/release-notes-link family="imaging" product="java" href="https://docs.aspose.com/imaging/java/release-notes/" text="https://docs.aspose.com/imaging/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Σελίδα προϊόντος](https://products.aspose.com/imaging/java) | [Έγγραφα](https://docs.aspose.com/imaging/java/) | [Επίδειξη](https://products.aspose.app/imaging/family) | [Αναφορά API](https://apireference.aspose.com/imaging/java) | [Παραδείγματα](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [Ιστολόγιο](https://blog.aspose.com/category/imaging/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/imaging) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+Πρόκειται για αυτόνομη [API απεικόνισης](https://products.aspose.com/imaging/java) που αποτελείται από ρουτίνες Java που επιτρέπουν στις εφαρμογές σας Java να σχεδιάζουν καθώς και να εκτελούν βασικές έως προχωρημένες επεξεργασίες εικόνων Raster & Vector.
+Το Aspose.Imaging για την Java προσφέρει ισχυρή συμπίεση εικόνων και υψηλή ταχύτητα επεξεργασίας μέσω της εγγενούς πρόσβασης byte και μιας σειράς αποτελεσματικών αλγορίθμων. Όχι μόνο χειρίζεται, εξάγει και μετατρέπει εικόνες, αλλά σας επιτρέπει επίσης να σχεδιάσετε δυναμικά αντικείμενα χρησιμοποιώντας τη διαδρομή χειρισμού και γραφικών εικονοστοιχείων.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-imaging</artifactId>
-      <version>22.7</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
-
-[Product Page](https://products.aspose.com/imaging/java) | [Docs](https://docs.aspose.com/imaging/java/) | [Demos](https://products.aspose.app/imaging/family) | [API Reference](https://reference.aspose.com/imaging/java) | [Examples](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [Blog](https://blog.aspose.com/category/imaging/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/imaging) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-Είναι ένα αυτόνομο API απεικόνισης που αποτελείται από ρουτίνες Java που επιτρέπουν στις εφαρμογές σας Java να σχεδιάζουν καθώς και να εκτελούν επεξεργασία βασικού έως προχωρημένου επιπέδου ράστερ και διανυσματικών εικόνων.
-
-## Γιατί να κατεβάσετε το Aspose.Imaging για Java;
-
-Το Aspose.Imaging για Java προσφέρει ισχυρή συμπίεση εικόνας και υψηλή ταχύτητα επεξεργασίας μέσω της εγγενούς πρόσβασης byte και μιας σειράς αποτελεσματικών αλγορίθμων. Όχι μόνο χειρίζεται, εξάγει και μετατρέπει εικόνες, αλλά σας επιτρέπει επίσης να σχεδιάζετε δυναμικά αντικείμενα χρησιμοποιώντας χειρισμό pixel και Διαδρομή γραφικών.
-
-## Λειτουργίες API απεικόνισης
-
+## Χαρακτηριστικά API απεικόνισης
 - Σχεδιάστε εικόνες ράστερ με γραφικά.
-- Σχεδιάστε διανυσματικές εικόνες.
+- Εικόνες διανυσμάτων.
 - Μετατροπή εικόνων σε διάφορες μορφές.
-- Εφαρμόστε masking καθώς και φίλτρα Median & Wiener.
-- Περικοπή, περιστροφή και αλλαγή μεγέθους εικόνων μέσω API.
-- Αποκλιμάκωση και μεταμόρφωση εικόνων.
-- Ορισμός ιδιοτήτων εικόνας.
 
-### Μορφές εικόνας ανάγνωσης και εγγραφής
+- [Εφαρμογή καλύμματος](https://docs.aspose.com/imaging/java/applying-masking-to-images/) καθώς και [Median & Wiener](https://docs.aspose.com/imaging/java/applying-median-and-wiener-filters/) φίλτρα.
+- Καλλιέργεια, περιστροφή και αλλαγή μεγέθους εικόνων μέσω API.
+- de-skew & μετατρέψτε τις εικόνες.
+- Ρυθμίστε τις ιδιότητες εικόνας.
 
-**Μορφές Raster:** JPEG2000, JPEG, BMP, TIFF, GIF, PNG, APNG\
-**Μετααρχεία:** EMF, EMZ, WMF, WMZ\
-**Άλλα:** SVG, SVGZ, DICOM
+## Διαβάστε και γράψτε μορφές εικόνας
+** Μορφές Raster: ** JPEG2000, JPEG, BMP, TIFF, GIF, PNG, APNG \
+** Metafiles: ** EMF, EMZ, WMF, WMZ \
+** Άλλο: ** SVG, SVGZ, DICOM
 
-### Αποθήκευση εικόνων ως
+## Αποθήκευση εικόνων ως
+** σταθερό: ** PDF \
+** Photoshop: ** PSD \
+** σήμανση: ** HTML5 καμβά
 
-**Διορθώθηκε:** PDF\
-**Photoshop:** PSD\
-**Σήμανση:** Καμβάς HTML5
+## Διαβάστε μορφές εικόνας
+** Διάφορα: ** DJVU, DNG, ODG, CMX, CDR, DIB, OTG, FODG, EPS (μόνο προεπισκόπηση Raster), WebP
 
-### Διαβάστε μορφές εικόνας
-
-**Διάφορα:** DjVu, DNG, ODG, CMX, CDR, DIB, OTG, FODG, EPS (μόνο προεπισκόπηση ράστερ), WEBP
-
-### Υποστηριζόμενα λειτουργικά συστήματα
-
-Το Aspose.Imaging για Java μπορεί να εκτελεστεί σχεδόν σε οποιοδήποτε λειτουργικό σύστημα όπου είναι εγκατεστημένη η Java (από το JDK 1.6)
-
-- Windows (από 7)
+## υποστηριζόμενα λειτουργικά συστήματα
+Το Aspose.Imaging for Java μπορεί να εκτελεστεί ουσιαστικά σε οποιοδήποτε λειτουργικό σύστημα όπου είναι εγκατεστημένη η Java (από το JDK 1.6)
+- Windows (since 7)
 - Linux
 - MacOS
-- Οποιοδήποτε λειτουργικό σύστημα στο οποίο είναι εγκατεστημένη η Java.
+- Οποιοδήποτε λειτουργικό σύστημα είναι εγκατεστημένο.
+Το Aspose.imaging λειτουργεί τόσο για τις εκδόσεις X86 και X64 των παραπάνω λειτουργικών συστημάτων.
+** ΣΗΜΕΙΩΣΗ: ** Στο OS Linux, συνιστάται να εγκαταστήσετε το πακέτο με γραμματοσειρές συμβατές με τη Microsoft (π.χ. `sudo apt-get install ttf-mscorefonts-installer ').
 
-Το Aspose.Imaging λειτουργεί και για τις εκδόσεις x86 και x64 των παραπάνω λειτουργικών συστημάτων.
+## Ξεκίνα
 
-**Σημείωση:** Στο Linux OS, συνιστάται η εγκατάσταση του πακέτου με γραμματοσειρές συμβατές με τη Microsoft (π.χ. `sudo apt-get install ttf-mscorefonts-installer`).
+Το ASPOSPER.Imaging Java API φιλοξενούνται στο [Θέτω σε αποθήκη](https://repository.aspose.com/imaging/). Μπορείτε εύκολα να χρησιμοποιήσετε το ASPOSE.Imaging για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/).
 
-{{< Common/hr >}}
+## Εικόνα EMF καλλιέργειας από ορθογώνιο
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+```java
+try (MetafileImage metaImage = (MetafileImage) Image.load(dataDir + "Picture1.emf"))
+{
+	// create an instance of Rectangle class with desired size
+	Rectangle rectangle = new Rectangle(10, 10, 100, 100);
 
-{{< Common/hr >}}
+	// perform the crop operation on object of Rectangle class
+	metaImage.crop(rectangle);
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="imaging" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+	// save the result in PNG format
+	metaImage.save(dataDir + "CropbyRectangle_out.png", new PngOptions());
+}
+```
 
+[Σελίδα προϊόντος](https://products.aspose.com/imaging/java) | [Έγγραφα](https://docs.aspose.com/imaging/java/) | [Επίδειξη](https://products.aspose.app/imaging/family) | [Αναφορά API](https://apireference.aspose.com/imaging/java) | [Παραδείγματα](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [Ιστολόγιο](https://blog.aspose.com/category/imaging/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/imaging) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)

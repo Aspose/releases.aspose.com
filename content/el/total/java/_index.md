@@ -1,9 +1,39 @@
 ---
-title: "Μορφές αρχείων Java API | Aspose.Total για Java"
-description: "Κατεβάστε τη σουίτα βιβλιοθήκης Java για δημιουργία, χειρισμό, μετατροπή, απόδοση και εκτύπωση αρχείων Microsoft Word, Excel, PowerPoint, Outlook, Publisher, Visio, Project και OneNote. Το πακέτο περιλαμβάνει επίσης API για μορφές αρχείων PDF, Photoshop, CAD, GIS & 3D καθώς και API για γραμμωτούς κώδικες, OCR & OMR."
-keywords: "Java libraries  "
-family_listing_page_title: "Aspose.Total για Java"
-family_listing_page_description: "Το Aspose.Total για Java επιτρέπει στους προγραμματιστές να δημιουργούν απίστευτα ευέλικτα συστήματα επεξεργασίας αρχείων ικανά να χειρίζονται 100+ δημοφιλείς μορφές αρχείων. Οι προγραμματιστές εφαρμογών Java SE ή EE μπορούν να βελτιώσουν τις εφαρμογές τους με τη δυνατότητα φόρτωσης, δημιουργίας, τροποποίησης, απόδοσης και αλληλομετατροπής αρχείων από Microsoft Office, OpenOffice, Visio, Project, CAD και πολλές άλλες κοινώς χρησιμοποιούμενες κατηγορίες μορφών."
+title: "Aspose.total | Βιβλιοθήκες κλάσης Java για επεξεργασία μορφών αρχείων" 
+linktitle: Aspose.Total
+description: "Τα API High Code Java θα επιτρέψουν στις εφαρμογές σας να συνεργαστούν με μορφές αρχείων του Microsoft Word, Excel, PowerPoint, Outlook, OneNote, 3D, CAD, PDF, GIS, Email, HTML κ.λπ." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose Words
+- Aspose Cells
+- Aspose PDF
+- Aspose Slides
+- Aspose Email
+- Aspose BarCode
+- Aspose Imaging
+- Aspose Tasks
+- Aspose OCR
+- Aspose Diagram
+- Aspose Note
+- Aspose CAD
+- Aspose HTML
+- Aspose 3D
+- Aspose Page
+- Aspose PSD
+- Aspose PUB
+- Aspose Font
+- Aspose TeX
+- Maven
+- J2SE
+- Windows
+- Linux
+- Mac
+family_listing_page_title: "Aspose.total για java" 
+family_listing_page_description: "Το Aspose.Total for Java επιτρέπει στους προγραμματιστές να κατασκευάζουν απίστευτα ευπροσάρμοστα συστήματα επεξεργασίας αρχείων που είναι ικανά να χειρίζονται 100+ δημοφιλείς μορφές αρχείων. Οι προγραμματιστές εφαρμογών Java SE ή EE μπορούν να ενισχύσουν τις εφαρμογές τους με τη δυνατότητα φόρτωσης, δημιουργίας, τροποποίησης, απόδοσης και διακυβέρνησης αρχείων από το Microsoft Office, το OpenOffice, το Visio, το Project, το CAD και πολλές άλλες κατηγορίες μορφής." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,139 +41,116 @@ family_listing_page_venture: "4"
 family_listing_page_package: "284"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-total/"
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/total/7
+productLink: https://products.aspose.com/total/java/
+dataFolder: aspose_total
+packages_refs:
+- "22-10"
+- "22-9"
+- "22-8"
+- "22-7"
+- "22-6"
+- "20-12"
+- "21-10"
+- "21-11"
+- "21-12"
+- "21-2"
+- "21-3"
+- "21-4"
+- "21-5"
+- "21-6"
+- "21-7"
+- "21-8"
+- "21-9"
+- "22-1"
+- "22-2"
+- "22-3"
+- "22-4"
+- "22-5"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/total" linktext=" Support Forum " >}}
+# Μαθήματα Java για χειραγώγηση μορφής εγγράφων
+[![banner](./aspose_total-for-java-banner.png)](./)
 
-{{< Common/h2 text="Κατεβάστε το Aspose.Total από τη Maven"  >}}
+[Σελίδα προϊόντος](https://products.aspose.com/total/java/) | [Έγγραφα](https://docs.aspose.com/total/java/) ​​| [Αναφορά API](https://apireference.aspose.com/) | [Παραδείγματα](http://aspose.github.io) | [Ιστολόγιο](https://blog.aspose.com/category/total/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license) | [Πολιτικές](https://purchase.aspose.com/policies)
 
-{{< Common/paragraph class="package-instructions">}}
-Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Total για Java απευθείας από ένα
-{{< Common/link href="https://repository.aspose.com/total/" text="Maven"  >}}βασισμένο έργο προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+Το [Aspose.Total for Java](https://docs.aspose.com/total/java/) είναι το πιο ολοκληρωμένο πακέτο όλων των API μορφής αρχείου Java που προσφέρονται από την ASPOSE. Δείχνει τους προγραμματιστές να δημιουργούν, να επεξεργάζονται, να εκτυπώνουν, να εκτυπώνουν και να μετατρέπουν μεταξύ ενός ευρέος φάσματος δημοφιλών μορφών εγγράφων από οποιαδήποτε εφαρμογή Java.
 
-{{< Common/release-notes-link family="total" product="java" href="https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/" text="https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/"  >}}
+## aspose.words για java
 
-{{< /Common/paragraph>}}
+Το [Βιβλιοθήκη Java](https://products.aspose.com/words/java/) επιτρέπει την εκτέλεση λειτουργιών επεξεργασίας εγγράφων MS, όπως η δημιουργία εγγράφων, η επεξεργασία, η απόδοση και η μετατροπή των μορφών εγγράφων Microsoft Word, OpenOffice, Markup και Ebook.
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}}
-      <repository>
-         <id>AsposeJavaAPI</id>
-         <name>Aspose Java API</name>
-         <url>https://releases.aspose.com/java/repo/</url>
-      </repository>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+## aspose.cells για java
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-         <groupId>com.aspose</groupId>
-         <artifactId>aspose-total</artifactId>
-         <version>21.10</version>
-         <type>pom</type>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+Το [Excel Java API & GUI controls](https://products.aspose.com/cells/java/) επιτρέπει τη δημιουργία, τη διαδικασία, το χειρισμό και τη μετατροπή των υπολογιστικών φύλλων Excel & OpenOffice. Παρέχει τη δυνατότητα ανάγνωσης και εγγραφής μιας φόρμουλας, πίνακες περιστροφής, slicers, πίνακες, διαγράμματα, αντικείμενα σχεδίασης, έξυπνους δείκτες και πολλά άλλα.
 
-{{< Common/hr >}}
+## aspose.pdf για java
 
-[Product Page](https://products.aspose.com/tasks/java) | [Docs](https://docs.aspose.com/tasks/java/) | [Demos](https://products.aspose.app/tasks/family) | [API Reference](https://reference.aspose.com/tasks/java) | [Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java) | [Blog](https://blog.aspose.com/category/tasks/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/tasks) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+Το [Στοιχείο Java PDF](https://products.aspose.com/pdf/java/) σας επιτρέπει να δημιουργείτε, να επεξεργάζεστε και να χειρίζεστε έγγραφα PDF χωρίς να εγκαταστήσετε το Adobe Acrobat. Εργαστείτε με συνημμένα, σελιδοδείκτες, σχολιασμούς, συνδέσμους, ενέργειες, ασφάλεια, υπογραφή, χειριστές, πίνακες, αρχεία PDF με ετικέτα, έντυπα PDF, γραφήματα, επικεφαλίδες, εικόνες, μεμονωμένες σελίδες PDF, γραμματόσημα, υδατογραφήματα και ασφάλεια.
 
-### Γιατί να κατεβάσετε το Aspose.Total για Java;
+## aspose.slides για java
 
-Το Aspose.Total για Java είναι μια συλλογή από API Αυτοματισμού Μορφής Αρχείου για προγραμματιστές Java που μπορούν να χρησιμοποιηθούν σε οποιαδήποτε εφαρμογή Java J2SE, J2EE, J2ME. Η σουίτα αποτελείται από τα ακόλουθα μεμονωμένα API:
+[PowerPoint Παρουσίαση Επεξεργασία και χειραγώγηση API](https://products.aspose.com/slides/java/) βοηθά στην ανάγνωση, τη γραφή και την επεξεργασία αρχείων παρουσίασης όλων των δημοφιλών μορφών.
 
-### Aspose.Words για Java
+## aspose.email για java
 
-API επεξεργασίας κειμένου για τη δημιουργία, επεξεργασία, μετατροπή ή απόδοση εγγράφων Word® σε διάφορες μορφές.
+[Java Email API](https://products.aspose.com/email/java/) Σας βοηθά να δημιουργήσετε, να χειριστείτε, να στείλετε και να λαμβάνετε μηνύματα ηλεκτρονικού ταχυδρομείου καθώς και να διαχειριστείτε αρχεία αρχείων ημερολογίου και ηλεκτρονικού ταχυδρομείου. Υποστηρίζει πρωτόκολλα SMTP, MIME, POP3, IMAP και HTTP.
 
-### Aspose.PDF για Java
+## aspose.barcode για java
 
-PDF Manipulation API για δημιουργία, ανάλυση, προστασία, υπογραφή και μετατροπή αρχείων PDF χωρίς να απαιτείται το Adobe Acrobat®.
+[API Java Barcode](https://products.aspose.com/barcode/java/) βοηθά στην αναγνώριση και τη δημιουργία 1D, 2D και ταχυδρομικών γραμμωτών κωδικών 40+ συμβολιών.
 
-### Aspose.Cells για Java
+## aspose.imaging για java
 
-API επεξεργασίας υπολογιστικών φύλλων για δημιουργία, χειρισμό, μετατροπή, προστασία ή εκτύπωση υπολογιστικών φύλλων χωρίς εγκατάσταση του MS Excel®.
+Ένα [easy-to-use Imaging API](https://products.aspose.com/imaging/java/) που σας βοηθά να δημιουργήσετε, να μετατρέψετε, να σχεδιάσετε και να μετατρέψετε εικόνες.
 
-### Aspose.Email για Java
-Email Management API για δημιουργία, δημιουργία email, αποστολή email και ανάλυση email από το Outlook® & Thunderbird®.
+## aspose.tasks για java
 
-### Aspose.Slides για Java
+[Java API για την ανάπτυξη εφαρμογών διαχείρισης έργων](https://products.aspose.com/tasks/java/) με τη δυνατότητα επεξεργασίας, χειρισμού και μετατροπής εγγράφων έργου της Microsoft.
 
-API χειρισμού παρουσίασης για δημιουργία, τροποποίηση, συγχώνευση, κλωνοποίηση, προστασία, μετατροπή και χειρισμό PPT/PPTX χωρίς MS PowerPoint®.
+## aspose.ocr για java
 
-### Aspose.Imaging για Java
+Το [Στοιχείο ocr java](https://products.aspose.com/ocr/java/) σας βοηθά να αναπτύξετε εφαρμογές οπτικής αναγνώρισης χαρακτήρων (OCR) για γλώσσες αγγλικών, ισπανικών, γαλλικών και πορτογαλικών.
 
-Image Editor API για δημιουργία, φόρτωση, μετατροπή ή μετατροπή εικόνων με βελτιστοποίηση μνήμης.
+## aspose.diagram για java
 
-### Aspose.BarCode για Java
+[Visio Java API](https://products.aspose.com/diagram/java/) Ενισχύει τις εφαρμογές σας για να δημιουργήσετε διαγράμματα Visio από το μηδέν, να χειριστείτε τα υπάρχοντα διαγράμματα ή να μετατρέψετε το Visio σε μορφές σταθερής διάστασης και εικόνας.
 
-BarCode Generation & Recognition API για δημιουργία, προσαρμογή και αναγνώριση γραμμικών, 2D και ταχυδρομικών γραμμικών κωδίκων.
+## aspose.note για java
 
-### Aspose.Diagram για Java
+[API Java Onenote](https://products.aspose.com/note/java/) Σας βοηθά να δημιουργήσετε, να χειριστείτε και να μετατρέψετε τα αρχεία OneNote χωρίς να απαιτήσετε πρόσθετες βιβλιοθήκες.
 
-API χειρισμού διαγραμμάτων για χειρισμό και εξαγωγή αρχείων Microsoft Visio® σε μορφές PDF, HTML, Εικόνες και XAML.
+## aspose.cad για java
 
-### Aspose.Tasks για Java
+Ενεργοποιεί τις εφαρμογές σας Java στο [Διαδικασία και μετατροπή σχεδίων CAD](https://products.aspose.com/cad/java/) χωρίς να απαιτείται να εγκαταστήσετε το AutoCAD.
 
-Project Document Manipulation API για χειρισμό ή εξαγωγή αρχείων MS Project® σε μορφές Primavera, Excel, PDF, Εικόνες, HTML & XML.
+## aspose.html για java
 
-### Aspose.OCR για Java
+Μια προϋπόθεση [Java HTML API](https://products.aspose.com/html/java/) που μιμείται τη συμπεριφορά ενός προγράμματος περιήγησης χωρίς κεφαλή και σας βοηθά να επεξεργαστείτε και να χειριστείτε τις σελίδες HTML.
 
-API οπτικής αναγνώρισης χαρακτήρων για προσθήκη λειτουργιών οπτικής αναγνώρισης χαρακτήρων και σάρωσης εγγράφων στις εφαρμογές σας Java.
+## aspose.3d για java
 
-### Aspose.Note για Java
+[Το 3D API ενσωματώνει απρόσκοπτα επεξεργασία αρχείων 3D](https://products.aspose.com/3d/java/) και λειτουργικότητα χειραγώγησης στην επιφάνεια εργασίας και τις εφαρμογές ιστού που βασίζεται στην Java.
 
-Notes Manipulation API για δημιουργία, ανάγνωση, επεξεργασία, μετατροπή και χειρισμό εγγράφων Microsoft OneNote®.
+## aspose.page για java
 
-#### Aspose.CAD για Java
+Δημιουργήστε, επεξεργαστείτε και αποθηκεύστε έγγραφα XPS από τις δικές σας εφαρμογές Java. Το [Aspose.Page for Java](https://products.aspose.com/page/java/) σας επιτρέπει επίσης να μετατρέψετε τα αρχεία XPS, EPS & EP σε μορφή PDF.
 
-API για επεξεργασία και μετατροπή αρχείων AutoCAD® (DWG, DXF, STL) σε μορφές εικόνας PDF και ράστερ χωρίς εγκατάσταση του AutoCAD®.
+## aspose.psd για java
 
-### Aspose.3D για Java
+[Photoshop Java API](https://products.aspose.com/psd/java/) Ενσωματώνει άψογα την επεξεργασία αρχείων PSD & PSB, χειρισμού και μετατροπής στις εφαρμογές σας Java χωρίς να απαιτείται Adobe Photoshop.
 
-Τρισδιάστατα API επεξεργασίας αρχείων που λειτουργούν χωρίς εξωτερικό λογισμικό μοντελοποίησης και απόδοσης. Υποστηρίζει την επεξεργασία μορφών Autodesk®, Wavefront, Collada, Draco και πολλών άλλων μορφών 3D.
+## aspose.pub για java
 
-### Aspose.HTML για Java
+Ένα ελαφρύ API Java στο [read, convert & manipulate Microsoft Publisher files (.PUB)](https://products.aspose.com/pub/java/) χωρίς να απαιτείται βιβλιοθήκες ή λογισμικό τρίτου μέρους.
 
-API για το χειρισμό και την απόδοση εγγράφων HTML, συμπεριλαμβανομένων των στυλ CSS σε PDF και άλλες μορφές εικόνας ράστερ.
+## aspose.font για java
 
-### Aspose.Page για Java
+Το Aspose.font για Java σας βοηθά [Ενσωματώστε δυνατότητες φόρτωσης και σχεδίασης γραμματοσειράς](https://products.aspose.com/font/java/) στις εγγενείς εφαρμογές σας Java. Υποστηρίζει διάφορες μορφές γραμματοσειράς όπως το `truetype` (με συλλέκτες Truetype), 'CFF`,' Opentype 'και' Type1`.
 
-XPS & PostScript Document Processing API με υποστήριξη για τη δημιουργία, την ανάλυση και τη μετατροπή μορφών XPS, PS και EPS.
+## aspose.tex για java
 
-### Aspose.PSD για Java
+Το aspose.tex για java είναι [Συλλογή αρχείων TEX Τύση μαθημάτων Java](https://products.aspose.com/tex/java/). Σας βοηθά να πληκτρολογείτε αρχεία TEX για να λάβετε έγγραφα σε μορφές, όπως XPS, PDF, PNG, JPEG, TIFF και BMP. Υποστηρίζεται επίσης η Custom Tex Formats Creation.
 
-API για τη δημιουργία, φόρτωση, τροποποίηση και απόδοση εγγράφων μορφής Adobe Photoshop® (PSD & PSB) χωρίς εγκατάσταση λογισμικού τρίτων.
-
-### Aspose.OMR για Java
-
-Optical Mark Recognition API για τον εντοπισμό και την ανάλυση των ψηφιοποιημένων εικόνων φύλλων OMR από διάφορες μορφές σαρωμένης εικόνας.
-
-### Aspose.PUB για Java
-
-API επεξεργασίας αρχείων ηλεκτρονικής δημοσίευσης για φόρτωση και μετατροπή μορφής PUB του Microsoft Publisher® σε PDF.
-
-### Aspose.Font για Java
-
-API φόρτωσης και απόδοσης γραμματοσειρών με υποστήριξη για TrueType, CFF, OpenType, Type1 κ.λπ.
-
-### Aspose.TeX για Java
-
-API για να πληκτρολογήσετε αρχεία TeX. Υποστηρίζει πολλαπλές μορφές εξόδου όπως XPS, PDF, PNG, JPEG, TIFF, BMP.
-
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
-
-{{< Common/hr >}}
-
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="total" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-
+[Σελίδα προϊόντος](https://products.aspose.com/total/java/) | [Έγγραφα](https://docs.aspose.com/total/java/) | [Αναφορά API](https://apireference.aspose.com/) | [Παραδείγματα](http://aspose.github.io) | [Ιστολόγιο](https://blog.aspose.com/category/total/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license) | [Πολιτικές](https://purchase.aspose.com/policies)

@@ -1,9 +1,43 @@
 ---
-title: "Unduh File JAR untuk Membuat & TypeSet TeX | Aspose.TeX API"
-description: "Unduh file JAR untuk menambahkan fitur pengaturan huruf dalam Aplikasi Anda. Konversi TeX & LaTeX ke PDF, XPS, SVG dll. Mendukung subsetting font, ligatur, rasterisasi, dll."
-keywords: "tex"
-family_listing_page_title: "Aspose.TeX untuk Java"
-family_listing_page_description: "Aspose.TeX for Java adalah Java API yang dibuat untuk memungkinkan pengembang membuat aplikasi untuk pengaturan huruf file TeX."
+title: "Aspose.tex | Perpustakaan Java ke Typeset & Convert Tex File" 
+linktitle: Aspose.TeX
+description: "Perpustakaan Kelas Java untuk menambahkan fitur pengaturan huruf di dalam aplikasi Anda. Konversi Tex & LaTeX ke PDF, XPS, SVG dll. Mendukung sub-pengambilan font, ligatur, rasterisasi, dll." 
+layout: packages
+type: repository
+categories:
+  - fundamentals
+keywords:
+- Aspose Total
+- Aspose TeX
+- Aspose Java API
+- tex-java-library
+- tex-java-class
+- XPS
+- PDF
+- PNG
+- JPEG
+- TIFF
+- BMP
+- TEXT
+- typesetting
+- ZIP
+- J2SE
+- Windows
+- Linux
+- Mac
+- format conversion
+- tex conversion
+- latex conversion
+- font subsetting
+- ligature
+- rasterization
+- OXPS
+- PS
+- EPS
+- SVG
+- TeX to SVG
+family_listing_page_title: "Aspose.tex untuk Java" 
+family_listing_page_description: "Aspose.tex untuk Java adalah Java API yang dibuat untuk memungkinkan pengembang membuat aplikasi untuk pengaturan tese -tese Tex." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -11,78 +45,64 @@ family_listing_page_venture: "4"
 family_listing_page_package: "276"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-tex/"
-tags: ['XPS', 'PDF', 'PNG', 'JPEG', 'TIFF', 'BMP', 'TEXT', 'typesetting', 'ZIP', 'J2SE', 'Windows', 'Linux', 'Mac', 'format-conversion', 'tex-conversion', 'latex-conversion', 'font-subsetting', 'ligature', 'rasterization', 'OXPS', 'PS', 'EPS', 'SVG', 'TeX-to-SVG']
-weight:  2
+weight: 02	#rem
+forumLink: https://forum.aspose.com/c/tex/47
+productLink: https://products.aspose.com/tex/java/
+dataFolder: aspose_tex
+packages_refs:
+- "22-11"
+- "22-10"
+- "22-8"
+- "22-6"
+- "21-11"
+- "21-4"
+- "21-8"
+- "21-9"
+- "22-2"
+- "22-3"
+- "22-4"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/tex" linktext=" Support Forum " >}}
+# Java API ke file typeet tex
+[![banner](./aspose_tex-for-java-banner.png)](./)
 
-{{< Common/h2 text="Unduh Aspose.TeX ke TypeSet File TeX"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Asumsikan host semua Java API di
-{{< Common/link href="https://repository.aspose.com" text="Apose Repositori"  >}}. Anda dapat dengan mudah menggunakan Aspose.TeX for Java API langsung di proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml Anda. Untuk petunjuk rinci, silakan kunjungi
-{{< Common/link href="https://docs.aspose.com/tex/java/installation/" text="Menginstal Aspose.TeX untuk Java dari Maven Repository"  >}}halaman dokumentasi.
-{{< Common/release-notes-link family="tex" product="java" href="https://docs.aspose.com/tex/java/release-notes/" text="https://docs.aspose.com/tex/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
+[Halaman produk](https://products.aspose.com/tex/java) | [Dokumen](https://downloads.aspose.com/tex/java) | [Demo](https://products.aspose.app/tex/family) | [Referensi API](https://apireference.aspose.com/tex/java) | [Contoh](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/Contoh) | [Blog](https://blog.aspose.com/category/tex/) | [Dukungan gratis](https://forum.aspose.com/c/tex) | [Lisensi sementara](https://purchase.aspose.com/temporary-license)
 
-{{< consolebox/consoleboxwrapper id="repository" >}}
-   {{< consolebox/textarea id="repository" >}} 
-      <repository>
-      <id>AsposeJavaAPI</id>
-      <name>Aspose Java API</name>
-      <url>https://repository.aspose.com/repo/</url>
-      </repository> 
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
+[Aspose.TeX for Java](https://products.aspose.com/tex/java) adalah perpustakaan yang menyediakan ekstensi mesin TEX yang disebut ObjectTex. Ini dapat digunakan untuk mengetikkan dokumen yang dijelaskan oleh file TEX. `Object` berarti bahwa hasil intermediarytypesetting adalah model objek spesifik yang kemudian dapat dikonversi secara seragam menjadi sejumlah format akhir.
 
-{{< consolebox/consoleboxwrapper id="dependency" >}}
-   {{< consolebox/textarea id="dependency" >}}
-      <dependency>
-      <groupId>com.aspose</groupId>
-      <artifactId>aspose-tex</artifactId>
-      <version>22.6</version>
-      </dependency>
-   {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
+## Fitur Pemrosesan File
+- Typesetting of TeX files
+- Create custom TeX formats
+- Provide input data in various ways
+- Fetch output data in various ways
 
-[Product Page](https://products.aspose.com/tex/java) | [Docs](https://downloads.aspose.com/tex/java) | [Demos](https://products.aspose.app/tex/family) | [API Reference](https://reference.aspose.com/tex/java) | [Examples](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/Examples) | [Blog](https://blog.aspose.com/category/tex/) | [Free Support](https://forum.aspose.com/c/tex) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+## format input yang didukung
+Tex
 
-## Mengapa mengunduh Aspose.TeX untuk Java?
-
-Aspose.TeX for Java adalah pustaka yang menyediakan ekstensi mesin TeX yang disebut ObjectTeX. Ini dapat digunakan untuk mengeset dokumen yang dijelaskan oleh file TeX. Yang dimaksud dengan “Objek” adalah hasil pengaturan tipe perantara adalah model objek tertentu yang kemudian dapat diubah secara seragam ke dalam sejumlah format akhir.
-
-## Fitur Pemrosesan File Pengaturan Jenis
-
-- Pengaturan jenis file TeX
-- Buat format TeX khusus
-- Memberikan input data dengan berbagai cara
-- Ambil data keluaran dengan berbagai cara
-
-### Format Masukan yang Didukung
-
-TeX
-
-### Simpan TeX Sebagai
-
+## Simpan Tex sebagai
 XPS, PDF, JPEG, PNG, TIFF dan BMP
 
-### Font Tertanam yang Didukung untuk Penyusunan Huruf
+## font tertanam yang didukung untuk pengaturan huruf
+CMBSY10, CMBX10, CMBX5, CMBX6, CMBX7, CMBX8, CMBX9, CMCSC10, CMDUNH10, CMEX10, CMMI10, CMMR1, CMR1, CMMR1, CMMR1, CMMR1, CMR1, CMMI8, CMMI8, CMMI8, CMMI8, CMMI8, CMMI1 CMSL9, CMSLTT10, CMSS10, CMSSBX10, CMSSI10, CMSSQ8, CMSSQI8, CMSY10, CMSY5, CMSY6, CMSY7, CMSY8, CMTI9, CMT10, CMTI7, CMTI8, CMTI0, CMT10, CMT10, CMTI0, CMTI8, CMTI8, CMTI9, CMTI9, CMTI8, CMTI8, CMTI8, CMTI8, CMTI8, CMTI8,
 
-cmbsy10, cmbx10, cmbx5, cmbx6, cmbx7, cmbx8, cmbx9, cmcsc10, cmdunh10, cmex10, cmmi10, cmmi5, cmmi6, cmm7, cmmi8, cmmi9, cmmib10, cmr10, cmr5, cmr6, cmr7, cms cmsl9, cmsltt10, cmss10, cmssbx10, cmssi10, cmssq8, cmssqi8, cmsy10, cmsy5, cmsy6, cmsy7, cmsy8, cmsy9, cmti10, cmti7, cmti8, cmti9, cmtt10, cmtt8, cmtt9, cmu10
+## Platform yang Didukung
+Anda dapat menggunakan Aspose.tex untuk Java untuk membangun semua jenis aplikasi Java untuk Windows (32-bit atau 64-bit) Linux, dan MacOS. Aspose.tex untuk Java mendukung J2SE 8.0 (1.8) atau di atas (misalnya Java 10).
 
-{{< Common/hr >}}
+## Gunakan java untuk membuat format TEX khusus
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+```java
+// Create typesetting options for no format on ObjectTeX engine extension.
+TeXOptions options = TeXOptions.consoleAppOptions(TeXConfig.objectIniTeX());
+// Specify a file system working directory for input.
+options.setInputWorkingDirectory(new InputFileSystemDirectory(Utils.getInputDirectory()));
+// Specify a file system working directory for output.
+options.setOutputWorkingDirectory(new OutputFileSystemDirectory(Utils.getOutputDirectory()));
 
-{{< Common/hr >}}
+// Run format creation.
+TeX.createFormat("customtex", options);
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="tex" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+// For further output to look write.
+options.getTerminalOut().getWriter().newLine();
+```
 
+[Halaman produk](https://products.aspose.com/tex/java) | [Dokumen](https://downloads.aspose.com/tex/java) | [Demo](https://products.aspose.app/tex/family) | [Referensi API](https://apireference.aspose.com/tex/java) | [Contoh](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/Contoh) | [Blog](https://blog.aspose.com/category/tex/) | [Dukungan gratis](https://forum.aspose.com/c/tex) | [Lisensi sementara](https://purchase.aspose.com/temporary-license)
