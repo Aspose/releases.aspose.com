@@ -1,6 +1,6 @@
 ---
-title: "PDF Document Processing APIs | Aspose.PDF Product Family"
-description: "Download .NET, Java, C++ & Android libraries to create, manipulate, convert & render PDF documents. Family also includes extension, solution & exporter for Reporting Services, SharePoint & JasperReports. "
+title: "Python PDF Processing APIs | Aspose.PDF Product Family"
+description: "Download Python package to work with PDF pages, images, attachments, fonts, bookmarks, annotations, forms, watermarks, security & printing via .NET API."
 keywords: "PDF API, PDF Library, Python PDF module"
 family_listing_page_title: "Aspose.PDF for Python via .NET"
 family_listing_page_description: "Aspose.PDF for Python via .NET is an advanced PDF Document Processing API that enables you to perform a wide range of document processing tasks directly within your applications."
@@ -16,10 +16,10 @@ weight:  9
 
 {{< dbToolbar link="https://forum.aspose.com/c/pdf" linktext=" Support Forum " >}}
 
-{{< Common/h3 text="Download Aspose.PDF Python Library for Portable Document Format Processing"  >}}
+{{< Common/h3 text="Download Aspose.PDF for Python via .NET for Portable Document Format Processing"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF for Python via .NET, PDF Processing API that allows the developers to work with PDF documents without needing Microsoft Office&reg; or Adobe Acrobat Automation.
-You can easily use  <b>aspose-pdf</b> for Python from  {{< Common/link href="https://pypi.org/project/aspose-pdf/" text="pip"  >}} with the following command.
+You can easily use Aspose.PDF for Python via .NET from  {{< Common/link href="https://pypi.org/project/aspose-pdf/" text="pip"  >}} with the following command.
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
