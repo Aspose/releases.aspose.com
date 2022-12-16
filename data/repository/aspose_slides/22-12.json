@@ -1,0 +1,12 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-slides",
+  "id" : "22-12",
+  "packageFiles" : [ {
+    "size" : "1 KB",
+    "name" : "aspose-slides-22.12.pom"
+  } ],
+  "releasehDate" : "2022-12-16T16:39:23+00:00",
+  "version" : "22.12",
+  "ReleaseNotes" : "https://docs.aspose.com/slides/java/aspose-slides-for-java-22-12-release-notes/"
+}
