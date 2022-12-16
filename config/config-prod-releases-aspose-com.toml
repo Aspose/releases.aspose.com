@@ -6,7 +6,7 @@ theme =  "downloads-common-theme"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreErrors = ["error-disable-taxonomy"]
 enableRobotsTXT = true
-
+timeout = 2400000
 ################################# Localization #########################
 # Disabled languages
 disableLanguages = []
