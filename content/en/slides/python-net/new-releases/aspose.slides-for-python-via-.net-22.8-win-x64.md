@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-python-via-.net-22.8-win-x64"
-description: " "
+title: "Set Get Presentation Slideshow Settings API for Python Apps"
+description: "Python API to configure the presentation slideshow settings, e.g., run slideshow in a loop, set pen color, show or hide narration, enable or disable animation."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.8-win-x64/"
@@ -14,11 +13,9 @@ download_count: " 2/9/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 54.14MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/"
 weight: 9
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,31 @@ weight: 9
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Presentation Manipulation Python API</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Comprehensive Support for Slideshow Settings
+
+This API release introduces the detailed support for the presentation slide show settings. Some of the new classes and properties are as follows:
+
+- [`Presentation`](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/).`slide_show_settings` property: Returns the slide show settings for the presentation.
+- [`SlideShowSettings`](https://reference.aspose.com/slides/python-net/aspose.slides/slideshowsettings/) class: Represents the slide show settings for the presentation. Some of the available properties are;
+  - make slideshow run in a loop
+  - ability to show / hide slideshow narration
+  - enable / disable animation in the slideshow
+  - adjust pen color for the slideshow
+
+![slideShowSetup.png](https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/slideShowSetup.png)
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for Python 22.8 Release Notes](https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
