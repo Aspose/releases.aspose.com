@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-python-via-.net-22.6-win64"
-description: " "
+title: "Set Presentation Source Locking Behavior API for Python Apps"
+description: "Python API to set locking behavior of presentation source. 'LOAD_AND_RELEASE' default setting locks source only during IPresentation constructor execution."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.6-win64/"
@@ -14,11 +13,9 @@ download_count: " 8/7/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 54.14MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-6-release-notes/"
 weight: 1
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,24 @@ weight: 1
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Presentation Manipulation Python API</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Updated Presentation Source Locking Behavior
+
+The obsolete PresentationLockingBehavior `LOAD_AND_RELEASE_LEGACY_TEMPORARY_DEFAULT` ENUM member has been removed. `LOAD_AND_RELEASE` is the default presentation locking behavior now. 
+
+This default setting locks the source only for the time of `IPresentation` constructor execution.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for Python 22.6 Release Notes](https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-6-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
