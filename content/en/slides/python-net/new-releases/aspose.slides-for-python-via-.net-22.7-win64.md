@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-python-via-.net-22.7-win64"
-description: " "
+title: "3D Column Chart Hebrew Text Presentation API for Python Apps"
+description: "Python API with improved support for 3D column chart, Hebrew text shadow & Ubuntu Focal while converting Microsoft PowerPoint® Presentation PPTX to PDF format."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.7-win64/"
@@ -14,11 +13,9 @@ download_count: " 28/7/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 54.15MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-7-release-notes/"
 weight: 4
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,30 @@ weight: 4
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Presentation Manipulation Python API</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Improved Support for Ubuntu Focal
+
+It was observed that while converting Microsoft PowerPoint&reg; `PPTX` to `PDF` format few issues popped up on Ubuntu Focal. Those issues have now been resolved.
+
+# 3D Column Charts Support
+
+This API release introduces the support of 3D Column Charts. Now you may add chart with default data and then set `Rotation3D` properties (such as right angle axis, depth percent, etc.).
+
+# Improved Hebrew Text Effect Support
+
+Previously it was observed that in some instances the Hebrew text shadow was being incorrect when `PPTX` presentations are converted to `PDF` format. This issue has now been resolved.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for Python 22.7 Release Notes](https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-7-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
