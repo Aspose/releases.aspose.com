@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-python-via-.net-22.10-win-x64"
-description: " "
+title: "Set Presentation Leader Lines Color via API for Python Apps"
+description: "Python API to set frame rotation and frame size behavior while rendering PPTX presentations, compress embedded fonts to reduce PPT size, set leader lines color."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.10-win-x64/"
@@ -14,11 +13,9 @@ download_count: " 27/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 54.2MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-10-release-notes/"
 weight: 16
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,30 @@ weight: 16
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Presentation Manipulation Python API</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Set Frame Rendering & Rotation Behavior
+
+Ability to specify and control the behavior of frame rotation and frame size while rendering shapes from `PPTX` and other supported presentation formats.
+
+# Compress Embedded Fonts to Reduce Presentation Size
+
+If your presentation contains the embedded fonts then this release of our presentation processing Python API offers the ability to perform compression of all such embedded fonts and in turn reduces the size of the presentation files such as `PPTX`.
+
+# Set Presentation Leader Lines Color
+
+This API release introduces the ability to set color of leader lines within your presentation slides.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for Python 22.10 Release Notes](https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-10-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
