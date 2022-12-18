@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-python-via-.net-22.9-win-x64"
-description: " "
+title: "Presentation Slide Manipulation API for Python Apps on macOS"
+description: "Python API to work with presentations on macOS®, get information about font substitutions during presentation rendering, set timing for slide animation effects."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.9-win-x64/"
@@ -14,11 +13,9 @@ download_count: " 5/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 54.18MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-9-release-notes/"
 weight: 12
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,33 @@ weight: 12
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Presentation Manipulation Python API</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Support for Apple&reg;'s macOS&reg;
+
+This presentation manipulation Python API release introduces the support for the macOS&reg;.
+
+# Get Font Substitution Information
+
+Ability to get the information about the fonts being replaced during presentation rendering. A new method, `get_substitutions()`, has been added to achieve this.
+
+# Set Timing for Slide Animation
+
+Now you may set the timing to repeat the presentation slide animation via the following two new properties added to the [`Timing`](https://reference.aspose.com/slides/python-net/aspose.slides.animation/timing/) class:
+
+- `repeat_until_next_click`: this bool property sets if the animation effect is repeated until the mouse button is next clicked.
+- `repeat_until_end_slide`: this bool property sets if the slide animation effect is repeated until the end of the current slide.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for Python 22.9 Release Notes](https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-9-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
