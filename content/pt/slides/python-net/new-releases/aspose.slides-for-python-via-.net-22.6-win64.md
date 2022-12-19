@@ -1,13 +1,13 @@
 ---
-title: "Setzen Sie Präsentationsquellen -Sperrverhalten API für Python -Apps"
-description: "Python -API zum Festlegen von Verriegelungsverhalten der Präsentationsquelle. 'Load_and_release' Standardeinstellung sperrt die Quelle nur während der Ausführung von iPresentation Constructor."
+title: "Definir API de comportamento de travamento da fonte de apresentação para aplicativos Python"
+description: "API Python para definir o comportamento de travamento da fonte de apresentação. 'Load_and_release' A configuração padrão trava a fonte apenas durante a execução do construtor de iPresentation."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.6-win64/"
-folder_name: "ASSON.Slides für Python über .NET 22.6 Win64"
+folder_name: "Aspose.lide para Python via .net 22.6 Win64"
 download_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.6-win64/c97f6d517d8f42beb8143d5de0b91850-11-7624"
 download_text: "Download"
-intro_text: "Präsentation Manipulation Python API"
+intro_text: "API Python de manipulação de apresentação"
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 8/7/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 54.14MB"
@@ -19,28 +19,28 @@ weight: 1
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="ASSON.Slides für Python über .NET 22.6 Win64" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.lide para Python via .net 22.6 Win64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.6-win64/c97f6d517d8f42beb8143d5de0b91850-11-7624" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
-    {{< Releases/ReleasesHeading h4txt="Dateidetails">}}
+    {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
       {{< Common/li class="downloadcount" id="dwn-update-c97f6d517d8f42beb8143d5de0b91850-11-7624" >}} 1 {{< /Common/li >}}
-      {{< Common/li >}} Dateigröße: {{< /Common/li >}}
+      {{< Common/li >}} Tamanho do arquivo: {{< /Common/li >}}
       {{< Common/li id="size-update-c97f6d517d8f42beb8143d5de0b91850-11-7624" >}} 54.14MB {{< /Common/li >}}
 
-      {{< Common/li >}} Datum hinzugefügt: {{< /Common/li >}}
+      {{< Common/li >}} data adicionada: {{< /Common/li >}}
       {{< Common/li id="added-update-c97f6d517d8f42beb8143d5de0b91850-11-7624" >}}8/7/2022 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-6-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-6-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-6-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Beschreibung</h4><div class="HTMLDescription">Präsentation Manipulation Python API</div>
+      <h4>Descrição</h4><div class="HTMLDescription">API Python de manipulação de apresentação</div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -48,13 +48,13 @@ weight: 1
 {{< Common/wrapper class="HTMLDescription">}}
 {{% Releases/ReleasesFileFeatures %}}
 
-# Aktualisierte Präsentationsquellenverriegelungsverhalten
+# Comportamento de travamento da fonte de apresentação atualizada
 
-Das veraltete Präsentationsperrverhalten `load_and_release_legacy_temporary_default` Enum -Mitglied wurde entfernt. `Load_and_release` ist jetzt das Standardpräsentationspflicht.
+A apresentação obsoletaLockingBeHavior `load_and_release_legacy_temporary_default` enum membro foi removida. `Load_and_release` é o comportamento de bloqueio de apresentação padrão agora.
 
-Diese Standardeinstellung sperrt die Quelle nur für die Zeit der Konstruktorausführung von "iPresentation".
+Essa configuração padrão bloqueia a origem apenas para o tempo da execução do construtor 'iPresentation`.
 
-> Für eine vollständige Liste von Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version besuchen Sie bitte [ASSONS.SLIDES FÜR PYTHON 22.6 RESUNGS-ANMERKUNGEN] (https://docs.aspsis.com/slides/python-net/ase-slides- For-Python-NET-22-6-Release-Notes/).
+> Para uma lista completa de recursos, aprimoramentos e correções de bugs neste lançamento, visite [Aspose.slides para Python 22.6 Notas de lançamento] (https://docs.aspose.com/slides/python-nalt/aspose-slides- para-python-Net-22-6-lançamento-nota/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

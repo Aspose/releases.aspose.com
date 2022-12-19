@@ -1,7 +1,6 @@
 ---
-
-title: "Загрузки --- Новые релизы-Aspose.slides-for-python-via-.net-22.8-win-x64"
-description: " "
+title: "Установите API API настройки Slideshow Slideshow для презентации"
+description: "Python API для настройки настройки слайд -шоу Presentation, например, запустите слайд -шоу в цикле, установите цвет ручки, покажите или скрыть повествование, включить или отключить анимацию."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.8-win-x64/"
@@ -14,18 +13,16 @@ download_count: " 2/9/2022 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 54.14MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/"
 weight: 9
-
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.slides для Python Via .net 22.8 Win x64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Скачать" link="/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.8-win-x64/c97f6d517d8f42beb8143d5de0b91850-11-7854" >}}
-    {{< Releases/ReleasesSingleButtons text="Форум поддержки" link="https://forum.aspose.com/c/slides" >}}
+    {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Детали файла">}}
@@ -45,7 +42,31 @@ weight: 9
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Презентация манипуляции с Python API</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Комплексная поддержка настройки слайд -шоу
+
+Этот выпуск API представляет подробную поддержку настройки Slide Show Presentation. Некоторые из новых классов и свойств следующие:
+
+- [`Presentation`](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
+- [`SlideShowSettings`] (https://reference.aspose.com/slides/python-net/aspose.slides/slideshowsettings/) класс: представляет настройки слайда шоу для презентации. Некоторые из доступных свойств;
+  - Сделайте слайд -шоу бежать в петле
+  - Способность показывать / скрыть повествование слайд -шоу
+  - Включить / отключить анимацию в слайд -шоу
+  - Отрегулируйте цвет ручки для слайд -шоу
+
+![slideShowSetup.png] (https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/slideShowSetup.png)
+
+> Для получения полного списка функций, улучшений и исправлений ошибок в этом выпуске, пожалуйста, посетите, [Aspose.slides для Python 22.8 Notes] (https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

@@ -1,13 +1,13 @@
 ---
-title: "3D -Spaltenkarte Hebräische Textpräsentation API für Python -Apps"
-description: "Python -API mit verbesserter Unterstützung für 3D -Säulendiagramm, hebräisch Text Shadow & Ubuntu Focal, während Microsoft PowerPoint® -Präsentation PPTX in PDF -Format konvertiert."
+title: "API de apresentação de texto Hebraico de coluna 3D para aplicativos Python"
+description: "API do Python com suporte aprimorado para gráfico de coluna 3D, Hebrew Text Shadow & Ubuntu Focal enquanto converte o formato PPTX da apresentação do Microsoft PowerPoint® para PDF."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.7-win64/"
-folder_name: "ASSON.Slides für Python über .NET 22.7 Win64"
+folder_name: "Aspose.lide para Python via .net 22.7 Win64"
 download_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.7-win64/3ca4427366e5da2298cebf269290d9c7-11-7710"
 download_text: "Download"
-intro_text: "Präsentation Manipulation Python API"
+intro_text: "API Python de manipulação de apresentação"
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 28/7/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 54.15MB"
@@ -19,28 +19,28 @@ weight: 4
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="ASSON.Slides für Python über .NET 22.7 Win64" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.lide para Python via .net 22.7 Win64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/slides/python-net/new-releases/aspose.slides-for-python-via-.net-22.7-win64/3ca4427366e5da2298cebf269290d9c7-11-7710" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
-    {{< Releases/ReleasesHeading h4txt="Dateidetails">}}
+    {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
       {{< Common/li class="downloadcount" id="dwn-update-3ca4427366e5da2298cebf269290d9c7-11-7710" >}} 1 {{< /Common/li >}}
-      {{< Common/li >}} Dateigröße: {{< /Common/li >}}
+      {{< Common/li >}} Tamanho do arquivo: {{< /Common/li >}}
       {{< Common/li id="size-update-3ca4427366e5da2298cebf269290d9c7-11-7710" >}} 54.15MB {{< /Common/li >}}
 
-      {{< Common/li >}} Datum hinzugefügt: {{< /Common/li >}}
+      {{< Common/li >}} data adicionada: {{< /Common/li >}}
       {{< Common/li id="added-update-3ca4427366e5da2298cebf269290d9c7-11-7710" >}}28/7/2022 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-7-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-7-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-7-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Beschreibung</h4><div class="HTMLDescription">Präsentation Manipulation Python API</div>
+      <h4>Descrição</h4><div class="HTMLDescription">API Python de manipulação de apresentação</div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -48,19 +48,19 @@ weight: 4
 {{< Common/wrapper class="HTMLDescription">}}
 {{% Releases/ReleasesFileFeatures %}}
 
-# Verbesserte Unterstützung für Ubuntu Focal
+# Suporte aprimorado para o Ubuntu Focal
 
-Es wurde beobachtet, dass während der Konvertierung von Microsoft Powerpoint & Reg; `Pptx` to` pdf` Format auf Ubuntu Focal aufgetaucht. Diese Probleme wurden jetzt gelöst.
+Observou -se que convertendo o Microsoft PowerPoint & Reg; `Pptx` to` pdf` Formato poucos problemas surgiram no Ubuntu Focal. Esses problemas foram resolvidos.
 
-# 3D -Spaltendiagramme unterstützen
+# Suporte de gráficos de colunas 3D
 
-Diese API -Veröffentlichung führt die Unterstützung von 3D -Spaltendiagrammen vor. Jetzt können Sie Diagramm mit Standarddaten hinzufügen und dann `rotation3d` -Eigenschaften (wie die rechtwinklige Achse, Tiefenprozenta usw.) festlegen.
+Esta versão da API apresenta o suporte de gráficos de colunas 3D. Agora você pode adicionar gráfico com dados padrão e definir propriedades `rotação3d` (como eixo do ângulo reto, porcentagem de profundidade etc.).
 
-# Verbesserte Unterstützung des hebräischen Texteffekts
+# Suporte de efeito de texto hebraico aprimorado
 
-Früher wurde beobachtet, dass der hebräische Textschatten in einigen Fällen falsch war, wenn "pptx" -Präsentationen in das PDF` -Format konvertiert werden. Dieses Problem wurde jetzt gelöst.
+Anteriormente, observou -se que, em alguns casos, a sombra do texto hebraico estava sendo incorreta quando as apresentações `pptx` são convertidas em formato` pdf`. Este problema já foi resolvido.
 
-> Für eine vollständige Liste von Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version besuchen Sie bitte [ASSONS.SLIDES FÜR PYTHON 22.7 RESUNGS-ANMERKUNGEN] (https://docs.aspsis.com/slides/python-net/ase-slides- For-Python-NET-22-7-Release-Notes/).
+> Para uma lista completa de recursos, aprimoramentos e correções de bugs neste lançamento, visite [Aspose.slides para Python 22.7 Notas de lançamento] (https://docs.aspose.com/slides/python-nalt/aspose-slides- para-python-Net-22-7-lançamento-nota/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 
