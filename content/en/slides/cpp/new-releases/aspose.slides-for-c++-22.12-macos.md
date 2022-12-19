@@ -1,5 +1,4 @@
 ---
-
 title: "Downloads ---New Releases-aspose.slides-for-c++-22.12-macos"
 description: "Aspose.Slides for C++ 22.12 macOS"
 keywords: ""
