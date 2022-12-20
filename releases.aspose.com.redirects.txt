@@ -65,3 +65,5 @@ rewrite ^/webapp/.* https://releases.aspose.com/ permanent;
 rewrite ^/ui/auth/passport/request https://releases.aspose.com/ permanent;
 rewrite ^/repo$ https://releases.aspose.com/java/repo/ permanent;
 rewrite ^/repo/$ https://releases.aspose.com/java/repo/ permanent;
+rewrite (.*)/java/new-releases/.* https://releases.aspose.com$1/java/ permanent;
+rewrite (.*)/java/new-releases$ https://releases.aspose.com$1/java/ permanent;
