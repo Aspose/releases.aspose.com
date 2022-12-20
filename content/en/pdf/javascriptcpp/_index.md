@@ -12,22 +12,31 @@ weight: 11
 
 {{< dbToolbar link="https://forum.aspose.com/c/pdf" linktext="Support Forum" >}}
 
-{{< ProductPageWrapper >}}
-<!-- ProductPageContent-->
 {{< Common/wrapper class="col-md-12" >}}
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
+
 {{< Common/h3 text="Download Aspose.PDF for JavaScript via C++ toolkit for Portable Document Format Processing"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF for JavaScript via C++ allows developers to manipulate PDF files directly on the Web. This JavaScript Solution is built using WebAssembly technology and is based on Aspose.PDF for .NET Lightweight.
 You can easily use Aspose.PDF for JavaScript via C++ from {{< Common/link href="https://products.aspose.com/javascript-cpp/release-latest.zip" text=""  >}} and then follow the installation instructions.
 {{< /Common/paragraph>}}
+
 {{< Common/hr >}}
+
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 <!-- /ProductPageContent-->
 
+{{< Tags/TagsWrapper >}}
+ {{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
+
+{{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
-{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="pdf" product="javascriptcpp" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="pdf" product="javascriptcpp" >}}
 <!-- /ReleasesListProductPage-->
+{{< Common/hr >}}
 
 {{< /ProductPageWrapper >}}
