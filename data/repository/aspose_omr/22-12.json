@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-omr",
+  "id" : "22-12",
+  "packageFiles" : [ {
+    "size" : "127 KB",
+    "name" : "aspose-omr-22.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "12 MB",
+    "name" : "aspose-omr-22.12.jar"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-omr-22.12.pom"
+  } ],
+  "releasehDate" : "2022-12-22T18:26:28+00:00",
+  "version" : "22.12",
+  "ReleaseNotes" : "https://docs.aspose.com/omr/java/aspose-omr-for-java-22-12-release-notes/"
+}
