@@ -8,6 +8,10 @@
     "classifier" : "javadoc"
   }, {
     "size" : "71 MB",
+    "name" : "aspose-pdf-22.12-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "71 MB",
     "name" : "aspose-pdf-22.12-jdk17.jar",
     "classifier" : "jdk17"
   }, {
