@@ -1,0 +1,23 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-pdf",
+  "id" : "22-12",
+  "packageFiles" : [ {
+    "size" : "5 MB",
+    "name" : "aspose-pdf-22.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "71 MB",
+    "name" : "aspose-pdf-22.12-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "71 MB",
+    "name" : "aspose-pdf-22.12.jar"
+  }, {
+    "size" : "453 bytes",
+    "name" : "aspose-pdf-22.12.pom"
+  } ],
+  "releasehDate" : "2022-12-23T14:55:46+00:00",
+  "version" : "22.12",
+  "ReleaseNotes" : "https://docs.aspose.com/pdf/java/aspose-pdf-for-java-22-12-release-notes/"
+}
