@@ -55,24 +55,25 @@ To become familiar with the most popular Aspose.Words functionality, please have
 
 ### Supported Read and Write Formats
 
-**Microsoft Word&reg;:** DOC, DOT, DOCX, DOTX, DOTM, FlatOpc, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled, RTF, WordML\
+**Microsoft Word&reg;:** DOC, DOT, DOCX, DOCM, DOTX, DOTM, FlatOpc, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled, RTF, WordML\
 **OpenDocument:** ODT, OTT\
 **Web:** HTML, MHTML\
 **Markdown:** MD\
 **Fixed Layout:** PDF\
-**Text:** TXT
+**Text:** TXT\
+**eBook:** AZW3, EPUB
 
 ### Supported Read-Only Formats
 
 **Microsoft Word&reg;:** DocPreWord60\
-**eBook:** MOBI, CHM
+**eBook:** MOBI, CHM\
+**Other:** XML (XML Document)
 
 ### Supported Write-Only Formats
 
 **Fixed Layout:** XPS, OpenXps\
 **PostScript:** PS\
 **Printer:** PCL\
-**eBook:** EPUB\
 **Markup:** XamlFixed, HtmlFixed, XamlFlow, XamlFlowPack\
 **Image:** SVG, TIFF, PNG, BMP, JPEG, GIF\
 **Metafile:** EMF
