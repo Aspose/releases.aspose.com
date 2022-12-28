@@ -34,13 +34,15 @@
                               <div class="package-title">
 
                                     <span class="pull-left">
-                                    <!--<img class="package-icon img-responsive" aria-hidden="true" alt=""
-                                       src="/res_repo/img/aspose{{ lower (replace  (replace  $.context.RelPermalink "/" "_") "_java_" "-for-java") }}.png" />-->
-                                       <!-- @am modified fix path for multilingual -->
-                                       <img class="package-icon img-responsive" aria-hidden="true" alt=""
-                                       src="/res_repo/img/aspose_{{ lower ($.context.Section) }}-for-java.png" />
-                                       <!-- @am /modified fix path for multilingual -->
+                                    <!-- <img class="package-icon img-responsive" aria-hidden="true" alt=""
+                                       src="/res_repo/img/groupdocs{{ lower (replace  (replace  $.context.RelPermalink "/" "_") "_java_" "-for-java") }}.png" />
+                                    -->
+                                    <!-- @am modified fix path for multilingual -->
+                                    <img class="package-icon img-responsive" aria-hidden="true" alt=""
+                                       src="/res_repo/img/aspose{{ lower (replace  (replace  $.context.RelPermalink "/" "_") "_java_" "-for-java") }}.png" />
+                                    <!-- @am /modified fix path for multilingual -->
                                     </span>
+
                                     <span class="title" tabindex="0">
                                       <h2>
                                       <a href="{{ $.context.RelPermalink }}" title="{{ with $p.context.Data.Singular }}{{$p.Title | humanize }}: {{ end }}{{ $p.context.Title }}">
@@ -223,8 +225,24 @@
 
       </div> <!-- end of body-tab-content -->
 
+      <hr>
+
+      {{ $p := . }}
+       {{ range  first 1 (sort $releases ".releasehDate" "desc") }}
+
+          {{ if $p.context.Keywords }}
+          <div class="tagwrapper"><p>
+                     {{ range $.context.Keywords }}
+                      <a href="https://search.aspose.com/q/{{ lower  (replace . " " "-") }}.html" title="Search for docx">{{.}}</a>
+                    {{ end }}
+            </p></div>
+
+            {{ end }}
+      {{ end }}
+
   </div> <!-- end of package-details-main -->
 
+<!--
    {{ $p := . }}
     {{ range  first 1 (sort $releases ".releasehDate" "desc") }}
           <aside aria-label="Package details info" class="col-sm-3 package-details-info">
@@ -238,19 +256,16 @@
                    {{ $ageDays := div (sub now.Unix .releasehDate.Unix) 86400 }}
                    {{ $ageMonths := div (sub now.Unix .releasehDate.Unix) 2592000 }}
 
-                   <!-- Published today -->
                    {{ if eq $ageDays 0 }}
 
                        <span>Last Published today.</span>
 
-                   <!-- Published in the last 31 days -->
                    {{ else if lt $ageDays 31 }}
 
                        <span>Last Published {{ $ageDays }}
                            {{ cond (eq $ageDays 1) "day" "days"}}
                            ago.</span>
 
-                   <!-- Published month(s) ago -->
                    {{ else }}
 
                        <span>Last Published {{ $ageMonths }}
@@ -280,9 +295,9 @@
              <ul class="list-unstyled owner-list">
                 <li>
                    <a href="/" title="Releases Home">
-                   <img src="/res_repo/img/asposeprofile.png" width="32" />
+                   <img src="/res_repo/img/groupdocsprofile.png" width="32" />
                    </a>
-                   <a href="/" title="Aspose.com Releases">
+                   <a href="/" title="Groupdocs.cloud Releases">
                    Releases Home
                    </a>
                 </li>
@@ -292,7 +307,7 @@
           {{ if $p.context.Keywords }}
           <p>
                      {{ range $.context.Keywords }}
-                      <a href="https://search.aspose.com/q/{{ lower  (replace . " " "-") }}.html" title="Search for docx">{{.}}</a>
+                      <a href="https://search.groupdocs.cloud/q/{{ lower  (replace . " " "-") }}.html" title="Search for docx">{{.}}</a>
                     {{ end }}
             </p>
 
@@ -303,5 +318,5 @@
        </aside>
        {{ end }}
 
-
+-->
           </div></section>

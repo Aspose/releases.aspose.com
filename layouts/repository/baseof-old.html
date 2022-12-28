@@ -3,6 +3,10 @@
 
 <head>
   <meta charset="utf-8">
+  {{/* https://www.zachleat.com/web/preload/ */}}
+  <link rel="preload" href="{{ "/res_repo/fonts/muli-latin-200.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ "/res_repo/fonts/muli-latin-400.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ "/res_repo/fonts/muli-latin-800.woff2" | absURL }}" as="font" type="font/woff2" crossorigin>
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
@@ -36,6 +40,25 @@
   {{ end -}}
 
 
+
+
+  {{ $isDev := eq hugo.Environment "development" }}
+  {{ $stylesheet := resources.Get "/res_repo/output/css/app.min.css"  }}
+  {{ if not $isDev }}
+  {{ $stylesheet = $stylesheet }}
+  {{ end }}
+  {{ with $stylesheet }}
+  {{ if $isDev }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" crossorigin="anonymous">
+  {{ else }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+  {{ end }}
+  {{ $.Scratch.Set "stylesheet" . }}
+  {{end}}
+
+  {{ block "scripts" . }}
+  {{- partial "repository/site-scripts.html" . -}}
+  {{ end }}
   {{ partial "repository/site-manifest.html" . }}
   {{ partial "repository/opengraph.html" . }}
   {{partial "repository/schema.html" . }}
@@ -51,38 +74,16 @@
 
 </head>
 
-<body>
+<body class="ma0 sans-serif bg-primary-color-light{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
   {{ partial "repository/site-start-of-body.html" . }}
-
-  <div id="header"></div>
-       <div class="downloadpage">
-
-           {{ partial "breadcrumb.html" . }}
-
-           <div class=" container-fluid content2 vpanel-left">
-               <div class="container">
-               <div class="row">
-                       {{ partial "tree-section.html" . }}
-
-                       <div class="col-md-9 lhs1 col-xs-12 mobilehide node-section">
-                           <div class="box1">
-                               {{ partial "msg-section.html" . }}
-
-                               {{- block "main" . }}{{- end }}
-
-                           </div>
-                       </div>
-               </div>
-               </div>
-           </div>
-       </div>
+ {{ block "nav" . }}{{ partial "repository/site-nav.html" . }}{{ end }}
+  {{ block "header" . }}{{ end }}
+  <main role="main" class="content-with-sidebar min-vh-100 pb7 pb0-ns">
+    {{ block "main" . }}{{ end }}
+  </main>
 
 
-       <div id="dvHidden" style="display:none"></div>
-
-   <div id="footer"></div>
-
-{{ partial "repository/site-end-of-body-new.html" . }}
+{{ partial "repository/site-end-of-body.html" . }}
 </body>
 
 </html>

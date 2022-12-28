@@ -114,6 +114,9 @@ defaultContentLang = 'en'
 [[deployment.targets]]
 name = "Prod"
 URL = "s3://releases.aspose.com/?region=us-west-2"
+# If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
+cloudFrontDistributionID = "E2OKSF10F8M6Y4"
+
 
 [[deployment.matchers]]
 # Set custom content type for /sitemap.xml

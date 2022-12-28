@@ -7,7 +7,7 @@
                   <div class="profile-box">
                     <div class="profileimgbox"><img src="/img/conholdateprofile.png" alt="Avatar" width="100%"></div>
                     <div class="statistics">
-                        <div class="titlebox">ASPOSE</div>
+                        <div class="titlebox">Groupdocs</div>
                         <div class="description">Total Packages:&nbsp;<div class="value"> {{ len .context.Site.RegularPages }}</div>
                           </div>
                       </div>
@@ -17,7 +17,7 @@
 
             <article class="col-md-9 col-md-pull-3">
                 <div class="profile-title">
-                    <h1>Aspose</h1>
+                    <h1>Groupdocs</h1>
                 </div>
                 <hr class="profile-title-divider">
                 <div class="list-packages" role="list">
@@ -51,7 +51,7 @@
                     <div class="package">
                         <div class="row">
                             <div class="col-sm-1 hidden-xs hidden-sm col-docs-icon">
-                                <img class="docs-icon img-responsive" aria-hidden="true" alt="packages" src="{{.Site.BaseURL}}img/aspose_{{ lower (replace  (replace  .RelPermalink "/" "") "-" "_") }}-for-java.png">
+                                <img class="docs-icon img-responsive" aria-hidden="true" alt="packages" src="{{.Site.BaseURL}}img/groupdocs_{{ lower (replace  (replace  .RelPermalink "/" "") "-" "_") }}-for-java.png">
                             </div>
                             <div class="col-sm-11">
                                 <div class="docs-header">
@@ -123,7 +123,7 @@
                                             <i class="fa fa-tags" aria-hidden="true"></i>
 
                                              {{ range first 5 .Keywords }}
-                                              <a href="https://search.aspose.com/q/{{ lower  (replace . " " "-") }}.html" title="Search for docx">{{.}}</a>
+                                              <a href="https://search.groupdocs.com/q/{{ lower  (replace . " " "-") }}.html" title="Search for docx">{{.}}</a>
                                             {{ end }}
                                         </span>
                                     </li>

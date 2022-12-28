@@ -3,23 +3,76 @@
 
 <div id='DynabicMenuFooter'></div>
 
+
+<script type="text/javascript">
+const langarray = [];
+{{ if .Page.IsTranslated }}
+  {{- range $.Site.Home.AllTranslations -}}
+    langarray.push({{.Language.Params.languageCode}});
+  {{- end -}}
+{{ end }}
+</script>
+<script type="text/javascript">
+
+
+    jQuery(document).ready(function () {
+
+
+let $allPanels = $('.nested').hide();
+let $elements = $('.treeview-animated-element');
+$('.treeview-animated-items-header').hover(function(){
+    //console.log($(this));
+  $(this).children.toggleClass("Mydiv");
+
+});
+$('.treeview-animated-items-header').click(function () {
+    console.log('mala');
+  $this = $(this);
+  console.log($this.attr("id"));
+  $target = $this.siblings('.nested');
+  $pointerPlus = $this.children('.fa-plus');
+  $pointerMinus = $this.children('.fa-minus');
+
+  $pointerPlus.removeClass('fa-plus');
+  $pointerPlus.addClass('fa-minus');
+  $pointerMinus.removeClass('fa-minus');
+  $pointerMinus.addClass('fa-plus');
+  $this.toggleClass('open')
+  if (!$target.hasClass('active')) {
+    $target.addClass('active').slideDown();
+  } else {
+    $target.removeClass('active').slideUp();
+  }
+
+  return false;
+});
+
+
+});
+
+</script>
+
+
   <!--<script>(function(i,s,o,g,r,a,m){i['ContainerizeMenuObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.append(a)})(window,document,'script','https://menu.containerize.com/scripts/engine.min.js?v=1.0.1','GroupDocsCloud-en');</script> -->
 <!-- @am modified fix path for multilingual -->
 {{ if .Page.IsTranslated }}
 {{- partial "langswitcher.html" . -}}
- <script>(function (i, s, o, g, r, a, m) { i['ContainerizeMenuObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.append(a) })(window, document, 'script', 'https://menu-new.containerize.com/scripts/engine.min.js?v=1.0.1', '{{.Language.Params.menuCode}}');</script>
+ <script>(function (i, s, o, g, r, a, m) { i['ContainerizeMenuObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.append(a) })(window, document, 'script', 'https://menu.containerize.com/scripts/engine.min.js?v=1.0.1', '{{.Language.Params.menuCode}}');</script>
 {{ else}}
 {{ $dynamicmenuid :=.Site.Params.dynamicmenuid }}
- <script>(function (i, s, o, g, r, a, m) { i['ContainerizeMenuObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.append(a) })(window, document, 'script', 'https://menu-new.containerize.com/scripts/engine.min.js?v=1.0.1', '{{ $dynamicmenuid }}');</script>
+ <script>(function (i, s, o, g, r, a, m) { i['ContainerizeMenuObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.append(a) })(window, document, 'script', 'https://menu.containerize.com/scripts/engine.min.js?v=1.0.1', '{{ $dynamicmenuid }}');</script>
 {{ end }}
 <!-- @am /modified fix path for multilingual -->
 
   <script src="{{ "/res_repo/js/highlight.min.js" | absURL }}"></script>
   <script src="{{ "/res_repo/js/bootstrap.min.js" | absURL }}"></script>
+  <script src="/js/bundle.min.js"></script>
+  <script src="/js/dynabic.treeview.js"></script>
+  <script src="/js/treeviewmanager.js"></script>
 
   <script>hljs.highlightAll();</script>
 
-      <link rel="stylesheet" type="text/css" href=="{{ "/res_repo/css/hugocustom.css" | absURL }}"/>
+      <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}res_repo/css/hugocustom.css" />
 
       <script>
 

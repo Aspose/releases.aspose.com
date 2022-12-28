@@ -1,0 +1,42 @@
+<html xmlns="http://www.w3.org/1999/xhtml" >
+    <meta charset="UTF-8">
+
+
+    {{- partial "repository/head-new.html" . -}}
+
+    <body>
+
+
+        <div id="header"></div>
+        <div class="downloadpage">
+
+            {{ partial "breadcrumb.html" . }}
+
+            <div class=" container-fluid content2 vpanel-left">
+                <div class="container">
+                <div class="row">
+                        {{ partial "tree-section.html" . }}
+
+                        <div class="col-md-9 lhs1 col-xs-12 mobilehide node-section">
+                            <div class="box1">
+                                {{ partial "msg-section.html" . }}
+
+                                {{- block "main" . }}{{- end }}
+
+                            </div>
+                        </div>
+                </div>
+                </div>
+            </div>
+        </div>
+
+        
+        <div id="dvHidden" style="display:none"></div>
+
+    <div id="footer"></div>
+
+
+{{ partial "repository/site-end-of-body-new.html" . }}
+
+</body>
+</html>

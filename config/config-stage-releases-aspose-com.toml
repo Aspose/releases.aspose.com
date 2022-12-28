@@ -103,7 +103,7 @@ defaultContentLang = 'en'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-      
+
 [outputs]
   home= ["HTML", "JSON"]
 
@@ -112,10 +112,12 @@ defaultContentLang = 'en'
 [[deployment.targets]]
 name = "Stage"
 URL = "s3://releases-qa.aspose.com/?region=us-west-2"
+# If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
+cloudFrontDistributionID = "ET8IOBZLE1237"
 
 [[deployment.matchers]]
 # Set custom content type for /sitemap.xml
 pattern = "^.+\\.(xml)$"
 contentType = "application/xml"
 gzip = true
-force = true      
+force = true

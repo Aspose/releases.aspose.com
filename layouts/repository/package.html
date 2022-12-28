@@ -34,11 +34,11 @@
                                  <h1>
                                     <span class="pull-left">
                                     <!--<img class="package-icon img-responsive" aria-hidden="true" alt="{{ $p.Parent.LinkTitle }}"
-                                        src="/res_repo/img/aspose{{ lower (replace (replace  $t.Parent.RelPermalink "/" "_") "_java_" "-for-java") }}.png" />-->
+                                        src="/res_repo/img/groupdocs{{ lower (replace (replace  $t.Parent.RelPermalink "/" "_") "_java_" "-for-java") }}.png" />-->
                                      <!-- @am modified fix path for multilingual -->
                                      <img class="package-icon img-responsive" aria-hidden="true" alt="{{ $p.Parent.LinkTitle }}"
-                                     src="/res_repo/img/aspose_{{ lower ($t.Parent.Section) }}-for-java.png" />
-                                      <!-- /@am modified fix path for multilingual -->   
+                                     src="/res_repo/img/aspose{{ lower (replace (replace  $t.Parent.RelPermalink "/" "_") "_java_" "-for-java") }}.png" />
+                                     <!-- /@am modified fix path for multilingual -->
                                     </span>
                                     <span class="title" tabindex="0">
                                     <a href="{{ $p.Parent.RelPermalink }}" title="{{$p.Parent.LinkTitle}}">
@@ -204,7 +204,7 @@
 
         <div role="tabpanel" class="tab-pane " id="versions-tab">
                              <div class="version-history" id="version-history">
-                                <table aria-label="Version History of Aspose.Words.Shaping.HarfBuzz"
+                                <table aria-label=""
                                    class="table borderless">
                                    <thead>
                                       <tr>
@@ -254,7 +254,7 @@
                            {{ range  first 1 (where $releases ".id" $p.File.TranslationBaseName) }}
                           <div role="tabpanel" class="tab-pane" id="packageexplorer-tab">
                                       <div class="version-history" id="package-history">
-                                         <table aria-label="Version History of Aspose.Words.Shaping.HarfBuzz"
+                                         <table aria-label=""
                                             class="table borderless">
                                             <thead>
                                                <tr>
@@ -292,8 +292,59 @@
 
       </div> <!-- end of body-tab-content -->
 
+      <hr>
+
+      {{ $p := . }}
+       {{ range  first 1 (where $releases ".id" $p.File.TranslationBaseName) }}
+
+          {{ if $p.Parent.Keywords }}
+          <div class="tagwrapper"><p>
+                     {{ range $p.Parent.Keywords }}
+                      <a href="https://search.aspose.com/q/{{ lower  (replace . " " "-") }}.html" title="Search for docx">{{.}}</a>
+                    {{ end }}
+            </p></div>
+
+            {{ end }}
+      {{ end }}
+
+<!--
+      <div class="tagwrapper"><p><a target="_blank" href="https://search.aspose.com/q/doc-to-bmp.html">doc-to-bmp</a>
+      <a target="_blank" href="https://search.aspose.com/q/doc-to-emf.html">doc-to-emf</a>
+      <a target="_blank" href="https://search.aspose.com/q/doc-to-html.html">doc-to-html</a>
+      <a target="_blank" href="https://search.aspose.com/q/doc-to-jpeg.html">doc-to-jpeg</a>
+      <a target="_blank" href="https://search.aspose.com/q/doc-to-pdf.html">doc-to-pdf</a>
+      <a target="_blank" href="https://search.aspose.com/q/doc-to-png.html">doc-to-png</a>
+      <a target="_blank" href="https://search.aspose.com/q/doc-to-postscript.html">doc-to-postscript</a>
+      <a target="_blank" href="https://search.aspose.com/q/doc-to-ps.html">doc-to-ps</a>
+      <a target="_blank" href="https://search.aspose.com/q/docx-to-epub.html">docx-to-epub</a>
+      <a target="_blank" href="https://search.aspose.com/q/docx-to-gif.html">docx-to-gif</a>
+      <a target="_blank" href="https://search.aspose.com/q/docx-to-html.html">docx-to-html</a>
+      <a target="_blank" href="https://search.aspose.com/q/docx-to-markdown.html">docx-to-markdown</a>
+      <a target="_blank" href="https://search.aspose.com/q/docx-to-md.html">docx-to-md</a>
+      <a target="_blank" href="https://search.aspose.com/q/docx-to-mhtml.html">docx-to-mhtml</a>
+      <a target="_blank" href="https://search.aspose.com/q/docx-to-pcl.html">docx-to-pcl</a>
+      <a target="_blank" href="https://search.aspose.com/q/docx-to-pdf.html">docx-to-pdf</a>
+      <a target="_blank" href="https://search.aspose.com/q/word-to-bmp.html">word-to-bmp</a>
+      <a target="_blank" href="https://search.aspose.com/q/word-to-emf.html">word-to-emf</a>
+      <a target="_blank" href="https://search.aspose.com/q/word-to-epub.html">word-to-epub</a>
+      <a target="_blank" href="https://search.aspose.com/q/word-to-gif.html">word-to-gif</a>
+      <a target="_blank" href="https://search.aspose.com/q/word-to-html.html">word-to-html</a>
+      <a target="_blank" href="https://search.aspose.com/q/word-to-jpeg.html">word-to-jpeg</a>
+      <a target="_blank" href="https://search.aspose.com/q/word-to-markdown.html">word-to-markdown</a>
+      <a target="_blank" href="https://search.aspose.com/q/word-to-md.html">word-to-md</a>
+      <a target="_blank" href="https://search.aspose.com/q/word-to-mhtml.html">word-to-mhtml</a>
+      <a target="_blank" href="https://search.aspose.com/q/word-to-pcl.html">word-to-pcl</a>
+      <a target="_blank" href="https://search.aspose.com/q/word-to-pdf.html">word-to-pdf</a>
+      <a target="_blank" href="https://search.aspose.com/q/word-to-png.html">word-to-png</a>
+      <a target="_blank" href="https://search.aspose.com/q/word-to-postscript.html">word-to-postscript</a>
+      <a target="_blank" href="https://search.aspose.com/q/word-to-ps.html">word-to-ps</a></p></div>
+-->
+
   </div> <!-- end of package-details-main -->
 
+
+
+<!--
    {{ $p := . }}
     {{ range  first 1 (where $releases ".id" $p.File.TranslationBaseName) }}
           <aside aria-label="Package details info" class="col-sm-3 package-details-info">
@@ -307,19 +358,19 @@
                    {{ $ageDays := div (sub now.Unix .releasehDate.Unix) 86400 }}
                    {{ $ageMonths := div (sub now.Unix .releasehDate.Unix) 2592000 }}
 
-                   <!-- Published today -->
+
                    {{ if eq $ageDays 0 }}
 
                        <span>Published today.</span>
 
-                   <!-- Published in the last 31 days -->
+
                    {{ else if lt $ageDays 31 }}
 
                        <span>Published {{ $ageDays }}
                            {{ cond (eq $ageDays 1) "day" "days"}}
                            ago.</span>
 
-                   <!-- Published month(s) ago -->
+
                    {{ else }}
 
                        <span>Published {{ $ageMonths }}
@@ -346,11 +397,12 @@
                 </li>
              </ul>
           </div>
+
           <div class="sidebar-section">
              <ul class="list-unstyled owner-list">
                 <li>
                    <a href="/" title="Releases Home">
-                   <img src="/res_repo/img/asposeprofile.png" width="32" />
+                   <img src="/res_repo/img/groupdocsprofile.png" width="32" />
                    </a>
                    <a href="/" title="Releases Home">
                    Releases Home
@@ -362,17 +414,17 @@
           {{ if $p.Parent.Keywords }}
           <p>
                      {{ range $p.Parent.Keywords }}
-                      <a href="https://search.aspose.com/q/{{ lower  (replace . " " "-") }}.html" title="Search for docx">{{.}}</a>
+                      <a href="https://search.groupdocs.cloud/q/{{ lower  (replace . " " "-") }}.html" title="Search for docx">{{.}}</a>
                     {{ end }}
             </p>
 
         {{ end }}
 
 
-          <p>&copy; Aspose 2002-{{now.Year}}. All Rights Reserved.</p>
+          <p>&copy; Groupdocs 2002-{{now.Year}}. All Rights Reserved.</p>
        </aside>
        {{ end }}
-
+-->
 
           </div></section>
 

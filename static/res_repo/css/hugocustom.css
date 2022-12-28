@@ -45,3 +45,8 @@ div.highlight, pre{position:relative;}.copy-code{display: none;position: absolut
 
 /*Top code area styling css*/
 .install-script-row .install-script .install-command-row{color:white;background:#222222;}.install-script-row .install-script .install-command-row span{color:white;}
+
+/*Release Merger CSS*/
+#footer {bottom: 0 !important;}body {background-image: none !important;}.noprint2 {list-style: none outside none;}li.list-group-item.node-tree.active-child {color: #FFFFFF;background-color: #428bca;}div#msg1, div#msg2,#dbToolbar {display: none ;}.content2 .lhs1{padding-top: 0;}.tagwrapper{margin-bottom: 15px;}.tagwrapper a{color: #23527c;background: #d3eaf7;padding: 3px 5px;display: inline-block;margin: 1px;}.tagwrapper a:hover {background: #23527c!important;color: #eff9ff!important;}.downloadandnotes a.btn.dwnam3 {display: inline-block;}
+/*Release Merger CSS*/
+span.list-links > a:first-child::before, span.list-links > a:last-child::after {color: #212529;font-size: 14px;}span.list-links > a:first-child::before{content: "(";}span.list-links > a:last-child::after{content: ")";}.treeview span.indent {margin-left: 4px !important;margin-right: 4px !important;}.treeview span.icon {width: 7px !important;margin-right: 3px !important;}.treeview span.icon {width: 7px !important;margin-right: 5px !important;}li.list-group-item.node-tree a {font-size: 11px !important;}.list-group-item {padding: 10px 1px 10px 5px;}
