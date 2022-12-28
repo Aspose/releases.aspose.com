@@ -1,0 +1,355 @@
+# This is a basic workflow to help you get started with Actions
+
+name: staging-tex
+    
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the mentioned branches
+  push:
+    branches: [ stage-001 ]
+    paths:
+      - 'content/de/tex/**'
+      - 'content/el/tex/**'
+      - 'content/en/tex/**'
+      - 'content/es/tex/**'
+      - 'content/fr/tex/**'
+      - 'content/id/tex/**'
+      - 'content/ja/tex/**'
+      - 'content/pt/tex/**'
+      - 'content/ru/tex/**'
+      - 'content/tr/tex/**'
+      - 'content/zh/tex/**'
+  pull_request:
+    branches: [ stage2 ]
+
+  repository_dispatch:
+    types: [staging-complete]
+    
+  # Allows the workflow run manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  # This workflow contains a single job called "deploy"
+  deploy:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+          submodules: true  # Fetch Hugo themes
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+          hugo-version: 'latest'
+          extended: true
+
+    - name: Remove unwanted folders
+      run: |
+        
+        if [ -d "./content/de" ]; then 
+        find ./content/de -mindepth 1 ! -regex '^./content/de/tex\(/.*\)?' -delete
+        fi
+        if [ -d "./content/el" ]; then 
+        find ./content/el -mindepth 1 ! -regex '^./content/el/tex\(/.*\)?' -delete
+        fi
+        if [ -d "./content/en" ]; then 
+        find ./content/en -mindepth 1 ! -regex '^./content/en/tex\(/.*\)?' -delete
+        fi
+        if [ -d "./content/es" ]; then 
+        find ./content/es -mindepth 1 ! -regex '^./content/es/tex\(/.*\)?' -delete
+        fi
+        if [ -d "./content/fr" ]; then 
+        find ./content/fr -mindepth 1 ! -regex '^./content/fr/tex\(/.*\)?' -delete
+        fi
+        if [ -d "./content/id" ]; then 
+        find ./content/id -mindepth 1 ! -regex '^./content/id/tex\(/.*\)?' -delete
+        fi
+        if [ -d "./content/ja" ]; then 
+        find ./content/ja -mindepth 1 ! -regex '^./content/ja/tex\(/.*\)?' -delete
+        fi
+        if [ -d "./content/pt" ]; then 
+        find ./content/pt -mindepth 1 ! -regex '^./content/pt/tex\(/.*\)?' -delete
+        fi
+        if [ -d "./content/ru" ]; then 
+        find ./content/ru -mindepth 1 ! -regex '^./content/ru/tex\(/.*\)?' -delete
+        fi
+        if [ -d "./content/tr" ]; then 
+        find ./content/tr -mindepth 1 ! -regex '^./content/tr/tex\(/.*\)?' -delete
+        fi
+        if [ -d "./content/zh" ]; then 
+        find ./content/zh -mindepth 1 ! -regex '^./content/zh/tex\(/.*\)?' -delete
+        fi
+        
+        ls content/ -all;
+        
+    - name: Build tex pages
+      run: hugo --config "./config/config-stage-releases-aspose-com.toml" -b "https://releases-qa.aspose.com/" --disableKinds=taxonomy,category --cleanDestinationDir --minify
+      
+    - name: Prepare public folder
+      run: |
+        mv public/sitemap.xml public/tex.xml;
+        rm public/index.html;
+        rm public/index.json;
+        mkdir public_home;
+        mkdir public_home/sitemaps;
+        mv public/tex.xml public_home/sitemaps/;
+        ls public -all;
+        ls public/zh -all;
+        ls public_home -all;
+
+    - name: Upload tex sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public_home/sitemaps/tex.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'sitemaps'
+
+    - name: Upload default language
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/tex'
+        DEST_DIR: 'tex' 
+        
+    - name: Upload en sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/en/sitemap.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'en/tex'
+        
+    - name: Upload de folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/de/tex'
+        DEST_DIR: 'de/tex' 
+
+    - name: Upload de sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/de/sitemap.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'de/tex'
+
+    - name: Upload el folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/el/tex'
+        DEST_DIR: 'el/tex' 
+
+    - name: Upload el sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/el/sitemap.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'el/tex'
+
+    - name: Upload es folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/es/tex'
+        DEST_DIR: 'es/tex' 
+
+    - name: Upload es sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/es/sitemap.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'es/tex'
+
+    - name: Upload fr folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/fr/tex'
+        DEST_DIR: 'fr/tex' 
+
+    - name: Upload fr sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/fr/sitemap.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'fr/tex'
+
+    - name: Upload id folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/id/tex'
+        DEST_DIR: 'id/tex' 
+
+    - name: Upload id sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/id/sitemap.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'id/tex'
+
+    - name: Upload ja folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/ja/tex'
+        DEST_DIR: 'ja/tex' 
+
+    - name: Upload ja sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/ja/sitemap.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'ja/tex'
+
+    - name: Upload pt folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/pt/tex'
+        DEST_DIR: 'pt/tex' 
+
+    - name: Upload pt sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/pt/sitemap.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'pt/tex'
+
+    - name: Upload ru folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/ru/tex'
+        DEST_DIR: 'ru/tex' 
+
+    - name: Upload ru sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/ru/sitemap.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'ru/tex'
+
+    - name: Upload tr folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/tr/tex'
+        DEST_DIR: 'tr/tex' 
+
+    - name: Upload tr sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/tr/sitemap.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'tr/tex'
+
+    - name: Upload zh folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/zh/tex'
+        DEST_DIR: 'zh/tex' 
+
+    - name: Upload zh sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/zh/sitemap.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'zh/tex'
