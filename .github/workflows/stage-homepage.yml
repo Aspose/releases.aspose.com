@@ -1,0 +1,118 @@
+# This is a basic workflow to help you get started with Actions
+
+name: staging-homepage
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ stage-001 ]
+    paths:
+      - 'content/de/_index.md'
+      - 'content/el/_index.md'
+      - 'content/en/_index.md'
+      - 'content/es/_index.md'
+      - 'content/fr/_index.md'
+      - 'content/id/_index.md'
+      - 'content/ja/_index.md'
+      - 'content/pt/_index.md'
+      - 'content/ru/_index.md'
+      - 'content/tr/_index.md'
+      - 'content/zh/_index.md'
+  pull_request:
+    branches: [ stage2 ]
+
+  repository_dispatch:
+    types: [staging-complete]
+    
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "deploy"
+  deploy:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+
+    # Step 1 - Checks-out your repository under $GITHUB_WORKSPACE
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+          submodules: true  # Fetch Hugo themes
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+    # Step 2 - Sets up the latest version of Hugo
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+          hugo-version: 'latest'
+          extended: true
+    
+   - name: Make Content folder for HomePage
+      run: |
+     
+        cp -R content content_new;
+        rm -R content;
+        mkdir content;
+    
+        if [ -d "./content_new/de" ]; then
+        mkdir content/de
+        cp content_new/de/_index.md content/de
+        fi
+        if [ -d "./content_new/el" ]; then
+        mkdir content/el
+        cp content_new/el/_index.md content/el
+        fi
+        if [ -d "./content_new/en" ]; then
+        mkdir content/en
+        cp content_new/en/_index.md content/en
+        fi
+        if [ -d "./content_new/es" ]; then
+        mkdir content/es
+        cp content_new/es/_index.md content/es
+        fi
+        if [ -d "./content_new/fr" ]; then
+        mkdir content/fr
+        cp content_new/fr/_index.md content/fr
+        fi
+        if [ -d "./content_new/id" ]; then
+        mkdir content/id
+        cp content_new/id/_index.md content/id
+        fi
+        if [ -d "./content_new/ja" ]; then
+        mkdir content/ja
+        cp content_new/ja/_index.md content/ja
+        fi
+        if [ -d "./content_new/pt" ]; then
+        mkdir content/pt
+        cp content_new/pt/_index.md content/pt
+        fi
+        if [ -d "./content_new/ru" ]; then
+        mkdir content/ru
+        cp content_new/ru/_index.md content/ru
+        fi
+        if [ -d "./content_new/tr" ]; then
+        mkdir content/tr
+        cp content_new/tr/_index.md content/tr
+        fi
+        if [ -d "./content_new/zh" ]; then
+        mkdir content/zh
+        cp content_new/zh/_index.md content/zh
+        fi
+        
+    - name: Build Home
+      run: hugo --config "./config/config-stage-releases-aspose-com.toml" -c "content" -b "https://releases-qa.aspose.com/" --disableKinds=page,section --minify
+      
+    - name: Copy static sitemap to public folder
+      run: |
+        cp sitemaps-qa.xml public/sitemaps.xml;
+        
+    - name: Deploy Home to S3
+      run: hugo deploy --config "./config/config-stage-releases-aspose-com.toml" --target "Stage" 
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
