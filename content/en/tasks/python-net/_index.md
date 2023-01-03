@@ -5,7 +5,7 @@ description:  "Download Python package to work with Microsoft Project files via 
 keywords:  "Project API,Project Library,Python Project module"
 family_listing_page_title:  "Aspose.Tasks for Python via .NET"
 family_listing_page_description:  "Aspose.Tasks for Python via .NET is an advanced Microsoft Project Processing API that enables you to perform a wide range of processing directly within your Python applications."
-family_listing_page_iconurl:  "aspose_tasks-for-python.svg"
+family_listing_page_iconurl:  "https://docs.aspose.com/tasks/home_4.svg"
 homepage_package_type: "Pip"
 homepage_package_link: "https://pypi.org/project/aspose-tasks/"
 weight: 4
