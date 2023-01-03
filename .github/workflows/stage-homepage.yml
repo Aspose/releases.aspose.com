@@ -52,7 +52,7 @@ jobs:
           hugo-version: 'latest'
           extended: true
     
-   - name: Make Content folder for HomePage
+    - name: Make Content folder for HomePage
       run: |
      
         cp -R content content_new;
