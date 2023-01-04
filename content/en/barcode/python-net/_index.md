@@ -40,7 +40,7 @@ You can easily use  <b>aspose-barcode-for-python-via-net</b> for Python from  {{
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
 {{< Common/release-notes-link family="barcode" product="python-net" href="" text=""  >}}
-{{< /Common/wrapper >}}
+
 {{< /Common/wrapper >}}
 <!-- /ProductPageContent-->
 
