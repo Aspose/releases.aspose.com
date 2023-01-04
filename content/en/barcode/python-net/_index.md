@@ -17,7 +17,7 @@ weight: 10
 {{< ProductPageWrapper >}}
 <!-- ProductPageContent-->
 {{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
+
 {{< Common/h1 text="Aspose.BarCode for Python via .NET" >}}
 {{< Common/paragraph>}}
 {{< Common/link href="https://products.aspose.com/barcode/python-net/" text="Aspose.BarCode for Python via .NET"  >}}&nbsp;is a Python barcode library for barcode generation and scanning. The barcode library allows fine-tuning of barcode appearance aspects like barcode size, captions, alignment, colors, font and its size. Aspose.BarCode for Python via .NET supports wide range of scanning presets for optimal trade-off between recognition speed and quality.
