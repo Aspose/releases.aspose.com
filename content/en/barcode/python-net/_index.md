@@ -1,8 +1,8 @@
 ---
 title: "Generate and scan barcode in python | Aspose.BarCode product family"
 description: "Aspose barcode scan and generation library"
-keywords: "Word API, Word Library "
-family_listing_page_title: "scan qr generate barcode python"
+keywords: "barcode, generation, scan, qr, datamatrix, python library"
+family_listing_page_title: "Aspose.BarCode for Python via .NET"
 family_listing_page_description: "Scan and generate barcode in your Python application"
 family_listing_page_iconurl: "https://docs.aspose.com/barcode/python-net/aspose_barcode-for-python-net.svg"
 family_listing_page_selfHosted: "1"
