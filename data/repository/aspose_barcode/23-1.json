@@ -1,0 +1,15 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-barcode",
+  "id" : "23-1",
+  "packageFiles" : [ {
+    "size" : "10 MB",
+    "name" : "aspose-barcode-23.1.jar"
+  }, {
+    "size" : "397 bytes",
+    "name" : "aspose-barcode-23.1.pom"
+  } ],
+  "releasehDate" : "2023-01-11T15:02:49+00:00",
+  "version" : "23.1",
+  "ReleaseNotes" : "https://docs.aspose.com/barcode/java/aspose-barcode-for-java-23-1-release-notes/"
+}
