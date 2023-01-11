@@ -8,6 +8,10 @@
     "classifier" : "javadoc"
   }, {
     "size" : "10 MB",
+    "name" : "aspose-barcode-23.1-jdk18.jar",
+    "classifier" : "jdk18"
+  }, {
+    "size" : "10 MB",
     "name" : "aspose-barcode-23.1.jar"
   }, {
     "size" : "397 bytes",
