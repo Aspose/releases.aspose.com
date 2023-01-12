@@ -23,7 +23,8 @@
   <meta name="author" content="{{ $.Param "author.display_name"  }}" />
 {{ end }}
 
-<link rel="canonical" href="{{ .Permalink }}" />
+<link rel="canonical" href="{{ .Permalink | absURL }}" />
+{{ partial "alt-links.html" . }}
 
   {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
   <meta name="robots" content="index, follow">
