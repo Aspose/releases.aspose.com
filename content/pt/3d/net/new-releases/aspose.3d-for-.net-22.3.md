@@ -1,14 +1,13 @@
 ---
 title: "API de cena 3D de suporte e mescha de malha grande para C#, APPS ASP.NET" 
-description: "C# .NET API com suporte aprimorado da grande malha na exportação de arquivos U3D / PDF, a cena 3D aprimorada se fundindo para mesclar tudo, de qualquer nó ao nó atual." 
+description: "C# .NET API com suporte aprimorado da grande malha na exportação de arquivos U3D / PDF, cena 3D aprimorada se fundindo para mesclar tudo, desde qualquer nó até nó atual." 
 keywords: "    ." 
 page_type:  single_release_page
 folder_link: " 3d/net/new-releases/aspose.3d-for-.net-22.3/"
 folder_name: " Aspose.3d para .NET 22.3" 
 download_link: " /3d/net/new-releases/aspose.3d-for-.net-22.3/34c194c9a52c43788eaf0ae7c19c77dd"
 download_text: " Download" 
-
-Intro_Text: "Contém aspo.3d para .NET 22.3 Release".
+intro_text: " Ele contém asppos.3d para .NET 22.3 Release." 
 image_link: "/resources/img/msi-icon.png"
 download_count: "   3/4/2022  Downloads: 15  Views: 25"
 file_size: "  File Size: 10.0 MB "
@@ -51,7 +50,7 @@ Melhorou a grande malha na exportação de arquivo U3D / PDF.
 
 # Cena 3D simplificada fusão
 
-Simplificou as funções para a fusão de cenas. Esse novo método permite a fusão de tudo, desde outro nó até o nó atual.
+Simplificou as funções para mesclar cenas via API. Esse novo método permite a fusão de tudo, desde outro nó até o nó atual.
 
 ```csharp
 var scene1 = Scene.FromFile("file1");

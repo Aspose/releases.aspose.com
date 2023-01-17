@@ -7,8 +7,7 @@ folder_link: " 3d/net/new-releases/aspose.3d-for-.net-22.3/"
 folder_name: " Aspose.3d для .NET 22.3" 
 download_link: " /3d/net/new-releases/aspose.3d-for-.net-22.3/34c194c9a52c43788eaf0ae7c19c77dd"
 download_text: " Скачать" 
-
-Intro_text: «Он содержит Aspose.3d для выпуска .NET 22.3».
+intro_text: " Он содержит Aspose.3d для .NET 22.3." 
 image_link: "/resources/img/msi-icon.png"
 download_count: "   3/4/2022  Скачатьs: 15  Views: 25"
 file_size: "  File Size: 10.0 MB "
@@ -51,7 +50,7 @@ weight: 305
 
 # Упрощенное слияние 3D -сцены
 
-Упростили функции для слияния сцен. Этот новый метод позволяет объединять все, от другого узла до текущего узла.
+Упростили функции для слияния сцен с помощью API. Этот новый метод позволяет объединять все, от другого узла до текущего узла.
 
 ```csharp
 var scene1 = Scene.FromFile("file1");

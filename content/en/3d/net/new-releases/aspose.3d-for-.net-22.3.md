@@ -40,7 +40,9 @@ weight: 305
 
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4>
+
 <div><a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-3-release-notes/">https://docs.aspose.com/3d/net/aspose-3d-for-net-22-3-release-notes/</a></div>
+
 
   {{< /Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +56,7 @@ Improved the large mesh in the U3D / PDF file exporting.
 
 # Simplified 3D Scene Merging
 
-Simplified the functions for merging scenes. This new method allows the merging of everything from another node to the current node.
+Simplified the functions for merging scenes via API. This new method allows the merging of everything from another node to the current node.
 
 ```csharp
 var scene1 = Scene.FromFile("file1");

@@ -7,8 +7,7 @@ folder_link: " 3d/net/new-releases/aspose.3d-for-.net-22.3/"
 folder_name: " aspose.3d for .net 22.3" 
 download_link: " /3d/net/new-releases/aspose.3d-for-.net-22.3/34c194c9a52c43788eaf0ae7c19c77dd"
 download_text: " 下载" 
-
-Intro_text: “它包含aspose.3d for .net 22.3释放。”
+intro_text: " 它包含aspose.3d的.net 22.3释放。" 
 image_link: "/resources/img/msi-icon.png"
 download_count: "   3/4/2022  下载s: 15  Views: 25"
 file_size: "  File Size: 10.0 MB "
@@ -51,7 +50,7 @@ weight: 305
 
 # 简化的3D场景合并
 
-简化了合并场景的功能。这种新方法允许从另一个节点到当前节点的所有内容合并。
+简化了通过API合并场景的功能。这种新方法允许从另一个节点到当前节点的所有内容合并。
 
 ```csharp
 var scene1 = Scene.FromFile("file1");

@@ -7,8 +7,7 @@ folder_link: " 3d/net/new-releases/aspose.3d-for-.net-22.3/"
 folder_name: " ASSON.3D für .NET 22.3" 
 download_link: " /3d/net/new-releases/aspose.3d-for-.net-22.3/34c194c9a52c43788eaf0ae7c19c77dd"
 download_text: " Herunterladen" 
-
-Intro_Text: "Es enthält Aspose.3d für .NET 22.3 Release."
+intro_text: " Es enthält ASSOSE.3D für .NET 22.3 Release." 
 image_link: "/resources/img/msi-icon.png"
 download_count: "   3/4/2022  Downloads: 15  Views: 25"
 file_size: "  File Size: 10.0 MB "
@@ -51,7 +50,7 @@ Verbesserte das große Netz im Exportieren von U3D / PDF -Datei.
 
 # Vereinfachte 3D -Szene verschmelzen
 
-Vereinfacht die Funktionen für das Zusammenführen von Szenen. Diese neue Methode ermöglicht das Zusammenführen von allem, von einem anderen Knoten bis zum aktuellen Knoten.
+Vereinfacht die Funktionen für das Zusammenführen von Szenen über API. Diese neue Methode ermöglicht das Zusammenführen von allem, von einem anderen Knoten bis zum aktuellen Knoten.
 
 ```csharp
 var scene1 = Scene.FromFile("file1");

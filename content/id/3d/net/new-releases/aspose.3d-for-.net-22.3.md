@@ -7,8 +7,7 @@ folder_link: " 3d/net/new-releases/aspose.3d-for-.net-22.3/"
 folder_name: " Aspose.3d untuk .net 22.3" 
 download_link: " /3d/net/new-releases/aspose.3d-for-.net-22.3/34c194c9a52c43788eaf0ae7c19c77dd"
 download_text: " Unduh" 
-
-Intro_text: "Ini berisi aspose.3d untuk rilis .net 22.3."
+intro_text: " Ini berisi Aspose.3d untuk rilis .NET 22.3." 
 image_link: "/resources/img/msi-icon.png"
 download_count: "   3/4/2022  Unduhs: 15  Views: 25"
 file_size: "  File Size: 10.0 MB "
@@ -51,7 +50,7 @@ Meningkatkan jala besar dalam ekspor file U3D / PDF.
 
 # Penggabungan adegan 3D yang disederhanakan
 
-Menyederhanakan fungsi untuk menggabungkan adegan. Metode baru ini memungkinkan penggabungan semuanya dari simpul lain ke simpul saat ini.
+Menyederhanakan fungsi untuk menggabungkan adegan melalui API. Metode baru ini memungkinkan penggabungan semuanya dari simpul lain ke simpul saat ini.
 
 ```csharp
 var scene1 = Scene.FromFile("file1");

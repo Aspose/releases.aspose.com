@@ -7,8 +7,7 @@ folder_link: " 3d/net/new-releases/aspose.3d-for-.net-22.3/"
 folder_name: " Aspuesto.3d para .NET 22.3" 
 download_link: " /3d/net/new-releases/aspose.3d-for-.net-22.3/34c194c9a52c43788eaf0ae7c19c77dd"
 download_text: " Descargar" 
-
-Intro_Text: "Contiene Aspose.3d para .NET 22.3 Release".
+intro_text: " Contiene aspose.3d para .NET 22.3 lanzamiento." 
 image_link: "/resources/img/msi-icon.png"
 download_count: "   3/4/2022  Descargars: 15  Views: 25"
 file_size: "  File Size: 10.0 MB "
@@ -51,7 +50,7 @@ Mejoró la malla grande en la exportación de archivos U3D / PDF.
 
 # Fusionar escena 3D simplificada
 
-Simplificó las funciones para fusionar escenas. Este nuevo método permite la fusión de todo, desde otro nodo hasta el nodo actual.
+Simplificó las funciones para fusionar escenas a través de API. Este nuevo método permite la fusión de todo, desde otro nodo hasta el nodo actual.
 
 ```csharp
 var scene1 = Scene.FromFile("file1");

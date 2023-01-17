@@ -7,8 +7,7 @@ folder_link: " 3d/net/new-releases/aspose.3d-for-.net-22.3/"
 folder_name: " Aspose.3d για .NET 22.3" 
 download_link: " /3d/net/new-releases/aspose.3d-for-.net-22.3/34c194c9a52c43788eaf0ae7c19c77dd"
 download_text: " Κατεβάστε" 
-
-Intro_text: "Περιέχει aspose.3d για .NET 22.3 Release."
+intro_text: " Περιέχει Aspose.3d για .NET 22.3 απελευθέρωση." 
 image_link: "/resources/img/msi-icon.png"
 download_count: "   3/4/2022  Κατεβάστεs: 15  Views: 25"
 file_size: "  File Size: 10.0 MB "
@@ -51,7 +50,7 @@ weight: 305
 
 # Απλοποιημένη συγχώνευση 3D σκηνής
 
-Απλοποίησε τις λειτουργίες για τη συγχώνευση σκηνών. Αυτή η νέα μέθοδος επιτρέπει τη συγχώνευση όλων από έναν άλλο κόμβο στον τρέχοντα κόμβο.
+Απλοποίησε τις λειτουργίες για τη συγχώνευση σκηνών μέσω του API. Αυτή η νέα μέθοδος επιτρέπει τη συγχώνευση όλων από έναν άλλο κόμβο στον τρέχοντα κόμβο.
 
 ```csharp
 var scene1 = Scene.FromFile("file1");

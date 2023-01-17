@@ -7,8 +7,7 @@ folder_link: " 3d/net/new-releases/aspose.3d-for-.net-22.3/"
 folder_name: " 22.3 için aspose.3d" 
 download_link: " /3d/net/new-releases/aspose.3d-for-.net-22.3/34c194c9a52c43788eaf0ae7c19c77dd"
 download_text: " İndirmek" 
-
-Intro_text: ".NET 22.3 sürümü için aspose.3d içerir."
+intro_text: " .NET 22.3 sürümü için aspose.3d içerir." 
 image_link: "/resources/img/msi-icon.png"
 download_count: "   3/4/2022  İndirmeks: 15  Views: 25"
 file_size: "  File Size: 10.0 MB "
@@ -51,7 +50,7 @@ U3D / PDF dosya dışa aktarmada büyük ağ geliştirdi.
 
 # Basitleştirilmiş 3D sahne birleştirme
 
-Birleştirme sahneleri için işlevleri basitleştirdi. Bu yeni yöntem, her şeyin başka bir düğümden geçerli düğüme birleştirilmesine izin verir.
+API üzerinden sahneleri birleştirme işlevlerini basitleştirdi. Bu yeni yöntem, her şeyin başka bir düğümden geçerli düğüme birleştirilmesine izin verir.
 
 ```csharp
 var scene1 = Scene.FromFile("file1");
