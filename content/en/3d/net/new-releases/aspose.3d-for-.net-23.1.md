@@ -4,7 +4,7 @@ title: "Downloads ---New Releases-aspose.3d-for-.net-23.1"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/3d/net/examples/aspose.3d-for-.net-23.1/"
+folder_link: "/3d/net/new-releases/aspose.3d-for-.net-23.1/"
 folder_name: "Aspose.3D for .NET 23.1"
 download_link: "/3d/net/examples/aspose.3d-for-.net-23.1/97648f90a5d7f59a9c562f9bb2cc906c-3-8398"
 download_text: "Download"
