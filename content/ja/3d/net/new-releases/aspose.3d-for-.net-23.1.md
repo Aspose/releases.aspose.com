@@ -4,9 +4,9 @@ title: "ダウンロード---例-ASPOSES.3D-FOR-.NET-23.1"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/3d/net/examples/aspose.3d-for-.net-23.1/"
+folder_link: "/3d/net/new-releases/aspose.3d-for-.net-23.1/"
 folder_name: ".NET 23.1のAsoppes.3d"
-download_link: "/3d/net/examples/aspose.3d-for-.net-23.1/97648f90a5d7f59a9c562f9bb2cc906c-3-8398"
+download_link: "/3d/net/new-releases/aspose.3d-for-.net-23.1/97648f90a5d7f59a9c562f9bb2cc906c-3-8398"
 download_text: "ダウンロード"
 intro_text: ".NET 23.1リリース用のAspose.3dが含まれています。"
 image_link: "/resources/img/msi-icon.png"
@@ -17,14 +17,14 @@ section_parent_path: "3d/net"
 
 tags: ""
 release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-23-1-release-notes/"
-weight: 1
+weight: 325
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt=".NET 23.1のAsoppes.3d" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="ダウンロード" link="/3d/net/examples/aspose.3d-for-.net-23.1/97648f90a5d7f59a9c562f9bb2cc906c-3-8398" >}}
+    {{< Releases/ReleasesSingleButtons text="ダウンロード" link="/3d/net/new-releases/aspose.3d-for-.net-23.1/97648f90a5d7f59a9c562f9bb2cc906c-3-8398" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/3d" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
