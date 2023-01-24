@@ -1,12 +1,12 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr-for-net-22.121.0-(msi)"
+title: "Downloads ---New Releases-aspose.ocr-for-net-22.12.0-(msi)"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-22.121.0-(msi)/"
-folder_name: "Aspose.OCR for NET 22.121.0 (msi)"
-download_link: "/ocr/net/new-releases/aspose.ocr-for-net-22.121.0-(msi)/5dd70a5459abbcab682d36b9c4fc46a0-37-8271"
+folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-22.12.0-(msi)/"
+folder_name: "Aspose.OCR for NET 22.12.0 (msi)"
+download_link: "/ocr/net/new-releases/aspose.ocr-for-net-22.12.0-(msi)/5dd70a5459abbcab682d36b9c4fc46a0-37-8271"
 download_text: "Download"
 intro_text: "IDCard, passport, invoice, car plate recognition; search text, compare images"
 image_link: "/resources/img/msi-icon.png"
@@ -22,9 +22,9 @@ weight: 298
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.OCR for NET 22.121.0 (msi)" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.OCR for NET 22.12.0 (msi)" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/ocr/net/new-releases/aspose.ocr-for-net-22.121.0-(msi)/5dd70a5459abbcab682d36b9c4fc46a0-37-8271" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/ocr/net/new-releases/aspose.ocr-for-net-22.12.0-(msi)/5dd70a5459abbcab682d36b9c4fc46a0-37-8271" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/ocr" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
