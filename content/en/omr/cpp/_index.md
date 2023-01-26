@@ -12,14 +12,14 @@ family_listing_page_package: "148"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.OMR.Cpp/"
 tags: ['Optical-Mark-Recognition', 'OMR', 'OMR-API', 'API', 'Component', 'Library', 'Windows', '.NET-Framework', 'Framework', 'OMR-Template', 'Answer-Sheet', 'Text-OMR', 'Answer-Sheet-OMR', 'Choide-Box-OMR', 'Grid-OMR', 'Image-OMR', 'Barcode-OMR', 'OMR-Text-Markup', 'OMR-to-PDF', 'Barcode-Recognition', 'OMR-Graphical-Control', 'OMR-to-CSV']
-weight:  3
+weight: 03	#rem
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/omr" linktext=" Support Forum " >}}
 
-{{< Common/h2 text="Download Aspose.OMR to Read Human-marked Data"  >}}
+{{< Common/h2 text="Download Aspose.OMR.Cpp to Read Human-marked Data"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Open {{< Common/link href="https://www.nuget.org/packages/Aspose.OMR.Cpp/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.OMR</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/omr/cpp/installation/" text="Installation"  >}} documentation page.
+Open {{< Common/link href="https://www.nuget.org/packages/Aspose.OMR.Cpp/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.OMR.Cpp</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/omr/cpp/installation/" text="Installation"  >}} documentation page.
 {{< Common/release-notes-link family="omr" product="cpp" href="https://docs.aspose.com/omr/cpp/release-notes/" text="https://docs.aspose.com/omr/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}

@@ -4,7 +4,7 @@ description: "Download C# Class Library DLL to recognize, detect, read & extract
 keywords: "OMR .NET API"
 family_listing_page_title: "Aspose.OMR for .NET"
 family_listing_page_description: "Aspose.OMR for .NET is a simple to use API that allows developers to perform OMR operation on images. Aspose.OMR can perform OMR operation on JPEG, PNG, GIF, TIFF, and BMP image files and save the output in CSV format."
-family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png"
+family_listing_page_iconurl: "https://releases.aspose.com/images/aspose/aspose_omr-for-net.svg"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
