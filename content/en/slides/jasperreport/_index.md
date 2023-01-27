@@ -70,7 +70,7 @@ weight:  7
 
 {{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="slides" product="jasperreports" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="slides" product="jasperreport" >}}
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
