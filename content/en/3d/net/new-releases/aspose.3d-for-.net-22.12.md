@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.3d-for-.net-22.12"
-description: " "
+title: "Encode / Decode Directional / Spot Light 3D API C# .NET Apps"
+description: "C# .NET API to encode, decode directional light, spot light, convert DXF file to gltf or glb formats. Use glTF (GL Transmission Format) for 3D scenes & models."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-22.12/"
@@ -14,11 +13,9 @@ download_count: " 21/12/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 13.39MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/"
 weight: 323
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,34 @@ weight: 323
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 22.12 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+# Encode / Decode Light
+
+This version of the 3D API allows encoding and decoding of the directional light as well as spot light.
+
+# Improvements in 3D Cylinder Handling
+
+The following issues have been resolved within this release:
+
+- **THREEDNET-1294** Cylinder defined UV but no data
+- **THREEDNET-1306** Cylinder with radius top =0 will generate incorrect model
+
+# Convert from `DXF` to `gltf`/`glb`
+
+Ability to convert a `DXF` file into `gltf` or `glb` formats. glTF (GL Transmission Format) is used as a standard file format to work with 3D scenes and models.
+
+Please note that a `glTF` file can either have `gltf` or `glb` file extension.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 22.12 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
