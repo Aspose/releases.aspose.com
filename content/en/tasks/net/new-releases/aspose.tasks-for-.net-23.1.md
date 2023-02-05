@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-.net-23.1"
-description: " "
+title: "Read Project Completion Percentage API for C#, ASP.NET Apps"
+description: "C# .NET API to access the fractional number values of Physical Percent Complete & PercentComplete to read the percentage (%) completion of Primavera® projects."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-23.1/"
@@ -14,11 +13,9 @@ download_count: " 17/1/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 22.94MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/"
 weight: 487
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -40,12 +37,38 @@ weight: 487
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/</a></div>
+      <h4>Release Notes</h4>
+<div><a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/</a></div>
+
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains MSI with Aspose.Tasks for .NET 23.1 release.</div>
+      <h4>Description</h4>
+<div class="HTMLDescription">It contains MSI with Aspose.Tasks for .NET 23.1 release.</div>
+
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Project Completion % for Primavera Formats
+
+This release introduces the feature to access the fractional number values of Physical Percent Complete and PercentComplete to read the percentage (%) completion of Primavera&reg; projects.
+
+### Read Task Priority Column for MPX Files
+
+An enhancement has been made in reading the task priority column for the Microsoft Project&reg; `MPX` files where Priority column was saved using the `enum` values.
+
+### Access Labor Unit Values for Primavera&reg; formats
+
+Now via API you are able to access the values of Labor Units for Primavera&ref; project formats.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Tasks for .NET 23.1 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
