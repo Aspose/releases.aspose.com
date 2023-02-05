@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-.net-22.11"
-description: " "
+title: "Read XER & P6XML Task Properties API for C#, ASP.NET Apps"
+description: "C# .NET Primavera® Project Properties Reader API to read the task properties of XER, P6XML formats, change sorting order of summary tasks for XER project files."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-22.11/"
@@ -14,11 +13,9 @@ download_count: " 15/11/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 22.91MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/"
 weight: 482
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -40,12 +37,34 @@ weight: 482
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/</a></div>
+      <h4>Release Notes</h4>
+<div><a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/</a></div>
+
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains MSI with Aspose.Tasks for .NET 22.11 release.</div>
+      <h4>Description</h4>
+<div class="HTMLDescription">It contains MSI with Aspose.Tasks for .NET 22.11 release.</div>
+
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Read `XER` / `P6XML` Project Properties
+
+Introduced the read-only access to Primavera&reg; specific task properties. Now you can read the task properties of the `XER`, `P6XML` project file formats.
+
+### Sort Summary Tasks of `XER` Project
+
+Ability to change the sort order of summary tasks for the `XER` project file format.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Tasks for .NET 22.11 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
