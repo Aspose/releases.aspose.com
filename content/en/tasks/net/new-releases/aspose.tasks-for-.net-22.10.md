@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-.net-22.10"
-description: " "
+title: "Import Project from XER or Primavera P6 API for C# .NET Apps"
+description: "C# .NET Project Management API to preserve the Primavera® UIDs while importing XER or PXML projects, ability to access the entities' fields via .NET properties."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-22.10/"
@@ -14,11 +13,9 @@ download_count: " 8/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 22.89MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/"
 weight: 480
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -40,12 +37,38 @@ weight: 480
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/</a></div>
+      <h4>Release Notes</h4>
+<div><a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/</a></div>
+
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains MSI with Aspose.Tasks for .NET 22.10 release.</div>
+      <h4>Description</h4>
+<div class="HTMLDescription">It contains MSI with Aspose.Tasks for .NET 22.10 release.</div>
+
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Preserve Primavera UIDs
+
+A new setting has been added which allows preserving the Primavera&reg; UIDs while importing projects from XER or P6XML formats.
+
+### .NET Framework 2.0 Support
+
+The support for .NET Framework 2.0 has been removed.
+
+### Access Entities' Fields
+
+The API has been enhanced to access the entities' fields using .NET properties.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Tasks for .NET 22.10 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
