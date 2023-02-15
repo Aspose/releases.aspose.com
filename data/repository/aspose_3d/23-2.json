@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-3d",
+  "id" : "23-2",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-3d-23.2-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "2 MB",
+    "name" : "aspose-3d-23.2.jar"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-3d-23.2.pom"
+  } ],
+  "releasehDate" : "2023-02-15T09:46:12+00:00",
+  "version" : "23.2",
+  "ReleaseNotes" : "https://docs.aspose.com/3d/java/aspose-3d-for-java-23-2-release-notes/"
+}
