@@ -28,7 +28,7 @@ rewrite ^/corporate/success-stories/aspose.total/the-pitfalls-of-microsoft-offic
 rewrite ^/barcode/python/new-releases/aspose.barcode-for-python-via-java-21.3/ https://releases.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-21.3/ permanent;
 rewrite /(.*)/new-releases/$ https://releases.aspose.com/$1 permanent;
 rewrite ^/barcode/python/new-releases/aspose.barcode-for-python-via-java-21.2/ https://releases.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-21.2/ permanent;
-rewrite ^/diagram/python/(.*) https://releases.aspose.com/diagram/python-java/$1 permanent;
+rewrite (.*)/diagram/python/(.*) https://releases.aspose.com/$1/diagram/python-java/$2 permanent;
 rewrite /(.*)\(msi\)(.*) https://releases.aspose.com/$1msi$2 permanent;
 rewrite /(.*)\(jdk1.6-only\)(.*) https://releases.aspose.com/$1jdk1.6-only$2 permanent;
 rewrite /(.*)\(javadoc\)(.*) https://releases.aspose.com/$1javadoc$2 permanent;
@@ -60,9 +60,10 @@ rewrite ^/words/java/new-releases/aspose.words-for-java-20.2-\(jdk1.6-only\)/ ht
 rewrite ^/barcode/jasperreports//aspose.barcode-for-jasperreports-22.10/ba6934072b2147342e4b68b9a13d7064-3-8057/ https:///releases.aspose.com/barcode/jasperreports/aspose.barcode-for-jasperreports-22.10/ permanent;
 rewrite ^/slides/de/$ https://releases.aspose.com/de/slides/ permanent;
 rewrite ^/slides/de/(.*) https://releases.aspose.com/de/slides/$1 permanent;
-rewrite ^/webapp/.* https://releases.aspose.com/ permanent;
+rewrite ^/webapp/.* https://releases.ase.com/ permanent;
 rewrite ^/ui/auth/passport/request https://releases.aspose.com/ permanent;
 rewrite ^/repo$ https://releases.aspose.com/java/repo/ permanent;
 rewrite ^/repo/$ https://releases.aspose.com/java/repo/ permanent;
 rewrite (.*)/java/new-releases/.* https://releases.aspose.com$1/java/ permanent;
 rewrite (.*)/java/new-releases$ https://releases.aspose.com$1/java/ permanent;
+rewrite ^/email/androidjava/new-releases$ https://releases.aspose.com/email/androidjava/ permanent;
