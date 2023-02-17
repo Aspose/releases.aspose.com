@@ -27,6 +27,7 @@ rewrite ^/corporate/success-stories/aspose.total/trialgraphix-prefers-aspose.tot
 rewrite ^/corporate/success-stories/aspose.total/the-pitfalls-of-microsoft-office-automation-an-aspose-whitepaper/2e0c7c8d92904bcaafe3851bfebdd507 https://releases.aspose.com/corporate/success-stories/aspose.total/the-pitfalls-of-microsoft-office-automation-an-aspose-whitepaper/ permanent;
 rewrite ^/barcode/python/new-releases/aspose.barcode-for-python-via-java-21.3/ https://releases.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-21.3/ permanent;
 rewrite /(.*)/new-releases/$ https://releases.aspose.com/$1 permanent;
+rewrite /(.*)/new-releases$ https://releases.aspose.com/$1 permanent;
 rewrite ^/barcode/python/new-releases/aspose.barcode-for-python-via-java-21.2/ https://releases.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-21.2/ permanent;
 rewrite (.*)/diagram/python/(.*) https://releases.aspose.com$1/diagram/python-java/$2 permanent;
 rewrite (.*)/diagram/python/$ https://releases.aspose.com$1/diagram/python-java/ permanent;
@@ -67,4 +68,5 @@ rewrite ^/repo$ https://releases.aspose.com/java/repo/ permanent;
 rewrite ^/repo/$ https://releases.aspose.com/java/repo/ permanent;
 rewrite (.*)/java/new-releases/.* https://releases.aspose.com$1/java/ permanent;
 rewrite (.*)/java/new-releases$ https://releases.aspose.com$1/java/ permanent;
-rewrite ^/email/androidjava/new-releases$ https://releases.aspose.com/email/androidjava/ permanent;
+rewrite ^/ocr/net/new-releases/aspose.ocr-for-java-22.7/$ https://releases.aspose.com/ocr/java/22-7/ permanent;
+rewrite (.*)//$ https://releases.aspose.com$1/ permanent;
