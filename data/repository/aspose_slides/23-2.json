@@ -4,6 +4,14 @@
   "artifactId" : "aspose-slides",
   "id" : "23-2",
   "packageFiles" : [ {
+    "size" : "3 MB",
+    "name" : "aspose-slides-23.2-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
+    "size" : "30 MB",
+    "name" : "aspose-slides-23.2-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
     "size" : "1 KB",
     "name" : "aspose-slides-23.2-android.via.java.pom"
   }, {
@@ -18,7 +26,7 @@
     "size" : "395 bytes",
     "name" : "aspose-slides-23.2.pom"
   } ],
-  "releasehDate" : "2023-02-20T19:27:15+00:00",
+  "releasehDate" : "2023-02-20T19:28:02+00:00",
   "version" : "23.2",
   "ReleaseNotes" : "https://docs.aspose.com/slides/java/aspose-slides-for-java-23-2-release-notes/"
 }
