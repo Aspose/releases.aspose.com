@@ -17,7 +17,7 @@ section_parent_path: "pdf/net"
 
 tags: ""
 release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-2-release-notes"
-weight: 838
+weight: 839
 
 ---
 
