@@ -4,7 +4,7 @@
 
       <div class="col-md-12 title2">
         <div class="col-md-8 pd-lr">
-          <h1 id="Venture"></h1>
+          <!-- <h1 id="Venture"></h1> -->
         </div>
         <div class="col-md-3 pull-right searchbartop">
           <div class="topformsearch">
@@ -36,7 +36,7 @@
           {{ $dot.Scratch.Set "breadcrumb" slice }}
           {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
           {{ $.Scratch.Add "path" .Site.BaseURL }}
-          {{ if eq $currentlang "en" }} 
+          {{ if eq $currentlang "en" }}
               {{ $.Scratch.Add "breadcrumb" (slice (dict "url" .Site.BaseURL "name" "home" "position" 1 )) }}
               {{ range $index, $element := split $url "/" }}
                   {{ $dot.Scratch.Add "path" $element }}
@@ -50,7 +50,7 @@
                     {{ $dot.Scratch.Add "path" $element }}
                     {{ $.Scratch.Add "path" "/" }}
                     {{ if ne $element "" }}
-                          {{ if eq $index 0 }} 
+                          {{ if eq $index 0 }}
                             {{ $.Scratch.Add "breadcrumb" (slice (dict "url" ($.Scratch.Get "path") "name" . "position" (add $index 2))) }}
                           {{else}}
                             {{ $.Scratch.Add "breadcrumb" (slice (dict "url" ($.Scratch.Get "path") "name" . "position" (add $index 2))) }}
@@ -66,10 +66,10 @@
               {{ $position := .position }}
               {{ $name := .name }}
 
-              {{ if eq $currentlang "en" }} 
+              {{ if eq $currentlang "en" }}
                 {{ with site.GetPage $urlparams.Path }}
                       {{ $family_listing_page_title := .Params.family_listing_page_title }}
-                      {{ if eq $urlparams.Path "/" }} 
+                      {{ if eq $urlparams.Path "/" }}
                         <li><a href="{{$urlpage}}" class="">{{ i18n "Home" }}</a><span class="divider"> </span></li>
                       {{else}}
                         {{ if not (eq $currentpath_without_lang $urlparams.Path )}}
@@ -80,12 +80,12 @@
                       {{end}}
                   {{ end }}
               {{else}}
-                
+
                 {{$pattern_current_lang := print "/" $currentlang }}
                   {{ $lang_path_removed := replace $urlparams.Path  $pattern_current_lang "" }}
                   {{ with site.GetPage $lang_path_removed }}
                       {{ $family_listing_page_title := .Params.family_listing_page_title }}
-                      {{ if eq $lang_path_removed "/" }} 
+                      {{ if eq $lang_path_removed "/" }}
                           <li><a href="{{$urlpage}}" class="">{{ i18n "Home" }}</a><span class="divider"> </span></li>
                       {{else}}
                         {{ if not (eq $currentpath_without_lang $lang_path_removed )}}
