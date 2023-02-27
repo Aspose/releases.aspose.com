@@ -10,7 +10,7 @@ download_link: "/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java
 download_text: "Download"
 intro_text: "Aspose.BarCode for Node.js via Java 23.2 has been released"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 27/2/2023 Downloads: 1  Views: 1 "
+download_count: " 27/2/2023 Downloads: 2  Views: 1 "
 file_size: "File Size: 10.97MB"
 parent_path: "barcode/nodejs"
 section_parent_path: "barcode/nodejs"
@@ -31,7 +31,7 @@ weight: 49
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-225b3aceb827fd15ca4982481c4ecfd2-3-8583" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-225b3aceb827fd15ca4982481c4ecfd2-3-8583" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
       {{< Common/li id="size-update-225b3aceb827fd15ca4982481c4ecfd2-3-8583" >}} 10.97MB {{< /Common/li >}}
 
