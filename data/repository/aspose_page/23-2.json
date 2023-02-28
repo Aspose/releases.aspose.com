@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "23-2",
+  "packageFiles" : [ {
+    "size" : "1 MB",
+    "name" : "aspose-page-23.2-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "14 MB",
+    "name" : "aspose-page-23.2.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-page-23.2.pom"
+  } ],
+  "releasehDate" : "2023-02-28T22:56:56+00:00",
+  "version" : "23.2",
+  "ReleaseNotes" : "https://docs.aspose.com/page/java/aspose-page-for-java-23-2-release-notes/"
+}
