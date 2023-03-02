@@ -26,7 +26,7 @@ weight: 96
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/3d/java/new-releases/aspose.3d-for-java-22.12/f55ddce09a00bcac24b2438671ab5239-4-8307" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/3d" >}}
-  {{< Releases/ReleasesButtons >}}
+  {{< /Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
