@@ -16,7 +16,7 @@ parent_path: "words/net"
 section_parent_path: "words/net"
 
 release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-22-6-release-notes/"
-weight: 701
+weight: 700
 
 ---
 

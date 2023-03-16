@@ -14,7 +14,7 @@ file_size: "File Size: 93.2 MB"
 parent_path: "words/net"
 section_parent_path: "words/net"
 release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-22-6-release-notes/"
-weight: 700
+weight: 701
 ---
 
 {{< Releases/ReleasesWapper >}}
