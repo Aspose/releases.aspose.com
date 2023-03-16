@@ -48,12 +48,11 @@ Aspose.Words for SharePoint enhances your interactivity with your SharePoint doc
 
 ### Supported Products
 
-- Windows SharePoint Services 3.0 (WSS)
-- Microsoft Office SharePoint Server 2007 (MOSS)
 - Microsoft SharePoint Foundation 2010
 - Microsoft SharePoint Server 2010
 - Microsoft SharePoint Server 2013
 - Microsoft SharePoint Server 2016
+- Microsoft SharePoint Server 2019
 - `x32` and `x64` servers supported.
 
 {{< Tags/TagsWrapper >}}
