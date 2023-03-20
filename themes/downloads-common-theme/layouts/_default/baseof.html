@@ -1,7 +1,8 @@
-<html xmlns="http://www.w3.org/1999/xhtml" >
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="{{ with $.Site.LanguageCode }}{{ . }}{{ else }}en-us{{ end }}">
     <meta charset="UTF-8">
     {{- partial "head.html" . -}}
-  
+
     {{ if .IsHome }}
 
         {{ $CurrentSection :=.Site.Params.contentsection }}
@@ -20,7 +21,7 @@
                     <!-- End Google Tag Manager (noscript) -->
                     {{ end }}
                 {{ end }}
-                    
+
                 <div class="item-page" itemscope itemtype="https://schema.org/Article">
                     <meta itemprop="inLanguage" content="en-GB" />
                     <div itemprop="articleBody">
@@ -30,13 +31,13 @@
                             <meta itemprop="inLanguage" content="en-GB">
                             <div itemprop="articleBody">
                                 {{- block "main" . }}{{- end }}
-                            </div>        
+                            </div>
                         </div>
                     </div>
                 </div>
                 {{- partial "footer.html" . -}}
     {{else}}
-    
+
         <body>
 
         <form name="form1" method="post" action="./total" id="form1">
@@ -49,7 +50,7 @@
                 <!-- End Google Tag Manager (noscript) -->
                 {{ end }}
             {{ end }}
-                
+
             <div id="header"></div>
             <div class="downloadpage">
 
@@ -59,7 +60,7 @@
                     <div class="container">
                     <div class="row">
                             {{ partial "tree-section.html" . }}
-                        
+
                             <div class="col-md-9 lhs1 col-xs-12 mobilehide node-section">
                                 <div class="box1">
                                     {{ partial "msg-section.html" . }}
@@ -78,7 +79,7 @@
         <div id="footer"></div>
 
     {{end}}
-        
-        
+
+
     </body>
 </html>
