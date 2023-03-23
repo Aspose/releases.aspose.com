@@ -4,7 +4,8 @@
   "id" : "23-3",
   "packageFiles" : [ {
     "size" : "14 MB",
-    "name" : "aspose-barcode-23.3-java.zip"
+    "name" : "aspose-barcode-23.3-java.zip",
+    "classifier" : "zip"
   }, {
     "size" : "571 KB",
     "name" : "aspose-barcode-23.3-javadoc.jar",
