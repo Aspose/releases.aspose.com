@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cad",
+  "id" : "22-12",
+  "packageFiles" : [ {
+    "size" : "16 MB",
+    "name" : "aspose-cad-22.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "33 MB",
+    "name" : "aspose-cad-22.12.jar"
+  }, {
+    "size" : "837 bytes",
+    "name" : "aspose-cad-22.12.pom"
+  } ],
+  "releasehDate" : "2023-03-26T23:39:42+00:00",
+  "version" : "22.12",
+  "ReleaseNotes" : "https://docs.aspose.com/cad/java/aspose-cad-for-java-22-12-release-notes/"
+}
