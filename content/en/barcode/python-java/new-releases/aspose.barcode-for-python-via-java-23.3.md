@@ -1,10 +1,10 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-python-via--java-23.3"
+title: "Downloads ---New Releases-aspose.barcode-for-python-via-java-23.3"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/barcode/python-java/new-releases/aspose.barcode-for-python-via--java-23.3/"
+folder_link: "/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-23.3/"
 folder_name: "Aspose.BarCode for Python via  Java 23.3"
 download_link: "/barcode/python-java/new-releases/aspose.barcode-for-python-via--java-23.3/b155b24a7a0eb73c4465047a8f986854-3-8699"
 download_text: "Download"
@@ -47,5 +47,3 @@ weight: 39
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
