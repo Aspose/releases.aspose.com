@@ -16,7 +16,7 @@ parent_path: "email/pythonnet"
 section_parent_path: "email/pythonnet"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-1-release-notes/"
+release_notes_url: "https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-2-release-notes/"
 weight: 33
 
 ---
@@ -40,7 +40,7 @@ weight: 33
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-1-release-notes/'>https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-1-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-2-release-notes/'>https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for Python via .NET 23.2, MacOS x86,x64 release</div>
