@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-font",
+  "id" : "23-4",
+  "packageFiles" : [ {
+    "size" : "663 KB",
+    "name" : "aspose-font-23.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "11 MB",
+    "name" : "aspose-font-23.4.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-font-23.4.pom"
+  } ],
+  "releasehDate" : "2023-04-04T09:17:19+00:00",
+  "version" : "23.4",
+  "ReleaseNotes" : "https://docs.aspose.com/font/java/aspose-font-for-java-23-4-release-notes/"
+}
