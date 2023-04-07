@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-tex",
+  "id" : "23-4",
+  "packageFiles" : [ {
+    "size" : "377 KB",
+    "name" : "aspose-tex-23.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "19 MB",
+    "name" : "aspose-tex-23.4.jar"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-tex-23.4.pom"
+  } ],
+  "releasehDate" : "2023-04-07T12:39:19+00:00",
+  "version" : "23.4",
+  "ReleaseNotes" : "https://docs.aspose.com/tex/java/aspose-tex-for-java-23-4-release-notes/"
+}
