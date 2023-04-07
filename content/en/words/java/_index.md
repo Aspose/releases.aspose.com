@@ -125,6 +125,7 @@ forumLink: https://forum.aspose.com/c/words/8
 productLink: https://products.aspose.com/words/java/
 dataFolder: aspose_words
 packages_refs:
+- "23-4"
 - "23-3"
 - "23-2"
 - "23-1"
