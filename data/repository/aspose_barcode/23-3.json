@@ -8,7 +8,8 @@
     "classifier" : "android.via.java-javadoc"
   }, {
     "size" : "6 MB",
-    "name" : "aspose-barcode-23.3-android.via.java.aar"
+    "name" : "aspose-barcode-23.3-android.via.java.aar",
+    "classifier" : "android.via.java"
   }, {
     "size" : "14 MB",
     "name" : "aspose-barcode-23.3-java.zip"
