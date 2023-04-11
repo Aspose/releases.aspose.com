@@ -194,7 +194,7 @@ public class S3Package2HugoPost {
 			   if(!verFileName.equalsIgnoreCase(productName + "-" +productVersion + ".jar") && !verFileName.equalsIgnoreCase(productName + "-" +productVersion + ".pom")) {
 				   
 				   
-				   if(verFileName.endsWith(".jar")){
+				   if(verFileName.endsWith(".jar") || verFileName.endsWith(".aar")){
 					
 					   System.out.println("verFileName ::" + verFileName);
 					   
