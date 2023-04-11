@@ -4,7 +4,8 @@
   "id" : "22-12",
   "packageFiles" : [ {
     "size" : "6 MB",
-    "name" : "aspose-barcode-22.12-android.via.java.aar"
+    "name" : "aspose-barcode-22.12-android.via.java.aar",
+    "classifier" : "android.via.java"
   }, {
     "size" : "571 KB",
     "name" : "aspose-barcode-22.12-javadoc.jar",
