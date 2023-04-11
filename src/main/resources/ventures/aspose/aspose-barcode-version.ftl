@@ -7,6 +7,9 @@ weight: 00	#rem
 publishDate: "${publishDate}"
 ---
 
+<div class="downloadandnotes">
+<a title="Download Zip Package of Aspose.BarCode v${productVersion}" href="https://releases.aspose.com/java/repo/com/aspose/aspose-barcode/${productVersion}/aspose-barcode-${productVersion}-java.zip" class="btn btn-primary dwnam3"><i class="glyphicon glyphicon-download-alt" style="padding-right:10px"></i> Download</a></div>
+
 # Barcode Library for Java Applications
 
 [![banner](../aspose_barcode-for-java-banner.png)](./)
