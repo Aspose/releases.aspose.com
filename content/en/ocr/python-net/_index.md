@@ -5,7 +5,7 @@ description:  "Download Text Extraction Python Library for English, French, Span
 keywords:  "Python OCR,OCR English,OCR French,OCR Spanish"
 family_listing_page_title:  "Aspose.OCR for Python via .NET"
 family_listing_page_description:  "Download Text Extraction Python Library for English, French, Spanish & Portuguese character & text recognition from raster images via on-premise Python via .NET API."
-family_listing_page_iconurl:  "https://www.aspose.cloud/templates/aspose/img/products/ocr/aspose_ocr-for-python.svg"
+family_listing_page_iconurl:  "https://releases.aspose.com/images/aspose/aspose_ocr-for-python.png"
 weight: 4
 
 ---
