@@ -1,0 +1,16 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-tasks",
+  "id" : "23-4",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-tasks-23.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "395 bytes",
+    "name" : "aspose-tasks-23.4.pom"
+  } ],
+  "releasehDate" : "2023-04-19T18:30:32+00:00",
+  "version" : "23.4",
+  "ReleaseNotes" : "https://docs.aspose.com/tasks/java/aspose-tasks-for-java-23-4-release-notes/"
+}
