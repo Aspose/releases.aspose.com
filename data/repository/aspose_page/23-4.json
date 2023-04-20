@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "23-4",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-page-23.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "14 MB",
+    "name" : "aspose-page-23.4.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-page-23.4.pom"
+  } ],
+  "releasehDate" : "2023-04-20T11:08:39+00:00",
+  "version" : "23.4",
+  "ReleaseNotes" : "https://docs.aspose.com/page/java/aspose-page-for-java-23-4-release-notes/"
+}
