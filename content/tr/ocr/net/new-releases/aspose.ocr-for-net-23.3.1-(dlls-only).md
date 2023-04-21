@@ -4,9 +4,9 @@ title: "İndirmeler --- yeni sürümler -posoz.Or-for-net-23.3.0- (sadece DLLS)"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-23.3.0-(dlls-only)/"
+folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-23.3.1-(dlls-only)/"
 folder_name: "Net 23.3.0 için aspose.ocr (yalnızca DLL'ler)"
-download_link: "/ocr/net/new-releases/aspose.ocr-for-net-23.3.0-(dlls-only)/a3001b1597298f34f449d19e46f09820-46-8667"
+download_link: "/ocr/net/new-releases/aspose.ocr-for-net-23.3.1-(dlls-only)/ac43035771830a8916cf5ae1757e078f-46-8667"
 download_text: "İndirmek"
 intro_text: "Yeni API"
 image_link: "/resources/img/zip-icon.png"
@@ -16,7 +16,7 @@ parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-0-release-notes/"
+release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-1-release-notes/"
 weight: 308
 
 ---
@@ -24,7 +24,7 @@ weight: 308
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Net 23.3.0 için aspose.ocr (yalnızca DLL'ler)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="İndirmek" link="/ocr/net/new-releases/aspose.ocr-for-net-23.3.0-(dlls-only)/a3001b1597298f34f449d19e46f09820-46-8667" >}}
+    {{< Releases/ReleasesSingleButtons text="İndirmek" link="/ocr/net/new-releases/aspose.ocr-for-net-23.3.1-(dlls-only)/ac43035771830a8916cf5ae1757e078f-46-8667" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/ocr" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
@@ -40,7 +40,7 @@ weight: 308
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-0-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-0-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-1-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Yeni API</div>

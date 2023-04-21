@@ -4,9 +4,9 @@ title: "Загрузки --- Новые релизы-ocpose.ocr-for-net-23.3.0- 
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-23.3.0-(msi)/"
+folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-23.3.1-(msi)/"
 folder_name: "Aspose.ocr для net 23.3.0 (MSI)"
-download_link: "/ocr/net/new-releases/aspose.ocr-for-net-23.3.0-(msi)/716f6191d63102012cf487e80f13a8eb-47-8666"
+download_link: "/ocr/net/new-releases/aspose.ocr-for-net-23.3.1-(msi)/173d21889ff01b3946c8df0720f86f23-47-8666"
 download_text: "Скачать"
 intro_text: "Новый API"
 image_link: "/resources/img/msi-icon.png"
@@ -16,7 +16,7 @@ parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-0-release-notes/"
+release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-1-release-notes/"
 weight: 307
 
 ---
@@ -24,7 +24,7 @@ weight: 307
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.ocr для net 23.3.0 (MSI)" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Скачать" link="/ocr/net/new-releases/aspose.ocr-for-net-23.3.0-(msi)/716f6191d63102012cf487e80f13a8eb-47-8666" >}}
+    {{< Releases/ReleasesSingleButtons text="Скачать" link="/ocr/net/new-releases/aspose.ocr-for-net-23.3.1-(msi)/173d21889ff01b3946c8df0720f86f23-47-8666" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/ocr" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
@@ -40,7 +40,7 @@ weight: 307
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-0-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-0-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-1-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Новый API</div>

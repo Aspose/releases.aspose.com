@@ -4,9 +4,9 @@ title: "Downloads --- Novos lançamentos-aspo"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-23.3.0-(dlls-only)/"
-folder_name: "Aspose.ocr for Net 23.3.0 (somente DLLs)"
-download_link: "/ocr/net/new-releases/aspose.ocr-for-net-23.3.0-(dlls-only)/a3001b1597298f34f449d19e46f09820-46-8667"
+folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-23.3.1-(dlls-only)/"
+folder_name: "Aspose.ocr for Net 23.3.1 (somente DLLs)"
+download_link: "/ocr/net/new-releases/aspose.ocr-for-net-23.3.1-(dlls-only)/ac43035771830a8916cf5ae1757e078f-46-8667"
 download_text: "Download"
 intro_text: "Nova API"
 image_link: "/resources/img/zip-icon.png"
@@ -16,15 +16,14 @@ parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-0-release-notes/"
+release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-1-release-notes/"
 weight: 308
-
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.ocr for Net 23.3.0 (somente DLLs)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.ocr for Net 23.3.1 (somente DLLs)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/ocr/net/new-releases/aspose.ocr-for-net-23.3.0-(dlls-only)/a3001b1597298f34f449d19e46f09820-46-8667" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/ocr/net/new-releases/aspose.ocr-for-net-23.3.1-(dlls-only)/ac43035771830a8916cf5ae1757e078f-46-8667" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/ocr" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
@@ -40,7 +39,7 @@ weight: 308
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-0-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-0-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-1-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-3-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Nova API</div>
