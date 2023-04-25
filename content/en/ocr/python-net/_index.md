@@ -14,11 +14,11 @@ weight: 4
 {{< Common/paragraph class="package-instructions">}}
 Add optical character recognition (OCR) capabilities to your data science, AI, and automation solutions written in Python 3.6 or later. Extract text from photos, scans, PDF documents and other graphical files without having to delve into complex mathematical operations, neural networks, and other technical details.{{< /Common/paragraph>}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose.OCR for Python via .NET can be installed from Python Package Index (PyPI) repository with the following command:
+Aspose.OCR for Python via .NET can be download here and installed from local file system with the following command:
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
-       {{< consolebox/textarea id="pip" >}} pip install aspose-ocr {{< /consolebox/textarea >}}
+       {{< consolebox/textarea id="pip" >}} pip install <downloaded-package-path> {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
 
