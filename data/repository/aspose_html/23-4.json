@@ -11,10 +11,14 @@
     "name" : "aspose-html-23.4-jdk1.8.jar",
     "classifier" : "jdk1.8"
   }, {
+    "size" : "28 MB",
+    "name" : "aspose-html-23.4-jdk11.jar",
+    "classifier" : "jdk11"
+  }, {
     "size" : "394 bytes",
     "name" : "aspose-html-23.4.pom"
   } ],
-  "releasehDate" : "2023-04-26T06:35:11+00:00",
+  "releasehDate" : "2023-04-26T06:38:13+00:00",
   "version" : "23.4",
   "ReleaseNotes" : "https://docs.aspose.com/html/java/aspose-html-for-java-23-4-release-notes/"
 }
