@@ -16,22 +16,19 @@ Add optical character recognition (OCR) capabilities to your data science, AI, a
 {{< Common/paragraph class="package-instructions">}}
 Aspose.OCR for Python via .NET can be download here and installed from local file system with the following command:
 {{< /Common/paragraph>}}
+
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install <downloaded-package-path> {{< /consolebox/textarea >}}
        
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
 
-{{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install https://releases-qa.aspose.com/java/repo/com/aspose/aspose-ocr/23.4.0/aspose-ocr-23.4.0-py3-none-win_amd64.whl {{< /consolebox/textarea >}}
        
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
 
-{{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install https://releases-qa.aspose.com/java/repo/com/aspose/aspose-ocr/23.4.0/aspose-ocr-23.4.0-manylinux1_x86_64.whl {{< /consolebox/textarea >}}
