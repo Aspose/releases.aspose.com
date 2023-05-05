@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "121"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-slides"
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-slides/"
 weight:  4
 ---
 
@@ -43,7 +43,7 @@ weight:  4
 {{< Common/h4 text="Maven から Aspose.Slides をダウンロード"  >}}
 {{< Common/paragraph class="package-instructions">}}
 から直接 Aspose.Slides for Java を簡単に使用できます。
-{{< Common/link href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-slides" text="メイヴン"  >}}build.gradle に次の構成を追加することにより、ベースのプロジェクト。
+{{< Common/link href="https://releases.aspose.com/java/repo/com/aspose/aspose-slides/" text="メイヴン"  >}}build.gradle に次の構成を追加することにより、ベースのプロジェクト。
  {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}

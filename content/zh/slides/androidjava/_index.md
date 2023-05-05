@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "121"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-slides"
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-slides/"
 weight:  4
 ---
 
@@ -43,7 +43,7 @@ weight:  4
 {{< Common/h4 text="从 Maven 下载 Aspose.Slides"  >}}
 {{< Common/paragraph class="package-instructions">}}
 您可以直接从
-{{< Common/link href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-slides" text="马文"  >}}通过将以下配置添加到 build.gradle 基于项目。
+{{< Common/link href="https://releases.aspose.com/java/repo/com/aspose/aspose-slides/" text="马文"  >}}通过将以下配置添加到 build.gradle 基于项目。
  {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}

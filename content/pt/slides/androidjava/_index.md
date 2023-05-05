@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "121"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-slides"
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-slides/"
 weight:  4
 ---
 
@@ -43,7 +43,7 @@ Uma API de manipulação de arquivos do PowerPoint para programadores de aplicat
 {{< Common/h4 text="Baixe o Aspose.Slides do Maven"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Você pode facilmente usar o Aspose.Slides for Java diretamente de um
-{{< Common/link href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-slides" text="Especialista"  >}}projeto baseado adicionando as seguintes configurações ao arquivo build.gradle.
+{{< Common/link href="https://releases.aspose.com/java/repo/com/aspose/aspose-slides/" text="Especialista"  >}}projeto baseado adicionando as seguintes configurações ao arquivo build.gradle.
  {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}

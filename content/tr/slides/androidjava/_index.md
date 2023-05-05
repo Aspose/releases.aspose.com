@@ -10,7 +10,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "121"
 homepage_package_type: "Maven"
-homepage_package_link: "https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-slides"
+homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-slides/"
 weight:  4
 ---
 
@@ -43,7 +43,7 @@ Mobil uygulama programcıları için bir PowerPoint Dosya Manipülasyon API'sı.
 {{< Common/h4 text="Aspose.Slides'i Maven'den indirin"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Slides for Java'yı doğrudan bir
-{{< Common/link href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-slides" text="Uzman"  >}}build.gradle'a aşağıdaki konfigürasyonları ekleyerek proje tabanlı.
+{{< Common/link href="https://releases.aspose.com/java/repo/com/aspose/aspose-slides/" text="Uzman"  >}}build.gradle'a aşağıdaki konfigürasyonları ekleyerek proje tabanlı.
  {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}
