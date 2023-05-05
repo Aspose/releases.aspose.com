@@ -270,7 +270,7 @@
 
                                                <tr class="bg-info">
                                                   <td>
-                                                     <a href="https://releases.aspose.com/java/repo/com/aspose/aspose-{{ replace (replace  $p.Parent.Page.RelPermalink "java" "") "/" "" }}/{{ $pp.version }}/{{.name}}" title="{{.name}}">
+                                                     <a href="https://releases.aspose.com/java/repo/com/aspose/{{$pp.artifactId }}/{{ $pp.version }}/{{.name}}" title="{{.name}}">
                                                      {{.name}}
                                                      </a>
                                                   </td>
