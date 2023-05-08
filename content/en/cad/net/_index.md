@@ -44,14 +44,13 @@ It enables your C#, VB.NET, ASP.NET applications to work with plain plots, 3D so
 
 ## CAD File Processing Features
 
-- Convert CAD to PDF.
-- Convert CAD to images.
-- Track file processing progress.
-- Manipulate drawing entities and blocks.
-- Select and convert specific layouts of CAD drawings.
-- Select and convert specific layers of CAD drawings.
-- Adjust CAD drawing size before rendering.
-- Support for BigFont.
+Convert CAD to fixed layout like PDF.
+Convert CAD to bitmap and vector images.
+Track files processing progress.
+Manipulate drawing entities and blocks.
+Select and convert specific layouts of CAD drawings.
+Select and convert specific layers of CAD drawings.
+Adjust CAD drawing size before rendering.
 - Automatically detect optimal zoom for the CAD drawings.
 
 ### Supported Read CAD Formats
@@ -59,20 +58,25 @@ It enables your C#, VB.NET, ASP.NET applications to work with plain plots, 3D so
 **AutoCAD®:** DWG, DGN, DWT, DWF, DWFx\
 **Plotter Configuration:** PC3\
 **Data Model:** IFC\
-**CAD Data Exchange:** IGES\
+**CAD Data Exchange:** IGS(IGES)\
 **3D Printing:** STL\
 **Vector Based Plotter:** PLT\
-**3D Package Design** CFF2\
-**3D Geometry:** OBJ
+**3D Package Design:** CF2\
+**Others:** Collada(DAE), DXB, 3DS, U3D
 
 ### Supported Read & Write CAD Formats
 
 **AutoCAD®:** DXF (Write feature is partially supported)
+**3D Geometry:** OBJ\
+**GL Binary:** GLTF/GLB\
+**Scalable Vector Graphics:** SVG
+**Others:** FBX, STEP(STP)
 
-### Save CAD As
+### Save CAD files As
 
 **Fixed Layout:** PDF\
-**Raster Image:** TIFF, JPEG, PNG, GIF, BMP
+**Vector Image:** WMF, EMF\
+**Raster Image:** TIFF, JPEG, PNG, GIF, BMP, PSD, JP2, WEBP, DICOM
 
 {{< Common/hr >}}
 

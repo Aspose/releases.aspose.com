@@ -138,22 +138,30 @@ packages_refs:
 - Exporting CAD Layouts to PDF.
 - Set timeout on save to avoid spending lot of time or consuming a lot of memory.
 
-## Read CAD Formats
+### Supported Read CAD Formats
 
-**AutoCAD:** DWG, DWT, DWF, DWXF, IFC, PLT\
-**MicroStation:** DGN\
-**The Advanced Visualizer:** OBJ\
-**Other:** STL, IGES, CFF2
+**AutoCAD®:** DWG, DGN, DWT, DWF, DWFx\
+**Plotter Configuration:** PC3\
+**Data Model:** IFC\
+**CAD Data Exchange:** IGS(IGES)\
+**3D Printing:** STL\
+**Vector Based Plotter:** PLT\
+**3D Package Design:** CF2\
+**Others:** Collada(DAE), DXB, 3DS, U3D
 
-## Save CAD As
+### Supported Read & Write CAD Formats
+
+**AutoCAD®:** DXF (Write feature is partially supported)
+**3D Geometry:** OBJ\
+**GL Binary:** GLTF/GLB\
+**Scalable Vector Graphics:** SVG
+**Others:** FBX, STEP(STP)
+
+### Save CAD files As
 
 **Fixed Layout:** PDF\
-**Raster Images:** PNG, BMP, TIFF, JPEG, GIF
-
-## Read & Write
-
-**CAD:** DXF\
-(Write features is partially supported.)
+**Vector Image:** WMF, EMF\
+**Raster Image:** TIFF, JPEG, PNG, GIF, BMP, PSD, JP2, WEBP, DICOM
 
 ## Supported Environments
 
