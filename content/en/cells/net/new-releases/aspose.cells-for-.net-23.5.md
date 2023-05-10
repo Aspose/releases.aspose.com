@@ -10,7 +10,7 @@ download_link: "/cells/net/new-releases/aspose.cells-for-.net-23.5/b1608a6a134d1
 download_text: "Download"
 intro_text: "Aspose.Cells for .NET 23.5"
 image_link: "/resources/img/msi-icon.png"
-download_count: " 9/5/2023 Downloads: 3  Views: 1 "
+download_count: " 9/5/2023 Downloads: 4  Views: 1 "
 file_size: "File Size: 66.93MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
@@ -31,7 +31,7 @@ weight: 687
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-b1608a6a134d1cd5d978803778562b1b-14-8847" >}} 3 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-b1608a6a134d1cd5d978803778562b1b-14-8847" >}} 4 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
       {{< Common/li id="size-update-b1608a6a134d1cd5d978803778562b1b-14-8847" >}} 66.93MB {{< /Common/li >}}
 
