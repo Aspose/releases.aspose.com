@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.3d-for-.net-23.2"
-description: " "
+title: "Save glTF from ASCII to Binary via API for C#, ASP.NET Apps"
+description: "C# .NET API to import MDL-based material from Universal Scene Description, USD 3D file format. Save 3D scenes and models format (glTF) from ASCII to binary."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-23.2/"
@@ -14,11 +13,9 @@ download_count: " 15/2/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 11.99MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-23-2-release-notes/"
 weight: 327
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,25 @@ weight: 327
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 23.2 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+## Import MDL-based Material from `USD`
+
+Ability to import MDL-based material from Universal Scene Description, USD 3D file format.
+
+## Save `glTF` from `ASCII` to Binary
+
+Ability to save 3D scenes and models format (glTF) from ASCII to binary.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 23.2 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-23-2-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
