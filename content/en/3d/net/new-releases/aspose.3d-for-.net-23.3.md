@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.3d-for-.net-23.3"
-description: " "
+title: "Improved FBX & Maya® Support in 3D API for C#, ASP.NET Apps"
+description: "C# .NET API with improved support for the FBX (Filmbox) Autodesk gameware format and Maya®. Convert FBX to USD (Universal Scene Description) 3D file format."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-23.3/"
@@ -14,11 +13,9 @@ download_count: " 15/3/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 12MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-23-3-release-notes/"
 weight: 329
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -45,7 +42,25 @@ weight: 329
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 23.3 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+## Improved `FBX` and Maya&reg; Support
+
+Improved support for the FBX (Filmbox) Autodesk gameware format and Maya&reg;.
+
+## Improved `FBX` to `USD` Conversion
+
+Convert FBX to USD (Universal Scene Description) 3D file format.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 23.3 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-23-3-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
