@@ -1,11 +1,20 @@
 {
   "groupId" : "com.aspose",
+  "classifier" : "jdk18",
   "artifactId" : "aspose-tasks",
   "id" : "23-4",
   "packageFiles" : [ {
     "size" : "2 MB",
     "name" : "aspose-tasks-23.4-javadoc.jar",
     "classifier" : "javadoc"
+  }, {
+    "size" : "15 MB",
+    "name" : "aspose-tasks-23.4-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "15 MB",
+    "name" : "aspose-tasks-23.4-jdk18.jar",
+    "classifier" : "jdk18"
   }, {
     "size" : "395 bytes",
     "name" : "aspose-tasks-23.4.pom"
