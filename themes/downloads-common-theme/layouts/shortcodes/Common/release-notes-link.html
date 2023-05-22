@@ -1,8 +1,8 @@
 {{ $href := .Get "href" }}
 {{ $text := .Get "text" }}
-{{ $family := .Get "family" }} 
-{{ $product := .Get "product" }} 
-{{$parent_path := print $family "/" $product}} 
+{{ $family := .Get "family" }}
+{{ $product := .Get "product" }}
+{{$parent_path := print $family "/" $product}}
 {{- $.Scratch.Set "latest_release_notes_url" $href -}}
 {{- $.Scratch.Set "latest_release_download_link" "" -}}
 {{ range first 1 ( where (where (where $.Site.Pages.ByWeight.Reverse ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.section_parent_path" $parent_path ) }}
@@ -12,8 +12,12 @@
 {{ end }}
 {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  ($.Scratch.Get "latest_release_download_link"))  }}
 <div class="downloadandnotes">
+{{ if (not (eq ($.Scratch.Get "latest_release_notes_url") "")) }}
 <a class="release-notes-link-latest btn btn-primary dwnam3" href='{{ $.Scratch.Get "latest_release_notes_url" }}'>{{ i18n "Release_Notes" }}</a>
+{{ end }}
 <!--<a href='{{ $backendURL }}'  class="btn btn-primary dwnam3">
 <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i> Download</a>-->
+{{ if (not (eq ($.Scratch.Get "latest_release_download_link") "")) }}
 <a onclick="downloadrelease('{{ $.Scratch.Get "latest_release_download_link" }}')"  class="btn btn-primary dwnam3"><i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i> {{ i18n "Download" }} </a>
+{{ end }}
 </div>
