@@ -32,7 +32,7 @@
             {{ range  first 1 (sort $releases ".releasehDate" "desc") }}
             <div class="package-header">
                               <div class="package-title">
-
+                                <h1>
                                     <span class="pull-left">
                                     <!-- <img class="package-icon img-responsive" aria-hidden="true" alt=""
                                        src="/res_repo/img/groupdocs{{ lower (replace  (replace  $.context.RelPermalink "/" "_") "_java_" "-for-java") }}.png" />
@@ -44,17 +44,18 @@
                                     </span>
 
                                     <span class="title" tabindex="0">
-                                      <h2>
+
                                       <a href="{{ $.context.RelPermalink }}" title="{{ with $p.context.Data.Singular }}{{$p.Title | humanize }}: {{ end }}{{ $p.context.Title }}">
                                       {{ with $p.context.Data.Singular }}{{$p.LinkTitle | humanize }}: {{ end }}{{ $p.context.LinkTitle }} <span>for Java</span>
                                       </a>
-                                      </h2>
+
                                     </span>
                                     <span class="version-title" tabindex="0">
                                       <a href="{{ $p.Page.RelPermalink }}{{ .id }}/" title="latest">
                                       {{.version}}
                                       </a>
                                     </span>
+                                </h1>
 
                               </div>
 
