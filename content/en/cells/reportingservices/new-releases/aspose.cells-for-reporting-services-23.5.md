@@ -16,7 +16,7 @@ parent_path: "cells/reportingservices"
 section_parent_path: "cells/reportingservices"
 
 tags: "Excel PDF ODS Reporting Services"
-release_notes_url: "https://releases.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-23.5/"
+release_notes_url: "https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-23-5-release-notes/"
 weight: 247
 
 ---
@@ -40,7 +40,7 @@ weight: 247
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-23.5/'>https://releases.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-23.5/</a></div>
+      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-23-5-release-notes/'>https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Reporting Services 23.5</div>
