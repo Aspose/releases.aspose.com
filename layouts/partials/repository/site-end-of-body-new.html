@@ -112,6 +112,18 @@ $('.treeview-animated-items-header').click(function () {
       <script>
       $(document).ready((function(){
 
+        var loc = $(location).attr('hash')
+        if("#package-explorer" == loc){
+          var trigger=document.querySelector('.nav-tabs a[href="#packageexplorer-tab'+'"]');
+          if(trigger)trigger.click();
+        }
+
+        $('a:has(img[alt="banner"]').click(function(){
+            event.preventDefault();
+            var trigger=document.querySelector('.nav-tabs a[href="#packageexplorer-tab'+'"]');
+            if(trigger)trigger.click();
+        });
+
         $(window).scroll((function(){$(this).scrollTop()>150?$(".backtop").fadeIn():$(".backtop").fadeOut()})),$(".backtop").click((function(){return $("html, body").animate({scrollTop:0},600),!1}));
 
         $('.linkshow').on('click', function(){

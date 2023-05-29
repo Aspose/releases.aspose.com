@@ -1,0 +1,10 @@
+
+{{ $imgsrc := .Get "imgsrc" }}
+<p>
+  {{ range first 1 .Page.Params.packages_refs }}
+    <a href="{{.}}/#package-explorer" target="_blank">
+      <img src="{{$imgsrc}}" alt="main-banner">
+    </a>
+  {{ end }}
+
+</p>

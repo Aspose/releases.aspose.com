@@ -176,6 +176,15 @@
                  </a>
               </li>
 
+              {{ if .context.Params.releaseNotesLink }}
+              <li role="presentation">
+                 <a href="{{.context.Params.releaseNotesLink}}" id="releasenotes-body-tab" class="body-tab">
+                 <i class="fa-sticky-note fa" aria-hidden="true"></i>
+                 Release Notes
+                 </a>
+              </li>
+              {{ end }}
+
            </ul>
 
       </div> <!-- end of body-tabs" -->
