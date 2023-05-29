@@ -66,6 +66,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/cad/19
 productLink: https://products.aspose.com/cad/java/
+releaseNotesLink: https://docs.aspose.com/cad/java/release-notes/
 dataFolder: aspose_cad
 packages_refs:
 - "22-7"

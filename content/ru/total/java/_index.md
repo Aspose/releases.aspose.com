@@ -44,6 +44,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/total/7
 productLink: https://products.aspose.com/total/java/
+releaseNotesLink: https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/
 dataFolder: aspose_total
 packages_refs:
 - "22-10"

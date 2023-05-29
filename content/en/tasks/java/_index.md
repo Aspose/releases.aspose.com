@@ -50,6 +50,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/tasks/15
 productLink: https://products.aspose.com/tasks/java/
+releaseNotesLink: https://docs.aspose.com/tasks/java/release-notes/
 dataFolder: aspose_tasks
 packages_refs:
 - "23-5"

@@ -124,6 +124,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/pdf/10
 productLink: https://products.aspose.com/pdf/java/
+releaseNotesLink: https://docs.aspose.com/pdf/java/release-notes/
 dataFolder: aspose_pdf
 packages_refs:
 - "23-4"

@@ -64,6 +64,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/font/41
 productLink: https://products.aspose.com/font/java/
+releaseNotesLink: https://docs.aspose.com/font/java/release-notes/
 dataFolder: aspose_font
 packages_refs:
 - "23-4"

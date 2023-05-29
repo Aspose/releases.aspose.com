@@ -55,6 +55,7 @@ homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-ocr/"
 forumLink: https://forum.aspose.com/c/ocr/16
 productLink: https://products.aspose.com/ocr/java/
+releaseNotesLink: https://docs.aspose.com/ocr/java/release-notes/
 dataFolder: aspose_ocr
 packages_refs:
 - "23-5-0"

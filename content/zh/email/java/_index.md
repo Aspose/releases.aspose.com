@@ -71,6 +71,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/email/12
 productLink: https://products.aspose.com/email/java/
+releaseNotesLink: https://docs.aspose.com/email/java/release-notes/
 dataFolder: aspose_email
 packages_refs:
 - "22-11"

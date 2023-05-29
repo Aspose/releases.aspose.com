@@ -60,6 +60,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/diagram/17
 productLink: https://products.aspose.com/diagram/java/
+releaseNotesLink: https://docs.aspose.com/diagram/java/release-notes/
 dataFolder: aspose_diagram
 packages_refs:
 - "22-12"

@@ -93,6 +93,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/imaging/14
 productLink: https://products.aspose.com/imaging/java/
+releaseNotesLink: https://docs.aspose.com/imaging/java/release-notes/
 dataFolder: aspose_imaging
 packages_refs:
 - "23-5"
