@@ -79,7 +79,7 @@ packages_refs:
 ---
 
 # Βιβλιοθήκη Java για αρχεία Photoshop
-[![banner](./aspose_psd-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_psd-for-java-banner.png >}}
 
 [Σελίδα προϊόντος](https://products.aspose.com/psd/java) | [Έγγραφα](https://docs.aspose.com/psd/java/) | [Επίδειξη](https://products.aspose.app/psd/family) | [Αναφορά API](https://apireference.aspose.com/psd/java) | [Παραδείγματα](https://github.com/aspose-psd/Aspose.PSD-for-Java) | [Ιστολόγιο](https://blog.aspose.com/category/psd/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/psd) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)
 

@@ -71,7 +71,7 @@ packages_refs:
 ---
 
 # Kelas Java untuk manipulasi format dokumen
-[![banner](./aspose_total-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_total-for-java-banner.png >}}
 
 [Halaman produk](https://products.aspose.com/total/java/) | [Dokumen](https://docs.aspose.com/total/java/) ​​| [Referensi API](https://apireference.aspose.com/) | [Contoh](http://aspose.github.io) | [Blog](https://blog.aspose.com/category/total/) | [Mencari](https://search.aspose.com/) | [Dukungan gratis](https://forum.aspose.com/) | [Lisensi sementara](https://purchase.aspose.com/temporary-license) | [Kebijakan](https://purchase.aspose.com/policies)
 

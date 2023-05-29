@@ -114,7 +114,7 @@ packages_refs:
 ---
 
 # Microsoft项目文件操作API
-[![banner](./aspose_tasks-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_tasks-for-java-banner.png >}}
 
 [产品页面](https://products.aspose.com/tasks/java) | [文档](https://docs.aspose.com/tasks/java/) | [演示](https://products.aspose.app/tasks/family) | [API参考](https://apireference.aspose.com/tasks/java) | [例子](https://github.com/aspose-tasks/Aspose.Tasks-for-Java) | [博客](https://blog.aspose.com/category/tasks/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/tasks) | [临时许可](https://purchase.aspose.com/temporary-license)
 

@@ -168,7 +168,7 @@ packages_refs:
 ---
 
 # Java -API für die Bildverarbeitung
-[![banner](./aspose_imaging-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_imaging-for-java-banner.png >}}
 
 [Produktseite](https://products.aspose.com/imaging/java) | [Dokumente](https://docs.aspose.com/imaging/java/) | [Demos](https://products.aspose.app/imaging/family) | [API -Referenz](https://apireference.aspose.com/imaging/java) | [Beispiele](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [Blog](https://blog.aspose.com/category/imaging/) | [Suche](https://search.aspose.com/) | [Freie Unterstützung](https://forum.aspose.com/c/imaging) | [Vorübergehende Lizenz](https://purchase.aspose.com/temporary-license)
 

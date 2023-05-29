@@ -71,7 +71,7 @@ packages_refs:
 ---
 
 # Aulas de java para manipulação de formato de documentos
-[![banner](./aspose_total-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_total-for-java-banner.png >}}
 
 [Página do produto](https://products.aspose.com/total/java/) | [Documentos](https://docs.aspose.com/total/java/) ​​| [Referência da API](https://apireference.aspose.com/) | [Exemplos](http://aspose.github.io) | [Blog](https://blog.aspose.com/category/total/) | [Procurar](https://search.aspose.com/) | [Suporte gratuito](https://forum.aspose.com/) | [Licença temporária](https://purchase.aspose.com/temporary-license) | [Políticas](https://purchase.aspose.com/policies)
 

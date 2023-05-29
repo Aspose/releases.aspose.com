@@ -54,7 +54,7 @@ packages_refs:
 ---
 
 # API Java pour effectuer OMR
-[![banner](./aspose_omr-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_omr-for-java-banner.png >}}
 
 [Maison](https://www.aspose.com/) | [Page de produit](https://products.aspose.com/omr/java) | [Docs](https://docs.aspose.com/omr/java/) | [Démos](https://products.aspose.app/omr/family) | [Référence de l'API](https://apireference.aspose.com/omr/java) | [Exemples](https://github.com/aspose-omr/Aspose.OMR-for-Java) | [Blog](https://blog.aspose.com/category/omr/) | [Chercher](https://search.aspose.com/) | [Support gratuit](https://forum.aspose.com/c/omr) | [Licence temporaire](https://purchase.aspose.com/temporary-license)
 

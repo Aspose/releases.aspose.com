@@ -69,7 +69,7 @@ packages_refs:
 
 # Java API to TypeSet TeX Files
 
-[![banner](./aspose_tex-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_tex-for-java-banner.png >}}
 
 
 [Product Page](https://products.aspose.com/tex/java) | [Docs](https://downloads.aspose.com/tex/java) | [Demos](https://products.aspose.app/tex/family) | [API Reference](https://apireference.aspose.com/tex/java) | [Examples](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/Examples) | [Blog](https://blog.aspose.com/category/tex/) | [Free Support](https://forum.aspose.com/c/tex) |  [Temporary License](https://purchase.aspose.com/temporary-license)

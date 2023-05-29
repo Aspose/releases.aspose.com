@@ -71,7 +71,7 @@ packages_refs:
 ---
 
 # Μαθήματα Java για χειραγώγηση μορφής εγγράφων
-[![banner](./aspose_total-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_total-for-java-banner.png >}}
 
 [Σελίδα προϊόντος](https://products.aspose.com/total/java/) | [Έγγραφα](https://docs.aspose.com/total/java/) ​​| [Αναφορά API](https://apireference.aspose.com/) | [Παραδείγματα](http://aspose.github.io) | [Ιστολόγιο](https://blog.aspose.com/category/total/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license) | [Πολιτικές](https://purchase.aspose.com/policies)
 

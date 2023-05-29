@@ -80,7 +80,7 @@ packages_refs:
 
 # Photoshopファイル用のJavaライブラリ
 
-[![banner](./aspose_psd-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_psd-for-java-banner.png >}}
 
 [製品ページ](https://products.aspose.com/psd/java) | [ドキュメント](https://docs.aspose.com/psd/java/) | [デモ](https://products.aspose.app/psd/family) | [APIリファレンス](https://apireference.aspose.com/psd/java) | [例](https://github.com/aspose-psd/Aspose.PSD-for-Java) | [ブログ](https://blog.aspose.com/category/psd/) | [探す](https://search.aspose.com/) | [無料サポート](https://forum.aspose.com/c/psd) | [一時ライセンス](https://purchase.aspose.com/temporary-license)
 

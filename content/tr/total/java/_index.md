@@ -71,7 +71,7 @@ packages_refs:
 ---
 
 # Belge biçimi manipülasyonu için java sınıfları
-[![banner](./aspose_total-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_total-for-java-banner.png >}}
 
 [Ürün sayfası](https://products.aspose.com/total/java/) | [Belgeler](https://docs.aspose.com/total/java/) ​​| [API referansı](https://apireference.aspose.com/) | [Örnekler](http://aspose.github.io) | [Blog](https://blog.aspose.com/category/total/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/) | [Geçici lisans](https://purchase.aspose.com/temporary-license) | [Politikalar](https://purchase.aspose.com/policies)
 

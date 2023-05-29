@@ -123,7 +123,7 @@ packages_refs:
 ---
 
 # API Java για μορφές αρχείων PS, EPS & XPS
-[![banner](./aspose_page-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_page-for-java-banner.png >}}
 
 [Σελίδα προϊόντος](https://products.aspose.com/page/java) | [Έγγραφα](https://docs.aspose.com/page/java/) | [Επίδειξη](https://products.aspose.app/page/family) | [Αναφορά API](https://apireference.aspose.com/page/java) | [Παραδείγματα](https://github.com/aspose-page/Aspose.Page-for-Java) | [Ιστολόγιο](https://blog.aspose.com/category/page/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/page) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)
 

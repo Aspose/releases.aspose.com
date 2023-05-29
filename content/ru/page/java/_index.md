@@ -123,7 +123,7 @@ packages_refs:
 ---
 
 # Java API для форматов файлов PS, EPS & XPS
-[![banner](./aspose_page-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_page-for-java-banner.png >}}
 
 [Страница продукта](https://products.aspose.com/page/java) | [Док](https://docs.aspose.com/page/java/) | [Демо](https://products.aspose.app/page/family) | [Ссылка на API](https://apireference.aspose.com/page/java) | [Примеры](https://github.com/aspose-page/Aspose.Page-for-Java) | [Блог](https://blog.aspose.com/category/page/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/c/page) | [Временная лицензия](https://purchase.aspose.com/temporary-license)
 

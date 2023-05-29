@@ -79,7 +79,7 @@ packages_refs:
 ---
 
 # 用于Photoshop文件的Java库
-[![banner](./aspose_psd-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_psd-for-java-banner.png >}}
 
 [产品页面](https://products.aspose.com/psd/java) | [文档](https://docs.aspose.com/psd/java/) | [演示](https://products.aspose.app/psd/family) | [API参考](https://apireference.aspose.com/psd/java) | [例子](https://github.com/aspose-psd/Aspose.PSD-for-Java) | [博客](https://blog.aspose.com/category/psd/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/psd) | [临时许可](https://purchase.aspose.com/temporary-license)
 

@@ -71,7 +71,7 @@ packages_refs:
 ---
 
 # Классы Java для манипулирования форматом документов
-[![banner](./aspose_total-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_total-for-java-banner.png >}}
 
 [Страница продукта](https://products.aspose.com/total/java/) | [Док](https://docs.aspose.com/total/java/) ​​| [Ссылка на API](https://apireference.aspose.com/) | [Примеры](http://aspose.github.io) | [Блог](https://blog.aspose.com/category/total/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/) | [Временная лицензия](https://purchase.aspose.com/temporary-license) | [Политика](https://purchase.aspose.com/policies)
 

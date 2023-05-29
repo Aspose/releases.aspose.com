@@ -79,7 +79,7 @@ packages_refs:
 ---
 
 # Java Library для файлов Photoshop
-[![banner](./aspose_psd-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_psd-for-java-banner.png >}}
 
 [Страница продукта](https://products.aspose.com/psd/java) | [Док](https://docs.aspose.com/psd/java/) | [Демо](https://products.aspose.app/psd/family) | [Ссылка на API](https://apireference.aspose.com/psd/java) | [Примеры](https://github.com/aspose-psd/Aspose.PSD-for-Java) | [Блог](https://blog.aspose.com/category/psd/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/c/psd) | [Временная лицензия](https://purchase.aspose.com/temporary-license)
 

@@ -212,7 +212,7 @@ packages_refs:
 ---
 
 # API Java pour divers formats de documents
-[![Develop applications with the ability to create, process, render and convert Word documents to multiple formats in Java.](./aspose_words-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_words-for-java-banner.png >}}
 
 [Page de produit](https://products.aspose.com/words/java) | [Docs](https://docs.aspose.com/words/java/) | [Démos](https://products.aspose.app/words/family) | [Référence de l'API](https://apireference.aspose.com/words/java) | [Exemples](https://github.com/aspose-words/Aspose.Words-for-Java/tree/master/Exemples) | [Blog](https://blog.aspose.com/category/words/) | [Chercher](https://search.aspose.com/) | [Support gratuit](https://forum.aspose.com/c/words) | [Licence temporaire](https://purchase.aspose.com/temporary-license)
 

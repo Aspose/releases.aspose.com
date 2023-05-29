@@ -229,7 +229,7 @@ packages_refs:
 ---
 
 # Biblioteca de código de barras para aplicaciones Java
-[![banner](./aspose_barcode-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_barcode-for-java-banner.png >}}
 
 [Página del producto](https://products.aspose.com/barcode/java) | [Documentos](https://docs.aspose.com/barcode/java/) | [Población](https://products.aspose.app/barcode/family) | [Referencia de API](https://apireference.aspose.com/barcode/java) | [Ejemplos](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [Blog](https://blog.aspose.com/category/barcode/) | [Búsqueda](https://search.aspose.com/) | [Soporte gratuito](https://forum.aspose.com/c/barcode) | [Licencia temporal](https://purchase.aspose.com/temporary-license)
 

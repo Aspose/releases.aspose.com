@@ -222,7 +222,7 @@ packages_refs:
 
 # PDFファイルを処理および操作するJava API
 
-[![banner](./aspose_pdf-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_pdf-for-java-banner.png >}}
 
 [製品ページ](https://products.aspose.com/pdf/java) | [ドキュメント](https://docs.aspose.com/pdf/java/) | [デモ](https://products.aspose.app/pdf/family) | [APIリファレンス](https://apireference.aspose.com/pdf/java) | [例](https://github.com/aspose-pdf/Aspose.PDF-for-Java/tree/master/例) | [ブログ](https://blog.aspose.com/category/pdf/) | [探す](https://search.aspose.com/) | [無料サポート](https://forum.aspose.com/c/pdf) | [一時ライセンス](https://purchase.aspose.com/temporary-license)
 

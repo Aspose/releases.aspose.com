@@ -64,7 +64,7 @@ packages_refs:
 ---
 
 # Java API σε αρχεία TETET TETET TEX
-[![banner](./aspose_tex-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_tex-for-java-banner.png >}}
 
 [Σελίδα προϊόντος](https://products.aspose.com/tex/java) | [Έγγραφα](https://downloads.aspose.com/tex/java) | [Επίδειξη](https://products.aspose.app/tex/family) | [Αναφορά API](https://apireference.aspose.com/tex/java) | [Παραδείγματα](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/Παραδείγματα) | [Ιστολόγιο](https://blog.aspose.com/category/tex/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/tex) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)
 

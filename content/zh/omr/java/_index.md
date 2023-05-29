@@ -54,7 +54,7 @@ packages_refs:
 ---
 
 # 执行OMR的Java API
-[![banner](./aspose_omr-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_omr-for-java-banner.png >}}
 
 [家](https://www.aspose.com/) | [产品页面](https://products.aspose.com/omr/java) | [文档](https://docs.aspose.com/omr/java/) | [演示](https://products.aspose.app/omr/family) | [API参考](https://apireference.aspose.com/omr/java) | [例子](https://github.com/aspose-omr/Aspose.OMR-for-Java) | [博客](https://blog.aspose.com/category/omr/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/omr) | [临时许可](https://purchase.aspose.com/temporary-license)
 

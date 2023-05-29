@@ -162,7 +162,7 @@ packages_refs:
 
 # JavaメールAPI
 
-[![banner](./aspose_email-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_email-for-java-banner.png >}}
 
 [製品ページ](https://products.aspose.com/email/java) | [ドキュメント](https://docs.aspose.com/email/java/) | [デモ](https://products.aspose.app/email/family) | [APIリファレンス](https://apireference.aspose.com/email/java) | [例](https://github.com/aspose-email/Aspose.Email-for-Java) | [ブログ](https://blog.aspose.com/category/email/) | [探す](https://search.aspose.com/) | [無料サポート](https://forum.aspose.com/c/email) | [一時ライセンス](https://purchase.aspose.com/temporary-license)
 

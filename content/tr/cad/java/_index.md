@@ -116,7 +116,7 @@ packages_refs:
 ---
 
 # Java için CAD Dosya Dönüştürme API
-[![banner](./aspose_cad-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_cad-for-java-banner.png >}}
 
 [Ürün sayfası](https://products.aspose.com/cad/java) | [Belgeler](https://docs.aspose.com/cad/java/) | [Demolar](https://products.aspose.app/cad/family) | [API referansı](https://apireference.aspose.com/cad/java) | [Örnekler](https://github.com/aspose-cad/Aspose.CAD-for-Java) | [Blog](https://blog.aspose.com/category/cad/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/cad) | [Geçici lisans](https://purchase.aspose.com/temporary-license)
 

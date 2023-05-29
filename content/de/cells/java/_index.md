@@ -172,7 +172,7 @@ packages_refs:
 ---
 
 # Java -API für Excel -Dateiformate
-[![banner](./aspose_cells-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_cells-for-java-banner.png >}}
 
 [Produktseite](https://products.aspose.com/cells/java) | [Dokumente](https://docs.aspose.com/cells/java/) | [Demos](https://products.aspose.app/cells/family) | [API -Referenz](https://apireference.aspose.com/cells/java) | [Beispiele](https://github.com/aspose-cells/Aspose.Cells-for-Java) | [Blog](https://blog.aspose.com/category/cells/) | [Suche](https://search.aspose.com/) | [Freie Unterstützung](https://forum.aspose.com/c/cells) | [Vorübergehende Lizenz](https://purchase.aspose.com/temporary-license)
 

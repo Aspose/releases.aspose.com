@@ -90,7 +90,7 @@ packages_refs:
 ---
 
 # HTML文件操纵Java API
-[![banner](./aspose_html-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_html-for-java-banner.png >}}
 
 [产品页面](https://products.aspose.com/html/java) | [文档](https://docs.aspose.com/html/java/) | [演示](https://products.aspose.app/html/family) | [API参考](https://apireference.aspose.com/html/java) | [例子](https://github.com/aspose-html/Aspose.Html-for-Java) | [博客](https://blog.aspose.com/category/html/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/html) | [临时许可](https://purchase.aspose.com/temporary-license)
 

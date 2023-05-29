@@ -64,7 +64,7 @@ packages_refs:
 ---
 
 # API Java para os arquivos Typeet tex
-[![banner](./aspose_tex-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_tex-for-java-banner.png >}}
 
 [Página do produto](https://products.aspose.com/tex/java) | [Documentos](https://downloads.aspose.com/tex/java) | [Demos](https://products.aspose.app/tex/family) | [Referência da API](https://apireference.aspose.com/tex/java) | [Exemplos](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/Exemplos) | [Blog](https://blog.aspose.com/category/tex/) | [Suporte gratuito](https://forum.aspose.com/c/tex) | [Licença temporária](https://purchase.aspose.com/temporary-license)
 

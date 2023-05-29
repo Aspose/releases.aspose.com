@@ -229,7 +229,7 @@ packages_refs:
 ---
 
 # Βιβλιοθήκη γραμμωτού κώδικα για εφαρμογές Java
-[![banner](./aspose_barcode-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_barcode-for-java-banner.png >}}
 
 [Σελίδα προϊόντος](https://products.aspose.com/barcode/java) | [Έγγραφα](https://docs.aspose.com/barcode/java/) | [Επίδειξη](https://products.aspose.app/barcode/family) | [Αναφορά API](https://apireference.aspose.com/barcode/java) | [Παραδείγματα](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [Ιστολόγιο](https://blog.aspose.com/category/barcode/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/barcode) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)
 

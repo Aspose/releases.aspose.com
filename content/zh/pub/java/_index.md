@@ -45,7 +45,7 @@ packages_refs:
 ---
 
 # 通过Java API处理酒吧文件
-[![banner](./aspose_pub-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_pub-for-java-banner.png >}}
 
 [产品页面](https://products.aspose.com/pub/java) | [文档](https://docs.aspose.com/pub/java/) | [API参考](https://apireference.aspose.com/pub/java) | [例子](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/例子) | [博客](https://blog.aspose.com/category/pub/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/pub) | [临时许可](https://purchase.aspose.com/temporary-license)
 

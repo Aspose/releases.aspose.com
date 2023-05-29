@@ -90,7 +90,7 @@ packages_refs:
 ---
 
 # HTML Arquivo Manipulação Java API
-[![banner](./aspose_html-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_html-for-java-banner.png >}}
 
 [Página do produto](https://products.aspose.com/html/java) | [Documentos](https://docs.aspose.com/html/java/) | [Demos](https://products.aspose.app/html/family) | [Referência da API](https://apireference.aspose.com/html/java) | [Exemplos](https://github.com/aspose-html/Aspose.Html-for-Java) | [Blog](https://blog.aspose.com/category/html/) | [Procurar](https://search.aspose.com/) | [Suporte gratuito](https://forum.aspose.com/c/html) | [Licença temporária](https://purchase.aspose.com/temporary-license)
 

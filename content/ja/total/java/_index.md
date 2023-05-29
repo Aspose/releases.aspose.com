@@ -72,7 +72,7 @@ packages_refs:
 
 # ドキュメント形式の操作のためのJavaクラス
 
-[![banner](./aspose_total-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_total-for-java-banner.png >}}
 
 [製品ページ](https://products.aspose.com/total/java/) | [ドキュメント](https://docs.aspose.com/total/java/)​​ | [APIリファレンス](https://apireference.aspose.com/) | [例](http://aspose.github.io) | [ブログ](https://blog.aspose.com/category/total/) | [探す](https://search.aspose.com/) | [無料サポート](https://forum.aspose.com/) | [一時ライセンス](https://purchase.aspose.com/temporary-license) | [ポリシー](https://purchase.aspose.com/policies)
 

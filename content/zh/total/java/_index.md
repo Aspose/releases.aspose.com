@@ -71,7 +71,7 @@ packages_refs:
 ---
 
 # 文档格式操纵的Java课程
-[![banner](./aspose_total-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_total-for-java-banner.png >}}
 
 [产品页面](https://products.aspose.com/total/java/) | [文档](https://docs.aspose.com/total/java/)​​ | [API参考](https://apireference.aspose.com/) | [例子](http://aspose.github.io) | [博客](https://blog.aspose.com/category/total/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/) | [临时许可](https://purchase.aspose.com/temporary-license) | [政策](https://purchase.aspose.com/policies)
 

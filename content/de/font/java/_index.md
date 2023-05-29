@@ -79,7 +79,7 @@ packages_refs:
 ---
 
 # Java -API für verschiedene Schriftformate
-[![banner](./aspose_font-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_font-for-java-banner.png >}}
 
 [Produktseite](https://products.aspose.com/font/java) | [Dokumente](https://docs.aspose.com/font/java/) | [API -Referenz](https://apireference.aspose.com/font/java) | [Beispiele](https://github.com/aspose-font/Aspose.Font-for-Java) | [Blog](https://blog.aspose.com/category/font/) | [Suche](https://search.aspose.com/) | [Freie Unterstützung](https://forum.aspose.com/c/font) | [Vorübergehende Lizenz](https://purchase.aspose.com/temporary-license)
 

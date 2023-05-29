@@ -114,7 +114,7 @@ packages_refs:
 ---
 
 # Microsoft Project Arquivo API de manipulação
-[![banner](./aspose_tasks-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_tasks-for-java-banner.png >}}
 
 [Página do produto](https://products.aspose.com/tasks/java) | [Documentos](https://docs.aspose.com/tasks/java/) | [Demos](https://products.aspose.app/tasks/family) | [Referência da API](https://apireference.aspose.com/tasks/java) | [Exemplos](https://github.com/aspose-tasks/Aspose.Tasks-for-Java) | [Blog](https://blog.aspose.com/category/tasks/) | [Procurar](https://search.aspose.com/) | [Suporte gratuito](https://forum.aspose.com/c/tasks) | [Licença temporária](https://purchase.aspose.com/temporary-license)
 

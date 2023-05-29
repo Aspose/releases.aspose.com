@@ -161,7 +161,7 @@ packages_refs:
 ---
 
 # Java Email API
-[![banner](./aspose_email-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_email-for-java-banner.png >}}
 
 [Страница продукта](https://products.aspose.com/email/java) | [Док](https://docs.aspose.com/email/java/) | [Демо](https://products.aspose.app/email/family) | [Ссылка на API](https://apireference.aspose.com/email/java) | [Примеры](https://github.com/aspose-email/Aspose.Email-for-Java) | [Блог](https://blog.aspose.com/category/email/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/c/email) | [Временная лицензия](https://purchase.aspose.com/temporary-license)
 

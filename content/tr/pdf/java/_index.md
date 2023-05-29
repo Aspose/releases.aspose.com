@@ -221,7 +221,7 @@ packages_refs:
 ---
 
 # Java API PDF dosyalarını işlemek ve manipüle etmek için
-[![banner](./aspose_pdf-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_pdf-for-java-banner.png >}}
 
 [Ürün sayfası](https://products.aspose.com/pdf/java) | [Belgeler](https://docs.aspose.com/pdf/java/) | [Demolar](https://products.aspose.app/pdf/family) | [API referansı](https://apireference.aspose.com/pdf/java) | [Örnekler](https://github.com/aspose-pdf/Aspose.PDF-for-Java/tree/master/Örnekler) | [Blog](https://blog.aspose.com/category/pdf/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/pdf) | [Geçici lisans](https://purchase.aspose.com/temporary-license)
 

@@ -133,7 +133,7 @@ packages_refs:
 ---
 
 # 用于3D图像处理的Java API
-[![banner](./aspose_3d-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_3d-for-java-banner.png >}}
 
 [产品页面](https://products.aspose.com/3d/java) | [文档](https://docs.aspose.com/3d/java/) | [演示](https://products.aspose.app/3d/family) | [API参考](https://apireference.aspose.com/3d/java) | [例子](https://github.com/aspose-3d/Aspose.3D-for-Java) | [博客](https://blog.aspose.com/category/3d/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/3d) | [临时许可](https://purchase.aspose.com/temporary-license)
 

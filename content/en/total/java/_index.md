@@ -77,7 +77,7 @@ packages_refs:
 
 # Java Classes for Document Format Manipulation
 
-[![banner](./aspose_total-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_total-for-java-banner.png >}}
 
 [Product Page](https://products.aspose.com/total/java/) | [Docs](https://docs.aspose.com/total/java/) | [API Reference](https://apireference.aspose.com/) | [Examples](http://aspose.github.io) | [Blog](https://blog.aspose.com/category/total/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/) | [Temporary License](https://purchase.aspose.com/temporary-license) | [Policies](https://purchase.aspose.com/policies)
 

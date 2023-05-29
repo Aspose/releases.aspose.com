@@ -123,7 +123,7 @@ packages_refs:
 
 # CAD File Conversion API for Java
 
-[![banner](./aspose_cad-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_cad-for-java-banner.png >}}
 
 
 [Product Page](https://products.aspose.com/cad/java) | [Docs](https://docs.aspose.com/cad/java/) | [Demos](https://products.aspose.app/cad/family) | [API Reference](https://apireference.aspose.com/cad/java) | [Examples](https://github.com/aspose-cad/Aspose.CAD-for-Java) | [Blog](https://blog.aspose.com/category/cad/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cad) | [Temporary License](https://purchase.aspose.com/temporary-license)

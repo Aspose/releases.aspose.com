@@ -64,7 +64,7 @@ packages_refs:
 ---
 
 # java api到排版TEX文件
-[![banner](./aspose_tex-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_tex-for-java-banner.png >}}
 
 [产品页面](https://products.aspose.com/tex/java) | [文档](https://downloads.aspose.com/tex/java) | [演示](https://products.aspose.app/tex/family) | [API参考](https://apireference.aspose.com/tex/java) | [例子](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/例子) | [博客](https://blog.aspose.com/category/tex/) | [免费支持](https://forum.aspose.com/c/tex) | [临时许可](https://purchase.aspose.com/temporary-license)
 

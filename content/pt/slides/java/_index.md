@@ -179,7 +179,7 @@ packages_refs:
 ---
 
 # Java PowerPoint API
-[![banner](./aspose_slides-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_slides-for-java-banner.png >}}
 
 [Página do produto](https://products.aspose.com/slides/java) | [Documentos](https://docs.aspose.com/slides/java/) | [Demos](https://products.aspose.app/slides/family) | [Referência da API](https://apireference.aspose.com/slides/java) | [Exemplos](https://github.com/aspose-slides/Aspose.Slides-for-Java) | [Blog](https://blog.aspose.com/category/slides/) | [Procurar](https://search.aspose.com/) | [Suporte gratuito](https://forum.aspose.com/c/slides) | [Licença temporária](https://purchase.aspose.com/temporary-license)
 

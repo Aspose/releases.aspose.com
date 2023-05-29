@@ -95,7 +95,7 @@ packages_refs:
 ---
 
 # API Java para el procesamiento de documentos de OneNote
-[![banner](./aspose_note-for-java-banner.png)](./)
+{{< repository/extract-package-explore-link imgsrc=./aspose_note-for-java-banner.png >}}
 
 [Página del producto](https://products.aspose.com/note/java) | [Documentos](https://docs.aspose.com/note/java/) | [Población](https://products.aspose.app/note/family) | [Referencia de API](https://apireference.aspose.com/note/java) | [Ejemplos](https://github.com/aspose-note/Aspose.Note-for-Java) | [Blog](https://blog.aspose.com/category/note/) | [Búsqueda](https://search.aspose.com/) | [Soporte gratuito](https://forum.aspose.com/c/note) | [Licencia temporal](https://purchase.aspose.com/temporary-license)
 
