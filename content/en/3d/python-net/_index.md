@@ -14,7 +14,7 @@ weight: 3
 {{< Common/h2 text="Download Aspose.3D Python Library for Gameware and CAD"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Please use the following {{< Common/link href="https://pypi.org/project/aspose-3d/" text="pip"  >}} command:
-{{< Common/release-notes-link family="3D" product="python-net" href="https://docs.aspose.com/3d/python-net/release-notes/" text="https://docs.aspose.com/3d/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="3d" product="python-net" href="https://docs.aspose.com/3d/python-net/release-notes/" text="https://docs.aspose.com/3d/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
