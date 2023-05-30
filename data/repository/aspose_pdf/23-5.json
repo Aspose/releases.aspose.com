@@ -1,11 +1,14 @@
 {
   "groupId" : "com.aspose",
-  "classifier" : "jdk17",
   "artifactId" : "aspose-pdf",
   "id" : "23-5",
   "packageFiles" : [ {
     "size" : "70 MB",
     "name" : "aspose-pdf-23.5-java.zip"
+  }, {
+    "size" : "5 MB",
+    "name" : "aspose-pdf-23.5-javadoc.jar",
+    "classifier" : "javadoc"
   }, {
     "size" : "72 MB",
     "name" : "aspose-pdf-23.5-jdk16.jar",
@@ -14,6 +17,9 @@
     "size" : "72 MB",
     "name" : "aspose-pdf-23.5-jdk17.jar",
     "classifier" : "jdk17"
+  }, {
+    "size" : "72 MB",
+    "name" : "aspose-pdf-23.5.jar"
   }, {
     "size" : "452 bytes",
     "name" : "aspose-pdf-23.5.pom"
