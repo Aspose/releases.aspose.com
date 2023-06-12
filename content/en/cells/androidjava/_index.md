@@ -31,7 +31,7 @@ maven {url "https://releases.aspose.com/java/repo/" }
 compile (
 group: 'com.aspose',
 name: 'aspose-cells',
-version: '23.3',
+version: '23.6',
 classifier: 'android.via.java')
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
