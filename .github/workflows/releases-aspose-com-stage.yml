@@ -8,8 +8,20 @@ on:
   push:
     branches: [ stage ]
     paths:
-      - 'content/**'
-      - 'static/**'
+      - 'themes/downloads-common-theme/**'
+      - 'layouts/**'
+      - 'content/de/_index.md'
+      - 'content/el/_index.md'
+      - 'content/en/_index.md'
+      - 'content/es/_index.md'
+      - 'content/fr/_index.md'
+      - 'content/id/_index.md'
+      - 'content/ja/_index.md'
+      - 'content/pt/_index.md'
+      - 'content/ru/_index.md'
+      - 'content/tr/_index.md'
+      - 'content/zh/_index.md'
+
   pull_request:
     branches: [ main1 ]
 
@@ -42,8 +54,23 @@ jobs:
       - name: Build
         run: hugo --config "./config/config-stage-releases-aspose-com.toml" -b "https://releases-qa.aspose.com/" --cleanDestinationDir --minify
 
+      - name: Prepare public folder
+        run: |
+          rm public/de/sitemap.xml;
+          rm public/el/sitemap.xml;
+          rm public/en/sitemap.xml;
+          rm public/es/sitemap.xml;
+          rm public/fr/sitemap.xml;
+          rm public/id/sitemap.xml;
+          rm public/ja/sitemap.xml;
+          rm public/pt/sitemap.xml;
+          rm public/ru/sitemap.xml;
+          rm public/tr/sitemap.xml;
+          rm public/zh/sitemap.xml;
+          ls public -all;
+
       - name: Deploy releases-qa.aspose.com (Stage) to S3
-        run: hugo --config "./config/config-stage-releases-aspose-com.toml" deploy --target "Stage" --maxDeletes -1
+        run: hugo --config "./config/config-stage-releases-aspose-com.toml" deploy --target "Stage" --maxDeletes 0 --verbose
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}

@@ -1,5 +1,5 @@
 # This is a main workflow which will run if there is a change in the theme
-name: StagingComplete
+name: ProdComplete
 
 on:
   # Allows you to run this workflow manually from the Actions tab
@@ -15,4 +15,4 @@ jobs:
       with:
           token:  ${{ secrets.ASPOSE_REPO_CI }}
           repository: Aspose/releases.aspose.com
-          event-type: staging-complete
+          event-type: prod-complete

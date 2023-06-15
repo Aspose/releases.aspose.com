@@ -1,0 +1,44 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\" ?>" | safeHTML }}
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+
+
+	    {{ range . }}
+
+			{{ $p := . }}
+
+				{{ if eq $p.LanguageCode "en" }}
+				<sitemap>
+				<loc>{{ $p.BaseURL }}{{ $p.LanguageCode }}/sitemap-corporate.xml</loc>
+				{{ if not $p.LastChange.IsZero }}
+					<lastmod>{{ $p.LastChange.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
+				{{ end }}
+
+			</sitemap>
+
+
+			{{ end }}
+
+
+							{{ $products := slice "3d" "barcode" "cad" "cells" "diagram" "drawing" "email" "finance" "font" "gis" "html" "imaging" "note" "ocr" "omr" "page" "pdf" "psd" "pub" "slides" "svg" "tasks" "tex" "total" "words" "zip"  }}
+							{{ range $products }}
+
+							<sitemap>
+								<loc>{{ $p.BaseURL }}{{ $p.LanguageCode }}/sitemap-{{ . }}.xml</loc>
+
+								{{ if not $p.LastChange.IsZero }}
+									<lastmod>{{ $p.LastChange.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
+								{{ end }}
+
+							</sitemap>
+
+							{{ end }}
+
+
+	    {{ end }}
+
+
+
+
+</sitemapindex>

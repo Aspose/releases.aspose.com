@@ -1,12 +1,12 @@
 # This is a basic workflow to help you get started with Actions
 
 name: staging-imaging
-    
-# Controls when the action will run. 
+
+# Controls when the action will run.
 on:
   # Triggers the workflow on push or pull request events but only for the mentioned branches
   push:
-    branches: [ stage-001 ]
+    branches: [ stage ]
     paths:
       - 'content/de/imaging/**'
       - 'content/el/imaging/**'
@@ -19,12 +19,7 @@ on:
       - 'content/ru/imaging/**'
       - 'content/tr/imaging/**'
       - 'content/zh/imaging/**'
-  pull_request:
-    branches: [ stage2 ]
 
-  repository_dispatch:
-    types: [staging-complete]
-    
   # Allows the workflow run manually from the Actions tab
   workflow_dispatch:
 
@@ -45,74 +40,82 @@ jobs:
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-          hugo-version: 'latest'
-          extended: true
+          hugo-version: '0.101.0'
 
     - name: Remove unwanted folders
       run: |
-        
-        if [ -d "./content/de" ]; then 
+
+        if [ -d "./content/de" ]; then
         find ./content/de -mindepth 1 ! -regex '^./content/de/imaging\(/.*\)?' -delete
         fi
-        if [ -d "./content/el" ]; then 
+        if [ -d "./content/el" ]; then
         find ./content/el -mindepth 1 ! -regex '^./content/el/imaging\(/.*\)?' -delete
         fi
-        if [ -d "./content/en" ]; then 
+        if [ -d "./content/en" ]; then
         find ./content/en -mindepth 1 ! -regex '^./content/en/imaging\(/.*\)?' -delete
         fi
-        if [ -d "./content/es" ]; then 
+        if [ -d "./content/es" ]; then
         find ./content/es -mindepth 1 ! -regex '^./content/es/imaging\(/.*\)?' -delete
         fi
-        if [ -d "./content/fr" ]; then 
+        if [ -d "./content/fr" ]; then
         find ./content/fr -mindepth 1 ! -regex '^./content/fr/imaging\(/.*\)?' -delete
         fi
-        if [ -d "./content/id" ]; then 
+        if [ -d "./content/id" ]; then
         find ./content/id -mindepth 1 ! -regex '^./content/id/imaging\(/.*\)?' -delete
         fi
-        if [ -d "./content/ja" ]; then 
+        if [ -d "./content/ja" ]; then
         find ./content/ja -mindepth 1 ! -regex '^./content/ja/imaging\(/.*\)?' -delete
         fi
-        if [ -d "./content/pt" ]; then 
+        if [ -d "./content/pt" ]; then
         find ./content/pt -mindepth 1 ! -regex '^./content/pt/imaging\(/.*\)?' -delete
         fi
-        if [ -d "./content/ru" ]; then 
+        if [ -d "./content/ru" ]; then
         find ./content/ru -mindepth 1 ! -regex '^./content/ru/imaging\(/.*\)?' -delete
         fi
-        if [ -d "./content/tr" ]; then 
+        if [ -d "./content/tr" ]; then
         find ./content/tr -mindepth 1 ! -regex '^./content/tr/imaging\(/.*\)?' -delete
         fi
-        if [ -d "./content/zh" ]; then 
+        if [ -d "./content/zh" ]; then
         find ./content/zh -mindepth 1 ! -regex '^./content/zh/imaging\(/.*\)?' -delete
         fi
-        
+
         ls content/ -all;
-        
+
     - name: Build imaging pages
-      run: hugo --config "./config/config-stage-releases-aspose-com.toml" -b "https://releases-qa.aspose.com/" --disableKinds=taxonomy,category --cleanDestinationDir --minify
-      
+      run: hugo --config "./config/config-stage-releases-aspose-com.toml"  -b "https://releases-qa.aspose.com/" --disableKinds=taxonomy,category --cleanDestinationDir --minify
+
     - name: Prepare public folder
       run: |
-        mv public/sitemap.xml public/imaging.xml;
+
+        mv public/de/sitemap.xml public/de/sitemap-imaging.xml;
+        mv public/el/sitemap.xml public/el/sitemap-imaging.xml;
+        mv public/en/sitemap.xml public/en/sitemap-imaging.xml;
+        mv public/es/sitemap.xml public/es/sitemap-imaging.xml;
+        mv public/fr/sitemap.xml public/fr/sitemap-imaging.xml;
+        mv public/id/sitemap.xml public/id/sitemap-imaging.xml;
+        mv public/ja/sitemap.xml public/ja/sitemap-imaging.xml;
+        mv public/pt/sitemap.xml public/pt/sitemap-imaging.xml;
+        mv public/ru/sitemap.xml public/ru/sitemap-imaging.xml;
+        mv public/tr/sitemap.xml public/tr/sitemap-imaging.xml;
+        mv public/zh/sitemap.xml public/zh/sitemap-imaging.xml;
+
         rm public/index.html;
         rm public/index.json;
-        mkdir public_home;
-        mkdir public_home/sitemaps;
-        mv public/imaging.xml public_home/sitemaps/;
         ls public -all;
-        ls public/zh -all;
-        ls public_home -all;
 
-    - name: Upload imaging sitemap
-      uses: swimlane/s3-upload-file-action@main
+    - name: Upload imaging sitemap index
+      uses: zdurham/s3-upload-github-action@master
       with:
-        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
-        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
-        aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public_home/sitemaps/imaging.xml'
-        file_mime_type: 'application/xml'
-        dest_dir: 'sitemaps'
+        args: --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        S3_BUCKET: 'releases-qa.aspose.com'
+        FILE: 'public/sitemap.xml'
+        AWS_REGION: 'us-west-2'
+        S3_KEY: 'sitemap.xml'
 
-    - name: Upload default language
+    - name: Upload default language folder
       uses: jakejarvis/s3-sync-action@master
       with:
         args: --acl public-read --follow-symlinks --delete
@@ -122,18 +125,18 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
         AWS_REGION: 'us-west-2'
         SOURCE_DIR: 'public/imaging'
-        DEST_DIR: 'imaging' 
-        
+        DEST_DIR: 'imaging'
+
     - name: Upload en sitemap
       uses: swimlane/s3-upload-file-action@main
       with:
         aws_access_key_id: ${{ secrets.ACCESS_KEY }}
         aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
         aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/en/sitemap.xml'
+        file_path: 'public/en/sitemap-imaging.xml'
         file_mime_type: 'application/xml'
-        dest_dir: 'en/imaging'
-        
+        dest_dir: 'en/'
+
     - name: Upload de folder
       uses: jakejarvis/s3-sync-action@master
       with:
@@ -144,7 +147,7 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
         AWS_REGION: 'us-west-2'
         SOURCE_DIR: 'public/de/imaging'
-        DEST_DIR: 'de/imaging' 
+        DEST_DIR: 'de/imaging'
 
     - name: Upload de sitemap
       uses: swimlane/s3-upload-file-action@main
@@ -152,9 +155,9 @@ jobs:
         aws_access_key_id: ${{ secrets.ACCESS_KEY }}
         aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
         aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/de/sitemap.xml'
+        file_path: 'public/de/sitemap-imaging.xml'
         file_mime_type: 'application/xml'
-        dest_dir: 'de/imaging'
+        dest_dir: 'de/'
 
     - name: Upload el folder
       uses: jakejarvis/s3-sync-action@master
@@ -166,7 +169,7 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
         AWS_REGION: 'us-west-2'
         SOURCE_DIR: 'public/el/imaging'
-        DEST_DIR: 'el/imaging' 
+        DEST_DIR: 'el/imaging'
 
     - name: Upload el sitemap
       uses: swimlane/s3-upload-file-action@main
@@ -174,9 +177,9 @@ jobs:
         aws_access_key_id: ${{ secrets.ACCESS_KEY }}
         aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
         aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/el/sitemap.xml'
+        file_path: 'public/el/sitemap-imaging.xml'
         file_mime_type: 'application/xml'
-        dest_dir: 'el/imaging'
+        dest_dir: 'el/'
 
     - name: Upload es folder
       uses: jakejarvis/s3-sync-action@master
@@ -188,7 +191,7 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
         AWS_REGION: 'us-west-2'
         SOURCE_DIR: 'public/es/imaging'
-        DEST_DIR: 'es/imaging' 
+        DEST_DIR: 'es/imaging'
 
     - name: Upload es sitemap
       uses: swimlane/s3-upload-file-action@main
@@ -196,9 +199,9 @@ jobs:
         aws_access_key_id: ${{ secrets.ACCESS_KEY }}
         aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
         aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/es/sitemap.xml'
+        file_path: 'public/es/sitemap-imaging.xml'
         file_mime_type: 'application/xml'
-        dest_dir: 'es/imaging'
+        dest_dir: 'es/'
 
     - name: Upload fr folder
       uses: jakejarvis/s3-sync-action@master
@@ -210,7 +213,7 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
         AWS_REGION: 'us-west-2'
         SOURCE_DIR: 'public/fr/imaging'
-        DEST_DIR: 'fr/imaging' 
+        DEST_DIR: 'fr/imaging'
 
     - name: Upload fr sitemap
       uses: swimlane/s3-upload-file-action@main
@@ -218,9 +221,9 @@ jobs:
         aws_access_key_id: ${{ secrets.ACCESS_KEY }}
         aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
         aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/fr/sitemap.xml'
+        file_path: 'public/fr/sitemap-imaging.xml'
         file_mime_type: 'application/xml'
-        dest_dir: 'fr/imaging'
+        dest_dir: 'fr/'
 
     - name: Upload id folder
       uses: jakejarvis/s3-sync-action@master
@@ -232,7 +235,7 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
         AWS_REGION: 'us-west-2'
         SOURCE_DIR: 'public/id/imaging'
-        DEST_DIR: 'id/imaging' 
+        DEST_DIR: 'id/imaging'
 
     - name: Upload id sitemap
       uses: swimlane/s3-upload-file-action@main
@@ -240,9 +243,9 @@ jobs:
         aws_access_key_id: ${{ secrets.ACCESS_KEY }}
         aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
         aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/id/sitemap.xml'
+        file_path: 'public/id/sitemap-imaging.xml'
         file_mime_type: 'application/xml'
-        dest_dir: 'id/imaging'
+        dest_dir: 'id/'
 
     - name: Upload ja folder
       uses: jakejarvis/s3-sync-action@master
@@ -254,7 +257,7 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
         AWS_REGION: 'us-west-2'
         SOURCE_DIR: 'public/ja/imaging'
-        DEST_DIR: 'ja/imaging' 
+        DEST_DIR: 'ja/imaging'
 
     - name: Upload ja sitemap
       uses: swimlane/s3-upload-file-action@main
@@ -262,9 +265,9 @@ jobs:
         aws_access_key_id: ${{ secrets.ACCESS_KEY }}
         aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
         aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/ja/sitemap.xml'
+        file_path: 'public/ja/sitemap-imaging.xml'
         file_mime_type: 'application/xml'
-        dest_dir: 'ja/imaging'
+        dest_dir: 'ja/'
 
     - name: Upload pt folder
       uses: jakejarvis/s3-sync-action@master
@@ -276,7 +279,7 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
         AWS_REGION: 'us-west-2'
         SOURCE_DIR: 'public/pt/imaging'
-        DEST_DIR: 'pt/imaging' 
+        DEST_DIR: 'pt/imaging'
 
     - name: Upload pt sitemap
       uses: swimlane/s3-upload-file-action@main
@@ -284,9 +287,9 @@ jobs:
         aws_access_key_id: ${{ secrets.ACCESS_KEY }}
         aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
         aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/pt/sitemap.xml'
+        file_path: 'public/pt/sitemap-imaging.xml'
         file_mime_type: 'application/xml'
-        dest_dir: 'pt/imaging'
+        dest_dir: 'pt/'
 
     - name: Upload ru folder
       uses: jakejarvis/s3-sync-action@master
@@ -298,7 +301,7 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
         AWS_REGION: 'us-west-2'
         SOURCE_DIR: 'public/ru/imaging'
-        DEST_DIR: 'ru/imaging' 
+        DEST_DIR: 'ru/imaging'
 
     - name: Upload ru sitemap
       uses: swimlane/s3-upload-file-action@main
@@ -306,9 +309,9 @@ jobs:
         aws_access_key_id: ${{ secrets.ACCESS_KEY }}
         aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
         aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/ru/sitemap.xml'
+        file_path: 'public/ru/sitemap-imaging.xml'
         file_mime_type: 'application/xml'
-        dest_dir: 'ru/imaging'
+        dest_dir: 'ru/'
 
     - name: Upload tr folder
       uses: jakejarvis/s3-sync-action@master
@@ -320,7 +323,7 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
         AWS_REGION: 'us-west-2'
         SOURCE_DIR: 'public/tr/imaging'
-        DEST_DIR: 'tr/imaging' 
+        DEST_DIR: 'tr/imaging'
 
     - name: Upload tr sitemap
       uses: swimlane/s3-upload-file-action@main
@@ -328,9 +331,9 @@ jobs:
         aws_access_key_id: ${{ secrets.ACCESS_KEY }}
         aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
         aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/tr/sitemap.xml'
+        file_path: 'public/tr/sitemap-imaging.xml'
         file_mime_type: 'application/xml'
-        dest_dir: 'tr/imaging'
+        dest_dir: 'tr/'
 
     - name: Upload zh folder
       uses: jakejarvis/s3-sync-action@master
@@ -342,7 +345,7 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
         AWS_REGION: 'us-west-2'
         SOURCE_DIR: 'public/zh/imaging'
-        DEST_DIR: 'zh/imaging' 
+        DEST_DIR: 'zh/imaging'
 
     - name: Upload zh sitemap
       uses: swimlane/s3-upload-file-action@main
@@ -350,6 +353,38 @@ jobs:
         aws_access_key_id: ${{ secrets.ACCESS_KEY }}
         aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
         aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/zh/sitemap.xml'
+        file_path: 'public/zh/sitemap-imaging.xml'
         file_mime_type: 'application/xml'
-        dest_dir: 'zh/imaging'
+        dest_dir: 'zh/'
+
+    - name: get updated files
+      run: |
+        # This will check the modified .md files and get unique base paths for invalidation
+        set +e
+        FILES=($(git log --stat="1000" -1 | grep '|' | awk '{print "/"$1}' | grep -e '\.md$'))
+        set -e
+        [ -z "$FILES" ] && touch .updated_files && exit 0
+        for file in $FILES; do
+          p="$(dirname ${file})"
+           echo $p | sed -e 's/\/content//' | sed -e 's/new-releases/*/' | sed -e 's/$/\//' | sed -e 's/\/\//\//' | sed -e 's/*\//*/'
+        done | sort | uniq | tr '\n' ' ' > .updated_files
+
+    # Invalidate Cloudfront (this action)
+    - name: invalidate
+      uses: chetan/invalidate-cloudfront-action@master
+      env:
+        DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION }}
+        PATHS_FROM: .updated_files
+        AWS_REGION: 'us-west-2'
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+
+    # Invalidate Cloudfront Home Page
+    - name: invalidate
+      uses: chetan/invalidate-cloudfront-action@master
+      env:
+        DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION }}
+        PATHS: / /index.html /index.json /sitemap.xml
+        AWS_REGION: 'us-west-2'
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
