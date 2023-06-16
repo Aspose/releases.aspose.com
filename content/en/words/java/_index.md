@@ -126,6 +126,7 @@ productLink: https://products.aspose.com/words/java/
 releaseNotesLink: https://docs.aspose.com/words/java/release-notes/
 dataFolder: aspose_words
 packages_refs:
+- "23-6"
 - "23-5"
 - "23-4"
 - "23-3"
