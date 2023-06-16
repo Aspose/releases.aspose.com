@@ -16,7 +16,7 @@ parent_path: "3d/python-net"
 section_parent_path: "3d/python-net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-23-2-release-notes/"
+release_notes_url: "https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-23-3-release-notes/"
 weight: 11
 
 ---
@@ -40,7 +40,7 @@ weight: 11
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-23-2-release-notes/'>https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-23-2-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-23-3-release-notes/'>https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for Python via .NET 23.3.0, Linux x86, x64 release.</div>
