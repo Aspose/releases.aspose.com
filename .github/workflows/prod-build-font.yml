@@ -362,17 +362,7 @@ jobs:
       uses: chetan/invalidate-cloudfront-action@master
       env:
         DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION_PROD }}
-        PATHS: /font/* /de/font/* /el/font/* /en/font/* /es/font/* /fr/font/* /id/font/* /ja/font/* /pt/font/* /ru/font/* /tr/font/* /zh/font/*
-        AWS_REGION: 'us-west-2'
-        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
-
-    # Invalidate Cloudfront Home Page
-    - name: invalidate
-      uses: chetan/invalidate-cloudfront-action@master
-      env:
-        DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION_PROD }}
-        PATHS: / /index.html /index.json /sitemap.xml
+        PATHS: / /index.html /index.json /sitemap.xml /font/* /de/font/* /el/font/* /en/font/* /es/font/* /fr/font/* /id/font/* /ja/font/* /pt/font/* /ru/font/* /tr/font/* /zh/font/*
         AWS_REGION: 'us-west-2'
         AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
