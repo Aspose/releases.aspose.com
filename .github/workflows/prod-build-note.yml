@@ -362,7 +362,7 @@ jobs:
       uses: chetan/invalidate-cloudfront-action@master
       env:
         DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION_PROD }}
-        PATHS: / /index.html /index.json /sitemap.xml /note/* /de/note/* /el/note/* /en/note/* /es/note/* /fr/note/* /id/note/* /ja/note/* /pt/note/* /ru/note/* /tr/note/* /zh/note/*
+        PATHS: / /index.html /index.json /sitemap.xml /de/sitemap-note.xml /el/sitemap-note.xml /en/sitemap-note.xml /es/sitemap-note.xml /fr/sitemap-note.xml /id/sitemap-note.xml /ja/sitemap-note.xml /pt/sitemap-note.xml /ru/sitemap-note.xml /tr/sitemap-note.xml /zh/sitemap-note.xml /note/* /de/note/* /el/note/* /en/note/* /es/note/* /fr/note/* /id/note/* /ja/note/* /pt/note/* /ru/note/* /tr/note/* /zh/note/*
         AWS_REGION: 'us-west-2'
         AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
