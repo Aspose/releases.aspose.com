@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/examples/aspose.pdf-for-.net-23.6-(dlls-only)/"
-folder_name: "Aspose.PDF for .NET 23.6 (DLLs only)"
+folder_name: "Test"
 download_link: "/pdf/net/examples/aspose.pdf-for-.net-23.6-(dlls-only)/3024b541a6012783dc72c174d857c6bf-32-9022"
 download_text: "Download"
 intro_text: "This ZIP file contains only the Aspose.PDF for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.PDF without the MSI installer."
@@ -22,7 +22,7 @@ weight: 1
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.PDF for .NET 23.6 (DLLs only)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Test" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/pdf/net/examples/aspose.pdf-for-.net-23.6-(dlls-only)/3024b541a6012783dc72c174d857c6bf-32-9022" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
