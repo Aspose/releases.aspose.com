@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-23.6-(dlls-only)/"
-folder_name: "Aspose.Tasks for .NET 23.6 (DLLs Only)"
+folder_name: "Aspose.Tasks for .NET 23.6 (DLLs Only)_"
 download_link: "/tasks/net/new-releases/aspose.tasks-for-.net-23.6-(dlls-only)/6cdb1ed11dbb5eda8d4e9aced699d15a-5-9044"
 download_text: "Download"
 intro_text: "It contains Aspose.Tasks for .NET 23.6 (DLLs Only) release."
@@ -22,7 +22,7 @@ weight: 498
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Tasks for .NET 23.6 (DLLs Only)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Tasks for .NET 23.6 (DLLs Only)_" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/tasks/net/new-releases/aspose.tasks-for-.net-23.6-(dlls-only)/6cdb1ed11dbb5eda8d4e9aced699d15a-5-9044" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tasks" >}}
