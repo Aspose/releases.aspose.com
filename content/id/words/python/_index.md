@@ -45,8 +45,7 @@ Anda dapat dengan mudah menggunakan <b>kata-kata aspose</b> untuk Python dari
 
 {{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="words" product="python-net" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="words" product="python" >}}
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

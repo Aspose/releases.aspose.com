@@ -45,8 +45,7 @@ Aspose.Words για Python μέσω .NET, Word Document Processing API που ε
 
 {{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="words" product="python-net" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="words" product="python" >}}
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

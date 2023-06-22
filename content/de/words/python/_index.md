@@ -45,8 +45,7 @@ Sie können einfach <b>Aspose-Wörter</b> für Python aus verwenden
 
 {{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="words" product="python-net" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="words" product="python" >}}
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

@@ -45,8 +45,7 @@ Aspose.Words for Python .NET 経由の Word ドキュメント処理 API によ�
 
 {{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="words" product="python-net" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="words" product="python" >}}
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-
