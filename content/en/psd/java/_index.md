@@ -1,7 +1,24 @@
 ---
-title: Aspose.PSD | Java Class Library to Render PSD & PSB Formats
-linktitle: Aspose.PSD
-description: Java class library to enable your Apps to create, modify & convert Photoshop PSD & PSB formats. Supports image compression, dithering, rendering, & scaling etc.
+
+title: "Aspose.PSD for Java"
+description:  "Aspose.PSD for Java"
+keywords:  ""
+family_listing_page_title:  "Aspose.PSD for Java"
+family_listing_page_description:  "Aspose.PSD for Java provides extensive manipulation capabilities for PSD & PSB file formats without requiring Adobe Photoshop. Aspose.PSD for Java allows to edit and create the Photoshop files as well"
+family_listing_page_iconurl:  "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-java.png"
+weight: 1
+
+---
+
+{{< dbToolbar link="https://forum.aspose.com/c/psd/34" linktext="Support Forum" >}}
+
+{{< ProductPageWrapper >}}
+<!-- ProductPageContent-->
+{{< Common/wrapper class="col-md-12" >}}
+{{< Common/wrapper class="panel-body downloadfilebody" >}}
+---
+title: "Aspose.PSD | Java Class Library to edit PSD, PSB, AI Files using Java"
+description: "Java Package (class library) to read, write, edit, convert Adobe Photoshop® (PSD, PSB) & Adobe Illustrator® (AI) vector graphics via Java API."
 layout: packages
 type: repository
 categories:
@@ -11,6 +28,7 @@ keywords:
 - Aspose PSD
 - Aspose Java API
 - psd java library
+- psd java package
 - psd java class
 - PSD
 - PSB
@@ -31,26 +49,25 @@ keywords:
 - image rotation
 - flip image
 - image scale
-- cache system
 - exif data
 - dithering
 - crop
 - vector to raster
-- cubic b�zier
 - matrix transformation
+- adjustment layer
+- linked layer
+- text layer
+- smart object
+- smart filter
+- shape layer
+- fill layer
 - Maven
 - Windows
 - Linux
 - Mac
 - JDK
-- adjustment layer
-- median filter
-- wiener filter
-- graphics
-- linked layer
-- text layer
 family_listing_page_title: "Aspose.PSD for Java"
-family_listing_page_description: "Aspose.PSD for Java is an easy to use Adobe Photoshop formats manipulation API. It can easily load and read PSD and PSB formats currently. Developers can perform operations like updating layer properties, adding watermarks, compression, rotation, scaling or rendering one file format to another without the installation of Adobe Photoshop. Image formats like TIFF, JPEG, PNG, GIF, BMP and more can easily be exported."
+family_listing_page_description: "Aspose.PSD for Java provides extensive manipulation capabilities for PSD & PSB file formats without requiring Adobe Photoshop. Aspose.PSD for Java allows to edit and create the Photoshop files as well as provides the ability to update layer properties, add watermarks, perform graphics operations or convert PSD and PSB files to Jpeg, Png, Gif, Tiff, Pdf, Bmp, Jpeg2000."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -77,6 +94,7 @@ packages_refs:
 - "21-5"
 - "21-6"
 - "21-7"
+weight:  1
 ---
 
 # Java Library for Photoshop Files
@@ -90,14 +108,18 @@ packages_refs:
 ## Photoshop File Processing
 
 - Load, create & manipulate PSD & PSB files.
-- Compress PSD with RLE.
+- Edit PSD
+- Compress PSD with RLE and ZIP
 - Rotate, flip, scale or crop images.
 - Read & write EXIF data.
 - Convert vector to raster.
-- Adjust Brightness, Contrast & Gamma.
+- Support of Smart filters: Adjust Brightness, Contrast & Gamma, noise reduction, sharpen and etc
 - Draw and fill basic shapes.
 - Clip rectangular regions.
 - Apply dithering.
+- Support of all types of laters: regular layer, text layer, adjustment layer, smart object layer, fill layer, shape layer
+- Support of vector, raster and clipping masks
+
 
 ## Load Photoshop & Illustrator Files
 
@@ -105,7 +127,7 @@ packages_refs:
 
 ## Save Photoshop & Illustrator Files As
 
-**Raster**: TIFF, JPEG, PNG, GIF, BMP, JPEG2000\
+**Raster**: TIFF, JPEG, PNG, GIF, BMP, JPEG2000
 **Fixed Layout**: PDF
 
 ## Supported Environments
@@ -122,10 +144,10 @@ Aspose.PSD Java APIs are hosted at the [Aspose Repository](https://repository.as
 ## Create a PSD from Scratch
 
 ```java
-PsdImage bmpImage = new PsdImage(300, 300);
+PsdImage psdImage = new PsdImage(300, 300);
 
 // fill image data.
-Graphics graphics = new Graphics(bmpImage);
+Graphics graphics = new Graphics(psdImage);
 graphics.clear(Color.getWhite());
 Pen pen = new Pen(Color.getBrown());
 graphics.drawRectangle(pen, bmpImage.getBounds());
@@ -139,3 +161,12 @@ bmpImage.save("output.psd", psdOptions);
 ```
 
 [Product Page](https://products.aspose.com/psd/java) | [Docs](https://docs.aspose.com/psd/java/) | [Demos](https://products.aspose.app/psd/family) | [API Reference](https://apireference.aspose.com/psd/java) | [Examples](https://github.com/aspose-psd/Aspose.PSD-for-Java) | [Blog](https://blog.aspose.com/category/psd/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/psd) | [Temporary License](https://purchase.aspose.com/temporary-license)
+{{< /Common/wrapper >}}
+{{< /Common/wrapper >}}
+<!-- /ProductPageContent-->
+
+<!-- ReleasesListProductPage-->
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="psd" product="java" >}}
+<!-- /ReleasesListProductPage-->
+
+{{< /ProductPageWrapper >}}
