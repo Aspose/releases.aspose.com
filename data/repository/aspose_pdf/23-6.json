@@ -1,0 +1,17 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-pdf",
+  "id" : "23-6",
+  "packageFiles" : [ {
+    "size" : "72 MB",
+    "name" : "aspose-pdf-23.6-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "452 bytes",
+    "name" : "aspose-pdf-23.6.pom"
+  } ],
+  "releasehDate" : "2023-06-29T13:10:34+00:00",
+  "version" : "23.6",
+  "ReleaseNotes" : "https://docs.aspose.com/pdf/java/aspose-pdf-for-java-23-6-release-notes/"
+}
