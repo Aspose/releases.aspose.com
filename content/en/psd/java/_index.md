@@ -1,22 +1,4 @@
 ---
-
-title: "Aspose.PSD for Java"
-description:  "Aspose.PSD for Java"
-keywords:  ""
-family_listing_page_title:  "Aspose.PSD for Java"
-family_listing_page_description:  "Aspose.PSD for Java provides extensive manipulation capabilities for PSD & PSB file formats without requiring Adobe Photoshop. Aspose.PSD for Java allows to edit and create the Photoshop files as well"
-family_listing_page_iconurl:  "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-java.png"
-weight: 1
-
----
-
-{{< dbToolbar link="https://forum.aspose.com/c/psd/34" linktext="Support Forum" >}}
-
-{{< ProductPageWrapper >}}
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
----
 title: "Aspose.PSD for Java"
 description:  "Aspose.PSD for Java"
 keywords:  ""
@@ -167,12 +149,3 @@ bmpImage.save("output.psd", psdOptions);
 ```
 
 [Product Page](https://products.aspose.com/psd/java) | [Docs](https://docs.aspose.com/psd/java/) | [Demos](https://products.aspose.app/psd/family) | [API Reference](https://apireference.aspose.com/psd/java) | [Examples](https://github.com/aspose-psd/Aspose.PSD-for-Java) | [Blog](https://blog.aspose.com/category/psd/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/psd) | [Temporary License](https://purchase.aspose.com/temporary-license)
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
-<!-- /ProductPageContent-->
-
-<!-- ReleasesListProductPage-->
-{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="psd" product="java" >}}
-<!-- /ReleasesListProductPage-->
-
-{{< /ProductPageWrapper >}}
