@@ -30,7 +30,7 @@ You can easily use Aspose.Words for Java directly from a {{< Common/link href="h
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
    {{< consolebox/textarea id="repository" >}}
-      maven {url "https://repository.aspose.com/repo/" }
+      maven {url "https://releases.aspose.com/java/repo/" }
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
@@ -39,7 +39,7 @@ You can easily use Aspose.Words for Java directly from a {{< Common/link href="h
       implementation (
          group: 'com.aspose',
          name: 'aspose-words',
-         version: '23.3',
+         version: '23.6',
          classifier: 'android.via.java')
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
