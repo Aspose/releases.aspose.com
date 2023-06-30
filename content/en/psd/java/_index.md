@@ -17,6 +17,12 @@ weight: 1
 {{< Common/wrapper class="col-md-12" >}}
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 ---
+title: "Aspose.PSD for Java"
+description:  "Aspose.PSD for Java"
+keywords:  ""
+family_listing_page_title:  "Aspose.PSD for Java"
+family_listing_page_description:  "Aspose.PSD for Java provides extensive manipulation capabilities for PSD & PSB file formats without requiring Adobe Photoshop. Aspose.PSD for Java allows to edit and create the Photoshop files as well"
+family_listing_page_iconurl:  "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-java.png"
 title: "Aspose.PSD | Java Class Library to edit PSD, PSB, AI Files using Java"
 description: "Java Package (class library) to read, write, edit, convert Adobe Photoshop® (PSD, PSB) & Adobe Illustrator® (AI) vector graphics via Java API."
 layout: packages
