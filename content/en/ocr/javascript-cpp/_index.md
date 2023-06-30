@@ -62,13 +62,7 @@ The evaluation version of Aspose.OCR for JavaScript via C++ limits the number of
 {{< Common/hr >}}
 
 {{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="ocr" product="javascript-cpp" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
+
 <!-- /ProductPageContent-->
 
 <!-- ReleasesListProductPage-->
