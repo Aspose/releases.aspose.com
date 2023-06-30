@@ -12,27 +12,6 @@ weight: 5
 
 {{< dbToolbar link="https://forum.aspose.com/c/ocr/16" linktext="Support Forum" >}}
 
-{{< ProductPageWrapper >}}
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
----
-title: "Download Optical Text Recognition JavaScript library | Aspose.OCR API"
-description: "Download OCR DLL containing JavaScript Class Library to help you recognize English text characters from JPEG, PNG, & BMP images via on-premise text extraction API."
-keywords: "OCR JavaScript, OCR English, Extract Text JavaScript"
-family_listing_page_title: "Aspose.OCR for JavaScript via C++"
-family_listing_page_description: "Aspose.OCR for JavaScript via C++ is a robust optical character recognition API. Developers can easily add OCR functionalities in their applications. API is extensible, easy to use, compact and provides a simple set of classes for controlling character recognition. It supports commonly used image formats and provides functionalities like reading characters and fonts from images, bold and italic styles, noise removal filters, scanning of the whole image or any part of the image and much more."
-family_listing_page_iconurl: "https://releases.aspose.com/images/aspose/aspose_ocr-for-javascript-cpp.svg"
-family_listing_page_selfHosted: "1"
-family_listing_page_type: "1"
-family_listing_page_venture: "4"
-family_listing_page_package: "206"
-tags: ['English-OCR', 'German-OCR', 'Portuguese-OCR', 'Spanish-OCR', 'French-OCR', 'Italian-OCR', 'Skew', 'Image-OCR', 'Optical-Recognition', 'Image-Recognition', 'Character-Recognition', 'JPEG', 'PNG', 'BMP', 'OCR-Deep-Learning', 'Computer-Vision','Language-OCR', 'Zonal-OCR', 'Optical-Character-Recognition', 'OCR-Area-Detection', 'OCR-to-JSON', 'Conholdate', 'Native', 'JavaScript']
-weight:  3
----
-
-{{< dbToolbar link="https://forum.aspose.com/c/ocr" linktext=" Support Forum " >}}
-
 {{< Common/h2 text="Download JavaScript Library for Optical Character Recognition (OCR)"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.OCR.JavaScript/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.OCR.JavaScript</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/ocr/javascript-cpp/installation/" text="Installation"  >}} documentation page.
