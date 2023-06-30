@@ -127,7 +127,6 @@ weight:  1
 - Support of all types of laters: regular layer, text layer, adjustment layer, smart object layer, fill layer, shape layer
 - Support of vector, raster and clipping masks
 
-
 ## Load Photoshop & Illustrator Files
 
 **Adobe**: PSD, PSB, AI
