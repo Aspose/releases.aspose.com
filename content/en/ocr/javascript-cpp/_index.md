@@ -13,14 +13,6 @@ weight: 5
 {{< dbToolbar link="https://forum.aspose.com/c/ocr/16" linktext="Support Forum" >}}
 
 {{< Common/h2 text="Download JavaScript Library for Optical Character Recognition (OCR)"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Open {{< Common/link href="https://www.nuget.org/packages/Aspose.OCR.JavaScript/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.OCR.JavaScript</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/ocr/javascript-cpp/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="ocr" product="javascript-cpp" href="https://docs.aspose.com/ocr/javascript-cpp/release-notes/" text="https://docs.aspose.com/ocr/javascript-cpp/release-notes/"  >}}
-{{< /Common/paragraph>}}
-{{< consolebox/consoleboxwrapper id="nuget" >}}
-       {{< consolebox/spantext text="PM" >}}
-       {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.OCR.JavaScript {{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
 
 [Product Page](https://products.aspose.com/ocr/javascript-cpp/) | [Docs](https://docs.aspose.com/ocr/javascript-cpp/) | [Demos](https://products.aspose.app/ocr/family) | [API Reference](https://reference.aspose.com/ocr/javascript-cpp) | [Examples](https://github.com/aspose-ocr/Aspose.OCR-for-JavaScript) | [Blog](https://blog.aspose.com/category/ocr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/ocr) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
