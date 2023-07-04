@@ -5,7 +5,7 @@ description:  "Download package containing Python API to create, manipulate, ext
 keywords:  "Zip, compression, decompression, encryption, decryption, deflate, sfx, self-extracted, self-extractor, pack, unpack, compress, decompress, encrypt, decrypt, extract, ZipCrypto, bzip2, PPMd, cpio, tar, untar, gnu-tar, shar, gzip, lzip, LZMA, 7z, LZMA2, RAR, RAR4, RAR5, cab, wim, xar, xz, snappy, Z"
 family_listing_page_title:  "Aspose.ZIP for Python via .NET"
 family_listing_page_description:  "Aspose.ZIP for Python via .NET is a flexible and easy to use Python API that lets you work with many standard archive formats, without going into it's underlying complexity."
-family_listing_page_iconurl:  "https://www.aspose.com/templates/aspose/App_Themes/V3/images/zip/272x272/aspose_zip-for-net.png"
+family_listing_page_iconurl:  "https://releases.aspose.com/images/aspose/aspose_zip-for-python.svg"
 homepage_package_type: "Pip"
 homepage_package_link: "https://pypi.org/project/aspose-zip/"
 tags: ['Zip', 'compression', 'decompression', 'encryption', 'decryption', 'deflate', 'sfx', 'self-extracted', 'self-extractor', 'pack', 'unpack', 'compress', 'decompress', 'encrypt', 'decrypt', 'extract', 'ZipCrypto', 'bzip2', 'PPMd', 'cpio', 'tar', 'untar', 'gnu-tar', 'shar', 'gzip', 'lzip', 'LZMA', '7z', 'LZMA2', 'RAR', 'RAR4', 'RAR5', 'cab', 'wim', 'xar', 'xz', 'snappy', 'Z']
