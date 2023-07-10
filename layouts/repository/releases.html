@@ -1,0 +1,7 @@
+
+{{ define "main" }}
+  {{ $paginator := .Paginate (.Pages) 50 }}
+
+  {{ $section_to_display :=  default $paginator.Pages }}
+  {{ partial "repository/release-pagelayout.html" (dict "context" . "section_to_display" $section_to_display ) }}
+{{ end }}
