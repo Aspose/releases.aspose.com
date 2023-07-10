@@ -1,0 +1,71 @@
+{{ $section_to_display := .section_to_display  }}
+<section class="container main-container page-1">
+        <div class="row">
+
+        <div class="col-sm-9 package-details-main">
+
+                <div class="profile-title">
+                    <h1>Release Notes</h1>
+                </div>
+                <hr class="profile-title-divider">
+                <div class="list-packages" role="list">
+
+                  {{ range $section_to_display }}
+
+
+                    <div class="package">
+                        <div class="row">
+                            <div class="col-sm-11">
+                                <div class="docs-header">
+                                    <h2><a class="docs-title" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                                  </div>
+                                <ul class="docs-list">
+
+                                  {{ if .Keywords }}
+
+                                    <li class="docs-tags">
+                                        <span class="icon-text">
+                                            <i class="fa fa-tags" aria-hidden="true"></i>
+
+                                             {{ range first 5 .Keywords }}
+                                              <a href="https://search.groupdocs.com/q/{{ lower  (replace . " " "-") }}.html" title="Search for docx">{{.}}</a>
+                                            {{ end }}
+                                        </span>
+                                    </li>
+
+                                  {{ else }}
+
+                                    {{ if $.context.Keywords }}
+
+                                      <li class="docs-tags">
+                                          <span class="icon-text">
+                                              <i class="fa fa-tags" aria-hidden="true"></i>
+
+                                               {{ range first 5 $.context.Keywords }}
+                                                <a href="https://search.groupdocs.com/q/{{ lower  (replace . " " "-") }}.html" title="Search for docx">{{.}}</a>
+                                              {{ end }}
+                                          </span>
+                                      </li>
+
+                                    {{ end }}
+                                {{ end }}
+
+                                </ul>
+                                <div class="docs-details">
+                                  {{ if .Params.description  }}
+                                      {{ .Params.description | markdownify }}
+                                  {{ end }}
+                                  <a href="{{ .RelPermalink }}" class="f6 mt2 db link primary-color dim">
+                                    Read More &raquo;
+                                  </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                  {{ end }}
+
+                </div>
+
+        </div></div></section>

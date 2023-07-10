@@ -1,0 +1,69 @@
+
+{{ define "main" }}
+        {{ $t := . }}
+        {{ $releases := slice }}
+          {{ range .Parent.Params.packages_refs }}
+            {{ $release := dict }}
+            {{ $releaseId := . }}
+            {{ $parsedEvent := dict }}
+            {{ $release = merge $release (dict "releaseId" $releaseId) }}
+
+              {{ $url := (printf "/data/repository/%s/%s.json" $t.Parent.Params.dataFolder $releaseId)}}
+                {{ range $index, $comments := (getJSON $url)  }}
+
+                    {{ if eq $index "releasehDate" }}
+                        {{ $release = merge $release (dict $index   (time $comments)) }}
+                    {{ else }}
+                      {{ $release = merge $release (dict $index  $comments) }}
+                    {{ end }}
+
+              {{ end }}
+
+                  {{ $releases = $releases | append $release }}
+
+              {{ end }}
+
+<section role="main" class="container main-container page-package-details">
+        <div class="row">
+
+
+          <div class="col-sm-9 package-details-main">
+
+            <h1><strong>{{ .Title }}</strong></h1>
+
+            <div class="tab-content body-tab-content">
+
+
+        <div role="tabpanel" class="tab-pane active" id="readme-tab">
+                 <div class="readme-common">
+                    <div id="readme-container">
+                       <p>{{ .Content }}</p>
+                    </div>
+                 </div>
+              </div> <!-- end of readme-tab -->
+
+
+      </div> <!-- end of body-tab-content -->
+
+      <hr>
+
+      {{ $p := . }}
+       {{ range  first 1 (where $releases ".id" $p.File.TranslationBaseName) }}
+
+          {{ if $p.Parent.Keywords }}
+          <div class="tagwrapper"><p>
+                     {{ range $p.Parent.Keywords }}
+                      <a href="https://search.groupdocs.cloud/q/{{ lower  (replace . " " "-") }}.html" title="Search for docx">{{.}}</a>
+                    {{ end }}
+            </p></div>
+
+            {{ end }}
+      {{ end }}
+
+
+  </div> <!-- end of package-details-main -->
+
+
+          </div></section>
+
+{{ end }}
