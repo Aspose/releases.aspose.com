@@ -20,7 +20,7 @@ weight:  25
 Membuka
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Drawing/" text="NuGet"  >}}Package Manager dalam Microsoft Visual Studio®, cari <b>Aspose.Drawing</b> dan instal. Anda juga dapat menggunakan perintah berikut di dalam Package Manager Console. Untuk petunjuk rinci, silakan kunjungi
 {{< Common/link href="https://docs.aspose.com/drawing/net/installation/" text="Instalasi"  >}}halaman dokumentasi.
-{{< Common/release-notes-link family="drawing" product="net" href="https://docs.aspose.com/drawing/net/release-notes/" text="https://docs.aspose.com/drawing/net/release-notes/"  >}}
+{{< Common/release-notes-link family="drawing" product="net" href="https://releases.aspose.com/drawing/net/release-notes/" text="https://releases.aspose.com/drawing/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
