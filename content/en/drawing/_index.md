@@ -1,5 +1,6 @@
 ---
 title: "On-premise 2D Vector Graphics API | Aspose.Drawing"
+linktitle: "Aspose.Drawing"
 description: "Download DLL of 2D drawing APIs identical to GDI+ to render & convert vector graphics (lines, curves, and figures) as well as multi-style text within .NET Apps."
 keywords: "2d drawing"
 family_listing_page_title: "Aspose.Drawing Product Family"
@@ -18,7 +19,7 @@ weight:  25
 {{< Common/h2 text="Download Aspose.Drawing to Process 2D Graphics"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Drawing/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.Drawing</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/drawing/net/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="drawing" product="net" href="https://docs.aspose.com/drawing/net/release-notes/" text="https://docs.aspose.com/drawing/net/release-notes/"  >}}
+{{< Common/release-notes-link family="drawing" product="net" href="https://releases.aspose.com/drawing/net/release-notes/" text="https://releases.aspose.com/drawing/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
