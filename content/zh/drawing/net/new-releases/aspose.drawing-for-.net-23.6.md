@@ -16,7 +16,7 @@ parent_path: "drawing/net"
 section_parent_path: "drawing/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/drawing/net/aspose-drawing-for-net-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2023/aspose-drawing-for-net-23-6-release-notes/"
 weight: 117
 
 ---
@@ -40,7 +40,7 @@ weight: 117
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/drawing/net/aspose-drawing-for-net-23-6-release-notes/'>https://docs.aspose.com/drawing/net/aspose-drawing-for-net-23-6-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/drawing/net/release-notes/2023/aspose-drawing-for-net-23-6-release-notes/'>https://releases.aspose.com/drawing/net/release-notes/2023/aspose-drawing-for-net-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">aspose.net 23.6的MSI安装程序</div>

@@ -14,7 +14,7 @@ file_size: "File Size: 6.78MB"
 parent_path: "drawing/net"
 section_parent_path: "drawing/net"
 
-release_notes_url: "https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-5-release-notes/"
 weight: 91
 ---
 
@@ -37,7 +37,7 @@ weight: 91
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Catatan Rilis</h4><div> <a href='https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-5-release-notes/'>https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-5-release-notes/</a></div>
+<h4>Catatan Rilis</h4><div> <a href='https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-5-release-notes/'>https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -53,7 +53,7 @@ Menambahkan dukungan penggantian font di Linux. Selanjutnya, jika font hanya mem
 
 Meningkatkan kemampuan menggambar API untuk menggambar garis anti-alias.
 
-> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Drawing for .NET 22.5 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-5-release-notes/).
+> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Drawing for .NET 22.5 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

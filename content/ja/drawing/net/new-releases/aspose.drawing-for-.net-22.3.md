@@ -39,7 +39,7 @@ weight: 86
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href="https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-3-release-notes/">https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-3-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">Aspose.Drawing for .NET 22.3 の MSI インストーラー</div>
+<h4>リリースノート</h4><div><a href="https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-3-release-notes/">https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-3-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">Aspose.Drawing for .NET 22.3 の MSI インストーラー</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="注目すべき機能">}}
@@ -75,7 +75,7 @@ bitmap.Save("Width.png");
 
 24 ビット ビットマップ BMP グラフィックスを回転および反転する機能が追加されました。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Drawing for .NET 22.3 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-3-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Drawing for .NET 22.3 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-3-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

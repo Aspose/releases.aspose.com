@@ -36,7 +36,7 @@ weight: 88
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Примечания к выпуску</h4><div> <a href="https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-4-release-notes/">https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-4-release-notes/</a></div><h4> Описание</h4><div class="HTMLDescription"> Установщик MSI для Aspose.Drawing для .NET 22.4</div>
+<h4>Примечания к выпуску</h4><div> <a href="https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-4-release-notes/">https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-4-release-notes/</a></div><h4> Описание</h4><div class="HTMLDescription"> Установщик MSI для Aspose.Drawing для .NET 22.4</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Примечательные особенности">}}
@@ -55,7 +55,7 @@ weight: 88
 
 Улучшена поддержка кодеков изображений.
 
-> Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.Drawing for .NET 22.4 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-4-release-notes/).
+> Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.Drawing for .NET 22.4 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

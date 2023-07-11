@@ -16,7 +16,7 @@ parent_path: "drawing/net"
 section_parent_path: "drawing/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/drawing/net/aspose-drawing-for-net-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2023/aspose-drawing-for-net-23-4-release-notes/"
 weight: 113
 
 ---
@@ -40,7 +40,7 @@ weight: 113
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/drawing/net/aspose-drawing-for-net-23-4-release-notes/'>https://docs.aspose.com/drawing/net/aspose-drawing-for-net-23-4-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/drawing/net/release-notes/2023/aspose-drawing-for-net-23-4-release-notes/'>https://releases.aspose.com/drawing/net/release-notes/2023/aspose-drawing-for-net-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">.NET 23.4用のASOPSION.DRAWING用のMSIインストーラー</div>

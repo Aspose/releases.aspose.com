@@ -39,7 +39,7 @@ weight: 86
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href="https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-3-release-notes/">https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-3-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">Aspose.Drawing for .NET 22.3 的 MSI 安装程序</div>
+<h4>发行说明</h4><div><a href="https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-3-release-notes/">https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-3-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">Aspose.Drawing for .NET 22.3 的 MSI 安装程序</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="显着特点">}}
@@ -75,7 +75,7 @@ bitmap.Save("Width.png");
 
 添加了旋转和翻转 24 位位图 BMP 图形的功能。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Drawing for .NET 22.3 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-3-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Drawing for .NET 22.3 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-3-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

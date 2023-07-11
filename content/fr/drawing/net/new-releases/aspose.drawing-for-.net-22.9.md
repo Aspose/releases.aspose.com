@@ -14,7 +14,7 @@ file_size: "File Size: 6.81MB"
 parent_path: "drawing/net"
 section_parent_path: "drawing/net"
 tags: ""
-release_notes_url : "https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-9-release-notes/"
+release_notes_url : "https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-9-release-notes/"
 weight: 98
 ---
 
@@ -37,7 +37,7 @@ weight: 98
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href='https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-9-release-notes/'>https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-9-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href='https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-9-release-notes/'>https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-9-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -53,7 +53,7 @@ Mise en œuvre de l'enregistrement aux formats 1 (un) BPP (bits par pixel) .TIFF
 
 Ajout de la possibilité de charger des fichiers image à partir d'un flux Web.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Drawing for .NET 22.9 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-9-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Drawing for .NET 22.9 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

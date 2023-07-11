@@ -39,7 +39,7 @@ weight: 82
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-1-release-notes/">https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-1-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Das MSI-Installationsprogramm für Aspose.Drawing für .NET 22.1</div>
+<h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-1-release-notes/">https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-1-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Das MSI-Installationsprogramm für Aspose.Drawing für .NET 22.1</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Bemerkenswerte Eigenschaften">}}
@@ -82,7 +82,7 @@ graphics.DrawArc(pen, 0, 0, 700, 700, 0, 180);
 bitmap.Save("DrawArc.png");
 ```
 
-> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Drawing for .NET 22.1 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-1-release-notes/).
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Drawing for .NET 22.1 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

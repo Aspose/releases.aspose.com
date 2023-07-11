@@ -16,7 +16,7 @@ parent_path: "drawing/net"
 section_parent_path: "drawing/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-12-release-notes/"
+release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-12-release-notes/"
 weight: 105
 
 ---
@@ -40,7 +40,7 @@ weight: 105
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-12-release-notes/'>https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-12-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-12-release-notes/'>https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">The MSI installer for Aspose.Drawing for .NET 22.12</div>
