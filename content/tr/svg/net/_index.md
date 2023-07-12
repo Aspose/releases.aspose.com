@@ -22,7 +22,7 @@ weight:  1
 Açık
 {{< Common/link href="https://www.nuget.org/packages/Aspose.SVG/" text="NuGet"  >}}Microsoft Visual Studio® içinde Paket Yöneticisi, <b>Aspose.SVG'yi</b> arayın ve kurun. Paket Yöneticisi Konsolunda aşağıdaki komutu da kullanabilirsiniz. Ayrıntılı talimatlar için lütfen adresini ziyaret edin.
 {{< Common/link href="https://docs.aspose.com/svg/net/getting-started/installation/" text="Kurulum"  >}}dokümantasyon sayfası.
-{{< Common/release-notes-link family="svg" product="net" href="https://docs.aspose.com/svg/net/release-notes/" text="https://docs.aspose.com/svg/net/release-notes/"  >}}
+{{< Common/release-notes-link family="svg" product="net" href="https://releases.aspose.com/svg/net/release-notes/" text="https://releases.aspose.com/svg/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

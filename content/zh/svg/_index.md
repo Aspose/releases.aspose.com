@@ -23,7 +23,7 @@ weight:  23
 打开
 {{< Common/link href="https://www.nuget.org/packages/Aspose.SVG/" text="NuGet"  >}}Microsoft Visual Studio® 中的包管理器，搜索<b>Aspose.SVG</b>并安装。您还可以在包管理器控制台中使用以下命令。有关详细说明，请访问
 {{< Common/link href="https://docs.aspose.com/svg/net/getting-started/installation/" text="安装"  >}}文档页面。
-{{< Common/release-notes-link family="svg" product="net" href="https://docs.aspose.com/svg/net/release-notes/" text="https://docs.aspose.com/svg/net/release-notes/"  >}}
+{{< Common/release-notes-link family="svg" product="net" href="https://releases.aspose.com/svg/net/release-notes/" text="https://releases.aspose.com/svg/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

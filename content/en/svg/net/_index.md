@@ -1,5 +1,6 @@
 ---
 title: "On-premise SVG Parser & Convertor API | Aspose.SVG for .NET"
+linktitle: "Aspose.SVG for .NET"
 description: "Download flexible .NET library for SVG file processing. API can easily load, save and convert SVG files as well as read and traverse the elements of file through its Document Object Model (DOM). "
 keywords: "SVG .NET API "
 family_listing_page_title: "Aspose.SVG for .NET"
@@ -20,7 +21,7 @@ weight:  1
 {{< Common/h2 text="Download Aspose.SVG to Process Vector Graphics"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.SVG/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.SVG</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/svg/net/getting-started/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="svg" product="net" href="https://docs.aspose.com/svg/net/release-notes/" text="https://docs.aspose.com/svg/net/release-notes/"  >}}
+{{< Common/release-notes-link family="svg" product="net" href="https://releases.aspose.com/svg/net/release-notes/" text="https://releases.aspose.com/svg/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
