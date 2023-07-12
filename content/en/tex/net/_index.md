@@ -1,5 +1,6 @@
 ---
 title: "Download Document TypeSetting C# Library | Aspose.TeX API"
+linktitle: "Aspose.TeX for .NET"
 description: "Download C# class library with a TeX engine extension to typeset TeX files via .NET API. Convert TeX to XPS, PDF, JPEG, PNG, TIFF, BMP. Supports embedded fonts."
 keywords: "tex"
 family_listing_page_title: "Aspose.TeX for .NET"
