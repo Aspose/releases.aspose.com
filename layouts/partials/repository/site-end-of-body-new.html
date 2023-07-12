@@ -112,6 +112,8 @@ $('.treeview-animated-items-header').click(function () {
       <script>
       $(document).ready((function(){
 
+        $("div pre").removeAttr("style");
+
         var loc = $(location).attr('hash')
         if("#package-explorer" == loc){
           var trigger=document.querySelector('.nav-tabs a[href="#packageexplorer-tab'+'"]');

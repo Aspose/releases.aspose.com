@@ -1,5 +1,6 @@
 ---
 title: "On-premise SVG Parser & Convertor API | Aspose.SVG for .NET"
+linktitle: "Aspose.SVG for .NET"
 description: "Download flexible .NET library for SVG file processing. API can easily load, save and convert SVG files as well as read and traverse the elements of file through its Document Object Model (DOM). "
 keywords: "SVG .NET API "
 family_listing_page_title: "Aspose.SVG for .NET"
