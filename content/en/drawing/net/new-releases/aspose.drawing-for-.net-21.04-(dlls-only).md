@@ -39,7 +39,7 @@ weight: 63
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/drawing/net/aspose-drawing-for-net-21-04-release-notes/">https://docs.aspose.com/drawing/net/aspose-drawing-for-net-21-04-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">This ZIP file contains the Aspose.Drawing for .NET Framework 2.0 and .NET Standard 2.0 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.Drawing without the MSI installer.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/drawing/net/release-notes/2021/aspose-drawing-for-net-21-4-release-notes/">https://releases.aspose.com/drawing/net/release-notes/2021/aspose-drawing-for-net-21-4-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">This ZIP file contains the Aspose.Drawing for .NET Framework 2.0 and .NET Standard 2.0 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.Drawing without the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

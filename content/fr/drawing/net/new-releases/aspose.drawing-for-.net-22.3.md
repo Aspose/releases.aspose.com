@@ -39,7 +39,7 @@ weight: 86
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href="https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-3-release-notes/">https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-3-release-notes/</a></div><h4> La description</h4><div class="HTMLDescription"> Le programme d'installation MSI pour Aspose.Drawing pour .NET 22.3</div>
+<h4>Notes de version</h4><div> <a href="https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-3-release-notes/">https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-3-release-notes/</a></div><h4> La description</h4><div class="HTMLDescription"> Le programme d'installation MSI pour Aspose.Drawing pour .NET 22.3</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Caractéristiques notables">}}
@@ -75,7 +75,7 @@ Ajout de la propriété copiable IsGenericTypographic StringFormat pour mieux g�
 
 Ajout de la fonctionnalité de rotation et de retournement des graphiques BMP bitmap 24 bits.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Drawing for .NET 22.3 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-3-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Drawing for .NET 22.3 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

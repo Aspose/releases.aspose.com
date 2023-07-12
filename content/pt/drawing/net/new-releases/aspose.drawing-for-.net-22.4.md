@@ -36,7 +36,7 @@ weight: 88
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lançamento</h4><div> <a href="https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-4-release-notes/">https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-4-release-notes/</a></div><h4> Descrição</h4><div class="HTMLDescription"> O instalador MSI para Aspose.Drawing for .NET 22.4</div>
+<h4>Notas de lançamento</h4><div> <a href="https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-4-release-notes/">https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-4-release-notes/</a></div><h4> Descrição</h4><div class="HTMLDescription"> O instalador MSI para Aspose.Drawing for .NET 22.4</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Recursos notáveis">}}
@@ -55,7 +55,7 @@ Adicionado suporte para transparência de arquivos GIF.
 
 Melhorado o suporte para os codecs de imagem.
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Drawing for .NET 22.4 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-4-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Drawing for .NET 22.4 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

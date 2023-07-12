@@ -14,7 +14,7 @@ file_size: "File Size: 6.77MB"
 parent_path: "drawing/net"
 section_parent_path: "drawing/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-7-release-notes/"
 weight: 94
 ---
 
@@ -37,7 +37,7 @@ weight: 94
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lançamento</h4><div> <a href='https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-7-release-notes/'>https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-7-release-notes/</a></div>
+<h4>Notas de lançamento</h4><div> <a href='https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-7-release-notes/'>https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -57,7 +57,7 @@ Adicionada a opção de fallback de fonte para substrings.
 
 Implementou as melhorias no desempenho da filtragem bicúbica.
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Drawing for .NET 22.7 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-7-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Drawing for .NET 22.7 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

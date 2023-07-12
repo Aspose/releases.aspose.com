@@ -14,7 +14,7 @@ file_size: "File Size: 6.77MB"
 parent_path: "drawing/net"
 section_parent_path: "drawing/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-8-release-notes/"
 weight: 96
 ---
 
@@ -37,7 +37,7 @@ weight: 96
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lanzamiento</h4><div> <a href='https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-8-release-notes/'>https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-8-release-notes/</a></div>
+<h4>Notas de lanzamiento</h4><div> <a href='https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-8-release-notes/'>https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -53,7 +53,7 @@ Posibilidad de guardar GIF desde un archivo o a través de una transmisión.
 
 Capacidad para formatear el texto girado.
 
-> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Drawing for .NET 22.8 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-8-release-notes/).
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Drawing for .NET 22.8 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

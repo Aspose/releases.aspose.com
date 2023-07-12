@@ -39,7 +39,7 @@ weight: 84
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Release Notes</h4><div><a href="https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-2-release-notes/">https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-2-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">The MSI installer for Aspose.Drawing for .NET 22.2</div>
+<h4>Release Notes</h4><div><a href="https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-2-release-notes/">https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-2-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">The MSI installer for Aspose.Drawing for .NET 22.2</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Notable Features">}}
@@ -75,7 +75,7 @@ Added various types of standard [line cap shapes](https://reference.aspose.com/d
 
 This release has enhanced support for the TIFF (Tagged Image File Format) raster graphics.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Drawing for .NET 22.2 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-2-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Drawing for .NET 22.2 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 
