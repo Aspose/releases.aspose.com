@@ -22,7 +22,7 @@ weight:  1
 Открытым
 {{< Common/link href="https://www.nuget.org/packages/Aspose.TeX/" text="NuGet"  >}}Диспетчер пакетов в Microsoft Visual Studio®, найдите <b>Aspose.TeX</b> и установите. Вы также можете использовать следующую команду в консоли диспетчера пакетов. Подробные инструкции см.
 {{< Common/link href="https://docs.aspose.com/tex/net/getting-started/installation/" text="Монтаж"  >}}страница документации.
-{{< Common/release-notes-link family="tex" product="net" href="https://docs.aspose.com/tex/net/release-notes/" text="https://docs.aspose.com/tex/net/release-notes/"  >}}
+{{< Common/release-notes-link family="tex" product="net" href="https://releases.aspose.com/tex/net/release-notes/" text="https://releases.aspose.com/tex/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

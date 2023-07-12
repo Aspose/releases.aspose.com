@@ -22,7 +22,7 @@ weight:  1
 Açık
 {{< Common/link href="https://www.nuget.org/packages/Aspose.TeX/" text="NuGet"  >}}Microsoft Visual Studio® içinde Paket Yöneticisi, <b>Aspose.TeX'i</b> arayın ve kurun. Paket Yöneticisi Konsolunda aşağıdaki komutu da kullanabilirsiniz. Ayrıntılı talimatlar için lütfen ziyaret edin
 {{< Common/link href="https://docs.aspose.com/tex/net/getting-started/installation/" text="Kurulum"  >}}dokümantasyon sayfası.
-{{< Common/release-notes-link family="tex" product="net" href="https://docs.aspose.com/tex/net/release-notes/" text="https://docs.aspose.com/tex/net/release-notes/"  >}}
+{{< Common/release-notes-link family="tex" product="net" href="https://releases.aspose.com/tex/net/release-notes/" text="https://releases.aspose.com/tex/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
