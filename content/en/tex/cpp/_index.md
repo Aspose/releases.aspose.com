@@ -1,5 +1,6 @@
 ---
 title: "Download TeX Creation & TypeSetting C++ DLL | Aspose.TeX API"
+linktitle: "Aspose.TeX for C++"
 description: "Download TeX File TypeSetting C++ DLL containing class library with features like creating custom TeX formats via API. Supports 40+ embedded fonts. Convert TeX."
 keywords: "tex"
 family_listing_page_title: "Aspose.TeX for C++"
