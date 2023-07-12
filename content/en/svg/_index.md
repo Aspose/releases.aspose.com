@@ -1,5 +1,6 @@
 ---
 title: "Download SVG Parser & Convertor .NET DLL | Aspose.SVG API"
+linktitle: "Aspose.SVG"
 description: "Download DLL containing C# class library to integrate SVG vector image file creation, editing, rendering & conversion features within your .NET Apps via API."
 keywords: "SVG .NET API"
 family_listing_page_title: "Aspose.SVG Product Family"
