@@ -39,7 +39,7 @@ weight: 6
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/tex/net/aspose-tex-for-net-21-3-release-notes/">https://docs.aspose.com/tex/net/aspose-tex-for-net-21-3-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur Aspose.TeX für .NET-Assemblys und Dokumentation. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.TeX ohne den MSI-Installer verwenden möchten, dh Sie können MSI-Installer nicht auf Mono ausführen.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/tex/net/release-notes/2021/aspose-tex-for-net-21-3-release-notes/">https://releases.aspose.com/tex/net/release-notes/2021/aspose-tex-for-net-21-3-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur Aspose.TeX für .NET-Assemblys und Dokumentation. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.TeX ohne den MSI-Installer verwenden möchten, dh Sie können MSI-Installer nicht auf Mono ausführen.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

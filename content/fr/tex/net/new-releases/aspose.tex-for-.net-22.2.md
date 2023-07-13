@@ -39,7 +39,7 @@ weight: 15
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href="https://docs.aspose.com/tex/net/aspose-tex-for-net-22-2-release-notes/">https://docs.aspose.com/tex/net/aspose-tex-for-net-22-2-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href="https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-2-release-notes/">https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-2-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -72,7 +72,7 @@ La rastérisation des formules vous permet de convertir toutes les formules math
 options.SaveOptions.RasterizeFormulas = true;
 ```
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.TeX for .NET 22.2 Release Notes](https://docs.aspose.com/tex/net/aspose-tex-for-net-22-2-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.TeX for .NET 22.2 Release Notes](https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

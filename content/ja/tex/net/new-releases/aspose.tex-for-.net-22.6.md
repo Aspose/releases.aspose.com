@@ -13,7 +13,7 @@ download_count: " 16/6/2022 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 68.46MB"
 parent_path: "tex/net"
 section_parent_path: "tex/net"
-release_notes_url: "https://docs.aspose.com/tex/net/aspose-tex-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-6-release-notes/"
 weight: 20
 ---
 
@@ -37,7 +37,7 @@ weight: 20
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>リリースノート</h4><div><a href='https://docs.aspose.com/tex/net/aspose-tex-for-net-22-6-release-notes/'>https://docs.aspose.com/tex/net/aspose-tex-for-net-22-6-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href='https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-6-release-notes/'>https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -75,7 +75,7 @@ new TeXJob(Path.Combine(RunExamples.InputDirectory, "hello-world.ltx"), new Imag
 
 Previously the hyperlinks were having alignment issues. Now the hyperlinks in text are correctly being aligned to left, right and center using API.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.TeX for .NET 22.6 リリースノート](https://docs.aspose.com/tex/net/aspose-tex-for-net-22-6-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.TeX for .NET 22.6 リリースノート](https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 
