@@ -1,5 +1,6 @@
 ---
 title: "Download C# Library to Read, Convert PUB Files | Aspose.PUB"
+linktitle: "Aspose.PUB for .NET"
 description: "Download C# class library DLL to Read & Convert Microsoft Publisher® (PUB) files to PDF format via .NET on-premise API. Edit the metadata of PUB files."
 keywords: ".NET Publisher API"
 family_listing_page_title: "Aspose.PUB for .NET"
