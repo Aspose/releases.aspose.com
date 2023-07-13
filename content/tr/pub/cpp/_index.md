@@ -21,7 +21,7 @@ tags: ['API', 'Aspose', 'Aspose.PUB', 'Aspose.Total', 'Assembly', 'C++', 'Compon
 Açık
 {{< Common/link href="https://www.nuget.org/packages/Aspose.PUB.Cpp/" text="NuGet"  >}}Microsoft Visual Studio® içinde Paket Yöneticisi, <b>Aspose.PUB.Cpp'yi</b> arayın ve kurun. Paket Yöneticisi Konsolunda aşağıdaki komutu da kullanabilirsiniz. Ayrıntılı talimatlar için lütfen adresini ziyaret edin.
 {{< Common/link href="https://docs.aspose.com/pub/cpp/installation/" text="Kurulum"  >}}dokümantasyon sayfası.
-{{< Common/release-notes-link family="pub" product="cpp" href="https://docs.aspose.com/pub/cpp/release-notes/" text="https://docs.aspose.com/pub/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="pub" product="cpp" href="https://releases.aspose.com/pub/cpp/release-notes/" text="https://releases.aspose.com/pub/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

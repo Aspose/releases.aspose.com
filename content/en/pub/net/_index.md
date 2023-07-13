@@ -21,7 +21,7 @@ tags: ['Aspose.PUB', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'API', 'C
 {{< Common/h2 text="Download Aspose.PUB to Process PUB files"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.PUB/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.PUB</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/pub/net/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="pub" product="net" href="https://docs.aspose.com/pub/net/release-notes/" text="https://docs.aspose.com/pub/net/release-notes/"  >}}
+{{< Common/release-notes-link family="pub" product="net" href="https://releases.aspose.com/pub/net/release-notes/" text="https://releases.aspose.com/pub/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

@@ -22,7 +22,7 @@ tags: ['Aspose.PUB', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'API', 'C
 Açık
 {{< Common/link href="https://www.nuget.org/packages/Aspose.PUB/" text="NuGet"  >}}Microsoft Visual Studio® içinde Paket Yöneticisi, <b>Aspose.PUB'u</b> arayın ve kurun. Paket Yöneticisi Konsolunda aşağıdaki komutu da kullanabilirsiniz. Ayrıntılı talimatlar için lütfen ziyaret edin
 {{< Common/link href="https://docs.aspose.com/pub/net/installation/" text="Kurulum"  >}}dokümantasyon sayfası.
-{{< Common/release-notes-link family="pub" product="net" href="https://docs.aspose.com/pub/net/release-notes/" text="https://docs.aspose.com/pub/net/release-notes/"  >}}
+{{< Common/release-notes-link family="pub" product="net" href="https://releases.aspose.com/pub/net/release-notes/" text="https://releases.aspose.com/pub/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

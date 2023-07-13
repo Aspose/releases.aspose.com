@@ -21,7 +21,7 @@ tags: ['API', 'Aspose', 'Aspose.PUB', 'Aspose.Total', 'Assembly', 'C++', 'Compon
 Abrir
 {{< Common/link href="https://www.nuget.org/packages/Aspose.PUB.Cpp/" text="NuGetName"  >}}Package Manager dentro do Microsoft Visual Studio®, procure por <b>Aspose.PUB.Cpp</b> e instale. Você também pode usar o seguinte comando no Console do Gerenciador de Pacotes. Para obter instruções detalhadas, visite o
 {{< Common/link href="https://docs.aspose.com/pub/cpp/installation/" text="Instalação"  >}}página de documentação.
-{{< Common/release-notes-link family="pub" product="cpp" href="https://docs.aspose.com/pub/cpp/release-notes/" text="https://docs.aspose.com/pub/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="pub" product="cpp" href="https://releases.aspose.com/pub/cpp/release-notes/" text="https://releases.aspose.com/pub/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
