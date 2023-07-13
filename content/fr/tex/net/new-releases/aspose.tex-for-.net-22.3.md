@@ -40,7 +40,7 @@ weight: 16
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Notes de version</h4><div> <a href="https://docs.aspose.com/tex/net/aspose-tex-for-net-22-3-release-notes/">https://docs.aspose.com/tex/net/aspose-tex-for-net-22-3-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href="https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-3-release-notes/">https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-3-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -100,7 +100,7 @@ Ajout de la prise en charge de l'inclusion de graphiques dans les formats PS (Po
 
 Cette version de l'API offre la prise en charge du package `tikz` qui peut être utilisé pour créer des éléments graphiques complexes dans LaTeX.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.TeX for .NET 22.3 Release Notes](https://docs.aspose.com/tex/net/aspose-tex-for-net-22-3-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.TeX for .NET 22.3 Release Notes](https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

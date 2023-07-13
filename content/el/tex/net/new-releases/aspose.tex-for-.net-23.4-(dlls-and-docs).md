@@ -16,7 +16,7 @@ parent_path: "tex/net"
 section_parent_path: "tex/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/tex/net/aspose-tex-for-net-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-4-release-notes/"
 weight: 34
 
 ---
@@ -40,7 +40,7 @@ weight: 34
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/tex/net/aspose-tex-for-net-23-4-release-notes/'>https://docs.aspose.com/tex/net/aspose-tex-for-net-23-4-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-4-release-notes/'>https://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει aspose.tex για απελευθέρωση .NET 23.4 (DLLS και DOCS).</div>

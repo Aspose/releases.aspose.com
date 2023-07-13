@@ -15,7 +15,7 @@ file_size: "File Size: 47.9 MB"
 parent_path: "tex/cpp"
 section_parent_path: "tex/cpp"
 
-release_notes_url: "https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/tex/cpp/release-notes/2022/aspose-tex-for-cpp-22-5-release-notes/"
 weight: 41
 
 ---
@@ -39,7 +39,7 @@ weight: 41
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-22-5-release-notes/'>https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-22-5-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/tex/cpp/release-notes/2022/aspose-tex-for-cpp-22-5-release-notes/'>https://releases.aspose.com/tex/cpp/release-notes/2022/aspose-tex-for-cpp-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.TeX für C++ 22.5 Linux-Release.</div>

@@ -16,7 +16,7 @@ parent_path: "tex/net"
 section_parent_path: "tex/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/tex/net/aspose-tex-for-net-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-6-release-notes/"
 weight: 38
 
 ---
@@ -40,7 +40,7 @@ weight: 38
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/tex/net/aspose-tex-for-net-23-6-release-notes/'>https://docs.aspose.com/tex/net/aspose-tex-for-net-23-6-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-6-release-notes/'>https://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含.net 23.6释放的Aspose.tex。</div>

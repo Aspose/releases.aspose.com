@@ -40,7 +40,7 @@ weight: 16
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>リリースノート</h4><div><a href="https://docs.aspose.com/tex/net/aspose-tex-for-net-22-3-release-notes/">https://docs.aspose.com/tex/net/aspose-tex-for-net-22-3-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href="https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-3-release-notes/">https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-3-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -100,7 +100,7 @@ Added the support for graphics inclusion in the PS (PostScript), EPS (Encapsulat
 
 This release of API offers the support for `tikz` Package which can be used to create complex graphic elements in LaTeX.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.TeX for .NET 22.3 リリースノート](https://docs.aspose.com/tex/net/aspose-tex-for-net-22-3-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.TeX for .NET 22.3 リリースノート](https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 
