@@ -3,7 +3,7 @@ id: "aspose-tex-for-net-22-6-release-notes"
 slug: "aspose-tex-for-net-22-6-release-notes"
 linktitle: "Aspose.TeX for .NET 22.6 Release Notes"
 title: "Aspose.TeX for .NET 22.6 Release Notes"
-weight: 15
+weight: 16
 description: "C# .NET API Solution for developers to manipulate and process TeX and LaTeX files. Release Notes of Aspose.TeX API solution for .NET | Release 2022.06"
 type: "repository"
 layout: "release"
