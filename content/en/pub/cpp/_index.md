@@ -1,5 +1,6 @@
 ---
 title: "Download Publisher® File Converter C++ DLL | Aspose.PUB API"
+linktitle: "Aspose.PUB for C++"
 description: "Download PUB file reader & converter C++ DLL class library to work with MS Publisher® files via on-premise API. Read & Edit PUB metadata. Convert PUB to PDF."
 family_listing_page_title: "Aspose.PUB for C++"
 family_listing_page_description: "Aspose.PUB for C++ is a simple API that allows to read & convert Microsoft Publisher® (PUB) files to PDF format programmatically in your C++ Apps. It also provides easy to understand interfaces to edit metadata of PUB files."

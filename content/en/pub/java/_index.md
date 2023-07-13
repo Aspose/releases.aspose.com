@@ -1,6 +1,6 @@
 ---
 title: Aspose.PUB | Electronic Publishing Files Java Class Library
-linktitle: Aspose.PUB
+linktitle: Aspose.PUB for Java
 description: Java library to parse, process and convert Publisher document formats to PDF. Implement the functionality into your own product.
 layout: packages
 type: repository
