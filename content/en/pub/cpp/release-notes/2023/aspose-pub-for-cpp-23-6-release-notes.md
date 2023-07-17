@@ -15,7 +15,7 @@ menuItemWithNoContent: false
 
 ## Major Features
 
-Incorrect size of table rows has been fixed. For more details see [Aspose.PUB for .NET 23.6](https://docs.aspose.com/pub/net/aspose-pub-for-net-23-6-release-notes/).
+Incorrect size of table rows has been fixed. For more details see [Aspose.PUB for .NET 23.6](https://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-6-release-notes/).
 
 ## Got Queries?
 If you have any query related to Aspose.PUB for C++ API, please feel free to write to reach us on [Aspose.PUB forum](https://forum.aspose.com/c/pub/). We'll be glad to assist you with your inquiries.

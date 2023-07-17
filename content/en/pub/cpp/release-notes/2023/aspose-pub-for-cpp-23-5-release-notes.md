@@ -15,7 +15,7 @@ menuItemWithNoContent: false
 
 ## Major Features
 
-Support for processing Publisher tables has been added. For more details see [Aspose.PUB for .NET 23.5](https://docs.aspose.com/pub/net/aspose-pub-for-net-23-5-release-notes/).
+Support for processing Publisher tables has been added. For more details see [Aspose.PUB for .NET 23.5](https://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-5-release-notes/).
 
 ## Got Queries?
 If you have any query related to Aspose.PUB for C++ API, please feel free to write to reach us on [Aspose.PUB forum](https://forum.aspose.com/c/pub/). We'll be glad to assist you with your inquiries.
