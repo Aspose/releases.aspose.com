@@ -16,7 +16,7 @@ parent_path: "pub/net"
 section_parent_path: "pub/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/pub/net/aspose-pub-for-net-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/pub/net/release-notes/2023/aspose-pub-for-net-23-6-release-notes/"
 weight: 36
 
 ---
@@ -40,7 +40,7 @@ weight: 36
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/pub/net/aspose-pub-for-net-23-6-release-notes/'>https://docs.aspose.com/pub/net/aspose-pub-for-net-23-6-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/pub/net/release-notes/2023/aspose-pub-for-net-23-6-release-notes/'>https://releases.aspose.com/pub/net/release-notes/2023/aspose-pub-for-net-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Этот zip -файл содержит только Aspose.pub для .NET Assemblies. Сборки такие же, как в установщике MSI продукта той же версии. Загрузите это, если вы хотите использовать Aspose.pub без установщика MSI, то есть вы не можете запустить установщики MSI на моно.</div>

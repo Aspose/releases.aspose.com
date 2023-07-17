@@ -39,7 +39,7 @@ weight: 39
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-21-6-release-notes/">https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-21-6-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/pub/cpp/release-notes/2021/aspose-pub-for-cpp-21-6-release-notes/">https://releases.aspose.com/pub/cpp/release-notes/2021/aspose-pub-for-cpp-21-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

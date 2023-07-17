@@ -39,7 +39,7 @@ weight: 25
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href="https://docs.aspose.com/pub/net/aspose-pub-for-net-21-6-release-notes/">https://docs.aspose.com/pub/net/aspose-pub-for-net-21-6-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href="https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-6-release-notes/">https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="注目すべき機能">}}
@@ -58,7 +58,7 @@ weight: 25
 
 このリリースでは、Microsoft Publisher® 2000 `PUB` ファイルのサポートが追加されています。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.PUB for .NET 21.6 Release Notes](https://docs.aspose.com/pub/net/aspose-pub-for-net-21-6-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.PUB for .NET 21.6 Release Notes](https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-6-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 
