@@ -14,7 +14,7 @@ file_size: "File Size: 19.04MB"
 parent_path: "svg/net"
 section_parent_path: "svg/net"
 
-release_notes_url : "https://docs.aspose.com/svg/net/aspose-svg-for-net-22-6-release-notes/"
+release_notes_url : "https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-6-release-notes/"
 weight: 113
 ---
 
@@ -37,7 +37,7 @@ weight: 113
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href='https://docs.aspose.com/svg/net/aspose-svg-for-net-22-6-release-notes/'>https://docs.aspose.com/svg/net/aspose-svg-for-net-22-6-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href='https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-6-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -53,7 +53,7 @@ Ajout de la prise en charge du rendu des éléments SVG TextPath.
 
 Ajout de la prise en charge de la conversion des couleurs conformément aux spécifications CSS *[Color Module Level 4](https://www.w3.org/TR/css-color-4/)* & *[CSS Color Module Level 5](https://www.w3.org/TR/css-color-5/)*.
 
-Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.SVG for .NET 22.6 Release Notes](https://docs.aspose.com/svg/net/aspose-svg-for-net-22-6-release-notes/).
+Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.SVG for .NET 22.6 Release Notes](https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

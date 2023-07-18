@@ -39,7 +39,7 @@ weight: 103
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href="https://docs.aspose.com/svg/net/aspose-svg-for-net-22-1-release-notes/">https://docs.aspose.com/svg/net/aspose-svg-for-net-22-1-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href="https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-1-release-notes/">https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-1-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -106,7 +106,7 @@ using Aspose.Svg.Saving;
     document.Save(Path.Combine(OutputDir, "png-to-svg.svg"));
 ```
 
-Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.SVG for .NET 22.1 Release Notes](https://docs.aspose.com/svg/net/aspose-svg-for-net-22-1-release-notes/).
+Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.SVG for .NET 22.1 Release Notes](https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

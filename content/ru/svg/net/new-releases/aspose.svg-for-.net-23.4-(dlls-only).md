@@ -16,7 +16,7 @@ parent_path: "svg/net"
 section_parent_path: "svg/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/svg/net/aspose-svg-for-net-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-4-release-notes/"
 weight: 131
 
 ---
@@ -40,7 +40,7 @@ weight: 131
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/svg/net/aspose-svg-for-net-23-4-release-notes/'>https://docs.aspose.com/svg/net/aspose-svg-for-net-23-4-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-4-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Этот zip -файл содержит только aspose.svg для сборок .net. Сборки такие же, как в установщике MSI продукта той же версии. Загрузите это, если вы хотите использовать Aspose.svg с</div>

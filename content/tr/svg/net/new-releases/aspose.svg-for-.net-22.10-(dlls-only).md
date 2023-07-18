@@ -16,7 +16,7 @@ parent_path: "svg/net"
 section_parent_path: "svg/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/svg/net/aspose-svg-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-10-release-notes/"
 weight: 120
 
 ---
@@ -40,7 +40,7 @@ weight: 120
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div> <a href='https://docs.aspose.com/svg/net/aspose-svg-for-net-22-10-release-notes/'>https://docs.aspose.com/svg/net/aspose-svg-for-net-22-10-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div> <a href='https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-10-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription"> Bu ZIP dosyası yalnızca Aspose.SVG for .NET derlemelerini içerir. Montajlar, aynı sürümdeki ürünün MSI yükleyicisindeki ile aynıdır. Aspose.SVG'yi MSI yükleyicisi olmadan kullanmak istiyorsanız, yani Mono'da MSI yükleyicilerini çalıştıramazsınız, bunu indirin. Bu ZIP yüklemesi, MSI yükleyicisinde bulunan Microsoft Yardım biçimindeki kullanıcı belgelerini içermez.</div>

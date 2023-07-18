@@ -16,7 +16,7 @@ parent_path: "svg/net"
 section_parent_path: "svg/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/svg/net/aspose-svg-for-net-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-4-release-notes/"
 weight: 132
 
 ---
@@ -40,7 +40,7 @@ weight: 132
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/svg/net/aspose-svg-for-net-23-4-release-notes/'>https://docs.aspose.com/svg/net/aspose-svg-for-net-23-4-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-4-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">.NET 23.4 sürümü için aspose.svg içerir.</div>

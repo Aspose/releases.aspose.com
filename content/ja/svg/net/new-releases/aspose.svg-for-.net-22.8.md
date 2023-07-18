@@ -15,7 +15,7 @@ parent_path: "svg/net"
 section_parent_path: "svg/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/svg/net/aspose-svg-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-8-release-notes/"
 weight: 117
 ---
 
@@ -38,7 +38,7 @@ weight: 117
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href='https://docs.aspose.com/svg/net/aspose-svg-for-net-22-8-release-notes/'>https://docs.aspose.com/svg/net/aspose-svg-for-net-22-8-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href='https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-8-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ Further improvements have been made and the a more expanded interface has been p
 
 Optimizations has been made to run the CSS processing code in a faster and more efficient manner.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.SVG for .NET 22.8 リリースノート](https://docs.aspose.com/svg/net/aspose-svg-for-net-22-8-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.SVG for .NET 22.8 リリースノート](https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 
