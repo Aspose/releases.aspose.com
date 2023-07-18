@@ -1,6 +1,7 @@
 ---
 title: "Download Doc Compression & Archiving DLL | Aspose.ZIP C# API"
 description: "Download DLL containing C# Class Library to create, manipulate, extract, protect archive file formats; ZIP, BZIP, BZ2, TAR via .NET on-premise High Code API."
+linktitle: "Aspose.ZIP for .NET"
 keywords: "ZIP API .NET"
 family_listing_page_title: "Aspose.ZIP for .NET"
 family_listing_page_description: "Aspose.ZIP for .NET is a flexible and easy to use .NET API that lets you work with files compression in standard zip format. It saves you time and efforts by allowing you to achieve compression/decompression of files and folders without going into the underlying complexity of the compress file formats."
