@@ -14,7 +14,7 @@ file_size: "File Size: 106.26MB"
 parent_path: "pub/net"
 section_parent_path: "pub/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/"
 weight: 32
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 32
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Выпуск заметок</h4>
-<a href='https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/'>https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/</a>
+<a href='https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/'>https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Описание</h4>
@@ -49,7 +49,7 @@ weight: 32
 
 Эта версия Microsoft Publisher & Reg; API вводит поддержку дозированного лицензирования. Этот тип лицензии допускает ежемесячный платеж вместо завершения аванса. Другое преимущество заключается в том, что ежемесячная плата в соответствии с использованием API.
 
-> Для полного списка функций, улучшений и исправлений ошибок в этом выпуске, пожалуйста, посетите, [Asposepub для Net 2211.](https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/).
+> Для полного списка функций, улучшений и исправлений ошибок в этом выпуске, пожалуйста, посетите, [Asposepub для Net 2211.](https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

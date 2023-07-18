@@ -14,7 +14,7 @@ file_size: "File Size: 106.26MB"
 parent_path: "pub/net"
 section_parent_path: "pub/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/"
 weight: 32
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 32
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Notas de lanzamiento</h4>
-<a href='https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/'>https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/</a>
+<a href='https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/'>https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Descripción</h4>
@@ -49,7 +49,7 @@ weight: 32
 
 Esta versión del Microsoft Publisher & Reg; API presenta el soporte para licencias medidas. Este tipo de licencia permite el pago mensual en lugar de completo por adelantado. Otro beneficio es que la carga mensual es según el uso de la API.
 
-> Para obtener una lista completa de características, mejoras y correcciones de errores en esta versión, visite, [AsposePub para Notas de versión neta 2211](https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/).
+> Para obtener una lista completa de características, mejoras y correcciones de errores en esta versión, visite, [AsposePub para Notas de versión neta 2211](https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

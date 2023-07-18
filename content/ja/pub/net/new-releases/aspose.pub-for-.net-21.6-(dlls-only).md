@@ -39,7 +39,7 @@ weight: 24
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/pub/net/aspose-pub-for-net-21-6-release-notes/">https://docs.aspose.com/pub/net/aspose-pub-for-net-21-6-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">このzipファイルには、.netアセンブリ用のAsops.pubのみが含まれています。アセンブリは、同じバージョンの製品のMSIインストーラーと同じです。 MSIインストーラーなしでasophes.pubを使用する場合は、これをダウンロードします。つまり、MONOでMSIインストーラーを実行できません。</div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-6-release-notes/">https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-6-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">このzipファイルには、.netアセンブリ用のAsops.pubのみが含まれています。アセンブリは、同じバージョンの製品のMSIインストーラーと同じです。 MSIインストーラーなしでasophes.pubを使用する場合は、これをダウンロードします。つまり、MONOでMSIインストーラーを実行できません。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

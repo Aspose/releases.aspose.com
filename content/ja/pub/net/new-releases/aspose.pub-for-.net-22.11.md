@@ -14,7 +14,7 @@ file_size: "File Size: 106.26MB"
 parent_path: "pub/net"
 section_parent_path: "pub/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/"
 weight: 32
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 32
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>リリースノート</h4>
-<a href='https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/'>https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/</a>
+<a href='https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/'>https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>説明</h4>
@@ -49,7 +49,7 @@ weight: 32
 
 Microsoft Publisher＆Reg;のこのバージョンAPIは、メーター付きライセンスのサポートを紹介します。このタイプのライセンスにより、完全な前払いではなく、毎月の支払いが可能になります。もう1つの利点は、毎月の充電がAPIの使用に従ってであることです。
 
->このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Net 2211リリースノートのAsposePub](https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/)にアクセスしてください。
+>このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Net 2211リリースノートのAsposePub](https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/)にアクセスしてください。
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

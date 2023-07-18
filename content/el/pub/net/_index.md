@@ -22,7 +22,7 @@ tags: ['Aspose.PUB', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'API', 'C
 Ανοιξε
 {{< Common/link href="https://www.nuget.org/packages/Aspose.PUB/" text="NuGet"  >}}Διαχειριστής πακέτων στο Microsoft Visual Studio®, αναζητήστε το <b>Aspose.PUB</b> και εγκαταστήστε το. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή στην Κονσόλα Package Manager. Για αναλυτικές οδηγίες, επισκεφθείτε το
 {{< Common/link href="https://docs.aspose.com/pub/net/installation/" text="Εγκατάσταση"  >}}σελίδα τεκμηρίωσης.
-{{< Common/release-notes-link family="pub" product="net" href="https://docs.aspose.com/pub/net/release-notes/" text="https://docs.aspose.com/pub/net/release-notes/"  >}}
+{{< Common/release-notes-link family="pub" product="net" href="https://releases.aspose.com/pub/net/release-notes/" text="https://releases.aspose.com/pub/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

@@ -16,7 +16,7 @@ parent_path: "pub/cpp"
 section_parent_path: "pub/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-2-release-notes/"
 weight: 72
 
 ---
@@ -40,7 +40,7 @@ weight: 72
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-23-2-release-notes/'>https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-23-2-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-2-release-notes/'>https://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.PUB for C++ 23.2 native library</div>

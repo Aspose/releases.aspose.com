@@ -36,7 +36,7 @@ weight: 29
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div> <a href="https://docs.aspose.com/pub/net/aspose-pub-for-net-22-5-release-notes/">https://docs.aspose.com/pub/net/aspose-pub-for-net-22-5-release-notes/</a></div>
+<h4>Sürüm notları</h4><div> <a href="https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-5-release-notes/">https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Önemli Özellikler">}}
@@ -61,7 +61,7 @@ var doc = parser.Parse();
 Aspose.Pub.PubFactory.CreatePdfConverter().ConvertToPdf(doc, dataDir + "result_out.pdf");
 ```
 
-> Bu sürümde düzeltilen özelliklerin, geliştirmelerin ve hataların tam listesi için lütfen [Aspose.PUB for .NET 22.5 Release Notes](https://docs.aspose.com/pub/net/aspose-pub-for-net-22-5-release-notes/) adresini ziyaret edin.
+> Bu sürümde düzeltilen özelliklerin, geliştirmelerin ve hataların tam listesi için lütfen [Aspose.PUB for .NET 22.5 Release Notes](https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-5-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -16,7 +16,7 @@ parent_path: "pub/cpp"
 section_parent_path: "pub/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/pub/cpp/release-notes/2022/aspose-pub-for-cpp-22-7-release-notes/"
 weight: 54
 
 ---
@@ -40,7 +40,7 @@ weight: 54
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-22-7-release-notes/'>https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-22-7-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/pub/cpp/release-notes/2022/aspose-pub-for-cpp-22-7-release-notes/'>https://releases.aspose.com/pub/cpp/release-notes/2022/aspose-pub-for-cpp-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Aspose.pub pour C ++ 22.7 Bibliothèque native</div>
