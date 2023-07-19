@@ -16,7 +16,7 @@ parent_path: "zip/net"
 section_parent_path: "zip/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-8-release-notes/"
 weight: 107
 
 ---
@@ -40,7 +40,7 @@ weight: 107
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-8-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-8-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-8-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Aspose.zip для выпуска .net 22.8 (только DLL).</div>

@@ -39,7 +39,7 @@ weight: 99
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href="https://docs.aspose.com/zip/net/aspose-zip-for-net-22-3-release-notes/">https://docs.aspose.com/zip/net/aspose-zip-for-net-22-3-release-notes/</a></div><h4> La description</h4><div class="HTMLDescription"> Aspose.ZIP pour la version .NET 22.3.</div>
+<h4>Notes de version</h4><div> <a href="https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-3-release-notes/">https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-3-release-notes/</a></div><h4> La description</h4><div class="HTMLDescription"> Aspose.ZIP pour la version .NET 22.3.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Caractéristiques notables">}}
@@ -54,7 +54,7 @@ Extrayez les archives `CAB` qui ont été compressées à l'aide des algorithmes
 
 Amélioration de l'extraction de `RAR5` crypté dans .NET 6.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.ZIP for .NET 22.3 Release Notes](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-3-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.ZIP for .NET 22.3 Release Notes](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

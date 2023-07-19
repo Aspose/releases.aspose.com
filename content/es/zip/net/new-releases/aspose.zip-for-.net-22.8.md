@@ -15,7 +15,7 @@ parent_path: "zip/net"
 section_parent_path: "zip/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-8-release-notes/"
 weight: 108
 ---
 
@@ -38,7 +38,7 @@ weight: 108
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lanzamiento</h4><div> <a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-8-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-8-release-notes/</a></div>
+<h4>Notas de lanzamiento</h4><div> <a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-8-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ Se eliminaron las clases y el espacio de nombres UnRAR obsoletos.
 
 Posibilidad de establecer el número de bytes rápidos para la compresión `LZMA2`.
 
-> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.ZIP for .NET 22.8 Release Notes](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-8-release-notes/).
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.ZIP for .NET 22.8 Release Notes](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

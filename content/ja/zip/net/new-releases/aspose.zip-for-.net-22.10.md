@@ -14,7 +14,7 @@ file_size: "File Size: 9.45MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-10-release-notes/"
 weight: 113
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 113
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>リリースノート</h4>
-<a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-10-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-10-release-notes/</a>
+<a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-10-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-10-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>説明</h4>
@@ -61,7 +61,7 @@ zipコンテナ内のエントリのコメントを取得する機能。
 
 ZIPアーカイブ抽出でエンコードを取得または設定する機能。
 
->このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Net 2210リリースノートのAsopsionzip](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-10-release-notes/)にアクセスしてください。
+>このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Net 2210リリースノートのAsopsionzip](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-10-release-notes/)にアクセスしてください。
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}
