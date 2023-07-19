@@ -39,7 +39,7 @@ weight: 105
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href="https://docs.aspose.com/svg/net/aspose-svg-for-net-22-2-release-notes/">https://docs.aspose.com/svg/net/aspose-svg-for-net-22-2-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href="https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-2-release-notes/">https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-2-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -51,7 +51,7 @@ weight: 105
 
 Améliorations des algorithmes de traitement de texte (correspondance des unités de code aux glyphes) pour les langues non latines. Alors maintenant, les scripts arabes, chinois, hébreux et hindis seront traités avec plus de précision.
 
-Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.SVG for .NET 22.2 Release Notes](https://docs.aspose.com/svg/net/aspose-svg-for-net-22-2-release-notes/).
+Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.SVG for .NET 22.2 Release Notes](https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

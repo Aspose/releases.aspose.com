@@ -14,7 +14,7 @@ file_size: "File Size: 9.57MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-11-release-notes/"
 weight: 114
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 114
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Versionshinweise</h4>
-<a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-11-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-11-release-notes/</a>
+<a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-11-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-11-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Beschreibung</h4>
@@ -53,7 +53,7 @@ Diese API -Veröffentlichung führte die Unterstützung der PPMD' -Komprimierung
 
 Fähigkeit, den Fortschritt der Komprimierung für den 7Z -Eintrag zu melden.
 
-> Für eine vollständige Liste von Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version besuchen Sie bitte [Asiszip für Net 2211 -Versionsnotizen](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-11-release-notes/).
+> Für eine vollständige Liste von Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version besuchen Sie bitte [Asiszip für Net 2211 -Versionsnotizen](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-11-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

@@ -39,7 +39,7 @@ weight: 55
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/zipnet/Aspose.ZIP+for+.NET+19.6+Release+Notes">https://docs.aspose.com/display/zipnet/Aspose.ZIP+for+.NET+19.6+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">Aspose.ZIP for .NET 19.6 release.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/zip/net/release-notes/2019/aspose-zip-for-net-19-9-release-notes/">https://releases.aspose.com/zip/net/release-notes/2019/aspose-zip-for-net-19-9-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Aspose.ZIP for .NET 19.6 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -16,7 +16,7 @@ parent_path: "svg/net"
 section_parent_path: "svg/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/svg/net/aspose-svg-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-10-release-notes/"
 weight: 120
 
 ---
@@ -40,7 +40,7 @@ weight: 120
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/svg/net/aspose-svg-for-net-22-10-release-notes/'>https://docs.aspose.com/svg/net/aspose-svg-for-net-22-10-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-10-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">この ZIP ファイルには、Aspose.SVG for .NET アセンブリのみが含まれています。アセンブリは、同じバージョンの製品の MSI インストーラーと同じです。 MSI インストーラーなしで Aspose.SVG を使用する場合、つまり Mono で MSI インストーラーを実行できない場合は、これをダウンロードしてください。この ZIP ダウンロードには、MSI インストーラーに含まれている Microsoft ヘルプ形式のユーザー ドキュメントは含まれていません。</div>

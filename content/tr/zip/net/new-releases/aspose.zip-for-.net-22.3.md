@@ -39,7 +39,7 @@ weight: 99
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div> <a href="https://docs.aspose.com/zip/net/aspose-zip-for-net-22-3-release-notes/">https://docs.aspose.com/zip/net/aspose-zip-for-net-22-3-release-notes/</a></div><h4> Tanım</h4><div class="HTMLDescription"> Aspose.ZIP for .NET 22.3 sürümü.</div>
+<h4>Sürüm notları</h4><div> <a href="https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-3-release-notes/">https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-3-release-notes/</a></div><h4> Tanım</h4><div class="HTMLDescription"> Aspose.ZIP for .NET 22.3 sürümü.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Önemli Özellikler">}}
@@ -54,7 +54,7 @@ weight: 99
 
 .NET 6'da şifrelenmiş "RAR5"in iyileştirilmiş ayıklanması.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.ZIP for .NET 22.3 Release Notes](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-3-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.ZIP for .NET 22.3 Release Notes](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-3-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

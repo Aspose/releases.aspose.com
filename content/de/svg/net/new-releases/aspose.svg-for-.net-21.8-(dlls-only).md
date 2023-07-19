@@ -39,7 +39,7 @@ weight: 90
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/svg/net/aspose-svg-for-net-21-8-release-notes/">https://docs.aspose.com/svg/net/aspose-svg-for-net-21-8-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur die Aspose.SVG für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.SVG ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen. Dieser ZIP-Download enthält nicht die Benutzerdokumentation im Microsoft-Hilfeformat, die im MSI-Installationsprogramm enthalten ist.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/svg/net/release-notes/2021/aspose-svg-for-net-21-8-release-notes/">https://releases.aspose.com/svg/net/release-notes/2021/aspose-svg-for-net-21-8-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur die Aspose.SVG für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.SVG ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen. Dieser ZIP-Download enthält nicht die Benutzerdokumentation im Microsoft-Hilfeformat, die im MSI-Installationsprogramm enthalten ist.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

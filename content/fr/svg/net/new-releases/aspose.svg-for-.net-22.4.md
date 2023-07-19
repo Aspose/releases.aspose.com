@@ -36,7 +36,7 @@ weight: 109
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href="https://docs.aspose.com/svg/net/aspose-svg-for-net-22-4-release-notes/">https://docs.aspose.com/svg/net/aspose-svg-for-net-22-4-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href="https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-4-release-notes/">https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-4-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Caractéristiques notables">}}
@@ -51,7 +51,7 @@ La prise en charge de l'utilisation des tables de substitution TrueType Font (TT
 
 Optimisation du temps d'exécution du traitement du flou gaussien et des filtres morphologiques grâce à la mise en œuvre de nouveaux algorithmes d'approximation.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.SVG for .NET 22.4 Release Notes](https://docs.aspose.com/svg/net/aspose-svg-for-net-22-4-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.SVG for .NET 22.4 Release Notes](https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

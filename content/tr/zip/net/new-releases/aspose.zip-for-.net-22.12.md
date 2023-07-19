@@ -14,7 +14,7 @@ file_size: "File Size: 9.73MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-12-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-12-release-notes/"
 weight: 116
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 116
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Sürüm notları</h4>
-<a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-12-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-12-release-notes/</a>
+<a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-12-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-12-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Açıklama</h4>
@@ -53,7 +53,7 @@ Bu sürüm API'sı, Shar (kabuk arşivi) kendi kendini ekleyen arşivleri oluşt
 
 Çoklu hacimli zip arşivini tasarruf etme yeteneği eklendi.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin eksiksiz bir listesi için lütfen [Net 2212 sürüm notları için asposezip](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-12-release-notes/)'ı ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin eksiksiz bir listesi için lütfen [Net 2212 sürüm notları için asposezip](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-12-release-notes/)'ı ziyaret edin.
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

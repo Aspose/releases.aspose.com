@@ -14,7 +14,7 @@ file_size: "File Size: 9.73MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
 tags: ""
-release_notes_url: “https://docs.aspose.com/zip/net/aspose-zip-for-net-22-7-release-notes/”
+release_notes_url: “https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-7-release-notes/”
 weight: 104
 ---
 
@@ -37,7 +37,7 @@ weight: 104
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-7-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-7-release-notes/</a></div>
+<h4>发行说明</h4><div><a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-7-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -53,7 +53,7 @@ weight: 104
 
 添加了对提供高速和良好压缩的 snappy 算法的支持。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.ZIP for .NET 22.7 Release Notes](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-7-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.ZIP for .NET 22.7 Release Notes](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-7-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 
