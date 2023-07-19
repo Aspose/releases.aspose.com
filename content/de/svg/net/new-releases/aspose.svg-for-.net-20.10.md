@@ -39,7 +39,7 @@ weight: 71
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/svg/net/aspose-svg-for-net-20-10-release-notes/">https://docs.aspose.com/svg/net/aspose-svg-for-net-20-10-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/svg/net/release-notes/2020/aspose-svg-for-net-20-10-release-notes/">https://releases.aspose.com/svg/net/release-notes/2020/aspose-svg-for-net-20-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
