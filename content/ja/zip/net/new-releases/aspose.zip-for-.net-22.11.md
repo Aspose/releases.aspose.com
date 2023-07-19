@@ -14,7 +14,7 @@ file_size: "File Size: 9.57MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-11-release-notes/"
 weight: 114
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 114
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>リリースノート</h4>
-<a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-11-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-11-release-notes/</a>
+<a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-11-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-11-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>説明</h4>
@@ -53,7 +53,7 @@ weight: 114
 
 7Zエントリの圧縮の進捗を報告する機能。
 
->このリリースの機能、機能強化、およびバグ修正の完全なリストについては、[Net 2211リリースノートのAsopsionzip](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-11-release-notes/)にアクセスしてください。
+>このリリースの機能、機能強化、およびバグ修正の完全なリストについては、[Net 2211リリースノートのAsopsionzip](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-11-release-notes/)にアクセスしてください。
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

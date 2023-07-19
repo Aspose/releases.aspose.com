@@ -14,7 +14,7 @@ file_size: "File Size: 106.26MB"
 parent_path: "pub/net"
 section_parent_path: "pub/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/"
 weight: 32
 ---
 
@@ -38,7 +38,7 @@ weight: 32
 
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4>
-<div><a href='https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/'>https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/</a></div>
+<div><a href='https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/'>https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/</a></div>
 
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
@@ -55,7 +55,7 @@ weight: 32
 
 This version of the Microsoft Publisher&reg; API introduces the support for metered licensing. This type of license allows monthly payment instead of complete upfront. Another benefit is that the monthly charging is as per usage of the API.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PUB for .NET 22.11 Release Notes](https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PUB for .NET 22.11 Release Notes](https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -1,5 +1,6 @@
 ---
 title: "Download Publisher® File Converter C++ DLL | Aspose.PUB API"
+linktitle: "Aspose.PUB for C++"
 description: "Download PUB file reader & converter C++ DLL class library to work with MS Publisher® files via on-premise API. Read & Edit PUB metadata. Convert PUB to PDF."
 family_listing_page_title: "Aspose.PUB for C++"
 family_listing_page_description: "Aspose.PUB for C++ is a simple API that allows to read & convert Microsoft Publisher® (PUB) files to PDF format programmatically in your C++ Apps. It also provides easy to understand interfaces to edit metadata of PUB files."
@@ -19,7 +20,7 @@ tags: ['API', 'Aspose', 'Aspose.PUB', 'Aspose.Total', 'Assembly', 'C++', 'Compon
 {{< Common/h2 text="Download C++ Library to Process PUB Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.PUB.Cpp/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.PUB.Cpp</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/pub/cpp/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="pub" product="cpp" href="https://docs.aspose.com/pub/cpp/release-notes/" text="https://docs.aspose.com/pub/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="pub" product="cpp" href="https://releases.aspose.com/pub/cpp/release-notes/" text="https://releases.aspose.com/pub/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

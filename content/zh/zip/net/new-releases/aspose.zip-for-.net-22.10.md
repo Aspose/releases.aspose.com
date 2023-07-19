@@ -14,7 +14,7 @@ file_size: "File Size: 9.45MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-10-release-notes/"
 weight: 113
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 113
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>发行说明</h4>
-<a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-10-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-10-release-notes/</a>
+<a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-10-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-10-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>描述</h4>
@@ -61,7 +61,7 @@ weight: 113
 
 能够在ZIP存档提取上获取或设置编码。
 
->有关此版本中的功能，增强功能和错误修复的完整列表，请访问[Asposezip for Net 2210发行说明](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-10-release-notes/)。
+>有关此版本中的功能，增强功能和错误修复的完整列表，请访问[Asposezip for Net 2210发行说明](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-10-release-notes/)。
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

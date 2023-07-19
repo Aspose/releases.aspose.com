@@ -39,7 +39,7 @@ weight: 97
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href="https://docs.aspose.com/zip/net/aspose-zip-for-net-22-1-release-notes/">https://docs.aspose.com/zip/net/aspose-zip-for-net-22-1-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">Aspose.ZIP for .NET 22.1 版本。</div>
+<h4>发行说明</h4><div><a href="https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-1-release-notes/">https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-1-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">Aspose.ZIP for .NET 22.1 版本。</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="显着特点">}}
@@ -58,7 +58,7 @@ weight: 97
 
 修复了在 `tar` 提取时触发的错误。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.ZIP for .NET 22.1 Release Notes](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-1-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.ZIP for .NET 22.1 Release Notes](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-1-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

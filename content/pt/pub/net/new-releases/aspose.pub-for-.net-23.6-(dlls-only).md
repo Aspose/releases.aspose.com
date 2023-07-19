@@ -16,7 +16,7 @@ parent_path: "pub/net"
 section_parent_path: "pub/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/pub/net/aspose-pub-for-net-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/pub/net/release-notes/2023/aspose-pub-for-net-23-6-release-notes/"
 weight: 36
 
 ---
@@ -40,7 +40,7 @@ weight: 36
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/pub/net/aspose-pub-for-net-23-6-release-notes/'>https://docs.aspose.com/pub/net/aspose-pub-for-net-23-6-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/pub/net/release-notes/2023/aspose-pub-for-net-23-6-release-notes/'>https://releases.aspose.com/pub/net/release-notes/2023/aspose-pub-for-net-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Este arquivo zip contém apenas o Aspose.pub para conjuntos .NET. Os assemblies são os mesmos do instalador do MSI do produto da mesma versão. Faça o download disso se quiser usar o Aspose.pub sem o instalador do MSI, ou seja, você não pode executar os instaladores do MSI no Mono.</div>

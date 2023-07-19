@@ -14,7 +14,7 @@ file_size: "File Size: 9.73MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-12-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-12-release-notes/"
 weight: 116
 ---
 
@@ -38,7 +38,7 @@ weight: 116
 
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4>
-<div><a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-12-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-12-release-notes/</a></div>
+<div><a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-12-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-12-release-notes/</a></div>
 
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
@@ -59,7 +59,7 @@ This release API introduces the ability to compose SHAR (Shell Archive) self-ext
 
 The ability to save multi-volume ZIP archive has been added.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.ZIP for .NET 22.12 Release Notes](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-12-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.ZIP for .NET 22.12 Release Notes](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-12-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -36,7 +36,7 @@ weight: 31
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Примечания к выпуску</h4><div> <a href='https://docs.aspose.com/pub/net/aspose-pub-for-net-22-6-release-notes/'>https://docs.aspose.com/pub/net/aspose-pub-for-net-22-6-release-notes/</a></div>
+<h4>Примечания к выпуску</h4><div> <a href='https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-6-release-notes/'>https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -62,7 +62,7 @@ var doc = parser.Parse();
 Aspose.Pub.PubFactory.CreatePdfConverter().ConvertToPdf(doc, dataDir + "result_out.pdf");
 ```
 
-> Полный список функций, улучшений и ошибок, исправленных в этом выпуске, см. на странице [Aspose.PUB for .NET 22.6 Release Notes](https://docs.aspose.com/pub/net/aspose-pub-for-net-22-6-release-notes/).
+> Полный список функций, улучшений и ошибок, исправленных в этом выпуске, см. на странице [Aspose.PUB for .NET 22.6 Release Notes](https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

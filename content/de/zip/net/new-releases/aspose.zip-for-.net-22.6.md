@@ -15,7 +15,7 @@ parent_path: "zip/net"
 section_parent_path: "zip/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-6-release-notes/"
 weight: 102
 ---
 
@@ -38,7 +38,7 @@ weight: 102
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-6-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-6-release-notes/</a></div>
+<h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-6-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ Extrahieren Sie WIM mit LZMS-Komprimierung.
 
 Extrahieren Sie einen bestimmten Eintrag im 7z-Archiv.
 
-> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.ZIP for .NET 22.6 Release Notes](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-6-release-notes/).
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.ZIP for .NET 22.6 Release Notes](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

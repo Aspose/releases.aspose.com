@@ -13,7 +13,7 @@ download_count: " 10/6/2022 Downloads: 13  Views: 16 "
 file_size: "File Size: 9.5 MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-5-release-notes/"
 weight: 100
 ---
 
@@ -36,7 +36,7 @@ weight: 100
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-5-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-5-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-5-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>説明</h4><div class="HTMLDescription">.NET 22.5 リリース用の Aspose.ZIP。</div>
@@ -61,7 +61,7 @@ weight: 100
 
 「Xpress」圧縮と「LZX」圧縮で WIM アーカイブを抽出します。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.ZIP for .NET 22.5 Release Notes](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-5-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.ZIP for .NET 22.5 Release Notes](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-5-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 
