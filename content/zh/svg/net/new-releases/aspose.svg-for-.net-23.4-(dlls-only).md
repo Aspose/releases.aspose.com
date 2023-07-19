@@ -16,7 +16,7 @@ parent_path: "svg/net"
 section_parent_path: "svg/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/svg/net/aspose-svg-for-net-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-4-release-notes/"
 weight: 131
 
 ---
@@ -40,7 +40,7 @@ weight: 131
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/svg/net/aspose-svg-for-net-23-4-release-notes/'>https://docs.aspose.com/svg/net/aspose-svg-for-net-23-4-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-4-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">该zip文件仅包含.net组件的aspose.svg。组件与同一版本的产品的MSI安装程序相同。如果您想使用aspose.svg，请下载此</div>

@@ -14,7 +14,7 @@ file_size: "File Size: 9.57MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-11-release-notes/"
 weight: 114
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 114
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Notes de version</h4>
-<a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-11-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-11-release-notes/</a>
+<a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-11-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-11-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>La description</h4>
@@ -53,7 +53,7 @@ Cette version API a introduit le support de la compression «PPMD» dans l'archi
 
 Capacité à signaler les progrès de la compression pour l'entrée 7Z.
 
-> Pour une liste complète des fonctionnalités, des améliorations et des corrections de bogues dans cette version, veuillez visiter [Asposezip pour les notes de libération net 2211](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-11-release-notes/).
+> Pour une liste complète des fonctionnalités, des améliorations et des corrections de bogues dans cette version, veuillez visiter [Asposezip pour les notes de libération net 2211](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-11-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

@@ -15,7 +15,7 @@ parent_path: "svg/net"
 section_parent_path: "svg/net"
 
 tags: ""
-release_notes_url : "https://docs.aspose.com/svg/net/aspose-svg-for-net-22-7-release-notes/"
+release_notes_url : "https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-7-release-notes/"
 weight: 115
 ---
 
@@ -38,7 +38,7 @@ weight: 115
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href='https://docs.aspose.com/svg/net/aspose-svg-for-net-22-7-release-notes/'>https://docs.aspose.com/svg/net/aspose-svg-for-net-22-7-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href='https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-7-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ L'utilisation de Béziers quadratiques au lieu de Béziers cubiques et le rempla
 
 Le chargement direct des schémas SVG `dtd` (Document Type Definition) depuis l'assembly Aspose.SVG a considérablement réduit le temps de chargement des documents SVG. Auparavant, les schémas étaient téléchargés à partir des ressources en ligne, qui ont été remplacées par cette approche optimisée.
 
-Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.SVG for .NET 22.7 Release Notes](https://docs.aspose.com/svg/net/aspose-svg-for-net-22-7-release-notes/).
+Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.SVG for .NET 22.7 Release Notes](https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

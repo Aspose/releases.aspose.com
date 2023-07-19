@@ -39,7 +39,7 @@ weight: 37
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-22-3-release-notes/">https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-22-3-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/tex/cpp/release-notes/2022/aspose-tex-for-cpp-22-3-release-notes/">https://releases.aspose.com/tex/cpp/release-notes/2022/aspose-tex-for-cpp-22-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -22,7 +22,7 @@ tags: ['Aspose.PUB', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'API', 'C
 開ける
 {{< Common/link href="https://www.nuget.org/packages/Aspose.PUB/" text="NuGet"  >}}Microsoft Visual Studio® 内の Package Manager で、 <b>Aspose.PUB</b>を検索してインストールします。パッケージ マネージャー コンソール内で次のコマンドを使用することもできます。詳細な手順については、次の Web サイトを参照してください。
 {{< Common/link href="https://docs.aspose.com/pub/net/installation/" text="インストール"  >}}ドキュメントページ。
-{{< Common/release-notes-link family="pub" product="net" href="https://docs.aspose.com/pub/net/release-notes/" text="https://docs.aspose.com/pub/net/release-notes/"  >}}
+{{< Common/release-notes-link family="pub" product="net" href="https://releases.aspose.com/pub/net/release-notes/" text="https://releases.aspose.com/pub/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

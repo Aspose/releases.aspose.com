@@ -39,7 +39,7 @@ weight: 84
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lanzamiento</h4><div> <a href="https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-2-release-notes/">https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-2-release-notes/</a></div><h4> Descripción</h4><div class="HTMLDescription"> El instalador MSI para Aspose.Drawing para .NET 22.2</div>
+<h4>Notas de lanzamiento</h4><div> <a href="https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-2-release-notes/">https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-2-release-notes/</a></div><h4> Descripción</h4><div class="HTMLDescription"> El instalador MSI para Aspose.Drawing para .NET 22.2</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Características notables">}}
@@ -75,7 +75,7 @@ Se agregaron varios tipos de [line cap shapes](https://reference.aspose.com/draw
 
 Esta versión ha mejorado la compatibilidad con los gráficos de trama TIFF (formato de archivo de imagen etiquetada).
 
-> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Drawing for .NET 22.2 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-2-release-notes/).
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Drawing for .NET 22.2 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

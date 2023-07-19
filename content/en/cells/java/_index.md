@@ -83,6 +83,7 @@ productLink: https://products.aspose.com/cells/java/
 releaseNotesLink: https://docs.aspose.com/cells/java/release-notes/
 dataFolder: aspose_cells
 packages_refs:
+- "23-7"
 - "23-6"
 - "23-5"
 - "23-4"

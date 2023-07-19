@@ -14,7 +14,7 @@ file_size: "File Size: 6.79MB"
 parent_path: "drawing/net"
 section_parent_path: "drawing/net"
 tags: ""
-release_notes_url: “https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-6-release-notes/”
+release_notes_url: “https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-6-release-notes/”
 weight: 92
 ---
 
@@ -37,7 +37,7 @@ weight: 92
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href='https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-6-release-notes/'>https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-6-release-notes/</a></div>
+<h4>发行说明</h4><div><a href='https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-6-release-notes/'>https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -61,7 +61,7 @@ API 现在支持多帧 GIF 的编辑和保存。
 
 添加了对圆形和三角形破折号的支持。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Drawing for .NET 22.6 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-6-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Drawing for .NET 22.6 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-6-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

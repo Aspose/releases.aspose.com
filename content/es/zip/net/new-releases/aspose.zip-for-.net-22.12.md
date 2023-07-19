@@ -14,7 +14,7 @@ file_size: "File Size: 9.73MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-12-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-12-release-notes/"
 weight: 116
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 116
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Notas de lanzamiento</h4>
-<a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-12-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-12-release-notes/</a>
+<a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-12-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-12-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Descripción</h4>
@@ -53,7 +53,7 @@ Esta API de lanzamiento introduce la capacidad de componer archivos de autoextra
 
 Se ha agregado la capacidad de guardar el archivo ZIP de volumen múltiple.
 
-> Para obtener una lista completa de características, mejoras y correcciones de errores en esta versión, visite [Asposezip para Notas de versión neta 2212](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-12-release-notes/).
+> Para obtener una lista completa de características, mejoras y correcciones de errores en esta versión, visite [Asposezip para Notas de versión neta 2212](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-12-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

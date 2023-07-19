@@ -16,7 +16,7 @@ parent_path: "svg/net"
 section_parent_path: "svg/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/svg/net/aspose-svg-for-net-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-6-release-notes/"
 weight: 135
 
 ---
@@ -40,7 +40,7 @@ weight: 135
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/svg/net/aspose-svg-for-net-23-6-release-notes/'>https://docs.aspose.com/svg/net/aspose-svg-for-net-23-6-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-6-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Este arquivo ZIP contém apenas o Aspose.svg para os conjuntos .NET. Os assemblies são os mesmos do instalador do MSI do produto da mesma versão. Faça o download disso se quiser usar aspose.svg sem o instalador do MSI, ou seja, você não pode executar os instaladores do MSI no Mono. Este download zip não contém a documentação do usuário no formato da Microsoft Help, incluído no instalador do MSI.</div>

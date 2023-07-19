@@ -39,7 +39,7 @@ weight: 42
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/drawingnet/Aspose.Drawing+for+.NET+20.6">https://docs.aspose.com/display/drawingnet/Aspose.Drawing+for+.NET+20.6</a></div><h4>Description</h4><div class="HTMLDescription">The MSI installer for Aspose.Drawing for .NET 20.6</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/drawing/net/release-notes/2020/aspose-drawing-for-net-20-6/">https://releases.aspose.com/drawing/net/release-notes/2020/aspose-drawing-for-net-20-6/</a></div><h4>Description</h4><div class="HTMLDescription">The MSI installer for Aspose.Drawing for .NET 20.6</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

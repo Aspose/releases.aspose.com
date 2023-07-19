@@ -58,6 +58,7 @@ productLink: https://products.aspose.com/ocr/java/
 releaseNotesLink: https://docs.aspose.com/ocr/java/release-notes/
 dataFolder: aspose_ocr
 packages_refs:
+- "23-7-0"
 - "23-6-1"
 - "23-6-0"
 - "23-5-0"

@@ -15,7 +15,7 @@ file_size: "File Size: 18.9 MB"
 parent_path: "svg/net"
 section_parent_path: "svg/net"
 
-release_notes_url: "https://docs.aspose.com/svg/net/aspose-svg-for-net-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-5-release-notes/"
 weight: 110
 
 ---
@@ -39,7 +39,7 @@ weight: 110
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/svg/net/aspose-svg-for-net-22-5-release-notes/'>https://docs.aspose.com/svg/net/aspose-svg-for-net-22-5-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-5-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.SVG für die Version .NET 22.5.</div>

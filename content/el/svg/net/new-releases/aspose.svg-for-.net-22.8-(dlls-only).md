@@ -16,7 +16,7 @@ parent_path: "svg/net"
 section_parent_path: "svg/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/svg/net/aspose-svg-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-8-release-notes/"
 weight: 116
 
 ---
@@ -40,7 +40,7 @@ weight: 116
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/svg/net/aspose-svg-for-net-22-8-release-notes/'>https://docs.aspose.com/svg/net/aspose-svg-for-net-22-8-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-8-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Αυτό το αρχείο zip περιέχει μόνο το ASPOSPE.SVG για συγκροτήματα .NET. Τα συγκροτήματα είναι τα ίδια όπως στο πρόγραμμα εγκατάστασης MSI του προϊόντος της ίδιας έκδοσης. Κατεβάστε αυτό εάν θέλετε να χρησιμοποιήσετε το aspose.svg χωρίς το πρόγραμμα εγκατάστασης MSI, δηλαδή δεν μπορείτε να εκτελέσετε τους εγκαταστάτες MSI στο Mono. Αυτή η λήψη φερμουάρ δεν περιέχει την τεκμηρίωση του χρήστη στη μορφή βοήθειας της Microsoft που περιλαμβάνεται στο πρόγραμμα εγκατάστασης MSI.</div>

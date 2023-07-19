@@ -14,7 +14,7 @@ file_size: "File Size: 106.26MB"
 parent_path: "pub/net"
 section_parent_path: "pub/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/"
 weight: 32
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 32
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>发行说明</h4>
-<a href='https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/'>https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/</a>
+<a href='https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/'>https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>描述</h4>
@@ -49,7 +49,7 @@ weight: 32
 
 此版本的Microsoft Publisher＆Reg; API引入了对计量许可的支持。这种类型的许可证允许每月付款而不是完整的前期付款。另一个好处是，按API的使用情况，每月充电。
 
->有关此版本中的功能，增强功能和错误修复的完整列表，请访问[净2211发行说明的Asposepub](https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/)。
+>有关此版本中的功能，增强功能和错误修复的完整列表，请访问[净2211发行说明的Asposepub](https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/)。
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

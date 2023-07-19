@@ -15,7 +15,7 @@ parent_path: "zip/net"
 section_parent_path: "zip/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-6-release-notes/"
 weight: 102
 ---
 
@@ -38,7 +38,7 @@ weight: 102
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-6-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-6-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-6-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ LZMS 圧縮で WIM を抽出します。
 
 7z アーカイブ内の特定のエントリを抽出します。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.ZIP for .NET 22.6 Release Notes](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-6-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.ZIP for .NET 22.6 Release Notes](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-6-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

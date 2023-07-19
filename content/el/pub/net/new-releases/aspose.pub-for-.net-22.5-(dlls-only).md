@@ -37,7 +37,7 @@ weight: 28
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/pub/net/aspose-pub-for-net-22-5-release-notes/">https://docs.aspose.com/pub/net/aspose-pub-for-net-22-5-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Αυτό το αρχείο zip περιέχει μόνο το aspose.pub για τα συγκροτήματα .NET. Τα συγκροτήματα είναι τα ίδια όπως στο πρόγραμμα εγκατάστασης MSI του προϊόντος της ίδιας έκδοσης. Κατεβάστε αυτό εάν θέλετε να χρησιμοποιήσετε το aspose.pub χωρίς το πρόγραμμα εγκατάστασης MSI, δηλαδή δεν μπορείτε να εκτελέσετε τους εγκαταστάτες MSI στο MONO.</div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-5-release-notes/">https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-5-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Αυτό το αρχείο zip περιέχει μόνο το aspose.pub για τα συγκροτήματα .NET. Τα συγκροτήματα είναι τα ίδια όπως στο πρόγραμμα εγκατάστασης MSI του προϊόντος της ίδιας έκδοσης. Κατεβάστε αυτό εάν θέλετε να χρησιμοποιήσετε το aspose.pub χωρίς το πρόγραμμα εγκατάστασης MSI, δηλαδή δεν μπορείτε να εκτελέσετε τους εγκαταστάτες MSI στο MONO.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

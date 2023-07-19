@@ -15,7 +15,7 @@ parent_path: "svg/net"
 section_parent_path: "svg/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/svg/net/aspose-svg-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-7-release-notes/"
 weight: 115
 ---
 
@@ -38,7 +38,7 @@ weight: 115
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/svg/net/aspose-svg-for-net-22-7-release-notes/'>https://docs.aspose.com/svg/net/aspose-svg-for-net-22-7-release-notes/</a></div>
+<h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-7-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ The use of quadratic beziers instead of cubic beziers and replacing the relative
 
 The direct loading of SVG `dtd` (Document Type Definition) schemas from the Aspose.SVG assembly has considerably reduced the time it takes to load the SVG documents. Previously the schemas were being downloaded from the online resources, which has been replaced by this optimized approach.
 
-For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.SVG for .NET 22.7 Sürüm notları](https://docs.aspose.com/svg/net/aspose-svg-for-net-22-7-release-notes/).
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.SVG for .NET 22.7 Sürüm notları](https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

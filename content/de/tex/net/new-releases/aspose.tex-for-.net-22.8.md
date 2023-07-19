@@ -16,7 +16,7 @@ parent_path: "tex/net"
 section_parent_path: "tex/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/tex/net/aspose-tex-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-8-release-notes/"
 weight: 23
 
 ---
@@ -40,7 +40,7 @@ weight: 23
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/tex/net/aspose-tex-for-net-22-8-release-notes/'>https://docs.aspose.com/tex/net/aspose-tex-for-net-22-8-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-8-release-notes/'>https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.TeX für die Version .Net 22.8.</div>

@@ -39,7 +39,7 @@ weight: 84
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Σημειώσεις έκδοσης</h4><div> <a href="https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-2-release-notes/">https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-2-release-notes/</a></div><h4> Περιγραφή</h4><div class="HTMLDescription"> Το πρόγραμμα εγκατάστασης MSI για το Aspose.Drawing για .NET 22.2</div>
+<h4>Σημειώσεις έκδοσης</h4><div> <a href="https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-2-release-notes/">https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-2-release-notes/</a></div><h4> Περιγραφή</h4><div class="HTMLDescription"> Το πρόγραμμα εγκατάστασης MSI για το Aspose.Drawing για .NET 22.2</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Αξιοσημείωτα χαρακτηριστικά">}}
@@ -75,7 +75,7 @@ bitmap.Save("Colors.png");
 
 Αυτή η έκδοση έχει βελτιωμένη υποστήριξη για τα ράστερ γραφικά TIFF (Μορφή αρχείου με ετικέτα).
 
-> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Drawing for .NET 22.2 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-2-release-notes/).
+> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Drawing for .NET 22.2 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

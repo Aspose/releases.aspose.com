@@ -16,7 +16,7 @@ parent_path: "pub/cpp"
 section_parent_path: "pub/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/pub/cpp/release-notes/2022/aspose-pub-for-cpp-22-10-release-notes/"
 weight: 62
 
 ---
@@ -40,7 +40,7 @@ weight: 62
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-22-10-release-notes/'>https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-22-10-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/pub/cpp/release-notes/2022/aspose-pub-for-cpp-22-10-release-notes/'>https://releases.aspose.com/pub/cpp/release-notes/2022/aspose-pub-for-cpp-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">ASSON.PUB für C ++ 22.10 Linux Native Library</div>

@@ -2,6 +2,7 @@
 title: "Compression & Archiving APIs | Aspose.ZIP Product Family"
 description: "Download on-premise libraries to compose archives in ZIP, TAR, GZIP, BZ2. Add files or delete entries from existing archives. Encrypt using ZipCrypto or AES128, 192 and AES256. "
 keywords: "ZIP API, Compression API "
+linktitle: "Aspose.ZIP Product Family"
 family_listing_page_title: "Aspose.ZIP Product Family"
 family_listing_page_description: ""
 family_listing_page_iconurl: ""

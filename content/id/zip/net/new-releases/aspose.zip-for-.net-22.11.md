@@ -14,7 +14,7 @@ file_size: "File Size: 9.57MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-11-release-notes/"
 weight: 114
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 114
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Catatan rilis</h4>
-<a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-11-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-11-release-notes/</a>
+<a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-11-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-11-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Keterangan</h4>
@@ -53,7 +53,7 @@ Rilis API ini memperkenalkan dukungan kompresi `ppmd` dalam arsip 7z.
 
 Kemampuan untuk melaporkan kemajuan kompresi untuk entri 7z.
 
-> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug di rilis ini, silakan kunjungi, [Asposezip untuk catatan rilis Net 2211](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-11-release-notes/).
+> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug di rilis ini, silakan kunjungi, [Asposezip untuk catatan rilis Net 2211](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-11-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

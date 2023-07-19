@@ -16,7 +16,7 @@ parent_path: "tex/cpp"
 section_parent_path: "tex/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/tex/cpp/release-notes/2022/aspose-tex-for-cpp-22-9-release-notes/"
 weight: 49
 
 ---
@@ -40,7 +40,7 @@ weight: 49
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-22-9-release-notes/'>https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-22-9-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/tex/cpp/release-notes/2022/aspose-tex-for-cpp-22-9-release-notes/'>https://releases.aspose.com/tex/cpp/release-notes/2022/aspose-tex-for-cpp-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Aspose.tex для C ++ 22,9 Нативная библиотека Linux</div>

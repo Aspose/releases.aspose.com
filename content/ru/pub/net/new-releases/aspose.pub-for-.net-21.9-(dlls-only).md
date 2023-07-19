@@ -39,7 +39,7 @@ weight: 26
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href="https://docs.aspose.com/pub/net/aspose-pub-for-net-21-9-release-notes/">https://docs.aspose.com/pub/net/aspose-pub-for-net-21-9-release-notes/</a></div><h4>Описание</h4><div class="HTMLDescription">Этот zip -файл содержит только aspose.pub для .NET Assemblies. Сборки такие же, как в установщике MSI продукта той же версии. Загрузите это, если вы хотите использовать Aspose.pub без установщика MSI, то есть вы не можете запустить установщики MSI на моно.</div>
+      <h4>Выпуск заметок</h4><div><a href="https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-9-release-notes/">https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-9-release-notes/</a></div><h4>Описание</h4><div class="HTMLDescription">Этот zip -файл содержит только aspose.pub для .NET Assemblies. Сборки такие же, как в установщике MSI продукта той же версии. Загрузите это, если вы хотите использовать Aspose.pub без установщика MSI, то есть вы не можете запустить установщики MSI на моно.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

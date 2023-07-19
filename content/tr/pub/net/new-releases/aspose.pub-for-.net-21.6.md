@@ -39,7 +39,7 @@ weight: 25
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div> <a href="https://docs.aspose.com/pub/net/aspose-pub-for-net-21-6-release-notes/">https://docs.aspose.com/pub/net/aspose-pub-for-net-21-6-release-notes/</a></div>
+<h4>Sürüm notları</h4><div> <a href="https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-6-release-notes/">https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Önemli Özellikler">}}
@@ -58,7 +58,7 @@ Bu sürüm, .NET Kodunu ve .NET 5'i destekler.
 
 Bu sürüm, Microsoft Publisher® 2000 `PUB` dosyaları için destek ekler.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.PUB for .NET 21.6 Release Notes](https://docs.aspose.com/pub/net/aspose-pub-for-net-21-6-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.PUB for .NET 21.6 Release Notes](https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-6-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

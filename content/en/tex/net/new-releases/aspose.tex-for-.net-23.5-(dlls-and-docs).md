@@ -16,7 +16,7 @@ parent_path: "tex/net"
 section_parent_path: "tex/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/tex/net/aspose-tex-for-net-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-5-release-notes/"
 weight: 36
 
 ---
@@ -40,7 +40,7 @@ weight: 36
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/tex/net/aspose-tex-for-net-23-5-release-notes/'>https://docs.aspose.com/tex/net/aspose-tex-for-net-23-5-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-5-release-notes/'>https://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.TeX for .NET 23.5 (DLLs and docs) release.</div>

@@ -39,7 +39,7 @@ weight: 97
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href="https://docs.aspose.com/zip/net/aspose-zip-for-net-22-1-release-notes/">https://docs.aspose.com/zip/net/aspose-zip-for-net-22-1-release-notes/</a></div><h4> La description</h4><div class="HTMLDescription"> Aspose.ZIP pour la version .NET 22.1.</div>
+<h4>Notes de version</h4><div> <a href="https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-1-release-notes/">https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-1-release-notes/</a></div><h4> La description</h4><div class="HTMLDescription"> Aspose.ZIP pour la version .NET 22.1.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Caractéristiques notables">}}
@@ -58,7 +58,7 @@ Correction de ce bogue qui se déclenchait lors de l'extraction de `cpio`.
 
 Correction de ce bogue qui se déclenchait lors de l'extraction de `tar`.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.ZIP for .NET 22.1 Release Notes](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-1-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.ZIP for .NET 22.1 Release Notes](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

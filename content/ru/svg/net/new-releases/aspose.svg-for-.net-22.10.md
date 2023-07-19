@@ -16,7 +16,7 @@ parent_path: "svg/net"
 section_parent_path: "svg/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/svg/net/aspose-svg-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-10-release-notes/"
 weight: 121
 
 ---
@@ -40,7 +40,7 @@ weight: 121
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Примечания к выпуску</h4><div> <a href='https://docs.aspose.com/svg/net/aspose-svg-for-net-22-10-release-notes/'>https://docs.aspose.com/svg/net/aspose-svg-for-net-22-10-release-notes/</a></div>
+      <h4>Примечания к выпуску</h4><div> <a href='https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-10-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription"> Он содержит Aspose.SVG для выпуска .NET 22.10.</div>

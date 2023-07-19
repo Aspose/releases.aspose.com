@@ -14,7 +14,7 @@ file_size: "File Size: 69.02MB"
 parent_path: "tex/net"
 section_parent_path: "tex/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tex/net/aspose-tex-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-8-release-notes/"
 weight: 23
 ---
 
@@ -38,7 +38,7 @@ weight: 23
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/tex/net/aspose-tex-for-net-22-8-release-notes/'>https://docs.aspose.com/tex/net/aspose-tex-for-net-22-8-release-notes/</a></div>
+<h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-8-release-notes/'>https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -57,7 +57,7 @@ Aspose.Tex.Metered metered = new Aspose.Tex.Metered();
 metered.SetMeteredKey("<type public key here>", "<type private key here>");
 ```
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.TeX for .NET 22.8 Catatan rilis](https://docs.aspose.com/tex/net/aspose-tex-for-net-22-8-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.TeX for .NET 22.8 Catatan rilis](https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

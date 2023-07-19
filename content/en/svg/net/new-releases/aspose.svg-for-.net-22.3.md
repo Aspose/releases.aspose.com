@@ -39,7 +39,7 @@ weight: 107
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Release Notes</h4><div><a href="https://docs.aspose.com/svg/net/aspose-svg-for-net-22-3-release-notes/">https://docs.aspose.com/svg/net/aspose-svg-for-net-22-3-release-notes/</a></div>
+<h4>Release Notes</h4><div><a href="https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-3-release-notes/">https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-3-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -51,7 +51,7 @@ weight: 107
 
 Improved rendering and raster to SVG conversion (i.e. Vectorization) of Hindi (Indian) and the right-to-left (RTL) Arabic scripts.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.SVG for .NET 22.3 Release Notes](https://docs.aspose.com/svg/net/aspose-svg-for-net-22-3-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.SVG for .NET 22.3 Release Notes](https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -14,7 +14,7 @@ file_size: "File Size: 106.26MB"
 parent_path: "pub/net"
 section_parent_path: "pub/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/"
 weight: 32
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 32
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Sürüm notları</h4>
-<a href='https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/'>https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/</a>
+<a href='https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/'>https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Açıklama</h4>
@@ -49,7 +49,7 @@ weight: 32
 
 Microsoft Publisher & Reg'in bu sürümü; API, ölçülü lisanslama desteğini tanıtır. Bu tür lisans, tam olarak tam yerine aylık ödemeye izin verir. Başka bir fayda, aylık şarjın API kullanımına göre olmasıdır.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin eksiksiz bir listesi için lütfen [Net 2211 sürüm notları için asposepub](https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/)'ı ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin eksiksiz bir listesi için lütfen [Net 2211 sürüm notları için asposepub](https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/)'ı ziyaret edin.
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

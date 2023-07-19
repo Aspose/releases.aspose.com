@@ -36,7 +36,7 @@ weight: 109
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Release Notes</h4><div><a href="https://docs.aspose.com/svg/net/aspose-svg-for-net-22-4-release-notes/">https://docs.aspose.com/svg/net/aspose-svg-for-net-22-4-release-notes/</a></div>
+<h4>Release Notes</h4><div><a href="https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-4-release-notes/">https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-4-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Notable Features">}}
@@ -51,7 +51,7 @@ The support for working with TrueType Font (TTF) substitution tables has been im
 
 Optimized the execution time of processing Gaussian Blur and Morphological filters by means of implementing new approximation algorithms.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.SVG for .NET 22.4 Release Notes](https://docs.aspose.com/svg/net/aspose-svg-for-net-22-4-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.SVG for .NET 22.4 Release Notes](https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

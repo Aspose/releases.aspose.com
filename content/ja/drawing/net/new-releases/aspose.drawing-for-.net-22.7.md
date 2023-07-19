@@ -14,7 +14,7 @@ file_size: "File Size: 6.77MB"
 parent_path: "drawing/net"
 section_parent_path: "drawing/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-7-release-notes/"
 weight: 94
 ---
 
@@ -37,7 +37,7 @@ weight: 94
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href='https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-7-release-notes/'>https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-7-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href='https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-7-release-notes/'>https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -57,7 +57,7 @@ API 経由で PNG 形式の画像に透明色を適用するサポートが追�
 
 バイキュービック フィルタリングのパフォーマンスを改善しました。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Drawing for .NET 22.7 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-7-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Drawing for .NET 22.7 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-7-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

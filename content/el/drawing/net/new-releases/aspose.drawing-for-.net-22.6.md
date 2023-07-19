@@ -14,7 +14,7 @@ file_size: "File Size: 6.79MB"
 parent_path: "drawing/net"
 section_parent_path: "drawing/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-6-release-notes/"
 weight: 92
 ---
 
@@ -37,7 +37,7 @@ weight: 92
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Σημειώσεις έκδοσης</h4><div> <a href='https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-6-release-notes/'>https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-6-release-notes/</a></div>
+<h4>Σημειώσεις έκδοσης</h4><div> <a href='https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-6-release-notes/'>https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -61,7 +61,7 @@ weight: 92
 
 Προστέθηκε η υποστήριξη για στρογγυλά και τριγωνικά καλύμματα παύλας.
 
-> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Drawing for .NET 22.6 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-6-release-notes/).
+> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Drawing for .NET 22.6 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

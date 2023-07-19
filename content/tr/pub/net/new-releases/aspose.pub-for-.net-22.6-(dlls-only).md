@@ -36,7 +36,7 @@ weight: 30
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/pub/net/aspose-pub-for-net-22-6-release-notes/'>https://docs.aspose.com/pub/net/aspose-pub-for-net-22-6-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-6-release-notes/'>https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Bu zip dosyası, yalnızca .NET düzenekleri için aspose.pub içerir. Montajlar, aynı sürümün ürününün MSI yükleyicisiyle aynıdır. MSI yükleyicisi olmadan aspose.pub kullanmak istiyorsanız bunu indirin, yani MSI yükleyicilerini mono üzerinde çalıştıramazsınız.</div>

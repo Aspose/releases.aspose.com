@@ -39,7 +39,7 @@ weight: 97
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Catatan Rilis</h4><div> <a href="https://docs.aspose.com/zip/net/aspose-zip-for-net-22-1-release-notes/">https://docs.aspose.com/zip/net/aspose-zip-for-net-22-1-release-notes/</a></div><h4> Keterangan</h4><div class="HTMLDescription"> Aspose.ZIP untuk .NET 22.1 rilis.</div>
+<h4>Catatan Rilis</h4><div> <a href="https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-1-release-notes/">https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-1-release-notes/</a></div><h4> Keterangan</h4><div class="HTMLDescription"> Aspose.ZIP untuk .NET 22.1 rilis.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Fitur Penting">}}
@@ -58,7 +58,7 @@ Memperbaiki bug yang dipicu pada ekstraksi `cpio`.
 
 Memperbaiki bug yang dipicu pada ekstraksi `tar`.
 
-> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.ZIP for .NET 22.1 Release Notes](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-1-release-notes/).
+> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.ZIP for .NET 22.1 Release Notes](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

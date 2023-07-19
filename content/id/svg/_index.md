@@ -23,7 +23,7 @@ weight:  23
 Membuka
 {{< Common/link href="https://www.nuget.org/packages/Aspose.SVG/" text="NuGet"  >}}Package Manager dalam Microsoft Visual Studio®, cari <b>Aspose.SVG</b> dan instal. Anda juga dapat menggunakan perintah berikut di dalam Package Manager Console. Untuk petunjuk rinci, silakan kunjungi
 {{< Common/link href="https://docs.aspose.com/svg/net/getting-started/installation/" text="Instalasi"  >}}halaman dokumentasi.
-{{< Common/release-notes-link family="svg" product="net" href="https://docs.aspose.com/svg/net/release-notes/" text="https://docs.aspose.com/svg/net/release-notes/"  >}}
+{{< Common/release-notes-link family="svg" product="net" href="https://releases.aspose.com/svg/net/release-notes/" text="https://releases.aspose.com/svg/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
