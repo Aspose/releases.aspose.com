@@ -22,7 +22,7 @@ weight:  1
 開ける
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Html/" text="NuGet"  >}}Microsoft Visual Studio® 内の Package Manager で、 <b>Aspose.HTML</b>を検索してインストールします。パッケージ マネージャー コンソール内で次のコマンドを使用することもできます。詳細な手順については、次の Web サイトを参照してください。
 {{< Common/link href="https://docs.aspose.com/html/net/installation/" text="インストール"  >}}ドキュメントページ。
-{{< Common/release-notes-link family="html" product="net" href="https://docs.aspose.com/html/net/release-notes/" text="https://docs.aspose.com/html/net/release-notes/"  >}}
+{{< Common/release-notes-link family="html" product="net" href="https://releases.aspose.com/html/net/release-notes/" text="https://releases.aspose.com/html/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
