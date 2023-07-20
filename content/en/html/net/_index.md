@@ -2,6 +2,7 @@
 title: "Download C# Library to Process CSS & HTML | Aspose.HTML API"
 description: "Download C# Class Library DLL to read, modify, navigate & convert XHTML, HTML files via on-premise .NET API. Supports parsing of HTML5, CSS3, SVG & HTML Canvas."
 keywords: "HTML Library C#"
+linktitle: "Aspose.HTML for .NET"
 family_listing_page_title: "Aspose.HTML for .NET"
 family_listing_page_description: "Aspose.HTML for .NET is an advanced HTML manipulation API that enables you to perform a wide range of HTML manipulation tasks directly within your .NET applications."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-net.png"
