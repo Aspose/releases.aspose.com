@@ -39,7 +39,7 @@ weight: 131
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/htmlnet/Aspose.HTML+for+.NET+18.3+Release+Notes">https://docs.aspose.com/display/htmlnet/Aspose.HTML+for+.NET+18.3+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/html/net/release-notes/2018/aspose-html-for-net-18-3-release-notes/">https://releases.aspose.com/html/net/release-notes/2018/aspose-html-for-net-18-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
