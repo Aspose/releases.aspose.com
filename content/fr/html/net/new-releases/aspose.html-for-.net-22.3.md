@@ -39,7 +39,7 @@ weight: 227
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href="https://docs.aspose.com/html/net/release-notes/release-notes-2022/aspose-html-for-net-22-3-release-notes/">https://docs.aspose.com/html/net/release-notes/release-notes-2022/aspose-html-for-net-22-3-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href="https://releases.aspose.com/html/net/release-notes/2022/aspose-html-for-net-22-3-release-notes/">https://releases.aspose.com/html/net/release-notes/2022/aspose-html-for-net-22-3-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -59,7 +59,7 @@ Auparavant, dans certains cas de conversion HTML vers PNG, les majuscules devena
 
 Amélioration de l'algorithme pour dessiner des lignes de tableau vides.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.HTML for .NET 22.3 Release Notes](https://docs.aspose.com/html/net/release-notes/release-notes-2022/aspose-html-for-net-22-3-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.HTML for .NET 22.3 Release Notes](https://releases.aspose.com/html/net/release-notes/2022/aspose-html-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

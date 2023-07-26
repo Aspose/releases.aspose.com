@@ -77,7 +77,7 @@ using (var document = new Aspose.Html.Dom.Svg.SVGDocument("<svg xmlns='http://ww
 
 This release offers various improvements and issue resolutions in converting HTML to PDF format.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.HTML for .NET 22.2 Release Notes](https://docs.aspose.com/html/net/aspose-html-for-net-22-2-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.HTML for .NET 22.2 Release Notes](https://releases.aspose.com/html/net/release-notes/2022/aspose-html-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 
