@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-macos-23.7/"
-folder_name: "Aspose.Tasks for C++ MacOS 23.7"
+folder_name: "Aspose.Tasks for C++ 23.7 MacOS"
 download_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-macos-23.7/fbc5a7206ecc5a2251f299c37e3feffb-12-9269"
 download_text: "Download"
 intro_text: "It contains Aspose.Tasks for C++ 23.7 macos only binaries"
@@ -22,7 +22,7 @@ weight: 176
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Tasks for C++ MacOS 23.7" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Tasks for C++ 23.7 MacOS" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/tasks/cpp/new-releases/aspose.tasks-for-c++-macos-23.7/fbc5a7206ecc5a2251f299c37e3feffb-12-9269" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tasks" >}}
