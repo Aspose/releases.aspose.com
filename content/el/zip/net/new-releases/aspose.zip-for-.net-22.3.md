@@ -39,7 +39,7 @@ weight: 99
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Σημειώσεις έκδοσης</h4><div> <a href="https://docs.aspose.com/zip/net/aspose-zip-for-net-22-3-release-notes/">https://docs.aspose.com/zip/net/aspose-zip-for-net-22-3-release-notes/</a></div><h4> Περιγραφή</h4><div class="HTMLDescription"> Aspose.ZIP για έκδοση .NET 22.3.</div>
+<h4>Σημειώσεις έκδοσης</h4><div> <a href="https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-3-release-notes/">https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-3-release-notes/</a></div><h4> Περιγραφή</h4><div class="HTMLDescription"> Aspose.ZIP για έκδοση .NET 22.3.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Αξιοσημείωτα χαρακτηριστικά">}}
@@ -54,7 +54,7 @@ weight: 99
 
 Βελτιωμένη εξαγωγή κρυπτογραφημένου "RAR5" σε .NET 6.
 
-> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.ZIP for .NET 22.3 Release Notes](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-3-release-notes/).
+> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.ZIP for .NET 22.3 Release Notes](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

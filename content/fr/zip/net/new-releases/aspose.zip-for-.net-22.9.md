@@ -14,7 +14,7 @@ file_size: "File Size: 9.42MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
 tags: ""
-release_notes_url : "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-9-release-notes/"
+release_notes_url : "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-9-release-notes/"
 weight: 111
 ---
 
@@ -37,7 +37,7 @@ weight: 111
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-9-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-9-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-9-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-9-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesFileFeatures >}}
@@ -59,7 +59,7 @@ Prend en charge la compression `XZ` pour le conteneur `ZIP`.
 
 Prise en charge de la compression parallèle `BZip2` via l'API.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.ZIP for .NET 22.9 Release Notes](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-9-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.ZIP for .NET 22.9 Release Notes](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

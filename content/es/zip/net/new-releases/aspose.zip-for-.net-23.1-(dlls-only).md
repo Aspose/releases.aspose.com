@@ -16,7 +16,7 @@ parent_path: "zip/net"
 section_parent_path: "zip/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-23-1-release-notes/"
 weight: 119
 
 ---
@@ -40,7 +40,7 @@ weight: 119
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-23-1-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-23-1-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-23-1-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Aspose.zip para .NET 23.1 (solo DLLS) lanzamiento.</div>

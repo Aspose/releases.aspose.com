@@ -16,7 +16,7 @@ parent_path: "tex/net"
 section_parent_path: "tex/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/tex/net/aspose-tex-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-10-release-notes/"
 weight: 25
 
 ---
@@ -40,7 +40,7 @@ weight: 25
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/tex/net/aspose-tex-for-net-22-10-release-notes/'>https://docs.aspose.com/tex/net/aspose-tex-for-net-22-10-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-10-release-notes/'>https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">.NET 22.10 (DLL およびドキュメント) リリース用の Aspose.TeX が含まれています。</div>

@@ -16,7 +16,7 @@ parent_path: "tex/cpp"
 section_parent_path: "tex/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/tex/cpp/release-notes/2022/aspose-tex-for-cpp-22-7-release-notes/"
 weight: 44
 
 ---
@@ -40,7 +40,7 @@ weight: 44
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-22-7-release-notes/'>https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-22-7-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/tex/cpp/release-notes/2022/aspose-tex-for-cpp-22-7-release-notes/'>https://releases.aspose.com/tex/cpp/release-notes/2022/aspose-tex-for-cpp-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Aspose.tex para c ++ 22.7 biblioteca nativa</div>

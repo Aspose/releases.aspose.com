@@ -61,7 +61,7 @@ using Aspose.Html.Saving;
 
 > Amélioration du traitement des applications JS et AngularJS.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.HTML for .NET 22.6 Release Notes](https://docs.aspose.com/html/net/aspose-html-for-net-22-6-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.HTML for .NET 22.6 Release Notes](https://releases.aspose.com/html/net/release-notes/2022/aspose-html-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

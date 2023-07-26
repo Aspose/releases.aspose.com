@@ -1,6 +1,7 @@
 ---
 title: "Download Doc Compression & Archiving DLL | Aspose.ZIP C# API"
 description: "Download DLL containing C# Class Library to create, manipulate, extract, protect archive file formats; ZIP, BZIP, BZ2, TAR via .NET on-premise High Code API."
+linktitle: "Aspose.ZIP for .NET"
 keywords: "ZIP API .NET"
 family_listing_page_title: "Aspose.ZIP for .NET"
 family_listing_page_description: "Aspose.ZIP for .NET is a flexible and easy to use .NET API that lets you work with files compression in standard zip format. It saves you time and efforts by allowing you to achieve compression/decompression of files and folders without going into the underlying complexity of the compress file formats."
@@ -20,7 +21,7 @@ weight:  1
 {{< Common/h2 text="Download Aspose.ZIP to Manipulate Zipped Archives"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.ZIP/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.ZIP</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/zip/net/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="zip" product="net" href="https://docs.aspose.com/zip/net/release-notes/" text="https://docs.aspose.com/zip/net/release-notes/"  >}}
+{{< Common/release-notes-link family="zip" product="net" href="https://releases.aspose.com/zip/net/release-notes/" text="https://releases.aspose.com/zip/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

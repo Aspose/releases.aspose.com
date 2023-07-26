@@ -39,7 +39,7 @@ weight: 25
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lançamento</h4><div> <a href="https://docs.aspose.com/pub/net/aspose-pub-for-net-21-6-release-notes/">https://docs.aspose.com/pub/net/aspose-pub-for-net-21-6-release-notes/</a></div>
+<h4>Notas de lançamento</h4><div> <a href="https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-6-release-notes/">https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Recursos notáveis">}}
@@ -58,7 +58,7 @@ Esta versão suporta o .NET Code, bem como o .NET 5.
 
 Esta versão adiciona o suporte para arquivos `PUB` do Microsoft Publisher® 2000.
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.PUB for .NET 21.6 Release Notes](https://docs.aspose.com/pub/net/aspose-pub-for-net-21-6-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.PUB for .NET 21.6 Release Notes](https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

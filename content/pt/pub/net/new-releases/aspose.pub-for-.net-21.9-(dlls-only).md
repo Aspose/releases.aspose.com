@@ -39,7 +39,7 @@ weight: 26
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href="https://docs.aspose.com/pub/net/aspose-pub-for-net-21-9-release-notes/">https://docs.aspose.com/pub/net/aspose-pub-for-net-21-9-release-notes/</a></div><h4>Descrição</h4><div class="HTMLDescription">Este arquivo zip contém apenas o Aspose.pub para montagens .NET. Os assemblies são os mesmos do instalador do MSI do produto da mesma versão. Faça o download disso se quiser usar o Aspose.pub sem o instalador do MSI, ou seja, você não pode executar os instaladores do MSI no Mono.</div>
+      <h4>Notas de liberação</h4><div><a href="https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-9-release-notes/">https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-9-release-notes/</a></div><h4>Descrição</h4><div class="HTMLDescription">Este arquivo zip contém apenas o Aspose.pub para montagens .NET. Os assemblies são os mesmos do instalador do MSI do produto da mesma versão. Faça o download disso se quiser usar o Aspose.pub sem o instalador do MSI, ou seja, você não pode executar os instaladores do MSI no Mono.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

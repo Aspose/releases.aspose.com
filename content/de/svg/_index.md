@@ -23,7 +23,7 @@ weight:  23
 Offen
 {{< Common/link href="https://www.nuget.org/packages/Aspose.SVG/" text="NuGet"  >}}Package Manager in Microsoft Visual Studio®, suchen Sie nach <b>Aspose.SVG</b> und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
 {{< Common/link href="https://docs.aspose.com/svg/net/getting-started/installation/" text="Installation"  >}}Dokumentationsseite.
-{{< Common/release-notes-link family="svg" product="net" href="https://docs.aspose.com/svg/net/release-notes/" text="https://docs.aspose.com/svg/net/release-notes/"  >}}
+{{< Common/release-notes-link family="svg" product="net" href="https://releases.aspose.com/svg/net/release-notes/" text="https://releases.aspose.com/svg/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

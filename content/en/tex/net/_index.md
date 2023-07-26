@@ -1,5 +1,6 @@
 ---
 title: "Download Document TypeSetting C# Library | Aspose.TeX API"
+linktitle: "Aspose.TeX for .NET"
 description: "Download C# class library with a TeX engine extension to typeset TeX files via .NET API. Convert TeX to XPS, PDF, JPEG, PNG, TIFF, BMP. Supports embedded fonts."
 keywords: "tex"
 family_listing_page_title: "Aspose.TeX for .NET"
@@ -20,7 +21,7 @@ weight:  1
 {{< Common/h2 text="Download Aspose.TeX to TypeSet TeX Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.TeX/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.TeX</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/tex/net/getting-started/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="tex" product="net" href="https://docs.aspose.com/tex/net/release-notes/" text="https://docs.aspose.com/tex/net/release-notes/"  >}}
+{{< Common/release-notes-link family="tex" product="net" href="https://releases.aspose.com/tex/net/release-notes/" text="https://releases.aspose.com/tex/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

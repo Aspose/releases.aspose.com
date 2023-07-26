@@ -14,7 +14,7 @@ file_size: "File Size: 9.73MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-7-release-notes/"
 weight: 104
 ---
 
@@ -37,7 +37,7 @@ weight: 104
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div> <a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-7-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-7-release-notes/</a></div>
+<h4>Sürüm notları</h4><div> <a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-7-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -53,7 +53,7 @@ weight: 104
 
 Yüksek hız ve iyi sıkıştırma sunan hızlı algoritma desteği eklendi.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.ZIP for .NET 22.7 Release Notes](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-7-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.ZIP for .NET 22.7 Release Notes](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-7-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

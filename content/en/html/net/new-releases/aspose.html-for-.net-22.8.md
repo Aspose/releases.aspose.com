@@ -91,7 +91,7 @@ using Aspose.Html.Saving;
     Converter.ConvertHTML(@"<h1>Convert HTML to PNG!</h1>", ".", new ImageSaveOptions(), Path.Combine(OutputDir, "convert-with-single-line.png"));
 ```
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.HTML for .NET 22.8 Release Notes](https://docs.aspose.com/html/net/aspose-html-for-net-22-8-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.HTML for .NET 22.8 Release Notes](https://releases.aspose.com/html/net/release-notes/2022/aspose-html-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

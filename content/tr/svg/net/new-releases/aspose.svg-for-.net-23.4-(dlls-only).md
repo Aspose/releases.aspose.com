@@ -16,7 +16,7 @@ parent_path: "svg/net"
 section_parent_path: "svg/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/svg/net/aspose-svg-for-net-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-4-release-notes/"
 weight: 131
 
 ---
@@ -40,7 +40,7 @@ weight: 131
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/svg/net/aspose-svg-for-net-23-4-release-notes/'>https://docs.aspose.com/svg/net/aspose-svg-for-net-23-4-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-4-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Bu zip dosyası, yalnızca .NET düzenekleri için aspose.svg içerir. Montajlar, aynı sürümün ürününün MSI yükleyicisiyle aynıdır. Aspose.svg ile kullanmak istiyorsanız bunu indirin</div>

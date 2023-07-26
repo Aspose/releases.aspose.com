@@ -39,7 +39,7 @@ weight: 51
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/drawing/net/aspose-drawing-for-net-20-10-release-notes/">https://docs.aspose.com/drawing/net/aspose-drawing-for-net-20-10-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält die Assemblys Aspose.Drawing für .NET Framework 2.0 und .NET Standard 2.0. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.Drawing ohne das MSI-Installationsprogramm verwenden möchten.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/drawing/net/release-notes/2020/aspose-drawing-for-net-20-10-release-notes/">https://releases.aspose.com/drawing/net/release-notes/2020/aspose-drawing-for-net-20-10-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält die Assemblys Aspose.Drawing für .NET Framework 2.0 und .NET Standard 2.0. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.Drawing ohne das MSI-Installationsprogramm verwenden möchten.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

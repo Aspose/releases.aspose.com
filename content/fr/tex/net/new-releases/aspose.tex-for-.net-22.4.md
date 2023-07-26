@@ -41,7 +41,7 @@ weight: 19
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Notes de version</h4><div> <a href="https://docs.aspose.com/tex/net/aspose-tex-for-net-22-4-release-notes/">https://docs.aspose.com/tex/net/aspose-tex-for-net-22-4-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href="https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-4-release-notes/">https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-4-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -66,7 +66,7 @@ new TeXJob(Path.Combine(RunExamples.InputDirectory, "sample.ltx"), new XpsDevice
 
 Cette version offre l'ajout d'un type `MathRenderer`, qui implémente le rendu de Math Formula.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.TeX for .NET 22.4 Release Notes](https://docs.aspose.com/tex/net/aspose-tex-for-net-22-4-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.TeX for .NET 22.4 Release Notes](https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

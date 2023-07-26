@@ -14,7 +14,7 @@ file_size: "File Size: 9.45MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-10-release-notes/"
 weight: 113
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 113
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Notes de version</h4>
-<a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-10-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-10-release-notes/</a>
+<a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-10-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-10-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>La description</h4>
@@ -61,7 +61,7 @@ Capacité à récupérer le commentaire de l'entrée dans le conteneur zip.
 
 Capacité à obtenir ou à définir le codage sur l'extraction d'archives zip.
 
-> Pour une liste complète des fonctionnalités, des améliorations et des corrections de bogues dans cette version, veuillez visiter [Asposezip pour les notes de libération net 2210](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-10-release-notes/).
+> Pour une liste complète des fonctionnalités, des améliorations et des corrections de bogues dans cette version, veuillez visiter [Asposezip pour les notes de libération net 2210](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-10-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

@@ -15,7 +15,7 @@ file_size: "File Size: 19.0 MB"
 parent_path: "svg/net"
 section_parent_path: "svg/net"
 
-release_notes_url: "https://docs.aspose.com/svg/net/aspose-svg-for-net-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-5-release-notes/"
 weight: 111
 
 ---
@@ -39,7 +39,7 @@ weight: 111
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/svg/net/aspose-svg-for-net-22-5-release-notes/'>https://docs.aspose.com/svg/net/aspose-svg-for-net-22-5-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-5-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.SVG for .NET assemblies. The assemblies a...</div>

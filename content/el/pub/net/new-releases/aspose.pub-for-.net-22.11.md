@@ -14,7 +14,7 @@ file_size: "File Size: 106.26MB"
 parent_path: "pub/net"
 section_parent_path: "pub/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/"
 weight: 32
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 32
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Σημειώσεις έκδοσης</h4>
-<a href='https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/'>https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/</a>
+<a href='https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/'>https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Περιγραφή</h4>
@@ -49,7 +49,7 @@ weight: 32
 
 Αυτή η έκδοση του Microsoft Publisher & Reg; Το API εισάγει την υποστήριξη για τη μέτρηση των αδειών. Αυτός ο τύπος άδειας επιτρέπει μηνιαία πληρωμή αντί για πλήρη εκ των προτέρων. Ένα άλλο όφελος είναι ότι η μηνιαία φόρτιση είναι σύμφωνα με τη χρήση του API.
 
-> Για μια πλήρη λίστα χαρακτηριστικών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτή την έκδοση, παρακαλώ επισκεφθείτε, [Asposepub για net 2211 Σημειώσεις κυκλοφορίας](https://docs.aspose.com/pub/net/aspose-pub-for-net-22-11-release-notes/).
+> Για μια πλήρη λίστα χαρακτηριστικών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτή την έκδοση, παρακαλώ επισκεφθείτε, [Asposepub για net 2211 Σημειώσεις κυκλοφορίας](https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

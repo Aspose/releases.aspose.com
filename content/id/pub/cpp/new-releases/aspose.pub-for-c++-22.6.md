@@ -15,7 +15,7 @@ file_size: "File Size: 390.36MB"
 parent_path: "pub/cpp"
 section_parent_path: "pub/cpp"
 
-release_notes_url: "https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/pub/cpp/release-notes/2022/aspose-pub-for-cpp-22-6-release-notes/"
 weight: 52
 
 ---
@@ -39,7 +39,7 @@ weight: 52
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-22-6-release-notes/'>https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-22-6-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/pub/cpp/release-notes/2022/aspose-pub-for-cpp-22-6-release-notes/'>https://releases.aspose.com/pub/cpp/release-notes/2022/aspose-pub-for-cpp-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Aspose.pub untuk C ++ 22.6 Perpustakaan Asli</div>

@@ -13,7 +13,7 @@ download_count: " 10/6/2022 Downloads: 13  Views: 16 "
 file_size: "File Size: 9.5 MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-5-release-notes/"
 weight: 100
 ---
 
@@ -36,7 +36,7 @@ weight: 100
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-5-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-5-release-notes/</a></div>
+<h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-5-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Beschreibung</h4><div class="HTMLDescription"> Aspose.ZIP für die Version .NET 22.5.</div>
@@ -61,7 +61,7 @@ Möglichkeit zum Extrahieren des `XAR`-Archivs.
 
 Extrahieren Sie WIM-Archive mit „Xpress“-Komprimierung und „LZX“-Komprimierung.
 
-> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.ZIP for .NET 22.5 Release Notes](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-5-release-notes/).
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.ZIP for .NET 22.5 Release Notes](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

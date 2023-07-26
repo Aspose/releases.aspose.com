@@ -14,7 +14,7 @@ file_size: "File Size: 9.73MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-12-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-12-release-notes/"
 weight: 116
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 116
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>发行说明</h4>
-<a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-12-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-12-release-notes/</a>
+<a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-12-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-12-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>描述</h4>
@@ -53,7 +53,7 @@ weight: 116
 
 添加了保存多量邮政编码档案的能力。
 
->有关此版本中的功能，增强功能和错误修复的完整列表，请访问[净2212释放注释Asposezip](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-12-release-notes/)。
+>有关此版本中的功能，增强功能和错误修复的完整列表，请访问[净2212释放注释Asposezip](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-12-release-notes/)。
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

@@ -39,7 +39,7 @@ weight: 84
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Catatan Rilis</h4><div> <a href="https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-2-release-notes/">https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-2-release-notes/</a></div><h4> Keterangan</h4><div class="HTMLDescription"> Penginstal MSI untuk Aspose.Drawing untuk .NET 22.2</div>
+<h4>Catatan Rilis</h4><div> <a href="https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-2-release-notes/">https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-2-release-notes/</a></div><h4> Keterangan</h4><div class="HTMLDescription"> Penginstal MSI untuk Aspose.Drawing untuk .NET 22.2</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Fitur Penting">}}
@@ -75,7 +75,7 @@ Menambahkan berbagai jenis standar [line cap shapes](https://reference.aspose.co
 
 Rilis ini telah meningkatkan dukungan untuk grafik raster TIFF (Tagged Image File Format).
 
-> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Drawing for .NET 22.2 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-2-release-notes/).
+> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Drawing for .NET 22.2 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

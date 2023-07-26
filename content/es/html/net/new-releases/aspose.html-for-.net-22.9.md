@@ -113,7 +113,7 @@ using Aspose.Html.Converters;
       }
 ```
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.HTML for .NET 22.9 Notas de lanzamiento](https://docs.aspose.com/html/net/aspose-html-for-net-22-9-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.HTML for .NET 22.9 Notas de lanzamiento](https://releases.aspose.com/html/net/release-notes/2022/aspose-html-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -21,7 +21,7 @@ weight:  3
 開ける
 {{< Common/link href="https://www.nuget.org/packages/Aspose.TeX.Cpp" text="NuGet"  >}}Microsoft Visual Studio® 内の Package Manager で、 <b>Aspose.TeX.Cpp</b>を検索してインストールします。パッケージ マネージャー コンソール内で次のコマンドを使用することもできます。詳細な手順については、次の Web サイトを参照してください。
 {{< Common/link href="https://docs.aspose.com/tex/cpp/installation/" text="インストール"  >}}ドキュメントページ。
-{{< Common/release-notes-link family="tex" product="cpp" href="https://docs.aspose.com/tex/cpp/release-notes/" text="https://docs.aspose.com/tex/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="tex" product="cpp" href="https://releases.aspose.com/tex/cpp/release-notes/" text="https://releases.aspose.com/tex/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

@@ -14,7 +14,7 @@ file_size: "File Size: 9.73MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-7-release-notes/"
 weight: 104
 ---
 
@@ -37,7 +37,7 @@ weight: 104
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lançamento</h4><div> <a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-7-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-7-release-notes/</a></div>
+<h4>Notas de lançamento</h4><div> <a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-7-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -53,7 +53,7 @@ Suporte para compactar arquivos `CPIO` para compressão de arquivos `GZIP`, `BZI
 
 Adicionado o suporte para o algoritmo ágil que oferece alta velocidade e boa compactação.
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.ZIP for .NET 22.7 Release Notes](https://docs.aspose.com/zip/net/aspose-zip-for-net-22-7-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.ZIP for .NET 22.7 Release Notes](https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

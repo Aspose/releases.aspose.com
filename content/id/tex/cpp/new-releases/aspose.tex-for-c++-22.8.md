@@ -16,7 +16,7 @@ parent_path: "tex/cpp"
 section_parent_path: "tex/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/tex/cpp/release-notes/2022/aspose-tex-for-cpp-22-8-release-notes/"
 weight: 46
 
 ---
@@ -40,7 +40,7 @@ weight: 46
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-22-8-release-notes/'>https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-22-8-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/tex/cpp/release-notes/2022/aspose-tex-for-cpp-22-8-release-notes/'>https://releases.aspose.com/tex/cpp/release-notes/2022/aspose-tex-for-cpp-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Aspose.tex untuk C ++ 22.8 Perpustakaan Asli</div>

@@ -39,7 +39,7 @@ weight: 203
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/html/net/release-notes/release-notes-2021/aspose-html-for-net-21-4-release-notes/">https://docs.aspose.com/html/net/release-notes/release-notes-2021/aspose-html-for-net-21-4-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/html/net/release-notes/2021/aspose-html-for-net-21-4-release-note/">https://releases.aspose.com/html/net/release-notes/2021/aspose-html-for-net-21-4-release-note/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

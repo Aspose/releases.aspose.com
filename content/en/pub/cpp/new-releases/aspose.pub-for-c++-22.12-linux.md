@@ -16,7 +16,7 @@ parent_path: "pub/cpp"
 section_parent_path: "pub/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-22-12-release-notes/"
+release_notes_url: "https://releases.aspose.com/pub/cpp/release-notes/2022/aspose-pub-for-cpp-22-12-release-notes/"
 weight: 67
 
 ---
@@ -40,7 +40,7 @@ weight: 67
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-22-12-release-notes/'>https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-22-12-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pub/cpp/release-notes/2022/aspose-pub-for-cpp-22-12-release-notes/'>https://releases.aspose.com/pub/cpp/release-notes/2022/aspose-pub-for-cpp-22-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.PUB for C++ 22.12 Linux native library</div>

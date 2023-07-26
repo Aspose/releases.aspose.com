@@ -39,7 +39,7 @@ weight: 22
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-21-8-release-notes/">https://docs.aspose.com/tex/cpp/aspose-tex-for-cpp-21-8-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/tex/cpp/release-notes/2021/aspose-tex-for-cpp-21-8-release-notes/">https://releases.aspose.com/tex/cpp/release-notes/2021/aspose-tex-for-cpp-21-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

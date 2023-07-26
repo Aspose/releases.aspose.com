@@ -39,7 +39,7 @@ weight: 22
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href="https://docs.aspose.com/pub/net/aspose-pub-for-net-21-4-release-notes/">https://docs.aspose.com/pub/net/aspose-pub-for-net-21-4-release-notes/</a></div><h4>La description</h4><div class="HTMLDescription">Ce fichier zip ne contient que les assemblages Aspose.pub pour .NET. Les assemblages sont les mêmes que dans le programme d'installation MSI du produit de la même version. Téléchargez ceci si vous souhaitez utiliser Aspose.pub sans l'installateur MSI, c'est-à-dire que vous ne pouvez pas exécuter les installateurs MSI sur Mono.</div>
+      <h4>Notes de version</h4><div><a href="https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-4-release-notes/">https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-4-release-notes/</a></div><h4>La description</h4><div class="HTMLDescription">Ce fichier zip ne contient que les assemblages Aspose.pub pour .NET. Les assemblages sont les mêmes que dans le programme d'installation MSI du produit de la même version. Téléchargez ceci si vous souhaitez utiliser Aspose.pub sans l'installateur MSI, c'est-à-dire que vous ne pouvez pas exécuter les installateurs MSI sur Mono.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

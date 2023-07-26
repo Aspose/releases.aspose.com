@@ -2,6 +2,7 @@
 title: "Download C# Library to Process CSS & HTML | Aspose.HTML API"
 description: "Download C# Class Library DLL to read, modify, navigate & convert XHTML, HTML files via on-premise .NET API. Supports parsing of HTML5, CSS3, SVG & HTML Canvas."
 keywords: "HTML Library C#"
+linktitle: "Aspose.HTML for .NET"
 family_listing_page_title: "Aspose.HTML for .NET"
 family_listing_page_description: "Aspose.HTML for .NET is an advanced HTML manipulation API that enables you to perform a wide range of HTML manipulation tasks directly within your .NET applications."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-net.png"
@@ -20,7 +21,7 @@ weight:  1
 {{< Common/h2 text="Download Aspose.HTML to work with HTML files"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Html/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.HTML</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/html/net/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="html" product="net" href="https://docs.aspose.com/html/net/release-notes/" text="https://docs.aspose.com/html/net/release-notes/"  >}}
+{{< Common/release-notes-link family="html" product="net" href="https://releases.aspose.com/html/net/release-notes/" text="https://releases.aspose.com/html/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

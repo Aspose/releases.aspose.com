@@ -16,7 +16,7 @@ parent_path: "zip/net"
 section_parent_path: "zip/net"
 
 tags: ""
-release_notes_url : "https://docs.aspose.com/zip/net/aspose-zip-for-net-22-10-release-notes/"
+release_notes_url : "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-10-release-notes/"
 weight: 112
 
 ---
@@ -40,7 +40,7 @@ weight: 112
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div> <a href='https://docs.aspose.com/zip/net/aspose-zip-for-net-22-10-release-notes/'>https://docs.aspose.com/zip/net/aspose-zip-for-net-22-10-release-notes/</a></div>
+      <h4>Notes de version</h4><div> <a href='https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-10-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription"> Version Aspose.ZIP pour .NET 22.10 (DLL uniquement).</div>

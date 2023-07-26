@@ -37,7 +37,7 @@ weight: 109
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/svg/net/aspose-svg-for-net-22-4-release-notes/">https://docs.aspose.com/svg/net/aspose-svg-for-net-22-4-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-4-release-notes/">https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

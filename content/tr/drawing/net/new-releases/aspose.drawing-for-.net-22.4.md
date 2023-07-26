@@ -36,7 +36,7 @@ weight: 88
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div> <a href="https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-4-release-notes/">https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-4-release-notes/</a></div><h4> Tanım</h4><div class="HTMLDescription"> Aspose.Drawing for .NET 22.4 için MSI yükleyicisi</div>
+<h4>Sürüm notları</h4><div> <a href="https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-4-release-notes/">https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-4-release-notes/</a></div><h4> Tanım</h4><div class="HTMLDescription"> Aspose.Drawing for .NET 22.4 için MSI yükleyicisi</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Önemli Özellikler">}}
@@ -55,7 +55,7 @@ GIF dosyalarının şeffaflığı için destek eklendi.
 
 Görüntü kodekleri için destek geliştirildi.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Drawing for .NET 22.4 Release Notes](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-4-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Drawing for .NET 22.4 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-4-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

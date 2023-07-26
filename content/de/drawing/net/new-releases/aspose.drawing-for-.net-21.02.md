@@ -39,7 +39,7 @@ weight: 58
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/drawing/net/aspose-drawing-for-net-21-02-release-notes/">https://docs.aspose.com/drawing/net/aspose-drawing-for-net-21-02-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Das MSI-Installationsprogramm für Aspose.Drawing für .NET 21.02</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/drawing/net/release-notes/2021/aspose-drawing-for-net-21-2-release-notes/">https://releases.aspose.com/drawing/net/release-notes/2021/aspose-drawing-for-net-21-2-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Das MSI-Installationsprogramm für Aspose.Drawing für .NET 21.02</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
