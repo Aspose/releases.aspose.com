@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/apose.tasks-for-c++-23.7-windows/"
-folder_name: "Apose.Tasks for C++ 23.7 Windows"
+folder_name: "Aspose.Tasks for C++ 23.7 Windows"
 download_link: "/tasks/cpp/new-releases/apose.tasks-for-c++-23.7-windows/9ef3b28c96daf50790023434f3332700-41-9271"
 download_text: "Download"
 intro_text: "It contains Aspose.Tasks for C++ 23.7 windows only binaries"
@@ -22,7 +22,7 @@ weight: 178
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Apose.Tasks for C++ 23.7 Windows" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Tasks for C++ 23.7 Windows" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/tasks/cpp/new-releases/apose.tasks-for-c++-23.7-windows/9ef3b28c96daf50790023434f3332700-41-9271" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tasks" >}}
