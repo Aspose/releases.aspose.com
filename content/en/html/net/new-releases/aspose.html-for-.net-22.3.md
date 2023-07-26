@@ -39,7 +39,7 @@ weight: 227
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Release Notes</h4><div><a href="https://docs.aspose.com/html/net/release-notes/release-notes-2022/aspose-html-for-net-22-3-release-notes/">https://docs.aspose.com/html/net/release-notes/release-notes-2022/aspose-html-for-net-22-3-release-notes/</a></div>
+<h4>Release Notes</h4><div><a href="https://releases.aspose.com/html/net/release-notes/2022/aspose-html-for-net-22-3-release-notes/">https://releases.aspose.com/html/net/release-notes/2022/aspose-html-for-net-22-3-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -59,7 +59,7 @@ Previously in some instances of HTML to PNG conversion the capital letters becam
 
 Improved the algorithm for drawing empty table rows.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.HTML for .NET 22.3 Release Notes](https://docs.aspose.com/html/net/release-notes/release-notes-2022/aspose-html-for-net-22-3-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.HTML for .NET 22.3 Release Notes](https://releases.aspose.com/html/net/release-notes/2022/aspose-html-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

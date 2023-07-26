@@ -79,7 +79,7 @@ Updated the CSS and HTML parsing algorithms as per the latest documentation.
 
 Previously in some instances the non breaking spaces were being converted to invalid characters in output PDF. Now this issue has been resolved.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.HTML for .NET 22.1 Release Notes](https://docs.aspose.com/html/net/aspose-html-for-net-22-1-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.HTML for .NET 22.1 Release Notes](https://releases.aspose.com/html/net/release-notes/2022/aspose-html-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

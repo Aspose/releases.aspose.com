@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.7/"
 folder_name: "Aspose.Slides for Android via Java 23.7"
-download_link: "/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.7/e3268e93b0207e8cdef5bc9ff4203b0a-7-9237"
+download_link: "/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.7/a6c837eb9cecc4dc2fcd12a0c2415bae-7-9237"
 download_text: "Download"
 intro_text: "It contains Aspose.Slides for Android via Java 23.7 release."
 image_link: "/resources/img/zip-icon.png"
@@ -24,19 +24,19 @@ weight: 104
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Slides for Android via Java 23.7" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.7/e3268e93b0207e8cdef5bc9ff4203b0a-7-9237" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.7/a6c837eb9cecc4dc2fcd12a0c2415bae-7-9237" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-e3268e93b0207e8cdef5bc9ff4203b0a-7-9237" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-a6c837eb9cecc4dc2fcd12a0c2415bae-7-9237" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
-      {{< Common/li id="size-update-e3268e93b0207e8cdef5bc9ff4203b0a-7-9237" >}} 31.7MB {{< /Common/li >}}
+      {{< Common/li id="size-update-a6c837eb9cecc4dc2fcd12a0c2415bae-7-9237" >}} 31.7MB {{< /Common/li >}}
 
       {{< Common/li >}} Date Added: {{< /Common/li >}}
-      {{< Common/li id="added-update-e3268e93b0207e8cdef5bc9ff4203b0a-7-9237" >}}20/7/2023 {{< /Common/li >}}
+      {{< Common/li id="added-update-a6c837eb9cecc4dc2fcd12a0c2415bae-7-9237" >}}20/7/2023 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

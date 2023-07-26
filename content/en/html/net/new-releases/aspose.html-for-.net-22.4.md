@@ -80,7 +80,7 @@ string outputFile = dataDir + "HTMLtoPNG_Output.png";
 Converter.ConvertHTML(htmlDocument, options, outputFile);
 ```
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.HTML for .NET 22.4 Release Notes](https://docs.aspose.com/html/net/aspose-html-for-net-22-4-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.HTML for .NET 22.4 Release Notes](https://releases.aspose.com/html/net/release-notes/2022/aspose-html-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

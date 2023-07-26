@@ -129,7 +129,7 @@ using Aspose.Html.Saving;
      Converter.ConvertSVG(Path.Combine(DataDir, "shapes.svg"), new PdfSaveOptions(), Path.Combine(OutputDir, "convert-with-single-line.pdf"));
 ```
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.HTML for .NET 22.5 Release Notes](https://docs.aspose.com/html/net/aspose-html-for-net-22-5-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.HTML for .NET 22.5 Release Notes](https://releases.aspose.com/html/net/release-notes/2022/aspose-html-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

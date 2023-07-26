@@ -1,49 +1,49 @@
 ---
 
-title: "İndirmeler --- Yeni sürümler -psose.pdf-cor ++-Linux"
+title: "İndirmeler --- Yeni sürümler -psose.pdf-cor ++-linux"
 description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-linux/"
-folder_name: "C ++ 22.9 Linux için aspose.pdf"
-download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-linux/9d590da69eda0c2a4faadcd3fcf765d1-21-7899"
+folder_name: "C ++ linux için aspose.pdf"
+download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-linux/4b29b1409671e6e2aec3efa3b56ae41e-23-9256"
 download_text: "İndirmek"
-intro_text: "Linux Sürümü"
+intro_text: "Linux Versiyonu"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 15/9/2022 İndirmeks: 1  Views: 1 "
-file_size: "File Size: 101.23MB"
+download_count: " 25/7/2023 İndirmeks: 1  Views: 1 "
+file_size: "File Size: 111.11MB"
 parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
 
 tags: "PDF C++ Linux Ubuntu"
-release_notes_url: "https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-22-9-release-notes/"
-weight: 159
+release_notes_url: "https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-23-7-release-notes/"
+weight: 187
 
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="C ++ 22.9 Linux için aspose.pdf" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="C ++ linux için aspose.pdf" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="İndirmek" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-linux/9d590da69eda0c2a4faadcd3fcf765d1-21-7899" >}}
-    {{< Releases/ReleasesSingleButtons text="Destek Forumu" link="https://forum.aspose.com/c/pdf" >}}
+    {{< Releases/ReleasesSingleButtons text="İndirmek" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-linux/4b29b1409671e6e2aec3efa3b56ae41e-23-9256" >}}
+    {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} İndirmeks: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-9d590da69eda0c2a4faadcd3fcf765d1-21-7899" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-4b29b1409671e6e2aec3efa3b56ae41e-23-9256" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Dosya boyutu: {{< /Common/li >}}
-      {{< Common/li id="size-update-9d590da69eda0c2a4faadcd3fcf765d1-21-7899" >}} 101.23MB {{< /Common/li >}}
+      {{< Common/li id="size-update-4b29b1409671e6e2aec3efa3b56ae41e-23-9256" >}} 111.11MB {{< /Common/li >}}
 
       {{< Common/li >}} Ekleme Tarihi: {{< /Common/li >}}
-      {{< Common/li id="added-update-9d590da69eda0c2a4faadcd3fcf765d1-21-7899" >}}15/9/2022 {{< /Common/li >}}
+      {{< Common/li id="added-update-4b29b1409671e6e2aec3efa3b56ae41e-23-9256" >}}25/7/2023 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-22-9-release-notes/'>https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-22-9-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-23-7-release-notes/'>https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Tanım</h4><div class="HTMLDescription">Linux Sürümü</div>
+      <h4>Tanım</h4><div class="HTMLDescription">Linux Versiyonu</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
