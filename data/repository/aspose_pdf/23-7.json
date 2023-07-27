@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk17",
+  "artifactId" : "aspose-pdf",
+  "id" : "23-7",
+  "packageFiles" : [ {
+    "size" : "72 MB",
+    "name" : "aspose-pdf-23.7-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "72 MB",
+    "name" : "aspose-pdf-23.7-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "452 bytes",
+    "name" : "aspose-pdf-23.7.pom"
+  } ],
+  "releasehDate" : "2023-07-27T15:04:25+00:00",
+  "version" : "23.7",
+  "ReleaseNotes" : "https://docs.aspose.com/pdf/java/aspose-pdf-for-java-23-7-release-notes/"
+}
