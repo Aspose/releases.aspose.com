@@ -10,7 +10,7 @@ download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-23.7-macos/96e6cc18a955
 download_text: "Download"
 intro_text: "Aspose.PDF for C++ macOS version"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 25/7/2023 Downloads: 1  Views: 1 "
+download_count: " 25/7/2023 Downloads: 15  Views: 1 "
 file_size: "File Size: 110.06MB"
 parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
@@ -31,7 +31,7 @@ weight: 188
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-96e6cc18a955527278ff25c8b0b2e043-23-9258" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-96e6cc18a955527278ff25c8b0b2e043-23-9258" >}} 15 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
       {{< Common/li id="size-update-96e6cc18a955527278ff25c8b0b2e043-23-9258" >}} 110.06MB {{< /Common/li >}}
 
