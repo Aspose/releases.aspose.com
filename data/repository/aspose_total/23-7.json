@@ -1,0 +1,13 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-total",
+  "id" : "23-7",
+  "packageFiles" : [ {
+    "size" : "5 KB",
+    "name" : "aspose-total-23.7.pom"
+  } ],
+  "type" : "pom",
+  "releasehDate" : "2023-08-01T12:28:10+00:00",
+  "version" : "23.7",
+  "ReleaseNotes" : "https://docs.aspose.com/total/java/aspose-total-for-java-23-7-release-notes/"
+}
