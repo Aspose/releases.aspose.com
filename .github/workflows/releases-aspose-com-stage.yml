@@ -33,7 +33,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -67,7 +67,7 @@ jobs:
           rm public/ru/sitemap.xml;
           rm public/tr/sitemap.xml;
           rm public/zh/sitemap.xml;
-          ls public -all;
+          ls public;
 
       - name: Deploy releases-qa.aspose.com (Stage) to S3
         run: hugo --config "./config/config-stage-releases-aspose-com.toml" deploy --target "Stage" --maxDeletes 0 --verbose
@@ -99,6 +99,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
       # Invalidate Cloudfront Home Page
       - name: invalidate
+        continue-on-error: true
         uses: chetan/invalidate-cloudfront-action@master
         env:
           DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION }}

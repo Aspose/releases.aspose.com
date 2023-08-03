@@ -78,6 +78,7 @@ jobs:
 
       # Invalidate Cloudfront Home Page
       - name: invalidate
+        continue-on-error: true
         uses: chetan/invalidate-cloudfront-action@master
         env:
           DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION_PROD }}
