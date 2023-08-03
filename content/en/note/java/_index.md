@@ -1,6 +1,6 @@
 ---
 title: Aspose.Note | Java Library to Create/Manipulate OneNote Docs
-linktitle: Aspose.Note
+linktitle: Aspose.Note for Java
 description: Java class library to load, edit, save, & convert OneNote formats. Supports pages, images, text, tables, attachments, tags, tasks, text styles, and hyperlinks.
 layout: packages
 type: repository
