@@ -68,7 +68,7 @@ jobs:
           rm public/ru/sitemap.xml;
           rm public/tr/sitemap.xml;
           rm public/zh/sitemap.xml;
-          ls public -all;
+          ls public;
 
       - name: Deploy releases.aspose.com (Prod) to S3
         run: hugo --config "./config/config-prod-releases-aspose-com.toml" deploy --target "Prod" --maxDeletes 0 --verbose
