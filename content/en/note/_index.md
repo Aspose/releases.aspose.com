@@ -1,5 +1,6 @@
 ---
 title: "Microsoft OneNote Document APIs | Aspose.Notes Product Family"
+linktitle: "Aspose.Note Product Family"
 description: "Download .NET & Java on-premise libraries to create, process & convert Microsoft OneNote files from cross-platform apps. "
 keywords: "OneNote API "
 family_listing_page_title: "Aspose.Note Product Family"

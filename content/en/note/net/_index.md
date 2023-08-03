@@ -1,5 +1,6 @@
 ---
 title: "Download C# DLL to Process OneNote® File | Aspose.Note API"
+linktitle: "Aspose.Note for .NET"
 description: "Download OneNote® File Processing C# Class Library DLL to load, edit & save ONE format. Access DOM, insert graphic, extract text, & convert ONE to PDF & images."
 keywords: "OneNote .NET Library"
 family_listing_page_title: "Aspose.Note for .NET"
