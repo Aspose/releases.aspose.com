@@ -33,7 +33,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: macos-latest-xl
+    runs-on: macos-latest
     timeout-minutes: 120 # 2 hours
 
     # Steps represent a sequence of tasks that will be executed as part of the job
