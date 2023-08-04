@@ -39,7 +39,7 @@ weight: 126
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/notenet/Aspose.Note+for+.NET+17.11+Release+Notes">https://docs.aspose.com/display/notenet/Aspose.Note+for+.NET+17.11+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Note für die Version .NET 17.11.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/note/net/release-notes/2017/aspose-note-for-net-17-11-release-notes/">https://releases.aspose.com/note/net/release-notes/2017/aspose-note-for-net-17-11-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Note für die Version .NET 17.11.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

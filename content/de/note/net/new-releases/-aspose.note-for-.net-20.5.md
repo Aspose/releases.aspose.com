@@ -39,7 +39,7 @@ weight: 156
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/notenet/Aspose.Note+for+.NET+20.5+Release+Notes">https://docs.aspose.com/display/notenet/Aspose.Note+for+.NET+20.5+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Note für die Version .NET 20.5.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/note/net/release-notes/2020/aspose-note-for-net-20-5-release-notes/">https://releases.aspose.com/note/net/release-notes/2020/aspose-note-for-net-20-5-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Note für die Version .NET 20.5.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
