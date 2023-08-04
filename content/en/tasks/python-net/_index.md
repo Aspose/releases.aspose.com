@@ -3,6 +3,7 @@
 title: "Python Project procesing API | Aspose.Tasks product family"
 description:  "Download Python package to work with Microsoft Project files via .NET API."
 keywords:  "Project API,Project Library,Python Project module"
+linktitle: "Aspose.Tasks for Python via .NET"
 family_listing_page_title:  "Aspose.Tasks for Python via .NET"
 family_listing_page_description:  "Aspose.Tasks for Python via .NET is an advanced Microsoft Project Processing API that enables you to perform a wide range of processing directly within your Python applications."
 family_listing_page_iconurl:  "https://docs.aspose.com/tasks/home_4.svg"
@@ -37,7 +38,7 @@ Check out the [Landing Pages](https://products.aspose.com/tasks/python-net/) of 
 - Supported export to multiple image formats including BMP, GIF, JPEG & PNG.
 - Supported output to many other formats as XLSX, HTML, CSV, text etc.
 - Export to PDF
-- Oracle Primavera and Project Server (Project online) support. 
+- Oracle Primavera and Project Server (Project online) support.
 
 ## Supported MS-Project versions
 
@@ -136,7 +137,7 @@ prj.save("output.jpg", options)
 
 ## Create Project file from scratch in Python
 
-In the next code snippet, we are creating a Project document from scratch containing few tasks. After installing **Aspose.Tasks for Python via .NET** in your environment, you can execute below code sample to see how Aspose.Tasks API works. 
+In the next code snippet, we are creating a Project document from scratch containing few tasks. After installing **Aspose.Tasks for Python via .NET** in your environment, you can execute below code sample to see how Aspose.Tasks API works.
 
 Below code snippet follows these steps:
 

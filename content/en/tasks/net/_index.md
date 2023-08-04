@@ -2,6 +2,7 @@
 title: "Download .NET DLL to edit Projects, Tasks | Aspose.Tasks API"
 description: "Download DLL consisting Project Task Management C# class library for generating, editing, & converting MS Project® & Primavera® files via .NET on-premise API."
 keywords: "MS Project .NET API, Project .NET Library"
+title: "Aspose.Tasks for .NET"
 family_listing_page_title: "Aspose.Tasks for .NET"
 family_listing_page_description: "Aspose.Tasks for .NET offers Project management APIs that enable the .NET applications to not only read and manipulate Microsoft Project® documents but also write Microsoft Project® documents in both MPP and XML formats - all without using Microsoft Project®. As with all Aspose file format APIs - Aspose.Tasks for .NET works well with all types of .NET applications including WinForms and Web Form."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-net-min.png"

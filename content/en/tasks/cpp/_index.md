@@ -2,6 +2,7 @@
 title: "Download Project Management C++ Class Library | Aspose.Tasks"
 description: "Download standalone C++ Library DLL that supports Project Task Assignment Management via API. Supports Primavera® (XER, MPX) & MS Project® (MPP, MPT) formats."
 keywords: "Project C++ Library, C++ Tasks Management API"
+linktitle: "Aspose.Tasks for C++"
 family_listing_page_title: "Aspose.Tasks for C++"
 family_listing_page_description: "Aspose.Tasks for C++ offers Project management APIs that enable the C++ applications to not only read and manipulate Microsoft Project® documents but also write Microsoft Project® documents in both MPP and XML formats - all without using Microsoft Project®. As with all Aspose file format APIs - Aspose.Tasks for C++ works well with all types of C++ applications."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png"
