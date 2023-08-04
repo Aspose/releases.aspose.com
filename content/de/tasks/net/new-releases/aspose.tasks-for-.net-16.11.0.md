@@ -39,7 +39,7 @@ weight: 337
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/tasksnet/Aspose.Tasks+for+.NET+16.11.0+Release+Notes">http://www.aspose.com/docs/display/tasksnet/Aspose.Tasks+for+.NET+16.11.0+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Tasks für die Version .NET 16.11.0.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2016/aspose-tasks-for-net-16-11-0-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2016/aspose-tasks-for-net-16-11-0-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Tasks für die Version .NET 16.11.0.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
