@@ -39,7 +39,7 @@ weight: 364
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/tasksnet/Aspose.Tasks+for+.NET+18.7+Release+Notes">https://docs.aspose.com/display/tasksnet/Aspose.Tasks+for+.NET+18.7+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Tasks für die Version .NET 18.7 (nur DLLs).</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2018/aspose-tasks-for-net-18-7-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2018/aspose-tasks-for-net-18-7-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Tasks für die Version .NET 18.7 (nur DLLs).</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

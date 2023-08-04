@@ -39,7 +39,7 @@ weight: 339
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/tasksnet/Aspose.Tasks+for+.NET+17.1.0++Release+Notes">https://docs.aspose.com/display/tasksnet/Aspose.Tasks+for+.NET+17.1.0++Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält MSI mit Aspose.Tasks für die Version .NET 17.1.0.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2017/aspose-tasks-for-net-17-1-0-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2017/aspose-tasks-for-net-17-1-0-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält MSI mit Aspose.Tasks für die Version .NET 17.1.0.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
