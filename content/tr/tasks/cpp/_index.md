@@ -22,7 +22,7 @@ weight:  3
 Açık
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Tasks.Cpp/" text="NuGet"  >}}Microsoft Visual Studio® içinde Paket Yöneticisi, <b>Aspose.Tasks.Cpp'yi</b> arayın ve kurun. Paket Yöneticisi Konsolunda aşağıdaki komutu da kullanabilirsiniz. Ayrıntılı talimatlar için lütfen ziyaret edin
 {{< Common/link href="https://docs.aspose.com/tasks/cpp/installation/" text="Kurulum"  >}}dokümantasyon sayfası.
-{{< Common/release-notes-link family="tasks" product="cpp" href="https://docs.aspose.com/tasks/cpp/release-notes/" text="https://docs.aspose.com/tasks/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="tasks" product="cpp" href="https://releases.aspose.com/tasks/cpp/release-notes/" text="https://releases.aspose.com/tasks/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

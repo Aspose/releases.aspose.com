@@ -22,7 +22,7 @@ weight:  1
 Abrir
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Tasks/" text="NuGetName"  >}}Package Manager dentro do Microsoft Visual Studio®, procure por <b>Aspose.Tasks</b> e instale. Você também pode usar o seguinte comando no Console do Gerenciador de Pacotes. Para obter instruções detalhadas, visite o
 {{< Common/link href="https://docs.aspose.com/tasks/net/getting-started/installation/" text="Instalação"  >}}página de documentação.
-{{< Common/release-notes-link family="tasks" product="net" href="https://docs.aspose.com/tasks/net/release-notes/" text="https://docs.aspose.com/tasks/net/release-notes/"  >}}
+{{< Common/release-notes-link family="tasks" product="net" href="https://releases.aspose.com/tasks/net/release-notes/" text="https://releases.aspose.com/tasks/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
