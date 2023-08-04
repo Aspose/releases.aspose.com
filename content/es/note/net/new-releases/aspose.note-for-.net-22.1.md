@@ -39,7 +39,7 @@ weight: 177
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lanzamiento</h4><div><a href="https://docs.aspose.com/note/net/aspose-note-for-net-22-1-release-notes/">https://docs.aspose.com/note/net/aspose-note-for-net-22-1-release-notes/</a></div>
+<h4>Notas de lanzamiento</h4><div><a href="https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-1-release-notes/">https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-1-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -55,7 +55,7 @@ Ability to get or set the page background color of a Microsoft OneNote&reg; docu
 
 Improved the indent for the `OutlineElement` content.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Note for .NET 22.1 Notas de lanzamiento](https://docs.aspose.com/note/net/aspose-note-for-net-22-1-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Note for .NET 22.1 Notas de lanzamiento](https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

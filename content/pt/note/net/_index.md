@@ -22,7 +22,7 @@ weight:  1
 Abrir
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Note/" text="NuGetName"  >}}Package Manager dentro do Microsoft Visual Studio®, procure por <b>Aspose.Note</b> e instale. Você também pode usar o seguinte comando no Console do Gerenciador de Pacotes. Para obter instruções detalhadas, visite o
 {{< Common/link href="https://docs.aspose.com/note/net/installation/" text="Instalação"  >}}página de documentação.
-{{< Common/release-notes-link family="note" product="net" href="https://docs.aspose.com/note/net/release-notes/" text="https://docs.aspose.com/note/net/release-notes/"  >}}
+{{< Common/release-notes-link family="note" product="net" href="https://releases.aspose.com/note/net/release-notes/" text="https://releases.aspose.com/note/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

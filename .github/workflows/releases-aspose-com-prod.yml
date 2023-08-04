@@ -33,7 +33,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: macos-latest-xl
+    runs-on: macos-latest
     timeout-minutes: 120 # 2 hours
 
     # Steps represent a sequence of tasks that will be executed as part of the job
@@ -68,7 +68,7 @@ jobs:
           rm public/ru/sitemap.xml;
           rm public/tr/sitemap.xml;
           rm public/zh/sitemap.xml;
-          ls public -all;
+          ls public;
 
       - name: Deploy releases.aspose.com (Prod) to S3
         run: hugo --config "./config/config-prod-releases-aspose-com.toml" deploy --target "Prod" --maxDeletes 0 --verbose
@@ -78,6 +78,7 @@ jobs:
 
       # Invalidate Cloudfront Home Page
       - name: invalidate
+        continue-on-error: true
         uses: chetan/invalidate-cloudfront-action@master
         env:
           DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION_PROD }}

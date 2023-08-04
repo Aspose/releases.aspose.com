@@ -39,7 +39,7 @@ weight: 160
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/note/net/aspose-note-for-net-20-9-release-notes/">https://docs.aspose.com/note/net/aspose-note-for-net-20-9-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Note für die Version .NET 20.9 (nur Dlls).</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/note/net/release-notes/2020/aspose-note-for-net-20-9-release-notes/">https://releases.aspose.com/note/net/release-notes/2020/aspose-note-for-net-20-9-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Note für die Version .NET 20.9 (nur Dlls).</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

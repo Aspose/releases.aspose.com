@@ -39,7 +39,7 @@ weight: 175
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href="https://docs.aspose.com/note/net/aspose-note-for-net-21-11-release-notes/">https://docs.aspose.com/note/net/aspose-note-for-net-21-11-release-notes/</a></div><h4>La description</h4><div class="HTMLDescription">Il contient ASPOSE.NOTE pour la version .net 21.11.</div>
+      <h4>Notes de version</h4><div><a href="https://releases.aspose.com/note/net/release-notes/2021/aspose-note-for-net-21-11-release-notes/">https://releases.aspose.com/note/net/release-notes/2021/aspose-note-for-net-21-11-release-notes/</a></div><h4>La description</h4><div class="HTMLDescription">Il contient ASPOSE.NOTE pour la version .net 21.11.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -16,7 +16,7 @@ parent_path: "note/net"
 section_parent_path: "note/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/note/net/aspose-note-for-net-23-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-7-release-notes/"
 weight: 195
 
 ---
@@ -40,7 +40,7 @@ weight: 195
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/note/net/aspose-note-for-net-23-7-release-notes/'>https://docs.aspose.com/note/net/aspose-note-for-net-23-7-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-7-release-notes/'>https://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει aspose.note για την απελευθέρωση .NET 23.7 (μόνο dlls).</div>

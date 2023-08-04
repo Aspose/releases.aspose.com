@@ -14,7 +14,7 @@ file_size: "File Size: 118.41MB"
 parent_path: "note/net"
 section_parent_path: "note/net"
 tags: ""
-release_notes_url : "https://docs.aspose.com/note/net/aspose-note-for-net-22-9-release-notes/"
+release_notes_url : "https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-9-release-notes/"
 weight: 184
 ---
 
@@ -37,7 +37,7 @@ weight: 184
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href='https://docs.aspose.com/note/net/aspose-note-for-net-22-9-release-notes/'>https://docs.aspose.com/note/net/aspose-note-for-net-22-9-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href='https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-9-release-notes/'>https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-9-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -62,7 +62,7 @@ var dst = Path.Combine(dataDir, "SaveToPdfUsingA4PageSettingsWithoutHeightLimit.
 oneFile.Save(dst, new PdfSaveOptions() { PageSettings = PageSettings.A4NoHeightLimit });
 ```
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Note for .NET 22.9 Release Notes](https://docs.aspose.com/note/net/aspose-note-for-net-22-9-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Note for .NET 22.9 Release Notes](https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

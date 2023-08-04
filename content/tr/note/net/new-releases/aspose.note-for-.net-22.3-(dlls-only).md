@@ -39,7 +39,7 @@ weight: 178
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/note/net/aspose-note-for-net-22-3-release-notes/">https://docs.aspose.com/note/net/aspose-note-for-net-22-3-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">.NET 22.3 (Yalnızca DLLS) sürümü için aspose.not içerir.</div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-3-release-notes/">https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-3-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">.NET 22.3 (Yalnızca DLLS) sürümü için aspose.not içerir.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
