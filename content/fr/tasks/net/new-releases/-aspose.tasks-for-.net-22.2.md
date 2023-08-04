@@ -40,7 +40,7 @@ weight: 462
 
 {{< Releases/ReleasesFileFeatures >}}
 
-      <h4>Notes de version</h4><div> <a href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/">https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/</a></div><h4> La description</h4><div class="HTMLDescription"> Il contient MSI avec Aspose.Tasks pour la version .NET 22.2.</div>
+      <h4>Notes de version</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/</a></div><h4> La description</h4><div class="HTMLDescription"> Il contient MSI avec Aspose.Tasks pour la version .NET 22.2.</div>
 
 {{< /Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ Cette version offre un nombre réduit d'allocations de mémoire lors de la lectu
 
 Auparavant, dans certains cas, l'échelle de temps du projet Début/Fin n'était pas affichée correctement par Microsoft Project®. Dans la version actuelle de l'API, ce problème a été résolu.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Tasks for .NET 22.2 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Tasks for .NET 22.2 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

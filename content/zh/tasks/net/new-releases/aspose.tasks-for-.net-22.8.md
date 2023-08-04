@@ -14,7 +14,7 @@ file_size: "File Size: 25.44MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: “https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-8-release-notes/”
+release_notes_url: “https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-8-release-notes/”
 weight: 476
 ---
 
@@ -37,7 +37,7 @@ weight: 476
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-8-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-8-release-notes/</a></div>
+<h4>发行说明</h4><div><a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-8-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -51,7 +51,7 @@ weight: 476
 
 > **重大变化：** 现在默认情况下，项目将以 MS Project® 中指定的时间尺度粒度进行渲染。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Tasks for .NET 22.8 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-8-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Tasks for .NET 22.8 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-8-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

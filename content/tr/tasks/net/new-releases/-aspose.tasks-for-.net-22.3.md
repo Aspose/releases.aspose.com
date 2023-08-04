@@ -39,7 +39,7 @@ weight: 464
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div> <a href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-3-release-notes/">https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-3-release-notes/</a></div><h4> Tanım</h4><div class="HTMLDescription"> Aspose.Tasks for .NET 22.3 sürümü ile MSI içerir.</div>
+<h4>Sürüm notları</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/</a></div><h4> Tanım</h4><div class="HTMLDescription"> Aspose.Tasks for .NET 22.3 sürümü ile MSI içerir.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesFileFeatures >}}
@@ -60,7 +60,7 @@ Durum Tarihini bir "XER" dosyasına veya dosyasından okuma ve yazma özelliği 
 
 Proje yükleme işlemi için iptal belirteci desteği eklendi.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Tasks for .NET 22.3 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-3-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Tasks for .NET 22.3 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

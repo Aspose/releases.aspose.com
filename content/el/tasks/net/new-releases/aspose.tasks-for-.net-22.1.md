@@ -40,7 +40,7 @@ weight: 460
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Σημειώσεις έκδοσης</h4><div> <a href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-1-release-notes/">https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-1-release-notes/</a></div>
+<h4>Σημειώσεις έκδοσης</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-1-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-1-release-notes/</a></div>
       
 <h4>Περιγραφή</h4><div class="HTMLDescription"> Περιέχει MSI με Aspose.Tasks για έκδοση .NET 22.1.</div>
 
@@ -81,7 +81,7 @@ options.Timescale = Timescale.Months;
 project.Save(OutDir + "NewProductDevMonths_out.jpeg", options);
 ```
 
-> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Tasks for .NET 22.1 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-1-release-notes/).
+> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Tasks for .NET 22.1 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

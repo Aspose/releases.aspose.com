@@ -14,7 +14,7 @@ file_size: "File Size: 22.91MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-12-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-12-release-notes/"
 weight: 484
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 484
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Выпуск заметок</h4>
-<a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-12-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-12-release-notes/</a>
+<a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-12-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-12-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Описание</h4>
@@ -78,7 +78,7 @@ link.CrossProjectName = "ExternalProject.mpp\\\\1"; // <- here external task's I
 
 Усовершенствования были сделаны при вычислении затрат для случая, когда многочисленные ставки эффективны в определенный день.
 
-> Для полного списка функций, улучшений и исправлений ошибок в этом выпуске, пожалуйста, посетите, [Asposetasks для Net 2212 Notes выпуска](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-12-release-notes/).
+> Для полного списка функций, улучшений и исправлений ошибок в этом выпуске, пожалуйста, посетите, [Asposetasks для Net 2212 Notes выпуска](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-12-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

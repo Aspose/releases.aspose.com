@@ -16,7 +16,7 @@ parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/"
 weight: 488
 
 ---
@@ -40,7 +40,7 @@ weight: 488
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi Aspose.Tasks untuk .NET 23.1 (hanya DLLS) rilis.</div>

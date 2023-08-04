@@ -16,7 +16,7 @@ parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-8-release-notes/"
 weight: 477
 
 ---
@@ -40,7 +40,7 @@ weight: 477
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-8-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-8-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-8-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">.NET 22.8（DLLSのみ）リリースのASOPSE.TASKSが含まれています。</div>

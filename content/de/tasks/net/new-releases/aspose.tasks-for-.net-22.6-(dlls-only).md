@@ -15,7 +15,7 @@ file_size: "File Size: 23.98MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-6-release-notes/"
 weight: 473
 
 ---
@@ -39,7 +39,7 @@ weight: 473
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-6-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-6-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-6-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Tasks für die Version .NET 22.6 (nur DLLs).</div>

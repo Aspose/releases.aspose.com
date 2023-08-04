@@ -40,7 +40,7 @@ weight: 460
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>リリースノート</h4><div><a href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-1-release-notes/">https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-1-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href="https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-1-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-1-release-notes/</a></div>
       
 <h4>説明</h4><div class="HTMLDescription">これには、.NET 22.1 リリース用の Aspose.Tasks を含む MSI が含まれています。</div>
 
@@ -81,7 +81,7 @@ options.Timescale = Timescale.Months;
 project.Save(OutDir + "NewProductDevMonths_out.jpeg", options);
 ```
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Tasks for .NET 22.1 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-1-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Tasks for .NET 22.1 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-1-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

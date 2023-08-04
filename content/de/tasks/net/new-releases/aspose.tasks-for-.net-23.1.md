@@ -14,7 +14,7 @@ file_size: "File Size: 22.94MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/"
 weight: 487
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 487
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Versionshinweise</h4>
-<a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/</a>
+<a href='https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Beschreibung</h4>
@@ -57,7 +57,7 @@ Es wurde eine Verbesserung beim Lesen der Aufgabenprioritätsspalte für das Mic
 
 Jetzt über API können Sie auf die Werte von Arbeitseinheiten für primavera & ref; Projektformate.
 
-> Für eine vollständige Liste von Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version besuchen Sie bitte [Asposetasks für Net 231 -Versionshinweise](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/).
+> Für eine vollständige Liste von Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version besuchen Sie bitte [Asposetasks für Net 231 -Versionshinweise](https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

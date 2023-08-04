@@ -39,7 +39,7 @@ weight: 464
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-3-release-notes/">https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-3-release-notes/</a></div><h4> La description</h4><div class="HTMLDescription"> Il contient MSI avec Aspose.Tasks pour la version .NET 22.3.</div>
+<h4>Notes de version</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/</a></div><h4> La description</h4><div class="HTMLDescription"> Il contient MSI avec Aspose.Tasks pour la version .NET 22.3.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesFileFeatures >}}
@@ -60,7 +60,7 @@ Ajout de la possibilité de lire et d'écrire la date d'état vers ou depuis un 
 
 Ajout de la prise en charge du jeton d'annulation pour l'opération de chargement du projet.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Tasks for .NET 22.3 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-3-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Tasks for .NET 22.3 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

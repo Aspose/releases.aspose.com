@@ -14,7 +14,7 @@ file_size: "File Size: 22.91MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-12-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-12-release-notes/"
 weight: 484
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 484
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Notas de liberação</h4>
-<a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-12-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-12-release-notes/</a>
+<a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-12-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-12-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Descrição</h4>
@@ -78,7 +78,7 @@ Uma nova propriedade `LinkLagTimespan` foi adicionada ao` TaskLink`. Esta propri
 
 Foram feitos aprimoramentos ao fazer cálculos de custo para o caso em que várias taxas são eficazes em um dia específico.
 
-> Para uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite, [Asposetasks para NET 2212 Notas de lançamento](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-12-release-notes/).
+> Para uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite, [Asposetasks para NET 2212 Notas de lançamento](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-12-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

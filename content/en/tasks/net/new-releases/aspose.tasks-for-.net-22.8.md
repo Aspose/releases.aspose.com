@@ -14,7 +14,7 @@ file_size: "File Size: 25.44MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-8-release-notes/"
 weight: 476
 ---
 
@@ -37,7 +37,7 @@ weight: 476
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Release Notes</h4><div><a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-8-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-8-release-notes/</a></div>
+<h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-8-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -51,7 +51,7 @@ This API release offers many improvements in processing the Primavera P6 XER pro
 
 > **Breaking Changes:**  Now by default the project will be rendered with timescale’s granularity specified in the MS Project&reg;.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Tasks for .NET 22.8 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-8-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Tasks for .NET 22.8 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

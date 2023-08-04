@@ -14,7 +14,7 @@ file_size: "File Size: 25.44MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-8-release-notes/"
 weight: 476
 ---
 
@@ -37,7 +37,7 @@ weight: 476
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lanzamiento</h4><div> <a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-8-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-8-release-notes/</a></div>
+<h4>Notas de lanzamiento</h4><div> <a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-8-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -51,7 +51,7 @@ Esta versión de la API ofrece muchas mejoras en el procesamiento de los archivo
 
 > **Cambios importantes:** Ahora, de forma predeterminada, el proyecto se renderizará con la granularidad de la escala de tiempo especificada en MS Project®.
 
-> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Tasks for .NET 22.8 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-8-release-notes/).
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Tasks for .NET 22.8 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

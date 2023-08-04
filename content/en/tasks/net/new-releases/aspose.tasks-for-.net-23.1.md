@@ -14,7 +14,7 @@ file_size: "File Size: 22.94MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/"
 weight: 487
 ---
 
@@ -38,7 +38,7 @@ weight: 487
 
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4>
-<div><a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/</a></div>
+<div><a href='https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/</a></div>
 
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
@@ -63,7 +63,7 @@ An enhancement has been made in reading the task priority column for the Microso
 
 Now via API you are able to access the values of Labor Units for Primavera&ref; project formats.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Tasks for .NET 23.1 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Tasks for .NET 23.1 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

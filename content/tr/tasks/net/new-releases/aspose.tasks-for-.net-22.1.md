@@ -40,7 +40,7 @@ weight: 460
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Sürüm notları</h4><div> <a href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-1-release-notes/">https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-1-release-notes/</a></div>
+<h4>Sürüm notları</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-1-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-1-release-notes/</a></div>
       
 <h4>Tanım</h4><div class="HTMLDescription"> Aspose.Tasks for .NET 22.1 sürümü ile MSI içerir.</div>
 
@@ -81,7 +81,7 @@ options.Timescale = Timescale.Months;
 project.Save(OutDir + "NewProductDevMonths_out.jpeg", options);
 ```
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Tasks for .NET 22.1 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-1-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Tasks for .NET 22.1 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-1-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

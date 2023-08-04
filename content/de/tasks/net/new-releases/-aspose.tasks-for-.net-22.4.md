@@ -36,7 +36,7 @@ weight: 466
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-4-release-notes/">https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-4-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält MSI mit Aspose.Tasks für die Version .NET 22.4.</div>
+<h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-4-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-4-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält MSI mit Aspose.Tasks für die Version .NET 22.4.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesFileFeatures >}}
@@ -57,7 +57,7 @@ Möglichkeit hinzugefügt, das Verhalten des Aufgabeneinschränkungsimports für
 
 Unterstützung für das Lesen von benutzerdefinierten Feldern für das Primavera-XER-Format hinzugefügt.
 
-> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Tasks for .NET 22.4 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-4-release-notes/).
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Tasks for .NET 22.4 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

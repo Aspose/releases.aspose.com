@@ -36,7 +36,7 @@ weight: 466
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Release Notes</h4><div><a href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-4-release-notes/">https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-4-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains MSI with Aspose.Tasks for .NET 22.4 release.</div>
+<h4>Release Notes</h4><div><a href="https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-4-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-4-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains MSI with Aspose.Tasks for .NET 22.4 release.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesFileFeatures >}}
@@ -57,7 +57,7 @@ Added the ability to specify the behavior of task constraints import for the `XE
 
 Added the support of reading User Defined Fields for the Primavera `XER` format.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Tasks for .NET 22.4 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-4-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Tasks for .NET 22.4 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

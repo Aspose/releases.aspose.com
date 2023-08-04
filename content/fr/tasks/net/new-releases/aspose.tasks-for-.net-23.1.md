@@ -14,7 +14,7 @@ file_size: "File Size: 22.94MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/"
 weight: 487
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 487
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Notes de version</h4>
-<a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/</a>
+<a href='https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>La description</h4>
@@ -57,7 +57,7 @@ Une amélioration a été réalisée pour lire la colonne de priorité de tâche
 
 Maintenant, via l'API, vous pouvez accéder aux valeurs des unités de travail pour Primavera & Ref; Formats de projet.
 
-> Pour une liste complète des fonctionnalités, des améliorations et des corrections de bogues dans cette version, veuillez visiter [Asposetasks pour les notes de libération net 231](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/).
+> Pour une liste complète des fonctionnalités, des améliorations et des corrections de bogues dans cette version, veuillez visiter [Asposetasks pour les notes de libération net 231](https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

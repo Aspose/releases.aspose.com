@@ -39,7 +39,7 @@ weight: 464
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-3-release-notes/">https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-3-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält MSI mit Aspose.Tasks für die Version .NET 22.3.</div>
+<h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält MSI mit Aspose.Tasks für die Version .NET 22.3.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesFileFeatures >}}
@@ -60,7 +60,7 @@ Möglichkeit hinzugefügt, das Statusdatum in oder aus einer `XER`-Datei zu lese
 
 Abbruch-Token-Unterstützung für den Vorgang zum Laden des Projekts hinzugefügt.
 
-> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Tasks for .NET 22.3 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-3-release-notes/).
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Tasks for .NET 22.3 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

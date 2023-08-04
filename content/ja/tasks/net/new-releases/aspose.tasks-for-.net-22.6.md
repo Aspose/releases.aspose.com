@@ -13,7 +13,7 @@ download_count: " 14/6/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 25.41MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-6-release-notes/"
 weight: 472
 ---
 
@@ -37,7 +37,7 @@ weight: 472
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>リリースノート</h4><div><a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-6-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-6-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-6-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -53,7 +53,7 @@ weight: 472
 
 Primavera P6 XML 形式のプロジェクトのユーザー定義型を読み取るためのサポートが追加されました。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Tasks for .NET 22.6 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-6-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Tasks for .NET 22.6 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-6-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

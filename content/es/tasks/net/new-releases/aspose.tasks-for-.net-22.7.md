@@ -14,7 +14,7 @@ file_size: "File Size: 25.43MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-7-release-notes/"
 weight: 474
 ---
 
@@ -37,7 +37,7 @@ weight: 474
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lanzamiento</h4><div> <a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-7-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-7-release-notes/</a></div>
+<h4>Notas de lanzamiento</h4><div> <a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-7-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -53,7 +53,7 @@ Soporte para leer los códigos y valores de actividad para Primavera P6 Formato 
 
 Reducción del tiempo de carga al leer un proyecto de Project Server DB.
 
-> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Tasks for .NET 22.7 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-7-release-notes/).
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Tasks for .NET 22.7 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

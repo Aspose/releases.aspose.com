@@ -36,7 +36,7 @@ weight: 466
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Σημειώσεις έκδοσης</h4><div> <a href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-4-release-notes/">https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-4-release-notes/</a></div><h4> Περιγραφή</h4><div class="HTMLDescription"> Περιέχει MSI με Aspose.Tasks για έκδοση .NET 22.4.</div>
+<h4>Σημειώσεις έκδοσης</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-4-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-4-release-notes/</a></div><h4> Περιγραφή</h4><div class="HTMLDescription"> Περιέχει MSI με Aspose.Tasks για έκδοση .NET 22.4.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesFileFeatures >}}
@@ -57,7 +57,7 @@ weight: 466
 
 Προστέθηκε η υποστήριξη ανάγνωσης πεδίων καθορισμένων από το χρήστη για τη μορφή «XER» της Primavera.
 
-> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Tasks for .NET 22.4 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-4-release-notes/).
+> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Tasks for .NET 22.4 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

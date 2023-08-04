@@ -14,7 +14,7 @@ file_size: "File Size: 22.91MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-11-release-notes/"
 weight: 482
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 482
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Notas de liberação</h4>
-<a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/</a>
+<a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-11-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-11-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Descrição</h4>
@@ -53,7 +53,7 @@ Introduziu o acesso somente leitura à Primavera & Reg; propriedades de tarefas 
 
 Capacidade de alterar a ordem das tarefas resumidas para o formato de arquivo do projeto `xer`.
 
-> Para uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite, [Asposetasks para Not 2211 Notas de lançamento](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/).
+> Para uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite, [Asposetasks para Not 2211 Notas de lançamento](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-11-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

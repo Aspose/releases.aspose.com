@@ -14,7 +14,7 @@ file_size: "File Size: 22.94MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/"
 weight: 487
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 487
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Σημειώσεις έκδοσης</h4>
-<a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/</a>
+<a href='https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Περιγραφή</h4>
@@ -57,7 +57,7 @@ weight: 487
 
 Τώρα μέσω του API μπορείτε να αποκτήσετε πρόσβαση στις τιμές των μονάδων εργασίας για την Primavera & Ref. μορφές έργου.
 
-> Για μια πλήρη λίστα χαρακτηριστικών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτή την έκδοση, επισκεφθείτε, [Asposetasks για Net 231 Σημειώσεις κυκλοφορίας](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/).
+> Για μια πλήρη λίστα χαρακτηριστικών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτή την έκδοση, επισκεφθείτε, [Asposetasks για Net 231 Σημειώσεις κυκλοφορίας](https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}
