@@ -16,7 +16,7 @@ parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
 
 tags: "Aspose.Tasks C++ Windows Linux"
-release_notes_url: "https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-10-release-notes"
+release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-10-release-notes/"
 weight: 139
 
 ---
@@ -40,7 +40,7 @@ weight: 139
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-10-release-notes'>https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-10-release-notes</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-10-release-notes/'>https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">Windows/Linux 用の C++ 22.10 リリース用の Aspose.Tasks が含まれています。</div>

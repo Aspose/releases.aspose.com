@@ -16,7 +16,7 @@ parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
 
 tags: "Aspose.Tasks C++ Windows"
-release_notes_url: "https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-10-release-notes"
+release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-10-release-notes/"
 weight: 140
 
 ---
@@ -40,7 +40,7 @@ weight: 140
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Примечания к выпуску</h4><div> <a href='https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-10-release-notes'>https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-10-release-notes</a></div>
+      <h4>Примечания к выпуску</h4><div> <a href='https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-10-release-notes/'>https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription"> Он содержит двоичные файлы Aspose.Tasks для C++ 22.10 только для окон.</div>

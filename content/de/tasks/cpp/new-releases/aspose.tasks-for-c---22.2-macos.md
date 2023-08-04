@@ -39,7 +39,7 @@ weight: 111
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-2-release-notes">https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-2-release-notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält nur Binärdateien von Aspose.Tasks für C++ 22.2 Release MacOS</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-3-release-notes/">https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-3-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält nur Binärdateien von Aspose.Tasks für C++ 22.2 Release MacOS</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

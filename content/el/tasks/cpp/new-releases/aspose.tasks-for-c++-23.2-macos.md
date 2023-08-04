@@ -16,7 +16,7 @@ parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
 
 tags: "Aspose.Tasks C++ MacOS"
-release_notes_url: "https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-23-2-release-notes"
+release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-3-release-notes/"
 weight: 158
 
 ---
@@ -40,7 +40,7 @@ weight: 158
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-23-2-release-notes'>https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-23-2-release-notes</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-3-release-notes/'>https://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει aspose.tasks για C ++ 23.2 macOS μόνο δυαδικά αρχεία</div>
