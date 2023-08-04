@@ -42,7 +42,7 @@
                                     </span>
                                     <span class="title" tabindex="0">
                                     <a href="{{ $p.Parent.RelPermalink }}" title="{{$p.Parent.LinkTitle}}">
-                                      {{$p.Parent.LinkTitle }} <span>for Java</span></a>
+                                      {{$p.Parent.LinkTitle }}{{ if not (strings.Contains $p.Parent.LinkTitle "for Java") }} <span>for Java</span> {{ end }}</a>
                                     </span>
                                     <span class="version-title" tabindex="0">
                                       <a href="{{ $p.Parent.RelPermalink }}{{ .id }}/" title="{{.version}}">

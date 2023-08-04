@@ -45,8 +45,10 @@
 
                                     <span class="title" tabindex="0">
 
+
+
                                       <a href="{{ $.context.RelPermalink }}" title="{{ with $p.context.Data.Singular }}{{$p.Title | humanize }}: {{ end }}{{ $p.context.Title }}">
-                                      {{ with $p.context.Data.Singular }}{{$p.LinkTitle | humanize }}: {{ end }}{{ $p.context.LinkTitle }} <span>for Java</span>
+                                      {{ with $p.context.Data.Singular }}{{$p.LinkTitle | humanize }}: {{ end }}{{ $p.context.LinkTitle }} {{ if not (strings.Contains $p.context.LinkTitle "for Java") }} <span>for Java</span> {{ end }}
                                       </a>
 
                                     </span>
