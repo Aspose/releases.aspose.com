@@ -39,7 +39,7 @@ weight: 176
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href="https://docs.aspose.com/note/net/aspose-note-for-net-22-1-release-notes/">https://docs.aspose.com/note/net/aspose-note-for-net-22-1-release-notes/</a></div><h4>Descrição</h4><div class="HTMLDescription">Ele contém aspose.Note para .NET 22.1 (somente DLLS).</div>
+      <h4>Notas de liberação</h4><div><a href="https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-1-release-notes/">https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-1-release-notes/</a></div><h4>Descrição</h4><div class="HTMLDescription">Ele contém aspose.Note para .NET 22.1 (somente DLLS).</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

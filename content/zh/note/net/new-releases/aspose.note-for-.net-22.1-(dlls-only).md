@@ -39,7 +39,7 @@ weight: 176
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/note/net/aspose-note-for-net-22-1-release-notes/">https://docs.aspose.com/note/net/aspose-note-for-net-22-1-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含aspose.note的.NET 22.1（仅DLL）释放。</div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-1-release-notes/">https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-1-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含aspose.note的.NET 22.1（仅DLL）释放。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

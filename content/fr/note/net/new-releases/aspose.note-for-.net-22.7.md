@@ -66,7 +66,7 @@ cell11.BackgroundColor = Color.Coral;
 row1.AppendChildLast(cell11);  
 ```
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Note for .NET 22.7 Release Notes](https://docs.aspose.com/note/net/aspose-note-for-net-22-7-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Note for .NET 22.7 Release Notes](https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

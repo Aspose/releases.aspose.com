@@ -16,7 +16,7 @@ parent_path: "note/net"
 section_parent_path: "note/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/note/net/aspose-note-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-11-release-notes/"
 weight: 185
 
 ---
@@ -40,7 +40,7 @@ weight: 185
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/note/net/aspose-note-for-net-22-11-release-notes/'>https://docs.aspose.com/note/net/aspose-note-for-net-22-11-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-11-release-notes/'>https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Note for .NET 22.11 (Dlls Only) release.</div>

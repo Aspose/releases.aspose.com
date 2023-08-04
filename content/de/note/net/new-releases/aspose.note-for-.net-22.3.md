@@ -13,7 +13,7 @@ download_count: "   Added: 4 days ago [4/7/2022]  Downloads: 1  Views: 16"
 file_size: "  File Size: 14.1 MB "
 parent_path: "note/net"
 section_parent_path: "note/net"
-release_notes_url: "https://docs.aspose.com/note/net/aspose-note-for-net-22-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-3-release-notes/"
 weight: 179
 ---
 
@@ -40,7 +40,7 @@ weight: 179
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/note/net/aspose-note-for-net-22-3-release-notes/">https://docs.aspose.com/note/net/aspose-note-for-net-22-3-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Note für die Version .NET 22.3.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-3-release-notes/">https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-3-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Note für die Version .NET 22.3.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

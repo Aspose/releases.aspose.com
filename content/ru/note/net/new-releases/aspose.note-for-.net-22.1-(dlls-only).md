@@ -39,7 +39,7 @@ weight: 176
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href="https://docs.aspose.com/note/net/aspose-note-for-net-22-1-release-notes/">https://docs.aspose.com/note/net/aspose-note-for-net-22-1-release-notes/</a></div><h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.note для выпуска .NET 22.1 (только DLL).</div>
+      <h4>Выпуск заметок</h4><div><a href="https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-1-release-notes/">https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-1-release-notes/</a></div><h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.note для выпуска .NET 22.1 (только DLL).</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

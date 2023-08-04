@@ -39,7 +39,7 @@ weight: 175
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/note/net/aspose-note-for-net-21-11-release-notes/">https://docs.aspose.com/note/net/aspose-note-for-net-21-11-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">.NET 21.11 sürümü için aspose.not içerir.</div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/note/net/release-notes/2021/aspose-note-for-net-21-11-release-notes/">https://releases.aspose.com/note/net/release-notes/2021/aspose-note-for-net-21-11-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">.NET 21.11 sürümü için aspose.not içerir.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
