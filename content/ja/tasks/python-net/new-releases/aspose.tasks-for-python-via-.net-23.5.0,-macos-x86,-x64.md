@@ -16,7 +16,7 @@ parent_path: "tasks/python-net"
 section_parent_path: "tasks/python-net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/python-net/aspose-tasks-for-python-net-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-5-release-notes/"
 weight: 16
 
 ---
@@ -40,7 +40,7 @@ weight: 16
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/tasks/python-net/aspose-tasks-for-python-net-23-5-release-notes/'>https://docs.aspose.com/tasks/python-net/aspose-tasks-for-python-net-23-5-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-5-release-notes/'>https://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">.NET 23.5.0、MacOS X86、X64リリースを介してPython用のAsoppes.Tasksが含まれています。</div>

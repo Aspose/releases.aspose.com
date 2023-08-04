@@ -16,7 +16,7 @@ parent_path: "tasks/python-net"
 section_parent_path: "tasks/python-net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/python-net/aspose-tasks-for-python-net-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-5-release-notes/"
 weight: 18
 
 ---
@@ -40,7 +40,7 @@ weight: 18
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/tasks/python-net/aspose-tasks-for-python-net-23-5-release-notes/'>https://docs.aspose.com/tasks/python-net/aspose-tasks-for-python-net-23-5-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-5-release-notes/'>https://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">.NET 23.5.0, Windows X32 sürümü üzerinden Python için aspose.tasks içerir.</div>

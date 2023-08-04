@@ -16,7 +16,7 @@ parent_path: "tasks/python-net"
 section_parent_path: "tasks/python-net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/python-net/aspose-tasks-for-python-net-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-6-release-notes/"
 weight: 21
 
 ---
@@ -40,7 +40,7 @@ weight: 21
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/tasks/python-net/aspose-tasks-for-python-net-23-6-release-notes/'>https://docs.aspose.com/tasks/python-net/aspose-tasks-for-python-net-23-6-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-6-release-notes/'>https://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει aspose.tasks για την Python μέσω .NET 23.6.0, απελευθέρωση των Windows X32.</div>

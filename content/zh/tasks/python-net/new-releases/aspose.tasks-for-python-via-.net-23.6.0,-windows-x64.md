@@ -16,7 +16,7 @@ parent_path: "tasks/python-net"
 section_parent_path: "tasks/python-net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/python-net/aspose-tasks-for-python-net-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-6-release-notes/"
 weight: 23
 
 ---
@@ -40,7 +40,7 @@ weight: 23
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/tasks/python-net/aspose-tasks-for-python-net-23-6-release-notes/'>https://docs.aspose.com/tasks/python-net/aspose-tasks-for-python-net-23-6-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-6-release-notes/'>https://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含python的aspose.tasks通过.NET 23.6.0，Windows X64版本。</div>

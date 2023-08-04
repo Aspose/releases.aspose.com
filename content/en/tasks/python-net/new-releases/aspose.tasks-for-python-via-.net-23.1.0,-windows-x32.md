@@ -16,7 +16,7 @@ parent_path: "tasks/python-net"
 section_parent_path: "tasks/python-net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/python-net/aspose-tasks-for-python-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-1-release-notes/"
 weight: 2
 
 ---
@@ -40,7 +40,7 @@ weight: 2
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/tasks/python-net/aspose-tasks-for-python-net-23-1-release-notes/'>https://docs.aspose.com/tasks/python-net/aspose-tasks-for-python-net-23-1-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-1-release-notes/'>https://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for Python via .NET 23.1.0, Windows x32 release.</div>
