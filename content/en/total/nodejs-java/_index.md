@@ -5,7 +5,7 @@ description:  "Manipulate Word, Excel, PowerPoint and other formats using Node.j
 keywords:  ""
 family_listing_page_title:  "Aspose.Total for NodeJs via Java"
 family_listing_page_description:  "Manipulate Word, Excel, PowerPoint and other formats using Node.js."
-family_listing_page_iconurl:  "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/total/272x272/aspose_total-for-android-min.png"
+family_listing_page_iconurl:  "https://products.aspose.com/total/images/aspose_total-for-node-java.svg"
 weight: 11
 
 ---

@@ -5,7 +5,7 @@ description:  "Automate Microsoft Word and PowerPoint Files Manipulate Microsoft
 keywords:  ""
 family_listing_page_title:  "Aspose.Total for PHP via Java"
 family_listing_page_description:  "Automate Microsoft Word and PowerPoint Files Manipulate Microsoft Word documents, PowerPoint presentations and Outlook email Formats in PHP applications using the JavaBridge."
-family_listing_page_iconurl:  "https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg"
+family_listing_page_iconurl:  "https://products.aspose.com/total/images/aspose_total-for-php-java.svg"
 weight: 10
 
 ---
