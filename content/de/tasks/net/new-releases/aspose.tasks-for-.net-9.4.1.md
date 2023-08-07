@@ -39,7 +39,7 @@ weight: 330
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/tasksnet/Aspose.Tasks+for+.NET+9.4.1+Release+Notes">http://www.aspose.com/docs/display/tasksnet/Aspose.Tasks+for+.NET+9.4.1+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Tasks für .NET 9.4.1-Hotfix.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2016/aspose-tasks-for-net-9-4-1-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2016/aspose-tasks-for-net-9-4-1-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Tasks für .NET 9.4.1-Hotfix.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -40,7 +40,7 @@ weight: 462
 
 {{< Releases/ReleasesFileFeatures >}}
 
-      <h4>Примечания к выпуску</h4><div> <a href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/">https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/</a></div><h4> Описание</h4><div class="HTMLDescription"> Он содержит MSI с выпуском Aspose.Tasks для .NET 22.2.</div>
+      <h4>Примечания к выпуску</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/</a></div><h4> Описание</h4><div class="HTMLDescription"> Он содержит MSI с выпуском Aspose.Tasks для .NET 22.2.</div>
 
 {{< /Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ weight: 462
 
 Раньше в некоторых случаях шкала времени проекта «Начало/окончание» не отображалась должным образом в Microsoft Project®. В текущей версии API эта проблема исправлена.
 
-> Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.Tasks for .NET 22.2 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/).
+> Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.Tasks for .NET 22.2 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -25,14 +25,14 @@ Anda dapat dengan mudah menggunakan Aspose.BarCode untuk Java langsung dari a
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}
-maven {url "http://repository.aspose.com/repo/" }
+maven {url "https://releases.aspose.com/java/repo/" }
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
 {{< consolebox/textarea id="dependency" >}}
-implementation group: 'com.aspose', name: 'aspose-barcode', classifier: 'control.android.via.java', version: '22.9', ext: 'aar'      
-implementation group: 'com.aspose', name: 'aspose-barcode', classifier: 'control.android.via.java-javadoc', version: '22.9'     
+implementation group: 'com.aspose', name: 'aspose-barcode-android-java', version: '23.7', ext: 'aar'
+implementation group: 'com.aspose', name: 'aspose-barcode-android-java', classifier: 'javadoc', version: '23.7'
 {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
@@ -121,4 +121,3 @@ implementation group: 'com.aspose', name: 'aspose-barcode', classifier: 'control
 
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

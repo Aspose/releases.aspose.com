@@ -13,7 +13,7 @@ download_count: " 14/6/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 25.41MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-6-release-notes/"
 weight: 472
 ---
 
@@ -37,7 +37,7 @@ weight: 472
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Notas de lanzamiento</h4><div> <a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-6-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-6-release-notes/</a></div>
+<h4>Notas de lanzamiento</h4><div> <a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-6-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -53,7 +53,7 @@ Se agregaron las propiedades para acceder a la tarea y los recursos `ResourceAss
 
 Se agregó el soporte para leer los tipos definidos por el usuario para los proyectos de formato XML de Primavera P6.
 
-> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Tasks for .NET 22.6 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-6-release-notes/).
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Tasks for .NET 22.6 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

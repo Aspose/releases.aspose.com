@@ -14,7 +14,7 @@ file_size: "File Size: 22.89MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-10-release-notes/"
 weight: 480
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 480
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Sürüm notları</h4>
-<a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/</a>
+<a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-10-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-10-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Tanım</h4>
@@ -57,7 +57,7 @@ Primavera & Reg'in korunmasına izin veren yeni bir ayar eklendi; UID'ler XER ve
 
 API, .NET özellikleri kullanarak varlıkların alanlarına erişmek için geliştirilmiştir.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin eksiksiz bir listesi için lütfen [Net 2210 sürüm notları için asposetasks](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/)'ı ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin eksiksiz bir listesi için lütfen [Net 2210 sürüm notları için asposetasks](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-10-release-notes/)'ı ziyaret edin.
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

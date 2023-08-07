@@ -36,7 +36,7 @@ weight: 466
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lanzamiento</h4><div> <a href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-4-release-notes/">https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-4-release-notes/</a></div><h4> Descripción</h4><div class="HTMLDescription"> Contiene MSI con Aspose.Tasks para la versión .NET 22.4.</div>
+<h4>Notas de lanzamiento</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-4-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-4-release-notes/</a></div><h4> Descripción</h4><div class="HTMLDescription"> Contiene MSI con Aspose.Tasks para la versión .NET 22.4.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesFileFeatures >}}
@@ -57,7 +57,7 @@ Se agregó la capacidad de especificar el comportamiento de la importación de r
 
 Se agregó el soporte de lectura de campos definidos por el usuario para el formato Primavera `XER`.
 
-> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Tasks for .NET 22.4 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-4-release-notes/).
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Tasks for .NET 22.4 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

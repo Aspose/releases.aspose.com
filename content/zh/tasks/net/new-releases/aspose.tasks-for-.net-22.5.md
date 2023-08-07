@@ -13,7 +13,7 @@ download_count: " 10/6/2022 Downloads: 6  Views: 8 "
 file_size: "File Size: 25.4 MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
-release_notes_url: “https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-5-release-notes/”
+release_notes_url: “https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-6-release-notes/”
 weight: 470
 ---
 
@@ -36,7 +36,7 @@ weight: 470
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-5-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-5-release-notes/</a></div>
+<h4>发行说明</h4><div><a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-6-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -48,7 +48,7 @@ weight: 470
 
 能够在导出为“XLSX”格式时关闭任务、资源、分配表的导出。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Tasks for .NET 22.5 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-5-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Tasks for .NET 22.5 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-6-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

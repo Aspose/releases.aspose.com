@@ -14,7 +14,7 @@ file_size: "File Size: 22.89MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-10-release-notes/"
 weight: 480
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 480
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Notas de lanzamiento</h4>
-<a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/</a>
+<a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-10-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-10-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Descripción</h4>
@@ -57,7 +57,7 @@ Se ha eliminado el soporte para .NET Framework 2.0.
 
 La API se ha mejorado para acceder a los campos de las entidades utilizando las propiedades .NET.
 
-> Para obtener una lista completa de características, mejoras y correcciones de errores en esta versión, visite, [AsposeTasks para notas de versión neta 2210](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/).
+> Para obtener una lista completa de características, mejoras y correcciones de errores en esta versión, visite, [AsposeTasks para notas de versión neta 2210](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-10-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

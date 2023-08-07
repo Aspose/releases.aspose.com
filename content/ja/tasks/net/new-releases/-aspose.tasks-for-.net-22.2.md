@@ -40,7 +40,7 @@ weight: 462
 
 {{< Releases/ReleasesFileFeatures >}}
 
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/">https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">これには、.NET 22.2 リリース用の Aspose.Tasks を含む MSI が含まれています。</div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">これには、.NET 22.2 リリース用の Aspose.Tasks を含む MSI が含まれています。</div>
 
 {{< /Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ weight: 462
 
 以前は、プロジェクトのタイムスケールの開始/終了が Microsoft Project® で正しく表示されない場合がありました。 API の現在のバージョンでは、この問題は修正されています。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Tasks for .NET 22.2 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Tasks for .NET 22.2 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

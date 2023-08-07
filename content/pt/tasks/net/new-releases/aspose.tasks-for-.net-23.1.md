@@ -14,7 +14,7 @@ file_size: "File Size: 22.94MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/"
 weight: 487
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 487
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Notas de liberação</h4>
-<a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/</a>
+<a href='https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Descrição</h4>
@@ -57,7 +57,7 @@ Foi feito um aprimoramento na leitura da coluna de prioridade da tarefa para o M
 
 Agora, via API, você pode acessar os valores das unidades trabalhistas para primavera & ref; Formatos de projeto.
 
-> Para uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite, [Asposetasks para Not 231 Notas de lançamento](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/).
+> Para uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite, [Asposetasks para Not 231 Notas de lançamento](https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

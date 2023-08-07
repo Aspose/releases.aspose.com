@@ -39,7 +39,7 @@ weight: 332
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/tasksnet/Aspose.Tasks+for+.NET+9.5.0+Release+Notes">http://www.aspose.com/docs/display/tasksnet/Aspose.Tasks+for+.NET+9.5.0+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur die Aspose.Tasks für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.Tasks für .NET ohne das MSI-Installationsprogramm verwenden möchten.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2016/aspose-tasks-for-net-9-5-0-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2016/aspose-tasks-for-net-9-5-0-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur die Aspose.Tasks für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.Tasks für .NET ohne das MSI-Installationsprogramm verwenden möchten.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -14,7 +14,7 @@ file_size: "File Size: 25.43MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-7-release-notes/"
 weight: 474
 ---
 
@@ -37,7 +37,7 @@ weight: 474
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-7-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-7-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-7-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -53,7 +53,7 @@ Primavera P6 XML フォーマットのアクティビティ コードと値の�
 
 Project Server DB からプロジェクトを読み取る際の読み込み時間が短縮されました。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Tasks for .NET 22.7 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-7-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Tasks for .NET 22.7 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-7-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -40,7 +40,7 @@ weight: 462
 
 {{< Releases/ReleasesFileFeatures >}}
 
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/">https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält MSI mit Aspose.Tasks für die Version .NET 22.2.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält MSI mit Aspose.Tasks für die Version .NET 22.2.</div>
 
 {{< /Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ Diese Version bietet eine reduzierte Anzahl von Speicherzuweisungen beim Lesen v
 
 Zuvor wurde in einigen Fällen die Projektzeitskala Start / Ende von Microsoft Project® nicht richtig angezeigt. In der aktuellen Version der API wurde dieses Problem behoben.
 
-> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Tasks for .NET 22.2 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/).
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Tasks for .NET 22.2 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

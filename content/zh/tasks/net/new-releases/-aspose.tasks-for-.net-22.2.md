@@ -40,7 +40,7 @@ weight: 462
 
 {{< Releases/ReleasesFileFeatures >}}
 
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/">https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含用于 .NET 22.2 版本的带有 Aspose.Tasks 的 MSI。</div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含用于 .NET 22.2 版本的带有 Aspose.Tasks 的 MSI。</div>
 
 {{< /Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ weight: 462
 
 以前在某些情况下，Microsoft Project® 未正确显示项目时间刻度开始/完成。在当前版本的 API 中，此问题已得到修复。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Tasks for .NET 22.2 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Tasks for .NET 22.2 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

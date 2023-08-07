@@ -15,7 +15,7 @@ file_size: "File Size: 209.9 MB"
 parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
 
-release_notes_url: "https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-5-release-notes"
+release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-5-release-notes/"
 weight: 121
 
 ---
@@ -39,7 +39,7 @@ weight: 121
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-5-release-notes'>https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-5-release-notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-5-release-notes/'>https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Es enthält nur Binärdateien von Aspose.Tasks for C++ 22.5 Release Windows</div>

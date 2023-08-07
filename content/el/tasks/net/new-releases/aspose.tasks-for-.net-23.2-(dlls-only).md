@@ -16,7 +16,7 @@ parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-2-release-notes/"
 weight: 490
 
 ---
@@ -40,7 +40,7 @@ weight: 490
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-2-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-2-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-2-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει AsPose.Tasks για .NET 23.2 (μόνο DLLS) απελευθέρωση.</div>

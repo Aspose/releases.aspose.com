@@ -3,7 +3,7 @@ id: "aspose-tasks-for-java-22-12-release-notes"
 slug: "aspose-tasks-for-java-22-12-release-notes"
 linktitle: "Aspose.Tasks for Java 22.12 Release Notes"
 title: "Aspose.Tasks for Java 22.12 Release Notes"
-weight: 89
+weight: 38
 description: "The page contains the release notes for Aspose.Tasks for Java 22.12."
 type: "repository"
 layout: "release"
@@ -13,7 +13,7 @@ family_listing_page_title: "Aspose.Tasks for Java 22.12 Release Notes"
 menuItemWithNoContent: false
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information for [Aspose.Tasks for Java 22.12](https://releases.aspose.com/tasks/java/new-releases/aspose.tasks-for-java-22.12/).
 
@@ -73,5 +73,3 @@ link.setLinkType(TaskLinkType.FinishToFinish);
 link.setCrossProjectName("ExternalProject.mpp\\1"); // <- here external task's Id is used.
 
 ```
-
-

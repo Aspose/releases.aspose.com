@@ -40,7 +40,7 @@ weight: 462
 
 {{< Releases/ReleasesFileFeatures >}}
 
-      <h4>Σημειώσεις έκδοσης</h4><div> <a href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/">https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/</a></div><h4> Περιγραφή</h4><div class="HTMLDescription"> Περιέχει MSI με Aspose.Tasks για έκδοση .NET 22.2.</div>
+      <h4>Σημειώσεις έκδοσης</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/</a></div><h4> Περιγραφή</h4><div class="HTMLDescription"> Περιέχει MSI με Aspose.Tasks για έκδοση .NET 22.2.</div>
 
 {{< /Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ weight: 462
 
 Προηγουμένως, σε ορισμένες περιπτώσεις, το χρονοδιάγραμμα έναρξης / λήξης του έργου δεν εμφανιζόταν σωστά από το Microsoft Project®. Στην τρέχουσα έκδοση του API αυτό το ζήτημα έχει διορθωθεί.
 
-> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Tasks for .NET 22.2 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/).
+> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Tasks for .NET 22.2 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

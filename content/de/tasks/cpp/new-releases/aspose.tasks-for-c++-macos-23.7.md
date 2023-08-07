@@ -16,7 +16,7 @@ parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
 
 tags: "Aspose.Tasks C++ MacOS"
-release_notes_url: "https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-23-7-release-notes"
+release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-7-release-notes/"
 weight: 176
 
 ---
@@ -40,7 +40,7 @@ weight: 176
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-23-7-release-notes'>https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-23-7-release-notes</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-7-release-notes/'>https://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">Es enthält asspose.Tasks für C ++ 23.7 macOS Nur Binärdateien</div>

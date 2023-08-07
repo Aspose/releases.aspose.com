@@ -19,6 +19,7 @@ weight: 4
 {{< Common/paragraph class="package-instructions">}}
 You can easily use  <b>aspose-tasks</b> for Python from  {{< Common/link href="https://pypi.org/project/aspose-tasks/" text="pip"  >}} with the following command.
 {{< /Common/paragraph>}}
+{{< Common/release-notes-link family="tasks" product="python-net" href="https://releases.aspose.com/tasks/python-net/release-notes/" text="https://releases.aspose.com/tasks/python-net/release-notes/"  >}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install aspose-tasks {{< /consolebox/textarea >}}

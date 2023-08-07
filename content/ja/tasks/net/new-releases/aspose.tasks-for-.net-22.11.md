@@ -14,7 +14,7 @@ file_size: "File Size: 22.91MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-11-release-notes/"
 weight: 482
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 482
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>リリースノート</h4>
-<a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/</a>
+<a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-11-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-11-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>説明</h4>
@@ -53,7 +53,7 @@ Primavera＆Reg;への読み取り専用アクセスを導入しました特定�
 
 `xer`プロジェクトファイル形式の要約タスクの並べ替え順序を変更する機能。
 
->このリリースの機能、機能強化、およびバグ修正の完全なリストについては、[ネット2211リリースノートのアスポサタスク](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/)にアクセスしてください。
+>このリリースの機能、機能強化、およびバグ修正の完全なリストについては、[ネット2211リリースノートのアスポサタスク](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-11-release-notes/)にアクセスしてください。
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

@@ -14,7 +14,7 @@ file_size: "File Size: 22.91MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-11-release-notes/"
 weight: 482
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 482
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Выпуск заметок</h4>
-<a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/</a>
+<a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-11-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-11-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Описание</h4>
@@ -53,7 +53,7 @@ weight: 482
 
 Возможность изменить порядок сортировки сводных задач для формата файла проекта `xer`.
 
-> Для полного списка функций, улучшений и исправлений ошибок в этом выпуске, пожалуйста, посетите [Asposetasks для Net 2211.](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-11-release-notes/).
+> Для полного списка функций, улучшений и исправлений ошибок в этом выпуске, пожалуйста, посетите [Asposetasks для Net 2211.](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-11-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

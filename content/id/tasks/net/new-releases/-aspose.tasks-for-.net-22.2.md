@@ -40,7 +40,7 @@ weight: 462
 
 {{< Releases/ReleasesFileFeatures >}}
 
-      <h4>Catatan Rilis</h4><div> <a href="https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/">https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/</a></div><h4> Keterangan</h4><div class="HTMLDescription"> Ini berisi MSI dengan Aspose.Tasks untuk .NET 22.2 rilis.</div>
+      <h4>Catatan Rilis</h4><div> <a href="https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/</a></div><h4> Keterangan</h4><div class="HTMLDescription"> Ini berisi MSI dengan Aspose.Tasks untuk .NET 22.2 rilis.</div>
 
 {{< /Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ Rilis ini menawarkan pengurangan jumlah alokasi memori saat membaca Lihat data d
 
 Sebelumnya, dalam beberapa kasus, Start/Finish skala waktu proyek tidak ditampilkan dengan benar oleh Microsoft Project®. Dalam versi API saat ini, masalah ini telah diperbaiki.
 
-> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Tasks for .NET 22.2 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-2-release-notes/).
+> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Tasks for .NET 22.2 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

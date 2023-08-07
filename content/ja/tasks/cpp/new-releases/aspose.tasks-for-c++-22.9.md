@@ -16,7 +16,7 @@ parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
 
 tags: "Aspose.Tasks C++ Windows Linux MacOS"
-release_notes_url: "https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-9-release-notes"
+release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-9-release-notes/"
 weight: 135
 
 ---
@@ -40,7 +40,7 @@ weight: 135
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-9-release-notes'>https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-9-release-notes</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-9-release-notes/'>https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">C ++ 22.9 Windows/Linux/macosのAsops.tasksが含まれています</div>

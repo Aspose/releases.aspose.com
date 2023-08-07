@@ -14,7 +14,7 @@ file_size: "File Size: 22.94MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/"
 weight: 487
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 487
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>リリースノート</h4>
-<a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/</a>
+<a href='https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>説明</h4>
@@ -57,7 +57,7 @@ Microsoft Project＆Reg;のタスクの優先順位列を読む際に強化が�
 
 APIを介して、Primavera＆Ref;の労働ユニットの価値にアクセスできます。プロジェクト形式。
 
->このリリースの機能、拡張機能、バグ修正の完全なリストについては、[ネット231リリースノートのアスポサタスク](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/)にアクセスしてください。
+>このリリースの機能、拡張機能、バグ修正の完全なリストについては、[ネット231リリースノートのアスポサタスク](https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/)にアクセスしてください。
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

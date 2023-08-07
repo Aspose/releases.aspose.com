@@ -16,7 +16,7 @@ parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
 
 tags: "Aspose.Tasks C++ Windows Linux MacOS"
-release_notes_url: "https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-23-2-release-notes"
+release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-3-release-notes/"
 weight: 155
 
 ---
@@ -40,7 +40,7 @@ weight: 155
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-23-2-release-notes'>https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-23-2-release-notes</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-3-release-notes/'>https://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 23.1 release for Windows/Linux/MacOS</div>

@@ -14,7 +14,7 @@ file_size: "File Size: 22.94MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/"
 weight: 487
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 487
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Catatan rilis</h4>
-<a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/</a>
+<a href='https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Keterangan</h4>
@@ -57,7 +57,7 @@ Peningkatan telah dibuat dalam membaca kolom Prioritas Tugas untuk Microsoft Pro
 
 Sekarang melalui API Anda dapat mengakses nilai -nilai unit tenaga kerja untuk Primavera & ref; format proyek.
 
-> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug di rilis ini, silakan kunjungi, [Asposetasks untuk catatan rilis Net 231](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-23-1-release-notes/).
+> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug di rilis ini, silakan kunjungi, [Asposetasks untuk catatan rilis Net 231](https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

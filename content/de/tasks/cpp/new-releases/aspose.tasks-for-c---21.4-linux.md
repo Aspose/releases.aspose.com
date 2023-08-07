@@ -39,7 +39,7 @@ weight: 79
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-21-4-release-notes">https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-21-4-release-notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Tasks für C++ 21.4-Release nur Linux-Binärdateien</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/tasks/cpp/release-notes/2021/aspose-tasks-for-cpp-21-4-release-notes/">https://releases.aspose.com/tasks/cpp/release-notes/2021/aspose-tasks-for-cpp-21-4-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Tasks für C++ 21.4-Release nur Linux-Binärdateien</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

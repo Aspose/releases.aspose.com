@@ -39,7 +39,7 @@ weight: 322
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/tasksnet/Aspose.Tasks+for+.NET+9.1.0+Release+Notes">http://www.aspose.com/docs/display/tasksnet/Aspose.Tasks+for+.NET+9.1.0+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/tasks/net/release-notes/2015/aspose-tasks-for-net-9-1-0-release-notes/">https://releases.aspose.com/tasks/net/release-notes/2015/aspose-tasks-for-net-9-1-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -14,7 +14,7 @@ file_size: "File Size: 22.89MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-10-release-notes/"
 weight: 480
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 480
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Σημειώσεις έκδοσης</h4>
-<a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/</a>
+<a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-10-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-10-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Περιγραφή</h4>
@@ -57,7 +57,7 @@ weight: 480
 
 Το API έχει ενισχυθεί για να έχει πρόσβαση στα πεδία των οντοτήτων χρησιμοποιώντας τις ιδιότητες .NET.
 
-> Για μια πλήρη λίστα χαρακτηριστικών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτή την έκδοση, επισκεφθείτε, [Asposetasks για Net 2210 Σημειώσεις κυκλοφορίας](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-10-release-notes/).
+> Για μια πλήρη λίστα χαρακτηριστικών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτή την έκδοση, επισκεφθείτε, [Asposetasks για Net 2210 Σημειώσεις κυκλοφορίας](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-10-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

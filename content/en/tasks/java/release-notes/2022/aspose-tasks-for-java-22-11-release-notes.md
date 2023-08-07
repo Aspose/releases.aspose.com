@@ -3,7 +3,7 @@ id: "aspose-tasks-for-java-22-11-release-notes"
 slug: "aspose-tasks-for-java-22-11-release-notes"
 linktitle: "Aspose.Tasks for Java 22.11 Release Notes"
 title: "Aspose.Tasks for Java 22.11 Release Notes"
-weight: 90
+weight: 39
 description: "The page contains the release notes for Aspose.Tasks for Java 22.11."
 type: "repository"
 layout: "release"

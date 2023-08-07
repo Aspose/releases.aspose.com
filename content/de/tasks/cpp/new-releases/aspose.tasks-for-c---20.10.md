@@ -39,7 +39,7 @@ weight: 67
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-20-10-release-notes/">https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-20-10-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Einzelheiten finden Sie in den Versionshinweisen und in der ReadMe.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/tasks/cpp/release-notes/2020/aspose-tasks-for-cpp-20-10-release-notes/">https://releases.aspose.com/tasks/cpp/release-notes/2020/aspose-tasks-for-cpp-20-10-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Einzelheiten finden Sie in den Versionshinweisen und in der ReadMe.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

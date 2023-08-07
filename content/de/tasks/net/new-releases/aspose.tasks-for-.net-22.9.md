@@ -14,7 +14,7 @@ file_size: "File Size: 25.47MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-9-release-notes/"
 weight: 478
 ---
 
@@ -37,7 +37,7 @@ weight: 478
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-9-release-notes/'>https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-9-release-notes/</a></div>
+<h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-9-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-9-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -62,7 +62,7 @@ Das Problem des Lesens von Ressourcenraten aus den Primavera XER-Dateien wurde b
 
 Die Fehler behoben, die beim Speichern bestimmter Dateien im MPP-Format ausgelöst wurden.
 
-> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Tasks for .NET 22.9 Release Notes](https://docs.aspose.com/tasks/net/aspose-tasks-for-net-22-9-release-notes/).
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Tasks for .NET 22.9 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 
