@@ -39,7 +39,7 @@ weight: 164
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/gisnet/Aspose.GIS+for+.NET+20.03+Release+Notes">https://docs.aspose.com/display/gisnet/Aspose.GIS+for+.NET+20.03+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Aspose.GIS für .NET 20.3-Version.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-03-release-notes/">https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-03-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Aspose.GIS für .NET 20.3-Version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

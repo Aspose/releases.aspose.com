@@ -39,7 +39,7 @@ weight: 152
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/gisnet/Aspose.GIS+for+.NET+19.9+Release+Notes">https://docs.aspose.com/display/gisnet/Aspose.GIS+for+.NET+19.9+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Aspose.GIS für die Version .NET 19.9.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-9-release-notes/">https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-9-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Aspose.GIS für die Version .NET 19.9.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
