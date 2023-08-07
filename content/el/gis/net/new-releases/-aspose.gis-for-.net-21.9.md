@@ -39,7 +39,7 @@ weight: 200
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/gis/net/aspose-gis-for-net-21-9-release-notes/">https://docs.aspose.com/gis/net/aspose-gis-for-net-21-9-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.gis για .NET 21.9 απελευθέρωση.</div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-9-release-notes/">https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-9-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.gis για .NET 21.9 απελευθέρωση.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

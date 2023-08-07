@@ -3,7 +3,7 @@ id: "aspose-gis-for-net-22-12-release-notes"
 slug: "aspose-gis-for-net-22-12-release-notes"
 linktitle: "Aspose.GIS for .NET 22.12 Release Notes"
 title: "Aspose.GIS for .NET 22.12 Release Notes"
-weight: 170
+weight: 80
 description: "Aspose.GIS for .NET 22.12 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
@@ -13,13 +13,13 @@ family_listing_page_title: "Aspose.GIS for .NET 22.12 Release Notes"
 menuItemWithNoContent: false
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information for [Aspose.GIS for .NET 22.12](https://www.nuget.org/packages/Aspose.GIS/22.12.0).
 
-{{% /alert %}} 
+{{% /alert %}}
 ## **Major Features**
-- Add more options for GeoJson format. 
+- Add more options for GeoJson format.
 ## **Full List of Issues Covering all Changes in this Release**
 
 |**Key**|**Summary**|**Category**|

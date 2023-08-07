@@ -39,7 +39,7 @@ weight: 192
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/gis/net/aspose-gis-for-net-21-5-release-notes/">https://docs.aspose.com/gis/net/aspose-gis-for-net-21-5-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Aspose.GIS for .NET 21.5 release.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-5-release-notes/">https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-5-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Aspose.GIS for .NET 21.5 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

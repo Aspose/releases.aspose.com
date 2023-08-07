@@ -39,7 +39,7 @@ weight: 209
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/gis/net/aspose-gis-for-net-22-3-release-notes/">https://docs.aspose.com/gis/net/aspose-gis-for-net-22-3-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Αυτό το αρχείο zip περιέχει μόνο το aspose.gis για συγκροτήματα .net. Τα συγκροτήματα είναι τα ίδια όπως στο πρόγραμμα εγκατάστασης MSI του προϊόντος της ίδιας έκδοσης.</div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-3-release-notes/">https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-3-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Αυτό το αρχείο zip περιέχει μόνο το aspose.gis για συγκροτήματα .net. Τα συγκροτήματα είναι τα ίδια όπως στο πρόγραμμα εγκατάστασης MSI του προϊόντος της ίδιας έκδοσης.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

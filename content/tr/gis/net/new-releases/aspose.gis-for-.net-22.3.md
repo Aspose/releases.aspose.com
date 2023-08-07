@@ -39,7 +39,7 @@ weight: 208
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/gis/net/aspose-gis-for-net-22-3-release-notes/">https://docs.aspose.com/gis/net/aspose-gis-for-net-22-3-release-notes/</a></div>
+<h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-3-release-notes/">https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-3-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -55,7 +55,7 @@ Added the support for .Net 6.0.
 
 Previously the API license was not working in case of Blazor Server App. This issue has been resolved and now Aspose.GIS API is working fine in Blazor Server App.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.GIS for .NET 22.3 Sürüm notları](https://docs.aspose.com/gis/net/aspose-gis-for-net-22-3-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.GIS for .NET 22.3 Sürüm notları](https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

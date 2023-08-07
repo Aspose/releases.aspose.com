@@ -39,7 +39,7 @@ weight: 201
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href="https://docs.aspose.com/gis/net/aspose-gis-for-net-21-9-release-notes/">https://docs.aspose.com/gis/net/aspose-gis-for-net-21-9-release-notes/</a></div><h4>La description</h4><div class="HTMLDescription">Ce fichier zip ne contient que les assemblages Aspose.gis pour .NET. Les assemblages sont les mêmes que dans le programme d'installation MSI du produit de la même version.</div>
+      <h4>Notes de version</h4><div><a href="https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-9-release-notes/">https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-9-release-notes/</a></div><h4>La description</h4><div class="HTMLDescription">Ce fichier zip ne contient que les assemblages Aspose.gis pour .NET. Les assemblages sont les mêmes que dans le programme d'installation MSI du produit de la même version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -39,7 +39,7 @@ weight: 175
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/gis/net/aspose-gis-for-net-20-08-release-notes/">https://docs.aspose.com/gis/net/aspose-gis-for-net-20-08-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.GIS for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-08-release-notes/">https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-08-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.GIS for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
