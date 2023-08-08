@@ -16,7 +16,7 @@ parent_path: "gis/net"
 section_parent_path: "gis/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/gis/net/aspose-gis-for-net-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-2-release-notes/"
 weight: 217
 
 ---
@@ -40,7 +40,7 @@ weight: 217
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/gis/net/aspose-gis-for-net-23-2-release-notes/'>https://docs.aspose.com/gis/net/aspose-gis-for-net-23-2-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-2-release-notes/'>https://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Ce fichier zip ne contient que les assemblages Aspose.gis pour .NET. Les assemblages sont les mêmes que dans le programme d'installation MSI du produit de la même version.</div>

@@ -39,7 +39,7 @@ weight: 206
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href="https://docs.aspose.com/gis/net/aspose-gis-for-net-22-1-release-notes/">https://docs.aspose.com/gis/net/aspose-gis-for-net-22-1-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">.NET 22.1リリース用のAsoppes.Gis。</div>
+<h4>リリースノート</h4><div><a href="https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-1-release-notes/">https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-1-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">.NET 22.1リリース用のAsoppes.Gis。</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Notable Features">}}
@@ -54,7 +54,7 @@ Improved the handling of the “id” field of a `GeoJSON` feature.
 
 Improved the reading ability of the 3D point from a three-dimensional SHP file containing the geometry data.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.GIS for .NET 22.1 リリースノート](https://docs.aspose.com/gis/net/aspose-gis-for-net-22-1-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.GIS for .NET 22.1 リリースノート](https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

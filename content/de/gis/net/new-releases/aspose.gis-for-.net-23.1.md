@@ -16,7 +16,7 @@ parent_path: "gis/net"
 section_parent_path: "gis/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/gis/net/aspose-gis-for-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-1-release-notes/"
 weight: 214
 
 ---
@@ -40,7 +40,7 @@ weight: 214
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/gis/net/aspose-gis-for-net-23-1-release-notes/'>https://docs.aspose.com/gis/net/aspose-gis-for-net-23-1-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-1-release-notes/'>https://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">ASSON.GIS für .NET 23.1 Release.</div>

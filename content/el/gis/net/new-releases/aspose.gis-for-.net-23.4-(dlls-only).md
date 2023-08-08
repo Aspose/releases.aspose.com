@@ -16,7 +16,7 @@ parent_path: "gis/net"
 section_parent_path: "gis/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/gis/net/aspose-gis-for-net-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-4-release-notes/"
 weight: 221
 
 ---
@@ -40,7 +40,7 @@ weight: 221
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/gis/net/aspose-gis-for-net-23-4-release-notes/'>https://docs.aspose.com/gis/net/aspose-gis-for-net-23-4-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-4-release-notes/'>https://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Αυτό το αρχείο zip περιέχει μόνο το aspose.gis για συγκροτήματα .net. Τα συγκροτήματα είναι τα ίδια όπως στο πρόγραμμα εγκατάστασης MSI του προϊόντος της ίδιας έκδοσης.</div>

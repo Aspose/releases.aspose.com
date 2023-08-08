@@ -16,7 +16,7 @@ parent_path: "gis/net"
 section_parent_path: "gis/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/gis/net/aspose-gis-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-10-release-notes/"
 weight: 212
 
 ---
@@ -40,7 +40,7 @@ weight: 212
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/gis/net/aspose-gis-for-net-22-10-release-notes/'>https://docs.aspose.com/gis/net/aspose-gis-for-net-22-10-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-10-release-notes/'>https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.GIS for .NET 22.10 release.</div>

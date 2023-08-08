@@ -39,7 +39,7 @@ weight: 205
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/gis/net/aspose-gis-for-net-21-11-release-notes/">https://docs.aspose.com/gis/net/aspose-gis-for-net-21-11-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">Bu ZIP dosyası yalnızca .NET Assembles için aspose.gis içerir. Montajlar, aynı sürümün ürününün MSI yükleyicisiyle aynıdır.</div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-11-release-notes/">https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-11-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">Bu ZIP dosyası yalnızca .NET Assembles için aspose.gis içerir. Montajlar, aynı sürümün ürününün MSI yükleyicisiyle aynıdır.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

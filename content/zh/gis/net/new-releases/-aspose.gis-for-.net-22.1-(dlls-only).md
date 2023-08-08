@@ -39,7 +39,7 @@ weight: 207
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/gis/net/aspose-gis-for-net-22-1-release-notes/">https://docs.aspose.com/gis/net/aspose-gis-for-net-22-1-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">该zip文件仅包含.net组件的aspose.gis。组件与同一版本的产品的MSI安装程序相同。</div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-1-release-notes/">https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-1-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">该zip文件仅包含.net组件的aspose.gis。组件与同一版本的产品的MSI安装程序相同。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -22,7 +22,7 @@ weight:  1
 Offen
 {{< Common/link href="https://www.nuget.org/packages/Aspose.GIS/" text="NuGet"  >}}Package Manager im Microsoft Visual Studio®, suchen Sie nach <b>Aspose.GIS</b> und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
 {{< Common/link href="https://docs.aspose.com/gis/net/installation/" text="Installation"  >}}Dokumentationsseite.
-{{< Common/release-notes-link family="gis" product="net" href="https://docs.aspose.com/gis/net/release-notes/" text="https://docs.aspose.com/gis/net/release-notes/"  >}}
+{{< Common/release-notes-link family="gis" product="net" href="https://releases.aspose.com/gis/net/release-notes/" text="https://releases.aspose.com/gis/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

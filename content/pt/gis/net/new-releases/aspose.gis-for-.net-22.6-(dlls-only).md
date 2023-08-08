@@ -16,7 +16,7 @@ parent_path: "gis/net"
 section_parent_path: "gis/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/gis/net/aspose-gis-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-6-release-notes/"
 weight: 211
 
 ---
@@ -40,7 +40,7 @@ weight: 211
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/gis/net/aspose-gis-for-net-22-6-release-notes/'>https://docs.aspose.com/gis/net/aspose-gis-for-net-22-6-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-6-release-notes/'>https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Este arquivo zip contém apenas o Aspose.gis para os conjuntos .NET. Os assemblies são os mesmos do instalador do MSI do produto da mesma versão.</div>

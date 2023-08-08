@@ -39,7 +39,7 @@ weight: 108
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/gisnet/Aspose.GIS+for+.NET+18.4+Release+Notes">https://docs.aspose.com/display/gisnet/Aspose.GIS+for+.NET+18.4+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Aspose.GIS für .NET 18.4-Version.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-4-release-notes/">https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-4-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Aspose.GIS für .NET 18.4-Version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

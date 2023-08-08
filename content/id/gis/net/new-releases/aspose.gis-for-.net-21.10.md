@@ -39,7 +39,7 @@ weight: 202
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href="https://docs.aspose.com/gis/net/aspose-gis-for-net-21-10-release-notes/">https://docs.aspose.com/gis/net/aspose-gis-for-net-21-10-release-notes/</a></div><h4>Keterangan</h4><div class="HTMLDescription">Aspose.gis untuk rilis .NET 21.10.</div>
+      <h4>Catatan rilis</h4><div><a href="https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-10-release-notes/">https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-10-release-notes/</a></div><h4>Keterangan</h4><div class="HTMLDescription">Aspose.gis untuk rilis .NET 21.10.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

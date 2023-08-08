@@ -39,7 +39,7 @@ weight: 202
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/gis/net/aspose-gis-for-net-21-10-release-notes/">https://docs.aspose.com/gis/net/aspose-gis-for-net-21-10-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">aspose.gis for .net 21.10发行。</div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-10-release-notes/">https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-10-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">aspose.gis for .net 21.10发行。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

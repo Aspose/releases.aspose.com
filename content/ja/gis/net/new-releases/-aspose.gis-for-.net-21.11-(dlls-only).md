@@ -39,7 +39,7 @@ weight: 205
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/gis/net/aspose-gis-for-net-21-11-release-notes/">https://docs.aspose.com/gis/net/aspose-gis-for-net-21-11-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">このZIPファイルには、.NETアセンブリ用のAsops.Gisのみが含まれています。アセンブリは、同じバージョンの製品のMSIインストーラーと同じです。</div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-11-release-notes/">https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-11-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">このZIPファイルには、.NETアセンブリ用のAsops.Gisのみが含まれています。アセンブリは、同じバージョンの製品のMSIインストーラーと同じです。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
