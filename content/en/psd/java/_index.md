@@ -1,6 +1,7 @@
 ---
 title: "Aspose.PSD"
 description: "Java Package (class library) to read, write, edit, convert Adobe Photoshop® (PSD, PSB) & Adobe Illustrator® (AI) vector graphics via Java API."
+linktitle: "Aspose.PSD for Java"
 layout: packages
 type: repository
 categories:
