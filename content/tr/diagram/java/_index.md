@@ -192,7 +192,7 @@ Java için aspose.diagram, herhangi bir kazara değişiklikten kaçınmak için 
 
 ## Başlamak
 
-Aspose.Diagram Java API'leri [Aspose deposu](https://repository.aspose.com/diagram/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için Aspose.diagram'ı kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.Diagram for Java from Aspose deposu](https://docs.aspose.com/diagram/java/installation/) belge sayfasını ziyaret edin.
+Aspose.Diagram Java API'leri [Aspose deposu](https://releases.aspose.com/diagram/java/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için Aspose.diagram'ı kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.Diagram for Java from Aspose deposu](https://docs.aspose.com/diagram/java/installation/) belge sayfasını ziyaret edin.
 
 ## java kullanarak otomatik fit visio diyagramı
 

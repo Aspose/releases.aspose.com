@@ -192,7 +192,7 @@ Aspose.diagram para Java también se puede usar para [Aplicar protección a los 
 
 ## Empezar
 
-Aspose.diagram Java Las apis están alojadas en el [Repositorio de asposio](https://repository.aspose.com/diagram/). Puede usar fácilmente Aspose.Diagram para la API Java directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.Diagram for Java from Repositorio de asposio](https://docs.aspose.com/diagram/java/installation/).
+Aspose.diagram Java Las apis están alojadas en el [Repositorio de asposio](https://releases.aspose.com/diagram/java/). Puede usar fácilmente Aspose.Diagram para la API Java directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.Diagram for Java from Repositorio de asposio](https://docs.aspose.com/diagram/java/installation/).
 
 ## Diagrama Visio Auto-Fit usando Java
 

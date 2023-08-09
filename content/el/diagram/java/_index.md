@@ -192,7 +192,7 @@ packages_refs:
 
 ## Ξεκίνα
 
-Το ASPOSPES.DIAGRAM APIs Java φιλοξενείται στο [Θέτω σε αποθήκη](https://repository.aspose.com/diagram/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.diagram για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.Diagram for Java from Θέτω σε αποθήκη](https://docs.aspose.com/diagram/java/installation/).
+Το ASPOSPES.DIAGRAM APIs Java φιλοξενείται στο [Θέτω σε αποθήκη](https://releases.aspose.com/diagram/java/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.diagram για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.Diagram for Java from Θέτω σε αποθήκη](https://docs.aspose.com/diagram/java/installation/).
 
 ## Διάγραμμα Visio Auto-Fit χρησιμοποιώντας Java
 

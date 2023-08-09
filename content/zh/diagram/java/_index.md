@@ -192,7 +192,7 @@ Java的Aspose.diagram也可以通过锁定背景，模具（主）以及形状�
 
 ## 开始
 
-Aspose.diagram Java API托管在[Aspose存储库](https://repository.aspose.com/diagram/)。您可以在Maven项目中轻松地使用Java API的Aspose.diagram，并具有简单的配置。有关详细说明，请访问[Installing Aspose.Diagram for Java from Aspose存储库](https://docs.aspose.com/diagram/java/installation/)文档页面。
+Aspose.diagram Java API托管在[Aspose存储库](https://releases.aspose.com/diagram/java/)。您可以在Maven项目中轻松地使用Java API的Aspose.diagram，并具有简单的配置。有关详细说明，请访问[Installing Aspose.Diagram for Java from Aspose存储库](https://docs.aspose.com/diagram/java/installation/)文档页面。
 
 ## 使用Java的自动拟合Visio图
 
