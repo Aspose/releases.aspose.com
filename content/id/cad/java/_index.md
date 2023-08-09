@@ -154,7 +154,7 @@ packages_refs:
 
 ## Memulai
 
-Aspose.cad Java API di -host di [Repositori Aspose](https://repository.aspose.com/cad/). Anda dapat dengan mudah menggunakan Aspose.cad untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.CAD for Java from Maven Repository](https://docs.aspose.com/cad/java/installation/).
+Aspose.cad Java API di -host di [Repositori Aspose](https://releases.aspose.com/cad/java/). Anda dapat dengan mudah menggunakan Aspose.cad untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.CAD for Java from Maven Repository](https://docs.aspose.com/cad/java/installation/).
 
 ## Konversi gambar DXF ke format PNG
 

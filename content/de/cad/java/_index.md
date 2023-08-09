@@ -154,7 +154,7 @@ Mit [Aspose.CAD for Java](https://products.aspose.com/cad/java) können Entwickl
 
 ## Loslegen
 
-ASSOSS.CAD JAVA APIs werden am [ASSOSE Repository](https://repository.aspose.com/cad/) gehostet. Sie können ASSOSPE.CAD für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.CAD for Java from Maven Repository](https://docs.aspose.com/cad/java/installation/) -Dokumentationsseite.
+ASSOSS.CAD JAVA APIs werden am [ASSOSE Repository](https://releases.aspose.com/cad/java/) gehostet. Sie können ASSOSPE.CAD für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.CAD for Java from Maven Repository](https://docs.aspose.com/cad/java/installation/) -Dokumentationsseite.
 
 ## DXF -Zeichnung in PNG -Format konvertieren
 

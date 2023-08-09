@@ -154,7 +154,7 @@ packages_refs:
 
 ## Empezar
 
-Aspose.cad Java Las apis están alojadas en el [Repositorio de asposio](https://repository.aspose.com/cad/). Puede usar fácilmente Aspose.cad para la API Java directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.CAD for Java from Maven Repository](https://docs.aspose.com/cad/java/installation/).
+Aspose.cad Java Las apis están alojadas en el [Repositorio de asposio](https://releases.aspose.com/cad/java/). Puede usar fácilmente Aspose.cad para la API Java directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.CAD for Java from Maven Repository](https://docs.aspose.com/cad/java/installation/).
 
 ## Convertir el dibujo DXF en formato PNG
 

@@ -154,7 +154,7 @@ packages_refs:
 
 ## Ξεκίνα
 
-Το ASPOSPER.CAD JAVA API φιλοξενούνται στο [Θέτω σε αποθήκη](https://repository.aspose.com/cad/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.cad για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.CAD for Java from Maven Repository](https://docs.aspose.com/cad/java/installation/).
+Το ASPOSPER.CAD JAVA API φιλοξενούνται στο [Θέτω σε αποθήκη](https://releases.aspose.com/cad/java/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.cad για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.CAD for Java from Maven Repository](https://docs.aspose.com/cad/java/installation/).
 
 ## μετατρέψτε το σχέδιο DXF σε μορφή PNG
 
