@@ -83,7 +83,7 @@ JPEG, PNG, GIF, TIFF, BMP
 
 ## Начать
 
-Aspose.omr Java API размещены на [Применить репозиторий](https://repository.aspose.com/omr/). Вы можете легко использовать Aspose.omr для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.OMR for Java from Maven Repository](https://docs.aspose.com/omr/java/installation/).
+Aspose.omr Java API размещены на [Применить репозиторий](https://releases.aspose.com/omr/java/). Вы можете легко использовать Aspose.omr для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.OMR for Java from Maven Repository](https://docs.aspose.com/omr/java/installation/).
 
 ## выполнить операцию OMR на изображениях с помощью Java
 
