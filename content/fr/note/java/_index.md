@@ -132,7 +132,7 @@ Onetoc2
 
 ## Commencer
 
-Les API Java ASPOSE sont hébergées au [Référentiel](https://repository.aspose.com/note/). Vous pouvez facilement utiliser ASPOSE.NOTE pour l'API Java directement dans vos projets Maven avec des configurations simples. Pour les instructions détaillées, veuillez visiter la page de documentation [Installing Aspose.Note for Java from Maven Repository](https://docs.aspose.com/note/java/installation/).
+Les API Java ASPOSE sont hébergées au [Référentiel](https://releases.aspose.com/note/java/). Vous pouvez facilement utiliser ASPOSE.NOTE pour l'API Java directement dans vos projets Maven avec des configurations simples. Pour les instructions détaillées, veuillez visiter la page de documentation [Installing Aspose.Note for Java from Maven Repository](https://docs.aspose.com/note/java/installation/).
 
 ## Convertir le document OneNote en PDF avec les options par défaut à l'aide de Java
 
