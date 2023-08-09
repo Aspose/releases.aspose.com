@@ -298,7 +298,7 @@ CGM, MHT, PCL, PS, XSLFO, MD
 
 ## Ξεκίνα
 
-Το ASPOSPES.PDF APIs Java φιλοξενείται στο [Θέτω σε αποθήκη](https://repository.aspose.com/pdf/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.pdf για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.PDF for Java from Θέτω σε αποθήκη](https://docs.aspose.com/pdf/java/installation/).
+Το ASPOSPES.PDF APIs Java φιλοξενείται στο [Θέτω σε αποθήκη](https://releases.aspose.com/pdf/java/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.pdf για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.PDF for Java from Θέτω σε αποθήκη](https://docs.aspose.com/pdf/java/installation/).
 
 ## Εξαγωγή κειμένου από ένα αρχείο PDF χρησιμοποιώντας Java
 

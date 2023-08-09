@@ -298,7 +298,7 @@ CGM, MHT, PCL, PS, XSLFO, MD
 
 ## Başlamak
 
-Aspose.pdf Java API'leri [Aspose deposu](https://repository.aspose.com/pdf/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose.pdf'yi kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.PDF for Java from Aspose deposu](https://docs.aspose.com/pdf/java/installation/) belge sayfasını ziyaret edin.
+Aspose.pdf Java API'leri [Aspose deposu](https://releases.aspose.com/pdf/java/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose.pdf'yi kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.PDF for Java from Aspose deposu](https://docs.aspose.com/pdf/java/installation/) belge sayfasını ziyaret edin.
 
 ## Java kullanarak bir PDF dosyasından metin çıkarın
 
