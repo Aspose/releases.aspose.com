@@ -112,7 +112,7 @@ packages_refs:
 
 ## Ξεκίνα
 
-Το ASPOSPES.PSD APIs Java φιλοξενείται στο [Θέτω σε αποθήκη](https://repository.aspose.com/psd/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.psd για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε την τεκμηρίωση PSD [Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/).
+Το ASPOSPES.PSD APIs Java φιλοξενείται στο [Θέτω σε αποθήκη](https://releases.aspose.com/psd/java/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.psd για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε την τεκμηρίωση PSD [Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/).
 
 ## Δημιουργήστε ένα PSD από το μηδέν
 

@@ -112,7 +112,7 @@ packages_refs:
 
 ## Empezar
 
-Aspose.ps API Java se alojan en el [Repositorio de asposio](https://repository.aspose.com/psd/). Puede usar fácilmente Aspose.psd para la API Java directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite [Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/) documentación PSD.
+Aspose.ps API Java se alojan en el [Repositorio de asposio](https://releases.aspose.com/psd/java/). Puede usar fácilmente Aspose.psd para la API Java directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite [Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/) documentación PSD.
 
 ## Crea un PSD desde cero
 
