@@ -212,7 +212,7 @@ Découvrez le [Présentation du produit](https://docs.aspose.com/slides/java/pro
 
 ## Commencer
 
-Aspose.slides Les API Java sont hébergées au [Référentiel](https://repository.aspose.com/slides/). Vous pouvez facilement utiliser ASPOSE.SLIDES pour l'API Java directement dans vos projets Maven avec des configurations simples. Pour les instructions détaillées, veuillez visiter la page de documentation [Installing Aspose.Slides for Java from Maven Repository](https://docs.aspose.com/slides/java/installation/).
+Aspose.slides Les API Java sont hébergées au [Référentiel](https://releases.aspose.com/slides/java/). Vous pouvez facilement utiliser ASPOSE.SLIDES pour l'API Java directement dans vos projets Maven avec des configurations simples. Pour les instructions détaillées, veuillez visiter la page de documentation [Installing Aspose.Slides for Java from Maven Repository](https://docs.aspose.com/slides/java/installation/).
 
 ## Convertir la présentation en PDF
 

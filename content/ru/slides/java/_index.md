@@ -212,7 +212,7 @@ packages_refs:
 
 ## Начать
 
-Aspose.slides Java API размещены на [Применить репозиторий](https://repository.aspose.com/slides/). Вы можете легко использовать Aspose.slides для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.Slides for Java from Maven Repository](https://docs.aspose.com/slides/java/installation/).
+Aspose.slides Java API размещены на [Применить репозиторий](https://releases.aspose.com/slides/java/). Вы можете легко использовать Aspose.slides для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.Slides for Java from Maven Repository](https://docs.aspose.com/slides/java/installation/).
 
 ## преобразовать презентацию в PDF
 
