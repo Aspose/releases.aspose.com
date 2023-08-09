@@ -152,7 +152,7 @@ packages_refs:
 
 ## Başlamak
 
-Aspose.OCR Java API'leri [Aspose deposu](https://repository.aspose.com/ocr/)'da barındırılmaktadır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose.ocr'ı kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.OCR for Java from Maven Repository](https://docs.aspose.com/ocr/java/installation/) belge sayfasını ziyaret edin.
+Aspose.OCR Java API'leri [Aspose deposu](https://releases.aspose.com/ocr/java/)'da barındırılmaktadır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose.ocr'ı kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.OCR for Java from Maven Repository](https://docs.aspose.com/ocr/java/installation/) belge sayfasını ziyaret edin.
 
 ## Resim üzerindeki belirli alanlardan metin çıkarın
 

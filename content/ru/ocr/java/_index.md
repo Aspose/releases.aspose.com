@@ -152,7 +152,7 @@ packages_refs:
 
 ## Начать
 
-Aspose.ocr java apis размещены на [Применить репозиторий](https://repository.aspose.com/ocr/). Вы можете легко использовать Aspose.OCR для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.OCR for Java from Maven Repository](https://docs.aspose.com/ocr/java/installation/).
+Aspose.ocr java apis размещены на [Применить репозиторий](https://releases.aspose.com/ocr/java/). Вы можете легко использовать Aspose.OCR для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.OCR for Java from Maven Repository](https://docs.aspose.com/ocr/java/installation/).
 
 ## Извлечь текст из конкретных областей на изображении
 
