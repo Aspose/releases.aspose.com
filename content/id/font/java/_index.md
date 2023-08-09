@@ -116,7 +116,7 @@ TTC, OpenType, CFF, Type1
 
 ## Memulai
 
-Aspose.Font Java API di -host di [Repositori Aspose](https://repository.aspose.com/font/). Anda dapat dengan mudah menggunakan Aspose.font untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/).
+Aspose.Font Java API di -host di [Repositori Aspose](https://releases.aspose.com/font/java/). Anda dapat dengan mudah menggunakan Aspose.font untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/).
 
 ## Mendeteksi dukungan simbol Latin dalam font menggunakan java
 

@@ -117,7 +117,7 @@ TTC、Opentype、CFF、Type1
 
 ## 始めましょう
 
-Aspose.Font Java APIは[Aspose Repository](https://repository.aspose.com/font/)でホストされています。簡単な構成を使用して、MavenプロジェクトでJava APIにAsops.fontを簡単に使用できます。詳細な手順については、[Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/)ドキュメントページをご覧ください。
+Aspose.Font Java APIは[Aspose Repository](https://releases.aspose.com/font/java/)でホストされています。簡単な構成を使用して、MavenプロジェクトでJava APIにAsops.fontを簡単に使用できます。詳細な手順については、[Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/)ドキュメントページをご覧ください。
 
 ## Javaを使用してフォントでラテンシンボルサポートを検出する
 

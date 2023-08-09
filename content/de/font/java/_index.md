@@ -116,7 +116,7 @@ TTC, Openentyp, CFF, Typ1
 
 ## Loslegen
 
-ASSONE.FONT JAVA APIs werden am [ASSOSE Repository](https://repository.aspose.com/font/) gehostet. Sie können ASPOSPE.FONT für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/) -Dokumentationsseite.
+ASSONE.FONT JAVA APIs werden am [ASSOSE Repository](https://releases.aspose.com/font/java/) gehostet. Sie können ASPOSPE.FONT für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/) -Dokumentationsseite.
 
 ## Lateinische Symbole unterstützen in der Schriftart mit Java
 

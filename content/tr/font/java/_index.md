@@ -116,7 +116,7 @@ TTC, Opentype, CFF, Tip1
 
 ## Başlamak
 
-Aspose.font Java API'leri [Aspose deposu](https://repository.aspose.com/font/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose.font kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/) Dokümantasyon sayfasını ziyaret edin.
+Aspose.font Java API'leri [Aspose deposu](https://releases.aspose.com/font/java/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose.font kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/) Dokümantasyon sayfasını ziyaret edin.
 
 ## Java kullanarak yazı tipindeki Latin sembolleri desteği tespit edin
 
