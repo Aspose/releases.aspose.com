@@ -70,7 +70,7 @@ packages_refs:
 
 ## Loslegen
 
-ASSONE.PUB JAVA APIs werden am [ASSOSE Repository](https://repository.aspose.com/pub/) gehostet. Sie können ASPOSPE.PUB für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.PUB for Java from ASSOSE Repository](https://docs.aspose.com/pub/java/installation/) -Dokumentationsseite.
+ASSONE.PUB JAVA APIs werden am [ASSOSE Repository](https://releases.aspose.com/pub/java/) gehostet. Sie können ASPOSPE.PUB für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.PUB for Java from ASSOSE Repository](https://docs.aspose.com/pub/java/installation/) -Dokumentationsseite.
 
 ## Metadaten von Microsoft Publisher -Dateien mit Java bearbeiten
 

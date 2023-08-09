@@ -70,7 +70,7 @@ packages_refs:
 
 ## Empezar
 
-Aspose.pub Java Las API están alojadas en el [Repositorio de asposio](https://repository.aspose.com/pub/). Puede usar fácilmente Aspose.pub para la API Java directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.PUB for Java from Repositorio de asposio](https://docs.aspose.com/pub/java/installation/).
+Aspose.pub Java Las API están alojadas en el [Repositorio de asposio](https://releases.aspose.com/pub/java/). Puede usar fácilmente Aspose.pub para la API Java directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.PUB for Java from Repositorio de asposio](https://docs.aspose.com/pub/java/installation/).
 
 ## Editar metadatos de los archivos de Microsoft Publisher usando Java
 

@@ -70,7 +70,7 @@ packages_refs:
 
 ## Başlamak
 
-Aspose.pub Java API'leri [Aspose deposu](https://repository.aspose.com/pub/)'da barındırılır. Java API için aspose.pub'u doğrudan Maven projelerinizde basit konfigürasyonlarla kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.PUB for Java from Aspose deposu](https://docs.aspose.com/pub/java/installation/) belge sayfasını ziyaret edin.
+Aspose.pub Java API'leri [Aspose deposu](https://releases.aspose.com/pub/java/)'da barındırılır. Java API için aspose.pub'u doğrudan Maven projelerinizde basit konfigürasyonlarla kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.PUB for Java from Aspose deposu](https://docs.aspose.com/pub/java/installation/) belge sayfasını ziyaret edin.
 
 ## Java kullanarak Microsoft Publisher dosyalarının meta verilerini düzenleyin
 
