@@ -172,7 +172,7 @@ HTML
 
 ## 始めましょう
 
-Aspose.3d Java APIは[Aspose Repository](https://repository.aspose.com/3d/)でホストされています。簡単な構成を備えたMavenプロジェクトで、Java APIにAsops.3dを簡単に使用できます。詳細な手順については、[Installing Aspose.3D for Java from Aspose Repository](https://docs.aspose.com/3d/java/installation/)ドキュメントページをご覧ください。
+Aspose.3d Java APIは[Aspose Repository](https://releases.aspose.com/3d/java/)でホストされています。簡単な構成を備えたMavenプロジェクトで、Java APIにAsops.3dを簡単に使用できます。詳細な手順については、[Installing Aspose.3D for Java from Aspose Repository](https://docs.aspose.com/3d/java/installation/)ドキュメントページをご覧ください。
 
 ## Java APIを使用して線形押出を実行します
 

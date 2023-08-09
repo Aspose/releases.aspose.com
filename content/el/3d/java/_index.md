@@ -171,7 +171,7 @@ HTML
 
 ## Ξεκίνα
 
-ASPOSSE.3D Τα API Java φιλοξενούνται στο [Θέτω σε αποθήκη](https://repository.aspose.com/3d/). Μπορείτε εύκολα να χρησιμοποιήσετε το ASPOSPE.3D για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.3D for Java from Θέτω σε αποθήκη](https://docs.aspose.com/3d/java/installation/).
+ASPOSSE.3D Τα API Java φιλοξενούνται στο [Θέτω σε αποθήκη](https://releases.aspose.com/3d/java/). Μπορείτε εύκολα να χρησιμοποιήσετε το ASPOSPE.3D για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.3D for Java from Θέτω σε αποθήκη](https://docs.aspose.com/3d/java/installation/).
 
 ## Εκτελέστε γραμμική εξώθηση χρησιμοποιώντας το Java API
 

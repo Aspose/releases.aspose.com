@@ -171,7 +171,7 @@ HTML
 
 ## Başlamak
 
-Aspose.3d Java API'leri [Aspose deposu](https://repository.aspose.com/3d/)'da barındırılmaktadır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose.3d'yi kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.3D for Java from Aspose deposu](https://docs.aspose.com/3d/java/installation/) belge sayfasını ziyaret edin.
+Aspose.3d Java API'leri [Aspose deposu](https://releases.aspose.com/3d/java/)'da barındırılmaktadır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose.3d'yi kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.3D for Java from Aspose deposu](https://docs.aspose.com/3d/java/installation/) belge sayfasını ziyaret edin.
 
 ## Java API kullanarak doğrusal ekstrüzyon gerçekleştirin
 
