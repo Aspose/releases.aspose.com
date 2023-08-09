@@ -159,7 +159,7 @@ packages_refs:
 
 ## Loslegen
 
-ASSONE.PAGE JAVA APIs werden am [ASSOSE Repository](https://repository.aspose.com/page/) gehostet. Sie können ASSONE.PAGE für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/) -Dokumentationsseite.
+ASSONE.PAGE JAVA APIs werden am [ASSOSE Repository](https://releases.aspose.com/page/java/) gehostet. Sie können ASSONE.PAGE für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/) -Dokumentationsseite.
 
 ## Fügen Sie Seiten zu vorhandenem XPS -Dokument hinzu
 

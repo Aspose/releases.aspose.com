@@ -171,7 +171,7 @@ packages_refs:
 
 ## Get Started
 
-Aspose.Page Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/page/). You can easily use Aspose.Page for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/) documentation page.
+Aspose.Page Java APIs are hosted at the [Aspose Repository](https://releases.aspose.com/page/java/). You can easily use Aspose.Page for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/) documentation page.
 
 ## Add Pages to Existing XPS Document
 

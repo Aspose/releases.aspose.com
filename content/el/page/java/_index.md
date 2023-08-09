@@ -159,7 +159,7 @@ packages_refs:
 
 ## Ξεκίνα
 
-Το ASPOSPE.Page Java API φιλοξενούνται στο [Θέτω σε αποθήκη](https://repository.aspose.com/page/). Μπορείτε εύκολα να χρησιμοποιήσετε το ASPOSE.Page για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/).
+Το ASPOSPE.Page Java API φιλοξενούνται στο [Θέτω σε αποθήκη](https://releases.aspose.com/page/java/). Μπορείτε εύκολα να χρησιμοποιήσετε το ASPOSE.Page για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/).
 
 ## Προσθέστε σελίδες στο υπάρχον έγγραφο XPS
 
