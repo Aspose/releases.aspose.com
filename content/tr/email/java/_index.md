@@ -193,7 +193,7 @@ packages_refs:
 
 ## Başlamak
 
-Email Java API'leri [Aspose deposu](https://repository.aspose.com/email/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose. -email'i kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.Email for Java from Maven Repository](https://docs.aspose.com/email/java/installation/) belge sayfasını ziyaret edin.
+Email Java API'leri [Aspose deposu](https://releases.aspose.com/email/java/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose. -email'i kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.Email for Java from Maven Repository](https://docs.aspose.com/email/java/installation/) belge sayfasını ziyaret edin.
 
 ## Java kullanarak IMAP mesajı yedekleme işlemini gerçekleştirin
 

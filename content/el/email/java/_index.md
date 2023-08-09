@@ -193,7 +193,7 @@ packages_refs:
 
 ## Ξεκίνα
 
-Το ASPOSPER.EMAIL APIs Java φιλοξενείται το [Θέτω σε αποθήκη](https://repository.aspose.com/email/). Μπορείτε εύκολα να χρησιμοποιήσετε το ASPOSE.EMAIL για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.Email for Java from Maven Repository](https://docs.aspose.com/email/java/installation/).
+Το ASPOSPER.EMAIL APIs Java φιλοξενείται το [Θέτω σε αποθήκη](https://releases.aspose.com/email/java/). Μπορείτε εύκολα να χρησιμοποιήσετε το ASPOSE.EMAIL για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.Email for Java from Maven Repository](https://docs.aspose.com/email/java/installation/).
 
 ## Εκτελέστε λειτουργία αντιγράφων ασφαλείας μηνυμάτων IMAP χρησιμοποιώντας Java
 

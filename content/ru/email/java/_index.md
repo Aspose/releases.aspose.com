@@ -193,7 +193,7 @@ packages_refs:
 
 ## Начать
 
-Aspose.mail Java API размещены на [Применить репозиторий](https://repository.aspose.com/email/). Вы можете легко использовать Aspose.mail для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.Email for Java from Maven Repository](https://docs.aspose.com/email/java/installation/).
+Aspose.mail Java API размещены на [Применить репозиторий](https://releases.aspose.com/email/java/). Вы можете легко использовать Aspose.mail для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.Email for Java from Maven Repository](https://docs.aspose.com/email/java/installation/).
 
 ## выполнить операцию резервного копирования сообщения IMAP с помощью Java
 

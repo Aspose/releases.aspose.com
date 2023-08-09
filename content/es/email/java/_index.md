@@ -193,7 +193,7 @@ packages_refs:
 
 ## Empezar
 
-Aspose.Email Las apis Java están alojadas en el [Repositorio de asposio](https://repository.aspose.com/email/). Puede usar fácilmente Aspose.Email para Java API directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.Email for Java from Maven Repository](https://docs.aspose.com/email/java/installation/).
+Aspose.Email Las apis Java están alojadas en el [Repositorio de asposio](https://releases.aspose.com/email/java/). Puede usar fácilmente Aspose.Email para Java API directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.Email for Java from Maven Repository](https://docs.aspose.com/email/java/installation/).
 
 ## Realizar operación de copia de seguridad de mensajes IMAP usando Java
 
