@@ -155,7 +155,7 @@ TIF, SVG, PNG, JPEG
 
 ## Memulai
 
-Aspose.Tasks Java API di -host di [Repositori Aspose](https://repository.aspose.com/tasks/). Anda dapat dengan mudah menggunakan Aspose.Tasks untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.Tasks for Java from Maven Repository](https://docs.aspose.com/tasks/java/installation/).
+Aspose.Tasks Java API di -host di [Repositori Aspose](https://releases.aspose.com/tasks/java/). Anda dapat dengan mudah menggunakan Aspose.Tasks untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.Tasks for Java from Maven Repository](https://docs.aspose.com/tasks/java/installation/).
 
 ## Baca Data Proyek dari Microsoft Project Database
 

@@ -155,7 +155,7 @@ TIF, SVG, PNG, JPEG
 
 ## Iniciar
 
-Aspom.Tasks Java APIs estão hospedadas no [Aspose repositório](https://repository.aspose.com/tasks/). Você pode facilmente usar aspasas.Tasks for Java diretamente em seus projetos Maven com configurações simples. Para as instruções detalhadas, visite [Installing Aspose.Tasks for Java from Maven Repository](https://docs.aspose.com/tasks/java/installation/) Página de documentação.
+Aspom.Tasks Java APIs estão hospedadas no [Aspose repositório](https://releases.aspose.com/tasks/java/). Você pode facilmente usar aspasas.Tasks for Java diretamente em seus projetos Maven com configurações simples. Para as instruções detalhadas, visite [Installing Aspose.Tasks for Java from Maven Repository](https://docs.aspose.com/tasks/java/installation/) Página de documentação.
 
 ## Leia os dados do projeto do banco de dados do projeto Microsoft
 
