@@ -210,7 +210,7 @@ ASPOSE.
 
 ## Başlamak
 
-ASPOSE.Inging Java API'leri [Aspose deposu](https://repository.aspose.com/imaging/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API'sı için ASPOS.Inmaging'i kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/) belge sayfasını ziyaret edin.
+ASPOSE.Inging Java API'leri [Aspose deposu](https://releases.aspose.com/imaging/java/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API'sı için ASPOS.Inmaging'i kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/) belge sayfasını ziyaret edin.
 
 ## Dikdörtgen tarafından EMF görüntüsünü kırpın
 

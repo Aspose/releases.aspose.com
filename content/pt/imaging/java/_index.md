@@ -210,7 +210,7 @@ Asppose.imaging funciona para as versões x86 e x64 dos sistemas operacionais li
 
 ## Iniciar
 
-APIs Java Aspose.Imaging são hospedadas no [Aspose repositório](https://repository.aspose.com/imaging/). Você pode facilmente usar o Aspose. Para as instruções detalhadas, visite [Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/) Página de documentação.
+APIs Java Aspose.Imaging são hospedadas no [Aspose repositório](https://releases.aspose.com/imaging/java/). Você pode facilmente usar o Aspose. Para as instruções detalhadas, visite [Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/) Página de documentação.
 
 ## CROUN EMF Imagem por retângulo
 

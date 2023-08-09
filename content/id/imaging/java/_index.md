@@ -210,7 +210,7 @@ Aspose.Imaging berfungsi untuk versi x86 dan x64 dari sistem operasi yang terdaf
 
 ## Memulai
 
-Aspose.Imaging Java API di -host di [Repositori Aspose](https://repository.aspose.com/imaging/). Anda dapat dengan mudah menggunakan Aspose. Pencipil untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/).
+Aspose.Imaging Java API di -host di [Repositori Aspose](https://releases.aspose.com/imaging/java/). Anda dapat dengan mudah menggunakan Aspose. Pencipil untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/).
 
 ## crop eMF gambar dengan persegi panjang
 

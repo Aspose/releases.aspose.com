@@ -210,7 +210,7 @@ ASSONE.Imaging funktioniert sowohl für X86- als auch für X64 -Versionen der ob
 
 ## Loslegen
 
-ASSOSPE.Imaging Java APIs werden am [ASSOSE Repository](https://repository.aspose.com/imaging/) gehostet. Sie können ASSONE.Imaging für Java -API direkt in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die [Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/) -Dokumentationsseite.
+ASSOSPE.Imaging Java APIs werden am [ASSOSE Repository](https://releases.aspose.com/imaging/java/) gehostet. Sie können ASSONE.Imaging für Java -API direkt in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die [Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/) -Dokumentationsseite.
 
 ## Ernte EMF -Bild von Rechteck
 
