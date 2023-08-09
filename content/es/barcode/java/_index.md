@@ -267,7 +267,7 @@ packages_refs:
 
 ## Empezar
 
-Aspose.barcode Java Las apis están alojadas en el [Repositorio de asposio](https://repository.aspose.com/barcode/). Puede usar fácilmente Aspose.BARCODE para Java API directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.BarCode for Java from Maven Repository](https://docs.aspose.com/barcode/java/installation/).
+Aspose.barcode Java Las apis están alojadas en el [Repositorio de asposio](https://releases.aspose.com/barcode/java/). Puede usar fácilmente Aspose.BARCODE para Java API directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.BarCode for Java from Maven Repository](https://docs.aspose.com/barcode/java/installation/).
 
 ## Escanear un código de barras de una imagen a través de Java
 
