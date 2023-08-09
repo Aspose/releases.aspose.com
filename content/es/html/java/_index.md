@@ -137,7 +137,7 @@ Aspose.html para Java API funciona como un navegador sin cabeza que le permite a
 
 ## Empezar
 
-Aspose.html Las apis Java están alojadas en el [Repositorio de asposio](https://repository.aspose.com/html/). Puede usar fácilmente Aspose.html para Java API directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.HTML for Java from Repositorio de asposio](https://docs.aspose.com/html/java/installation/).
+Aspose.html Las apis Java están alojadas en el [Repositorio de asposio](https://releases.aspose.com/html/java/). Puede usar fácilmente Aspose.html para Java API directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.HTML for Java from Repositorio de asposio](https://docs.aspose.com/html/java/installation/).
 
 ## Cargar html desde una ubicación remota
 

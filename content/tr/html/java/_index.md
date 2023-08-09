@@ -137,7 +137,7 @@ Java API için Aspose.html, HTML düğümlerini Kaldırma ve Değiştirme, HTML 
 
 ## Başlamak
 
-Aspose.html Java API'leri [Aspose deposu](https://repository.aspose.com/html/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose.html'yi kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.HTML for Java from Aspose deposu](https://docs.aspose.com/html/java/installation/) belge sayfasını ziyaret edin.
+Aspose.html Java API'leri [Aspose deposu](https://releases.aspose.com/html/java/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose.html'yi kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.HTML for Java from Aspose deposu](https://docs.aspose.com/html/java/installation/) belge sayfasını ziyaret edin.
 
 ## Uzak bir konumdan html yükleyin
 

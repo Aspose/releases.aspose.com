@@ -137,7 +137,7 @@ packages_refs:
 
 ## Ξεκίνα
 
-Το ASPOSPES.html APIs Java φιλοξενείται στο [Θέτω σε αποθήκη](https://repository.aspose.com/html/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.html για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.HTML for Java from Θέτω σε αποθήκη](https://docs.aspose.com/html/java/installation/).
+Το ASPOSPES.html APIs Java φιλοξενείται στο [Θέτω σε αποθήκη](https://releases.aspose.com/html/java/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.html για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.HTML for Java from Θέτω σε αποθήκη](https://docs.aspose.com/html/java/installation/).
 
 ## φορτώστε το HTML από μια απομακρυσμένη τοποθεσία
 
