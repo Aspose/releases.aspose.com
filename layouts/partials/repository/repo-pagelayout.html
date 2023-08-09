@@ -119,7 +119,13 @@
                                        <div>
                                           <div class="install-script-row highlight">
                                              <pre class="install-script"
-                                                id="dotnet-cli-text"><code class="install-command-row">compile(group: '{{ .groupId }}', name: '{{ .artifactId }}', version: '{{ .version }}'{{ if .classifier }}, classifier: '{{ .classifier }}'{{ end }})</code></pre>
+                                                id="dotnet-cli-text">
+                                                {{ if (eq .artifactId "aspose-barcode") }}
+                                                  <code class="install-command-row">implementation group: '{{ .groupId }}', name: '{{ .artifactId }}', version: '{{ .version }}'{{ if .classifier }}, classifier: '{{ .classifier }}'{{ end }}</code>
+                                                {{ else }}
+                                                  <code class="install-command-row">compile(group: '{{ .groupId }}', name: '{{ .artifactId }}', version: '{{ .version }}'{{ if .classifier }}, classifier: '{{ .classifier }}'{{ end }})</code>
+                                                {{ end }}
+                                              </pre>
                                              <div class="copy-button"><em>copied!</em>
                                                 &#160;
                                              </div>
