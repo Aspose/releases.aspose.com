@@ -39,7 +39,7 @@ weight: 79
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/psdnet/Aspose.PSD+for+.NET+18.10+-+Release+Notes">https://docs.aspose.com/display/psdnet/Aspose.PSD+for+.NET+18.10+-+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.PSD für die Version .NET 18.10 (nur DLLs).</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/psd/net/release-notes/2018/aspose-psd-for-net-18-10-release-notes/">https://releases.aspose.com/psd/net/release-notes/2018/aspose-psd-for-net-18-10-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.PSD für die Version .NET 18.10 (nur DLLs).</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
