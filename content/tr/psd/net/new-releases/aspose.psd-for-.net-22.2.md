@@ -39,7 +39,7 @@ weight: 153
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div> <a href="https://docs.aspose.com/psd/net/aspose-psd-for-net-22-2-release-notes/">https://docs.aspose.com/psd/net/aspose-psd-for-net-22-2-release-notes/</a></div><h4> Tanım</h4><div class="HTMLDescription"> Aspose.PSD for .NET 22.2 sürümünü içerir.</div>
+<h4>Sürüm notları</h4><div> <a href="https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-2-release-notes/">https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-2-release-notes/</a></div><h4> Tanım</h4><div class="HTMLDescription"> Aspose.PSD for .NET 22.2 sürümünü içerir.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Önemli Özellikler">}}
@@ -104,7 +104,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.PSD for .NET 22.2 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-2-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.PSD for .NET 22.2 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-2-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

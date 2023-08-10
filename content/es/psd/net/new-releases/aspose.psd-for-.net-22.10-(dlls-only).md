@@ -16,7 +16,7 @@ parent_path: "psd/net"
 section_parent_path: "psd/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-10-release-notes/"
 weight: 168
 
 ---
@@ -40,7 +40,7 @@ weight: 168
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/psd/net/aspose-psd-for-net-22-10-release-notes/'>https://docs.aspose.com/psd/net/aspose-psd-for-net-22-10-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-10-release-notes/'>https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Contiene Aspose.psd para .NET 22.10 (solo DLLS) lanzamiento.</div>

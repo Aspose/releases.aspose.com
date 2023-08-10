@@ -39,7 +39,7 @@ weight: 155
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/psd/net/aspose-psd-for-net-22-3-release-notes/">https://docs.aspose.com/psd/net/aspose-psd-for-net-22-3-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.PSD für die Version .NET 22.3.</div>
+<h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-3-release-notes/">https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-3-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.PSD für die Version .NET 22.3.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Bemerkenswerte Eigenschaften">}}
@@ -67,7 +67,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 Eigenschaft `IsOpen` für Layer Group hinzugefügt. Sie können diese Eigenschaft festlegen, um den geöffneten oder geschlossenen (minimierten) Zustand der Photoshop®-Ebenengruppe beim Start zu definieren.
 
-Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.PSD for .NET 22.3 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-3-release-notes/).
+Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.PSD for .NET 22.3 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

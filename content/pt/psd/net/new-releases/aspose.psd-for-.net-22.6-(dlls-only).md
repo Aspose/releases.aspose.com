@@ -15,7 +15,7 @@ file_size: "File Size: 24.1 MB"
 parent_path: "psd/net"
 section_parent_path: "psd/net"
 
-release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-6-release-notes/"
 weight: 161
 
 ---
@@ -39,7 +39,7 @@ weight: 161
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/psd/net/aspose-psd-for-net-22-6-release-notes/'>https://docs.aspose.com/psd/net/aspose-psd-for-net-22-6-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-6-release-notes/'>https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Ele contém aspose.psd para .NET 22.6 (somente DLLS).</div>

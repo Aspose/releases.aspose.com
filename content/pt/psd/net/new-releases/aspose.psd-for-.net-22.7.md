@@ -14,7 +14,7 @@ file_size: "File Size: 25.39MB"
 parent_path: "psd/net"
 section_parent_path: "psd/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-7-release-notes/"
 weight: 163
 ---
 
@@ -37,7 +37,7 @@ weight: 163
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lançamento</h4><div> <a href='https://docs.aspose.com/psd/net/aspose-psd-for-net-22-7-release-notes/'>https://docs.aspose.com/psd/net/aspose-psd-for-net-22-7-release-notes/</a></div>
+<h4>Notas de lançamento</h4><div> <a href='https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-7-release-notes/'>https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -53,7 +53,7 @@ Adicionado o suporte do PSD Image Section Resource 4000-4999; ou seja, o(s) recu
 
 Anteriormente, quando um arquivo PSD com subpastas era exportado, notava-se que seu tamanho aumentava. Na versão atual da API, esse problema foi abordado e resolvido. Também em alguns casos, uma vez que o arquivo PSD foi exportado, seu resultado foi muito maior que o arquivo de origem. Este problema também foi corrigido.
 
-Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.PSD for .NET 22.7 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-7-release-notes/).
+Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.PSD for .NET 22.7 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

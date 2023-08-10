@@ -16,7 +16,7 @@ parent_path: "psd/net"
 section_parent_path: "psd/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/psd/net/release-notes/2023/aspose-psd-for-net-23-4-release-notes/"
 weight: 181
 
 ---
@@ -40,7 +40,7 @@ weight: 181
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/psd/net/aspose-psd-for-net-23-4-release-notes/'>https://docs.aspose.com/psd/net/aspose-psd-for-net-23-4-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/psd/net/release-notes/2023/aspose-psd-for-net-23-4-release-notes/'>https://releases.aspose.com/psd/net/release-notes/2023/aspose-psd-for-net-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Il contient Aspose.PSD pour la version .NET 23.4.</div>

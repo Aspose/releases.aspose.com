@@ -39,7 +39,7 @@ weight: 153
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href="https://docs.aspose.com/psd/net/aspose-psd-for-net-22-2-release-notes/">https://docs.aspose.com/psd/net/aspose-psd-for-net-22-2-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">.NET 22.2 リリース用の Aspose.PSD が含まれています。</div>
+<h4>リリースノート</h4><div><a href="https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-2-release-notes/">https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-2-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">.NET 22.2 リリース用の Aspose.PSD が含まれています。</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="注目すべき機能">}}
@@ -104,7 +104,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.PSD for .NET 22.2 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-2-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.PSD for .NET 22.2 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-2-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

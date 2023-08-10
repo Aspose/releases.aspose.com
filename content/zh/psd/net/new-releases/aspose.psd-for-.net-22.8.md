@@ -15,7 +15,7 @@ parent_path: "psd/net"
 section_parent_path: "psd/net"
 
 tags: ""
-release_notes_url: “https://docs.aspose.com/psd/net/aspose-psd-for-net-22-8-release-notes/”
+release_notes_url: “https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-8-release-notes/”
 weight: 165
 ---
 
@@ -38,7 +38,7 @@ weight: 165
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href='https://docs.aspose.com/psd/net/aspose-psd-for-net-22-8-release-notes/'>https://docs.aspose.com/psd/net/aspose-psd-for-net-22-8-release-notes/</a></div>
+<h4>发行说明</h4><div><a href='https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-8-release-notes/'>https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ weight: 165
 
 为 Adobe Photoshop® PSD 文件添加了 Frame TimeLine 的 API 支持。
 
-有关此版本中的功能、增强和错误修复的完整列表，请访问 [Aspose.PSD for .NET 22.8 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-8-release-notes/)。
+有关此版本中的功能、增强和错误修复的完整列表，请访问 [Aspose.PSD for .NET 22.8 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-8-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

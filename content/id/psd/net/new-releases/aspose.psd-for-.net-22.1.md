@@ -40,7 +40,7 @@ weight: 151
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Catatan Rilis</h4><div> <a href="https://docs.aspose.com/psd/net/aspose-psd-for-net-22-1-release-notes/">https://docs.aspose.com/psd/net/aspose-psd-for-net-22-1-release-notes/</a></div>
+<h4>Catatan Rilis</h4><div> <a href="https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-1-release-notes/">https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-1-release-notes/</a></div>
 
 <h4>Keterangan</h4><div class="HTMLDescription"> Ini berisi Aspose.PSD untuk .NET 22.1 rilis.</div>
 {{< /Releases/ReleasesFileFeatures >}}
@@ -91,7 +91,7 @@ string outputPng = "out_psdnet991_layers.png";
 
 Menambahkan dukungan banyak data pola di PattResource.
 
-Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.PSD for .NET 22.1 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-1-release-notes/).
+Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.PSD for .NET 22.1 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

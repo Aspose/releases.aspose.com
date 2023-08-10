@@ -15,7 +15,7 @@ parent_path: "psd/net"
 section_parent_path: "psd/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-8-release-notes/"
 weight: 165
 ---
 
@@ -38,7 +38,7 @@ weight: 165
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div> <a href='https://docs.aspose.com/psd/net/aspose-psd-for-net-22-8-release-notes/'>https://docs.aspose.com/psd/net/aspose-psd-for-net-22-8-release-notes/</a></div>
+<h4>Sürüm notları</h4><div> <a href='https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-8-release-notes/'>https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ Yükleyici içindeki sorunları araştırdı ve düzeltti.
 
 Adobe Photoshop® PSD Dosyası için Frame TimeLine API desteği eklendi.
 
-Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.PSD for .NET 22.8 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-8-release-notes/) adresini ziyaret edin.
+Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.PSD for .NET 22.8 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-8-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

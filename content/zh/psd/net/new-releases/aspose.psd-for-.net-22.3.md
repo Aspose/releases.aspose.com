@@ -39,7 +39,7 @@ weight: 155
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href="https://docs.aspose.com/psd/net/aspose-psd-for-net-22-3-release-notes/">https://docs.aspose.com/psd/net/aspose-psd-for-net-22-3-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含 .NET 22.3 版本的 Aspose.PSD。</div>
+<h4>发行说明</h4><div><a href="https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-3-release-notes/">https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-3-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含 .NET 22.3 版本的 Aspose.PSD。</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="显着特点">}}
@@ -67,7 +67,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 为图层组添加了属性“IsOpen”。您可以设置此属性以在启动时定义 Photoshop® 图层组的打开或关闭（最小化）状态。
 
-有关此版本中的功能、增强和错误修复的完整列表，请访问 [Aspose.PSD for .NET 22.3 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-3-release-notes/)。
+有关此版本中的功能、增强和错误修复的完整列表，请访问 [Aspose.PSD for .NET 22.3 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-3-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 
