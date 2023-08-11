@@ -1,9 +1,9 @@
 ---
-id: "aspose-html-for-net-23-8-release-notes"
-slug: "aspose-html-for-net-23-8-release-notes"
+id: "aspose-html-for-net-23-8-1-release-notes"
+slug: "aspose-html-for-net-23-8-1-release-notes"
 linktitle: "Aspose.HTML for .NET 23.8.1 Release Notes"
 title: "Aspose.HTML for .NET 23.8.1 Release Notes"
-weight: 50
+weight: 45
 description: "In this release, we have improved the HTMLrenderer performance."
 type: "repository"
 layout: "release"
