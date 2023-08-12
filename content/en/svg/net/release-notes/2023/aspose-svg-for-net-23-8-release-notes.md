@@ -1,20 +1,20 @@
 ---
-id: "aspose-svg-for-net-23-8-release-notes"
-slug: "aspose-svg-for-net-23-8-release-notes"
-linktitle: "Aspose.SVG for .NET 23.8 Release Notes"
-title: "Aspose.SVG for .NET 23.8 Release Notes"
+id: "aspose-svg-for-net-23-8-1-release-notes"
+slug: "aspose-svg-for-net-23-8-1-release-notes"
+linktitle: "Aspose.SVG for .NET 23.8.1 Release Notes"
+title: "Aspose.SVG for .NET 23.8.1 Release Notes"
 weight: 43
-description: "Aspose.SVG for .NET 23.8 Release Notes – the latest updates and fixes."
+description: "Aspose.SVG for .NET 23.8.1 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.SVG for .NET 23.8 Release Notes"
+family_listing_page_title: "Aspose.SVG for .NET 23.8.1 Release Notes"
 menuItemWithNoContent: false
 ---
 {{% alert color="primary" %}}
 
-This page contains release notes information for Aspose.SVG for .NET 23.8
+This page contains release notes information for Aspose.SVG for .NET 23.8.1
 
 {{% /alert %}}
 ## Major Features
