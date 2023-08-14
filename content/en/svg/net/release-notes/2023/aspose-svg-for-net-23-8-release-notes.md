@@ -11,6 +11,8 @@ hideChildren: false
 toc: false
 family_listing_page_title: "Aspose.SVG for .NET 23.8.1 Release Notes"
 menuItemWithNoContent: false
+aliases:
+  - /aspose-svg-for-net-23-8-release-notes/
 ---
 {{% alert color="primary" %}}
 
