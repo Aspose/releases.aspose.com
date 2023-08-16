@@ -1,3 +1,13 @@
 Sitemap: https://releases.aspose.com/sitemap.xml
 User-agent: *
-Disallow:
+Disallow: /de/tags/
+Disallow: /el/tags/
+Disallow: /en/tags/
+Disallow: /es/tags/
+Disallow: /fr/tags/
+Disallow: /id/tags/
+Disallow: /ja/tags/
+Disallow: /pt/tags/
+Disallow: /ru/tags/
+Disallow: /tr/tags/
+Disallow: /zh/tags/
