@@ -20,7 +20,7 @@ weight:  3
 {{< Common/h2 text="Download C++ Library to Process XPS, EPS, PS Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Page.Cpp/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.Page.Cpp</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/page/cpp/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="page" product="cpp" href="https://docs.aspose.com/page/cpp/release-notes/" text="https://docs.aspose.com/page/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="page" product="cpp" href="https://releases.aspose.com/page/cpp/release-notes/" text="https://releases.aspose.com/page/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

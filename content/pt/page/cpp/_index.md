@@ -22,7 +22,7 @@ weight:  3
 Abrir
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Page.Cpp/" text="NuGet"  >}}Package Manager dentro do Microsoft Visual Studio®, procure por <b>Aspose.Page.Cpp</b> e instale. Você também pode usar o seguinte comando no Console do Gerenciador de Pacotes. Para obter instruções detalhadas, visite o
 {{< Common/link href="https://docs.aspose.com/page/cpp/installation/" text="Instalação"  >}}página de documentação.
-{{< Common/release-notes-link family="page" product="cpp" href="https://docs.aspose.com/page/cpp/release-notes/" text="https://docs.aspose.com/page/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="page" product="cpp" href="https://releases.aspose.com/page/cpp/release-notes/" text="https://releases.aspose.com/page/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
