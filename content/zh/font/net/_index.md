@@ -22,7 +22,7 @@ weight:  1
 打开
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Font/" text="NuGet"  >}}Microsoft Visual Studio® 中的包管理器，搜索<b>Aspose.Font</b>并安装。您还可以在包管理器控制台中使用以下命令。有关详细说明，请访问
 {{< Common/link href="https://docs.aspose.com/font/net/installation/" text="安装"  >}}文档页面。
-{{< Common/release-notes-link family="font" product="java" href="https://docs.aspose.com/font/net/release-notes/" text="https://docs.aspose.com/font/net/release-notes/"  >}}
+{{< Common/release-notes-link family="font" product="java" href="https://releases.aspose.com/font/net/release-notes/" text="https://releases.aspose.com/font/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

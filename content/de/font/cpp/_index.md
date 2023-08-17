@@ -22,7 +22,7 @@ weight:  3
 Offen
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Font.Cpp/" text="NuGet"  >}}Package Manager in Microsoft Visual Studio®, suchen Sie nach <b>Aspose.Font.Cpp</b> und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
 {{< Common/link href="https://docs.aspose.com/font/cpp/installation/" text="Installation"  >}}Dokumentationsseite.
-{{< Common/release-notes-link family="font" product="cpp" href="https://docs.aspose.com/font/cpp/release-notes/" text="https://docs.aspose.com/font/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="font" product="cpp" href="https://releases.aspose.com/font/cpp/release-notes/" text="https://releases.aspose.com/font/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
