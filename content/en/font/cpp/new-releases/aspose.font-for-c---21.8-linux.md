@@ -39,7 +39,7 @@ weight: 57
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://downloads.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.8/">https://downloads.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.8/</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.8/">https://downloads.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.8/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
