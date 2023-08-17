@@ -2,6 +2,7 @@
 title: "Download Font Manipulation C++ Library DLL | Aspose.Font API"
 description: "Download C++ code library for font detection, extraction & manipulation via API. Supports TrueType, OpenType, CFF & Type1 fonts, Symbols, Glyphs, Licensing."
 keywords: "font"
+linktitle: "Aspose.Font for C++"
 family_listing_page_title: "Aspose.Font for C++"
 family_listing_page_description: "A native C++ Class Library that allows manipulation of font types including CFF, TTF, TrueType, OpenType & Type1 fonts."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-cpp.png"

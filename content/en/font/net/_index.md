@@ -2,6 +2,7 @@
 title: "Download Font Creation & Saving C# Library | Aspose.Font API"
 description: "Download .NET DLL to load font files & extract font information such as Glyphs and Metrics, detect symbols, extract license & render text using font glyphs."
 keywords: "font api"
+linktitle: "Aspose.Font for .NET"
 family_listing_page_title: "Aspose.Font for .NET"
 family_listing_page_description: "Aspose.Font is a .NET library to load & draw fonts. It supports multiple font formats such as TrueType, CFF, OpenType, and Type1. The Font API provides functionality to load fonts in order to gather information about its data structures along with supported glyphs."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-net.png"
