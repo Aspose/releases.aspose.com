@@ -14,7 +14,7 @@ file_size: "File Size: 34.4MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/page/net/aspose-page-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-9-release-notes/"
 weight: 110
 ---
 
@@ -37,7 +37,7 @@ weight: 110
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/page/net/aspose-page-for-net-22-9-release-notes/'>https://docs.aspose.com/page/net/aspose-page-for-net-22-9-release-notes/</a></div>
+<h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-9-release-notes/'>https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-9-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Page für die Version .NET 22.9.</div>
@@ -59,7 +59,7 @@ Möglichkeit, die „XMP“-Metadaten in Dokumenten im „EPS“-Format festzule
 
 Die API wurde um Unterstützung für das .NET 6.0-Framework erweitert.
 
-> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Page for .NET 22.9 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-9-release-notes/).
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Page for .NET 22.9 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

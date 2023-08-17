@@ -39,7 +39,7 @@ weight: 97
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Σημειώσεις έκδοσης</h4><div> <a href="https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/">https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/</a></div><h4> Περιγραφή</h4><div class="HTMLDescription"> Περιέχει Aspose.Page για έκδοση .NET 22.2.</div>
+<h4>Σημειώσεις έκδοσης</h4><div> <a href="https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/">https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/</a></div><h4> Περιγραφή</h4><div class="HTMLDescription"> Περιέχει Aspose.Page για έκδοση .NET 22.2.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Αξιοσημείωτα χαρακτηριστικά">}}
@@ -50,7 +50,7 @@ weight: 97
 
 Αυτή η έκδοση του API προσφέρει καλύτερο χειρισμό των γραμματοσειρών dingbat αντικαθιστώντας τη γραμματοσειρά Wingdings με τη δωρεάν γραμματοσειρά Zapfdingbats που υποστηρίζει διάφορες μορφές εγγράφων.
 
-> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Page for .NET 22.2 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/).
+> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Page for .NET 22.2 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

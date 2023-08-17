@@ -16,7 +16,7 @@ parent_path: "page/cpp"
 section_parent_path: "page/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/page/cpp/aspose-page-for-cpp-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-10-release-notes/"
 weight: 91
 
 ---
@@ -40,7 +40,7 @@ weight: 91
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div> <a href='https://docs.aspose.com/page/cpp/aspose-page-for-cpp-22-10-release-notes/'>https://docs.aspose.com/page/cpp/aspose-page-for-cpp-22-10-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div> <a href='https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-10-release-notes/'>https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription"> Aspose.Page για C++ 22.10 Linux εγγενής βιβλιοθήκη</div>

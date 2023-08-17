@@ -39,7 +39,7 @@ weight: 46
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/page/cpp/aspose-page-for-cpp-20-10-release-notes/">https://docs.aspose.com/page/cpp/aspose-page-for-cpp-20-10-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Die C++-Bibliothek für XPS- und Postscript-Dateien ermöglicht die Bearbeitung von XPS-Dokumenten sowie die Konvertierung von XPS-, PS- und EPS-Dateien aus einer C++-Anwendung.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/page/cpp/release-notes/2020/aspose-page-for-cpp-20-10-release-notes/">https://releases.aspose.com/page/cpp/release-notes/2020/aspose-page-for-cpp-20-10-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Die C++-Bibliothek für XPS- und Postscript-Dateien ermöglicht die Bearbeitung von XPS-Dokumenten sowie die Konvertierung von XPS-, PS- und EPS-Dateien aus einer C++-Anwendung.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

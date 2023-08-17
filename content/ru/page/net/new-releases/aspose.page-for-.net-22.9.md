@@ -14,7 +14,7 @@ file_size: "File Size: 34.4MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/page/net/aspose-page-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-9-release-notes/"
 weight: 110
 ---
 
@@ -37,7 +37,7 @@ weight: 110
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Примечания к выпуску</h4><div> <a href='https://docs.aspose.com/page/net/aspose-page-for-net-22-9-release-notes/'>https://docs.aspose.com/page/net/aspose-page-for-net-22-9-release-notes/</a></div>
+<h4>Примечания к выпуску</h4><div> <a href='https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-9-release-notes/'>https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-9-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Описание</h4><div class="HTMLDescription"> Он содержит Aspose.Page для выпуска .NET 22.9.</div>
@@ -59,7 +59,7 @@ weight: 110
 
 В API добавлена поддержка платформы .NET 6.0.
 
-> Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.Page for .NET 22.9 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-9-release-notes/).
+> Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.Page for .NET 22.9 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

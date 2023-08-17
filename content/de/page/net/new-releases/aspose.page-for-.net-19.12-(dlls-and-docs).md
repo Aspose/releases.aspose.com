@@ -39,7 +39,7 @@ weight: 53
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/pagenet/Aspose.Page+for+.NET+19.12+Release+Notes">https://docs.aspose.com/display/pagenet/Aspose.Page+for+.NET+19.12+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Wir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/page/net/release-notes/2019/aspose-page-for-net-19-12-release-notes/">https://releases.aspose.com/page/net/release-notes/2019/aspose-page-for-net-19-12-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Wir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

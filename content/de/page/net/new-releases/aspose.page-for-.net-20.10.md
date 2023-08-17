@@ -39,7 +39,7 @@ weight: 71
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/page/net/aspose-page-for-net-20-10-release-notes/">https://docs.aspose.com/page/net/aspose-page-for-net-20-10-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Page für die Version .NET 20.10.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-10-release-notes/">https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-10-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Page für die Version .NET 20.10.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -15,7 +15,7 @@ file_size: "File Size: 31.8 MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
 
-release_notes_url: "https://docs.aspose.com/page/net/aspose-page-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-6-release-notes/"
 weight: 104
 
 ---
@@ -39,7 +39,7 @@ weight: 104
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/page/net/aspose-page-for-net-22-6-release-notes/'>https://docs.aspose.com/page/net/aspose-page-for-net-22-6-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-6-release-notes/'>https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">.NET için Aspose.Page'in yeni bir sürümünü duyurmaktan mutluluk duyuyoruz.</div>

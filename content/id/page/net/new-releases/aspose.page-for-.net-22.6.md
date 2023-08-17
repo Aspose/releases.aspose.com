@@ -13,7 +13,7 @@ download_count: " 10/6/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 31.8 MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
-release_notes_url: "https://docs.aspose.com/page/net/aspose-page-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-6-release-notes/"
 weight: 102
 ---
 
@@ -36,7 +36,7 @@ weight: 102
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Catatan Rilis</h4><div> <a href='https://docs.aspose.com/page/net/aspose-page-for-net-22-6-release-notes/'>https://docs.aspose.com/page/net/aspose-page-for-net-22-6-release-notes/</a></div>
+<h4>Catatan Rilis</h4><div> <a href='https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-6-release-notes/'>https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -60,7 +60,7 @@ Kemampuan untuk menggabungkan file XPS ke Dokumen XPS.
 
 Fitur file PostScript (PS) ke konversi dokumen PDF Adobe Acrobat®.
 
-> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Page for .NET 22.6 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-6-release-notes/).
+> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Page for .NET 22.6 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

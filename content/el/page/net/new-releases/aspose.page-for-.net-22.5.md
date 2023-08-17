@@ -13,7 +13,7 @@ download_count: " 10/6/2022 Downloads: 3  Views: 7 "
 file_size: "File Size: 31.7 MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
-release_notes_url: "https://docs.aspose.com/page/net/aspose-page-for-net-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-5-release-notes/"
 weight: 100
 ---
 
@@ -36,7 +36,7 @@ weight: 100
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Σημειώσεις έκδοσης</h4><div> <a href='https://docs.aspose.com/page/net/aspose-page-for-net-22-5-release-notes/'>https://docs.aspose.com/page/net/aspose-page-for-net-22-5-release-notes/</a></div>
+<h4>Σημειώσεις έκδοσης</h4><div> <a href='https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-5-release-notes/'>https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -48,7 +48,7 @@ weight: 100
 
 Προστέθηκε η υποστήριξη για τον ορισμό των μεταδεδομένων XMP (Extensible Metadata Platform) της Adobe® στα έγγραφα EPS (Encapsulated PostScript), αυξάνοντας την αποτελεσματικότητα της εφαρμογής.
 
-> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Page for .NET 22.5 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-5-release-notes/).
+> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Page for .NET 22.5 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

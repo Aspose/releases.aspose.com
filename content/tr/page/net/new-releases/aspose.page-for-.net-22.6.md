@@ -13,7 +13,7 @@ download_count: " 10/6/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 31.8 MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
-release_notes_url: "https://docs.aspose.com/page/net/aspose-page-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-6-release-notes/"
 weight: 102
 ---
 
@@ -36,7 +36,7 @@ weight: 102
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div> <a href='https://docs.aspose.com/page/net/aspose-page-for-net-22-6-release-notes/'>https://docs.aspose.com/page/net/aspose-page-for-net-22-6-release-notes/</a></div>
+<h4>Sürüm notları</h4><div> <a href='https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-6-release-notes/'>https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -60,7 +60,7 @@ XPS dosyalarını XPS Belgesi ile birleştirme yeteneği.
 
 PostScript (PS) dosyalarının özellikleri Adobe Acrobat® PDF belge dönüştürme.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Page for .NET 22.6 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-6-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Page for .NET 22.6 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-6-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 
