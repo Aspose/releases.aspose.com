@@ -2,6 +2,7 @@
 title: "Download XPS Creation, Conversion C++ DLL | Aspose.Page API"
 description: "Download DLL containing C++ Class Library for processing XPS & PostScript documents via on-premise API. Add text, images, pages, gradient, grid. Convert XPS."
 keywords: "C++ XPS Library, C++ PostScript Library"
+linktitle: "Aspose.Page for C++"
 family_listing_page_title: "Aspose.Page for C++"
 family_listing_page_description: "Aspose.Page for C++ allows you to work with XPS and EPS/PS documents in your C++ application. It lets you create, edit and save existing as well as new XPS documents. Furthermore, it lets you convert XPS and EPS documents into PDF and images of different types. It can be used for developing applications to process and convert XPS and EPS documents to several other formats such as PDF, JPEG, BMP, TIFF, and more. The API exposes the internal file formats of XPS and EPS files in user-friendly high-level API calls which makes it easy for you to focus on application development."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png"

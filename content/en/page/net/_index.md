@@ -2,6 +2,7 @@
 title: "Download C# Library to Create, Edit XPS PS | Aspose.Page API"
 description: "Download PostScript & XPS Document Processing C# Class Library DLL. Support for shapes, Glyphs, brushes, color spaces. Convert XPS to PDF & image via .NET API."
 keywords: ".NET XPS API, EPS API, PS API"
+linktitle: "Aspose.Page for .NET"
 family_listing_page_title: "Aspose.Page for .NET"
 family_listing_page_description: "Aspose.Page is a .NET API is built to allow developers to work with XPS and EPS documents. Using the API you can create, edit and save existing as well as new XPS documents. Furthermore, you can convert XPS and EPS documents to PDF and Images. Aspose.Page for .NET is implemented using C# and it can be used with any .NET language like C#, VB.NET and J# etc. It can be integrated with any kind of application either it's an ASP.NET Web Application or a Windows Application."
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-net.png"
