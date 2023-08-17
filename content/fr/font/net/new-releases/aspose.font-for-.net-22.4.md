@@ -37,7 +37,7 @@ weight: 29
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href="https://docs.aspose.com/font/net/aspose-font-for-net-22-4-release-notes/">https://docs.aspose.com/font/net/aspose-font-for-net-22-4-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href="https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-4-release-notes/">https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-4-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -53,7 +53,7 @@ weight: 29
 
 Cette version offre la prise en charge de l'ajout d'enregistrements de noms à la table de polices TrueType 'name'. La table `name` contient les métadonnées de la police, telles que les noms de police, les noms de famille, etc. Vous pouvez vérifier les détails de la méthode [AddName](https://reference.aspose.com/font/net/aspose.font.ttftables/ttfnametable/addname/).
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Font for .NET 22.4 Release Notes](https://docs.aspose.com/font/net/aspose-font-for-net-22-4-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Font for .NET 22.4 Release Notes](https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

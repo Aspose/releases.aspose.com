@@ -14,7 +14,7 @@ file_size: "File Size: 4.19MB"
 parent_path: "font/net"
 section_parent_path: "font/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/font/net/aspose-font-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-7-release-notes/"
 weight: 31
 ---
 
@@ -37,7 +37,7 @@ weight: 31
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/font/net/aspose-font-for-net-22-7-release-notes/'>https://docs.aspose.com/font/net/aspose-font-for-net-22-7-release-notes/</a></div>
+<h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-7-release-notes/'>https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -79,7 +79,7 @@ FileStream outStream = File.Create(outPath);
 font.SaveToFormat(outStream, FontSavingFormats.TTF);
 ```
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Font for .NET 22.7 Sürüm notları](https://docs.aspose.com/font/net/aspose-font-for-net-22-7-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Font for .NET 22.7 Sürüm notları](https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

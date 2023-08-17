@@ -16,7 +16,7 @@ parent_path: "font/net"
 section_parent_path: "font/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/font/net/aspose-font-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-11-release-notes/"
 weight: 37
 
 ---
@@ -40,7 +40,7 @@ weight: 37
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/font/net/aspose-font-for-net-22-11-release-notes/'>https://docs.aspose.com/font/net/aspose-font-for-net-22-11-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-11-release-notes/'>https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Font for .NET 22.11 release</div>

@@ -16,7 +16,7 @@ parent_path: "font/net"
 section_parent_path: "font/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/font/net/aspose-font-for-net-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-6-release-notes/"
 weight: 48
 
 ---
@@ -40,7 +40,7 @@ weight: 48
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/font/net/aspose-font-for-net-23-6-release-notes/'>https://docs.aspose.com/font/net/aspose-font-for-net-23-6-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-6-release-notes/'>https://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">このzipファイルには、.netアセンブリ用のAsops.fontのみが含まれています。アセンブリは、同じバージョンの製品のMSIインストーラーと同じです。 MSIインストーラーなしでAsophes.fontを使用する場合は、これをダウンロードします。つまり、MONOでMSIインストーラーを実行できません。</div>

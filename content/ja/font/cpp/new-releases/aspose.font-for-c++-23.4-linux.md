@@ -16,7 +16,7 @@ parent_path: "font/cpp"
 section_parent_path: "font/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/font/cpp/aspose-font-for-cpp-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-4-release-notes/"
 weight: 99
 
 ---
@@ -40,7 +40,7 @@ weight: 99
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/font/cpp/aspose-font-for-cpp-23-4-release-notes/'>https://docs.aspose.com/font/cpp/aspose-font-for-cpp-23-4-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-4-release-notes/'>https://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">C ++ 23.4 Linuxネイティブライブラリ用のAsopsion.Font</div>

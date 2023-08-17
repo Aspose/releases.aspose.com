@@ -37,7 +37,7 @@ weight: 28
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/font/net/aspose-font-for-net-22-4-release-notes/">https://docs.aspose.com/font/net/aspose-font-for-net-22-4-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">该zip文件仅包含.net组件的aspose.font。组件与同一版本的产品的MSI安装程序相同。如果您想在没有MSI安装程序的情况下使用Aspose.font，则下载此下载，即您无法在Mono上运行MSI安装程序。</div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-4-release-notes/">https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-4-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">该zip文件仅包含.net组件的aspose.font。组件与同一版本的产品的MSI安装程序相同。如果您想在没有MSI安装程序的情况下使用Aspose.font，则下载此下载，即您无法在Mono上运行MSI安装程序。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

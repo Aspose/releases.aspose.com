@@ -37,7 +37,7 @@ weight: 29
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lanzamiento</h4><div><a href="https://docs.aspose.com/font/net/aspose-font-for-net-22-4-release-notes/">https://docs.aspose.com/font/net/aspose-font-for-net-22-4-release-notes/</a></div>
+<h4>Notas de lanzamiento</h4><div><a href="https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-4-release-notes/">https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-4-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -53,7 +53,7 @@ From this release the support for .NET 6.0 target framework has been added.
 
 This release offers the support for adding Name Records to the TrueType font table `name`. The `name` table holds the font metadata, such as, font names, family names, etc. You may check the details of the [AddName](https://reference.aspose.com/font/net/aspose.font.ttftables/ttfnametable/addname/) method.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Font for .NET 22.4 Notas de lanzamiento](https://docs.aspose.com/font/net/aspose-font-for-net-22-4-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Font for .NET 22.4 Notas de lanzamiento](https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

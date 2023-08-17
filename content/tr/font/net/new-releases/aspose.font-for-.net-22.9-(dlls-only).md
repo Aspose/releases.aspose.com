@@ -16,7 +16,7 @@ parent_path: "font/net"
 section_parent_path: "font/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/font/net/aspose-font-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-9-release-notes/"
 weight: 32
 
 ---
@@ -40,7 +40,7 @@ weight: 32
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/font/net/aspose-font-for-net-22-9-release-notes/'>https://docs.aspose.com/font/net/aspose-font-for-net-22-9-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-9-release-notes/'>https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Bu zip dosyası, .NET düzenekleri için yalnızca aspose.font içerir. Montajlar, aynı sürümün ürününün MSI yükleyicisiyle aynıdır. MSI yükleyicisi olmadan aspose.font kullanmak istiyorsanız bunu indirin, yani MSI yükleyicilerini mono üzerinde çalıştıramazsınız.</div>

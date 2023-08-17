@@ -16,7 +16,7 @@ parent_path: "font/cpp"
 section_parent_path: "font/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/font/cpp/aspose-font-for-cpp-22-12-release-notes/"
+release_notes_url: "https://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-12-release-notes/"
 weight: 89
 
 ---
@@ -40,7 +40,7 @@ weight: 89
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/font/cpp/aspose-font-for-cpp-22-12-release-notes/'>https://docs.aspose.com/font/cpp/aspose-font-for-cpp-22-12-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-12-release-notes/'>https://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Font for C++ 22.12 macOS native library</div>
