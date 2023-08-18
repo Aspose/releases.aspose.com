@@ -3,7 +3,7 @@ id: "aspose-page-for-net-23-8-release-notes"
 slug: "aspose-page-for-net-23-8-release-notes"
 linktitle: "Aspose.Page for .NET 23.8 Release Notes"
 title: "Aspose.Page for .NET 23.8 Release Notes"
-weight: 94
+weight: 93
 description: "C# .NET API Solution for developers to manipulate and process PS, EPS, and XPS files. Release Notes of Aspose.Page API solution for .NET | Release 2023.08"
 type: "repository"
 layout: "release"
