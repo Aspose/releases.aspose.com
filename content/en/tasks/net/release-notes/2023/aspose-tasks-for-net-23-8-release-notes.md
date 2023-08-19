@@ -32,7 +32,6 @@ This page contains release notes information for [Aspose.Tasks for .Net 23.8](ht
 | Aspose.Tasks.FontSettings | Specifies font settings used when rendering project's view. |
 
 |**The following public methods and properties were added:**|**Description**|
-
 | :- | :- |
 | Aspose.Tasks.FontSettings.#ctor |  |
 | Aspose.Tasks.FontSettings.DefaultFontName | Gets or sets the default (or fallback) font for rendering. |
