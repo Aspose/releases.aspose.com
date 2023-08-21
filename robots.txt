@@ -2,6 +2,7 @@ Sitemap: https://releases.aspose.com/sitemap.xml
 User-agent: *
 Disallow: /de/tags/
 Disallow: /el/tags/
+Disallow: /tags/
 Disallow: /en/tags/
 Disallow: /es/tags/
 Disallow: /fr/tags/
