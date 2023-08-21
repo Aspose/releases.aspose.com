@@ -212,7 +212,7 @@ Lihat [Tinjauan Produk](https://docs.aspose.com/slides/java/product-overview/) u
 
 ## Memulai
 
-Aspose. Slide Java API di -host di [Repositori Aspose](https://repository.aspose.com/slides/). Anda dapat dengan mudah menggunakan Aspose.slides untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.Slides for Java from Maven Repository](https://docs.aspose.com/slides/java/installation/).
+Aspose. Slide Java API di -host di [Repositori Aspose](https://releases.aspose.com/slides/java/). Anda dapat dengan mudah menggunakan Aspose.slides untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.Slides for Java from Maven Repository](https://docs.aspose.com/slides/java/installation/).
 
 ## Konversi presentasi ke PDF
 

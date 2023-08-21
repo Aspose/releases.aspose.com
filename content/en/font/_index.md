@@ -2,6 +2,7 @@
 title: "APIs to Manipulate Fonts | Aspose.Font Product Family"
 description: "Load, draw & save different font types including TrueType, CFF, OpenType, and Type1. "
 keywords: "Font API "
+linktitle: "Aspose.Font Product Family"
 family_listing_page_title: "Aspose.Font Product Family"
 family_listing_page_description: ""
 family_listing_page_iconurl: ""

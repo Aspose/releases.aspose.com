@@ -171,7 +171,7 @@ html
 
 ## 开始
 
-Aspose.3d Java API托管在[Aspose存储库](https://repository.aspose.com/3d/)。您可以在Maven项目中直接使用Aspose.3d用于Java API，并具有简单的配置。有关详细说明，请访问[Installing Aspose.3D for Java from Aspose存储库](https://docs.aspose.com/3d/java/installation/)文档页面。
+Aspose.3d Java API托管在[Aspose存储库](https://releases.aspose.com/3d/java/)。您可以在Maven项目中直接使用Aspose.3d用于Java API，并具有简单的配置。有关详细说明，请访问[Installing Aspose.3D for Java from Aspose存储库](https://docs.aspose.com/3d/java/installation/)文档页面。
 
 ## 使用Java API执行线性挤出
 

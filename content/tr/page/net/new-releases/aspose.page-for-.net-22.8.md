@@ -14,7 +14,7 @@ file_size: "File Size: 32.81MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/page/net/aspose-page-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-8-release-notes/"
 weight: 108
 ---
 
@@ -37,7 +37,7 @@ weight: 108
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div> <a href='https://docs.aspose.com/page/net/aspose-page-for-net-22-8-release-notes/'>https://docs.aspose.com/page/net/aspose-page-for-net-22-8-release-notes/</a></div>
+<h4>Sürüm notları</h4><div> <a href='https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-8-release-notes/'>https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Tanım</h4><div class="HTMLDescription"> Aspose.Page for .NET 22.8 sürümünü içerir.</div>
@@ -61,7 +61,7 @@ weight: 108
 
 Görüntüleri 'EPS' dosya formatına dönüştürme yeteneği.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Page for .NET 22.8 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-8-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Page for .NET 22.8 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-8-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

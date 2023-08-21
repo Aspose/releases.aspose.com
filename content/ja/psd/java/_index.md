@@ -61,7 +61,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/psd/34
 productLink: https://products.aspose.com/psd/java/
-releaseNotesLink: https://docs.aspose.com/psd/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/psd/java/release-notes/
 dataFolder: aspose_psd
 packages_refs:
 - "19-12"
@@ -113,7 +113,7 @@ packages_refs:
 
 ## 始めましょう
 
-Aspose.psd Java APIは[Aspose Repository](https://repository.aspose.com/psd/)でホストされています。簡単な構成を使用して、MavenプロジェクトでJava APIにAspose.psdを簡単に使用できます。詳細な手順については、[Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/)ドキュメントPSDにアクセスしてください。
+Aspose.psd Java APIは[Aspose Repository](https://releases.aspose.com/psd/java/)でホストされています。簡単な構成を使用して、MavenプロジェクトでJava APIにAspose.psdを簡単に使用できます。詳細な手順については、[Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/)ドキュメントPSDにアクセスしてください。
 
 ## ゼロからPSDを作成します
 

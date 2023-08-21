@@ -16,7 +16,7 @@ parent_path: "page/cpp"
 section_parent_path: "page/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/page/cpp/aspose-page-for-cpp-23-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-7-release-notes/"
 weight: 118
 
 ---
@@ -40,7 +40,7 @@ weight: 118
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/page/cpp/aspose-page-for-cpp-23-7-release-notes/'>https://docs.aspose.com/page/cpp/aspose-page-for-cpp-23-7-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-7-release-notes/'>https://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">ASSOSPE.PAGE FÜR C ++ 23.7 Linux</div>

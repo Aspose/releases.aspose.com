@@ -212,7 +212,7 @@ Checkout το [Επισκόπηση προϊόντος](https://docs.aspose.com/
 
 ## Ξεκίνα
 
-Το ASPOSPES.SLIDES JAVA API φιλοξενούνται στο [Θέτω σε αποθήκη](https://repository.aspose.com/slides/). Μπορείτε εύκολα να χρησιμοποιήσετε το ASPOSPE.SLIDES για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.Slides for Java from Maven Repository](https://docs.aspose.com/slides/java/installation/).
+Το ASPOSPES.SLIDES JAVA API φιλοξενούνται στο [Θέτω σε αποθήκη](https://releases.aspose.com/slides/java/). Μπορείτε εύκολα να χρησιμοποιήσετε το ASPOSPE.SLIDES για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.Slides for Java from Maven Repository](https://docs.aspose.com/slides/java/installation/).
 
 ## μετατρέψτε την παρουσίαση σε PDF
 

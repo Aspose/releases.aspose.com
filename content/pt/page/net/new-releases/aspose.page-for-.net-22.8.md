@@ -14,7 +14,7 @@ file_size: "File Size: 32.81MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/page/net/aspose-page-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-8-release-notes/"
 weight: 108
 ---
 
@@ -37,7 +37,7 @@ weight: 108
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lançamento</h4><div> <a href='https://docs.aspose.com/page/net/aspose-page-for-net-22-8-release-notes/'>https://docs.aspose.com/page/net/aspose-page-for-net-22-8-release-notes/</a></div>
+<h4>Notas de lançamento</h4><div> <a href='https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-8-release-notes/'>https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Descrição</h4><div class="HTMLDescription"> Ele contém Aspose.Page para a versão .NET 22.8.</div>
@@ -61,7 +61,7 @@ Recurso de impressão de tickets aprimorado para documentos no formato `XPS`.
 
 Capacidade de converter as imagens para o formato de arquivo `EPS`.
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Page for .NET 22.8 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-8-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Page for .NET 22.8 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

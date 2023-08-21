@@ -40,7 +40,7 @@ weight: 151
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>リリースノート</h4><div><a href="https://docs.aspose.com/psd/net/aspose-psd-for-net-22-1-release-notes/">https://docs.aspose.com/psd/net/aspose-psd-for-net-22-1-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href="https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-1-release-notes/">https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-1-release-notes/</a></div>
 
 <h4>説明</h4><div class="HTMLDescription">.NET 22.1 リリース用の Aspose.PSD が含まれています。</div>
 {{< /Releases/ReleasesFileFeatures >}}
@@ -91,7 +91,7 @@ string outputPng = "out_psdnet991_layers.png";
 
 PattResource で多くのパターン データのサポートが追加されました。
 
-このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.PSD for .NET 22.1 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-1-release-notes/) にアクセスしてください。
+このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.PSD for .NET 22.1 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-1-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

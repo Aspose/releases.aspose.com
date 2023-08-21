@@ -39,7 +39,7 @@ weight: 97
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lançamento</h4><div> <a href="https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/">https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/</a></div><h4> Descrição</h4><div class="HTMLDescription"> Ele contém Aspose.Page para a versão .NET 22.2.</div>
+<h4>Notas de lançamento</h4><div> <a href="https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/">https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/</a></div><h4> Descrição</h4><div class="HTMLDescription"> Ele contém Aspose.Page para a versão .NET 22.2.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Recursos notáveis">}}
@@ -50,7 +50,7 @@ weight: 97
 
 Esta versão da API oferece um melhor manuseio de tipos de letra dingbat, substituindo a fonte Wingdings pela fonte gratuita Zapfdingbats que suporta vários formatos de documentos.
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Page for .NET 22.2 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Page for .NET 22.2 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

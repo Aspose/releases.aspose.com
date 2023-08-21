@@ -14,7 +14,7 @@ file_size: "File Size: 25.39MB"
 parent_path: "psd/net"
 section_parent_path: "psd/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-7-release-notes/"
 weight: 163
 ---
 
@@ -37,7 +37,7 @@ weight: 163
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Σημειώσεις έκδοσης</h4><div> <a href='https://docs.aspose.com/psd/net/aspose-psd-for-net-22-7-release-notes/'>https://docs.aspose.com/psd/net/aspose-psd-for-net-22-7-release-notes/</a></div>
+<h4>Σημειώσεις έκδοσης</h4><div> <a href='https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-7-release-notes/'>https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -53,7 +53,7 @@ weight: 163
 
 Προηγουμένως, κατά την εξαγωγή ενός αρχείου PSD με υποφακέλους, παρατηρήθηκε ότι το μέγεθός του έχει αυξηθεί. Στην τρέχουσα έκδοση του API, αυτό το ζήτημα έχει αντιμετωπιστεί και επιλυθεί. Επίσης, σε ορισμένες περιπτώσεις, μετά την εξαγωγή του αρχείου PSD, το αποτέλεσμα ήταν πολύ μεγαλύτερο από το αρχείο προέλευσης. Αυτό το ζήτημα έχει επίσης διορθωθεί.
 
-Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.PSD for .NET 22.7 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-7-release-notes/).
+Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.PSD for .NET 22.7 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

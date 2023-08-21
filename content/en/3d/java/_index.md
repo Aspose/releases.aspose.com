@@ -184,7 +184,7 @@ HTML
 
 ## Get Started
 
-Aspose.3D Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/3d/). You can easily use Aspose.3D for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.3D for Java from Aspose Repository](https://docs.aspose.com/3d/java/installation/) documentation page.
+Aspose.3D Java APIs are hosted at the [Aspose Repository](https://releases.aspose.com/3d/java/). You can easily use Aspose.3D for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.3D for Java from Aspose Repository](https://docs.aspose.com/3d/java/installation/) documentation page.
 
 ## Perform Linear Extrusion using Java API
 

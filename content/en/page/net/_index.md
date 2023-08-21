@@ -2,6 +2,7 @@
 title: "Download C# Library to Create, Edit XPS PS | Aspose.Page API"
 description: "Download PostScript & XPS Document Processing C# Class Library DLL. Support for shapes, Glyphs, brushes, color spaces. Convert XPS to PDF & image via .NET API."
 keywords: ".NET XPS API, EPS API, PS API"
+linktitle: "Aspose.Page for .NET"
 family_listing_page_title: "Aspose.Page for .NET"
 family_listing_page_description: "Aspose.Page is a .NET API is built to allow developers to work with XPS and EPS documents. Using the API you can create, edit and save existing as well as new XPS documents. Furthermore, you can convert XPS and EPS documents to PDF and Images. Aspose.Page for .NET is implemented using C# and it can be used with any .NET language like C#, VB.NET and J# etc. It can be integrated with any kind of application either it's an ASP.NET Web Application or a Windows Application."
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-net.png"
@@ -20,7 +21,7 @@ weight:  1
 {{< Common/h2 text="Download Aspose.Page for XPS File Manipulation"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Page/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.Page</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/page/net/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="page" product="net" href="https://docs.aspose.com/page/net/release-notes/" text="https://docs.aspose.com/page/net/release-notes/"  >}}
+{{< Common/release-notes-link family="page" product="net" href="https://releases.aspose.com/page/net/release-notes/" text="https://releases.aspose.com/page/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

@@ -126,6 +126,7 @@ productLink: https://products.aspose.com/words/java/
 releaseNotesLink: https://docs.aspose.com/words/java/release-notes/
 dataFolder: aspose_words
 packages_refs:
+- "23-8"
 - "23-7"
 - "23-6"
 - "23-5"
@@ -296,7 +297,7 @@ For a more comprehensive list of features, please visit [Feature Overview](https
 
 ## Get Started
 
-Aspose.Words Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/words/). You can easily use Aspose.Words for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Words for Java from Maven Repository](https://docs.aspose.com/words/java/installation/) documentation page.
+Aspose.Words Java APIs are hosted at the [Aspose Repository](https://releases.aspose.com/words/java/). You can easily use Aspose.Words for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Words for Java from Maven Repository](https://docs.aspose.com/words/java/installation/) documentation page.
 
 
 ## API Example Code

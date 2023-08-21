@@ -225,7 +225,7 @@ Checkout the [product overview](https://docs.aspose.com/slides/java/product-over
 
 ## Get Started
 
-Aspose.Slides Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/slides/). You can easily use Aspose.Slides for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Slides for Java from Maven Repository](https://docs.aspose.com/slides/java/installation/) documentation page.
+Aspose.Slides Java APIs are hosted at the [Aspose Repository](https://releases.aspose.com/slides/java/). You can easily use Aspose.Slides for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Slides for Java from Maven Repository](https://docs.aspose.com/slides/java/installation/) documentation page.
 
 ## Convert Presentation to PDF
 

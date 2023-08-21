@@ -267,7 +267,7 @@ packages_refs:
 
 ## Başlamak
 
-Aspose.Barkode Java API'leri [Aspose deposu](https://repository.aspose.com/barcode/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose.barcode'u kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.BarCode for Java from Maven Repository](https://docs.aspose.com/barcode/java/installation/) belge sayfasını ziyaret edin.
+Aspose.Barkode Java API'leri [Aspose deposu](https://releases.aspose.com/barcode/java/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose.barcode'u kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.BarCode for Java from Maven Repository](https://docs.aspose.com/barcode/java/installation/) belge sayfasını ziyaret edin.
 
 ## Java üzerinden bir resimden bir barkod tarama
 

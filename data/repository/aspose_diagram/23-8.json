@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-diagram",
+  "id" : "23-8",
+  "packageFiles" : [ {
+    "size" : "1022 KB",
+    "name" : "aspose-diagram-23.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "3 MB",
+    "name" : "aspose-diagram-23.8.jar"
+  }, {
+    "size" : "797 bytes",
+    "name" : "aspose-diagram-23.8.pom"
+  } ],
+  "releasehDate" : "2023-08-15T08:05:27+00:00",
+  "version" : "23.8",
+  "ReleaseNotes" : "https://docs.aspose.com/diagram/java/aspose-diagram-for-java-23-8-release-notes/"
+}

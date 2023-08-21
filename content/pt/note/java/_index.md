@@ -132,7 +132,7 @@ OneToc2
 
 ## Iniciar
 
-Aspis.Note Java APIs estão hospedadas no [Aspose repositório](https://repository.aspose.com/note/). Você pode facilmente usar o Aspose.Note para a API Java diretamente em seus projetos maven com configurações simples. Para as instruções detalhadas, visite [Installing Aspose.Note for Java from Maven Repository](https://docs.aspose.com/note/java/installation/) Página de documentação.
+Aspis.Note Java APIs estão hospedadas no [Aspose repositório](https://releases.aspose.com/note/java/). Você pode facilmente usar o Aspose.Note para a API Java diretamente em seus projetos maven com configurações simples. Para as instruções detalhadas, visite [Installing Aspose.Note for Java from Maven Repository](https://docs.aspose.com/note/java/installation/) Página de documentação.
 
 ## Converta o documento ONENOTE em PDF com as opções padrão usando Java
 

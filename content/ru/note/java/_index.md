@@ -132,7 +132,7 @@ OneToc2
 
 ## Начать
 
-Aspose.note Java API размещены на [Применить репозиторий](https://repository.aspose.com/note/). Вы можете легко использовать Aspose.note для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.Note for Java from Maven Repository](https://docs.aspose.com/note/java/installation/).
+Aspose.note Java API размещены на [Применить репозиторий](https://releases.aspose.com/note/java/). Вы можете легко использовать Aspose.note для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.Note for Java from Maven Repository](https://docs.aspose.com/note/java/installation/).
 
 ## преобразовать документ OneNote в PDF с параметрами по умолчанию с помощью Java
 

@@ -16,7 +16,7 @@ parent_path: "page/net"
 section_parent_path: "page/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/page/net/aspose-page-for-net-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-2-release-notes/"
 weight: 119
 
 ---
@@ -40,7 +40,7 @@ weight: 119
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/page/net/aspose-page-for-net-23-2-release-notes/'>https://docs.aspose.com/page/net/aspose-page-for-net-23-2-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-2-release-notes/'>https://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">We are pleased to announce a new version of Aspose.Page for .Net.</div>

@@ -39,7 +39,7 @@ weight: 97
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Примечания к выпуску</h4><div> <a href="https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/">https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/</a></div><h4> Описание</h4><div class="HTMLDescription"> Он содержит Aspose.Page для выпуска .NET 22.2.</div>
+<h4>Примечания к выпуску</h4><div> <a href="https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/">https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/</a></div><h4> Описание</h4><div class="HTMLDescription"> Он содержит Aspose.Page для выпуска .NET 22.2.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Примечательные особенности">}}
@@ -50,7 +50,7 @@ weight: 97
 
 Этот выпуск API предлагает улучшенную обработку шрифтов dingbat за счет замены шрифта Wingdings бесплатным шрифтом Zapfdingbats, поддерживающим различные форматы документов.
 
-> Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.Page for .NET 22.2 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/).
+> Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.Page for .NET 22.2 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

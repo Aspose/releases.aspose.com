@@ -3,7 +3,7 @@ id: "aspose-psd-for-java-21-5-release-notes"
 slug: "aspose-psd-for-java-21-5-release-notes"
 linktitle: "Aspose.PSD for Java 21.5 - Release Notes"
 title: "Aspose.PSD for Java 21.5 - Release Notes"
-weight: 40
+weight: 100
 description: "Aspose.PSD for Java 21.5 - Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"

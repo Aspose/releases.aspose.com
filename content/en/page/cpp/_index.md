@@ -2,6 +2,7 @@
 title: "Download XPS Creation, Conversion C++ DLL | Aspose.Page API"
 description: "Download DLL containing C++ Class Library for processing XPS & PostScript documents via on-premise API. Add text, images, pages, gradient, grid. Convert XPS."
 keywords: "C++ XPS Library, C++ PostScript Library"
+linktitle: "Aspose.Page for C++"
 family_listing_page_title: "Aspose.Page for C++"
 family_listing_page_description: "Aspose.Page for C++ allows you to work with XPS and EPS/PS documents in your C++ application. It lets you create, edit and save existing as well as new XPS documents. Furthermore, it lets you convert XPS and EPS documents into PDF and images of different types. It can be used for developing applications to process and convert XPS and EPS documents to several other formats such as PDF, JPEG, BMP, TIFF, and more. The API exposes the internal file formats of XPS and EPS files in user-friendly high-level API calls which makes it easy for you to focus on application development."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-cpp.png"
@@ -20,7 +21,7 @@ weight:  3
 {{< Common/h2 text="Download C++ Library to Process XPS, EPS, PS Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Page.Cpp/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.Page.Cpp</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/page/cpp/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="page" product="cpp" href="https://docs.aspose.com/page/cpp/release-notes/" text="https://docs.aspose.com/page/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="page" product="cpp" href="https://releases.aspose.com/page/cpp/release-notes/" text="https://releases.aspose.com/page/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

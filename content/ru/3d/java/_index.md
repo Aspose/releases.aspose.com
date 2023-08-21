@@ -171,7 +171,7 @@ HTML
 
 ## Начать
 
-Aspose.3d Java API размещены на [Применить репозиторий](https://repository.aspose.com/3d/). Вы можете легко использовать Aspose.3d для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.3D for Java from Применить репозиторий](https://docs.aspose.com/3d/java/installation/).
+Aspose.3d Java API размещены на [Применить репозиторий](https://releases.aspose.com/3d/java/). Вы можете легко использовать Aspose.3d для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.3D for Java from Применить репозиторий](https://docs.aspose.com/3d/java/installation/).
 
 ## Выполните линейную экструзию с помощью Java API
 

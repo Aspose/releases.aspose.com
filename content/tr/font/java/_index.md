@@ -64,7 +64,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/font/41
 productLink: https://products.aspose.com/font/java/
-releaseNotesLink: https://docs.aspose.com/font/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/font/java/release-notes/
 dataFolder: aspose_font
 packages_refs:
 - "22-11"
@@ -116,7 +116,7 @@ TTC, Opentype, CFF, Tip1
 
 ## Başlamak
 
-Aspose.font Java API'leri [Aspose deposu](https://repository.aspose.com/font/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose.font kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/) Dokümantasyon sayfasını ziyaret edin.
+Aspose.font Java API'leri [Aspose deposu](https://releases.aspose.com/font/java/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için aspose.font kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/) Dokümantasyon sayfasını ziyaret edin.
 
 ## Java kullanarak yazı tipindeki Latin sembolleri desteği tespit edin
 

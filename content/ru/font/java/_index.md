@@ -64,7 +64,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/font/41
 productLink: https://products.aspose.com/font/java/
-releaseNotesLink: https://docs.aspose.com/font/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/font/java/release-notes/
 dataFolder: aspose_font
 packages_refs:
 - "22-11"
@@ -116,7 +116,7 @@ TTC, OpenType, CFF, Type1
 
 ## Начать
 
-Aspose.Font Java API размещены на [Применить репозиторий](https://repository.aspose.com/font/). Вы можете легко использовать Aspose.font для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/).
+Aspose.Font Java API размещены на [Применить репозиторий](https://releases.aspose.com/font/java/). Вы можете легко использовать Aspose.font для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/).
 
 ## Обнаружение поддержки латинских символов в шрифте с помощью Java
 

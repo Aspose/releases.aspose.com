@@ -267,7 +267,7 @@ Recursos da API de código de barras
 
 ## Iniciar
 
-Asppos.Barcode Java APIs estão hospedadas no [Aspose repositório](https://repository.aspose.com/barcode/). Você pode usar facilmente o Aspose.Barcode para API Java diretamente em seus projetos Maven com configurações simples. Para as instruções detalhadas, visite [Installing Aspose.BarCode for Java from Maven Repository](https://docs.aspose.com/barcode/java/installation/) Página de documentação.
+Asppos.Barcode Java APIs estão hospedadas no [Aspose repositório](https://releases.aspose.com/barcode/java/). Você pode usar facilmente o Aspose.Barcode para API Java diretamente em seus projetos Maven com configurações simples. Para as instruções detalhadas, visite [Installing Aspose.BarCode for Java from Maven Repository](https://docs.aspose.com/barcode/java/installation/) Página de documentação.
 
 ## digitalizando um código de barras de uma foto via java
 

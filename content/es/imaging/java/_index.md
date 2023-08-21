@@ -210,7 +210,7 @@ Aspose.Imaging funciona para versiones X86 y X64 de los sistemas operativos enum
 
 ## Empezar
 
-Aspose.imaging Java Las API están alojadas en el [Repositorio de asposio](https://repository.aspose.com/imaging/). Puede usar fácilmente aspose.imagen para la API Java directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/).
+Aspose.imaging Java Las API están alojadas en el [Repositorio de asposio](https://releases.aspose.com/imaging/java/). Puede usar fácilmente aspose.imagen para la API Java directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/).
 
 ## Imagen EMF de cultivo por rectángulo
 

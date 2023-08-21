@@ -13,7 +13,7 @@ download_count: " 10/6/2022 Downloads: 3  Views: 7 "
 file_size: "File Size: 31.7 MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
-release_notes_url: "https://docs.aspose.com/page/net/aspose-page-for-net-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-5-release-notes/"
 weight: 100
 ---
 
@@ -36,7 +36,7 @@ weight: 100
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Catatan Rilis</h4><div> <a href='https://docs.aspose.com/page/net/aspose-page-for-net-22-5-release-notes/'>https://docs.aspose.com/page/net/aspose-page-for-net-22-5-release-notes/</a></div>
+<h4>Catatan Rilis</h4><div> <a href='https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-5-release-notes/'>https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -48,7 +48,7 @@ weight: 100
 
 Menambahkan dukungan untuk mengatur metadata XMP (Extensible Metadata Platform) Adobe® dalam dokumen EPS (Encapsulated PostScript), meningkatkan efisiensi Aplikasi.
 
-> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Page for .NET 22.5 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-5-release-notes/).
+> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Page for .NET 22.5 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

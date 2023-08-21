@@ -192,7 +192,7 @@ Aspose.diagram для Java также может использоваться д
 
 ## Начать
 
-Aspose.diagram Java API размещены на [Применить репозиторий](https://repository.aspose.com/diagram/). Вы можете легко использовать Aspose.diagram для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.Diagram for Java from Применить репозиторий](https://docs.aspose.com/diagram/java/installation/).
+Aspose.diagram Java API размещены на [Применить репозиторий](https://releases.aspose.com/diagram/java/). Вы можете легко использовать Aspose.diagram для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.Diagram for Java from Применить репозиторий](https://docs.aspose.com/diagram/java/installation/).
 
 ## Auto-Fit Visio Diagram с использованием Java
 

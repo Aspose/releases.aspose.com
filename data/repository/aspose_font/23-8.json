@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-font",
+  "id" : "23-8",
+  "packageFiles" : [ {
+    "size" : "670 KB",
+    "name" : "aspose-font-23.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "11 MB",
+    "name" : "aspose-font-23.8.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-font-23.8.pom"
+  } ],
+  "releasehDate" : "2023-08-14T11:17:57+00:00",
+  "version" : "23.8",
+  "ReleaseNotes" : "https://releases.aspose.com/font/java/release-notes/2023/aspose-font-for-java-23-8-release-notes/"
+}

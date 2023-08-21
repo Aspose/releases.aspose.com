@@ -37,7 +37,7 @@ weight: 28
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href="https://docs.aspose.com/font/net/aspose-font-for-net-22-4-release-notes/">https://docs.aspose.com/font/net/aspose-font-for-net-22-4-release-notes/</a></div><h4>Keterangan</h4><div class="HTMLDescription">File zip ini hanya berisi aspose.font untuk rakitan .net. Rakitannya sama seperti di penginstal MSI dari produk dari versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.font tanpa penginstal MSI, mis. Anda tidak dapat menjalankan penginstal MSI di mono.</div>
+      <h4>Catatan rilis</h4><div><a href="https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-4-release-notes/">https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-4-release-notes/</a></div><h4>Keterangan</h4><div class="HTMLDescription">File zip ini hanya berisi aspose.font untuk rakitan .net. Rakitannya sama seperti di penginstal MSI dari produk dari versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.font tanpa penginstal MSI, mis. Anda tidak dapat menjalankan penginstal MSI di mono.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

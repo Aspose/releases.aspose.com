@@ -138,7 +138,7 @@ Java APIのAsopse.htmlは、HTMLノードの削除と交換、HTMLドキュメ�
 
 ## 始めましょう
 
-Aspose.html Java APIは[Aspose Repository](https://repository.aspose.com/html/)でホストされています。簡単な構成を使用して、MavenプロジェクトでJava APIにAsopse.htmlを簡単に使用できます。詳細な手順については、[Installing Aspose.HTML for Java from Aspose Repository](https://docs.aspose.com/html/java/installation/)ドキュメントページをご覧ください。
+Aspose.html Java APIは[Aspose Repository](https://releases.aspose.com/html/java/)でホストされています。簡単な構成を使用して、MavenプロジェクトでJava APIにAsopse.htmlを簡単に使用できます。詳細な手順については、[Installing Aspose.HTML for Java from Aspose Repository](https://docs.aspose.com/html/java/installation/)ドキュメントページをご覧ください。
 
 ## 遠隔地からHTMLをロードします
 

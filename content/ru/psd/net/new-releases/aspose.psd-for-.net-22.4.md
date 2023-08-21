@@ -39,7 +39,7 @@ weight: 157
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Примечания к выпуску</h4><div> <a href="https://docs.aspose.com/psd/net/aspose-psd-for-net-22-4-release-notes/">https://docs.aspose.com/psd/net/aspose-psd-for-net-22-4-release-notes/</a></div><h4> Описание</h4><div class="HTMLDescription"> Он содержит Aspose.PSD для выпуска .NET 22.4.</div>
+<h4>Примечания к выпуску</h4><div> <a href="https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-4-release-notes/">https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-4-release-notes/</a></div><h4> Описание</h4><div class="HTMLDescription"> Он содержит Aspose.PSD для выпуска .NET 22.4.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Примечательные особенности">}}
@@ -73,7 +73,7 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.PSD for .NET 22.4 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-4-release-notes/).
+Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.PSD for .NET 22.4 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -15,7 +15,7 @@ file_size: "File Size: 178.2 MB"
 parent_path: "page/cpp"
 section_parent_path: "page/cpp"
 
-release_notes_url: "https://docs.aspose.com/page/cpp/aspose-page-for-cpp-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-5-release-notes/"
 weight: 80
 
 ---
@@ -39,7 +39,7 @@ weight: 80
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/page/cpp/aspose-page-for-cpp-22-5-release-notes/'>https://docs.aspose.com/page/cpp/aspose-page-for-cpp-22-5-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-5-release-notes/'>https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Page für die Version C++ 22.5.</div>

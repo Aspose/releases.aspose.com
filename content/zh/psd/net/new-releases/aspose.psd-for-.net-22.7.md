@@ -14,7 +14,7 @@ file_size: "File Size: 25.39MB"
 parent_path: "psd/net"
 section_parent_path: "psd/net"
 tags: ""
-release_notes_url: “https://docs.aspose.com/psd/net/aspose-psd-for-net-22-7-release-notes/”
+release_notes_url: “https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-7-release-notes/”
 weight: 163
 ---
 
@@ -37,7 +37,7 @@ weight: 163
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href='https://docs.aspose.com/psd/net/aspose-psd-for-net-22-7-release-notes/'>https://docs.aspose.com/psd/net/aspose-psd-for-net-22-7-release-notes/</a></div>
+<h4>发行说明</h4><div><a href='https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-7-release-notes/'>https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -53,7 +53,7 @@ weight: 163
 
 以前，当导出带有子文件夹的 PSD 文件时，会发现其大小增加了。在 API 的当前版本中，此问题已得到解决和解决。同样在某些情况下，一旦 PSD 文件被导出，它的结果就会比源文件大得多。此问题也已修复。
 
-有关此版本中的功能、增强和错误修复的完整列表，请访问 [Aspose.PSD for .NET 22.7 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-7-release-notes/)。
+有关此版本中的功能、增强和错误修复的完整列表，请访问 [Aspose.PSD for .NET 22.7 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-7-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

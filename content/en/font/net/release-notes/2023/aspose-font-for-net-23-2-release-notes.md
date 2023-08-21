@@ -5,7 +5,7 @@ linktitle: "Aspose.Font for .NET 23.2 Release Notes"
 title: "Aspose.Font for .NET 23.2 Release Notes"
 description: This page contains new Aspose.Font for .NET features, enhancement, and bug fixes in 2022, version 23.2.
 productName: "Aspose.Font for .NET"
-weight: 100
+weight: 99
 type: "repository"
 layout: "release"
 hideChildren: false
@@ -13,11 +13,11 @@ toc: true
 family_listing_page_title: "Aspose.Font for .NET 23.2 Release Notes"
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information for Aspose.Font for .NET 23.2.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 Support for kerning pairs in `SVG` converter has been added.
 

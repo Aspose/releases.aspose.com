@@ -171,7 +171,7 @@ Html
 
 ## Commencer
 
-Les API Java ASPOSE.3D sont hébergées au [Référentiel](https://repository.aspose.com/3d/). Vous pouvez facilement utiliser ASPOSE.3D pour l'API Java directement dans vos projets Maven avec des configurations simples. Pour les instructions détaillées, veuillez visiter la page de documentation [Installing Aspose.3D for Java from Référentiel](https://docs.aspose.com/3d/java/installation/).
+Les API Java ASPOSE.3D sont hébergées au [Référentiel](https://releases.aspose.com/3d/java/). Vous pouvez facilement utiliser ASPOSE.3D pour l'API Java directement dans vos projets Maven avec des configurations simples. Pour les instructions détaillées, veuillez visiter la page de documentation [Installing Aspose.3D for Java from Référentiel](https://docs.aspose.com/3d/java/installation/).
 
 ## Effectuer une extrusion linéaire à l'aide de l'API Java
 

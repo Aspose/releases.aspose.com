@@ -37,7 +37,7 @@ weight: 158
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/psd/net/aspose-psd-for-net-22-5-release-notes/">https://docs.aspose.com/psd/net/aspose-psd-for-net-22-5-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.PSD for .NET 22.5 (Dlls only) release.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-5-release-notes/">https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-5-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.PSD for .NET 22.5 (Dlls only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

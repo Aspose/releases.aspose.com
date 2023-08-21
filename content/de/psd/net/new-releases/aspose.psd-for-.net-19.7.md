@@ -39,7 +39,7 @@ weight: 93
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/psdnet/Aspose.PSD+for+.NET+19.7+-+Release+Notes">https://docs.aspose.com/display/psdnet/Aspose.PSD+for+.NET+19.7+-+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.PSD für die Version .NET 19.7.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/psd/net/release-notes/2019/aspose-psd-for-net-19-7-release-notes/">https://releases.aspose.com/psd/net/release-notes/2019/aspose-psd-for-net-19-7-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.PSD für die Version .NET 19.7.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

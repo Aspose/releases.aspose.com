@@ -61,7 +61,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/psd/34
 productLink: https://products.aspose.com/psd/java/
-releaseNotesLink: https://docs.aspose.com/psd/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/psd/java/release-notes/
 dataFolder: aspose_psd
 packages_refs:
 - "19-12"
@@ -112,7 +112,7 @@ packages_refs:
 
 ## Başlamak
 
-Aspose.psd Java API'leri [Aspose deposu](https://repository.aspose.com/psd/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API'sı için aspose.psd'yi kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/) belgesi PSD'yi ziyaret edin.
+Aspose.psd Java API'leri [Aspose deposu](https://releases.aspose.com/psd/java/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API'sı için aspose.psd'yi kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/) belgesi PSD'yi ziyaret edin.
 
 ## Sıfırdan bir PSD oluşturun
 

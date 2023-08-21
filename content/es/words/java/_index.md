@@ -278,7 +278,7 @@ Para obtener una lista más completa de características, visite [Descripción g
 
 ## Empezar
 
-Aspose.words Las API Java están alojadas en el [Repositorio de asposio](https://repository.aspose.com/words/). Puede usar fácilmente Aspose.Words para Java API directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.Words for Java from Maven Repository](https://docs.aspose.com/words/java/installation/).
+Aspose.words Las API Java están alojadas en el [Repositorio de asposio](https://releases.aspose.com/words/java/). Puede usar fácilmente Aspose.Words para Java API directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.Words for Java from Maven Repository](https://docs.aspose.com/words/java/installation/).
 
 ## Código de ejemplo de API
 

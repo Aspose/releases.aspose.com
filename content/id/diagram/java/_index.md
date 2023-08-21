@@ -192,7 +192,7 @@ Fitur pemrosesan file visio ##
 
 ## Memulai
 
-Aspose.Diagram Java API di -host di [Repositori Aspose](https://repository.aspose.com/diagram/). Anda dapat dengan mudah menggunakan Aspose.Diagram untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.Diagram for Java from Repositori Aspose](https://docs.aspose.com/diagram/java/installation/).
+Aspose.Diagram Java API di -host di [Repositori Aspose](https://releases.aspose.com/diagram/java/). Anda dapat dengan mudah menggunakan Aspose.Diagram untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.Diagram for Java from Repositori Aspose](https://docs.aspose.com/diagram/java/installation/).
 
 ## Diagram Visio Auto-Fit Menggunakan Java
 

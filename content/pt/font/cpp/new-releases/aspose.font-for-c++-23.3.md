@@ -16,7 +16,7 @@ parent_path: "font/cpp"
 section_parent_path: "font/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/font/cpp/aspose-font-for-cpp-23-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-3-release-notes/"
 weight: 95
 
 ---
@@ -40,7 +40,7 @@ weight: 95
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/font/cpp/aspose-font-for-cpp-23-3-release-notes/'>https://docs.aspose.com/font/cpp/aspose-font-for-cpp-23-3-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-3-release-notes/'>https://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Aspose.Font para C ++ 23.3 Biblioteca nativa</div>

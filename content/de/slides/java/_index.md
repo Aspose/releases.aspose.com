@@ -212,7 +212,7 @@ Checkout the [Produktübersicht](https://docs.aspose.com/slides/java/product-ove
 
 ## Loslegen
 
-ASSOSH.Slides Java APIs werden am [ASSOSE Repository](https://repository.aspose.com/slides/) gehostet. Sie können ASSOSE.Slides für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.Slides for Java from Maven Repository](https://docs.aspose.com/slides/java/installation/) Dokumentationsseite.
+ASSOSH.Slides Java APIs werden am [ASSOSE Repository](https://releases.aspose.com/slides/java/) gehostet. Sie können ASSOSE.Slides für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.Slides for Java from Maven Repository](https://docs.aspose.com/slides/java/installation/) Dokumentationsseite.
 
 ## Die Präsentation in PDF konvertieren
 

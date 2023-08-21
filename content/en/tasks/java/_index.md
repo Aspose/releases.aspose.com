@@ -169,7 +169,7 @@ TIF, SVG, PNG, JPEG
 
 ## Get Started
 
-Aspose.Tasks Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/tasks/). You can easily use Aspose.Tasks for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Tasks for Java from Maven Repository](https://docs.aspose.com/tasks/java/installation/) documentation page.
+Aspose.Tasks Java APIs are hosted at the [Aspose Repository](https://releases.aspose.com/tasks/java/). You can easily use Aspose.Tasks for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Tasks for Java from Maven Repository](https://docs.aspose.com/tasks/java/installation/) documentation page.
 
 ## Read Project Data from Microsoft Project Database
 

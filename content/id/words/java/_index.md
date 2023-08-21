@@ -278,7 +278,7 @@ Untuk daftar fitur yang lebih komprehensif, silakan kunjungi [Tinjauan Fitur](ht
 
 ## Memulai
 
-Aspose.Words Java API di -host di [Repositori Aspose](https://repository.aspose.com/words/). Anda dapat dengan mudah menggunakan Aspose.words untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.Words for Java from Maven Repository](https://docs.aspose.com/words/java/installation/).
+Aspose.Words Java API di -host di [Repositori Aspose](https://releases.aspose.com/words/java/). Anda dapat dengan mudah menggunakan Aspose.words untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.Words for Java from Maven Repository](https://docs.aspose.com/words/java/installation/).
 
 Kode contoh ## API
 

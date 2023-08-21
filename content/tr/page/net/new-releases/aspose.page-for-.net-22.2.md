@@ -39,7 +39,7 @@ weight: 97
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div> <a href="https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/">https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/</a></div><h4> Tanım</h4><div class="HTMLDescription"> Aspose.Page for .NET 22.2 sürümünü içerir.</div>
+<h4>Sürüm notları</h4><div> <a href="https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/">https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/</a></div><h4> Tanım</h4><div class="HTMLDescription"> Aspose.Page for .NET 22.2 sürümünü içerir.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Önemli Özellikler">}}
@@ -50,7 +50,7 @@ weight: 97
 
 API'nin bu sürümü, Wingdings yazı tipini çeşitli belge biçimlerini destekleyen ücretsiz Zapfdingbats yazı tipiyle değiştirerek dingbat yazı tiplerinin daha iyi işlenmesini sağlar.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Page for .NET 22.2 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Page for .NET 22.2 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

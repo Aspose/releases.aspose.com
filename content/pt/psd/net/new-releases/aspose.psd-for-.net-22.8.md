@@ -15,7 +15,7 @@ parent_path: "psd/net"
 section_parent_path: "psd/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-8-release-notes/"
 weight: 165
 ---
 
@@ -38,7 +38,7 @@ weight: 165
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lançamento</h4><div> <a href='https://docs.aspose.com/psd/net/aspose-psd-for-net-22-8-release-notes/'>https://docs.aspose.com/psd/net/aspose-psd-for-net-22-8-release-notes/</a></div>
+<h4>Notas de lançamento</h4><div> <a href='https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-8-release-notes/'>https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ Investigou e corrigiu os problemas dentro do instalador.
 
 Adicionado o suporte de API do Frame TimeLine para o arquivo PSD do Adobe Photoshop®.
 
-Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.PSD for .NET 22.8 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-8-release-notes/).
+Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.PSD for .NET 22.8 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -39,7 +39,7 @@ weight: 26
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/font/net/aspose-font-for-net-21-12-release-notes/">https://docs.aspose.com/font/net/aspose-font-for-net-21-12-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">Bu zip dosyası, .NET düzenekleri için yalnızca aspose.font içerir. Montajlar, aynı sürümün ürününün MSI yükleyicisiyle aynıdır. MSI yükleyicisi olmadan aspose.font kullanmak istiyorsanız bunu indirin, yani MSI yükleyicilerini mono üzerinde çalıştıramazsınız.</div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/font/net/release-notes/2021/aspose-font-for-net-21-12-release-notes/">https://releases.aspose.com/font/net/release-notes/2021/aspose-font-for-net-21-12-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">Bu zip dosyası, .NET düzenekleri için yalnızca aspose.font içerir. Montajlar, aynı sürümün ürününün MSI yükleyicisiyle aynıdır. MSI yükleyicisi olmadan aspose.font kullanmak istiyorsanız bunu indirin, yani MSI yükleyicilerini mono üzerinde çalıştıramazsınız.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

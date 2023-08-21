@@ -61,7 +61,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/psd/34
 productLink: https://products.aspose.com/psd/java/
-releaseNotesLink: https://docs.aspose.com/psd/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/psd/java/release-notes/
 dataFolder: aspose_psd
 packages_refs:
 - "19-12"
@@ -112,7 +112,7 @@ packages_refs:
 
 ## Loslegen
 
-ASSON.PSD JAVA APIs werden am [ASSOSE Repository](https://repository.aspose.com/psd/) gehostet. Sie können ASPOSPE.PSD für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/) Dokumentation PSD.
+ASSON.PSD JAVA APIs werden am [ASSOSE Repository](https://releases.aspose.com/psd/java/) gehostet. Sie können ASPOSPE.PSD für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/) Dokumentation PSD.
 
 ## Erstellen Sie eine PSD von Grund auf neu
 

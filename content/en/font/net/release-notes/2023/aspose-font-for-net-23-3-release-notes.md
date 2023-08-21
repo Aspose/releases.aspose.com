@@ -5,7 +5,7 @@ linktitle: "Aspose.Font for .NET 23.3 Release Notes"
 title: "Aspose.Font for .NET 23.3 Release Notes"
 description: C# APIs to manipulate and font files. This page contains new Aspose.Font for .NET features, enhancement, and bug fixes in 2023, version 23.3.
 productName: "Aspose.Font for .NET"
-weight: 100
+weight: 98
 type: "repository"
 layout: "release"
 hideChildren: false
@@ -13,11 +13,11 @@ toc: true
 family_listing_page_title: "Aspose.Font for .NET 23.3 Release Notes"
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information for Aspose.Font for .NET 23.3.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 Support for converting **TrueType** fonts using a specific character set has been added.
 

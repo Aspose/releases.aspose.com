@@ -39,7 +39,7 @@ weight: 157
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href="https://docs.aspose.com/psd/net/aspose-psd-for-net-22-4-release-notes/">https://docs.aspose.com/psd/net/aspose-psd-for-net-22-4-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含 .NET 22.4 版本的 Aspose.PSD。</div>
+<h4>发行说明</h4><div><a href="https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-4-release-notes/">https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-4-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含 .NET 22.4 版本的 Aspose.PSD。</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="显着特点">}}
@@ -73,7 +73,7 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-有关此版本中的功能、增强和错误修复的完整列表，请访问 [Aspose.PSD for .NET 22.4 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-4-release-notes/)。
+有关此版本中的功能、增强和错误修复的完整列表，请访问 [Aspose.PSD for .NET 22.4 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-4-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -64,7 +64,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/font/41
 productLink: https://products.aspose.com/font/java/
-releaseNotesLink: https://docs.aspose.com/font/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/font/java/release-notes/
 dataFolder: aspose_font
 packages_refs:
 - "22-11"
@@ -116,7 +116,7 @@ TTC, Opentype, CFF, Type1
 
 ## Ξεκίνα
 
-Το ASPOSPER.FONT JAVA API φιλοξενούνται στο [Θέτω σε αποθήκη](https://repository.aspose.com/font/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.font για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/).
+Το ASPOSPER.FONT JAVA API φιλοξενούνται στο [Θέτω σε αποθήκη](https://releases.aspose.com/font/java/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.font για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/).
 
 ## Ανίχνευση στήριξης των λατινικών συμβόλων στη γραμματοσειρά χρησιμοποιώντας Java
 

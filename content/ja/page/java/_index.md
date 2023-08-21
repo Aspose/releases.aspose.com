@@ -82,7 +82,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/page/39
 productLink: https://products.aspose.com/page/java/
-releaseNotesLink: https://docs.aspose.com/page/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/page/java/release-notes/
 dataFolder: aspose_page
 packages_refs:
 - "22-11"
@@ -159,7 +159,7 @@ packages_refs:
 
 ## 始めましょう
 
-Aspose.Page Java APIは[Aspose Repository](https://repository.aspose.com/page/)でホストされています。簡単な構成を使用して、MavenプロジェクトでJava APIのAsops.pageを簡単に使用できます。詳細な手順については、[Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/)ドキュメントページをご覧ください。
+Aspose.Page Java APIは[Aspose Repository](https://releases.aspose.com/page/java/)でホストされています。簡単な構成を使用して、MavenプロジェクトでJava APIのAsops.pageを簡単に使用できます。詳細な手順については、[Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/)ドキュメントページをご覧ください。
 
 ## 既存のXPSドキュメントにページを追加します
 

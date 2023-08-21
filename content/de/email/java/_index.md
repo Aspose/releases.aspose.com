@@ -193,7 +193,7 @@ packages_refs:
 
 ## Loslegen
 
-ASSOSE.EMAIL JAVA APIs werden im [ASSOSE Repository](https://repository.aspose.com/email/) gehostet. Sie können ASSOSE.Ep.Email für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.Email for Java from Maven Repository](https://docs.aspose.com/email/java/installation/) Dokumentationsseite.
+ASSOSE.EMAIL JAVA APIs werden im [ASSOSE Repository](https://releases.aspose.com/email/java/) gehostet. Sie können ASSOSE.Ep.Email für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.Email for Java from Maven Repository](https://docs.aspose.com/email/java/installation/) Dokumentationsseite.
 
 ## Durchführen von IMAP -Nachrichtensicherungsoperationen mit Java
 

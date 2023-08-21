@@ -14,7 +14,7 @@ file_size: "File Size: 4.2MB"
 parent_path: "font/net"
 section_parent_path: "font/net"
 tags: ""
-release_notes_url : "https://docs.aspose.com/font/net/aspose-font-for-net-22-9-release-notes/"
+release_notes_url : "https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-9-release-notes/"
 weight: 33
 ---
 
@@ -38,7 +38,7 @@ weight: 33
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Notes de version</h4><div> <a href='https://docs.aspose.com/font/net/aspose-font-for-net-22-9-release-notes/'>https://docs.aspose.com/font/net/aspose-font-for-net-22-9-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href='https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-9-release-notes/'>https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-9-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ Introduction de la prise en charge de la conversion des polices du format OTF (O
 
 Auparavant, le nombre de glyphes pris en charge était de 6551, qui a maintenant été amélioré à plus de 1 (un) million dans la conversion de police TrueType.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Font for .NET 22.9 Release Notes](https://docs.aspose.com/font/net/aspose-font-for-net-22-9-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Font for .NET 22.9 Release Notes](https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

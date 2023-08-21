@@ -14,7 +14,7 @@ file_size: "File Size: 34.4MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
 tags: ""
-release_notes_url: “https://docs.aspose.com/page/net/aspose-page-for-net-22-9-release-notes/”
+release_notes_url: “https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-9-release-notes/”
 weight: 110
 ---
 
@@ -37,7 +37,7 @@ weight: 110
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href='https://docs.aspose.com/page/net/aspose-page-for-net-22-9-release-notes/'>https://docs.aspose.com/page/net/aspose-page-for-net-22-9-release-notes/</a></div>
+<h4>发行说明</h4><div><a href='https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-9-release-notes/'>https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-9-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>描述</h4><div class="HTMLDescription">它包含 .NET 22.9 版本的 Aspose.Page。</div>
@@ -59,7 +59,7 @@ weight: 110
 
 API 中添加了对 .NET 6.0 框架的支持。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Page for .NET 22.9 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-9-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Page for .NET 22.9 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-9-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

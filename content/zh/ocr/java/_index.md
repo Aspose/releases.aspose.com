@@ -152,7 +152,7 @@ packages_refs:
 
 ## 开始
 
-Aspose.ocr Java API托管在[Aspose存储库](https://repository.aspose.com/ocr/)。您可以直接在使用简单配置的Maven项目中轻松地将ASPOSE.OCR用于Java API。有关详细说明，请访问[Installing Aspose.OCR for Java from Maven Repository](https://docs.aspose.com/ocr/java/installation/)文档页面。
+Aspose.ocr Java API托管在[Aspose存储库](https://releases.aspose.com/ocr/java/)。您可以直接在使用简单配置的Maven项目中轻松地将ASPOSE.OCR用于Java API。有关详细说明，请访问[Installing Aspose.OCR for Java from Maven Repository](https://docs.aspose.com/ocr/java/installation/)文档页面。
 
 ## 从图像上的特定区域提取文本
 

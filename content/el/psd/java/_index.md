@@ -61,7 +61,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/psd/34
 productLink: https://products.aspose.com/psd/java/
-releaseNotesLink: https://docs.aspose.com/psd/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/psd/java/release-notes/
 dataFolder: aspose_psd
 packages_refs:
 - "19-12"
@@ -112,7 +112,7 @@ packages_refs:
 
 ## Ξεκίνα
 
-Το ASPOSPES.PSD APIs Java φιλοξενείται στο [Θέτω σε αποθήκη](https://repository.aspose.com/psd/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.psd για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε την τεκμηρίωση PSD [Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/).
+Το ASPOSPES.PSD APIs Java φιλοξενείται στο [Θέτω σε αποθήκη](https://releases.aspose.com/psd/java/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.psd για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε την τεκμηρίωση PSD [Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/).
 
 ## Δημιουργήστε ένα PSD από το μηδέν
 

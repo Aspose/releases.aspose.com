@@ -40,7 +40,7 @@ weight: 151
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Notas de lançamento</h4><div> <a href="https://docs.aspose.com/psd/net/aspose-psd-for-net-22-1-release-notes/">https://docs.aspose.com/psd/net/aspose-psd-for-net-22-1-release-notes/</a></div>
+<h4>Notas de lançamento</h4><div> <a href="https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-1-release-notes/">https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-1-release-notes/</a></div>
 
 <h4>Descrição</h4><div class="HTMLDescription"> Ele contém Aspose.PSD para a versão .NET 22.1.</div>
 {{< /Releases/ReleasesFileFeatures >}}
@@ -91,7 +91,7 @@ string outputPng = "out_psdnet991_layers.png";
 
 Adicionado o suporte de muitos dados de padrões em PattResource.
 
-Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.PSD for .NET 22.1 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-1-release-notes/).
+Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.PSD for .NET 22.1 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

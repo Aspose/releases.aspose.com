@@ -137,7 +137,7 @@ Java API的Aspose.html可以用作无头浏览器，可让您从各种源到[创
 
 ## 开始
 
-Aspose.html Java API托管在[Aspose存储库](https://repository.aspose.com/html/)。您可以在Maven项目中直接使用Aspose.html将其用于Java API，并具有简单的配置。有关详细说明，请访问[Installing Aspose.HTML for Java from Aspose存储库](https://docs.aspose.com/html/java/installation/)文档页面。
+Aspose.html Java API托管在[Aspose存储库](https://releases.aspose.com/html/java/)。您可以在Maven项目中直接使用Aspose.html将其用于Java API，并具有简单的配置。有关详细说明，请访问[Installing Aspose.HTML for Java from Aspose存储库](https://docs.aspose.com/html/java/installation/)文档页面。
 
 ## 从远程位置加载html
 

@@ -171,7 +171,7 @@ Html
 
 ## Loslegen
 
-ASSON.3D Java APIs werden im [ASSOSE Repository](https://repository.aspose.com/3d/) gehostet. Sie können ASPOSPE.3D für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.3D for Java from ASSOSE Repository](https://docs.aspose.com/3d/java/installation/) Dokumentationsseite.
+ASSON.3D Java APIs werden im [ASSOSE Repository](https://releases.aspose.com/3d/java/) gehostet. Sie können ASPOSPE.3D für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.3D for Java from ASSOSE Repository](https://docs.aspose.com/3d/java/installation/) Dokumentationsseite.
 
 ## Lineare Extrusion mit Java API durchführen
 

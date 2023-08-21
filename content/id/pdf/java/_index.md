@@ -298,7 +298,7 @@ CGM, MHT, PCL, PS, XSLFO, MD
 
 ## Memulai
 
-Aspose.pdf Java API di -host di [Repositori Aspose](https://repository.aspose.com/pdf/). Anda dapat dengan mudah menggunakan Aspose.pdf untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.PDF for Java from Repositori Aspose](https://docs.aspose.com/pdf/java/installation/).
+Aspose.pdf Java API di -host di [Repositori Aspose](https://releases.aspose.com/pdf/java/). Anda dapat dengan mudah menggunakan Aspose.pdf untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi halaman dokumentasi [Installing Aspose.PDF for Java from Repositori Aspose](https://docs.aspose.com/pdf/java/installation/).
 
 ## Ekstrak teks dari file pdf menggunakan java
 

@@ -36,7 +36,7 @@ weight: 99
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Catatan Rilis</h4><div> <a href="https://docs.aspose.com/page/net/aspose-page-for-net-22-4-release-notes/">https://docs.aspose.com/page/net/aspose-page-for-net-22-4-release-notes/</a></div><h4> Keterangan</h4><div class="HTMLDescription"> Ini berisi Aspose.Page untuk .NET 22.4 rilis.</div>
+<h4>Catatan Rilis</h4><div> <a href="https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-4-release-notes/">https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-4-release-notes/</a></div><h4> Keterangan</h4><div class="HTMLDescription"> Ini berisi Aspose.Page untuk .NET 22.4 rilis.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Fitur Penting">}}
@@ -47,7 +47,7 @@ weight: 99
 
 Menambahkan dukungan untuk menyisipkan metadata XMP (Extensible Metadata Platform) Adobe® dalam dokumen EPS (Encapsulated PostScript), meningkatkan nilai bisnis file..
 
-> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Page for .NET 22.4 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-4-release-notes/).
+> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Page for .NET 22.4 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -1,6 +1,6 @@
 ---
 title: Aspose.Font | Java Font Processing API | TT, CFF, OT, Type1
-linktitle: Aspose.Font
+linktitle: "Aspose.Font for Java"
 description: Java class library for font (TTF, TTC, OpenType, CFF, Type1, etc.) rendering, processing, and conversion. Supports compact font, Latin font, symbols, & glyphs.
 layout: packages
 type: repository
@@ -64,9 +64,10 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/font/41
 productLink: https://products.aspose.com/font/java/
-releaseNotesLink: https://docs.aspose.com/font/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/font/java/release-notes/
 dataFolder: aspose_font
 packages_refs:
+- "23-8"
 - "23-7"
 - "23-6"
 - "23-4"
@@ -125,7 +126,7 @@ TTC, OpenType, CFF, Type1
 
 ## Get Started
 
-Aspose.Font Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/font/). You can easily use Aspose.Font for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/) documentation page.
+Aspose.Font Java APIs are hosted at the [Aspose Repository](https://releases.aspose.com/font/java/). You can easily use Aspose.Font for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/) documentation page.
 
 ## Detect Latin Symbols Support in the Font using Java
 

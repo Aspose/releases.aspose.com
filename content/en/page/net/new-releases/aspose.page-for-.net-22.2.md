@@ -39,7 +39,7 @@ weight: 97
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Release Notes</h4><div><a href="https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/">https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.Page for .NET 22.2 release.</div>
+<h4>Release Notes</h4><div><a href="https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/">https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.Page for .NET 22.2 release.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Notable Features">}}
@@ -50,7 +50,7 @@ weight: 97
 
 This release of the API offers a better handling of dingbat typefaces by replacing the Wingdings font with the free Zapfdingbats font supporting various document formats.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Page for .NET 22.2 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Page for .NET 22.2 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -64,7 +64,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/font/41
 productLink: https://products.aspose.com/font/java/
-releaseNotesLink: https://docs.aspose.com/font/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/font/java/release-notes/
 dataFolder: aspose_font
 packages_refs:
 - "22-11"
@@ -116,7 +116,7 @@ TTC, Openentyp, CFF, Typ1
 
 ## Loslegen
 
-ASSONE.FONT JAVA APIs werden am [ASSOSE Repository](https://repository.aspose.com/font/) gehostet. Sie können ASPOSPE.FONT für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/) -Dokumentationsseite.
+ASSONE.FONT JAVA APIs werden am [ASSOSE Repository](https://releases.aspose.com/font/java/) gehostet. Sie können ASPOSPE.FONT für Java -API einfach in Ihren Maven -Projekten mit einfachen Konfigurationen verwenden. Für die detaillierten Anweisungen besuchen Sie bitte [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/) -Dokumentationsseite.
 
 ## Lateinische Symbole unterstützen in der Schriftart mit Java
 

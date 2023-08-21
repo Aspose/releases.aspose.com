@@ -13,7 +13,7 @@ download_count: " 10/6/2022 Downloads: 3  Views: 7 "
 file_size: "File Size: 31.7 MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
-release_notes_url: "https://docs.aspose.com/page/net/aspose-page-for-net-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-5-release-notes/"
 weight: 100
 ---
 
@@ -36,7 +36,7 @@ weight: 100
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href='https://docs.aspose.com/page/net/aspose-page-for-net-22-5-release-notes/'>https://docs.aspose.com/page/net/aspose-page-for-net-22-5-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href='https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-5-release-notes/'>https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -48,7 +48,7 @@ weight: 100
 
 Adobe® の XMP (Extensible Metadata Platform) メタデータを EPS (Encapsulated PostScript) ドキュメント内に設定するサポートが追加され、アプリの効率が向上しました。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Page for .NET 22.5 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-5-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Page for .NET 22.5 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-5-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

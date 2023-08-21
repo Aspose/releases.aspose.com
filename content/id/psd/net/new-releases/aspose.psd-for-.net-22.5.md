@@ -36,7 +36,7 @@ weight: 159
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Catatan Rilis</h4><div> <a href="https://docs.aspose.com/psd/net/aspose-psd-for-net-22-5-release-notes/">https://docs.aspose.com/psd/net/aspose-psd-for-net-22-5-release-notes/</a></div><h4> Keterangan</h4><div class="HTMLDescription"> Ini berisi Aspose.PSD untuk .NET 22.5 rilis.</div>
+<h4>Catatan Rilis</h4><div> <a href="https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-5-release-notes/">https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-5-release-notes/</a></div><h4> Keterangan</h4><div class="HTMLDescription"> Ini berisi Aspose.PSD untuk .NET 22.5 rilis.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Fitur Penting">}}
@@ -74,7 +74,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 Properti `EffectType` baru telah ditambahkan ke Antarmuka `ILayerEffect`.
 
-Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.PSD for .NET 22.5 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-5-release-notes/).
+Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.PSD for .NET 22.5 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

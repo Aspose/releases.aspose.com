@@ -16,7 +16,7 @@ parent_path: "font/net"
 section_parent_path: "font/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/font/net/aspose-font-for-net-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-2-release-notes/"
 weight: 43
 
 ---
@@ -40,7 +40,7 @@ weight: 43
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/font/net/aspose-font-for-net-23-2-release-notes/'>https://docs.aspose.com/font/net/aspose-font-for-net-23-2-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-2-release-notes/'>https://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含aspose.font for .net 23.2释放</div>

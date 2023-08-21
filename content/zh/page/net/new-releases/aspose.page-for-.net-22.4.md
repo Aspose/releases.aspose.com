@@ -36,7 +36,7 @@ weight: 99
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href="https://docs.aspose.com/page/net/aspose-page-for-net-22-4-release-notes/">https://docs.aspose.com/page/net/aspose-page-for-net-22-4-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含 .NET 22.4 版本的 Aspose.Page。</div>
+<h4>发行说明</h4><div><a href="https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-4-release-notes/">https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-4-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含 .NET 22.4 版本的 Aspose.Page。</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="显着特点">}}
@@ -47,7 +47,7 @@ weight: 99
 
 添加了在 EPS（Encapsulated PostScript）文档中插入 Adobe® 的 XMP（可扩展元数据平台）元数据的支持，增加了文件的商业价值。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Page for .NET 22.4 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-4-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Page for .NET 22.4 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-4-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

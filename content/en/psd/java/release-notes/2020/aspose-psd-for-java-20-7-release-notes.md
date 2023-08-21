@@ -3,7 +3,7 @@ id: "aspose-psd-for-java-20-7-release-notes"
 slug: "aspose-psd-for-java-20-7-release-notes"
 linktitle: "Aspose.PSD for Java 20.7 - Release Notes"
 title: "Aspose.PSD for Java 20.7 - Release Notes"
-weight: 50
+weight: 95
 description: "Aspose.PSD for Java 20.7 - Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
@@ -13,7 +13,7 @@ family_listing_page_title: "Aspose.PSD for Java 20.7 - Release Notes"
 menuItemWithNoContent: false
 ---
 
-{{% alert color="primary" %}} This page contains release notes for [Aspose.PSD for Java 20.7](https://releases.aspose.com/psd/java/20-7/) {{% /alert %}} 
+{{% alert color="primary" %}} This page contains release notes for [Aspose.PSD for Java 20.7](https://releases.aspose.com/psd/java/20-7/) {{% /alert %}}
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |

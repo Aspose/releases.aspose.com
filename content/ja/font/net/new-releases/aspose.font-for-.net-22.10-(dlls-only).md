@@ -16,7 +16,7 @@ parent_path: "font/net"
 section_parent_path: "font/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/font/net/aspose-font-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-10-release-notes/"
 weight: 34
 
 ---
@@ -40,7 +40,7 @@ weight: 34
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/font/net/aspose-font-for-net-22-10-release-notes/'>https://docs.aspose.com/font/net/aspose-font-for-net-22-10-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-10-release-notes/'>https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">この ZIP ファイルには、Aspose.Font for .NET アセンブリのみが含まれています。アセンブリは、同じバージョンの製品の MSI インストーラーと同じです。 MSI インストーラーなしで Aspose.Font を使用する場合、つまり Mono で MSI インストーラーを実行できない場合は、これをダウンロードしてください。</div>

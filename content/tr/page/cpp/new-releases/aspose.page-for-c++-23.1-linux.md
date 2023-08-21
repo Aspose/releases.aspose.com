@@ -16,7 +16,7 @@ parent_path: "page/cpp"
 section_parent_path: "page/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/page/cpp/aspose-page-for-cpp-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-1-release-notes/"
 weight: 100
 
 ---
@@ -40,7 +40,7 @@ weight: 100
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/page/cpp/aspose-page-for-cpp-23-1-release-notes/'>https://docs.aspose.com/page/cpp/aspose-page-for-cpp-23-1-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-1-release-notes/'>https://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">ASPOSE.PAGE C ++ 23.1 Linux Ana Kütüphanesi</div>

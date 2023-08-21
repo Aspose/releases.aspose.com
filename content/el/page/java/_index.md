@@ -82,7 +82,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/page/39
 productLink: https://products.aspose.com/page/java/
-releaseNotesLink: https://docs.aspose.com/page/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/page/java/release-notes/
 dataFolder: aspose_page
 packages_refs:
 - "22-11"
@@ -159,7 +159,7 @@ packages_refs:
 
 ## Ξεκίνα
 
-Το ASPOSPE.Page Java API φιλοξενούνται στο [Θέτω σε αποθήκη](https://repository.aspose.com/page/). Μπορείτε εύκολα να χρησιμοποιήσετε το ASPOSE.Page για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/).
+Το ASPOSPE.Page Java API φιλοξενούνται στο [Θέτω σε αποθήκη](https://releases.aspose.com/page/java/). Μπορείτε εύκολα να χρησιμοποιήσετε το ASPOSE.Page για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/).
 
 ## Προσθέστε σελίδες στο υπάρχον έγγραφο XPS
 

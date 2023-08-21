@@ -15,7 +15,7 @@ parent_path: "psd/net"
 section_parent_path: "psd/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-9-release-notes/"
 weight: 167
 ---
 
@@ -38,7 +38,7 @@ weight: 167
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/psd/net/aspose-psd-for-net-22-9-release-notes/'>https://docs.aspose.com/psd/net/aspose-psd-for-net-22-9-release-notes/</a></div>
+<h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-9-release-notes/'>https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-9-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -139,7 +139,7 @@ Console.WriteLine("Total used bytes after test: {0:N2} MiB", memCount);
 Assert.IsTrue(Math.Abs(memCount - max) < 20, "Memory leak in base functionality found!");
 ```
 
-Eine vollständige Liste der Funktionen, Verbesserungen und behobenen Fehler in dieser Version finden Sie unter [Aspose.PSD for .NET 22.9 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-9-release-notes/).
+Eine vollständige Liste der Funktionen, Verbesserungen und behobenen Fehler in dieser Version finden Sie unter [Aspose.PSD for .NET 22.9 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

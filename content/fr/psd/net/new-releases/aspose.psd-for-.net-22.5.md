@@ -36,7 +36,7 @@ weight: 159
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href="https://docs.aspose.com/psd/net/aspose-psd-for-net-22-5-release-notes/">https://docs.aspose.com/psd/net/aspose-psd-for-net-22-5-release-notes/</a></div><h4> La description</h4><div class="HTMLDescription"> Il contient Aspose.PSD pour la version .NET 22.5.</div>
+<h4>Notes de version</h4><div> <a href="https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-5-release-notes/">https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-5-release-notes/</a></div><h4> La description</h4><div class="HTMLDescription"> Il contient Aspose.PSD pour la version .NET 22.5.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Caractéristiques notables">}}
@@ -74,7 +74,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 Une nouvelle propriété `EffectType` a été ajoutée à l'interface `ILayerEffect`.
 
-Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.PSD for .NET 22.5 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-5-release-notes/).
+Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.PSD for .NET 22.5 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

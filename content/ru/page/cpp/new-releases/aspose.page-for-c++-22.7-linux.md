@@ -16,7 +16,7 @@ parent_path: "page/cpp"
 section_parent_path: "page/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/page/cpp/aspose-page-for-cpp-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-7-release-notes/"
 weight: 85
 
 ---
@@ -40,7 +40,7 @@ weight: 85
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/page/cpp/aspose-page-for-cpp-22-7-release-notes/'>https://docs.aspose.com/page/cpp/aspose-page-for-cpp-22-7-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-7-release-notes/'>https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Aspose.page для C ++ 22,7 Нативного Linux Livrary</div>

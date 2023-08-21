@@ -298,7 +298,7 @@ CGM, MHT, PCL, PS, XSLFO, MD
 
 ## Начать
 
-Aspose.pdf Java API размещены на [Применить репозиторий](https://repository.aspose.com/pdf/). Вы можете легко использовать Aspose.pdf для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.PDF for Java from Применить репозиторий](https://docs.aspose.com/pdf/java/installation/).
+Aspose.pdf Java API размещены на [Применить репозиторий](https://releases.aspose.com/pdf/java/). Вы можете легко использовать Aspose.pdf для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.PDF for Java from Применить репозиторий](https://docs.aspose.com/pdf/java/installation/).
 
 ## Извлечь текст из файла PDF с помощью Java
 

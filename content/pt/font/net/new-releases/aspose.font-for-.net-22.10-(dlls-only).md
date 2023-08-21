@@ -16,7 +16,7 @@ parent_path: "font/net"
 section_parent_path: "font/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/font/net/aspose-font-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-10-release-notes/"
 weight: 34
 
 ---
@@ -40,7 +40,7 @@ weight: 34
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lançamento</h4><div> <a href='https://docs.aspose.com/font/net/aspose-font-for-net-22-10-release-notes/'>https://docs.aspose.com/font/net/aspose-font-for-net-22-10-release-notes/</a></div>
+      <h4>Notas de lançamento</h4><div> <a href='https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-10-release-notes/'>https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription"> Este arquivo ZIP contém apenas o Aspose.Font para assemblies .NET. As montagens são as mesmas do instalador MSI do produto da mesma versão. Faça o download se você quiser usar o Aspose.Font sem o instalador MSI, ou seja, você não pode executar instaladores MSI no Mono.</div>

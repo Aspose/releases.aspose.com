@@ -61,7 +61,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/psd/34
 productLink: https://products.aspose.com/psd/java/
-releaseNotesLink: https://docs.aspose.com/psd/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/psd/java/release-notes/
 dataFolder: aspose_psd
 packages_refs:
 - "19-12"
@@ -112,7 +112,7 @@ packages_refs:
 
 ## Начать
 
-Aspose.psd Java API размещены на [Применить репозиторий](https://repository.aspose.com/psd/). Вы можете легко использовать Aspose.psd для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите документацию [Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/) PSD.
+Aspose.psd Java API размещены на [Применить репозиторий](https://releases.aspose.com/psd/java/). Вы можете легко использовать Aspose.psd для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите документацию [Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/) PSD.
 
 ## Создать PSD с нуля
 

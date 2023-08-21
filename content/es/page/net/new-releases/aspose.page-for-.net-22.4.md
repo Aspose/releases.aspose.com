@@ -36,7 +36,7 @@ weight: 99
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lanzamiento</h4><div> <a href="https://docs.aspose.com/page/net/aspose-page-for-net-22-4-release-notes/">https://docs.aspose.com/page/net/aspose-page-for-net-22-4-release-notes/</a></div><h4> Descripción</h4><div class="HTMLDescription"> Contiene Aspose.Page para la versión .NET 22.4.</div>
+<h4>Notas de lanzamiento</h4><div> <a href="https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-4-release-notes/">https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-4-release-notes/</a></div><h4> Descripción</h4><div class="HTMLDescription"> Contiene Aspose.Page para la versión .NET 22.4.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Características notables">}}
@@ -47,7 +47,7 @@ weight: 99
 
 Se agregó el soporte para insertar los metadatos XMP (Plataforma de metadatos extensibles) de Adobe® dentro de los documentos EPS (PostScript encapsulado), aumentando el valor comercial del archivo.
 
-> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Page for .NET 22.4 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-4-release-notes/).
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Page for .NET 22.4 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

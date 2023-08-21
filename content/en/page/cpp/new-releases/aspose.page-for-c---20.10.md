@@ -39,7 +39,7 @@ weight: 46
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/page/cpp/aspose-page-for-cpp-20-10-release-notes/">https://docs.aspose.com/page/cpp/aspose-page-for-cpp-20-10-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">C++ Library for XPS & Postscript files allows editing of XPS documents as well as conversion of XPS, PS & EPS files from a C++ application.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/page/cpp/release-notes/2020/aspose-page-for-cpp-20-10-release-notes/">https://releases.aspose.com/page/cpp/release-notes/2020/aspose-page-for-cpp-20-10-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">C++ Library for XPS & Postscript files allows editing of XPS documents as well as conversion of XPS, PS & EPS files from a C++ application.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

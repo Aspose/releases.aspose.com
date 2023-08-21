@@ -82,7 +82,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/page/39
 productLink: https://products.aspose.com/page/java/
-releaseNotesLink: https://docs.aspose.com/page/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/page/java/release-notes/
 dataFolder: aspose_page
 packages_refs:
 - "22-11"
@@ -159,7 +159,7 @@ packages_refs:
 
 ## 开始
 
-Aspose.page Java API托管在[Aspose存储库](https://repository.aspose.com/page/)。您可以在Maven项目中轻松使用Java API的aspose.page，并具有简单的配置。有关详细说明，请访问[Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/)文档页面。
+Aspose.page Java API托管在[Aspose存储库](https://releases.aspose.com/page/java/)。您可以在Maven项目中轻松使用Java API的aspose.page，并具有简单的配置。有关详细说明，请访问[Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/)文档页面。
 
 ## 将页面添加到现有XPS文档
 

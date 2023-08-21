@@ -16,7 +16,7 @@ parent_path: "page/cpp"
 section_parent_path: "page/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/page/cpp/aspose-page-for-cpp-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-11-release-notes/"
 weight: 94
 
 ---
@@ -40,7 +40,7 @@ weight: 94
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/page/cpp/aspose-page-for-cpp-22-11-release-notes/'>https://docs.aspose.com/page/cpp/aspose-page-for-cpp-22-11-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-11-release-notes/'>https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Page for C++ 22.11 macOS native library</div>

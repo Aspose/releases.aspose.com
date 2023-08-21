@@ -16,7 +16,7 @@ parent_path: "font/cpp"
 section_parent_path: "font/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/font/cpp/aspose-font-for-cpp-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-9-release-notes/"
 weight: 80
 
 ---
@@ -40,7 +40,7 @@ weight: 80
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/font/cpp/aspose-font-for-cpp-22-9-release-notes/'>https://docs.aspose.com/font/cpp/aspose-font-for-cpp-22-9-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-9-release-notes/'>https://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Aspose.font для C ++ 22,9 Нативная библиотека</div>

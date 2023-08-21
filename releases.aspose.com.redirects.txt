@@ -56,7 +56,7 @@ rewrite ^/java/repo/com/aspose/aspose-idcells/8.6.3/aspose-cells-8.6.3.pom$ http
 rewrite ^/java/repo/com/aspose/aspose-elcells/22.4/aspose-cells-22.4.pom$ https://releases.aspose.com/java/repo/com/aspose/aspose-cells/22.4/aspose-cells-22.4.pom permanent;
 rewrite ^/java/repo/com/aspose/aspose-eswords/19.12/aspose-words-19.12.pom$ https://releases.aspose.com/java/repo/com/aspose/aspose-words/19.12/aspose-words-19.12.pom permanent;
 rewrite ^/corporate/brochures/all/brochure---aspose.slides-product-family/.* https://releases.aspose.com/corporate/brochures/all/brochure---aspose.slides-product-family/ permanent;
-rewrite ^/ocr/java/resources/aspose.ocr-for-java-2.4.0/.* https://releases.aspose.com/ocr/java/resources/aspose.ocr-for-java-2.4.0/ permanent;
+rewrite ^/ocr/java/resources/aspose.ocr-for-java-2.4.0/.* https://releases.aspose.com/ocr/java/ permanent;
 rewrite ^/words/java/18.6$ https://releases.aspose.com/words/java/18-6/ permanent;
 rewrite ^/barcode/jasperreports//aspose.barcode-for-jasperreports-22.10/.* https://releases.aspose.com/barcode/jasperreports/aspose.barcode-for-jasperreports-22.10/ permanent;
 rewrite ^/psd/ai/$ https://releases.aspose.com/psd/ permanent;

@@ -2,6 +2,7 @@
 title: "Download Font Manipulation C++ Library DLL | Aspose.Font API"
 description: "Download C++ code library for font detection, extraction & manipulation via API. Supports TrueType, OpenType, CFF & Type1 fonts, Symbols, Glyphs, Licensing."
 keywords: "font"
+linktitle: "Aspose.Font for C++"
 family_listing_page_title: "Aspose.Font for C++"
 family_listing_page_description: "A native C++ Class Library that allows manipulation of font types including CFF, TTF, TrueType, OpenType & Type1 fonts."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-cpp.png"
@@ -20,7 +21,7 @@ weight:  3
 {{< Common/h2 text="Download Font Manipulation C++ Library"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Font.Cpp/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.Font.Cpp</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/font/cpp/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="font" product="cpp" href="https://docs.aspose.com/font/cpp/release-notes/" text="https://docs.aspose.com/font/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="font" product="cpp" href="https://releases.aspose.com/font/cpp/release-notes/" text="https://releases.aspose.com/font/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

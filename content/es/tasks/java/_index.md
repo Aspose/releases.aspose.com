@@ -155,7 +155,7 @@ TIF, SVG, PNG, JPEG
 
 ## Empezar
 
-Aspose.Tasks Las API Java están alojadas en el [Repositorio de asposio](https://repository.aspose.com/tasks/). Puede usar fácilmente Aspose.Tasks para Java API directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.Tasks for Java from Maven Repository](https://docs.aspose.com/tasks/java/installation/).
+Aspose.Tasks Las API Java están alojadas en el [Repositorio de asposio](https://releases.aspose.com/tasks/java/). Puede usar fácilmente Aspose.Tasks para Java API directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.Tasks for Java from Maven Repository](https://docs.aspose.com/tasks/java/installation/).
 
 ## Lea los datos del proyecto de la base de datos de Microsoft Project
 

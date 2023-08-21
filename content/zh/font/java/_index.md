@@ -64,7 +64,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/font/41
 productLink: https://products.aspose.com/font/java/
-releaseNotesLink: https://docs.aspose.com/font/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/font/java/release-notes/
 dataFolder: aspose_font
 packages_refs:
 - "22-11"
@@ -116,7 +116,7 @@ ttc，opentype，cff，type1
 
 ## 开始
 
-Aspose.font Java API托管在[Aspose存储库](https://repository.aspose.com/font/)。您可以在Maven项目中轻松地使用Aspose.font将其用于Java API，并具有简单的配置。有关详细说明，请访问[Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/)文档页面。
+Aspose.font Java API托管在[Aspose存储库](https://releases.aspose.com/font/java/)。您可以在Maven项目中轻松地使用Aspose.font将其用于Java API，并具有简单的配置。有关详细说明，请访问[Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/)文档页面。
 
 ## 使用Java检测字体中的拉丁符号支持
 

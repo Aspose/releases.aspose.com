@@ -16,7 +16,7 @@ parent_path: "psd/net"
 section_parent_path: "psd/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/psd/net/release-notes/2023/aspose-psd-for-net-23-5-release-notes/"
 weight: 183
 
 ---
@@ -40,7 +40,7 @@ weight: 183
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/psd/net/aspose-psd-for-net-23-5-release-notes/'>https://docs.aspose.com/psd/net/aspose-psd-for-net-23-5-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/psd/net/release-notes/2023/aspose-psd-for-net-23-5-release-notes/'>https://releases.aspose.com/psd/net/release-notes/2023/aspose-psd-for-net-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">.NET 23.5 sürümü için aspose.psd içerir.</div>

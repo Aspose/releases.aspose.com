@@ -211,7 +211,7 @@ Aspose.imagingは、上記のリストされているオペレーティングシ
 
 ## 始めましょう
 
-Aspose.imaging Java APIは[Aspose Repository](https://repository.aspose.com/imaging/)でホストされています。簡単な構成を使用して、MavenプロジェクトでJava APIのImagingを簡単に使用できます。詳細な手順については、[Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/)ドキュメントページをご覧ください。
+Aspose.imaging Java APIは[Aspose Repository](https://releases.aspose.com/imaging/java/)でホストされています。簡単な構成を使用して、MavenプロジェクトでJava APIのImagingを簡単に使用できます。詳細な手順については、[Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/)ドキュメントページをご覧ください。
 
 ## 長方形のEMF画像をトリミングします
 

@@ -39,7 +39,7 @@ weight: 97
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href="https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/">https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">これには、.NET 22.2 リリース用の Aspose.Page が含まれています。</div>
+<h4>リリースノート</h4><div><a href="https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/">https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">これには、.NET 22.2 リリース用の Aspose.Page が含まれています。</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="注目すべき機能">}}
@@ -50,7 +50,7 @@ weight: 97
 
 API のこのリリースでは、Wingdings フォントを、さまざまなドキュメント形式をサポートする無料の Zapfdingbats フォントに置き換えることで、dingbat 書体の処理が改善されています。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Page for .NET 22.2 Release Notes](https://docs.aspose.com/page/net/aspose-page-for-net-22-2-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Page for .NET 22.2 Release Notes](https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

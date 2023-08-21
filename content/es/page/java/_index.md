@@ -82,7 +82,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/page/39
 productLink: https://products.aspose.com/page/java/
-releaseNotesLink: https://docs.aspose.com/page/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/page/java/release-notes/
 dataFolder: aspose_page
 packages_refs:
 - "22-11"
@@ -159,7 +159,7 @@ packages_refs:
 
 ## Empezar
 
-Aspose.page Java Las API están alojadas en el [Repositorio de asposio](https://repository.aspose.com/page/). Puede usar fácilmente Aspose.Page para Java API directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/).
+Aspose.page Java Las API están alojadas en el [Repositorio de asposio](https://releases.aspose.com/page/java/). Puede usar fácilmente Aspose.Page para Java API directamente en sus proyectos Maven con configuraciones simples. Para las instrucciones detalladas, visite la página de documentación [Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/).
 
 ## Agregar páginas al documento XPS existente
 

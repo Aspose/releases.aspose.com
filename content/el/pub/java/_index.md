@@ -70,7 +70,7 @@ packages_refs:
 
 ## Ξεκίνα
 
-Το ASPOSPE.PUB APIs Java φιλοξενείται στο [Θέτω σε αποθήκη](https://repository.aspose.com/pub/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.pub για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.PUB for Java from Θέτω σε αποθήκη](https://docs.aspose.com/pub/java/installation/).
+Το ASPOSPE.PUB APIs Java φιλοξενείται στο [Θέτω σε αποθήκη](https://releases.aspose.com/pub/java/). Μπορείτε εύκολα να χρησιμοποιήσετε το aspose.pub για το Java API απευθείας στα έργα Maven σας με απλές διαμορφώσεις. Για τις λεπτομερείς οδηγίες, επισκεφτείτε τη σελίδα τεκμηρίωσης [Installing Aspose.PUB for Java from Θέτω σε αποθήκη](https://docs.aspose.com/pub/java/installation/).
 
 ## Επεξεργασία μεταδεδομένων των αρχείων εκδοτών της Microsoft χρησιμοποιώντας Java
 

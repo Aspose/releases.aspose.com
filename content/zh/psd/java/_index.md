@@ -61,7 +61,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/psd/34
 productLink: https://products.aspose.com/psd/java/
-releaseNotesLink: https://docs.aspose.com/psd/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/psd/java/release-notes/
 dataFolder: aspose_psd
 packages_refs:
 - "19-12"
@@ -112,7 +112,7 @@ packages_refs:
 
 ## 开始
 
-Aspose.psd Java API托管在[Aspose存储库](https://repository.aspose.com/psd/)。您可以在Maven项目中轻松地将Aspose.psd用于Java API，并具有简单的配置。有关详细说明，请访问[Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/)文档PSD。
+Aspose.psd Java API托管在[Aspose存储库](https://releases.aspose.com/psd/java/)。您可以在Maven项目中轻松地将Aspose.psd用于Java API，并具有简单的配置。有关详细说明，请访问[Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/)文档PSD。
 
 ## 从头​​开始创建一个PSD
 

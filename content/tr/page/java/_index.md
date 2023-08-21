@@ -82,7 +82,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/page/39
 productLink: https://products.aspose.com/page/java/
-releaseNotesLink: https://docs.aspose.com/page/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/page/java/release-notes/
 dataFolder: aspose_page
 packages_refs:
 - "22-11"
@@ -159,7 +159,7 @@ packages_refs:
 
 ## Başlamak
 
-Aspose.Page Java API'leri [Aspose deposu](https://repository.aspose.com/page/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için Aspose.Page'i kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/) belge sayfasını ziyaret edin.
+Aspose.Page Java API'leri [Aspose deposu](https://releases.aspose.com/page/java/)'da barındırılır. Basit konfigürasyonlarla doğrudan Maven projelerinizde Java API için Aspose.Page'i kolayca kullanabilirsiniz. Ayrıntılı talimatlar için lütfen [Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/) belge sayfasını ziyaret edin.
 
 ## Mevcut XPS belgesine sayfa ekleyin
 

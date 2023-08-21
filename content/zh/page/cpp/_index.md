@@ -22,7 +22,7 @@ weight:  3
 打开
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Page.Cpp/" text="NuGet"  >}}Microsoft Visual Studio® 中的包管理器，搜索<b>Aspose.Page.Cpp</b>并安装。您还可以在包管理器控制台中使用以下命令。有关详细说明，请访问
 {{< Common/link href="https://docs.aspose.com/page/cpp/installation/" text="安装"  >}}文档页面。
-{{< Common/release-notes-link family="page" product="cpp" href="https://docs.aspose.com/page/cpp/release-notes/" text="https://docs.aspose.com/page/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="page" product="cpp" href="https://releases.aspose.com/page/cpp/release-notes/" text="https://releases.aspose.com/page/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

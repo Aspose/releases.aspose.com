@@ -16,7 +16,7 @@ parent_path: "page/net"
 section_parent_path: "page/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/page/net/aspose-page-for-net-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-6-release-notes/"
 weight: 127
 
 ---
@@ -40,7 +40,7 @@ weight: 127
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/page/net/aspose-page-for-net-23-6-release-notes/'>https://docs.aspose.com/page/net/aspose-page-for-net-23-6-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-6-release-notes/'>https://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">我们很高兴宣布一个新版本的aspose.net页面。</div>

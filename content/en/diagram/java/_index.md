@@ -63,6 +63,7 @@ productLink: https://products.aspose.com/diagram/java/
 releaseNotesLink: https://docs.aspose.com/diagram/java/release-notes/
 dataFolder: aspose_diagram
 packages_refs:
+- "23-8"
 - "23-7"
 - "23-6"
 - "23-5"
@@ -203,7 +204,7 @@ Aspose.Diagram for Java can also be used to [apply protection to the Microsoft V
 
 ## Get Started
 
-Aspose.Diagram Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/diagram/). You can easily use Aspose.Diagram for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Diagram for Java from Aspose Repository](https://docs.aspose.com/diagram/java/installation/) documentation page.
+Aspose.Diagram Java APIs are hosted at the [Aspose Repository](https://releases.aspose.com/diagram/java/). You can easily use Aspose.Diagram for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Diagram for Java from Aspose Repository](https://docs.aspose.com/diagram/java/installation/) documentation page.
 
 ## Auto-fit Visio Diagram using Java
 

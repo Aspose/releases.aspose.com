@@ -61,7 +61,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/psd/34
 productLink: https://products.aspose.com/psd/java/
-releaseNotesLink: https://docs.aspose.com/psd/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/psd/java/release-notes/
 dataFolder: aspose_psd
 packages_refs:
 - "19-12"
@@ -112,7 +112,7 @@ packages_refs:
 
 ## Memulai
 
-Aspose.psd Java API di -host di [Repositori Aspose](https://repository.aspose.com/psd/). Anda dapat dengan mudah menggunakan Aspose.psd untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi [Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/) Dokumentasi PSD.
+Aspose.psd Java API di -host di [Repositori Aspose](https://releases.aspose.com/psd/java/). Anda dapat dengan mudah menggunakan Aspose.psd untuk Java API langsung di proyek Maven Anda dengan konfigurasi sederhana. Untuk instruksi terperinci, silakan kunjungi [Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/) Dokumentasi PSD.
 
 ## Buat PSD dari awal
 

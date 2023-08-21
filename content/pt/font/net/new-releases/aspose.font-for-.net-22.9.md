@@ -14,7 +14,7 @@ file_size: "File Size: 4.2MB"
 parent_path: "font/net"
 section_parent_path: "font/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/font/net/aspose-font-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-9-release-notes/"
 weight: 33
 ---
 
@@ -38,7 +38,7 @@ weight: 33
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/font/net/aspose-font-for-net-22-9-release-notes/'>https://docs.aspose.com/font/net/aspose-font-for-net-22-9-release-notes/</a></div>
+<h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-9-release-notes/'>https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-9-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ Introduced the font conversion support from OTF (OpenType Font) format to TTF (T
 
 Previously the supported Glyph count was 6551, which has now been enhanced to over 1 (one) million in the TrueType font conversion.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Font for .NET 22.9 Notas de liberação](https://docs.aspose.com/font/net/aspose-font-for-net-22-9-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Font for .NET 22.9 Notas de liberação](https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

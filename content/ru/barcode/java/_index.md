@@ -267,7 +267,7 @@ packages_refs:
 
 ## Начать
 
-Aspose.Barcode Java API размещены на [Применить репозиторий](https://repository.aspose.com/barcode/). Вы можете легко использовать Aspose.barcode для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.BarCode for Java from Maven Repository](https://docs.aspose.com/barcode/java/installation/).
+Aspose.Barcode Java API размещены на [Применить репозиторий](https://releases.aspose.com/barcode/java/). Вы можете легко использовать Aspose.barcode для Java API непосредственно в ваших проектах Maven с простыми конфигурациями. Для получения подробных инструкций, пожалуйста, посетите страницу документации [Installing Aspose.BarCode for Java from Maven Repository](https://docs.aspose.com/barcode/java/installation/).
 
 ## Сканирование штрих -кода с картинки через Java
 

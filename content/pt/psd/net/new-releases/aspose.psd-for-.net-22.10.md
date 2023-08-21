@@ -15,7 +15,7 @@ parent_path: "psd/net"
 section_parent_path: "psd/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-10-release-notes/"
 weight: 169
 ---
 
@@ -38,7 +38,7 @@ weight: 169
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lançamento</h4><div> <a href='https://docs.aspose.com/psd/net/aspose-psd-for-net-22-10-release-notes/'>https://docs.aspose.com/psd/net/aspose-psd-for-net-22-10-release-notes/</a></div>
+<h4>Notas de lançamento</h4><div> <a href='https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-10-release-notes/'>https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-10-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -109,7 +109,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Para obter uma lista completa de recursos, aprimoramentos e bugs corrigidos nesta versão, visite [Aspose.PSD for .NET 22.10 - Release Notes](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-10-release-notes/).
+Para obter uma lista completa de recursos, aprimoramentos e bugs corrigidos nesta versão, visite [Aspose.PSD for .NET 22.10 - Release Notes](https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-10-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 
