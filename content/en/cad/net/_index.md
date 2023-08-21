@@ -2,6 +2,7 @@
 title: "Download C# Library to Draw & Render CAD Files | Aspose.CAD"
 description: "Download C# class library DLL to render, edit, report, & convert AutoCAD®, CAD, BIM to PDF & image formats via API. Select & convert specific layouts, layers."
 keywords: "CAD .NET Library, AutoCAD .NET API"
+linktitle: "Aspose.CAD for .NET"
 family_listing_page_title: "Aspose.CAD for .NET"
 family_listing_page_description: "Aspose.CAD for .NET allows developers to convert AutoCAD DWG and DXF and DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, FBX, CF2, CFF2, OBJ and other CAD formats files to PDF, SVG, WMF and Raster images. It is a native API and does not require AutoCAD or any other software to be installed."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net-min.png"

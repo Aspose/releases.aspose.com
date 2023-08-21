@@ -1,6 +1,7 @@
 ---
 title: " Aspose - Downloads"
 description: "It contains files for cad "
+linktitle: "Aspose.CAD for JasperReports"
 keywords: "cad "
 family_listing_page_title: "Aspose.CAD for JasperReports"
 family_listing_page_description: "Aspose.CAD for JasperReports is the only solution on the market that makes it possible to export reports from JasperReports to various vector and raster image file formats such as PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD and operate with various CAD and BIM file formats: DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS"
@@ -65,7 +66,7 @@ You can easily use aspose-cad-jasperreports for Java directly from a {{< Common/
 - Export JasperReport to SVG
 - Export JasperReport to JPEG2000
 - Export JasperReport to PSD
-- Export JasperReport to TIFF 
+- Export JasperReport to TIFF
 
 ### Supported File Formats
 

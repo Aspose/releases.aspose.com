@@ -2,6 +2,7 @@
 title: "JavaScript/TypeScript SDK for CAD and BIM Files Processing | Aspose.CAD Product Family"
 description: "Download Aspose.CAD JavaScript SDK to create, edit, convert & render CAD and BIM drawings of various file formats: SVG, DWG, DGN, DXF, IFC, STL, DWF, IGS, PLT, DWT, CF2, OBJ, FBX, DWFX, DAE, DXB, STP, CGM, GLB, GLTF, U3D, 3DS. Family also includes extension, solution & exporter for .NET, JavaScript, Java and JasperReports."
 keywords: "JavaScript, CAD, BIM, API, SDK, Library, SVG, DWG, DGN, DXF, IFC, STL, DWF, IGS, PLT, DWT, CF2, OBJ, FBX, DWFX, DAE, DXB, STP, CGM, GLB, GLTF, U3D, 3DS"
+linktitle: "Aspose.CAD for JavaScript via .NET"
 family_listing_page_title: "Aspose.CAD for JavaScript via .NET"
 family_listing_page_description: "Aspose.CAD for JavaScript via .NET is an advanced CAD and BIM files SDK processing library that provides enhanced API to perform a wide range of tasks directly within JavaScript applications."
 family_listing_page_iconurl: "https://products.aspose.com/cad/javascript-net/aspose_cad-for-js.svg"
