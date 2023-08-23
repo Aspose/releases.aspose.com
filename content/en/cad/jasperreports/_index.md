@@ -50,7 +50,7 @@ You can easily use aspose-cad-jasperreports for Java directly from a {{< Common/
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
-{{< Common/release-notes-link family="cad" product="jasperreports" href="https://docs.aspose.com/cad/jasperreports/release-notes/" text="https://docs.aspose.com/cad/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="cad" product="jasperreports" href="https://releases.aspose.com/cad/jasperreports/release-notes/" text="https://releases.aspose.com/cad/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

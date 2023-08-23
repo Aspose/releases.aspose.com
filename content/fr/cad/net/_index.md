@@ -22,7 +22,7 @@ weight:  1
 Ouvert
 {{< Common/link href="https://www.nuget.org/packages/Aspose.CAD/" text="NuGet"  >}}Package Manager dans Microsoft Visual Studio®, recherchez <b>Aspose.CAD</b> et installez. Vous pouvez également utiliser la commande suivante dans la console du gestionnaire de packages. Pour les instructions détaillées, veuillez visiter le
 {{< Common/link href="https://docs.aspose.com/cad/net/installation/" text="Installation"  >}}page documentaire.
-{{< Common/release-notes-link family="cad" product="java" href="https://docs.aspose.com/cad/net/release-notes/" text="https://docs.aspose.com/cad/net/release-notes/"  >}}
+{{< Common/release-notes-link family="cad" product="java" href="https://releases.aspose.com/cad/net/release-notes/" text="https://releases.aspose.com/cad/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

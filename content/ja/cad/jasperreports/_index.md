@@ -53,7 +53,7 @@ Java 用の aspose-cad-jasperreports を直接簡単に使用できます。
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
-{{< Common/release-notes-link family="cad" product="jasperreports" href="https://docs.aspose.com/cad/jasperreports/release-notes/" text="https://docs.aspose.com/cad/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="cad" product="jasperreports" href="https://releases.aspose.com/cad/jasperreports/release-notes/" text="https://releases.aspose.com/cad/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

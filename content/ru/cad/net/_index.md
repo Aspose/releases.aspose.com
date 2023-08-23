@@ -22,7 +22,7 @@ weight:  1
 Открытым
 {{< Common/link href="https://www.nuget.org/packages/Aspose.CAD/" text="NuGet"  >}}Диспетчер пакетов в Microsoft Visual Studio®, найдите <b>Aspose.CAD</b> и установите. Вы также можете использовать следующую команду в консоли диспетчера пакетов. Подробные инструкции см.
 {{< Common/link href="https://docs.aspose.com/cad/net/installation/" text="Монтаж"  >}}страница документации.
-{{< Common/release-notes-link family="cad" product="java" href="https://docs.aspose.com/cad/net/release-notes/" text="https://docs.aspose.com/cad/net/release-notes/"  >}}
+{{< Common/release-notes-link family="cad" product="java" href="https://releases.aspose.com/cad/net/release-notes/" text="https://releases.aspose.com/cad/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
