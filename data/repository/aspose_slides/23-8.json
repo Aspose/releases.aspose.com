@@ -12,6 +12,9 @@
     "name" : "aspose-slides-23.8-android.via.java.jar",
     "classifier" : "android.via.java"
   }, {
+    "size" : "1 KB",
+    "name" : "aspose-slides-23.8-android.via.java.pom"
+  }, {
     "size" : "3 MB",
     "name" : "aspose-slides-23.8-javadoc.jar",
     "classifier" : "javadoc"
