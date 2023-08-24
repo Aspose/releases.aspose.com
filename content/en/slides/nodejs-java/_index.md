@@ -5,7 +5,7 @@ description:  "Download .NET, Java, C++ & Android libraries to create, manipulat
 keywords:  "PowerPoint API"
 family_listing_page_title:  "Aspose.Slides for Node.js via Java"
 family_listing_page_description:  "Aspose.Slides for Node.js via Java is an advanced Powerpoint Presentation Processing API that enables you to perform a wide range of document processing tasks directly within your applications."
-family_listing_page_iconurl:  "https://www.aspose.cloud/templates/aspose/img/products/slides/aspose_slides-for-nodejs-via-java.png"
+family_listing_page_iconurl:  "https://products.aspose.com/slides/images/aspose_slides-for-nodejs-via-java.png"
 weight: 11
 
 ---
@@ -35,11 +35,11 @@ A {{< Common/link href="https://products.aspose.com/slides/nodejs-java/" text="P
 {{< Common/hr >}}
 {{< Common/h4 text="Download aspose/slides from NPM"  >}}
 {{< Common/paragraph class="package-instructions">}}
-aspose.slides is available on NPM as the  {{< Common/link href="https://www.npmjs.com/package/aspose.slides" text="aspose.slides"  >}} package. Run the following command:
+aspose.slides is available on NPM as the  {{< Common/link href="https://www.npmjs.com/package/aspose.slides.via.java" text="aspose.slides.via.java"  >}} package. Run the following command:
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="npm" >}}
        {{< consolebox/spantext text=" " >}}
-       {{< consolebox/textarea id="npm" >}} npm install aspose.slides  {{< /consolebox/textarea >}}
+       {{< consolebox/textarea id="npm" >}} npm install aspose.slides.via.java  {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
 {{< Common/release-notes-link family="slides" product="nodejs-java" href="https://docs.aspose.com/slides/nodejs-java/release-notes/" text="https://docs.aspose.com/slides/nodejs-java/release-notes/"  >}}
