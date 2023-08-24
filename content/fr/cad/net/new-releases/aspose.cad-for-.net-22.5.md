@@ -57,7 +57,7 @@ Correction du problème de taille de fichier énorme après l'exportation d'OBJ 
 
 Résolution du problème de chevauchement de texte dans le fichier PDF exporté.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.CAD for .NET 22.5 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-5-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.CAD for .NET 22.5 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

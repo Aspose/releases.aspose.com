@@ -40,7 +40,7 @@ weight: 172
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Примечания к выпуску</h4><div> <a href="https://docs.aspose.com/cad/net/aspose-cad-for-net-22-1-release-notes/">https://docs.aspose.com/cad/net/aspose-cad-for-net-22-1-release-notes/</a></div>
+<h4>Примечания к выпуску</h4><div> <a href="https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-1-release-notes/">https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-1-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Примечательные особенности">}}
@@ -77,7 +77,7 @@ cadImage.Save(outPath, pngOptions);
 
 Добавлена возможность получения сегментов полилинии (`lwpolyline`).
 
-> Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.CAD for .NET 22.1 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-1-release-notes/).
+> Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.CAD for .NET 22.1 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

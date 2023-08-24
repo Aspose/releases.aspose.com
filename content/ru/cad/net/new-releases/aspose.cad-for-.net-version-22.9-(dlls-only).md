@@ -16,7 +16,7 @@ parent_path: "cad/net"
 section_parent_path: "cad/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/cad/net/aspose-cad-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-9-release-notes/"
 weight: 188
 
 ---
@@ -40,7 +40,7 @@ weight: 188
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/cad/net/aspose-cad-for-net-22-9-release-notes/'>https://docs.aspose.com/cad/net/aspose-cad-for-net-22-9-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-9-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Этот zip -файл содержит только aspose.cad для .NET Assemblies v22.9. Сборки такие же, как в установщике MSI продукта той же версии. Загрузите это, если вы хотите использовать Aspose.cad для .NET без установщика MSI.</div>

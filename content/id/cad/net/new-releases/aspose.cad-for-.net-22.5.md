@@ -57,7 +57,7 @@ Memperbaiki masalah ukuran file yang sangat besar setelah mengekspor OBJ ke form
 
 Mengatasi masalah tumpang tindih teks dalam file PDF yang diekspor.
 
-> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.CAD for .NET 22.5 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-5-release-notes/).
+> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.CAD for .NET 22.5 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

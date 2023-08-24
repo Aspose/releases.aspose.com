@@ -36,7 +36,7 @@ weight: 176
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Catatan Rilis</h4><div> <a href="https://docs.aspose.com/cad/net/aspose-cad-for-net-22-3-release-notes/">https://docs.aspose.com/cad/net/aspose-cad-for-net-22-3-release-notes/</a></div>
+<h4>Catatan Rilis</h4><div> <a href="https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-3-release-notes/">https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-3-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Fitur Penting">}}
@@ -55,7 +55,7 @@ Sebelumnya ketika DWG dikonversi ke format PDF, dulu memakan banyak memori. Masa
 
 Dalam beberapa kasus sebelumnya, ekspor DAE ke OBJ gagal. Masalah ini sekarang telah diselesaikan di API.
 
-> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.CAD for .NET 22.3 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-3-release-notes/).
+> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.CAD for .NET 22.3 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

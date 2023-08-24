@@ -57,7 +57,7 @@ weight: 180
 
 Επιλύθηκε το πρόβλημα επικάλυψης κειμένου στο εξαγόμενο αρχείο PDF.
 
-> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.CAD for .NET 22.5 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-5-release-notes/).
+> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.CAD for .NET 22.5 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

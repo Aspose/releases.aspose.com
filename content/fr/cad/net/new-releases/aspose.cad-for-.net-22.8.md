@@ -14,7 +14,7 @@ file_size: "File Size: 48.87MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
 tags: ""
-release_notes_url : "https://docs.aspose.com/cad/net/aspose-cad-for-net-22-8-release-notes/"
+release_notes_url : "https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-8-release-notes/"
 weight: 186
 ---
 
@@ -37,7 +37,7 @@ weight: 186
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href='https://docs.aspose.com/cad/net/aspose-cad-for-net-22-8-release-notes/'>https://docs.aspose.com/cad/net/aspose-cad-for-net-22-8-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href='https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-8-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -61,7 +61,7 @@ Ajout de la prise en charge de la mise à l'échelle du filigrane.
 
 Il a été observé que, dans certains cas, le "DWG" n'était pas entièrement rendu lorsqu'il était converti au format "PDF". Cette version de l'API a résolu le problème susmentionné.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.CAD for .NET 22.8 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-8-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.CAD for .NET 22.8 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

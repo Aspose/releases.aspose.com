@@ -15,7 +15,7 @@ file_size: "File Size: 94.94MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
 
-release_notes_url: "https://docs.aspose.com/cad/net/aspose-cad-for-net-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-5-release-notes/"
 weight: 181
 
 ---
@@ -39,7 +39,7 @@ weight: 181
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/cad/net/aspose-cad-for-net-22-5-release-notes/'>https://docs.aspose.com/cad/net/aspose-cad-for-net-22-5-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-5-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Ce fichier zip ne contient que le ASPOSE.CAD pour les assemblages .NET v22.5. L'assemblage ..</div>

@@ -36,7 +36,7 @@ weight: 176
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href="https://docs.aspose.com/cad/net/aspose-cad-for-net-22-3-release-notes/">https://docs.aspose.com/cad/net/aspose-cad-for-net-22-3-release-notes/</a></div>
+<h4>发行说明</h4><div><a href="https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-3-release-notes/">https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-3-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="显着特点">}}
@@ -55,7 +55,7 @@ weight: 176
 
 在以前的某些情况下，DAE 到 OBJ 的导出失败。此问题现已在 API 中解决。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.CAD for .NET 22.3 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-3-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.CAD for .NET 22.3 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-3-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

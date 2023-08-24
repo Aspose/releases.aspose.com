@@ -14,7 +14,7 @@ file_size: "File Size: 57.35MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/cad/net/aspose-cad-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-9-release-notes/"
 weight: 189
 ---
 
@@ -37,7 +37,7 @@ weight: 189
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lanzamiento</h4><div> <a href='https://docs.aspose.com/cad/net/aspose-cad-for-net-22-9-release-notes/'>https://docs.aspose.com/cad/net/aspose-cad-for-net-22-9-release-notes/</a></div>
+<h4>Notas de lanzamiento</h4><div> <a href='https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-9-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-9-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -57,7 +57,7 @@ Se corrigió el `OutOfMemoryError` al convertir el formato `DWG` A `PDF`.
 
 Se mejoró la sensibilidad de la escena en movimiento.
 
-> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.CAD for .NET 22.9 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-9-release-notes/).
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.CAD for .NET 22.9 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

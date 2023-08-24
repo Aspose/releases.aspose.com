@@ -39,7 +39,7 @@ weight: 174
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href="https://docs.aspose.com/cad/net/aspose-cad-for-net-22-2-release-notes/">https://docs.aspose.com/cad/net/aspose-cad-for-net-22-2-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href="https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-2-release-notes/">https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-2-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Caractéristiques notables">}}
@@ -130,7 +130,7 @@ using (Aspose.CAD.Image image = Aspose.CAD.Image.Load(sourceFilePath))
     }
 ```
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.CAD for .NET 22.2 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-2-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.CAD for .NET 22.2 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

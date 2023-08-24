@@ -16,7 +16,7 @@ parent_path: "cad/net"
 section_parent_path: "cad/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/cad/net/aspose-cad-for-net-23-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-7-release-notes/"
 weight: 209
 
 ---
@@ -40,7 +40,7 @@ weight: 209
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/cad/net/aspose-cad-for-net-23-7-release-notes/'>https://docs.aspose.com/cad/net/aspose-cad-for-net-23-7-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-7-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">File zip ini hanya berisi Aspose.cad untuk .NET Assemblies v23.7. Rakitannya sama seperti di penginstal MSI dari produk dari versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.cad untuk .net tanpa pemasang MSI.</div>

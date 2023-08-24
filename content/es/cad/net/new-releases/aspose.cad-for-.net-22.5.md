@@ -57,7 +57,7 @@ Se solucionó el problema del enorme tamaño de archivo después de exportar OBJ
 
 Se resolvió el problema de superposición de texto dentro del archivo PDF exportado.
 
-> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.CAD for .NET 22.5 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-5-release-notes/).
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.CAD for .NET 22.5 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -16,7 +16,7 @@ parent_path: "cad/net"
 section_parent_path: "cad/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/cad/net/aspose-cad-for-net-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-5-release-notes/"
 weight: 205
 
 ---
@@ -40,7 +40,7 @@ weight: 205
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/cad/net/aspose-cad-for-net-23-5-release-notes/'>https://docs.aspose.com/cad/net/aspose-cad-for-net-23-5-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-5-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Este arquivo ZIP contém apenas o Aspose.cad para os assemblies .NET v23.5. Os assemblies são os mesmos do instalador do MSI do produto da mesma versão. Faça o download disso se quiser usar aspose.cad para .NET sem o instalador do MSI.</div>

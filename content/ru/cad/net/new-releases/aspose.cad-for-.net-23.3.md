@@ -16,7 +16,7 @@ parent_path: "cad/net"
 section_parent_path: "cad/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/cad/net/aspose-cad-for-net-23-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-3-release-notes/"
 weight: 200
 
 ---
@@ -40,7 +40,7 @@ weight: 200
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/cad/net/aspose-cad-for-net-23-3-release-notes/'>https://docs.aspose.com/cad/net/aspose-cad-for-net-23-3-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-3-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Содержит установщик MSI для полной установки продукта Aspose.CAD для .NET V23.3</div>

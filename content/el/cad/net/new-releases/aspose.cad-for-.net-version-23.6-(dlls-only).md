@@ -16,7 +16,7 @@ parent_path: "cad/net"
 section_parent_path: "cad/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/cad/net/aspose-cad-for-net-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-6-release-notes/"
 weight: 207
 
 ---
@@ -40,7 +40,7 @@ weight: 207
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/cad/net/aspose-cad-for-net-23-6-release-notes/'>https://docs.aspose.com/cad/net/aspose-cad-for-net-23-6-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-6-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Αυτό το αρχείο zip περιέχει μόνο το ASPOSE.CAD για. Τα συγκροτήματα είναι τα ίδια όπως στο πρόγραμμα εγκατάστασης MSI του προϊόντος της ίδιας έκδοσης. Κατεβάστε αυτό εάν θέλετε να χρησιμοποιήσετε το aspose.cad για το .NET χωρίς το πρόγραμμα εγκατάστασης MSI.</div>

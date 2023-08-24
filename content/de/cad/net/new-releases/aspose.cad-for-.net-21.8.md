@@ -39,7 +39,7 @@ weight: 160
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/cad/net/aspose-cad-for-net-21-8-release-notes/">https://docs.aspose.com/cad/net/aspose-cad-for-net-21-8-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Enthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v21.8</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-8-release-notes/">https://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-8-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Enthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v21.8</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

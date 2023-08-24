@@ -36,7 +36,7 @@ weight: 176
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div> <a href="https://docs.aspose.com/cad/net/aspose-cad-for-net-22-3-release-notes/">https://docs.aspose.com/cad/net/aspose-cad-for-net-22-3-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href="https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-3-release-notes/">https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-3-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Caractéristiques notables">}}
@@ -55,7 +55,7 @@ Auparavant, lorsque DWG était converti au format PDF, il consommait beaucoup de
 
 Dans certains cas précédents, l'exportation DAE vers OBJ a échoué. Ce problème est maintenant résolu dans l'API.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.CAD for .NET 22.3 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-3-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.CAD for .NET 22.3 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

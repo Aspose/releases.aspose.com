@@ -14,7 +14,7 @@ file_size: "File Size: 61.93MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/cad/net/aspose-cad-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-7-release-notes/"
 weight: 184
 ---
 
@@ -37,7 +37,7 @@ weight: 184
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div> <a href='https://docs.aspose.com/cad/net/aspose-cad-for-net-22-7-release-notes/'>https://docs.aspose.com/cad/net/aspose-cad-for-net-22-7-release-notes/</a></div>
+<h4>Sürüm notları</h4><div> <a href='https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-7-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -57,7 +57,7 @@ API'nin bu sürümü, AutoCAD® SHX dosya formatı için destek sunar. Ayrıca, 
 
 CAD API'ye STP / STEP dosyası desteği eklendi. STEP (veya STP) formatı tipik olarak 2B ve 3B geometrik modelleri ve tasarım verilerini tutmak için kullanılır. STEP formatına dışa aktarma özelliği de artık mevcuttur.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.CAD for .NET 22.7 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-7-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.CAD for .NET 22.7 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-7-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

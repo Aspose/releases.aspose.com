@@ -14,7 +14,7 @@ file_size: "File Size: 48.87MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/cad/net/aspose-cad-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-8-release-notes/"
 weight: 186
 ---
 
@@ -37,7 +37,7 @@ weight: 186
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href='https://docs.aspose.com/cad/net/aspose-cad-for-net-22-8-release-notes/'>https://docs.aspose.com/cad/net/aspose-cad-for-net-22-8-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href='https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-8-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -61,7 +61,7 @@ weight: 186
 
 場合によっては、「DWG」が「PDF」形式に変換されたときに完全にレンダリングされないことが確認されました。 API のこのリリースでは、前述の問題が解決されています。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.CAD for .NET 22.8 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-8-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.CAD for .NET 22.8 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-8-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

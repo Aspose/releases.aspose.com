@@ -15,7 +15,7 @@ file_size: "File Size: 95.69MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
 
-release_notes_url: "https://docs.aspose.com/cad/net/aspose-cad-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-6-release-notes/"
 weight: 183
 
 ---
@@ -39,7 +39,7 @@ weight: 183
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/cad/net/aspose-cad-for-net-22-6-release-notes/'>https://docs.aspose.com/cad/net/aspose-cad-for-net-22-6-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-6-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">File zip ini hanya berisi aspose.cad untuk rakitan .net v22.6. Rakitannya sama seperti di penginstal MSI dari produk dari versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.cad untuk .net tanpa pemasang MSI.</div>

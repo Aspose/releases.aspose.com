@@ -16,7 +16,7 @@ parent_path: "cad/net"
 section_parent_path: "cad/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/cad/net/aspose-cad-for-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-1-release-notes/"
 weight: 197
 
 ---
@@ -40,7 +40,7 @@ weight: 197
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/cad/net/aspose-cad-for-net-23-1-release-notes/'>https://docs.aspose.com/cad/net/aspose-cad-for-net-23-1-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-1-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">このzipファイルには、.netアセンブリv23.1用のaspose.cadのみが含まれています。アセンブリは、同じバージョンの製品のMSIインストーラーと同じです。 MSIインストーラーなしで.NETにaspose.cadを使用する場合は、これをダウンロードしてください。</div>

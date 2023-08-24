@@ -40,7 +40,7 @@ weight: 172
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/cad/net/aspose-cad-for-net-22-1-release-notes/">https://docs.aspose.com/cad/net/aspose-cad-for-net-22-1-release-notes/</a></div>
+<h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-1-release-notes/">https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-1-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Bemerkenswerte Eigenschaften">}}
@@ -77,7 +77,7 @@ Diese Version der API hat die Unterstützung für das „Collada“-Format imple
 
 Möglichkeit zum Abrufen von Polyline-Segmenten (`lwpolyline`) hinzugefügt.
 
-> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.CAD for .NET 22.1 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-1-release-notes/).
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.CAD for .NET 22.1 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

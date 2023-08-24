@@ -36,7 +36,7 @@ weight: 178
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Release Notes</h4><div><a href="https://docs.aspose.com/cad/net/aspose-cad-for-net-22-4-release-notes/">https://docs.aspose.com/cad/net/aspose-cad-for-net-22-4-release-notes/</a></div>
+<h4>Release Notes</h4><div><a href="https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-4-release-notes/">https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-4-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Notable Features">}}
@@ -59,7 +59,7 @@ Ability to export image from embedded image data.
 
 It was observed that the `DWG` was being rendered without colors. This issue has now been resolved within this release of the API.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.CAD for .NET 22.4 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-4-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.CAD for .NET 22.4 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

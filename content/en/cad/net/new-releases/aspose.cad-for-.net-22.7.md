@@ -14,7 +14,7 @@ file_size: "File Size: 61.93MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/cad/net/aspose-cad-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-7-release-notes/"
 weight: 184
 ---
 
@@ -37,7 +37,7 @@ weight: 184
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Release Notes</h4><div><a href='https://docs.aspose.com/cad/net/aspose-cad-for-net-22-7-release-notes/'>https://docs.aspose.com/cad/net/aspose-cad-for-net-22-7-release-notes/</a></div>
+<h4>Release Notes</h4><div><a href='https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-7-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -57,7 +57,7 @@ This release of the API offers the support for the AutoCAD&reg; SHX file format.
 
 The support for STP / STEP file has been added to the CAD API. The STEP (or STP) format is typically used to hold the 2D & 3D geometric models, and design data. The export to STEP format feature is also available now.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.CAD for .NET 22.7 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-7-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.CAD for .NET 22.7 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

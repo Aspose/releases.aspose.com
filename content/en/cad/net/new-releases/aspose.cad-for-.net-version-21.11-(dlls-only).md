@@ -39,7 +39,7 @@ weight: 167
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/cad/net/aspose-cad-for-net-21-11-release-notes/">https://docs.aspose.com/cad/net/aspose-cad-for-net-21-11-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.CAD for .NET assemblies v21.11. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.CAD for .NET without the MSI installer.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-11-release-notes/">https://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-11-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.CAD for .NET assemblies v21.11. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.CAD for .NET without the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

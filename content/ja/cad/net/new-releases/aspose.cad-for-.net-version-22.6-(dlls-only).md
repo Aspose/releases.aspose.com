@@ -15,7 +15,7 @@ file_size: "File Size: 95.69MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
 
-release_notes_url: "https://docs.aspose.com/cad/net/aspose-cad-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-6-release-notes/"
 weight: 183
 
 ---
@@ -39,7 +39,7 @@ weight: 183
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/cad/net/aspose-cad-for-net-22-6-release-notes/'>https://docs.aspose.com/cad/net/aspose-cad-for-net-22-6-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-6-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">このzipファイルには、.netアセンブリv22.6のaspose.cadのみが含まれています。アセンブリは、同じバージョンの製品のMSIインストーラーと同じです。 MSIインストーラーなしで.NETにaspose.cadを使用する場合は、これをダウンロードしてください。</div>

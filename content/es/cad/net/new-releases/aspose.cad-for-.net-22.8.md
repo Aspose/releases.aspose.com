@@ -14,7 +14,7 @@ file_size: "File Size: 48.87MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/cad/net/aspose-cad-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-8-release-notes/"
 weight: 186
 ---
 
@@ -37,7 +37,7 @@ weight: 186
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lanzamiento</h4><div> <a href='https://docs.aspose.com/cad/net/aspose-cad-for-net-22-8-release-notes/'>https://docs.aspose.com/cad/net/aspose-cad-for-net-22-8-release-notes/</a></div>
+<h4>Notas de lanzamiento</h4><div> <a href='https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-8-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -61,7 +61,7 @@ Se agregó el soporte para la ampliación de la marca de agua.
 
 Se observó que, en algunos casos, el 'DWG' no se renderizaba por completo cuando se convertía al formato 'PDF'. Esta versión de la API ha resuelto el problema antes mencionado.
 
-> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.CAD for .NET 22.8 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-8-release-notes/).
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.CAD for .NET 22.8 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

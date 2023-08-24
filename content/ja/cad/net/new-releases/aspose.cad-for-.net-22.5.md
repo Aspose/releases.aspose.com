@@ -57,7 +57,7 @@ OBJ を DXF 形式にエクスポートした後のファイル サイズが膨�
 
 エクスポートされた PDF ファイル内のテキストの重複の問題を解決しました。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.CAD for .NET 22.5 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-5-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.CAD for .NET 22.5 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-5-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -13,7 +13,7 @@ download_count: " 13/6/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 61.04MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
-release_notes_url: "https://docs.aspose.com/cad/net/aspose-cad-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-6-release-notes/"
 weight: 182
 ---
 
@@ -36,7 +36,7 @@ weight: 182
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lanzamiento</h4><div> <a href='https://docs.aspose.com/cad/net/aspose-cad-for-net-22-6-release-notes/'>https://docs.aspose.com/cad/net/aspose-cad-for-net-22-6-release-notes/</a></div>
+<h4>Notas de lanzamiento</h4><div> <a href='https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-6-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -56,7 +56,7 @@ Implementé e introduje el soporte para el formato de archivo AutoCAD® DXB. `DX
 
 Anteriormente, en algunos casos, al convertir DWF a PDF no se convertían todas las páginas correctamente. Este problema ya se ha resuelto.
 
-> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.CAD for .NET 22.6 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-6-release-notes/).
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.CAD for .NET 22.6 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

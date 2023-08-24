@@ -57,7 +57,7 @@ Fixed the issue of enormous file size after exporting OBJ to DXF format.
 
 Resolved the text overlap issue within the exported PDF file.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.CAD for .NET 22.5 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-5-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.CAD for .NET 22.5 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -14,7 +14,7 @@ file_size: "File Size: 57.35MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
 tags: ""
-release_notes_url: "https://docs.aspose.com/cad/net/aspose-cad-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-9-release-notes/"
 weight: 189
 ---
 
@@ -37,7 +37,7 @@ weight: 189
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Catatan Rilis</h4><div> <a href='https://docs.aspose.com/cad/net/aspose-cad-for-net-22-9-release-notes/'>https://docs.aspose.com/cad/net/aspose-cad-for-net-22-9-release-notes/</a></div>
+<h4>Catatan Rilis</h4><div> <a href='https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-9-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-9-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -57,7 +57,7 @@ Memperbaiki `OutOfMemoryError` saat mengonversi format `DWG` KE `PDF`.
 
 Meningkatkan sensitivitas adegan bergerak.
 
-> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.CAD for .NET 22.9 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-9-release-notes/).
+> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.CAD for .NET 22.9 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

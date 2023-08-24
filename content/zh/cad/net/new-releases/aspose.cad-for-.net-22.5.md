@@ -57,7 +57,7 @@ weight: 180
 
 解决了导出的 PDF 文件中的文本重叠问题。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.CAD for .NET 22.5 - Release Notes](https://docs.aspose.com/cad/net/aspose-cad-for-net-22-5-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.CAD for .NET 22.5 - Release Notes](https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-5-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 
