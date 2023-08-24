@@ -2,11 +2,14 @@
 
 title: "PowerPoint APIs & Components for Developers | Aspose.Slides Product Family"
 description:  "Download .NET, Java, C++ & Android libraries to create, manipulate, convert & render Microsoft PowerPoint presentations. Family also includes extension, solution & exporter for Reporting Services, SharePoint & JasperReports."
-keywords:  "PowerPoint API"
+keywords:  "PowerPoint API, Node.js PowerPoint Library, PowerPoint Node.js API"
 family_listing_page_title:  "Aspose.Slides for Node.js via Java"
 family_listing_page_description:  "Aspose.Slides for Node.js via Java is an advanced Powerpoint Presentation Processing API that enables you to perform a wide range of document processing tasks directly within your applications."
 family_listing_page_iconurl:  "https://products.aspose.com/slides/images/aspose_slides-for-nodejs-via-java.png"
+family_listing_page_selfHosted: "1"
 weight: 11
+homepage_package_type: "NPM"
+homepage_package_link: "https://www.npmjs.com/package/aspose.slides.via.java"
 
 ---
 
