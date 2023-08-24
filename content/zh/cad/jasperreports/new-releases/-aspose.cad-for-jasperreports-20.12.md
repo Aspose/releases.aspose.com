@@ -39,7 +39,7 @@ weight: 1
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/cad/jasperreports/aspose-cad-for-jasperreports-20-12-release-notes/">https://docs.aspose.com/cad/jasperreports/aspose-cad-for-jasperreports-20-12-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含Aspose.JasperReports 20.12发布</div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/cad/jasperreports/release-notes/2020/aspose-cad-for-jasperreports-20-12-release-notes/">https://releases.aspose.com/cad/jasperreports/release-notes/2020/aspose-cad-for-jasperreports-20-12-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含Aspose.JasperReports 20.12发布</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

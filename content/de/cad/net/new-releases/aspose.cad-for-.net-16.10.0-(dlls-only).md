@@ -39,7 +39,7 @@ weight: 94
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/cadnet/Aspose.CAD+for+.NET+16.10+Release+notes">http://www.aspose.com/docs/display/cadnet/Aspose.CAD+for+.NET+16.10+Release+notes</a></div><h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.CAD for .NET assemblies v16.10. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/cad/net/release-notes/2016/aspose-cad-for-net-16-10-release-notes/">https://releases.aspose.com/cad/net/release-notes/2016/aspose-cad-for-net-16-10-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.CAD for .NET assemblies v16.10. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -16,7 +16,7 @@ parent_path: "cad/python-net"
 section_parent_path: "cad/python-net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/cad/python-net/aspose-cad-for-python-22-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/cad/python-net/release-notes/2022/aspose-cad-for-python-22-2-release-notes/"
 weight: 1
 
 ---
@@ -40,7 +40,7 @@ weight: 1
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/cad/python-net/aspose-cad-for-python-22-2-release-notes/'>https://docs.aspose.com/cad/python-net/aspose-cad-for-python-22-2-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/cad/python-net/release-notes/2022/aspose-cad-for-python-22-2-release-notes/'>https://releases.aspose.com/cad/python-net/release-notes/2022/aspose-cad-for-python-22-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含aspose.cad for python通过.NET 22.2.0，Windows X64版本。</div>

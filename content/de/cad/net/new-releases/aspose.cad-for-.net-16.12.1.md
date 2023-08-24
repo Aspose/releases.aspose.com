@@ -39,7 +39,7 @@ weight: 99
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/cadnet/Aspose.CAD+for+.NET+16.12.1+-+Release+notes">http://www.aspose.com/docs/display/cadnet/Aspose.CAD+for+.NET+16.12.1+-+Release+notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Enthält das MSI-Installationsprogramm für die vollständige Produktinstallation v16.12.1</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/cad/net/release-notes/2016/aspose-cad-for-net-16-12-1-release-notes/">https://releases.aspose.com/cad/net/release-notes/2016/aspose-cad-for-net-16-12-1-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Enthält das MSI-Installationsprogramm für die vollständige Produktinstallation v16.12.1</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
