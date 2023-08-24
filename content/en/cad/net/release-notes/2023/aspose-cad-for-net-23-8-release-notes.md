@@ -3,7 +3,7 @@ id: "aspose-cad-for-net-23-8-release-notes"
 slug: "aspose-cad-for-net-23-8-release-notes"
 linktitle: "Aspose.CAD for .NET 23.8 - Release Notes"
 title: "Aspose.CAD for .NET 23.8 - Release Notes"
-weight: 94
+weight: 93
 description: "Aspose.CAD for .NET 23.8 - Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
