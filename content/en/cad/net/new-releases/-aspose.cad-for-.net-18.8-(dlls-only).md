@@ -39,7 +39,7 @@ weight: 113
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/cadnet/Aspose.CAD+for+.NET+18.8+-+Release+Notes">https://docs.aspose.com/display/cadnet/Aspose.CAD+for+.NET+18.8+-+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.CAD for .NET assemblies v18.8. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.CAD for .NET without the MSI installer.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/cad/net/release-notes/2018/aspose-cad-for-net-18-8-release-notes/">https://releases.aspose.com/cad/net/release-notes/2018/aspose-cad-for-net-18-8-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.CAD for .NET assemblies v18.8. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.CAD for .NET without the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

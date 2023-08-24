@@ -39,7 +39,7 @@ weight: 110
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/cadnet/Aspose.CAD+for+.NET+18.3+-+Release+Notes">https://docs.aspose.com/display/cadnet/Aspose.CAD+for+.NET+18.3+-+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Enthält das MSI-Installationsprogramm für die vollständige Produktinstallation v18.3</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/cad/net/release-notes/2018/aspose-cad-for-net-18-3-release-notes/">https://releases.aspose.com/cad/net/release-notes/2018/aspose-cad-for-net-18-3-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Enthält das MSI-Installationsprogramm für die vollständige Produktinstallation v18.3</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
