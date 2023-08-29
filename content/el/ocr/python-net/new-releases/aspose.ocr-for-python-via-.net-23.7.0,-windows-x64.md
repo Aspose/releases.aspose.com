@@ -15,7 +15,7 @@ file_size: "File Size: 265.72MB"
 parent_path: "ocr/python-net"
 section_parent_path: "ocr/python-net"
 
-tags: "OCR, Python"
+tags: ["OCR", "PYTHON"]
 release_notes_url: "https://docs.aspose.com/ocr/python-net/aspose-ocr-python-23-7-0-release-notes/"
 weight: 6
 

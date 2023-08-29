@@ -15,7 +15,7 @@ file_size: "File Size: 400.05MB"
 parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
 
-tags: "PDF C++"
+tags: ["PDF", "C++"]
 release_notes_url: "https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-22-9-release-notes/"
 weight: 158
 
