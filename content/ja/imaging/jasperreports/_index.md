@@ -49,8 +49,6 @@ Aspose.Imaging for JasperReports は、レポートを JasperReports® からサ
 **固定レイアウト:** PDF\
 **Web:** WebP、HTML5 Canvas\
 **圧縮:** EMZ、WMZ、SVGZ
-
-
 ＃＃＃＃ システム要求
 
 - Java 2 Platform Standard Edition 1.6 以降。

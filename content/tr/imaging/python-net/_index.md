@@ -23,8 +23,6 @@ Lütfen aşağıdakileri kullanın {{< Common/link href="https://pypi.org/projec
        {{< consolebox/textarea id="pip" >}} pip install aspose-imaging-python-net {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
-
-
 [Ürün Sayfası](https://products.aspose.com/imaging/python-net/) | [Docs](https://docs.aspose.com/imaging/python-net/) | [Demos](https://products.aspose.app/imaging/family/) | [API referansı](https://reference.aspose.com/imaging/python-net/) | [Örnekler](https://github.com/aspose-imaging/aspose.imaging-for-python-net/) | [Blog](https://blog.aspose.com/category/imaging/) | [Ücretsiz Destek](https://forum.aspose.com/c/imaging) | [Geçici Lisans](https://purchase.aspose.com/temporary-license) | [Eula](https://about.aspose.com/legal/eula/)
 
 ### Görüntüleme API özellikleri

@@ -205,8 +205,6 @@ This page contains release notes for Aspose.PSD for .NET 19.8
 
 {{< /highlight >}}
 
-
-
 **PSDNET-156. Exception on loading PSD**
 
 {{< highlight java >}}
@@ -274,9 +272,5 @@ This page contains release notes for Aspose.PSD for .NET 19.8
     }
 
 {{< /highlight >}}
-
-
-
-
 
 

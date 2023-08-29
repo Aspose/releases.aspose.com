@@ -295,5 +295,3 @@ This page contains release notes for [Aspose.PSD for .NET 19.7](https://www.nug
 {{< /highlight >}}
 
 
-
-

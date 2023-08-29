@@ -261,8 +261,6 @@ Property com.aspose.cad.ImageOptions.CadRasterizationOptions.PdfProductLocation
 Property com.aspose.cad.ImageOptions.PdfDocumentOptions.Compliance
 Property com.aspose.cad.ImageOptions.WmfOptions.BitsPerPixel
 Property com.aspose.cad.LoadOptions.SpecifiedEncoding
-
-
 ## **Removed APIs:**
 Class com.aspose.cad.FileFormats.Cad.CadObjects.CadTableGeometryParams
 Class com.aspose.cad.FileFormats.Cad.CadObjects.CadUnderlayDefinition

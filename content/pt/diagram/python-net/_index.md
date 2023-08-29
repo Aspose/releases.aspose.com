@@ -50,8 +50,6 @@ Visite o [official documentation](https://docs.aspose.com/diagram/python-net/) p
 **Layout fixo**: PDF, XPS
 **Imagens**: JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
 **Web**: HTML
-
-
 ### Requisitos de sistema
 
 Sua máquina não precisa ter o software Microsoft Visio® instalado.

@@ -27,8 +27,6 @@ In this release, we have improved various parts of the parsing and rendering alg
 * Updated the document normalization algorithm in accordance with the latest documentation.
 * Improved the performance of the entity parsing algorithm.
 * Improved the performance of the bidirectional text positioning algorithm.
-
-
 ## Improvements and Changes
 
 |**Key**|**Summary**|**Category**|

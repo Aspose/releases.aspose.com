@@ -24,8 +24,6 @@ In this release, we have improved various parts of the parsing and rendering alg
 * Improved the PDF glyphs processing.
 * Improved rendering of the PDF ordered list.
 
-
-
 ## Improvements and Changes
 
 | **Key**      | **Summary**                                                                | **Category** |
@@ -35,8 +33,6 @@ In this release, we have improved various parts of the parsing and rendering alg
 | HTMLNET-3876 | Regression: Text copied from PDF document created by Aspose.Html 22.5 is unreadable | Bug          |
 | HTMLNET-4018 | The ToUnicode maps issues | Investigation          |
 | HTMLNET-4033 | Provide API to get fonts from disk while HTML to PDF conversion | Bug          |
-
-
 ## Public API and Backward Incompatible Changes
 
 ### Added APIs

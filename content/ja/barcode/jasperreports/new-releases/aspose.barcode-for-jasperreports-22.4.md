@@ -29,8 +29,6 @@ weight: 129
       {{< Common/li class="downloadcount" id="dwn-update-6270f345ed1d48d8a987a4e01dfc44d6" >}} 0 {{< /Common/li >}} 
       {{< Common/li  >}} ファイルサイズ: {{< /Common/li >}} 
       {{< Common/li id="size-update-6270f345ed1d48d8a987a4e01dfc44d6" >}} 10.4 MB {{< /Common/li >}} 
-
-
       {{< Common/li  >}} 日付が追加されました: {{< /Common/li >}} 
       {{< Common/li id="added-update-6270f345ed1d48d8a987a4e01dfc44d6" >}} : 4 weeks ago [4/22/2022] {{< /Common/li >}} 
 
@@ -41,5 +39,3 @@ weight: 129
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

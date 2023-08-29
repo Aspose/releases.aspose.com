@@ -12,8 +12,6 @@ hideChildren: false
 toc: true
 family_listing_page_title: "Aspose.Font for Java 21.4 Release Notes"
 ---
-
-
 {{% alert color="primary" %}} 
 
 This page contains release notes information for Aspose.Font for Java 21.4.
@@ -52,8 +50,6 @@ Some bugs have been fixed.
 | FONTNET-211 | Support SHA-256 Licenses | Enhancement |
 | FONTNET-181 | Incorrect data in loca table after it was restored from WOFF2 file | Bug |
 | FONTNET-229 | Problems with loca table byte content in saved WOFF2 files | Bug |
-
-
 ## Public API and Backwards Incompatible Changes
 
 ### Added APIs

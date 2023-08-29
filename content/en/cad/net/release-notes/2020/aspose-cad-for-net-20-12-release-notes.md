@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes for Aspose.CAD for .NET 20.12
 
 {{% /alert %}}
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 | CADNET-1300 | Unstable drawing of diameter symbol at Cad3DTests.dimensionTest test on Win10/Ubuntu | Enhancement |

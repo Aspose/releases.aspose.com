@@ -14,8 +14,6 @@ download_count: " 14/8/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 13.41MB"
 parent_path: "cells/nodejs"
 section_parent_path: "cells/nodejs"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/cells/nodejs-java/aspose-cells-for-node-js-via-java-23-8-release-notes/"
 weight: 34
 
@@ -47,5 +45,3 @@ weight: 34
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

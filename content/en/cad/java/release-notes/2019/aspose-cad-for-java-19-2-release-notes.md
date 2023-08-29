@@ -229,8 +229,6 @@ Assert.IsTrue(formatType2 >= FileFormat.DXFCadR010 && formatType2 <= FileFormat.
 
         }
 
-
-
     }
 
     cadImage.save(file.getAbsolutePath() + "_lines.dxf");
@@ -259,8 +257,6 @@ Assert.IsTrue(formatType2 >= FileFormat.DXFCadR010 && formatType2 <= FileFormat.
 
         }
 
-
-
     }
 
     cadImage.save(file.getAbsolutePath() + "_text.dxf");
@@ -270,5 +266,3 @@ Assert.IsTrue(formatType2 >= FileFormat.DXFCadR010 && formatType2 <= FileFormat.
 }
 
 {{< /highlight >}}
-
-

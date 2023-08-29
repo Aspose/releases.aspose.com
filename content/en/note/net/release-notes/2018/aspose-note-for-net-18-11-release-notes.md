@@ -22,8 +22,6 @@ This page contains release notes information for Aspose.Note for .NET 18.11.
 ## **Major Features**
 - Improved rendering when saving .ONE documents to PDF and image formats
 ## **Features and Improvements**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |NOTENET-2267|Wrong page size is returned when Page.SizeType is set to SizeByContent|New Feature|
@@ -33,8 +31,6 @@ This page contains release notes information for Aspose.Note for .NET 18.11.
 |NOTENET-2705|Exception is thrown when saving attached file to PDF|Bug|
 
 ## **Public API and Backward Incompatible Changes**
-
-
 |**The following public types were added:**|**Description**|
 | :- | :- |
 |Aspose.Note.Page.PageLayoutSize|Gets or sets page's layout size displayed in the editor.|

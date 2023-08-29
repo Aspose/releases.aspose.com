@@ -43,8 +43,6 @@ This page contains release notes information for [Aspose.Tasks for .Net 23.1](ht
 | Aspose.Tasks.PrimaveraTaskProperties.ActualNonLaborUnits | Gets the value of actual non labor units. |
 | Aspose.Tasks.PrimaveraTaskProperties.RemainingLaborUnits | Gets the value of remaining labor units. |
 | Aspose.Tasks.PrimaveraTaskProperties.RemainingNonLaborUnits | Gets the value of remaining non labor units. |
-
-
 ## **Examples and additional notes**
 
 **Related issue: TASKSNET-10759 - Fix calculation of summary task's Duration property for project read from Primavera format: it should correspond to 'Original Duration', not to 'At Completion Duration'.**

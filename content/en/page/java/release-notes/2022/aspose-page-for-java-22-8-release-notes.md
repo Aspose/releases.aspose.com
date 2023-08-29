@@ -957,8 +957,6 @@ Type: com.aspose.xps.metadata.StringValue
 Method: com.aspose.xps.metadata.StringValue.#ctor(java.lang.String)
 Type: com.aspose.xps.metadata.URIProperty
 Method: com.aspose.xps.metadata.Value.getValueString
-
-
 ### **Modified APIs**
 Method: com.aspose.xps.metadata.DocumentPrintTicket.#ctor(com.aspose.xps.metadata.IPrintTicketItem[]) ->: com.aspose.xps.metadata.DocumentPrintTicket.#ctor(com.aspose.xps.metadata.IDocumentPrintTicketItem[])
 Method: com.aspose.xps.metadata.Feature.#ctor(java.lang.String,com.aspose.xps.metadata.Option,com.aspose.xps.metadata.Property[]) ->: com.aspose.xps.metadata.Feature.#ctor(java.lang.String,com.aspose.xps.metadata.Option,com.aspose.xps.metadata.IFeatureItem[])
@@ -966,8 +964,6 @@ Method: com.aspose.xps.metadata.Feature.#ctor(java.lang.String,com.aspose.xps.me
 Method: com.aspose.xps.metadata.JobPrintTicket.#ctor(com.aspose.xps.metadata.IPrintTicketItem[]) ->: com.aspose.xps.metadata.JobPrintTicket.#ctor(com.aspose.xps.metadata.IJobPrintTicketItem[])
 Method: com.aspose.xps.metadata.PagePrintTicket.#ctor(com.aspose.xps.metadata.IPrintTicketItem[]) ->: com.aspose.xps.metadata.PagePrintTicket.#ctor(com.aspose.xps.metadata.IPagePrintTicketItem[])
 Method: com.aspose.xps.metadata.ScoredProperty.#ctor(java.lang.String,com.aspose.xps.metadata.IScoredPropertyItem[]) ->: com.aspose.xps.metadata.ScoredProperty.#ctor(java.lang.String,com.aspose.xps.metadata.Value,com.aspose.xps.metadata.IScoredPropertyItem[])
-
-
 ### **Removed APIs**
 Method: com.aspose.xps.metadata.Feature.getName
 Method: com.aspose.xps.metadata.Feature.toString

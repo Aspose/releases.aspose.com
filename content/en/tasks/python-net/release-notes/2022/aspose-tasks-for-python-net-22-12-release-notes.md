@@ -41,8 +41,6 @@ This page contains release notes information for [Aspose.Tasks for Python via .N
 | Aspose.Tasks.Tsk.ExternalUid | Contains the external task's Unique identifier when the task is external. |
 
 
-
-
 ## **Examples and additional notes**
 
 **Related issue: TASKSNET-10722 - Fix creation of external task links**
@@ -70,5 +68,3 @@ link.is_cross_project=true
 link.link_type=TaskLinkType.FINISH_TO_START
 link.cross_project_name="ExternalProject.mpp\\\\1" # <- here external task's Id is used.
 ```
-
-

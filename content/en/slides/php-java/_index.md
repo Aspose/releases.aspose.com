@@ -11,8 +11,6 @@ weight:  99
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/slides" linktext=" Support Forum " >}}
-
-
 {{< ProductPageWrapper >}}
 
 <!-- ProductPageContent-->
@@ -44,8 +42,6 @@ aspose/slides is available on Packagist as the  {{< Common/link href="https://pa
 {{< /Common/wrapper >}}
 
 <!-- /ProductPageContent-->
-
-
 
 <!-- ReleasesListProductPage-->
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="slides" product="php-java" >}}

@@ -45,5 +45,3 @@ Important Note: Aspose.OCR component uses resource files to perform OCR operatio
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

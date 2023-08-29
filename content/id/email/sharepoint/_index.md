@@ -73,8 +73,6 @@ Microsoft SharePoint Server 2010
 -Mozilla FireFox 3.5
 - Google Chrome 3
 - Safari 4
-
-
 ### Layanan File Hosting/Berbagi yang Didukung
 
 - Server FTP

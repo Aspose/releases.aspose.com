@@ -38,8 +38,6 @@ Geliştiricilerin çekirdek kütüphane olarak Aspose.BarCode for Java ve ileti�
 - Barkodları BMP, GIF, JPEG ve PNG dahil olmak üzere birden fazla görüntü formatında okuma ve dışa aktarma yeteneği.
 - Barkod etiketleri üzerinde tam kontrol sağlar.
 - 2D Barkodlar için X-boyutunu ve Y-boyutunu destekler.
-
-
 {{KÖPRÜ1}} | {{KÖPRÜ2}} | {{KÖPRÜ3}} | {{KÖPRÜ4}} | {{KÖPRÜ5}} | {{KÖPRÜ6}} | {{KÖPRÜ7}} | {{KÖPRÜ8}} | {{KÖPRÜ9}} | {{KÖPRÜ10}}
 
 {{< Common/hr >}}

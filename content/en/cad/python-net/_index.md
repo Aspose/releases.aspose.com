@@ -120,8 +120,6 @@ pdfOptions.vector_rasterization_options = rasterizationOptions
 
 image.save("result.pdf", pdfOptions)
 ```
-
-
 {{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}

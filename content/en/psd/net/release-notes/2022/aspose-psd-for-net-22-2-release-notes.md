@@ -27,8 +27,6 @@ This page contains release notes for [Aspose.PSD for .NET 22.2](https://www.nug
 |PSDNET-1057|Create an example of adding custom smart filters that are not supported in Aspose.PSD|Feature|
 |PSDNET-642|Disabled raster layer masks don't render correctly|Bug|
 |PSDNET-644|Exception on resizing PSD files with 16bit per channel and a raster mask|Bug|
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - M:Aspose.PSD.FileFormats.Psd.PsdImage.AddVibranceAdjustmentLayer
@@ -91,8 +89,6 @@ This page contains release notes for [Aspose.PSD for .NET 22.2](https://www.nug
 - M:Aspose.PSD.PixelsData.#ctor(System.Int32[],Aspose.PSD.Rectangle)
 - P:Aspose.PSD.PixelsData.Bounds
 - P:Aspose.PSD.PixelsData.Pixels
-
-
 # **Removed APIs:**
 - T:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResources.SmartFilters.Filters.AddNoiseSmartFilter
 - M:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResources.SmartFilters.Filters.AddNoiseSmartFilter.#ctor
@@ -133,8 +129,6 @@ This page contains release notes for [Aspose.PSD for .NET 22.2](https://www.nug
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResources.SmartFilters.SmartFilters.IsMaskExtendWithWhite
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResources.SmartFilters.SmartFilters.Filters
 - M:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResources.SmartFilters.SmartFilters.UpdateResourceValues
-
-
 ## **Usage examples:**
 
 **PSDNET-142. Support of Vibrance Adjustment Layers**

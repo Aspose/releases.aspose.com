@@ -14,8 +14,6 @@ download_count: " 31/3/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 194.04MB"
 parent_path: "ocr/cpp"
 section_parent_path: "ocr/cpp"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-3-0-release-notes/"
 weight: 81
 
@@ -47,5 +45,3 @@ weight: 81
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

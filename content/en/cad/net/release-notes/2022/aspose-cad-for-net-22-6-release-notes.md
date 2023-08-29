@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes for Aspose.CAD for .NET 22.6
 
 {{% /alert %}}
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 | CADNET-8663 | CAD Open / Save Issue | Enhancement |

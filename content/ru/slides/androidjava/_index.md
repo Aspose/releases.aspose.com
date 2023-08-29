@@ -15,8 +15,6 @@ weight:  4
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/slides" linktext=" Support Forum " >}}
-
-
 {{< ProductPageWrapper >}}
 
 <!-- ProductPageContent-->
@@ -36,8 +34,6 @@ API для работы с файлами PowerPoint для разработчи
    {{< Common/li >}} Преобразование презентаций или слайдов в форматы с фиксированным макетом, такие как PDF, а также в растровые изображения. {{< /Common/li >}}
 
  {{< /Common/ul>}}
-
-
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 {{< Common/h4 text="Скачать Aspose.Slides от Maven"  >}}
@@ -64,12 +60,8 @@ API для работы с файлами PowerPoint для разработчи
 
 <!-- /ProductPageContent-->
 
-
-
 <!-- ReleasesListProductPage-->
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="slides" product="androidjava" >}}
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
-
-

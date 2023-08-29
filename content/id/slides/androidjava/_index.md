@@ -15,8 +15,6 @@ weight:  4
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/slides" linktext=" Support Forum " >}}
-
-
 {{< ProductPageWrapper >}}
 
 <!-- ProductPageContent-->
@@ -36,8 +34,6 @@ API Manipulasi File PowerPoint untuk pemrogram aplikasi seluler.
    {{< Common/li >}} Render presentations or slides to fixed layout formats such as PDF as well as raster images. {{< /Common/li >}}
 
  {{< /Common/ul>}}
-
-
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 {{< Common/h4 text="Unduh Aspose.Slides dari Maven"  >}}
@@ -64,12 +60,8 @@ Anda dapat dengan mudah menggunakan Aspose.Slides untuk Java langsung dari a
 
 <!-- /ProductPageContent-->
 
-
-
 <!-- ReleasesListProductPage-->
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="slides" product="androidjava" >}}
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
-
-

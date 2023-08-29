@@ -32,20 +32,14 @@ This page contains release notes for [Aspose.PSD for .NET 22.12](https://www.nu
 |PSDNET-1277|Add the ability to save and load a mask for 16 images|Bug|
 |PSDNET-1281|Incorrect transparency on saving of 16 bit image to 16 or 8 bit image|Bug|
 |PSDNET-1375|Fix CMYK in 16 bit color|Bug|
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - T:Aspose.PSD.FileFormats.Psd.TextOrientation
 - F:Aspose.PSD.FileFormats.Psd.TextOrientation.Horizontal
 - F:Aspose.PSD.FileFormats.Psd.TextOrientation.Vertical
 - P:Aspose.PSD.FileFormats.Psd.Layers.Text.IText.TextOrientation
-
-
 # **Removed APIs:**
 - None
-
-
 ## **Usage examples:**
 
 **PSDNET-725. Resizing of the specified PSD file with a layer mask produce incorrect mask**

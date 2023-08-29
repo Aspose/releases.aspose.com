@@ -14,8 +14,6 @@ download_count: " 4/7/2022 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 24.19MB"
 parent_path: "psd/net"
 section_parent_path: "psd/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/psd/net/release-notes/2022/aspose-psd-for-net-22-7-release-notes/"
 weight: 162
 
@@ -47,5 +45,3 @@ weight: 162
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

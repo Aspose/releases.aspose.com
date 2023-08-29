@@ -14,8 +14,6 @@ download_count: " 21/6/2022 Téléchargers: 52  Views: 1 "
 file_size: "File Size: 76.47MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-22-6-release-notes/"
 weight: 93
 
@@ -47,5 +45,3 @@ weight: 93
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

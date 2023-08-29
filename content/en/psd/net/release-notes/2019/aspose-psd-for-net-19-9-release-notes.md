@@ -488,8 +488,6 @@ To display the layer name properly use the **DisplayName** property. A setter is
 
 {{< /highlight >}}
 
-
-
 **PSDNET-174. IndexOutOfRangeException on saving PSD image as JPEG**
 
 {{< highlight java >}}
@@ -589,9 +587,5 @@ using (PsdImage image = (PsdImage)Image.Load(outFileNamePsd))
 }
 
 {{< /highlight >}}
-
-
-
-
 
 

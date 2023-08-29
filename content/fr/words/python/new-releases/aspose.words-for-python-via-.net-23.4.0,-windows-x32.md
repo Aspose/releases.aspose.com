@@ -14,8 +14,6 @@ download_count: " 22/6/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 52.87MB"
 parent_path: "words/python"
 section_parent_path: "words/python"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/words/python-net/aspose-words-for-python-via-dotnet-23-4-release-notes/"
 weight: 12
 
@@ -47,5 +45,3 @@ weight: 12
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

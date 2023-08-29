@@ -38,8 +38,6 @@ This page contains release notes information for [Aspose.Note for .NET 21.9](htt
 |Aspose.Note.INoteTag|The interface for note tags(i.e. tags that are not associated with Outlook tasks).|
 |Aspose.Note.CheckBox|The base class for tags that can toggle their state between complete and incomplete.|
 |Aspose.Note.NoteCheckBox|Represents a note tag that can toggle their state between complete and incomplete.|
-
-
 |**The following public types were removed:**|**Description**|
 | :- | :- |
 |Aspose.Note.NoteTagCore|The base class for note tag and note task.|

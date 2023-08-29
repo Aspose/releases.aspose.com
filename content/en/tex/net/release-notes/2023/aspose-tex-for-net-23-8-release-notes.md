@@ -14,8 +14,6 @@ menuItemWithNoContent: false
 ---
 
 ## Aspose.TeX 23.8 for .NET has been released!
-
-
 | Key | Summary | Category |
 |---|---|---|
 | TEXNET-259 | Implement *eTeX*'s tracing and diagnostics primitives | Enhancement |

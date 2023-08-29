@@ -10,8 +10,6 @@ download_text: " Download"
 Intro_text: " Aspose.BarCode for .NET v3.0.1 has been released.Bug fixes
 
 
-
-
 Issue ID
 Ty..."
 image_link: "/resources/img/zip-icon.png"
@@ -49,5 +47,3 @@ weight: 299
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

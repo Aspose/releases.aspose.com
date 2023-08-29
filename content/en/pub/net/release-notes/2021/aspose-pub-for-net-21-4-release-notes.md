@@ -26,5 +26,3 @@ Aspose.PUB for .NET provides PUB to PDF conversion. SHA-256 license type has bee
 | :- | :- | :- |
 |PUBNET-234|.NET Standard Support|New Feature|
 |PUBNET-219|Support SHA-256 Licenses|Enhancement|
-
-

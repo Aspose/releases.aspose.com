@@ -68,8 +68,6 @@ if (!resp.Successful)
 # SendGrid クライアントのサポート
 
 SendGrid クライアントのサポートが追加されました。
-
-
 ```csharp
 string privApiKey = "YOUR_SENDGRID_PRIVATE_API_KEY";
 var opt = new SendGridClientOptions { ApiKey = privApiKey };

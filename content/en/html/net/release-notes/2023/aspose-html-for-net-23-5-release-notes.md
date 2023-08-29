@@ -30,8 +30,6 @@ In this release, we have added the WOFF2 font format support and improved the TT
 | HTMLNET-4217 | Epub to pdf converting: not all pages are in the output file, only the first one is filled. | Task          |
 | HTMLNET-4131 | Fix ending of front matter syntax if the value of node was changed. | Task           |
 | HTMLNET-4242 | Web Url to PDF: Converting web url to the PDF raises System.InvalidOperationException. | Bug         |
-
-
 ## **Public API and Backward Incompatible Changes**
 
 ### **Added APIs**

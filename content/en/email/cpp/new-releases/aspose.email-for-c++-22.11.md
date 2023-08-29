@@ -14,8 +14,6 @@ download_count: " 30/11/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 345.66MB"
 parent_path: "email/cpp"
 section_parent_path: "email/cpp"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/email/cpp/aspose-email-for-cpp-22-11-release-notes/"
 weight: 76
 
@@ -47,5 +45,3 @@ weight: 76
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

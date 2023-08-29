@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes for Aspose.CAD for Java 21.7
 
 {{% /alert %}}
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 | CADJAVA-10271 | Add PCL5  support for PLT format. | Enhancement |

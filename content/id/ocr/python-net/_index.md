@@ -17,8 +17,6 @@ Tambahkan kemampuan pengenalan karakter optik (OCR) ke ilmu data, AI, dan solusi
 {{< Common/paragraph class="package-instructions">}}
 Aspose.OCR untuk Python via .NET dapat diunduh di sini dan diinstal dari sistem file lokal dengan perintah berikut:
 {{< /Common/paragraph>}}
-
-
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install aspose-ocr-python-net {{< /consolebox/textarea >}}       
@@ -40,8 +38,6 @@ Aspose.OCR untuk Python via .NET dapat diunduh di sini dan diinstal dari sistem 
 - Mendukung sebagian besar format file yang dapat Anda peroleh dari pemindai atau kamera, serta tautan web.
 - Secara otomatis mengoreksi kesalahan ejaan untuk lebih meningkatkan hasil tanpa intervensi manual.
 - Membaca dokumen multi-halaman, folder, dan bahkan arsip ZIP secara massal dan mengembalikan hasil dalam format pertukaran dokumen dan data paling populer.
-
-
 ### Cuplikan kode
 
 **Aspose.OCR untuk Python via .NET** sangat mudah digunakan, terlepas dari skala dan kompleksitas aplikasi. Mari kita coba membuat aplikasi yang sangat sederhana yang dapat mengekstraksi teks dari gambar dan menampilkannya ke konsol.

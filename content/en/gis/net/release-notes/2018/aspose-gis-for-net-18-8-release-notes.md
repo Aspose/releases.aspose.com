@@ -32,8 +32,6 @@ Major features and improvements in this release:
 ## **Public API and Backward Incompatible Changes**
 Drivers members that were marked as obsolete at v18.7 release are now removed.
 
-
-
 |**C# (before v18.8)**|
 | :- |
 |<p>void HandleDriver(Driver driver)<br>{<br>`    `Console.WriteLine(driver.CanCreate);<br>`    `Console.WriteLine(driver.CanOpen);<br>`    `using (var layer = driver.Create("path"))<br>`    `{<br>`      `// work with layer<br>`    `}<br>`    `using (var layer = driver.Open("path"))<br>`    `{<br>`      `// work with layer<br>`    `}<br>}</p><p> </p>|

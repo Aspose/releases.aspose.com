@@ -14,8 +14,6 @@ download_count: " 27/6/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 118.47MB"
 parent_path: "note/net"
 section_parent_path: "note/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-6-release-notes/"
 weight: 194
 
@@ -47,5 +45,3 @@ weight: 194
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

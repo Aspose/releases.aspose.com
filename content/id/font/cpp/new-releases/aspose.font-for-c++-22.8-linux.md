@@ -14,8 +14,6 @@ download_count: " 19/8/2022 Unduhs: 1  Views: 1 "
 file_size: "File Size: 33.52MB"
 parent_path: "font/cpp"
 section_parent_path: "font/cpp"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-8-release-notes/"
 weight: 79
 
@@ -47,5 +45,3 @@ weight: 79
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

@@ -38,8 +38,6 @@ This page contains release notes information for [Aspose.Note for Java 21.9](htt
 |com.aspose.note.INoteTag|The interface for note tags(i.e. tags that are not associated with Outlook tasks).|
 |com.aspose.note.CheckBox|The base class for tags that can toggle their state between complete and incomplete.|
 |com.aspose.note.NoteCheckBox|Represents a note tag that can toggle their state between complete and incomplete.|
-
-
 |**The following public types were removed:**|**Description**|
 | :- | :- |
 |com.aspose.note.NoteTagCore|The base class for note tag and note task.|

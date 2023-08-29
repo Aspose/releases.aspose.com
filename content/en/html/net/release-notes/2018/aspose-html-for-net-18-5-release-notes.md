@@ -1365,5 +1365,3 @@ interface ITextMetrics
 {{< /highlight >}}
 
 
-
-

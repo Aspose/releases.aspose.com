@@ -14,8 +14,6 @@ download_count: " 17/8/2022 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 32.74MB"
 parent_path: "slides/reportingservices"
 section_parent_path: "slides/reportingservices"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-8-release-notes/"
 weight: 448
 
@@ -47,5 +45,3 @@ weight: 448
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

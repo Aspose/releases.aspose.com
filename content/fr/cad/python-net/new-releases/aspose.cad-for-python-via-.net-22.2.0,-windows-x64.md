@@ -14,8 +14,6 @@ download_count: " 16/6/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 59.15MB"
 parent_path: "cad/python-net"
 section_parent_path: "cad/python-net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/cad/python-net/release-notes/2022/aspose-cad-for-python-22-2-release-notes/"
 weight: 1
 
@@ -47,5 +45,3 @@ weight: 1
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

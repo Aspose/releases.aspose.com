@@ -24,8 +24,6 @@ Major features and improvements in this release:
 - Export maps to raster image formats
 - Support of EPSG:3857 WGS 84 / Pseudo-Mercator
 ## **Full List of Issues Covering all Changes in this Release**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |GISNET-369|Support for EPSG:3857 WGS 84 / Pseudo-Mercator|New Feature|
@@ -46,5 +44,3 @@ Major features and improvements in this release:
 |GISNET-381|Norway is rendered near the Czech Republic while its out of the extent|Bug|
 ## **Public API and Backward Incompatible Changes**
 Removed License.IsLicensed property
-
-

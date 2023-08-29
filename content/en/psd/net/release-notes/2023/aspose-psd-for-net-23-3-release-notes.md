@@ -27,8 +27,6 @@ This page contains release notes for [Aspose.PSD for .NET 23.3](https://www.nug
 |PSDNET-931|Incorrect export to PNG layer with Curves adjustment and CMYK color mode|Bug|
 |PSDNET-1403|Style of Paragraph is missed after the saving of file and updating of file by PS|Bug|
 |PSDNET-1453|Broken rendering of glow and shadow effects on text|Bug|
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - P:Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings.Angle
@@ -43,12 +41,8 @@ This page contains release notes for [Aspose.PSD for .NET 23.3](https://www.nug
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.VscgResource.KeyForData
 - M:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.VscgResource.Save(Aspose.PSD.StreamContainer,System.Int32)
 - F:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.VscgResource.TypeToolKey
-
-
 # **Removed APIs:**
 - None
-
-
 ## **Usage examples:**
 
 **PSDNET-146. Support of Posterize Adjustment Layer**

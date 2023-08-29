@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes for Aspose.CAD for Java 23.3
 
 {{% /alert %}}
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 | CADJAVA-11030 | Support SHX for attributes | Enhancement |

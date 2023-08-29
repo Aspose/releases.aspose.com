@@ -14,8 +14,6 @@ download_count: " 25/5/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 59.48MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-5-release-notes/"
 weight: 361
 
@@ -47,5 +45,3 @@ weight: 361
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

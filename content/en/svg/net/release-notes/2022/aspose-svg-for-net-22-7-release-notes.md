@@ -27,8 +27,6 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 * We have reduced the size of svg files produced by text vectorization by about 2 times by using quadratic beziers instead of cubic beziers and replacing relative path commands with absolute ones.
 
 * It was added support for loading SVG 'dtd' schemas directly from the Aspose.SVG assembly instead of trying to downloade them from online resources, which in some cases can significantly reduce the loading time of SVG documents.
-
-
 ## **Public API changes:**
 
 No Changes

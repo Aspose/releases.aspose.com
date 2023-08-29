@@ -79,11 +79,7 @@ image.save(myDir + "result.pdf", pdfOptions);
 
  String srcFile = dataDir + "conic_pyramid.dxf";
 
-
-
  com.aspose.cad.Image image = com.aspose.cad.Image.load(srcFile);
-
-
 
  // Create an instance of CadRasterizationOptions and set its various properties
 
@@ -95,8 +91,6 @@ image.save(myDir + "result.pdf", pdfOptions);
 
  rasterizationOptions.setPageHeight(1600);
 
-
-
  // Create an instance of PdfOptions
 
  com.aspose.cad.imageoptions.PdfOptions pdfOptions = new com.aspose.cad.imageoptions.PdfOptions();
@@ -105,11 +99,7 @@ image.save(myDir + "result.pdf", pdfOptions);
 
  pdfOptions.setVectorRasterizationOptions(rasterizationOptions);
 
-
-
  // Export the DXF to PDF
 
  image.save(dataDir + "conic_pyramid_out_.pdf", pdfOptions);
-
-
 {{< /highlight >}}

@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes for Aspose.CAD for .NET 21.12
 
 {{% /alert %}}
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 | CADNET-8467 | setDrawColor Still not working | Enhancement |

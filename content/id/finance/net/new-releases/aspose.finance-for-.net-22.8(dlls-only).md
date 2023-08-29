@@ -14,8 +14,6 @@ download_count: " 30/8/2022 Unduhs: 1  Views: 1 "
 file_size: "File Size: 6.63MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/finance/net/aspose-finance-for-net-22-8-release-notes/"
 weight: 34
 
@@ -47,5 +45,3 @@ weight: 34
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

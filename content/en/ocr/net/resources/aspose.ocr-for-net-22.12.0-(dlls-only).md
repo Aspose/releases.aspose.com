@@ -14,8 +14,6 @@ download_count: " 11/1/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 201.12MB"
 parent_path: "ocr/net/resources"
 section_parent_path: "ocr/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-1-0-release-notes/"
 weight: 300
 
@@ -47,5 +45,3 @@ weight: 300
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

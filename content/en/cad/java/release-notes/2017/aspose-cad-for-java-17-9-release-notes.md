@@ -986,8 +986,6 @@ Property com.aspose.cad.ImageOptions.DgnRasterizationOptions.ContentAsBitmap
 Property com.aspose.cad.ImageOptions.DgnRasterizationOptions.GraphicsOptions
 Property com.aspose.cad.ImageOptions.DwfRasterizationOptions.ContentAsBitmap
 Property com.aspose.cad.ImageOptions.DwfRasterizationOptions.GraphicsOptions
-
-
 # **Usage examples**
 **CADJAVA-34 DXF to PDF conversion is producing very small shapes in resultant PDF** 
 Force to adjust image size by defined objects in a drawing

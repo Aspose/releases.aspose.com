@@ -14,8 +14,6 @@ download_count: " 31/10/2022 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 86.24MB"
 parent_path: "pub/cpp"
 section_parent_path: "pub/cpp"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/pub/cpp/release-notes/2022/aspose-pub-for-cpp-22-10-release-notes/"
 weight: 62
 
@@ -47,5 +45,3 @@ weight: 62
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

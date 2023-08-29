@@ -23,8 +23,6 @@ This page contains release notes information for Aspose.SVG for .NET 22.10
 As per the regular monthly update process of all APIs being offered by Aspose, we are honored to announce the October release of Aspose.SVG for .NET:
 
 We have added a new SVGOptimizer tool to optimize SVG documents, which provides functionality to remove redundant and useless information and reduce the size of SVG path elements through vector graphics optimization. It also provides the possibility of flexible optimization control through the use of various options.
-
-
 ## **Public API changes:**
 
 ### **Added APIs:**

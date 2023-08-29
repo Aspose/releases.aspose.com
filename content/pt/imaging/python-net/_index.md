@@ -23,8 +23,6 @@ Por favor, use o seguinte {{< Common/link href="https://pypi.org/project/aspose-
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
 
-
-
 [Página do produto](https://products.aspose.com/imaging/python-net/) | [Docs](https://docs.aspose.com/imaging/python-net/) | [Demos](https://products.aspose.app/imaging/family/) | [API Reference](https://reference.aspose.com/imaging/python-net/) | [Exemplos](https://github.com/aspose-imaging/aspose.imaging-for-python-net/) | [Blog](https://blog.aspose.com/category/imaging/) | [Suporte gratuito](https://forum.aspose.com/c/imaging) | [Licença temporária](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 Recursos da API de imagem##

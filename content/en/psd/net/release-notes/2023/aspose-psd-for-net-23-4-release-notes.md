@@ -26,8 +26,6 @@ This page contains release notes for [Aspose.PSD for .NET 23.4](https://www.nug
 |PSDNET-1448|Editing of text using Text Portions doesn't save the correct result|Bug|
 |PSDNET-1449|The starting and ending of the styles or paragraphs appear in the incorrect place on the editing of Text Layer by ITextPortion|Bug|
 |PSDNET-1509|Formatting move when editing in photoshop|Bug|
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - T:Aspose.PSD.FileFormats.Psd.Layers.Gradient.GradientKind
@@ -78,12 +76,8 @@ This page contains release notes for [Aspose.PSD for .NET 23.4](https://www.nug
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GrdmResource.TransparencyPoints
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GrdmResource.MinimumColor
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GrdmResource.MaximumColor
-
-
 # **Removed APIs:**
 - None
-
-
 ## **Usage examples:**
 
 **PSDNET-1332. Integrate Gradient Map Adjustment Layer from Probation to main Aspose.PSD code**
@@ -101,8 +95,6 @@ using (var image = (PsdImage)Image.Load(sourceFile, new PsdLoadOptions()))
     AssertAreEqual(false, grdmResource.Reverse);
     AssertAreEqual((ulong)65535, grdmResource.ColorPoints[1].RawColor.Components[2].Value);
     AssertAreEqual((ulong)65535, grdmResource.ColorPoints[1].RawColor.Components[3].Value);
-
-
     grdmResource.Reverse = true;
     // Red color for second gradient color point
     grdmResource.ColorPoints[1].RawColor.Components[1].Value = ushort.MaxValue;
@@ -237,8 +229,6 @@ using (PsdImage psdImage = (PsdImage)Aspose.PSD.Image.Load(psdExportPath))
         throw new Exception("Can't find the second text style length, must be equal " + texts[1].Length); ;
     }
 }
-
-
 void replaceLsakText(IText textData)
 {
     var countPortions = textData.Items.Length;

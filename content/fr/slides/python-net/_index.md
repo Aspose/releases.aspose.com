@@ -15,8 +15,6 @@ weight:  8
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/slides" linktext=" Support Forum " >}}
-
-
 {{< ProductPageWrapper >}}
 
 <!-- ProductPageContent-->
@@ -49,12 +47,8 @@ Vous pouvez facilement utiliser <b>aspose.slides</b> pour Python à partir de
 
 <!-- /ProductPageContent-->
 
-
-
 <!-- ReleasesListProductPage-->
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="slides" product="python-net" >}}
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
-
-

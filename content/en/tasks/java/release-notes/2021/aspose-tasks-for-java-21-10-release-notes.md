@@ -58,8 +58,6 @@ This page contains release notes information for [Aspose.Tasks for Java 21.10](h
 | com.aspose.tasks.Project.print(com.aspose.tasks.PrinterSettings,com.aspose.tasks.PrintOptions) | Prints project according to the specified printer settings and custom save options using the standard (no User Interface) print controller.|
 | com.aspose.tasks.Project.print(com.aspose.tasks.PrinterSettings,java.lang.String) | Prints project according to the specified printer settings using the standard (no User Interface) print controller. |
 | com.aspose.tasks.Project.print(com.aspose.tasks.PrinterSettings,com.aspose.tasks.PrintOptions,java.lang.String) | Prints project according to the specified printer settings, custom save options and the specified document name using the standard (no User Interface) print controller. |
-
-
 ## **Examples and additional notes**
 
 **Related issue: TASKSJAVA-1539 - Implement printing support**
@@ -115,8 +113,6 @@ PdfSaveOptions saveOptions = new PdfSaveOptions()
 
 project.save("OutputScaledTo45.pdf", saveOptions);
 {{< /highlight >}}
-
-
 **Related issue: TASKSNET-4609 - Implement feature "Fit to X pages tall and Y pages wide"**
 
 Now PageSettings.PagesInWidth and PageSettings.PagesInHeight are taken into account when View is rendered.

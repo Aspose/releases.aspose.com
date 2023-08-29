@@ -16,8 +16,6 @@ section_parent_path: "slides/net"
 weight: 512
 ---
 
-
-
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="c-aspose-www-products-aspose.slides-releases-.net-7.4.0-Aspose.Slides für .NET.zip" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}

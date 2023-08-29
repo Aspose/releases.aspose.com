@@ -24,8 +24,6 @@ This release includes enhancement where [conflict history pages](https://docs.as
 |NOTENET-2386|Page metadata node is missed exception is raised while loading attached onenote files|Bug|
 
 ## **Public API and Backward Incompatible Changes**
-
-
 |**The following public methods and properties were added:**|**Description**|
 | :- | :- |
 |Aspose.Note.Page.IsConflictPage|Gets or sets a value indicating whether this page is a conflict page|

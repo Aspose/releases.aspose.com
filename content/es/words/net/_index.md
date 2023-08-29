@@ -53,8 +53,6 @@ Este paquete se puede utilizar para desarrollar aplicaciones para una amplia gam
 - Proporciona un amplio conjunto de funciones de utilidad que puede utilizar para dividir un documento en partes, unir documentos, comparar documentos y mucho más.
 
 Para familiarizarse con la funcionalidad más popular de Aspose.Words, consulte nuestro [free online applications](https://products.aspose.app/words/family).
-
-
 ### Formatos de lectura y escritura admitidos
 
 **Microsoft Word®:** DOC, DOT, DOCX, DOTX, DOTM, FlatOpc, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled, RTF, WordML\

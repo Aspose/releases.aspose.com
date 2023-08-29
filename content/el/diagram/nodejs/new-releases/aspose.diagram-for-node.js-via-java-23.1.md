@@ -14,8 +14,6 @@ download_count: " 11/1/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 3.28MB"
 parent_path: "diagram/nodejs"
 section_parent_path: "diagram/nodejs"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/diagram/nodejsjava/aspose-diagram-for-node-js-via-java-23-1-release-notes/"
 weight: 27
 
@@ -47,5 +45,3 @@ weight: 27
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

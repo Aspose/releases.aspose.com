@@ -14,8 +14,6 @@ download_count: " 30/1/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 184.25MB"
 parent_path: "page/cpp"
 section_parent_path: "page/cpp"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-1-release-notes/"
 weight: 99
 
@@ -47,5 +45,3 @@ weight: 99
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

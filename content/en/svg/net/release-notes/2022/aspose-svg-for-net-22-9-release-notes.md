@@ -19,8 +19,6 @@ This page contains release notes information for Aspose.SVG for .NET 22.9
 {{% /alert %}}
 
 ## **Major Features**
-
-
 As per the regular monthly update process of all APIs being offered by Aspose, we are honored to announce the September release of Aspose.SVG for .NET:
 
 We have 
@@ -30,8 +28,6 @@ We have
 * added support for representing SVG graphic elements as a collection of path segments;
 
 * extended GlyphInfo structure with a new StringRepresentation  property.
-
-
 ## **Public API changes:**
 
 ### **Added APIs:**

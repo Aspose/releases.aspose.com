@@ -14,8 +14,6 @@ download_count: " 4/7/2022 下载s: 1  Views: 1 "
 file_size: "File Size: 94.23MB"
 parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-7-release-notes-linux/"
 weight: 82
 
@@ -47,5 +45,3 @@ weight: 82
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

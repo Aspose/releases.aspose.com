@@ -14,8 +14,6 @@ download_count: " 31/12/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 45.77MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/email/net/aspose-email-for-net-22-12-release-notes/"
 weight: 558
 
@@ -47,5 +45,3 @@ weight: 558
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

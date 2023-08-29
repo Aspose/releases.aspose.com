@@ -13,7 +13,7 @@ download_count: " 29/10/2022 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 9.45MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
-tags: ""
+
 release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2022/aspose-zip-for-net-22-10-release-notes/"
 weight: 113
 ---

@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes for Aspose.CAD for .NET 20.8
 
 {{% /alert %}}
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 | CADNET-793 | [Support for Dxf Version](https://forum.aspose.com/t/issue-in-convert-dxf-to-pdf/196684) | Feature |

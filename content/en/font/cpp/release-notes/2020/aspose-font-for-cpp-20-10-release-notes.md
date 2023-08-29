@@ -17,8 +17,6 @@ family_listing_page_title: "Aspose.Font for C++ 20.10 Release Notes"
 
 The font names editing ability has been added (working with name TTF/OTF table). Saving TTF fonts functionality has been fixed.
 Encoding bugs appearance with the working in TrueType/OpenType font tables were fixed. An error occurred when saving any format fonts was checked and fixed.
-
-
 ## Changes and Improvements
 
 |Key|Summary|Category|

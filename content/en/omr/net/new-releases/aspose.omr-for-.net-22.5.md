@@ -58,8 +58,6 @@ The [result of OMR image recognition](https://reference.aspose.com/omr/net/aspos
 # Load OMR Form Images from Memory
 
 Images used in an OMR form can now be loaded not only from the file system, but also from memory through a special [`Aspose.OMR.Api.ImageCollection`](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-5-release-notes/#asposeomrapiimagecollection) object.
-
-
 # OMR Element Rounded Borders
 
 Added support for rounded OMR element borders.
@@ -123,8 +121,6 @@ Added support for rounded OMR element borders.
 **Result**
 
 ![rounded-border](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-5-release-notes/rounded-border.png)
-
-
 # Composite Grid Recognition
 
 Only one bubble per row or column is allowed to be marked. The row or column selection depends on the the orientation of the element.

@@ -15,8 +15,6 @@ weight:  4
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/pdf" linktext=" Support Forum " >}}
-
-
 {{< Common/h2 text="Κατεβάστε το Aspose.PDF για εφαρμογές Android"  >}}
 
 {{< Common/paragraph class="package-instructions">}}

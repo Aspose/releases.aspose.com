@@ -1023,6 +1023,4 @@ foreach (CadBaseEntity entity in image.Entities)
 
 {{< /highlight >}}
 
-
-
 [CADNET-495](https://helpdesk.aspose.com/scp/tickets.php?id=4889)

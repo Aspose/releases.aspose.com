@@ -33,8 +33,6 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 A new option was added to [PdfRenderingOptions](https://reference.aspose.com/svg/net/aspose.svg.rendering.pdf/pdfrenderingoptions/) class:
 
 - [DocumentInfo](https://reference.aspose.com/svg/net/aspose.svg.rendering.pdf/pdfrenderingoptions/documentinfo/);
-
-
 A new class [PdfDocumentInfo](https://reference.aspose.com/svg/net/aspose.svg.rendering.pdf/pdfdocumentinfo/) was added.
 
 ### **Changed APIs:**

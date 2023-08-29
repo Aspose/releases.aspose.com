@@ -70,15 +70,11 @@ Aspose.HTML.Net.RequestMessage.Timeout
 
 Aspose.HTML.Net.Headers.ContentTypeHeaderValue
 
-
-
 // Added possibility to specify the CSS media type during the rendering, the default value has been changed from 'Screen' to 'Print'. In order to receive an old behavior, please specify 'Screen' type.
 
 Aspose.HTML.Rendering.RenderingOptions.Css.MediaType
 
 enumeration Aspose.HTML.Rendering.MediaType
-
-
 // Since the 'page size' and 'page margin' could be defined both in CSS styles of document and user setting to resolve the priority conflict we have introduced 'AtPagePriority' property.
 
 Aspose.HTML.Rendering.PageSetup.AtPagePriority
@@ -110,9 +106,5 @@ Aspose.HTML.Net.ResponseMessage.Content
 EncodingAspose.HTML.Net.ResponseMessage.ContentType
 
 {{< /highlight >}}
-
-
-
-
 
 

@@ -100,8 +100,6 @@ Aspose.CAD for .Net has been updated to version 1.1.0 and we are pleased to anno
         CadBlockEntity cadBlockEntity = cadImage.BlockEntities[blockTableObjectReference.BlockName];
 
     }
-
-
     // search for text on specific layout - DXF case
 
     //// get all layout names and separate entities between layouts by their soft owners

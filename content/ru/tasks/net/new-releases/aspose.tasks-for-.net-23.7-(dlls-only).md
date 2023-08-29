@@ -14,8 +14,6 @@ download_count: " 21/7/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 23.22MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-7-release-notes/"
 weight: 501
 
@@ -47,5 +45,3 @@ weight: 501
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

@@ -274,8 +274,6 @@ This page contains release notes for Aspose.PSD for .NET 19.10
 
 {{< /highlight >}}
 
-
-
 **PSDNET-168. Add support of PSD export to PDF with Adjustment Layers**
 
 {{< highlight java >}}
@@ -319,8 +317,6 @@ This page contains release notes for Aspose.PSD for .NET 19.10
         var outputFilePath = Path.GetDirectoryName(filePath) + "\\target_" + fileName;
 
         psdImage.Save(outputFilePath, imageOptions);
-
-
 
 {{< /highlight >}}
 
@@ -471,7 +467,5 @@ var newText = "\r";
 		}
 
 {{< /highlight >}}
-
-
 
 

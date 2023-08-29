@@ -16,8 +16,6 @@ menuItemWithNoContent: false
 {{% alert color="primary" %}}
 
 This page contains release notes information for Aspose.Page for C++ 23.5.
-
-
 {{% /alert %}}
 
 ## Improvements and Changes
@@ -27,7 +25,5 @@ Aspose.Page for C++ 23.5 is based on **.NET version 23.5** and ready for use wit
 Add subsetting of embedded fonts.
 
 For more details see [Aspose.Page for .NET 23.5](/page/net/release-notes/2023/aspose-page-for-net-23-5-release-notes/)
-
-
 
 You can consult Aspose.Page for C++ [API reference](https://apireference.aspose.com/cpp/page/) for documentation.

@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes for Aspose.CAD for .NET 21.1
 
 {{% /alert %}}
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 | CADNET-1100 | [HoloLens 2 support  in Aspose.CAD](https://forum.aspose.com/t/unity-and-uwp-support-xl-81007/212022) | Feature |

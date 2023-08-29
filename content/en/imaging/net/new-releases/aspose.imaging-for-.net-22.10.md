@@ -13,7 +13,7 @@ download_count: " 3/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 43.89MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
-tags: ""
+
 release_notes_url: "https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-10-release-notes/"
 weight: 348
 ---
@@ -91,7 +91,5 @@ using (Image image = Image.Load("input.dng", new DngLoadOptions() { AdjustWhiteB
 For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Imaging for .NET 22.10 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-10-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
-
-
 
 

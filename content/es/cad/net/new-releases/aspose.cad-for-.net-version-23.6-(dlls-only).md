@@ -14,8 +14,6 @@ download_count: " 4/7/2023 Descargars: 1  Views: 1 "
 file_size: "File Size: 84.4MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-6-release-notes/"
 weight: 207
 
@@ -47,5 +45,3 @@ weight: 207
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

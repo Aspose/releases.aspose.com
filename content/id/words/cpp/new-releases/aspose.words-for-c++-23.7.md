@@ -14,8 +14,6 @@ download_count: " 26/7/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 406.53MB"
 parent_path: "words/cpp"
 section_parent_path: "words/cpp"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/words/cpp/aspose-words-for-cpp-23-7-release-notes/"
 weight: 219
 
@@ -47,5 +45,3 @@ weight: 219
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

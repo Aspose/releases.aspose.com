@@ -38,8 +38,6 @@ Une bibliothèque PHP qui permet aux développeurs d'ajouter rapidement et facil
 - Possibilité de lire et d'exporter des codes-barres dans plusieurs formats d'image, notamment BMP, GIF, JPEG et PNG.
 - Fournit un contrôle total sur les étiquettes de codes à barres.
 - Prend en charge la dimension X et la dimension Y pour les codes à barres 2D.
-
-
 [Product Page](https://products.aspose.com/barcode/php-java/) | [Docs](https://docs.aspose.com/barcode/phpjava/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/php) | [Examples](https://github.com/aspose-barcode/Aspose.Barcode-for-PHP-via-Java) | [Blog](https://blog.aspose.com/categories/aspose.barcode-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode/13) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}

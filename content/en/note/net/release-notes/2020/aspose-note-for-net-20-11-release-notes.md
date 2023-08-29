@@ -24,14 +24,10 @@ This page contains release notes information for [Aspose.Note for .NET 20.11](ht
 - Save the document as a black and white image
 
 ## **Features and Improvements**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |NOTENET-3060|Save the OneNote with color(Black & White,Greyscale and Color)|New Feature|
 |NOTENET-2953|Remove TableCell.IndentPosition/TableCellNode.OutlineElementChildLevel from public api |Enhancement|
-
-
 ## **Public API and Backward Incompatible Changes**
 
 |**The following public types were added:**|**Description**|

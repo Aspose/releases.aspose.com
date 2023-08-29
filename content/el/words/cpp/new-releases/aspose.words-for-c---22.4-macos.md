@@ -29,8 +29,6 @@ weight: 179
       {{< Common/li class="downloadcount" id="dwn-update-244118201ff145959f0826bd67c082b8" >}} 10 {{< /Common/li >}} 
       {{< Common/li  >}} Μέγεθος αρχείου: {{< /Common/li >}} 
       {{< Common/li id="size-update-244118201ff145959f0826bd67c082b8" >}} 82.6 MB {{< /Common/li >}} 
-
-
       {{< Common/li  >}} Ημερομηνία προστέθηκε: {{< /Common/li >}} 
       {{< Common/li id="added-update-244118201ff145959f0826bd67c082b8" >}} 4/13/2022 {{< /Common/li >}} 
 
@@ -41,5 +39,3 @@ weight: 179
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

@@ -449,8 +449,6 @@ List<CadBaseObject> list = new List<CadBaseObject>(cadImage.Objects);
 list.Add(cadRasterImageDef);
 
 cadImage.Objects = list.ToArray();
-
-
 PdfOptions pdfOptions = new PdfOptions();
 
 CadRasterizationOptions cadRasterizationOptions = new CadRasterizationOptions();

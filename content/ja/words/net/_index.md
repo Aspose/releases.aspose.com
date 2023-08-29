@@ -53,8 +53,6 @@ Aspose.Words for .NET は、C#、F#、VB.NET の開発者が、ドキュメン�
 - ユーティリティ機能の豊富なセットを提供します。ドキュメントをパーツに分割したり、ドキュメントを結合したり、ドキュメントを比較したりできます。
 
 最も人気のある Aspose.Words の機能を理解するには、[free online applications](https://products.aspose.app/words/family) を参照してください。
-
-
 ### サポートされている読み取りおよび書き込み形式
 
 **Microsoft Word®:** DOC、DOT、DOCX、DOTX、DOTM、FlatOpc、FlatOpcMacroEnabled、FlatOpcTemplate、FlatOpcTemplateMacroEnabled、RTF、WordML\

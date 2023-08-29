@@ -14,8 +14,6 @@ download_count: " 2/9/2022 Descargars: 1  Views: 1 "
 file_size: "File Size: 48.81MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/"
 weight: 8
 
@@ -47,5 +45,3 @@ weight: 8
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

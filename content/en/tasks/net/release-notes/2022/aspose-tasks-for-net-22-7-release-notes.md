@@ -64,8 +64,6 @@ This page contains release notes information for [Aspose.Tasks for .Net 22.7](ht
 | Aspose.Tasks.Tsk.FinishSlack |  |
 | Aspose.Tasks.Tsk.FreeSlack |  |
 | Aspose.Tasks.Tsk.TotalSlack |  |
-
-
 ## **Examples and additional notes**
 
 **Related issue: TASKSNET-10589 - Add an ability to map member of Tsk class to MS Project's default field title**

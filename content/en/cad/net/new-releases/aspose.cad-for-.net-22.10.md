@@ -14,8 +14,6 @@ download_count: " 7/11/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 61.27MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-10-release-notes/"
 weight: 190
 
@@ -47,5 +45,3 @@ weight: 190
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

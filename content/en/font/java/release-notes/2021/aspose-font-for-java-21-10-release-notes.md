@@ -12,8 +12,6 @@ hideChildren: false
 toc: true
 family_listing_page_title: "Aspose.Font for Java 21.10 Release Notes"
 ---
-
-
 {{% alert color="primary" %}} 
 
 This page contains release notes information for Aspose.Font for Java 21.10.
@@ -27,8 +25,6 @@ Conversion functionality for CFF and WOFF2 format  has been fixed.
 | FONTNET-286 | Incorrect calculation of transformation matrix for CFF fonts | Bug |
 | FONTNET-274 | Encoding problem for ttf to woff2 conversion | Bug |
 | FONTNET-275 | Null reference exception when converting font OpenSans from cff to ttf format | Bug |
-
-
 ## Public API and Backwards Incompatible Changes
 
 ### Added APIs

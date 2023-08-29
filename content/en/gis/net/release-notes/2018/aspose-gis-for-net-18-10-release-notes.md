@@ -66,5 +66,3 @@ ISurface.GetPointOnSurface()
 IGeometry.Covers(IGeometry)
 
 IGeometry.CoveredBy(IGeometry)
-
-

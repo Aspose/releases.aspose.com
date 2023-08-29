@@ -22,8 +22,6 @@ This page contains release notes information for [Aspose.Note for .NET 20.7](htt
 ## **Major Features**
 - New license type support
 ## **Features and Improvements**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |NOTENET-3079|Support for .NET 5.0|Enhancement|

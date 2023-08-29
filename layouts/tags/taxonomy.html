@@ -1,0 +1,6 @@
+{{ define "main" }}
+  <main id="tags">
+    {{ with .Title }}<h1>{{ "Tag: " }}{{ . }}</h1>{{ end }}
+    {{ partial "postsByDate.html" . }}
+  </main>
+{{ end }}

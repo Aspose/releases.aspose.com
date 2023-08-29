@@ -154,8 +154,6 @@ packages_refs:
 | ß | à | á | â | ã | ä | æ | ç | è | é |
 | ê | ë | ì | í | î | ï | ñ | ò | ó | ô |
 | õ | ö | ù | ú | û | ü | ÿ | Œ | œ | Ÿ |
-
-
 ## Load Images for OCR
 
 **Raster Formats:** JPEG, PNG, GIF, BMP, TIFF

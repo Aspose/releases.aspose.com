@@ -14,8 +14,6 @@ download_count: " 30/6/2022 Downloads: 10  Views: 1 "
 file_size: "File Size: 11.62MB"
 parent_path: "barcode/python-java"
 section_parent_path: "barcode/python-java"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-22-6/"
 weight: 31
 
@@ -47,6 +45,4 @@ weight: 31
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

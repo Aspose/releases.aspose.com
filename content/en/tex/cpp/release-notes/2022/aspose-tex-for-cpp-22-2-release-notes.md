@@ -16,8 +16,6 @@ menuItemWithNoContent: false
 ## Improvements and Changes
 
 Aspose.TeX for C++ 22.2  is based on the latest [Aspose.TeX for .NET 22.2](/tex/net/release-notes/2022/aspose-tex-for-net-22-2-release-notes/) and ready for use with Aspose c++ products ver 22.2.
-
-
 You can consult Aspose.TeX for C++ [API reference](https://reference.aspose.com/tex/cpp/) for documentation.
 
 ## Got Queries?

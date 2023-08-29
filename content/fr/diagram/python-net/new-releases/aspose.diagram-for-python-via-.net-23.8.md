@@ -14,8 +14,6 @@ download_count: " 21/8/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 179.65MB"
 parent_path: "diagram/python-net"
 section_parent_path: "diagram/python-net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-8-release-notes/"
 weight: 14
 
@@ -47,5 +45,3 @@ weight: 14
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

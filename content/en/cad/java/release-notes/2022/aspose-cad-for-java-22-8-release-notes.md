@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes for Aspose.CAD for Java 22.8
 
 {{% /alert %}}
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 | CADJAVA-10687 | Aspose.CAD 22.1: Wrong layout when converting particular DWG | Enhancement |

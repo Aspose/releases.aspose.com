@@ -16,5 +16,3 @@ section_parent_path: "imaging/net"
 weight: 338
 ---
 
-
-

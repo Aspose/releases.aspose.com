@@ -14,8 +14,6 @@ download_count: " 12/4/2022 Downloads: 25  Views: 13 "
 file_size: "File Size: 18.38MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-4-release-notes/"
 weight: 467
 
@@ -47,5 +45,3 @@ weight: 467
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

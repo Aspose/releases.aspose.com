@@ -14,8 +14,6 @@ download_count: " 13/12/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 21.47MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-12-release-notes/"
 weight: 486
 
@@ -47,5 +45,3 @@ weight: 486
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

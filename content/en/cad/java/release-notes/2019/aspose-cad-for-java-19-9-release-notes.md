@@ -431,8 +431,6 @@ Property      com.aspose.cad.license.isLicensed
 # **Usage examples:**
 **CADJAVA-546 - Support of CF2 Files**
 
-
-
 {{< highlight java >}}
 
  Image image = Image.load(getCf2File("test-2010.cf2"));
@@ -446,11 +444,5 @@ Property      com.aspose.cad.license.isLicensed
 }
 
 {{< /highlight >}}
-
-
-
-
-
-
 
 

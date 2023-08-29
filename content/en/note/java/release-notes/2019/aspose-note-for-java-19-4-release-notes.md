@@ -23,8 +23,6 @@ This page contains release notes information for Aspose.Note for Java 19.4.
 - Management of Locale used by Aspose.Note
 
 ## **Features and Improvements**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |NOTEJAVA-465|Provision to set locales|New Feature|

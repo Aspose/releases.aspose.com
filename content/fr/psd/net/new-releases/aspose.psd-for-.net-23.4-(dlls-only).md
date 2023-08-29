@@ -14,8 +14,6 @@ download_count: " 18/4/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 24.49MB"
 parent_path: "psd/net"
 section_parent_path: "psd/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/psd/net/release-notes/2023/aspose-psd-for-net-23-4-release-notes/"
 weight: 180
 
@@ -47,5 +45,3 @@ weight: 180
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

@@ -49,8 +49,6 @@ Aspose.Imaging for JasperReports, raporları JasperReports®'tan desteklenen çe
 **Sabit Düzen:** PDF\
 **Web:** WebP, HTML5 Kanvas\
 **Sıkıştırılmış:** EMZ, WMZ, SVGZ
-
-
 #### Sistem gereksinimleri
 
 - Java 2 Platform Standard Edition 1.6 veya üstü.

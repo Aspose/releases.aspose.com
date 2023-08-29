@@ -1,0 +1,12 @@
+{{ range .Data.Pages.GroupByDate "2006" }}
+
+  <ul id="postsByDate">
+    {{ range .Pages }}
+      <li>        
+        <div class="title">
+          <a href="{{ .RelPermalink }}">{{.Title }}</a>
+        </div>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

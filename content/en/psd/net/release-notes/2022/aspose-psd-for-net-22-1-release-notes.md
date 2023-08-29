@@ -25,8 +25,6 @@ This page contains release notes for [Aspose.PSD for .NET 22.1](https://www.nug
 |PSDNET-1056|Temp files overflow when opening a file from stream|Bug|
 |PSDNET-991|Rendering optimization for Gaussian blur smart filter|Feature|
 |PSDNET-1044|Support of many patterns data at PattResource|Feature|
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - M:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResource.#ctor(System.Int32,Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResourceData[])
@@ -45,8 +43,6 @@ This page contains release notes for [Aspose.PSD for .NET 22.1](https://www.nug
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResourceData.Length
 - M:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResourceData.Save(Aspose.PSD.StreamContainer)
 - M:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResourceData.SetPattern(System.Int32[],Aspose.PSD.Rectangle)
-
-
 # **Removed APIs:**
 - M:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResource.#ctor(System.Byte[])
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResource.PatternData
@@ -58,8 +54,6 @@ This page contains release notes for [Aspose.PSD for .NET 22.1](https://www.nug
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResource.Version
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResource.PatternLength
 - M:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResource.SetPattern(System.Int32[],Aspose.PSD.Rectangle)
-
-
 ## **Usage examples:**
 **PSDNET-1017. PatternOverlay can be applied only once**
 {{< highlight csharp >}}

@@ -73,8 +73,6 @@ Microsoft SharePoint Server 2010
 -Mozilla FireFox 3.5
 -Google Chrome3
 - Safári 4
-
-
 ### Serviços de hospedagem/compartilhamento de arquivos suportados
 
 - Servidor FTP

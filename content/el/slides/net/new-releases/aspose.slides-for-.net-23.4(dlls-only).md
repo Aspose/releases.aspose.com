@@ -14,8 +14,6 @@ download_count: " 20/4/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 154.88MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-23-4-release-notes/"
 weight: 764
 
@@ -47,5 +45,3 @@ weight: 764
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

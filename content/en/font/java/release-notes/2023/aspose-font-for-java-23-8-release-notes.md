@@ -24,7 +24,5 @@ Fixed *IndexOutOfRangeException* when measuring string for **CFF** font.
 | Key | Summary | Category |
 |---|---|---|
 | FONTNET-579 | Method *MeasureString()* throws *System.IndexOutOfRangeException* for **CFF** fonts | Bug |
-
-
 ## Got Queries?
 If you have any query related to Aspose.Font for .NET API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.

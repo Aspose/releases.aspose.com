@@ -37,8 +37,6 @@ Major features and improvements in this release:
 ###### **IGeometry has immutable HasZ and HasM**
 IGeometry was designed to be immutable. Setters for HasZ and HasM were present there which have been removed now.
 
-
-
 |**C# (before v18.4)**|
 | :- |
 |void HandleGeometry(IGeometry geometry)<br>{<br>`    `geometry.HasZ = true; // you could change HasZ directly on IGeometry<br>`    `// ...<br>}|

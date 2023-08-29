@@ -22,8 +22,6 @@ This page contains release notes information for Aspose.Note for .NET 19.5.
 ## **Major Features**
 - Support for .NET Core
 ## **Features and Improvements**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |NOTENET-2153|Support for .NET Core|New Feature|

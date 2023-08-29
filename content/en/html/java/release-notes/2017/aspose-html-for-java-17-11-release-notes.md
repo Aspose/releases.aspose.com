@@ -35,15 +35,11 @@ HTMLCollection com.aspose.html.dom.Element.QuerySelectorAll(String selector)
 
 NodeList com.aspose.html.dom.Element.QuerySelectorAll(String selector)
 
-
-
 HTMLCollection com.aspose.html.dom.Document.QuerySelectorAll(String selector)
 
 // has been replaced with
 
 NodeList com.aspose.html.dom.Document.QuerySelectorAll(String selector)
-
-
 
 com.aspose.html.rendering.pdf.Encryption(String userPassword, String ownerPassword, int permissions, PdfEncryptionAlgorithm encryptionAlgorithm)
 

@@ -146,8 +146,6 @@ This page contains release notes for Aspose.CAD for .NET 19.5
 # **Usage examples:**
 **CADNET-539 Support saving into SVG**
 
-
-
 {{< highlight java >}}
 
  using (Image image = Image.Load(GetDwgFile("test-2010.dwg")))
@@ -180,8 +178,6 @@ This page contains release notes for Aspose.CAD for .NET 19.5
 
         PdfOptions pdfOptions = new PdfOptions();
 
-
-
         CadRasterizationOptions cadRasterizationOptions = new CadRasterizationOptions();
 
         pdfOptions.VectorRasterizationOptions = cadRasterizationOptions;
@@ -189,8 +185,6 @@ This page contains release notes for Aspose.CAD for .NET 19.5
         cadRasterizationOptions.PageWidth = 800;
 
         cadRasterizationOptions.PageHeight = 600;
-
-
 
         int idxError = 1;
 
@@ -200,21 +194,13 @@ This page contains release notes for Aspose.CAD for .NET 19.5
 
             {
 
-
-
                 Console.WriteLine("Tracking results of exporting");
-
-
 
                 if (result.IsRenderComplete)
 
                     return;
 
-
-
                 Console.WriteLine("Have some problems:");
-
-
 
                 foreach (RenderResult rr in result.Failures)
 
@@ -222,11 +208,7 @@ This page contains release notes for Aspose.CAD for .NET 19.5
 
                         rr.Message));
 
-
-
             });
-
-
 
         Console.WriteLine("Exporting to pdf format");
 

@@ -20,8 +20,6 @@ This page contains release notes information for Aspose.Font for .NET 21.4.
 {{% /alert %}} 
 
 WOFF2 converting and saving support has been added. SHA-256 license type has been supported. Specific functionality for working with glyphs has been added.
-
-
 | Key | Summary | Category |
 |---|---|---|
 | FONTNET-185 | Combining characters from different fonts | New Feature |
@@ -41,7 +39,5 @@ WOFF2 converting and saving support has been added. SHA-256 license type has bee
 * Method Aspose.Font.TtfHelpers.IFontCharactersMerger.MergeFonts(Aspose.Font.Glyphs.GlyphId[],Aspose.Font.Glyphs.GlyphId[],System.String)
 * Method Aspose.Font.TtfHelpers.IFontCharactersMerger.MergeFonts(System.UInt32[],System.UInt32[],System.String)
 * Method Aspose.Font.TtfHelpers.IFontCharactersMerger.MergeFonts(System.Collections.Generic.IDictionary<System.UInt32,Aspose.Font.Glyphs.GlyphId>,System.Collections.Generic.IDictionary<System.UInt32,Aspose.Font.Glyphs.GlyphId>,System.String)
-
-
 ## Got Queries?
 If you have any query related to Aspose.Font for .NET API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.

@@ -43,8 +43,6 @@ This page contains release notes information for [Aspose.Tasks for Java 23.1](ht
 | com.aspose.tasks.PrimaveraTaskProperties.getActualNonLaborUnits() | Gets the value of actual non labor units. |
 | com.aspose.tasks.PrimaveraTaskProperties.getRemainingLaborUnits() | Gets the value of remaining labor units. |
 | com.aspose.tasks.PrimaveraTaskProperties.getRemainingNonLaborUnits() | Gets the value of remaining non labor units. |
-
-
 ## **Examples and additional notes**
 
 All exceptions from packages starting with com.aspose.tasks.private_.ms.System have been moved to the com.aspose.tasks.exceptions package.

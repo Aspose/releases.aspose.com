@@ -14,8 +14,6 @@ homepage_package_link: "https://pypi.org/project/aspose.slides/"
 weight:  8
 ---
 {{< dbToolbar link="https://forum.aspose.com/c/slides" linktext=" Support Forum " >}}
-
-
 {{< Common/h3 text="Download Aspose.Slides Python Library for Presentation Processing API"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Slides for Python via .NET that enables the Python applications to manipulate, render & convert PowerPoint presentations without requiring Microsoft PowerPoint application.
@@ -35,8 +33,6 @@ Please use the following {{< Common/link href="https://pypi.org/project/aspose.s
        {{< consolebox/textarea id="pip" >}} pip install aspose.slides {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
-
-
 
 {{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}

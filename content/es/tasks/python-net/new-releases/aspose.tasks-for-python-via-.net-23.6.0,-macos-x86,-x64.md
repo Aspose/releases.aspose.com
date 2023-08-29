@@ -14,8 +14,6 @@ download_count: " 23/6/2023 Descargars: 1  Views: 1 "
 file_size: "File Size: 51.97MB"
 parent_path: "tasks/python-net"
 section_parent_path: "tasks/python-net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-6-release-notes/"
 weight: 20
 
@@ -47,5 +45,3 @@ weight: 20
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

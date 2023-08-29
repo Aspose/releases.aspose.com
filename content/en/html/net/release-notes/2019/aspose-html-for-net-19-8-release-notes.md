@@ -12,8 +12,6 @@ toc: false
 family_listing_page_title: "Aspose.HTML for .NET 19.8 Release Notes"
 menuItemWithNoContent: false
 ---
-
-
 {{% alert color="primary" %}} 
 
 This page contains release notes for [Aspose.HTML for .NET 19.8](https://www.nuget.org/packages/Aspose.Html/19.8.0)

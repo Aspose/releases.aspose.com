@@ -409,8 +409,6 @@ This page contains release notes information for [Aspose.Tasks for Java 22.11](h
 |**The following public enumerations were deleted:**|**Description**|
 | :- | :- |
 | com.aspose.tasks.CalculationType.Rollup |  |
-
-
 ## **Examples and additional notes**
 
 **Related issue: TASKSNET-3855 - Implement the API to access entities' fields using .NET properties**

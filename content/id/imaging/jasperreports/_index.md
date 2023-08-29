@@ -49,8 +49,6 @@ Aspose.Imaging for JasperReports membantu Anda mengekspor laporan dari JasperRep
 **Tata Letak Tetap:** PDF\
 **Web:** WebP, HTML5 Canvas\
 **zip:** EMZ, WMZ, SVGZ
-
-
 #### Persyaratan sistem
 
 - Java 2 Platform Standard Edition 1.6 atau lebih tinggi.

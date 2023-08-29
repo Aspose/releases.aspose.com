@@ -1322,5 +1322,3 @@ if (!(image is PsdImage)) return;
 {{< /highlight >}}
 
 
-
-

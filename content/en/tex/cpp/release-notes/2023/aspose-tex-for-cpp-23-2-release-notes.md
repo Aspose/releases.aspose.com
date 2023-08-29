@@ -56,8 +56,6 @@ The code base is [Aspose.TeX for .NET 23.2](/tex/net/release-notes/2023/aspose-t
 |Property| Aspose::TeX::Features::MathRendererOptions::Preamble
 |Property| Aspose::TeX::Features::MathRendererOptions::Scale
 |Property| Aspose::TeX::Features::MathRendererOptions::ShowTerminal
-
-
 You can consult Aspose.TeX for C++ [API reference](https://reference.aspose.com/tex/cpp/) for documentation.
 
 ## Got Queries?

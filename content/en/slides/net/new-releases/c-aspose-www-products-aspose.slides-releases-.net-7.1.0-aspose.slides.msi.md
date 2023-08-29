@@ -16,8 +16,6 @@ section_parent_path: "slides/net"
 weight: 503
 ---
 
-
-
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt=" c-aspose-www-products-aspose.slides-releases-.net-7.1.0-Aspose.Slides.msi" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}

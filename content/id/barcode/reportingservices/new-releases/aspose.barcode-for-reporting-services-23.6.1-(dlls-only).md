@@ -14,8 +14,6 @@ download_count: " 9/8/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 11.33MB"
 parent_path: "barcode/reportingservices"
 section_parent_path: "barcode/reportingservices"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-23-6-1-release-notes/"
 weight: 323
 
@@ -47,5 +45,3 @@ weight: 323
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

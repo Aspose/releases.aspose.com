@@ -267,8 +267,6 @@ Added overridden methods for ConvertEPUB() and ConvertMHTML() in order to add ab
         /// <param name="provider"><see cref="ICreateStreamProvider"/> implementation.</param>
 
         public static void ConvertEPUB(Stream stream, Configuration configuration, ImageSaveOptions options, ICreateStreamProvider provider) {}
-
-
         /// <summary>
 
         /// Convert mhtml source to xps. Result is xps file.

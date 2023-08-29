@@ -14,8 +14,6 @@ download_count: " 15/8/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 160.78MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-8-release-notes"
 weight: 855
 
@@ -47,5 +45,3 @@ weight: 855
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

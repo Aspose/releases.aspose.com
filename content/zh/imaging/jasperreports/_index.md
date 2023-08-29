@@ -49,8 +49,6 @@ Aspose.Imaging for JasperReports 可帮助您将报告从 JasperReports® 导出
 **固定布局：** PDF\
 **Web：** WebP、HTML5 Canvas\
 **压缩：** EMZ、WMZ、SVGZ
-
-
 ＃＃＃＃ 系统要求
 
 - Java 2 平台标准版 1.6 或更高版本。

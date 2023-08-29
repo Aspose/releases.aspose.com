@@ -80,8 +80,6 @@ This page contains release notes information for [Aspose.Tasks for .Net 21.6](ht
 | Aspose.Tasks.Visualization.FillPattern.SolidFillWithDashedBorder | Solid with dashed border pattern. |
 | Aspose.Tasks.Visualization.HorizontalAlignment.Left | The object is aligned on the left of the target element. |
 | Aspose.Tasks.Visualization.HorizontalAlignment.Right | The object is aligned on the right of the target element. |
-
-
 ## **Examples and additional notes**
 
 **Related issue: TASKSNET-4903 - Add ExecutingWebRequest event for interactions with API of ProjectOnline \ ProjectServer.**
@@ -95,8 +93,6 @@ manager.ExecutingWebRequest += delegate(object sender, WebRequestEventArgs e)
 	e.WebRequest.Headers.Add("XMyCustomHeader", "testvalue");
 };
 {{< /highlight >}}
-
-
 **Related issue: TASKSNET-4696 - Add support of 'Display OLE as Icon' property.**
 
 Now you can read OleObject's DisplayAsIcon property to determine whether OLE object should be displayed as icon or as its regular picture.
@@ -104,8 +100,6 @@ Also new entity was introduced: ***VisualObjectPlacement*** which represents vis
 It corresponds to "Format Drawing" dialog window called by "Properties" command from OleObject's (or another visual object in a view) context menu:
 
 ![Format Drawing](../OleObjectProperties2.png)
-
-
 {{< highlight csharp >}}
 Project project = new Project("ProjectWithOleObjects.mpp");
 var view = project.Views.First(v => v.Name == "&Gantt Chart");

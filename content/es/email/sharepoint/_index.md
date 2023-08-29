@@ -73,8 +73,6 @@ Microsoft SharePoint Server 2010
 - Mozilla Firefox 3.5
 - Google Chrome 3
 - Safari 4
-
-
 ### Servicios de alojamiento/compartición de archivos admitidos
 
 - Servidor FTP

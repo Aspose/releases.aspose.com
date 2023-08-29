@@ -60,8 +60,6 @@ saveOptions->set_Timescale(Aspose::Tasks::Visualization::Timescale::DefinedInVie
 project->Save(u"OutputScaledTo45.pdf", saveOptions);
 }
 {{< /highlight >}}
-
-
 **Related issue: TASKSNET-4609 - Implement feature "Fit to X pages tall and Y pages wide"**
 
 Now PageSettings.PagesInWidth and PageSettings.PagesInHeight are taken into account when View is rendered.

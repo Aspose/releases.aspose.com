@@ -40,8 +40,6 @@ This page contains release notes information for [Aspose.Tasks for .Net 21.7](ht
 | Aspose.Tasks.TaskBaselineCollection.ParentTask |  |
 | Aspose.Tasks.WeekDayCollection.ParentCalendar |  |
 | Aspose.Tasks.WorkWeek.ParentCalendar |  |
-
-
 ## **Examples and additional notes**
 
 **Related issue: Fix Invalid Tsk.Id when blank line is inserted**

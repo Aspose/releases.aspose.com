@@ -25,8 +25,6 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 
 - we have added support of rtl (right to left languages) to conversion and rendering of SVG documents;
 - updated the SVG serialization algorithms according to the latest documentation.
-
-
 ## **Public API changes:**
 
 ### **Added APIs:**

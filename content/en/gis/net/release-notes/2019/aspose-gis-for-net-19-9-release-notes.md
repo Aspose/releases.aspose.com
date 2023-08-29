@@ -24,12 +24,8 @@ Major features and improvements in this release:
 - Build spatial and attributes indices
 - Use these indices to filter features in vector layer.
 ## **Full List of Issues Covering all Changes in this Release**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |GISNET-348|Filtering and Indexing|New Feature|
 ## **Public API and Backward Incompatible Changes**
 None
-
-

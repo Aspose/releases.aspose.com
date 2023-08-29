@@ -14,8 +14,6 @@ menuItemWithNoContent: false
 ---
 
 ## Aspose.TeX 23.5 for .NET has been released!
-
-
 | Key | Summary | Category |
 |---|---|---|
 | TEXNET-249 | Embed fonts required by the amsfonts package | Enhancement |

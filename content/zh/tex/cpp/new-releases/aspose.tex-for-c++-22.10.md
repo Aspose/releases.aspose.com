@@ -14,8 +14,6 @@ download_count: " 21/10/2022 Downloads: 2  Views: 1 "
 file_size: "File Size: 196.01MB"
 parent_path: "tex/cpp"
 section_parent_path: "tex/cpp"
-
-tags: ""
 release_notes_url: “https://releases.aspose.com/tex/cpp/release-notes/2022/aspose-tex-for-cpp-22-10-release-notes/”
 weight: 50
 
@@ -47,6 +45,4 @@ weight: 50
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

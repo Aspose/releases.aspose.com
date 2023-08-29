@@ -26,8 +26,6 @@ Major features and improvements in this release:
 ## **Full List of Issues Covering all Changes in this Release**
 
 
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |GISNET-478|Raster image marker|New Feature|
@@ -35,5 +33,3 @@ Major features and improvements in this release:
 |GISNET-476|NullReferenceException in UseAttributesIndex|Bug|
 ## **Public API and Backward Incompatible Changes**
 None
-
-

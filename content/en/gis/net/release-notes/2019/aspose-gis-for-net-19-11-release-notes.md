@@ -42,11 +42,7 @@ Now "Driver" is a base class for "FileDriver" and "DatabaseDriver". Public entri
 |**C# (since v19.11)**|
 | :- |
 |<p>void HandleFile(string path)</p><p>{</p><p>`    `using (var layer = VectorLayer.Open(path, Drivers.Shapefile))</p><p>`    `{</p><p>`       `FileDriver driver = (FileDriver)layer.Driver;</p><p>`       `Console.WriteLine(driver.CanCreateLayers);</p><p>`    `}</p><p>}</p><p></p><p>VectorLayer OpenWithDriver(FileDriver driver, string path)</p><p>{</p><p>`    `return driver.OpenLayer(path);</p><p>}</p>|
-
-
 |**C# (before v19.11)**|
 | :- |
 |<p>void HandleFile(string path)</p><p>{</p><p>`    `using (var layer = VectorLayer.Open(path, Drivers.Shapefile))</p><p>`    `{</p><p>`        `Driver driver = layer.Driver;</p><p>`        `Console.WriteLine(driver.CanCreateLayers);</p><p>`    `}</p><p>}</p><p></p><p>VectorLayer OpenWithDriver(Driver driver, string path)</p><p>{</p><p>`    `return driver.OpenLayer(path);</p><p>}</p>|
-
-
 

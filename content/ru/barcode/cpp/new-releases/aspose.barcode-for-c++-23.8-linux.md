@@ -14,8 +14,6 @@ download_count: " 21/8/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 44.23MB"
 parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-23-8-release-notes/"
 weight: 100
 
@@ -47,5 +45,3 @@ weight: 100
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

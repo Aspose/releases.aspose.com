@@ -14,8 +14,6 @@ download_count: " 16/6/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 37.33MB"
 parent_path: "barcode/python-net"
 section_parent_path: "barcode/python-net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/barcode/python-net/aspose-barcode-for-python-via-dotnet-23-5/"
 weight: 8
 
@@ -47,5 +45,3 @@ weight: 8
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

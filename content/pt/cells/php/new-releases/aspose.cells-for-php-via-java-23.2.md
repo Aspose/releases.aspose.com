@@ -14,8 +14,6 @@ download_count: " 10/2/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 11.76MB"
 parent_path: "cells/php"
 section_parent_path: "cells/php"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/cells/php-java/aspose-cells-for-php-via-java-23-2-release-notes/"
 weight: 38
 
@@ -47,5 +45,3 @@ weight: 38
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

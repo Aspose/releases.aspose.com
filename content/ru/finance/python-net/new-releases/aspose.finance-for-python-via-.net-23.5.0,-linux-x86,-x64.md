@@ -14,8 +14,6 @@ download_count: " 9/6/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 50.69MB"
 parent_path: "finance/python-net"
 section_parent_path: "finance/python-net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-5-release-notes/"
 weight: 10
 
@@ -47,5 +45,3 @@ weight: 10
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

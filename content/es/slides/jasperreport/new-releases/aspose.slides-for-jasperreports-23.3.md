@@ -14,8 +14,6 @@ download_count: " 22/3/2023 Descargars: 1  Views: 1 "
 file_size: "File Size: 66.92MB"
 parent_path: "slides/jasperreport"
 section_parent_path: "slides/jasperreport"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-23-3-release-notes/"
 weight: 160
 
@@ -47,5 +45,3 @@ weight: 160
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

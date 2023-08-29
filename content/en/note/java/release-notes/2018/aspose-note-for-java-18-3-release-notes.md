@@ -24,8 +24,6 @@ This page contains release notes information for Aspose.Note for Java 18.3.
 - Evaluation's mode restrictions are reworked
 
 ## **Features and Improvements**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |NOTENET-1991|Make evaluation mode limitations more clear|New Feature|
@@ -36,8 +34,6 @@ This page contains release notes information for Aspose.Note for Java 18.3.
 |NOTENET-2337|Crash while trying to clone Aspose.Note.Document page by page|Bug|
 |NOTENET-2540|Ability to copy page from .one document to a new .one document|Bug|
 ## **Public API and Backward Incompatible Changes**
-
-
 |**Public types added**|**Description**|
 | :-: | :-: |
 |com.aspose.note.DisplayUnitsConverter|The class contains the methods for converting values|

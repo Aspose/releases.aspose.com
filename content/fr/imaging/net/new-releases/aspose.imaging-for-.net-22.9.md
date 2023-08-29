@@ -13,7 +13,7 @@ download_count: " 2/9/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 43.59MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
-tags: ""
+
 release_notes_url : "https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-9-release-notes/"
 weight: 346
 ---

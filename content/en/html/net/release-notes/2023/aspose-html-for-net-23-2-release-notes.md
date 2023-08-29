@@ -33,6 +33,4 @@ In this release, we have improved the quality of rendering and creating document
 
 ## Compatibility Notice
 
-
-
 Also, we would like to inform our customers that starting from version 23.4, we will only be supporting .NetStandard 2.0.

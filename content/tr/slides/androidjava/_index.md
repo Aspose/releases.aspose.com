@@ -15,8 +15,6 @@ weight:  4
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/slides" linktext=" Support Forum " >}}
-
-
 {{< ProductPageWrapper >}}
 
 <!-- ProductPageContent-->
@@ -36,8 +34,6 @@ Mobil uygulama programcıları için bir PowerPoint Dosya Manipülasyon API'sı.
    {{< Common/li >}} Render presentations or slides to fixed layout formats such as PDF as well as raster images. {{< /Common/li >}}
 
  {{< /Common/ul>}}
-
-
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 {{< Common/h4 text="Aspose.Slides'i Maven'den indirin"  >}}
@@ -64,12 +60,8 @@ Aspose.Slides for Java'yı doğrudan bir
 
 <!-- /ProductPageContent-->
 
-
-
 <!-- ReleasesListProductPage-->
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="slides" product="androidjava" >}}
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
-
-

@@ -226,8 +226,6 @@ This page contains release notes for [Aspose.PSD for .NET 19.12](https://www.nu
 
 {{< /highlight >}}
 
-
-
 ` `**PSDNET-250. Exception on loading CMYK PSD file without layer with RLE compression**
 
 {{< highlight java >}}
@@ -304,8 +302,6 @@ This page contains release notes for [Aspose.PSD for .NET 19.12](https://www.nu
 
 {{< /highlight >}}
 
-
-
 **PSDNET-222. Resize some PSD files with layer masks works incorrect**
 
 {{< highlight java >}}
@@ -351,8 +347,6 @@ This page contains release notes for [Aspose.PSD for .NET 19.12](https://www.nu
         }
 
 {{< /highlight >}}
-
-
 
 **PSDNET-244. Saving PSD with some Globalization.CultureInfo.CurrentCulture leads to exceptions on loading**
 
@@ -409,6 +403,4 @@ This page contains release notes for [Aspose.PSD for .NET 19.12](https://www.nu
         }
 
 {{< /highlight >}}
-
-
 

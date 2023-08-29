@@ -68,8 +68,6 @@ if (!resp.Successful)
 # Prise en charge du client SendGrid
 
 Ajout de la prise en charge des clients SendGrid.
-
-
 ```csharp
 string privApiKey = "YOUR_SENDGRID_PRIVATE_API_KEY";
 var opt = new SendGridClientOptions { ApiKey = privApiKey };

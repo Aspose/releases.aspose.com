@@ -14,8 +14,6 @@ download_count: " 11/4/2023 下载s: 1  Views: 1 "
 file_size: "File Size: 421.6MB"
 parent_path: "email/cpp"
 section_parent_path: "email/cpp"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/email/cpp/aspose-email-for-cpp-23-2-release-notes/"
 weight: 79
 
@@ -47,5 +45,3 @@ weight: 79
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

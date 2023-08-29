@@ -17,8 +17,6 @@ Python 3.6 veya sonraki sürümlerde yazılmış veri bilimi, yapay zeka ve otom
 {{< Common/paragraph class="package-instructions">}}
 Aspose.OCR for Python via .NET buradan indirilebilir ve aşağıdaki komutla yerel dosya sisteminden kurulabilir:
 {{< /Common/paragraph>}}
-
-
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install aspose-ocr-python-net {{< /consolebox/textarea >}}       

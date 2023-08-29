@@ -750,5 +750,3 @@ This page contains release notes for [Aspose.PSD for .NET 20.4](https://www.nug
 {{< /highlight >}}
 
 
-
-

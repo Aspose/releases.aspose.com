@@ -14,8 +14,6 @@ download_count: " 17/2/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 36.34MB"
 parent_path: "font/cpp"
 section_parent_path: "font/cpp"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-2-release-notes/"
 weight: 94
 
@@ -47,5 +45,3 @@ weight: 94
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

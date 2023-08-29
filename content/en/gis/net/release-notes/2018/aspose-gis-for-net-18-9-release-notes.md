@@ -55,5 +55,3 @@ New properties in DriverOptions class. XYPrecisionModel, ZPrecisionModel and MPr
 New methods in Geometry class: RoundXY, RoundZ and RoundM
 
 
-
-

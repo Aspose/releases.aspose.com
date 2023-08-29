@@ -18,15 +18,9 @@ menuItemWithNoContent: false
 This page contains release notes information for Aspose.GIS for .NET 19.6.1.
 
 {{% /alert %}} 
-
-
 ## **Full List of Issues Covering all Changes in this Release**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |GISNET-420|Invalid value of a Number field error reported in some cases for NULL values|Bug|
 ## **Public API and Backward Incompatible Changes**
 None
-
-

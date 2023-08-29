@@ -14,8 +14,6 @@ download_count: " 2/6/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 146.29MB"
 parent_path: "pub/net"
 section_parent_path: "pub/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/pub/net/release-notes/2023/aspose-pub-for-net-23-5-release-notes/"
 weight: 35
 
@@ -47,5 +45,3 @@ weight: 35
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

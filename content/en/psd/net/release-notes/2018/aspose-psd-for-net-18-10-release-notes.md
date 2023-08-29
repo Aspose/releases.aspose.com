@@ -137,8 +137,6 @@ foreach (var fileName in files)
 
        var colorOverlay = (ColorOverlay)(im.Layers[1].BlendingOptions.Effects[0]);
 
-
-
        Assert.AreEqual(Color.Red, colorOverlay.Color);
 
        Assert.AreEqual(153, colorOverlay.Opacity);
@@ -168,8 +166,6 @@ foreach (var fileName in files)
     {
 
        var shadowEffect = (DropShadowEffect)(im.Layers[1].BlendingOptions.Effects[0]);
-
-
 
        Assert.AreEqual(Color.Black, shadowEffect.Color);
 
@@ -209,8 +205,6 @@ foreach (var fileName in files)
 
 {{< /highlight >}}
 
-
-
 **PSDNET-71 Rendering for export of Color Overlay effect**
 
 {{< highlight java >}}
@@ -226,8 +220,6 @@ foreach (var fileName in files)
     {
 
        var colorOverlay = (ColorOverlayEffect)(im.Layers[1].BlendingOptions.Effects[0]);
-
-
 
        Assert.AreEqual(Color.Red, colorOverlay.Color);
 
@@ -260,8 +252,6 @@ foreach (var fileName in files)
     {
 
        var shadowEffect = (DropShadowEffect)(im.Layers[1].BlendingOptions.Effects[0]);
-
-
 
        Assert.AreEqual(Color.Black, shadowEffect.Color);
 
@@ -311,8 +301,6 @@ foreach (var fileName in files)
 
     };
 
-
-
     var testFolder = string.Empty;
 
     var im = (PsdImage)Image.Load(testPath, loadOptions) 
@@ -337,13 +325,9 @@ foreach (var fileName in files)
 
         effect.BlendMode = BlendMode.Normal;
 
-
-
         // Save PSD    
 
         im.Save(psdExportPath);
-
-
 
         // Save PNG
 
@@ -354,7 +338,5 @@ foreach (var fileName in files)
     }
 
 {{< /highlight >}}
-
-
 
 

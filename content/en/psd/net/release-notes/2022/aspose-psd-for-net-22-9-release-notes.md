@@ -37,8 +37,6 @@ We are working on solutions to these problems.
 |PSDNET-1072|Incorrect transparency on saving of PSD file (RGB/16bit) on export to 8bit|Bug|
 |PSDNET-1140|Exception on loading global layer resources step when opening PSB document|Bug|
 |PSDNET-1266|Memory leak on the processing of specific files|Bug|
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - P:Aspose.PSD.FileFormats.Psd.Layers.Animation.LayerState.PositionOffset
@@ -55,12 +53,8 @@ We are working on solutions to these problems.
 - M:Aspose.PSD.FileFormats.Psd.Layers.Animation.LayerStateEffects.AddPatternOverlay
 - M:Aspose.PSD.FileFormats.Psd.Layers.Animation.LayerStateEffects.ClearLayerStyle
 - M:Aspose.PSD.FileFormats.Psd.Layers.Animation.LayerStateEffects.RemoveEffectAt(System.Int32)
-
-
 # **Removed APIs:**
 - P:Aspose.PSD.FileFormats.Psd.Layers.Animation.LayerState.Offset
-
-
 ## **Usage examples:**
 
 **PSDNET-1072. Incorrect transparency on saving of PSD file (RGB/16bit) on export to 8bit**

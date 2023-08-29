@@ -74,8 +74,6 @@ using (Aspose.Imaging.Image image = Aspose.Imaging.Image.Load(sourceFilePath))
     image.Save(myDir + "result.pdf", pdfOptions);
 
 }
-
-
 {{< /highlight >}}
 ###### **Aspose.CAD Code**
 {{< highlight java >}}

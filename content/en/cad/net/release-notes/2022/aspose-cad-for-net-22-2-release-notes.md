@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes for Aspose.CAD for .NET 22.2
 
 {{% /alert %}}
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 | CADNET-8507 | Aspose.Cad 21.12: "Image loading failed: Cannot open an image. The image file format may be not supported at the moment." exception when opening PLT file | Enhancement |

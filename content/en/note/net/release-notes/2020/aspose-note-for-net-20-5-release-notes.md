@@ -23,8 +23,6 @@ This page contains release notes information for [Aspose.Note for .NET 20.5](htt
 - Refactoring of processing of *.onetoc2 files
 - Refactoring of rendering algorithm to properly work under Linux
 ## **Features and Improvements**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |NOTENET-2878|Problem opening .onetoc2 files|Bug|

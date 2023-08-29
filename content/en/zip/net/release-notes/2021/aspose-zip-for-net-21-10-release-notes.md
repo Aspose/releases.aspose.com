@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes information for [Aspose.ZIP for .NET 21.10](https://releases.aspose.com/zip/net/new-releases/aspose.zip-for-.net-21.10/).
 
 {{% /alert %}} 
-
-
 ## **All Changes**
 
 |**Key**|**Summary**|**Issue Type**|

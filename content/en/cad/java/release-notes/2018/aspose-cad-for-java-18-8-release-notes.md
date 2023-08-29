@@ -670,8 +670,6 @@ Property      com.aspose.cad.FileFormats.Cad.CadObjects.Hatch.CadBoundaryPath.So
         cadImage.dispose();
 
     }
-
-
 {{< /highlight >}}
 
 **CADJAVA-320 - Support of layers contained in DWF drawing**
@@ -727,8 +725,6 @@ Property      com.aspose.cad.FileFormats.Cad.CadObjects.Hatch.CadBoundaryPath.So
         image.dispose();
 
     }
-
-
 {{< /highlight >}}
 
 **CADJAVA-353 Add PLT file format support**
@@ -770,8 +766,6 @@ Property      com.aspose.cad.FileFormats.Cad.CadObjects.Hatch.CadBoundaryPath.So
         image.dispose();
 
     }
-
-
 {{< /highlight >}}
 
 **CADJAVA-379 Integrate IGES format**
@@ -841,8 +835,6 @@ Property      com.aspose.cad.FileFormats.Cad.CadObjects.Hatch.CadBoundaryPath.So
         }
 
    });
-
-
 {{< /highlight >}}
 
 **CADJAVA-390 Conholdate licenses support**

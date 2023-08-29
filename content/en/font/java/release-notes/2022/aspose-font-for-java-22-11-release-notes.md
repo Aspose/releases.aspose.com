@@ -27,8 +27,6 @@ Support for the '*version*' field in the '*post*' table in format `Version16Dot1
 |---|---|---|
 | FONTNET-463 | Optimized compression functionality for `woff` format | Enhancement |
 | FONTNET-395 | Added support for the '*version*' field in the '*post*' table in format `Version16Dot16` | Enhancement |
-
-
 ## Public API and Backwards Incompatible Changes
 
 ### Added APIs
@@ -39,7 +37,5 @@ Support for the '*version*' field in the '*post*' table in format `Version16Dot1
 ### Modified APIs
 
 ### Removed APIs
-
-
 ## Got Queries?
 If you have any query related to Aspose.Font for Java API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.

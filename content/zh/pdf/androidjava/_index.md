@@ -15,8 +15,6 @@ weight:  4
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/pdf" linktext=" Support Forum " >}}
-
-
 {{< Common/h2 text="下载适用于 Android 应用程序的 Aspose.PDF"  >}}
 
 {{< Common/paragraph class="package-instructions">}}

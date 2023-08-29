@@ -14,8 +14,6 @@ download_count: " 15/8/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 200.51MB"
 parent_path: "tex/cpp"
 section_parent_path: "tex/cpp"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/tex/cpp/release-notes/2023/aspose-tex-for-cpp-23-8-release-notes/"
 weight: 81
 
@@ -47,5 +45,3 @@ weight: 81
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

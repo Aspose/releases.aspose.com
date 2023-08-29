@@ -22,8 +22,6 @@ Bitte verwenden Sie Folgendes" {{< Common/link href="https://pypi.org/project/as
        {{< consolebox/textarea id="pip" >}} pip install aspose-imaging-python-net {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
-
-
 [Produktseite](https://products.aspsispsis.com/imaging/python-net/) | [Docs](https://docs.aspsidsispid.com/imaging/python-net/) | [Demos](https://products.asispsis.app/imaging/family/) | [API-Referenz](https://reference.asispsis.com/imaging/python-net/) | [Beispiele](https://github.com/asips-imaging/asips.imaging-for-python-net/) | [Blog](https://blog.aspsis.com/category/imaging/) | [Kostenlose Unterstützung](https://forum.aspsient.com/c/imaging) | [Temporäre Lizenz](https://purchase.asispsis.com/temporary-license) | [EULA](https://about.asispsis.com/legal/eula/)
 
 ### Bildgebungs -API -Funktionen

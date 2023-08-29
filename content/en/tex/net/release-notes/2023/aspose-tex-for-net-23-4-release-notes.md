@@ -14,8 +14,6 @@ menuItemWithNoContent: false
 ---
 
 ## Aspose.TeX 23.4 for .NET has been released!
-
-
 | Key | Summary | Category |
 |---|---|---|
 | TEXNET-245 | Turn on font subsetting for SVG math rendering and SVG figure rendering by default | Feature |

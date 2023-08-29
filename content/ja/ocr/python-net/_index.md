@@ -16,8 +16,6 @@ Python 3.6 以降で記述されたデータ サイエンス、AI、自動化ソ
 {{< Common/paragraph class="package-instructions">}}
 Aspose.OCR for Python via .NET はここからダウンロードし、次のコマンドを使用してローカル ファイル システムからインストールできます。
 {{< /Common/paragraph>}}
-
-
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install aspose-ocr-python-net {{< /consolebox/textarea >}}       
@@ -39,8 +37,6 @@ Aspose.OCR for Python via .NET はここからダウンロードし、次のコ�
 - スキャナーやカメラ、および Web リンクから取得できるほとんどのファイル形式をサポートします。
 - スペルミスを自動的に修正し、手動介入なしで結果をさらに改善します。
 - 複数ページのドキュメント、フォルダ、さらには ZIP アーカイブを一括で読み取り、最も一般的なドキュメントおよびデータ交換形式で結果を返します。
-
-
 ### コードスニペット
 
 **Aspose.OCR for Python via .NET** は、アプリケーションの規模や複雑さに関係なく、非常に使いやすいです。画像からテキストを抽出してコンソールに出力できる非常に単純なアプリケーションを作成してみましょう。

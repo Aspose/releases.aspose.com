@@ -20,8 +20,6 @@ This page contains release notes information for Aspose.Font for .NET 20.12
 {{% /alert %}}
 
 WOFF format has been added. TTF and WOFF conversion option has been implemented. .NET 5 target framework has been supported. Some bugs have been fixed.
-
-
 | Key | Summary | Category |
 |---|---|---|
 | FONTNET-147 | Public API for conversion functionality has been expanded | New Feature |
@@ -50,7 +48,5 @@ WOFF format has been added. TTF and WOFF conversion option has been implemented.
  * Constructor Aspose.Font.WoffExceptions.WoffFormatException(System.String)
  * Constructor Aspose.Font.WoffExceptions.WoffFormatException(System.String,System.Exception)
  * Constructor Aspose.Font.WoffExceptions.WoffFormatException(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
-
-
 ## Got Queries?
 If you have any query related to Aspose.Font for .NET API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.

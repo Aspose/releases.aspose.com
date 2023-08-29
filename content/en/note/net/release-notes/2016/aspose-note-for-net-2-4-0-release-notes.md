@@ -39,8 +39,6 @@ The following is a list of any changes made to the public API such as added, ren
 |Aspose.Note.FileFormat.Unknown |Unknown file format. |
 |Aspose.Note.FileFormat.OneNote2010 |OneNote 2010. |
 |Aspose.Note.FileFormat.OneNoteOnline |OneNote Online. |
-
-
 |**The following public classes were added:** |**Description** |
 | :- | :- |
 |Aspose.Note.Saving.NotebookSaveOptions |An abstract base class which represents notebook saving options for a particular format. |

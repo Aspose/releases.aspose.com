@@ -31,8 +31,6 @@ Você pode facilmente usar <b>aspose.cells</b> para Javascript de
 {{< Common/hr >}}
 
 [Product Page](https://products.aspose.com/cells/nodejs-java/) | [Docs]() | [Demos](https://products.aspose.app/cells/family) | [API Reference](https://reference.aspose.com/cells/) | [Examples](https://github.com/aspose-cells/Aspose.Cells-for-Java) | [Blog](https://blog.aspose.com/categories/aspose.cells-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells/9) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-
 - Conversão de formato de arquivo Excel e OpenOffice Calc.
 - Estilo de planilha para o nível mais granular.
 - Criação e renderização de gráficos.

@@ -14,8 +14,6 @@ menuItemWithNoContent: false
 ---
 
 ## Aspose.TeX 22.10 for .NET has been released!
-
-
 ## Public API
 ### Added APIs
 
@@ -24,7 +22,5 @@ menuItemWithNoContent: false
 ### Modified APIs
 
 ### Removed APIs
-
-
 ## Got Queries?
 If you have any query related to Aspose.TeX for .NET API, please feel free to write to reach us on [Aspose.TeX forum](https://forum.aspose.com/c/tex/). We'll be glad to assist you with your inquiries.

@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes for Aspose.CAD for Java 21.1
 
 {{% /alert %}}
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 | CADJAVA-973 | [Chinesse character are garbled and layers missing in exported PDF](https://forum.aspose.com/t/aspose-cad-for-java/207817) | Enhancement |

@@ -24,8 +24,6 @@ This page contains release notes information for Aspose.SVG for .NET 21.4
 As per the regular monthly update process of all APIs being offered by Aspose, we are honored to announce the April release of Aspose.SVG for .NET:
 
 - we have added support for caching operation of SVGGeometry elements which seriously increased performance.
-
-
 ## **Public API changes:**
 
 ### **Added APIs:**

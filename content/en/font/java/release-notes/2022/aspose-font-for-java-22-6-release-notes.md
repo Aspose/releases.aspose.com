@@ -24,8 +24,6 @@ Support for adding Name Records to 'name' table  has been implemented.
 | Key | Summary | Category |
 |---|---|---|
 | FONTNET-345 | Support for adding Name Records to 'name' table | New Feature |
-
-
 ## Public API and Backwards Incompatible Changes
 
 ### Added APIs

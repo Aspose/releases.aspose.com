@@ -14,8 +14,6 @@ download_count: " 12/10/2020 Downloads: 28  Views: 35 "
 file_size: "File Size: 17.76MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/diagram/net/aspose-diagram-for-net-20-10-release-notes/"
 weight: 430
 
@@ -47,6 +45,4 @@ weight: 430
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

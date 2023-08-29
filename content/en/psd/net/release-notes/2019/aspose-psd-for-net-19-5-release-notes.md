@@ -481,8 +481,6 @@ This page contains release notes for Aspose.PSD for .NET 19.5
 
 {{< /highlight >}}
 
-
-
 **PSDNET-121: Visible Layers in Visible SubFolder in Invisible Folder are rendered, but should not**
 
 {{< highlight java >}}
@@ -508,8 +506,6 @@ This page contains release notes for Aspose.PSD for .NET 19.5
             }
 
 {{< /highlight >}}
-
-
 
 **PSDNET-119. PSD (RGB mode 16 bit per channel) not properly converted to JPG**
 

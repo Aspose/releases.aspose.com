@@ -14,8 +14,6 @@ download_count: " 25/12/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 18.05MB"
 parent_path: "words/androidjava"
 section_parent_path: "words/androidjava"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/words/java/aspose-words-for-android-via-java-22.12-release-notes/"
 weight: 92
 
@@ -47,5 +45,3 @@ weight: 92
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

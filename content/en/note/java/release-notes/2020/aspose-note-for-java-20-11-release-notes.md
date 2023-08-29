@@ -24,15 +24,11 @@ This page contains release notes information for [Aspose.Note for Java 20.11](ht
 - Save the document as a black and white image
 
 ## **Features and Improvements**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |NOTENET-3060|Save the OneNote with color(Black & White,Greyscale and Color)|New Feature|
 |NOTENET-2953|Remove TableCell.IndentPosition/TableCellNode.OutlineElementChildLevel from public api|Enhancement|
 |NOTEJAVA-880|OneNote crash when exporting to docx|Bug|
-
-
 ## **Public API and Backward Incompatible Changes**
 
 |**The following public types were added:**|**Description**|

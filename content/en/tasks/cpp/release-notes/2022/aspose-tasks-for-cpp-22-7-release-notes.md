@@ -65,8 +65,6 @@ This page contains release notes information for [Aspose.Tasks for C++ 22.7](htt
 | Aspose.Tasks.Tsk.FinishSlack |  |
 | Aspose.Tasks.Tsk.FreeSlack |  |
 | Aspose.Tasks.Tsk.TotalSlack |  |
-
-
 ## **Examples and additional notes**
 
 **Related issue: TASKSNET-10589 - Add an ability to map member of Tsk class to MS Project's default field title**

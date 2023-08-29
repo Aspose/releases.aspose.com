@@ -31,5 +31,3 @@ This page contains release notes information for Aspose.Note for Java 19.5.
 
 ## **Public API and Backward Incompatible Changes**
 No Change
-
-

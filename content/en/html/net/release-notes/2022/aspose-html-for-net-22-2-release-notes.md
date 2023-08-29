@@ -22,13 +22,9 @@ This page contains release notes information for Aspose.HTML for .NET 22.2.
 As per regular monthly update process of all APIs being offered by Aspose, we are honored to announce the February release of Aspose.HTML for .NET.
 
 In this release, we have significantly redesigned text processing algorithms. Now, when processing text, the features declared in fonts will be applied, dramatically improving the quality of rendering for some languages. We have also made many improvements to other algorithms, here are some of them:
-
-
 * Improved the table header splitting algorithm. Now the situation when the header is larger than the free space is correctly handled.
 * Improved the font selection algorithm used in SVG rendering.
 * Implemented an algorithm for handling obsolete CSS properties.
-
-
 ## Improvements and Changes
 
 |**Key**|**Summary**|**Category**|
@@ -39,8 +35,6 @@ In this release, we have significantly redesigned text processing algorithms. No
 |HTMLNET-3569|HTM to PDF content is cut off on the right side|Bug|
 |HTMLNET-3567|Convert from Template HTML (with Template Data Json), then save file .html - Failed to parse URL|Bug|
 |HTMLNET-2774|Issue with Arabic characters|Bug|
-
-
 ## Public API and Backward Incompatible Changes
 
 ### Changed APIs

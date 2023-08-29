@@ -23,8 +23,6 @@ Veuillez utiliser ce qui suit {{< Common/link href="https://pypi.org/project/asp
        {{< consolebox/textarea id="pip" >}} pip install aspose-imaging-python-net {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
-
-
 [Страница продукта](https://products.aspose.com/imaging/python-net/) | [DOCS](https://docs.aspose.com/imaging/python-net/) | [Demos](https://products.aspose.app/imaging/family/) | [Ссылка на API](https://reference.aspose.com/imaging/python-net/) | [Примеры](https://github.com/aspose-imaging/aspose.imaging-for-python-net/) | [Блог](https://blog.aspose.com/category/imaging/) | [Бесплатная поддержка](https://forum.aspose.com/c/imaging) | [Временная лицензия](https://purchase.aspose.com/temporary-license) | [Eula](https://about.aspose.com/legal/eula/)
 
 ### Особенности API визуализации

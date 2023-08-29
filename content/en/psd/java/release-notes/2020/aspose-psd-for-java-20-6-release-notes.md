@@ -417,8 +417,6 @@ $.exampleOfLnkEResourceSupport(
         "png",
 
         0);
-
-
 {{< /highlight >}}
 
 **PSDJAVA-219: Support of britResource (Resource of Brightness/Contrast Adjustment Layer)**

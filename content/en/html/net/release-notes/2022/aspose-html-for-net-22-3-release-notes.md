@@ -25,8 +25,6 @@ In this release, we made many bug fixes and improvements, here are some of them:
 * Improved algorithm for loading 'img' elements via network requests.
 * Fixed font handling for capital letters.
 * Improved algorithm for drawing empty table rows.
-
-
 ## Improvements and Changes
 
 |**Key**|**Summary**|**Category**|

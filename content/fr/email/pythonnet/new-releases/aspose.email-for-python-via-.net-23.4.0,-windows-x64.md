@@ -14,8 +14,6 @@ download_count: " 23/6/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 50.14MB"
 parent_path: "email/pythonnet"
 section_parent_path: "email/pythonnet"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-4-release-notes/"
 weight: 41
 
@@ -47,5 +45,3 @@ weight: 41
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

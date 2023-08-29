@@ -15,8 +15,6 @@ weight:  3
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/diagram" linktext=" Support Forum " >}}
-
-
 {{< Common/h4 text="Télécharger Aspose.Diagram depuis NPM"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Une bibliothèque de diagrammes Node.js spécialement conçue pour fonctionner avec les fichiers Microsoft Visio.

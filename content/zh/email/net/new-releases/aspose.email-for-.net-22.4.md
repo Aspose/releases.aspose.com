@@ -68,8 +68,6 @@ if (!resp.Successful)
 # 支持 SendGrid 客户端
 
 添加了对 SendGrid 客户端的支持。
-
-
 ```csharp
 string privApiKey = "YOUR_SENDGRID_PRIVATE_API_KEY";
 var opt = new SendGridClientOptions { ApiKey = privApiKey };

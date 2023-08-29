@@ -29,8 +29,6 @@ weight: 19
       {{< Common/li class="downloadcount" id="dwn-update-1e512c6ff1644fd79e10c51082949723" >}} 0 {{< /Common/li >}} 
       {{< Common/li  >}} 文件大小: {{< /Common/li >}} 
       {{< Common/li id="size-update-1e512c6ff1644fd79e10c51082949723" >}} 11.6 MB {{< /Common/li >}} 
-
-
       {{< Common/li  >}} 添加日期: {{< /Common/li >}} 
       {{< Common/li id="added-update-1e512c6ff1644fd79e10c51082949723" >}} : 3 days ago [5/13/2022] {{< /Common/li >}} 
 
@@ -41,5 +39,3 @@ weight: 19
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

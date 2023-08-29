@@ -14,8 +14,6 @@ download_count: " 16/6/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 43.9MB"
 parent_path: "3d/python-net"
 section_parent_path: "3d/python-net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-23-4-release-notes/"
 weight: 15
 
@@ -47,5 +45,3 @@ weight: 15
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

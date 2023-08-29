@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes information for [Aspose.ZIP for .NET 22.7](https://releases.aspose.com/zip/net/new-releases/aspose.zip-for-.net-22.7/).
 
 {{% /alert %}} 
-
-
 ## **All Changes**
 
 |**Key**|**Summary**|**Issue Type**|

@@ -29,8 +29,6 @@ This page contains release notes information for [Aspose.GIS for .NET 21.10](htt
 | GISNET-1294 | Remove and Update Features in Exist Files (vector formats) | Feature |
 | GISNET-1292 | Fix 'Unknown ANSI 1252' for Shapefile | Bug |
 | GISNET-1293 | Release ID file for InfoTab | Bug |
-
-
 ## **Public API and Backward Incompatible Changes**
 Following members have been added:
 - M:Aspose.Gis.FileDriver.EditLayer(System.String,Aspose.Gis.DriverOptions)

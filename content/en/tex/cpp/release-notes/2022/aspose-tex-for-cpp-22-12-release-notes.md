@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 Aspose.TeX for C++ 22.12 is based on [Aspose.TeX for .NET 22.12](/tex/net/release-notes/2022/aspose-tex-for-net-22-12-release-notes/) and ready for use with Aspose c++ products ver 22.12.
 
 MacOS platform is supported now.
-
-
 You can consult Aspose.TeX for C++ [API reference](https://reference.aspose.com/tex/cpp/) for documentation.
 
 ## Got Queries?

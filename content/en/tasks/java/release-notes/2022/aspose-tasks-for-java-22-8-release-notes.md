@@ -64,8 +64,6 @@ This page contains release notes information for [Aspose.Tasks for Java 22.8](ht
 | com.aspose.tasks.Tsk.FINISH_SLACK |  |
 | com.aspose.tasks.Tsk.FREE_SLACK |  |
 | com.aspose.tasks.Tsk.TOTAL_SLACK |  |
-
-
 ## **Examples and additional notes**
 
 **Related issue: TASKSNET-10589 - Add an ability to map member of Tsk class to MS Project's default field title**

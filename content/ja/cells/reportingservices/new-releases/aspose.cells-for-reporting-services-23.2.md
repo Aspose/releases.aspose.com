@@ -14,8 +14,6 @@ download_count: " 15/2/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 17.94MB"
 parent_path: "cells/reportingservices"
 section_parent_path: "cells/reportingservices"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-23-2-release-notes/"
 weight: 237
 
@@ -47,5 +45,3 @@ weight: 237
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

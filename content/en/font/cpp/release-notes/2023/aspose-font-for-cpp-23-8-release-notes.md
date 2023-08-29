@@ -17,8 +17,6 @@ menuItemWithNoContent: false
 Aspose.Font for C++ 23.8 is based on the latest [Aspose.Font for .NET 23.8](/font/net/release-notes/2023/aspose-font-for-net-23-8-release-notes/) and ready for use with Aspose c++ products ver 23.8.
 
 The support macOS with ARM64 architecture was added.
-
-
 ## Got Queries?
 
 If you have any query related to Aspose.Font for C++ API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.

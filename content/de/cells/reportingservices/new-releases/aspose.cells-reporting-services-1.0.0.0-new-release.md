@@ -8,8 +8,6 @@ folder_name: "Aspose.Cells Reporting Services 1.0.0.0 Neue Version"
 download_link: " /cells/reportingservices/new-releases/aspose.cells-reporting-services-1.0.0.0-new-release/efea62eb210c4dd8b08f40b58265ffcf"
 download_text: " Download"
 Intro_text: " Introduction
-
-
 Mit Aspose.Cells for Reporting Services können Sie nationale ..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 48  Views: 839"
@@ -46,6 +44,4 @@ weight: 103
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

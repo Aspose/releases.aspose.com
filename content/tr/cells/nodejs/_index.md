@@ -31,8 +31,6 @@ Javascript için <b>aspose.cells'i</b> şuradan kolayca kullanabilirsiniz:
 {{< Common/hr >}}
 
 {{KÖPRÜ1}} | {{KÖPRÜ2}} | {{KÖPRÜ3}} | {{KÖPRÜ4}} | {{KÖPRÜ5}} | {{KÖPRÜ6}} | {{KÖPRÜ7}} | {{KÖPRÜ8}} | {{KÖPRÜ9}} | {{KÖPRÜ10}}
-
-
 - Excel ve OpenOffice Calc dosya formatı dönüştürme.
 - En ayrıntılı düzeyde çalışma sayfası stili.
 - Grafik oluşturma ve oluşturma.

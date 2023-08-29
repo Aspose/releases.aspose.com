@@ -1,0 +1,16 @@
+{{ $title := .Title | lower }}
+{{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+<ul id="terms">
+  {{ range $key, $value := .Data.Terms.ByCount }}
+    {{ if ($value.Name) }}
+      <li class="term">
+        <a
+          href="{{ $title | relURL }}/{{ $value.Name | urlize }}"
+        >
+          <span>{{ $value.Name }}</span>
+          <span> ({{ $value.Count }})</span>
+        </a>
+      </li>
+    {{ end }}
+  {{ end }}
+</ul>

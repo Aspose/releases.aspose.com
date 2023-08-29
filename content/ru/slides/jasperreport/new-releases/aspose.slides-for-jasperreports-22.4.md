@@ -29,8 +29,6 @@ weight: 149
       {{< Common/li class="downloadcount" id="dwn-update-15d059fb0d3b4cb29c5bc3539ef06e88" >}} 0 {{< /Common/li >}} 
       {{< Common/li  >}} Размер файла: {{< /Common/li >}} 
       {{< Common/li id="size-update-15d059fb0d3b4cb29c5bc3539ef06e88" >}} 71.1 MB {{< /Common/li >}} 
-
-
       {{< Common/li  >}} Дата добавления: {{< /Common/li >}} 
       {{< Common/li id="added-update-15d059fb0d3b4cb29c5bc3539ef06e88" >}} : 4 weeks ago [4/18/2022] {{< /Common/li >}} 
 
@@ -41,5 +39,3 @@ weight: 149
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

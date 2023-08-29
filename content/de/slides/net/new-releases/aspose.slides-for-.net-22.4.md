@@ -29,8 +29,6 @@ weight: 738
       {{< Common/li class="downloadcount" id="dwn-update-e1dde1366f9c4ce4a39cba37a3c21420" >}} 11 {{< /Common/li >}}
       {{< Common/li >}} Dateigröße: {{< /Common/li >}}
       {{< Common/li id="size-update-e1dde1366f9c4ce4a39cba37a3c21420" >}} 83.7 MB {{< /Common/li >}} 
-
-
       {{< Common/li >}} Hinzugefügt am: {{< /Common/li >}}
       {{< Common/li id="added-update-e1dde1366f9c4ce4a39cba37a3c21420" >}} 4/15/2022 {{< /Common/li >}} 
 
@@ -41,6 +39,4 @@ weight: 738
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

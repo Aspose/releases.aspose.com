@@ -127,8 +127,6 @@ async onFileSelected(event) {
   });
 }
 ```
-
-
 {{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}

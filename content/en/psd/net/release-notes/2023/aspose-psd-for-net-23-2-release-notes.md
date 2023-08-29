@@ -29,8 +29,6 @@ This page contains release notes for [Aspose.PSD for .NET 23.2](https://www.nug
 |PSDNET-1221|Extra small text is missing after resizing of the bigger PSD image|Bug|
 |PSDNET-1301|Aspose.Psd for .NET textLayer.UpdateText() is printing '-' (dash) as underscore in random manner for different data set|Bug|
 |PSDNET-1379|ResolutionSettings do not apply on export from PSD to PDF|Bug|
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - P:Aspose.PSD.ImageLoadOptions.PsdLoadOptions.AllowWarpRepaint
@@ -41,14 +39,10 @@ This page contains release notes for [Aspose.PSD for .NET 23.2](https://www.nug
 - T:Aspose.PSD.FileFormats.Psd.LeadingType
 - F:Aspose.PSD.FileFormats.Psd.LeadingType.BottomToBottom
 - F:Aspose.PSD.FileFormats.Psd.LeadingType.TopToTop
-
-
 # **Removed APIs:**
 - T:Aspose.PSD.FileFormats.Psd.LeadingMode
 - F:Aspose.PSD.FileFormats.Psd.LeadingMode.Auto
 - F:Aspose.PSD.FileFormats.Psd.LeadingMode.Manual
-
-
 ## **Usage examples:**
 
 **PSDNET-912. Change Font and Color for TextLayer PSD**

@@ -53,8 +53,6 @@ weight:  1
 - Παρέχει ένα πλούσιο σύνολο βοηθητικών λειτουργιών, τις οποίες μπορείτε να χρησιμοποιήσετε για να χωρίσετε ένα έγγραφο σε μέρη, να ενώσετε έγγραφα μεταξύ τους, να συγκρίνετε έγγραφα και πολλά άλλα.
 
 Για να εξοικειωθείτε με την πιο δημοφιλή λειτουργικότητα του Aspose.Words, ρίξτε μια ματιά στο [free online applications](https://products.aspose.app/words/family) μας.
-
-
 ### Υποστηριζόμενες μορφές ανάγνωσης και εγγραφής
 
 **Microsoft Word®:** DOC, DOT, DOCX, DOTX, DOTM, FlatOpc, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled, RTF, WordML\

@@ -14,8 +14,6 @@ download_count: " 14/10/2022 Downloads: 63  Views: 1 "
 file_size: "File Size: 8.68MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-10-release-notes/"
 weight: 320
 
@@ -47,6 +45,4 @@ weight: 320
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

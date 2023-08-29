@@ -14,8 +14,6 @@ download_count: " 28/2/2023 下载s: 1  Views: 1 "
 file_size: "File Size: 52.16MB"
 parent_path: "pdf/androidjava"
 section_parent_path: "pdf/androidjava"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/pdf/java/aspose-pdf-for-android-via-java-23-2-release-notes/"
 weight: 30
 
@@ -47,5 +45,3 @@ weight: 30
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

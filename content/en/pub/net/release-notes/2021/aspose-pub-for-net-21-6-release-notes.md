@@ -29,5 +29,3 @@ Aspose.PUB for .NET provides PUB to PDF conversion. Publisher 2000 format suppor
 |PUBNET-206|Provide support of .NET framework 5.0|New Feature|
 |PUBNET-207|.NET Core and .NET 5 Support|New Feature|
 |PUBNET-220|Add support for Publisher 2000|New Feature|
-
-

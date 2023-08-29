@@ -8,8 +8,6 @@ folder_name: "Aspose.Cells für .NET 8.2.2 (nur DLLs)"
 download_link: " /cells/net/new-releases/aspose.cells-for-.net-8.2.2-(dlls-only)/da0e067d7ba34ca89c6d518c19e13fec"
 download_text: " Download"
 Intro_text: " 
-
-
 Diese ZIP-Datei enthält nur die Aspose.Cells für .NET-Assemblys. Der Arsch..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   10/16/2014  Downloads: 390  Views: 594"
@@ -46,6 +44,4 @@ weight: 477
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

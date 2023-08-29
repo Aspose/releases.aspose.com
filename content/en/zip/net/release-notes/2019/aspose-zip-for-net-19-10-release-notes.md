@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes information for [Aspose.ZIP for .NET 19.10](https://releases.aspose.com/zip/net/new-releases/aspose.zip-for-.net-19.10/).
 
 {{% /alert %}}
-
-
 ## **All Changes**
 
 |**Key**|**Summary**|**Issue Type**|
@@ -27,8 +25,6 @@ This page contains release notes information for [Aspose.ZIP for .NET 19.10](htt
 |ZIPNET-374|[7z archive composition implemented with LZMA compression](https://docs.aspose.com/zip/net/working-with-7z-archives/#workingwith7zarchives-7-ziparchivewithlzmacompression)|Enhancement|
 |ZIPNET-415|Reintroduce version for .NET Standard 2.0|Enhancement|
 ## **Public API and Backwards Incompatible Changes**
-
-
 |**The following public types were added:**|**Description**|
 | :- | :- |
 |Aspose.Zip.Saving.SevenZipAESEncryptionSettings|Settings for AES encryption.|

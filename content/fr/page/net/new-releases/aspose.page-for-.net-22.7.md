@@ -13,7 +13,7 @@ download_count: " 14/7/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 31.74MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
-tags: ""
+
 release_notes_url : "https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-7-release-notes/"
 weight: 106
 ---

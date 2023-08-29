@@ -122,8 +122,6 @@ This page contains release notes for [Aspose.PSD for .NET 21.11](https://www.nu
                 psdImage.Save(outputPsd);
             }
         }
-
-
     #region Vector path editor (Here placed classes for edit vector paths).
 
     /// <summary>

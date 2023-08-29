@@ -401,5 +401,3 @@ using (var image = new PsdImage(width, height))
 
 {{< /highlight >}}
 
-
-

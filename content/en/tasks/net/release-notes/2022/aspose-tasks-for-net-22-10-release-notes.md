@@ -376,8 +376,6 @@ This page contains release notes information for [Aspose.Tasks for .Net 22.10](h
 | :- | :- |
 | Aspose.Tasks.CalculationType.Rollup |  |
 
-
-
 ## **Examples and additional notes**
 
 **Related issue: TASKSNET-3855 - Implement the API to access entities' fields using .NET properties**

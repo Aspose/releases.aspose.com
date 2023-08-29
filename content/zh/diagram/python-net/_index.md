@@ -50,8 +50,6 @@ Aspose.Diagram for Python via .NET 是一个可扩展且功能丰富的 API，�
 **固定布局**：PDF、XPS
 **图像**：JPEG、PNG、BMP、SVG、TIFF、GIF、EMF
 **网络**：HTML
-
-
 ＃＃＃ 系统要求
 
 您的机器不需要安装 Microsoft Visio® 软件。

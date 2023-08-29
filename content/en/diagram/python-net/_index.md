@@ -49,8 +49,6 @@ Please visit the [official documentation](https://docs.aspose.com/diagram/python
 **Fixed Layout**: PDF, XPS
 **Images**: JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
 **Web**: HTML
-
-
 ### System Requirements
 
 Your machine does not need to have Microsoft Visio&reg; software installed.

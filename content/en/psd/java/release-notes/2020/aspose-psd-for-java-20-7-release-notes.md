@@ -323,8 +323,6 @@ class LocalScopeExtension
     }
 }
 LocalScopeExtension $ = new LocalScopeExtension();
-
-
 Object[] Lnk2ResourceSupportCases = new Object[]
         {
                 new Object[]
@@ -785,8 +783,6 @@ String[] supportedFilePaths = new String[]
                 "form_cs6.ai",
                 "form_cc.ai",
         };
-
-
 String[] unsupportedFilePaths = new String[]
         {
                 "broken_cc.ai",

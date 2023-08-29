@@ -25,11 +25,7 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 * We have optimized SVG files received with our image vectorization API, which now results in a reduction of SVG file size by 7-12% by removing redundant and useless information and reducing the size of SVG path elements through vector graphics optimization.
 
 * Additionally, we have fixed an issue with the rendering (conversion) of SVG documents in the FitContent sizing mode, which resulted in full or partially disappearing context. The issue has been resolved and the rendering of SVG documents in the FitContent sizing mode is now working as expected.
-
-
 ## **Public API changes:**
 
 No Changes
-
-
 

@@ -14,8 +14,6 @@ download_count: " 17/8/2022 Descargars: 1  Views: 1 "
 file_size: "File Size: 81.78MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-22-8-release-notes/"
 weight: 747
 
@@ -47,5 +45,3 @@ weight: 747
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

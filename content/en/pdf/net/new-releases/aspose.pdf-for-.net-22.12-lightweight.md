@@ -14,8 +14,6 @@ download_count: " 22/12/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 9.52MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-12-release-notes"
 weight: 830
 
@@ -47,5 +45,3 @@ weight: 830
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

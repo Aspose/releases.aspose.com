@@ -27,5 +27,3 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 ## **Compatibility Notice**
 
 We would like to remind our customers that starting from version 23.4, we will only be supporting .NetStandard 2.0.
-
-

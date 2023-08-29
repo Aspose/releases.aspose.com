@@ -24,8 +24,6 @@ This page contains release notes information for Aspose.Note for Java 18.9.
 - Inserting of pages functionality
 
 ## **Features and Improvements**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |NOTENET-2633|Default font for Note documents|New Feature|
@@ -39,8 +37,6 @@ This page contains release notes information for Aspose.Note for Java 18.9.
 |NOTEJAVA-464|OneNote to HTML reverses contents in output content| |
 
 ## **Public API and Backward Incompatible Changes**
-
-
 |**The following public types were added:**|**Description**|
 | :- | :- |
 |com.aspose.note.fonts.IFontsSubsystem|Implement this interface if you want to control how Aspose.Note retrieves fonts when saving a document.|

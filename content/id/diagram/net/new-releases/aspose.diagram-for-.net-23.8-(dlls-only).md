@@ -14,8 +14,6 @@ download_count: " 15/8/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 18.3MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/diagram/net/aspose-diagram-for-net-23-8-release-notes/"
 weight: 499
 
@@ -47,5 +45,3 @@ weight: 499
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

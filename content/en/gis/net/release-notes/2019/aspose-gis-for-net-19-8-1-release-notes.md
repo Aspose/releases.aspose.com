@@ -19,12 +19,8 @@ This page contains release notes information for [Aspose.GIS for .NET 19.8.1](ht
 
 {{% /alert %}} 
 ## **Full List of Issues Covering all Changes in this Release**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |GISNET-458|GisException is thrown while reading a valid shapefile|Bug|
 ## **Public API and Backward Incompatible Changes**
 None
-
-

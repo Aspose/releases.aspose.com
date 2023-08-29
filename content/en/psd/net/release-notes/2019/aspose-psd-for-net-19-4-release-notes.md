@@ -294,8 +294,6 @@ using(Image image = Image.Load(exportPath)) {}
 
 {{< /highlight >}}
 
-
-
 **PSDNET-117. If TextLayer is updated with string which contains LineBreaks then PSD File become unreadable**
 
 {{< highlight java >}}
@@ -345,8 +343,6 @@ using(Image image = Image.Load(sourceFileName)) {
 using(Image image = Image.Load(exportPath)) {}
 
 {{< /highlight >}}
-
-
 
 **PSDNET-118. If TextLayer is updated with string which contains Tabs symbols, processing fails with exception**
 

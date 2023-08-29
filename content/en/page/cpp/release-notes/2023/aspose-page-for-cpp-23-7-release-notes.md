@@ -16,8 +16,6 @@ menuItemWithNoContent: false
 {{% alert color="primary" %}}
 
 This page contains release notes information for Aspose.Page for C++ 23.7.
-
-
 {{% /alert %}}
 
 ## Improvements and Changes
@@ -27,8 +25,6 @@ Aspose.Page for C++ 23.7 is based on [Aspose.Page for .NET 23.7](/page/net/relea
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |PAGECPP-117|SEH-exception related to transparent images in PS files was fixed.|Bug|
-
-
 
 
 You can consult Aspose.Page for C++ [API reference](https://apireference.aspose.com/cpp/page/) for documentation.

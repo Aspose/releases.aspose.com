@@ -24,7 +24,5 @@ The issue of incorrect glyph id being returned by a specific *Type1* font has be
 | Key | Summary | Category |
 |---|---|---|
 | FONTNET-552 | *GlyphAccessor.GetGlyphById()* method returns null for a specific *Type1* font | Bug |
-
-
 ## Got Queries?
 If you have any query related to Aspose.Font for .NET API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.

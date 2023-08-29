@@ -14,8 +14,6 @@ download_count: " 31/1/2023 Downloads: 330  Views: 1 "
 file_size: "File Size: 13.52MB"
 parent_path: "svg/net"
 section_parent_path: "svg/net"
-
-tags: ""
 release_notes_url: "This ZIP file contains only the Aspose.SVG for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG with"
 weight: 127
 
@@ -47,5 +45,3 @@ weight: 127
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

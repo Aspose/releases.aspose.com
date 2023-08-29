@@ -100,8 +100,6 @@ Property      Aspose.CAD.FileFormats.Dwf.DwfPage.PlotOrder
 # **Usage examples:**
 **CADNET-839 - Last Author metadata information failed to get extracted**
 
-
-
 {{< highlight java >}}
 
  using (CadImage image = (CadImage) Image.Load(GetFileFromDesktop(fileName1)))
@@ -117,8 +115,6 @@ Property      Aspose.CAD.FileFormats.Dwf.DwfPage.PlotOrder
 {{< /highlight >}}
 
 **CADNET-769 - Support for OBJ format**
-
-
 
 {{< highlight java >}}
 
@@ -143,8 +139,6 @@ Property      Aspose.CAD.FileFormats.Dwf.DwfPage.PlotOrder
 }
 
 {{< /highlight >}}
-
-
 
 **CADNET-23 - Ability to manipulate hyperlinks in AutoCAD drawings**
 
@@ -174,8 +168,6 @@ Property      Aspose.CAD.FileFormats.Dwf.DwfPage.PlotOrder
 
         }
 
-
-
 		if (entity.Hyperlink == "https://products.aspose.com")
 
         {
@@ -189,6 +181,4 @@ Property      Aspose.CAD.FileFormats.Dwf.DwfPage.PlotOrder
 }
 
 {{< /highlight >}}
-
-
 

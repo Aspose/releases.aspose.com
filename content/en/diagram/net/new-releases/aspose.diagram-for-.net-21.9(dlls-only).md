@@ -14,8 +14,6 @@ download_count: " 7/9/2021 Downloads: 33  Views: 49 "
 file_size: "File Size: 18.22MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/diagram/net/aspose-diagram-for-net-21-9-release-notes/"
 weight: 453
 
@@ -47,5 +45,3 @@ weight: 453
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

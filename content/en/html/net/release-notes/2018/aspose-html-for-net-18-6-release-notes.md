@@ -143,8 +143,6 @@ Classes HTMLDocument and SVGDocument have been extended with the following list 
 	/// <exception cref="ArgumentException">Raised if the specified <c>path</c> is not a valid local file path.</exception>
 
 	public void Save(string path, MarkdownSaveOptions saveOptions) {}
-
-
 	/// <summary>
 
 	/// Saves the document to local file specified by <c>url</c>. All resources used in this document will be saved in
@@ -468,8 +466,6 @@ Namespace 'Aspose.Html.Saving' has respectively been extended to support new met
 		/// </summary>
 
 		public MarkdownFormatter Formatter { get; set; }
-
-
 		/// <summary>
 
 		/// Returns set of options which are compatible with default Markdown documentation.

@@ -37,8 +37,6 @@ This version includes certain Public API Changes that affect the existing implem
 ###### **Feature.Geometry changed type to IGeometry**
 Feature.Geometry changed type from Geometry to IGeometry. If you store Feature.Geometry or pass it to methods, change type from Geometry to IGeometry (public APIs of IGeometry and Geometry are same).
 
-
-
 |**C# (since v18.3)**|
 | :- |
 |void HandleFeature(Feature feature)<br>{<br>`    `IGeometry geometry = feature.Geometry;<br>`    `HandleGeometry(geometry);<br>}<br><br>void HandleGeometry(IGeometry geometry)<br>{<br>`    `// handle geometry<br>}|
@@ -47,8 +45,6 @@ Feature.Geometry changed type from Geometry to IGeometry. If you store Feature.G
 
 ###### **Geometry.Null changed type from Geometry to IGeometry**
 Geometry.Null changed its type from Geometry to IGeometry. If you store Geometry.Null or pass it to methods, change type from Geometry to IGeometry (public APIs of IGeometry and Geometry are same).
-
-
 
 |**C# (since v18.3)**|
 | :- |
@@ -79,6 +75,4 @@ If you store the resulf of indexer or pass it to methods, change types from Geom
 |void HandleThirdElement(GeometryCollection collection)<br>{<br>`    `IGeometry third = collection[2];<br>`    `HandleGeometry(third);<br>}<br><br>void HandleGeometry(IGeometry geometry)<br>{<br>`    `// handle geometry<br>}|
 |**C# (before v18.3)**|
 |<p>void HandleGeometryCollection(GeometryCollection collection)<br>{<br>`    `Geometry third = collection[2];<br>`    `HandleGeometry(third);<br>}</p><p>void HandleGeometry(Geometry geometry)<br>{<br>`    `// handle geometry<br>}</p>|
-
-
 

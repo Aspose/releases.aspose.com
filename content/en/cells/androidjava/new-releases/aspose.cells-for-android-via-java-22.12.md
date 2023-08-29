@@ -14,8 +14,6 @@ download_count: " 12/12/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 10.55MB"
 parent_path: "cells/androidjava"
 section_parent_path: "cells/androidjava"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-22-12-release-notes/"
 weight: 83
 
@@ -47,5 +45,3 @@ weight: 83
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

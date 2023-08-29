@@ -14,8 +14,6 @@ download_count: " 8/7/2022 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 3.24MB"
 parent_path: "diagram/nodejs"
 section_parent_path: "diagram/nodejs"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java-22-7-release-notes/"
 weight: 21
 
@@ -47,5 +45,3 @@ weight: 21
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

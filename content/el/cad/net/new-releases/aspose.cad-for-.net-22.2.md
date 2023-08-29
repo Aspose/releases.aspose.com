@@ -85,8 +85,6 @@ using (DwfImage image = (DwfImage)Aspose.CAD.Image.Load(sourceFilePath))
                         options.PageHeight = (float)sizeExtY;
                         options.PageWidth = (float)sizeExtX;
                     }
-
-
                     jpegOptions.VectorRasterizationOptions = options;
 
                     image.Save(fs, jpegOptions);

@@ -14,8 +14,6 @@ download_count: " 20/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 84.97MB"
 parent_path: "words/cpp"
 section_parent_path: "words/cpp"
-
-tags: ""
 release_notes_url : "https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-10-release-notes/"
 weight: 200
 
@@ -47,6 +45,4 @@ weight: 200
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

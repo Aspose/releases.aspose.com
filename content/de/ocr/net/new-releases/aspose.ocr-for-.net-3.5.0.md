@@ -48,5 +48,3 @@ Wichtiger Hinweis: Die Aspose.OCR-Komponente verwendet Ressourcendateien, um OCR
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
-
-

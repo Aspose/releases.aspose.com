@@ -14,8 +14,6 @@ download_count: " 31/5/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 5.17MB"
 parent_path: "font/net"
 section_parent_path: "font/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-5-release-notes/"
 weight: 46
 
@@ -47,5 +45,3 @@ weight: 46
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

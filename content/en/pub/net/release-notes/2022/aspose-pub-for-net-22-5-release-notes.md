@@ -26,5 +26,3 @@ Aspose.PUB for .NET is a сonvenient library that provides the feature to conver
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |PUBNET-271|.NET Core 6.0 Support|New Feature|
-
-

@@ -41,8 +41,6 @@ This page contains release notes information for [Aspose.Tasks for C++ 22.12](ht
 | Aspose.Tasks.Tsk.ExternalUid | Contains the external task's Unique identifier when the task is external. |
 
 
-
-
 ## **Examples and additional notes**
 
 **Related issue: TASKSNET-10722 - Fix creation of external task links**
@@ -70,5 +68,3 @@ link->set_IsCrossProject(true);
 link->set_LinkType(Aspose::Tasks::TaskLinkType::FinishToStart);
 link->set_CrossProjectName(u"ExternalProject.mpp\\\\1"); // <- here external task's Id is used.
 ```
-
-

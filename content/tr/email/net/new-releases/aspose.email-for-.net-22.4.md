@@ -68,8 +68,6 @@ if (!resp.Successful)
 # SendGrid İstemcisi Desteği
 
 SendGrid istemcileri için destek eklendi.
-
-
 ```csharp
 string privApiKey = "YOUR_SENDGRID_PRIVATE_API_KEY";
 var opt = new SendGridClientOptions { ApiKey = privApiKey };

@@ -53,8 +53,6 @@ Bu paket, çok çeşitli işletim sistemleri (Windows, Linux, macOS, iOS, Androi
 - Bir belgeyi parçalara ayırmak, belgeleri birleştirmek, belgeleri karşılaştırmak ve çok daha fazlasını yapmak için kullanabileceğiniz zengin bir yardımcı işlevler seti sağlar.
 
 En popüler Aspose.Words işlevselliğine aşina olmak için lütfen [free online applications](https://products.aspose.app/words/family) sayfamıza bir göz atın.
-
-
 ### Desteklenen Okuma ve Yazma Formatları
 
 **Microsoft Word®:** DOC, DOT, DOCX, DOTX, DOTM, FlatOpc, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled, RTF, WordML\

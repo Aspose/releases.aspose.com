@@ -129,8 +129,6 @@ String fileName = Utils.getDataDir() + "Montserrat-Regular.ttf"; //Font file nam
       TtfFont ttfFont = (TtfFont) Font.open(fd);
 
       boolean latinText = true;
-
-
       for (int code = 65; code < 123; code++)
       {
           GlyphId gid = ttfFont.getEncoding().decodeToGid(code);

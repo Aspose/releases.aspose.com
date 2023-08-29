@@ -31,8 +31,6 @@ The next bugs were fixed:
 | SVGNET-145 | SVG to PNG: Setting resolution throws System.IndexOutOfRangeException: Index was outside the ...         | Bug           |
 | SVGNET-146 | SVG to PNG: High memory consumption                                                                      | Bug           |
 | SVGNET-148 | Saving SVG file hangs application                                                                        | Bug           |
-
-
 ## **Public API changes:**
 
 ### **Added APIs:**
@@ -46,5 +44,3 @@ The next bugs were fixed:
 | [CleanListOfValues](https://reference.aspose.com/svg/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/cleanlistofvalues/) { get; set; } | Gets or sets the option for rounding to 3 decimal places of list numeric values in attributes. It is ’true’ by default. |
 | [RemoveIndentsAndLineBreaks](https://reference.aspose.com/svg/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeindentsandlinebreaks/) { get; set; } | Gets or sets the option to remove line indents and breaks. It is ’true’ by default. |
 | [RemoveUselessStrokeAndFill](https://reference.aspose.com/svg/net/aspose.svg.toolkit.optimizers/svgoptimizationoptions/removeuselessstrokeandfill/) { get; set; } | Gets of sets the option to remove unused stroke and fill attributes. It is ’true’ by default. |
-
-

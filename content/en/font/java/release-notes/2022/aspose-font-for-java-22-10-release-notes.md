@@ -30,8 +30,6 @@ Support for metered license has been added.
 | FONTNET-386 | Added support for metered license | New Feature |
 | FONTNET-439 | Fixed bug with incorrect size for table 'loca' when converting some fonts to 'woff' format | Bug |
 | FONTNET-405 | Fixed bug with GetGlyphsForText method returning glyphId incorrectly | Bug |
-
-
 ## Public API and Backwards Incompatible Changes
 
 ### Added APIs
@@ -52,7 +50,5 @@ Support for metered license has been added.
 ### Modified APIs
 
 ### Removed APIs
-
-
 ## Got Queries?
 If you have any query related to Aspose.Font for Java API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.

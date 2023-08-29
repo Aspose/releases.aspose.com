@@ -192,8 +192,6 @@ Property      Aspose.CAD.FileFormats.Dwf.EPlotInterface.DwfEPlotPage.UnitTy
 # **Usage examples:**
 **CADNET-65 DWG to PDF: Process takes too much time to load and convert a large DWG to PDF**
 
-
-
 {{< highlight java >}}
 
  string filePathDWG = @"D:\projects\forDXF\cadnet-65\TestBigFile.dwg"; 
@@ -213,8 +211,6 @@ Stopwatch stopWatch = new Stopwatch();
            { 
 
                stopWatch.Stop(); 
-
-
                // Get the elapsed time as a TimeSpan value. 
 
                TimeSpan ts = stopWatch.Elapsed; 
@@ -276,6 +272,4 @@ Stopwatch stopWatch = new Stopwatch();
        } 
 
 {{< /highlight >}}
-
-
 

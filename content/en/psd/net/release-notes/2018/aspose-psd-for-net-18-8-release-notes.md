@@ -104,11 +104,7 @@ using (var im = (PsdImage)(Image.Load(sourceFileName)))
 
     Assert.AreEqual(SheetColorHighlightEnum.Orange, layer2.SheetColorHighlight);
 
-
-
     layer1.SheetColorHighlight = SheetColorHighlightEnum.Yellow;
-
-
 
     im.Save(exportPath);	
 
@@ -202,8 +198,6 @@ using (var im = (PsdImage)(Image.Load(sourceFileName)))
 
     var layer = im.Layers[2];
 
-
-
     var resources = layer.Resources;
 
     foreach (var resource in resources)
@@ -221,8 +215,6 @@ using (var im = (PsdImage)(Image.Load(sourceFileName)))
         }
 
     }
-
-
 
     im.Save(exportPath);	
 
@@ -502,8 +494,6 @@ using (var im = (PsdImage)(Image.Load(sourceFileName)))
 
     im.Layers = new Layer[] { layer2 };
 
-
-
     im.Save(exportPath);	 
 
 }
@@ -598,13 +588,9 @@ for (int j = 1; j < 2; j++)
 
     }
 
-
-
     // Save PSD
 
     im.Save(psdPathAfterChange + j.ToString() + ".psd");
-
-
 
     // Save PNG
 
@@ -680,8 +666,6 @@ for (int j = 1; j < 2; j++)
 
     }
 
-
-
     // Save PSD
 
     im.Save(psdPathAfterChange + j.ToString() + ".psd");
@@ -732,13 +716,9 @@ using (var im = LoadFile(sourceFileName))
 
     }
 
-
-
     // Save PSD
 
     im.Save(psdPathAfterChange);
-
-
 
     // Save PNG
 
@@ -792,8 +772,6 @@ using (var im = LoadFile(sourceFileName))
 
     }
 
-
-
     // Save PSD
 
     im.Save(psdPathAfterChange);
@@ -805,8 +783,6 @@ using (var im = LoadFile(sourceFileName))
 **PSDNET-37 Add support of Channel Mixer Adjustment Layer**
 
 {{< highlight java >}}
-
-
 
 // Rgb Channel Mixer
 
@@ -837,8 +813,6 @@ using (var im = LoadFile(sourceFileName))
          }
 
     }
-
-
 
     im.Save(psdPathAfterChange);
 
@@ -876,15 +850,9 @@ using (var im = LoadFile(sourceFileName))
 
     }
 
-
-
     im.Save(psdPathAfterChange);
 
 }
-
-
-
-
 
 // Adding the new layer(Cmyk for this example)
 
@@ -901,8 +869,6 @@ using (var im = LoadFile(sourceFileName))
     newlayer.GetChannelByIndex(2).Constant = 50;
 
     newlayer.GetChannelByIndex(0).Constant = 50;
-
-
 
     im.Save(psdPathAfterChange);
 
@@ -958,15 +924,11 @@ using (var im = LoadFile(sourceFileName))
 
 }
 
-
-
 // Hue/Saturation layer adding
 
 string sourceFileName = "PhotoExample.psd";
 
 string psdPathAfterChange = "PhotoExampleAddedHueSaturation.psd";
-
-
 
 using (PsdImage im = LoadFile(sourceFileName))
 
@@ -991,8 +953,6 @@ using (PsdImage im = LoadFile(sourceFileName))
      colorRange.Lightness = 20;
 
      colorRange.MostLeftBorder = 300;
-
-
 
      im.Save(psdPathAfterChange);
 
@@ -1036,13 +996,9 @@ using (var im = LoadFile(sourceFileName))
 
     }
 
-
-
     // Save PSD
 
     im.Save(psdPathAfterChange);
-
-
 
     // Save PNG
 
@@ -1054,8 +1010,6 @@ using (var im = LoadFile(sourceFileName))
 
 }
 
-
-
 // Exposure layer adding
 
 string sourceFileName = "PhotoExample.psd";
@@ -1063,8 +1017,6 @@ string sourceFileName = "PhotoExample.psd";
 string psdPathAfterChange = "PhotoExampleAddedExposure.psd";
 
 string pngExportPath = "PhotoExampleAddedExposure.png";
-
-
 
 using (PsdImage im = LoadFile(sourceFileName))
 
@@ -1078,13 +1030,9 @@ using (PsdImage im = LoadFile(sourceFileName))
 
      newlayer.GammaCorrection = 2f;
 
-
-
      // Save PSD
 
      im.Save(psdPathAfterChange);
-
-
 
      // Save PNG
 
@@ -1101,8 +1049,6 @@ using (PsdImage im = LoadFile(sourceFileName))
 **PSDNET-31 Add support of rendering for export of ChannelMixer adjusment layer**
 
 {{< highlight java >}}
-
-
 
 // Rgb Channel Mixer
 
@@ -1136,13 +1082,9 @@ using (var im = LoadFile(sourceFileName))
 
     }
 
-
-
 	// Save PSD
 
     im.Save(psdPathAfterChange);
-
-
 
 	// Save PNG
 
@@ -1188,13 +1130,9 @@ using (var im = LoadFile(sourceFileName))
 
     }
 
-
-
 	// Save PSD
 
     im.Save(psdPathAfterChange);
-
-
 
 	// Save PNG
 
@@ -1205,8 +1143,6 @@ using (var im = LoadFile(sourceFileName))
     im.Save(pngExportPath, saveOptions);
 
 }
-
-
 
 {{< /highlight >}}
 
@@ -1300,15 +1236,11 @@ using (var im = LoadFile(sourceFileName))
 
 }
 
-
-
 // Photo Filter layer adding
 
 string sourceFileName = "PhotoExample.psd";
 
 string psdPathAfterChange = "PhotoExampleAddedPhotoFilter.psd";
-
-
 
 using (PsdImage im = LoadFile(sourceFileName))
 
@@ -1325,8 +1257,6 @@ using (PsdImage im = LoadFile(sourceFileName))
 **PSDNET-8 Add support of Channel mixer adjusment layer**
 
 {{< highlight java >}}
-
-
 
 // Rgb Channel Mixer
 
@@ -1358,13 +1288,9 @@ using (var im = LoadFile(sourceFileName))
 
     }
 
-
-
     im.Save(psdPathAfterChange);
 
 }
-
-
 
 // Adding the new layer(Cmyk for this example)
 
@@ -1381,8 +1307,6 @@ using (var im = LoadFile(sourceFileName))
     newlayer.GetChannelByIndex(2).Constant = 50;
 
     newlayer.GetChannelByIndex(0).Constant = 50;
-
-
 
     im.Save(psdPathAfterChange);
 
@@ -1428,15 +1352,11 @@ using (var im = LoadFile(sourceFileName))
 
 }
 
-
-
 // Exposure layer adding
 
 string sourceFileName = "PhotoExample.psd";
 
 string psdPathAfterChange = "PhotoExampleAddedExposure.psd";
-
-
 
 using (PsdImage im = LoadFile(sourceFileName))
 
@@ -1488,8 +1408,6 @@ using (var im = LoadFile(sourceFileName))
 
     }
 
-
-
     // Save PSD
 
     im.Save(psdPathAfterChange);
@@ -1528,8 +1446,6 @@ using (var im = (PsdImage)(Image.Load(sourceFileName1)))
 
     }
 
-
-
 	// Save PSD
 
     im.Save(exportPath1);
@@ -1561,8 +1477,6 @@ using (var im = (PsdImage)(Image.Load(sourceFileName2)))
         }
 
     }
-
-
 
 	// Save PSD
 
@@ -2007,7 +1921,5 @@ using (var im = LoadFile(sourceFileName))
 }
 
 {{< /highlight >}}
-
-
 
 

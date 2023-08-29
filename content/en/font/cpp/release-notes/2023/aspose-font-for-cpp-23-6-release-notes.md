@@ -17,8 +17,6 @@ menuItemWithNoContent: false
 Aspose.Font for C++ 23.6 is based on the [Aspose.Font for .NET 23.6](/font/net/release-notes/2023/aspose-font-for-net-23-6-release-notes/) and ready for use with Aspose c++ products ver 23.6.
 
 Text drawing functionality has been extended with the ability to set line spacing values.
-
-
 ## Public API and Backwards Incompatible Changes
 
 ### Added APIs

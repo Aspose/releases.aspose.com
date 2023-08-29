@@ -13,7 +13,7 @@ download_count: " 15/7/2022 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 4.19MB"
 parent_path: "font/net"
 section_parent_path: "font/net"
-tags: ""
+
 release_notes_url: "https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-7-release-notes/"
 weight: 31
 ---

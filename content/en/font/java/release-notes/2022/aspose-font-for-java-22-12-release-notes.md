@@ -29,8 +29,6 @@ Support for the '*vmtx*' table has been added.
 |---|---|---|
 | FONTNET-483 | Support for '*vhea*' table | New Feature |
 | FONTNET-484 | Support for '*vmtx*' table | New Feature |
-
-
 ## Public API and Backwards Incompatible Changes
 
 ### Added APIs
@@ -70,7 +68,5 @@ Support for the '*vmtx*' table has been added.
 ### Modified APIs
 
 ### Removed APIs
-
-
 ## Got Queries?
 If you have any query related to Aspose.Font for Java API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.

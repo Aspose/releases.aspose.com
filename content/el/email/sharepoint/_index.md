@@ -73,8 +73,6 @@ Microsoft SharePoint Server 2010
 - Mozilla FireFox 3.5
 - Google Chrome 3
 - Σαφάρι 4
-
-
 ### Υποστηριζόμενες υπηρεσίες φιλοξενίας/κοινής χρήσης αρχείων
 
 - Διακομιστής FTP

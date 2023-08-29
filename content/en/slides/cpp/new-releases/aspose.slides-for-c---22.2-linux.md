@@ -15,8 +15,6 @@ parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
 weight: 165
 ---
-
-
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt=" Aspose.Slides for C++ 22.2 Linux" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}

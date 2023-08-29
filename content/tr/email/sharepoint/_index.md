@@ -73,8 +73,6 @@ Microsoft SharePoint Sunucusu 2010
 -Mozilla FireFox 3.5
 - Google Chrome3
 - Safari 4
-
-
 ### Desteklenen Dosya Barındırma/Paylaşım Hizmetleri
 
 - Ftp sunucusu

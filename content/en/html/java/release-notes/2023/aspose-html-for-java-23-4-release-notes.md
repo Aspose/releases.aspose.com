@@ -45,8 +45,6 @@ com.aspose.html.net.messagehandlers.HttpProtocolMessageHandler
 class com.aspose.html.net.StringContent
    StringContent(String content, com.aspose.html.Encoding encoding)
    StringContent(String content, com.aspose.html.Encoding encoding, String mediaType)
-
-
 class com.aspose.html.forms.FormEditor
    public final void fill(IGenericDictionary<String,String> values)
    public void fill(Map values) {

@@ -444,8 +444,6 @@ Property      Aspose.CAD.License.IsLicensed
 # **Usage examples:**
 **CADNET-23 Manipulate hyperlinks in AutoCAD drawings**
 
-
-
 {{< highlight java >}}
 
  using (CadImage cadImage = (CadImage)Image.Load(dwgPathToFile))
@@ -472,8 +470,6 @@ Property      Aspose.CAD.License.IsLicensed
 
 **CADNET-799 - Support of CF2 Files**
 
-
-
 {{< highlight java >}}
 
  using (Image image = Image.Load(GetCf2File("test-2010.cf2")))
@@ -487,8 +483,6 @@ Property      Aspose.CAD.License.IsLicensed
 }
 
 {{< /highlight >}}
-
-
 
 **CADNET-116 Support of Watermarks**
 
@@ -539,7 +533,5 @@ pdfOptions.VectorRasterizationOptions = rasterizationOptions;
 cadImage.Save(outPath, pdfOptions);
 
 {{< /highlight >}}
-
-
 
 

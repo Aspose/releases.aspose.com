@@ -16,8 +16,6 @@ menuItemWithNoContent: false
 ## Improvements and Changes
 
 Aspose.TeX for C++ 23.1 is ready for use with Aspose C++ products ver 23.1.
-
-
 You can consult Aspose.TeX for C++ [API reference](https://reference.aspose.com/tex/cpp/) for documentation.
  
 ## Got Queries?

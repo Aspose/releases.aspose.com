@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes information for [Aspose.ZIP for .NET 20.8](https://releases.aspose.com/zip/net/new-releases/aspose.zip-for-.net-20.8/).
 
 {{% /alert %}} 
-
-
 ## **All Changes**
 
 |**Key**|**Summary**|**Issue Type**|

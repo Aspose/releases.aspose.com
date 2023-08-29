@@ -14,8 +14,6 @@ download_count: " 11/7/2022 Unduhs: 1  Views: 1 "
 file_size: "File Size: 11.64MB"
 parent_path: "cells/nodejs"
 section_parent_path: "cells/nodejs"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/cells/nodejsjava/aspose-cells-for-node-js-via-java-22-7-release-notes/"
 weight: 21
 
@@ -47,5 +45,3 @@ weight: 21
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

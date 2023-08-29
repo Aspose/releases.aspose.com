@@ -14,8 +14,6 @@ download_count: " 20/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 94.76MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-22-10-release-notes/"
 weight: 672
 
@@ -47,6 +45,4 @@ weight: 672
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

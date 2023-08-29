@@ -31,8 +31,6 @@ Puede usar fácilmente <b>aspose.cells</b> para Javascript desde
 {{< Common/hr >}}
 
 {{HIPERVINCULO1}} | {{HIPERVINCULO2}} | {{HIPERVINCULO3}} | {{HIPERVINCULO4}} | {{HIPERVINCULO5}} | {{HIPERVINCULO6}} | {{HIPERVINCULO7}} | {{HIPERVINCULO8}} | {{HIPERVINCULO9}} | {{HIPERVINCULO10}}
-
-
 - Conversión de formato de archivo de Excel y OpenOffice Calc.
 - Estilo de la hoja de trabajo al nivel más granular.
 - Creación y representación de gráficos.

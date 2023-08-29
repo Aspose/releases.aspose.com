@@ -14,8 +14,6 @@ download_count: " 21/3/2023 Descargars: 1  Views: 1 "
 file_size: "File Size: 13.52MB"
 parent_path: "svg/net"
 section_parent_path: "svg/net"
-
-tags: ""
 release_notes_url: "It contains Aspose.SVG for .NET 23.3 release."
 weight: 129
 
@@ -47,5 +45,3 @@ weight: 129
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

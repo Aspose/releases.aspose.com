@@ -80,8 +80,6 @@ This page contains release notes information for [Aspose.Tasks for Java 21.7](ht
 | com.aspose.tasks.FillPattern.SolidFillWithDashedBorder | Solid with dashed border pattern. |
 | com.aspose.tasks.HorizontalAlignment.Left | The object is aligned on the left of the target element. |
 | com.aspose.tasks.HorizontalAlignment.Right | The object is aligned on the right of the target element. |
-
-
 ## **Examples and additional notes**
 
 **Related issue: TASKSNET-4903 - Add ExecutingWebRequest event for interactions with API of ProjectOnline \ ProjectServer.**
@@ -97,8 +95,6 @@ manager.setExecutingWebRequest(new Event<WebRequestEventArgs>() {
     }
 });
 {{< /highlight >}}
-
-
 **Related issue: TASKSJAVA-1186 - Support of display Ole as Icon property: getDisplayAsIcon missing from Tasks library.**
 
 Now you can read OleObject's DisplayAsIcon property to determine whether OLE object should be displayed as icon or as its regular picture.
@@ -106,8 +102,6 @@ Also new entity was introduced: ***VisualObjectPlacement*** which represents vis
 It corresponds to "Format Drawing" dialog window called by "Properties" command from OleObject's (or another visual object in a view) context menu:
 
 ![Format Drawing](../OleObjectProperties2.png)
-
-
 {{< highlight java >}}
 Project project = new Project("ProjectWithOleObjects.mpp");
 View view = project.getViews().stream()

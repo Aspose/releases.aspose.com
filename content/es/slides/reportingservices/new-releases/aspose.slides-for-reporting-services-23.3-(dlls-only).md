@@ -14,8 +14,6 @@ download_count: " 20/3/2023 Descargars: 1  Views: 1 "
 file_size: "File Size: 32.84MB"
 parent_path: "slides/reportingservices"
 section_parent_path: "slides/reportingservices"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-23-3-release-notes/"
 weight: 462
 
@@ -47,5 +45,3 @@ weight: 462
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

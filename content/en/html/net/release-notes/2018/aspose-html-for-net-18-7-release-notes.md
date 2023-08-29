@@ -112,8 +112,6 @@ Added CSSMarginRule object according to CSS specification.
 }
 
 {{< /highlight >}}
-
-
 Added the overridden methods to the FormSubmitter object that allow to specify CookieContainer during the web request/response operations.
 {{< highlight java >}}
 
@@ -148,8 +146,6 @@ Added the overridden methods to the FormSubmitter object that allow to specify C
 }
 
 {{< /highlight >}}
-
-
 The ResponseMessage object has been changed and now supports CookieContainer property.
 {{< highlight java >}}
 

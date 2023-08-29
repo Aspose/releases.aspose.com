@@ -14,8 +14,6 @@ download_count: " 19/8/2022 Unduhs: 1  Views: 1 "
 file_size: "File Size: 76.54MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-22-8-release-notes/"
 weight: 97
 
@@ -47,5 +45,3 @@ weight: 97
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

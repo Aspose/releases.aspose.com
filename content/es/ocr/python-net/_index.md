@@ -17,8 +17,6 @@ Agregue capacidades de reconocimiento óptico de caracteres (OCR) a sus solucion
 {{< Common/paragraph class="package-instructions">}}
 Aspose.OCR para Python a través de .NET se puede descargar aquí e instalar desde el sistema de archivos local con el siguiente comando:
 {{< /Common/paragraph>}}
-
-
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install aspose-ocr-python-net {{< /consolebox/textarea >}}       
@@ -40,8 +38,6 @@ Aspose.OCR para Python a través de .NET se puede descargar aquí e instalar des
 - Admite la mayoría de los formatos de archivo que puede obtener de un escáner o una cámara, así como enlaces web.
 - Corrige automáticamente los errores ortográficos para mejorar aún más los resultados sin intervención manual.
 - Lee documentos de varias páginas, carpetas e incluso archivos ZIP de forma masiva y devuelve los resultados en los formatos de intercambio de documentos y datos más populares.
-
-
 ### Fragmento de código
 
 **Aspose.OCR para Python a través de .NET** es extremadamente fácil de usar, independientemente de la escala y complejidad de la aplicación. Intentemos crear una aplicación muy simple que pueda extraer texto de las imágenes y enviarlo a la consola.

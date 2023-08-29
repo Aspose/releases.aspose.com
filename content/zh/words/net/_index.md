@@ -53,8 +53,6 @@ Aspose.Words for .NET 是一个类库，可供 C#、F#、VB.NET 开发人员用�
 - 提供丰富的实用功能，您可以使用将文档拆分为多个部分、将文档连接在一起、比较文档等等。
 
 要熟悉最流行的 Aspose.Words 功能，请查看我们的 [free online applications](https://products.aspose.app/words/family)。
-
-
 ### 支持的读写格式
 
 **Microsoft Word®：** DOC、DOT、DOCX、DOTX、DOTM、FlatOpc、FlatOpcMacroEnabled、FlatOpcTemplate、FlatOpcTemplateMacroEnabled、RTF、WordML\

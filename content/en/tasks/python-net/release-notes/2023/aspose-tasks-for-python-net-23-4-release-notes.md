@@ -52,8 +52,6 @@ This page contains release notes information for [Aspose.Tasks for Python via .N
 | Aspose.Tasks.Visualization.HorizontalStringAlignment.Near | Specifies the text be aligned near the layout. In a left-to-right layout, the near position is left. In a right-to-left layout, the near position is right. |
 | Aspose.Tasks.Visualization.HorizontalStringAlignment.Center | Specifies that text is aligned in the center of the layout rectangle. |
 | Aspose.Tasks.Visualization.HorizontalStringAlignment.Far | Specifies that text is aligned far from the origin position of the layout rectangle. In a left-to-right layout, the far position is right. In a right-to-left layout, the far position is left. |
-
-
 ## **Breaking change notice**
 
 **Related issue: TASKSNET-10742 - Replace usages of System.Drawing.StringAlignment with Aspose.Tasks.Visualization.HorizontalStringAlignment**

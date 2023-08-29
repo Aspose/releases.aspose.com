@@ -14,8 +14,6 @@ download_count: " 26/3/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 9.92MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-23-3-release-notes/"
 weight: 123
 
@@ -47,5 +45,3 @@ weight: 123
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

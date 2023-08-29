@@ -358,8 +358,6 @@ using(AiImage image = (AiImage) Image.Load(sourceFile)) {
 
 {{< /highlight >}}
 
-
-
 **PSDNET-214. Incorrect export of PSD to other formats if it contains Layer Effects and Adjustment Layers**
 
 {{< highlight java >}}
@@ -377,7 +375,5 @@ using(AiImage image = (AiImage) Image.Load(sourceFile)) {
    }
 
 {{< /highlight >}}
-
-
 
 

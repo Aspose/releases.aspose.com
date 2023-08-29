@@ -25,8 +25,6 @@ This page contains release notes for [Aspose.PSD for .NET 22.8](https://www.nug
 |PSDNET-800|Support of Frame TimeLine from PSD File|Feature|
 |PSDNET-1219|Support of 'mlst' resource that contains in ShmdResource as a sub-resource|Feature|
 |PSDNET-814|Hash of Layer changes if we call layer.BlendingOptions.Effects|Bug|
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - T:Aspose.PSD.FileFormats.Psd.Layers.Animation.Frame
@@ -70,12 +68,8 @@ This page contains release notes for [Aspose.PSD for .NET 22.8](https://www.nug
 - M:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MlstResource.Save(Aspose.PSD.StreamContainer,System.Int32)
 - F:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MlstResource.TypeToolKey
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ShmdResource.SubResourcesx
-
-
 # **Removed APIs:**
 - None
-
-
 ## **Usage examples:**
 
 **PSDNET-800. Support of Frame TimeLine from PSD File**

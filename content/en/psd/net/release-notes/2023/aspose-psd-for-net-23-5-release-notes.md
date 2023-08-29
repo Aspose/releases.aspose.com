@@ -25,8 +25,6 @@ This page contains release notes for [Aspose.PSD for .NET 23.5](https://www.nug
 | PSDNET-1179 | PSD file (RGB/8bit or RGB/16bit) saving without layers to 32bit            | Feature      |
 | PSDNET-1408 | Implement handling path objects from vsms or vmsk resources for ShapeLayer | Feature      |
 | PSDNET-1508 | Add the influence of mesh points on each other                             | Feature      |
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - M:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr32Resource.#ctor
@@ -75,8 +73,6 @@ This page contains release notes for [Aspose.PSD for .NET 23.5](https://www.nug
 - P:Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SharpenSmartFilter.Name
 - P:Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SharpenSmartFilter.FilterId
 - F:Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SharpenSmartFilter.FilterType
-
-
 # **Removed APIs:**
 - M:Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory.#ctor
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr16Resource.Key
@@ -92,8 +88,6 @@ This page contains release notes for [Aspose.PSD for .NET 23.5](https://www.nug
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr32Resource.PsdVersion
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr32Resource.Signature
 - M:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr32Resource.Save(Aspose.PSD.StreamContainer,System.Int32)
-
-
 ## **Usage examples:**
 
 **PSDNET-343. Support of Filter: Sharpen -> Sharpen**

@@ -22,8 +22,6 @@ menuItemWithNoContent: false
 |CADJAVA-126|Converting DWG layers to PDF is producing incomplete text in the resultant PDF|Enhancement|
 |CADJAVA-127|Converting DWG to PNG is producing incomplete image|Enhancement|
 ## **Added APIs:**
-
-
 Class com.aspose.cad.FileFormats.Dwf.DwfImage
 
 Class com.aspose.cad.FileFormats.Dwf.DwfLoader
@@ -370,8 +368,6 @@ Property com.aspose.cad.ImageOptions.DwfRasterizationOptions.NoScaling
 
 Property com.aspose.cad.ImageOptions.DwfRasterizationOptions.TypeOfEntities
 # **Usage examples**
-
-
 **CADJAVA-124 Support DWF Format** 
 Export to BMP
 
@@ -541,7 +537,5 @@ Assert.areEqual(cadMLeader.getTextHeight(), 1.0, 0.01);
 }
 
 {{< /highlight >}}
-
-
 
 

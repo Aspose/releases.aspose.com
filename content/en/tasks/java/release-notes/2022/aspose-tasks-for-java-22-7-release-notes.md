@@ -36,8 +36,6 @@ This page contains release notes information for [Aspose.Tasks for Java 22.7](ht
 | com.aspose.tasks.Resource.IsRoot | Gets the flag indicating whether resource is a root resource. |
 | com.aspose.tasks.ResourceAssignment.Task | The task to which a resource is assigned. |
 | com.aspose.tasks.ResourceAssignment.Resource | The resource assigned to a task. |
-
-
 ## **Examples and additional notes**
 
 **Related issue: TASKSNET-10553 - Add properties to access ResourceAssignment's Task and Resource**

@@ -50,8 +50,6 @@ Daha ayrıntılı özellikler listesi için lütfen [official documentation](htt
 **Sabit Düzen**: PDF, XPS
 **Görüntüler**: JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
 **Web**: HTML
-
-
 ### Sistem gereksinimleri
 
 Makinenizde Microsoft Visio® yazılımının kurulu olması gerekmez.

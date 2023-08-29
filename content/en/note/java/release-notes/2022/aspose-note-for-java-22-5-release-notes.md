@@ -35,8 +35,6 @@ This page contains release notes information for [Aspose.Note for Java 22.5](htt
 |**The following public types were added:**|**Description**|
 | :- | :- |
 |com.aspose.note.TextRun|The class representing a piece of text with associated style.|
-
-
 |**The following public methods were added:**|**Description**|
 | :- | :- |
 |com.aspose.note.RichText.insert(int,java.lang.String)|Inserts a specified string at a specified index position in this instance.|

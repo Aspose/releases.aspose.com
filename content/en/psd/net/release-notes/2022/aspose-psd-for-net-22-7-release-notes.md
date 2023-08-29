@@ -26,8 +26,6 @@ This page contains release notes for [Aspose.PSD for .NET 22.7](https://www.nug
 |PSDNET-1050|After exporting the PSD file, the result is much larger than the source file|Bug|
 |PSDNET-1083|Incorrect parsing data for XmpResource|Bug|
 |PSDNET-1205|After exporting, the size of PSD files with subfolders has increased|Bug|
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - T:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AnimatedDataSectionStructure
@@ -42,12 +40,8 @@ This page contains release notes for [Aspose.PSD for .NET 22.7](https://www.nug
 - P:Aspose.PSD.FileFormats.Psd.Resources.AnimatedDataSectionResource.KeyName
 - P:Aspose.PSD.FileFormats.Psd.Resources.AnimatedDataSectionResource.AnimatedDataSection
 - M:Aspose.PSD.FileFormats.Psd.Resources.AnimatedDataSectionResource.SaveData(Aspose.PSD.StreamContainer)
-
-
 # **Removed APIs:**
 - None
-
-
 ## **Usage examples:**
 
 **PSDNET-482. Support of Image Section Resource #4000-4999 Plug-In resource(s)**

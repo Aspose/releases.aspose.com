@@ -49,8 +49,6 @@ weight:  4
 **Σταθερή διάταξη:** PDF\
 **Ιστός:** WebP, HTML5 Canvas\
 **Σε φερμουάρ:** EMZ, WMZ, SVGZ
-
-
 #### Απαιτήσεις συστήματος
 
 - Java 2 Platform Standard Edition 1.6 ή νεότερη έκδοση.

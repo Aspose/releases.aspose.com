@@ -14,8 +14,6 @@ download_count: " 20/4/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 265.83MB"
 parent_path: "ocr/python-net"
 section_parent_path: "ocr/python-net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/ocr/python-net/release-notes/latest/"
 weight: 1
 
@@ -47,5 +45,3 @@ weight: 1
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

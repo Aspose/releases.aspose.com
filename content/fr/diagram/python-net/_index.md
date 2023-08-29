@@ -50,8 +50,6 @@ Veuillez visiter le [official documentation](https://docs.aspose.com/diagram/pyt
 **Mise en page fixe** : PDF, XPS
 **Images** : JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
 **Web** : HTML
-
-
 ### Configuration requise
 
 Votre machine n'a pas besoin d'avoir le logiciel Microsoft Visio® installé.

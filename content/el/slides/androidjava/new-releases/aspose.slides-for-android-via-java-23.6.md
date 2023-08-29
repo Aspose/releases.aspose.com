@@ -14,8 +14,6 @@ download_count: " 22/6/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 31.62MB"
 parent_path: "slides/androidjava"
 section_parent_path: "slides/androidjava"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-23-6-release-notes/"
 weight: 103
 
@@ -47,5 +45,3 @@ weight: 103
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

@@ -14,8 +14,6 @@ download_count: " 30/6/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 18.14MB"
 parent_path: "words/androidjava"
 section_parent_path: "words/androidjava"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/words/java/aspose-words-for-android-via-java-23.6-release-notes/"
 weight: 94
 
@@ -47,5 +45,3 @@ weight: 94
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

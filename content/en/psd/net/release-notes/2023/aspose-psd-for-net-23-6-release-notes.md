@@ -36,8 +36,6 @@ This page contains release notes for [Aspose.PSD for .NET 23.6](https://www.nug
 | PSDNET-1578 | Exception on the loading of the ShapeLayer: Points for vector origin bounds is not supported yet                                                 | Bug          |
 | PSDNET-1579 | Exception on loading of VogkResource: Points are saved as DoubleStructures, we read as UnitStructures                                            | Bug          |
 | PSDNET-1581 | LayerType of ShapeLayer is empty                                                                                                                 | Bug          |
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - Aspose.PSD.FileFormats.Psd.Layers.Animation.Frame.#ctor
@@ -87,8 +85,6 @@ This page contains release notes for [Aspose.PSD for .NET 23.6](https://www.nug
 - M:Aspose.PSD.FileFormats.Psd.Layers.ShapeLayer.CreateInstance
 - M:Aspose.PSD.FileFormats.Psd.Layers.ShapeLayer.Update
 - P:Aspose.PSD.FileFormats.Psd.Layers.ShapeLayer.Path
-
-
 # **Removed APIs:**
 - M:Aspose.PSD.FileFormats.Psd.Layers.Animation.Frame.#ctor(Aspose.PSD.FileFormats.Psd.Layers.Animation.TimeLine)
 - M:Aspose.PSD.FileFormats.Psd.Layers.Animation.LayerState.#ctor(System.Int32)
@@ -102,8 +98,6 @@ This page contains release notes for [Aspose.PSD for .NET 23.6](https://www.nug
 - P:Aspose.PSD.FileFormats.Psd.Layers.Animation.TimeLine.LayerIds
 - M:Aspose.PSD.FileFormats.Psd.Layers.Animation.TimeLine.InitializeFrom(Aspose.PSD.FileFormats.Psd.PsdImage)
 - M:Aspose.PSD.FileFormats.Psd.Layers.Animation.TimeLine.ApplyTo(Aspose.PSD.FileFormats.Psd.PsdImage)
-
-
 ## **Usage examples:**
 
 **PSDNET-147. Support of Threshold Adjustment Layer**

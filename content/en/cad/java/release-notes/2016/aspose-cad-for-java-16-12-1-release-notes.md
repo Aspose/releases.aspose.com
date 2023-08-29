@@ -90,8 +90,6 @@ for (CadBaseEntity entity : image.getEntities())
     }
 
 }
-
-
 {{< /highlight >}}
 
 **CADJAVA-82 Implement drawing of DGN format as a part of DWG**
@@ -147,8 +145,6 @@ vectorRasterizationOptions.setDrawType(CadDrawTypeMode.UseObjectColor);
 exportOptions.setVectorRasterizationOptions(vectorRasterizationOptions);
 
 cadImage.save(outPath, exportOptions);
-
-
 {{< /highlight >}}
 
 **CADJAVA-79 Implement reading insert coordinate and rotation angle for DGN underlay.**
@@ -190,6 +186,4 @@ CadImage image = (CadImage)Image.load(fileName);
     }
 
 }
-
-
 {{< /highlight >}}

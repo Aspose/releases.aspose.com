@@ -428,5 +428,3 @@ using (PsdImage image = (PsdImage)Image.Load(exportFileName))
 
 {{< /highlight >}}
 
-
-

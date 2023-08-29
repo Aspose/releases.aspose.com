@@ -22,8 +22,6 @@ Aspose.imaging για το Python μέσω του .NET API, το οποίο εί
        {{< consolebox/textarea id="pip" >}} pip install aspose-imaging-python-net {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
-
-
 [Σελίδα προϊόντος](https://products.aspose.com/imaging/python-net/) | [Docs](https://docs.aspose.com/imaging/python-net/) | [Demos](https://products.aspose.app/imaging/family/) | [Αναφορά API](https://reference.aspose.com/imaging/python-net/) | [Παραδείγματα](https://github.com/aspose-imaging/aspose.imaging-for-python-net/) | [Blog](https://blog.aspose.com/category/imaging/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/imaging) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 ### Χαρακτηριστικά API απεικόνισης

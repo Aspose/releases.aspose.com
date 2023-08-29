@@ -21,8 +21,6 @@ This version includes new feature of saving document to stream in HTML format. T
 - [Saving to Stream with Embedded Resources](https://docs.aspose.com/note/net/create-and-load-a-onenote-document/#createandloadaonenotedocument-savetomemorystreamwithembeddedresources)
 - Saving to File with [Resources In Separate Files](https://docs.aspose.com/note/net/create-and-load-a-onenote-document/#createandloadaonenotedocument-saveashtmlfilewithresourcesinseparatefile)
 - Saving to Stream with [Callbacks for Saving Resources](https://docs.aspose.com/note/net/create-and-load-a-onenote-document/#createandloadaonenotedocument-savetomemorystreamwithcallbacks)
-
-
 ### **Features and Improvements**
 
 |**Key**|**Summary**|**Category**|
@@ -30,8 +28,6 @@ This version includes new feature of saving document to stream in HTML format. T
 |NOTENET-2247|Support saving to stream in html format|` `New Feature|
 
 ## **Public API and Backward Incompatible Changes**
-
-
 |**Added Public Types**|**Description**|
 | :-: | :-: |
 |Aspose.Note.Saving.Html.CssSavingArgs|Provides data for CssSaving event.|

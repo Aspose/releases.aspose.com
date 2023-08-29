@@ -42,8 +42,6 @@ This page contains release notes information for [Aspose.Tasks for Java 21.8](ht
 | com.aspose.tasks.TaskBaselineCollection.ParentTask |  |
 | com.aspose.tasks.WeekDayCollection.ParentCalendar |  |
 | com.aspose.tasks.WorkWeek.ParentCalendar |  |
-
-
 ## **Examples and additional notes**
 
 Since this version Aspose.Tasks for Java uses only security providers, which approved by FIPS.

@@ -14,8 +14,6 @@ download_count: " 8/10/2022 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 21.45MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-10-release-notes/"
 weight: 481
 
@@ -47,5 +45,3 @@ weight: 481
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

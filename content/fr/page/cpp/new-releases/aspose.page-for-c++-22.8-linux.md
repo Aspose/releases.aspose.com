@@ -14,8 +14,6 @@ download_count: " 29/8/2022 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 45.68MB"
 parent_path: "page/cpp"
 section_parent_path: "page/cpp"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/page/cpp/new-releases/aspose.page-for-c++-22.8/"
 weight: 87
 
@@ -47,5 +45,3 @@ weight: 87
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

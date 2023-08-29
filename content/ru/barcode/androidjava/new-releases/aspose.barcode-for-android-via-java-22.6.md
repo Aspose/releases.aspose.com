@@ -14,8 +14,6 @@ download_count: " 30/6/2022 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 14.31MB"
 parent_path: "barcode/androidjava"
 section_parent_path: "barcode/androidjava"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-6/"
 weight: 91
 
@@ -47,5 +45,3 @@ weight: 91
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

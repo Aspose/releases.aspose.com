@@ -195,5 +195,3 @@ Property      com.aspose.cad.fileFormats.dwf.ePlotInterface.dwfEPlotPage.un
 **Property**      com.aspose.cad.fileFormats.dwf.ePlotInterface.dwfEPlotPage.unitType 
 
 
-
-

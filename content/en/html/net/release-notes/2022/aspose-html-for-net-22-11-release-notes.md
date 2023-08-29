@@ -70,8 +70,6 @@ namespace Aspose.Html.Rendering.Pdf
         /// </summary>
         Flattened
     }
-
-
     public class PdfRenderingOptions : RenderingOptions
     {
 	/// <summary>

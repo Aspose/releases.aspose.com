@@ -136,8 +136,6 @@ so.setFontResolveCallback(new FontResolveCallbackDelegate() {
 project.save("Output.pdf", so);
 
 {{< /highlight >}}
-
-
 **Related issue: TASKSNET-2596 - Add support for "Calculation for task and group summary rows" custom field option**
 
 The API for Extended attributes were improved. The previous ExtendedAttributeDefinition API where
@@ -149,8 +147,6 @@ reflect MS Project's model of extended attribute's settings.
 ExtendedAttributeDefinition.CalculationType's values are now limited to (None, Lookup, Formula) values.
 
 ![Extended attribute settings in MS Project](../ExtendedAttributeDefinition.png)
-
-
 The following example creates an extended attribute which values for leaf tasks are calculated using formula and values for summary tasks are calculated using average rollup:
 {{< highlight java >}}
 
@@ -166,8 +162,6 @@ project.getExtendedAttributes().add(definition);
 project.save("Output.mpp");
 
 {{< /highlight >}}
-
-
 **Related issue: TASKSNET-10496 - Make WorkingTime immutable**
 
 In order to optimize calendar-related calculations WorkingTime class was made immutable (so properties cannot be modified after object is created).

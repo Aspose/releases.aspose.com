@@ -20,15 +20,11 @@ This page contains release notes information for Aspose.Font for .NET 21.10.
 {{% /alert %}} 
 
 Conversion functionality for CFF and WOFF2 format  has been fixed.
-
-
 | Key | Summary | Category |
 |---|---|---|
 | FONTNET-286 | Incorrect calculation of transformation matrix for CFF fonts | Bug |
 | FONTNET-274 | Encoding problem for TTF to WOFF2 conversion | Bug |
 | FONTNET-275 | Null reference exception when converting font 'OpenSans' from CFF to TTF format | Bug |
-
-
 ## Public API and Backwards Incompatible Changes
 
 ### Added APIs
@@ -42,7 +38,5 @@ Conversion functionality for CFF and WOFF2 format  has been fixed.
 * Constructor Aspose.Font.CffExceptions.CffParsingException(System.String)
 * Constructor Aspose.Font.CffExceptions.CffParsingException(System.String,System.Exception)
 * Constructor Aspose.Font.CffExceptions.CffParsingException(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
-
-
 ## Got Queries?
 If you have any query related to Aspose.Font for .NET API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.

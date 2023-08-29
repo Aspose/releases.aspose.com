@@ -10,8 +10,6 @@ download_text: " Download"
 Intro_text: " Dear Customers,
 Wir haben Aspose.BarCode 2.2.0.0 veröffentlicht!
 Was gibt's Neues?
-
-
 Voll..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/24/2007  Downloads: 8  Views: 147"
@@ -48,6 +46,4 @@ weight: 274
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

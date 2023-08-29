@@ -58,8 +58,6 @@ PdfSaveOptions saveOptions = new PdfSaveOptions()
 
 project.Save("OutputScaledTo45.pdf", saveOptions);
 {{< /highlight >}}
-
-
 **Related issue: TASKSNET-4609 - Implement feature "Fit to X pages tall and Y pages wide"**
 
 Now PageSettings.PagesInWidth and PageSettings.PagesInHeight are taken into account when View is rendered.

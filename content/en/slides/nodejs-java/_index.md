@@ -51,8 +51,6 @@ aspose.slides is available on NPM as the  {{< Common/link href="https://www.npmj
 
 <!-- /ProductPageContent-->
 
-
-
 <!-- ReleasesListProductPage-->
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="slides" product="nodejs-java" >}}
 <!-- /ReleasesListProductPage-->

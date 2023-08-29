@@ -14,8 +14,6 @@ download_count: " 6/7/2023 下载s: 1  Views: 1 "
 file_size: "File Size: 10.14MB"
 parent_path: "gis/net"
 section_parent_path: "gis/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-5-release-notes/"
 weight: 222
 
@@ -47,5 +45,3 @@ weight: 222
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

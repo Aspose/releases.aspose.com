@@ -66,8 +66,6 @@ This page contains release notes information for [Aspose.Tasks for C++ 22.11](ht
 | Aspose.Tasks.Project.#ctor(System.IO.Stream,Aspose.Tasks.ParseErrorCallback,Aspose.Tasks.PrimaveraXmlReadingOptions) |  |
 | Aspose.Tasks.Project.#ctor(System.String,Aspose.Tasks.PrimaveraXmlReadingOptions) |  |
 | Aspose.Tasks.Project.#ctor(System.String,Aspose.Tasks.ParseErrorCallback,Aspose.Tasks.PrimaveraXmlReadingOptions) |  |
-
-
 ## **Examples and additional notes**
 
 **Related issue: TASKSNET-10699 - Add an API for read-only access to Primavera-specific task's properties for projects read from XER\P6XML formats**

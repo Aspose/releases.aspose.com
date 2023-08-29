@@ -14,8 +14,6 @@ download_count: " 14/9/2022 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 110.61MB"
 parent_path: "diagram/python-net"
 section_parent_path: "diagram/python-net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-9-release-notes/"
 weight: 3
 
@@ -47,5 +45,3 @@ weight: 3
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

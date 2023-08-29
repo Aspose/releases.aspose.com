@@ -14,8 +14,6 @@ download_count: " 2/3/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 53.04MB"
 parent_path: "words/jasperreports"
 section_parent_path: "words/jasperreports"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-23-2-release-notes/"
 weight: 129
 
@@ -47,5 +45,3 @@ weight: 129
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

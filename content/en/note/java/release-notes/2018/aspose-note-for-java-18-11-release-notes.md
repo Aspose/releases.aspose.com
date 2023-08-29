@@ -23,8 +23,6 @@ This page contains release notes information for Aspose.Note for Java 18.11.
 - Improved rendering when saving *.one documents to PDF and image formats
 
 ## **Features and Improvements**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |NOTENET-2267|Wrong page size is returned when Page.SizeType is set to SizeByContent|New Feature|
@@ -34,8 +32,6 @@ This page contains release notes information for Aspose.Note for Java 18.11.
 |NOTENET-2705|Exception is thrown when saving attached file to PDF|Bug|
 
 ## **Public API and Backward Incompatible Changes**
-
-
 |**The following public types were added:**|**Description**|
 | :- | :- |
 |com.aspose.note.Page.getPageLayoutSize|Gets page's layout size displayed in the editor.|

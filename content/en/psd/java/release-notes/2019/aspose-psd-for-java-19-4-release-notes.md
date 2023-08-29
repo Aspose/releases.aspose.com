@@ -192,8 +192,6 @@ menuItemWithNoContent: false
 
          }
 
-
-
     }
 
     finally
@@ -229,8 +227,6 @@ menuItemWithNoContent: false
             PsdOptions psdOpt = new PsdOptions(image);
 
             image.save(outputFilePathPsd, psdOpt);
-
-
 
             JpegOptions jpegOpt = new JpegOptions();
 
@@ -272,8 +268,6 @@ menuItemWithNoContent: false
 
     PsdImage im = (PsdImage)(Image.load(sourceFile));
 
-
-
     try
 
     {
@@ -314,8 +308,6 @@ menuItemWithNoContent: false
 
             String exportPath = "Result.psd";
 
-
-
             PsdImage image = (PsdImage)Image.load(sourceFileName);
 
             TextLayer layer = (TextLayer)image.getLayers()[0];
@@ -348,8 +340,6 @@ menuItemWithNoContent: false
 
 {{< /highlight >}}
 
-
-
 **PSDJAVA-6. If TextLayer is updated with string which contains LineBreaks then PSD File become unreadable**
 
 {{< highlight java >}}
@@ -359,8 +349,6 @@ menuItemWithNoContent: false
             String sourceFileName = "TextTest.psd";
 
             String exportPath = "Result.psd";
-
-
 
             PsdImage image = (PsdImage)Image.load(sourceFileName);
 
@@ -382,8 +370,6 @@ menuItemWithNoContent: false
 
                 createdImage.dispose();
 
-
-
             }
 
             finally
@@ -396,8 +382,6 @@ menuItemWithNoContent: false
 
 {{< /highlight >}}
 
-
-
 **PSDJAVA-7. If TextLayer is updated with string which contains Tabs symbols, processing fails with exception**
 
 {{< highlight java >}}
@@ -407,8 +391,6 @@ menuItemWithNoContent: false
             String sourceFileName = "TextTest.psd";
 
             String exportPath = "Result.psd";
-
-
 
             PsdImage image = (PsdImage)Image.load(sourceFileName);
 
@@ -439,7 +421,5 @@ menuItemWithNoContent: false
                 image.dispose();
 
             }
-
-
 
 {{< /highlight >}}

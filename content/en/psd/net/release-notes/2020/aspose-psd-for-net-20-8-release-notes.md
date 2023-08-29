@@ -190,8 +190,6 @@ This page contains release notes for [Aspose.PSD for .NET 20.8](https://www.nug
                     string.Format("Actual value {0} are not equal to expected {1}.", actual, expected));
             }
         }
-
-
         string dataDir = "PSDNET390_1\\";
         var sourceFilePath = dataDir + "LayeredSmartObjects8bit2.psd";
         var outputFilePath = dataDir + "LayeredSmartObjects8bit2_output.psd";

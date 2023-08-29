@@ -14,8 +14,6 @@ download_count: " 17/1/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 21.49MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-1-release-notes/"
 weight: 488
 
@@ -47,5 +45,3 @@ weight: 488
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

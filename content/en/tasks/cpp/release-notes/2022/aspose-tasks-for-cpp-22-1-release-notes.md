@@ -91,5 +91,3 @@ The following members were marked as obsolete and will be deleted after version 
 | Aspose.Tasks.Tsk.FinishSlack | Aspose.Tasks.Tsk.FinishSlackTimeSpan |
 | Aspose.Tasks.Tsk.FreeSlack | Aspose.Tasks.Tsk.FreeSlackTimeSpan |
 | Aspose.Tasks.Tsk.TotalSlack | Aspose.Tasks.Tsk.TotalSlackTimeSpan |
-
-

@@ -14,8 +14,6 @@ download_count: " 20/2/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 211.75MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-2-release-notes"
 weight: 839
 
@@ -47,5 +45,3 @@ weight: 839
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

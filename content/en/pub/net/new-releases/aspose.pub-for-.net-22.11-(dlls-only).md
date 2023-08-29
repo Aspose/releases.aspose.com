@@ -14,8 +14,6 @@ download_count: " 11/11/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 105.73MB"
 parent_path: "pub/net"
 section_parent_path: "pub/net"
-
-tags: ""
 release_notes_url: "https://downloads.aspose.com/pub/net/new-releases/aspose.pub-for-.net-22.11/"
 weight: 33
 
@@ -47,5 +45,3 @@ weight: 33
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

@@ -14,8 +14,6 @@ download_count: " 8/8/2023 Downloads: 4  Views: 1 "
 file_size: "File Size: 6.73MB"
 parent_path: "drawing/net"
 section_parent_path: "drawing/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2023/aspose-drawing-for-net-23-8-release-notes/"
 weight: 121
 
@@ -47,5 +45,3 @@ weight: 121
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

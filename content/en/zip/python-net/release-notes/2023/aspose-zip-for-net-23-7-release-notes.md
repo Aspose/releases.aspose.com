@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes information for [Aspose.ZIP for Python via .NET 23.7](https://pypi.org/project/aspose-zip/23.7.0/).
 
 {{% /alert %}} 
-
-
 ## **All Changes**
 
 |**Key**|**Summary**|**Issue Type**|

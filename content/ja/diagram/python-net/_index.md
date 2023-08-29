@@ -50,8 +50,6 @@ Aspose.Diagram for Python via .NET は、Python を使用して visio ファイ�
 **固定レイアウト**: PDF、XPS
 **画像**: JPEG、PNG、BMP、SVG、TIFF、GIF、EMF
 **ウェブ**: HTML
-
-
 ＃＃＃ システム要求
 
 マシンに Microsoft Visio® ソフトウェアがインストールされている必要はありません。

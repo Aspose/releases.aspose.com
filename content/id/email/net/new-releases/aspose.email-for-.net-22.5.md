@@ -62,8 +62,6 @@ var itemsPerPage = 10;
 GraphQueryBuilder builder = new GraphQueryBuilder();
 builder.IsRead.Equals(false);
 var query = builder.GetQuery();
-
-
 // list messages
 var pageInfo = client.ListMessages(KnownFolders.Inbox, new PageInfo(itemsPerPage), query);
 var  messages = pageInfo.Items;

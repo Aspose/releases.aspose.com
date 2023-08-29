@@ -23,8 +23,6 @@ Harap gunakan berikut ini {{< Common/link href="https://pypi.org/project/aspose-
        {{< consolebox/textarea id="pip" >}} pip install aspose-imaging-python-net {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
-
-
 [Halaman Produk](https://products.aspose.com/imaging/python-net/) | [Docs](https://docs.aspose.com/imaging/python-net/) | [Demo](https://products.aspose.app/imaging/family/) | [Referensi API](https://reference.aspose.com/imaging/python-net/) | [Contoh](https://github.com/aspose-imaging/aspose.imaging-for-python-net/) | [Blog](https://blog.aspose.com/category/imaging/) | [Dukungan gratis](https://forum.aspose.com/c/imaging) | [Lisensi sementara](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 Fitur API pencitraan ###

@@ -53,8 +53,6 @@ Aspose.Words for .NET — это библиотека классов, котор
 - Предоставляет богатый набор служебных функций, которые можно использовать для разделения документа на части, объединения документов вместе, сравнения документов и многого другого.
 
 Чтобы ознакомиться с наиболее популярными функциями Aspose.Words, ознакомьтесь с нашей [free online applications](https://products.aspose.app/words/family).
-
-
 ### Поддерживаемые форматы чтения и записи
 
 **Microsoft Word®:** DOC, DOT, DOCX, DOTX, DOTM, FlatOpc, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled, RTF, WordML\

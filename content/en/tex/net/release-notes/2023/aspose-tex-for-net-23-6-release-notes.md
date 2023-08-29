@@ -14,8 +14,6 @@ menuItemWithNoContent: false
 ---
 
 ## Aspose.TeX 23.6 for .NET has been released!
-
-
 | Key | Summary | Category |
 |---|---|---|
 | TEXNET-255 | Set up **.NET 7** support | Feature |

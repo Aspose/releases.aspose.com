@@ -26,8 +26,6 @@ This page contains release notes for [Aspose.PSD for .NET 22.4](https://www.nug
 |PSDNET-1107|Positioning multi-line text does not match the result in Photoshop|Bug|
 |PSDNET-1113|The issue with loading PSD file on text resource data parsing|Bug|
 |PSDNET-1129|Incorrect position of the custom pattern after saving as PSD|Bug|
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - T:Aspose.PSD.FileFormats.Psd.JustificationMode
@@ -48,12 +46,8 @@ This page contains release notes for [Aspose.PSD for .NET 22.4](https://www.nug
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.OuterGlowEffect.IsSoftBlend
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.OuterGlowEffect.Range
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.OuterGlowEffect.Jitter
-
-
 # **Removed APIs:**
 - None
-
-
 ## **Usage examples:**
 
 **PSDNET-261. Rendering of Outer Glow Layer Effect**
@@ -73,8 +67,6 @@ using (var image = (PsdImage)Image.Load(src))
     image.Save(output, new PngOptions());
 }
 {{< /highlight >}}
-
-
 **PSDNET-1107. Positioning multi-line text does not match the result in Photoshop**
 
 {{< highlight csharp >}}

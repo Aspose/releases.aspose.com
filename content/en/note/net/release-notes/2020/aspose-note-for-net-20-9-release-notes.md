@@ -22,8 +22,6 @@ This page contains release notes information for [Aspose.Note for .NET 20.9](htt
 ## **Major Features**
 - New public API elements to manipulate by language settings for text
 ## **Features and Improvements**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |NOTENET-2848|Change Language Settings| New Feature|

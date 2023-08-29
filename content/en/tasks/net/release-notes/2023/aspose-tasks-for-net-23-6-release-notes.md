@@ -12,8 +12,6 @@ toc: false
 family_listing_page_title: "Aspose.Tasks for .NET 23.6 Release Notes"
 menuItemWithNoContent: false
 ---
-
-
 {{% alert color="primary" %}} 
 
 This page contains release notes information for [Aspose.Tasks for .Net 23.6](https://downloads.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-23.6/).

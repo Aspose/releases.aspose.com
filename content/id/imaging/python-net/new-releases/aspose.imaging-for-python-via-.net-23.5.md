@@ -14,8 +14,6 @@ download_count: " 2/6/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 198.74MB"
 parent_path: "imaging/python-net"
 section_parent_path: "imaging/python-net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/imaging/python-net/aspose-imaging-for-python-net-23-5-release-notes/"
 weight: 1
 
@@ -47,5 +45,3 @@ weight: 1
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

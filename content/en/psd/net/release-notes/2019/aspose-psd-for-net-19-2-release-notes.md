@@ -324,8 +324,6 @@ using(im) {
  }
 
 }
-
-
 {{< /highlight >}}
 
 **PSDNET-98. Add support of Fill layers: Gradient fill**

@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes for Aspose.CAD for Java 21.12
 
 {{% /alert %}}
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 | CADJAVA-10452 | [Dashed line exported wrong as continuous in rotated images](https://forum.aspose.com/t/dashed-line-exported-wrong-as-continuous-in-rotated-images/235974) | Enhancement |

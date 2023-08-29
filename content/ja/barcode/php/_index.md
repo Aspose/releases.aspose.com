@@ -38,8 +38,6 @@ Aspose.BarCode for Java をコア ライブラリとして使用し、PHP-Java B
 - BMP、GIF、JPEG、PNG などの複数の画像形式でバーコードを読み取り、エクスポートする機能。
 - バーコード ラベルを完全に制御できます。
 - 2D バーコードの X 寸法と Y 寸法をサポートします。
-
-
 [Product Page](https://products.aspose.com/barcode/php-java/) | [Docs](https://docs.aspose.com/barcode/phpjava/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/php) | [Examples](https://github.com/aspose-barcode/Aspose.Barcode-for-PHP-via-Java) | [Blog](https://blog.aspose.com/categories/aspose.barcode-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode/13) | [Temporary License](https://purchase.aspose.com/temporary-license) | {{ハイパーリンク10}}
 
 {{< Common/hr >}}

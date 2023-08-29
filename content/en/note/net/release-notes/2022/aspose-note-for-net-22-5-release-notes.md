@@ -38,8 +38,6 @@ This page contains release notes information for [Aspose.Note for .NET 22.5](htt
 |Aspose.Note.Importing.PdfImporter|The class providing api to import content from documents in PDF format.|
 |Aspose.Note.MergeOptions|The options for merging a collection of pages.|
 |Aspose.Note.TextRun|The class representing a piece of text with associated style.|
-
-
 |**The following public methods were added:**|**Description**|
 | :- | :- |
 |Aspose.Note.Document.Merge(System.Collections.Generic.IEnumerable{Aspose.Note.Page},Aspose.Note.MergeOptions)|Merges a set of pages to the document.|

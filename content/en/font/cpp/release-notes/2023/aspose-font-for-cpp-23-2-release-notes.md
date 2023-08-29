@@ -19,8 +19,6 @@ Aspose.Font for C++ 23.2  is based on the [Aspose.Font for .NET 23.2](/font/net/
 
 Support for kerning pairs in `SVG` converter has been added.
 The throwing *ArgumentNullException* bug in the `TtfNameTable.GetMultiLanguageNameById()` method was fixed.
-
-
 ## Public API and Backwards Incompatible Changes
 
 ### Added APIs

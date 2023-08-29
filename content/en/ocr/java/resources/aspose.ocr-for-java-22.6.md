@@ -14,8 +14,6 @@ download_count: " 1/7/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 160.1MB"
 parent_path: "ocr/java/resources"
 section_parent_path: "ocr/java"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/ocr/java/release-notes/latest/"
 weight: 171
 
@@ -47,5 +45,3 @@ weight: 171
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

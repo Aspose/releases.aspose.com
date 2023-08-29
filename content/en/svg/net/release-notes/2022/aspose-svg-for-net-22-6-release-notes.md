@@ -27,8 +27,6 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 * improved calculation accuracy of SVGGeometryElement.getPointAtLength() method;
 
 * it was added support for converting colors according to specifications: https://www.w3.org/TR/css-color-4/ and https://www.w3.org/TR/css-color-5/
-
-
 ## **Public API changes:**
 
 No Changes

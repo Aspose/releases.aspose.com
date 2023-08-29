@@ -30,8 +30,6 @@ This page contains release notes information for [Aspose.Tasks for .Net 23.7](ht
 | TASKSNET-10934 | Fix logic of ActualDuration calculation for projects read from Primavera XER and P6XML formats | Bug |
 | TASKSNET-10930 | Fix reading of implicit calendar exceptions for the specific file | Bug |
 | TASKSNET-10919 | Fix reading of values of Tsk.ActualCost and Tsk.RemainingCost for XER and Primavera P6 XML formats | Bug |
-
-
 ## **Public API and Backwards Incompatible Changes**
 
 |**The following public enumerations were deleted:**|**Description**|

@@ -14,8 +14,6 @@ download_count: " 18/8/2022 Descargars: 1  Views: 1 "
 file_size: "File Size: 357.38MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-22-8-release-notes/"
 weight: 179
 
@@ -47,5 +45,3 @@ weight: 179
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

@@ -14,8 +14,6 @@ download_count: " 21/9/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 117.56MB"
 parent_path: "note/net"
 section_parent_path: "note/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-9-release-notes/"
 weight: 183
 
@@ -47,6 +45,4 @@ weight: 183
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

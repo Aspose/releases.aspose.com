@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes for Aspose.CAD for Java 20.12
 
 {{% /alert %}}
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 | CADJAVA-950 | [Image loading failed: The arithmetic operation caused an overflow](https://forum.aspose.com/t/image-loading-failed-the-arithmetic-operation-caused-an-overflow/220962) | Enhancement |

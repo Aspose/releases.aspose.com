@@ -53,8 +53,6 @@ Dieses Paket kann verwendet werden, um Anwendungen für eine Vielzahl von Betrie
 - Bietet eine Vielzahl von Hilfsfunktionen, mit denen Sie ein Dokument in Teile aufteilen, Dokumente zusammenfügen, Dokumente vergleichen und vieles mehr können.
 
 Um sich mit den beliebtesten Funktionen von Aspose.Words vertraut zu machen, werfen Sie bitte einen Blick auf unsere [free online applications](https://products.aspose.app/words/family).
-
-
 ### Unterstützte Lese- und Schreibformate
 
 **Microsoft Word®:** DOC, DOT, DOCX, DOTX, DOTM, FlatOpc, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled, RTF, WordML\

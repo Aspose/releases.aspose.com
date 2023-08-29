@@ -12,8 +12,6 @@ toc: false
 family_listing_page_title: "Aspose.Tasks for Python via .NET 23.5 Release Notes"
 menuItemWithNoContent: false
 ---
-
-
 {{% alert color="primary" %}} 
 
 This page contains release notes information for [Aspose.Tasks for Python via .Net 23.5](https://pypi.org/project/aspose-tasks/23.5.0/).

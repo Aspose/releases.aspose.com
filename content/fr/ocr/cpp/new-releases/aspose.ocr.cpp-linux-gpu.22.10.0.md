@@ -14,8 +14,6 @@ download_count: " 31/10/2022 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 152.86MB"
 parent_path: "ocr/cpp"
 section_parent_path: "ocr/cpp"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22-10-0-release-notes/"
 weight: 67
 
@@ -47,5 +45,3 @@ weight: 67
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

@@ -39,8 +39,6 @@ Three new methods for saving the document content and resources to the output st
 - [Save(IOutputStorage)](https://reference.aspose.com/svg/net/aspose.svg/svgdocument/save/)
 - [Save(IOutputStorage, SVGSaveFormat)](https://reference.aspose.com/svg/net/aspose.svg/svgdocument/save/)
 - [Save(IOutputStorage, SVGSaveOptions)](https://reference.aspose.com/svg/net/aspose.svg/svgdocument/save/)
-
-
 ### **Changed APIs:**
 
 No Changes

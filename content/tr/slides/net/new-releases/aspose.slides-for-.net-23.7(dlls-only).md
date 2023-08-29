@@ -14,8 +14,6 @@ download_count: " 18/7/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 167.21MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-23-7-release-notes/"
 weight: 770
 
@@ -47,5 +45,3 @@ weight: 770
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

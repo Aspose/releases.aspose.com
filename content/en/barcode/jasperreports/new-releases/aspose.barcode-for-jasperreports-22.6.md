@@ -14,8 +14,6 @@ download_count: " 30/6/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 10.43MB"
 parent_path: "barcode/jasperreports"
 section_parent_path: "barcode/jasperreports"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-22-6-release-notes/"
 weight: 131
 
@@ -47,5 +45,3 @@ weight: 131
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

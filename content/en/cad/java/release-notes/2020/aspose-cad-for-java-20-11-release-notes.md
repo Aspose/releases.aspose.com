@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes for Aspose.CAD for Java 20.11
 
 {{% /alert %}}
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 | CADJAVA-917 | [Support for PC3 files](https://forum.aspose.com/t/cad-to-pdf-incorrect-page-size/205948/6) | Feature |

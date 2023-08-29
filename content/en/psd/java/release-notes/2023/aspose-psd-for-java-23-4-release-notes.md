@@ -693,8 +693,6 @@ static void formatLsakFourthMethod(IText textData) {
             newPortion.getParagraph().apply(defaultParagraph);
 
             newPortion.getStyle().apply(defaultStyle);
-
-
             if (textSplit[i].contains("font:")) {
                 newPortion.getStyle().setFontName(textSplit[i]);
             }
@@ -723,8 +721,6 @@ static void formatLsakFourthMethod(IText textData) {
 
                 var partsIsaks = Regex.split(newPortion.getText(), String.format(
                         "\s+(?={0})", String.join("| ", delimeters)));
-
-
                 for (int j = 0; j < partsIsaks.length; j++) {
 
                     var item = partsIsaks[j];
@@ -748,8 +744,6 @@ static void formatLsakFourthMethod(IText textData) {
                     }
 
                     newPortionFromIsak.setText(Regex.replace(partsIsaks[j], "<.*?>", ""));
-
-
                     textData.addPortion(newPortionFromIsak);
                 }
             } else {
@@ -757,8 +751,6 @@ static void formatLsakFourthMethod(IText textData) {
             }
 
         }
-
-
     } else {
         var textToReplace = textData.getText();
 

@@ -47,5 +47,3 @@ This ZIP download does not contain the user documentation in the Microsoft Help 
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

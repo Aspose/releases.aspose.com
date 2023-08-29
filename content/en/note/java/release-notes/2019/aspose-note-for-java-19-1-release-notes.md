@@ -23,8 +23,6 @@ This page contains release notes information for Aspose.Note for Java 19.1.
 - Support for JDK 11
 
 ## **Features and Improvements**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |NOTEJAVA-519|Aspose.Note compatibility with JDK 11|New Feature|

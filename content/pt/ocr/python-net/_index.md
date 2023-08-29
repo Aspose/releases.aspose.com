@@ -17,8 +17,6 @@ Adicione recursos de reconhecimento óptico de caracteres (OCR) às suas soluç�
 {{< Common/paragraph class="package-instructions">}}
 Aspose.OCR para Python via .NET pode ser baixado aqui e instalado a partir do sistema de arquivos local com o seguinte comando:
 {{< /Common/paragraph>}}
-
-
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install aspose-ocr-python-net {{< /consolebox/textarea >}}       

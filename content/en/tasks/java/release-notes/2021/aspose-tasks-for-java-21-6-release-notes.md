@@ -63,8 +63,6 @@ This page contains release notes information for [Aspose.Tasks for Java 21.6](ht
 | com.aspose.tasks.TableField.ParentTable |  |
 
 
-
-
 ## **Examples and additional notes**
 
 Related issue: TASKSNET-4832 - Add an API to specify View object to render when saving project to PDF, Html and Image formats.
@@ -94,8 +92,6 @@ PdfSaveOptions saveOptions = new PdfSaveOptions();
 saveOptions.setViewSettings(view);
 project.save("output.pdf", saveOptions);
 {{< /highlight >}}
-
-
 Related issue: TASKSNET-4807 - Add support for rendering Left\Top\Inside\Bottom text labels for task bars in Gantt chart.
 
 {{< highlight java >}}

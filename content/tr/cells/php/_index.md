@@ -15,8 +15,6 @@ weight:  9
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/cells" linktext=" Support Forum " >}}
-
-
 {{< ProductPageWrapper >}}
 
 <!-- ProductPageContent-->
@@ -50,8 +48,6 @@ aspose/cells Packagist'te şu şekilde mevcuttur:
 {{< /Common/wrapper >}}
 
 <!-- /ProductPageContent-->
-
-
 
 <!-- ReleasesListProductPage-->
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="cells" product="php" >}}

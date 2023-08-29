@@ -14,8 +14,6 @@ download_count: " 18/1/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 6.51MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/finance/net/aspose-finance-for-net-23-1-release-notes/"
 weight: 45
 
@@ -47,5 +45,3 @@ weight: 45
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

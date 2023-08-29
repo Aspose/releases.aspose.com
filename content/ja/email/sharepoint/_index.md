@@ -73,8 +73,6 @@ Microsoft SharePoint Server 2010
 - モジラ ファイアフォックス 3.5
 - Google Chrome 3
 - サファリ 4
-
-
 ### サポートされているファイル ホスティング/共有サービス
 
 - FTP サーバー

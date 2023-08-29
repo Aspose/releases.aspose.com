@@ -44,5 +44,3 @@ weight: 622
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
-
-

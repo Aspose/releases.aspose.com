@@ -14,8 +14,6 @@ download_count: " 19/11/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 10.01MB"
 parent_path: "email/androidjava"
 section_parent_path: "email/androidjava"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/email/java/aspose-email-for-java-22-10-release-notes/"
 weight: 62
 
@@ -47,5 +45,3 @@ weight: 62
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

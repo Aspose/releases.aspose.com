@@ -37,8 +37,6 @@ This page contains release notes information for [Aspose.Tasks for C++ 21.8](htt
 | Aspose.Tasks.FilterComparisonType.IsOneOf | The value of Field equals to one of the specified Values. Used in AutoFilters. |
 | Aspose.Tasks.TaskKey.HasOverallocatedResource | Represents the HasOverallocatedResource (Task) field. |
 | Aspose.Tasks.Tsk.HasOverallocatedResource | Indicates whether the task has an resource assigned which has more work on assigned tasks than can be completed within normal working capacity. |
-
-
 ## **Examples and additional notes**
 
 **Related issue: TASKSNET-10327 - Implement reading of AutoFilters with multiple values**
@@ -46,8 +44,6 @@ This page contains release notes information for [Aspose.Tasks for C++ 21.8](htt
 FilterComparisonType.IsOneOf was added in order to represent auto filters which filter rows based on choices the user makes from a list of specific column's values in MS Project:
 
 ![Auto Filter with multiple values](../AutoFilter.png)
-
-
 {{< highlight cpp >}}
 auto project = System::MakeObject<Project>(System::String(u"AutoFilters.mpp"));
 auto ganttView = System::DynamicCast<GanttChartView>(project->get_Views()->LINQ_FirstOrDefault([](System::SharedPtr<View> v) -> bool

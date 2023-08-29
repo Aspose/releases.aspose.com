@@ -14,8 +14,6 @@ download_count: " 31/1/2023 Descargars: 1  Views: 1 "
 file_size: "File Size: 55.53MB"
 parent_path: "slides/sharepoint"
 section_parent_path: "slides/sharepoint"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/slides/sharepoint/aspose-slides-for-sharepoint-23-1-release-notes/"
 weight: 101
 
@@ -47,5 +45,3 @@ weight: 101
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

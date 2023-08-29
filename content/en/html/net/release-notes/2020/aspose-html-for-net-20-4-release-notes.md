@@ -41,8 +41,6 @@ We have also made some minor usability improvements in this release such as clar
 
 We have added new signatures to the Document creation methods. Now you can specify a base URL using the [URL](https://reference.aspose.com/html/net/aspose.html/url/) class.
 
-
-
 {{< highlight java >}}
 
  namespace Aspose.Html.Dom

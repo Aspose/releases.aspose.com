@@ -29,8 +29,6 @@ weight: 28
       {{< Common/li class="downloadcount" id="dwn-update-a507f29d2d534b12877969adf83820b1" >}} 4 {{< /Common/li >}} 
       {{< Common/li  >}} Ukuran file: {{< /Common/li >}} 
       {{< Common/li id="size-update-a507f29d2d534b12877969adf83820b1" >}} 11.6 MB {{< /Common/li >}} 
-
-
       {{< Common/li  >}} Tanggal Ditambahkan: {{< /Common/li >}} 
       {{< Common/li id="added-update-a507f29d2d534b12877969adf83820b1" >}} 4/15/2022 {{< /Common/li >}} 
 
@@ -41,5 +39,3 @@ weight: 28
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

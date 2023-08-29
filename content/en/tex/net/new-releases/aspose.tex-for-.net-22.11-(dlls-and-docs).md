@@ -14,8 +14,6 @@ download_count: " 15/11/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 76.75MB"
 parent_path: "tex/net"
 section_parent_path: "tex/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2022/aspose-tex-for-net-22-11-release-notes/"
 weight: 26
 
@@ -47,5 +45,3 @@ weight: 26
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

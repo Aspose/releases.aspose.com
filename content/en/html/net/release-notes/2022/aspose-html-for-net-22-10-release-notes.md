@@ -26,8 +26,6 @@ In this release, we have improved various parts of the parsing and rendering alg
 * Improved the API for working with the MD format.
 * Extended API for working with SVG.
 * Improved the algorithm for parsing MHTML documents.
-
-
 ## Improvements and Changes
 
 | **Key**      | **Summary**                                                                | **Category** |

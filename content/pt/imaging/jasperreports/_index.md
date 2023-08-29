@@ -49,8 +49,6 @@ Aspose.Imaging for JasperReports ajuda a exportar relatórios do JasperReports®
 **Layout fixo:** PDF\
 **Web:** WebP, HTML5 Canvas\
 **Zipado:** EMZ, WMZ, SVGZ
-
-
 #### Requisitos de sistema
 
 - Java 2 Platform Standard Edition 1.6 ou superior.

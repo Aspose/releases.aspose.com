@@ -82,8 +82,6 @@ private void resize(ResizeType resizeType, double scale)
          {2:0.00}ms", resizeType, scale, value, count);
 }
 ```
-
-
 # Accurate Text Alignment
 
 Added the support to perform the pixel perfect text alignment.
@@ -98,8 +96,6 @@ foreach (var alignment in alignments)
 {
     DrawString(baseFolder, alignment);   
 }
-
-
 
 private void DrawString(string baseFolder, string align)
 {
@@ -184,8 +180,6 @@ private void DrawString(string baseFolder, string align)
 
                 graphics.DrawLine(pen, new Point((int)(x), (int)y), new Point((int)(x+w), (int)y));
             }
-
-
             graphics.DrawLine(pen, new Point(lineX, 0), new Point(lineX, (int)y));
 
             // save all changes.

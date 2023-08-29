@@ -41,8 +41,6 @@ This page contains release notes information for [Aspose.Tasks for .Net 22.12](h
 | Aspose.Tasks.Tsk.ExternalUid | Contains the external task's Unique identifier when the task is external. |
 
 
-
-
 ## **Examples and additional notes**
 
 **Related issue: TASKSNET-10722 - Fix creation of external task links**
@@ -71,5 +69,3 @@ link.LinkType = TaskLinkType.FinishToStart;
 link.CrossProjectName = "ExternalProject.mpp\\\\1"; // <- here external task's Id is used.
 
 ```
-
-

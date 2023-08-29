@@ -27,8 +27,6 @@ This page contains release notes for [Aspose.PSD for .NET 22.5](https://www.nug
 |PSDNET-825|Incorrect drawing of adjustment layer through the transparent layer in a specific case|Bug|
 |PSDNET-1168|Improve Colorize method. Colorize gray + set correct color when saturation is not 100|Bug|
 |Article|[How to Run Aspose.PSD in Docker](https://docs.aspose.com/psd/net/how-to-run-aspose-psd-in-docker/)|Documentation|
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - M:Aspose.PSD.FileFormats.Psd.Layers.ChannelInformation.#ctor(Aspose.PSD.FileFormats.Psd.CompressionMethod,System.Int32,System.Int32)
@@ -51,13 +49,9 @@ This page contains release notes for [Aspose.PSD for .NET 22.5](https://www.nug
 - F:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes.InnerShadow
 - F:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes.Stroke
 - F:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes.BevelEmboss
-
-
 # **Removed APIs:**
 - M:Aspose.PSD.FileFormats.Psd.Layers.ChannelInformation.#ctor
 - M:Aspose.PSD.FileFormats.Psd.Layers.Layer.Equals(System.Object)
-
-
 ## **Usage examples:**
 
 **PSDNET-657. Make the opacity property work for DropShadowEffect**

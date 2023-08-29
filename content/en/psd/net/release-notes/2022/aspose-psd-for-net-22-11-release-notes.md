@@ -39,17 +39,11 @@ We are working on solutions to these problems.
 |PSDNET-1303|TimeLine ActiveFrame applies incorrect|Bug|
 |PSDNET-1307|Regression 22.7: incorrect rendering of text with arabic characters|Bug|
 |PSDNET-1321|Vector Mask on the Group Layer works incorrect. Final image has the black hole but shouldn't|Bug|
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - M:Aspose.PSD.FileFormats.Psd.Layers.TextLayer.Resize(System.Int32,System.Int32,Aspose.PSD.ResizeType)
-
-
 # **Removed APIs:**
 - None
-
-
 ## **Usage examples:**
 
 **PSDNET-659. Make the center of the radial gradient movable**

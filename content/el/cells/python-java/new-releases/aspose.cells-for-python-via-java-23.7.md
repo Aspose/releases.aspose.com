@@ -14,8 +14,6 @@ download_count: " 14/7/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 13.41MB"
 parent_path: "cells/python-java"
 section_parent_path: "cells/python-java"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/cells/python-java/aspose-cells-for-python-via-java-23-7-release-notes/"
 weight: 33
 
@@ -47,5 +45,3 @@ weight: 33
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

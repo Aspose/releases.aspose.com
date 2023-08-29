@@ -27,8 +27,6 @@ This page contains release notes for [Aspose.PSD for .NET 23.1](https://www.nug
 |PSDNET-958|PSB to PDF fails for large files|Bug|
 |PSDNET-1171|Add processing of clipping mask to adjustment layer|Bug|
 |PSDNET-1252|After the resize of whole image and then after resize of the specific layer Aspose.PSD throws exception on layer saving|Bug|
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - P:Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle.IsStandardVerticalRomanAlignmentEnabled
@@ -74,12 +72,8 @@ This page contains release notes for [Aspose.PSD for .NET 23.1](https://www.nug
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PostResource.PsdVersion
 - M:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PostResource.Save(Aspose.PSD.StreamContainer,System.Int32)
 - F:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PostResource.TypeToolKey
-
-
 # **Removed APIs:**
 - None
-
-
 ## **Usage examples:**
 
 **PSDNET-181. PSD is not properly converted to JPEG**

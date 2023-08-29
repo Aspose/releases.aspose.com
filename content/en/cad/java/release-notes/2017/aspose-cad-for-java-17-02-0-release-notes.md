@@ -127,8 +127,6 @@ UnitType property gives the ability to adjust automatic scaling when Width and H
             image.save(outPath, pdfOptions);
 
         }
-
-
 {{< /highlight >}}
 
 **CADNET-183 Converting DWG to PDF is not exporting external raster images linked with DWG file**

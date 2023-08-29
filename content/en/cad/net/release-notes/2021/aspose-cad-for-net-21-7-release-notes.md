@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes for Aspose.CAD for .NET 21.7
 
 {{% /alert %}}
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 | CADNET-8235 | [Converting DWG to PNG the process hangs](https://forum.aspose.com/t/converting-dwg-to-png/228792) | Enhancement |

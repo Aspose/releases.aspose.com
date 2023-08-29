@@ -14,8 +14,6 @@ download_count: " 19/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 26.91MB"
 parent_path: "slides/php-java"
 section_parent_path: "slides/php-java"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-22-10-release-notes/"
 weight: 6
 
@@ -47,6 +45,4 @@ weight: 6
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

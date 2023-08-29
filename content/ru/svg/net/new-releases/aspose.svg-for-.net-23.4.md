@@ -14,8 +14,6 @@ download_count: " 19/4/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 3.75MB"
 parent_path: "svg/net"
 section_parent_path: "svg/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-4-release-notes/"
 weight: 132
 
@@ -47,5 +45,3 @@ weight: 132
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

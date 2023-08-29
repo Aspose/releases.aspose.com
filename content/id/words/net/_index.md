@@ -53,8 +53,6 @@ Paket ini dapat digunakan untuk mengembangkan aplikasi untuk berbagai macam sist
 - Menyediakan serangkaian fungsi utilitas yang kaya, yang dapat Anda gunakan untuk membagi dokumen menjadi beberapa bagian, menggabungkan dokumen, membandingkan dokumen, dan banyak lagi.
 
 Untuk mengetahui fungsi Aspose.Words yang paling populer, silakan lihat [free online applications](https://products.aspose.app/words/family) kami.
-
-
 ### Format Baca dan Tulis yang Didukung
 
 **Microsoft Word®:** DOC, DOT, DOCX, DOTX, DOTM, FlatOpc, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled, RTF, WordML\

@@ -24,8 +24,6 @@ Major features and improvements in this release:
 - Import styles from SLD
 - MarkerLine and MarkerPatternFill symbolizers
 ## **Full List of Issues Covering all Changes in this Release**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |GISNET-383|SLD styles import|New Feature|
@@ -35,5 +33,3 @@ Major features and improvements in this release:
 |GISNET-421|ArgumentException is throws when rendering SimpleLine with offset|Bug|
 ## **Public API and Backward Incompatible Changes**
 None
-
-

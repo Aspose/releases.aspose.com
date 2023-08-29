@@ -33,8 +33,6 @@ This page contains release notes for [Aspose.PSD for .NET 23.7](https://www.nug
 | PSDNET-1608 | TextBound is not working as expected                                                                         | Bug     |
 | PSDNET-1612 | Adding a layer created with default constructor to PSD image does not add default resources to it            | Bug     |
 | PSDNET-1623 | Timeline.LoopesCount is ignored when exporting to animated GIF                                               | Bug     |
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - P:Aspose.PSD.ImageOptions.PsdOptions.UpdateMetadata
@@ -44,12 +42,8 @@ This page contains release notes for [Aspose.PSD for .NET 23.7](https://www.nug
 - M:Aspose.PSD.Xmp.Schemas.XmpBaseSchema.XmpBasicPackage.SetValue(System.String,Aspose.PSD.Xmp.IXmlValue)
 - M:Aspose.PSD.Xmp.Schemas.XmpBaseSchema.XmpBasicPackage.ContainsKey(System.String)
 - P:Aspose.PSD.FileFormats.Psd.Layers.ShapeLayer.Fill
-
-
 # **Removed APIs:**
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VectorPath.FillColor
-
-
 ## **Usage examples:**
 
 **PSDNET-802. Add ability to Export each layer of PSD File to the Animated Gif File**

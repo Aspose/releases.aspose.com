@@ -301,8 +301,6 @@ This page contains release notes for [Aspose.PSD for .NET 21.10](https://www.nu
 
                 // update path data in layer
                 VectorDataProvider.UpdateLayerFromVectorPath(psdImage.Layers[1], vectorPath, true);
-
-
                 // creating VectorPath object for new layer.
                 FillLayer layer2 = FillLayer.CreateInstance(Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType.Color);
                 layer2.DisplayName = "Layer 2";
@@ -326,8 +324,6 @@ This page contains release notes for [Aspose.PSD for .NET 21.10](https://www.nu
                 psdImage.Save(outputPng, new PngOptions() { ColorType = Aspose.PSD.FileFormats.Png.PngColorType.TruecolorWithAlpha });
             }
         }
-
-
     #region Vector path editor (Here placed classes for edit vector paths).
 
     /// <summary>

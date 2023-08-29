@@ -12,8 +12,6 @@ toc: false
 family_listing_page_title: "Aspose.Tasks for C++ 23.5 Release Notes"
 menuItemWithNoContent: false
 ---
-
-
 {{% alert color="primary" %}} 
 
 This page contains release notes information for [Aspose.Tasks for C++ 23.5](https://releases.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.5/).

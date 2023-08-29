@@ -14,8 +14,6 @@ download_count: " 14/4/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 3.3MB"
 parent_path: "diagram/python-java"
 section_parent_path: "diagram/python-java"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/diagram/python-java/aspose-diagram-for-python-via-java-23-4-release-notes/"
 weight: 20
 
@@ -47,5 +45,3 @@ weight: 20
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

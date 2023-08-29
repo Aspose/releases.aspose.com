@@ -14,8 +14,6 @@ download_count: " 25/1/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 374.47MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-1-release-notes/"
 weight: 194
 
@@ -47,5 +45,3 @@ weight: 194
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

@@ -13,8 +13,6 @@ download_count: " 27/7/2022 Descargars: 1  Views: 1 "
 file_size: "File Size: 16.19MB"
 parent_path: "svg/net"
 section_parent_path: "svg/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-7-release-notes/"
 weight: 115
 ---

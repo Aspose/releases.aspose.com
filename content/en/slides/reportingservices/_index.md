@@ -13,8 +13,6 @@ weight:  5
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/slides" linktext=" Support Forum " >}}
-
-
 {{< ProductPageWrapper >}}
 
 <!-- ReleasesListProductPage-->
@@ -94,8 +92,6 @@ weight:  5
 {{< /Common/wrapper >}}
 
 <!-- /ProductPageContent-->
-
-
 
 <!-- ReleasesListProductPage-->
    {{< Releases/ReleasesListProductPage shownested="false"  limit="aftercontent" directdownload="false" family="slides" product="reportingservices" >}}

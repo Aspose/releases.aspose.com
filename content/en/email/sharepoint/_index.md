@@ -69,8 +69,6 @@ Microsoft SharePoint Server 2010
 - Mozilla FireFox 3.5
 - Google Chrome 3
 - Safari 4
-
-
 ### Supported File Hosting/Sharing Services
 
 - FTP Server

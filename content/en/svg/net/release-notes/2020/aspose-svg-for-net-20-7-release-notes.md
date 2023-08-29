@@ -138,7 +138,5 @@ namespace Aspose.Svg
     }
 }
 ```
-
-
 ## **Removed APIs:**
 No change

@@ -14,8 +14,6 @@ download_count: " 5/2/2023 Descargars: 1  Views: 1 "
 file_size: "File Size: 10.09MB"
 parent_path: "gis/net"
 section_parent_path: "gis/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-6-release-notes/"
 weight: 210
 
@@ -47,5 +45,3 @@ weight: 210
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

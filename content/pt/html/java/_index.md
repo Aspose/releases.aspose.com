@@ -166,8 +166,6 @@ For gradle
 ```
 gradle build
 ```
-
-
 ## Execute all tests
 Maven
 ```

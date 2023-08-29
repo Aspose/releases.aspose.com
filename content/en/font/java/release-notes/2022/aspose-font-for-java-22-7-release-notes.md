@@ -28,8 +28,6 @@ Support for adding Name Records to 'name' table  has been implemented.
 | FONTNET-240 | Support for version 0.5 of the 'maxp' table | New Feature |
 | FONTNET-371 | Support for *Version16Dot16* data type | New Feature |
 | FONTNET-239 | Unable to convert font to TTF | Bug |
-
-
 ## Public API and Backwards Incompatible Changes
 
 ### Added APIs

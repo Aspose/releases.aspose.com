@@ -14,8 +14,6 @@ download_count: " 28/2/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 52.79MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/email/net/aspose-email-for-net-23-2-release-notes/"
 weight: 561
 
@@ -47,5 +45,3 @@ weight: 561
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

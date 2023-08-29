@@ -14,8 +14,6 @@ download_count: " 29/6/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 10.77MB"
 parent_path: "barcode/nodejs"
 section_parent_path: "barcode/nodejs"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-22-6/"
 weight: 41
 
@@ -47,6 +45,4 @@ weight: 41
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

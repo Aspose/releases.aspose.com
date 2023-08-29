@@ -15,8 +15,6 @@ parent_path: "words/net"
 section_parent_path: "words/net"
 weight: 451
 ---
-
-
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="C:/aspose/www/Products/Aspose.Words/Temp/Aspose.Words.msi" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}

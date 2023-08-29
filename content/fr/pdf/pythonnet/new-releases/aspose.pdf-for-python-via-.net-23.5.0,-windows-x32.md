@@ -14,8 +14,6 @@ download_count: " 22/6/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 71.06MB"
 parent_path: "pdf/pythonnet"
 section_parent_path: "pdf/pythonnet"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/pdf/python-net/release-notes/"
 weight: 14
 
@@ -47,5 +45,3 @@ weight: 14
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

@@ -14,8 +14,6 @@ download_count: " 14/8/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 33.63MB"
 parent_path: "tex/net"
 section_parent_path: "tex/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/tex/net/aspose-tex-for-net-23-8-release-notes/"
 weight: 40
 
@@ -47,5 +45,3 @@ weight: 40
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

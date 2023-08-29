@@ -56,8 +56,6 @@ This page contains release notes information for [Aspose.Tasks for .Net 22.4](ht
 | :- | :- |
 | Aspose.Tasks.UndefinedConstraintHandlingBehavior.None | The default behavior for loading from XER format. |
 | Aspose.Tasks.UndefinedConstraintHandlingBehavior.SubstituteWithStartNoEarlierThan | Constraints with type 'ConstraintType.StartNoEarlierThan' and date = Start are added for tasks with 'Undefined' constraint. |
-
-
 ## **Examples and additional notes**
 
 In this release we focused on improvement of Primavera XER format support.

@@ -14,8 +14,6 @@ download_count: " 22/2/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 69.46MB"
 parent_path: "page/cpp"
 section_parent_path: "page/cpp"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-2-release-notes/"
 weight: 104
 
@@ -47,5 +45,3 @@ weight: 104
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

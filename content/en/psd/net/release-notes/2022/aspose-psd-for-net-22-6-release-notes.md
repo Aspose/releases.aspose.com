@@ -24,8 +24,6 @@ This page contains release notes for [Aspose.PSD for .NET 22.6](https://www.nug
 |PSDNET-940|Create API for getting the unique hash for similar layers in different files|Enhancement|
 |PSDNET-678|Incorrect rendering of FillLayer with pattern in the case when patterns are more than one and layers order changed|Bug|
 |PSDNET-1125|Exception on loading of specific PSD file with CMYK color mode|Bug|
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - T:Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator
@@ -33,12 +31,8 @@ This page contains release notes for [Aspose.PSD for .NET 22.6](https://www.nug
 - M:Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator.GetChannelsHash
 - M:Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator.GetBlendingHash
 - M:Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator.GetContentHash
-
-
 # **Removed APIs:**
 - None
-
-
 ## **Usage examples:**
 
 **PSDNET-678. Incorrect rendering of FillLayer with pattern in the case when patterns are more than one and layers order changed**
@@ -377,8 +371,6 @@ public class Program
 
             var groupLayers = new Layer[2];
             var groupLayersHashers = new LayerHashCalculator[2];
-
-
             groupLayers[0] = GetLayerByName<Layer>(im, "Fill");
             groupLayers[1] = GetLayerByName<Layer>(im, "Fill copy");
 

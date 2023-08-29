@@ -14,8 +14,6 @@ download_count: " 9/8/2023 Descargars: 1  Views: 1 "
 file_size: "File Size: 13.29MB"
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/barcode/net/aspose-barcode-for-net-23-5-1-release-notes/"
 weight: 581
 
@@ -47,5 +45,3 @@ weight: 581
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

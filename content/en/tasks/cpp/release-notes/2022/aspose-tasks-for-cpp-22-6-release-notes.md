@@ -37,15 +37,11 @@ This page contains release notes information for [Aspose.Tasks for C++ 22.6](htt
 | Aspose.Tasks.Resource.IsRoot | Gets the flag indicating whether resource is a root resource. |
 | Aspose.Tasks.ResourceAssignment.Task | The task to which a resource is assigned. |
 | Aspose.Tasks.ResourceAssignment.Resource | The resource assigned to a task. |
-
-
 ## **Examples and additional notes**
 
 **Related issue: TASKSNET-10553 - Add properties to access ResourceAssignment's Task and Resource**
 
 Task and Resource read-only properties were added for more convenient access to frequently used properties.
-
-
 {{< highlight cpp >}}
 auto project = System::MakeObject<Project>(System::String(u"test.mpp"));
 auto assignment = project->get_ResourceAssignments()->GetByUid(1);

@@ -20,8 +20,6 @@ This page contains release notes information for [Aspose.Note for Java 19.9](htt
 {{% /alert %}}
 
 ## **Features and Improvements**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |NOTENET-2675|FileCorruptedException when opening OneNote files|Bug|

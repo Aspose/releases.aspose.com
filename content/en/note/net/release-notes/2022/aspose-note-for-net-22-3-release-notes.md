@@ -35,13 +35,9 @@ This page contains release notes information for [Aspose.Note for .NET 22.3](htt
 |**The following public types were added:**|**Description**|
 | :- | :- |
 |Aspose.Note.Metered|Provides methods to set metered key.|
-
-
 |**The following public methods were added:**|**Description**|
 | :- | :- |
 |Aspose.Note.Metered.GetConsumptionCredit|Gets consumption credit|
 |Aspose.Note.Metered.GetConsumptionQuantity|Gets consumption file size|
 |Aspose.Note.Metered.SetMeteredKey(System.String,System.String)|Sets metered public and private key|
 |Aspose.Note.Metered.ResetMeteredKey|Removes previously setup license|
-
-

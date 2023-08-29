@@ -25,16 +25,12 @@ This page contains release notes information of Aspose.Note for Java 18.5.
 
 **Features and Improvements**
 
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |NOTENET-2450|Add per page saving mode to Aspose.HTML|New Feature|
 |NOTENET-2546|Implement support of new license type|New Feature|
 |NOTENET-2396|Exception raised while extracting images without applying license|Bug|
 ## **Public API and Backward Incompatible Changes**
-
-
 |**The following public types were added:**|**Description**|
 | :- | :- |
 |Aspose.Note.Saving.Html.IPageSavingCallback|Implement this interface if you want to control how Aspose.Note saves separate pages.|

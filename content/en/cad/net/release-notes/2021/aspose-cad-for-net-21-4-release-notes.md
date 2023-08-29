@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes for Aspose.CAD for .NET 21.4
 
 {{% /alert %}}
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 | CADNET-8052 | [ Parameter is not valid  exception on creating Images from DXF](https://forum.aspose.com/t/generate-images-from-dxf-file-failed-image-export-failed-parameter-is-not-valid/228326) | Enhancement |

@@ -38,20 +38,14 @@ We are working on solutions to these problems.
 |PSDNET-1284|The text update fails with some Asian symbols. Error with parsing specific symbol|Bug|
 |PSDNET-1291|The text update fails with some Asian symbols. Error on rendering specific symbol|Bug|
 |PSDNET-1292|Error on opening the exported file by Photoshop after saving specific Asian symbols|Bug|
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - None
-
-
 # **Removed APIs:**
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resource.Data
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resource.BlendMode
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resource.EffectColor
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resource.Opacity
-
-
 ## **Usage examples:**
 
 **PSDNET-1071. Aspose.PSD can't open PSD (RGB/16bit) with ZipWithoutPrediction compression**

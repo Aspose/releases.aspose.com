@@ -2146,8 +2146,6 @@ finally
 
 {{< /highlight >}}
 
-
-
 **PSDJAVA-73. Exception on updating text layers**
 
 {{< highlight java >}}
@@ -2191,8 +2189,6 @@ finally
 }
 
 {{< /highlight >}}
-
-
 
 **PSDJAVA-71. Resize of some PSD files with layer masks works incorrect**
 
@@ -2245,8 +2241,6 @@ for (String name : names) {
     }
 
 }
-
-
 
 {{< /highlight >}}
 

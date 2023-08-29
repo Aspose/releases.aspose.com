@@ -24,11 +24,7 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 
 * we improved and expanded the interface for working with CSS color models described in the W3C specifications:
 https://www.w3.org/TR/css-color-4/ and https://www.w3.org/TR/css-color-5/
-
-
 * we optimized the CSS processing code to run faster.
-
-
 ## **Public API changes:**
 
 ### **Added APIs:**

@@ -14,8 +14,6 @@ download_count: " 25/8/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 26.68MB"
 parent_path: "slides/nodejs-java"
 section_parent_path: "slides/nodejs-java"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/slides/nodejs-java/aspose-slides-for-nodejs-via-java-23-8-release-notes/"
 weight: 1
 
@@ -47,5 +45,3 @@ weight: 1
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

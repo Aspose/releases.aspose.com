@@ -13,7 +13,7 @@ download_count: " 12/12/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 22.91MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
-tags: ""
+
 release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2022/aspose-tasks-for-net-22-12-release-notes/"
 weight: 484
 ---
@@ -79,8 +79,6 @@ link.CrossProjectName = "ExternalProject.mpp\\\\1"; // <- here external task's I
 ### New `LinkLagTimeSpan` Property
 
 A new property `LinkLagTimeSpan` property has been added to the `TaskLink`. This property gets or sets the lag duration, depending on the `LagFormat`.
-
-
 ### Cost Calculations for Multiple Rates
 
 Enhancements have been made in making cost calculations for the case where multiple rates are effective on a particular day.

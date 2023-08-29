@@ -50,8 +50,6 @@ Kunjungi [official documentation](https://docs.aspose.com/diagram/python-net/) u
 **Tata Letak Tetap**: PDF, XPS
 **Gambar**: JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
 **Web**: HTML
-
-
 ### Persyaratan sistem
 
 Mesin Anda tidak perlu menginstal perangkat lunak Microsoft Visio®.

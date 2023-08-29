@@ -126,8 +126,6 @@ so->set_FontResolveCallback([](System::SharedPtr<FontResolveEventArgs> args)
 );    
 project->Save(u"Output.pdf", so);
 {{< /highlight >}}
-
-
 **Related issue: TASKSNET-2596 - Add support for "Calculation for task and group summary rows" custom field option**
 
 The API for Extended attributes were improved. The previous ExtendedAttributeDefinition API where ExtendedAttributeDefinition.CalculationType should be one of the following: { None, Lookup, Rollup, Calculation } didn't reflect all the cases such as extended attribute where values for leaf tasks are calculated using formula and values of the summary tasks are calculated using rollup.
@@ -135,8 +133,6 @@ ExtendedAttributeDefinition.SummaryRowsCalculationType property (with values Non
 ExtendedAttributeDefinition.CalculationType's values are now limited to (None, Lookup, Formula) values.
 
 ![Extended attribute settings in MS Project](../ExtendedAttributeDefinition.png)
-
-
 The following example creates an extended attribute which values for leaf tasks are calculated using formula and values for summary tasks are calculated using average rollup:
 {{< highlight cpp >}}
 auto project = System::MakeObject<Project>(System::String(u"Test.mpp"));
@@ -150,8 +146,6 @@ project->get_ExtendedAttributes()->Add(definition);
 
 project->Save(u"Output.mpp");
 {{< /highlight >}}
-
-
 **Related issue: TASKSNET-10496 - Make WorkingTime immutable**
 
 In order to optimize calendar-related calculations WorkingTime class was made immutable (so properties cannot be modified after object is created).

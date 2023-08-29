@@ -26,8 +26,6 @@ In this release, we have improved various parts of the parsing and rendering alg
 * Added (X)HTML to (X)HTML conversion. This will allow you to convert documents from one format to another more flexibly.
 * Improved the performance of the table treatment algorithm.
 * Improved CSS style parsing performance.
-
-
 ## Improvements and Changes
 
 |**Key**|**Summary**|**Category**|

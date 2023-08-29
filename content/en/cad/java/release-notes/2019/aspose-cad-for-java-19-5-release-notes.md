@@ -224,5 +224,3 @@ Image image = Image.load("example.dxf");
 }
 
 {{< /highlight >}}
-
-

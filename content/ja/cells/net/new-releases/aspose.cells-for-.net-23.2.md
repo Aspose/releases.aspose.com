@@ -14,8 +14,6 @@ download_count: " 8/2/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 66.35MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-23-2-release-notes/"
 weight: 681
 
@@ -47,5 +45,3 @@ weight: 681
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

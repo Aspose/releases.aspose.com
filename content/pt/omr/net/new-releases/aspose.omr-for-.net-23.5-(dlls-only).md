@@ -14,8 +14,6 @@ download_count: " 23/5/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 103.83MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-23-5-0-release-notes/"
 weight: 120
 
@@ -47,5 +45,3 @@ weight: 120
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

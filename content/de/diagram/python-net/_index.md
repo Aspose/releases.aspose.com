@@ -50,8 +50,6 @@ Bitte besuchen Sie [official documentation](https://docs.aspose.com/diagram/pyth
 **Festes Layout**: PDF, XPS
 **Bilder**: JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
 **Web**: HTML
-
-
 ### System Anforderungen
 
 Auf Ihrem Gerät muss keine Microsoft Visio®-Software installiert sein.

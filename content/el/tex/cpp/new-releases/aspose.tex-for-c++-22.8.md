@@ -14,8 +14,6 @@ download_count: " 31/8/2022 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 193.78MB"
 parent_path: "tex/cpp"
 section_parent_path: "tex/cpp"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/tex/cpp/release-notes/2022/aspose-tex-for-cpp-22-8-release-notes/"
 weight: 46
 
@@ -47,5 +45,3 @@ weight: 46
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

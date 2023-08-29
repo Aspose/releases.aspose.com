@@ -23,8 +23,6 @@ This page contains release notes information for Aspose.Note for .NET 18.9.
 - Managing font's environment for a document
 - Inserting of pages functionality
 ## **Features and Improvements**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |NOTENET-2633|Default font for Note documents|New Feature|
@@ -32,8 +30,6 @@ This page contains release notes information for Aspose.Note for .NET 18.9.
 |NOTENET-2639|Fix the bug with saving as html: style's saving is broken|Bug|
 |NOTENET-2263|Images and text notes cannot be moved in OneNote application after saving a document by Aspose.Note|Bug|
 ## **Public API and Backward Incompatible Changes**
-
-
 |**The following public types were added:**|**Description**|
 | :- | :- |
 |Aspose.Note.Fonts.IFontsSubsystem|Implement this interface if you want to control how Aspose.Note retrieves fonts when saving a document.|
@@ -64,6 +60,4 @@ This page contains release notes information for Aspose.Note for .NET 18.9.
 |Aspose.Note.CompositeNode<T>.AppendChild(T)|Adds the node to the end of the list of child nodes for this node.|
 |**The following public constants and enumerations were added:**|**Description**|
 |Aspose.Note.Fonts.DocumentFontsSubsystem.Default|Default static instance of DocumentFontsSubsystem. It is used in case when Aspose.Note.Saving.SaveOptions.FontsSubsystem field is not set.|
-
-
 

@@ -14,8 +14,6 @@ download_count: " 19/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.48MB"
 parent_path: "drawing/net"
 section_parent_path: "drawing/net"
-
-tags: ""
 release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2022/aspose-drawing-for-net-22-10-release-notes/"
 weight: 102
 
@@ -47,6 +45,4 @@ weight: 102
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

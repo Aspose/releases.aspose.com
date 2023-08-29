@@ -1051,8 +1051,6 @@ menuItemWithNoContent: false
 
             CadBlockEntity block = cadImage.BlockEntities[(cadImage.Entities[i] as CadInsertObject).Name];
 
-
-
             foreach (CadBaseEntity baseEntity in block.Entities)
 
             {
@@ -1106,8 +1104,6 @@ menuItemWithNoContent: false
     jpegOptions.CenterDrawing = true;
 
     jpegOptions.VectorRasterizationOptions = rasterizationOptions;
-
-
     MyDir = MyDir + "for_layers_test.jpg";
 
     image.Save(MyDir, jpegOptions);

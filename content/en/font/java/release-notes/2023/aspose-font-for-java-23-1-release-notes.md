@@ -24,8 +24,6 @@ Support for converting fonts to `SVG` format has been added.
 | Key | Summary | Category |
 |---|---|---|
 | FONTNET-505 | Support for converting fonts to `SVG` format | New Feature |
-
-
 ## Public API and Backwards Incompatible Changes
 
 ### Added APIs

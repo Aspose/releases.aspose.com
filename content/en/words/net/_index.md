@@ -51,8 +51,6 @@ This package can be used to develop applications for a vast range of operating s
 - Provides a rich set of utility functions, you can use to split a document into parts, join documents together, compare documents, and much more.
 
 To become familiar with the most popular Aspose.Words functionality, please have a look at our [free online applications](https://products.aspose.app/words/family).
-
-
 ### Supported Read and Write Formats
 
 **Microsoft Word&reg;:** DOC, DOT, DOCX, DOCM, DOTX, DOTM, FlatOpc, FlatOpcMacroEnabled, FlatOpcTemplate, FlatOpcTemplateMacroEnabled, RTF, Microsoft Word 2003 WordprocessingML\

@@ -14,8 +14,6 @@ download_count: " 25/8/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 22.32MB"
 parent_path: "tex/java"
 section_parent_path: "tex/java"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/tex/java/aspose-tex-for-java-22-8-release-notes/"
 weight: 2
 
@@ -47,6 +45,4 @@ weight: 2
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

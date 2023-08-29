@@ -26,5 +26,3 @@ Aspose.PUB for .NET is a сonvenient library that provides the feature to conver
 - EULA urls have been fixed
 - Product logos have been updated
 - The installation package has been renewed
-
-

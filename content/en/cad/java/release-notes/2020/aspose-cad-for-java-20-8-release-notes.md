@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes for Aspose.CAD for Java 20.8
 
 {{% /alert %}}
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 | CADJAVA-806 | [Text Alignment is disturbed in generated PDF](https://forum.aspose.com/t/dwg-to-pdf-conversion-issues/215853/8) | Enhancement |

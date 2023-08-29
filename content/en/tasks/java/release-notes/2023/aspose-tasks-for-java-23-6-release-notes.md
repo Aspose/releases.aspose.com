@@ -12,8 +12,6 @@ toc: false
 family_listing_page_title: "Aspose.Tasks for Java 23.6 Release Notes"
 menuItemWithNoContent: false
 ---
-
-
 {{% alert color="primary" %}} 
 
 This page contains release notes information for [Aspose.Tasks for Java 23.6](https://downloads.aspose.com/tasks/java/23-6/).

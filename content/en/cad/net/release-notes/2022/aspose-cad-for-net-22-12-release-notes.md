@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes for Aspose.CAD for .NET 22.12
 
 {{% /alert %}}
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 | CADNET-8909 | [DXF -> JPEG ArgumentOutOfRangeException](https://forum.aspose.com/t/dxf-jpeg-argumentoutofrangeexception/256446) | Enhancement |

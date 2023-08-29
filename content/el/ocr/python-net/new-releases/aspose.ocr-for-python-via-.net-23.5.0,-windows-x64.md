@@ -14,8 +14,6 @@ download_count: " 23/6/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 265.72MB"
 parent_path: "ocr/python-net"
 section_parent_path: "ocr/python-net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/ocr/python-net/aspose-ocr-python-23-5-0-release-notes/"
 weight: 5
 
@@ -47,5 +45,3 @@ weight: 5
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

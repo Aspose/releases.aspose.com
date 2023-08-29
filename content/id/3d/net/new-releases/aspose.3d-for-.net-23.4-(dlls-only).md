@@ -14,8 +14,6 @@ download_count: " 13/4/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 8.83MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-23-4-release-notes/"
 weight: 332
 
@@ -47,5 +45,3 @@ weight: 332
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

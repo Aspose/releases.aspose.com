@@ -14,8 +14,6 @@ download_count: " 31/12/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 58.01MB"
 parent_path: "email/pythonnet"
 section_parent_path: "email/pythonnet"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-22-11-release-notes/"
 weight: 25
 
@@ -47,5 +45,3 @@ weight: 25
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

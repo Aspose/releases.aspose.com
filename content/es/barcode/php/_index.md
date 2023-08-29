@@ -38,8 +38,6 @@ Una biblioteca PHP que permite a los desarrolladores agregar rápida y fácilmen
 - Capacidad para leer y exportar códigos de barras en múltiples formatos de imagen, incluidos BMP, GIF, JPEG y PNG.
 - Proporciona un control total sobre las etiquetas de código de barras.
 - Admite la dimensión X y la dimensión Y para códigos de barras 2D.
-
-
 {{HIPERVINCULO1}} | {{HIPERVINCULO2}} | {{HIPERVINCULO3}} | {{HIPERVINCULO4}} | {{HIPERVINCULO5}} | {{HIPERVINCULO6}} | {{HIPERVINCULO7}} | {{HIPERVINCULO8}} | {{HIPERVINCULO9}} | {{HIPERVINCULO10}}
 
 {{< Common/hr >}}

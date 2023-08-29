@@ -31,5 +31,3 @@ This page contains release notes information for [Aspose.Note for .NET 19.9](htt
 |NOTENET-2856|Exception raised while converting the .ONE file to PDF|Bug|
 |NOTENET-2880|Exception "The given key was not present in the dictionary" while loading .ONE file|Bug|
 
-
-

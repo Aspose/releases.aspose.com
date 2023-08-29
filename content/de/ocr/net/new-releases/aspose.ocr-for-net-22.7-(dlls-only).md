@@ -14,8 +14,6 @@ download_count: " 22/7/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 161.56MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/ocr/net/release-notes/latest/"
 weight: 285
 
@@ -47,6 +45,4 @@ weight: 285
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
 

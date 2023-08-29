@@ -27,17 +27,11 @@ This page contains release notes for [Aspose.PSD for .NET 22.3](https://www.nug
 |PSDNET-1047|Specific file can not be opened by Photoshop after the saving in Aspose.PSD 21.11|Bug|
 |PSDNET-1068|Incorrect rendering of the layer with Linear Dodge (Add) blend mode|Bug|
 |PSDNET-1069|Pattern Fill Layer throws exception on update after loading|Bug|
-
-
 ## **Public API Changes**
 # **Added APIs:**
 - P:Aspose.PSD.FileFormats.Psd.Layers.LayerGroup.IsOpen
-
-
 # **Removed APIs:**
 - None
-
-
 ## **Usage examples:**
 
 **PSDNET-210. Add property IsOpen for Layer Group**

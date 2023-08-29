@@ -14,8 +14,6 @@ download_count: " 28/6/2022 Κατεβάστεs: 2  Views: 1 "
 file_size: "File Size: 19.78MB"
 parent_path: "html/net"
 section_parent_path: "html/net"
-
-tags: ""
 release_notes_url: "https://docs.aspose.com/html/net/aspose-html-for-net-22-6-release-notes"
 weight: 234
 
@@ -47,5 +45,3 @@ weight: 234
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

@@ -22,8 +22,6 @@ This page contains release notes information for Aspose.Note for .NET 19.3.
 ## **Major Features**
 - Improved support for processing files in OneNote Online format
 ## **Features and Improvements**
-
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |NOTENET-2749|Aspose.Note kills OneNote files during save|Bug|

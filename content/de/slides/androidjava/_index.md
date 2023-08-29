@@ -15,8 +15,6 @@ weight:  4
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/slides" linktext=" Support Forum " >}}
-
-
 {{< ProductPageWrapper >}}
 
 <!-- ProductPageContent-->
@@ -36,8 +34,6 @@ Eine PowerPoint-Dateimanipulations-API für Programmierer mobiler Anwendungen.
    {{< Common/li >}} Rendern Sie Präsentationen oder Folien in feste Layoutformate wie PDF sowie Rasterbilder. {{< /Common/li >}}
 
  {{< /Common/ul>}}
-
-
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 {{< Common/h4 text="Laden Sie Aspose.Slides von Maven herunter"  >}}
@@ -64,12 +60,8 @@ Sie können Aspose.Slides für Java ganz einfach direkt aus a verwenden
 
 <!-- /ProductPageContent-->
 
-
-
 <!-- ReleasesListProductPage-->
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="slides" product="androidjava" >}}
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
-
-

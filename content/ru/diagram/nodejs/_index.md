@@ -15,8 +15,6 @@ weight:  3
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/diagram" linktext=" Support Forum " >}}
-
-
 {{< Common/h4 text="Скачать Aspose.Diagram из NPM"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Специализированная библиотека диаграмм Node.js для работы с файлами Microsoft Visio.

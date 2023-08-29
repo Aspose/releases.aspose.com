@@ -18,8 +18,6 @@ menuItemWithNoContent: false
 This page contains release notes information for Aspose.ZIP for .NET 18.11.1.
 
 {{% /alert %}} 
-
-
 ## **All Changes**
 
 |**Key**|**Summary**|**Issue Type**|

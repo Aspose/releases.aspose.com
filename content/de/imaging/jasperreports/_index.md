@@ -49,8 +49,6 @@ Aspose.Imaging for JasperReports hilft Ihnen, Berichte aus JasperReports® in ve
 **Festes Layout:** PDF\
 **Web:** WebP, HTML5 Canvas\
 **Gezippt:** EMZ, WMZ, SVGZ
-
-
 #### System Anforderungen
 
 - Java 2 Platform Standard Edition 1.6 oder höher.

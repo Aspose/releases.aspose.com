@@ -38,8 +38,6 @@ weight:  8
 - 能够读取和导出多种图像格式的条形码，包括 BMP、GIF、JPEG 和 PNG。
 - 提供对条形码标签的完全控制。
 - 支持二维条码的 X 维和 Y 维。
-
-
 [Product Page](https://products.aspose.com/barcode/php-java/) | [Docs](https://docs.aspose.com/barcode/phpjava/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/php) | [Examples](https://github.com/aspose-barcode/Aspose.Barcode-for-PHP-via-Java) | [Blog](https://blog.aspose.com/categories/aspose.barcode-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode/13) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}
