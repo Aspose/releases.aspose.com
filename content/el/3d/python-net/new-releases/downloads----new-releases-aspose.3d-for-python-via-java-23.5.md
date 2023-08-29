@@ -15,7 +15,7 @@ file_size: "File Size: 156.28MB"
 parent_path: "3d/python-net"
 section_parent_path: "3d/python-net"
 
-tags: "Aspose.3D"
+tags: ["Aspose.3D"]
 release_notes_url: "https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-23-5-release-notes/"
 weight: 1
 

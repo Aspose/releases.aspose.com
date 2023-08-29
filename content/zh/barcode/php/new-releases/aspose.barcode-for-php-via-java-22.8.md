@@ -15,7 +15,7 @@ file_size: "File Size: 12.03MB"
 parent_path: "barcode/php"
 section_parent_path: "barcode/php"
 
-tags: "barcode,php,java"
+tags: ["barcode", "php", "java"]
 release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-22-8/"
 weight: 52
 

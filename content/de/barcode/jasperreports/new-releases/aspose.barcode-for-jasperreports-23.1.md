@@ -15,7 +15,7 @@ file_size: "File Size: 10.51MB"
 parent_path: "barcode/jasperreports"
 section_parent_path: "barcode/jasperreports"
 
-tags: "Barcode, JasperReports"
+tags: ["Barcode", "JasperReports"]
 release_notes_url: "https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-23-1-release-notes/"
 weight: 137
 

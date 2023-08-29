@@ -15,7 +15,7 @@ file_size: "File Size: 12.38MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-tags: "3d"
+tags: ["3d"]
 release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-23-8-release-notes/"
 weight: 341
 

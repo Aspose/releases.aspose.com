@@ -15,7 +15,7 @@ file_size: "File Size: 10.83MB"
 parent_path: "barcode/nodejs"
 section_parent_path: "barcode/nodejs"
 
-tags: "Barcode, Node.js,Java"
+tags: ["Barcode", "Node.js", "Java"]
 release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-22-11/"
 weight: 46
 

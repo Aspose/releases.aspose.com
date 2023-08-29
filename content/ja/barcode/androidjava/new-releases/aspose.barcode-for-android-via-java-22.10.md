@@ -15,7 +15,7 @@ file_size: "File Size: 7.98MB"
 parent_path: "barcode/androidjava"
 section_parent_path: "barcode/androidjava"
 
-tags: "Barcode, Java,Android"
+tags: ["Barcode", "Java", "Android"]
 release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-10/"
 weight: 94
 
