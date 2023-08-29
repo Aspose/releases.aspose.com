@@ -15,7 +15,7 @@ file_size: "File Size: 66.81MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
 
-tags: "Aspose.Cells for .NET"
+tags: ["Aspose.Cells for .NET"]
 release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-23-4-release-notes/"
 weight: 685
 

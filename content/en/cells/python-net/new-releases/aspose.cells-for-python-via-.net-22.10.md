@@ -13,7 +13,7 @@ download_count: " 20/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 193.03MB"
 parent_path: "cells/python-net"
 section_parent_path: "cells/python-net"
-tags: "Python .Net Excel  Aspose.Cells"
+tags: ["Python", ".Net", "Excel", "Aspose.Cells"]
 release_notes_url: "https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-10-release-notes/"
 weight: 4
 ---
