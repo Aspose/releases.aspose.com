@@ -23,7 +23,7 @@ This page contains release notes information for [Aspose.ZIP for .NET 23.7](http
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
 |ZIPNET-1031|Compose XAR archive.|Feature|
-|ZIPNET-1009|Added Zstandard compression method fpr ZIP container.|Feature|
+|ZIPNET-1009|Added Zstandard compression method for ZIP container.|Feature|
 |ZIPNET-1038|Introduce unknown archive format instead of null.|Enhancement|
 |ZIPNET-1027|Increase bzip2 parallel compression speed.|Enhancement|
 |ZIPNET-1030|Compress to LZMA2 in 7z in multiple threads.|Enhancement|
