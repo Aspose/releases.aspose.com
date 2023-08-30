@@ -57,6 +57,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "17"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-diagram/"
+tags: ["Aspose Total", "Aspose Diagram", "Aspose Java API", "diagram java library", "diagram java class", "Maven", "visio to pdf", "visio to html", "visio to image", "VSD to VDX", "VSD to VTX", "VSD to XPS", "diagram to SVG", "diagram to XAML", "shape", "page", "VSDX", "VDX", "VSD", "VSX", "VTX", "VSSX", "VSTX", "VSDM", "VSSM", "VSTM", "VDW", "VSS", "VST", "PDF", "XPS", "XAML", "SVG", "EMF", "JPEG", "PNG", "BMP", "TIFF", "HTML", "Linux", "Unix"]
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/diagram/17
 productLink: https://products.aspose.com/diagram/java/

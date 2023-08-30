@@ -16,7 +16,7 @@ parent_path: "finance/python-net"
 section_parent_path: "finance/python-net"
 release_notes_url: "https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-5-release-notes/"
 weight: 10
-
+tags: ['Aspose', 'Aspose.Total', 'Aspose.Finance', 'Python', '.NET', 'Library', 'Programming', 'Finance', 'XBRL', 'iXBRL', 'OFX', 'inline', 'convert']
 ---
 
 {{< Releases/ReleasesWapper >}}

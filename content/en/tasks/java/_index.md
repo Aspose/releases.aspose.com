@@ -47,6 +47,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "21"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-tasks/"
+tags: ["Aspose Total", "Aspose Tasks", "Aspose Java API", "task java library", "task java class", "Maven", "MPP", "XML", "MPT", "XER", "P6XML", "MPX", "XLSX", "HTML", "TXT", "TIFF", "SVG", "PNG", "JPEG", "Windows", "Linux", "Mac", "J2SE", "formula", "calendar", "task", "task scheduling", "assignment", "task cost", "project cost", "project scheduling"]
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/tasks/15
 productLink: https://products.aspose.com/tasks/java/

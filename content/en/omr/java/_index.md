@@ -43,6 +43,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "192"
 homepage_package_type: "Maven"
+tags: ["Aspose Total", "Aspose OMR", "Aspose Java API", "omr java library", "omr java class", "JPEG", "PNG", "GIF", "TIFF", "BMP", "CSV", "JSON", "XML", "image recognition", "image perspective", "test", "exam", "questionnaire", "survey", "J2SE", "Windows", "Linux", "Mac", "Azure", "Maven", "optical mark recognition", "extract marks", "marks extraction"]
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-omr/"
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/omr/38

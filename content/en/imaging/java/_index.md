@@ -90,6 +90,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "23"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-imaging/"
+tags: ["Aspose Total", "Aspose Imaging", "Aspose Java API", "image java library", "image java class", "Maven", "BMP", "GIF", "DICOM", "DJVU", "DNG", "EMF", "JPEG", "JPEG2000", "ODG", "PNG", "APNG", "PSD", "DXF", "SVG", "TIFF", "DIB", "EPS", "WEBP", "WMF", "CDR", "CMX", "OTG", "PDF", "HTML5", "EMZ", "WMZ", "TGA", "SVGZ", "canvas", "Windows", "Linux", "Mac", "JPG to TGA", "PNG to TGA", "HTML5", "SVG to HTML5", "CorelDRAW", "CMX to PNG", "binarization", "dithering", "DjVu to TIFF", "DjVu to PDF", "image processing", "multithreading", "optimization", "DNG to JPEG", "FODG", "JPEG LS", "CMYK", "YCK", "EXIF", "image to PSD", "color replacement", "raster image", "flat psd", "PSD to JPG", "Alpha", "Subscript", "smallcap", "gradient", "transparency", "WebP", "Bezier", "Polygon", "vector", "multipage image", "image to PSD", "WMF to PNG"]
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/imaging/14
 productLink: https://products.aspose.com/imaging/java/

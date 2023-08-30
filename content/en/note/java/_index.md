@@ -48,6 +48,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "15"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-note/"
+tags: ["Aspose Total", "Aspose Note", "Aspose Java API", "note java library", "note java class", "Maven", "ONE", "ONETOC2", "PNG", "GIF", "JPEG", "BMP", "TIFF", "PDF", "Windows", "J2SE", "HTML to OneNote", "OneNote to BMP", "OneNote to JPEG", "OneNote to TIFF", "extract text", "printing document", "OneNote to HTML", "text rendering", "image rendering", "document navigation", "text extraction", "insert text", "replace text", "FIPS", "OneNote", "SharePoint"]
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/note/28
 productLink: https://products.aspose.com/note/java/

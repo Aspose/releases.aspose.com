@@ -48,6 +48,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "9"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-html/"
+tags: ["Aspose Total", "Aspose HTML", "Aspose Java API", "html java library", "html java class", "Maven", "html converter", "svg converter", "mhtml converter", "markdown converter", "template converter", "html to image", "html to pdf", "html to xps", "html to mhtml", "html to markdown", "svg to image", "svg to pdf", "svg to xps", "epub to image", "epub to pdf", "epub to xps", "mhtml to image", "mhtml to pdf", "mhtml to xps", "markdown to html", "html template", "html navigation", "html5", "DOM", "html form editor", "css extension"]
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/html/29
 productLink: https://products.aspose.com/html/java/

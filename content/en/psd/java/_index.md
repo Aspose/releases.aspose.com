@@ -59,6 +59,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "160"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-psd/"
+tags: ["Aspose Total", "Aspose PSD", "Aspose Java API", "psd java library", "psd java package", "psd java class", "PSD", "PSB", "TIFF", "JPEG", "PNG", "GIF", "BMP", "JPEG2000", "PDF", "AI", "convert format", "image loading", "photoshop", "raw data processing", "image compression", "psd compression", "image rotation", "flip image", "image scale", "exif data", "dithering", "crop", "vector to raster", "matrix transformation", "adjustment layer", "linked layer", "text layer", "smart object", "smart filter", "shape layer", "fill layer", "Maven", "Windows", "Linux", "Mac", "JDK"]
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/psd/34
 productLink: https://products.aspose.com/psd/java/

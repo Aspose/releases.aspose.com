@@ -11,13 +11,14 @@ hideChildren: false
 toc: false
 family_listing_page_title: "Aspose.ZIP for Python via .NET 23.7 Release Notes"
 menuItemWithNoContent: false
+tags: ['Zip', 'compression', 'decompression', 'encryption', 'decryption', 'deflate', 'sfx', 'self-extracted', 'self-extractor', 'pack', 'unpack', 'compress', 'decompress', 'encrypt', 'decrypt', 'extract', 'ZipCrypto', 'bzip2', 'PPMd', 'cpio', 'tar', 'untar', 'gnu-tar', 'shar', 'gzip', 'lzip', 'LZMA', '7z', 'LZMA2', 'RAR', 'RAR4', 'RAR5', 'cab', 'wim', 'xar', 'xz', 'snappy', 'Z']
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information for [Aspose.ZIP for Python via .NET 23.7](https://pypi.org/project/aspose-zip/23.7.0/).
 
-{{% /alert %}} 
+{{% /alert %}}
 ## **All Changes**
 
 |**Key**|**Summary**|**Issue Type**|
@@ -34,7 +35,7 @@ This page contains release notes information for [Aspose.ZIP for Python via .NET
 |Aspose.Zip.Xar.XarArchive.#ctor()|Initializes a new instance of the xar archive prepared for compressing.|
 |Aspose.Zip.Xar.XarArchive.CreateEntry(...)|Create single entry within the xar archive.|
 |Aspose.Zip.Xar.XarArchive.CreateEntries(...)|Adds to the archive all the files and directories recursively in the directory given.|
-|Aspose.Zip.Xar.XarArchive.Save(...)|Saves xar archive.| 
+|Aspose.Zip.Xar.XarArchive.Save(...)|Saves xar archive.|
 |Aspose.Zip.ArchiveInfo.Unknown|Unknown format.|
 |Aspose.Zip.Saving.SevenZipLZMA2CompressionSettings.CompressionThreads|Gets or sets compression thread count. If the value greater than 1, multithreading compression will be used.|
 |Aspose.Zip.Saving.ZstandardCompressionSettings|Settings for Zstandard compression method.|

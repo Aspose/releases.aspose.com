@@ -45,6 +45,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "276"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-tex/"
+tags: ["Aspose Total", "Aspose TeX", "Aspose Java API", "tex-java-library", "tex-java-class", "XPS", "PDF", "PNG", "JPEG", "TIFF", "BMP", "TEXT", "typesetting", "ZIP", "J2SE", "Windows", "Linux", "Mac", "format conversion", "tex conversion", "latex conversion", "font subsetting", "ligature", "rasterization", "OXPS", "PS", "EPS", "SVG", "TeX to SVG"]
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/tex/47
 productLink: https://products.aspose.com/tex/java/

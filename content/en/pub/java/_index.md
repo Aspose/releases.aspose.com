@@ -35,6 +35,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "225"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-pub/"
+tags: [ "Aspose Total", "Aspose PUB", "Aspose Java API", "pub java library", "pub java class", "PUB", "PDF", "Microsoft Publisher", "PUB conversion", "Convert PUB", "PUB to PDF", "metadata", "Windows", "Linux", "Mac", "J2SE", "Maven", "edit metadata", "modify metadata"]
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/pub/40
 productLink: https://products.aspose.com/pub/java/

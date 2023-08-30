@@ -14,8 +14,7 @@ download_count: " 17/8/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 111.25MB"
 parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
-
-tags: ["PDF", "C++", "Linux", "Ubuntu"]
+tags: ['PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-SVG', 'PDF-Formatting', 'PDF-Metadata', 'PDF-Attachment', 'PDF-Images', 'PDF-Encryption', 'PDF-Decryption', 'Search-PDF', 'PDF-Table', 'PDF-Annotations', 'PDF-Bookmarks', 'PDF-Security', 'PDF-Signature', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP']
 release_notes_url: "https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-23-8-release-notes/"
 weight: 190
 

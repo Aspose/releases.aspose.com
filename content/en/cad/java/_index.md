@@ -63,6 +63,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "11"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-cad/"
+tags: ["Aspose Total", "Aspose CAD", "Aspose Java API", "cad java library", "cad java class", "DWG", "DXF", "DGN", "IFC", "IGES", "STL", "DWT", "PLT", "DWF", "DWFx", "CFF2", "OBJ", "PDF", "TIFF", "JPEG", "PNG", "GIF", "BMP", "Maven", "Windows", "Linux", "Mac", "J2SE", "drawing", "cad drawing", "raster image", "export 3D", "autocad", "cad layout", "mesh model", "ATTRIB", "MTEXT", "3D solids", "conic", "sphere", "torus", "cylinder", "box", "wedge", "wired models", "3D faces", "Unix"]
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/cad/19
 productLink: https://products.aspose.com/cad/java/

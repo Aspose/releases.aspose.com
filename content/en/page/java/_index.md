@@ -77,6 +77,7 @@ family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "169"
+tags: ["Aspose Total", "Aspose Page", "Aspose Java API", "page java library", "page java class", "XPS", "EPS", "PS", "PDF", "BMP", "TIFF", "JPEG", "PNG", "postscript", "canvas", "path", "glyph", "vector", "bezier", "solid color brush", "image brush", "visual brush", "sRGB", "scRGB", "ICC", "print schema", "Type2", "CFF", "Type14", "Chameleon", "CID", "raster", "Windows", "Linux", "Mac", "J2SE", "Maven", "EPS to BMP", "EPS to EMF", "EPS to JPG", "EPS to PDF", "EPS to PNG", "EPS to TIFF", "EPS to WMF", "postscript to BMP", "postscript to JPG", "postscript to PDF", "postscript to PNG", "postscript to TIFF", "XPS to BMP", "XPS to JPG", "XPS to PDF", "XPS to PNG", "XPS to TIFF", "text", "image", "page", "gradient", "visual brush", "transparency", "tiled image", "horizontal gradient", "opacity mask"]
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-page/"
 weight: 02	#rem

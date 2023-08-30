@@ -83,6 +83,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "30"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-slides/"
+tags: ["Aspose Total", "Aspose Slides", "Aspose Java API", "presentation java library", "presentation java class", "Maven", "PPT", "POT", "PPS", "PPTX", "POTX", "PPSX", "PPTM", "PPSM", "POTM", "OTP", "ODP", "TIFF", "PDF", "XPS", "JPEG", "PNG", "GIF", "BMP", "SVG", "HTML", "SWF", "PowerPoint", "chart", "shape", "geometry", "polyline", "animation", "autoshape", "Windows", "Linux", "Mac", "J2SE", "JDK", "Slide", "presentation", "merge", "import", "convert", "conversion", "transition", "master slide", "clone slide", "compare slide", "OLE", "SmartArt", "zoom", "text", "table", "tag", "custom data", "math equation", "security", "watermak", "presentation comment", "presentation note", "3d rotation", "3d depth", "3d gradient", "3d text", "WordArt", "VBA Macros"]
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/slides/11
 productLink: https://products.aspose.com/slides/java/

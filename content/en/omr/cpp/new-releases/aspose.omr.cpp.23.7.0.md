@@ -14,8 +14,7 @@ download_count: " 7/7/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 862.59KB"
 parent_path: "omr/cpp"
 section_parent_path: "omr/cpp"
-
-tags: "23.7.0"
+tags: ['Optical-Mark-Recognition', 'OMR', 'OMR-API', 'API', 'Component', 'Library', 'Windows', '.NET-Framework', 'Framework', 'OMR-Template', 'Answer-Sheet', 'Text-OMR', 'Answer-Sheet-OMR', 'Choide-Box-OMR', 'Grid-OMR', 'Image-OMR', 'Barcode-OMR', 'OMR-Text-Markup', 'OMR-to-PDF', 'Barcode-Recognition', 'OMR-Graphical-Control', 'OMR-to-CSV']
 release_notes_url: "https://docs.aspose.com/omr/cpp/aspose-omr-for-cpp-23-7-0-release-notes/"
 weight: 1
 
