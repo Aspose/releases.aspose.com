@@ -74,5 +74,5 @@ SET (ASPOSE_TASKS_CPP_DISABLE_SHORT_INCLUDES "TRUE")
 | Aspose.Tasks.Saving.HtmlSaveOptions.FontSettings | Specifies font settings used when rendering project's view. |
 | Aspose.Tasks.Saving.ImageSaveOptions.FontSettings | Specifies font settings used when rendering project's view. |
 | Aspose.Tasks.Saving.PdfSaveOptions.FontSettings | Specifies font settings used when rendering project's view. |
-| Aspose.Tasks.TimephasedData.CreateCostTimephased(System.Int32,System.DateTime,System.DateTime,System.Double,Aspose.Tasks.TimephasedDataType) | Creates and initializes a new instance of the <see cref="T:Aspose.Tasks.TimephasedData" /> class for cost-based time phased data. |
+| Aspose.Tasks.TimephasedData.CreateCostTimephased(System.Int32, System.DateTime, System.DateTime, System.Double, Aspose.Tasks.TimephasedDataType) | Creates and initializes a new instance of the <see cref="T:Aspose.Tasks.TimephasedData" /> class for cost-based time phased data. |
 
