@@ -15,7 +15,7 @@ file_size: "File Size: 24.77MB"
 parent_path: "words/sharepoint"
 section_parent_path: "words/sharepoint"
 
-tags: "sharepoint export report workflow"
+tags: ["sharepoint export report workflow"]
 release_notes_url: "https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-22-12-release-notes/"
 weight: 72
 

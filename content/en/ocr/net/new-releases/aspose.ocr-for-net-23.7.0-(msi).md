@@ -15,7 +15,7 @@ file_size: "File Size: 230.86MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
-tags: "OCR, NET"
+tags: ["OCR", "NET"]
 release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-7-0-release-notes/"
 weight: 319
 

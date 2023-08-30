@@ -15,7 +15,7 @@ file_size: "File Size: 59.84MB"
 parent_path: "cells/reportingservices"
 section_parent_path: "cells/reportingservices"
 
-tags: "SSRS Render Xlsx PDF"
+tags: ["SSRS", "Render Xlsx", "PDF"]
 release_notes_url: "https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-22-9-release-notes/"
 weight: 224
 

@@ -15,7 +15,7 @@ file_size: "File Size: 201.1MB"
 parent_path: "imaging/python-net"
 section_parent_path: "imaging/python-net"
 
-tags: "png to pdf convert image create edit split bmp open tiff svg eps emf jpg gif dng merge wmf dicom jpeg2000 tga"
+tags: ["png to pdf", "convert image", "create edit split bmp open tiff svg eps emf jpg gif dng merge wmf dicom jpeg2000 tga"]
 release_notes_url: "https://docs.aspose.com/imaging/python-net/aspose-imaging-for-python-net-23-7-release-notes/"
 weight: 2
 

@@ -15,7 +15,7 @@ file_size: "File Size: 58.66MB"
 parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
 
-tags: "Aspose.Tasks C++ Linux"
+tags: ["Aspose.Tasks", "C++", "Linux"]
 release_notes_url : "https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-10-release-notes/"
 weight: 141
 

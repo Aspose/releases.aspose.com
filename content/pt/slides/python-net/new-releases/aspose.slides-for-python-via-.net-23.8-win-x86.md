@@ -15,7 +15,7 @@ file_size: "File Size: 54.49MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
 
-tags: "slides, slides-python"
+tags: ["slides", "slides python"]
 release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-23-8-release-notes/"
 weight: 54
 

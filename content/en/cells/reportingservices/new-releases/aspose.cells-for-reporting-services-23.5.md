@@ -15,7 +15,7 @@ file_size: "File Size: 17.97MB"
 parent_path: "cells/reportingservices"
 section_parent_path: "cells/reportingservices"
 
-tags: "Excel PDF ODS Reporting Services"
+tags: ["Excel", "PDF", "ODS", "Reporting Services"]
 release_notes_url: "https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-23-5-release-notes/"
 weight: 247
 

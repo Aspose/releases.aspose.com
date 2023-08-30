@@ -15,7 +15,7 @@ file_size: "File Size: 94.97MB"
 parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
 
-tags: "Excel C++ Linux Aspose.Cells"
+tags: ["Excel", "C++", "Linux", "Aspose.Cells"]
 release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-7-release-notes-linux/"
 weight: 106
 

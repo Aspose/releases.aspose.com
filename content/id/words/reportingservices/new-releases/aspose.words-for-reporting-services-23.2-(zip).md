@@ -15,7 +15,7 @@ file_size: "File Size: 61.54MB"
 parent_path: "words/reportingservices"
 section_parent_path: "words/reportingservices"
 
-tags: "ssrs report viewer export"
+tags: ["ssrs report viewer export"]
 release_notes_url: "https://docs.aspose.com/words/reportingservices/aspose-words-for-reporting-services-23-2-release-notes/"
 weight: 285
 

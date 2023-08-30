@@ -15,7 +15,7 @@ file_size: "File Size: 39.74MB"
 parent_path: "finance/python-net"
 section_parent_path: "finance/python-net"
 
-tags: "Aspose,Aspose.Total,Aspose.Finance,Python,.NET,Library,Programming,Finance,XBRL,iXBRL,OFX,inline,convert"
+tags: ["Aspose", "Aspose.Total", "Aspose.Finance", "Python", ".NET", "Library", "Programming", "Finance", "XBRL", "iXBRL", "OFX", "inline", "convert"]
 release_notes_url: "https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-1-release-notes/"
 weight: 2
 

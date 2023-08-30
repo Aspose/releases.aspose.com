@@ -15,7 +15,7 @@ file_size: "File Size: 110.06MB"
 parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
 
-tags: "PDF C++ macOS"
+tags: ["PDF", "C++", "macOS"]
 release_notes_url: "https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-23-7-release-notes/"
 weight: 188
 

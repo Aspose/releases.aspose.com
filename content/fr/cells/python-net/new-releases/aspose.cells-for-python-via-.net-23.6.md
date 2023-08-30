@@ -15,7 +15,7 @@ file_size: "File Size: 231.53MB"
 parent_path: "cells/python-net"
 section_parent_path: "cells/python-net"
 
-tags: "Python  Excel  Aspose.Cells"
+tags: ["Python", "Excel", "Aspose.Cells"]
 release_notes_url: "https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-6-release-notes/"
 weight: 12
 

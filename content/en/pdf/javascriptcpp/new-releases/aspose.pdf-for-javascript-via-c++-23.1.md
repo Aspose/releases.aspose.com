@@ -15,7 +15,7 @@ file_size: "File Size: 29.18MB"
 parent_path: "pdf/javascriptcpp"
 section_parent_path: "pdf/javascriptcpp"
 
-tags: "PDF JavaScript C++ JS"
+tags: ["PDF", "JavaScript", "C++", "JS"]
 release_notes_url: "https://docs.aspose.com/pdf/javascript-cpp/release-notes-2023/aspose_pdf-for-javascript-cpp-23-1-release-notes/"
 weight: 2
 

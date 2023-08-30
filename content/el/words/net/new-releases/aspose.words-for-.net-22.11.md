@@ -15,7 +15,7 @@ file_size: "File Size: 83.75MB"
 parent_path: "words/net"
 section_parent_path: "words/net"
 
-tags: "docx to pdf convert compare create edit word split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub png emf jpg gif mail merge table reporting document"
+tags: ["docx to pdf", "convert compare create edit word", "split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub png emf jpg gif", "mail merge table", "reporting document"]
 release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-22-11-release-notes/"
 weight: 711
 
