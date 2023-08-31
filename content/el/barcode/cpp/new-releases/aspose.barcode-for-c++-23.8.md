@@ -16,7 +16,7 @@ parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
 release_notes_url: "https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-23-8-release-notes/"
 weight: 101
-
+tags: ['barcode-to-jpeg', 'barcode-to-tiff', 'barcode-to-png', 'barcode-to-bmp', 'barcode-to-gif', 'barcode-to-exif', 'barcode-to-emf', 'barcode-to-svg']
 ---
 
 {{< Releases/ReleasesWapper >}}

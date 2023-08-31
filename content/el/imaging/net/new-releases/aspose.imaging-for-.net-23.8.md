@@ -14,8 +14,7 @@ download_count: " 29/8/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 48.89MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
-
-tags: ""
+tags: ['image-to-svg', 'gif-to-tiff', 'png-to-pdf', 'svg-to-bmp', 'svg-to-png', 'cdr-to-jpg', 'cdr-to-pdf', 'cdr-to-png', 'cdr-to-psd', 'cmx-to-jpg', 'cmx-to-pdf', 'cmx-to-tiff', 'dicom-to-png', 'bmp-to-pdf']
 release_notes_url: "https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-8-release-notes/"
 weight: 365
 
@@ -47,5 +46,3 @@ weight: 365
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
