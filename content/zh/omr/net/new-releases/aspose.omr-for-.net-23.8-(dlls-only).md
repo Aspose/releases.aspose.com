@@ -14,8 +14,7 @@ download_count: " 31/8/2023 下载s: 1  Views: 1 "
 file_size: "File Size: 157.96MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-
-tags: ""
+tags: ['Optical-Mark-Recognition', 'OMR', 'OMR-API', 'API', 'Component', 'Library', 'Windows', '.NET-Framework', 'Framework', 'OMR-Template', 'Answer-Sheet', 'Text-OMR', 'Answer-Sheet-OMR', 'Choide-Box-OMR', 'Grid-OMR', 'Image-OMR', 'Barcode-OMR', 'OMR-Text-Markup', 'OMR-to-PDF', 'Barcode-Recognition', 'OMR-Graphical-Control', 'OMR-to-CSV']
 release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-23-8-0-release-notes/"
 weight: 128
 
@@ -47,5 +46,3 @@ weight: 128
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

@@ -14,8 +14,7 @@ download_count: " 6/8/2023 下载s: 1  Views: 1 "
 file_size: "File Size: 90.5MB"
 parent_path: "words/net"
 section_parent_path: "words/net"
-
-tags: ["docx to pdf", "convert compare create edit word", "split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps eps postscript pcl epub azw3 png emf jpg gif xlsx", "mail merge", "table reporting document"]
+tags: ['doc-to-bmp', 'doc-to-emf', 'doc-to-html', 'doc-to-jpeg', 'doc-to-pdf', 'doc-to-png', 'doc-to-postscript', 'doc-to-ps', 'docx-to-epub', 'docx-to-gif', 'docx-to-html', 'docx-to-markdown', 'docx-to-md', 'docx-to-mhtml', 'docx-to-pcl', 'docx-to-pdf', 'word-to-bmp', 'word-to-emf', 'word-to-epub', 'word-to-gif', 'word-to-html', 'word-to-jpeg', 'word-to-markdown', 'word-to-md', 'word-to-mhtml', 'word-to-pcl', 'word-to-pdf', 'word-to-png', 'word-to-postscript', 'word-to-ps']
 release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-23-8-release-notes/"
 weight: 729
 

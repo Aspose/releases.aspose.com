@@ -16,7 +16,7 @@ parent_path: "svg/net"
 section_parent_path: "svg/net"
 release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-8-1-release-notes/"
 weight: 139
-
+tags: ['svg-to-bmp', 'svg-to-gif', 'svg-to-jpeg', 'svg-to-pdf', 'svg-to-png', 'svg-to-tiff', 'svg-to-xps', 'png-to-svg', 'jpg-to-svg']
 ---
 
 {{< Releases/ReleasesWapper >}}

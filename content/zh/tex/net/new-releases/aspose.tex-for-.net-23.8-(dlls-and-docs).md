@@ -16,7 +16,7 @@ parent_path: "tex/net"
 section_parent_path: "tex/net"
 release_notes_url: "https://docs.aspose.com/tex/net/aspose-tex-for-net-23-8-release-notes/"
 weight: 39
-
+tags: ['TeX-Extension', 'TeX-Creator', 'TypeSetting', 'TypeSet', 'Component', 'PNG', 'TIFF', 'BMP', 'ZIP', 'Azure', 'Windows', 'API', 'Library']
 ---
 
 {{< Releases/ReleasesWapper >}}
