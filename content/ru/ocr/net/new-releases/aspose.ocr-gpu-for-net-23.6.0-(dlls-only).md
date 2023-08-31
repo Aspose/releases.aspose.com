@@ -14,8 +14,7 @@ download_count: " 21/6/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 230.07MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
-
-tags: ["OCR", "NET"]
+tags: ['ocr', 'ocr-to-doc', 'ocr-to-docx', 'ocr-to-md', 'ocr-to-odt', 'ocr-to-pdf', 'ocr-to-text']
 release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-6-0-release-notes/"
 weight: 318
 

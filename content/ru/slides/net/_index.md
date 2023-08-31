@@ -73,4 +73,3 @@ Aspose.Slides для .NET — это кроссплатформенный API, �
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

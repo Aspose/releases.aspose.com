@@ -14,8 +14,7 @@ download_count: " 30/8/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 13.13MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
-
-tags: ""
+tags: ['7z', '7-ZIP', 'AES', 'AES-128', 'AES-192', 'AES-256', 'Archive', 'BZ2', 'BZIP2', 'Decompression', 'decrypt', 'Decryption', 'GZIP', 'Library', 'LZMA', 'LZMA2']
 release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-23-8-release-notes/"
 weight: 132
 
@@ -47,5 +46,3 @@ weight: 132
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

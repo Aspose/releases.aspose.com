@@ -16,7 +16,7 @@ parent_path: "note/net"
 section_parent_path: "note/net"
 release_notes_url: "https://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-8-release-notes/"
 weight: 197
-
+tags: ['one-to-bmp', 'one-to-gif', 'one-to-image', 'one-to-jpeg', 'one-to-pdf', 'one-to-png', 'one-to-tiff']
 ---
 
 {{< Releases/ReleasesWapper >}}

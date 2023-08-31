@@ -15,6 +15,7 @@ parent_path: "html/net"
 section_parent_path: "html/net"
 release_notes_url: "https://docs.aspose.com/html/net/aspose-html-for-net-22-8-release-notes"
 weight: 238
+tags: ['HTML-to-Image', 'HTML-to-PDF', 'HTML-to-XPS', 'HTML-to-DOCX', 'HTML-to-MHTML', 'HTML-to-Markdown', 'HTML-to-MD', 'EPUB-to-Image', 'EPUB-to-PDF', 'EPUB-to-XPS', 'Markdown-to-HTML', 'MD-to-HTML', 'HTML-Converter', 'XHTML-to-PDF', 'MHTML-to-PDF', 'HTML-to-GIF', 'MHTML-to-JPG']
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -62,10 +63,10 @@ using Aspose.Html.Rendering.Pdf;
 
         // Set the style attribute
         paragraph.SetAttribute("style", "font-size: 250%; font-family: verdana; color: #cd66aa");
-                        
-        // Save the HTML document to a file 
+
+        // Save the HTML document to a file
         document.Save(Path.Combine(OutputDir, "edit-inline-css.html"));
-    
+
         // Create the instance of the PDF output device and render the document into this device
         using (var device = new PdfDevice(Path.Combine(OutputDir, "edit-inline-css.pdf")))
         {

@@ -14,8 +14,7 @@ download_count: " 29/8/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 186.53MB"
 parent_path: "page/cpp"
 section_parent_path: "page/cpp"
-
-tags: ""
+tags: ['postscript-to-image', 'postscript-to-pdf', 'ps-to-image', 'ps-to-pdf', 'xps-to-bmp', 'xps-to-image', 'xps-to-jpeg', 'xps-to-pdf', 'xps-to-png', 'xps-to-tiff']
 release_notes_url: "https://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-8-release-notes/"
 weight: 122
 
@@ -47,5 +46,3 @@ weight: 122
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

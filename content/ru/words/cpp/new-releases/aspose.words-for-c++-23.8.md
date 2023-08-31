@@ -16,7 +16,7 @@ parent_path: "words/cpp"
 section_parent_path: "words/cpp"
 release_notes_url: "https://docs.aspose.com/words/cpp/aspose-words-for-cpp-23-8-release-notes/"
 weight: 220
-
+tags: ['doc-to-bmp', 'doc-to-emf', 'doc-to-html', 'doc-to-jpeg', 'doc-to-pdf', 'doc-to-png', 'doc-to-postscript', 'doc-to-ps', 'docx-to-epub', 'docx-to-gif', 'docx-to-html', 'docx-to-markdown', 'docx-to-md', 'docx-to-mhtml', 'docx-to-pcl', 'docx-to-pdf', 'word-to-bmp', 'word-to-emf', 'word-to-epub', 'word-to-gif', 'word-to-html', 'word-to-jpeg', 'word-to-markdown', 'word-to-md', 'word-to-mhtml', 'word-to-pcl', 'word-to-pdf', 'word-to-png', 'word-to-postscript', 'word-to-ps']
 ---
 
 {{< Releases/ReleasesWapper >}}

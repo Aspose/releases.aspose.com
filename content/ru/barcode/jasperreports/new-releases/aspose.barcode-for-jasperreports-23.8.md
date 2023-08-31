@@ -14,7 +14,6 @@ download_count: " 30/8/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 13.46MB"
 parent_path: "barcode/jasperreports"
 section_parent_path: "barcode/jasperreports"
-
 tags: ['Aspose.Barcode', 'barcode', 'jasperreports']
 release_notes_url: "https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-23-8-release-notes/"
 weight: 144
@@ -47,5 +46,3 @@ weight: 144
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
