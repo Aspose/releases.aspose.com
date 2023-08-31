@@ -16,7 +16,7 @@ parent_path: "email/pythonnet"
 section_parent_path: "email/pythonnet"
 release_notes_url: "https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-5-release-notes/"
 weight: 44
-
+tags: ['Aspose', 'Aspose.Total', 'Aspose.Email', 'Python', 'Library', '.NET', 'Email', 'MSG', 'PST', 'OST', 'OFT', 'EML', 'EMLX', 'MBOX', 'ICS', 'VCF', 'HTML', 'MHTML']
 ---
 
 {{< Releases/ReleasesWapper >}}

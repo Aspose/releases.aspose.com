@@ -14,8 +14,7 @@ download_count: " 9/8/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 60.73MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
-
-tags: ["Aspose.Cells for .NET(DLLs Only)"]
+tags: ['Excel-Conversion-API', 'Excel-Converter-API', 'Excel-Formula-API', 'Excel-Library', 'Excel-to-BMP', 'Excel-to-DOCX', 'Excel-to-EMF', 'Excel-to-GIF', 'Excel-to-HTML', 'Excel-to-Image', 'Excel-to-JPEG', 'Excel-to-JPG', 'Excel-to-Markdown', 'Excel-to-MD', 'Excel-to-MHTML', 'Excel-to-PDF', 'Excel-to-PDFA', 'Excel-to-PNG', 'Excel-to-PPTX', 'Excel-to-SVG', 'Excel-to-TIFF', 'Excel-to-XPS', 'XLS-to-PDF', 'XLS-to-XLSX', 'XLS-to-XPS', 'XLSX-to-DOCX', 'XLSX-to-HTML', 'XLSX-to-Markdown', 'XLSX-to-MD', 'XLSX-to-MHTML', 'XLSX-to-PDF', 'XLSX-to-PPTX']
 release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-23-8-release-notes/"
 weight: 692
 
