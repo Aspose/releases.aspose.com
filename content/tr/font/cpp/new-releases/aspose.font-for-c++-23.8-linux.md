@@ -16,7 +16,7 @@ parent_path: "font/cpp"
 section_parent_path: "font/cpp"
 release_notes_url: "https://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-8-release-notes/"
 weight: 111
-
+tags: ['Aspose.Font', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'TTF', 'TTC', 'OpenType', 'CFF', 'Type1', 'Font', 'Fonts-API', 'Assembly', 'API', 'Component', 'Font-C++-API', 'C++', 'Glyphs', 'Latin-Fonts', 'C++-Native-Library', 'Windows', 'Visual-C++', 'Microsoft', 'CFF-Font', 'Native', 'C++', 'CPP', 'Library']
 ---
 
 {{< Releases/ReleasesWapper >}}

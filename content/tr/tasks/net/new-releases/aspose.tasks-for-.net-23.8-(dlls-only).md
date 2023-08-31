@@ -16,7 +16,7 @@ parent_path: "tasks/net"
 section_parent_path: "tasks/net"
 release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-8-release-notes/"
 weight: 503
-
+tags: ['Project-to-PDF', 'Project-to-JPEG', 'Project-to-Excel', 'Project-to-SVG', 'Project-to-Text', 'Project-to-Format24BPPRGB', 'Project-to-TIFF', 'MPP-to-PDF', 'MPP-to-JPEG', 'MPP-to-XML', 'MPP-to-XLSX', 'MPP-to-CSV', 'MPP-to-SVG', 'MPP-to-HTML', 'MPP-to-TIFF']
 ---
 
 {{< Releases/ReleasesWapper >}}

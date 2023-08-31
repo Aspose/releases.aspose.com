@@ -14,8 +14,7 @@ download_count: " 30/8/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 6.66MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
-
-tags: ""
+tags: ['Aspose.Finance', 'Aspose.Total', 'Conholdate.Total', 'Conholdate', 'Windows-Forms', 'WinForms', 'Web-Forms', 'VisualStudio', 'Visual-Studio', 'Component', 'Assembly', 'Library', 'API', 'On-premise-API', 'Microsoft', 'MVC', 'C#', 'CSharp', 'VB.NET', 'ASP.NET', 'Mono', 'NET-Framework', 'XBRL', 'iXBRL', 'XBRL-Validation', 'iXBRL-Validation', 'OFX', 'Finance-API', 'Finance-Component', 'Finance-Assembly', 'XBRL-to-iXBRL', 'XBRL-to-XLSX', 'Validate-XBRL', 'Validate-iXBRL', 'Convert-XBRL']
 release_notes_url: "https://docs.aspose.com/finance/net/aspose-finance-for-net-23-8-release-notes/"
 weight: 56
 
@@ -47,5 +46,3 @@ weight: 56
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

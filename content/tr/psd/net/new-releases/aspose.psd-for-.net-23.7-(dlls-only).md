@@ -16,7 +16,7 @@ parent_path: "psd/net"
 section_parent_path: "psd/net"
 release_notes_url: "https://releases.aspose.com/psd/net/release-notes/2023/aspose-psd-for-net-23-7-release-notes/"
 weight: 186
-
+tags: ['PSD-to-JPEG', 'PSD-to-JPG', 'PSD-to-PDF', 'PSD-to-PNG', 'AI-to-JPG', 'AI-to-JPEG', 'AI-to-PDF', 'AI-to-PNG']
 ---
 
 {{< Releases/ReleasesWapper >}}
