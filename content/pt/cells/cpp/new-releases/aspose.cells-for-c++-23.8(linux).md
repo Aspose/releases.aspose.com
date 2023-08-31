@@ -14,8 +14,7 @@ download_count: " 14/8/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 94.97MB"
 parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
-
-tags: ["C++", "Linux", "Excel", "Aspose.Cells"]
+tags: ['Excel-to-PDF', 'Excel-to-PDFA', 'Workbook-to-PDFA', 'Excel-to-Image', 'Worksheet-to-Image', 'Excel-to-PNG', 'Excel-to-TIFF', 'Worksheet-to-SVG', 'Excel-to-SVG', 'Workbook-to-PDF', 'Workbook-Formulas', 'Spreadsheet-API', 'Aspose.Cells', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'Chart', 'Chart-Rendering', 'OLE-Objects', 'Range', 'C++', 'CPP', 'Native']
 release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-8-release-notes-linux/"
 weight: 108
 

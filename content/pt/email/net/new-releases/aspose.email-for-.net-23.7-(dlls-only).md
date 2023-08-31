@@ -16,7 +16,7 @@ parent_path: "email/net"
 section_parent_path: "email/net"
 release_notes_url: "https://docs.aspose.com/email/net/aspose-email-for-net-23-7-release-notes/"
 weight: 574
-
+tags: ['EML-to-MSG', 'EML-to-MHTML', 'MSG-to-MHTML', 'Email-to-MHT', 'Email-toEML', 'Email-to-HTML', 'Email-to-OFT']
 ---
 
 {{< Releases/ReleasesWapper >}}

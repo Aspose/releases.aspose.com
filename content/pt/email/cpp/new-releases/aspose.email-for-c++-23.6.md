@@ -16,7 +16,7 @@ parent_path: "email/cpp"
 section_parent_path: "email/cpp"
 release_notes_url: "https://docs.aspose.com/email/cpp/aspose-email-for-cpp-23-6-release-notes/"
 weight: 83
-
+tags: ['Aspose.Email', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'Office-Automation', 'MSG', 'PST', 'OST', 'OFT', 'OLM', 'EML', 'EMLX', 'MBOX', 'ICS', 'VCF', 'HTML', 'MHTML', 'MHT', 'Mail', 'MIME', 'iCalender', 'SMTP', 'POP3', 'IMAP', 'Protocols', 'RFC2445', 'RFC822', 'Windows', 'Linux', 'VisualStudio', 'GCC', 'CLang', 'Component', 'Assembly', 'C++', 'API', 'Email-API', 'Distribution-List', 'MAPI', 'Parsing-MSG', 'Viewing-MSG', 'Email-Message-Extraction', 'Email', 'Mail-Message', 'EWS-Client', 'EML-to-MSG', 'Email-to-EML', 'Email-to-MHT', 'Mail-to-MHTML', 'Native', 'C++', 'CPP', 'Exchange']
 ---
 
 {{< Releases/ReleasesWapper >}}
