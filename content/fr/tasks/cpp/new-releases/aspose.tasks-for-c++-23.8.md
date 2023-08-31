@@ -14,8 +14,7 @@ download_count: " 30/8/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 293.81MB"
 parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
-
-tags: "Aspose.Tasks C++ Windows Linux MacOS"
+tags: ['MPP-to-XLSX', 'MPP-to-Excel', 'MPP-to-Spreadsheet', 'MPP-to-HTML', 'Project-to-HTML', 'Project-to-Excel', 'Project-to-XLSX', 'Project-to-CSV', 'Project-to-Text', 'Project-to-MPT', 'MPP-to-CSV', 'MPP-to-MPT', 'MPP-to-SVG', 'MPP-to-JPEG', 'MPP-to-TIF', 'Project-to-PDF', 'MPP-to-PDF', 'Project-to-Image', 'MPP-to-PNG']
 release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-8-release-notes/"
 weight: 183
 
@@ -47,5 +46,3 @@ weight: 183
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
