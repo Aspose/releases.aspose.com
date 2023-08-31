@@ -16,7 +16,7 @@ parent_path: "barcode/net"
 section_parent_path: "barcode/net"
 release_notes_url: "https://docs.aspose.com/barcode/net/aspose-barcode-for-net-23-8-release-notes/"
 weight: 584
-
+tags: ['1D-Barcode', '2D-Barcode', 'Alpha-numeric-Barcodes', 'Barcode-API', 'Barcode-symbologies']
 ---
 
 {{< Releases/ReleasesWapper >}}

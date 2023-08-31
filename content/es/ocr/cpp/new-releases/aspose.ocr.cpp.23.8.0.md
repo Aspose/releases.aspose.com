@@ -14,8 +14,7 @@ download_count: " 31/8/2023 Descargars: 1  Views: 1 "
 file_size: "File Size: 210.48MB"
 parent_path: "ocr/cpp"
 section_parent_path: "ocr/cpp"
-
-tags: "23.8.0"
+tags: ['English-OCR', 'German-OCR', 'Portuguese-OCR', 'Spanish-OCR', 'French-OCR', 'Italian-OCR', 'Skew', 'Image-OCR', 'Optical-Recognition', 'Image-Recognition', 'Character-Recognition', 'JPEG', 'PNG', 'BMP', 'OCR-Deep-Learning', 'Computer-Vision','Language-OCR', 'Zonal-OCR', 'Optical-Character-Recognition', 'OCR-Area-Detection', 'OCR-to-JSON', 'Conholdate', 'Native', 'CPP']
 release_notes_url: "https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-8-0-release-notes/"
 weight: 90
 
@@ -47,5 +46,3 @@ weight: 90
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
