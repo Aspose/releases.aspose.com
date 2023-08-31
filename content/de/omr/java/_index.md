@@ -1,7 +1,7 @@
 ---
-title: "ASSON.OMR | Java -Klassenbibliothek für digitale Markenextraktion" 
+title: "ASSON.OMR | Java -Klassenbibliothek für digitale Markenextraktion"
 linktitle: Aspose.OMR
-description: "Java -Klassenbibliothek für optische Markenerkennung (OMR). Erkennen und extrahieren Sie Markierungen aus digitalisierten oder gescannten Bildern, Fotos, Umfragen, Prüfungen und Fragebögen." 
+description: "Java -Klassenbibliothek für optische Markenerkennung (OMR). Erkennen und extrahieren Sie Markierungen aus digitalisierten oder gescannten Bildern, Fotos, Umfragen, Prüfungen und Fragebögen."
 layout: packages
 type: repository
 categories:
@@ -35,8 +35,8 @@ keywords:
 - optical mark recognition
 - extract marks
 - marks extraction
-family_listing_page_title: "ASSON.OMR für Java" 
-family_listing_page_description: "ASSON.OMR für Java ist eine API, mit der optische Markierungen aus OMR -digitalisierten Blattbildern erfasst werden. Es kann verwendet werden, um optische Markierungen in einer Vielzahl von Bildformaten wie BMP, JPG, TIF, TIFF, GIF zu erkennen. Die API ermöglicht das Erfassen von Daten mit Menschenmarkierter aus Dokumentformularen wie Umfragen, Fragebögen, Multiple-Choice-Prüfungsarbeiten und anderen Tests." 
+family_listing_page_title: "ASSON.OMR für Java"
+family_listing_page_description: "ASSON.OMR für Java ist eine API, mit der optische Markierungen aus OMR -digitalisierten Blattbildern erfasst werden. Es kann verwendet werden, um optische Markierungen in einer Vielzahl von Bildformaten wie BMP, JPG, TIF, TIFF, GIF zu erkennen. Die API ermöglicht das Erfassen von Daten mit Menschenmarkierter aus Dokumentformularen wie Umfragen, Fragebögen, Multiple-Choice-Prüfungsarbeiten und anderen Tests."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -45,6 +45,7 @@ family_listing_page_package: "192"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-omr/"
 weight: 02	#rem
+tags: ["Aspose Total", "Aspose OMR", "Aspose Java API", "omr java library", "omr java class", "JPEG", "PNG", "GIF", "TIFF", "BMP", "CSV", "JSON", "XML", "image recognition", "image perspective", "test", "exam", "questionnaire", "survey", "J2SE", "Windows", "Linux", "Mac", "Azure", "Maven", "optical mark recognition", "extract marks", "marks extraction"]
 forumLink: https://forum.aspose.com/c/omr/38
 productLink: https://products.aspose.com/omr/java/
 releaseNotesLink: https://docs.aspose.com/omr/java/release-notes/

@@ -16,7 +16,7 @@ parent_path: "font/net"
 section_parent_path: "font/net"
 release_notes_url: "https://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-8-release-notes/"
 weight: 53
-
+tags: ['Aspose.Font', 'Aspose.Total', 'Conholdate.Total', 'Conholdate', 'Windows-Forms', 'WinForms', 'Web-Forms', 'VisualStudio', 'Visual-Studio', 'Component', 'Assembly', 'Library', 'API', 'On-premise-API', 'Microsoft', 'MVC', '.Net-Core', '.Net-Standard', '.NetCore', '.NetStandard', '.NetStandard2.0', 'Standard', 'C#', 'CSharp', 'VB.NET', 'ASP.NET', 'Azure', 'TTF', 'TTC', 'OpenType', 'CFF', 'Type1', 'TrueType', 'PostScript', 'Glyphs', 'Metrics-CFF', 'Render-Text', 'EOT', 'FNTDATA', 'WOFF', 'WOFF2', 'Linux', 'macOS', 'Windows', 'Curve', 'Line', 'Drawing', 'Font-Drawing', 'Font-Encoding']
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -16,6 +16,7 @@ parent_path: "pub/cpp"
 section_parent_path: "pub/cpp"
 release_notes_url: "https://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-8-release-notes/"
 weight: 92
+tags: ['API', 'Aspose', 'Aspose.PUB', 'Aspose.Total', 'Assembly', 'C++', 'Component', 'Conholdate', 'Conholdate.Total', 'Convert-PUB', 'Converter', 'Document', 'File-Format', 'Library', 'Metadata', 'Microsoft', 'PDF', 'PUB', 'PUB-to-PDF', 'VisualStudio', 'Publisher', 'Publisher-API', 'Native', 'CPP']
 
 ---
 

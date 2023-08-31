@@ -16,7 +16,7 @@ parent_path: "omr/net"
 section_parent_path: "omr/net"
 release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-23-7-0-release-notes/"
 weight: 126
-
+tags: ['Optical-Mark-Recognition', 'OMR', 'OMR-API', 'API', 'Component', 'Library', 'Windows', '.NET-Framework', 'Framework', 'OMR-Template', 'Answer-Sheet', 'Text-OMR', 'Answer-Sheet-OMR', 'Choide-Box-OMR', 'Grid-OMR', 'Image-OMR', 'Barcode-OMR', 'OMR-Text-Markup', 'OMR-to-PDF', 'Barcode-Recognition', 'OMR-Graphical-Control', 'OMR-to-CSV']
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -1,7 +1,7 @@
 ---
-title: "ASSOSPE.TASKS | Java -Bibliothek zum CEATE- und Verwalten von Projektaufgaben" 
+title: "ASSOSPE.TASKS | Java -Bibliothek zum CEATE- und Verwalten von Projektaufgaben"
 linktitle: Aspose.Tasks
-description: "Java -Klassenbibliothek zum Generieren, Bearbeiten, Rendern und Konvertieren der Projektdateien. Unterstützt Formeln, Kalender, Aufgaben, Ressourcen, Berichterstattung und Projektrisikoanalyse." 
+description: "Java -Klassenbibliothek zum Generieren, Bearbeiten, Rendern und Konvertieren der Projektdateien. Unterstützt Formeln, Kalender, Aufgaben, Ressourcen, Berichterstattung und Projektrisikoanalyse."
 layout: packages
 type: repository
 categories:
@@ -38,8 +38,8 @@ keywords:
 - task cost
 - project cost
 - project scheduling
-family_listing_page_title: "ASSOSH." 
-family_listing_page_description: "ASSOSS.TASKS FÜR JAVA bietet Projektmanagement -APIs an, mit denen Java -Anwendungsentwickler Microsoft Project ® -Dokumente Manipulationsfunktionen in ihren Anwendungen bereitstellen können, ohne Microsoft Project ® zu verwenden." 
+family_listing_page_title: "ASSOSH."
+family_listing_page_description: "ASSOSS.TASKS FÜR JAVA bietet Projektmanagement -APIs an, mit denen Java -Anwendungsentwickler Microsoft Project ® -Dokumente Manipulationsfunktionen in ihren Anwendungen bereitstellen können, ohne Microsoft Project ® zu verwenden."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -48,6 +48,7 @@ family_listing_page_package: "21"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-tasks/"
 weight: 02	#rem
+tags: ["Aspose Total", "Aspose Tasks", "Aspose Java API", "task java library", "task java class", "Maven", "MPP", "XML", "MPT", "XER", "P6XML", "MPX", "XLSX", "HTML", "TXT", "TIFF", "SVG", "PNG", "JPEG", "Windows", "Linux", "Mac", "J2SE", "formula", "calendar", "task", "task scheduling", "assignment", "task cost", "project cost", "project scheduling"]
 forumLink: https://forum.aspose.com/c/tasks/15
 productLink: https://products.aspose.com/tasks/java/
 releaseNotesLink: https://releases.aspose.com/tasks/java/release-notes/

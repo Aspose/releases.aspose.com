@@ -1,7 +1,7 @@
 ---
-title: "ASSON.DIAGRAM | Java -Bibliothek zum Erstellen, Exportieren von Visio -Dokumenten" 
+title: "ASSON.DIAGRAM | Java -Bibliothek zum Erstellen, Exportieren von Visio -Dokumenten"
 linktitle: Aspose.Diagram
-description: "Java -Klassenbibliothek zum Lesen, Schreiben, Exportieren und Verarbeiten von Visio -Diagrammen. Unterstützt Visio -Objekte wie Dokument, Seite, Master (Schablonen), Form, Stylesheet & Connect." 
+description: "Java -Klassenbibliothek zum Lesen, Schreiben, Exportieren und Verarbeiten von Visio -Diagrammen. Unterstützt Visio -Objekte wie Dokument, Seite, Master (Schablonen), Form, Stylesheet & Connect."
 layout: packages
 type: repository
 categories:
@@ -48,8 +48,8 @@ keywords:
 - HTML
 - Linux
 - Unix
-family_listing_page_title: "ASSOSE.Digram für Java" 
-family_listing_page_description: "ASSOSE.DIAGRAM für Java ist eine benutzerfreundliche, leistungsstarke und gut dokumentierte Java-API, mit der Entwickler native Visio-Dateiformate aus ihren Java-Anwendungen erstellen, manipulieren und konvertieren können, und ohne die Notwendigkeit, sich auf Microsoft Visio zu verlassen ®." 
+family_listing_page_title: "ASSOSE.Digram für Java"
+family_listing_page_description: "ASSOSE.DIAGRAM für Java ist eine benutzerfreundliche, leistungsstarke und gut dokumentierte Java-API, mit der Entwickler native Visio-Dateiformate aus ihren Java-Anwendungen erstellen, manipulieren und konvertieren können, und ohne die Notwendigkeit, sich auf Microsoft Visio zu verlassen ®."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -58,6 +58,7 @@ family_listing_page_package: "17"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-diagram/"
 weight: 02	#rem
+tags: ["Aspose Total", "Aspose Diagram", "Aspose Java API", "diagram java library", "diagram java class", "Maven", "visio to pdf", "visio to html", "visio to image", "VSD to VDX", "VSD to VTX", "VSD to XPS", "diagram to SVG", "diagram to XAML", "shape", "page", "VSDX", "VDX", "VSD", "VSX", "VTX", "VSSX", "VSTX", "VSDM", "VSSM", "VSTM", "VDW", "VSS", "VST", "PDF", "XPS", "XAML", "SVG", "EMF", "JPEG", "PNG", "BMP", "TIFF", "HTML", "Linux", "Unix"]
 forumLink: https://forum.aspose.com/c/diagram/17
 productLink: https://products.aspose.com/diagram/java/
 releaseNotesLink: https://docs.aspose.com/diagram/java/release-notes/

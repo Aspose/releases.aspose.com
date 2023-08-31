@@ -1,7 +1,7 @@
 ---
-title: "ASSONE.PAGE | Java -Klassenbibliothek für die PostScript -Verarbeitung" 
+title: "ASSONE.PAGE | Java -Klassenbibliothek für die PostScript -Verarbeitung"
 linktitle: Aspose.Page
-description: "Java -Klassenbibliothek zum Lesen, Erstellen und Konvertieren von XPS, PS & EPS -Formaten. Unterstützt Glyphe, Bildpinsel, Vektor, Bezier, Farbpinsel, Transparenz und Opazitätsmaske." 
+description: "Java -Klassenbibliothek zum Lesen, Erstellen und Konvertieren von XPS, PS & EPS -Formaten. Unterstützt Glyphe, Bildpinsel, Vektor, Bezier, Farbpinsel, Transparenz und Opazitätsmaske."
 layout: packages
 type: repository
 categories:
@@ -70,8 +70,8 @@ keywords:
 - tiled image
 - horizontal gradient
 - opacity mask
-family_listing_page_title: "ASSOSPE.PAGE FÜR JAVA" 
-family_listing_page_description: "ASSONE.PAGE ist eine Java -API, mit der Entwickler mit XPS- und EPS -Dokumenten arbeiten können. Mit der API können Sie vorhandene sowie neue XPS -Dokumente erstellen, bearbeiten und speichern. Darüber hinaus können Sie XPS- und EPS -Dokumente in PDF und Bilder konvertieren. Es bietet umfangreiche Manipulationsfunktionen und kann in jede Art von Desktop -GUI -Anwendungen, Webanwendungen und Konsolenanwendungen integriert werden." 
+family_listing_page_title: "ASSOSPE.PAGE FÜR JAVA"
+family_listing_page_description: "ASSONE.PAGE ist eine Java -API, mit der Entwickler mit XPS- und EPS -Dokumenten arbeiten können. Mit der API können Sie vorhandene sowie neue XPS -Dokumente erstellen, bearbeiten und speichern. Darüber hinaus können Sie XPS- und EPS -Dokumente in PDF und Bilder konvertieren. Es bietet umfangreiche Manipulationsfunktionen und kann in jede Art von Desktop -GUI -Anwendungen, Webanwendungen und Konsolenanwendungen integriert werden."
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/page/272x272/aspose_page-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -80,6 +80,7 @@ family_listing_page_package: "169"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-page/"
 weight: 02	#rem
+tags: ["Aspose Total", "Aspose Page", "Aspose Java API", "page java library", "page java class", "XPS", "EPS", "PS", "PDF", "BMP", "TIFF", "JPEG", "PNG", "postscript", "canvas", "path", "glyph", "vector", "bezier", "solid color brush", "image brush", "visual brush", "sRGB", "scRGB", "ICC", "print schema", "Type2", "CFF", "Type14", "Chameleon", "CID", "raster", "Windows", "Linux", "Mac", "J2SE", "Maven", "EPS to BMP", "EPS to EMF", "EPS to JPG", "EPS to PDF", "EPS to PNG", "EPS to TIFF", "EPS to WMF", "postscript to BMP", "postscript to JPG", "postscript to PDF", "postscript to PNG", "postscript to TIFF", "XPS to BMP", "XPS to JPG", "XPS to PDF", "XPS to PNG", "XPS to TIFF", "text", "image", "page", "gradient", "visual brush", "transparency", "tiled image", "horizontal gradient", "opacity mask"]
 forumLink: https://forum.aspose.com/c/page/39
 productLink: https://products.aspose.com/page/java/
 releaseNotesLink: https://releases.aspose.com/page/java/release-notes/

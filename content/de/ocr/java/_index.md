@@ -1,7 +1,7 @@
 ---
-title: "Aspose.OCR | Bildcharaktererkennung Java Klassenbibliothek" 
+title: "Aspose.OCR | Bildcharaktererkennung Java Klassenbibliothek"
 linktitle: Aspose.OCR
-description: "Java -Klassenbibliothek zur Ausführung optischer Charaktererkennung (OCR) auf JPEG, PNG, GIF, BMP & TIFF Images. Englisch, Französisch, Spanisch und Portugiesisch über OCR extrahieren." 
+description: "Java -Klassenbibliothek zur Ausführung optischer Charaktererkennung (OCR) auf JPEG, PNG, GIF, BMP & TIFF Images. Englisch, Französisch, Spanisch und Portugiesisch über OCR extrahieren."
 layout: packages
 type: repository
 categories:
@@ -44,8 +44,9 @@ keywords:
 - image detection
 - text detection
 weight: 02	#rem
-family_listing_page_title: "Aspose.OCR für Java" 
-family_listing_page_description: "ASSOSPE.OCR für Java ist eine optische API -API, mit der Entwickler ihren Java -Anwendungen OCR -Funktionen hinzufügen können, ohne dass zusätzliches Tool oder API erforderlich ist. ASSOSPE.OCR für Java ermöglicht das Extrahieren von Text aus Bildern mit unterschiedlichen Schriftarten und Stilen - und speichert die Zeit und den Aufwand, um eine OCR -Lösung von Grund auf neu zu entwickeln." 
+tags: ["Aspose Total", "Aspose OCR", "Aspose Java API", "ocr java library", "ocr java class", "Maven", "JPEG", "PNG", "GIF", "BMP", "TIFF", "TXT", "DOCX", "PDF", "Windows", "Linux", "Mac", "J2SE", "JSON", "optical character recognition", "OCR", "recognize text", "recognize image", "spell correction", "spell check", "skew correction", "image correction", "recognize pdf", "recognize tiff", "searchable pdf", "searchable docx", "multi lang ocr", "recognize multi image", "multi threading", "image detection", "text detection"]
+family_listing_page_title: "Aspose.OCR für Java"
+family_listing_page_description: "ASSOSPE.OCR für Java ist eine optische API -API, mit der Entwickler ihren Java -Anwendungen OCR -Funktionen hinzufügen können, ohne dass zusätzliches Tool oder API erforderlich ist. ASSOSPE.OCR für Java ermöglicht das Extrahieren von Text aus Bildern mit unterschiedlichen Schriftarten und Stilen - und speichert die Zeit und den Aufwand, um eine OCR -Lösung von Grund auf neu zu entwickeln."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"

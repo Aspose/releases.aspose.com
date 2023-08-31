@@ -1,7 +1,7 @@
 ---
-title: "ASSONE.CELLS | Excel -Tabellenkalkulations -Java -Bibliothek aus Excel" 
+title: "ASSONE.CELLS | Excel -Tabellenkalkulations -Java -Bibliothek aus Excel"
 linktitle: Aspose.Cells
-description: "Java -Bibliothek, um Excel & OpenOffice -Tabellenkalkulationen zu verarbeiten, zu manipulieren und zu konvertieren. Unterstützt die Formel (e), Diagramme, Validierungen, Rendering, Drucken und Verschlüsselung." 
+description: "Java -Bibliothek, um Excel & OpenOffice -Tabellenkalkulationen zu verarbeiten, zu manipulieren und zu konvertieren. Unterstützt die Formel (e), Diagramme, Validierungen, Rendering, Drucken und Verschlüsselung."
 layout: packages
 type: repository
 categories:
@@ -68,8 +68,8 @@ keywords:
 - JSON to CSV
 - CSV to JSON
 - import
-family_listing_page_title: "ASSOSPE.CELLS FÜR JAVA" 
-family_listing_page_description: "ASSOSPLE.CELLS FÜR JAVA ist eine preisgekrönte API von Excel-Tabellenverarbeitung, mit der die Java-Entwickler die Fähigkeit einbetten können, Excel-Tabellen in ihren eigenen Java-Anwendungen zu lesen, zu schreiben und zu manipulieren, ohne sich auf Microsoft Excel zu verlassen." 
+family_listing_page_title: "ASSOSPE.CELLS FÜR JAVA"
+family_listing_page_description: "ASSOSPLE.CELLS FÜR JAVA ist eine preisgekrönte API von Excel-Tabellenverarbeitung, mit der die Java-Entwickler die Fähigkeit einbetten können, Excel-Tabellen in ihren eigenen Java-Anwendungen zu lesen, zu schreiben und zu manipulieren, ohne sich auf Microsoft Excel zu verlassen."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -78,6 +78,7 @@ family_listing_page_package: "34"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-cells/"
 weight: 02	#rem
+tags: ["Aspose Total", "Aspose Cells", "Aspose Java API", "spreadsheet java library", "spreadsheet java class", "Maven", "XLS", "XLSX", "XLSB", "XLSM", "XLT", "XLTX", "XLTM", "XLAM", "CSV", "TSV", "TabDelimited", "TXT", "HTML", "MHTML", "ODS", "SpreadsheetML", "Numbers", "JSON", "DIF", "PDF", "XPS", "SVG", "TIFF", "PNG", "BMP", "EMF", "JPEG", "GIF", "Markdown", "SXC", "FODS", "DOCX", "PPTX", "Windows", "Linux", "Mac", "J2SE", "print", "rendering", "spreadsheet", "encryption", "workbook", "excel to XPS", "worksheet to XPS", "workbook to XPS", "excel to HTML", "excel to PDF", "conversion", "convert", "PDFA", "worksheet to image", "worksheet to SVG", "JSON to CSV", "CSV to JSON", "import"]
 forumLink: https://forum.aspose.com/c/cells/9
 productLink: https://products.aspose.com/cells/java/
 releaseNotesLink: https://docs.aspose.com/cells/java/release-notes/

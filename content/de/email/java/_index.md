@@ -1,7 +1,7 @@
 ---
-title: "ASSOSPE.EMAIL | Java -Klassenbibliothek, um Outlook -Formate zu verarbeiten" 
+title: "ASSOSPE.EMAIL | Java -Klassenbibliothek, um Outlook -Formate zu verarbeiten"
 linktitle: Aspose.Email
-description: "Java -Klassenbibliothek für die Arbeit mit SMTP, MIME, POP3, IMAP, HTTP, Elektronische Mail (E -Mail) in PST, MSG, OST, EML usw. unterstützt Icalendar, Validierung und Sicherheit." 
+description: "Java -Klassenbibliothek für die Arbeit mit SMTP, MIME, POP3, IMAP, HTTP, Elektronische Mail (E -Mail) in PST, MSG, OST, EML usw. unterstützt Icalendar, Validierung und Sicherheit."
 layout: packages
 type: repository
 categories:
@@ -59,8 +59,8 @@ keywords:
 - email authentication
 - RFC2445
 - http
-family_listing_page_title: "ASSOSPE.EMAIL FÜR JAVA" 
-family_listing_page_description: "ASSOSPLE.EMAIL für Java ist eine Reihe von E -Mail -Verarbeitungs -APIs zum Erstellen, Manipulieren oder Konvertieren von Nachrichtenformaten wie MSG, EML & MHT innerhalb von Java -Anwendungen. Die API bietet die Möglichkeit, Nachrichteninhalte, Header, Anhänge und MAPI -Eigenschaften sowie die Fähigkeit zum Senden und Empfangen von Nachrichten über eine Reihe beliebter Protokolle zu manipulieren und über eine Reihe beliebter Protokolle zu senden und zu empfangen" 
+family_listing_page_title: "ASSOSPE.EMAIL FÜR JAVA"
+family_listing_page_description: "ASSOSPLE.EMAIL für Java ist eine Reihe von E -Mail -Verarbeitungs -APIs zum Erstellen, Manipulieren oder Konvertieren von Nachrichtenformaten wie MSG, EML & MHT innerhalb von Java -Anwendungen. Die API bietet die Möglichkeit, Nachrichteninhalte, Header, Anhänge und MAPI -Eigenschaften sowie die Fähigkeit zum Senden und Empfangen von Nachrichten über eine Reihe beliebter Protokolle zu manipulieren und über eine Reihe beliebter Protokolle zu senden und zu empfangen"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -69,6 +69,7 @@ family_listing_page_package: "27"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-email/"
 weight: 02	#rem
+tags: ["Aspose Total", "Aspose Email", "Aspose Java API", "email java library", "email java class", "MSG", "PST", "OST", "OFT", "OLM", "EML", "EMLX", "MBOX", "ICS", "VCF", "HTML", "MHTML", "mail", "electronic mail", "import email", "export email", "mail merge", "email embedded object", "email attachment", "email calendar", "email utility", "mime", "email mime", "email parsing", "pop3", "email pop3", "exchange", "email exchange", "imap", "email imap", "email validation", "icalendar", "protocols", "email protocols", "RFC822", "bulk mail", "email parsing", "parse emails", "APOP", "RFC2195", "RFC283", "exchange server", "RFC2831", "RFC2595", "email authentication", "RFC2445", "http"]
 forumLink: https://forum.aspose.com/c/email/12
 productLink: https://products.aspose.com/email/java/
 releaseNotesLink: https://docs.aspose.com/email/java/release-notes/

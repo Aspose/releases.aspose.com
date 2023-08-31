@@ -1,7 +1,7 @@
 ---
-title: "ASSOSE.NOTE | Java -Bibliothek zum Erstellen/Manipulieren von OneNote -Dokumenten" 
+title: "ASSOSE.NOTE | Java -Bibliothek zum Erstellen/Manipulieren von OneNote -Dokumenten"
 linktitle: Aspose.Note
-description: "Java -Klassenbibliothek zum Laden, Bearbeiten, Speichern und Konvertieren von OneNote -Formaten. Unterstützt Seiten, Bilder, Text, Tabellen, Anhänge, Tags, Aufgaben, Textstile und Hyperlinks." 
+description: "Java -Klassenbibliothek zum Laden, Bearbeiten, Speichern und Konvertieren von OneNote -Formaten. Unterstützt Seiten, Bilder, Text, Tabellen, Anhänge, Tags, Aufgaben, Textstile und Hyperlinks."
 layout: packages
 type: repository
 categories:
@@ -39,8 +39,8 @@ keywords:
 - FIPS
 - OneNote
 - SharePoint
-family_listing_page_title: "ASSOSH.Note für Java" 
-family_listing_page_description: "ASSOSPLE.NOTE FÜR JAVA ist eine featurereiche OneNote-API, mit der die Java-Anwendungen dynamisch mit OneNote-Dokumenten interagieren können, ohne Microsoft OneNote zu verlangen. ASSOSH.Note für Java ermöglicht die Entwickler, den Inhalt des Microsoft OneNote -Dateiformates zu erstellen, zu lesen, zu manipulieren und zu exportieren. Mit der API können Anhänge, Text, Hyperlinks, Tabellen, Tags und Textstile auch verwaltet werden." 
+family_listing_page_title: "ASSOSH.Note für Java"
+family_listing_page_description: "ASSOSPLE.NOTE FÜR JAVA ist eine featurereiche OneNote-API, mit der die Java-Anwendungen dynamisch mit OneNote-Dokumenten interagieren können, ohne Microsoft OneNote zu verlangen. ASSOSH.Note für Java ermöglicht die Entwickler, den Inhalt des Microsoft OneNote -Dateiformates zu erstellen, zu lesen, zu manipulieren und zu exportieren. Mit der API können Anhänge, Text, Hyperlinks, Tabellen, Tags und Textstile auch verwaltet werden."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -49,6 +49,7 @@ family_listing_page_package: "15"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-note/"
 weight: 02	#rem
+tags: ["Aspose Total", "Aspose Note", "Aspose Java API", "note java library", "note java class", "Maven", "ONE", "ONETOC2", "PNG", "GIF", "JPEG", "BMP", "TIFF", "PDF", "Windows", "J2SE", "HTML to OneNote", "OneNote to BMP", "OneNote to JPEG", "OneNote to TIFF", "extract text", "printing document", "OneNote to HTML", "text rendering", "image rendering", "document navigation", "text extraction", "insert text", "replace text", "FIPS", "OneNote", "SharePoint"]
 forumLink: https://forum.aspose.com/c/note/28
 productLink: https://products.aspose.com/note/java/
 releaseNotesLink: https://releases.aspose.com/note/java/release-notes/

@@ -1,7 +1,7 @@
 ---
-title: "ASSON.BARCODE | Prozess 1d, 2d und Post -Barcodes über Java" 
+title: "ASSON.BARCODE | Prozess 1d, 2d und Post -Barcodes über Java"
 linktitle: Aspose.BarCode
-description: "Java -Klassenbibliothek zum Generieren, Erkennen und Umwandeln von Barcodes. Unterstützt numerische, alpha-numerische und 2D-Barcode-Symbologien. Passen Sie Barcodes in Ihrer Java -App an." 
+description: "Java -Klassenbibliothek zum Generieren, Erkennen und Umwandeln von Barcodes. Unterstützt numerische, alpha-numerische und 2D-Barcode-Symbologien. Passen Sie Barcodes in Ihrer Java -App an."
 layout: packages
 type: repository
 categories:
@@ -131,8 +131,8 @@ keywords:
 - UpcaGs1DatabarCoupon
 - UPCE
 - VIN
-family_listing_page_title: "ASSON.BARCODE FÜR JAVA" 
-family_listing_page_description: "ASSON.BARCODE FÜR JAVA ist eine robuste und zuverlässige Barcode -Generierung und Erkennungskomponente. Es ermöglicht den Entwicklern, ihren Java -Anwendungen schnell und einfach Barcode -Generation und Erkennungsfunktionen zu fügen, die auf den Plattformen von Java SE, Java EE und Java ME basieren." 
+family_listing_page_title: "ASSON.BARCODE FÜR JAVA"
+family_listing_page_description: "ASSON.BARCODE FÜR JAVA ist eine robuste und zuverlässige Barcode -Generierung und Erkennungskomponente. Es ermöglicht den Entwicklern, ihren Java -Anwendungen schnell und einfach Barcode -Generation und Erkennungsfunktionen zu fügen, die auf den Plattformen von Java SE, Java EE und Java ME basieren."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -140,6 +140,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "25"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-barcode/"
+tags: ["Java barcode API", "Java barcode library", "Java barcode class", "1D Barcode", "2D Barcode", "Alpha numeric Barcodes", "Java Bacode API", "Barcode API", "Barcode Formatting API", "Barcode generation API", "barcode generator API", "Barcode imaging API", "Barcode reader API", "Barcode recognition API", "Barcode scanning API", "Barcode symbologies", "BMP", "Checksum", "Codabar", "Code11", "Code128", "Code39", "CompactPDF417", "Controls & Libraries", "EAN14(SCC14)", "EMF", "EXIF", "GIF", "JPEG", "MicroQR", "MSI", "Numeric Barcodes", "On premise API", "Planet", "PNG", "Postnet", "PZN", "QR", "SSCC18", "SVG", "Swiss QR", "TIFF", "UPCA", "UPCE", "Aspose.Total", "Conholdate", "Conholdate.Total", "Aspose.Barcode", "barcode", "generation", "recognition", "Alpha Numeric", "AI 8102 Coupon", "AustralianPosteParcel", "AustraliaPost", "Aztec", "Codabar", "CodablockF", "Code11", "Code128", "Code16K", "Code32", "Code39Extended", "Code39Standard", "Code93Extended", "Code93Standard", "DatabarExpanded", "DatabarExpandedStacked", "DatabarLimited", "DatabarOmniDirectional", "DatabarStacked", "DatabarStackedOmniDirectional", "DatabarTruncated", "DataLogic2of5", "DataMatrix", "DeutschePostIdentcode", "DeutschePostLeitcode", "DotCode", "DutchKIX", "EAN13", "EAN14", "EAN8", "GS1CodablockF", "GS1Code128", "GS1DataMatrix", "GS1QR", "IATA2of5", "Interleaved2of5", "ISBN", "ISMN", "ISSN", "ItalianPost25", "ITF14", "ITF6", "MacroPdf417", "Matrix2of5", "MaxiCode", "MicroPdf417", "MICR", "(only", "BarCode", "reader)", "MSI", "OneCode", "OPC", "PatchCode", "Pdf417", "Pharmacode", "Planet", "Postnet", "PZN", "QR", "RM4SCC", "SCC14", "SingaporePost", "SSCC18", "Standard2of5", "SwissQR", "SwissPostParcel", "UPCA", "UpcaGs1Code128Coupon", "UpcaGs1DatabarCoupon", "UPCE", "VIN"]
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/barcode/13
 productLink: https://products.aspose.com/barcode/java/

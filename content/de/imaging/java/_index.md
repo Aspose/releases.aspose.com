@@ -1,7 +1,7 @@
 ---
-title: "ASSOSPE.IMAGING | Verarbeiten und konvertieren Bilder über die Java -Bibliothek" 
+title: "ASSOSPE.IMAGING | Verarbeiten und konvertieren Bilder über die Java -Bibliothek"
 linktitle: Aspose.Imaging
-description: "Java -Klassenbibliothek für Bildverarbeitung, Manipulation und Konvertierung. Unterstützt Maskierung, Filter, Deskew, Matrix -Transformation, Formen, Dithering und Vektoren." 
+description: "Java -Klassenbibliothek für Bildverarbeitung, Manipulation und Konvertierung. Unterstützt Maskierung, Filter, Deskew, Matrix -Transformation, Formen, Dithering und Vektoren."
 layout: packages
 type: repository
 categories:
@@ -81,8 +81,8 @@ keywords:
 - multipage image
 - image to PSD
 - WMF to PNG
-family_listing_page_title: "ASSOSH." 
-family_listing_page_description: "ASSOSE.IMAGING FÜR JAVA ist eine Hochleistungs- und gut dokumentierte Bildgebungs-API, die den Entwicklern die flexibelste Gruppe von Bildern zur Verarbeitungsroutinen bietet ." 
+family_listing_page_title: "ASSOSH."
+family_listing_page_description: "ASSOSE.IMAGING FÜR JAVA ist eine Hochleistungs- und gut dokumentierte Bildgebungs-API, die den Entwicklern die flexibelste Gruppe von Bildern zur Verarbeitungsroutinen bietet ."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -91,6 +91,7 @@ family_listing_page_package: "23"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-imaging/"
 weight: 02	#rem
+tags: ["Aspose Total", "Aspose Imaging", "Aspose Java API", "image java library", "image java class", "Maven", "BMP", "GIF", "DICOM", "DJVU", "DNG", "EMF", "JPEG", "JPEG2000", "ODG", "PNG", "APNG", "PSD", "DXF", "SVG", "TIFF", "DIB", "EPS", "WEBP", "WMF", "CDR", "CMX", "OTG", "PDF", "HTML5", "EMZ", "WMZ", "TGA", "SVGZ", "canvas", "Windows", "Linux", "Mac", "JPG to TGA", "PNG to TGA", "HTML5", "SVG to HTML5", "CorelDRAW", "CMX to PNG", "binarization", "dithering", "DjVu to TIFF", "DjVu to PDF", "image processing", "multithreading", "optimization", "DNG to JPEG", "FODG", "JPEG LS", "CMYK", "YCK", "EXIF", "image to PSD", "color replacement", "raster image", "flat psd", "PSD to JPG", "Alpha", "Subscript", "smallcap", "gradient", "transparency", "WebP", "Bezier", "Polygon", "vector", "multipage image", "image to PSD", "WMF to PNG"]
 forumLink: https://forum.aspose.com/c/imaging/14
 productLink: https://products.aspose.com/imaging/java/
 releaseNotesLink: https://docs.aspose.com/imaging/java/release-notes/

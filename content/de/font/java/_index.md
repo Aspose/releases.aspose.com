@@ -1,7 +1,7 @@
 ---
-title: "ASSON.FONT | Java -Schriftverarbeitungs -API | TT, CFF, OT, Typ1" 
+title: "ASSON.FONT | Java -Schriftverarbeitungs -API | TT, CFF, OT, Typ1"
 linktitle: Aspose.Font
-description: "Java -Klassenbibliothek für Schriftart (TTF, TTC, OpenType, CFF, Typ1 usw.) Rendering, Verarbeitung und Konvertierung. Unterstützt kompakte Schriftart, lateinische Schriftart, Symbole und Glyphen." 
+description: "Java -Klassenbibliothek für Schriftart (TTF, TTC, OpenType, CFF, Typ1 usw.) Rendering, Verarbeitung und Konvertierung. Unterstützt kompakte Schriftart, lateinische Schriftart, Symbole und Glyphen."
 layout: packages
 type: repository
 categories:
@@ -52,8 +52,8 @@ keywords:
 - CFF to WOFF
 - CFF to WOFF2
 - load font
-family_listing_page_title: "ASSON.FONT FÜR JAVA" 
-family_listing_page_description: "ASSON.FONT FÜR JAVA ist flexibel und einfach zu nutzen Bibliothek, um mit verschiedenen Schriftartdateien zu arbeiten. API unterstützt mehrere Schriftformate wie TrueType CFF, Openentype und Typ1." 
+family_listing_page_title: "ASSON.FONT FÜR JAVA"
+family_listing_page_description: "ASSON.FONT FÜR JAVA ist flexibel und einfach zu nutzen Bibliothek, um mit verschiedenen Schriftartdateien zu arbeiten. API unterstützt mehrere Schriftformate wie TrueType CFF, Openentype und Typ1."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -62,6 +62,7 @@ family_listing_page_package: "268"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-font/"
 weight: 02	#rem
+tags: ["Aspose Total", "Aspose Font", "Aspose Java API", "font java library", "font java class", "TTF", "TTC", "OpenType", "CFF", "Type1", "postscript", "scalabale font", "true type", "compact font", "latin font", "symbols", "glyphs", "font rendering", "render text", "Windows", "Linux", "Mac", "J2SE", "Maven", "font converter", "font conversion", "WOFF", "WOFF2", "EOT", "TTF to WOFF", "TTF to WOFF2", "WOFF to TTF", "WOFF to WOFF2", "WOFF2 to TTF", "WOFF2 to WOFF", "EOT to TTF", "EOT to WOFF", "EOT to WOFF2", "Type1 to TFF", "Type1 to WOFF", "Type1 to WOFF2", "CFF to TTF", "CFF to WOFF", "CFF to WOFF2", "load font"]
 forumLink: https://forum.aspose.com/c/font/41
 productLink: https://products.aspose.com/font/java/
 releaseNotesLink: https://releases.aspose.com/font/java/release-notes/

@@ -1,7 +1,7 @@
 ---
-title: "ASSON.CAD | Java -Bibliothek zur Verarbeitung/Konvertierung von Autocad -Formaten" 
+title: "ASSON.CAD | Java -Bibliothek zur Verarbeitung/Konvertierung von Autocad -Formaten"
 linktitle: Aspose.CAD
-description: "Java -Klassenbibliothek zum Rendern, Bearbeiten, Bericht und Konvertieren von AutoCAD -Zeichnungen in Ihren Apps. Unterstützt 3D -Feststoffe, Kegel, Kugel, Torus, Zylinder, Kasten & Keil usw." 
+description: "Java -Klassenbibliothek zum Rendern, Bearbeiten, Bericht und Konvertieren von AutoCAD -Zeichnungen in Ihren Apps. Unterstützt 3D -Feststoffe, Kegel, Kugel, Torus, Zylinder, Kasten & Keil usw."
 layout: packages
 type: repository
 categories:
@@ -54,8 +54,8 @@ keywords:
 - wired models
 - 3D faces
 - Unix
-family_listing_page_title: "ASSOSS.CAD für Java" 
-family_listing_page_description: "ASSOSPE.CAD für Java ermöglicht es Entwicklern, Autocad DWG und DXF und DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, CF2, CFF2, OBJ -Dateien zu PDF, SVG, WMF und Raster -Bildern konvertieren. Es handelt sich um eine native API und erfordert keine Autokad oder eine andere Software, die installiert werden muss." 
+family_listing_page_title: "ASSOSS.CAD für Java"
+family_listing_page_description: "ASSOSPE.CAD für Java ermöglicht es Entwicklern, Autocad DWG und DXF und DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, CF2, CFF2, OBJ -Dateien zu PDF, SVG, WMF und Raster -Bildern konvertieren. Es handelt sich um eine native API und erfordert keine Autokad oder eine andere Software, die installiert werden muss."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -64,6 +64,7 @@ family_listing_page_package: "11"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-cad/"
 weight: 02	#rem
+tags: ["Aspose Total", "Aspose CAD", "Aspose Java API", "cad java library", "cad java class", "DWG", "DXF", "DGN", "IFC", "IGES", "STL", "DWT", "PLT", "DWF", "DWFx", "CFF2", "OBJ", "PDF", "TIFF", "JPEG", "PNG", "GIF", "BMP", "Maven", "Windows", "Linux", "Mac", "J2SE", "drawing", "cad drawing", "raster image", "export 3D", "autocad", "cad layout", "mesh model", "ATTRIB", "MTEXT", "3D solids", "conic", "sphere", "torus", "cylinder", "box", "wedge", "wired models", "3D faces", "Unix"]
 forumLink: https://forum.aspose.com/c/cad/19
 productLink: https://products.aspose.com/cad/java/
 releaseNotesLink: https://releases.aspose.com/cad/java/release-notes/

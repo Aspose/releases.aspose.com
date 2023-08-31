@@ -1,7 +1,7 @@
 ---
-title: "ASSON.TEX | Java -Bibliothek zum Typenset & konvertieren Tex -Dateien" 
+title: "ASSON.TEX | Java -Bibliothek zum Typenset & konvertieren Tex -Dateien"
 linktitle: Aspose.TeX
-description: "Java -Klassenbibliothek zum Hinzufügen von Funktionen in Ihrer App. Konvertieren Sie Tex & Latex in PDF, XPS, SVG usw. Unterstützt Schriftarten, Ligatur, Rasterisierung usw." 
+description: "Java -Klassenbibliothek zum Hinzufügen von Funktionen in Ihrer App. Konvertieren Sie Tex & Latex in PDF, XPS, SVG usw. Unterstützt Schriftarten, Ligatur, Rasterisierung usw."
 layout: packages
 type: repository
 categories:
@@ -36,8 +36,8 @@ keywords:
 - EPS
 - SVG
 - TeX to SVG
-family_listing_page_title: "ASSON.TEX FÜR JAVA" 
-family_listing_page_description: "ASSON.TEX FÜR JAVA ist eine Java -API, die es Entwicklern ermöglicht, Anwendungen für Tex -Dateien zu erstellen." 
+family_listing_page_title: "ASSON.TEX FÜR JAVA"
+family_listing_page_description: "ASSON.TEX FÜR JAVA ist eine Java -API, die es Entwicklern ermöglicht, Anwendungen für Tex -Dateien zu erstellen."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -46,6 +46,7 @@ family_listing_page_package: "276"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-tex/"
 weight: 02	#rem
+tags: ["Aspose Total", "Aspose TeX", "Aspose Java API", "tex-java-library", "tex-java-class", "XPS", "PDF", "PNG", "JPEG", "TIFF", "BMP", "TEXT", "typesetting", "ZIP", "J2SE", "Windows", "Linux", "Mac", "format conversion", "tex conversion", "latex conversion", "font subsetting", "ligature", "rasterization", "OXPS", "PS", "EPS", "SVG", "TeX to SVG"]
 forumLink: https://forum.aspose.com/c/tex/47
 productLink: https://products.aspose.com/tex/java/
 releaseNotesLink: https://releases.aspose.com/tex/java/release-notes/

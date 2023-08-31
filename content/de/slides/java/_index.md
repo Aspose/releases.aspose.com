@@ -1,7 +1,7 @@
 ---
-title: "ASSOSH.Slides | Java -Bibliothek, um PowerPoint -Formate zu verarbeiten" 
+title: "ASSOSH.Slides | Java -Bibliothek, um PowerPoint -Formate zu verarbeiten"
 linktitle: Aspose.Slides
-description: "Java -Bibliothek, um die Unterstützung von PowerPoint & OpenOffice -Präsentationsformaten in Ihren Apps hinzuzufügen. Arbeiten Sie mit Folien, Formen, Diagrammen, Objekten, Steuerelementen und vielem mehr." 
+description: "Java -Bibliothek, um die Unterstützung von PowerPoint & OpenOffice -Präsentationsformaten in Ihren Apps hinzuzufügen. Arbeiten Sie mit Folien, Formen, Diagrammen, Objekten, Steuerelementen und vielem mehr."
 layout: packages
 type: repository
 categories:
@@ -74,8 +74,8 @@ keywords:
 - 3d text
 - WordArt
 - VBA Macros
-family_listing_page_title: "ASSOSH.Slides für Java" 
-family_listing_page_description: "ASSON.Slides für Java ist die Manipulation und Verarbeitungs -API für PowerPoint -Präsentation zum Lesen, Schreiben, Manipulieren und Konvertieren von PowerPoint -Dateien in jeder Java -basierten Anwendung. API hat keine externen Abhängigkeiten, daher kann sie ohne Microsoft PowerPoint verwendet werden." 
+family_listing_page_title: "ASSOSH.Slides für Java"
+family_listing_page_description: "ASSON.Slides für Java ist die Manipulation und Verarbeitungs -API für PowerPoint -Präsentation zum Lesen, Schreiben, Manipulieren und Konvertieren von PowerPoint -Dateien in jeder Java -basierten Anwendung. API hat keine externen Abhängigkeiten, daher kann sie ohne Microsoft PowerPoint verwendet werden."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -84,6 +84,7 @@ family_listing_page_package: "30"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-slides/"
 weight: 02	#rem
+tags: ["Aspose Total", "Aspose Slides", "Aspose Java API", "presentation java library", "presentation java class", "Maven", "PPT", "POT", "PPS", "PPTX", "POTX", "PPSX", "PPTM", "PPSM", "POTM", "OTP", "ODP", "TIFF", "PDF", "XPS", "JPEG", "PNG", "GIF", "BMP", "SVG", "HTML", "SWF", "PowerPoint", "chart", "shape", "geometry", "polyline", "animation", "autoshape", "Windows", "Linux", "Mac", "J2SE", "JDK", "Slide", "presentation", "merge", "import", "convert", "conversion", "transition", "master slide", "clone slide", "compare slide", "OLE", "SmartArt", "zoom", "text", "table", "tag", "custom data", "math equation", "security", "watermak", "presentation comment", "presentation note", "3d rotation", "3d depth", "3d gradient", "3d text", "WordArt", "VBA Macros"]
 forumLink: https://forum.aspose.com/c/slides/11
 productLink: https://products.aspose.com/slides/java/
 releaseNotesLink: https://docs.aspose.com/slides/java/release-notes/
