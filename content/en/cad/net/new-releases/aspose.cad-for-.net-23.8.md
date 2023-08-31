@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.cad-for-.net-23.8"
-description: " "
+title: "CAD .NET API Support U3D, DXF 2018, DwfX, Convert DGN to SVG"
+description: "Efficient CAD App development via .NET API that supports U3D format, DXF 2018 support, concurrent conversions, enhanced U3D export, seamless DGN to SVG saving."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cad/net/new-releases/aspose.cad-for-.net-23.8/"
@@ -16,7 +15,6 @@ parent_path: "cad/net"
 section_parent_path: "cad/net"
 release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-8-release-notes/"
 weight: 210
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -43,5 +41,29 @@ weight: 210
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Contains MSI installer for full product installation of Aspose.CAD for .NET v23.8</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+The releases notes for ![Version 23.8.0](https://img.shields.io/badge/nuget-v23.8.0-blue) are as follows:
+
+- Added support `eModel` interface for `DwfX` format.
+- Improved U3D format writer for supporting LineSet and mesh objects
+- [Print Reference With Python](https://forum.aspose.com/t/print-reference-with-python/268451)
+- Implemented `U3D` format LineSet writer
+- Fixed the error converting to `DWG` version, unable to open
+- Added support different entities for `DXF` 2018
+- Implemented `U3D` format Line Set block type
+- Implemented export to `U3D` feature
+- [Concurrently converting several `DXF` files](https://forum.aspose.com/t/concurrently-converting-several-dxf-files/256447)
+- Resolved the exception which was being thrown when try to save `DGN` document as `SVG`
+
+{{% /Releases/ReleasesFileFeatures %}}
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
