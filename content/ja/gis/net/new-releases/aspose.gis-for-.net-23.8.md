@@ -14,8 +14,7 @@ download_count: " 29/8/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 10.15MB"
 parent_path: "gis/net"
 section_parent_path: "gis/net"
-
-tags: ""
+tags: ['dbf', 'dbf', 'epsg', 'format', 'gdb', 'geojson', 'geojson-to-shape', 'geojson-to-topojson', 'geometries', 'geometry', 'geoprocessing', 'geotiff', 'gml', 'gpx', 'id', 'jpg', 'kml', 'linq', 'map', 'mif', 'mvc', 'osm', 'png', 'postgis', 'qix', 'raster', 'render', 'rendering', 'services', 'shape-to-geojson', 'shapes', 'shp', 'shx', 'spatial']
 release_notes_url: "https://docs.aspose.com/gis/net/aspose-gis-for-net-22-8-release-notes/"
 weight: 226
 
@@ -47,5 +46,3 @@ weight: 226
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

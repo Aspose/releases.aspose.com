@@ -16,7 +16,7 @@ parent_path: "slides/net"
 section_parent_path: "slides/net"
 release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-23-8-release-notes/"
 weight: 771
-
+tags: ['ppt-to-bmp', 'ppt-to-html', 'ppt-to-jpeg', 'ppt-to-pdf', 'ppt-to-png', 'ppt-to-svg', 'ppt-to-image','presentation-to-bmp', 'presentation-to-html', 'presentation-to-jpeg', 'presentation-to-pdf', 'presentation-to-png', 'presentation-to-svg', 'presentation-to-image', 'pptx-to-bmp', 'pptx-to-html', 'pptx-to-jpeg', 'pptx-to-pdf', 'pptx-to-png', 'pptx-to-svg', 'pptx-to-image', 'ppt-to-pptx', 'powerpoint-to-pdf', 'pptx-to-tiff', 'powerpoint-to-xps', 'pptx-to-xps', 'powerpoint-to-tiff', 'powerpoint-to-html', 'slide-to-html']
 ---
 
 {{< Releases/ReleasesWapper >}}

@@ -16,7 +16,7 @@ parent_path: "drawing/net"
 section_parent_path: "drawing/net"
 release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2023/aspose-drawing-for-net-23-7-release-notes/"
 weight: 120
-
+tags: ['Aspose.Drawing', 'Aspose.Total', 'Conholdate.Total', 'Conholdate', 'Component', 'Library', 'API', 'On-premise-API', 'Microsoft', '.Net-Core', '.Net-Standard', '.NetCore', '.NetStandard', '.NetStandard2.0', 'Standard', 'C#', 'CSharp', 'ASP.NET', 'macOS', 'Windows', 'Azure', 'Linux', 'BMP', 'PNG', 'JPEG', 'GIF', 'TIFF', 'Rendering', 'Text', 'Font', 'Drawing', 'Brush', 'Gradient', 'Pen', 'Line', 'Curve', 'Shape', 'Ellipses', 'Arcs', 'Polygons', 'Splines', 'Paths', 'Blending', 'Clipping', 'Antialiasing', 'Blazor-WebAssembly', 'Geometries', 'Bitmap', 'Text', '2D', 'Bitmap', 'Graphics', 'cross-platform']
 ---
 
 {{< Releases/ReleasesWapper >}}

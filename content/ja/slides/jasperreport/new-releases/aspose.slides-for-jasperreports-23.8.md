@@ -16,7 +16,7 @@ parent_path: "slides/jasperreport"
 section_parent_path: "slides/jasperreport"
 release_notes_url: "https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-23-8-release-notes/"
 weight: 165
-
+tags: ['Aspose', 'Aspose.Total', 'Aspose.Slides', 'Slides', 'Assembly', 'component', 'Conholdate', 'Conholdate.Total', 'convert', 'converter', 'load', 'save', 'edit', 'update', 'core', 'cross-platform', 'Fast', 'Framework', 'Library', 'macOS', 'Microsoft', 'mono', 'mvc', 'Office', 'opendocument', 'openoffice', 'print', 'render', 'Standard', 'Visual-Studio', 'VisualStudio', 'Animation', 'jasperreports', 'PPT', 'PPS', 'PPTX', 'PPSX', 'PDF', 'HTML']
 ---
 
 {{< Releases/ReleasesWapper >}}
