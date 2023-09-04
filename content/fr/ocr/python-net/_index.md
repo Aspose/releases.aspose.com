@@ -5,6 +5,9 @@ keywords:  "Python OCR,OCR English,OCR French,OCR Spanish"
 family_listing_page_title:  "Aspose.OCR pour Python via .NET"
 family_listing_page_description:  "Téléchargez la bibliothèque Python d'extraction de texte pour la reconnaissance de caractères et de texte en anglais, français, espagnol et portugais à partir d'images raster via Python sur site via l'API .NET."
 family_listing_page_iconurl:  "https://releases.aspose.com/images/aspose/aspose_ocr-for-python.png"
+homepage_package_type: "Pip"
+homepage_package_link: "https://pypi.org/project/aspose-ocr-python-net"
+tags: ['Aspose', 'Aspose.Total', 'Aspose.OCR', 'Python', '.NET', 'Library', 'PDF', 'OCR', 'TIFF','PNG', 'BMP', 'JPEG', 'Image', 'recognition', 'MacOS', 'Windows', 'Linux', 'PIP']
 weight: 4
 ---
 
