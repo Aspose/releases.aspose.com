@@ -8,7 +8,7 @@ folder_link: "/words/net/new-releases/aspose.words-for-.net-23.9/"
 folder_name: "Aspose.Words for .NET 23.9"
 download_link: "/words/net/new-releases/aspose.words-for-.net-23.9/87514efebf7462a2c0d55a8142f86a67-19-9443"
 download_text: "Download"
-intro_text: "It contains Aspose.Words for .NET 22.9 MSI installer."
+intro_text: "It contains Aspose.Words for .NET 23.9 MSI installer."
 image_link: "/resources/img/msi-icon.png"
 download_count: " 5/9/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 90.48MB"
@@ -43,7 +43,7 @@ weight: 732
       <h4>Release Notes</h4><div><a href='https://docs.aspose.com/words/net/aspose-words-for-net-23-9-release-notes/'>https://docs.aspose.com/words/net/aspose-words-for-net-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for .NET 22.9 MSI installer.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for .NET 23.9 MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
