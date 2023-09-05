@@ -29,12 +29,12 @@ Support for the *Linear Threshold* (**'LTSH'**) table has been added.
 
 ### Added APIs
 
-Type com.aspose.font.TtfLtshTable
-Method com.aspose.font.TtfLtshTable.getNumGlyphs
-Method com.aspose.font.TtfLtshTable.getTag
-Method com.aspose.font.TtfLtshTable.getVersion
-Method com.aspose.font.TtfLtshTable.getYPel(int)
-Method com.aspose.font.TtfTableRepository.getLtshTable
+ * Type com.aspose.font.TtfLtshTable
+ * Method com.aspose.font.TtfLtshTable.getNumGlyphs
+ * Method com.aspose.font.TtfLtshTable.getTag
+ * Method com.aspose.font.TtfLtshTable.getVersion
+ * Method com.aspose.font.TtfLtshTable.getYPel(int)
+ * Method com.aspose.font.TtfTableRepository.getLtshTable
 
 ## Got Queries?
 If you have any query related to Aspose.Font for .NET API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.
