@@ -27,7 +27,7 @@ In this release, we have improved the PDF rendering,  the Markdown public API, a
 | HTMLNET-4693 | Tags with hidden attribute visible in pdf output | Bug |
 | HTMLNET-4832 | System.AggregateException occurs while loading a document | Bug |
 | HTMLNET-4788 | Table-Layout:fixed causes ArgumentException: Invalid operation | Bug |
-
+| HTMLNET-4818 | Infinite loop when converting HTML to PNG | Bug |
 
 ## **Public API and Backward Incompatible Changes**
 
