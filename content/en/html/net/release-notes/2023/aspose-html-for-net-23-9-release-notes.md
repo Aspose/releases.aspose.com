@@ -28,6 +28,9 @@ In this release, we have improved the PDF rendering,  the Markdown public API, a
 | HTMLNET-4832 | System.AggregateException occurs while loading a document | Bug |
 | HTMLNET-4788 | Table-Layout:fixed causes ArgumentException: Invalid operation | Bug |
 | HTMLNET-4818 | Infinite loop when converting HTML to PNG | Bug |
+| HTMLNET-4811 | HTML Content being cutoff on new page when converting from HTML-PDF | Investigation |
+| HTMLNET-4797 | How to get the converted Markdown file content in Memory Stream | Investigation  |
+| HTMLNET-4809 | libpng warning: pHYs: CRC error when converting HTML to PDF | Bug | 
 
 ## **Public API and Backward Incompatible Changes**
 
