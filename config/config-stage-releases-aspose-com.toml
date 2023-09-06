@@ -3,9 +3,9 @@ baseURL = "https://releases-qa.aspose.com"
 languageCode = "en-us"
 title = "Releases - aspose.com"
 theme =  "downloads-common-theme"
-disableKinds = ["taxonomy", "taxonomyTerm", "term"]
-ignoreErrors = ["error-disable-taxonomy"]
 
+[taxonomies]
+  tag = 'tags'
 ################################# Localization #########################
 # Disabled languages
 disableLanguages = []

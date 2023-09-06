@@ -78,7 +78,7 @@ jobs:
         if [ -d "./content/zh" ]; then
         find ./content/zh -mindepth 1 ! -regex '^./content/zh/total\(/.*\)?' -delete
         fi
-
+        rm ./layouts/sitemap.xml;
         ls content/ -all;
 
     - name: Build total pages

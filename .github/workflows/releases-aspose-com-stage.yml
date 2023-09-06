@@ -56,17 +56,17 @@ jobs:
 
       - name: Prepare public folder
         run: |
-          rm public/de/sitemap.xml;
-          rm public/el/sitemap.xml;
-          rm public/en/sitemap.xml;
-          rm public/es/sitemap.xml;
-          rm public/fr/sitemap.xml;
-          rm public/id/sitemap.xml;
-          rm public/ja/sitemap.xml;
-          rm public/pt/sitemap.xml;
-          rm public/ru/sitemap.xml;
-          rm public/tr/sitemap.xml;
-          rm public/zh/sitemap.xml;
+          mv public/de/sitemap.xml public/de/sitemap-tags.xml;
+          mv public/el/sitemap.xml public/el/sitemap-tags.xml;
+          mv public/en/sitemap.xml public/en/sitemap-tags.xml;
+          mv public/es/sitemap.xml public/es/sitemap-tags.xml;
+          mv public/fr/sitemap.xml public/fr/sitemap-tags.xml;
+          mv public/id/sitemap.xml public/id/sitemap-tags.xml;
+          mv public/ja/sitemap.xml public/ja/sitemap-tags.xml;
+          mv public/pt/sitemap.xml public/pt/sitemap-tags.xml;
+          mv public/ru/sitemap.xml public/ru/sitemap-tags.xml;
+          mv public/tr/sitemap.xml public/tr/sitemap-tags.xml;
+          mv public/zh/sitemap.xml public/zh/sitemap-tags.xml;
           ls public;
 
       - name: Deploy releases-qa.aspose.com (Stage) to S3

@@ -25,6 +25,13 @@ defaultContentLang = 'en'
       flag = "flag-gr"
       weight = 8
       menuCode = "aspose-gr"
+    [languages.de]
+      contentDir = 'content/de'
+      languageName = "Deutsch"
+      languageCode = "de"
+      flag = "flag-de"
+      weight = 2
+      menuCode = "aspose-de"
 ################################# Localization #########################
 
 [params]

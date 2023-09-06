@@ -3,10 +3,11 @@ baseURL = "https://releases.aspose.com"
 languageCode = "en-us"
 title = "Releases - aspose.com"
 theme =  "downloads-common-theme"
-disableKinds = ["taxonomy", "taxonomyTerm", "term"]
-ignoreErrors = ["error-disable-taxonomy"]
 enableRobotsTXT = true
 timeout = 2400000
+
+[taxonomies]
+  tag = 'tags'
 ################################# Localization #########################
 # Disabled languages
 disableLanguages = []

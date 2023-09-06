@@ -78,7 +78,7 @@ jobs:
         if [ -d "./content/zh" ]; then
         find ./content/zh -mindepth 1 ! -regex '^./content/zh/ocr\(/.*\)?' -delete
         fi
-
+        rm ./layouts/sitemap.xml;
         ls content/ -all;
 
     - name: Build ocr pages
@@ -359,7 +359,7 @@ jobs:
 
     # Invalidate Cloudfront (this action)
     - name: invalidate
-      continue-on-error: true    
+      continue-on-error: true
       uses: chetan/invalidate-cloudfront-action@master
       env:
         DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION_PROD }}

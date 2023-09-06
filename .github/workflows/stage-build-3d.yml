@@ -81,7 +81,7 @@ jobs:
         if [ -d "./content/zh" ]; then
         find ./content/zh -mindepth 1 ! -regex '^./content/zh/3d\(/.*\)?' -delete
         fi
-
+        rm ./layouts/sitemap.xml;
         ls content/ -all;
 
     - name: Build 3d pages
