@@ -4,6 +4,7 @@ languageCode = "en-us"
 title = "Releases - aspose.com"
 theme =  "downloads-common-theme"
 enableRobotsTXT = true
+ignoreErrors = ["error-disable-taxonomy"]
 timeout = 2400000
 
 [taxonomies]
