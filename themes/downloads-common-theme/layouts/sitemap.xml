@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"  xmlns:xhtml="http://www.w3.org/1999/xhtml">
 {{ range .Data.Pages }}
     {{ if ne .Kind "taxonomy" }}
+    {{ if not (strings.Contains .Permalink "/tags/") }}
       <url>
         <loc>{{ .Permalink }}</loc>
         {{ if not .Lastmod.IsZero }}
@@ -16,6 +17,7 @@
             <xhtml:link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}"/>
         {{ end }}
       </url>
+    {{ end }}
     {{ end }}
 {{ end }}
 </urlset>
