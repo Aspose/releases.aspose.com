@@ -3,9 +3,8 @@ baseURL = "https://releases-qa.aspose.com"
 languageCode = "en-us"
 title = "Releases - aspose.com"
 theme =  "downloads-common-theme"
+ignoreErrors = ["error-disable-taxonomy"]
 
-[taxonomies]
-  tag = 'tags'
 ################################# Localization #########################
 # Disabled languages
 disableLanguages = []
@@ -18,20 +17,6 @@ defaultContentLang = 'en'
       flag = "flag-us"
       weight = 1
       menuCode = "aspose-en"
-    [languages.el]
-      contentDir = 'content/el'
-      languageName = "Ελληνικά"
-      languageCode = "el"
-      flag = "flag-gr"
-      weight = 8
-      menuCode = "aspose-gr"
-    [languages.de]
-      contentDir = 'content/de'
-      languageName = "Deutsch"
-      languageCode = "de"
-      flag = "flag-de"
-      weight = 2
-      menuCode = "aspose-de"
 ################################# Localization #########################
 
 [params]

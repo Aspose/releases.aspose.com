@@ -5,8 +5,6 @@ title = "Releases - aspose.com"
 theme =  "downloads-common-theme"
 ignoreErrors = ["error-disable-taxonomy"]
 
-[taxonomies]
-  tag = 'tags'
 ################################# Localization #########################
 # Disabled languages
 disableLanguages = []

@@ -7,8 +7,6 @@ enableRobotsTXT = true
 ignoreErrors = ["error-disable-taxonomy"]
 timeout = 2400000
 
-[taxonomies]
-  tag = 'tags'
 ################################# Localization #########################
 # Disabled languages
 disableLanguages = []
