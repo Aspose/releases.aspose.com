@@ -22,7 +22,7 @@ keywords:
 - PLT
 - DWF
 - DWFx
-- CFF2
+- CF2
 - OBJ
 - PDF
 - TIFF
@@ -55,7 +55,7 @@ keywords:
 - 3D faces
 - Unix
 family_listing_page_title: "Aspose.cad untuk Java" 
-family_listing_page_description: "Aspose.cad untuk Java memungkinkan pengembang untuk mengonversi AutoCAD DWG dan DXF dan DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, CF2, CFF2, OBJ file ke PDF, SVG, WMF dan gambar raster. Ini adalah API asli dan tidak memerlukan AutoCAD atau perangkat lunak lain untuk diinstal." 
+family_listing_page_description: "Aspose.cad untuk Java memungkinkan pengembang untuk mengonversi AutoCAD DWG dan DXF dan DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, CF2, CF2, OBJ file ke PDF, SVG, WMF dan gambar raster. Ini adalah API asli dan tidak memerlukan AutoCAD atau perangkat lunak lain untuk diinstal." 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -136,7 +136,7 @@ packages_refs:
 ** AutoCAD: ** dwg, dwt, dwf, dwxf, ifc, plt \
 ** MicroStation: ** DGN \
 ** Visualisator canggih: ** obj \
-** Lainnya: ** STL, IGES, CFF2
+** Lainnya: ** STL, IGES, CF2
 
 ## Simpan CAD sebagai
 ** Tata letak tetap: ** pdf \

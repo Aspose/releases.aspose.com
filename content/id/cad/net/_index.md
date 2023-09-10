@@ -3,7 +3,7 @@ title: "Unduh C# Library untuk Menggambar & Merender File CAD | Aspose.CAD"
 description: "Unduh DLL perpustakaan kelas C# untuk merender, mengedit, melaporkan, & mengonversi AutoCAD®, CAD, BIM ke PDF & format gambar melalui API. Pilih & ubah tata letak, lapisan tertentu."
 keywords: "CAD .NET Library, AutoCAD .NET API"
 family_listing_page_title: "Aspose.CAD untuk .NET"
-family_listing_page_description: "Aspose.CAD untuk .NET memungkinkan pengembang untuk mengonversi AutoCAD DWG dan DXF dan DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, FBX, CF2, CFF2, OBJ dan file format CAD lainnya ke PDF, SVG, WMF dan Gambar raster. Ini adalah API asli dan tidak memerlukan AutoCAD atau perangkat lunak lain untuk diinstal."
+family_listing_page_description: "Aspose.CAD untuk .NET memungkinkan pengembang untuk mengonversi AutoCAD DWG dan DXF dan DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, FBX, CF2, CF2, OBJ dan file format CAD lainnya ke PDF, SVG, WMF dan Gambar raster. Ini adalah API asli dan tidak memerlukan AutoCAD atau perangkat lunak lain untuk diinstal."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -40,7 +40,7 @@ Aspose.CAD untuk .NET adalah perpustakaan kelas mandiri untuk meningkatkan aplik
 
 Aspose.CAD untuk .NET adalah pustaka lintas platform yang terintegrasi dengan mulus; kemampuan rendering, pengeditan, pelaporan, dan konversi untuk AutoCAD, dan gambar CAD & BIM lainnya ke dalam Aplikasi .NET Anda sendiri, tanpa perlu menginstal perangkat lunak pihak ketiga apa pun.
 
-Ini memungkinkan aplikasi C#, VB.NET, ASP.NET Anda untuk bekerja dengan plot polos, padatan 3D, model kabel, posisi kubus dasar, wajah 3D, permukaan, dan jerat dalam format file DWG, DXF, DWF, dan DGN. Format lain yang didukung termasuk IFC, IGES, STL, DWT, PLT, DWFx, CFF2, dan OBJ yang dapat diekspor ke berbagai format vektor, seperti; SVG, WMF, PDF serta format gambar raster (BMP, JP2, GIF, PSD, JPEG, TIF, PNG, dll.). Anda juga dapat mengonversi file AutoCAD ke PDF berkualitas tinggi, format vektor lain, atau gambar raster sambil melacak proses konversi file. Aspose.CAD untuk .NET juga memungkinkan pengembang untuk memilih dan mengonversi tata letak dan lapisan tertentu.
+Ini memungkinkan aplikasi C#, VB.NET, ASP.NET Anda untuk bekerja dengan plot polos, padatan 3D, model kabel, posisi kubus dasar, wajah 3D, permukaan, dan jerat dalam format file DWG, DXF, DWF, dan DGN. Format lain yang didukung termasuk IFC, IGES, STL, DWT, PLT, DWFx, CF2, dan OBJ yang dapat diekspor ke berbagai format vektor, seperti; SVG, WMF, PDF serta format gambar raster (BMP, JP2, GIF, PSD, JPEG, TIF, PNG, dll.). Anda juga dapat mengonversi file AutoCAD ke PDF berkualitas tinggi, format vektor lain, atau gambar raster sambil melacak proses konversi file. Aspose.CAD untuk .NET juga memungkinkan pengembang untuk memilih dan mengonversi tata letak dan lapisan tertentu.
 
 > Aspose.CAD untuk .NET mendukung sistem operasi Windows, Linux, Android, dan iOS (32-bit dan 64-bit). Itu dapat diintegrasikan ke dalam infrastruktur .NET Anda dengan .NET Core, Xamarin, Mono, atau melalui .NET Framework klasik.
 
@@ -64,7 +64,7 @@ Ini memungkinkan aplikasi C#, VB.NET, ASP.NET Anda untuk bekerja dengan plot pol
 **Pertukaran Data CAD:** IGES\
 **Pencetakan 3D:** STL\
 **Plotter Berbasis Vektor:** PLT\
-**Desain Paket 3D** CFF2\
+**Desain Paket 3D** CF2\
 **Geometri 3D:** OBJ
 
 ### Format Baca & Tulis yang Didukung CAD

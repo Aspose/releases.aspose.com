@@ -3,7 +3,7 @@ title: "CAD ファイルを描画およびレンダリングするための C# �
 description: "C# クラス ライブラリ DLL をダウンロードして、AutoCAD®、CAD、BIM を API 経由で PDF および画像形式にレンダリング、編集、レポート、および変換します。特定のレイアウト、レイヤーを選択して変換します。"
 keywords: "CAD .NET Library, AutoCAD .NET API"
 family_listing_page_title: "Aspose.CAD for .NET"
-family_listing_page_description: "Aspose.CAD for .NET を使用すると、開発者は AutoCAD DWG および DXF、DGN、DWF、DWFX、IFC、IGS、IGES、STL、DWT、FBX、CF2、CFF2、OBJ およびその他の CAD 形式のファイルを PDF、SVG、WMF およびラスター画像。これはネイティブ API であり、AutoCAD やその他のソフトウェアをインストールする必要はありません。"
+family_listing_page_description: "Aspose.CAD for .NET を使用すると、開発者は AutoCAD DWG および DXF、DGN、DWF、DWFX、IFC、IGS、IGES、STL、DWT、FBX、CF2、CF2、OBJ およびその他の CAD 形式のファイルを PDF、SVG、WMF およびラスター画像。これはネイティブ API であり、AutoCAD やその他のソフトウェアをインストールする必要はありません。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -40,7 +40,7 @@ Aspose.CAD for .NET は、AutoCAD やその他のレンダリング ワークフ
 
 Aspose.CAD for .NET は、シームレスに統合するクロスプラットフォーム ライブラリです。サード パーティのソフトウェアをインストールする必要なく、AutoCAD やその他の CAD および BIM 図面のレンダリング、編集、レポート、および変換機能を独自の .NET アプリに変換できます。
 
-C#、VB.NET、ASP.NET アプリケーションで、プレーン プロット、3D ソリッド、ワイヤード モデル、基本的な立方体の位置、3D 面、サーフェス、メッシュを DWG、DXF、DWF、DGN ファイル形式で操作できるようにします。その他のサポートされている形式には、IFC、IGES、STL、DWT、PLT、DWFx、CFF2、および OBJ があり、次のようなさまざまなベクトル形式にエクスポートできます。 SVG、WMF、PDF、およびラスター イメージ形式 (BMP、JP2、GIF、PSD、JPEG、TIF、PNG など)。ファイル変換プロセスを追跡しながら、AutoCAD ファイルを高品質の PDF、他のベクター形式、またはラスター イメージに変換することもできます。 Aspose.CAD for .NET を使用すると、開発者は特定のレイアウトとレイヤーを選択して変換することもできます。
+C#、VB.NET、ASP.NET アプリケーションで、プレーン プロット、3D ソリッド、ワイヤード モデル、基本的な立方体の位置、3D 面、サーフェス、メッシュを DWG、DXF、DWF、DGN ファイル形式で操作できるようにします。その他のサポートされている形式には、IFC、IGES、STL、DWT、PLT、DWFx、CF2、および OBJ があり、次のようなさまざまなベクトル形式にエクスポートできます。 SVG、WMF、PDF、およびラスター イメージ形式 (BMP、JP2、GIF、PSD、JPEG、TIF、PNG など)。ファイル変換プロセスを追跡しながら、AutoCAD ファイルを高品質の PDF、他のベクター形式、またはラスター イメージに変換することもできます。 Aspose.CAD for .NET を使用すると、開発者は特定のレイアウトとレイヤーを選択して変換することもできます。
 
 > Aspose.CAD for .NET は、Windows、Linux、Android、および iOS オペレーティング システム (32 ビットおよび 64 ビット) をサポートします。 .NET Core、Xamarin、Mono、または従来の .NET Framework を使用して、.NET インフラストラクチャに統合できます。
 
@@ -64,7 +64,7 @@ C#、VB.NET、ASP.NET アプリケーションで、プレーン プロット、
 **CAD データ交換:** IGES\
 **3D プリント:** STL\
 **ベクトル ベース プロッタ:** PLT\
-**3D パッケージ デザイン** CFF2\
+**3D パッケージ デザイン** CF2\
 **3D ジオメトリ:** OBJ
 
 ### サポートされている読み書き可能な CAD フォーマット

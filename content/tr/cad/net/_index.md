@@ -3,7 +3,7 @@ title: "CAD Dosyaları Çizmek ve Oluşturmak için C# Kitaplığını İndirin 
 description: "AutoCAD®, CAD, BIM'i API aracılığıyla PDF ve görüntü formatlarına dönüştürmek, düzenlemek, raporlamak ve dönüştürmek için C# sınıf kitaplığı DLL dosyasını indirin. Belirli düzenleri, katmanları seçin ve dönüştürün."
 keywords: "CAD .NET Library, AutoCAD .NET API"
 family_listing_page_title: ".NET için Aspose.CAD"
-family_listing_page_description: "Aspose.CAD for .NET, geliştiricilerin AutoCAD DWG ve DXF ve DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, FBX, CF2, CFF2, OBJ ve diğer CAD formatındaki dosyaları PDF, SVG, WMF ve Raster görüntüler. Yerel bir API'dir ve AutoCAD veya başka bir yazılımın yüklenmesini gerektirmez."
+family_listing_page_description: "Aspose.CAD for .NET, geliştiricilerin AutoCAD DWG ve DXF ve DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, FBX, CF2, CF2, OBJ ve diğer CAD formatındaki dosyaları PDF, SVG, WMF ve Raster görüntüler. Yerel bir API'dir ve AutoCAD veya başka bir yazılımın yüklenmesini gerektirmez."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -38,7 +38,7 @@ Aspose.CAD for .NET, AutoCAD veya başka herhangi bir işleme iş akışı gerek
 
 Aspose.CAD for .NET, sorunsuz bir şekilde entegre olan bir çapraz platform kitaplığıdır; AutoCAD ve diğer CAD & BIM çizimleri için herhangi bir 3. taraf yazılımı yüklemeye gerek kalmadan kendi .NET Uygulamalarınıza dönüştürme, düzenleme, raporlama ve dönüştürme yetenekleri.
 
-C#, VB.NET, ASP.NET uygulamalarınızın DWG, DXF, DWF ve DGN dosya formatlarında düz grafikler, 3B katılar, kablolu modeller, temel küp konumları, 3B yüzler, yüzeyler ve ağlarla çalışmasına olanak tanır. Desteklenen diğer formatlar, çeşitli vektör formatlarına aktarılabilen IFC, IGES, STL, DWT, PLT, DWFx, CFF2 ve OBJ'yi içerir; SVG, WMF, PDF ve ayrıca raster görüntü formatları (BMP, JP2, GIF, PSD, JPEG, TIF, PNG, vb.). Ayrıca dosya dönüştürme sürecini takip ederken AutoCAD dosyalarını yüksek kaliteli PDF'ye, diğer vektör biçimlerine veya raster görüntülere dönüştürebilirsiniz. Aspose.CAD for .NET ayrıca geliştiricilerin belirli düzenleri ve katmanları seçmesine ve dönüştürmesine olanak tanır.
+C#, VB.NET, ASP.NET uygulamalarınızın DWG, DXF, DWF ve DGN dosya formatlarında düz grafikler, 3B katılar, kablolu modeller, temel küp konumları, 3B yüzler, yüzeyler ve ağlarla çalışmasına olanak tanır. Desteklenen diğer formatlar, çeşitli vektör formatlarına aktarılabilen IFC, IGES, STL, DWT, PLT, DWFx, CF2 ve OBJ'yi içerir; SVG, WMF, PDF ve ayrıca raster görüntü formatları (BMP, JP2, GIF, PSD, JPEG, TIF, PNG, vb.). Ayrıca dosya dönüştürme sürecini takip ederken AutoCAD dosyalarını yüksek kaliteli PDF'ye, diğer vektör biçimlerine veya raster görüntülere dönüştürebilirsiniz. Aspose.CAD for .NET ayrıca geliştiricilerin belirli düzenleri ve katmanları seçmesine ve dönüştürmesine olanak tanır.
 
 > Aspose.CAD for .NET Windows, Linux, Android ve iOS işletim sistemlerini (32-bit ve 64-bit) destekler. .NET Core, Xamarin, Mono veya klasik .NET Framework ile .NET altyapınıza entegre edilebilir.
 
@@ -62,7 +62,7 @@ C#, VB.NET, ASP.NET uygulamalarınızın DWG, DXF, DWF ve DGN dosya formatların
 **CAD Veri Değişimi:** IGES\
 **3D Baskı:** STL\
 **Vektör Tabanlı Çizici:** PLT\
-**3D Paket Tasarımı** CFF2\
+**3D Paket Tasarımı** CF2\
 **3D Geometri:** OBJ
 
 ### Desteklenen Okuma ve Yazma CAD Formatları

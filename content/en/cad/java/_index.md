@@ -1,5 +1,5 @@
 ---
-title: Aspose.CAD | Java Library to Process/Convert AutoCAD Formats
+title: Aspose.CAD | Java Library to Process/Convert CAD and BIM Formats
 linktitle: "Aspose.CAD for Java"
 description: Java class library to render, edit, report & convert AutoCAD drawings within your Apps. Supports 3D solids, conic, sphere, torus, cylinder, box, & wedge, etc.
 layout: packages
@@ -22,7 +22,7 @@ keywords:
 - PLT
 - DWF
 - DWFx
-- CFF2
+- CF2
 - OBJ
 - PDF
 - TIFF
@@ -55,7 +55,7 @@ keywords:
 - 3D faces
 - Unix
 family_listing_page_title: "Aspose.CAD for Java"
-family_listing_page_description: "Aspose.CAD for Java allows developers to convert AutoCAD DWG and DXF and DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, CF2, CFF2, OBJ  files to PDF, SVG, WMF and Raster images. It is a native API and does not require AutoCAD or any other software to be installed."
+family_listing_page_description: "Aspose.CAD for Java allows developers to convert AutoCAD DWG and DXF and DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, CF2, CF2, OBJ  files to PDF, SVG, WMF and Raster images. It is a native API and does not require AutoCAD or any other software to be installed."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -63,7 +63,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "11"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-cad/"
-tags: ["Aspose Total", "Aspose CAD", "Aspose Java API", "cad java library", "cad java class", "DWG", "DXF", "DGN", "IFC", "IGES", "STL", "DWT", "PLT", "DWF", "DWFx", "CFF2", "OBJ", "PDF", "TIFF", "JPEG", "PNG", "GIF", "BMP", "Maven", "Windows", "Linux", "Mac", "J2SE", "drawing", "cad drawing", "raster image", "export 3D", "autocad", "cad layout", "mesh model", "ATTRIB", "MTEXT", "3D solids", "conic", "sphere", "torus", "cylinder", "box", "wedge", "wired models", "3D faces", "Unix"]
+tags: ["Aspose Total", "Aspose CAD", "Aspose Java API", "cad java library", "cad java class", "DWG", "DXF", "DGN", "IFC", "IGES", "STL", "DWT", "PLT", "DWF", "DWFx", "CF2", "OBJ", "PDF", "TIFF", "JPEG", "PNG", "GIF", "BMP", "Maven", "Windows", "Linux", "Mac", "J2SE", "drawing", "cad drawing", "raster image", "export 3D", "autocad", "cad layout", "mesh model", "ATTRIB", "MTEXT", "3D solids", "conic", "sphere", "torus", "cylinder", "box", "wedge", "wired models", "3D faces", "Unix"]
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/cad/19
 productLink: https://products.aspose.com/cad/java/

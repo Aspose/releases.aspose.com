@@ -19,7 +19,7 @@ weight:  3
 
 {{< Common/h3 text="Baixe o Aspose.CAD para renderizar desenhos CAD no JasperReports®"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Uma biblioteca de classes autônoma para estender a funcionalidade JasperReports para processar e renderizar desenhos CAD sem exigir o AutoCAD ou qualquer outro software CAD. A Biblioteca de Classes CAD permite a conversão de alta qualidade de arquivos DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CFF2, layouts e camadas para formatos de imagem PDF e raster.
+Uma biblioteca de classes autônoma para estender a funcionalidade JasperReports para processar e renderizar desenhos CAD sem exigir o AutoCAD ou qualquer outro software CAD. A Biblioteca de Classes CAD permite a conversão de alta qualidade de arquivos DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CF2, layouts e camadas para formatos de imagem PDF e raster.
 Você pode facilmente usar aspose-cad-jasperreports para Java diretamente de um
 {{< Common/link href="https://repository.aspose.com/cad/" text="Especialista"  >}}projeto baseado adicionando as seguintes configurações ao pom.xml.
 

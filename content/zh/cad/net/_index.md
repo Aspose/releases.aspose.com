@@ -3,7 +3,7 @@ title: "下载 C# 库以绘制和渲染 CAD 文件 | Aspose.CAD"
 description: "下载 C# 类库 DLL 以通过 API 渲染、编辑、报告和将 AutoCAD®、CAD、BIM 转换为 PDF 和图像格式。选择和转换特定的布局、图层。"
 keywords: "CAD .NET Library, AutoCAD .NET API"
 family_listing_page_title: "Aspose.CAD for .NET"
-family_listing_page_description: "Aspose.CAD for .NET 允许开发人员将 AutoCAD DWG 和 DXF 以及 DGN、DWF、DWFX、IFC、IGS、IGES、STL、DWT、FBX、CF2、CFF2、OBJ 和其他 CAD 格式文件转换为 PDF、SVG、WMF 和光栅图像。它是原生 API，不需要安装 AutoCAD 或任何其他软件。"
+family_listing_page_description: "Aspose.CAD for .NET 允许开发人员将 AutoCAD DWG 和 DXF 以及 DGN、DWF、DWFX、IFC、IGS、IGES、STL、DWT、FBX、CF2、CF2、OBJ 和其他 CAD 格式文件转换为 PDF、SVG、WMF 和光栅图像。它是原生 API，不需要安装 AutoCAD 或任何其他软件。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -40,7 +40,7 @@ Aspose.CAD for .NET 是一个独立的类库，用于增强 ASP.NET 和 Windows 
 
 Aspose.CAD for .NET 是一个无缝集成的跨平台库； AutoCAD 和其他 CAD 和 BIM 图纸的渲染、编辑、报告和转换功能到您自己的 .NET 应用程序中，无需安装任何第三方软件。
 
-它使您的 C#、VB.NET、ASP.NET 应用程序能够处理 DWG、DXF、DWF 和 DGN 文件格式中的平面图、3D 实体、有线模型、基本立方体位置、3D 面、曲面和网格。其他支持的格式包括 IFC、IGES、STL、DWT、PLT、DWFx、CFF2 和 OBJ，它们可以导出为各种矢量格式，例如； SVG、WMF、PDF 以及光栅图像格式（BMP、JP2、GIF、PSD、JPEG、TIF、PNG 等）。您还可以在跟踪文件转换过程的同时将 AutoCAD 文件转换为高质量的 PDF、其他矢量格式或光栅图像。 Aspose.CAD for .NET 还允许开发人员选择和转换特定的布局和图层。
+它使您的 C#、VB.NET、ASP.NET 应用程序能够处理 DWG、DXF、DWF 和 DGN 文件格式中的平面图、3D 实体、有线模型、基本立方体位置、3D 面、曲面和网格。其他支持的格式包括 IFC、IGES、STL、DWT、PLT、DWFx、CF2 和 OBJ，它们可以导出为各种矢量格式，例如； SVG、WMF、PDF 以及光栅图像格式（BMP、JP2、GIF、PSD、JPEG、TIF、PNG 等）。您还可以在跟踪文件转换过程的同时将 AutoCAD 文件转换为高质量的 PDF、其他矢量格式或光栅图像。 Aspose.CAD for .NET 还允许开发人员选择和转换特定的布局和图层。
 
 > Aspose.CAD for .NET 支持 Windows、Linux、Android 和 iOS 操作系统（32 位和 64 位）。它可以通过 .NET Core、Xamarin、Mono 或通过经典的 .NET Framework 集成到您的 .NET 基础结构中。
 
@@ -64,7 +64,7 @@ Aspose.CAD for .NET 是一个无缝集成的跨平台库； AutoCAD 和其他 CA
 **CAD 数据交换：** IGES\
 **3D 打印：** STL\
 **基于矢量的绘图仪：** PLT\
-**3D 封装设计** CFF2\
+**3D 封装设计** CF2\
 **3D 几何：** OBJ
 
 ### 支持的读写 CAD 格式

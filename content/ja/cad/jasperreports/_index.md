@@ -19,7 +19,7 @@ weight:  3
 
 {{< Common/h3 text="Aspose.CAD をダウンロードして JasperReports® 内で CAD 図面をレンダリング"  >}}
 {{< Common/paragraph class="package-instructions">}}
-AutoCAD やその他の CAD ソフトウェアを必要とせずに、JasperReports の機能を拡張して CAD 図面を処理およびレンダリングするためのスタンドアロン クラス ライブラリ。 CAD クラス ライブラリを使用すると、DWG、DWT、DWF、DWFX、IFC、PLT、DGN、OBJ、STL、IGES、CFF2 ファイル、レイアウト、およびレイヤーを PDF およびラスター イメージ形式に高品質で変換できます。
+AutoCAD やその他の CAD ソフトウェアを必要とせずに、JasperReports の機能を拡張して CAD 図面を処理およびレンダリングするためのスタンドアロン クラス ライブラリ。 CAD クラス ライブラリを使用すると、DWG、DWT、DWF、DWFX、IFC、PLT、DGN、OBJ、STL、IGES、CF2 ファイル、レイアウト、およびレイヤーを PDF およびラスター イメージ形式に高品質で変換できます。
 Java 用の aspose-cad-jasperreports を直接簡単に使用できます。
 {{< Common/link href="https://repository.aspose.com/cad/" text="メイヴン"  >}}pom.xml に次の構成を追加することにより、ベースのプロジェクト。
 

@@ -4,7 +4,7 @@ description: "Download C# class library DLL to render, edit, report, & convert A
 keywords: "CAD .NET Library, AutoCAD .NET API"
 linktitle: "Aspose.CAD for .NET"
 family_listing_page_title: "Aspose.CAD for .NET"
-family_listing_page_description: "Aspose.CAD for .NET allows developers to convert AutoCAD DWG and DXF and DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, FBX, CF2, CFF2, OBJ and other CAD formats files to PDF, SVG, WMF and Raster images. It is a native API and does not require AutoCAD or any other software to be installed."
+family_listing_page_description: "Aspose.CAD for .NET allows developers to convert AutoCAD DWG and DXF and DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, FBX, CF2, CF2, OBJ and other CAD formats files to PDF, SVG, WMF and Raster images. It is a native API and does not require AutoCAD or any other software to be installed."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -39,7 +39,7 @@ Aspose.CAD for .NET is a standalone class library to enhance ASP.NET & Windows a
 
 Aspose.CAD for .NET is a cross-platform library that seamlessly integrates; rendering, editing, reporting, and conversion capabilities for AutoCAD, and other CAD & BIM drawings into your own .NET Apps, without the need to install any 3rd party software.
 
-It enables your C#, VB.NET, ASP.NET applications to work with plain plots, 3D solids, wired models, basic cube positions, 3D faces, surfaces, and meshes within DWG, DXF, DWF, and DGN file formats. Other supported formats include IFC, IGES, STL, DWT, PLT, DWFx, CFF2, and OBJ which can be exported to a variety of vector formats, such as; SVG, WMF, PDF as well as raster image formats (BMP, JP2, GIF, PSD, JPEG, TIF, PNG, etc.). You can also convert AutoCAD files to high-quality PDF, other vector formats, or raster images while tracking the file conversion process. Aspose.CAD for .NET also allows developers to select and convert specific layouts and layers.
+It enables your C#, VB.NET, ASP.NET applications to work with plain plots, 3D solids, wired models, basic cube positions, 3D faces, surfaces, and meshes within DWG, DXF, DWF, and DGN file formats. Other supported formats include IFC, IGES, STL, DWT, PLT, DWFx, CF2, and OBJ which can be exported to a variety of vector formats, such as; SVG, WMF, PDF as well as raster image formats (BMP, JP2, GIF, PSD, JPEG, TIF, PNG, etc.). You can also convert AutoCAD files to high-quality PDF, other vector formats, or raster images while tracking the file conversion process. Aspose.CAD for .NET also allows developers to select and convert specific layouts and layers.
 
 > Aspose.CAD for .NET supports Windows, Linux, Android, and iOS operating systems (32-bit and 64-bit). It could be integrated into your .NET infrastructure with .NET Core, Xamarin, Mono, or via classic .NET Framework.
 

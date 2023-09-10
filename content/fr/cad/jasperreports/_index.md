@@ -19,7 +19,7 @@ weight:  3
 
 {{< Common/h3 text="Téléchargez Aspose.CAD pour rendre les dessins CAO dans JasperReports®"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Une bibliothèque de classes autonome pour étendre les fonctionnalités de JasperReports afin de traiter et de rendre des dessins CAO sans nécessiter AutoCAD ou tout autre logiciel de CAO. La bibliothèque de classes CAO permet une conversion de haute qualité des fichiers, mises en page et calques DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CFF2 aux formats d'image PDF et raster.
+Une bibliothèque de classes autonome pour étendre les fonctionnalités de JasperReports afin de traiter et de rendre des dessins CAO sans nécessiter AutoCAD ou tout autre logiciel de CAO. La bibliothèque de classes CAO permet une conversion de haute qualité des fichiers, mises en page et calques DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CF2 aux formats d'image PDF et raster.
 Vous pouvez facilement utiliser aspose-cad-jasperreports pour Java directement à partir d'un
 {{< Common/link href="https://repository.aspose.com/cad/" text="Maven"  >}}projet basé en ajoutant les configurations suivantes au fichier pom.xml.
 

@@ -19,7 +19,7 @@ weight:  3
 
 {{< Common/h3 text="下载 Aspose.CAD 以在 JasperReports® 中渲染 CAD 绘图"  >}}
 {{< Common/paragraph class="package-instructions">}}
-一个独立的类库，用于扩展 JasperReports 功能以处理和渲染 CAD 绘图，而无需 AutoCAD 或任何其他 CAD 软件。 CAD 类库允许将 DWG、DWT、DWF、DWFX、IFC、PLT、DGN、OBJ、STL、IGES、CFF2 文件、布局和图层高质量转换为 PDF 和光栅图像格式。
+一个独立的类库，用于扩展 JasperReports 功能以处理和渲染 CAD 绘图，而无需 AutoCAD 或任何其他 CAD 软件。 CAD 类库允许将 DWG、DWT、DWF、DWFX、IFC、PLT、DGN、OBJ、STL、IGES、CF2 文件、布局和图层高质量转换为 PDF 和光栅图像格式。
 您可以直接从
 {{< Common/link href="https://repository.aspose.com/cad/" text="马文"  >}}通过向 pom.xml 添加以下配置来基于项目。
 

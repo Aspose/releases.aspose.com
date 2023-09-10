@@ -19,7 +19,7 @@ weight:  3
 
 {{< Common/h3 text="Unduh Aspose.CAD untuk Membuat gambar CAD dalam JasperReports®"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Pustaka kelas mandiri untuk memperluas fungsionalitas JasperReports untuk memproses & merender Gambar CAD tanpa memerlukan AutoCAD atau perangkat lunak CAD lainnya. Perpustakaan Kelas CAD memungkinkan konversi kualitas tinggi DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, file CFF2, tata letak dan lapisan ke format gambar PDF & raster.
+Pustaka kelas mandiri untuk memperluas fungsionalitas JasperReports untuk memproses & merender Gambar CAD tanpa memerlukan AutoCAD atau perangkat lunak CAD lainnya. Perpustakaan Kelas CAD memungkinkan konversi kualitas tinggi DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, file CF2, tata letak dan lapisan ke format gambar PDF & raster.
 Anda dapat dengan mudah menggunakan aspose-cad-jasperreports untuk Java langsung dari a
 {{< Common/link href="https://repository.aspose.com/cad/" text="Maven"  >}}berdasarkan proyek dengan menambahkan konfigurasi berikut ke pom.xml.
 

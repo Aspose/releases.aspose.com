@@ -3,7 +3,7 @@ title: "Laden Sie die C#-Bibliothek herunter, um CAD-Dateien zu zeichnen und zu 
 description: "Laden Sie die DLL der C#-Klassenbibliothek herunter, um AutoCAD®, CAD, BIM in PDF- und Bildformate über die API zu rendern, zu bearbeiten, zu melden und zu konvertieren. Wählen Sie bestimmte Layouts und Ebenen aus und konvertieren Sie sie."
 keywords: "CAD .NET Library, AutoCAD .NET API"
 family_listing_page_title: "Aspose.CAD für .NET"
-family_listing_page_description: "Aspose.CAD für .NET ermöglicht Entwicklern die Konvertierung von AutoCAD DWG und DXF sowie DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, FBX, CF2, CFF2, OBJ und anderen CAD-Dateien in PDF, SVG, WMF und Rasterbilder. Es ist eine native API und erfordert keine Installation von AutoCAD oder anderer Software."
+family_listing_page_description: "Aspose.CAD für .NET ermöglicht Entwicklern die Konvertierung von AutoCAD DWG und DXF sowie DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, FBX, CF2, CF2, OBJ und anderen CAD-Dateien in PDF, SVG, WMF und Rasterbilder. Es ist eine native API und erfordert keine Installation von AutoCAD oder anderer Software."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -40,7 +40,7 @@ Aspose.CAD für .NET ist eine eigenständige Klassenbibliothek zur Verbesserung 
 
 Aspose.CAD für .NET ist eine plattformübergreifende Bibliothek, die sich nahtlos integriert; Rendering-, Bearbeitungs-, Berichterstellungs- und Konvertierungsfunktionen für AutoCAD und andere CAD- und BIM-Zeichnungen in Ihre eigenen .NET-Apps, ohne dass Software von Drittanbietern installiert werden muss.
 
-Es ermöglicht Ihren C#-, VB.NET- und ASP.NET-Anwendungen, mit einfachen Diagrammen, 3D-Volumenkörpern, verdrahteten Modellen, einfachen Würfelpositionen, 3D-Flächen, Oberflächen und Netzen in den Dateiformaten DWG, DXF, DWF und DGN zu arbeiten. Weitere unterstützte Formate sind IFC, IGES, STL, DWT, PLT, DWFx, CFF2 und OBJ, die in eine Vielzahl von Vektorformaten exportiert werden können, z. SVG, WMF, PDF sowie Rasterbildformate (BMP, JP2, GIF, PSD, JPEG, TIF, PNG etc.). Sie können AutoCAD-Dateien auch in hochwertige PDF-Dateien, andere Vektorformate oder Rasterbilder konvertieren, während Sie den Dateikonvertierungsprozess verfolgen. Aspose.CAD für .NET ermöglicht es Entwicklern auch, bestimmte Layouts und Ebenen auszuwählen und zu konvertieren.
+Es ermöglicht Ihren C#-, VB.NET- und ASP.NET-Anwendungen, mit einfachen Diagrammen, 3D-Volumenkörpern, verdrahteten Modellen, einfachen Würfelpositionen, 3D-Flächen, Oberflächen und Netzen in den Dateiformaten DWG, DXF, DWF und DGN zu arbeiten. Weitere unterstützte Formate sind IFC, IGES, STL, DWT, PLT, DWFx, CF2 und OBJ, die in eine Vielzahl von Vektorformaten exportiert werden können, z. SVG, WMF, PDF sowie Rasterbildformate (BMP, JP2, GIF, PSD, JPEG, TIF, PNG etc.). Sie können AutoCAD-Dateien auch in hochwertige PDF-Dateien, andere Vektorformate oder Rasterbilder konvertieren, während Sie den Dateikonvertierungsprozess verfolgen. Aspose.CAD für .NET ermöglicht es Entwicklern auch, bestimmte Layouts und Ebenen auszuwählen und zu konvertieren.
 
 > Aspose.CAD für .NET unterstützt Windows-, Linux-, Android- und iOS-Betriebssysteme (32-Bit und 64-Bit). Es kann mit .NET Core, Xamarin, Mono oder über das klassische .NET Framework in Ihre .NET-Infrastruktur integriert werden.
 
@@ -64,7 +64,7 @@ Es ermöglicht Ihren C#-, VB.NET- und ASP.NET-Anwendungen, mit einfachen Diagram
 **CAD-Datenaustausch:** IGES\
 **3D-Druck:** STL\
 **Vektorbasierter Plotter:** PLT\
-**3D-Verpackungsdesign** CFF2\
+**3D-Verpackungsdesign** CF2\
 **3D-Geometrie:** OBJ
 
 ### Unterstützte CAD-Formate zum Lesen und Schreiben

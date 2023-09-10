@@ -19,7 +19,7 @@ weight:  3
 
 {{< Common/h3 text="Laden Sie Aspose.CAD herunter, um CAD-Zeichnungen in JasperReports® zu rendern"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Eine eigenständige Klassenbibliothek zur Erweiterung der JasperReports-Funktionalität zum Verarbeiten und Rendern von CAD-Zeichnungen, ohne dass AutoCAD oder andere CAD-Software erforderlich ist. Die CAD-Klassenbibliothek ermöglicht die hochwertige Konvertierung von DWG-, DWT-, DWF-, DWFX-, IFC-, PLT-, DGN-, OBJ-, STL-, IGES-, CFF2-Dateien, Layouts und Ebenen in PDF- und Rasterbildformate.
+Eine eigenständige Klassenbibliothek zur Erweiterung der JasperReports-Funktionalität zum Verarbeiten und Rendern von CAD-Zeichnungen, ohne dass AutoCAD oder andere CAD-Software erforderlich ist. Die CAD-Klassenbibliothek ermöglicht die hochwertige Konvertierung von DWG-, DWT-, DWF-, DWFX-, IFC-, PLT-, DGN-, OBJ-, STL-, IGES-, CF2-Dateien, Layouts und Ebenen in PDF- und Rasterbildformate.
 Sie können aspose-cad-jasperreports für Java direkt aus a verwenden
 {{< Common/link href="https://repository.aspose.com/cad/" text="Maven"  >}}basierte Projekt durch Hinzufügen der folgenden Konfigurationen zur pom.xml.
 

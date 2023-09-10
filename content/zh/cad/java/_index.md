@@ -22,7 +22,7 @@ keywords:
 - PLT
 - DWF
 - DWFx
-- CFF2
+- CF2
 - OBJ
 - PDF
 - TIFF
@@ -55,7 +55,7 @@ keywords:
 - 3D faces
 - Unix
 family_listing_page_title: "aspose.cad for Java" 
-family_listing_page_description: "Java的Aspose.CAD允许开发人员将AutoCAD DWG和DXF和DGN，DWF，DWF，DWFX，IFC，IGS，IGS，IGES，STL，DWT，CF2，CFF2，CFF2，OBJ FILES转换为PDF，SVG，WMF，WMF和RASTER图像。它是本机API，不需要AutoCAD或任何其他软件要安装。" 
+family_listing_page_description: "Java的Aspose.CAD允许开发人员将AutoCAD DWG和DXF和DGN，DWF，DWF，DWFX，IFC，IGS，IGS，IGES，STL，DWT，CF2，CF2，CF2，OBJ FILES转换为PDF，SVG，WMF，WMF和RASTER图像。它是本机API，不需要AutoCAD或任何其他软件要安装。" 
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -136,7 +136,7 @@ packages_refs:
 ** AutoCAD：** DWG，DWT，DWF，DWXF，IFC，PLT \
 ** microstation：** dgn \
 **高级可视化器：** obj \ \
-**其他：** stl，iges，cff2
+**其他：** stl，iges，CF2
 
 ## 将CAD保存为
 **固定布局：** pdf \

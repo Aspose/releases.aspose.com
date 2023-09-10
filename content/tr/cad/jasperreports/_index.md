@@ -19,7 +19,7 @@ weight:  3
 
 {{< Common/h3 text="CAD çizimlerini JasperReports® içinde oluşturmak için Aspose.CAD'i indirin"  >}}
 {{< Common/paragraph class="package-instructions">}}
-AutoCAD veya başka bir CAD yazılımı gerektirmeden CAD Çizimlerini işlemek ve işlemek için JasperReports işlevselliğini genişletmek için bağımsız bir sınıf kitaplığı. CAD Sınıf Kitaplığı, DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CFF2 dosyalarının, düzenlerin ve katmanların PDF ve raster görüntü biçimlerine yüksek kalitede dönüştürülmesine olanak tanır.
+AutoCAD veya başka bir CAD yazılımı gerektirmeden CAD Çizimlerini işlemek ve işlemek için JasperReports işlevselliğini genişletmek için bağımsız bir sınıf kitaplığı. CAD Sınıf Kitaplığı, DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CF2 dosyalarının, düzenlerin ve katmanların PDF ve raster görüntü biçimlerine yüksek kalitede dönüştürülmesine olanak tanır.
 aspose-cad-jasperreports for Java'yı doğrudan bir
 {{< Common/link href="https://repository.aspose.com/cad/" text="Uzman"  >}}pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek proje tabanlı.
 

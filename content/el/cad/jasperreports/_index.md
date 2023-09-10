@@ -19,7 +19,7 @@ weight:  3
 
 {{< Common/h3 text="Κάντε λήψη του Aspose.CAD για απόδοση σχεδίων CAD στο JasperReports®"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Μια αυτόνομη βιβλιοθήκη κλάσης για επέκταση της λειτουργικότητας του JasperReports για επεξεργασία και απόδοση Σχεδίων CAD χωρίς να απαιτείται AutoCAD ή οποιοδήποτε άλλο λογισμικό CAD. Η Βιβλιοθήκη CAD Class επιτρέπει τη μετατροπή υψηλής ποιότητας αρχείων DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CFF2, διατάξεων και επιπέδων σε μορφές εικόνας PDF και ράστερ.
+Μια αυτόνομη βιβλιοθήκη κλάσης για επέκταση της λειτουργικότητας του JasperReports για επεξεργασία και απόδοση Σχεδίων CAD χωρίς να απαιτείται AutoCAD ή οποιοδήποτε άλλο λογισμικό CAD. Η Βιβλιοθήκη CAD Class επιτρέπει τη μετατροπή υψηλής ποιότητας αρχείων DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CF2, διατάξεων και επιπέδων σε μορφές εικόνας PDF και ράστερ.
 Μπορείτε εύκολα να χρησιμοποιήσετε aspose-cad-jasperreports για Java απευθείας από το a
 {{< Common/link href="https://repository.aspose.com/cad/" text="Maven"  >}}βασισμένο έργο προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
