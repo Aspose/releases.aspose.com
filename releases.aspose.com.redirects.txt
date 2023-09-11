@@ -62,3 +62,4 @@ rewrite ^/barcode/jasperreports//aspose.barcode-for-jasperreports-22.10/.* https
 rewrite ^/psd/ai/$ https://releases.aspose.com/psd/ permanent;
 rewrite (.*)/corporate/success-stories/.* https://library.conholdate.app$1/org/Aspose permanent;
 rewrite (.*)/corporate/success-stories$ https://library.conholdate.app$1/org/Aspose permanent;
+rewrite /tr/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.0-linux-x86-x64/$ https://releases.aspose.com/tr/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.1-linux-x86-x64/ permanent;
