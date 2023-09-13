@@ -7,55 +7,61 @@ type: repository
 categories:
   - fundamentals
 keywords:
-- Aspose Total
-- Aspose CAD
-- Aspose Java API
-- cad java library
-- cad java class
-- DWG
-- DXF
-- DGN
-- IFC
-- IGES
-- STL
-- DWT
-- PLT
-- DWF
-- DWFx
-- CF2
-- OBJ
-- PDF
-- TIFF
-- JPEG
-- PNG
-- GIF
-- BMP
-- Maven
-- Windows
-- Linux
-- Mac
-- J2SE
-- drawing
-- cad drawing
-- raster image
-- export 3D
-- autocad
-- cad layout
-- mesh model
-- ATTRIB
-- MTEXT
-- 3D solids
-- conic
-- sphere
-- torus
-- cylinder
-- box
-- wedge
-- wired models
-- 3D faces
-- Unix
+  - Aspose Total
+  - Aspose CAD
+  - Aspose Java API
+  - cad java library
+  - cad java class
+  - DWG
+  - DXF
+  - DXB
+  - DWT
+  - DGN
+  - IFC
+  - IGES
+  - STL
+  - DWT
+  - PLT
+  - DWF
+  - DWFx
+  - DAE
+  - CF2
+  - OBJ
+  - 3DS
+  - U3D
+  - PDF
+  - TIFF
+  - JPEG
+  - PNG
+  - GIF
+  - BMP
+  - PSD
+  - Maven
+  - Windows
+  - Linux
+  - Mac
+  - J2SE
+  - drawing
+  - cad drawing
+  - raster image
+  - export 3D
+  - autocad
+  - cad layout
+  - mesh model
+  - ATTRIB
+  - MTEXT
+  - 3D solids
+  - conic
+  - sphere
+  - torus
+  - cylinder
+  - box
+  - wedge
+  - wired models
+  - 3D faces
+  - Unix
 family_listing_page_title: "Aspose.CAD for Java"
-family_listing_page_description: "Aspose.CAD for Java allows developers to convert AutoCAD DWG and DXF and DGN, DWF, DWFX, IFC, IGS, IGES, STL, DWT, CF2, CF2, OBJ  files to PDF, SVG, WMF and Raster images. It is a native API and does not require AutoCAD or any other software to be installed."
+family_listing_page_description: "Aspose.CAD for Java allows developers to convert CAD and BIM drawings like DWG, DXF, DGN, DWF, DWFx, Collada(DAE), IFC, IGS, IGES, STL, DWT, CF2, CF2, OBJ  files to PDF, SVG, WMF and Raster images. It is a native API and does not require AutoCAD or any other software to be installed."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -63,7 +69,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "11"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-cad/"
-tags: ["Aspose Total", "Aspose CAD", "Aspose Java API", "cad java library", "cad java class", "DWG", "DXF", "DGN", "IFC", "IGES", "STL", "DWT", "PLT", "DWF", "DWFx", "CF2", "OBJ", "PDF", "TIFF", "JPEG", "PNG", "GIF", "BMP", "Maven", "Windows", "Linux", "Mac", "J2SE", "drawing", "cad drawing", "raster image", "export 3D", "autocad", "cad layout", "mesh model", "ATTRIB", "MTEXT", "3D solids", "conic", "sphere", "torus", "cylinder", "box", "wedge", "wired models", "3D faces", "Unix"]
+tags: ["Aspose Total", "Aspose CAD", "Aspose Java API", "cad java library", "cad java class", "DWG", "DXF", "DAE", "DGN", "IFC", "IGES", "STL", "DWT", "PLT", "DWF", "DWFx", "CF2", "OBJ", "U3D", "3DS", "PDF", "TIFF", "JPEG", "PNG", "GIF", "BMP", "Maven", "Windows", "Linux", "Mac", "J2SE", "drawing", "cad drawing", "raster image", "export 3D", "autocad", "cad layout", "mesh model", "ATTRIB", "MTEXT", "3D solids", "conic", "sphere", "torus", "cylinder", "box", "wedge", "wired models", "3D faces", "Unix"]
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/cad/19
 productLink: https://products.aspose.com/cad/java/
@@ -84,45 +90,45 @@ packages_refs:
 - "22-5"
 - "22-4"
 - "22-3"
-- "1-0"
-- "1-1-0"
-- "16-12"
-- "16-12-1"
-- "17-02"
-- "17-12"
-- "17-4"
-- "17-9"
-- "18-12"
-- "18-3"
-- "18-8"
-- "19-2"
-- "19-5"
-- "19-7"
-- "19-9"
-- "20-1"
-- "20-10"
-- "20-11"
-- "20-12"
-- "20-3"
-- "20-4"
-- "20-6"
-- "20-7"
-- "20-8"
-- "20-9"
-- "21-1"
-- "21-10"
-- "21-11"
-- "21-12"
-- "21-2"
-- "21-3"
-- "21-4"
-- "21-5"
-- "21-6"
-- "21-7"
-- "21-8"
-- "21-9"
-- "22-1"
 - "22-2"
+- "22-1"
+- "21-12"
+- "21-11"
+- "21-10"
+- "21-9"
+- "21-8"
+- "21-7"
+- "21-6"
+- "21-5"
+- "21-4"
+- "21-3"
+- "21-2"
+- "21-1"
+- "20-12"
+- "20-11"
+- "20-10"
+- "20-9"
+- "20-8"
+- "20-7"
+- "20-6"
+- "20-4"
+- "20-3"
+- "20-1"
+- "19-9"
+- "19-7"
+- "19-5"
+- "19-2"
+- "18-12"
+- "18-8"
+- "18-3"
+- "17-12"
+- "17-9"
+- "17-4"
+- "17-02"
+- "16-12-1"
+- "16-12"
+- "1-1-0"
+- "1-0"
 ---
 
 # CAD File Conversion API for Java

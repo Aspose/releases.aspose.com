@@ -21,9 +21,9 @@ This page contains release notes for [Aspose.CAD for Java 20.1](https://releases
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|CADJAVA-600|[Support for conversion of DWG to DWF](/cad/java/convert-dwg-to-dwf/)|Feature|
-|CADJAVA-598|[Support for OBJ format](/cad/java/working-with-obj-file-format/)|Feature|
-|CADJAVA-537|[Read hyperlinks and OLE object links section](/cad/java/working-with-hyperlinks/)|Feature|
+|CADJAVA-600|[Support for conversion of DWG to DWF](https://docs.aspose.com/cad/java/convert-dwg-to-dwf/)|Feature|
+|CADJAVA-598|[Support for OBJ format](https://docs.aspose.com/cad/java/working-with-obj-file-format/)|Feature|
+|CADJAVA-537|[Read hyperlinks and OLE object links section](https://docs.aspose.com/cad/java/working-with-hyperlinks/)|Feature|
 |CADJAVA-596|DWG drawings take a long time to convert to PDF|Enhancement|
 |CADJAVA-595|Last Author metadata information failed to get extracted|Enhancement|
 |CADJAVA-587|Text Color problem in exported PDF|Enhancement|

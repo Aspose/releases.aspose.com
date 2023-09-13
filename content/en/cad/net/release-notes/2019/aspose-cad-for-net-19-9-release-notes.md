@@ -21,14 +21,14 @@ This page contains release notes for [Aspose.CAD for .NET 19.9](https://www.nuge
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|CADNET-828|[Parse OLE objects for DWG](/cad/net/managing-ole-objects/)|Feature|
-|CADNET-23|[Manipulate hyperlinks in AutoCAD drawings](/cad/net/working-with-hyperlinks/)|Feature|
+|CADNET-828|[Parse OLE objects for DWG](https://docs.aspose.com/cad/net/managing-ole-objects/)|Feature|
+|CADNET-23|[Manipulate hyperlinks in AutoCAD drawings](https://docs.aspose.com/cad/net/working-with-hyperlinks/)|Feature|
 |CADNET-41|Implement rendering of united 3D solids from simple objects|Feature|
 |CADNET-822|Merge DXF file|Feature|
-|CADNET-799|[Support of CF2 Files](/cad/net/CF2-drawings/)|Feature|
-|CADNET-626|[Support for creating a Single PDF with Different Layout Sizes](/cad/net/dwg-drawings/#create-single-pdf-with-different-layout-sizes)|Feature|
+|CADNET-799|[Support of CF2 Files](https://docs.aspose.com/cad/net/CF2-drawings/)|Feature|
+|CADNET-626|[Support for creating a Single PDF with Different Layout Sizes](https://docs.aspose.com/cad/net/dwg-drawings/#create-single-pdf-with-different-layout-sizes)|Feature|
 |CADNET-815|Implement Zoom property|Feature|
-|CADNET-116|[Support of Watermarks](/cad/net/working-with-watermark/)|Feature|
+|CADNET-116|[Support of Watermarks](https://docs.aspose.com/cad/net/working-with-watermark/)|Feature|
 |CADNET-786|Implement fast rendering|Feature|
 |CADNET-12|Parse annotation scale for DWG files|Feature|
 |CADNET-952|Blank page generated from DXF to PNG|Bug|

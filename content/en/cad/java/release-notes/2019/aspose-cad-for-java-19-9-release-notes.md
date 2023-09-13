@@ -23,10 +23,10 @@ This page contains release notes for [Aspose.CAD for Java 19.9](https://reposito
 | :- | :- | :- |
 |CADJAVA-543|Merge DXF file|Feature|
 |CADJAVA-545|Implement Zoom property|Feature|
-|CADJAVA-546|[Support of CF2 Files](/cad/java/CF2-drawings/)|Feature|
+|CADJAVA-546|[Support of CF2 Files](https://docs.aspose.com/cad/net/cf2-drawings/)|Feature|
 |CADJAVA-549|Implement fast rendering|Feature|
-|CADJAVA-551|[Support for creating a Single PDF with Different Layout Sizes](/cad/java/dwg-drawings/#dwgdrawings-createsinglepdfwithdifferentlayoutsizes)|Feature|
-|CADJAVA-555|[Support of Watermarks](/cad/java/working-with-watermark/)|Feature|
+|CADJAVA-551|[Support for creating a Single PDF with Different Layout Sizes](https://docs.aspose.com/cad/java/dwg-drawings/#dwgdrawings-createsinglepdfwithdifferentlayoutsizes)|Feature|
+|CADJAVA-555|[Support of Watermarks](https://docs.aspose.com/cad/java/working-with-watermark/)|Feature|
 |CADJAVA-557|Implement rendering of united 3D solids from simple objects|Feature|
 |CADJAVA-465|Aspose.CAD is not FIPS 186-4 compliant|Investigation|
 |CADJAVA-501|DWG not properly converted to PDF|Bug|

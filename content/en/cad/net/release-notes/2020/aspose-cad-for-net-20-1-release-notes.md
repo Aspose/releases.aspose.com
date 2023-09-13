@@ -21,9 +21,9 @@ This page contains release notes for [Aspose.CAD for .NET 20.1](https://www.nuge
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|CADNET-769|[Support for OBJ format](/cad/net/working-with-obj-file-format/)|Feature|
-|CADNET-697|[Support for conversion of DWG to DWF](/cad/net/convert-dwg-to-dwf/)|Feature|
-|CADNET-23|[Ability to manipulate hyperlinks in AutoCAD drawings](/cad/net/working-with-hyperlinks/)|Feature|
+|CADNET-769|[Support for OBJ format](https://docs.aspose.com/cad/net/working-with-obj-file-format/)|Feature|
+|CADNET-697|[Support for conversion of DWG to DWF](https://docs.aspose.com/cad/net/convert-dwg-to-dwf/)|Feature|
+|CADNET-23|[Ability to manipulate hyperlinks in AutoCAD drawings](https://docs.aspose.com/cad/net/working-with-hyperlinks/)|Feature|
 |CADNET-842|Read hyperlinks and OLE object links section|Feature|
 |CADNET-971|Text Color problem in exported PDF|Enhancement|
 |CADNET-839|Last Author metadata information failed to get extracted|Enhancement|
