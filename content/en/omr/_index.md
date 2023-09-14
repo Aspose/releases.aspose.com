@@ -2,6 +2,7 @@
 title: "APIs for Optical Mark Recognition | Aspose.OMR Product Family"
 description: "Download on-premise libraries to process questionnaires, surveys, MCQs with high accuracy and get result in CSV format. Package also contains visual template editor. "
 keywords: "OMR API "
+linktitle: "Aspose.OMR Product Family"
 family_listing_page_title: "Aspose.OMR Product Family"
 family_listing_page_description: ""
 family_listing_page_iconurl: ""
