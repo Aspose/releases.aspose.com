@@ -48,7 +48,7 @@ weight: 02	#rem
 tags: ["Aspose Total", "Aspose OMR", "Aspose Java API", "omr java library", "omr java class", "JPEG", "PNG", "GIF", "TIFF", "BMP", "CSV", "JSON", "XML", "image recognition", "image perspective", "test", "exam", "questionnaire", "survey", "J2SE", "Windows", "Linux", "Mac", "Azure", "Maven", "optical mark recognition", "extract marks", "marks extraction"]
 forumLink: https://forum.aspose.com/c/omr/38
 productLink: https://products.aspose.com/omr/java/
-releaseNotesLink: https://docs.aspose.com/omr/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/omr/java/release-notes/
 dataFolder: aspose_omr
 packages_refs:
 - "19-12"
