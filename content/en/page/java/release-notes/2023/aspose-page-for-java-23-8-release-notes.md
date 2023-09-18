@@ -1,4 +1,4 @@
----
+3---
 id: "aspose-page-for-java-23-8-release-notes"
 slug: "aspose-page-for-java-23-8-release-notes"
 linktitle: "Aspose.Page for Java 23.8 Release Notes"
