@@ -64,5 +64,5 @@ rewrite (.*)/corporate/success-stories/.* https://library.conholdate.app$1/org/A
 rewrite (.*)/corporate/success-stories$ https://library.conholdate.app$1/org/Aspose permanent;
 rewrite /ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.0-linux-x86-x64/$ https://releases.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.1-linux-x86-x64/ permanent;
 rewrite /(.*)/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.0-linux-x86-x64/$ https://releases.aspose.com/$1/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.1-linux-x86-x64/ permanent;
-rewrite /(.*)/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.1-windows-x32/$ https://releases.aspose.com/$1/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.1-linux-x86-x64/ permanent;
-rewrite /ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.1-windows-x32/$ https://releases.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.1-windows-x32/
+rewrite /(.*)/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.1-windows-x32/$ https://releases.aspose.com/$1/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.1-windows-x32/ permanent;
+rewrite /ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.1-windows-x32/$ https://releases.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.1-windows-x32/;
