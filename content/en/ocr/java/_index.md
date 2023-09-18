@@ -55,7 +55,7 @@ homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-ocr/"
 forumLink: https://forum.aspose.com/c/ocr/16
 productLink: https://products.aspose.com/ocr/java/
-releaseNotesLink: https://docs.aspose.com/ocr/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/ocr/java/release-notes/
 tags: ["Aspose Total", "Aspose OCR", "Aspose Java API", "ocr java library", "ocr java class", "Maven", "JPEG", "PNG", "GIF", "BMP", "TIFF", "TXT", "DOCX", "PDF", "Windows", "Linux", "Mac", "J2SE", "JSON", "optical character recognition", "OCR", "recognize text", "recognize image", "spell correction", "spell check", "skew correction", "image correction", "recognize pdf", "recognize tiff", "searchable pdf", "searchable docx", "multi lang ocr", "recognize multi image", "multi threading", "image detection", "text detection"]
 dataFolder: aspose_ocr
 packages_refs:
