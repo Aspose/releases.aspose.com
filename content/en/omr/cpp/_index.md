@@ -1,7 +1,7 @@
 ---
 title: "Download Optical Mark Recognition C++ DLL | Aspose.OMR API"
 linktitle: "Aspose.OMR for С++"
-description: "Download C++ Class Library DLL to recognize, detect, read & extract human-marked data from scanned images, photos & documents via C++ API. Export result in CSV."
+description: "Download C++ Class Library DLL to recognize, detect, read & extract human-marked data from scanned images, photos & documents via C++ API. Export result in CSV"
 keywords: "OMR C++ API"
 family_listing_page_title: "Aspose.OMR for С++"
 family_listing_page_description: "Aspose.OMR for С++ is a simple to use API that allows developers to perform OMR operation on images. Aspose.OMR can perform OMR operation on JPEG, PNG, GIF, TIFF, and BMP image files and save the output in CSV format."
