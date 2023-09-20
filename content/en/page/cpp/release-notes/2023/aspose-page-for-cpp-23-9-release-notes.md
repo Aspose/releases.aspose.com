@@ -38,11 +38,11 @@ Field:Aspose::Page::Units::Percents
 
 Method:Aspose::Page::Aspose::Page::EPS::PsDocument::ExtractEpsSize()
 
-Method:Aspose::Page::Aspose::Page::EPS::PsDocument::ResizeEps(System::SharedPtr<System::IO::Stream>, System::Drawing::SizeF, Aspose::Page::Units)
+Method:Aspose::Page::Aspose::Page::EPS::PsDocument::ResizeEps(System::SharedPtr&lt;System::IO::Stream&gt;, System::Drawing::SizeF, Aspose::Page::Units)
 
 Method:Aspose::Page::Aspose::Page::EPS::PsDocument::ExtractEpsBoundingBox()
 
-Method:Aspose::Page::Aspose::Page::EPS::PsDocument::CropEps(System::SharedPtr<System::IO::Stream>, System::ArrayPtr<float>)
+Method:Aspose::Page::Aspose::Page::EPS::PsDocument::CropEps(System::SharedPtr&lt;System::IO::Stream&gt;, System::ArrayPtr<float>)
 
 Property:Aspose::Page::XPS::Presentation::Image::TiffSaveOptions::get_Multipage()
 
