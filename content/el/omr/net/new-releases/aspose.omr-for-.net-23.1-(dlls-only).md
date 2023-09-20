@@ -14,7 +14,7 @@ download_count: " 25/1/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 103.04MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-23-1-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-1-0-release-notes/"
 weight: 110
 
 ---
@@ -38,7 +38,7 @@ weight: 110
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-23-1-0-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-23-1-0-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-1-0-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-1-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Αυτό το αρχείο zip περιέχει μόνο το aspose.omr για τα συγκροτήματα .NET. Τα συγκροτήματα είναι τα ίδια όπως στο πρόγραμμα εγκατάστασης MSI του προϊόντος της ίδιας έκδοσης. Κατεβάστε αυτό εάν θέλετε να χρησιμοποιήσετε το aspose.omr χωρίς το πρόγραμμα εγκατάστασης MSI, δηλαδή δεν μπορείτε να εκτελέσετε τους εγκαταστάτες MSI στο Mono.</div>

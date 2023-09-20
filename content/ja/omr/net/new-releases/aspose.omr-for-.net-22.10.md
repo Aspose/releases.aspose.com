@@ -14,7 +14,7 @@ download_count: " 1/11/2022 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 77.79MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-10-release-notes/"
 weight: 100
 
 ---
@@ -38,7 +38,7 @@ weight: 100
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-22-10-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-22-10-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-10-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">.NET 22.10リリース用のAspose.omrが含まれています</div>

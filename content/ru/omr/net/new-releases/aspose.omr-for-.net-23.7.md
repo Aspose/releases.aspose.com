@@ -14,7 +14,7 @@ download_count: " 7/7/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 132.42MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-23-7-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-7-0-release-notes/"
 weight: 126
 
 ---
@@ -38,7 +38,7 @@ weight: 126
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-23-7-0-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-23-7-0-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-7-0-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-7-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Содержит Aspose.omr для выпуска .NET 23.7</div>

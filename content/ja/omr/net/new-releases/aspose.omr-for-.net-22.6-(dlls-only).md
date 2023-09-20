@@ -14,7 +14,7 @@ download_count: " 21/6/2022 ダウンロードs: 52  Views: 1 "
 file_size: "File Size: 76.47MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-6-release-notes/"
 weight: 93
 
 ---
@@ -38,7 +38,7 @@ weight: 93
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-22-6-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-22-6-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-6-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">このZIPファイルには、.NETアセンブリ用のAsoppes.OMRのみが含まれています。アセンブリは、同じバージョンの製品のMSIインストーラーと同じです。 MSIインストーラーなしでasophes.omrを使用する場合は、これをダウンロードします。つまり、MONOでMSIインストーラーを実行できません。</div>

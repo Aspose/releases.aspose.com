@@ -14,7 +14,7 @@ download_count: " 28/3/2023 下载s: 1  Views: 1 "
 file_size: "File Size: 103.43MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-23-3-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-3-1-release-notes/"
 weight: 116
 
 ---
@@ -38,7 +38,7 @@ weight: 116
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-23-3-1-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-23-3-1-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-3-1-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-3-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">该zip文件仅包含.net组件的aspose.omr。组件与同一版本的产品的MSI安装程序相同。如果您想在没有MSI安装程序的情况下使用Aspose.omr，则下载此下载，即您无法在单声道上运行MSI安装程序。</div>

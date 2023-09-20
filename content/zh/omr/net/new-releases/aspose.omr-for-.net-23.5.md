@@ -14,7 +14,7 @@ download_count: " 23/5/2023 下载s: 1  Views: 1 "
 file_size: "File Size: 105.32MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-23-5-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-5-0-release-notes/"
 weight: 121
 
 ---
@@ -38,7 +38,7 @@ weight: 121
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-23-5-0-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-23-5-0-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-5-0-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-5-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">包含aspose.omr的.net 23.5释放</div>

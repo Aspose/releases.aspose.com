@@ -14,7 +14,7 @@ download_count: " 19/8/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 77.75MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-8-release-notes/"
 weight: 96
 
 ---
@@ -38,7 +38,7 @@ weight: 96
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-22-8-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-22-8-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-8-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Enthält Aspose.OMR für die Version .NET 22.8</div>

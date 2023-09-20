@@ -14,7 +14,7 @@ download_count: " 21/2/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 104.52MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-23-2-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-2-0-release-notes/"
 weight: 112
 
 ---
@@ -38,7 +38,7 @@ weight: 112
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-23-2-0-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-23-2-0-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-2-0-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-2-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Contém aspose.omr para .NET 23.2 Release</div>
