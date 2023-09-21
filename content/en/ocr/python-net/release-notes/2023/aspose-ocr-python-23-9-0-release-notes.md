@@ -2,7 +2,7 @@
 id: "aspose-ocr-python-23-9-0-release-notes"
 slug: "aspose-ocr-python-23-9-0-release-notes"
 linktitle: "Aspose.OCR for Python via .NET 23.9.0 - Release Notes"
-weight: 40
+weight: 45
 date: "2023-09-15"
 author: "Vladimir Lapin"
 type: "repository"
