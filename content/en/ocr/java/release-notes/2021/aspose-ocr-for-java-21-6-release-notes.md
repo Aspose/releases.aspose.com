@@ -3,7 +3,7 @@ id: "aspose-ocr-for-java-21-6-release-notes"
 slug: "aspose-ocr-for-java-21-6-release-notes"
 linktitle: "Aspose.OCR for Java 21.6 - Release Notes"
 title: "Aspose.OCR for Java 21.6 - Release Notes"
-weight: 70
+weight: 65
 description: "Aspose.OCR for Java 21.6 - Release Notes – the latest updates and fixes."
 type: "repository"
 feedback: "OCRJAVA"
@@ -92,15 +92,15 @@ public class App {
         AsposeOCR api = new AsposeOCR();
 
         String img= "D:/img.png";		
-		
+
 		// recognize Chinese text
-        RecognitionSettings settings = new RecognitionSettings();	
+        RecognitionSettings settings = new RecognitionSettings();
 		settings.setLanguage(Language.Chi);		
 		RecognitionResult result = api.RecognizePage(file, settings);
-		
+
 		System.out.println(result.recognitionText);				
 		result.save("testres.txt");
-		
+
 		// get skew from image
 		double angle = api.CalculateSkewFromUri("https://blog.udemy.com/wp-content/uploads/2014/01/cssresult.png");
     }

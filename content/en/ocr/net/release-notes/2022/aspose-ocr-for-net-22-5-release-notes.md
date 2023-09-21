@@ -3,7 +3,7 @@ id: "aspose-ocr-for-net-22-5-release-notes"
 slug: "aspose-ocr-for-net-22-5-release-notes"
 linktitle: "Aspose.OCR for .NET 22.5 - Release Notes"
 title: "Aspose.OCR for .NET 22.5 - Release Notes"
-weight: 127
+weight: 73
 description: "Aspose.OCR for .NET 22.5 - Release Notes – the latest updates and fixes."
 type: "repository"
 feedback: "OCRNET"
@@ -78,7 +78,7 @@ namespace ProgramOCR
             // Create license
             License lic = new License();
 
-            // Set license 
+            // Set license
             lic.SetLicense("Aspose.Total.lic");
 
             // Get image for recognize
@@ -86,7 +86,7 @@ namespace ProgramOCR
 
             // Recognize image without skew correction and areas detection. Uses Latin alphabet. The fastest mode.  
             string result = api.RecognizeImageFast(image);			
-			
+
 			// Print result
 			Console.WriteLine(result);
         }
