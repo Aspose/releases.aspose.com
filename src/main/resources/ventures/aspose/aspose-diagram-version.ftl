@@ -1,5 +1,5 @@
 ---
-title: Aspose.Diagram ${productVersion} | Visio Diagram Java High Code API 
+title: Aspose.Diagram ${productVersion} | Visio Diagram Java High Code API
 description: Java class library to read, write, export, & process Visio diagrams. Supports Visio objects like document, page, master (stencils), shape, stylesheet & connect.
 layout: package
 type: repository
@@ -50,7 +50,7 @@ Aspose.Diagram for Java can also be used to [apply protection to the Microsoft V
 
 ## Get Started
 
-Aspose.Diagram Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/diagram/). You can easily use Aspose.Diagram for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Diagram for Java from Aspose Repository](https://docs.aspose.com/diagram/java/installation/) documentation page.
+Aspose.Diagram Java APIs are hosted at the [Aspose.Diagram Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-diagram/). You can easily use Aspose.Diagram for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Diagram for Java from Aspose Repository](https://docs.aspose.com/diagram/java/installation/) documentation page.
 
 ## Auto-fit Visio Diagram using Java
 

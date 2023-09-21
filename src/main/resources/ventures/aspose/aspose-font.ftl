@@ -99,7 +99,7 @@ TTC, OpenType, CFF, Type1
 
 ## Get Started
 
-Aspose.Font Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/font/). You can easily use Aspose.Font for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/) documentation page.
+Aspose.Font Java APIs are hosted at the [Aspose.Font Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-font/). You can easily use Aspose.Font for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Font for Java from Maven Repository](https://docs.aspose.com/font/java/installation/) documentation page.
 
 ## Detect Latin Symbols Support in the Font using Java
 

@@ -1,5 +1,5 @@
 ---
-title: Aspose.Slides ${productVersion} | PowerPoint Formats Java High Code API 
+title: Aspose.Slides ${productVersion} | PowerPoint Formats Java High Code API
 description: Java library to add support of PowerPoint & OpenOffice presentation formats within your Apps. Work with slides, shapes, charts, objects, controls, & much more.
 layout: package
 type: repository
@@ -20,7 +20,7 @@ publishDate: "${publishDate}"
 Checkout the [product overview](https://docs.aspose.com/slides/java/product-overview/) to know all about Aspose.Slides for Java.
 
 - Load & convert presentations to other formats.
-- Create presentations from scratch. 
+- Create presentations from scratch.
 - Manipulate all of presentation elements via intuitive object model.
 - Create or embed charts.
 - Create or manipulate shapes.
@@ -45,7 +45,7 @@ Checkout the [product overview](https://docs.aspose.com/slides/java/product-over
 
 ## Get Started
 
-Aspose.Slides Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/slides/). You can easily use Aspose.Slides for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Slides for Java from Maven Repository](https://docs.aspose.com/slides/java/installation/) documentation page.
+Aspose.Slides Java APIs are hosted at the [Aspose.Slides Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-slides/). You can easily use Aspose.Slides for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Slides for Java from Maven Repository](https://docs.aspose.com/slides/java/installation/) documentation page.
 
 ## Convert Presentation to PDF
 
@@ -68,25 +68,25 @@ Presentation pres = new Presentation();
 try {
     // get the first slide
     ISlide sld = (ISlide) pres.getSlides().get_Item(0);
-    
+
     // add an AutoShape of Rectangle type
     IAutoShape ashp = sld.getShapes().addAutoShape(ShapeType.Rectangle, 150, 75, 150, 50);
-    
+
     // add ITextFrame to the Rectangle
     ashp.addTextFrame("Hello World");
-    
+
     // change the text color to Black (which is White by default)
     ashp.getTextFrame().getParagraphs().get_Item(0).getPortions().get_Item(0).getPortionFormat().getFillFormat()
             .setFillType(FillType.Solid);
     ashp.getTextFrame().getParagraphs().get_Item(0).getPortions().get_Item(0).getPortionFormat().getFillFormat()
             .getSolidFillColor().setColor(java.awt.Color.BLACK);
-    
+
     // change the line color of the rectangle to White
     ashp.getShapeStyle().getLineColor().setColor(java.awt.Color.WHITE);
-    
+
     // remove any fill formatting in the shape
     ashp.getFillFormat().setFillType(FillType.NoFill);
-    
+
     // save the presentation to disk
     pres.save("output.pptx", SaveFormat.Pptx);
 } finally {

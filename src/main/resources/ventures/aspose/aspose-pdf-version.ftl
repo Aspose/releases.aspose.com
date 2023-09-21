@@ -1,5 +1,5 @@
 ---
-title: Aspose.PDF ${productVersion} | Process Acrobat PDF Files via Java API 
+title: Aspose.PDF ${productVersion} | Process Acrobat PDF Files via Java API
 description: Java library to create, render, compress, & convert PDF. Supports custom fonts, JavaScript, graphs, bookmarks, images, export, annotation, forms, & printing.
 layout: package
 type: repository
@@ -94,7 +94,7 @@ CGM, MHT, PCL, PS, XSLFO, MD
 
 ## Get Started
 
-Aspose.PDF Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/pdf/). You can easily use Aspose.PDF for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.PDF for Java from Aspose Repository](https://docs.aspose.com/pdf/java/installation/) documentation page.
+Aspose.PDF Java APIs are hosted at the [Aspose.PDF Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-pdf/). You can easily use Aspose.PDF for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.PDF for Java from Aspose Repository](https://docs.aspose.com/pdf/java/installation/) documentation page.
 
 ## Extract text from a PDF file using Java
 

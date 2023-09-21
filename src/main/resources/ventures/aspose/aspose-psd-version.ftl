@@ -1,5 +1,5 @@
 ---
-title: Aspose.PSD ${productVersion} | Photoshop Format Manipulation Java API 
+title: Aspose.PSD ${productVersion} | Photoshop Format Manipulation Java API
 description: Java class library to enable your Apps to create, modify & convert Photoshop PSD & PSB formats. Supports image compression, dithering, rendering, & scaling etc.
 layout: package
 type: repository
@@ -45,7 +45,7 @@ publishDate: "${publishDate}"
 
 ## Get Started
 
-Aspose.PSD Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/psd/). You can easily use Aspose.PSD for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/) documentation psd.
+Aspose.PSD Java APIs are hosted at the [Aspose.PSD Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-psd/). You can easily use Aspose.PSD for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.PSD for Java from Maven Repository](https://docs.aspose.com/psd/java/installation/) documentation psd.
 
 ## Create a PSD from Scratch
 

@@ -1,5 +1,5 @@
 ---
-title: Aspose.CAD ${productVersion} | AutoCAD Processing & Conversion Java API 
+title: Aspose.CAD ${productVersion} | AutoCAD Processing & Conversion Java API
 description: Java class library to render, edit, report & convert AutoCAD drawings within your Apps. Supports 3D solids, conic, sphere, torus, cylinder, box, & wedge, etc.
 layout: package
 type: repository
@@ -50,12 +50,12 @@ publishDate: "${publishDate}"
 
 ## Get Started
 
-Aspose.CAD Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/cad/). You can easily use Aspose.BarCode for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.CAD for Java from Maven Repository](https://docs.aspose.com/cad/java/installation/) documentation page.
+Aspose.CAD Java APIs are hosted at the [Aspose.CAD Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-cad/). You can easily use Aspose.BarCode for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.CAD for Java from Maven Repository](https://docs.aspose.com/cad/java/installation/) documentation page.
 
 ## Convert DXF Drawing to PNG Format
 
 ```java
-Image image = Image.load("template.dxf"); 
+Image image = Image.load("template.dxf");
 
 // create an instance of CadRasterizationOptions
 CadRasterizationOptions rasterizationOptions = new CadRasterizationOptions();

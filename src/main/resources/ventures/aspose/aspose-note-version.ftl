@@ -1,5 +1,5 @@
 ---
-title: Aspose.Note ${productVersion} | OneNote Processing Java High Code API 
+title: Aspose.Note ${productVersion} | OneNote Processing Java High Code API
 description: Java class library to load, edit, save, & convert OneNote formats. Supports pages, images, text, tables, attachments, tags, tasks, text styles, and hyperlinks.
 layout: package
 type: repository
@@ -46,7 +46,7 @@ ONETOC2
 
 ## Get Started
 
-Aspose.Note Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/note/). You can easily use Aspose.BarCode for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Note for Java from Maven Repository](https://docs.aspose.com/note/java/installation/) documentation page.
+Aspose.Note Java APIs are hosted at the [Aspose.Note Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-note/). You can easily use Aspose.BarCode for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Note for Java from Maven Repository](https://docs.aspose.com/note/java/installation/) documentation page.
 
 ## Convert OneNote document to PDF with the Default Options using Java
 

@@ -1,5 +1,5 @@
 ---
-title: Aspose.PUB | Electronic Publishing Files Java Class Library 
+title: Aspose.PUB | Electronic Publishing Files Java Class Library
 linktitle: Aspose.PUB
 description: Java library to parse, process and convert Publisher document formats to PDF. Implement the functionality into your own product.
 layout: packages
@@ -61,7 +61,7 @@ ${packages_refs}
 
 ## Get Started
 
-Aspose.PUB Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/pub/). You can easily use Aspose.PUB for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.PUB for Java from Aspose Repository](https://docs.aspose.com/pub/java/installation/) documentation page.
+Aspose.PUB Java APIs are hosted at the [Aspose.PUB Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-pub/). You can easily use Aspose.PUB for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.PUB for Java from Aspose Repository](https://docs.aspose.com/pub/java/installation/) documentation page.
 
 ## Edit Metadata of Microsoft Publisher Files using Java
 

@@ -1,5 +1,5 @@
 ---
-title: Aspose.Cells | Excel Spreadsheet Processing Java Library 
+title: Aspose.Cells | Excel Spreadsheet Processing Java Library
 linktitle: Aspose.Cells
 description: Java library to process, manipulate, & convert Excel & OpenOffice spreadsheets. Supports formula(e), charts, validations, rendering, printing, & encryption.
 layout: packages
@@ -150,7 +150,7 @@ ${packages_refs}
 
 ## Get Started
 
-Aspose.Cells Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/cells/). You can easily use Aspose.Cells for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Cells for Java from Maven Repository](https://docs.aspose.com/cells/java/installation/) documentation page.
+Aspose.Cells Java APIs are hosted at the [Aspose.Cells Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-cells/). You can easily use Aspose.Cells for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Cells for Java from Maven Repository](https://docs.aspose.com/cells/java/installation/) documentation page.
 
 ## Convert Table to Range with Options using Java
 

@@ -1,5 +1,5 @@
 ---
-title: Aspose.OMR | Java Class Library for Digital Marks Extraction 
+title: Aspose.OMR | Java Class Library for Digital Marks Extraction
 linktitle: Aspose.OMR
 description: Java class library for optical marks recognition (OMR). Recognize & extract marks from digitized or scanned images, photos, surveys, exams, & questionnaires.
 layout: packages
@@ -75,7 +75,7 @@ JPEG, PNG, GIF, TIFF, BMP
 
 ## Get Started
 
-Aspose.OMR Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/omr/). You can easily use Aspose.OMR for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.OMR for Java from Maven Repository](https://docs.aspose.com/omr/java/installation/) documentation page.
+Aspose.OMR Java APIs are hosted at the [Aspose.OMR Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-omr/). You can easily use Aspose.OMR for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.OMR for Java from Maven Repository](https://docs.aspose.com/omr/java/installation/) documentation page.
 
 ## Perform OMR operation on Images using Java
 

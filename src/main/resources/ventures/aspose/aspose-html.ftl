@@ -1,5 +1,5 @@
 ---
-title: Aspose.HTML | Java Class Library to Manipulate HTML Files 
+title: Aspose.HTML | Java Class Library to Manipulate HTML Files
 linktitle: Aspose.HTML
 description: Java class library to write, edit, parse, read, translate and convert HTML, XHTML, MHTML, and EPUB formats. Also supports manipulating DOM via JavaScript.
 layout: packages
@@ -95,11 +95,11 @@ Aspose.HTML for Java API works as a headless browser that allows you to [create 
 - **Microsoft Windows:** Windows Desktop & Server (x86, x64)
 - **macOS:** Mac OS X
 - **Linux:** Ubuntu, OpenSUSE, CentOS, and others
-- **Java Versions:** `J2SE 6.0 (1.6)`,`J2SE 7.0 (1.7)`,`J2SE 8.0 (1.8)` 
+- **Java Versions:** `J2SE 6.0 (1.6)`,`J2SE 7.0 (1.7)`,`J2SE 8.0 (1.8)`
 
 ## Get Started
 
-Aspose.HTML Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/html/). You can easily use Aspose.HTML for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.HTML for Java from Aspose Repository](https://docs.aspose.com/html/java/installation/) documentation page.
+Aspose.HTML Java APIs are hosted at the [Aspose.HTML Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-html/). You can easily use Aspose.HTML for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.HTML for Java from Aspose Repository](https://docs.aspose.com/html/java/installation/) documentation page.
 
 ## Load HTML from a Remote Location
 
@@ -148,7 +148,7 @@ mvn -Dtest=Examples_Java_AdvancedUsage_DOMMutationObserver_ObserveHowNodesAreAdd
 ```
 Gradle
 ```
-./gradlew test --tests "com.aspose.html.examples.Examples_Java_AdvancedUsage_DOMMutationObserver_ObserveHowNodesAreAdded" 
+./gradlew test --tests "com.aspose.html.examples.Examples_Java_AdvancedUsage_DOMMutationObserver_ObserveHowNodesAreAdded"
 ```
 ## Execute asynchronously test in Thread
 Maven

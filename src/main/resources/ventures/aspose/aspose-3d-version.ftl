@@ -1,5 +1,5 @@
 ---
-title: Aspose.3D ${productVersion} | Gameware 3D Image CAD Java High Code API 
+title: Aspose.3D ${productVersion} | Gameware 3D Image CAD Java High Code API
 description: Java library to create, read, convert & save 3D formats (e.g. 3DS, 3MF, DAE, DFX, gITF, U3D, etc.). Supports geometries, graphs, skeletons, & morph deformers.
 layout: package
 type: repository
@@ -50,7 +50,7 @@ HTML
 
 ## Get Started
 
-Aspose.3D Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/3d/). You can easily use Aspose.3D for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.3D for Java from Aspose Repository](https://docs.aspose.com/3d/java/installation/) documentation page.
+Aspose.3D Java APIs are hosted at the [Aspose.3D Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-3d/). You can easily use Aspose.3D for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.3D for Java from Aspose Repository](https://docs.aspose.com/3d/java/installation/) documentation page.
 
 ## Perform Linear Extrusion using Java API
 

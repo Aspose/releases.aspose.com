@@ -62,7 +62,7 @@ publishDate: "${publishDate}"
 
 ## Get Started
 
-Aspose.OCR Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/ocr/). You can easily use Aspose.OCR for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.OCR for Java from Maven Repository](https://docs.aspose.com/ocr/java/installation/) documentation page.
+Aspose.OCR Java APIs are hosted at the [Aspose.OCR Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-ocr/). You can easily use Aspose.OCR for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.OCR for Java from Maven Repository](https://docs.aspose.com/ocr/java/installation/) documentation page.
 
 ## Extract Text from Specific Areas on Image
 

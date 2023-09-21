@@ -1,5 +1,5 @@
 ---
-title: Aspose.BarCode | Process 1D, 2D & Postal Barcodes via Java 
+title: Aspose.BarCode | Process 1D, 2D & Postal Barcodes via Java
 linktitle: Aspose.BarCode
 description: Java class library to generate, recognize, & convert barcodes. Supports numeric, alpha-numeric, and 2D barcode symbologies. Customize barcodes in your Java App.
 layout: packages
@@ -183,7 +183,7 @@ ${packages_refs}
 
 ## Get Started
 
-Aspose.BarCode Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/barcode/). You can easily use Aspose.BarCode for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.BarCode for Java from Maven Repository](https://docs.aspose.com/barcode/java/installation/) documentation page.
+Aspose.BarCode Java APIs are hosted at the [Aspose.BarCode Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-barcode/). You can easily use Aspose.BarCode for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.BarCode for Java from Maven Repository](https://docs.aspose.com/barcode/java/installation/) documentation page.
 
 ## Scanning a Barcode from a Picture via Java
 

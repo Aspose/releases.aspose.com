@@ -1,5 +1,5 @@
 ---
-title: Aspose.Email ${productVersion} | Email Processing via Java High Code API 
+title: Aspose.Email ${productVersion} | Email Processing via Java High Code API
 description: Java class library to work with SMTP, MIME, POP3, IMAP, HTTP, electronic mail (email) in PST, MSG, OST, EML, etc. Supports iCalendar, validation, & security.
 layout: package
 type: repository
@@ -43,7 +43,7 @@ publishDate: "${publishDate}"
 
 ## Get Started
 
-Aspose.Email Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/email/). You can easily use Aspose.BarCode for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Email for Java from Maven Repository](https://docs.aspose.com/email/java/installation/) documentation page.
+Aspose.Email Java APIs are hosted at the [Aspose.Email Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-email/). You can easily use Aspose.BarCode for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Email for Java from Maven Repository](https://docs.aspose.com/email/java/installation/) documentation page.
 
 ## Perform IMAP Message Backup Operation using Java
 

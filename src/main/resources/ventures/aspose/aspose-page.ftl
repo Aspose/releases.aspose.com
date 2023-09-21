@@ -1,5 +1,5 @@
 ---
-title: Aspose.Page | Java Class Library for PostScript Processing 
+title: Aspose.Page | Java Class Library for PostScript Processing
 linktitle: Aspose.Page
 description: Java class library to read, create and convert XPS, PS & EPS formats. Supports glyph, image brush, vector, bezier, color brush, transparency, & opacity mask.
 layout: packages
@@ -99,7 +99,7 @@ ${packages_refs}
 - Specify colors in different color spaces including sRGB, scRGB and any space based on ICC profile.
 - Work with multiple documents inside an XPS document.
 - Preserve print tickets in opened XPS document if any.
-- Add default print tickets into new XPS document or an opened one if there’re no tickets in it.
+- Add default print tickets into new XPS document or an opened one if thereï¿½re no tickets in it.
 - Manipulate hyperlinks associated with XPS elements.
 - Manipulate, save and convert XPS outline items.
 
@@ -117,7 +117,7 @@ ${packages_refs}
 
 ## Get Started
 
-Aspose.Page Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/page/). You can easily use Aspose.Page for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/) documentation page.
+Aspose.Page Java APIs are hosted at the [Aspose.Page Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-page/). You can easily use Aspose.Page for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Page for Java from Maven Repository](https://docs.aspose.com/page/java/installation/) documentation page.
 
 ## Add Pages to Existing XPS Document
 

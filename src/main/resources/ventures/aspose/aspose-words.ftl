@@ -1,5 +1,5 @@
 ---
-title: Aspose.Words | Java Library to Process Document Formats 
+title: Aspose.Words | Java Library to Process Document Formats
 linktitle: Aspose.Words
 description: Java library to create, edit, convert, & view Word & OpenOffice documents. Work with text, images, forms, tables, custom XML, SmartArt, OLE, VBA and much more.
 layout: packages
@@ -192,7 +192,7 @@ For a more comprehensive list of features, please visit [Feature Overview](https
 
 ## Get Started
 
-Aspose.Words Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/words/). You can easily use Aspose.Words for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Words for Java from Maven Repository](https://docs.aspose.com/words/java/installation/) documentation page.
+Aspose.Words Java APIs are hosted at the [Aspose.Words Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-words/). You can easily use Aspose.Words for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Words for Java from Maven Repository](https://docs.aspose.com/words/java/installation/) documentation page.
 
 ## Printing Multiple Pages on One Sheet using Java
 

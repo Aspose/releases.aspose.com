@@ -1,5 +1,5 @@
 ---
-title: Aspose.Imaging | Process & Convert Images via Java Library 
+title: Aspose.Imaging | Process & Convert Images via Java Library
 linktitle: Aspose.Imaging
 description: Java class library for image processing, manipulation, & conversion. Supports masking, filters, deskew, matrix transformation, shapes, dithering, and vectors.
 layout: packages
@@ -139,7 +139,7 @@ Aspose.Imaging works for both x86 and x64 versions of the above listed operating
 
 ## Get Started
 
-Aspose.Imaging Java APIs are hosted at the [Aspose Repository](https://repository.aspose.com/imaging/). You can easily use Aspose.BarCode for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/) documentation page.
+Aspose.Imaging Java APIs are hosted at the [Aspose.Imaging Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-imaging/). You can easily use Aspose.BarCode for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Imaging for Java from Maven Repository](https://docs.aspose.com/imaging/java/installation/) documentation page.
 
 ## Crop EMF Image by Rectangle
 
