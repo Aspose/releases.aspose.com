@@ -16,6 +16,11 @@ weight: 5
 {{< Common/h2 text="Download JavaScript Library for Optical Character Recognition (OCR)"  >}}
 {{< Common/hr >}}
 
+{{< Common/paragraph class="package-instructions">}}
+{{< Common/release-notes-link family="ocr" product="javascript-cpp" href="https://releases.aspose.com/ocr/javascript-cpp/release-notes/" text="https://releases.aspose.com/ocr/javascript-cpp/release-notes/"  >}}
+{{< /Common/paragraph>}}
+
+
 [Product Page](https://products.aspose.com/ocr/javascript-cpp/) | [Docs](https://docs.aspose.com/ocr/javascript-cpp/) | [Demos](https://products.aspose.app/ocr/family) | [API Reference](https://reference.aspose.com/ocr/javascript-cpp) | [Examples](https://github.com/aspose-ocr/Aspose.OCR-for-JavaScript) | [Blog](https://blog.aspose.com/category/ocr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/ocr) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 ## Why download Aspose.OCR for JavaScript via C++?
