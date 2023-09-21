@@ -4,9 +4,9 @@ title: "Downloads ---Release-notes-aspose.tasks-for-.net-23.9-(dlls-only)"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/tasks/net/aspose.tasks-for-.net-23.9-(dlls-only)/"
-folder_name: "Aspose.Tasks for .NET 23.9 (DLLs Only)"
-download_link: "/tasks/net/aspose.tasks-for-.net-23.9-(dlls-only)/c540f21b1c2688e69fef2aeabda7c2a0-5-9507"
+folder_link: "/tasks/net//aspose.tasks-for-.net-23.9-(dlls-only)/"
+folder_name: "Aspose.Tasks for .NET 23.9 (to delete)"
+download_link: "/tasks/net//aspose.tasks-for-.net-23.9-(dlls-only)/c540f21b1c2688e69fef2aeabda7c2a0-5-9507"
 download_text: "Download"
 intro_text: "It contains Aspose.Tasks for .NET 23.9 (DLLs Only) release."
 image_link: "/resources/img/zip-icon.png"
@@ -22,9 +22,9 @@ weight: 1
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Tasks for .NET 23.9 (DLLs Only)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Tasks for .NET 23.9 (to delete)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/tasks/net/aspose.tasks-for-.net-23.9-(dlls-only)/c540f21b1c2688e69fef2aeabda7c2a0-5-9507" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/tasks/net//aspose.tasks-for-.net-23.9-(dlls-only)/c540f21b1c2688e69fef2aeabda7c2a0-5-9507" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tasks" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
