@@ -2,6 +2,7 @@
 title: "Download C# Class Library to Perform OCR | Aspose.OCR API"
 description: "Download Text Extraction C# Class Library DLL for English, French, Spanish & Portuguese character & text recognition from raster images via on-premise .NET API."
 keywords: ".NET OCR, OCR English, OCR French, OCR Spanish"
+linktitle: "Aspose.OCR for .NET"
 family_listing_page_title: "Aspose.OCR for .NET"
 family_listing_page_description: "Aspose.OCR for .NET is an optical character recognition API that allows developers to add OCR functionalities to their ASP.NET web applications, web services and Windows applications without requiring any additional tool or API."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-net-min.png"

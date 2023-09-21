@@ -1,6 +1,7 @@
 ---
 title: "Download Python Library to Perform OCR | Aspose.OCR API"
 description:  "Download Text Extraction Python Library for English, French, Spanish & Portuguese character & text recognition from raster images via on-premise  Python via .NET API."
+linktitle: "Aspose.OCR for Python via .NET"
 keywords:  "Python OCR,OCR English,OCR French,OCR Spanish"
 family_listing_page_title:  "Aspose.OCR for Python via .NET"
 family_listing_page_description:  "Download Text Extraction Python Library for English, French, Spanish & Portuguese character & text recognition from raster images via on-premise Python via .NET API."

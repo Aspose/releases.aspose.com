@@ -2,6 +2,7 @@
 title: "Download Optical Text Recognition C++ DLL | Aspose.OCR API"
 description: "Download OCR DLL containing C++ Class Library to help you recognize English text characters from JPEG, PNG, & BMP images via on-premise text extraction API."
 keywords: "OCR C++, OCR English, Extract Text C++"
+linktitle: "Aspose.OCR for C++"
 family_listing_page_title: "Aspose.OCR for C++"
 family_listing_page_description: "Aspose.OCR for C++ is a robust optical character recognition API. Developers can easily add OCR functionalities in their applications. API is extensible, easy to use, compact and provides a simple set of classes for controlling character recognition. It supports commonly used image formats and provides functionalities like reading characters and fonts from images, bold and italic styles, noise removal filters, scanning of the whole image or any part of the image and much more."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-cpp.png"
