@@ -3,7 +3,7 @@ id: "aspose-ocr-for-cpp-22.1-release-notes"
 slug: "aspose-ocr-for-cpp-22.1-release-notes"
 linktitle: "Aspose.OCR for CPP 22.1 Release Notes"
 title: "Aspose.OCR for CPP 22.1 Release Notes"
-weight: 80
+weight: 87
 description: "Aspose.OCR for CPP 22.1 Release Notes – the latest updates and fixes."
 type: "repository"
 feedback: "OCRCPP"
@@ -83,9 +83,9 @@ bool lic_result = asposeocr_get_state();
 //Recognize TIFF image
 
 // Prepare buffer for result (in symbols, len_byte = len * sizeof(wchar_t))
-const size_t len = 4096; 
+const size_t len = 4096;
 wchar_t buffer[len] = { 0 };
- 
+
 /* asposeocr_page_tiff*/
 
 RecognitionSettings settings;

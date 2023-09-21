@@ -3,7 +3,7 @@ id: "aspose-ocr-for-cpp-22.3-release-notes"
 slug: "aspose-ocr-for-cpp-22.3-release-notes"
 linktitle: "Aspose.OCR for CPP 22.3 Release Notes"
 title: "Aspose.OCR for CPP 22.3 Release Notes"
-weight: 81
+weight: 86
 description: "Aspose.OCR for CPP 22.3 Release Notes – the latest updates and fixes."
 type: "repository"
 feedback: "OCRCPP"
@@ -88,14 +88,14 @@ bool lic_result = asposeocr_get_state();
 const string image = "img.jpg";
 
 // Prepare buffer for result (in symbols, len_byte = len * sizeof(wchar_t))
-const size_t len = 4096; 
+const size_t len = 4096;
 wchar_t buffer[len] = { 0 };
- 
+
 /* asposeocr_page_settings*/
 
 RecognitionSettings settings;
     settings.detect_areas_mode = detect_areas_mode_enum::COMBINE;
-	
+
     size_t size = asposeocr_page_settings(image.c_str(), buffer, len, settings);
 #ifdef _WIN32
     setmode(_fileno(stdout), 0x00020000);
