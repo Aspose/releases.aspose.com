@@ -99,6 +99,9 @@ public class S3Package2HugoPost {
     	
     	ArrayList<String> classifierProduct = new ArrayList<String>( Arrays.asList("3d","barcode","cad","cells","diagram","email","font","html","imaging","note","ocr","ocr-gpu","omr","page","pdf","psd","pub","slides","tasks","tex","total","words") );
     	
+    	ArrayList<String> migratedReleaseNotesProduct = new ArrayList<String>( Arrays.asList("cad","font","html","note","ocr","omr","page","psd","pub","tasks","tex") );
+    	
+    	
     	ArrayList<String> pomProduct = new ArrayList<String>( Arrays.asList("total") );
     	
 		String productName = "aspose-" + productId;
@@ -133,7 +136,14 @@ public class S3Package2HugoPost {
     	productVersionMap.put("artifactId",productName);
     	productVersionMap.put("version",productVersion);
   //  	productVersionMap.put("releasehDate",formatter.format(releaseDate) + "+00:00");
-    	productVersionMap.put("ReleaseNotes",new String("https://docs.aspose.com/" + productId + "/java/aspose-" + productId + "-for-java-" + id + "-release-notes/"));
+    	
+    	if(migratedReleaseNotesProduct.contains(productId)) { 	
+
+    		productVersionMap.put("ReleaseNotes",new String("https://releases.aspose.com/" + productId + "/java/release-notes/2023/aspose-" + productId + "-for-java-" + id + "-release-notes/"));
+    	}else {
+    		
+    		productVersionMap.put("ReleaseNotes",new String("https://docs.aspose.com/" + productId + "/java/aspose-" + productId + "-for-java-" + id + "-release-notes/"));
+    	}
     	
     	 if(pomProduct.contains(productId)) {	        		 
     		 productVersionMap.put("type","pom");	        		 
