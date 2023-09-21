@@ -1,23 +1,25 @@
 ---
-id: "aspose-ocr-for-python-net-latest-release-notes"
-slug: "latest"
-weight: 1
+id: "aspose-ocr-python-23-9-0-release-notes"
+slug: "aspose-ocr-python-23-9-0-release-notes"
+linktitle: "Aspose.OCR for Python via .NET 23.9.0 - Release Notes"
+weight: 40
 date: "2023-09-15"
 author: "Vladimir Lapin"
 type: "repository"
 layout: "release"
-title: Latest Release
-linktitle: "Latest Release"
-description: A summary of recent changes, enhancements and bug fixes introduced in the latest release of Aspose.OCR for Python via .NET.
+title: Aspose.OCR for Python via .NET 23.9.0 - Release Notes
+family_listing_page_title: "Aspose.OCR for Python via .NET 23.9.0 - Release Notes"
+description: A summary of recent changes, enhancements and bug fixes in Aspose.OCR for Python via .NET 23.9.0 (September 2023) release.
 keywords:
-- latest
+- "2023"
+- September
 - new
 - release
 - changelog
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Python via .NET 23.9.1 (September 2023)** release.
+This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Python via .NET 23.9.0 (September 2023)** release.
 {{% /alert %}}
 
 ## What was changed
@@ -28,7 +30,7 @@ OCRPY&#8209;41 | [Improved](#changes-in-application-logic) support for multi-thr
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for Python via .NET 23.9.1** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for Python via .NET 23.9.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 
@@ -69,7 +71,7 @@ result = api.recognize(input, recognitionSettings)
 print(result[0].recognition_text)
 ```
 
-The recognition behavior has not changed from previous versions. Aspose.OCR for Python via .NET will use all CPU cores/threads for recognizing the provided image (if `threads_count` is not configured) or the number of threads specified in `threads_count` (if [set](https://docs.aspose.com/ocr/python-net/settings/)).
+The recognition behavior has not changed from previous versions. Aspose.OCR for Python via .NET will use all CPU cores/threads for recognizing the provided image (if `threads_count` is not configured) or the number of threads specified in `threads_count` (if [set](/ocr/python-net/settings/)).
 
 ### Recognizing multiple files/pages
 

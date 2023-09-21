@@ -1,16 +1,18 @@
 ---
-id: "aspose-ocr-for-python-net-latest-release-notes"
-slug: "latest"
-weight: 1
+id: "aspose-ocr-python-23-9-1-release-notes"
+slug: "aspose-ocr-python-23-9-1-release-notes"
+linktitle: "Aspose.OCR for Python via .NET 23.9.1 - Release Notes"
+weight: 45
 date: "2023-09-15"
 author: "Vladimir Lapin"
 type: "repository"
 layout: "release"
-title: Latest Release
-linktitle: "Latest Release"
-description: A summary of recent changes, enhancements and bug fixes introduced in the latest release of Aspose.OCR for Python via .NET.
+title: Aspose.OCR for Python via .NET 23.9.1 - Release Notes
+family_listing_page_title: "Aspose.OCR for Python via .NET 23.9.1 - Release Notes"
+description: A summary of recent changes, enhancements and bug fixes in Aspose.OCR for Python via .NET 23.9.1 (September 2023) release.
 keywords:
-- latest
+- "2023"
+- September
 - new
 - release
 - changelog
