@@ -15,7 +15,7 @@ file_size: "File Size: 121.6 MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
-release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-5-release-notes/"
 weight: 280
 
 ---
@@ -39,7 +39,7 @@ weight: 280
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-5-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-5-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-5-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Neues kyrillisches ML-Modell; schnelle Erkennungsmethode; Ausgabedateiformate XML, JSON</div>

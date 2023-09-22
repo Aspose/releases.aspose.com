@@ -117,7 +117,7 @@ namespace ProgramOCR
 
 Resolved the incompatibility issue between Aspose.OCR and Aspose.OMR installers.
 
-For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.7 - Выпуск заметок](https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-7-release-notes/).
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.7 - Выпуск заметок](https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

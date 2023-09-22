@@ -14,7 +14,7 @@ download_count: " 14/12/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 181.91MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
-release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-12-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-12-0-release-notes/"
 weight: 299
 
 ---
@@ -38,7 +38,7 @@ weight: 299
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-12-0-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-12-0-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-12-0-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-12-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">IDCard, passport, invoice, car plate recognition; search text, compare images</div>

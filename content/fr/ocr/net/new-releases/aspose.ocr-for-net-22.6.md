@@ -116,7 +116,7 @@ namespace ProgramOCR
 }
 ```
 
-For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.6 - Notes de version](https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-6-release-notes/).
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.6 - Notes de version](https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

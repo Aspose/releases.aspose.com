@@ -39,7 +39,7 @@ weight: 277
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-3-release-notes/">https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-3-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Add DJVU input format support</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-3-release-notes/">https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-3-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Add DJVU input format support</div>
   {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Notable Features">}}
@@ -62,7 +62,7 @@ Previously in some instances we observed error while converting PDF to a searcha
 
 This release of the API offers an improved text area detection algorithm.
 
-For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.3 - Release Notes](https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-3-release-notes/).
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.3 - Release Notes](https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

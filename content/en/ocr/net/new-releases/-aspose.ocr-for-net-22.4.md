@@ -35,7 +35,7 @@ weight: 279
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-4-release-notes/">https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-4-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">improved XLSX, recognition of PDF from MemoryStream and ability to get words coordinates</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-4-release-notes/">https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-4-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">improved XLSX, recognition of PDF from MemoryStream and ability to get words coordinates</div>
   {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Notable Features">}}
@@ -54,7 +54,7 @@ Implemented the improved algorithm for creating the Text `TXT` file (placement o
 
 Implemented the ability to save OCR recognition result as a PDF in MemoryStream. Also added the ability to load PDF from MemoryStream.
 
-For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.4 - Release Notes](https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-4-release-notes/).
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.4 - Release Notes](https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

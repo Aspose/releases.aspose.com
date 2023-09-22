@@ -39,7 +39,7 @@ weight: 274
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-2-release-notes/">https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-2-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">added new areas detection modes, increased speed, reduced size</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-2-release-notes/">https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-2-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">added new areas detection modes, increased speed, reduced size</div>
   {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Notable Features">}}
@@ -70,7 +70,7 @@ Improved the speed of OCR recognition.
 
 Improved the ability to extract images from PDF files via OCR API.
 
-For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.2 - Release Notes](https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-2-release-notes/).
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.2 - Release Notes](https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

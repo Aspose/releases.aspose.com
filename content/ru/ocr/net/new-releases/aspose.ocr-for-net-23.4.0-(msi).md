@@ -16,7 +16,7 @@ parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
 tags: ["OCR", "NET"]
-release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-4-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-4-0-release-notes/"
 weight: 309
 
 ---
@@ -40,7 +40,7 @@ weight: 309
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-4-0-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-4-0-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-4-0-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-4-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Добавлена ​​поддержка для распознавания символов за характером и обнаружения ограничивающих символов.</div>

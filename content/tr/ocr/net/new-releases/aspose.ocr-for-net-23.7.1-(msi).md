@@ -16,7 +16,7 @@ parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
 tags: ["OCR", "NET"]
-release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-7-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-7-1-release-notes/"
 weight: 321
 
 ---
@@ -40,7 +40,7 @@ weight: 321
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-7-1-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-7-1-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-7-1-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-7-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Beyaz metni koyu bir arka planda tanımak için özel bir algoritma eklendi.</div>

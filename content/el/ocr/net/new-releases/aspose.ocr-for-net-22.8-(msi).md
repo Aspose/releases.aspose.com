@@ -14,7 +14,7 @@ file_size: "File Size: 162.34MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
-release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-8-release-notes/"
 weight: 287
 
 ---
@@ -38,7 +38,7 @@ weight: 287
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-8-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-8-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-8-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Προεπεξεργασία φίλτρων για την περιοχή, Αναγνώριση Implage από Byte Array</div>
@@ -119,7 +119,7 @@ using(Aspose.Imaging.RasterImage image = (RasterImage)Aspose.Imaging.Image.Load(
 }
 ```
 
-For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.8 - Σημειώσεις έκδοσης](https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-8-release-notes/).
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.8 - Σημειώσεις έκδοσης](https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 
