@@ -14,7 +14,7 @@ file_size: "File Size: 161.69MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
-release_notes_url: "https://docs.aspose.com/ocr/net/release-notes/latest/"
+release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/latest/"
 weight: 282
 
 ---
@@ -38,7 +38,7 @@ weight: 282
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/ocr/net/release-notes/latest/'>https://docs.aspose.com/ocr/net/release-notes/latest/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/latest/'>https://releases.aspose.com/ocr/net/release-notes/latest/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Νέο νευρωνικό δίκτυο, αναγνώριση επιτραπέζιων και αφαίρεση του συστήματος.</div>

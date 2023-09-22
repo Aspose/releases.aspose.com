@@ -14,7 +14,7 @@ file_size: "File Size: 162.33MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
-release_notes_url: "https://docs.aspose.com/ocr/net/release-notes/latest/"
+release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/latest/"
 weight: 284
 ---
 
@@ -37,7 +37,7 @@ weight: 284
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/ocr/net/release-notes/latest/'>https://docs.aspose.com/ocr/net/release-notes/latest/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/latest/'>https://releases.aspose.com/ocr/net/release-notes/latest/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">新的预处理倒闭：自动培训和自动化</div>
