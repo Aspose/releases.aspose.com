@@ -39,7 +39,7 @@ weight: 46
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-21.4-release-notes/">https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-21.4-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Unterstützung für das .docx-Format für das Ergebnis hinzugefügt, Parameter „threshold_value“ hinzugefügt</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/ocr/cpp/release-notes/2021/aspose-ocr-for-cpp-21.4-release-notes/">https://releases.aspose.com/ocr/cpp/release-notes/2021/aspose-ocr-for-cpp-21.4-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Unterstützung für das .docx-Format für das Ergebnis hinzugefügt, Parameter „threshold_value“ hinzugefügt</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -39,7 +39,7 @@ weight: 53
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-21.8-release-notes/">https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-21.8-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Line coordinates, probable variants for characters, line filtering are added</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/ocr/cpp/release-notes/2021/aspose-ocr-for-cpp-21.8-release-notes/">https://releases.aspose.com/ocr/cpp/release-notes/2021/aspose-ocr-for-cpp-21.8-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Line coordinates, probable variants for characters, line filtering are added</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

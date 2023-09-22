@@ -39,7 +39,7 @@ weight: 58
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href="https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22.3-release-notes/">https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22.3-release-notes/</a></div><h4>Descripción</h4><div class="HTMLDescription">Se agregaron nuevos modos de detección de áreas, tamaño reducido</div>
+      <h4>Notas de lanzamiento</h4><div><a href="https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22.3-release-notes/">https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22.3-release-notes/</a></div><h4>Descripción</h4><div class="HTMLDescription">Se agregaron nuevos modos de detección de áreas, tamaño reducido</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

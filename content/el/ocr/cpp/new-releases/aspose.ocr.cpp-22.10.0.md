@@ -14,7 +14,7 @@ download_count: " 18/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 151.7MB"
 parent_path: "ocr/cpp"
 section_parent_path: "ocr/cpp"
-release_notes_url: "https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22-10-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22-10-0-release-notes/"
 weight: 66
 
 ---
@@ -38,7 +38,7 @@ weight: 66
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div> <a href='https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22-10-0-release-notes/'>https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22-10-0-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div> <a href='https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22-10-0-release-notes/'>https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22-10-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription"> Διαθέσιμη δυνατότητα μερικής επεξεργασίας εικόνας πριν από την αναγνώριση</div>

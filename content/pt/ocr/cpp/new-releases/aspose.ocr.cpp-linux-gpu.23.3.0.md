@@ -14,7 +14,7 @@ download_count: " 31/3/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 194.04MB"
 parent_path: "ocr/cpp"
 section_parent_path: "ocr/cpp"
-release_notes_url: "https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-3-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-3-0-release-notes/"
 weight: 81
 
 ---
@@ -38,7 +38,7 @@ weight: 81
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-3-0-release-notes/'>https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-3-0-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-3-0-release-notes/'>https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-3-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Nova API, log, rastreamento de progresso</div>
