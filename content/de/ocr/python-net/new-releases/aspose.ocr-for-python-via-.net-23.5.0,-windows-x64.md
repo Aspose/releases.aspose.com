@@ -14,7 +14,7 @@ download_count: " 23/6/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 265.72MB"
 parent_path: "ocr/python-net"
 section_parent_path: "ocr/python-net"
-release_notes_url: "https://docs.aspose.com/ocr/python-net/aspose-ocr-python-23-5-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-5-0-release-notes/"
 weight: 5
 
 ---
@@ -38,7 +38,7 @@ weight: 5
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/ocr/python-net/aspose-ocr-python-23-5-0-release-notes/'>https://docs.aspose.com/ocr/python-net/aspose-ocr-python-23-5-0-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-5-0-release-notes/'>https://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-5-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">Es enthält ASPOSPE.OCR für Python über .NET 23.5.0, Windows X64 Release.</div>

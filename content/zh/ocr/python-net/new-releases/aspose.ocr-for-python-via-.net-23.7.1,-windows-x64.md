@@ -16,7 +16,7 @@ parent_path: "ocr/python-net"
 section_parent_path: "ocr/python-net"
 
 tags: ["OCR", "PYTHON"]
-release_notes_url: "https://docs.aspose.com/ocr/python-net/aspose-ocr-python-23-7-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-1-release-notes/"
 weight: 10
 
 ---
@@ -40,7 +40,7 @@ weight: 10
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/ocr/python-net/aspose-ocr-python-23-7-1-release-notes/'>https://docs.aspose.com/ocr/python-net/aspose-ocr-python-23-7-1-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-1-release-notes/'>https://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">automatic_color_inversion</div>
