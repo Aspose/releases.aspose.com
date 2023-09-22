@@ -66,6 +66,6 @@ rewrite /ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.0-linux
 rewrite /(.*)/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.0-linux-x86-x64/$ https://releases.aspose.com/$1/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.1-linux-x86-x64/ permanent;
 rewrite /(.*)/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.0-windows-x32/$ https://releases.aspose.com/$1/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.1-windows-x32/ permanent;
 rewrite /ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.0-windows-x32/$ https://releases.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.1-windows-x32/ permanent;
-rewrite /zh/page/cpp/new-releases/aspose.page-for-c-23.6-macos/$ https://releases.aspose.com/zh/page/cpp/new-releases/aspose.page-for-c++-23.6-macos/ permanent;
-rewrite /zh/cells/cpp/new-releases/aspose.cells-for-c-22.9linux/$ https://releases.aspose.com/zh/cells/cpp/new-releases/aspose.cells-for-c++-22.9linux/ permanent;
-rewrite /zh/words/cpp/new-releases/aspose.words-for-c-22.7-linux/$ https://releases.aspose.com/zh/words/cpp/new-releases/aspose.words-for-c++-22.7-linux/ permanent;
+rewrite /(.*)/page/cpp/new-releases/aspose.page-for-c-23.6-macos/$ https://releases.aspose.com//$1/page/cpp/new-releases/aspose.page-for-c++-23.6-macos/ permanent;
+rewrite /(.*)/cells/cpp/new-releases/aspose.cells-for-c-22.9linux/$ https://releases.aspose.com//$1/cells/cpp/new-releases/aspose.cells-for-c++-22.9linux/ permanent;
+rewrite /(.*)/words/cpp/new-releases/aspose.words-for-c-22.7-linux/$ https://releases.aspose.com//$1/words/cpp/new-releases/aspose.words-for-c++-22.7-linux/ permanent;
