@@ -16,7 +16,7 @@ parent_path: "ocr/python-net"
 section_parent_path: "ocr/python-net"
 
 tags: ["OCR", "PYTHON"]
-release_notes_url: "https://docs.aspose.com/ocr/python-net/release-notes/latest/"
+release_notes_url: "https://releases.aspose.com/ocr/python-net/release-notes/latest/"
 weight: 2
 
 ---
@@ -40,7 +40,7 @@ weight: 2
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/ocr/python-net/release-notes/latest/'>https://docs.aspose.com/ocr/python-net/release-notes/latest/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/ocr/python-net/release-notes/latest/'>https://releases.aspose.com/ocr/python-net/release-notes/latest/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">现成的光学特征识别（OCR）引擎</div>
