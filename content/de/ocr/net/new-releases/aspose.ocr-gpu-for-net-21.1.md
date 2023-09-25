@@ -39,7 +39,7 @@ weight: 236
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/ocr/net/aspose-ocr-for-net-21-1-release-notes/">https://docs.aspose.com/ocr/net/aspose-ocr-for-net-21-1-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Möglichkeit hinzugefügt, das Erkennungsergebnis im Markdown- und durchsuchbaren PDF-Dokumentformat zu speichern, benutzerdefinierte Bildqualitätskorrektur mit Parameter TresholdValue hinzugefügt, verbesserte Leistung und reduzierte Speicherkosten</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/ocr/net/release-notes/2021/aspose-ocr-for-net-21-1-release-notes/">https://releases.aspose.com/ocr/net/release-notes/2021/aspose-ocr-for-net-21-1-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Möglichkeit hinzugefügt, das Erkennungsergebnis im Markdown- und durchsuchbaren PDF-Dokumentformat zu speichern, benutzerdefinierte Bildqualitätskorrektur mit Parameter TresholdValue hinzugefügt, verbesserte Leistung und reduzierte Speicherkosten</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

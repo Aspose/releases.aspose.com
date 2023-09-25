@@ -3,7 +3,7 @@ id: "aspose-ocr-for-net-22-4-release-notes"
 slug: "aspose-ocr-for-net-22-4-release-notes"
 linktitle: "Aspose.OCR for .NET 22.4 - Release Notes"
 title: "Aspose.OCR for .NET 22.4 - Release Notes"
-weight: 126
+weight: 74
 description: "Aspose.OCR for .NET 22.4 - Release Notes – the latest updates and fixes."
 type: "repository"
 feedback: "OCRNET"
@@ -82,7 +82,7 @@ namespace ProgramOCR
             // Create license
             License lic = new License();
 
-            // Set license 
+            // Set license
             lic.SetLicense("Aspose.Total.lic");
 
             // Get pdf for recognize
@@ -94,7 +94,7 @@ namespace ProgramOCR
                 using (FileStream file = new FileStream(imagePdf, FileMode.Open, FileAccess.Read))
                 {
                     file.CopyTo(ms);
-             
+
                     DocumentRecognitionSettings set = new DocumentRecognitionSettings();
 					List<RecognitionResult> results = api.RecognizePdf(ms, set);     
 
@@ -105,13 +105,13 @@ namespace ProgramOCR
 					}
 				}
 			}
-			
+
 			// Get image for recognize
             string image = "D://img.png";
 
 			// Recognize image
 			RecognitionResult result = api.RecognizeImage(imgPath, new RecognitionSettings { DetectAreas = false});
-			
+
 			// Save result to stream
 			using (MemoryStream msout = new MemoryStream())
             {
@@ -123,7 +123,7 @@ namespace ProgramOCR
                 //    msout.CopyTo(fileStream);
                 //}
             }
-			
+
 			// Get words coordinates
 			List<Rectangle> resultRectangles = api.GetRectangles(image, AreasType.WORDS, true);
 			// Print result
@@ -131,7 +131,7 @@ namespace ProgramOCR
 			{
 				Console.WriteLine($"x={rectangle.X}, y={rectangle.Y}, width={rectangle.Width}, height={rectangle.Height}");
 			}		
-         
+
         }
     }
 }

@@ -35,7 +35,7 @@ weight: 59
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22.4-release-notes/">https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22.4-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Βελτιωμένο XLSX, ικανότητα να λαμβάνει συντεταγμένες λέξεων</div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22.4-release-notes/">https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22.4-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Βελτιωμένο XLSX, ικανότητα να λαμβάνει συντεταγμένες λέξεων</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

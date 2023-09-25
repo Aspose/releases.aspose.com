@@ -39,7 +39,7 @@ weight: 53
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/omrnet/Aspose.OMR+for+.NET+20.3+Release+Notes">https://docs.aspose.com/display/omrnet/Aspose.OMR+for+.NET+20.3+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Enthält Aspose.OMR für die Version .NET 20.3</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/omr/net/release-notes/2020/aspose-omr-for-net-20-3-release-notes/">https://releases.aspose.com/omr/net/release-notes/2020/aspose-omr-for-net-20-3-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Enthält Aspose.OMR für die Version .NET 20.3</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

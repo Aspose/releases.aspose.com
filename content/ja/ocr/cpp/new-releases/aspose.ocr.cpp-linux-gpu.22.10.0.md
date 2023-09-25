@@ -14,7 +14,7 @@ download_count: " 31/10/2022 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 152.86MB"
 parent_path: "ocr/cpp"
 section_parent_path: "ocr/cpp"
-release_notes_url: "https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22-10-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22-10-0-release-notes/"
 weight: 67
 
 ---
@@ -38,7 +38,7 @@ weight: 67
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22-10-0-release-notes/'>https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22-10-0-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22-10-0-release-notes/'>https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22-10-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">LinuxのAspose.ocr.cpp-22.10のような機能</div>

@@ -16,7 +16,7 @@ parent_path: "omr/net"
 section_parent_path: "omr/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-23-8-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-8-0-release-notes/"
 weight: 128
 
 ---
@@ -40,7 +40,7 @@ weight: 128
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-23-8-0-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-23-8-0-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-8-0-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-8-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">Diese ZIP -Datei enthält nur die ASSOSE.OMR für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.OMR ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</div>

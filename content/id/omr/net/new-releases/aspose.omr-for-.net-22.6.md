@@ -14,7 +14,7 @@ file_size: "File Size: 77.69MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
 
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-6-release-notes/"
 weight: 92
 ---
 
@@ -37,7 +37,7 @@ weight: 92
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-22-6-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-22-6-release-notes/</a></div>
+<h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-6-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -49,7 +49,7 @@ weight: 92
 
 Improved rendering of container elements ([text markup](https://docs.aspose.com/omr/net/txt-markup/container/) / [JSON markup](https://docs.aspose.com/omr/net/json-markup/container/)) to make the left and right margins within the printable OMR Form equal.
 
-![container_rendering](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-6-release-notes/container-margins.png)
+![container_rendering](https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-6-release-notes/container-margins.png)
 
 # Improved Barcode Recognition near Page Bottom
 
@@ -63,7 +63,7 @@ Improved the handling of bubble coloring for CustomAnswerSheet element ([text ma
 
 Introduced a workaround to perform multi page recognition for PDF and TIFF files, where each page of the filled form is put in a separate scanned file and recognized one by one.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OMR for .NET 22.6 Catatan rilis](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-6-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OMR for .NET 22.6 Catatan rilis](https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

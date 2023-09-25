@@ -16,7 +16,7 @@ parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
 tags: ["OCR", "NET"]
-release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-6-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-6-0-release-notes/"
 weight: 315
 
 ---
@@ -40,7 +40,7 @@ weight: 315
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-6-0-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-6-0-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-6-0-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-6-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Soporte de complementos, PDF sin salida de imágenes, el seguimiento de progreso se extiende</div>

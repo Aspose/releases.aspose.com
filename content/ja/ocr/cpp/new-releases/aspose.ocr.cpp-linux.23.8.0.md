@@ -16,7 +16,7 @@ parent_path: "ocr/cpp"
 section_parent_path: "ocr/cpp"
 
 tags: "23.8.0"
-release_notes_url: "https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-8-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-8-0-release-notes/"
 weight: 92
 
 ---
@@ -40,7 +40,7 @@ weight: 92
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-8-0-release-notes/'>https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-8-0-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-8-0-release-notes/'>https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-8-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">-OCRエンジンが使用するスレッドの数を制限する機能を追加しました。 -PNGおよびJPEG画像をバイト配列として提供します。 -ZIPアーカイブをバイト配列として提供します。</div>

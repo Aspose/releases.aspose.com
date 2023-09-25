@@ -14,7 +14,7 @@ file_size: "File Size: 162.34MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
-release_notes_url: "https://docs.aspose.com/ocr/net/release-notes/latest/"
+release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/latest/"
 weight: 289
 ---
 
@@ -37,7 +37,7 @@ weight: 289
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/ocr/net/release-notes/latest/'>https://docs.aspose.com/ocr/net/release-notes/latest/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/latest/'>https://releases.aspose.com/ocr/net/release-notes/latest/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Smallfonts, 90Degree, pengakuan</div>
@@ -96,7 +96,7 @@ List<Aspose.OCR.RecognitionResult> results = recognitionEngine.RecognizeMultiple
 Aspose.OCR.AsposeOcr.SaveMultipageDocument("result.pdf", Aspose.OCR.SaveFormat.Pdf, results);
 ```
 
-For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.9 - Catatan rilis](https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-9-release-notes/).
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.9 - Catatan rilis](https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

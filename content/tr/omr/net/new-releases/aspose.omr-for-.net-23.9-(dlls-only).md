@@ -16,7 +16,7 @@ parent_path: "omr/net"
 section_parent_path: "omr/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-23-9-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-9-0-release-notes/"
 weight: 131
 
 ---
@@ -40,7 +40,7 @@ weight: 131
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-23-9-0-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-23-9-0-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-9-0-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-9-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Bu ZIP dosyası, .NET Montajları için yalnızca aspose.omr içerir. Montajlar, aynı sürümün ürününün MSI yükleyicisiyle aynıdır. MSI yükleyicisi olmadan aspose.omr kullanmak istiyorsanız bunu indirin, yani MSI yükleyicilerini mono üzerinde çalıştıramazsınız.</div>

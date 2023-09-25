@@ -39,7 +39,7 @@ weight: 263
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/ocr/net/aspose-ocr-for-net-21-9-release-notes/">https://docs.aspose.com/ocr/net/aspose-ocr-for-net-21-9-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Multithreading, Vorverarbeitungsfilter, Bildlistenerkennung</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/ocr/net/release-notes/2021/aspose-ocr-for-net-21-9-release-notes/">https://releases.aspose.com/ocr/net/release-notes/2021/aspose-ocr-for-net-21-9-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Multithreading, Vorverarbeitungsfilter, Bildlistenerkennung</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

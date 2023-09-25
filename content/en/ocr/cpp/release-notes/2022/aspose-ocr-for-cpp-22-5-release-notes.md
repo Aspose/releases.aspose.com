@@ -3,7 +3,7 @@ id: "aspose-ocr-for-cpp-22.5-release-notes"
 slug: "aspose-ocr-for-cpp-22.5-release-notes"
 linktitle: "Aspose.OCR for CPP 22.5 Release Notes"
 title: "Aspose.OCR for CPP 22.5 Release Notes"
-weight: 82
+weight: 84
 description: "Aspose.OCR for CPP 22.5 Release Notes – the latest updates and fixes."
 type: "repository"
 feedback: "OCRCPP"
@@ -55,7 +55,7 @@ This page contains release notes for Aspose.OCR for C++ 22.5.
     ukr,
     kaz</p></div>
 	|
-	
+
 |API function|Description|
 |---|---|
 |aspose::ocr::page_fast|
@@ -95,18 +95,18 @@ bool lic_result = asposeocr_get_state();
 	// Prepare buffer for result (in symbols, len_byte = len * sizeof(wchar_t))
 	const size_t len = 4096;
     wchar_t buffer[len] = { 0 };
-	
-	//Set parameters for recognition 
+
+	//Set parameters for recognition
     RecognitionSettings settings;
     settings.language_alphabet = language::rus;
 
     size_t result = asposeocr_page_settings(image.c_str(), buffer, len, settings);
-    std::wcout << buffer;	
-	
+    std::wcout << buffer;
+
 //Fast recognition (only for latin symbols, without areas detection, without skew correction
 
     aspose::ocr::page_fast(image.c_str(), buffer, len);
-    std::wcout << buffer;	
+    std::wcout << buffer;
 }
 
 {{< /highlight >}}

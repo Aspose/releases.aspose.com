@@ -15,7 +15,7 @@ file_size: "File Size: 77.1 MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
 
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-5-release-notes/"
 weight: 91
 
 ---
@@ -39,7 +39,7 @@ weight: 91
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-22-5-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-22-5-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-5-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies a...</div>

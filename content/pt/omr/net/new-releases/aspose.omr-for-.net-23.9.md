@@ -16,7 +16,7 @@ parent_path: "omr/net"
 section_parent_path: "omr/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-23-9-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-9-0-release-notes/"
 weight: 130
 
 ---
@@ -40,7 +40,7 @@ weight: 130
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-23-9-0-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-23-9-0-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-9-0-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-9-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Contém aspose.omr para .NET 23.9 Release</div>

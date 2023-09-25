@@ -35,7 +35,7 @@ weight: 88
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/omr/net/aspose-omr-for-net-22-4-release-notes/">https://docs.aspose.com/omr/net/aspose-omr-for-net-22-4-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Enthält Aspose.OMR für die Version .NET 22.4</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-4-release-notes/">https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-4-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Enthält Aspose.OMR für die Version .NET 22.4</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

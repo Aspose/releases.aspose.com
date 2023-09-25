@@ -3,7 +3,7 @@ id: "aspose-ocr-for-cpp-22.4-release-notes"
 slug: "aspose-ocr-for-cpp-22.4-release-notes"
 linktitle: "Aspose.OCR for CPP 22.4 Release Notes"
 title: "Aspose.OCR for CPP 22.4 Release Notes"
-weight: 81
+weight: 85
 description: "Aspose.OCR for CPP 22.4 Release Notes – the latest updates and fixes."
 type: "repository"
 feedback: "OCRCPP"
@@ -86,8 +86,8 @@ const string image = "img.jpg";
 	// Prepare buffer for result (in symbols, len_byte = len * sizeof(wchar_t))
 	const size_t len = 4096;
     wchar_t buffer[len] = { 0 };
-	
-	//Set parameters for recognition 
+
+	//Set parameters for recognition
     RecognitionSettings settings;
     settings.all_image = true;
 
@@ -101,7 +101,7 @@ const string image = "img.jpg";
     {
         cout <<"x:"<< r[i].x << " y:" << r[i].y << " height:" << r[i].width << " width:" << r[i].height << endl;
     }
-	
+
 	delete [] r;
 }
 

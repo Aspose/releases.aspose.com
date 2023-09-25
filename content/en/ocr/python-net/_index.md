@@ -1,6 +1,7 @@
 ---
 title: "Download Python Library to Perform OCR | Aspose.OCR API"
 description:  "Download Text Extraction Python Library for English, French, Spanish & Portuguese character & text recognition from raster images via on-premise  Python via .NET API."
+linktitle: "Aspose.OCR for Python via .NET"
 keywords:  "Python OCR,OCR English,OCR French,OCR Spanish"
 family_listing_page_title:  "Aspose.OCR for Python via .NET"
 family_listing_page_description:  "Download Text Extraction Python Library for English, French, Spanish & Portuguese character & text recognition from raster images via on-premise Python via .NET API."
@@ -18,6 +19,7 @@ weight: 4
 Add optical character recognition (OCR) capabilities to your data science, AI, and automation solutions written in Python 3.6 or later. Extract text from photos, scans, PDF documents and other graphical files without having to delve into complex mathematical operations, neural networks, and other technical details.{{< /Common/paragraph>}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.OCR for Python via .NET can be download here and installed from local file system with the following {{< Common/link href="https://pypi.org/project/aspose-ocr-python-net/" text="pip"  >}} command:
+{{< Common/release-notes-link family="ocr" product="python-net" href="https://releases.aspose.com/ocr/python-net/release-notes/" text="https://releases.aspose.com/ocr/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}

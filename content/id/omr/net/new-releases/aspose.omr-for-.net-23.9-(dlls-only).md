@@ -16,7 +16,7 @@ parent_path: "omr/net"
 section_parent_path: "omr/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-23-9-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-9-0-release-notes/"
 weight: 131
 
 ---
@@ -40,7 +40,7 @@ weight: 131
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-23-9-0-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-23-9-0-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-9-0-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-9-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">File zip ini hanya berisi aspose.omr untuk rakitan .net. Rakitannya sama seperti di penginstal MSI dari produk dari versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.omr tanpa penginstal MSI, mis. Anda tidak dapat menjalankan penginstal MSI di mono.</div>

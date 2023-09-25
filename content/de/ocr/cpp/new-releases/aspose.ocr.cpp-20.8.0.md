@@ -39,7 +39,7 @@ weight: 36
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-20-8-release-notes/">https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-20-8-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Neues ML-Modell mit verbesserter Symbolerkennung.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/ocr/cpp/release-notes/2020/aspose-ocr-for-cpp-20-8-release-notes/">https://releases.aspose.com/ocr/cpp/release-notes/2020/aspose-ocr-for-cpp-20-8-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Neues ML-Modell mit verbesserter Symbolerkennung.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

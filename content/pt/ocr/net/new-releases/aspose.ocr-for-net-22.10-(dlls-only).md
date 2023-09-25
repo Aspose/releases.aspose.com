@@ -14,7 +14,7 @@ download_count: " 31/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 161.59MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
-release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-10-release-notes/"
 weight: 292
 
 ---
@@ -38,7 +38,7 @@ weight: 292
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-10-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-10-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-10-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Adicionado reconhecimento e reconhecidojvu do stream</div>

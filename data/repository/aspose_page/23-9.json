@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "23-9",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-page-23.9-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "14 MB",
+    "name" : "aspose-page-23.9.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-page-23.9.pom"
+  } ],
+  "releasehDate" : "2023-09-21T11:35:25+00:00",
+  "version" : "23.9",
+  "ReleaseNotes" : "https://releases.aspose.com/page/java/release-notes/2023/aspose-page-for-java-23-9-release-notes/"
+}

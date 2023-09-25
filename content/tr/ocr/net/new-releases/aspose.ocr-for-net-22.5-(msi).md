@@ -15,7 +15,7 @@ file_size: "File Size: 122.2 MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
-release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-5-release-notes/"
 weight: 281
 
 ---
@@ -39,7 +39,7 @@ weight: 281
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-5-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-5-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-5-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Yeni Kiril ML modeli; Hızlı tanıma yöntemi; XML, JSON Çıktı Dosyası Biçimleri</div>

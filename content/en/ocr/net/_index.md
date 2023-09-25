@@ -2,6 +2,7 @@
 title: "Download C# Class Library to Perform OCR | Aspose.OCR API"
 description: "Download Text Extraction C# Class Library DLL for English, French, Spanish & Portuguese character & text recognition from raster images via on-premise .NET API."
 keywords: ".NET OCR, OCR English, OCR French, OCR Spanish"
+linktitle: "Aspose.OCR for .NET"
 family_listing_page_title: "Aspose.OCR for .NET"
 family_listing_page_description: "Aspose.OCR for .NET is an optical character recognition API that allows developers to add OCR functionalities to their ASP.NET web applications, web services and Windows applications without requiring any additional tool or API."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-net-min.png"
@@ -20,7 +21,7 @@ weight:  1
 {{< Common/h1 text="Download Aspose.OCR to detect text from images"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.OCR/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.OCR</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/ocr/net/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="ocr" product="net" href="https://docs.aspose.com/ocr/net/release-notes/" text="https://docs.aspose.com/ocr/net/release-notes/"  >}}
+{{< Common/release-notes-link family="ocr" product="net" href="https://releases.aspose.com/ocr/net/release-notes/" text="https://releases.aspose.com/ocr/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

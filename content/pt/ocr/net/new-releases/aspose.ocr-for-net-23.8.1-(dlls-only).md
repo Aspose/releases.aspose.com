@@ -16,7 +16,7 @@ parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
 tags: "OCR, NET"
-release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-8-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-8-1-release-notes/"
 weight: 326
 
 ---
@@ -40,7 +40,7 @@ weight: 326
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-8-1-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-8-1-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-8-1-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-8-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Corrigir PDF, Atualizar a licença dos plugins</div>

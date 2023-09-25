@@ -14,7 +14,7 @@ download_count: " 25/7/2022 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 303.17MB"
 parent_path: "ocr/cpp"
 section_parent_path: "ocr/cpp"
-release_notes_url: "https://docs.aspose.com/ocr/cpp/release-notes/latest/"
+release_notes_url: "https://releases.aspose.com/ocr/cpp/release-notes/latest/"
 weight: 62
 
 ---
@@ -38,7 +38,7 @@ weight: 62
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/ocr/cpp/release-notes/latest/'>https://docs.aspose.com/ocr/cpp/release-notes/latest/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/ocr/cpp/release-notes/latest/'>https://releases.aspose.com/ocr/cpp/release-notes/latest/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Güncellenmiş PDF-yaratma algoritması. Arka plan olarak bir resim ekleyin</div>
