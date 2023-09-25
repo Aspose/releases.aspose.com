@@ -1,20 +1,25 @@
 ---
-id: "aspose-ocr-for-cpp-latest-release-notes"
-slug: "latest"
-weight: 1
-date: "2023-08-17"
+date: "2023-09-20"
+id: "aspose-ocr-for-cpp-23-9-0-release-notes"
+slug: "aspose-ocr-for-cpp-23-9-0-release-notes"
+linktitle: "Aspose.OCR for C++ 23.9.0 - Release Notes"
+title: "Aspose.OCR for C++ 23.9.0 - Release Notes"
 author: "Vladimir Lapin"
+weight: 51
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for C++ 23.9.0 (September 2023) release."
 type: "repository"
 feedback: "OCRCPP"
 layout: "release"
-title: Latest release (September 2023)
-linktitle: "Latest release (September 2023)"
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OCR for C++.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OCR for C++ 23.9.0 - Release Notes"
 keywords:
-- latest
-- new
-- release
-- changelog
+- "2023"
+- "August"
+- "new"
+- "release"
+- "changelog"
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
