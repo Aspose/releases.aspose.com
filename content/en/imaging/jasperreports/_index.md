@@ -2,6 +2,7 @@
 title: "Report Exporter | Aspose.Imaging for JasperReports"
 description: "Download JasperReports Exporter for different images including BMP, GIF, JPEG, PNG, TIFF as well as in PDF, Html5 canvas and more formats. "
 keywords: "JasperReports Exporter "
+linktitle: "Aspose.Imaging for JasperReports"
 family_listing_page_title: "Aspose.Imaging for JasperReports"
 family_listing_page_description: "Aspose.Imaging for JasperReports is the only solution on the market that makes it possible to export reports from JasperReports to different images including BMP, GIF, JPEG, PNG, TIFF as well as in PDF, Html5 canvas and more formats. All report features with the highest degree of precision can be converted to the image files."
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-jasperreports.png"

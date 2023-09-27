@@ -122,7 +122,7 @@ using (var image = Image.Load(path) as RasterImage)
 }
 ```
 
-For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Imaging for .NET 22.6](http://localhost:1313/imaging/net/new-releases/aspose.imaging-for-.net-22.6/).
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Imaging for .NET 22.6](/imaging/net/new-releases/aspose.imaging-for-.net-22.6/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

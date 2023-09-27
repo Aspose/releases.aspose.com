@@ -3,6 +3,7 @@
 title: "Aspose.Imaging for Python via .NET"
 description:  "Aspose.Imaging for Python via .NET is a library offering advanced image processing features. You could easily create, load, manipulate, convert, compress images or photos using this API. Also Aspose.Imaging library supports drawing and work with graphic primitives. Image export and conversion (including uniform multi-page image processing) is the one of API core features along with image transformations (resize, crop, flip&rotate, binarization, grayscale, adjust, etc.), advanced image manipulation features (filtering, dithering, masking, deskewing) and memory optimization strategies.  Aspose.Imaging for Python via .NET is a flexible, stable and powerful API, capable of processing the most commonly used formats along with some special formats such as DjVu, DICOM, WebP & DNG. Aspose.Imaging is cross-platform library, it is Windows and Linux compatible."
 keywords:  "Imaging,Python,.NET"
+linktitle: "Aspose.Imaging for Python via .NET"
 family_listing_page_title:  "Aspose.Imaging for Python via .NET"
 family_listing_page_description:  "Aspose.Imaging for Python via .NET is a flexible, stable and powerful API that helps developers to process images and photos in their own Python applications."
 family_listing_page_iconurl:  "https://products.aspose.com/imaging/images/imaging/aspose_imaging-for-python-net.svg"

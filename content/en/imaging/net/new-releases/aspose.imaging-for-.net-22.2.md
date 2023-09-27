@@ -217,7 +217,7 @@ foreach (string file in files)
 }
 ```
 
-For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Imaging for .NET 22.2](http://localhost:1313/imaging/net/new-releases/aspose.imaging-for-.net-22.2/).
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Imaging for .NET 22.2](/imaging/net/new-releases/aspose.imaging-for-.net-22.2/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -109,7 +109,7 @@ using (Image pngImage = Image.Load(sourcePath))
 }
 ```
 
-For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Imaging for .NET 22.3](http://localhost:1313/imaging/net/new-releases/aspose.imaging-for-.net-22.3/).
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Imaging for .NET 22.3](/imaging/net/new-releases/aspose.imaging-for-.net-22.3/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

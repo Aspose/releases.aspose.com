@@ -2,6 +2,7 @@
 title: "Manipulate & Convert Images | Aspose.Imaging for SharePoint"
 description: "Download SharePoint Imaging Solution that can convert images to other formats including PNG, JPEG, BMP, GIF, TIFF and PSD from within Microsoft SharePoint. "
 keywords: "SharePoint Imaging "
+linktitle: "Aspose.Imaging for Sharepoint"
 family_listing_page_title: "Aspose.Imaging for Sharepoint"
 family_listing_page_description: "Aspose.Imaging for SharePoint allows users to convert images to other image formats including PNG, JPEG, BMP, GIF, TIFF and PSD from within Microsoft SharePoint. Developers can also edit the exported images by performing several operations such as resize, crop, rotate and flip without using any image editor."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint-min.png"
