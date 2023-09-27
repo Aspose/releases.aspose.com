@@ -2,6 +2,7 @@
 title: "Download C# DLL to Draw & Process Images | Aspose.Imaging"
 description: "Download C# class library DLL for raster & vector image processing. Work with CorelDRAW®, Photoshop®, Truevision, eBook, Medical, Raw image format via .NET API."
 keywords: ".NET Imaging Library"
+linktitle: "Aspose.Imaging for .NET"
 family_listing_page_title: "Aspose.Imaging for .NET"
 family_listing_page_description: "Aspose.Imaging for .NET is an advanced image processing API that allows the developers to create, edit, draw or convert images in their .NET applications. It works independent of other applications, and allows saving to Adobe PhotoShop® native format without having PhotoShop application or any other image editor installed on the machine."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net-min.png"
