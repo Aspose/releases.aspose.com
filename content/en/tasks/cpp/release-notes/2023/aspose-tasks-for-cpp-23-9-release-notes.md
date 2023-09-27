@@ -19,6 +19,9 @@ This page contains release notes information for [Aspose.Tasks for C++ 23.9](htt
 
 {{% /alert %}}
 
+## **Long-style includes**
+Since 23.8, Aspose.Tasks for C++ uses long-style includes to prevent header name clashing. Please refer to [Aspose.Tasks for C++ 23.8 release notes](https://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-8-release-notes/) to learn how to switch your project to use long-style includes. We'll continue the short-style includes support until January, 2024, inclusive.
+
 ## **All Changes**
 
 |**Key**|**Summary**|**Issue Type**|
