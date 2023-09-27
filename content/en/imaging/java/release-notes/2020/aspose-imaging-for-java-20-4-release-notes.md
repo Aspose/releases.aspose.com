@@ -17,12 +17,12 @@ menuItemWithNoContent: false
 | :- | :- | :- |
 |IMAGINGJAVA-1644|Implement export to Html5 canvas format|Feature|
 |IMAGINGJAVA-1627 |Allow speed or memory optimization strategies for Webp format|Feature|
-|IMAGINGJAVA-1619|` `Support compressed vector formats|Feature|
-|IMAGINGJAVA-1616|` `Implement support text in the CDR format on X3 and below versions|Feature|
+|IMAGINGJAVA-1619|Support compressed vector formats|Feature|
+|IMAGINGJAVA-1616|Implement support text in the CDR format on X3 and below versions|Feature|
 |IMAGINGJAVA-1645 |Aspose.Imaging 20.2: Conversion of particular WMF to PNG throws exception|Enhancement|
 |IMAGINGJAVA-1615|Remove PSD loading support from Aspose.Imaging|Enhancement|
 |IMAGINGJAVA-1611|Cannot access a disposed object; Object name: 'DjvuImage'|Enhancement|
-|IMAGINGJAVA-1609|` `Converting EMF to PNG adds a border around PNG|Enhancement|
+|IMAGINGJAVA-1609|Converting EMF to PNG adds a border around PNG|Enhancement|
 **Psd off notice:**
 
 ***Please switch to [Aspose.PSD](https://products.aspose.com/psd/) for PSD loading functionality. The functionality is not supported from this release.***
@@ -53,9 +53,9 @@ Image image = Image.load("Sample.svg");
 try
 {
 image.save("Canvas.html", new Html5CanvasOptions()
-` `{{
-` `setVectorRasterizationOptions(new SvgRasterizationOptions());
-` `}});
+{{
+setVectorRasterizationOptions(new SvgRasterizationOptions());
+}});
 }
 finally
 {
@@ -88,10 +88,10 @@ Image image = Image.load("Sample.svg");
 try
 {
 image.save("Canvas.html", new Html5CanvasOptions()
-` `{{
-` `setVectorRasterizationOptions(new SvgRasterizationOptions());
-` `setFullHtmlPage(true);
-` `}});
+{{
+setVectorRasterizationOptions(new SvgRasterizationOptions());
+setFullHtmlPage(true);
+}});
 }
 finally
 {
@@ -128,17 +128,17 @@ String inputFile = baseFolder + file;
 String outFile = inputFile + ".png";
 Image image = Image.load(inputFile);
 try
-` `{
-` `VectorRasterizationOptions vectorRasterizationOptions =
+{
+VectorRasterizationOptions vectorRasterizationOptions =
 `    `(VectorRasterizationOptions)image.getDefaultOptions(new Object[] { Color.getWhite(), image.getWidth(), image.getHeight() });
-` `PngOptions pngOptions = new PngOptions();
-` `pngOptions.setVectorRasterizationOptions(vectorRasterizationOptions);
-` `image.save(outFile, pngOptions);
-` `}
+PngOptions pngOptions = new PngOptions();
+pngOptions.setVectorRasterizationOptions(vectorRasterizationOptions);
+image.save(outFile, pngOptions);
+}
 finally
-` `{
-` `image.close();
-` `}
+{
+image.close();
+}
 }            
 
 2.Export Emz to Emf
@@ -284,11 +284,11 @@ image.close();
 Image image2 = Image.load("tiger.bmp");
 try
 {
-` `image2.save("result.psd", new PsdOptions());
+image2.save("result.psd", new PsdOptions());
 }
 finally
 {
-` `image2.close();
+image2.close();
 }
 
 **IMAGINGJAVA-1645 Aspose.Imaging 20.2: Conversion of particular WMF to PNG throws exception**
@@ -344,37 +344,37 @@ try
 {
 ByteArrayOutputStream ms = new ByteArrayOutputStream();
 try
-` `{
-` `PrintStream writer = new PrintStream(ms);
-` `System.setOut(writer); //change console output
-` `System.setErr(writer); //change console output
-` `Image image = Image.load(inputFile);
-` `image.close();
+{
+  PrintStream writer = new PrintStream(ms);
+  System.setOut(writer); //change console output
+  System.setErr(writer); //change console output
+  Image image = Image.load(inputFile);
+  image.close();
 
-` `Thread.sleep(5000); //wait errors of thread 5 sec.
-` `writer.flush();
+  Thread.sleep(5000); //wait errors of thread 5 sec.
+  writer.flush();
 
-` `if (ms.size() == 0)
-`  `{
-`  `return;
-`  `}
+  if (ms.size() == 0)
+    {
+      return;
+    }
 
-` `BufferedReader reader = new BufferedReader(new InputStreamReader(new ByteArrayInputStream(ms.toByteArray())));
-` `String consoleOut = reader.readLine();
-` `while (consoleOut != null)
-`  `{
-`  `int indx = consoleOut.indexOf("access a disposed object");
-`  `if (indx > -1)
-`   `{
-`   `throw new TestException(consoleOut);
-`   `}
-`  `consoleOut = reader.readLine();
-`  `}
-` `}
+    BufferedReader reader = new BufferedReader(new InputStreamReader(new ByteArrayInputStream(ms.toByteArray())));
+  String consoleOut = reader.readLine();
+  while (consoleOut != null)
+  {
+    int indx = consoleOut.indexOf("access a disposed object");
+    if (indx > -1)
+    {
+      throw new TestException(consoleOut);
+      }
+    consoleOut = reader.readLine();
+    }
+  }
 finally
-` `{
-` `ms.close();
-` `}
+{
+ms.close();
+}
 }
 finally
 {
@@ -393,16 +393,16 @@ imageOptions.setSource(new FileCreateSource("created.webp", false));
 imageOptions.setBufferSizeHint(50);
 Image image = Image.create(imageOptions, 1000, 1000);
 try
-` `{
-` `// Do something with the created image
-` `// ...
+{
+// Do something with the created image
+// ...
 
-` `image.save();
-` `}
+image.save();
+}
 finally
-` `{
-` `image.close();
-` `}
+{
+image.close();
+}
 }
 finally
 {
@@ -441,7 +441,7 @@ image.close();
 
 **IMAGINGJAVA-1609 Converting EMF to PNG adds a border around PNG**
 
-` `String baseFolder = "D:\\";
+String baseFolder = "D:\\";
 String file = "test.emf";
 String inputFileName = baseFolder + file;
 String outputFileName = inputFileName + ".png";
