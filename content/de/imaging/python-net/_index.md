@@ -15,7 +15,7 @@ weight: 5
 {{< Common/paragraph class="package-instructions">}}
 "ASSOSE.IMAGING FÜR PYTHON über .NET-API, eine Funktion, leistungsstarke und einfach zu verwendende Image Manipulation and Conversion API für die Python-Plattform. Auch Asis.imaging -Bibliothek unterstützt das Zeichnen und die Arbeit mit grafischen Primitiven. Bildexport und -konvertierung (einschließlich der einheitlichen mehrseitigen Bildverarbeitung) ist eine der API-Kernmerkmale zusammen mit Bildtransformationen (Größe, Schnitt, Flip & Drehen, Binarisierung, Graustufen, Anpassung usw.), erweiterte Bildmanipulationsfunktionen (Filterung, Dithering, Maskierung, Deskewing) und Gedächtnisoptimierungsstrategien.
 Bitte verwenden Sie Folgendes" {{< Common/link href="https://pypi.org/project/aspose-imaging-python-net/" text="pip"  >}} command:
-{{< Common/release-notes-link family="imaging" product="python-net" href="https://docs.aspose.com/imaging/python-net/release-notes/" text="https://docs.aspose.com/imaging/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="python-net" href="https://releases.aspose.com/imaging/python-net/release-notes/" text="https://releases.aspose.com/imaging/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}

@@ -16,7 +16,7 @@ weight: 5
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Thon için Python Platformu için görüntü manipülasyonu ve dönüşüm API'sı olan .NET API üzerinden Python için Hayal Edin. Ayrıca aspose. Görüntü dışa aktarma ve dönüşüm (tek tip çok sayfalı görüntü işleme dahil), görüntü dönüşümleri (yeniden boyutlandırma, kırpma, flip & rotate, binarizasyon, gri tonlama, ayar, vb.), Gelişmiş görüntü manipülasyon özellikleri (filtreleme, diting, vb.) maskeleme, deskewing) ve bellek optimizasyon stratejileri.
 Lütfen aşağıdakileri kullanın {{< Common/link href="https://pypi.org/project/aspose-imaging-python-net/" text="pip"  >}} command:
-{{< Common/release-notes-link family="imaging" product="python-net" href="https://docs.aspose.com/imaging/python-net/release-notes/" text="https://docs.aspose.com/imaging/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="python-net" href="https://releases.aspose.com/imaging/python-net/release-notes/" text="https://releases.aspose.com/imaging/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}

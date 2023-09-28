@@ -15,7 +15,7 @@ weight: 5
 {{< Common/paragraph class="package-instructions">}}
 ASPOSE.IMING para o Python via .Net API, que é uma API de manipulação e conversão de manipulação e conversão poderosa e fácil de usar para a plataforma Python. A biblioteca de imposição também suporta desenho e trabalho com primitivas gráficas. Exportação de imagens e conversão (incluindo processamento uniforme de imagem de várias páginas) é a dos recursos do núcleo da API junto com transformações de imagem (redimensionar, cultivar, flip e girar, binarização, escala de cinza, ajustar etc.), recursos avançados de manipulação de imagem (filtragem, dithering, Estratégias de mascaramento, desskewing) e de otimização de memória.
 Por favor, use o seguinte {{< Common/link href="https://pypi.org/project/aspose-imaging-python-net/" text="pip"  >}} command:
-{{< Common/release-notes-link family="imaging" product="python-net" href="https://docs.aspose.com/imaging/python-net/release-notes/" text="https://docs.aspose.com/imaging/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="python-net" href="https://releases.aspose.com/imaging/python-net/release-notes/" text="https://releases.aspose.com/imaging/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}

@@ -16,7 +16,7 @@ weight: 5
 {{< Common/paragraph class="package-instructions">}}
 Aspose. Imaging untuk Python via .NET API yang merupakan fitur yang kaya, kuat dan mudah digunakan manipulasi gambar dan API konversi untuk platform Python. Juga Aspose. Perpustakaan yang membangkitkan dukungan menggambar dan bekerja dengan primitif grafis. Ekspor dan konversi gambar (termasuk pemrosesan gambar multi-halaman yang seragam) adalah salah satu fitur inti API bersama dengan transformasi gambar (mengubah ukuran, tanaman, flip & rotate, binarisasi, skala abu-abu, menyesuaikan, dll.), Fitur manipulasi gambar canggih (penyaringan, tithering, Topeng, deskewing) dan strategi optimasi memori.
 Harap gunakan berikut ini {{< Common/link href="https://pypi.org/project/aspose-imaging-python-net/" text="pip"  >}} command:
-{{< Common/release-notes-link family="imaging" product="python-net" href="https://docs.aspose.com/imaging/python-net/release-notes/" text="https://docs.aspose.com/imaging/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="python-net" href="https://releases.aspose.com/imaging/python-net/release-notes/" text="https://releases.aspose.com/imaging/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
