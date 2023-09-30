@@ -163,10 +163,10 @@ packages_refs:
 
 ### Supported Read & Write CAD Formats
 
-**AutoCAD®:** DXF (Write feature is partially supported)
+**AutoCAD®:** DXF (Write feature is partially supported)\
 **3D Geometry:** OBJ\
 **GL Binary:** GLTF/GLB\
-**Scalable Vector Graphics:** SVG
+**Scalable Vector Graphics:** SVG\
 **Others:** FBX, STEP(STP)
 
 ### Save CAD files As
