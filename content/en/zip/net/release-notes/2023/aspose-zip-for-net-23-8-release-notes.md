@@ -3,7 +3,7 @@ id: "aspose-zip-for-net-23-8-release-notes"
 slug: "aspose-zip-for-net-23-8-release-notes"
 linktitle: "Aspose.ZIP for .NET 23.8 Release Notes"
 title: "Aspose.ZIP for .NET 23.8 Release Notes"
-weight: 15
+weight: 13
 description: "Aspose.ZIP for .NET 23.8 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
