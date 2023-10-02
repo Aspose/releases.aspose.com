@@ -3,7 +3,7 @@ id: "aspose-note-for-java-23-9-release-notes"
 slug: "aspose-note-for-java-23-9-release-notes"
 linktitle: "Aspose.Note for Java 23.9 Release Notes"
 title: "Aspose.Note for Java 23.9 Release Notes"
-weight: 34
+weight: 33
 description: "Aspose.Note for Java 23.9 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
