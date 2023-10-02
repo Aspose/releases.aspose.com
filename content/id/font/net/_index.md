@@ -70,4 +70,3 @@ TTC, Tipe Terbuka, CFF, Tipe1, WOFF/WOFF2
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

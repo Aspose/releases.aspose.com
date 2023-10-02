@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "48"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.PDF.Cpp/"
-tags: ['PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-SVG', 'PDF-Formatting', 'PDF-Metadata', 'PDF-Attachment', 'PDF-Images', 'PDF-Encryption', 'PDF-Decryption', 'Search-PDF', 'PDF-Table', 'PDF-Annotations', 'PDF-Bookmarks', 'PDF-Security', 'PDF-Signature', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP']
+tags: ['PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-SVG', 'PDF-Formatting', 'PDF-Metadata', 'PDF-Attachment', 'PDF-Images', 'PDF-Encryption', 'PDF-Decryption', 'Search-PDF', 'PDF-Table', 'PDF-Annotations', 'PDF-Bookmarks', 'PDF-Security', 'PDF-Signature', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP', 'visual-c ']
 weight:  3
 ---
 
@@ -87,4 +87,3 @@ Aspose.PDF for C++ 在客户端和服务器端表现同样出色。它可以在�
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-
