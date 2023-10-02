@@ -1,12 +1,12 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-python-via-.net-23.8-maxos-x86/64"
+title: "Downloads ---New Releases-aspose.tasks-for-python-via-.net-23.8-maxos-x86,-x64"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8-maxos-x86/64/"
+folder_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8-maxos-x86,-x64"
 folder_name: "Aspose.Tasks for Python via .NET 23.8 MaxOS x86/64"
-download_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8-maxos-x86/64/38879a63e93aedce2978348cfc504df8-11-9417"
+download_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8-maxos-x86,-x64/38879a63e93aedce2978348cfc504df8-11-9417"
 download_text: "Download"
 intro_text: "It contains Aspose.Tasks for Python via .NET 23.8 release for MacOS"
 image_link: "/resources/img/random-file-icon.png"
@@ -47,5 +47,3 @@ weight: 24
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
