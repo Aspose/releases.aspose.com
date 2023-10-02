@@ -5,7 +5,7 @@ keywords: "XBRL,iXBRL,inline XBRL,OFX, Python"
 family_listing_page_title: "Aspose.Finance for Python via .NET"
 family_listing_page_description: "Aspose.Finance for Python via .NET is a Python library to manipulate finance related formats including XBRL, iXBRL and OFX. The Finance Python API allows to read, write, edit & validate finance file formats."
 family_listing_page_iconurl: "https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg"
-tags: ['Aspose', 'Aspose.Total', 'Aspose.Finance', 'Python', '.NET', 'Library', 'Programming', 'Finance', 'XBRL', 'iXBRL', 'OFX', 'inline', 'convert']
+tags: ['Aspose', 'Aspose.Total', 'Aspose.Finance', 'Python', 'NET', 'Library', 'Programming', 'Finance', 'XBRL', 'iXBRL', 'OFX', 'inline', 'convert']
 weight:  11
 ---
 

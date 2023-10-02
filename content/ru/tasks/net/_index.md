@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "20"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Tasks/"
-tags: ['Project-to-PDF', 'Project-to-JPEG', 'Project-to-Excel', 'Project-to-SVG', 'Project-to-Text', 'Project-to-Format24BPPRGB', 'Project-to-TIFF', 'MPP-to-PDF', 'MPP-to-JPEG', 'MPP-to-XML', 'MPP-to-XLSX', 'MPP-to-CSV', 'MPP-to-SVG', 'MPP-to-HTML', 'MPP-to-TIFF', '.net-core', '.net-standard', '.netcore2.0', '.netstandard2.0']
+tags: ['Project-to-PDF', 'Project-to-JPEG', 'Project-to-Excel', 'Project-to-SVG', 'Project-to-Text', 'Project-to-Format24BPPRGB', 'Project-to-TIFF', 'MPP-to-PDF', 'MPP-to-JPEG', 'MPP-to-XML', 'MPP-to-XLSX', 'MPP-to-CSV', 'MPP-to-SVG', 'MPP-to-HTML', 'MPP-to-TIFF', 'net-core', '.net-standard', '.netcore2.0', '.netstandard2.0']
 weight:  1
 ---
 

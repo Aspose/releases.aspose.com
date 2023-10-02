@@ -7,7 +7,7 @@ family_listing_page_description:  "Aspose.Diagram for Python via .Net is a scala
 family_listing_page_iconurl:  "https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg"
 homepage_package_type: "Pip"
 homepage_package_link: "https://pypi.org/project/aspose-diagram-python"
-tags: ['Aspose', 'Aspose.Total', 'Aspose.Diagram', 'Python', '.NET', 'Lirary', 'VSD', 'VSDX', 'VSDM', 'VSS', 'VSSM', 'VSSX', 'VST', 'VSTM', 'VSTX', 'VDX', 'VSX', 'VTX', 'HTML', 'PDF', 'XPS', 'SVG', 'TIFF','PNG', 'BMP', 'JPEG', 'GIF', 'EMF','Graphics', 'Image', 'meta', 'metafile', 'Windows', 'Linux', 'PIP']
+tags: ['Aspose', 'Aspose.Total', 'Aspose.Diagram', 'Python', 'NET', 'Lirary', 'VSD', 'VSDX', 'VSDM', 'VSS', 'VSSM', 'VSSX', 'VST', 'VSTM', 'VSTX', 'VDX', 'VSX', 'VTX', 'HTML', 'PDF', 'XPS', 'SVG', 'TIFF','PNG', 'BMP', 'JPEG', 'GIF', 'EMF','Graphics', 'Image', 'meta', 'metafile', 'Windows', 'Linux', 'PIP']
 weight: 11
 ---
 
