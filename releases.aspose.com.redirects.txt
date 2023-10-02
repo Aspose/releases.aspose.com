@@ -70,5 +70,4 @@ rewrite /(.*)/page/cpp/new-releases/aspose.page-for-c-23.6-macos/$ https://relea
 rewrite /(.*)/cells/cpp/new-releases/aspose.cells-for-c-22.9linux/$ https://releases.aspose.com/$1/cells/cpp/new-releases/aspose.cells-for-c++-22.9linux/ permanent;
 rewrite /(.*)/words/cpp/new-releases/aspose.words-for-c-22.7-linux/$ https://releases.aspose.com/$1/words/cpp/new-releases/aspose.words-for-c++-22.7-linux/ permanent;
 rewrite /ja/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.0-windows-x64/$ https://releases.aspose.com/ja/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.1-windows-x64/ permanent;
-rewrite /zh/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8-maxos-x86/$ https://releases.aspose.com/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8-windows-x64/ permanent;
 rewrite /(.*)/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8-maxos-x86/64/$ https://releases.aspose.com/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8-maxos-x86/64/ permanent;
