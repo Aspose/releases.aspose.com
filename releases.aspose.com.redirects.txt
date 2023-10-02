@@ -72,4 +72,4 @@ rewrite /(.*)/words/cpp/new-releases/aspose.words-for-c-22.7-linux/$ https://rel
 rewrite /ja/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.0-windows-x64/$ https://releases.aspose.com/ja/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.1-windows-x64/ permanent;
 rewrite /(.*)/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8-maxos-x86/64/$ https://releases.aspose.com/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8-maxos-x86/64/ permanent;
 rewrite /(.*)/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8-maxos-x86/$ https://releases.aspose.com/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8-maxos-x86/64/ permanent;
-rewrite ^/tags/.net-3d-library/$ https://releases.aspose.com/tags/.net-3d-library permanent;
+rewrite ^/tags/.net-3d-library/$ https://releases.aspose.com/tags/net-3d-library permanent;
