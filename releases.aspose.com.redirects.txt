@@ -73,4 +73,4 @@ rewrite /ja/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.0-wi
 rewrite /(.*)/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8-maxos-x86/64/$ https://releases.aspose.com/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8.0-macos-x86-x64/ permanent;
 rewrite /(.*)/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8-maxos-x86/$ https://releases.aspose.com/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8.0-macos-x86-x64/ permanent;
 rewrite /tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8-maxos-x86/$ https://releases.aspose.com/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8.0-macos-x86-x64/ permanent;
-rewrite /tags/.net-3d-library/$ https://releases.aspose.com/tags/net-3d-library permanent;
+rewrite /tags/.net-3d-library/$ https://releases.aspose.com/tags/net-3d-library/ permanent;
