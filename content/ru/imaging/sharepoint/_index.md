@@ -28,7 +28,7 @@ Aspose.Imaging for SharePoint позволяет вам получать дос�
 {{< Common/link href="https://products.aspose.app/imaging/object-detection" text="Бесплатное онлайн-приложение для обнаружения объектов для идентификации объектов на изображениях"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="imaging" product="sharepoint" href="https://docs.aspose.com/imaging/sharepoint/release-notes/" text="https://docs.aspose.com/imaging/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="sharepoint" href="https://releases.aspose.com/imaging/sharepoint/release-notes/" text="https://releases.aspose.com/imaging/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

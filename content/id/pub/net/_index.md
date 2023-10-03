@@ -12,7 +12,7 @@ family_listing_page_package: "176"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.PUB/"
 weight:  1
-tags: ['Aspose.PUB', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'API', 'Component', 'Assembly', 'Windows', 'Azure', '.NET-Framework', '.NET-Core', '.NETCore2.0', '.NETCore2.1', 'Mono', 'Visual-Studio', 'VisualStudio', 'C#', 'CSharp', 'VB.NET', 'ASP.NET', 'Publisher', 'Publisher-API', 'PUB-to-PDF']
+tags: ['Aspose.PUB', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'API', 'Component', 'Assembly', 'Windows', 'Azure', '.NET-Framework', 'net-core', '.NETCore2.0', '.NETCore2.1', 'Mono', 'Visual-Studio', 'VisualStudio', 'C#', 'CSharp', 'VB.NET', 'ASP.NET', 'Publisher', 'Publisher-API', 'PUB-to-PDF']
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/pub" linktext=" Support Forum " >}}

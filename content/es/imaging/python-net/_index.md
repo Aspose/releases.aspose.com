@@ -16,7 +16,7 @@ weight: 5
 {{< Common/paragraph class="package-instructions">}}
 Aspose.imaging για το Python μέσω του .NET API, το οποίο είναι πλούσιο σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση χειρισμού εικόνων και API μετατροπής για την πλατφόρμα Python. Επίσης, η βιβλιοθήκη Aspose.Imaging υποστηρίζει το σχέδιο και την εργασία με γραφικά πρωτόγονα. Η εξαγωγή εικόνων και η μετατροπή (συμπεριλαμβανομένης της ομοιόμορφης επεξεργασίας εικόνας πολλαπλών σελίδων) είναι το ένα από τα χαρακτηριστικά του πυρήνα API μαζί με τους μετασχηματισμούς εικόνων (αλλαγή μεγέθους, καλλιέργεια, flip & περιστροφή, διπλωματίες, κλίμακα γκρι, προσαρμογή κλπ.) Μάσκες, deskewing) και στρατηγικές βελτιστοποίησης μνήμης.
 Χρησιμοποιήστε τα παρακάτω {{< Common/link href="https://pypi.org/project/aspose-imaging-python-net/" text="pip"  >}} command:
-{{< Common/release-notes-link family="imaging" product="python-net" href="https://docs.aspose.com/imaging/python-net/release-notes/" text="https://docs.aspose.com/imaging/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="python-net" href="https://releases.aspose.com/imaging/python-net/release-notes/" text="https://releases.aspose.com/imaging/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}

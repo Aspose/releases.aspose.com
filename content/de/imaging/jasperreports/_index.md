@@ -18,7 +18,7 @@ weight:  4
 {{< Common/h3 text="Laden Sie Aspose.Imaging herunter, um JasperReports® in Bildformate zu exportieren"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Imaging for JasperReports hilft Ihnen, Berichte aus JasperReports® in verschiedene unterstützte Bildformate zu exportieren.
-{{< Common/release-notes-link family="imaging" product="jasperreports" href="https://docs.aspose.com/imaging/jasperreports/release-notes/" text="https://docs.aspose.com/imaging/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="jasperreports" href="https://releases.aspose.com/imaging/jasperreports/release-notes/" text="https://releases.aspose.com/imaging/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

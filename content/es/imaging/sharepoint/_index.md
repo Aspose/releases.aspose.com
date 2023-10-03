@@ -28,7 +28,7 @@ Aspose.Imaging for SharePoint le permite acceder, editar y convertir imágenes d
 {{< Common/link href="https://products.aspose.app/imaging/object-detection" text="Aplicación gratuita de detección de objetos en línea para identificar objetos dentro de las imágenes"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="imaging" product="sharepoint" href="https://docs.aspose.com/imaging/sharepoint/release-notes/" text="https://docs.aspose.com/imaging/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="sharepoint" href="https://releases.aspose.com/imaging/sharepoint/release-notes/" text="https://releases.aspose.com/imaging/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

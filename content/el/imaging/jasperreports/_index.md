@@ -18,7 +18,7 @@ weight:  4
 {{< Common/h3 text="Κάντε λήψη του Aspose.Imaging για εξαγωγή του JasperReports® σε μορφές εικόνας"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Το Aspose.Imaging for JasperReports σάς βοηθά να εξάγετε αναφορές από το JasperReports® σε διάφορες υποστηριζόμενες μορφές εικόνας.
-{{< Common/release-notes-link family="imaging" product="jasperreports" href="https://docs.aspose.com/imaging/jasperreports/release-notes/" text="https://docs.aspose.com/imaging/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="jasperreports" href="https://releases.aspose.com/imaging/jasperreports/release-notes/" text="https://releases.aspose.com/imaging/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

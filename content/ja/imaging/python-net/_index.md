@@ -16,7 +16,7 @@ weight: 5
 {{< Common/paragraph class="package-instructions">}}
 Pythonプラットフォーム用の機能が豊富で強力で使いやすい画像操作と変換APIである.NET API経由のPythonのImaging。また、Imaging Libraryは、図面をサポートし、グラフィックプリミティブを使用します。画像のエクスポートと変換（均一なマルチページ画像処理を含む）は、APIコア機能の1つであり、画像変換（サイズ、作物、フリップ、回転、バイナリゼーション、グレースケール、調整など）、高度な画像操作機能（フィルタリング、ディザリング、ディザリング、マスキング、デッキー）およびメモリ最適化戦略。
 以下を使用してください {{< Common/link href="https://pypi.org/project/aspose-imaging-python-net/" text="pip"  >}} command:
-{{< Common/release-notes-link family="imaging" product="python-net" href="https://docs.aspose.com/imaging/python-net/release-notes/" text="https://docs.aspose.com/imaging/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="python-net" href="https://releases.aspose.com/imaging/python-net/release-notes/" text="https://releases.aspose.com/imaging/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}

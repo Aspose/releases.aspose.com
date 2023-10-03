@@ -28,7 +28,7 @@ Aspose.Imaging for SharePoint 使您能够访问、编辑和转换您的 SharePo
 {{< Common/link href="https://products.aspose.app/imaging/object-detection" text="免费的对象检测在线应用程序可识别图像中的对象"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="imaging" product="sharepoint" href="https://docs.aspose.com/imaging/sharepoint/release-notes/" text="https://docs.aspose.com/imaging/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="sharepoint" href="https://releases.aspose.com/imaging/sharepoint/release-notes/" text="https://releases.aspose.com/imaging/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

@@ -4,9 +4,9 @@ title: "Downloads ---New Releases-aspose.tasks-for-python-via-.net-23.9-maxos-x8
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.9-maxos-x86/64/"
+folder_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.9-macos-x86,-x64"
 folder_name: "Aspose.Tasks for Python via .NET 23.9 MaxOS x86/64"
-download_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.9-maxos-x86/64/f11e3224651e69eb702cd47d83f07da6-11-9527"
+download_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.9-macos-x86,-x64/f11e3224651e69eb702cd47d83f07da6-11-9527"
 download_text: "Download"
 intro_text: "It contains Aspose.Tasks for Python via .NET 23.9 MacOS only binaries"
 image_link: "/resources/img/random-file-icon.png"
@@ -17,7 +17,7 @@ section_parent_path: "tasks/python-net"
 
 tags: "Aspose.Tasks Python MacOS"
 release_notes_url: "https://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-9-release-notes/"
-weight: 28
+weight: 27
 
 ---
 
@@ -47,5 +47,3 @@ weight: 28
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

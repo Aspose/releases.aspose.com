@@ -16,7 +16,7 @@ weight: 5
 {{< Common/paragraph class="package-instructions">}}
 aspose.Imaging for Python通过.NET API，这是一个功能丰富，功能强大且易于使用的图像操作和Python平台的转换API。同样aspose。图书馆支持绘图和使用图形原始图。图像导出和转换（包括均匀的多页面图像处理）是API核心功能之一，以及图像转换（调整大小，作物，翻转和旋转，二进制，灰度，灰度，调整等），高级图像操纵功能（过滤，抖动，，，抖动，掩盖，脱翼）和内存优化策略。
 请使用以下 {{< Common/link href="https://pypi.org/project/aspose-imaging-python-net/" text="pip"  >}} command:
-{{< Common/release-notes-link family="imaging" product="python-net" href="https://docs.aspose.com/imaging/python-net/release-notes/" text="https://docs.aspose.com/imaging/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="python-net" href="https://releases.aspose.com/imaging/python-net/release-notes/" text="https://releases.aspose.com/imaging/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}

@@ -76,6 +76,8 @@ productLink: https://products.aspose.com/cad/java/
 releaseNotesLink: https://releases.aspose.com/cad/java/release-notes/
 dataFolder: aspose_cad
 packages_refs:
+- "23-7"
+- "23-6"
 - "23-5"
 - "23-4"
 - "23-3"
@@ -161,10 +163,10 @@ packages_refs:
 
 ### Supported Read & Write CAD Formats
 
-**AutoCAD®:** DXF (Write feature is partially supported)
+**AutoCAD®:** DXF (Write feature is partially supported)\
 **3D Geometry:** OBJ\
 **GL Binary:** GLTF/GLB\
-**Scalable Vector Graphics:** SVG
+**Scalable Vector Graphics:** SVG\
 **Others:** FBX, STEP(STP)
 
 ### Save CAD files As
