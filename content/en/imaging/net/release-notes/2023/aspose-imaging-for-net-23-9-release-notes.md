@@ -32,7 +32,7 @@ menuItemWithNoContent: false
 
 ### Added APIs:
 
-Class    Aspose.Imaging.Watermark.Options.ContentAwareFillWatermarkOptions
+Class     Aspose.Imaging.Watermark.Options.ContentAwareFillWatermarkOptions
 
 Class    Aspose.Imaging.Watermark.Options.TeleaWatermarkOptions
 
