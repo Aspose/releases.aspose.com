@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk17",
+  "artifactId" : "aspose-note",
+  "id" : "23-9",
+  "packageFiles" : [ {
+    "size" : "530 KB",
+    "name" : "aspose-note-23.9-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "10 MB",
+    "name" : "aspose-note-23.9-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-note-23.9.pom"
+  } ],
+  "releasehDate" : "2023-10-03T12:11:16+00:00",
+  "version" : "23.9",
+  "ReleaseNotes" : "https://releases.aspose.com/note/java/release-notes/2023/aspose-note-for-java-23-9-release-notes/"
+}
