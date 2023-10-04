@@ -56,7 +56,6 @@ releaseNotesLink: https://releases.aspose.com/html/java/release-notes/
 dataFolder: aspose_html
 packages_refs:
 - "23-8"
-- "23-8-0"
 - "23-5-1"
 - "23-5"
 - "23-4"
