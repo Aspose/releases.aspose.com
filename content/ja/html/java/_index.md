@@ -92,7 +92,7 @@ packages_refs:
 
 # HTMLファイル操作Java API
 
-{{< repository/extract-package-explore-link imgsrc=./aspose_html-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_html-for-java-banner.png >}}
 
 [製品ページ](https://products.aspose.com/html/java) | [ドキュメント](https://docs.aspose.com/html/java/) | [デモ](https://products.aspose.app/html/family) | [APIリファレンス](https://apireference.aspose.com/html/java) | [例](https://github.com/aspose-html/Aspose.Html-for-Java) | [ブログ](https://blog.aspose.com/category/html/) | [探す](https://search.aspose.com/) | [無料サポート](https://forum.aspose.com/c/html) | [一時ライセンス](https://purchase.aspose.com/temporary-license)
 
