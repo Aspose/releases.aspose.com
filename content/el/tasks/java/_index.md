@@ -115,7 +115,7 @@ packages_refs:
 ---
 
 # API Microsoft Project File
-{{< repository/extract-package-explore-link imgsrc=./aspose_tasks-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_tasks-for-java-banner.png >}}
 
 [Σελίδα προϊόντος](https://products.aspose.com/tasks/java) | [Έγγραφα](https://docs.aspose.com/tasks/java/) | [Επίδειξη](https://products.aspose.app/tasks/family) | [Αναφορά API](https://apireference.aspose.com/tasks/java) | [Παραδείγματα](https://github.com/aspose-tasks/Aspose.Tasks-for-Java) | [Ιστολόγιο](https://blog.aspose.com/category/tasks/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/tasks) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)
 
