@@ -213,7 +213,7 @@ packages_refs:
 ---
 
 # Java API для различных форматов документов
-{{< repository/extract-package-explore-link imgsrc=./aspose_words-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_words-for-java-banner.png >}}
 
 [Страница продукта](https://products.aspose.com/words/java) | [Док](https://docs.aspose.com/words/java/) | [Демо](https://products.aspose.app/words/family) | [Ссылка на API](https://apireference.aspose.com/words/java) | [Примеры](https://github.com/aspose-words/Aspose.Words-for-Java/tree/master/Примеры) | [Блог](https://blog.aspose.com/category/words/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/c/words) | [Временная лицензия](https://purchase.aspose.com/temporary-license)
 
