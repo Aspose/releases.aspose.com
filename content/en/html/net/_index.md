@@ -1,6 +1,6 @@
 ---
 title: "Download C# Library to Process CSS & HTML | Aspose.HTML API"
-description: "Download C# Class Library DLL to read, modify, navigate & convert XHTML, HTML files via on-premise .NET API. Supports parsing of HTML5, CSS3, SVG & HTML Canvas."
+description: "Download C# Class Library DLL to read, modify, navigate, convert & download website XHTML, HTML files via on-premise .NET API. Supports parsing of HTML5, CSS3, SVG & HTML Canvas."
 keywords: "HTML Library C#"
 linktitle: "Aspose.HTML for .NET"
 family_listing_page_title: "Aspose.HTML for .NET"
@@ -12,7 +12,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "8"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.HTML/"
-tags: ['HTML-to-Image', 'HTML-to-PDF', 'HTML-to-XPS', 'HTML-to-DOCX', 'HTML-to-MHTML', 'HTML-to-Markdown', 'HTML-to-MD', 'EPUB-to-Image', 'EPUB-to-PDF', 'EPUB-to-XPS', 'Markdown-to-HTML', 'MD-to-HTML', 'HTML-Converter', 'XHTML-to-PDF', 'MHTML-to-PDF', 'HTML-to-GIF', 'MHTML-to-JPG']
+tags: ['HTML-to-Image', 'HTML-to-PDF', 'HTML-to-XPS', 'HTML-to-DOCX', 'HTML-to-MHTML', 'HTML-to-Markdown', 'HTML-to-MD', 'EPUB-to-Image', 'EPUB-to-PDF', 'EPUB-to-XPS', 'Markdown-to-HTML', 'MD-to-HTML', 'HTML-Converter', 'XHTML-to-PDF', 'MHTML-to-PDF', 'HTML-to-GIF', 'MHTML-to-JPG', 'download-website', 'website-downloader', 'download-html-image', 'download-file-from-url']
 weight:  1
 ---
 
@@ -31,7 +31,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Html/" text="Nu
 
 ![Nuget](https://img.shields.io/nuget/v/Aspose.Html) ![Nuget](https://img.shields.io/nuget/dt/Aspose.Html?label=nuget%20downloads)
 
-[Product Page](https://products.aspose.com/html/net/) | [Docs](https://docs.aspose.com/html/net/) | [Demos](https://products.aspose.app/html/family) | [API Reference](https://reference.aspose.com/html/net/) | [Examples](https://github.com/aspose-html/Aspose.Html-for-.NET) | [Blog](https://blog.aspose.com/category/html/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/html) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+[Product Page](https://products.aspose.com/html/net/) | [Docs](https://docs.aspose.com/html/net/) | [New Releases](https://releases.aspose.com/html/net/) | [Demos](https://products.aspose.app/html/family) | [API Reference](https://reference.aspose.com/html/net/) | [Examples](https://github.com/aspose-html/Aspose.Html-for-.NET) | [Blog](https://blog.aspose.com/category/html/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/html) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 This .NET HTML API assists developers to write, read, modify, navigate and convert (X)HTML documents from within .NET applications.
 
