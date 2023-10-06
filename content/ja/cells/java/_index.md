@@ -174,7 +174,7 @@ packages_refs:
 
 # excelファイル形式のJava API
 
-{{< repository/extract-package-explore-link imgsrc=./aspose_cells-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_cells-for-java-banner.png >}}
 
 [製品ページ](https://products.aspose.com/cells/java) | [ドキュメント](https://docs.aspose.com/cells/java/) | [デモ](https://products.aspose.app/cells/family) | [APIリファレンス](https://apireference.aspose.com/cells/java) | [例](https://github.com/aspose-cells/Aspose.Cells-for-Java) | [ブログ](https://blog.aspose.com/category/cells/) | [探す](https://search.aspose.com/) | [無料サポート](https://forum.aspose.com/c/cells) | [一時ライセンス](https://purchase.aspose.com/temporary-license)
 
