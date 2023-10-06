@@ -104,7 +104,7 @@ packages_refs:
 ---
 
 # Bibliothèque Java OCR
-{{< repository/extract-package-explore-link imgsrc=./aspose_ocr-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_ocr-for-java-banner.png >}}
 
 [Page de produit](https://products.aspose.com/ocr/java) | [Docs](https://docs.aspose.com/ocr/java/) | [Démos](https://products.aspose.app/ocr/family) | [Référence de l'API](https://apireference.aspose.com/ocr/java) | [Exemples](https://github.com/aspose-ocr/Aspose.OCR-for-Java) | [Blog](https://blog.aspose.com/category/ocr/) | [Chercher](https://search.aspose.com/) | [Support gratuit](https://forum.aspose.com/c/ocr) | [Licence temporaire](https://purchase.aspose.com/temporary-license)
 
