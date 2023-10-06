@@ -50,7 +50,6 @@ namespace Aspose.Html.Accessibility
     ///
     /// https://www.w3.org/WAI/WCAG21/quickref/
     /// </summary>
-
     public class AccessibilityRules
     {
         /// <summary>
@@ -108,12 +107,13 @@ namespace Aspose.Html.Accessibility
         }
     }
 }
+
 namespace Aspose.Html.Dom
 {
     /// <summary>
     /// The Element interface represents an element in an HTML or XML document.
     /// </summary>
-    public class Element : Node, IParentNode, IChildNode //, INonDocumentTypeChildNode 
+    public class Element
     {
         /// <summary>
         /// Returns the attribute names of the element as an Array of strings. If the element has no attributes it returns an empty array.
@@ -189,6 +189,7 @@ namespace Aspose.Html.Dom
         /// </summary>
         void Clear();
     }
+	
     /// <summary>
     /// Represents an HTML qualified name.
     /// </summary>
@@ -242,6 +243,7 @@ namespace Aspose.Html.Dom
         public override bool Equals(object obj)
         {
         }
+		
         /// <summary>
         /// Provides a hash value for the current object.
         /// </summary>
@@ -249,6 +251,7 @@ namespace Aspose.Html.Dom
         public override int GetHashCode()
         {
         }
+		
         /// <summary>
         /// Returns a string that represents the current object.
         /// </summary>
@@ -258,6 +261,7 @@ namespace Aspose.Html.Dom
         }
     }
 }
+
 namespace Aspose.Html.Window
 {
     /// <summary>
@@ -367,7 +371,6 @@ namespace Aspose.Html.Collections
     public class NamedNodeMap : DOMObject
     {
     }
-    }
 }
 
 namespace Aspose.Html.Accessibility
@@ -379,6 +382,7 @@ namespace Aspose.Html.Accessibility
     public interface IRuleResult
     {
     }
+	
     //To
     /// <summary>
     /// Describes the result of the technique validation.
@@ -397,6 +401,7 @@ namespace Aspose.Html.Accessibility.Results
     public class CriterionResult 
     {
     }
+	
     //To
     /// <summary>
     /// Class - result of rule check, contains a list of <see cref="ITechniqueResult"/>, which are ways to satisfy the success criteria.
@@ -428,9 +433,7 @@ namespace Aspose.Html.Accessibility
         /// </summary>
         public static ValidationBuilder All
         {
-            get
-            {
-            }
+            get;
         }
         
         //From
@@ -440,15 +443,14 @@ namespace Aspose.Html.Accessibility
         /// The array of levels is empty and the check goes through all levels
         /// </summary>
         public static readonly ValidationBuilder Default();
+		
         //To
         /// <summary>
         /// Default settings: only General technologies is used and for Lowest criterion level
         /// </summary>
         public static ValidationBuilder Default
         {
-            get
-            {
-            }
+            get;
         }
         
         //From
@@ -465,38 +467,36 @@ namespace Aspose.Html.Accessibility
         /// </summary>
         public static ValidationBuilder None
         {
-            get
-            {
-            }
+            get;
         }
     }
 }
+
 namespace Aspose.Html.Collections
 {
     /// <summary>
     /// The DOMTokenList class represents a set of space-separated tokens. It is indexed beginning with 0 as with JavaScript Array objects. DOMTokenList is always case-sensitive.
     /// </summary>
-    [DOMObject]
-    [DOMName("DOMTokenList")]
-    [PublicAPI(TargetProduct.ALL)]
     public class DOMTokenList : DOMObject, IEnumerable<string>
     {
         //From
         /// <summary>
         /// Returns an ulong which represents the number of tokens stored in this list.
         /// </summary>
-         public ulong Length{ get;set;}
+         public ulong Length{ get;set; }
+		 
         //To
         /// <summary>
         /// Returns an ulong which represents the number of tokens stored in this list.
         /// </summary>
-        public uint Length{ get;set;}
+        public uint Length{ get;set; }
 
         //From
         public string this[ulong index]
         {
             get;
         }
+		
         //To
         public string this[uint index]
         {
@@ -520,6 +520,7 @@ namespace Aspose.Html.Dom
         public Element(IElementInit elementInit)
         {
         }
+		
         //To
         /// <summary>
         /// Initializes a new instance of the <see cref="Element"/> class. Don't call this constructor directly, use <see cref="Document.CreateElement"/> or <see cref="Document.CreateElementNS"/>.
