@@ -134,7 +134,7 @@ packages_refs:
 ---
 
 # Java API для обработки трехмерного изображения
-{{< repository/extract-package-explore-link imgsrc=./aspose_3d-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_3d-for-java-banner.png >}}
 
 [Страница продукта](https://products.aspose.com/3d/java) | [Док](https://docs.aspose.com/3d/java/) | [Демо](https://products.aspose.app/3d/family) | [Ссылка на API](https://apireference.aspose.com/3d/java) | [Примеры](https://github.com/aspose-3d/Aspose.3D-for-Java) | [Блог](https://blog.aspose.com/category/3d/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/c/3d) | [Временная лицензия](https://purchase.aspose.com/temporary-license)
 
