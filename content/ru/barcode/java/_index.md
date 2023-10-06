@@ -230,7 +230,7 @@ packages_refs:
 ---
 
 # Библиотека штрих -кодов для приложений Java
-{{< repository/extract-package-explore-link imgsrc=./aspose_barcode-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_barcode-for-java-banner.png >}}
 
 [Страница продукта](https://products.aspose.com/barcode/java) | [Док](https://docs.aspose.com/barcode/java/) | [Демо](https://products.aspose.app/barcode/family) | [Ссылка на API](https://apireference.aspose.com/barcode/java) | [Примеры](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [Блог](https://blog.aspose.com/category/barcode/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/c/barcode) | [Временная лицензия](https://purchase.aspose.com/temporary-license)
 

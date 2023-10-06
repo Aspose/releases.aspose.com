@@ -230,7 +230,7 @@ packages_refs:
 ---
 
 # 用于Java应用程序的条形码库
-{{< repository/extract-package-explore-link imgsrc=./aspose_barcode-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_barcode-for-java-banner.png >}}
 
 [产品页面](https://products.aspose.com/barcode/java) | [文档](https://docs.aspose.com/barcode/java/) | [演示](https://products.aspose.app/barcode/family) | [API参考](https://apireference.aspose.com/barcode/java) | [例子](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [博客](https://blog.aspose.com/category/barcode/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/barcode) | [临时许可](https://purchase.aspose.com/temporary-license)
 
