@@ -65,7 +65,7 @@ packages_refs:
 ---
 
 # Java API TEX DOSYALARI YAZILARI İÇİN
-{{< repository/extract-package-explore-link imgsrc=./aspose_tex-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_tex-for-java-banner.png >}}
 
 [Ürün sayfası](https://products.aspose.com/tex/java) | [Belgeler](https://downloads.aspose.com/tex/java) | [Demolar](https://products.aspose.app/tex/family) | [API referansı](https://apireference.aspose.com/tex/java) | [Örnekler](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/Örnekler) | [Blog](https://blog.aspose.com/category/tex/) | [Ücretsiz Destek](https://forum.aspose.com/c/tex) | [Geçici lisans](https://purchase.aspose.com/temporary-license)
 
