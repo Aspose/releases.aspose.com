@@ -39,7 +39,7 @@ This .NET HTML API assists developers to write, read, modify, navigate and conve
 
 Aspose.HTML for .NET API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform manipulation operations such as remove and replace HTML nodes, save HTML documents, extract CSS from HTML, configure a document sandbox and more. You may navigate HTML documents by using various methods, such as, element traversal, document traversal, XPath queries, and CSS selector queries as well as manipulate HTML DOM via JavaScript, convert HTML file to images or fixed-layout formats, and convert (X)HTML and EPUB files to other file formats.
 
-It helps you create, modify, extract, copy, delete and replace HTML document content, extract CSS from HTML, configure a document sandbox; load, read, and manage SVG files; render MHTML and EPUB documents to supported output file formats, and perform asynchronous operations.
+It helps you create, modify, extract, copy, delete, replace and download HTML document content, extract CSS from HTML, configure a document sandbox; load, read, and manage SVG files; render MHTML and EPUB documents to supported output file formats, and perform asynchronous operations.
 
 This library supports parsing of HTML5, CSS3, SVG and HTML Canvas to construct a Document Object Model (DOM) based on the WHATWG DOM Standard. Insert, remove, and edit the nodes. You can navigate HTML documents by using various methods, such as element traversal, document traversal, XPath queries, and CSS selector queries as well as manipulate HTML DOM via JavaScript.
 
