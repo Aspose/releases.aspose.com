@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-email",
+  "id" : "23-9",
+  "packageFiles" : [ {
+    "size" : "4 MB",
+    "name" : "aspose-email-23.9-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "13 MB",
+    "name" : "aspose-email-23.9-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-email-23.9.pom"
+  } ],
+  "releasehDate" : "2023-10-08T19:00:49+00:00",
+  "version" : "23.9",
+  "ReleaseNotes" : "https://docs.aspose.com/email/java/aspose-email-for-java-23-9-release-notes/"
+}
