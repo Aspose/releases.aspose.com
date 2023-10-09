@@ -2,6 +2,7 @@
 title: "Render Barcodes in SSRS Reports | Aspose.BarCode for Reporting Services"
 description: "Download SSRS Barcode Extension to render linear and 2D barcodes within Microsoft SQL Server Reporting Services. Barcode labels can be encoded with Non-English characters and rendered in BMP, JPEG, GIF and PNG formats. "
 keywords: "SSRS Barcode extension "
+linktitle: "Aspose.BarCode for ReportingServices"
 family_listing_page_title: "Aspose.BarCode for ReportingServices"
 family_listing_page_description: "Aspose.BarCode for Reporting Services is a comprehensive solution for rendering linear and 2D barcode images within Microsoft SQL Server Reporting Services. Barcode labels can be encoded with Non-English characters and rendered in BMP, JPEG, GIF and PNG formats."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-reporting-services-min.png"
