@@ -214,7 +214,7 @@ packages_refs:
 ---
 
 # Java -API für verschiedene Dokumentformate
-{{< repository/extract-package-explore-link imgsrc=./aspose_words-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_words-for-java-banner.png >}}
 
 [Produktseite](https://products.aspose.com/words/java) | [Dokumente](https://docs.aspose.com/words/java/) | [Demos](https://products.aspose.app/words/family) | [API -Referenz](https://apireference.aspose.com/words/java) | [Beispiele](https://github.com/aspose-words/Aspose.Words-for-Java/tree/master/Beispiele) | [Blog](https://blog.aspose.com/category/words/) | [Suche](https://search.aspose.com/) | [Freie Unterstützung](https://forum.aspose.com/c/words) | [Vorübergehende Lizenz](https://purchase.aspose.com/temporary-license)
 

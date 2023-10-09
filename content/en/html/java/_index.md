@@ -1,7 +1,7 @@
 ---
 title: Aspose.HTML | Java Class Library to Manipulate HTML Files
 linktitle: "Aspose.HTML for Java"
-description: Java class library to write, edit, parse, read, translate and convert HTML, XHTML, MHTML, and EPUB formats. Also supports manipulating DOM via JavaScript.
+description: Java class library to write, edit, parse, read, translate, convert and download website HTML, XHTML, MHTML, and EPUB formats. Also supports manipulating DOM via JavaScript.
 layout: packages
 type: repository
 categories:
@@ -48,7 +48,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "9"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-html/"
-tags: ["Aspose Total", "Aspose HTML", "Aspose Java API", "html java library", "html java class", "Maven", "html converter", "svg converter", "mhtml converter", "markdown converter", "template converter", "html to image", "html to pdf", "html to xps", "html to mhtml", "html to markdown", "svg to image", "svg to pdf", "svg to xps", "epub to image", "epub to pdf", "epub to xps", "mhtml to image", "mhtml to pdf", "mhtml to xps", "markdown to html", "html template", "html navigation", "html5", "DOM", "html form editor", "css extension"]
+tags: ["Aspose Total", "Aspose HTML", "Aspose Java API", "html java library", "html java class", "Maven", "html converter", "svg converter", "mhtml converter", "markdown converter", "template converter", "html to image", "html to pdf", "html to xps", "html to mhtml", "html to markdown", "svg to image", "svg to pdf", "svg to xps", "epub to image", "epub to pdf", "epub to xps", "mhtml to image", "mhtml to pdf", "mhtml to xps", "markdown to html", "html template", "html navigation", "html5", "DOM", "html form editor", "css extension", 'download-website', 'website-downloader', 'download-html-image', 'download-file-from-url']
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/html/29
 productLink: https://products.aspose.com/html/java/
@@ -98,7 +98,7 @@ packages_refs:
 
 # HTML File Manipulation Java API
 
-{{< repository/extract-package-explore-link imgsrc=./aspose_html-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_html-for-java-banner.png >}}
 
 [Product Page](https://products.aspose.com/html/java) | [Docs](https://docs.aspose.com/html/java/) | [Demos](https://products.aspose.app/html/family) | [API Reference](https://apireference.aspose.com/html/java) | [Examples](https://github.com/aspose-html/Aspose.Html-for-Java) | [Blog](https://blog.aspose.com/category/html/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/html) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
@@ -125,6 +125,8 @@ Aspose.HTML for Java API works as a headless browser that allows you to [create 
 - Convert HTML documents into various supported image formats: JPEG, PNG, BMP, TIFF
 - Convert HTML documents to PDF format
 - Convert HTML documents to XPS format.
+- Download HTML Website Documents
+
 
 ## Read & Write Web Formats
 

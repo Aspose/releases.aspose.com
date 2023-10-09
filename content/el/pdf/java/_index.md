@@ -222,7 +222,7 @@ packages_refs:
 ---
 
 # Java API για επεξεργασία και χειρισμό αρχείων PDF
-{{< repository/extract-package-explore-link imgsrc=./aspose_pdf-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_pdf-for-java-banner.png >}}
 
 [Σελίδα προϊόντος](https://products.aspose.com/pdf/java) | [Έγγραφα](https://docs.aspose.com/pdf/java/) | [Επίδειξη](https://products.aspose.app/pdf/family) | [Αναφορά API](https://apireference.aspose.com/pdf/java) | [Παραδείγματα](https://github.com/aspose-pdf/Aspose.PDF-for-Java/tree/master/Παραδείγματα) | [Ιστολόγιο](https://blog.aspose.com/category/pdf/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/pdf) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)
 

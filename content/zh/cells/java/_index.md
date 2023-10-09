@@ -173,7 +173,7 @@ packages_refs:
 ---
 
 # Excel文件格式的Java API
-{{< repository/extract-package-explore-link imgsrc=./aspose_cells-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_cells-for-java-banner.png >}}
 
 [产品页面](https://products.aspose.com/cells/java) | [文档](https://docs.aspose.com/cells/java/) | [演示](https://products.aspose.app/cells/family) | [API参考](https://apireference.aspose.com/cells/java) | [例子](https://github.com/aspose-cells/Aspose.Cells-for-Java) | [博客](https://blog.aspose.com/category/cells/) | [搜索](https://search.aspose.com/) | [免费支持](https://forum.aspose.com/c/cells) | [临时许可](https://purchase.aspose.com/temporary-license)
 

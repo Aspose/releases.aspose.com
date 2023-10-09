@@ -80,7 +80,7 @@ packages_refs:
 ---
 
 # Çeşitli yazı tipi formatları için Java API
-{{< repository/extract-package-explore-link imgsrc=./aspose_font-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_font-for-java-banner.png >}}
 
 [Ürün sayfası](https://products.aspose.com/font/java) | [Belgeler](https://docs.aspose.com/font/java/) | [API referansı](https://apireference.aspose.com/font/java) | [Örnekler](https://github.com/aspose-font/Aspose.Font-for-Java) | [Blog](https://blog.aspose.com/category/font/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/font) | [Geçici lisans](https://purchase.aspose.com/temporary-license)
 

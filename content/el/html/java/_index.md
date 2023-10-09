@@ -91,7 +91,7 @@ packages_refs:
 ---
 
 # Html αρχείο χειρισμού java api
-{{< repository/extract-package-explore-link imgsrc=./aspose_html-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_html-for-java-banner.png >}}
 
 [Σελίδα προϊόντος](https://products.aspose.com/html/java) | [Έγγραφα](https://docs.aspose.com/html/java/) | [Επίδειξη](https://products.aspose.app/html/family) | [Αναφορά API](https://apireference.aspose.com/html/java) | [Παραδείγματα](https://github.com/aspose-html/Aspose.Html-for-Java) | [Ιστολόγιο](https://blog.aspose.com/category/html/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/html) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)
 

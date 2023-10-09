@@ -104,7 +104,7 @@ packages_refs:
 ---
 
 # Java OCR Kütüphanesi
-{{< repository/extract-package-explore-link imgsrc=./aspose_ocr-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_ocr-for-java-banner.png >}}
 
 [Ürün sayfası](https://products.aspose.com/ocr/java) | [Belgeler](https://docs.aspose.com/ocr/java/) | [Demolar](https://products.aspose.app/ocr/family) | [API referansı](https://apireference.aspose.com/ocr/java) | [Örnekler](https://github.com/aspose-ocr/Aspose.OCR-for-Java) | [Blog](https://blog.aspose.com/category/ocr/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/ocr) | [Geçici lisans](https://purchase.aspose.com/temporary-license)
 

@@ -154,7 +154,7 @@ packages_refs:
 ---
 
 # API Java para Microsoft Visio & Reg; Formatos de archivo
-{{< repository/extract-package-explore-link imgsrc=./aspose_diagram-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_diagram-for-java-banner.png >}}
 
 [Página del producto](https://products.aspose.com/diagram/java) | [Documentos](https://docs.aspose.com/diagram/java/) | [Población](https://products.aspose.app/diagram/family) | [Referencia de API](https://apireference.aspose.com/diagram/java) | [Ejemplos](https://github.com/aspose-diagram/Aspose.Diagram-for-Java) | [Blog](https://blog.aspose.com/category/diagram/) | [Búsqueda](https://search.aspose.com/) | [Soporte gratuito](https://forum.aspose.com/c/diagram) | [Licencia temporal](https://purchase.aspose.com/temporary-license)
 
