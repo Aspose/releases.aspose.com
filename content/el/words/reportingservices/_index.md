@@ -17,7 +17,7 @@ weight:  4
 {{< Common/h3 text="Κάντε λήψη του Aspose.Words για εξαγωγή αναφορών RDL & RDLC"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Το Aspose.Words for Reporting Services σάς βοηθά να χειρίζεστε και να εξάγετε αναφορές RDL & RDLC σε διάφορες υποστηριζόμενες μορφές αρχείων (π.χ. OOXML, DOC, RTF και WordprocessingML, κ.λπ.) μέσα από τις Υπηρεσίες αναφοράς MS SQL Server.
-{{< Common/release-notes-link family="words" product="reportingservices" href="https://docs.aspose.com/words/reportingservices/release-notes/" text="https://docs.aspose.com/words/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="reportingservices" href="https://releases.aspose.com/words/reportingservices/release-notes/" text="https://releases.aspose.com/words/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

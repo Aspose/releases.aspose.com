@@ -2,6 +2,7 @@
 title: "Deliver Reports in PDF & XPS | Aspose.PDF for Reporting Services"
 description: "Download robust rendering extension that fulfills the need to build business intelligence and reporting solutions for generating PDF, PDF/A and XPS reports from Microsoft SQL Server Reporting Services. "
 keywords: "RDL to PDF, RDL to XPS "
+linktitle: "Aspose.PDF for Reporting Services"
 family_listing_page_title: "Aspose.PDF for Reporting Services"
 family_listing_page_description: "Aspose.PDF for Reporting Services is a robust rendering extension to produce PDF, PDF/A and XPS reports from Microsoft SQL Server Reporting Services."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-reporting-services-min.png"
@@ -17,7 +18,7 @@ weight: 5
 {{< Common/h3 text="Download Aspose.PDF Rendering Extension for SQL Reports"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF for Reporting Services is a report rendering extension that seamlessly integrates with Microsoft SQL Server&reg; Reporting Services. Supports to manipulate RDL features and export to the supported formats in a highly accurate manner.
-{{< Common/release-notes-link family="pdf" product="reportingservices" href="https://docs.aspose.com/pdf/reportingservices/release-notes/" text="https://docs.aspose.com/pdf/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="reportingservices" href="https://releases.aspose.com/pdf/reportingservices/release-notes/" text="https://releases.aspose.com/pdf/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

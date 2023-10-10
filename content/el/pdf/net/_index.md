@@ -22,7 +22,7 @@ weight:  1
 Ανοιξε
 {{< Common/link href="https://www.nuget.org/packages/Aspose.PDF/" text="NuGet"  >}}Package Manager στο Microsoft Visual Studio®, αναζητήστε το <b>Aspose.PDF</b> και εγκαταστήστε το. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή στην Κονσόλα του Package Manager. Για αναλυτικές οδηγίες, επισκεφθείτε το
 {{< Common/link href="https://docs.aspose.com/pdf/net/installation/" text="Εγκατάσταση"  >}}σελίδα τεκμηρίωσης.
-{{< Common/release-notes-link family="pdf" product="net" href="https://docs.aspose.com/pdf/net/release-notes/" text="https://docs.aspose.com/pdf/net/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="net" href="https://releases.aspose.com/pdf/net/release-notes/" text="https://releases.aspose.com/pdf/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

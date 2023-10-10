@@ -25,7 +25,7 @@ Aspose.Words для Android через Java добавляет возможно�
 Вы можете легко использовать Aspose.Words for Java непосредственно из
 {{< Common/link href="https://repository.aspose.com/words/" text="Мавен"  >}}на основе проекта, добавив следующие конфигурации в файл build.gradle.
 
-{{< Common/release-notes-link family="words" product="androidjava" href="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/" text="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/"  >}}
+{{< Common/release-notes-link family="words" product="androidjava" href="https://releases.aspose.com/words/androidjava/release-notes/" text="https://releases.aspose.com/words/androidjava/release-notes/"  >}}
 
 {{< /Common/paragraph>}}
 

@@ -2,6 +2,7 @@
 title: "Download C++ PDF Library Create, Annotate, Edit | Aspose.PDF"
 description: "Download PDF C++ DLL Class Library to create, edit, render & convert PDF, PDF/A files to DOC, DOCX via API. Supports images, security, signatures, text, tables."
 keywords: "C++ PDF Library, C++ PDF API"
+linktitle: "Aspose.PDF for C++"
 family_listing_page_title: "Aspose.PDF for C++"
 family_listing_page_description: "Aspose.PDF for C++ is a native C++ library that enables the developers to add PDF handling capabilities to their C++ applications. The library allows to perform a wide range of document processing tasks including creation of PDF files, form processing, text & page manipulation, management of annotations, attachments, bookmarks, custom font handling and much more."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-cpp.png"
@@ -20,7 +21,7 @@ weight:  3
 {{< Common/h3 text="Download C++ Library to Process & Manipulate PDF Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.PDF.Cpp/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.PDF.Cpp</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/pdf/cpp/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="pdf" product="cpp" href="https://docs.aspose.com/pdf/cpp/release-notes/" text="https://docs.aspose.com/pdf/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="cpp" href="https://releases.aspose.com/pdf/cpp/release-notes/" text="https://releases.aspose.com/pdf/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

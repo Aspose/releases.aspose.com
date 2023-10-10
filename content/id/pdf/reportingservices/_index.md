@@ -17,7 +17,7 @@ weight: 5
 {{< Common/h3 text="Unduh Aspose.PDF Rendering Extension untuk Laporan SQL"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF untuk Layanan Pelaporan adalah ekstensi rendering laporan yang terintegrasi dengan mulus dengan Layanan Pelaporan Microsoft SQL Server®. Mendukung untuk memanipulasi fitur RDL dan mengekspor ke format yang didukung dengan cara yang sangat akurat.
-{{< Common/release-notes-link family="pdf" product="reportingservices" href="https://docs.aspose.com/pdf/reportingservices/release-notes/" text="https://docs.aspose.com/pdf/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="reportingservices" href="https://releases.aspose.com/pdf/reportingservices/release-notes/" text="https://releases.aspose.com/pdf/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

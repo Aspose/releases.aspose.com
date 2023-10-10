@@ -17,7 +17,7 @@ weight: 6
 {{< Common/h3 text="Unduh Aspose.PDF untuk Mengekspor, Mengonversi PDF di SharePoint®"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF untuk SharePoint membantu Anda bekerja dengan, mengekspor, mengonversi, dan menggabungkan file PDF dalam situs SharePoint Anda.
-{{< Common/release-notes-link family="pdf" product="sharepoint" href="https://docs.aspose.com/pdf/sharepoint/release-notes/" text="https://docs.aspose.com/pdf/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="sharepoint" href="https://releases.aspose.com/pdf/sharepoint/release-notes/" text="https://releases.aspose.com/pdf/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

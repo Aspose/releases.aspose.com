@@ -3,6 +3,7 @@
 title: "Aspose.PDF for Python via C++"
 description:  "Aspose.PDF for Python via C++ enables you to develop your own Python applications and distribute them worldwide."
 keywords:  "Python via C++, Python PDF toolkit"
+linktitle: "Aspose.PDF for Python via C++"
 family_listing_page_title:  "Aspose.PDF for Python via C++"
 family_listing_page_description:  "Aspose.PDF for Python via C++ is a easy and secure toolkit used to work with PDF directly."
 family_listing_page_iconurl:  "https://products.aspose.com/pdf/images/aspose_pdf-for-python-cpp.svg"

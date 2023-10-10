@@ -17,7 +17,7 @@ weight: 5
 {{< Common/h3 text="Aspose.Words をダウンロードして SharePoint® のドキュメントを変換"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Words for SharePoint は、レポート、ドキュメント変換、および SharePoint® ワークフローを操作できるようにすることで、SharePoint ドキュメントとの対話性を強化します。
-{{< Common/release-notes-link family="words" product="sharepoint" href="https://docs.aspose.com/words/sharepoint/release-notes/" text="https://docs.aspose.com/words/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="sharepoint" href="https://releases.aspose.com/words/sharepoint/release-notes/" text="https://releases.aspose.com/words/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

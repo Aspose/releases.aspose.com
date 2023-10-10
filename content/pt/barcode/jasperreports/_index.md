@@ -18,7 +18,7 @@ weight:  6
 {{< Common/h3 text="Baixe o Aspose.BarCode para exibir códigos de barras no JasperReports®"  >}}
 {{< Common/paragraph class="package-instructions">}}
 O Aspose.BarCode para JasperReports permite renderizar códigos de barras lineares e 2D de mais de 25 simbologias em vários formatos de imagem suportados e exibi-los no JasperReports®.
-{{< Common/release-notes-link family="barcode" product="jasperreports" href="https://docs.aspose.com/barcode/jasperreports/release-notes/" text="https://docs.aspose.com/barcode/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="jasperreports" href="https://releases.aspose.com/barcode/jasperreports/release-notes/" text="https://releases.aspose.com/barcode/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

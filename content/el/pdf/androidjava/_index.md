@@ -25,7 +25,7 @@ weight:  4
 Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.PDF για Java απευθείας από ένα
 {{< Common/link href="https://repository.aspose.com/pdf/" text="Maven"  >}}βασισμένο έργο προσθέτοντας τις ακόλουθες διαμορφώσεις στο build.gradle.
 
-{{< Common/release-notes-link family="pdf" product="androidjava" family="pdf" product="androidjava" href="https://docs.aspose.com/pdf/androidjava/aspose-pdf-for-android-via-java/" text="https://docs.aspose.com/pdf/androidjava/aspose-pdf-for-android-via-java/"  >}}
+{{< Common/release-notes-link family="pdf" product="androidjava" family="pdf" product="androidjava" href="https://releases.aspose.com/pdf/androidjava/release-notes/" text="https://releases.aspose.com/pdf/androidjava/release-notes/"  >}}
 
 {{< /Common/paragraph>}}
 

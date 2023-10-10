@@ -18,7 +18,7 @@ weight: 5
 {{< Common/h3 text="Download Aspose.BarCode to display Barcodes in SQL Reports"  >}}
 {{< Common/paragraph class="package-instructions">}}
 {{< Common/link href="https://products.aspose.com/barcode/reporting-services/" text="Aspose.BarCode for Reporting Services"  >}} enables you to render and display high-quality barcodes for many popular barcode symbologies within your SQL reports.
-{{< Common/release-notes-link family="barcode" product="reportingservices" href="https://docs.aspose.com/barcode/reportingservices/release-notes/" text="https://docs.aspose.com/barcode/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="reportingservices" href="https://releases.aspose.com/barcode/reportingservices/release-notes/" text="https://releases.aspose.com/barcode/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

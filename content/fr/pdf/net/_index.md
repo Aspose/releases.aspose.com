@@ -22,7 +22,7 @@ weight:  1
 Ouvert
 {{< Common/link href="https://www.nuget.org/packages/Aspose.PDF/" text="NuGet"  >}}Gestionnaire de packages dans Microsoft Visual Studio®, recherchez <b>Aspose.PDF</b> et installez. Vous pouvez également utiliser la commande suivante dans la console du gestionnaire de packages. Pour les instructions détaillées, veuillez visiter le
 {{< Common/link href="https://docs.aspose.com/pdf/net/installation/" text="Installation"  >}}page documentaire.
-{{< Common/release-notes-link family="pdf" product="net" href="https://docs.aspose.com/pdf/net/release-notes/" text="https://docs.aspose.com/pdf/net/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="net" href="https://releases.aspose.com/pdf/net/release-notes/" text="https://releases.aspose.com/pdf/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

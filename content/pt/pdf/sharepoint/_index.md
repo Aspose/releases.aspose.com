@@ -17,7 +17,7 @@ weight: 6
 {{< Common/h3 text="Baixe o Aspose.PDF para exportar, converter PDF no SharePoint®"  >}}
 {{< Common/paragraph class="package-instructions">}}
 O Aspose.PDF para SharePoint ajuda você a trabalhar, exportar, converter e mesclar arquivos PDF em seus sites do SharePoint.
-{{< Common/release-notes-link family="pdf" product="sharepoint" href="https://docs.aspose.com/pdf/sharepoint/release-notes/" text="https://docs.aspose.com/pdf/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="sharepoint" href="https://releases.aspose.com/pdf/sharepoint/release-notes/" text="https://releases.aspose.com/pdf/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

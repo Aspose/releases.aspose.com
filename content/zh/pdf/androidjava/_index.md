@@ -25,7 +25,7 @@ weight:  4
 您可以直接从
 {{< Common/link href="https://repository.aspose.com/pdf/" text="马文"  >}}通过将以下配置添加到 build.gradle 基于项目。
 
-{{< Common/release-notes-link family="pdf" product="androidjava" family="pdf" product="androidjava" href="https://docs.aspose.com/pdf/androidjava/aspose-pdf-for-android-via-java/" text="https://docs.aspose.com/pdf/androidjava/aspose-pdf-for-android-via-java/"  >}}
+{{< Common/release-notes-link family="pdf" product="androidjava" family="pdf" product="androidjava" href="https://releases.aspose.com/pdf/androidjava/release-notes/" text="https://releases.aspose.com/pdf/androidjava/release-notes/"  >}}
 
 {{< /Common/paragraph>}}
 

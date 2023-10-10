@@ -17,7 +17,7 @@ weight: 5
 {{< Common/h3 text="Λήψη της επέκτασης απόδοσης Aspose.PDF για αναφορές SQL"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Το Aspose.PDF for Reporting Services είναι μια επέκταση απόδοσης αναφορών που ενσωματώνεται άψογα με τις υπηρεσίες αναφοράς Microsoft SQL Server®. Υποστηρίζει χειρισμό χαρακτηριστικών RDL και εξαγωγή στις υποστηριζόμενες μορφές με πολύ ακριβή τρόπο.
-{{< Common/release-notes-link family="pdf" product="reportingservices" href="https://docs.aspose.com/pdf/reportingservices/release-notes/" text="https://docs.aspose.com/pdf/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="reportingservices" href="https://releases.aspose.com/pdf/reportingservices/release-notes/" text="https://releases.aspose.com/pdf/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

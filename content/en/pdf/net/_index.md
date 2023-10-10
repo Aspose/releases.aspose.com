@@ -2,6 +2,7 @@
 title: "Download .NET Component DLL to Process PDF | Aspose.PDF API"
 description: "Download C# Class Library DLL to work with PDF pages, images, attachments, fonts, bookmarks, annotations, forms, watermarks, security & printing via .NET API."
 keywords: "PDF .NET Library, C# API for PDF"
+linktitle: "Aspose.PDF for .NET"
 family_listing_page_title: "Aspose.PDF for .NET"
 family_listing_page_description: "Aspose.PDF for .NET allows the developers to embed PDF document creation, manipulation & conversion capabilities in their .NET applications. It supports working with many popular file formats including PDF, XFA, TXT, HTML, PCL, XML, XPS, EPUB, TEX and image file formats."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-net-min.png"
@@ -20,7 +21,7 @@ weight:  1
 {{< Common/h2 text="Download Aspose.PDF to Process & Manipulate PDF Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.PDF/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.PDF</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/pdf/net/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="pdf" product="net" href="https://docs.aspose.com/pdf/net/release-notes/" text="https://docs.aspose.com/pdf/net/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="net" href="https://releases.aspose.com/pdf/net/release-notes/" text="https://releases.aspose.com/pdf/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

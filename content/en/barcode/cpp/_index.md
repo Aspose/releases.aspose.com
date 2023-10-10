@@ -21,7 +21,7 @@ weight:  2
 {{< Common/h2 text="Download Barcode Generation & Scanning C++ Library"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.BarCode.Cpp/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.BarCode.Cpp</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/barcode/cpp/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="barcode" product="cpp" href="https://docs.aspose.com/barcode/cpp/release-notes/" text="https://docs.aspose.com/barcode/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="cpp" href="https://releases.aspose.com/barcode/cpp/release-notes/" text="https://releases.aspose.com/barcode/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

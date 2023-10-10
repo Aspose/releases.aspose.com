@@ -17,7 +17,7 @@ weight:  5
 {{< Common/h4 text="SQL Server® Raporlama Hizmetleri için Aspose.Total Rendering Extensions'ı indirin"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Total for Reporting Services, birçok popüler formatı destekleyen MS SQL Server Raporlama Hizmetleri için bir işleme uzantıları paketidir.
-{{< Common/release-notes-link family="total" product="reportingservices" href="https://docs.aspose.com/barcode/reportingservices/release-notes/" text="https://docs.aspose.com/barcode/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="total" product="reportingservices" href="https://releases.aspose.com/barcode/reportingservices/release-notes/" text="https://releases.aspose.com/barcode/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

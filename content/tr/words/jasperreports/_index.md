@@ -17,7 +17,7 @@ weight:  6
 {{< Common/h4 text="Raporları JasperReports® ve JasperServer®'dan Dışa Aktarmak için Aspose.Words'ü İndirin"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Words for JasperReports, raporları JasperReports® ve JasperServer®'dan Microsoft Word® destekli formatlara format ve düzen kaybı olmadan dışa aktarmanıza yardımcı olur.
-{{< Common/release-notes-link family="words" product="jasperreports" href="https://docs.aspose.com/words/jasperreports/release-notes/" text="https://docs.aspose.com/words/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="jasperreports" href="https://releases.aspose.com/words/jasperreports/release-notes/" text="https://releases.aspose.com/words/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

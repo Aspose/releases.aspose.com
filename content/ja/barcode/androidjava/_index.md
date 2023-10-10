@@ -20,7 +20,7 @@ weight: 3
 {{< Common/paragraph class="package-instructions">}}
 から直接 Aspose.BarCode for Java を簡単に使用できます。
 {{< Common/link href="https://repository.aspose.com/barcode/" text="メイヴン"  >}}build.gradle に次の構成を追加することにより、ベースのプロジェクト。
-{{< Common/release-notes-link family="barcode" product="androidjava" href="https://docs.aspose.com/barcode/java/android-via-java-release-notes/" text="https://docs.aspose.com/barcode/java/android-via-java-release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="androidjava" href="https://releases.aspose.com/barcode/androidjava/release-notes/" text="https://releases.aspose.com/barcode/androidjava/release-notes/"  >}}
 {{< /Common/paragraph>}}
 
 {{< consolebox/consoleboxwrapper id="repository" >}}

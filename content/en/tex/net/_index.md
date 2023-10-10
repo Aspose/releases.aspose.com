@@ -12,7 +12,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "275"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.TeX/"
-tags: ['TeX-Extension', 'TeX-Creator', 'TypeSetting', 'TypeSet', 'Component', 'PNG', 'TIFF', 'BMP', 'ZIP', 'Azure', 'Windows', 'API', 'Library']
+tags: ["Aspose", "Tex", ".NET", "Typesetting", "Mathematical", "Markup", "Word processing", "LaTeX", "Rendering", "API", "Document conversion", "C# development", "PDF generation", "Mathematical equations", "Document automation", ".NET development", "LaTeX typesetting", "Document formatting", "LaTeX to BMP", "LaTeX to SVG", "LaTeX to JPEG", "LaTeX to PDF", "LaTeX to PNG", "LaTeX to XPS", "LaTeX to TIFF", "TeX to BMP", "TeX to SVG", "TeX to JPEG", "TeX to PDF", "TeX to PNG", "TeX to XPS", "TeX to TIFF"]
 weight:  1
 ---
 

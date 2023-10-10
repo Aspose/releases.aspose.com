@@ -19,7 +19,7 @@ weight: 6
 
 {{< Common/link href="https://products.aspose.com/barcode/sharepoint/" text="Aspose.BarCode pour SharePoint"  >}}permet
 vous permet de générer des codes-barres postaux et 2D dans des listes SharePoint®. Il étend la fonctionnalité du champ standard SharePoint® existant en ajoutant un type de champ de code-barres.
-{{< Common/release-notes-link family="barcode" product="sharepoint" href="https://docs.aspose.com/barcode/sharepoint/" text="https://docs.aspose.com/barcode/sharepoint/"  >}}
+{{< Common/release-notes-link family="barcode" product="sharepoint" href="https://releases.aspose.com/barcode/sharepoint/release-notes/" text="https://releases.aspose.com/barcode/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

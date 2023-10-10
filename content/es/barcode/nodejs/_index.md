@@ -26,7 +26,7 @@ Puede usar fácilmente <b>aspose.barcode</b> para Javascript desde
    {{< consolebox/spantext text=" " >}}
    {{< consolebox/textarea id="npm" >}} npm install aspose.barcode {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/release-notes-link family="barcode" product="nodejs" href="https://docs.aspose.com/barcode/java/release-notes/" text="https://docs.aspose.com/barcode/java/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="nodejs" href="https://releases.aspose.com/barcode/nodejs/release-notes/" text="https://releases.aspose.com/barcode/nodejs/release-notes/"  >}}
 
 {{HIPERVINCULO1}} | {{HIPERVINCULO2}} | {{HIPERVINCULO3}} | {{HIPERVINCULO4}} | {{HIPERVINCULO5}} | {{HIPERVINCULO6}} | {{HIPERVINCULO7}} | {{HIPERVINCULO8}} | {{HIPERVINCULO9}} | {{HIPERVINCULO10}}
 

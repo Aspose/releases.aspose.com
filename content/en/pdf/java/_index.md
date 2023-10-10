@@ -1,6 +1,6 @@
 ---
 title: Aspose.PDF | Java PDF Document Processing Class Library
-linktitle: Aspose.PDF
+linktitle: "Aspose.PDF for Java"
 description: Java library to create, render, compress, & convert PDF. Supports custom fonts, JavaScript, graphs, bookmarks, images, export, annotation, forms, & printing.
 layout: packages
 type: repository
@@ -125,7 +125,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/pdf/10
 productLink: https://products.aspose.com/pdf/java/
-releaseNotesLink: https://docs.aspose.com/pdf/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/pdf/java/release-notes/
 dataFolder: aspose_pdf
 packages_refs:
 - "23-9"

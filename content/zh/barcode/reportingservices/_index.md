@@ -18,7 +18,7 @@ weight: 5
 {{< Common/paragraph class="package-instructions">}}
 
 {{< Common/link href="https://products.aspose.com/barcode/reporting-services/" text="Aspose.BarCode for Reporting Services"  >}}使您能够在 SQL 报告中为许多流行的条形码符号系统呈现和显示高质量的条形码。
-{{< Common/release-notes-link family="barcode" product="reportingservices" href="https://docs.aspose.com/barcode/reportingservices/release-notes/" text="https://docs.aspose.com/barcode/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="reportingservices" href="https://releases.aspose.com/barcode/reportingservices/release-notes/" text="https://releases.aspose.com/barcode/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

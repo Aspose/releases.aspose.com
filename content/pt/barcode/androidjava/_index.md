@@ -20,7 +20,7 @@ weight: 3
 {{< Common/paragraph class="package-instructions">}}
 Você pode facilmente usar o Aspose.BarCode para Java diretamente de um
 {{< Common/link href="https://repository.aspose.com/barcode/" text="Especialista"  >}}projeto baseado adicionando as seguintes configurações ao arquivo build.gradle.
-{{< Common/release-notes-link family="barcode" product="androidjava" href="https://docs.aspose.com/barcode/java/android-via-java-release-notes/" text="https://docs.aspose.com/barcode/java/android-via-java-release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="androidjava" href="https://releases.aspose.com/barcode/androidjava/release-notes/" text="https://releases.aspose.com/barcode/androidjava/release-notes/"  >}}
 {{< /Common/paragraph>}}
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
