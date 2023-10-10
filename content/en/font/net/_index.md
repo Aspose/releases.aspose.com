@@ -12,7 +12,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "265"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Font/"
-tags: ['Aspose.Font', 'Aspose.Total', 'Conholdate.Total', 'Conholdate', 'Windows-Forms', 'WinForms', 'Web-Forms', 'VisualStudio', 'Visual-Studio', 'Component', 'Assembly', 'Library', 'API', 'On-premise-API', 'Microsoft', 'MVC', 'net-core', '.Net-Standard', '.NetCore', '.NetStandard', '.NetStandard2.0', 'Standard', 'C#', 'CSharp', 'VB.NET', 'ASP.NET', 'Azure', 'TTF', 'TTC', 'OpenType', 'CFF', 'Type1', 'TrueType', 'PostScript', 'Glyphs', 'Metrics-CFF', 'Render-Text', 'EOT', 'FNTDATA', 'WOFF', 'WOFF2', 'Linux', 'macOS', 'Windows', 'Curve', 'Line', 'Drawing', 'Font-Drawing', 'Font-Encoding']
+tags: ['Aspose.Font', 'Aspose.Total', 'Conholdate.Total', 'Conholdate', 'Windows-Forms', 'WinForms', 'Web-Forms', 'VisualStudio', 'Visual-Studio', 'Component', 'Assembly', 'Library', 'API', 'On-premise-API', 'Microsoft', 'MVC', 'net-core', '.Net-Standard', '.NetCore', '.NetStandard', '.NetStandard2.0', 'Standard', 'C#', 'CSharp', 'VB.NET', 'ASP.NET', 'Azure', 'TTF', 'TTC', 'OpenType', 'CFF', 'Type1', 'TrueType', 'PostScript', 'Glyphs', 'Metrics-CFF', 'Render-Text', 'EOT', 'FNTDATA', 'WOFF', 'WOFF2', 'Linux', 'macOS', 'Windows', 'Curve', 'Line', 'Drawing', 'Font-Drawing', 'Font-Encoding', 'TTF to SVG', 'TTF to WOFF', 'TTF to WOFF2', 'WOFF to SVG', 'WOFF to TTF', 'WOFF to WOFF2', 'WOFF2 to TTF', 'WOFF2 to WOFF', 'EOT to SVG', 'EOT to TTF', 'EOT to WOFF', 'EOT to WOFF2', 'CFF to SVG', 'CFF to TTF', 'CFF to WOFF', 'CFF to WOFF2', 'Type1 to SVG', 'Type1 to TTF', 'Type1 to WOFF', 'Type1 to WOFF2']
 weight:  1
 ---
 
