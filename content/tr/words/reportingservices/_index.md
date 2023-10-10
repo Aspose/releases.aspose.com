@@ -17,7 +17,7 @@ weight:  4
 {{< Common/h3 text="RDL ve RDLC Raporlarını Dışa Aktarmak için Aspose.Words'ü İndirin"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Words for Reporting Services, MS SQL Server Raporlama Hizmetleri içinden RDL ve RDLC raporlarını çeşitli desteklenen dosya biçimlerine (örn. OOXML, DOC, RTF ve WordprocessingML, vb.) değiştirmenize ve dışa aktarmanıza yardımcı olur.
-{{< Common/release-notes-link family="words" product="reportingservices" href="https://docs.aspose.com/words/reportingservices/release-notes/" text="https://docs.aspose.com/words/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="reportingservices" href="https://releases.aspose.com/words/reportingservices/release-notes/" text="https://releases.aspose.com/words/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

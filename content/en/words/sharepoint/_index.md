@@ -18,7 +18,7 @@ weight: 5
 {{< Common/h3 text="Download Aspose.Words to Convert Documents in SharePoint®"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Words for SharePoint enhances your interactivity with your SharePoint documents by allowing you to work with Reporting, Document Conversion, and SharePoint&reg; Workflows.
-{{< Common/release-notes-link family="words" product="sharepoint" href="https://docs.aspose.com/words/sharepoint/release-notes/" text="https://docs.aspose.com/words/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="sharepoint" href="https://releases.aspose.com/words/sharepoint/release-notes/" text="https://releases.aspose.com/words/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

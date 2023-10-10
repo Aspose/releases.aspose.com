@@ -17,7 +17,7 @@ weight:  4
 {{< Common/h3 text="下载 Aspose.Words 以导出 RDL 和 RDLC 报告"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Words for Reporting Services 可帮助您从 MS SQL Server Reporting Services 中处理 RDL 和 RDLC 报告并将其导出为各种支持的文件格式（例如 OOXML、DOC、RTF 和 WordprocessingML 等）。
-{{< Common/release-notes-link family="words" product="reportingservices" href="https://docs.aspose.com/words/reportingservices/release-notes/" text="https://docs.aspose.com/words/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="reportingservices" href="https://releases.aspose.com/words/reportingservices/release-notes/" text="https://releases.aspose.com/words/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

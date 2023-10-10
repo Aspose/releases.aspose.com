@@ -25,7 +25,7 @@ Aspose.Words für Android über Java fügt Ihren Android-Anwendungen Funktionen 
 Sie können Aspose.Words für Java ganz einfach direkt aus einer verwenden
 {{< Common/link href="https://repository.aspose.com/words/" text="Maven"  >}}basierte Projekt durch Hinzufügen der folgenden Konfigurationen zu build.gradle.
 
-{{< Common/release-notes-link family="words" product="androidjava" href="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/" text="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/"  >}}
+{{< Common/release-notes-link family="words" product="androidjava" href="https://releases.aspose.com/words/androidjava/release-notes/" text="https://releases.aspose.com/words/androidjava/release-notes/"  >}}
 
 {{< /Common/paragraph>}}
 

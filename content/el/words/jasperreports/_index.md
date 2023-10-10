@@ -17,7 +17,7 @@ weight:  6
 {{< Common/h4 text="Λήψη Aspose.Words για εξαγωγή αναφορών από τα JasperReports® & JasperServer®"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Το Aspose.Words for JasperReports σάς βοηθά να εξάγετε αναφορές από το JasperReports® & JasperServer® σε μορφές που υποστηρίζονται από το Microsoft Word® χωρίς απώλεια μορφοποίησης και διάταξης.
-{{< Common/release-notes-link family="words" product="jasperreports" href="https://docs.aspose.com/words/jasperreports/release-notes/" text="https://docs.aspose.com/words/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="jasperreports" href="https://releases.aspose.com/words/jasperreports/release-notes/" text="https://releases.aspose.com/words/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

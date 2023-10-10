@@ -124,7 +124,7 @@ tags: ["Aspose Total", "Aspose Words", "Aspose Java API", "word java library", "
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/words/8
 productLink: https://products.aspose.com/words/java/
-releaseNotesLink: https://docs.aspose.com/words/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/words/java/release-notes/
 dataFolder: aspose_words
 packages_refs:
 - "23-9"
