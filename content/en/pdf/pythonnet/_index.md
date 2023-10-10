@@ -2,6 +2,7 @@
 title: "Python PDF Processing APIs | Aspose.PDF Product Family"
 description: "Download Python package to work with PDF pages, images, attachments, fonts, bookmarks, annotations, forms, watermarks, security & printing via .NET API."
 keywords: "PDF API, PDF Library, Python PDF module"
+linktitle: "Aspose.PDF for Python via .NET"
 family_listing_page_title: "Aspose.PDF for Python via .NET"
 family_listing_page_description: "Aspose.PDF for Python via .NET is an advanced PDF Document Processing API that enables you to perform a wide range of document processing tasks directly within your applications."
 family_listing_page_iconurl: "https://products.aspose.com/pdf/images/aspose_pdf-for-python-net.svg"

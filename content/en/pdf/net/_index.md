@@ -2,6 +2,7 @@
 title: "Download .NET Component DLL to Process PDF | Aspose.PDF API"
 description: "Download C# Class Library DLL to work with PDF pages, images, attachments, fonts, bookmarks, annotations, forms, watermarks, security & printing via .NET API."
 keywords: "PDF .NET Library, C# API for PDF"
+linktitle: "Aspose.PDF for .NET"
 family_listing_page_title: "Aspose.PDF for .NET"
 family_listing_page_description: "Aspose.PDF for .NET allows the developers to embed PDF document creation, manipulation & conversion capabilities in their .NET applications. It supports working with many popular file formats including PDF, XFA, TXT, HTML, PCL, XML, XPS, EPUB, TEX and image file formats."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-net-min.png"

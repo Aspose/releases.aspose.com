@@ -3,6 +3,7 @@
 title: "Aspose.PDF for JavaScript via C++"
 description:  "Aspose.PDF for JavaScript via C++ allows you to create own JavaScript applications and distribute them all over the web."
 keywords:  "JavaScript via C++, JavaScript PDF toolkit"
+linktitle: "Aspose.PDF for JavaScript via C++"
 family_listing_page_title:  "Aspose.PDF for JavaScript via C++"
 family_listing_page_description:  "Aspose.PDF for JavaScript via C++ is a easy and secure toolkit used to work with PDF directly in the web browser."
 family_listing_page_iconurl:  "https://products.aspose.com/pdf/images/aspose_pdf-for-javascript-cpp.svg"
