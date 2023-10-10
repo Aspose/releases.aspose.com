@@ -17,7 +17,7 @@ weight: 5
 {{< Common/h3 text="SQL Raporları için Aspose.PDF İşleme Uzantısını İndirin"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF for Reporting Services, Microsoft SQL Server® Reporting Services ile sorunsuz bir şekilde entegre olan bir rapor oluşturma uzantısıdır. RDL özelliklerini değiştirmeyi ve desteklenen formatlara son derece doğru bir şekilde dışa aktarmayı destekler.
-{{< Common/release-notes-link family="pdf" product="reportingservices" href="https://docs.aspose.com/pdf/reportingservices/release-notes/" text="https://docs.aspose.com/pdf/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="reportingservices" href="https://releases.aspose.com/pdf/reportingservices/release-notes/" text="https://releases.aspose.com/pdf/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

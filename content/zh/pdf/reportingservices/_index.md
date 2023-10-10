@@ -17,7 +17,7 @@ weight: 5
 {{< Common/h3 text="下载用于 SQL 报告的 Aspose.PDF 渲染扩展"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF for Reporting Services 是一个与 Microsoft SQL Server® Reporting Services 无缝集成的报表呈现扩展。支持以高度准确的方式操作 RDL 功能并导出为支持的格式。
-{{< Common/release-notes-link family="pdf" product="reportingservices" href="https://docs.aspose.com/pdf/reportingservices/release-notes/" text="https://docs.aspose.com/pdf/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="reportingservices" href="https://releases.aspose.com/pdf/reportingservices/release-notes/" text="https://releases.aspose.com/pdf/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

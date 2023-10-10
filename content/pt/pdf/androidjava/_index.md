@@ -25,7 +25,7 @@ UMA
 Você pode facilmente usar o Aspose.PDF para Java diretamente de um
 {{< Common/link href="https://repository.aspose.com/pdf/" text="Especialista"  >}}projeto baseado adicionando as seguintes configurações ao arquivo build.gradle.
 
-{{< Common/release-notes-link family="pdf" product="androidjava" family="pdf" product="androidjava" href="https://docs.aspose.com/pdf/androidjava/aspose-pdf-for-android-via-java/" text="https://docs.aspose.com/pdf/androidjava/aspose-pdf-for-android-via-java/"  >}}
+{{< Common/release-notes-link family="pdf" product="androidjava" family="pdf" product="androidjava" href="https://releases.aspose.com/pdf/androidjava/release-notes/" text="https://releases.aspose.com/pdf/androidjava/release-notes/"  >}}
 
 {{< /Common/paragraph>}}
 

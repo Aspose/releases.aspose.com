@@ -25,7 +25,7 @@ A
 Aspose.PDF for Java'yı doğrudan bir
 {{< Common/link href="https://repository.aspose.com/pdf/" text="Uzman"  >}}build.gradle'a aşağıdaki konfigürasyonları ekleyerek proje tabanlı.
 
-{{< Common/release-notes-link family="pdf" product="androidjava" family="pdf" product="androidjava" href="https://docs.aspose.com/pdf/androidjava/aspose-pdf-for-android-via-java/" text="https://docs.aspose.com/pdf/androidjava/aspose-pdf-for-android-via-java/"  >}}
+{{< Common/release-notes-link family="pdf" product="androidjava" family="pdf" product="androidjava" href="https://releases.aspose.com/pdf/androidjava/release-notes/" text="https://releases.aspose.com/pdf/androidjava/release-notes/"  >}}
 
 {{< /Common/paragraph>}}
 
