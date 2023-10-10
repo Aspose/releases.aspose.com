@@ -25,7 +25,7 @@ Anda dapat dengan mudah menggunakan <b>aspose-barcode</b> untuk Python dari
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install aspose-barcode {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/release-notes-link family="barcode" product="python-java" href="https://docs.aspose.com/barcode/java/python-java/" text="https://docs.aspose.com/barcode/java/python-java/"  >}}
+{{< Common/release-notes-link family="barcode" product="python-java" href="https://releases.aspose.com/barcode/python-java/release-notes/" text="https://releases.aspose.com/barcode/python-java/release-notes/"  >}}
 
 {{< Common/hr >}}
 

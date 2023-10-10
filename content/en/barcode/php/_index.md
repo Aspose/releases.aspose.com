@@ -26,7 +26,7 @@ A PHP library that allows developers to quickly and easily add barcode generatio
    {{< consolebox/spantext text=" " >}}
    {{< consolebox/textarea id="composer" >}} composer require aspose/barcode {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/release-notes-link family="barcode" product="php" href="https://docs.aspose.com/barcode/java/php-via-java-release-notes/" text="https://docs.aspose.com/barcode/java/php-via-java-release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="php" href="https://releases.aspose.com/barcode/php/release-notes/" text="https://releases.aspose.com/barcode/php/release-notes/"  >}}
 
 {{< Common/hr >}}
 

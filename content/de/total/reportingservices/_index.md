@@ -17,7 +17,7 @@ weight:  5
 {{< Common/h4 text="Laden Sie Aspose.Total Rendering Extensions für SQL Server® Reporting Services herunter"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Total for Reporting Services ist eine Suite von Rendering-Erweiterungen für MS SQL Server Reporting Services, die viele gängige Formate unterstützen.
-{{< Common/release-notes-link family="total" product="reportingservices" href="https://docs.aspose.com/barcode/reportingservices/release-notes/" text="https://docs.aspose.com/barcode/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="total" product="reportingservices" href="https://releases.aspose.com/barcode/reportingservices/release-notes/" text="https://releases.aspose.com/barcode/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

@@ -18,7 +18,7 @@ weight:  6
 {{< Common/h3 text="Aspose.BarCode をダウンロードして JasperReports® にバーコードを表示する"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.BarCode for JasperReports を使用すると、サポートされているいくつかの画像フォーマットで 25 以上のシンボル体系の線形および 2D バーコードをレンダリングし、それらを JasperReports® に表示できます。
-{{< Common/release-notes-link family="barcode" product="jasperreports" href="https://docs.aspose.com/barcode/jasperreports/release-notes/" text="https://docs.aspose.com/barcode/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="jasperreports" href="https://releases.aspose.com/barcode/jasperreports/release-notes/" text="https://releases.aspose.com/barcode/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

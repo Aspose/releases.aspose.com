@@ -18,7 +18,7 @@ weight:  6
 {{< Common/h3 text="Загрузите Aspose.BarCode для отображения штрих-кодов в JasperReports®"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.BarCode for JasperReports позволяет отображать линейные и двумерные штрих-коды с более чем 25 символами в нескольких поддерживаемых форматах изображений и отображать их в JasperReports®.
-{{< Common/release-notes-link family="barcode" product="jasperreports" href="https://docs.aspose.com/barcode/jasperreports/release-notes/" text="https://docs.aspose.com/barcode/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="jasperreports" href="https://releases.aspose.com/barcode/jasperreports/release-notes/" text="https://releases.aspose.com/barcode/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

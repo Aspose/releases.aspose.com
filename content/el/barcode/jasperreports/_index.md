@@ -18,7 +18,7 @@ weight:  6
 {{< Common/h3 text="Κάντε λήψη του Aspose.BarCode για να εμφανίσετε γραμμικούς κώδικες στο JasperReports®"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Το Aspose.BarCode for JasperReports σάς δίνει τη δυνατότητα να αποδώσετε γραμμικούς και 2D γραμμικούς κώδικες 25+ συμβόλων σε διάφορες υποστηριζόμενες μορφές εικόνας και να τους εμφανίσετε στο JasperReports®.
-{{< Common/release-notes-link family="barcode" product="jasperreports" href="https://docs.aspose.com/barcode/jasperreports/release-notes/" text="https://docs.aspose.com/barcode/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="jasperreports" href="https://releases.aspose.com/barcode/jasperreports/release-notes/" text="https://releases.aspose.com/barcode/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

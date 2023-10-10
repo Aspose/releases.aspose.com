@@ -18,7 +18,7 @@ weight: 5
 {{< Common/paragraph class="package-instructions">}}
 
 {{< Common/link href="https://products.aspose.com/barcode/reporting-services/" text="Aspose.BarCode για Υπηρεσίες Αναφοράς"  >}}σας δίνει τη δυνατότητα να αποδώσετε και να εμφανίσετε γραμμωτούς κώδικες υψηλής ποιότητας για πολλές δημοφιλείς συμβολολογίες γραμμικού κώδικα στις αναφορές SQL.
-{{< Common/release-notes-link family="barcode" product="reportingservices" href="https://docs.aspose.com/barcode/reportingservices/release-notes/" text="https://docs.aspose.com/barcode/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="reportingservices" href="https://releases.aspose.com/barcode/reportingservices/release-notes/" text="https://releases.aspose.com/barcode/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

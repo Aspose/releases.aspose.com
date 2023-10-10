@@ -18,7 +18,7 @@ weight: 5
 {{< Common/paragraph class="package-instructions">}}
 
 {{< Common/link href="https://products.aspose.com/barcode/reporting-services/" text="レポート サービス用の Aspose.BarCode"  >}}SQL レポート内の多くの一般的なバーコード シンボル体系に対して、高品質のバーコードをレンダリングおよび表示できます。
-{{< Common/release-notes-link family="barcode" product="reportingservices" href="https://docs.aspose.com/barcode/reportingservices/release-notes/" text="https://docs.aspose.com/barcode/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="reportingservices" href="https://releases.aspose.com/barcode/reportingservices/release-notes/" text="https://releases.aspose.com/barcode/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

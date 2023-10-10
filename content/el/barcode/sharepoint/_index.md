@@ -19,7 +19,7 @@ weight: 6
 
 {{< Common/link href="https://products.aspose.com/barcode/sharepoint/" text="Aspose.BarCode για SharePoint"  >}}δίνει τη δυνατότητα
 μπορείτε να δημιουργήσετε ταχυδρομικούς και 2D γραμμωτούς κώδικες στις λίστες του SharePoint®. Επεκτείνει τη λειτουργικότητα του υπάρχοντος τυπικού πεδίου SharePoint® προσθέτοντας έναν τύπο πεδίου γραμμικού κώδικα.
-{{< Common/release-notes-link family="barcode" product="sharepoint" href="https://docs.aspose.com/barcode/sharepoint/" text="https://docs.aspose.com/barcode/sharepoint/"  >}}
+{{< Common/release-notes-link family="barcode" product="sharepoint" href="https://releases.aspose.com/barcode/sharepoint/release-notes/" text="https://releases.aspose.com/barcode/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

@@ -19,7 +19,7 @@ weight: 6
 {{< Common/paragraph class="package-instructions">}}
 {{< Common/link href="https://products.aspose.com/barcode/sharepoint/" text="Aspose.BarCode for SharePoint"  >}} enables
 you to generate Postal and 2D barcodes in SharePoint® lists. It extends the functionality of the existing SharePoint® standard field by adding a barcode field type.
-{{< Common/release-notes-link family="barcode" product="sharepoint" href="https://docs.aspose.com/barcode/sharepoint/" text="https://docs.aspose.com/barcode/sharepoint/"  >}}
+{{< Common/release-notes-link family="barcode" product="sharepoint" href="https://releases.aspose.com/barcode/sharepoint/release-notes/" text="https://releases.aspose.com/barcode/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

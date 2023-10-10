@@ -19,7 +19,7 @@ weight: 6
 
 {{< Common/link href="https://products.aspose.com/barcode/sharepoint/" text="Aspose.BarCode для SharePoint"  >}}позволяет
 вам создавать почтовые и двумерные штрих-коды в списках SharePoint®. Он расширяет функциональные возможности существующего стандартного поля SharePoint®, добавляя тип поля штрих-кода.
-{{< Common/release-notes-link family="barcode" product="sharepoint" href="https://docs.aspose.com/barcode/sharepoint/" text="https://docs.aspose.com/barcode/sharepoint/"  >}}
+{{< Common/release-notes-link family="barcode" product="sharepoint" href="https://releases.aspose.com/barcode/sharepoint/release-notes/" text="https://releases.aspose.com/barcode/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

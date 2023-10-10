@@ -18,7 +18,7 @@ weight:  6
 {{< Common/h3 text="下载 Aspose.BarCode 以在 JasperReports® 上显示条形码"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.BarCode for JasperReports 使您能够以多种支持的图像格式呈现 25 多种符号的线性和二维条码，并将它们显示在 JasperReports® 上。
-{{< Common/release-notes-link family="barcode" product="jasperreports" href="https://docs.aspose.com/barcode/jasperreports/release-notes/" text="https://docs.aspose.com/barcode/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="jasperreports" href="https://releases.aspose.com/barcode/jasperreports/release-notes/" text="https://releases.aspose.com/barcode/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 
