@@ -4,13 +4,13 @@ title: "Downloads ---Release-notes-aspose.psd-for-.net-23.9"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/psd/net/aspose.psd-for-.net-23.9/"
-folder_name: "Aspose.PSD for .NET 23.9"
-download_link: "/psd/net/aspose.psd-for-.net-23.9/c55674df9e44b53ca73b0aa83d1d0825-7-9574"
+folder_link: "/psd/net/new-releases/aspose.psd-for-.net-23.9/"
+folder_name: "Aspose.PSD for .NET 23.9 (0)"
+download_link: "/psd/net/new-releases/aspose.psd-for-.net-23.9/c55674df9e44b53ca73b0aa83d1d0825-7-9574"
 download_text: "Download"
 intro_text: "It contains Aspose.PSD for .NET 23.9 release."
 image_link: "/resources/img/msi-icon.png"
-download_count: " 5/10/2023 Downloads: 1  Views: 1 "
+download_count: " 5/10/2023 Downloads: 39  Views: 1 "
 file_size: "File Size: 30.87MB"
 parent_path: "psd/net/release-notes"
 section_parent_path: "psd/net"
@@ -22,16 +22,16 @@ weight: 191
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.PSD for .NET 23.9" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.PSD for .NET 23.9 (0)" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/psd/net/aspose.psd-for-.net-23.9/c55674df9e44b53ca73b0aa83d1d0825-7-9574" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/psd/net/new-releases/aspose.psd-for-.net-23.9/c55674df9e44b53ca73b0aa83d1d0825-7-9574" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/psd" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-c55674df9e44b53ca73b0aa83d1d0825-7-9574" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-c55674df9e44b53ca73b0aa83d1d0825-7-9574" >}} 39 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
       {{< Common/li id="size-update-c55674df9e44b53ca73b0aa83d1d0825-7-9574" >}} 30.87MB {{< /Common/li >}}
 
