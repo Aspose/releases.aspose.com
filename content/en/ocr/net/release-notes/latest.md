@@ -84,7 +84,7 @@ The recognition behavior has not changed from previous versions. Aspose.OCR for 
 
 ### Recognizing multiple files/pages
 
-This scenario is used for bulk recognition of several images or recognition of a **multi-page document (PDF, DjVu)**. It is also applicable when processing files from a folder or ZIP archive. For example:
+This scenario is used for bulk recognition of several images or recognition of a **multi-page document** PDF, DjVu. It is also applicable when processing files from a folder or ZIP archive. For example:
 
 ```csharp
 Aspose.OCR.AsposeOcr recognitionEngine = new Aspose.OCR.AsposeOcr();
