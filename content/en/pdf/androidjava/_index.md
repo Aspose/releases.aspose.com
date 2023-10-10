@@ -2,6 +2,7 @@
 title: "Android PDF Library | Aspose.PDF for Android via Java"
 description: "Download PDF Processing API that enables the Android apps to read, write, manipulate & render PDF documents. API supports a vast array of industry-standard file formats including HTML, TXT, EPUB, XPS & images. "
 keywords: "PDF Android API, PDF Android Library "
+linktitle: "Aspose.PDF for Android via Java"
 family_listing_page_title: "Aspose.PDF for Android via Java"
 family_listing_page_description: "Aspose.PDF for Android Java is a PDF Processing API that enables the Android apps to read, write, manipulate & render PDF documents. It supports working with PDF, TXT and image file formats."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-android-min.png"
