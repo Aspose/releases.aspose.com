@@ -1,22 +1,25 @@
 ---
-id: "aspose-ocr-for-net-latest-release-notes"
-slug: "latest"
-weight: 1
 date: "2023-10-10"
+id: "aspose-ocr-for-net-23-10-0-release-notes"
+slug: "aspose-ocr-for-net-23-10-0-release-notes"
+linktitle: "Aspose.OCR for .NET 23.10.0 - Release Notes"
+title: "Aspose.OCR for .NET 23.10.0 - Release Notes"
 author: "Vladimir Lapin"
-type: docs
+weight: 41
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for .NET 23.10.0 (October 2023) release."
 type: "repository"
 layout: "release"
-title: Latest release (October 2023)
-linktitle: "Latest release (October 2023)"
-description: A summary of recent changes, enhancements and bug fixes in Aspose.OCR for .NET 23.10.0 (October 2023) release.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OCR for .NET 23.10.0 - Release Notes"
 keywords:
-- latest
-- new
-- release
-- changelog
+- "2023"
+- "October"
+- "new"
+- "release"
+- "changelog"
+menuItemWithNoContent: false
 ---
-
 
 {{% alert color="primary" %}}
 This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OCR for .NET 23.10.0 (October 2023)**](https://www.nuget.org/packages/Aspose.OCR/23.10.0) release.
