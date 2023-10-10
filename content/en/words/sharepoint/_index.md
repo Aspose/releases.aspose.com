@@ -2,6 +2,7 @@
 title: "Word Solution for MOSS & WSS | Aspose.Words for SharePoint"
 description: "Download SharePoint App to combine and convert Word documents into multiple formats. Generate Reports from various sources from within SharePoint. "
 keywords: "SharePoint Exporter, Word Documents "
+linktitle: "Aspose.Words for SharePoint"
 family_listing_page_title: "Aspose.Words for SharePoint"
 family_listing_page_description: "Aspose.Words for SharePoint makes it possible to convert and combine word documents within Microsoft SharePoint applications. It supports format conversion with high fidelity, and can be used to generate reports with data from SQL databases, XML files or SharePoint lists"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-sharepoint.png"
