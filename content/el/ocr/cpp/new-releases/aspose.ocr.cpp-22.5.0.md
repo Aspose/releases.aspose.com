@@ -15,7 +15,7 @@ file_size: "File Size: 115.0 MB"
 parent_path: "ocr/cpp"
 section_parent_path: "ocr/cpp"
 
-release_notes_url: "https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22.5-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22.5-release-notes/"
 weight: 60
 
 ---
@@ -39,7 +39,7 @@ weight: 60
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22.5-release-notes/'>https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22.5-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22.5-release-notes/'>https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22.5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Νέο μοντέλο Cyrillic ML, μέθοδος γρήγορης αναγνώρισης</div>

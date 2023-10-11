@@ -14,7 +14,7 @@ file_size: "File Size: 77.75MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
 
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-8-release-notes/"
 weight: 96
 ---
 
@@ -37,7 +37,7 @@ weight: 96
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-22-8-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-22-8-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-8-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Содержит Aspose.omr для выпуска .NET 22.8</div>
@@ -52,7 +52,7 @@ weight: 96
 
 Improved processing speed and handling of image rotation by adding an extra [positioning marker](https://docs.aspose.com/omr/net/omr-form-structure/) to the upper right corner of the printable OMR forms.
 
-![Additional Positioning Marker](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-8-release-notes/markers.png)
+![Additional Positioning Marker](https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-8-release-notes/markers.png)
 
 # Insert Multiple OMR Write-in Fields
 
@@ -97,9 +97,9 @@ Ability to add more than one write-in fields within your OMR forms. The followin
 
 **Result**
 
-![Insert Multiple OMR Write-in Fields](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-8-release-notes/form.png)
+![Insert Multiple OMR Write-in Fields](https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-8-release-notes/form.png)
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OMR for .NET 22.8 Выпуск заметок](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-8-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OMR for .NET 22.8 Выпуск заметок](https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

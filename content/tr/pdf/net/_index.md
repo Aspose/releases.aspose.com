@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "31"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.PDF/"
-tags: ['pdf-to-bmp', 'pdf-to-doc', 'pdf-to-docx', 'pdf-to-emf', 'pdf-to-epub', 'pdf-to-excel', 'pdf-to-html', 'pdf-to-jpg', 'pdf-to-latex', 'pdf-to-pdfa', 'pdf-to-png', 'pdf-to-pptx', 'pdf-to-svg', 'pdf-to-text', 'pdf-to-text', 'pdf-to-tiff', 'pdf-to-xls', 'pdf-to-xlsx', 'pdf-to-xps', 'pdfa-to-pdf', 'xml-to-pdf', 'xps-to-pdf']
+tags: ['pdf-to-bmp', 'pdf-to-doc', 'pdf-to-docx', 'pdf-to-emf', 'pdf-to-epub', 'pdf-to-excel', 'pdf-to-html', 'pdf-to-jpg', 'pdf-to-latex', 'pdf-to-pdfa', 'pdf-to-png', 'pdf-to-pptx', 'pdf-to-svg', 'pdf-to-text', 'pdf-to-text', 'pdf-to-tiff', 'pdf-to-xls', 'pdf-to-xlsx', 'pdf-to-xps', 'pdfa-to-pdf', 'xml-to-pdf', 'xps-to-pdf', '.netstandard2.0']
 weight:  1
 ---
 
@@ -22,7 +22,7 @@ weight:  1
 Açık
 {{< Common/link href="https://www.nuget.org/packages/Aspose.PDF/" text="NuGet"  >}}Microsoft Visual Studio® içinde Paket Yöneticisi, <b>Aspose.PDF'yi</b> arayın ve kurun. Paket Yöneticisi Konsolunda aşağıdaki komutu da kullanabilirsiniz. Ayrıntılı talimatlar için lütfen ziyaret edin
 {{< Common/link href="https://docs.aspose.com/pdf/net/installation/" text="Kurulum"  >}}dokümantasyon sayfası.
-{{< Common/release-notes-link family="pdf" product="net" href="https://docs.aspose.com/pdf/net/release-notes/" text="https://docs.aspose.com/pdf/net/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="net" href="https://releases.aspose.com/pdf/net/release-notes/" text="https://releases.aspose.com/pdf/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
@@ -103,4 +103,3 @@ Aspose.PDF for .NET uygun fiyatlıdır ve PDF sıkıştırma seçenekleri de dah
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

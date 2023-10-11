@@ -2,6 +2,7 @@
 title: "Download C# DLL to Draw & Process Images | Aspose.Imaging"
 description: "Download C# class library DLL for raster & vector image processing. Work with CorelDRAW®, Photoshop®, Truevision, eBook, Medical, Raw image format via .NET API."
 keywords: ".NET Imaging Library"
+linktitle: "Aspose.Imaging for .NET"
 family_listing_page_title: "Aspose.Imaging for .NET"
 family_listing_page_description: "Aspose.Imaging for .NET is an advanced image processing API that allows the developers to create, edit, draw or convert images in their .NET applications. It works independent of other applications, and allows saving to Adobe PhotoShop® native format without having PhotoShop application or any other image editor installed on the machine."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net-min.png"
@@ -20,7 +21,7 @@ weight:  1
 {{< Common/h2 text="Download Aspose.Imaging to perform Image Processing"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Imaging/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.Imaging</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/imaging/net/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="imaging" product="net" href="https://docs.aspose.com/imaging/net/release-notes/" text="https://docs.aspose.com/imaging/net/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="net" href="https://releases.aspose.com/imaging/net/release-notes/" text="https://releases.aspose.com/imaging/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

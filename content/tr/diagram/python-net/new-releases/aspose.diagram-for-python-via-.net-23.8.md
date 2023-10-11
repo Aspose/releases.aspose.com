@@ -16,7 +16,7 @@ parent_path: "diagram/python-net"
 section_parent_path: "diagram/python-net"
 release_notes_url: "https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-8-release-notes/"
 weight: 14
-tags: ['Aspose', 'Aspose.Total', 'Aspose.Diagram', 'Python', '.NET', 'Lirary', 'VSD', 'VSDX', 'VSDM', 'VSS', 'VSSM', 'VSSX', 'VST', 'VSTM', 'VSTX', 'VDX', 'VSX', 'VTX', 'HTML', 'PDF', 'XPS', 'SVG', 'TIFF','PNG', 'BMP', 'JPEG', 'GIF', 'EMF','Graphics', 'Image', 'meta', 'metafile', 'Windows', 'Linux', 'PIP']
+tags: ['Aspose', 'Aspose.Total', 'Aspose.Diagram', 'Python', 'NET', 'Lirary', 'VSD', 'VSDX', 'VSDM', 'VSS', 'VSSM', 'VSSX', 'VST', 'VSTM', 'VSTX', 'VDX', 'VSX', 'VTX', 'HTML', 'PDF', 'XPS', 'SVG', 'TIFF','PNG', 'BMP', 'JPEG', 'GIF', 'EMF','Graphics', 'Image', 'meta', 'metafile', 'Windows', 'Linux', 'PIP']
 ---
 
 {{< Releases/ReleasesWapper >}}

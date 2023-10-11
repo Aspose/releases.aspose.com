@@ -14,7 +14,7 @@ download_count: " 30/6/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 105.35MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-23-6-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-6-1-release-notes/"
 weight: 125
 
 ---
@@ -38,7 +38,7 @@ weight: 125
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-23-6-1-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-23-6-1-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-6-1-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-6-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">.NET 23.6.1リリース用のAsoppes.omrが含まれています</div>

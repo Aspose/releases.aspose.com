@@ -17,7 +17,7 @@ weight:  6
 {{< Common/h4 text="Baixe o Aspose.Words para exportar relatórios do JasperReports® e JasperServer®"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Words for JasperReports ajuda você a exportar relatórios do JasperReports® & JasperServer® para os formatos suportados pelo Microsoft Word® sem qualquer perda de formatação e layout.
-{{< Common/release-notes-link family="words" product="jasperreports" href="https://docs.aspose.com/words/jasperreports/release-notes/" text="https://docs.aspose.com/words/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="jasperreports" href="https://releases.aspose.com/words/jasperreports/release-notes/" text="https://releases.aspose.com/words/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

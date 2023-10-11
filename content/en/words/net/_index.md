@@ -2,6 +2,7 @@
 title: "Download Word® Document Processing C# Library | Aspose.Words"
 description: "Download DLLs containing C# class library for Word® document generation, editing, merging, conversion, rendering, printing, report generation via .NET API."
 keywords: "Word API, .NET Word Library"
+linktitle: "Aspose.Words for .NET"
 family_listing_page_title: "Aspose.Words for .NET"
 family_listing_page_description: "Aspose.Words for .NET is an advanced Word Document Processing API that enables you to perform a wide range of document processing tasks directly within your applications."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png"
@@ -20,7 +21,7 @@ weight:  1
 {{< Common/h2 text="Download Aspose.Words for Word® Document Processing"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Words/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.Words</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/words/net/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="words" product="net" href="https://docs.aspose.com/words/net/release-notes/" text="https://docs.aspose.com/words/net/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="net" href="https://releases.aspose.com/words/net/release-notes/" text="https://releases.aspose.com/words/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

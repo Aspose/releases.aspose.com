@@ -1,6 +1,6 @@
 ---
 title: Aspose.BarCode | Process 1D, 2D & Postal Barcodes via Java
-linktitle: Aspose.BarCode
+linktitle: "Aspose.BarCode for Java"
 description: Java class library to generate, recognize, & convert barcodes. Supports numeric, alpha-numeric, and 2D barcode symbologies. Customize barcodes in your Java App.
 layout: packages
 type: repository
@@ -144,9 +144,10 @@ weight: 02	#rem
 tags: ["Java barcode API", "Java barcode library", "Java barcode class", "1D Barcode", "2D Barcode", "Alpha numeric Barcodes", "Java Bacode API", "Barcode API", "Barcode Formatting API", "Barcode generation API", "barcode generator API", "Barcode imaging API", "Barcode reader API", "Barcode recognition API", "Barcode scanning API", "Barcode symbologies", "BMP", "Checksum", "Codabar", "Code11", "Code128", "Code39", "CompactPDF417", "Controls & Libraries", "EAN14(SCC14)", "EMF", "EXIF", "GIF", "JPEG", "MicroQR", "MSI", "Numeric Barcodes", "On premise API", "Planet", "PNG", "Postnet", "PZN", "QR", "SSCC18", "SVG", "Swiss QR", "TIFF", "UPCA", "UPCE", "Aspose.Total", "Conholdate", "Conholdate.Total", "Aspose.Barcode", "barcode", "generation", "recognition", "Alpha Numeric", "AI 8102 Coupon", "AustralianPosteParcel", "AustraliaPost", "Aztec", "Codabar", "CodablockF", "Code11", "Code128", "Code16K", "Code32", "Code39Extended", "Code39Standard", "Code93Extended", "Code93Standard", "DatabarExpanded", "DatabarExpandedStacked", "DatabarLimited", "DatabarOmniDirectional", "DatabarStacked", "DatabarStackedOmniDirectional", "DatabarTruncated", "DataLogic2of5", "DataMatrix", "DeutschePostIdentcode", "DeutschePostLeitcode", "DotCode", "DutchKIX", "EAN13", "EAN14", "EAN8", "GS1CodablockF", "GS1Code128", "GS1DataMatrix", "GS1QR", "IATA2of5", "Interleaved2of5", "ISBN", "ISMN", "ISSN", "ItalianPost25", "ITF14", "ITF6", "MacroPdf417", "Matrix2of5", "MaxiCode", "MicroPdf417", "MICR", "(only", "BarCode", "reader)", "MSI", "OneCode", "OPC", "PatchCode", "Pdf417", "Pharmacode", "Planet", "Postnet", "PZN", "QR", "RM4SCC", "SCC14", "SingaporePost", "SSCC18", "Standard2of5", "SwissQR", "SwissPostParcel", "UPCA", "UpcaGs1Code128Coupon", "UpcaGs1DatabarCoupon", "UPCE", "VIN"]
 forumLink: https://forum.aspose.com/c/barcode/13
 productLink: https://products.aspose.com/barcode/java/
-releaseNotesLink: https://docs.aspose.com/barcode/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/barcode/java/release-notes/
 dataFolder: aspose_barcode
 packages_refs:
+- "23-9"
 - "23-8"
 - "23-7"
 - "23-6"
@@ -241,7 +242,7 @@ packages_refs:
 
 # Barcode Library for Java Applications
 
-{{< repository/extract-package-explore-link imgsrc=./aspose_barcode-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_barcode-for-java-banner.png >}}
 
 [Product Page](https://products.aspose.com/barcode/java) | [Docs](https://docs.aspose.com/barcode/java/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://apireference.aspose.com/barcode/java) | [Examples](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode) | [Temporary License](https://purchase.aspose.com/temporary-license)
 

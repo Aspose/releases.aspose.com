@@ -2,6 +2,7 @@
 title: "Android Barcode Library | Aspose.BarCode for Android"
 description: "Download Android Library for barcode generation & scanning that supports 1D, 2D & postal barcodes. Android Barcode API permits developers to customize the codes by specifying different symbologies, "
 keywords: "Android Barcode API, Android Library for barcodes "
+linktitle: "Aspose.BarCode for Android via Java"
 family_listing_page_title: "Aspose.BarCode for Android via Java"
 family_listing_page_description: "Aspose.BarCode for Android is a robust and reliable barcode generation and recognition component, written in Java, it allows developers to quickly and easily add barcode generation and recognition functionality to their Java applications."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-java-min.png"
@@ -19,7 +20,7 @@ weight: 3
 {{< Common/h2 text="Download Aspose.Barcode for Android Applications"  >}}
 {{< Common/paragraph class="package-instructions">}}
 You can easily use Aspose.BarCode for Java directly from a {{< Common/link href="https://repository.aspose.com/barcode/" text="Maven"  >}} based project by adding following configurations to the build.gradle.
-{{< Common/release-notes-link family="barcode" product="androidjava" href="https://docs.aspose.com/barcode/java/android-via-java-release-notes/" text="https://docs.aspose.com/barcode/java/android-via-java-release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="androidjava" href="https://releases.aspose.com/barcode/androidjava/release-notes/" text="https://releases.aspose.com/barcode/androidjava/release-notes/"  >}}
 {{< /Common/paragraph>}}
 
 {{< consolebox/consoleboxwrapper id="repository" >}}

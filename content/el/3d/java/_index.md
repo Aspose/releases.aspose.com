@@ -134,7 +134,7 @@ packages_refs:
 ---
 
 # Java API για επεξεργασία εικόνας 3D
-{{< repository/extract-package-explore-link imgsrc=./aspose_3d-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_3d-for-java-banner.png >}}
 
 [Σελίδα προϊόντος](https://products.aspose.com/3d/java) | [Έγγραφα](https://docs.aspose.com/3d/java/) | [Επίδειξη](https://products.aspose.app/3d/family) | [Αναφορά API](https://apireference.aspose.com/3d/java) | [Παραδείγματα](https://github.com/aspose-3d/Aspose.3D-for-Java) | [Ιστολόγιο](https://blog.aspose.com/category/3d/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/3d) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)
 

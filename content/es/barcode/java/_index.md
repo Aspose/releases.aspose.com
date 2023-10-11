@@ -143,7 +143,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/barcode/13
 productLink: https://products.aspose.com/barcode/java/
-releaseNotesLink: https://docs.aspose.com/barcode/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/barcode/java/release-notes/
 dataFolder: aspose_barcode
 packages_refs:
 - "22-11"
@@ -230,7 +230,7 @@ packages_refs:
 ---
 
 # Biblioteca de código de barras para aplicaciones Java
-{{< repository/extract-package-explore-link imgsrc=./aspose_barcode-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_barcode-for-java-banner.png >}}
 
 [Página del producto](https://products.aspose.com/barcode/java) | [Documentos](https://docs.aspose.com/barcode/java/) | [Población](https://products.aspose.app/barcode/family) | [Referencia de API](https://apireference.aspose.com/barcode/java) | [Ejemplos](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [Blog](https://blog.aspose.com/category/barcode/) | [Búsqueda](https://search.aspose.com/) | [Soporte gratuito](https://forum.aspose.com/c/barcode) | [Licencia temporal](https://purchase.aspose.com/temporary-license)
 

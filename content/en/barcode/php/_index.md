@@ -2,6 +2,7 @@
 title: "PHP Barcode Library | Aspose.BarCode for PHP via Java"
 description: "Download PHP Library to generate & recognize barcodes from 1D, 2D and postal symbologies. "
 keywords: "PHP Barcode Library "
+linktitle: "Aspose.BarCode for PHP via Java"
 family_listing_page_title: "Aspose.BarCode for PHP via Java"
 family_listing_page_description: "Project Aspose.Barcode for PHP shows how different tasks can be performed using Aspose.Barcode Java APIs in PHP. This project is aimed to provide useful examples for PHP Developers who want to utilize Aspose.Barcode for Java in their PHP Projects"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-php-via-java.png"
@@ -25,7 +26,7 @@ A PHP library that allows developers to quickly and easily add barcode generatio
    {{< consolebox/spantext text=" " >}}
    {{< consolebox/textarea id="composer" >}} composer require aspose/barcode {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/release-notes-link family="barcode" product="php" href="https://docs.aspose.com/barcode/java/php-via-java-release-notes/" text="https://docs.aspose.com/barcode/java/php-via-java-release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="php" href="https://releases.aspose.com/barcode/php/release-notes/" text="https://releases.aspose.com/barcode/php/release-notes/"  >}}
 
 {{< Common/hr >}}
 
@@ -33,10 +34,10 @@ A PHP library that allows developers to quickly and easily add barcode generatio
 
 ### PHP BarCode On-premise API Features
 
-- Supports most established barcode standards and barcode specifications. 
-- Ability to read & export barcodes in multiple image formats including BMP, GIF, JPEG & PNG. 
-- Provides full control over barcode labels. 
-- Supports X-dimension & Y-dimension for 2D BarCodes. 
+- Supports most established barcode standards and barcode specifications.
+- Ability to read & export barcodes in multiple image formats including BMP, GIF, JPEG & PNG.
+- Provides full control over barcode labels.
+- Supports X-dimension & Y-dimension for 2D BarCodes.
 [Product Page](https://products.aspose.com/barcode/php-java/) | [Docs](https://docs.aspose.com/barcode/phpjava/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/php) | [Examples](https://github.com/aspose-barcode/Aspose.Barcode-for-PHP-via-Java) | [Blog](https://blog.aspose.com/categories/aspose.barcode-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode/13) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Common/hr >}}

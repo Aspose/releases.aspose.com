@@ -39,7 +39,7 @@ weight: 84
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Release Notes</h4><div><a href="https://docs.aspose.com/omr/net/aspose-omr-for-net-22-2-release-notes/">https://docs.aspose.com/omr/net/aspose-omr-for-net-22-2-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Contains Aspose.OMR for .NET 22.2 release</div>
+<h4>Release Notes</h4><div><a href="https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-2-release-notes/">https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-2-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Contains Aspose.OMR for .NET 22.2 release</div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -164,7 +164,7 @@ Add new property `ScoreDisplay` (defines how the numeric score is displayed) for
 
 Added the support for .NET 5.0 and .NET Standard 2.0.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OMR for .NET 22.2 Release Notes](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-2-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OMR for .NET 22.2 Release Notes](https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

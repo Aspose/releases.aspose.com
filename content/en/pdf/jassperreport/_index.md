@@ -2,6 +2,7 @@
 title: "Deliver Reports in PDF | Aspose.PDF for JasperReports"
 description: "Download flexible JasperReports and JasperServer extension allowing to export reports in PDF, PDF/A formats. Report features such as tables, charts and images are converted to PDF with the highest degree of precision. "
 keywords: "JRXML to PDF, PDF, PDF/A, JasperReports, JasperServer  "
+linktitle: "Aspose.PDF for JasperReports"
 family_listing_page_title: "Aspose.PDF for JasperReports"
 family_listing_page_description: "Aspose.PDF for JasperReports is a flexible JasperReports and JasperServer extension that allows you to export reports in Portable Document Format (PDF, PDF/A). Important report features such as tables, charts and images are converted to PDF with the highest degree of precision."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-jasperreports-min.png"
@@ -18,7 +19,7 @@ weight:  7
 {{< Common/h3 text="Download Aspose.PDF to Export JasperReports® to PDF Formats"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF for JasperReports helps you export reports from JasperReports® and JasperServer® to the PDF, PDF/A, and other supported file formats. The important report features, such as charts and tables are converted without any loss in the layout or formatting.
-{{< Common/release-notes-link family="pdf" product="jasperreports" href="https://docs.aspose.com/pdf/jasperreports/release-notes/" text="https://docs.aspose.com/pdf/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="jasperreports" href="https://releases.aspose.com/pdf/jassperreport/release-notes/" text="https://releases.aspose.com/pdf/jassperreport/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 
@@ -26,7 +27,7 @@ Aspose.PDF for JasperReports helps you export reports from JasperReports® and J
 
 ### PDF JasperReports&reg; Integration Features
 
-- Export reports to PDF and other supported formats. 
+- Export reports to PDF and other supported formats.
 - Keeps the layout consistent while converting report features, e.g., tables, charts to PDF.
 - Integrates with JasperReports® and JasperServer®.
 - Easy and lightweight deployment.

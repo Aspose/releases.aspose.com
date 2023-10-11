@@ -22,7 +22,7 @@ weight:  1
 Abierto
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Words/" text="NuGet"  >}}Package Manager dentro de Microsoft Visual Studio®, busque <b>Aspose.Words</b> e instálelo. También puede usar el siguiente comando dentro de la Consola del administrador de paquetes. Para obtener instrucciones detalladas, visite el
 {{< Common/link href="https://docs.aspose.com/words/net/installation/" text="Instalación"  >}}página de documentación.
-{{< Common/release-notes-link family="words" product="net" href="https://docs.aspose.com/words/net/release-notes/" text="https://docs.aspose.com/words/net/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="net" href="https://releases.aspose.com/words/net/release-notes/" text="https://releases.aspose.com/words/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

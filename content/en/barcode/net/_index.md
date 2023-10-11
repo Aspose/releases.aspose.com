@@ -2,6 +2,7 @@
 title: "Download Barcode Recognition .NET Library  | Aspose.BarCode"
 description: "Download C# Class Library DLL for Barcode creation, customization, & recognition via .NET on-premise API. Supports 1D (Linear), 2D & Postal barcode symbologies."
 keywords: "Generate Barcode, Scan Barcode"
+linktitle: "Aspose.BarCode for .NET"
 family_listing_page_title: "Aspose.BarCode for .NET"
 family_listing_page_description: "Aspose.BarCode for .NET is a set of barcode APIs to generate and recognize 1D & 2D barcodes from multiple image types at any angle. It is written in managed C# thus allowing the developers to easily add the barcode generation and recognition functionality to their .NET applications."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-net-min.png"
@@ -20,7 +21,7 @@ weight:  1
 {{< Common/h3 text="Download Aspose.BarCode to Generate & Recognize Barcodes"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.BarCode/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.BarCode</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/barcode/net/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="barcode" product="net" href="https://docs.aspose.com/barcode/net/release-notes/" text="https://docs.aspose.com/barcode/net/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="net" href="https://releases.aspose.com/barcode/net/release-notes/" text="https://releases.aspose.com/barcode/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
@@ -40,7 +41,7 @@ Aspose.BarCode for .NET is a set of barcode generation, recognition, and convers
 
 Aspose.BarCode for .NET works great in scanning and recognizing barcodes symbologies (e.g. 1D, MacroPDF417, Datamatrix, etc.) and images. It also recognizes multiple barcode symbologies used within a single image. Aspose.BarCode for .NET also helps you in increasing the barcode detection speed via multi-threading. You can also detect orientation of the barcode as well as if the barcode is readable or not (for selected symbologies only).
 
-Aspose.BarCode for .NET is written completely in C# and consists of just a single assembly without any dependencies (except on the .NET Framework itself). Aspose.BarCode for .NET supports all versions of the Microsoft .NET Framework from 2.0 to 4.8. It is also in compliance with the .NET Standard 2.0. 
+Aspose.BarCode for .NET is written completely in C# and consists of just a single assembly without any dependencies (except on the .NET Framework itself). Aspose.BarCode for .NET supports all versions of the Microsoft .NET Framework from 2.0 to 4.8. It is also in compliance with the .NET Standard 2.0.
 
 > You can also take advantage of our barcode generator plugins for Microsoft Dynamics CRM as well as Sitefinity.
 

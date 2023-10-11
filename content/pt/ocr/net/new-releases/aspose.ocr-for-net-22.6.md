@@ -14,7 +14,7 @@ file_size: "File Size: 161.69MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
-release_notes_url: "https://docs.aspose.com/ocr/net/release-notes/latest/"
+release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/latest/"
 weight: 282
 
 ---
@@ -38,7 +38,7 @@ weight: 282
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/ocr/net/release-notes/latest/'>https://docs.aspose.com/ocr/net/release-notes/latest/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/latest/'>https://releases.aspose.com/ocr/net/release-notes/latest/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Nova rede neural denoising, reconhecimento de tabela e remoção de system. dependência de decreto</div>
@@ -116,7 +116,7 @@ namespace ProgramOCR
 }
 ```
 
-For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.6 - Notas de liberação](https://docs.aspose.com/ocr/net/aspose-ocr-for-net-22-6-release-notes/).
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OCR for .NET 22.6 - Notas de liberação](https://releases.aspose.com/ocr/net/release-notes/2022/aspose-ocr-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

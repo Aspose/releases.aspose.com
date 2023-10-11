@@ -76,6 +76,9 @@ productLink: https://products.aspose.com/cad/java/
 releaseNotesLink: https://releases.aspose.com/cad/java/release-notes/
 dataFolder: aspose_cad
 packages_refs:
+- "23-7"
+- "23-6"
+- "23-5"
 - "23-4"
 - "23-3"
 - "23-2"
@@ -134,7 +137,7 @@ packages_refs:
 
 # CAD File Conversion API for Java
 
-{{< repository/extract-package-explore-link imgsrc=./aspose_cad-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_cad-for-java-banner.png >}}
 [Product Page](https://products.aspose.com/cad/java) | [Docs](https://docs.aspose.com/cad/java/) | [Demos](https://products.aspose.app/cad/family) | [API Reference](https://apireference.aspose.com/cad/java) | [Examples](https://github.com/aspose-cad/Aspose.CAD-for-Java) | [Blog](https://blog.aspose.com/category/cad/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cad) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
 [Aspose.CAD for Java](https://products.aspose.com/cad/java) allows developers to convert AutoCAD DWG and DXF files to PDF and Raster images. It is a native API and does not require AutoCAD or any other software to be installed. You can also convert the selected layers and layouts from the AutoCAD files. The conversion to PDF and Raster images is of very high quality.
@@ -160,10 +163,10 @@ packages_refs:
 
 ### Supported Read & Write CAD Formats
 
-**AutoCAD®:** DXF (Write feature is partially supported)
+**AutoCAD®:** DXF (Write feature is partially supported)\
 **3D Geometry:** OBJ\
 **GL Binary:** GLTF/GLB\
-**Scalable Vector Graphics:** SVG
+**Scalable Vector Graphics:** SVG\
 **Others:** FBX, STEP(STP)
 
 ### Save CAD files As

@@ -25,7 +25,7 @@ Aspose.Words untuk Android melalui Java menambahkan kemampuan Pemrosesan Dokumen
 Anda dapat dengan mudah menggunakan Aspose.Words untuk Java langsung dari a
 {{< Common/link href="https://repository.aspose.com/words/" text="Maven"  >}}proyek berbasis dengan menambahkan konfigurasi berikut ke build.gradle.
 
-{{< Common/release-notes-link family="words" product="androidjava" href="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/" text="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/"  >}}
+{{< Common/release-notes-link family="words" product="androidjava" href="https://releases.aspose.com/words/androidjava/release-notes/" text="https://releases.aspose.com/words/androidjava/release-notes/"  >}}
 
 {{< /Common/paragraph>}}
 

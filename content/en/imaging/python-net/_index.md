@@ -3,6 +3,7 @@
 title: "Aspose.Imaging for Python via .NET"
 description:  "Aspose.Imaging for Python via .NET is a library offering advanced image processing features. You could easily create, load, manipulate, convert, compress images or photos using this API. Also Aspose.Imaging library supports drawing and work with graphic primitives. Image export and conversion (including uniform multi-page image processing) is the one of API core features along with image transformations (resize, crop, flip&rotate, binarization, grayscale, adjust, etc.), advanced image manipulation features (filtering, dithering, masking, deskewing) and memory optimization strategies.  Aspose.Imaging for Python via .NET is a flexible, stable and powerful API, capable of processing the most commonly used formats along with some special formats such as DjVu, DICOM, WebP & DNG. Aspose.Imaging is cross-platform library, it is Windows and Linux compatible."
 keywords:  "Imaging,Python,.NET"
+linktitle: "Aspose.Imaging for Python via .NET"
 family_listing_page_title:  "Aspose.Imaging for Python via .NET"
 family_listing_page_description:  "Aspose.Imaging for Python via .NET is a flexible, stable and powerful API that helps developers to process images and photos in their own Python applications."
 family_listing_page_iconurl:  "https://products.aspose.com/imaging/images/imaging/aspose_imaging-for-python-net.svg"
@@ -17,7 +18,7 @@ weight: 5
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Imaging for Python via .NET API which is a feature-rich, powerful and easy to use image manipulation and conversion API for Python platform. Also Aspose.Imaging library supports drawing and work with graphic primitives. Image export and conversion (including uniform multi-page image processing) is the one of API core features along with image transformations (resize, crop, flip&rotate, binarization, grayscale, adjust, etc.), advanced image manipulation features (filtering, dithering, masking, deskewing) and memory optimization strategies.
 Please use the following {{< Common/link href="https://pypi.org/project/aspose-imaging-python-net/" text="pip"  >}} command:
-{{< Common/release-notes-link family="imaging" product="python-net" href="https://docs.aspose.com/imaging/python-net/release-notes/" text="https://docs.aspose.com/imaging/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="python-net" href="https://releases.aspose.com/imaging/python-net/release-notes/" text="https://releases.aspose.com/imaging/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}

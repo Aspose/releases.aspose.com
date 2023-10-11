@@ -2,6 +2,7 @@
 title: "Optical Character Recognition APIs | Aspose.OCR Product Family"
 description: "Download .NET, Java & C++ On-Premise libraries to create OCR applications capable of extracting text from images in English, French & Spanish languages. "
 keywords: "OCR API "
+linktitle: "Aspose.OCR Product Family"
 family_listing_page_title: "Aspose.OCR Product Family"
 family_listing_page_description: ""
 family_listing_page_iconurl: ""

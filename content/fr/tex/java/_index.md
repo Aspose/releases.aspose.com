@@ -65,7 +65,7 @@ packages_refs:
 ---
 
 # API Java à composer les fichiers tex
-{{< repository/extract-package-explore-link imgsrc=./aspose_tex-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_tex-for-java-banner.png >}}
 
 [Page de produit](https://products.aspose.com/tex/java) | [Docs](https://downloads.aspose.com/tex/java) | [Démos](https://products.aspose.app/tex/family) | [Référence de l'API](https://apireference.aspose.com/tex/java) | [Exemples](https://github.com/aspose-tex/Aspose.TeX-for-Java/tree/master/Exemples) | [Blog](https://blog.aspose.com/category/tex/) | [Support gratuit](https://forum.aspose.com/c/tex) | [Licence temporaire](https://purchase.aspose.com/temporary-license)
 

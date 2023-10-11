@@ -35,7 +35,7 @@ weight: 59
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href="https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22.4-release-notes/">https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22.4-release-notes/</a></div><h4>Keterangan</h4><div class="HTMLDescription">Peningkatan XLSX, Kemampuan untuk Mendapatkan Koordinat Kata</div>
+      <h4>Catatan rilis</h4><div><a href="https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22.4-release-notes/">https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22.4-release-notes/</a></div><h4>Keterangan</h4><div class="HTMLDescription">Peningkatan XLSX, Kemampuan untuk Mendapatkan Koordinat Kata</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

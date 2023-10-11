@@ -123,7 +123,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/words/8
 productLink: https://products.aspose.com/words/java/
-releaseNotesLink: https://docs.aspose.com/words/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/words/java/release-notes/
 dataFolder: aspose_words
 packages_refs:
 - "22-12"
@@ -213,7 +213,7 @@ packages_refs:
 ---
 
 # Java API για διάφορες μορφές εγγράφων
-{{< repository/extract-package-explore-link imgsrc=./aspose_words-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_words-for-java-banner.png >}}
 
 [Σελίδα προϊόντος](https://products.aspose.com/words/java) | [Έγγραφα](https://docs.aspose.com/words/java/) | [Επίδειξη](https://products.aspose.app/words/family) | [Αναφορά API](https://apireference.aspose.com/words/java) | [Παραδείγματα](https://github.com/aspose-words/Aspose.Words-for-Java/tree/master/Παραδείγματα) | [Ιστολόγιο](https://blog.aspose.com/category/words/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/words) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)
 

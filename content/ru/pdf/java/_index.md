@@ -124,7 +124,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/pdf/10
 productLink: https://products.aspose.com/pdf/java/
-releaseNotesLink: https://docs.aspose.com/pdf/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/pdf/java/release-notes/
 dataFolder: aspose_pdf
 packages_refs:
 - "22-11"
@@ -222,7 +222,7 @@ packages_refs:
 ---
 
 # Java API для обработки и манипулирования PDF -файлами
-{{< repository/extract-package-explore-link imgsrc=./aspose_pdf-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_pdf-for-java-banner.png >}}
 
 [Страница продукта](https://products.aspose.com/pdf/java) | [Док](https://docs.aspose.com/pdf/java/) | [Демо](https://products.aspose.app/pdf/family) | [Ссылка на API](https://apireference.aspose.com/pdf/java) | [Примеры](https://github.com/aspose-pdf/Aspose.PDF-for-Java/tree/master/Примеры) | [Блог](https://blog.aspose.com/category/pdf/) | [Поиск](https://search.aspose.com/) | [Бесплатная поддержка](https://forum.aspose.com/c/pdf) | [Временная лицензия](https://purchase.aspose.com/temporary-license)
 

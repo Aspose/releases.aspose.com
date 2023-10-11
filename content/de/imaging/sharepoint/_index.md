@@ -28,7 +28,7 @@ Mit Aspose.Imaging for SharePoint können Sie auf Bilder in Ihrer SharePoint®-I
 {{< Common/link href="https://products.aspose.app/imaging/object-detection" text="Kostenlose Objekterkennungs-Online-App zum Identifizieren von Objekten in Bildern"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="imaging" product="sharepoint" href="https://docs.aspose.com/imaging/sharepoint/release-notes/" text="https://docs.aspose.com/imaging/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="sharepoint" href="https://releases.aspose.com/imaging/sharepoint/release-notes/" text="https://releases.aspose.com/imaging/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

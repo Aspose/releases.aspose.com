@@ -93,7 +93,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/imaging/14
 productLink: https://products.aspose.com/imaging/java/
-releaseNotesLink: https://docs.aspose.com/imaging/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/imaging/java/release-notes/
 dataFolder: aspose_imaging
 packages_refs:
 - "22-12"
@@ -169,7 +169,7 @@ packages_refs:
 ---
 
 # Java API για επεξεργασία εικόνας
-{{< repository/extract-package-explore-link imgsrc=./aspose_imaging-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_imaging-for-java-banner.png >}}
 
 [Σελίδα προϊόντος](https://products.aspose.com/imaging/java) | [Έγγραφα](https://docs.aspose.com/imaging/java/) | [Επίδειξη](https://products.aspose.app/imaging/family) | [Αναφορά API](https://apireference.aspose.com/imaging/java) | [Παραδείγματα](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [Ιστολόγιο](https://blog.aspose.com/category/imaging/) | [Αναζήτηση](https://search.aspose.com/) | [Δωρεάν υποστήριξη](https://forum.aspose.com/c/imaging) | [Προσωρινή άδεια](https://purchase.aspose.com/temporary-license)
 

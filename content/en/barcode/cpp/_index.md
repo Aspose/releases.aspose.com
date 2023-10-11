@@ -2,6 +2,7 @@
 title: "Download C++ Library to Detect Barcodes | Aspose.BarCode API"
 description: "Download Barcode Recognition & Customization C++ DLL that allows you to develop & customize barcodes supporting numeric, alpha-numeric & 2D barcode symbologies."
 keywords: "C++ Barcode Library, C++ Barcode API"
+linktitle: "Aspose.BarCode for C++"
 family_listing_page_title: "Aspose.BarCode for C++"
 family_listing_page_description: "Aspose.BarCode for C++ is a robust and reliable barcode generation and recognition library, written in C++14, it allows developers to quickly and easily add barcode generation and recognition functionality to their applications.Aspose.BarCode for C++ supports most established barcode standards and barcode specifications. It has the ability to export to multiple image formats including: BMP, GIF, JPEG, PNG, TIFF and SVG."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-cpp-min.png"
@@ -20,7 +21,7 @@ weight:  2
 {{< Common/h2 text="Download Barcode Generation & Scanning C++ Library"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.BarCode.Cpp/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.BarCode.Cpp</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/barcode/cpp/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="barcode" product="cpp" href="https://docs.aspose.com/barcode/cpp/release-notes/" text="https://docs.aspose.com/barcode/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="cpp" href="https://releases.aspose.com/barcode/cpp/release-notes/" text="https://releases.aspose.com/barcode/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

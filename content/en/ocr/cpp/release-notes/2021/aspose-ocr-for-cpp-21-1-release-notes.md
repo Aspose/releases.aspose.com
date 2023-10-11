@@ -1,0 +1,100 @@
+---
+id: "aspose-ocr-for-cpp-21.2-release-notes"
+slug: "aspose-ocr-for-cpp-21.2-release-notes"
+linktitle: "Aspose.OCR for CPP 21.2 Release Notes"
+title: "Aspose.OCR for CPP 21.2 Release Notes"
+weight: 80
+description: "Aspose.OCR for CPP 21.2 Release Notes – the latest updates and fixes."
+type: "repository"
+feedback: "OCRCPP"
+layout: "release"
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OCR for CPP 21.2 Release Notes"
+menuItemWithNoContent: false
+---
+
+{{% alert color="primary" %}}
+
+This page contains release notes for Aspose.OCR for C++ 21.2.
+
+{{% /alert %}}
+
+{{% alert color="primary" %}}
+
+**GPU version: 21.2.0**
+
+{{% /alert %}}
+
+## All Features
+
+|Key|Summary|Category|
+|---|---|---|
+|OCRCPP-169|Add blacklist for recognition symbols|Enhancement|
+
+## Enhancements
+
+- Added ability to set ignored symbols for recognition
+
+
+## Public API and Backwards Incompatible Changes
+
+### New API
+
+|Structure|Description|
+|---|---|
+|RecognitionSettings|<div><p>Settings for the image recognition.&nbsp;Contains elements that allow customizing the recognition process.&nbsp;</p><p>Fields:</p><p>- all_image (true/false) - turning on means recognizing the image as a single area<br>- correct_skew - detects orientation and auto-rotate image if needed<br>- alphabet - set of allowed characters in the alphabet (symbols for recognition).&nbsp;L"" by default (all alphabet allowed)<br>- format - export_format. Allowed options - text or JSON. In JSON format for rectangles, you will get the extended result with areas coordinates and text in these areas<br>- rectangles - an array of rect structure to set areas for recognition<br>- rectangles_size - the size of rectangles array<br>- skew - rotate image on specified angle. Doesn't work if rectangles are specified<br>- language_alphabet - language used for OCR. Supported languages: English (en), German (de), Portuguese (pt), Spanish (es), French (fr), Italian (it). Multi-language by default. </p><div class="wikimodel-emptyline"></div><p>new field:<br>&nbsp;- ignoredCharacters - sets blacklist for recognition symbols.&nbsp;L"" by default (all alphabet allowed)</p></div>|
+
+### Removed APIs
+
+No Changes
+
+## Example (C++17 since filesystem)
+
+{{< highlight cpp >}}
+
+#include <iostream>
+#include <aspose_ocr.h>
+#include <filesystem>
+#include <corecrt_io.h>
+#include <fcntl.h>
+int main()
+{
+_setmode(_fileno(stdout), _O_U16TEXT);
+//Current directory const
+std::filesystem::path path{ std::filesystem::current_path() };
+/* asposeocr_set_license */
+const std::string lic = "/Aspose.Total.lic";
+std::filesystem::path license = path.string() + lic;
+asposeocr_set_license(license.string().c_str());
+/* asposeocr_set_license */
+bool lic_result = asposeocr_get_state();
+//Recognize image
+std::filesystem::path image = path.string() + "/p.png";
+// Prepare buffer for result (in symbols, len_byte = len * sizeof(wchar_t))
+const size_t len = 4096; 
+wchar_t buffer[len] = { 0 };
+
+ 
+/* asposeocr_page_from_uri*/
+
+const char* uri = "https://www.castlegateit.co.uk/wp-content/uploads/2016/09/justified_text.png";
+
+RecognitionSettings settings;
+   settings.all_image = true;
+   settings.ignoredCharacters = L"ao1.,";
+
+size_t res_len = asposeocr_page_from_uri(uri, buffer, len, settings);
+std::wcout << buffer;
+
+/* asposeocr_page_settings*/
+
+RecognitionSettings settings_img;
+   settings_img.all_image = false; 
+   settings_img.ignoredCharacters = L"0123456789";
+
+res_len = asposeocr_page_settings(image.string().c_str(), buffer, len, settings_img);
+std::wcout << buffer;
+}
+
+{{< /highlight >}}

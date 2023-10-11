@@ -14,7 +14,7 @@ download_count: " 29/6/2022 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 151.62MB"
 parent_path: "ocr/cpp"
 section_parent_path: "ocr/cpp"
-release_notes_url: "https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22.6-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22.6-release-notes/"
 weight: 61
 
 ---
@@ -38,7 +38,7 @@ weight: 61
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22.6-release-notes/'>https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22.6-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22.6-release-notes/'>https://releases.aspose.com/ocr/cpp/release-notes/2022/aspose-ocr-for-cpp-22.6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Nouveau modèle de ML du Denoising, format de sortie JSON, reconnaissance de table</div>

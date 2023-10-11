@@ -17,7 +17,7 @@ weight:  5
 {{< Common/h4 text="Λήψη επεκτάσεων Aspose.Total Rendering για υπηρεσίες αναφοράς SQL Server®"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Το Aspose.Total for Reporting Services είναι μια σουίτα επεκτάσεων απόδοσης για τις υπηρεσίες αναφοράς MS SQL Server που υποστηρίζουν πολλές δημοφιλείς μορφές.
-{{< Common/release-notes-link family="total" product="reportingservices" href="https://docs.aspose.com/barcode/reportingservices/release-notes/" text="https://docs.aspose.com/barcode/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="total" product="reportingservices" href="https://releases.aspose.com/barcode/reportingservices/release-notes/" text="https://releases.aspose.com/barcode/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

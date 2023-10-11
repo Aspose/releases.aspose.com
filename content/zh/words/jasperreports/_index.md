@@ -17,7 +17,7 @@ weight:  6
 {{< Common/h4 text="下载 Aspose.Words 以从 JasperReports® 和 JasperServer® 导出报告"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Words for JasperReports 可帮助您将报告从 JasperReports® 和 JasperServer® 导出为 Microsoft Word® 支持的格式，而不会丢失格式和布局。
-{{< Common/release-notes-link family="words" product="jasperreports" href="https://docs.aspose.com/words/jasperreports/release-notes/" text="https://docs.aspose.com/words/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="jasperreports" href="https://releases.aspose.com/words/jasperreports/release-notes/" text="https://releases.aspose.com/words/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

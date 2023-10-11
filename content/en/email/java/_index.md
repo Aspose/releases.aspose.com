@@ -75,6 +75,8 @@ productLink: https://products.aspose.com/email/java/
 releaseNotesLink: https://docs.aspose.com/email/java/release-notes/
 dataFolder: aspose_email
 packages_refs:
+- "23-9"
+- "21-2-1-1"
 - "23-8"
 - "21-2-0-1"
 - "23-7"
@@ -174,7 +176,7 @@ packages_refs:
 
 # Java Email API
 
-{{< repository/extract-package-explore-link imgsrc=./aspose_email-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_email-for-java-banner.png >}}
 
 [Product Page](https://products.aspose.com/email/java) | [Docs](https://docs.aspose.com/email/java/) | [Demos](https://products.aspose.app/email/family) | [API Reference](https://apireference.aspose.com/email/java) | [Examples](https://github.com/aspose-email/Aspose.Email-for-Java) | [Blog](https://blog.aspose.com/category/email/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/email) | [Temporary License](https://purchase.aspose.com/temporary-license)
 

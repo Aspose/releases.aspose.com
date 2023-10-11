@@ -2,6 +2,7 @@
 title: " Aspose - Downloads"
 description: "It contains files for barcode "
 keywords: "barcode "
+linktitle: "Aspose.BarCode for Python via Java"
 family_listing_page_title: "Aspose.BarCode for Python via Java"
 family_listing_page_description: "Aspose.BarCode for Python via Java"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_barcode-for-python.png"
@@ -24,7 +25,7 @@ You can easily use  <b>aspose-barcode</b> for Python from  {{< Common/link href=
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install aspose-barcode {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/release-notes-link family="barcode" product="python-java" href="https://docs.aspose.com/barcode/java/python-java/" text="https://docs.aspose.com/barcode/java/python-java/"  >}}
+{{< Common/release-notes-link family="barcode" product="python-java" href="https://releases.aspose.com/barcode/python-java/release-notes/" text="https://releases.aspose.com/barcode/python-java/release-notes/"  >}}
 
 {{< Common/hr >}}
 

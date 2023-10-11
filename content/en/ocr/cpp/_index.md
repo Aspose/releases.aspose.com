@@ -2,6 +2,7 @@
 title: "Download Optical Text Recognition C++ DLL | Aspose.OCR API"
 description: "Download OCR DLL containing C++ Class Library to help you recognize English text characters from JPEG, PNG, & BMP images via on-premise text extraction API."
 keywords: "OCR C++, OCR English, Extract Text C++"
+linktitle: "Aspose.OCR for C++"
 family_listing_page_title: "Aspose.OCR for C++"
 family_listing_page_description: "Aspose.OCR for C++ is a robust optical character recognition API. Developers can easily add OCR functionalities in their applications. API is extensible, easy to use, compact and provides a simple set of classes for controlling character recognition. It supports commonly used image formats and provides functionalities like reading characters and fonts from images, bold and italic styles, noise removal filters, scanning of the whole image or any part of the image and much more."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-cpp.png"
@@ -20,7 +21,7 @@ weight:  3
 {{< Common/h2 text="Download C++ Library for Optical Character Recognition (OCR)"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.OCR.Cpp/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.OCR.Cpp</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/ocr/cpp/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="ocr" product="cpp" href="https://docs.aspose.com/ocr/cpp/release-notes/" text="https://docs.aspose.com/ocr/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="ocr" product="cpp" href="https://releases.aspose.com/ocr/cpp/release-notes/" text="https://releases.aspose.com/ocr/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

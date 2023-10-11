@@ -125,7 +125,7 @@ weight: 02	#rem
 tags: ["Aspose Total", "Aspose PDF", "Aspose Java API", "pdf java library", "pdf java class", "Maven", "PDF", "CGM", "EPUB", "HTML", "TeX", "MHT", "PCL", "PS", "Postscript", "SVG", "XML", "XPS", "XSLFO", "MD", "Markdown", "XLS", "XLSX", "PPTX", "DOC", "DOCX", "MobiXML", "JPEG", "EMF", "PNG", "BMP", "GIF", "TIFF", "Text", "document compression", "table creation", "graph", "font", "bookmark", "data source", "attachment", "annotation", "export", "print", "font", "image", "form", "stamp", "watermark", "link", "security", "signature", "TrueType", "CJK", "Unicode", "CMYK", "PDFA", "XML", "FDF", "XFDF", "stamp", "watermark", "Windows", "Linux", "Mac", "J2SE", "extract text", "text extraction", "PDF to DOC", "PDF to DOCX", "PDF to XLS", "PDF to XLSX", "PDF to PPTX", "HTML to PDF", "MHTML to PDF", "PDF to HTML", "BMP to PDF", "CGM to PDF", "DICOM to PDF", "EMF to PDF", "JPG to PDF", "PNG to PDF", "SVG to PDF", "TIFF to PDF", "PDF to TIFF", "PDF to SVG", "EPUB to PDF", "Markdown to PDF", "MD to PDF", "PCL to PDF", "TXT to PDF", "XPS to PDF", "PS to PDF", "Postscript to PDF", "XML to PDF", "XSLFO to PDF", "LaTeX to PDF", "TeX to PDF", "PDF to EPUB", "PDF to LaTeX", "PDF to TeX", "PDF to TXT", "PDF to XPS", "PDF to PDF A_1b", "PDF to PDF A_3b", "PDF to PDF A_3a", "PDF to PDF A_2a", "PDF to PDF A_3U", "PDFA to PDF"]
 forumLink: https://forum.aspose.com/c/pdf/10
 productLink: https://products.aspose.com/pdf/java/
-releaseNotesLink: https://docs.aspose.com/pdf/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/pdf/java/release-notes/
 dataFolder: aspose_pdf
 packages_refs:
 - "22-11"
@@ -223,7 +223,7 @@ packages_refs:
 ---
 
 # Java -API, um PDF -Dateien zu verarbeiten und zu manipulieren
-{{< repository/extract-package-explore-link imgsrc=./aspose_pdf-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_pdf-for-java-banner.png >}}
 
 [Produktseite](https://products.aspose.com/pdf/java) | [Dokumente](https://docs.aspose.com/pdf/java/) | [Demos](https://products.aspose.app/pdf/family) | [API -Referenz](https://apireference.aspose.com/pdf/java) | [Beispiele](https://github.com/aspose-pdf/Aspose.PDF-for-Java/tree/master/Beispiele) | [Blog](https://blog.aspose.com/category/pdf/) | [Suche](https://search.aspose.com/) | [Freie Unterstützung](https://forum.aspose.com/c/pdf) | [Vorübergehende Lizenz](https://purchase.aspose.com/temporary-license)
 

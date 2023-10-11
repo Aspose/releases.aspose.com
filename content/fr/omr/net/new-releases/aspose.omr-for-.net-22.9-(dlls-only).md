@@ -14,7 +14,7 @@ download_count: " 21/9/2022 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 76.6MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-9-release-notes/"
 weight: 98
 
 ---
@@ -38,7 +38,7 @@ weight: 98
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-22-9-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-22-9-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-9-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Ce fichier zip ne contient que les assemblages Aspose.omr pour .NET. Les assemblages sont les mêmes que dans le programme d'installation MSI du produit de la même version. Téléchargez ceci si vous souhaitez utiliser Aspose.omr sans l'installateur MSI, c'est-à-dire que vous ne pouvez pas exécuter les installateurs MSI sur Mono.</div>

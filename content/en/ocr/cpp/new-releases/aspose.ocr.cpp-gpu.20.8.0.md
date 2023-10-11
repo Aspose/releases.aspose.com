@@ -39,7 +39,7 @@ weight: 37
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-20-8-release-notes/">https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-20-8-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">new ML model for image recognition using GPU and CUDA technology</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/ocr/cpp/release-notes/2020/aspose-ocr-for-cpp-20-8-release-notes/">https://releases.aspose.com/ocr/cpp/release-notes/2020/aspose-ocr-for-cpp-20-8-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">new ML model for image recognition using GPU and CUDA technology</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

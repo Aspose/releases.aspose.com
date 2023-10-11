@@ -96,7 +96,7 @@ packages_refs:
 ---
 
 # OneNote belge işleme için Java API
-{{< repository/extract-package-explore-link imgsrc=./aspose_note-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_note-for-java-banner.png >}}
 
 [Ürün sayfası](https://products.aspose.com/note/java) | [Belgeler](https://docs.aspose.com/note/java/) | [Demolar](https://products.aspose.app/note/family) | [API referansı](https://apireference.aspose.com/note/java) | [Örnekler](https://github.com/aspose-note/Aspose.Note-for-Java) | [Blog](https://blog.aspose.com/category/note/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/note) | [Geçici lisans](https://purchase.aspose.com/temporary-license)
 

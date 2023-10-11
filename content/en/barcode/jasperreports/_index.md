@@ -2,6 +2,7 @@
 title: "Extension to Create Barcode Labels | Aspose.BarCode for JasperReports"
 description: "Download JasperReports and JasperServer extension to create and show barcode labels in your applications. These barcode labels can be rendered in many popular image formats."
 keywords: "JasperReports Barcode, JasperServer Barcode"
+linktitle: "Aspose.BarCode for JasperReports"
 family_listing_page_title: "Aspose.BarCode for JasperReports"
 family_listing_page_description: "Aspose.BarCode for JasperReports is a flexible JasperReports and JasperServer extension to generate and display high quality barcode labels in your applications. These barcode labels can be rendered in many popular image formats."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-jasperreports-min.png"
@@ -18,7 +19,7 @@ weight:  6
 {{< Common/h3 text="Download Aspose.BarCode to display barcodes on JasperReports®"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.BarCode for JasperReports enables you to render linear and 2D barcodes of 25+ symbologies in several supported image formats and display them on JasperReports®.
-{{< Common/release-notes-link family="barcode" product="jasperreports" href="https://docs.aspose.com/barcode/jasperreports/release-notes/" text="https://docs.aspose.com/barcode/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="jasperreports" href="https://releases.aspose.com/barcode/jasperreports/release-notes/" text="https://releases.aspose.com/barcode/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

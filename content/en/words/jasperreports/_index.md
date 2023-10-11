@@ -2,6 +2,7 @@
 title: "Extension to Export Reports in Word Format | Aspose.Words for JasperReports"
 description: "Download JasperReports Extension to export reports in Word & HTML formats from JasperReports and JasperServer. "
 keywords: "JasperReports Extension, JasperServer Extension "
+linktitle: "Aspose.Words for JasperReports"
 family_listing_page_title: "Aspose.Words for JasperReports"
 family_listing_page_description: "Aspose.Words for JasperReports is the only solution on the market that makes it possible to export reports from JasperReports and JasperServer to Microsoft Word document (DOC), Office Open XML (OOXML, DOCX), Rich Text Format (RTF), OpenDocument Text (ODT), Web page (HTML) and plain text (TXT) formats without using Microsoft Word."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-jasperreports.png"
@@ -17,7 +18,7 @@ weight:  6
 {{< Common/h4 text="Download Aspose.Words to Export Reports from JasperReports® & JasperServer®"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Words for JasperReports helps you export reports from the JasperReports&reg; & JasperServer&reg; to the Microsoft Word&reg; supported formats without any loss of formatting and layout.
-{{< Common/release-notes-link family="words" product="jasperreports" href="https://docs.aspose.com/words/jasperreports/release-notes/" text="https://docs.aspose.com/words/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="jasperreports" href="https://releases.aspose.com/words/jasperreports/release-notes/" text="https://releases.aspose.com/words/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

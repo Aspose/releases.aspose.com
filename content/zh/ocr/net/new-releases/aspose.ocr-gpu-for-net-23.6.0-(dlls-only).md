@@ -15,7 +15,7 @@ file_size: "File Size: 230.07MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 tags: ['ocr', 'ocr-to-doc', 'ocr-to-docx', 'ocr-to-md', 'ocr-to-odt', 'ocr-to-pdf', 'ocr-to-text']
-release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-6-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-6-0-release-notes/"
 weight: 318
 
 ---
@@ -39,7 +39,7 @@ weight: 318
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-6-0-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-6-0-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-6-0-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-6-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">插件支持，无图像输出的PDF，进度跟踪扩展</div>

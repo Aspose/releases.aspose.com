@@ -14,7 +14,7 @@ download_count: " 20/4/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 265.83MB"
 parent_path: "ocr/python-net"
 section_parent_path: "ocr/python-net"
-release_notes_url: "https://docs.aspose.com/ocr/python-net/release-notes/latest/"
+release_notes_url: "https://releases.aspose.com/ocr/python-net/release-notes/latest/"
 weight: 1
 
 ---
@@ -38,7 +38,7 @@ weight: 1
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/ocr/python-net/release-notes/latest/'>https://docs.aspose.com/ocr/python-net/release-notes/latest/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/ocr/python-net/release-notes/latest/'>https://releases.aspose.com/ocr/python-net/release-notes/latest/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Готовый к использованию двигатель оптического распознавания символов (OCR)</div>

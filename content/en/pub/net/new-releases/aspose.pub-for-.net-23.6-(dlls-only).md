@@ -16,7 +16,7 @@ parent_path: "pub/net"
 section_parent_path: "pub/net"
 release_notes_url: "https://releases.aspose.com/pub/net/release-notes/2023/aspose-pub-for-net-23-6-release-notes/"
 weight: 36
-tags: ['Aspose.PUB', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'API', 'Component', 'Assembly', 'Windows', 'Azure', '.NET-Framework', '.NET-Core', '.NETCore2.0', '.NETCore2.1', 'Mono', 'Visual-Studio', 'VisualStudio', 'C#', 'CSharp', 'VB.NET', 'ASP.NET', 'Publisher', 'Publisher-API', 'PUB-to-PDF']
+tags: ['Aspose.PUB', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'API', 'Component', 'Assembly', 'Windows', 'Azure', '.NET-Framework', 'net-core', '.NETCore2.0', '.NETCore2.1', 'Mono', 'Visual-Studio', 'VisualStudio', 'C#', 'CSharp', 'VB.NET', 'ASP.NET', 'Publisher', 'Publisher-API', 'PUB-to-PDF']
 ---
 
 {{< Releases/ReleasesWapper >}}

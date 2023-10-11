@@ -17,7 +17,7 @@ weight: 5
 {{< Common/h3 text="下载 Aspose.Words 以在 SharePoint® 中转换文档"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Words for SharePoint 通过允许您使用报告、文档转换和 SharePoint® 工作流来增强您与 SharePoint 文档的交互性。
-{{< Common/release-notes-link family="words" product="sharepoint" href="https://docs.aspose.com/words/sharepoint/release-notes/" text="https://docs.aspose.com/words/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="sharepoint" href="https://releases.aspose.com/words/sharepoint/release-notes/" text="https://releases.aspose.com/words/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

@@ -46,7 +46,7 @@ packages_refs:
 ---
 
 # Java API üzerinden PROBU PUS DOSYALARI
-{{< repository/extract-package-explore-link imgsrc=./aspose_pub-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_pub-for-java-banner.png >}}
 
 [Ürün sayfası](https://products.aspose.com/pub/java) | [Belgeler](https://docs.aspose.com/pub/java/) | [API referansı](https://apireference.aspose.com/pub/java) | [Örnekler](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/Örnekler) | [Blog](https://blog.aspose.com/category/pub/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/pub) | [Geçici lisans](https://purchase.aspose.com/temporary-license)
 

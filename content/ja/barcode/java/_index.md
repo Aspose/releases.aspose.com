@@ -143,7 +143,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/barcode/13
 productLink: https://products.aspose.com/barcode/java/
-releaseNotesLink: https://docs.aspose.com/barcode/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/barcode/java/release-notes/
 dataFolder: aspose_barcode
 packages_refs:
 - "22-11"
@@ -231,7 +231,7 @@ packages_refs:
 
 # Javaアプリケーション用のバーコードライブラリ
 
-{{< repository/extract-package-explore-link imgsrc=./aspose_barcode-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_barcode-for-java-banner.png >}}
 
 [製品ページ](https://products.aspose.com/barcode/java) | [ドキュメント](https://docs.aspose.com/barcode/java/) | [デモ](https://products.aspose.app/barcode/family) | [APIリファレンス](https://apireference.aspose.com/barcode/java) | [例](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [ブログ](https://blog.aspose.com/category/barcode/) | [探す](https://search.aspose.com/) | [無料サポート](https://forum.aspose.com/c/barcode) | [一時ライセンス](https://purchase.aspose.com/temporary-license)
 

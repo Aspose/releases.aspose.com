@@ -46,7 +46,7 @@ packages_refs:
 ---
 
 # Procesar archivos de pub a través de Java API
-{{< repository/extract-package-explore-link imgsrc=./aspose_pub-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_pub-for-java-banner.png >}}
 
 [Página del producto](https://products.aspose.com/pub/java) | [Documentos](https://docs.aspose.com/pub/java/) | [Referencia de API](https://apireference.aspose.com/pub/java) | [Ejemplos](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/Ejemplos) | [Blog](https://blog.aspose.com/category/pub/) | [Búsqueda](https://search.aspose.com/) | [Soporte gratuito](https://forum.aspose.com/c/pub) | [Licencia temporal](https://purchase.aspose.com/temporary-license)
 

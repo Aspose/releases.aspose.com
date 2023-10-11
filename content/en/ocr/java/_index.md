@@ -1,6 +1,6 @@
 ---
 title: Aspose.OCR | Image Character Recognition Java Class Library
-linktitle: Aspose.OCR
+linktitle: "Aspose.OCR for Java"
 description: Java class library to perform optical character recognition (OCR) on JPEG, PNG, GIF, BMP & TIFF images. Extract English, French, Spanish & Portuguese via OCR.
 layout: packages
 type: repository
@@ -55,7 +55,7 @@ homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-ocr/"
 forumLink: https://forum.aspose.com/c/ocr/16
 productLink: https://products.aspose.com/ocr/java/
-releaseNotesLink: https://docs.aspose.com/ocr/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/ocr/java/release-notes/
 tags: ["Aspose Total", "Aspose OCR", "Aspose Java API", "ocr java library", "ocr java class", "Maven", "JPEG", "PNG", "GIF", "BMP", "TIFF", "TXT", "DOCX", "PDF", "Windows", "Linux", "Mac", "J2SE", "JSON", "optical character recognition", "OCR", "recognize text", "recognize image", "spell correction", "spell check", "skew correction", "image correction", "recognize pdf", "recognize tiff", "searchable pdf", "searchable docx", "multi lang ocr", "recognize multi image", "multi threading", "image detection", "text detection"]
 dataFolder: aspose_ocr
 packages_refs:
@@ -117,7 +117,7 @@ packages_refs:
 
 # Java OCR Library
 
-{{< repository/extract-package-explore-link imgsrc=./aspose_ocr-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_ocr-for-java-banner.png >}}
 
 [Product Page](https://products.aspose.com/ocr/java) | [Docs](https://docs.aspose.com/ocr/java/) | [Demos](https://products.aspose.app/ocr/family) | [API Reference](https://apireference.aspose.com/ocr/java) | [Examples](https://github.com/aspose-ocr/Aspose.OCR-for-Java) | [Blog](https://blog.aspose.com/category/ocr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/ocr) | [Temporary License](https://purchase.aspose.com/temporary-license)
 

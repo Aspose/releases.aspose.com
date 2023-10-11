@@ -2,6 +2,7 @@
 title: "Android Word Document Library | Aspose.Words for Android via Java"
 description: "Download on-premise Android Library, enabling developers to perform document manipulation tasks directly within Android applications. API allows creating, manipulate, convert and render Microsoft Word files. "
 keywords: "Word API, Android Word Library "
+linktitle: "Aspose.Words for Android via Java"
 family_listing_page_title: "Aspose.Words for Android via Java"
 family_listing_page_description: "Aspose.Words for Android via Java is a Word Document Processing API enabling you to perform a great range of document processing tasks directly within your Android applications. Aspose.Words for Android via Java allows you to easily generate, modify, convert and render Microsoft Word documents."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-android.png"
@@ -24,7 +25,7 @@ Aspose.Words for Android via Java adds Word Document Processing capabilities to 
 
 You can easily use Aspose.Words for Java directly from a {{< Common/link href="https://repository.aspose.com/words/" text="Maven"  >}} based project by adding following configurations to the build.gradle.
 
-{{< Common/release-notes-link family="words" product="androidjava" href="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/" text="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/"  >}}
+{{< Common/release-notes-link family="words" product="androidjava" href="https://releases.aspose.com/words/androidjava/release-notes/" text="https://releases.aspose.com/words/androidjava/release-notes/"  >}}
 
 {{< /Common/paragraph>}}
 
@@ -39,7 +40,7 @@ You can easily use Aspose.Words for Java directly from a {{< Common/link href="h
       implementation (
          group: 'com.aspose',
          name: 'aspose-words',
-         version: '23.6',
+         version: '23.9',
          classifier: 'android.via.java')
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}

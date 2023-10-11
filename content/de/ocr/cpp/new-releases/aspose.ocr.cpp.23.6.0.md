@@ -15,7 +15,7 @@ file_size: "File Size: 210.48MB"
 parent_path: "ocr/cpp"
 section_parent_path: "ocr/cpp"
 tags: ['English-OCR', 'German-OCR', 'Portuguese-OCR', 'Spanish-OCR', 'French-OCR', 'Italian-OCR', 'Skew', 'Image-OCR', 'Optical-Recognition', 'Image-Recognition', 'Character-Recognition', 'JPEG', 'PNG', 'BMP', 'OCR-Deep-Learning', 'Computer-Vision','Language-OCR', 'Zonal-OCR', 'Optical-Character-Recognition', 'OCR-Area-Detection', 'OCR-to-JSON', 'Conholdate', 'Native', 'CPP']
-release_notes_url: "https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-6-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-6-0-release-notes/"
 weight: 86
 
 ---
@@ -39,7 +39,7 @@ weight: 86
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-6-0-release-notes/'>https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-6-0-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-6-0-release-notes/'>https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-6-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">Die schnelle Erkennungsmethode wurde mit der neuen API in Einklang gebracht.</div>

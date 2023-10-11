@@ -20,7 +20,7 @@ weight: 3
 {{< Common/paragraph class="package-instructions">}}
 Вы можете легко использовать Aspose.BarCode для Java непосредственно из
 {{< Common/link href="https://repository.aspose.com/barcode/" text="Мавен"  >}}на основе проекта, добавив следующие конфигурации в файл build.gradle.
-{{< Common/release-notes-link family="barcode" product="androidjava" href="https://docs.aspose.com/barcode/java/android-via-java-release-notes/" text="https://docs.aspose.com/barcode/java/android-via-java-release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="androidjava" href="https://releases.aspose.com/barcode/androidjava/release-notes/" text="https://releases.aspose.com/barcode/androidjava/release-notes/"  >}}
 {{< /Common/paragraph>}}
 
 {{< consolebox/consoleboxwrapper id="repository" >}}

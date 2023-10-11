@@ -14,7 +14,7 @@ download_count: " 27/2/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 210.79MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
-release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-2-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-2-1-release-notes/"
 weight: 306
 
 ---
@@ -38,7 +38,7 @@ weight: 306
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-2-1-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-2-1-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-2-1-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-2-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">Optimieren Sie das Dewarping -Modell nach Zeit</div>

@@ -181,7 +181,7 @@ packages_refs:
 ---
 
 # Java Powerpoint API
-{{< repository/extract-package-explore-link imgsrc=./aspose_slides-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_slides-for-java-banner.png >}}
 
 [Produktseite](https://products.aspose.com/slides/java) | [Dokumente](https://docs.aspose.com/slides/java/) | [Demos](https://products.aspose.app/slides/family) | [API -Referenz](https://apireference.aspose.com/slides/java) | [Beispiele](https://github.com/aspose-slides/Aspose.Slides-for-Java) | [Blog](https://blog.aspose.com/category/slides/) | [Suche](https://search.aspose.com/) | [Freie Unterstützung](https://forum.aspose.com/c/slides) | [Vorübergehende Lizenz](https://purchase.aspose.com/temporary-license)
 

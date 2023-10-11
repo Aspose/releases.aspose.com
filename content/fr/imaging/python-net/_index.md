@@ -15,7 +15,7 @@ weight: 5
 {{< Common/paragraph class="package-instructions">}}
 ASPOSE.IMAGIER pour Python via .NET API qui est une API de manipulation d'image et de conversion riche en fonctionnalités, puissantes et faciles à utiliser pour Python. La bibliothèque d'imagination Aspose. Il prend en charge le dessin et le travail avec des primitives graphiques. L'exportation et la conversion d'image (y compris le traitement uniforme de l'image de plusieurs pages) est celle des caractéristiques de base de l'API ainsi que des transformations d'image (redimensionnement, crop, flip & rotation, binarisation, niveaux de gris, ajustement, etc.), fonctionnalités avancées de manipulation d'images (filtrage, tramage, Masquage, deskewing) et stratégies d'optimisation de la mémoire.
 Veuillez utiliser ce qui suit {{< Common/link href="https://pypi.org/project/aspose-imaging-python-net/" text="pip"  >}} command:
-{{< Common/release-notes-link family="imaging" product="python-net" href="https://docs.aspose.com/imaging/python-net/release-notes/" text="https://docs.aspose.com/imaging/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="python-net" href="https://releases.aspose.com/imaging/python-net/release-notes/" text="https://releases.aspose.com/imaging/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}

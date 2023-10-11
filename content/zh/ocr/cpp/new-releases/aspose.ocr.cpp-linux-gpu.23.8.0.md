@@ -16,7 +16,7 @@ parent_path: "ocr/cpp"
 section_parent_path: "ocr/cpp"
 
 tags: "23.8.0"
-release_notes_url: "https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-8-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-8-0-release-notes/"
 weight: 93
 
 ---
@@ -40,7 +40,7 @@ weight: 93
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-8-0-release-notes/'>https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-8-0-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-8-0-release-notes/'>https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-8-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription"> - 添加了限制OCR发动机使用的螺纹数量的能力。 - 将PNG和JPEG图像作为字节阵列。 - 提供邮政档案作为字节数组。</div>

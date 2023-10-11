@@ -124,7 +124,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/pdf/10
 productLink: https://products.aspose.com/pdf/java/
-releaseNotesLink: https://docs.aspose.com/pdf/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/pdf/java/release-notes/
 dataFolder: aspose_pdf
 packages_refs:
 - "22-11"
@@ -222,7 +222,7 @@ packages_refs:
 ---
 
 # Java API PDF dosyalarını işlemek ve manipüle etmek için
-{{< repository/extract-package-explore-link imgsrc=./aspose_pdf-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_pdf-for-java-banner.png >}}
 
 [Ürün sayfası](https://products.aspose.com/pdf/java) | [Belgeler](https://docs.aspose.com/pdf/java/) | [Demolar](https://products.aspose.app/pdf/family) | [API referansı](https://apireference.aspose.com/pdf/java) | [Örnekler](https://github.com/aspose-pdf/Aspose.PDF-for-Java/tree/master/Örnekler) | [Blog](https://blog.aspose.com/category/pdf/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/pdf) | [Geçici lisans](https://purchase.aspose.com/temporary-license)
 

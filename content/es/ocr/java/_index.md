@@ -55,7 +55,7 @@ homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-ocr/"
 forumLink: https://forum.aspose.com/c/ocr/16
 productLink: https://products.aspose.com/ocr/java/
-releaseNotesLink: https://docs.aspose.com/ocr/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/ocr/java/release-notes/
 dataFolder: aspose_ocr
 packages_refs:
 - "22-11-1"
@@ -104,7 +104,7 @@ packages_refs:
 ---
 
 # Biblioteca Java OCR
-{{< repository/extract-package-explore-link imgsrc=./aspose_ocr-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_ocr-for-java-banner.png >}}
 
 [Página del producto](https://products.aspose.com/ocr/java) | [Documentos](https://docs.aspose.com/ocr/java/) | [Población](https://products.aspose.app/ocr/family) | [Referencia de API](https://apireference.aspose.com/ocr/java) | [Ejemplos](https://github.com/aspose-ocr/Aspose.OCR-for-Java) | [Blog](https://blog.aspose.com/category/ocr/) | [Búsqueda](https://search.aspose.com/) | [Soporte gratuito](https://forum.aspose.com/c/ocr) | [Licencia temporal](https://purchase.aspose.com/temporary-license)
 

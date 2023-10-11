@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "48"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.PDF.Cpp/"
-tags: ['PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-SVG', 'PDF-Formatting', 'PDF-Metadata', 'PDF-Attachment', 'PDF-Images', 'PDF-Encryption', 'PDF-Decryption', 'Search-PDF', 'PDF-Table', 'PDF-Annotations', 'PDF-Bookmarks', 'PDF-Security', 'PDF-Signature', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP']
+tags: ['PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-SVG', 'PDF-Formatting', 'PDF-Metadata', 'PDF-Attachment', 'PDF-Images', 'PDF-Encryption', 'PDF-Decryption', 'Search-PDF', 'PDF-Table', 'PDF-Annotations', 'PDF-Bookmarks', 'PDF-Security', 'PDF-Signature', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP', 'pdf-c']
 weight:  3
 ---
 
@@ -22,7 +22,7 @@ weight:  3
 Abrir
 {{< Common/link href="https://www.nuget.org/packages/Aspose.PDF.Cpp/" text="NuGetName"  >}}Package Manager dentro do Microsoft Visual Studio®, procure por <b>Aspose.PDF.Cpp</b> e instale. Você também pode usar o seguinte comando no Console do Gerenciador de Pacotes. Para obter instruções detalhadas, visite o
 {{< Common/link href="https://docs.aspose.com/pdf/cpp/installation/" text="Instalação"  >}}página de documentação.
-{{< Common/release-notes-link family="pdf" product="cpp" href="https://docs.aspose.com/pdf/cpp/release-notes/" text="https://docs.aspose.com/pdf/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="cpp" href="https://releases.aspose.com/pdf/cpp/release-notes/" text="https://releases.aspose.com/pdf/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
@@ -87,4 +87,3 @@ O Aspose.PDF para C++ funciona igualmente bem no lado do cliente e no lado do se
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

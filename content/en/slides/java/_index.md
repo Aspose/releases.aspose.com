@@ -90,6 +90,7 @@ productLink: https://products.aspose.com/slides/java/
 releaseNotesLink: https://docs.aspose.com/slides/java/release-notes/
 dataFolder: aspose_slides
 packages_refs:
+- "23-9"
 - "23-8"
 - "23-7"
 - "23-6"
@@ -191,7 +192,7 @@ packages_refs:
 
 # Java PowerPoint API
 
-{{< repository/extract-package-explore-link imgsrc=./aspose_slides-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_slides-for-java-banner.png >}}
 
 [Product Page](https://products.aspose.com/slides/java) | [Docs](https://docs.aspose.com/slides/java/) | [Demos](https://products.aspose.app/slides/family) | [API Reference](https://apireference.aspose.com/slides/java) | [Examples](https://github.com/aspose-slides/Aspose.Slides-for-Java) | [Blog](https://blog.aspose.com/category/slides/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/slides) | [Temporary License](https://purchase.aspose.com/temporary-license)
 

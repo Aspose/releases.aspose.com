@@ -2,6 +2,7 @@
 title: "Add Barcodes to SharePoint Lists | Aspose.BarCode for SharePoint"
 description: "Download Barcode Solution for SharePoint that allows to add a large number of linear, 2D and postal barcode symbols to Microsoft SharePoint Foundation 2010 and Microsoft Office SharePoint Server 2010 (MOSS) lists. "
 keywords: "SharePoint Barcode "
+linktitle: "Aspose.BarCode for SharePoint"
 family_listing_page_title: "Aspose.BarCode for SharePoint"
 family_listing_page_description: "Aspose.BarCode for SharePoint allows to add a large number of linear, 2D and postal barcode symbols to Microsoft SharePoint Foundation 2010 and Microsoft Office SharePoint Server 2010 (MOSS) lists. You may add barcodes to any list by specifying code text and symbology."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-sharepoint-min.png"
@@ -18,7 +19,7 @@ weight: 6
 {{< Common/paragraph class="package-instructions">}}
 {{< Common/link href="https://products.aspose.com/barcode/sharepoint/" text="Aspose.BarCode for SharePoint"  >}} enables
 you to generate Postal and 2D barcodes in SharePoint® lists. It extends the functionality of the existing SharePoint® standard field by adding a barcode field type.
-{{< Common/release-notes-link family="barcode" product="sharepoint" href="https://docs.aspose.com/barcode/sharepoint/" text="https://docs.aspose.com/barcode/sharepoint/"  >}}
+{{< Common/release-notes-link family="barcode" product="sharepoint" href="https://releases.aspose.com/barcode/sharepoint/release-notes/" text="https://releases.aspose.com/barcode/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

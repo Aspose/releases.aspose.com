@@ -47,7 +47,7 @@ packages_refs:
 
 # JavaAPI経由でPUBファイルを処理します
 
-{{< repository/extract-package-explore-link imgsrc=./aspose_pub-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_pub-for-java-banner.png >}}
 
 [製品ページ](https://products.aspose.com/pub/java) | [ドキュメント](https://docs.aspose.com/pub/java/) | [APIリファレンス](https://apireference.aspose.com/pub/java) | [例](https://github.com/aspose-pub/Aspose.PUB-for-Java/tree/master/例) | [ブログ](https://blog.aspose.com/category/pub/) | [探す](https://search.aspose.com/) | [無料サポート](https://forum.aspose.com/c/pub) | [一時ライセンス](https://purchase.aspose.com/temporary-license)
 

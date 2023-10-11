@@ -39,7 +39,7 @@ weight: 76
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/omr/net/aspose-omr-for-net-21-11-release-notes/">https://docs.aspose.com/omr/net/aspose-omr-for-net-21-11-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Contains Aspose.OMR for .NET 21.11 release</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-11-release-notes/">https://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-11-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Contains Aspose.OMR for .NET 21.11 release</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

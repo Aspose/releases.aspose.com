@@ -1,6 +1,6 @@
 ---
 title: Aspose.Words | Java Library to Process Document Formats
-linktitle: Aspose.Words
+linktitle: "Aspose.Words for Java"
 description: Java library to create edit view and convert Word and OpenOffice documents. Programmatically work with document text, images, forms, tables, XML, OLE and more.
 layout: packages
 type: repository
@@ -124,7 +124,7 @@ tags: ["Aspose Total", "Aspose Words", "Aspose Java API", "word java library", "
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/words/8
 productLink: https://products.aspose.com/words/java/
-releaseNotesLink: https://docs.aspose.com/words/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/words/java/release-notes/
 dataFolder: aspose_words
 packages_refs:
 - "23-9"
@@ -224,7 +224,7 @@ packages_refs:
 
 # Java API for Various Document Formats
 
-{{< repository/extract-package-explore-link imgsrc=./aspose_words-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_words-for-java-banner.png >}}
 [Product Page](https://products.aspose.com/words/java) | [Docs](https://docs.aspose.com/words/java/) | [Demos](https://products.aspose.app/words/family) | [API Reference](https://apireference.aspose.com/words/java) | [Examples](https://github.com/aspose-words/Aspose.Words-for-Java/tree/master/Examples) | [Blog](https://blog.aspose.com/category/words/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/words) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
 [Aspose.Words for Java](https://products.aspose.com/words/java) is an advanced Java Word processing API that enables you to perform a great range of document processing tasks directly within your Java applications. Aspose.Words for Java API supports processing word (DOC, DOCX, OOXML, RTF) HTML, OpenDocument, PDF, EPUB, XPS, SWF and all image formats. With Aspose.Words you can generate, modify, and convert documents without using Microsoft Word&reg;.

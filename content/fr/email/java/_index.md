@@ -162,7 +162,7 @@ packages_refs:
 ---
 
 # API par e-mail Java
-{{< repository/extract-package-explore-link imgsrc=./aspose_email-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_email-for-java-banner.png >}}
 
 [Page de produit](https://products.aspose.com/email/java) | [Docs](https://docs.aspose.com/email/java/) | [Démos](https://products.aspose.app/email/family) | [Référence de l'API](https://apireference.aspose.com/email/java) | [Exemples](https://github.com/aspose-email/Aspose.Email-for-Java) | [Blog](https://blog.aspose.com/category/email/) | [Chercher](https://search.aspose.com/) | [Support gratuit](https://forum.aspose.com/c/email) | [Licence temporaire](https://purchase.aspose.com/temporary-license)
 

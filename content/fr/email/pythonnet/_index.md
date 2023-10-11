@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "209"
 homepage_package_type: "Pip"
 homepage_package_link: "https://pypi.org/project/Aspose.Email-for-Python-via-NET/"
-tags: ['Aspose', 'Aspose.Total', 'Aspose.Email', 'Python', 'Library', '.NET', 'Email', 'MSG', 'PST', 'OST', 'OFT', 'EML', 'EMLX', 'MBOX', 'ICS', 'VCF', 'HTML', 'MHTML']
+tags: ['Aspose', 'Aspose.Total', 'Aspose.Email', 'Python', 'Library', 'NET', 'Email', 'MSG', 'PST', 'OST', 'OFT', 'EML', 'EMLX', 'MBOX', 'ICS', 'VCF', 'HTML', 'MHTML']
 weight:  6
 ---
 

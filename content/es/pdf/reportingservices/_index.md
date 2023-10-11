@@ -17,7 +17,7 @@ weight: 5
 {{< Common/h3 text="Descargue la extensión de representación Aspose.PDF para informes SQL"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF para Reporting Services es una extensión de representación de informes que se integra a la perfección con Microsoft SQL Server® Reporting Services. Admite manipular funciones RDL y exportar a los formatos admitidos de manera muy precisa.
-{{< Common/release-notes-link family="pdf" product="reportingservices" href="https://docs.aspose.com/pdf/reportingservices/release-notes/" text="https://docs.aspose.com/pdf/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="reportingservices" href="https://releases.aspose.com/pdf/reportingservices/release-notes/" text="https://releases.aspose.com/pdf/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

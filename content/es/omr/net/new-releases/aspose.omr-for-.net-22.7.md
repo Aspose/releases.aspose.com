@@ -14,7 +14,7 @@ file_size: "File Size: 77.75MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
 
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-7-release-notes/"
 weight: 94
 ---
 
@@ -37,7 +37,7 @@ weight: 94
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-22-7-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-22-7-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-7-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Contiene aspose.omr para .NET 22.7 versión</div>
@@ -71,7 +71,7 @@ The following C# code snippet is used to insert the round type bubbles (checkbox
 
 **Result**
 
-![Round Bubble Style](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-7-release-notes/checkbox-round.png)
+![Round Bubble Style](https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-7-release-notes/checkbox-round.png)
 
 The following C# code snippet is used to insert the square type checkbox in the OMR form via API:
 
@@ -86,7 +86,7 @@ The following C# code snippet is used to insert the square type checkbox in the 
 
 **Result**
 
-![Square Bubble Style](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-7-release-notes/checkbox-square.png)
+![Square Bubble Style](https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-7-release-notes/checkbox-square.png)
 
 # BarCode Type & QR Version Enumerators
 
@@ -95,7 +95,7 @@ Added the following two enumerators to facilitate the barcode processing within 
 - **`BarcodeType` enumerator** to specify the type of the generated barcode, `Aspose.OMR.Generation.Config.Enums.BarcodeType`.
 - **`BarcodeQRVersion` enumerator** to specify the version of the generated QR code, `Aspose.OMR.Generation.Config.Enums.QRVersion`.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OMR for .NET 22.7 Notas de lanzamiento](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-7-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OMR for .NET 22.7 Notas de lanzamiento](https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

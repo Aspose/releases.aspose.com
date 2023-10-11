@@ -14,7 +14,7 @@ download_count: " 8/2/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 210.45MB"
 parent_path: "ocr/cpp"
 section_parent_path: "ocr/cpp"
-release_notes_url: "https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-2-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-2-0-release-notes/"
 weight: 77
 
 ---
@@ -38,7 +38,7 @@ weight: 77
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-2-0-release-notes/'>https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-2-0-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-2-0-release-notes/'>https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-2-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Suporte à linguagem hindi. Salvar o reconhecimento resulta em formato RTF.</div>

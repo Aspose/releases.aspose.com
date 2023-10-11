@@ -17,7 +17,7 @@ weight: 6
 {{< Common/h3 text="下载 Aspose.PDF 以在 SharePoint® 中导出、转换 PDF"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF for SharePoint 可帮助您在 SharePoint 网站中处理、导出、转换和合并 PDF 文件。
-{{< Common/release-notes-link family="pdf" product="sharepoint" href="https://docs.aspose.com/pdf/sharepoint/release-notes/" text="https://docs.aspose.com/pdf/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="sharepoint" href="https://releases.aspose.com/pdf/sharepoint/release-notes/" text="https://releases.aspose.com/pdf/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

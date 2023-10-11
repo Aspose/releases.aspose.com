@@ -17,7 +17,7 @@ weight:  6
 {{< Common/h4 text="Unduh Aspose.Words untuk Mengekspor Laporan dari JasperReports® & JasperServer®"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Words untuk JasperReports membantu Anda mengekspor laporan dari JasperReports® & JasperServer® ke format yang didukung Microsoft Word® tanpa kehilangan format dan tata letak.
-{{< Common/release-notes-link family="words" product="jasperreports" href="https://docs.aspose.com/words/jasperreports/release-notes/" text="https://docs.aspose.com/words/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="jasperreports" href="https://releases.aspose.com/words/jasperreports/release-notes/" text="https://releases.aspose.com/words/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

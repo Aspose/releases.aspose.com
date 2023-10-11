@@ -93,7 +93,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/imaging/14
 productLink: https://products.aspose.com/imaging/java/
-releaseNotesLink: https://docs.aspose.com/imaging/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/imaging/java/release-notes/
 dataFolder: aspose_imaging
 packages_refs:
 - "22-12"
@@ -170,7 +170,7 @@ packages_refs:
 
 # 画像処理用のJava API
 
-{{< repository/extract-package-explore-link imgsrc=./aspose_imaging-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_imaging-for-java-banner.png >}}
 
 [製品ページ](https://products.aspose.com/imaging/java) | [ドキュメント](https://docs.aspose.com/imaging/java/) | [デモ](https://products.aspose.app/imaging/family) | [APIリファレンス](https://apireference.aspose.com/imaging/java) | [例](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [ブログ](https://blog.aspose.com/category/imaging/) | [探す](https://search.aspose.com/) | [無料サポート](https://forum.aspose.com/c/imaging) | [一時ライセンス](https://purchase.aspose.com/temporary-license)
 

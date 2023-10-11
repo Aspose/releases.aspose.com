@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "206"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.OCR.Cpp"
-tags: ['English-OCR', 'German-OCR', 'Portuguese-OCR', 'Spanish-OCR', 'French-OCR', 'Italian-OCR', 'Skew', 'Image-OCR', 'Optical-Recognition', 'Image-Recognition', 'Character-Recognition', 'JPEG', 'PNG', 'BMP', 'OCR-Deep-Learning', 'Computer-Vision','Language-OCR', 'Zonal-OCR', 'Optical-Character-Recognition', 'OCR-Area-Detection', 'OCR-to-JSON', 'Conholdate', 'Native', 'CPP']
+tags: ['English-OCR', 'German-OCR', 'Portuguese-OCR', 'Spanish-OCR', 'French-OCR', 'Italian-OCR', 'Skew', 'Image-OCR', 'Optical-Recognition', 'Image-Recognition', 'Character-Recognition', 'JPEG', 'PNG', 'BMP', 'OCR-Deep-Learning', 'Computer-Vision','Language-OCR', 'Zonal-OCR', 'Optical-Character-Recognition', 'OCR-Area-Detection', 'OCR-to-JSON', 'Conholdate', 'Native', 'CPP', '.net-standard', 'aspose.tasks-c -linux', 'c -native-library']
 weight:  3
 ---
 
@@ -22,7 +22,7 @@ weight:  3
 Ανοιξε
 {{< Common/link href="https://www.nuget.org/packages/Aspose.OCR.Cpp/" text="NuGet"  >}}Διαχειριστής πακέτων στο Microsoft Visual Studio®, αναζητήστε το <b>Aspose.OCR.Cpp</b> και εγκαταστήστε το. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή στην Κονσόλα Package Manager. Για αναλυτικές οδηγίες, επισκεφθείτε το
 {{< Common/link href="https://docs.aspose.com/ocr/cpp/installation/" text="Εγκατάσταση"  >}}σελίδα τεκμηρίωσης.
-{{< Common/release-notes-link family="ocr" product="cpp" href="https://docs.aspose.com/ocr/cpp/release-notes/" text="https://docs.aspose.com/ocr/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="ocr" product="cpp" href="https://releases.aspose.com/ocr/cpp/release-notes/" text="https://releases.aspose.com/ocr/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
@@ -76,4 +76,3 @@ EN
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

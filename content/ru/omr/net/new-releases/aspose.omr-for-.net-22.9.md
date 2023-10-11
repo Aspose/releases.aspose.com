@@ -14,7 +14,7 @@ file_size: "File Size: 77.8MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
 
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-9-release-notes/"
 weight: 99
 ---
 
@@ -37,7 +37,7 @@ weight: 99
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-22-9-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-22-9-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-9-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Содержит Aspose.omr для выпуска .NET 22.9</div>
@@ -78,7 +78,7 @@ Aspose.OMR.Generation.GlobalPageSettings globalPageSettings = new Aspose.OMR.Gen
 ```
 **Reuslt**
 
-![Automatic Column Wrapping](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-9-release-notes/rn-22-9-0-1.png)
+![Automatic Column Wrapping](https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-9-release-notes/rn-22-9-0-1.png)
 
 # Switching Bubble Placement in OMR Sheet
 
@@ -95,7 +95,7 @@ Ability to switch bubble placement for answer elements ([text markup](https://do
 ```
 **Result**
 
-![Bubble Placement](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-9-release-notes/rn-22-9-0-4.png)
+![Bubble Placement](https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-9-release-notes/rn-22-9-0-4.png)
 
 # Setting Text Color in OMR Form
 
@@ -110,7 +110,7 @@ Ability to set text color for the following elements:
 	color=red
 ```
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OMR for .NET 22.9 Выпуск заметок](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-9-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OMR for .NET 22.9 Выпуск заметок](https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

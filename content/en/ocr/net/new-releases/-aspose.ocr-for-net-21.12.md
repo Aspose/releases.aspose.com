@@ -39,7 +39,7 @@ weight: 269
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/ocr/net/aspose-ocr-for-net-21-12-release-notes/">https://docs.aspose.com/ocr/net/aspose-ocr-for-net-21-12-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Add .xlsx format support for result</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/ocr/net/release-notes/2021/aspose-ocr-for-net-21-12-release-notes/">https://releases.aspose.com/ocr/net/release-notes/2021/aspose-ocr-for-net-21-12-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Add .xlsx format support for result</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

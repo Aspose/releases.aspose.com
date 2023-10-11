@@ -18,7 +18,7 @@ weight:  4
 {{< Common/h3 text="Unduh Aspose.Imaging untuk Mengekspor JasperReports® ke Format Gambar"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Imaging for JasperReports membantu Anda mengekspor laporan dari JasperReports® ke berbagai format gambar yang didukung.
-{{< Common/release-notes-link family="imaging" product="jasperreports" href="https://docs.aspose.com/imaging/jasperreports/release-notes/" text="https://docs.aspose.com/imaging/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="jasperreports" href="https://releases.aspose.com/imaging/jasperreports/release-notes/" text="https://releases.aspose.com/imaging/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

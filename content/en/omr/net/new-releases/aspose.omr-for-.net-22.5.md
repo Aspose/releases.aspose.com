@@ -13,7 +13,7 @@ download_count: " 10/6/2022 Downloads: 7  Views: 13 "
 file_size: "File Size: 77.6 MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-5-release-notes/"
 weight: 90
 ---
 
@@ -36,7 +36,7 @@ weight: 90
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Release Notes</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-22-5-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-22-5-release-notes/</a></div>
+<h4>Release Notes</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-5-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -57,7 +57,7 @@ The [result of OMR image recognition](https://reference.aspose.com/omr/net/aspos
 
 # Load OMR Form Images from Memory
 
-Images used in an OMR form can now be loaded not only from the file system, but also from memory through a special [`Aspose.OMR.Api.ImageCollection`](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-5-release-notes/#asposeomrapiimagecollection) object.
+Images used in an OMR form can now be loaded not only from the file system, but also from memory through a special [`Aspose.OMR.Api.ImageCollection`](https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-5-release-notes/#asposeomrapiimagecollection) object.
 # OMR Element Rounded Borders
 
 Added support for rounded OMR element borders.
@@ -120,7 +120,7 @@ Added support for rounded OMR element borders.
 
 **Result**
 
-![rounded-border](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-5-release-notes/rounded-border.png)
+![rounded-border](https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-5-release-notes/rounded-border.png)
 # Composite Grid Recognition
 
 Only one bubble per row or column is allowed to be marked. The row or column selection depends on the the orientation of the element.
@@ -147,7 +147,7 @@ For better readability and presentation the `ScoreGroup` content is typically or
 
 ![CustomAnswerSheet](https://docs.aspose.com/omr/net/json-markup/customanswersheet/json-custom-answer-sheet.png)
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OMR for .NET 22.5 Release Notes](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-5-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.OMR for .NET 22.5 Release Notes](https://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -25,7 +25,7 @@ Java üzerinden Android için Aspose.Words, Android uygulamalarınıza Kelime Be
 Aspose.Words for Java'yı doğrudan bir
 {{< Common/link href="https://repository.aspose.com/words/" text="Uzman"  >}}build.gradle'a aşağıdaki konfigürasyonları ekleyerek proje tabanlı.
 
-{{< Common/release-notes-link family="words" product="androidjava" href="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/" text="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/"  >}}
+{{< Common/release-notes-link family="words" product="androidjava" href="https://releases.aspose.com/words/androidjava/release-notes/" text="https://releases.aspose.com/words/androidjava/release-notes/"  >}}
 
 {{< /Common/paragraph>}}
 

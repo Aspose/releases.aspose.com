@@ -18,7 +18,7 @@ weight:  4
 {{< Common/h3 text="下载 Aspose.Imaging 以将 JasperReports® 导出为图像格式"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Imaging for JasperReports 可帮助您将报告从 JasperReports® 导出为各种支持的图像格式。
-{{< Common/release-notes-link family="imaging" product="jasperreports" href="https://docs.aspose.com/imaging/jasperreports/release-notes/" text="https://docs.aspose.com/imaging/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="jasperreports" href="https://releases.aspose.com/imaging/jasperreports/release-notes/" text="https://releases.aspose.com/imaging/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

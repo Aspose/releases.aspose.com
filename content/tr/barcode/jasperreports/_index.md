@@ -18,7 +18,7 @@ weight:  6
 {{< Common/h3 text="Barkodları JasperReports® üzerinde görüntülemek için Aspose.BarCode'u indirin"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.BarCode for JasperReports, 25'ten fazla sembolojinin lineer ve 2D barkodlarını desteklenen çeşitli görüntü formatlarında oluşturmanıza ve JasperReports® üzerinde görüntülemenize olanak tanır.
-{{< Common/release-notes-link family="barcode" product="jasperreports" href="https://docs.aspose.com/barcode/jasperreports/release-notes/" text="https://docs.aspose.com/barcode/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="jasperreports" href="https://releases.aspose.com/barcode/jasperreports/release-notes/" text="https://releases.aspose.com/barcode/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

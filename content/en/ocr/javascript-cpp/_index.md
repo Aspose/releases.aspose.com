@@ -2,6 +2,7 @@
 
 title: "Download Optical Text Recognition JavaScript WebAssembly library | Aspose.OCR API"
 description:  "Download OCR JavaScript library for WASM containing Optical Character Recognition tools"
+linktitle: "Aspose.OCR for JavaScript via C++"
 keywords:  "OCR JavaScript,OCR WebAssembly, OCR WASM, Extract Text JavaScript, Image to text JavaScript, JS PNG to Text converter, JS library OCR Text Recognition"
 family_listing_page_title:  "Aspose.OCR for JavaScript via C++"
 family_listing_page_description:  "Download Text Extraction JavaScript Library on WebAssembly WASM technology. Optical character & text recognition API from raster images to text via JavaScript library"
@@ -14,6 +15,11 @@ weight: 5
 
 {{< Common/h2 text="Download JavaScript Library for Optical Character Recognition (OCR)"  >}}
 {{< Common/hr >}}
+
+{{< Common/paragraph class="package-instructions">}}
+{{< Common/release-notes-link family="ocr" product="javascript-cpp" href="https://releases.aspose.com/ocr/javascript-cpp/release-notes/" text="https://releases.aspose.com/ocr/javascript-cpp/release-notes/"  >}}
+{{< /Common/paragraph>}}
+
 
 [Product Page](https://products.aspose.com/ocr/javascript-cpp/) | [Docs](https://docs.aspose.com/ocr/javascript-cpp/) | [Demos](https://products.aspose.app/ocr/family) | [API Reference](https://reference.aspose.com/ocr/javascript-cpp) | [Examples](https://github.com/aspose-ocr/Aspose.OCR-for-JavaScript) | [Blog](https://blog.aspose.com/category/ocr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/ocr) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 

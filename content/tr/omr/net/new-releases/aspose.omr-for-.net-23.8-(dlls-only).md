@@ -15,7 +15,7 @@ file_size: "File Size: 157.96MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
 tags: ['Optical-Mark-Recognition', 'OMR', 'OMR-API', 'API', 'Component', 'Library', 'Windows', '.NET-Framework', 'Framework', 'OMR-Template', 'Answer-Sheet', 'Text-OMR', 'Answer-Sheet-OMR', 'Choide-Box-OMR', 'Grid-OMR', 'Image-OMR', 'Barcode-OMR', 'OMR-Text-Markup', 'OMR-to-PDF', 'Barcode-Recognition', 'OMR-Graphical-Control', 'OMR-to-CSV']
-release_notes_url: "https://docs.aspose.com/omr/net/aspose-omr-for-net-23-8-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-8-0-release-notes/"
 weight: 128
 
 ---
@@ -39,7 +39,7 @@ weight: 128
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/omr/net/aspose-omr-for-net-23-8-0-release-notes/'>https://docs.aspose.com/omr/net/aspose-omr-for-net-23-8-0-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-8-0-release-notes/'>https://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-8-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Bu ZIP dosyası, .NET Montajları için yalnızca aspose.omr içerir. Montajlar, aynı sürümün ürününün MSI yükleyicisiyle aynıdır. MSI yükleyicisi olmadan aspose.omr kullanmak istiyorsanız bunu indirin, yani MSI yükleyicilerini mono üzerinde çalıştıramazsınız.</div>

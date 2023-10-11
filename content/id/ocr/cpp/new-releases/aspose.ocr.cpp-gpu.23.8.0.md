@@ -16,7 +16,7 @@ parent_path: "ocr/cpp"
 section_parent_path: "ocr/cpp"
 
 tags: "23.8.0"
-release_notes_url: "https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-8-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-8-0-release-notes/"
 weight: 91
 
 ---
@@ -40,7 +40,7 @@ weight: 91
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-8-0-release-notes/'>https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-8-0-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-8-0-release-notes/'>https://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-8-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">- Menambahkan kemampuan untuk membatasi jumlah utas yang digunakan oleh mesin OCR. - Menyediakan gambar PNG dan JPEG sebagai array byte. - Menyediakan arsip zip sebagai array byte.</div>

@@ -1,0 +1,15 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cad",
+  "id" : "23-5",
+  "packageFiles" : [ {
+    "size" : "34 MB",
+    "name" : "aspose-cad-23.5.jar"
+  }, {
+    "size" : "836 bytes",
+    "name" : "aspose-cad-23.5.pom"
+  } ],
+  "releasehDate" : "2023-09-23T16:32:09+00:00",
+  "version" : "23.5",
+  "ReleaseNotes" : "https://releases.aspose.com/cad/java/release-notes/2023/aspose-cad-for-java-23-5-release-notes/"
+}

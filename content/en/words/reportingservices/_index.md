@@ -2,6 +2,7 @@
 title: "SSRS RDL to Word Exporter | Aspose.Words for Reporting Services"
 description: "Download SSRS Exporter for RDL. Export reports to Word Formats (DOC DOCX PDF RTF HTML MHTML ODT TXT XPS & WordprocessingML) from SQL Server Reporting Services. "
 keywords: "Word Extension, SSRS Report Exporter, Rendering Extension "
+linktitle: "Aspose.Words for Reporting Services"
 family_listing_page_title: "Aspose.Words for Reporting Services"
 family_listing_page_description: "Aspose.Words for Reporting Services is a rendering extension aimed at software developers to export RDL and RDLC reports as DOC, DOCX, PDF, RTF, HTML, MHTML, ODT, TXT, XPS and WordprocessingML documents from within Microsoft SQL Server Reporting Services."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-reporting-services.png"
@@ -17,7 +18,7 @@ weight:  4
 {{< Common/h3 text="Download Aspose.Words to Export RDL & RDLC Reports"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Words for Reporting Services helps you manipulate and export RDL & RDLC reports to various supported file formats (e.g. OOXML, DOC, RTF, and WordprocessingML, etc.) from within MS SQL Server Reporting Services.
-{{< Common/release-notes-link family="words" product="reportingservices" href="https://docs.aspose.com/words/reportingservices/release-notes/" text="https://docs.aspose.com/words/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="reportingservices" href="https://releases.aspose.com/words/reportingservices/release-notes/" text="https://releases.aspose.com/words/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

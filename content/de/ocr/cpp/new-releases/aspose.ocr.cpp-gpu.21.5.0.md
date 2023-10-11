@@ -39,7 +39,7 @@ weight: 49
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-21.5-release-notes/">https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-21.5-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Ergebnis im PDF-Format. Neues ML-Modell mit verbesserter Erkennung. Unterstützung für weitere 14 europäische Sprachen</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/ocr/cpp/release-notes/2021/aspose-ocr-for-cpp-21.5-release-notes/">https://releases.aspose.com/ocr/cpp/release-notes/2021/aspose-ocr-for-cpp-21.5-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Ergebnis im PDF-Format. Neues ML-Modell mit verbesserter Erkennung. Unterstützung für weitere 14 europäische Sprachen</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

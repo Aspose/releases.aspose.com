@@ -7,7 +7,7 @@ family_listing_page_description:  ".NET API 経由でオンプレミスの Pytho
 family_listing_page_iconurl:  "https://releases.aspose.com/images/aspose/aspose_ocr-for-python.png"
 homepage_package_type: "Pip"
 homepage_package_link: "https://pypi.org/project/aspose-ocr-python-net"
-tags: ['Aspose', 'Aspose.Total', 'Aspose.OCR', 'Python', '.NET', 'Library', 'PDF', 'OCR', 'TIFF','PNG', 'BMP', 'JPEG', 'Image', 'recognition', 'MacOS', 'Windows', 'Linux', 'PIP']
+tags: ['Aspose', 'Aspose.Total', 'Aspose.OCR', 'Python', 'NET', 'Library', 'PDF', 'OCR', 'TIFF','PNG', 'BMP', 'JPEG', 'Image', 'recognition', 'MacOS', 'Windows', 'Linux', 'PIP']
 weight: 4
 ---
 

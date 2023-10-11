@@ -28,7 +28,7 @@ Aspose.Imaging for SharePoint を使用すると、SharePoint® インスタン�
 {{< Common/link href="https://products.aspose.app/imaging/object-detection" text="画像内のオブジェクトを識別する無料のオブジェクト検出オンライン アプリ"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="imaging" product="sharepoint" href="https://docs.aspose.com/imaging/sharepoint/release-notes/" text="https://docs.aspose.com/imaging/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="imaging" product="sharepoint" href="https://releases.aspose.com/imaging/sharepoint/release-notes/" text="https://releases.aspose.com/imaging/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

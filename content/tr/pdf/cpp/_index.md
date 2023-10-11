@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "48"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.PDF.Cpp/"
-tags: ['PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-SVG', 'PDF-Formatting', 'PDF-Metadata', 'PDF-Attachment', 'PDF-Images', 'PDF-Encryption', 'PDF-Decryption', 'Search-PDF', 'PDF-Table', 'PDF-Annotations', 'PDF-Bookmarks', 'PDF-Security', 'PDF-Signature', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP']
+tags: ['PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-SVG', 'PDF-Formatting', 'PDF-Metadata', 'PDF-Attachment', 'PDF-Images', 'PDF-Encryption', 'PDF-Decryption', 'Search-PDF', 'PDF-Table', 'PDF-Annotations', 'PDF-Bookmarks', 'PDF-Security', 'PDF-Signature', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP', 'pdf-c -linux-ubuntu', 'c -native-library']
 weight:  3
 ---
 
@@ -22,7 +22,7 @@ weight:  3
 Açık
 {{< Common/link href="https://www.nuget.org/packages/Aspose.PDF.Cpp/" text="NuGet"  >}}Microsoft Visual Studio® içinde Paket Yöneticisi, <b>Aspose.PDF.Cpp'yi</b> arayın ve kurun. Paket Yöneticisi Konsolunda aşağıdaki komutu da kullanabilirsiniz. Ayrıntılı talimatlar için lütfen ziyaret edin
 {{< Common/link href="https://docs.aspose.com/pdf/cpp/installation/" text="Kurulum"  >}}dokümantasyon sayfası.
-{{< Common/release-notes-link family="pdf" product="cpp" href="https://docs.aspose.com/pdf/cpp/release-notes/" text="https://docs.aspose.com/pdf/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="cpp" href="https://releases.aspose.com/pdf/cpp/release-notes/" text="https://releases.aspose.com/pdf/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
@@ -85,4 +85,3 @@ Aspose.PDF for C++, istemci tarafında ve sunucu tarafında eşit derecede iyi p
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

@@ -1,6 +1,6 @@
 ---
 title: Aspose.Imaging | Process & Convert Images via Java Library
-linktitle: Aspose.Imaging
+linktitle: "Aspose.Imaging for Java"
 description: Java class library for image processing, manipulation, & conversion. Supports masking, filters, deskew, matrix transformation, shapes, dithering, and vectors.
 layout: packages
 type: repository
@@ -94,9 +94,10 @@ tags: ["Aspose Total", "Aspose Imaging", "Aspose Java API", "image java library"
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/imaging/14
 productLink: https://products.aspose.com/imaging/java/
-releaseNotesLink: https://docs.aspose.com/imaging/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/imaging/java/release-notes/
 dataFolder: aspose_imaging
 packages_refs:
+- "23-9"
 - "23-8"
 - "23-7"
 - "23-6"
@@ -178,7 +179,7 @@ packages_refs:
 
 # Java API for Image Processing
 
-{{< repository/extract-package-explore-link imgsrc=./aspose_imaging-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_imaging-for-java-banner.png >}}
 
 [Product Page](https://products.aspose.com/imaging/java) | [Docs](https://docs.aspose.com/imaging/java/) | [Demos](https://products.aspose.app/imaging/family) | [API Reference](https://apireference.aspose.com/imaging/java) | [Examples](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) | [Blog](https://blog.aspose.com/category/imaging/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/imaging) | [Temporary License](https://purchase.aspose.com/temporary-license)
 

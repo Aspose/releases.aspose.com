@@ -154,7 +154,7 @@ using (Image image = Image.Load("sample.dcm"))
 }
 ```
 
-For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Imaging for .NET 22.5](http://localhost:1313/imaging/net/new-releases/aspose.imaging-for-.net-22.5/).
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Imaging for .NET 22.5](/imaging/net/new-releases/aspose.imaging-for-.net-22.5/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

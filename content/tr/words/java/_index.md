@@ -123,7 +123,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/words/8
 productLink: https://products.aspose.com/words/java/
-releaseNotesLink: https://docs.aspose.com/words/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/words/java/release-notes/
 dataFolder: aspose_words
 packages_refs:
 - "22-12"
@@ -213,7 +213,7 @@ packages_refs:
 ---
 
 # Çeşitli belge formatları için Java API
-{{< repository/extract-package-explore-link imgsrc=./aspose_words-for-java-banner.png >}}
+{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_words-for-java-banner.png >}}
 
 [Ürün sayfası](https://products.aspose.com/words/java) | [Belgeler](https://docs.aspose.com/words/java/) | [Demolar](https://products.aspose.app/words/family) | [API referansı](https://apireference.aspose.com/words/java) | [Örnekler](https://github.com/aspose-words/Aspose.Words-for-Java/tree/master/Örnekler) | [Blog](https://blog.aspose.com/category/words/) | [Arama](https://search.aspose.com/) | [Ücretsiz Destek](https://forum.aspose.com/c/words) | [Geçici lisans](https://purchase.aspose.com/temporary-license)
 
