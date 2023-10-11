@@ -1,7 +1,6 @@
 ---
 title: "C# .NET API CFF Font Text Render Fix IndexOutOfRangeException"
 description: "C# .NET Apps using Font API can now measure the size of strings for CFF fonts, thanks to a recent fix. Create reliable & stable Apps that use CFF fonts via API."
-keywords: ""
 page_type: single_release_page
 folder_link: "/font/net/new-releases/aspose.font-for-.net-23.8/"
 folder_name: "Aspose.Font for .NET 23.8"
