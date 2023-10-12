@@ -48,7 +48,7 @@ weight: 259
 
 ## Release Summary
 
-The improvements in Aspose.HTML for .NET 23.9 make it easier for C#, .NET Apps developers to create and convert HTML documents. The improved `ECMAScript` 2020-2023 support can help developers to create more modern and efficient JavaScript code. Enhanced HTML conversion options to various formats. The bug fixes improve the overall stability and reliability of the Aspose.HTML API.
+The improvements in Aspose.HTML for .NET 23.7 make it easier for C#, .NET Apps developers to create and convert HTML documents. The improved `ECMAScript` 2020-2023 support can help developers to create more modern and efficient JavaScript code. Enhanced HTML conversion options to various formats. The bug fixes improve the overall stability and reliability of the Aspose.HTML API.
 
 ## Improved ECMAScript 2020-2023 support
 
