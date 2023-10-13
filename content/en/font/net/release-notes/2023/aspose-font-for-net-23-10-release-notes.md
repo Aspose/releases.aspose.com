@@ -29,26 +29,26 @@ Support for the **Morse code** encoding has been added.
 ## Public API and Backwards Incompatible Changes
 
 ### Added APIs
-* Class **Aspose.Font.Factories.TextUtilsFactory**
-* Constructor *Aspose.Font.Factories.TextUtilsFactory*
-* Method *Aspose.Font.Factories.TextUtilsFactory.GetMorseDecoder*
-* Method *Aspose.Font.Factories.TextUtilsFactory.GetMorseEncoder*
-* Method *Aspose.Font.Factories.TextUtilsFactory.GetFontMorseDecoder*
-* Method *Aspose.Font.Factories.TextUtilsFactory.GetFontMorseEncoder*
-* Interface **Aspose.Font.TextUtils.IFontMorseDecoder**
-* Method *Aspose.Font.TextUtils.IFontMorseDecoder.Decode(System.String,Aspose.Font.IFont,Aspose.Font.TextUtils.MorseAlphabets,System.Char,System.Char)*
-* Method *Aspose.Font.TextUtils.IFontMorseDecoder.Decode(System.String,Aspose.Font.IFont,System.Double,Aspose.Font.Renderers.RenderingUtils.LineSpacingType,System.Int32,System.Int32,Aspose.Font.TextUtils.MorseAlphabets,System.Char,System.Char)*
-* Interface **Aspose.Font.TextUtils.IFontMorseEncoder**
-* Method *Aspose.Font.TextUtils.IFontMorseEncoder.Encode(System.String,Aspose.Font.IFont,Aspose.Font.TextUtils.MorseAlphabets,System.Char,System.Char)*
-* Method *Aspose.Font.TextUtils.IFontMorseEncoder.Encode(System.String,Aspose.Font.IFont,System.Char,System.Char)*
-* Method *Aspose.Font.TextUtils.IFontMorseEncoder.Encode(System.String,Aspose.Font.IFont,System.Double,Aspose.Font.Renderers.RenderingUtils.LineSpacingType,System.Int32,System.Int32,Aspose.Font.TextUtils.MorseAlphabets,System.Char,System.Char)*
-* Method *Aspose.Font.TextUtils.IFontMorseEncoder.Encode(System.String,Aspose.Font.IFont,System.Double,Aspose.Font.Renderers.RenderingUtils.LineSpacingType,System.Int32,System.Int32,System.Char,System.Char)*
-* Interface **Aspose.Font.TextUtils.IMorseDecoder**
-* Method *Aspose.Font.TextUtils.IMorseDecoder.Decode(System.String,Aspose.Font.TextUtils.MorseAlphabets,System.Char,System.Char)*
-* Interface **Aspose.Font.TextUtils.IMorseEncoder**
-* Method *Aspose.Font.TextUtils.IMorseEncoder.Encode(System.String,Aspose.Font.TextUtils.MorseAlphabets,System.Char,System.Char)*
-* Method *Aspose.Font.TextUtils.IMorseEncoder.Encode(System.String,System.Char,System.Char)*
-* Enumeration **Aspose.Font.TextUtils.MorseAlphabets**
+* Class [**Aspose.Font.Factories.TextUtilsFactory**](https://reference.aspose.com/font/net/aspose.font.factories/textutilsfactory/)
+* Constructor [*Aspose.Font.Factories.TextUtilsFactory*](https://reference.aspose.com/font/net/aspose.font.factories/textutilsfactory/textutilsfactory/)
+* Method [*Aspose.Font.Factories.TextUtilsFactory.GetMorseDecoder*](https://reference.aspose.com/font/net/aspose.font.factories/textutilsfactory/getmorsedecoder/)
+* Method [*Aspose.Font.Factories.TextUtilsFactory.GetMorseEncoder*](https://reference.aspose.com/font/net/aspose.font.factories/textutilsfactory/getmorseencoder/)
+* Method [*Aspose.Font.Factories.TextUtilsFactory.GetFontMorseDecoder*](https://reference.aspose.com/font/net/aspose.font.factories/textutilsfactory/getfontmorsedecoder/)
+* Method [*Aspose.Font.Factories.TextUtilsFactory.GetFontMorseEncoder*](https://reference.aspose.com/font/net/aspose.font.factories/textutilsfactory/getfontmorseencoder/)
+* Interface [**Aspose.Font.TextUtils.IFontMorseDecoder**](https://reference.aspose.com/font/net/aspose.font.textutils/ifontmorsedecoder/)
+* Method [*Aspose.Font.TextUtils.IFontMorseDecoder.Decode(System.String,Aspose.Font.IFont,Aspose.Font.TextUtils.MorseAlphabets,System.Char,System.Char)*](https://reference.aspose.com/font/net/aspose.font.textutils/ifontmorsedecoder/decode/#decode)
+* Method [*Aspose.Font.TextUtils.IFontMorseDecoder.Decode(System.String,Aspose.Font.IFont,System.Double,Aspose.Font.Renderers.RenderingUtils.LineSpacingType,System.Int32,System.Int32,Aspose.Font.TextUtils.MorseAlphabets,System.Char,System.Char)*](https://reference.aspose.com/font/net/aspose.font.textutils/ifontmorsedecoder/decode/#decode_1)
+* Interface [**Aspose.Font.TextUtils.IFontMorseEncoder**](https://reference.aspose.com/font/net/aspose.font.textutils/ifontmorseencoder/)
+* Method [*Aspose.Font.TextUtils.IFontMorseEncoder.Encode(System.String,Aspose.Font.IFont,Aspose.Font.TextUtils.MorseAlphabets,System.Char,System.Char)*](https://reference.aspose.com/font/net/aspose.font.textutils/ifontmorseencoder/encode/#encode)
+* Method [*Aspose.Font.TextUtils.IFontMorseEncoder.Encode(System.String,Aspose.Font.IFont,System.Char,System.Char)*](https://reference.aspose.com/font/net/aspose.font.textutils/ifontmorseencoder/encode/#encode_1)
+* Method [*Aspose.Font.TextUtils.IFontMorseEncoder.Encode(System.String,Aspose.Font.IFont,System.Double,Aspose.Font.Renderers.RenderingUtils.LineSpacingType,System.Int32,System.Int32,Aspose.Font.TextUtils.MorseAlphabets,System.Char,System.Char)*](https://reference.aspose.com/font/net/aspose.font.textutils/ifontmorseencoder/encode/#encode_2)
+* Method [*Aspose.Font.TextUtils.IFontMorseEncoder.Encode(System.String,Aspose.Font.IFont,System.Double,Aspose.Font.Renderers.RenderingUtils.LineSpacingType,System.Int32,System.Int32,System.Char,System.Char)*](https://reference.aspose.com/font/net/aspose.font.textutils/ifontmorseencoder/encode/#encode_3)
+* Interface [**Aspose.Font.TextUtils.IMorseDecoder**](https://reference.aspose.com/font/net/aspose.font.textutils/imorsedecoder/)
+* Method [*Aspose.Font.TextUtils.IMorseDecoder.Decode(System.String,Aspose.Font.TextUtils.MorseAlphabets,System.Char,System.Char)*](https://reference.aspose.com/font/net/aspose.font.textutils/imorsedecoder/decode/)
+* Interface [**Aspose.Font.TextUtils.IMorseEncoder**](https://reference.aspose.com/font/net/aspose.font.textutils/imorseencoder/)
+* Method [*Aspose.Font.TextUtils.IMorseEncoder.Encode(System.String,Aspose.Font.TextUtils.MorseAlphabets,System.Char,System.Char)*](https://reference.aspose.com/font/net/aspose.font.textutils/imorseencoder/encode/#encode)
+* Method [*Aspose.Font.TextUtils.IMorseEncoder.Encode(System.String,System.Char,System.Char)*](https://reference.aspose.com/font/net/aspose.font.textutils/imorseencoder/encode/#encode_1)
+* Enumeration [**Aspose.Font.TextUtils.MorseAlphabets**](https://reference.aspose.com/font/net/aspose.font.textutils/morsealphabets/)
 * Enumeration member *Aspose.Font.TextUtils.MorseAlphabets.Latin*
 * Enumeration member *Aspose.Font.TextUtils.MorseAlphabets.Greek*
 * Enumeration member *Aspose.Font.TextUtils.MorseAlphabets.Cyrillic*
@@ -57,6 +57,12 @@ Support for the **Morse code** encoding has been added.
 * Enumeration member *Aspose.Font.TextUtils.MorseAlphabets.Portuguese*
 * Enumeration member *Aspose.Font.TextUtils.MorseAlphabets.Kurdish*
 * Enumeration member *Aspose.Font.TextUtils.MorseAlphabets.Persian*
+* Class [**Aspose.Font.Exceptions.LicenseRestrictionException**](https://reference.aspose.com/font/net/aspose.font.exceptions/licenserestrictionexception/)
+* Constructor [*Aspose.Font.Exceptions.LicenseRestrictionException*](https://reference.aspose.com/font/net/aspose.font.exceptions/licenserestrictionexception/licenserestrictionexception/#constructor)
+* Constructor [*Aspose.Font.Exceptions.LicenseRestrictionException(System.String)*](https://reference.aspose.com/font/net/aspose.font.exceptions/licenserestrictionexception/licenserestrictionexception/#constructor_2)
+* Constructor [*Aspose.Font.Exceptions.LicenseRestrictionException(System.String,System.Exception)*](https://reference.aspose.com/font/net/aspose.font.exceptions/licenserestrictionexception/licenserestrictionexception/#constructor_3)
+* Constructor [*Aspose.Font.Exceptions.LicenseRestrictionException(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)*](https://reference.aspose.com/font/net/aspose.font.exceptions/licenserestrictionexception/licenserestrictionexception/#constructor_1)
+
 ## Got Queries?
 
 If you have any query related to Aspose.Font for .NET API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.
