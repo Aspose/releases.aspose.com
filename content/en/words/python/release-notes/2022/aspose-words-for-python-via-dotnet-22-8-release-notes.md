@@ -1,6 +1,6 @@
 ---
-id: "net/aspose-words-for-python-via-dotnet-22-8-release-notes"
-slug: "net/aspose-words-for-python-via-dotnet-22-8-release-notes"
+id: "aspose-words-for-python-via-dotnet-22-8-release-notes"
+slug: "aspose-words-for-python-via-dotnet-22-8-release-notes"
 linktitle: "Aspose.Words for Python via .NET 22.8 Release Notes"
 title: "Aspose.Words for Python via .NET 22.8 Release Notes"
 weight: 35
