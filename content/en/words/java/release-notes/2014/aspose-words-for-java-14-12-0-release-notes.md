@@ -7,10 +7,7 @@ weight: 10
 description: "Aspose.Words for Java 14.12.0 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
-hideChildren: false
-toc: false
 family_listing_page_title: "Aspose.Words for Java 14.12.0 Release Notes"
-menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
