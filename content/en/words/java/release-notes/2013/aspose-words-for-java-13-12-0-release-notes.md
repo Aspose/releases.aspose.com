@@ -13,7 +13,7 @@ family_listing_page_title: "Aspose.Words for Java 13.12.0 Release Notes"
 menuItemWithNoContent: false
 ---
 
-{{% alert color="primary" %}}
+{{% alert color="primary" %}} 
 
 This page contains release notes for [Aspose.Words for Java 13.12.0](https://releases.aspose.com/words/java/)
 
