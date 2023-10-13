@@ -20,12 +20,15 @@ weight:  10
 {{< Common/h3 text="Download Aspose.PDF Python Library for Portable Document Format Processing"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF for Python via Java, PDF Processing API that allows the developers to work with PDF documents without needing Microsoft Office&reg; or Adobe Acorbad Automation. You can easily use <b>aspose-pdf</b> for Python from {{< Common/link href="https://pypi.org/project/aspose-pdf/" text="pip"  >}} with the following command.
+{{< Common/release-notes-link family="pdf" product="pythonjava" href="https://releases.aspose.com/pdf/pythonjava/release-notes/" text="https://releases.aspose.com/pdf/pythonjava/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install aspose-pdf-for-python-via-java {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
+
 {{< Common/hr >}}
+
 
 [Product Page](https://products.aspose.com/pdf/python-java/) | [Docs](https://docs.aspose.com/pdf/python-java/) | [Demos](https://products.aspose.app/pdf/family/) | [Blog](https://blog.aspose.com/categories/aspose.pdf-product-family/) | [Code Samples](https://github.com/aspose-pdf/) | [Free Support](https://forum.aspose.com/c/pdf/10) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
