@@ -17,7 +17,7 @@ weight: 6
 {{< Common/h3 text="Aspose.PDF'yi İndirin, PDF'yi SharePoint®'te Dışa Aktarın, Dönüştürün"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF for SharePoint, SharePoint sitelerinizdeki PDF dosyalarıyla çalışmanıza, dışa aktarmanıza, dönüştürmenize ve birleştirmenize yardımcı olur.
-{{< Common/release-notes-link family="pdf" product="sharepoint" href="https://docs.aspose.com/pdf/sharepoint/release-notes/" text="https://docs.aspose.com/pdf/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="sharepoint" href="https://releases.aspose.com/pdf/sharepoint/release-notes/" text="https://releases.aspose.com/pdf/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

@@ -17,7 +17,7 @@ weight:  4
 {{< Common/h3 text="Unduh Aspose.Words untuk Mengekspor Laporan RDL & RDLC"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Words untuk Layanan Pelaporan membantu Anda memanipulasi dan mengekspor laporan RDL & RDLC ke berbagai format file yang didukung (misalnya OOXML, DOC, RTF, dan WordprocessingML, dll.) dari dalam Layanan Pelaporan MS SQL Server.
-{{< Common/release-notes-link family="words" product="reportingservices" href="https://docs.aspose.com/words/reportingservices/release-notes/" text="https://docs.aspose.com/words/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="reportingservices" href="https://releases.aspose.com/words/reportingservices/release-notes/" text="https://releases.aspose.com/words/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

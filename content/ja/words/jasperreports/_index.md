@@ -17,7 +17,7 @@ weight:  6
 {{< Common/h4 text="Aspose.Words をダウンロードして JasperReports® および JasperServer® からレポートをエクスポートする"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Words for JasperReports を使用すると、JasperReports® および JasperServer® から Microsoft Word® でサポートされている形式に、フォーマットやレイアウトを損なうことなくレポートをエクスポートできます。
-{{< Common/release-notes-link family="words" product="jasperreports" href="https://docs.aspose.com/words/jasperreports/release-notes/" text="https://docs.aspose.com/words/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="jasperreports" href="https://releases.aspose.com/words/jasperreports/release-notes/" text="https://releases.aspose.com/words/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

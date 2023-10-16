@@ -25,7 +25,7 @@ Aspose.Words for Android via Java は、Word ドキュメント処理機能を A
 から直接 Aspose.Words for Java を簡単に使用できます。
 {{< Common/link href="https://repository.aspose.com/words/" text="メイヴン"  >}}build.gradle に次の構成を追加することにより、ベースのプロジェクト。
 
-{{< Common/release-notes-link family="words" product="androidjava" href="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/" text="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/"  >}}
+{{< Common/release-notes-link family="words" product="androidjava" href="https://releases.aspose.com/words/androidjava/release-notes/" text="https://releases.aspose.com/words/androidjava/release-notes/"  >}}
 
 {{< /Common/paragraph>}}
 

@@ -17,7 +17,7 @@ weight: 6
 {{< Common/h3 text="Aspose.PDF をダウンロードしてエクスポートし、SharePoint® で PDF を変換"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF for SharePoint は、SharePoint サイト内での PDF ファイルの操作、エクスポート、変換、マージを支援します。
-{{< Common/release-notes-link family="pdf" product="sharepoint" href="https://docs.aspose.com/pdf/sharepoint/release-notes/" text="https://docs.aspose.com/pdf/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="sharepoint" href="https://releases.aspose.com/pdf/sharepoint/release-notes/" text="https://releases.aspose.com/pdf/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

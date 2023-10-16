@@ -17,7 +17,7 @@ weight: 5
 {{< Common/h3 text="SharePoint®'te Belgeleri Dönüştürmek için Aspose.Words'ü İndirin"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Words for SharePoint, Raporlama, Belge Dönüştürme ve SharePoint® İş Akışları ile çalışmanıza izin vererek SharePoint belgelerinizle etkileşiminizi geliştirir.
-{{< Common/release-notes-link family="words" product="sharepoint" href="https://docs.aspose.com/words/sharepoint/release-notes/" text="https://docs.aspose.com/words/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="sharepoint" href="https://releases.aspose.com/words/sharepoint/release-notes/" text="https://releases.aspose.com/words/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

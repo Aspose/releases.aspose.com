@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tex-for-.net-23.6"
-description: " "
+title: "eTeX, LaTeX Typesetting API for C# Apps with .NET 7 Support"
+description: "C# .NET API for rendering mathematical equations in high-quality LaTeX or eTeX, now supports the .NET 7 platform. Have more control on typesetting via API."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/net/new-releases/aspose.tex-for-.net-23.6/"
@@ -16,32 +15,51 @@ parent_path: "tex/net"
 section_parent_path: "tex/net"
 release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-6-release-notes/"
 weight: 38
-
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.TeX for .NET 23.6" imagelink="/resources/img/msi-icon.png">}}
-  {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/tex/net/new-releases/aspose.tex-for-.net-23.6/aa4207bf9e21dba4a267762cfa1dd279-7-9124" >}}
-    {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tex" >}}
-  {{< Releases/ReleasesButtons >}}
-  {{< Releases/ReleasesFileArea >}}
-    {{< Releases/ReleasesHeading h4txt="File Details">}}
-    {{< Releases/ReleasesDetailsUl >}}
-      {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-aa4207bf9e21dba4a267762cfa1dd279-7-9124" >}} 7 {{< /Common/li >}}
-      {{< Common/li >}} File Size: {{< /Common/li >}}
-      {{< Common/li id="size-update-aa4207bf9e21dba4a267762cfa1dd279-7-9124" >}} 33.56MB {{< /Common/li >}}
+{{< Releases/ReleasesHeading H2txt="Aspose.TeX for .NET 23.6" imagelink="/resources/img/msi-icon.png">}}
+{{< Releases/ReleasesButtons >}}
+{{< Releases/ReleasesSingleButtons text="Download" link="/tex/net/new-releases/aspose.tex-for-.net-23.6/aa4207bf9e21dba4a267762cfa1dd279-7-9124" >}}
+{{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tex" >}}
+{{< Releases/ReleasesButtons >}}
+{{< Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesHeading h4txt="File Details">}}
+{{< Releases/ReleasesDetailsUl >}}
+{{< Common/li >}} Downloads: {{< /Common/li >}}
+{{< Common/li class="downloadcount" id="dwn-update-aa4207bf9e21dba4a267762cfa1dd279-7-9124" >}} 7 {{< /Common/li >}}
+{{< Common/li >}} File Size: {{< /Common/li >}}
+{{< Common/li id="size-update-aa4207bf9e21dba4a267762cfa1dd279-7-9124" >}} 33.56MB {{< /Common/li >}}
 
       {{< Common/li >}} Date Added: {{< /Common/li >}}
       {{< Common/li id="added-update-aa4207bf9e21dba4a267762cfa1dd279-7-9124" >}}24/6/2023 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
-  {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-6-release-notes/'>https://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-6-release-notes/</a></div>
-  {{< /Releases/ReleasesFileFeatures >}}
-  {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.TeX for .NET 23.6 release.</div>
-  {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+<h4>Release Notes</h4><div><a href='https://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-6-release-notes/'>https://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-6-release-notes/</a></div>
+{{< /Releases/ReleasesFileFeatures >}}
+{{< Releases/ReleasesFileFeatures >}}
+<h4>Description</h4><div class="HTMLDescription">It contains Aspose.TeX for .NET 23.6 release.</div>
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+## .NET 7 Platform Support
+
+This API release introduces the Support of the .NET 7 platform for C# and ASP.NET developers.
+
+## Enhanced eTeX Extension Support
+
+Further enhancements have been made to the *eTeX* extension support.
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.TeX for .NET 23.6 Release Notes](https://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-6-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

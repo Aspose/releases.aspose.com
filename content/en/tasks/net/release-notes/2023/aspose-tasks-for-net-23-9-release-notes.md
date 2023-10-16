@@ -3,7 +3,7 @@ id: "aspose-tasks-for-net-23-9-release-notes"
 slug: "aspose-tasks-for-net-23-9-release-notes"
 linktitle: "Aspose.Tasks for .NET 23.9 Release Notes"
 title: "Aspose.Tasks for .NET 23.9 Release Notes"
-weight: 93
+weight: 92
 description: "The page contains the release notes for Aspose.Tasks for .NET 23.9."
 type: "repository"
 layout: "release"

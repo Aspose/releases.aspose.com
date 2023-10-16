@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-slides",
+  "id" : "23-4-1",
+  "packageFiles" : [ {
+    "size" : "3 MB",
+    "name" : "aspose-slides-23.4.1-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "29 MB",
+    "name" : "aspose-slides-23.4.1-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "397 bytes",
+    "name" : "aspose-slides-23.4.1.pom"
+  } ],
+  "releasehDate" : "2023-10-13T13:04:54+00:00",
+  "version" : "23.4.1",
+  "ReleaseNotes" : "https://docs.aspose.com/slides/java/aspose-slides-for-java-23-4-1-release-notes/"
+}

@@ -17,7 +17,7 @@ weight: 5
 {{< Common/h3 text="Unduh Aspose.Words untuk Mengonversi Dokumen di SharePoint®"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Words untuk SharePoint meningkatkan interaktivitas Anda dengan dokumen SharePoint dengan memungkinkan Anda bekerja dengan Pelaporan, Konversi Dokumen, dan Alur Kerja SharePoint®.
-{{< Common/release-notes-link family="words" product="sharepoint" href="https://docs.aspose.com/words/sharepoint/release-notes/" text="https://docs.aspose.com/words/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="sharepoint" href="https://releases.aspose.com/words/sharepoint/release-notes/" text="https://releases.aspose.com/words/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

@@ -18,7 +18,7 @@ weight:  6
 {{< Common/h3 text="Unduh Aspose.BarCode untuk menampilkan barcode di JasperReports®"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.BarCode for JasperReports memungkinkan Anda untuk membuat barcode linier dan 2D dari 25+ simbologi dalam beberapa format gambar yang didukung dan menampilkannya di JasperReports®.
-{{< Common/release-notes-link family="barcode" product="jasperreports" href="https://docs.aspose.com/barcode/jasperreports/release-notes/" text="https://docs.aspose.com/barcode/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="jasperreports" href="https://releases.aspose.com/barcode/jasperreports/release-notes/" text="https://releases.aspose.com/barcode/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

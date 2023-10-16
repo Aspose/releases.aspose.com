@@ -45,7 +45,7 @@ OCRNET&#8209;719 | Improved support for multi-threaded recognition. | Enhancemen
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for .NET 23.8.1** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for .NET 23.9.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 

@@ -144,7 +144,7 @@ tags: ["Java barcode API", "Java barcode library", "Java barcode class", "1D Bar
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/barcode/13
 productLink: https://products.aspose.com/barcode/java/
-releaseNotesLink: https://docs.aspose.com/barcode/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/barcode/java/release-notes/
 dataFolder: aspose_barcode
 packages_refs:
 - "22-11"

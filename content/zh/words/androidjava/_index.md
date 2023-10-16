@@ -25,7 +25,7 @@ Aspose.Words for Android via Java 为您的 Android 应用程序添加了 Word �
 您可以直接从
 {{< Common/link href="https://repository.aspose.com/words/" text="马文"  >}}通过将以下配置添加到 build.gradle 基于项目。
 
-{{< Common/release-notes-link family="words" product="androidjava" href="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/" text="https://docs.aspose.com/words/java/aspose-words-for-android-via-java/"  >}}
+{{< Common/release-notes-link family="words" product="androidjava" href="https://releases.aspose.com/words/androidjava/release-notes/" text="https://releases.aspose.com/words/androidjava/release-notes/"  >}}
 
 {{< /Common/paragraph>}}
 

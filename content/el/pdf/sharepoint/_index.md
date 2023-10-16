@@ -17,7 +17,7 @@ weight: 6
 {{< Common/h3 text="Κάντε λήψη του Aspose.PDF για εξαγωγή, Μετατροπή PDF στο SharePoint®"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Το Aspose.PDF για SharePoint σάς βοηθά να εργάζεστε, να εξάγετε, να μετατρέπετε και να συγχωνεύετε αρχεία PDF στους ιστότοπους του SharePoint.
-{{< Common/release-notes-link family="pdf" product="sharepoint" href="https://docs.aspose.com/pdf/sharepoint/release-notes/" text="https://docs.aspose.com/pdf/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="sharepoint" href="https://releases.aspose.com/pdf/sharepoint/release-notes/" text="https://releases.aspose.com/pdf/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

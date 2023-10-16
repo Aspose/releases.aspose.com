@@ -22,7 +22,7 @@ weight:  3
 Ouvert
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Words.Cpp/" text="NuGet"  >}}Gestionnaire de packages dans Microsoft Visual Studio®, recherchez <b>Aspose.Words.Cpp</b> et installez. Vous pouvez également utiliser la commande suivante dans la console du gestionnaire de packages. Pour les instructions détaillées, veuillez visiter le
 {{< Common/link href="https://docs.aspose.com/words/cpp/installation/" text="Installation"  >}}page documentaire.
-{{< Common/release-notes-link family="words" product="cpp" href="https://docs.aspose.com/words/cpp/release-notes/" text="https://docs.aspose.com/words/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="cpp" href="https://releases.aspose.com/words/cpp/release-notes/" text="https://releases.aspose.com/words/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

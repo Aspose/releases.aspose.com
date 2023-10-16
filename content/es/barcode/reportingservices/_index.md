@@ -18,7 +18,7 @@ weight: 5
 {{< Common/paragraph class="package-instructions">}}
 
 {{< Common/link href="https://products.aspose.com/barcode/reporting-services/" text="Aspose.BarCode para servicios de informes"  >}}le permite representar y mostrar códigos de barras de alta calidad para muchas simbologías de códigos de barras populares dentro de sus informes SQL.
-{{< Common/release-notes-link family="barcode" product="reportingservices" href="https://docs.aspose.com/barcode/reportingservices/release-notes/" text="https://docs.aspose.com/barcode/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="reportingservices" href="https://releases.aspose.com/barcode/reportingservices/release-notes/" text="https://releases.aspose.com/barcode/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

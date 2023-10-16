@@ -17,7 +17,7 @@ weight:  4
 {{< Common/h3 text="Загрузите Aspose.Words для экспорта отчетов RDL и RDLC"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Words for Reporting Services помогает вам манипулировать и экспортировать отчеты RDL и RDLC в различные поддерживаемые форматы файлов (например, OOXML, DOC, RTF и WordprocessingML и т. д.) из служб MS SQL Server Reporting Services.
-{{< Common/release-notes-link family="words" product="reportingservices" href="https://docs.aspose.com/words/reportingservices/release-notes/" text="https://docs.aspose.com/words/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="reportingservices" href="https://releases.aspose.com/words/reportingservices/release-notes/" text="https://releases.aspose.com/words/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

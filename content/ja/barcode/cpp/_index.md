@@ -22,7 +22,7 @@ weight:  2
 開ける
 {{< Common/link href="https://www.nuget.org/packages/Aspose.BarCode.Cpp/" text="NuGet"  >}}Microsoft Visual Studio® 内の Package Manager で、 <b>Aspose.BarCode.Cpp</b>を検索してインストールします。パッケージ マネージャー コンソール内で次のコマンドを使用することもできます。詳細な手順については、次の Web サイトを参照してください。
 {{< Common/link href="https://docs.aspose.com/barcode/cpp/installation/" text="インストール"  >}}ドキュメントページ。
-{{< Common/release-notes-link family="barcode" product="cpp" href="https://docs.aspose.com/barcode/cpp/release-notes/" text="https://docs.aspose.com/barcode/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="cpp" href="https://releases.aspose.com/barcode/cpp/release-notes/" text="https://releases.aspose.com/barcode/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

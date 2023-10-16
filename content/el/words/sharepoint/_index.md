@@ -17,7 +17,7 @@ weight: 5
 {{< Common/h3 text="Κάντε λήψη του Aspose.Words για μετατροπή εγγράφων στο SharePoint®"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Το Aspose.Words for SharePoint ενισχύει τη διαδραστικότητά σας με τα έγγραφα του SharePoint, επιτρέποντάς σας να εργάζεστε με την Αναφορά, τη Μετατροπή εγγράφων και τις Ροές Εργασίας του SharePoint®.
-{{< Common/release-notes-link family="words" product="sharepoint" href="https://docs.aspose.com/words/sharepoint/release-notes/" text="https://docs.aspose.com/words/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="words" product="sharepoint" href="https://releases.aspose.com/words/sharepoint/release-notes/" text="https://releases.aspose.com/words/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

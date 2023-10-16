@@ -26,7 +26,7 @@ Javascript için <b>aspose.barcode'u</b> şu adresten kolayca kullanabilirsiniz:
    {{< consolebox/spantext text=" " >}}
    {{< consolebox/textarea id="npm" >}} npm install aspose.barcode {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/release-notes-link family="barcode" product="nodejs" href="https://docs.aspose.com/barcode/java/release-notes/" text="https://docs.aspose.com/barcode/java/release-notes/"  >}}
+{{< Common/release-notes-link family="barcode" product="nodejs" href="https://releases.aspose.com/barcode/nodejs/release-notes/" text="https://releases.aspose.com/barcode/nodejs/release-notes/"  >}}
 
 {{KÖPRÜ1}} | {{KÖPRÜ2}} | {{KÖPRÜ3}} | {{KÖPRÜ4}} | {{KÖPRÜ5}} | {{KÖPRÜ6}} | {{KÖPRÜ7}} | {{KÖPRÜ8}} | {{KÖPRÜ9}} | {{KÖPRÜ10}}
 
