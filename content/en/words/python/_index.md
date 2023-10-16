@@ -21,6 +21,8 @@ weight:  7
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Words for Python via .NET, Word Document Processing API that allows the developers to work with Microsoft Word&reg; documents without needing Office&reg; Automation.
 You can easily use  <b>aspose-words</b> for Python from  {{< Common/link href="https://pypi.org/project/aspose-words/" text="pip"  >}} with the following command.
+{{< Common/release-notes-link family="words" product="python" href="https://releases.aspose.com/words/python/release-notes/" text="https://releases.aspose.com/words/python/release-notes/"  >}}
+
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
