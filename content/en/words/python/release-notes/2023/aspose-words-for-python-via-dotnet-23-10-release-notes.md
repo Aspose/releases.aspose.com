@@ -61,7 +61,7 @@ There are 124 improvements and fixes in this regular monthly release. The most n
 23. DOCX to PDF file conversion issue with text rendering
 24. Add method to shape API to keep image aspect ratio
 25. Table header's text render incorrectly in output PDF
-26. Text is wrapped within table cell after DOCX to PDF conversion 
+26. Text is wrapped within table cell after DOCX to PDF conversion
 27. Table height issue while converting Aspose.Words.Document into PDF
 28. Table header width in PDF is not the same as word document
 29. Text of content control is rendered incorrectly in output PDF
@@ -74,7 +74,7 @@ There are 124 improvements and fixes in this regular monthly release. The most n
 36. Table border is lost after conversion from MHT to PDF
 37. Table cell width is changed when HTML is converted to PDF
 38. DOCX to PDF conversion issue with text position
-39. Empty Page is created in output PDF after changing PaperSize under German culture 
+39. Empty Page is created in output PDF after changing PaperSize under German culture
 40. Incorrect TableGrid issue
 41. Table layout is different after rendering
 42. Table is rendered narrower than it should
@@ -92,7 +92,7 @@ There are 124 improvements and fixes in this regular monthly release. The most n
 54. Export to PDF ignores cells WrapText
 55. Table columns width changes in PDF
 56. A Table column is missing from PDF
-57. Text wrapping issue with HTML to PDF conversion 
+57. Text wrapping issue with HTML to PDF conversion
 58. Table width is change after DOCX to PDF conversion
 59. Table cells with Wrapped text do not auto resize in PDF
 60. Text is wrapped in table's cell when document is saved to PDF
@@ -106,7 +106,7 @@ There are 124 improvements and fixes in this regular monthly release. The most n
 68. RTL document layout is broken after rendering
 69. Consider exposing Style.Locked property
 70. Provide public access to CellPr.HideMark property
-71. List items are shown in one line if CssStyleSheetType.Embedded is used 
+71. List items are shown in one line if CssStyleSheetType.Embedded is used
 72. IF field is not updated properly upon execution mail merge
 73. ArgumentException is thrown upon saving HTML document after loading MHTML with IResourceLoadingCallback
 74. SVG with page background has white space at the left side when rendered with FitToViewPort option
@@ -128,7 +128,7 @@ There are 124 improvements and fixes in this regular monthly release. The most n
 90. DOCX to PDF: Save method hangs
 91. Chart is changed after open/save document using Aspose.Words
 92. Incorrect font is selected when Nunito Extrabold is used
-93. HTMLs not compared correctly 
+93. HTMLs not compared correctly
 94. Additional properties (rotation and vertical overflow) appear for the chart title after conversion to PDF
 95. InvalidCastException is thrown upon comparing document
 96. Remove support for external images for MOBI/AZW3 file formats
@@ -158,7 +158,7 @@ There are 124 improvements and fixes in this regular monthly release. The most n
 120. WK: Incorrect Stroke.DashStyle
 121. Text is improperly distributed while rendering
 122. Table overlaps the image in HTML to PDF conversion
-123. Symbol Replacement Issue in MailMerge 
+123. Symbol Replacement Issue in MailMerge
 124. ArgumentOutOfRangeException is thrown upon updating page layout
 </details>
 {{% /alert %}}
@@ -230,7 +230,7 @@ class ChartDataPointCollection:
     def has_default_format(self, data_point_index: int) -> bool:
         """Gets a flag indicating whether the data point at the specified index has default format."""
         ...
-    
+
     def copy_format(self, source_index: int, destination_index: int) -> None:
         """Copies format from the source data point to the destination data point."""
         ...
@@ -246,7 +246,7 @@ class ChartFormat:
     def set_default_fill(self) -> None:
         """Resets the fill of the chart element to have the default value."""
         ...
-    
+
     @property
     def is_defined(self) -> bool:
         """Gets a flag indicating whether any format is defined."""
@@ -365,15 +365,15 @@ def insert_document_inline(self, src_doc: aspose.words.Document, import_format_m
     This method mimics the MS Word behavior, as if CTRL+'A' (select all content) was pressed,
     then CTRL+'C' (copy selected into the buffer) inside one document
     and then CTRL+'V' (insert content from the buffer) inside another document.
-    
+
     As a difference from :meth:`DocumentBuilder.insert_document`
     this method moves the content of the paragraph of the destination document,
     before which the source document is inserted, into the last
     paragraph of the inserted source document. Actually, this means that
     paragraph break of the last inserted paragraph is removed.
-    
+
     Note, if the last node of the source document is not a paragraph, then nothing will be done.
-    
+
     :param src_doc: Source document for inserting.
     :param import_format_mode: Specifies how to merge style formatting that clashes.
     :param import_format_options: Allows to specify options that affect formatting of a result document.
