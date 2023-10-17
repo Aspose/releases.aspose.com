@@ -2,6 +2,7 @@
 title: "Android PowerPoint Library | Aspose.Slides for Android"
 description: "Download Android API for PowerPoint files to perform a wide range of presentation processing tasks including reading, writing, modifying, merging, splitting, converting and manipulating presentations without any dependency on Microsoft PowerPoint. "
 keywords: "PowerPoint Android Library "
+linktitle: "Aspose.Slides for Android via Java"
 family_listing_page_title: "Aspose.Slides for Android via Java"
 family_listing_page_description: "Aspose.Slides for Android via Java is a PowerPoint File Manipulation API for mobile application programmers. Android developers can perform a wide range of presentation processing tasks including reading, writing, manipulating & converting PowerPoint presentations. It is a standalone Presentation Android API therefore it does not have any dependency on any other product including Microsoft PowerPoint."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-android-min.png"
@@ -26,7 +27,7 @@ A PowerPoint File Manipulation API for mobile application programmers.
 
 {{< Common/h2 text="Android PowerPoint API"  >}}
  {{< Common/ul>}}
- 
+
    {{< Common/li >}} Complete control over presentation elements via simple yet flexible object model. {{< /Common/li >}}
 
    {{< Common/li >}} Convert presentation, template & slideshow file formats to other supported formats. {{< /Common/li >}}
@@ -64,4 +65,3 @@ You can easily use Aspose.Slides for Java directly from a {{< Common/link href="
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
-

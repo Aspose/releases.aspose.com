@@ -1,6 +1,6 @@
 ---
 title: Aspose.Slides | Java Library to Process PowerPoint Formats
-linktitle: Aspose.Slides
+linktitle: "Aspose.Slides for Java"
 description: Java library to add support of PowerPoint & OpenOffice presentation formats within your Apps. Work with slides, shapes, charts, objects, controls, & much more.
 layout: packages
 type: repository

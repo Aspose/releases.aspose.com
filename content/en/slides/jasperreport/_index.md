@@ -2,6 +2,7 @@
 title: "Exporter for PowerPoint | Aspose.Slides for JasperReports"
 description: "Download JasperReports & JasperServer Exporter for Microsoft PowerPoint presentations. Export your reports to Microsoft PowerPoint presentations (PPT, PPTX) and Microsoft PowerPoint slideshows (PPS, PPSX). "
 keywords: "JasperReports Exporter for PowerPoint "
+linktitle: "Aspose.Slides for JasperReports"
 family_listing_page_title: "Aspose.Slides for JasperReports"
 family_listing_page_description: "Aspose.Slides for JasperReports is a flexible JasperReports and JasperServer extension that allows you to export reports to Microsoft PowerPoint. JasperServer does not have the built-in capability to export reports as PowerPoint presentations but with this extension, the JasperServer reports can be exported to PPT, PPS, PPTX and PPSX presentation formats without using Microsoft PowerPoint."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-jasperreports-min.png"
