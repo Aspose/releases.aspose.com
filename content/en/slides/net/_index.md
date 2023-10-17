@@ -2,6 +2,7 @@
 title: "Download .NET DLL to Read Edit Presentations | Aspose.Slides"
 description: "Download PowerPoint® & OpenOffice® Slides & Presentations C# Class Library DLL that works with DOM, conversion, rendering, printing, & security via .NET API."
 keywords: "PPTX C#, PPT C#, PowerPoint .NET Library"
+linktitle: "Aspose.Slides for .NET"
 family_listing_page_title: "Aspose.Slides for .NET"
 family_listing_page_description: "Aspose.Slides for .NET is a unique presentation processing API that enables any .NET application to read, write, modify and convert PowerPoint presentations. Being a standalone API, Aspose.Slides for .NET doesn't require Microsoft PowerPoint or Office Automation"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-net-min.png"

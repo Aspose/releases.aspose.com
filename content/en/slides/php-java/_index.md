@@ -2,6 +2,7 @@
 title: "Aspose - Downloads"
 description: "It contains files for slides"
 keywords: "slides"
+linktitle: "Aspose.Slides for PHP via Java"
 family_listing_page_title: "Aspose.Slides for PHP via Java"
 family_listing_page_description: "A Presentation Processing API that enables the PHP applications to manipulate, render & convert PowerPoint presentations without requiring Microsoft PowerPoint application."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/img/products/slides/aspose_slides-for-php-via-java.svg"
@@ -19,7 +20,7 @@ weight:  99
 {{< Common/h1 text="Aspose.Slides for PHP via Java" >}}
 {{< Common/paragraph>}}
 A {{< Common/link href="https://products.aspose.com/slides/php-java/" text="Presentation Processing API"  >}} that enables the PHP applications to manipulate, render & convert PowerPoint presentations without requiring Microsoft PowerPoint application.
-{{< Common/h4 text="PHP API for Presentations"  >}} 
+{{< Common/h4 text="PHP API for Presentations"  >}}
 {{< Common/ul>}}
    {{< Common/li >}} Complete control over presentation elements via comprehensive document object model. {{< /Common/li >}}
    {{< Common/li >}} Conversion of PowerPoint presentation, template & slideshow file formats to 25+ supported formats. {{< /Common/li >}}
@@ -48,4 +49,3 @@ aspose/slides is available on Packagist as the  {{< Common/link href="https://pa
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
-

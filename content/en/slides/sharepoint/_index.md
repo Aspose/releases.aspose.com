@@ -2,6 +2,7 @@
 title: "PowerPoint Importer & Exporter | Aspose.Slides for SharePoint"
 description: "Download SharePoint solution that can easily import PPT, POT, PPS, PPTX, POTX & PPSX, and export these formats to PDF, TIFF and XPS files.  "
 keywords: "SharePoint Solution for Presentations "
+linktitle: "Aspose.Slides for SharePoint"
 family_listing_page_title: "Aspose.Slides for SharePoint"
 family_listing_page_description: "Aspose.Slides for SharePoint is a SharePoint app that can convert Microsoft PowerPoint files to other formats. Aspose.Slides for SharePoint can easily import common Microsoft presentation formats including PPT, POT, PPS, PPTX, POTX & PPSX, and can export these formats to PDF, TIFF and XPS files."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-sharepoint-min.png"

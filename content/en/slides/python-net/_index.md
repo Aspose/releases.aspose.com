@@ -2,6 +2,7 @@
 title: "PowerPoint APIs & Components for Developers | Aspose.Slides Product Family"
 description: "Download .NET, Java, C++ & Android libraries to create, manipulate, convert & render Microsoft PowerPoint presentations. Family also includes extension, solution & exporter for Reporting Services, SharePoint & JasperReports. "
 keywords: "PowerPoint API "
+linktitle: "Aspose.Slides for Python via .NET"
 family_listing_page_title: "Aspose.Slides for Python via .NET"
 family_listing_page_description: "Aspose.Slides for Python via .NET is an advanced Powerpoint Presentation Processing API that enables you to perform a wide range of document processing tasks directly within your applications."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/img/products/slides/aspose_slides-for-python.svg"

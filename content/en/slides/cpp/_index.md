@@ -2,6 +2,7 @@
 title: "Download C++ Class Library for Presentations | Aspose.Slides"
 description: "Download C++ DLL Class Library to create, read, write, edit, convert PowerPoint® & OpenOffice® presentations via API. Supports charts, shapes, SmartArt, tables."
 keywords: "C++ PowerPoint Library"
+linktitle: "Aspose.Slides for C++"
 family_listing_page_title: "Aspose.Slides for C++"
 family_listing_page_description: "Aspose.Slides for C++ is a presentation processing library that enables the C++ applications to manipulate, render & convert PowerPoint presentations without requiring Microsoft PowerPoint application."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/slides/272x272/aspose_slides-for-cpp.png"
