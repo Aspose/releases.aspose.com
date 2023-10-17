@@ -230,7 +230,7 @@ class ChartDataPointCollection:
     def has_default_format(self, data_point_index: int) -> bool:
         """Gets a flag indicating whether the data point at the specified index has default format."""
         ...
-
+    
     def copy_format(self, source_index: int, destination_index: int) -> None:
         """Copies format from the source data point to the destination data point."""
         ...
@@ -246,7 +246,7 @@ class ChartFormat:
     def set_default_fill(self) -> None:
         """Resets the fill of the chart element to have the default value."""
         ...
-
+    
     @property
     def is_defined(self) -> bool:
         """Gets a flag indicating whether any format is defined."""
@@ -365,15 +365,15 @@ def insert_document_inline(self, src_doc: aspose.words.Document, import_format_m
     This method mimics the MS Word behavior, as if CTRL+'A' (select all content) was pressed,
     then CTRL+'C' (copy selected into the buffer) inside one document
     and then CTRL+'V' (insert content from the buffer) inside another document.
-
+    
     As a difference from :meth:`DocumentBuilder.insert_document`
     this method moves the content of the paragraph of the destination document,
     before which the source document is inserted, into the last
     paragraph of the inserted source document. Actually, this means that
     paragraph break of the last inserted paragraph is removed.
-
+    
     Note, if the last node of the source document is not a paragraph, then nothing will be done.
-
+    
     :param src_doc: Source document for inserting.
     :param import_format_mode: Specifies how to merge style formatting that clashes.
     :param import_format_options: Allows to specify options that affect formatting of a result document.
@@ -555,7 +555,7 @@ This use case explains how to recognize hyperlinks when loading TXT documents:
 
 {{% /alert %}}
 
-{{< highlight python >}
+{{< highlight python >}}
 from aspose.words import Document, StyleIdentifier
 from aspose.words.loading import TxtLoadOptions
 import io
