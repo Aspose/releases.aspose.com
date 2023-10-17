@@ -22,7 +22,7 @@ weight:  3
 Membuka
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Slides.Cpp/" text="NuGet"  >}}Package Manager dalam Microsoft Visual Studio®, cari <b>Aspose.Slides.Cpp</b> dan instal. Anda juga dapat menggunakan perintah berikut di dalam Package Manager Console. Untuk petunjuk rinci, silakan kunjungi
 {{< Common/link href="https://docs.aspose.com/slides/cpp/installation/" text="Instalasi"  >}}halaman dokumentasi.
-{{< Common/release-notes-link family="slides" product="cpp" href="https://docs.aspose.com/slides/cpp/release-notes/" text="https://docs.aspose.com/slides/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="slides" product="cpp" href="https://releases.aspose.com/slides/cpp/release-notes/" text="https://releases.aspose.com/slides/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

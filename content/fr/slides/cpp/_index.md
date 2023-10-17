@@ -22,7 +22,7 @@ weight:  3
 Ouvert
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Slides.Cpp/" text="NuGet"  >}}Gestionnaire de packages dans Microsoft Visual Studio®, recherchez <b>Aspose.Slides.Cpp</b> et installez. Vous pouvez également utiliser la commande suivante dans la console du gestionnaire de packages. Pour les instructions détaillées, veuillez visiter le
 {{< Common/link href="https://docs.aspose.com/slides/cpp/installation/" text="Installation"  >}}page documentaire.
-{{< Common/release-notes-link family="slides" product="cpp" href="https://docs.aspose.com/slides/cpp/release-notes/" text="https://docs.aspose.com/slides/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="slides" product="cpp" href="https://releases.aspose.com/slides/cpp/release-notes/" text="https://releases.aspose.com/slides/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

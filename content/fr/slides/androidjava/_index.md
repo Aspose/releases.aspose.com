@@ -54,7 +54,7 @@ Vous pouvez facilement utiliser Aspose.Slides pour Java directement à partir d'
         classifier: 'android.via.java') {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Notes de version"  >}}
-{{< Common/release-notes-link family="slides" product="androidjava" href="https://docs.aspose.com/slides/androidjava/release-notes/" text="https://docs.aspose.com/slides/androidjava/release-notes/"  >}}
+{{< Common/release-notes-link family="slides" product="androidjava" href="https://releases.aspose.com/slides/androidjava/release-notes/" text="https://releases.aspose.com/slides/androidjava/release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

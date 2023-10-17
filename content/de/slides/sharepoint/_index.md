@@ -19,7 +19,7 @@ weight: 6
 
 {{< Common/link href="https://products.aspose.com/slides/sharepoint/" text="Aspose.Folien für SharePoint"  >}}befähigen Sie
 zum Konvertieren von Microsoft PowerPoint®-Dokumenten innerhalb Ihrer SharePoint-Websites, ohne dass Microsoft PowerPoint® installiert werden muss.
-{{< Common/release-notes-link family="slides" product="sharepoint" href="https://docs.aspose.com/slides/sharepoint/release-notes/" text="https://docs.aspose.com/slides/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="slides" product="sharepoint" href="https://releases.aspose.com/slides/sharepoint/release-notes/" text="https://releases.aspose.com/slides/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

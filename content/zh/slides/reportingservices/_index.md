@@ -34,24 +34,24 @@ weight:  5
                     SQL 服务器
                     Reporting Services（32 位和 64 位）版本。
                     {{< /Common/paragraph>}}{{< Common/h3 class=" " text="Features"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} 准确高保真地呈现报表。 {{< /Common/li >}}
                            {{< Common/li >}} 能够以 MS PowerPoint 演示文稿支持的格式导出报告。 {{< /Common/li >}}
                            {{< Common/li >}} 支持在演示文稿中嵌入视频和音频（仅限 PPTX 导出）。 {{< /Common/li >}}
                            {{< Common/li >}} 不需要安装 MS PowerPoint。 {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="支持的输入格式"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} RPL（报表页面布局）{{< /Common/li >}}
                            {{< Common/li >}} RDL（报告定义语言）{{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="支持的输出格式"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} <strong>Microsoft PowerPoint：</strong> PPT、PPS、PPTX、PPSX {{< /Common/li >}}
                            {{< Common/li >}}<strong>固定布局：</strong> XPS {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="支持的 RDL 元素"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} 页面、页眉、页脚 {{< /Common/li >}}
                            {{< Common/li >}} 文本框 {{< /Common/li >}}
                            {{< Common/li >}} 图片 {{< /Common/li >}}
@@ -64,13 +64,13 @@ weight:  5
                            {{< Common/li >}} 矩形 {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="支持的平台"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} Microsoft SQL Server 2005 Reporting Services（32 位和 64 位）{{< /Common/li >}}
                            {{< Common/li >}} Microsoft SQL Server 2008 Reporting Services（32 位和 64 位）{{< /Common/li >}}
                            {{< Common/li >}} .NET Framework 2.0 {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="支持的 Microsoft PowerPoint 版本"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} Microsoft PowerPoint 97 {{< /Common/li >}}
                            {{< Common/li >}} Microsoft PowerPoint 2000 {{< /Common/li >}}
                            {{< Common/li >}} Microsoft PowerPoint XP {{< /Common/li >}}
@@ -83,11 +83,13 @@ weight:  5
                            {{< Common/li >}} 适用于 MAC 的 Microsoft PowerPoint {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="价钱"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} 详细计划请访问
 {{< Common/link href="https://purchase.aspose.com/pricing/slides/reporting-services" text="定价信息"  >}}页。 {{< /Common/li >}}
                      {{< /Common/ul>}}
-                {{< Common/paragraph>}}{{< /Common/paragraph>}}
+                {{< Common/paragraph>}}
+{{< Common/release-notes-link family="slides" product="reportingservices" href="https://releases.aspose.com/slides/reportingservices/release-notes/" text="https://releases.aspose.com/slides/reportingservices/release-notes/"  >}}
+                {{< /Common/paragraph>}}
             {{< /Common/wrapper >}}
         {{< /Common/wrapper >}}
     {{< /Common/wrapper >}}

@@ -54,7 +54,7 @@ Anda dapat dengan mudah menggunakan Aspose.Slides untuk Java langsung dari a
         classifier: 'android.via.java') {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Catatan Rilis"  >}}
-{{< Common/release-notes-link family="slides" product="androidjava" href="https://docs.aspose.com/slides/androidjava/release-notes/" text="https://docs.aspose.com/slides/androidjava/release-notes/"  >}}
+{{< Common/release-notes-link family="slides" product="androidjava" href="https://releases.aspose.com/slides/androidjava/release-notes/" text="https://releases.aspose.com/slides/androidjava/release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

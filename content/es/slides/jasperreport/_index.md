@@ -19,7 +19,7 @@ weight:  7
 {{< Common/paragraph class="package-instructions">}}
 
 {{< Common/link href="https://products.aspose.com/slides/jasperreports/" text="Aspose. Diapositivas para JasperReports"  >}}es una extensión liviana que lo ayuda a exportar informes de JasperReports® y JasperServer® a Microsoft PowerPoint® y otros formatos de archivo compatibles.
-{{< Common/release-notes-link family="slides" product="jasperreports" href="https://docs.aspose.com/slides/jasperreports/release-notes/" text="https://docs.aspose.com/slides/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="slides" product="jasperreports" href="https://releases.aspose.com/slides/jasperreport/release-notes/" text="https://releases.aspose.com/slides/jasperreport/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

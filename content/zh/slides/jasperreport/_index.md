@@ -19,7 +19,7 @@ weight:  7
 {{< Common/paragraph class="package-instructions">}}
 
 {{< Common/link href="https://products.aspose.com/slides/jasperreports/" text="用于 JasperReports 的 Aspose.Slides"  >}}是一个轻量级扩展，可帮助您将报告从 JasperReports® 和 JasperServer® 导出到 Microsoft PowerPoint® 和其他支持的文件格式。
-{{< Common/release-notes-link family="slides" product="jasperreports" href="https://docs.aspose.com/slides/jasperreports/release-notes/" text="https://docs.aspose.com/slides/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="slides" product="jasperreports" href="https://releases.aspose.com/slides/jasperreport/release-notes/" text="https://releases.aspose.com/slides/jasperreport/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

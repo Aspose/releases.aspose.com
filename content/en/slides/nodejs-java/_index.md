@@ -46,7 +46,7 @@ aspose.slides is available on NPM as the  {{< Common/link href="https://www.npmj
        {{< consolebox/textarea id="npm" >}} npm install aspose.slides.via.java  {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="slides" product="nodejs-java" href="https://docs.aspose.com/slides/nodejs-java/release-notes/" text="https://docs.aspose.com/slides/nodejs-java/release-notes/"  >}}
+{{< Common/release-notes-link family="slides" product="nodejs-java" href="https://releases.aspose.com/slides/nodejs-java/release-notes/" text="https://releases.aspose.com/slides/nodejs-java/release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

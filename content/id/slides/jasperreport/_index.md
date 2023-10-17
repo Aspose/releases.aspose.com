@@ -19,7 +19,7 @@ weight:  7
 {{< Common/paragraph class="package-instructions">}}
 
 {{< Common/link href="https://products.aspose.com/slides/jasperreports/" text="Aspose.Slides untuk JasperReports"  >}}adalah ekstensi ringan yang membantu Anda mengekspor laporan dari JasperReports® dan JasperServer® ke Microsoft PowerPoint® dan format file lain yang didukung.
-{{< Common/release-notes-link family="slides" product="jasperreports" href="https://docs.aspose.com/slides/jasperreports/release-notes/" text="https://docs.aspose.com/slides/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="slides" product="jasperreports" href="https://releases.aspose.com/slides/jasperreport/release-notes/" text="https://releases.aspose.com/slides/jasperreport/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

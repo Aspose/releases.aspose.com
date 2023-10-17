@@ -54,7 +54,7 @@ API для работы с файлами PowerPoint для разработчи
         classifier: 'android.via.java') {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Примечания к выпуску"  >}}
-{{< Common/release-notes-link family="slides" product="androidjava" href="https://docs.aspose.com/slides/androidjava/release-notes/" text="https://docs.aspose.com/slides/androidjava/release-notes/"  >}}
+{{< Common/release-notes-link family="slides" product="androidjava" href="https://releases.aspose.com/slides/androidjava/release-notes/" text="https://releases.aspose.com/slides/androidjava/release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 
