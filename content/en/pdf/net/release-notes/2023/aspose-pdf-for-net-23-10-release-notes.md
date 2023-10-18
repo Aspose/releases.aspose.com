@@ -56,6 +56,7 @@ This page contains release notes information for Aspose.PDF for .NET 23.10.
 |PDFNET-47299|System.ArgumentOutOfRangeException Creating Image from PDF|Bug|
 |PDFNET-47393|Flattening Polyline Annotations Connects First and Last Vertices|Bug|
 |PDFNET-48451|Using special characters causes PDF library to crash in docker|Bug|
+|PDFNET-48631|PDF to PNG - The lines were disappeared|Bug|
 |PDFNET-48698|When Saving Epub/PDF/XPS without a license - null reference exception was thrown in Linux|Bug|
 |PDFNET-48885|TXT to PDF - document.save execution is extremely slow|Bug|
 |PDFNET-48951|PDF to PDF/A conversion and optimization - content is lost in the final output|Bug|
