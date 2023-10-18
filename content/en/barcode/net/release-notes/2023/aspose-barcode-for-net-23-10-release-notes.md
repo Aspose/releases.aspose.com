@@ -86,7 +86,7 @@ New properties were added to Reporting Services component:
 
 
 
-### New API u   sage examples
+### New API usage examples
  
 These samples show how to encode UCC/EAN-128 non Linked modes in GS1MicroPdf417
 ```cs
