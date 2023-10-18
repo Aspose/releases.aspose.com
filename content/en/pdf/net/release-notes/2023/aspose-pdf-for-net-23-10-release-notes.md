@@ -69,7 +69,6 @@ This page contains release notes information for Aspose.PDF for .NET 23.10.
 |PDFNET-52917|Loading SVG file throws System.ArgumentException|Bug|
 |PDFNET-52938|Default Appearance of PDF Form Fields with same name|Bug|
 |PDFNET-53361|NullReferenceException is thrown while converting PDF to DOCX|Bug|
-|PDFNET-53394|PostScript to PDF conversion generates empty output|Bug|
 |PDFNET-53610|The gradient is lost when converting PDF|Bug|
 |PDFNET-53768|PDF to PDF/A1a: "Required key missing" for StructTreeRoot|Bug|
 |PDFNET-54075|Annotating the PDF corrupts text in Adobe Acrobat|Bug|
