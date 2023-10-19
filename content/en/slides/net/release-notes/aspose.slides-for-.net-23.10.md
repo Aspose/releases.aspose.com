@@ -8,7 +8,7 @@ folder_link: "/slides/net/new-releases/aspose.slides-for-.net-23.10/"
 folder_name: "Aspose.Slides for .NET 23.10(DLLs only)"
 download_link: "/slides/net/new-releases/aspose.slides-for-.net-23.10/27fd5a95f9bec2f04d1bc8c7b6b77f95-38-9648"
 download_text: "Download"
-intro_text: "It contains Aspose.Slides for .NET 23.10 release."
+intro_text: "It contains Aspose.Slides for .NET 23.10(DLLs only) release."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 19/10/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 189.62MB"
@@ -43,7 +43,7 @@ weight: 775
       <h4>Release Notes</h4><div><a href='https://docs.aspose.com/slides/net/aspose-slides-for-net-23-10-release-notes/'>https://docs.aspose.com/slides/net/aspose-slides-for-net-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 23.10 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 23.10(DLLs only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
