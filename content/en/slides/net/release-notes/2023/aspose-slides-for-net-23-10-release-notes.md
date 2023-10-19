@@ -3,7 +3,7 @@ id: "aspose-slides-for-net-23-10-release-notes"
 slug: "aspose-slides-for-net-23-10-release-notes"
 linktitle: "Aspose.Slides for .NET 23.10 Release Notes"
 title: "Aspose.Slides for .NET 23.10 Release Notes"
-weight: 20
+weight: 10
 description: "Aspose.Slides for .NET 23.10 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
