@@ -27,7 +27,7 @@ This page contains release notes for [Aspose.Slides for C++ 23.10](https://www.n
 |SLIDESNET-44169|Getting the visual size of Ink shapes|Feature||
 |SLIDESNET-43931|Images are distorted when saved as TIFF images.|Enhancement|<https://docs.aspose.com/slides/net/convert-powerpoint-to-tiff/>|
 |SLIDESNET-44020|Getting the number of lines of a paragraph|Feature|<https://docs.aspose.com/slides/net/paragraph/>|
-|SLIDESNET-44109|An image is blurred when converting PPTX to PDF|Enhancement|< https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>|
+|SLIDESNET-44109|An image is blurred when converting PPTX to PDF|Enhancement|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>|
 |SLIDESNET-44057|ODP 3D charts support|Feature|<https://docs.aspose.com/slides/net/convert-odp-to-pptx/>|
 
 ## Other Improvements and Changes
