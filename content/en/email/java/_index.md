@@ -1,6 +1,6 @@
 ---
 title: Aspose.Email | Java Class Library to Process Outlook Formats
-linktitle: Aspose.Email
+linktitle: "Aspose.Email for Java"
 description: Java class library to work with SMTP, MIME, POP3, IMAP, HTTP, electronic mail (email) in PST, MSG, OST, EML, etc. Supports iCalendar, validation, & security.
 layout: packages
 type: repository

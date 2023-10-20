@@ -2,6 +2,7 @@
 title: "Download Outlook® Objects Processing C++ DLL | Aspose.Email"
 description: "Download C++ DLL Class Library to work with Outlook® objects; email messages, tasks, contacts, calendar, & journal items via API. Supports SMTP, POP3, & IMAP."
 keywords: "iCalendar, Recurrence Patterns, RFC 2445, C++ Email Library, C++ Outlook Library"
+linktitle: "Aspose.Email for C++"
 family_listing_page_title: "Aspose.Email for C++"
 family_listing_page_description: "Aspose.Email for C++ is a suite of class libraries brought together to produce a powerful email programming API that makes it easier to work with a number of email message formats such as MSG, EML, EMLX and MHT."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png"

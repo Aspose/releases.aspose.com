@@ -2,6 +2,7 @@
 title: "Aspose.Email for SharePoint | Convert & Sync Email Messages"
 description: "Download SharePoint App that provides email conversion and synchronization features from within the Microsoft SharePoint document library. "
 keywords: "SharePoint Email Sync, SharePoint Email Conversion "
+linktitle: "Aspose.Email for SharePoint"
 family_listing_page_title: "Aspose.Email for SharePoint"
 family_listing_page_description: "Aspose.Email for SharePoint provides email conversion and synchronization features from within the Microsoft SharePoint document library. It allows you to convert one or several email messages at once. Aspose.Email for SharePoint also lets you view the emails directly from SharePoint."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint-min.png"
