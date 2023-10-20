@@ -4,7 +4,7 @@ slug: "aspose-imaging-for-java-23-10-release-notes"
 linktitle: "Aspose.Imaging for Java 23.10 - Release notes"
 title: "Aspose.Imaging for Java 23.10 - Release notes"
 weight: 50
-description: "Aspose.Imaging for Java 23.10 - Release notes“ the latest updates and fixes."
+description: "Aspose.Imaging for Java 23.10 - Release notes the latest updates and fixes."
 type: "repository"
 layout: "release"
 hideChildren: false
