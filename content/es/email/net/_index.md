@@ -22,7 +22,7 @@ weight:  1
 Abierto
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Email/" text="NuGet"  >}}Package Manager dentro de Microsoft Visual Studio®, busque <b>Aspose.Diagram</b> e instálelo. También puede usar el siguiente comando dentro de la Consola del administrador de paquetes. Para obtener instrucciones detalladas, visite el
 {{< Common/link href="https://docs.aspose.com/email/net/installation/" text="Instalación"  >}}página de documentación.
-{{< Common/release-notes-link family="email" product="java" href="https://docs.aspose.com/email/net/release-notes/" text="https://docs.aspose.com/email/net/release-notes/"  >}}
+{{< Common/release-notes-link family="email" product="net" href="https://releases.aspose.com/email/net/release-notes/" text="https://releases.aspose.com/email/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
@@ -76,4 +76,3 @@ Aspose.Email para .NET le permite trabajar con mensajes MIME, citas, elementos d
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

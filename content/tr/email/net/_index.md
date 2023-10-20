@@ -22,7 +22,7 @@ weight:  1
 Açık
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Email/" text="NuGet"  >}}Microsoft Visual Studio® içinde Paket Yöneticisi, <b>Aspose.Diagram'ı arayın</b> ve kurun. Paket Yöneticisi Konsolunda aşağıdaki komutu da kullanabilirsiniz. Ayrıntılı talimatlar için lütfen ziyaret edin
 {{< Common/link href="https://docs.aspose.com/email/net/installation/" text="Kurulum"  >}}dokümantasyon sayfası.
-{{< Common/release-notes-link family="email" product="java" href="https://docs.aspose.com/email/net/release-notes/" text="https://docs.aspose.com/email/net/release-notes/"  >}}
+{{< Common/release-notes-link family="email" product="net" href="https://releases.aspose.com/email/net/release-notes/" text="https://releases.aspose.com/email/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
@@ -76,4 +76,3 @@ Aspose.Email for .NET, MIME mesajları, randevular, Microsoft Outlook® öğeler
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

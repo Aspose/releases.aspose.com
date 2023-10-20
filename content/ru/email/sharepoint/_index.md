@@ -31,7 +31,7 @@ tags: ['Aspose.Email', 'Aspose.Total', 'Conholdate.Total', 'Conholdate', 'ShareP
 {{< Common/link href="https://products.aspose.app/email/metadata" text="Бесплатное приложение для метаданных электронной почты для просмотра и редактирования метаданных электронной почты"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="email" product="sharepoint" href="https://docs.aspose.com/email/sharepoint/" text="https://docs.aspose.com/email/sharepoint/"  >}}
+{{< Common/release-notes-link family="email" product="sharepoint" href="https://releases.aspose.com/email/sharepoint/release-notes/" text="https://releases.aspose.com/email/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

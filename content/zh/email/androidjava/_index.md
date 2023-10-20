@@ -21,7 +21,7 @@ weight: 4
 Android API 使软件开发人员能够设计具有管理和操作电子邮件的能力的 Android 应用程序，而不会迷失在 Microsoft Outlook® 文件格式实施的复杂性中。
 您可以直接从
 {{< Common/link href="https://repository.aspose.com/email/" text="马文"  >}}通过将以下配置添加到 build.gradle 基于项目。
-{{< Common/release-notes-link family="email" product="jandroidjavaava" href="https://docs.aspose.com/email/java/android-via-java-release-notes/" text="https://docs.aspose.com/email/java/android-via-java-release-notes/"  >}} 
+{{< Common/release-notes-link family="email" product="jandroidjavaava" href="https://releases.aspose.com/email/androidjava/release-notes/" text="https://releases.aspose.com/email/androidjava/release-notes/"  >}} 
 {{< /Common/paragraph>}}
 
 {{< consolebox/consoleboxwrapper id="repository" >}}

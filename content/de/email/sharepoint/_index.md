@@ -31,7 +31,7 @@ um E-Mail-Konvertierung, Dokumentbibliothekssynchronisierung und E-Mail-Synchron
 {{< Common/link href="https://products.aspose.app/email/metadata" text="Kostenlose E-Mail-Metadaten-App zum Anzeigen und Bearbeiten von E-Mail-Metadaten"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="email" product="sharepoint" href="https://docs.aspose.com/email/sharepoint/" text="https://docs.aspose.com/email/sharepoint/"  >}}
+{{< Common/release-notes-link family="email" product="sharepoint" href="https://releases.aspose.com/email/sharepoint/release-notes/" text="https://releases.aspose.com/email/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

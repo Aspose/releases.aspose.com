@@ -31,7 +31,7 @@ SharePoint サイト内で電子メールの変換、ドキュメント ライ�
 {{< Common/link href="https://products.aspose.app/email/metadata" text="電子メールのメタデータを表示および編集するための無料の電子メール メタデータ アプリ"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="email" product="sharepoint" href="https://docs.aspose.com/email/sharepoint/" text="https://docs.aspose.com/email/sharepoint/"  >}}
+{{< Common/release-notes-link family="email" product="sharepoint" href="https://releases.aspose.com/email/sharepoint/release-notes/" text="https://releases.aspose.com/email/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

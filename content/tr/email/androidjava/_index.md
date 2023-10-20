@@ -21,7 +21,7 @@ weight: 4
 Android API, yazılım geliştiricilere, Microsoft Outlook® dosya biçimi uygulamasının karmaşıklığı içinde kaybolmadan e-posta mesajlarını yönetme ve değiştirme becerisiyle Android Uygulamaları tasarlama yetkisi verir.
 Aspose.Email for Java'yı doğrudan bir
 {{< Common/link href="https://repository.aspose.com/email/" text="Uzman"  >}}build.gradle'a aşağıdaki konfigürasyonları ekleyerek proje tabanlı.
-{{< Common/release-notes-link family="email" product="jandroidjavaava" href="https://docs.aspose.com/email/java/android-via-java-release-notes/" text="https://docs.aspose.com/email/java/android-via-java-release-notes/"  >}} 
+{{< Common/release-notes-link family="email" product="jandroidjavaava" href="https://releases.aspose.com/email/androidjava/release-notes/" text="https://releases.aspose.com/email/androidjava/release-notes/"  >}} 
 {{< /Common/paragraph>}}
 
 {{< consolebox/consoleboxwrapper id="repository" >}}

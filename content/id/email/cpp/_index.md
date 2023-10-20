@@ -22,7 +22,7 @@ weight:  3
 Membuka
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Email.Cpp/" text="NuGet"  >}}Package Manager dalam Microsoft Visual Studio®, cari <b>Aspose.Email.Cpp</b> dan instal. Anda juga dapat menggunakan perintah berikut di dalam Package Manager Console. Untuk petunjuk rinci, silakan kunjungi
 {{< Common/link href="https://docs.aspose.com/email/cpp/installation/" text="Instalasi"  >}}halaman dokumentasi.
-{{< Common/release-notes-link family="email" product="cpp" href="https://docs.aspose.com/email/cpp/release-notes/" text="https://docs.aspose.com/email/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="email" product="cpp" href="https://releases.aspose.com/email/cpp/release-notes/" text="https://releases.aspose.com/email/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

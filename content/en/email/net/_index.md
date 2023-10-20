@@ -21,7 +21,7 @@ weight:  1
 {{< Common/h2 text="Download Aspose.Email to work with Emails"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Email/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.Diagram</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/email/net/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="email" product="java" href="https://docs.aspose.com/email/net/release-notes/" text="https://docs.aspose.com/email/net/release-notes/"  >}}
+{{< Common/release-notes-link family="email" product="java" href="https://releases.aspose.com/email/net/release-notes/" text="https://releases.aspose.com/email/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

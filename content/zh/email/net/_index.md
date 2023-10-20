@@ -22,7 +22,7 @@ weight:  1
 打开
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Email/" text="NuGet"  >}}Microsoft Visual Studio® 中的包管理器，搜索<b>Aspose.Diagram</b>并安装。您还可以在包管理器控制台中使用以下命令。有关详细说明，请访问
 {{< Common/link href="https://docs.aspose.com/email/net/installation/" text="安装"  >}}文档页面。
-{{< Common/release-notes-link family="email" product="java" href="https://docs.aspose.com/email/net/release-notes/" text="https://docs.aspose.com/email/net/release-notes/"  >}}
+{{< Common/release-notes-link family="email" product="net" href="https://releases.aspose.com/email/net/release-notes/" text="https://releases.aspose.com/email/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
@@ -78,4 +78,3 @@ Aspose.Email for .NET 允许您使用 MIME 消息、约会、Microsoft Outlook®
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

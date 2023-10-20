@@ -31,7 +31,7 @@ untuk melakukan konversi email, sinkronisasi pustaka dokumen, dan sinkronisasi e
 {{< Common/link href="https://products.aspose.app/email/metadata" text="Aplikasi Metadata Email Gratis untuk melihat dan mengedit metadata email"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="email" product="sharepoint" href="https://docs.aspose.com/email/sharepoint/" text="https://docs.aspose.com/email/sharepoint/"  >}}
+{{< Common/release-notes-link family="email" product="sharepoint" href="https://releases.aspose.com/email/sharepoint/release-notes/" text="https://releases.aspose.com/email/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 
