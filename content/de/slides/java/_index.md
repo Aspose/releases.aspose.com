@@ -87,7 +87,7 @@ weight: 02	#rem
 tags: ["Aspose Total", "Aspose Slides", "Aspose Java API", "presentation java library", "presentation java class", "Maven", "PPT", "POT", "PPS", "PPTX", "POTX", "PPSX", "PPTM", "PPSM", "POTM", "OTP", "ODP", "TIFF", "PDF", "XPS", "JPEG", "PNG", "GIF", "BMP", "SVG", "HTML", "SWF", "PowerPoint", "chart", "shape", "geometry", "polyline", "animation", "autoshape", "Windows", "Linux", "Mac", "J2SE", "JDK", "Slide", "presentation", "merge", "import", "convert", "conversion", "transition", "master slide", "clone slide", "compare slide", "OLE", "SmartArt", "zoom", "text", "table", "tag", "custom data", "math equation", "security", "watermak", "presentation comment", "presentation note", "3d rotation", "3d depth", "3d gradient", "3d text", "WordArt", "VBA Macros"]
 forumLink: https://forum.aspose.com/c/slides/11
 productLink: https://products.aspose.com/slides/java/
-releaseNotesLink: https://docs.aspose.com/slides/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/slides/java/release-notes/
 dataFolder: aspose_slides
 packages_refs:
 - "22-11"

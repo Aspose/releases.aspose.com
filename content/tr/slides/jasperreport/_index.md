@@ -19,7 +19,7 @@ weight:  7
 {{< Common/paragraph class="package-instructions">}}
 
 {{< Common/link href="https://products.aspose.com/slides/jasperreports/" text="Aspose.Slides for JasperReports"  >}}raporları JasperReports® ve JasperServer®'dan Microsoft PowerPoint® ve diğer desteklenen dosya biçimlerine aktarmanıza yardımcı olan hafif bir uzantıdır.
-{{< Common/release-notes-link family="slides" product="jasperreports" href="https://docs.aspose.com/slides/jasperreports/release-notes/" text="https://docs.aspose.com/slides/jasperreports/release-notes/"  >}}
+{{< Common/release-notes-link family="slides" product="jasperreports" href="https://releases.aspose.com/slides/jasperreport/release-notes/" text="https://releases.aspose.com/slides/jasperreport/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

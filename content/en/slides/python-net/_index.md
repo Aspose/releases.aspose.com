@@ -27,7 +27,7 @@ Aspose.Slides for Python via .NET that enables the Python applications to manipu
  {{< /Common/ul>}}
 
 Please use the following {{< Common/link href="https://pypi.org/project/aspose.slides/" text="pip"  >}} command:
-{{< Common/release-notes-link family="slides" product="python-net" href="https://docs.aspose.com/slides/python-net/release-notes/" text="https://docs.aspose.com/slides/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="slides" product="python-net" href="https://releases.aspose.com/slides/python-net/release-notes/" text="https://releases.aspose.com/slides/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}

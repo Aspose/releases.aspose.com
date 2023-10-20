@@ -34,24 +34,24 @@ weight:  5
                     SQL Server
                     Layanan Pelaporan (32-bit & 64-bit) versi.
                     {{< /Common/paragraph>}}{{< Common/h3 class=" " text="Features"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} Accurate and high-fidelity rendering of reports. {{< /Common/li >}}
                            {{< Common/li >}} Ability to export reports in the MS PowerPoint Presentation supported formats. {{< /Common/li >}}
                            {{< Common/li >}} Supports embedding video and audio within the presentation (PPTX export only). {{< /Common/li >}}
                            {{< Common/li >}} MS PowerPoint installation is not required. {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Format Masukan yang Didukung"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} RPL (Report Page Layout) {{< /Common/li >}}
                            {{< Common/li >}} RDL (Report Definition Language) {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Format Keluaran yang Didukung"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} <strong>Microsoft PowerPoint:</strong> PPT, PPS, PPTX, PPSX {{< /Common/li >}}
                            {{< Common/li >}} <strong>Fixed Layout:</strong> XPS {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Elemen RDL yang Didukung"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} Page, headers, footers {{< /Common/li >}}
                            {{< Common/li >}} Textboxes {{< /Common/li >}}
                            {{< Common/li >}} Images {{< /Common/li >}}
@@ -64,13 +64,13 @@ weight:  5
                            {{< Common/li >}} Rectangles {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Platform yang Didukung"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} Microsoft SQL Server 2005 Reporting Services (32-bit & 64-bit) {{< /Common/li >}}
                            {{< Common/li >}} Microsoft SQL Server 2008 Reporting Services (32-bit & 64-bit) {{< /Common/li >}}
                            {{< Common/li >}} .NET Framework 2.0 {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Versi Microsoft PowerPoint yang Didukung"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} Microsoft PowerPoint 97 {{< /Common/li >}}
                            {{< Common/li >}} Microsoft PowerPoint 2000 {{< /Common/li >}}
                            {{< Common/li >}} Microsoft PowerPoint XP {{< /Common/li >}}
@@ -83,11 +83,13 @@ weight:  5
                            {{< Common/li >}} Microsoft PowerPoint for MAC {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Harga"  >}}
-                     {{< Common/ul>}} 
-                           {{< Common/li >}} For detailed plans please visit the 
+                     {{< Common/ul>}}
+                           {{< Common/li >}} For detailed plans please visit the
 {{< Common/link href="https://purchase.aspose.com/pricing/slides/reporting-services" text="Informasi Harga"  >}}halaman. {{< /Common/li >}}
                      {{< /Common/ul>}}
-                {{< Common/paragraph>}}{{< /Common/paragraph>}}
+                {{< Common/paragraph>}}
+{{< Common/release-notes-link family="slides" product="reportingservices" href="https://releases.aspose.com/slides/reportingservices/release-notes/" text="https://releases.aspose.com/slides/reportingservices/release-notes/"  >}}
+                {{< /Common/paragraph>}}
             {{< /Common/wrapper >}}
         {{< /Common/wrapper >}}
     {{< /Common/wrapper >}}

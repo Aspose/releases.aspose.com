@@ -34,24 +34,24 @@ weight:  5
                     SQL-сервер
                     Версии Reporting Services (32-разрядная и 64-разрядная версии).
                     {{< /Common/paragraph>}}{{< Common/h3 class=" " text="Features"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} Точная и высококачественная визуализация отчетов. {{< /Common/li >}}
                            {{< Common/li >}} Возможность экспорта отчетов в форматы, поддерживаемые презентацией MS PowerPoint. {{< /Common/li >}}
                            {{< Common/li >}} Поддерживает встраивание видео и аудио в презентацию (только экспорт PPTX). {{< /Common/li >}}
                            {{< Common/li >}} Установка MS PowerPoint не требуется. {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Поддерживаемые форматы ввода"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} RPL (макет страницы отчета) {{< /Common/li >}}
                            {{< Common/li >}} RDL (язык определения отчетов) {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Поддерживаемые форматы вывода"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} <strong>Microsoft PowerPoint:</strong> PPT, PPS, PPTX, PPSX {{< /Common/li >}}
                            {{< Common/li >}} <strong>Фиксированный макет:</strong> XPS {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Поддерживаемые элементы RDL"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} Страница, верхние и нижние колонтитулы {{< /Common/li >}}
                            {{< Common/li >}} Текстовые поля {{< /Common/li >}}
                            {{< Common/li >}} Изображения {{< /Common/li >}}
@@ -64,13 +64,13 @@ weight:  5
                            {{< Common/li >}} Прямоугольники {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Поддерживаемые платформы"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} Службы отчетов Microsoft SQL Server 2005 (32- и 64-разрядная версии) {{< /Common/li >}}
                            {{< Common/li >}} Службы отчетов Microsoft SQL Server 2008 (32-разрядная и 64-разрядная версии) {{< /Common/li >}}
                            {{< Common/li >}} .NET Framework 2.0 {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Поддерживаемые версии Microsoft PowerPoint"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} Microsoft PowerPoint 97 {{< /Common/li >}}
                            {{< Common/li >}} Microsoft PowerPoint 2000 {{< /Common/li >}}
                            {{< Common/li >}} Microsoft PowerPoint XP {{< /Common/li >}}
@@ -83,11 +83,13 @@ weight:  5
                            {{< Common/li >}} Microsoft PowerPoint для MAC {{< /Common/li >}}
                      {{< /Common/ul>}}
                     {{< Common/h3 class=" " text="Цены"  >}}
-                     {{< Common/ul>}} 
+                     {{< Common/ul>}}
                            {{< Common/li >}} Подробные планы см.
 {{< Common/link href="https://purchase.aspose.com/pricing/slides/reporting-services" text="Информация о ценах"  >}}страница. {{< /Common/li >}}
                      {{< /Common/ul>}}
-                {{< Common/paragraph>}}{{< /Common/paragraph>}}
+                {{< Common/paragraph>}}
+{{< Common/release-notes-link family="slides" product="reportingservices" href="https://releases.aspose.com/slides/reportingservices/release-notes/" text="https://releases.aspose.com/slides/reportingservices/release-notes/"  >}}
+                {{< /Common/paragraph>}}
             {{< /Common/wrapper >}}
         {{< /Common/wrapper >}}
     {{< /Common/wrapper >}}

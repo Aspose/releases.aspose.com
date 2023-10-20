@@ -19,7 +19,7 @@ weight: 6
 
 {{< Common/link href="https://products.aspose.com/slides/sharepoint/" text="Aspose. Diapositivas para SharePoint"  >}}habilitarte
 para convertir documentos de Microsoft PowerPoint® dentro de sus sitios de SharePoint, sin necesidad de instalar Microsoft PowerPoint®.
-{{< Common/release-notes-link family="slides" product="sharepoint" href="https://docs.aspose.com/slides/sharepoint/release-notes/" text="https://docs.aspose.com/slides/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="slides" product="sharepoint" href="https://releases.aspose.com/slides/sharepoint/release-notes/" text="https://releases.aspose.com/slides/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

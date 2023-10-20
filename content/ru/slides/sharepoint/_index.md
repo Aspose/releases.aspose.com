@@ -19,7 +19,7 @@ weight: 6
 
 {{< Common/link href="https://products.aspose.com/slides/sharepoint/" text="Aspose.Slides для SharePoint"  >}}позволить вам
 для преобразования документов Microsoft PowerPoint® на ваших сайтах SharePoint без необходимости установки Microsoft PowerPoint®.
-{{< Common/release-notes-link family="slides" product="sharepoint" href="https://docs.aspose.com/slides/sharepoint/release-notes/" text="https://docs.aspose.com/slides/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="slides" product="sharepoint" href="https://releases.aspose.com/slides/sharepoint/release-notes/" text="https://releases.aspose.com/slides/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

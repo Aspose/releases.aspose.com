@@ -87,9 +87,10 @@ tags: ["Aspose Total", "Aspose Slides", "Aspose Java API", "presentation java li
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/slides/11
 productLink: https://products.aspose.com/slides/java/
-releaseNotesLink: https://docs.aspose.com/slides/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/slides/java/release-notes/
 dataFolder: aspose_slides
 packages_refs:
+- "23-10"
 - "23-6-1"
 - "23-5-1"
 - "23-4-1"

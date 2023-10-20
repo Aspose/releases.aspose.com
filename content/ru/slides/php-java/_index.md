@@ -39,7 +39,7 @@ aspose/slides доступен на Packagist как
        {{< consolebox/textarea id="composer" >}}composer require aspose/slides {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Примечания к выпуску"  >}}
-{{< Common/release-notes-link family="slides" product="php-java" href="https://docs.aspose.com/slides/php-java/release-notes/" text="https://docs.aspose.com/slides/php-java/release-notes/"  >}}
+{{< Common/release-notes-link family="slides" product="php-java" href="https://releases.aspose.com/slides/php-java/release-notes/" text="https://releases.aspose.com/slides/php-java/release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

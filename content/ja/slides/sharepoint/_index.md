@@ -19,7 +19,7 @@ weight: 6
 
 {{< Common/link href="https://products.aspose.com/slides/sharepoint/" text="Aspose.Slides for SharePoint"  >}}あなたを可能にする
 Microsoft PowerPoint® をインストールしなくても、SharePoint サイト内の Microsoft PowerPoint® ドキュメントを変換できます。
-{{< Common/release-notes-link family="slides" product="sharepoint" href="https://docs.aspose.com/slides/sharepoint/release-notes/" text="https://docs.aspose.com/slides/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="slides" product="sharepoint" href="https://releases.aspose.com/slides/sharepoint/release-notes/" text="https://releases.aspose.com/slides/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

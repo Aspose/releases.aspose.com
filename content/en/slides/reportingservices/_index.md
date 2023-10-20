@@ -86,7 +86,10 @@ weight:  5
                      {{< Common/ul>}}
                            {{< Common/li >}} For detailed plans please visit the {{< Common/link href="https://purchase.aspose.com/pricing/slides/reporting-services" text="Pricing Information"  >}} page. {{< /Common/li >}}
                      {{< /Common/ul>}}
-                {{< Common/paragraph>}}{{< /Common/paragraph>}}
+                {{< Common/paragraph>}}
+                {{< Common/release-notes-link family="slides" product="reportingservices" href="https://releases.aspose.com/slides/reportingservices/release-notes/" text="https://releases.aspose.com/slides/reportingservices/release-notes/"  >}}
+
+                {{< /Common/paragraph>}}
             {{< /Common/wrapper >}}
         {{< /Common/wrapper >}}
     {{< /Common/wrapper >}}
