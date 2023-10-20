@@ -2,6 +2,7 @@
 title: "Python Email Library | Aspose.Email for Python via .NET"
 description: "Download Python Email Programming API, that saves developer's time & effort to create, manipulate or convert common email message formats without worrying about the complexities of the underlying format implementation. "
 keywords: "Email Python Library "
+linktitle: "Aspose.Email for Python via .NET"
 family_listing_page_title: "Aspose.Email for Python via .NET"
 family_listing_page_description: "Aspose.Email for Python via .NET is a suite of class libraries brought together to produce a powerful email programming component that can be used create cross-platform applications. Aspose.Email for Python via .NET can easily be used on Windows platforms without worrying about the organization of message formats."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-python.png"

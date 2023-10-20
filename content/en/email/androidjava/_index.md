@@ -2,6 +2,7 @@
 title: "Android Email Library | Aspose.Email for Android"
 description: "Download Android Library to create, read and manipulate Outlook MSG, PST, EML and MHT files from within an Android application. It provides the ability to manipulate message headers, contents, attachments, and MAPI properties as per the application specifications. "
 keywords: "Email Android Library "
+linktitle: "Aspose.Email for Android via Java"
 family_listing_page_title: "Aspose.Email for Android via Java"
 family_listing_page_description: "The flexible emails processing API helps the developers manipulate Outlook email file formats from within Android applications. Aspose.Email for Android via Java has no dependencies other than Android Runtime therefore it does not need any other software to work."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android-min.png"
@@ -20,7 +21,7 @@ weight: 4
 {{< Common/paragraph class="package-instructions">}}
 Android API empowers the software developers to design Android Apps with the ability to manage and manipulate email messages without getting lost in the complexities of Microsoft Outlook&reg; file format implementation.
 You can easily use Aspose.Email for Java directly from a {{< Common/link href="https://repository.aspose.com/email/" text="Maven"  >}} based project by adding following configurations to the build.gradle.
-{{< Common/release-notes-link family="email" product="jandroidjavaava" href="https://docs.aspose.com/email/java/android-via-java-release-notes/" text="https://docs.aspose.com/email/java/android-via-java-release-notes/"  >}} 
+{{< Common/release-notes-link family="email" product="jandroidjavaava" href="https://docs.aspose.com/email/java/android-via-java-release-notes/" text="https://docs.aspose.com/email/java/android-via-java-release-notes/"  >}}
 {{< /Common/paragraph>}}
 
 {{< consolebox/consoleboxwrapper id="repository" >}}

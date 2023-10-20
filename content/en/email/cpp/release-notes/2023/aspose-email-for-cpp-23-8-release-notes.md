@@ -1,0 +1,121 @@
+---
+id: "aspose-email-for-cpp-23-8-release-notes"
+slug: "aspose-email-for-cpp-23-8-release-notes"
+linktitle: "Aspose.Email for CPP 23.8 Release Notes"
+title: "Aspose.Email for CPP 23.8 Release Notes"
+weight: 50
+description: "Aspose.Email for CPP 23.8 Release Notes – the latest updates and fixes."
+type: "repository"
+layout: "release"
+family_listing_page_title: "Aspose.Email for CPP 23.8 Release Notes"
+---
+
+{{% alert color="primary" %}}
+
+This page contains release notes information for Aspose.Email for C++ 23.8.
+
+{{% /alert %}}
+
+Aspose.Email for C++ 23.8 is based on [Aspose.Email for .NET 23.7](/email/net/release-notes/2023/aspose-email-for-net-23-7-release-notes/).
+
+Aspose.Email for C++ does not support asyncronic features of e-mail protocols
+
+## **New Features**
+
+### **Effortlessly Delete Items from PST**
+
+We have added a new method, `DeleteItem(string entryId)`, to the [PersonalStorage](https://reference.aspose.com/email/net/aspose.email.storage.pst/personalstorage/) class. This method provides a way to delete items (folders or messages) from a **Personal Storage Table (PST)** using the unique `entryId` associated with the item.
+
+To delete an item from a PST, ensure that you have the appropriate `entryId` available for the item. Then, call the `DeleteItem` method and pass the `entryId` as a parameter.
+
+**Code Example:**
+
+```cpp
+auto pst = PersonalStorage::FromFile(u"sample.pst");
+
+// ...
+
+pst->DeleteItem(entryId);
+
+// ...
+```
+
+**Please Note:**
+
+- This method will permanently delete the item from the PST and cannot be undone. Exercise caution when using this method to avoid accidental data loss.
+- As per standard conventions, ensure that the entryId is valid and corresponds to an existing item within the PST. Otherwise, an exception will be thrown.
+- It is advisable to have a backup of the PST or implement suitable measures to recover deleted items if needed.
+
+### **Enhanced Event Handling and PST Splitting Functionality in PersonalStorage class**
+
+The additions enhance the functionality and flexibility of the [PersonalStorage](https://reference.aspose.com/email/net/aspose.email.storage.pst/personalstorage/) class, providing improved event handling and PST storage splitting capabilities.
+
+**API Changes:**
+
+- `event StorageProcessingEventHandler StorageProcessing`
+  The event has been added to the `PersonalStorage` class. It occurs before the storage is processed, specifically before processing the current storage in `MergeWith` or `SplitInto` methods. This event provides an opportunity to execute custom logic or handle certain operations before the storage processing occurs.
+- `class StorageProcessingEventArgs`
+  The class has been introduced to provide data for the `PersonalStorage.StorageProcessing` event. It contains the following member:
+  - `StorageProcessingEventArgs.FileName`
+    The FileName property allows you to retrieve the name of the PST file. For `MergeWith` method it will be a name of the current pst to be merged with the main one, and for `SplitInto` method it will be a name of the current part.
+- `SplitInto(long chunkSize, string partFileNamePrefix, string path)`
+  A new overload method, `SplitInto`, has been added to the `PersonalStorage` class. This method allows the splitting of the PST storage into smaller-sized parts. It takes the following parameters:
+  - **chunkSize**: The approximate size of each chunk in bytes.
+  - **partFileNamePrefix**: The prefix to be added to the filename of each part of the PST. If provided, the prefix will be added to the beginning of each file name. If not provided (null or empty), the PST parts will be created without a prefix.
+  - **path**: The folder path where the chunks will be created.
+
+  The filename of each part follows the template: `{prefix}part{number}.pst`, where `{prefix}` represents the filename prefix (if provided), and `{number}` represents the number of the chunk file.
+
+**Code Examples:**
+
+```cpp
+auto pst = PersonalStorage::FromFile(u"sample.pst");
+
+// ...
+auto callback = std::function<void(System::SharedPtr<System::Object>, System::SharedPtr<StorageProcessingEventArgs>>([](System::SharedPtr<System::Object> sender, System::SharedPtr<StorageProcessingEventArgs> args))
+{
+    Console.WriteLine(u"Storage processing event raised for file: " + args->get_FileName());
+});
+
+pst->StorageProcessing += callback;
+
+// ...
+
+pst->SplitInto(5000000, "prefix_", outputFolderPath);
+```
+
+**Please Note:**
+
+- Ensure that the path provided in the SplitInto method is valid and accessible. An ArgumentException will be thrown if the path parameter is null or empty.
+- Take into consideration the minimum size of a PST file when specifying the chunk size. If the chunk size is less than the minimum size of a PST file, an ArgumentException will be thrown.
+
+### **Enhanced Calendar Handling in CalendarReader Class**
+
+The new properties and a method in the public API of the [CalendarReader](https://reference.aspose.com/email/net/aspose.email.calendar/calendarreader/) class were added. These additions enhance the functionality of the this class, providing improved calendar event handling capabilities.
+
+**API Changes:**
+
+- `CalendarReader::get_Count()`
+  The Count property has been added to the `CalendarReader` class. It allows you to retrieve the number of Vevent components (events) present in the calendar, making it easier to track the total number of events.
+- `CalendarReader::get_IsMultiEvents()`
+  The property has been introduced to determine whether the calendar contains multiple events. This property provides a boolean value indicating whether the calendar contains more than one event, aiding in identifying calendars with single or multiple events.
+- `CalendarReader::get_Method()`
+  The Method property has been included to obtain the iCalendar method type associated with the calendar object. It returns the method type, such as "REQUEST," "PUBLISH," or "CANCEL," providing valuable insights into the purpose of the calendar.
+- `CalendarReader::get_Version()`
+  Gets the Version of iCalendar.
+- `CalendarReader::LoadAsMultiple()`
+  The method enables the loading of a list of events from a calendar containing multiple events. It returns a list of Appointment objects, allowing easy access and processing of each event individually.
+
+**Code Examples:**
+
+```cpp
+auto reader = System::MakeObject<CalendarReader>(fileName);
+Console::WriteLine(u"Calendar contains " + reader->get_Count() + " events");
+Console::WriteLine(u"The Version of the calendar is " + reader->get_Version());
+Console::WriteLine(u"The Method of the calendar is " + reader->get_Method());
+Console::WriteLine(u"Is calendar contains contains multiple events? - " + reader->get_IsMultiEvents());
+auto appointments = reader->LoadAsMultiple();
+```
+
+
+The full code of the examples can be found at **[Aspose Email for C++ GitHub examples repository](https://github.com/aspose-email/Aspose.Email-for-C).**

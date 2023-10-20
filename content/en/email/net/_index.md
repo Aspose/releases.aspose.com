@@ -2,6 +2,7 @@
 title: "Download C# .NET Library for Email Processing | Aspose.Email"
 description: "Download C# Class Library DLL to work with Microsoft Outlook® items, storage files, SMTP, POP3, IMAP, Exchange EWS, WebDav, Gmail, AMP HTML emails via .NET API."
 keywords: "POP3, IMAP, Exchange Server, Outlook"
+linktitle: "Aspose.Email for .NET"
 family_listing_page_title: "Aspose.Email for .NET"
 family_listing_page_description: "Aspose.Email for .NET is a complete set of Email Processing APIs to be used with .NET Framework, .NET Core & Xamarin platforms, enabling you to build cross-platform applications having the ability to create, manipulate, convert and transmit emails without using Microsoft Outlook."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net-min.png"
