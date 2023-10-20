@@ -1,21 +1,25 @@
 ---
-id: "aspose-ocr-for-java-latest-release-notes"
-slug: "latest"
-weight: 1
 date: "2023-10-18"
+id: "aspose-ocr-for-java-23-10-0-release-notes"
+slug: "aspose-ocr-for-java-23-10-0-release-notes"
+linktitle: "Aspose.OCR for Java 23.10.0 - Release Notes"
+title: "Aspose.OCR for Java 23.10.0 - Release Notes"
 author: "Vladimir Lapin"
+weight: 51
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for Java 23.10.0 (October 2023) release."
 type: "repository"
 feedback: "OCRJAVA"
 layout: "release"
-title: Latest release (October 2023)
-linktitle: "Latest release (October 2023)"
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OCR for Java.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OCR for Java 23.10.0 - Release Notes"
 keywords:
-- latest
-- patch
-- new
-- release
-- changelog
+- "2023"
+- "October"
+- "new"
+- "release"
+- "changelog"
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
