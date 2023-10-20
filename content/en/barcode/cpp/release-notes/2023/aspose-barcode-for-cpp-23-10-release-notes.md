@@ -59,173 +59,173 @@ This functionality is exclusively applicable to MicroPDF417 and is designed to e
 The following examples demonstrate the encoding of UCC/EAN-128 non-linked modes within the context of GS1 MicroPDF417.
 ```cpp
 //Encodes GS1 UCC/EAN-128 non Linked mode 905 with AI 01 (GTIN)
-System::SharedPtr&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt; generator = System::MakeObject&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt;(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(01)12345678901231");
-System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt; reader = System::MakeObject&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt;(generator-&gt;GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
-for (System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeResult&gt; result : reader-&gt;ReadBarCodes())
+System::SharedPtr<Aspose::BarCode::Generation::BarcodeGenerator> generator = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(01)12345678901231");
+System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeReader> reader = System::MakeObject<Aspose::BarCode::BarCodeRecognition::BarCodeReader>(generator->GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
+for (System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeResult> result : reader->ReadBarCodes())
 {
-    System::Console::WriteLine(result-&gt;get_CodeText());
+    System::Console::WriteLine(result->get_CodeText());
 }
 
 
 //Encodes GS1 UCC/EAN-128 non Linked modes 903, 904 with any AI
-System::SharedPtr&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt; generator = System::MakeObject&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt;(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(241)123456789012345(241)ABCD123456789012345");
-System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt; reader = System::MakeObject&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt;(generator-&gt;GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
+System::SharedPtr<Aspose::BarCode::Generation::BarcodeGenerator> generator = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(241)123456789012345(241)ABCD123456789012345");
+System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeReader> reader = System::MakeObject<Aspose::BarCode::BarCodeRecognition::BarCodeReader>(generator->GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
 
-for (System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeResult&gt; result : reader-&gt;ReadBarCodes())
+for (System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeResult> result : reader->ReadBarCodes())
 {
-    System::Console::WriteLine(result-&gt;get_CodeText());
+    System::Console::WriteLine(result->get_CodeText());
 }
 ```		
 The provided samples illustrate the encoding of Macro Characters in the MicroPDF417 format.
 ```cpp
-//Encodes MicroPdf417 with 05 Macro the string: "[)&gt;\u001E05\u001Dabcde1234\u001E\u0004"
-System::SharedPtr&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt; generator = System::MakeObject&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt;(Aspose::BarCode::Generation::EncodeTypes::MicroPdf417, u"abcde1234");
-generator-&gt;get_Parameters()-&gt;get_Barcode()-&gt;get_Pdf417()-&gt;set_MacroCharacters(Aspose::BarCode::Generation::MacroCharacter::Macro05);
-System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt; reader = System::MakeObject&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt;(generator-&gt;GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::MicroPdf417);
+//Encodes MicroPdf417 with 05 Macro the string: "[)>\u001E05\u001Dabcde1234\u001E\u0004"
+System::SharedPtr<Aspose::BarCode::Generation::BarcodeGenerator> generator = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(Aspose::BarCode::Generation::EncodeTypes::MicroPdf417, u"abcde1234");
+generator->get_Parameters()->get_Barcode()->get_Pdf417()->set_MacroCharacters(Aspose::BarCode::Generation::MacroCharacter::Macro05);
+System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeReader> reader = System::MakeObject<Aspose::BarCode::BarCodeRecognition::BarCodeReader>(generator->GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::MicroPdf417);
 
-for (System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeResult&gt; result : reader-&gt;ReadBarCodes())
+for (System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeResult> result : reader->ReadBarCodes())
 {
-    System::Console::WriteLine(result-&gt;get_CodeText());
+    System::Console::WriteLine(result->get_CodeText());
 }
 
-//Encodes MicroPdf417 with 06 Macro the string: "[)&gt;\u001E06\u001Dabcde1234\u001E\u0004"
+//Encodes MicroPdf417 with 06 Macro the string: "[)>\u001E06\u001Dabcde1234\u001E\u0004"
 BarcodeGenerator generator = new BarcodeGenerator(EncodeTypes.MicroPdf417, "abcde1234");
-System::SharedPtr&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt; generator = System::MakeObject&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt;(Aspose::BarCode::Generation::EncodeTypes::MicroPdf417, u"abcde1234");
-generator-&gt;get_Parameters()-&gt;get_Barcode()-&gt;get_Pdf417()-&gt;set_MacroCharacters(Aspose::BarCode::Generation::MacroCharacter::Macro06);
-System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt; reader = System::MakeObject&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt;(generator-&gt;GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::MicroPdf417);
+System::SharedPtr<Aspose::BarCode::Generation::BarcodeGenerator> generator = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(Aspose::BarCode::Generation::EncodeTypes::MicroPdf417, u"abcde1234");
+generator->get_Parameters()->get_Barcode()->get_Pdf417()->set_MacroCharacters(Aspose::BarCode::Generation::MacroCharacter::Macro06);
+System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeReader> reader = System::MakeObject<Aspose::BarCode::BarCodeRecognition::BarCodeReader>(generator->GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::MicroPdf417);
 
-for (System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeResult&gt; result : reader-&gt;ReadBarCodes())
+for (System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeResult> result : reader->ReadBarCodes())
 {
-    System::Console::WriteLine(result-&gt;get_CodeText());
+    System::Console::WriteLine(result->get_CodeText());
 }
 
 ```
 These samples demonstrate the encoding of "Linked" UCC/EAN-128 modes in GS1 MicroPDF417, as well as the usage of the Linkage Flag (918) within MicroPDF417 and PDF417 barcode formats.
 ```cpp
 //Encodes GS1 Linked mode 912 with date field AI 11 (Production date) and AI 10 (Lot number)
-System::SharedPtr&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt; generator = System::MakeObject&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt;(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(11)991231(10)ABCD");
-generator-&gt;get_Parameters()-&gt;get_Barcode()-&gt;get_Pdf417()-&gt;set_IsLinked(true);
-System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt; reader = System::MakeObject&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt;(generator-&gt;GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
+System::SharedPtr<Aspose::BarCode::Generation::BarcodeGenerator> generator = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(11)991231(10)ABCD");
+generator->get_Parameters()->get_Barcode()->get_Pdf417()->set_IsLinked(true);
+System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeReader> reader = System::MakeObject<Aspose::BarCode::BarCodeRecognition::BarCodeReader>(generator->GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
 
-for (System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeResult&gt; result : reader-&gt;ReadBarCodes())
+for (System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeResult> result : reader->ReadBarCodes())
 {
-    System::Console::WriteLine(result-&gt;get_CodeText() + u" IsLinked:" + System::Convert::ToString(result-&gt;get_Extended()-&gt;get_Pdf417()-&gt;get_IsLinked()));
+    System::Console::WriteLine(result->get_CodeText() + u" IsLinked:" + System::Convert::ToString(result->get_Extended()->get_Pdf417()->get_IsLinked()));
 }
 
 //Encodes GS1 Linked mode 912 with date field AI 13 (Packaging date) and AI 21 (Serial number)
-System::SharedPtr&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt; generator = System::MakeObject&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt;(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(13)991231(21)ABCD");
-generator-&gt;get_Parameters()-&gt;get_Barcode()-&gt;get_Pdf417()-&gt;set_IsLinked(true);
-System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt; reader = System::MakeObject&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt;(generator-&gt;GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
+System::SharedPtr<Aspose::BarCode::Generation::BarcodeGenerator> generator = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(13)991231(21)ABCD");
+generator->get_Parameters()->get_Barcode()->get_Pdf417()->set_IsLinked(true);
+System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeReader> reader = System::MakeObject<Aspose::BarCode::BarCodeRecognition::BarCodeReader>(generator->GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
 
-    for (System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeResult&gt; result : reader-&gt;ReadBarCodes())
+    for (System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeResult> result : reader->ReadBarCodes())
     {
-        System::Console::WriteLine(result-&gt;get_CodeText() + u" IsLinked:" + System::Convert::ToString(result-&gt;get_Extended()-&gt;get_Pdf417()-&gt;get_IsLinked()));
+        System::Console::WriteLine(result->get_CodeText() + u" IsLinked:" + System::Convert::ToString(result->get_Extended()->get_Pdf417()->get_IsLinked()));
     }
 
 
 //Encodes GS1 Linked mode 912 with date field AI 15 (Sell-by date) and AI 10 (Lot number)
-System::SharedPtr&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt; generator = System::MakeObject&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt;(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(15)991231(10)ABCD");
-generator-&gt;get_Parameters()-&gt;get_Barcode()-&gt;get_Pdf417()-&gt;set_IsLinked(true);
-System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt; reader = System::MakeObject&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt;(generator-&gt;GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
+System::SharedPtr<Aspose::BarCode::Generation::BarcodeGenerator> generator = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(15)991231(10)ABCD");
+generator->get_Parameters()->get_Barcode()->get_Pdf417()->set_IsLinked(true);
+System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeReader> reader = System::MakeObject<Aspose::BarCode::BarCodeRecognition::BarCodeReader>(generator->GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
 
-for (System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeResult&gt; result : reader-&gt;ReadBarCodes())
+for (System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeResult> result : reader->ReadBarCodes())
 {
-    System::Console::WriteLine(result-&gt;get_CodeText() + u" IsLinked:" + System::Convert::ToString(result-&gt;get_Extended()-&gt;get_Pdf417()-&gt;get_IsLinked()));
+    System::Console::WriteLine(result->get_CodeText() + u" IsLinked:" + System::Convert::ToString(result->get_Extended()->get_Pdf417()->get_IsLinked()));
 }
 
 
 //Encodes GS1 Linked mode 912 with date field AI 17 (Expiration date) and AI 21 (Serial number)
-System::SharedPtr&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt; generator = System::MakeObject&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt;(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(17)991231(21)ABCD");
-generator-&gt;get_Parameters()-&gt;get_Barcode()-&gt;get_Pdf417()-&gt;set_IsLinked(true);
-System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt; reader = System::MakeObject&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt;(generator-&gt;GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
+System::SharedPtr<Aspose::BarCode::Generation::BarcodeGenerator> generator = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(17)991231(21)ABCD");
+generator->get_Parameters()->get_Barcode()->get_Pdf417()->set_IsLinked(true);
+System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeReader> reader = System::MakeObject<Aspose::BarCode::BarCodeRecognition::BarCodeReader>(generator->GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
 
-for (System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeResult&gt; result : reader-&gt;ReadBarCodes())
+for (System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeResult> result : reader->ReadBarCodes())
 {
-    System::Console::WriteLine(result-&gt;get_CodeText() + u" IsLinked:" + System::Convert::ToString(result-&gt;get_Extended()-&gt;get_Pdf417()-&gt;get_IsLinked()));
+    System::Console::WriteLine(result->get_CodeText() + u" IsLinked:" + System::Convert::ToString(result->get_Extended()->get_Pdf417()->get_IsLinked()));
 }
 
 
 //Encodes GS1 Linked mode 914 with AI 10 (Lot number)
-System::SharedPtr&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt; generator = System::MakeObject&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt;(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(10)ABCD12345");
-generator-&gt;get_Parameters()-&gt;get_Barcode()-&gt;get_Pdf417()-&gt;set_IsLinked(true);
-System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt; reader = System::MakeObject&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt;(generator-&gt;GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
+System::SharedPtr<Aspose::BarCode::Generation::BarcodeGenerator> generator = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(10)ABCD12345");
+generator->get_Parameters()->get_Barcode()->get_Pdf417()->set_IsLinked(true);
+System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeReader> reader = System::MakeObject<Aspose::BarCode::BarCodeRecognition::BarCodeReader>(generator->GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
 
-for (System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeResult&gt; result : reader-&gt;ReadBarCodes())
+for (System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeResult> result : reader->ReadBarCodes())
 {
-    System::Console::WriteLine(result-&gt;get_CodeText() + u" IsLinked:" + System::Convert::ToString(result-&gt;get_Extended()-&gt;get_Pdf417()-&gt;get_IsLinked()));
+    System::Console::WriteLine(result->get_CodeText() + u" IsLinked:" + System::Convert::ToString(result->get_Extended()->get_Pdf417()->get_IsLinked()));
 }
 
 
 //Encodes GS1 Linked mode 915 with AI 21 (Serial number)
-System::SharedPtr&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt; generator = System::MakeObject&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt;(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(21)ABCD12345");
-generator-&gt;get_Parameters()-&gt;get_Barcode()-&gt;get_Pdf417()-&gt;set_IsLinked(true);
-System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt; reader = System::MakeObject&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt;(generator-&gt;GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
+System::SharedPtr<Aspose::BarCode::Generation::BarcodeGenerator> generator = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(21)ABCD12345");
+generator->get_Parameters()->get_Barcode()->get_Pdf417()->set_IsLinked(true);
+System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeReader> reader = System::MakeObject<Aspose::BarCode::BarCodeRecognition::BarCodeReader>(generator->GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
 
-for (System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeResult&gt; result : reader-&gt;ReadBarCodes())
+for (System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeResult> result : reader->ReadBarCodes())
 {
-    System::Console::WriteLine(result-&gt;get_CodeText() + u" IsLinked:" + System::Convert::ToString(result-&gt;get_Extended()-&gt;get_Pdf417()-&gt;get_IsLinked()));
+    System::Console::WriteLine(result->get_CodeText() + u" IsLinked:" + System::Convert::ToString(result->get_Extended()->get_Pdf417()->get_IsLinked()));
 }
 
 //Encodes GS1 Linked modes 906, 907 with any AI
-System::SharedPtr&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt; generator = System::MakeObject&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt;(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(240)123456789012345");
-generator-&gt;get_Parameters()-&gt;get_Barcode()-&gt;get_Pdf417()-&gt;set_IsLinked(true);
-System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt; reader = System::MakeObject&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt;(generator-&gt;GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
+System::SharedPtr<Aspose::BarCode::Generation::BarcodeGenerator> generator = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(Aspose::BarCode::Generation::EncodeTypes::GS1MicroPdf417, u"(240)123456789012345");
+generator->get_Parameters()->get_Barcode()->get_Pdf417()->set_IsLinked(true);
+System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeReader> reader = System::MakeObject<Aspose::BarCode::BarCodeRecognition::BarCodeReader>(generator->GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::GS1MicroPdf417);
 
-for (System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeResult&gt; result : reader-&gt;ReadBarCodes())
+for (System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeResult> result : reader->ReadBarCodes())
 {
-    System::Console::WriteLine(result-&gt;get_CodeText() + u" IsLinked:" + System::Convert::ToString(result-&gt;get_Extended()-&gt;get_Pdf417()-&gt;get_IsLinked()));
+    System::Console::WriteLine(result->get_CodeText() + u" IsLinked:" + System::Convert::ToString(result->get_Extended()->get_Pdf417()->get_IsLinked()));
 }
 
 
 //Encodes MicroPdf417 NON EAN.UCC Linked mode 918
-System::SharedPtr&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt; generator = System::MakeObject&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt;(Aspose::BarCode::Generation::EncodeTypes::MicroPdf417, u"ABCDE123456789012345678");
-generator-&gt;get_Parameters()-&gt;get_Barcode()-&gt;get_Pdf417()-&gt;set_IsLinked(true);
-System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt; reader = System::MakeObject&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt;(generator-&gt;GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::MicroPdf417);
+System::SharedPtr<Aspose::BarCode::Generation::BarcodeGenerator> generator = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(Aspose::BarCode::Generation::EncodeTypes::MicroPdf417, u"ABCDE123456789012345678");
+generator->get_Parameters()->get_Barcode()->get_Pdf417()->set_IsLinked(true);
+System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeReader> reader = System::MakeObject<Aspose::BarCode::BarCodeRecognition::BarCodeReader>(generator->GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::MicroPdf417);
 
-for (System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeResult&gt; result : reader-&gt;ReadBarCodes())
+for (System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeResult> result : reader->ReadBarCodes())
 {
-    System::Console::WriteLine(result-&gt;get_CodeText() + u" IsLinked:" + System::Convert::ToString(result-&gt;get_Extended()-&gt;get_Pdf417()-&gt;get_IsLinked()));
+    System::Console::WriteLine(result->get_CodeText() + u" IsLinked:" + System::Convert::ToString(result->get_Extended()->get_Pdf417()->get_IsLinked()));
 }
 
 //Encodes Pdf417 NON EAN.UCC Linked mode 918
-System::SharedPtr&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt; generator = System::MakeObject&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt;(Aspose::BarCode::Generation::EncodeTypes::Pdf417, u"ABCDE123456789012345678");
-generator-&gt;get_Parameters()-&gt;get_Barcode()-&gt;get_Pdf417()-&gt;set_IsLinked(true);
-System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt; reader = System::MakeObject&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt;(generator-&gt;GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::Pdf417);
+System::SharedPtr<Aspose::BarCode::Generation::BarcodeGenerator> generator = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(Aspose::BarCode::Generation::EncodeTypes::Pdf417, u"ABCDE123456789012345678");
+generator->get_Parameters()->get_Barcode()->get_Pdf417()->set_IsLinked(true);
+System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeReader> reader = System::MakeObject<Aspose::BarCode::BarCodeRecognition::BarCodeReader>(generator->GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::Pdf417);
 
-for (System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeResult&gt; result : reader-&gt;ReadBarCodes())
+for (System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeResult> result : reader->ReadBarCodes())
 {
-    System::Console::WriteLine(result-&gt;get_CodeText() + u" IsLinked:" + System::Convert::ToString(result-&gt;get_Extended()-&gt;get_Pdf417()-&gt;get_IsLinked()));
+    System::Console::WriteLine(result->get_CodeText() + u" IsLinked:" + System::Convert::ToString(result->get_Extended()->get_Pdf417()->get_IsLinked()));
 }
 ```
 The following samples illustrate the encoding of Code 128 emulation modes, both with FNC1 in the second position and without. This approach allows MicroPDF417 to be decoded as a Code 128 barcode.
 ```cpp
 //Encodes MicroPdf417 in Code 128 emulation mode with FNC1 in second position and Application Indicator "a", mode 908.
-System::SharedPtr&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt; generator = System::MakeObject&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt;(Aspose::BarCode::Generation::EncodeTypes::MicroPdf417, u"a\u001d1222322323");
-generator-&gt;get_Parameters()-&gt;get_Barcode()-&gt;get_Pdf417()-&gt;set_IsCode128Emulation(true);
-System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt; reader = System::MakeObject&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt;(generator-&gt;GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::MicroPdf417);
+System::SharedPtr<Aspose::BarCode::Generation::BarcodeGenerator> generator = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(Aspose::BarCode::Generation::EncodeTypes::MicroPdf417, u"a\u001d1222322323");
+generator->get_Parameters()->get_Barcode()->get_Pdf417()->set_IsCode128Emulation(true);
+System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeReader> reader = System::MakeObject<Aspose::BarCode::BarCodeRecognition::BarCodeReader>(generator->GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::MicroPdf417);
 
-for (System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeResult&gt; result : reader-&gt;ReadBarCodes())
+for (System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeResult> result : reader->ReadBarCodes())
 {
-    System::Console::WriteLine(result-&gt;get_CodeText() + u" IsCode128Emulation:" + System::Convert::ToString(result-&gt;get_Extended()-&gt;get_Pdf417()-&gt;get_IsCode128Emulation()));
+    System::Console::WriteLine(result->get_CodeText() + u" IsCode128Emulation:" + System::Convert::ToString(result->get_Extended()->get_Pdf417()->get_IsCode128Emulation()));
 }
 
 //Encodes MicroPdf417 in Code 128 emulation mode with FNC1 in second position and Application Indicator "99", mode 909.
-System::SharedPtr&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt; generator = System::MakeObject&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt;(Aspose::BarCode::Generation::EncodeTypes::MicroPdf417, u"99\u001d1222322323");
-generator-&gt;get_Parameters()-&gt;get_Barcode()-&gt;get_Pdf417()-&gt;set_IsCode128Emulation(true);
-System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt; reader = System::MakeObject&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt;(generator-&gt;GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::MicroPdf417);
+System::SharedPtr<Aspose::BarCode::Generation::BarcodeGenerator> generator = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(Aspose::BarCode::Generation::EncodeTypes::MicroPdf417, u"99\u001d1222322323");
+generator->get_Parameters()->get_Barcode()->get_Pdf417()->set_IsCode128Emulation(true);
+System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeReader> reader = System::MakeObject<Aspose::BarCode::BarCodeRecognition::BarCodeReader>(generator->GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::MicroPdf417);
 
-for (System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeResult&gt; result : reader-&gt;ReadBarCodes())
+for (System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeResult> result : reader->ReadBarCodes())
 {
-    System::Console::WriteLine(result-&gt;get_CodeText() + u" IsCode128Emulation:" + System::Convert::ToString(result-&gt;get_Extended()-&gt;get_Pdf417()-&gt;get_IsCode128Emulation()));
+    System::Console::WriteLine(result->get_CodeText() + u" IsCode128Emulation:" + System::Convert::ToString(result->get_Extended()->get_Pdf417()->get_IsCode128Emulation()));
 }
 
 //Encodes MicroPdf417 in Code 128 emulation mode, modes 910, 911
-System::SharedPtr&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt; generator = System::MakeObject&lt;Aspose::BarCode::Generation::BarcodeGenerator&gt;(Aspose::BarCode::Generation::EncodeTypes::MicroPdf417, u"123456789012345678");
-generator-&gt;get_Parameters()-&gt;get_Barcode()-&gt;get_Pdf417()-&gt;set_IsCode128Emulation(true);
-System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt; reader = System::MakeObject&lt;Aspose::BarCode::BarCodeRecognition::BarCodeReader&gt;(generator-&gt;GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::MicroPdf417);
+System::SharedPtr<Aspose::BarCode::Generation::BarcodeGenerator> generator = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(Aspose::BarCode::Generation::EncodeTypes::MicroPdf417, u"123456789012345678");
+generator->get_Parameters()->get_Barcode()->get_Pdf417()->set_IsCode128Emulation(true);
+System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeReader> reader = System::MakeObject<Aspose::BarCode::BarCodeRecognition::BarCodeReader>(generator->GenerateBarCodeImage(), Aspose::BarCode::BarCodeRecognition::DecodeType::MicroPdf417);
 
-for (System::SharedPtr&lt;Aspose::BarCode::BarCodeRecognition::BarCodeResult&gt; result : reader-&gt;ReadBarCodes())
+for (System::SharedPtr<Aspose::BarCode::BarCodeRecognition::BarCodeResult> result : reader->ReadBarCodes())
 {
-    System::Console::WriteLine(result-&gt;get_CodeText() + u" IsCode128Emulation:" + System::Convert::ToString(result-&gt;get_Extended()-&gt;get_Pdf417()-&gt;get_IsCode128Emulation()));
+    System::Console::WriteLine(result->get_CodeText() + u" IsCode128Emulation:" + System::Convert::ToString(result->get_Extended()->get_Pdf417()->get_IsCode128Emulation()));
 }
 ```
