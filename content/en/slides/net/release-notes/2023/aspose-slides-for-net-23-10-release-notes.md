@@ -22,7 +22,6 @@ This page contains release notes for [ Aspose.Slides for .NET 23.10](https://www
 |SLIDESNET-44057|ODP 3D charts support|Feature|<https://docs.aspose.com/slides/net/convert-odp-to-pptx/>
 |SLIDESNET-44020|Getting the number of lines of a paragraph|Feature|<https://docs.aspose.com/slides/net/paragraph/>
 |SLIDESNET-44109|An image is blurred when converting PPTX to PDF|Enhancement|< https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>
-|SLIDESNET-43994|Using Aspose.Slides on Linux container with .NET Core does not release memory|Enhancement|
 |SLIDESNET-43931|Images are distorted when saved as TIFF images.|Enhancement|<https://docs.aspose.com/slides/net/convert-powerpoint-to-tiff/>
 |SLIDESNET-44213|Animations grouped after resaving PPTX|Bug|<https://docs.aspose.com/slides/net/powerpoint-animation/>
 |SLIDESNET-44194|PPTX to JPG: Content not rendered|Bug|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>
