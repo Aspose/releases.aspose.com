@@ -14,9 +14,12 @@ menuItemWithNoContent: false
 ---
 
 ## Aspose.TeX 23.10 for .NET has been released!
+
+Aspose.TeX for .NET plugins has been created.
+
 | Key | Summary | Category |
 |---|---|---|
-| TEXNET-271 | TEXNET-271 Implement the mixed direction typesetting as part of the *eTeX* extension | Enhancement |
+| TEXNET-271 | Implement the mixed direction typesetting as part of the *eTeX* extension | Enhancement |
 | TEXNET-276 | Create plugins | Enhancement |
 | TEXNET-283 | Implement testing for errors occurred along a TeX file processing | Enhancement |
 
