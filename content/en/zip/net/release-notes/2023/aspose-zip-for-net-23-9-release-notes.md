@@ -22,7 +22,7 @@ This page contains release notes information for [Aspose.ZIP for .NET 23.9](http
 
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
-|ZIPNET-400|Oprionally compress 7z header.|Feature|
+|ZIPNET-400|Optionally compress 7z header.|Feature|
 |ZIPNET-1074|Limit the length of zip comment.|Bug|
 |ZIPNET-1071|Proper license setting.|Bug|
 
