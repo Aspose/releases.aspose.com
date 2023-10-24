@@ -209,7 +209,7 @@ public Color BaseForeColor
 **Use Case**
 
 This use case explains how to get foreground color without modifiers in **Fill** and **Stroke** classes:
-{{< gist "aspose-words-gists" "3428e84add5beb0d46a8face6e5fc858" "fill-base-color.cs" >}}
+{{< gist "aspose-words-gists" "6d898be16b796fcf7448ad3bfe18e51c" "fill-base-color.java" >}}
 {{% /alert %}}
 
 ### Added generic type parameter to CompositeNode's class methods
@@ -306,10 +306,10 @@ namespace Aspose.Words.Drawing.Charts
 **Use Case**
 
 This use case explains how to copy data point format:
-{{< gist "aspose-words-gists" "3428e84add5beb0d46a8face6e5fc858" "copy-data-point-format.cs" >}}
+{{< gist "aspose-words-gists" "6d898be16b796fcf7448ad3bfe18e51c" "copy-data-point-format.java" >}}
 
 This use case explains how to reset data point fill:
-{{< gist "aspose-words-gists" "3428e84add5beb0d46a8face6e5fc858" "reset-data-point-fill.cs" >}}
+{{< gist "aspose-words-gists" "6d898be16b796fcf7448ad3bfe18e51c" "reset-data-point-fill.java" >}}
 
 {{% /alert %}}
 
@@ -329,7 +329,7 @@ public void FitImageToShape()
 **Use Case**
 
 This use case explains how to work with **ImageData.FitImageToShape()**:
-{{< gist "aspose-words-gists" "3428e84add5beb0d46a8face6e5fc858" "fit-image-to-shape.cs" >}}
+{{< gist "aspose-words-gists" "6d898be16b796fcf7448ad3bfe18e51c" "fit-image-to-shape.java" >}}
 {{% /alert %}}
 
 ### Added public method DocumentBuilder.InsertDocumentInline
@@ -365,7 +365,7 @@ public Node InsertDocumentInline(Document srcDoc, ImportFormatMode importFormatM
 **Use Case**
 
 This use case explains how to insert one document into another inline:
-{{< gist "aspose-words-gists" "3428e84add5beb0d46a8face6e5fc858" "insert-document-inline.cs" >}}
+{{< gist "aspose-words-gists" "6d898be16b796fcf7448ad3bfe18e51c" "insert-document-inline.java" >}}
 {{% /alert %}}
 
 ### Added public properties ChartTitle.Font and ChartAxisTitle.Font
@@ -404,8 +404,8 @@ namespace Aspose.Words.Drawing.Charts
 **Use Case**
 
 This use cases explain how to set font properties for chart and axis titles:
-{{< gist "aspose-words-gists" "3428e84add5beb0d46a8face6e5fc858" "chart-axis-title.cs" >}}
-{{< gist "aspose-words-gists" "3428e84add5beb0d46a8face6e5fc858" "chart-title.cs" >}}
+{{< gist "aspose-words-gists" "6d898be16b796fcf7448ad3bfe18e51c" "chart-axis-title.java" >}}
+{{< gist "aspose-words-gists" "6d898be16b796fcf7448ad3bfe18e51c" "chart-title.java" >}}
 {{% /alert %}}
 
 ### Added public property Style.Locked
@@ -424,7 +424,7 @@ public bool Locked { get; set; }
 **Use Case**
 
 This use case explains how to get and set **Locked** property of a **Style**:
-{{< gist "aspose-words-gists" "3428e84add5beb0d46a8face6e5fc858" "lock-style.cs" >}}
+{{< gist "aspose-words-gists" "6d898be16b796fcf7448ad3bfe18e51c" "lock-style.java" >}}
 {{% /alert %}}
 
 ### Added public property TxtLoadOptions.DetectHyperlinks
@@ -444,5 +444,5 @@ public bool DetectHyperlinks { get; set; }
 **Use Case**
 
 This use case explains how to recognize hyperlinks when loading TXT documents:
-{{< gist "aspose-words-gists" "3428e84add5beb0d46a8face6e5fc858" "detect-hyperlinks.cs" >}}
+{{< gist "aspose-words-gists" "6d898be16b796fcf7448ad3bfe18e51c" "detect-hyperlinks.java" >}}
 {{% /alert %}}
