@@ -22,7 +22,7 @@ weight:  3
 Ανοιξε
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Email.Cpp/" text="NuGet"  >}}Διαχειριστής πακέτων στο Microsoft Visual Studio®, αναζητήστε το <b>Aspose.Email.Cpp</b> και εγκαταστήστε το. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή στην Κονσόλα Package Manager. Για αναλυτικές οδηγίες, επισκεφθείτε το
 {{< Common/link href="https://docs.aspose.com/email/cpp/installation/" text="Εγκατάσταση"  >}}σελίδα τεκμηρίωσης.
-{{< Common/release-notes-link family="email" product="cpp" href="https://docs.aspose.com/email/cpp/release-notes/" text="https://docs.aspose.com/email/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="email" product="cpp" href="https://releases.aspose.com/email/cpp/release-notes/" text="https://releases.aspose.com/email/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

@@ -21,7 +21,7 @@ weight: 4
 La API de Android permite a los desarrolladores de software diseñar aplicaciones de Android con la capacidad de administrar y manipular mensajes de correo electrónico sin perderse en las complejidades de la implementación del formato de archivo de Microsoft Outlook®.
 Puede usar fácilmente Aspose.Email para Java directamente desde un
 {{< Common/link href="https://repository.aspose.com/email/" text="Experto"  >}}proyecto basado agregando las siguientes configuraciones a build.gradle.
-{{< Common/release-notes-link family="email" product="jandroidjavaava" href="https://docs.aspose.com/email/java/android-via-java-release-notes/" text="https://docs.aspose.com/email/java/android-via-java-release-notes/"  >}} 
+{{< Common/release-notes-link family="email" product="jandroidjavaava" href="https://releases.aspose.com/email/androidjava/release-notes/" text="https://releases.aspose.com/email/androidjava/release-notes/"  >}} 
 {{< /Common/paragraph>}}
 
 {{< consolebox/consoleboxwrapper id="repository" >}}

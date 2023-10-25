@@ -72,7 +72,7 @@ weight: 02	#rem
 tags: ["Aspose Total", "Aspose Email", "Aspose Java API", "email java library", "email java class", "MSG", "PST", "OST", "OFT", "OLM", "EML", "EMLX", "MBOX", "ICS", "VCF", "HTML", "MHTML", "mail", "electronic mail", "import email", "export email", "mail merge", "email embedded object", "email attachment", "email calendar", "email utility", "mime", "email mime", "email parsing", "pop3", "email pop3", "exchange", "email exchange", "imap", "email imap", "email validation", "icalendar", "protocols", "email protocols", "RFC822", "bulk mail", "email parsing", "parse emails", "APOP", "RFC2195", "RFC283", "exchange server", "RFC2831", "RFC2595", "email authentication", "RFC2445", "http"]
 forumLink: https://forum.aspose.com/c/email/12
 productLink: https://products.aspose.com/email/java/
-releaseNotesLink: https://docs.aspose.com/email/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/email/java/release-notes/
 dataFolder: aspose_email
 packages_refs:
 - "22-11"

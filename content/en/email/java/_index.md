@@ -72,7 +72,7 @@ tags: ["Aspose Total", "Aspose Email", "Aspose Java API", "email java library", 
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/email/12
 productLink: https://products.aspose.com/email/java/
-releaseNotesLink: https://docs.aspose.com/email/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/email/java/release-notes/
 dataFolder: aspose_email
 packages_refs:
 - "23-9"

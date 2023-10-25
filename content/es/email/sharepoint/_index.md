@@ -31,7 +31,7 @@ para realizar la conversión de correo electrónico, la sincronización de la bi
 {{< Common/link href="https://products.aspose.app/email/metadata" text="Aplicación gratuita de metadatos de correo electrónico para ver y editar metadatos de correo electrónico"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="email" product="sharepoint" href="https://docs.aspose.com/email/sharepoint/" text="https://docs.aspose.com/email/sharepoint/"  >}}
+{{< Common/release-notes-link family="email" product="sharepoint" href="https://releases.aspose.com/email/sharepoint/release-notes/" text="https://releases.aspose.com/email/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

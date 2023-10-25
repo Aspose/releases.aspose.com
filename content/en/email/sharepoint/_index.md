@@ -28,7 +28,7 @@ to perform email conversion, document library synchronization, and email synchro
 {{< Common/li >}} {{< Common/link href="https://products.aspose.app/email/metadata" text="Free Email Metadata App to view and edit email metadata"  >}} {{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="email" product="sharepoint" href="https://docs.aspose.com/email/sharepoint/" text="https://docs.aspose.com/email/sharepoint/"  >}}
+{{< Common/release-notes-link family="email" product="sharepoint" href="https://releases.aspose.com/email/sharepoint/release-notes/" text="https://releases.aspose.com/email/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

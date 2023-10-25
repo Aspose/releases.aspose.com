@@ -21,7 +21,7 @@ weight:  6
 {{< Common/paragraph class="package-instructions">}}
 Χρησιμοποιήστε τα παρακάτω
 {{< Common/link href="https://pypi.org/project/Aspose.Email-for-Python-via-NET/" text="κουκούτσι"  >}}εντολή:
-{{< Common/release-notes-link family="email" product="pythonnet" href="https://docs.aspose.com/email/python-net/release-notes/" text="https://docs.aspose.com/email/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="email" product="pythonnet" href="https://releases.aspose.com/email/pythonnet/release-notes/" text="https://releases.aspose.com/email/pythonnet/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}

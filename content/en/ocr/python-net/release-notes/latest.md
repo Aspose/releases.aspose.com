@@ -2,7 +2,7 @@
 id: "aspose-ocr-for-python-net-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2023-10-13"
+date: "2023-10-24"
 author: "Vladimir Lapin"
 type: "repository"
 layout: "release"
@@ -17,7 +17,7 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Python via .NET 23.10.0 (October 2023)** release.
+This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Python via .NET 23.10.1 (October 2023)** release.
 {{% /alert %}}
 
 ## What was changed
@@ -25,10 +25,11 @@ This article contains a summary of recent changes, enhancements and bug fixes in
 Key | Summary | Category
 --- | ------- | --------
 OCRPY&#8209;43 | Added a specialized recognition model for extracting content from street photos and other images with sparse text and noisy/colored backgrounds. | New feature
+n/a | Improved matching of the text overlay to the original (background) image in [searchable PDF documents](https://docs.aspose.com/ocr/python-net/save-searchable-pdf/). | Enhancement
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for Python via .NET 23.10.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for Python via .NET 23.10.1** that may affect the code of existing applications.
 
 ### Added public APIs:
 
@@ -48,6 +49,7 @@ Extract content from images with sparse text and noisy/colored backgrounds. This
 {{% alert color="caution" %}}
 **Important considerations:**
 
+- You must [install](https://docs.aspose.com/ocr/python-net/installation/) **aspose-ocr-models-textinwild-python-net** package in order to use this method.
 - The method only supports Latin letters and numbers.
 - This method does not support recognition settings.
 {{% /alert %}}
@@ -59,6 +61,7 @@ A new [areas detection algorithm](https://docs.aspose.com/ocr/python-net/areas-d
 {{% alert color="caution" %}}
 **Important considerations:**
 
+- You must [install](https://docs.aspose.com/ocr/python-net/installation/) **aspose-ocr-models-textinwild-python-net** package in order to use this areas detection algorithm.
 - This areas detection algorithm only works with Latin letters and numbers.
 - It is not recommended to use this algorithm for parsing structured texts. Use [`DetectAreasMode.DOCUMENT`](https://docs.aspose.com/ocr/python-net/areas-detection/document/), [`DetectAreasMode.PHOTO`](https://docs.aspose.com/ocr/python-net/areas-detection/photo/), [`DetectAreasMode.COMBINE`](https://docs.aspose.com/ocr/python-net/areas-detection/combine/) or [`DetectAreasMode.TABLE`](https://docs.aspose.com/ocr/python-net/areas-detection/table/) instead, depending on the content type.
 {{% /alert %}}
@@ -101,7 +104,7 @@ input.add("source.png")
 recognitionSettings = RecognitionSettings()
 recognitionSettings.detect_areas_mode = DetectAreasMode.TEXT_IN_WILD
 # Recognize the image
-result = api.recognize(input, recognitionSettings)
+results = api.recognize(input, recognitionSettings)
 # Print recognition result
-print(result[0].recognition_text)
+print(results[0].recognition_text)
 ```
