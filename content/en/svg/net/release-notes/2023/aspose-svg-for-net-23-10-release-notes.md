@@ -99,8 +99,6 @@ As part of our ongoing monthly update process for all APIs offered by Aspose, we
 
 ### **Changed APIs:**
 
-### Changed APIs
-
 **Namespace: Aspose.Svg.Collections**
 
 - **Class: NamedNodeMap**
