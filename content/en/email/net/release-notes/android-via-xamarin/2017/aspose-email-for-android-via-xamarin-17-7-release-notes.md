@@ -3,7 +3,7 @@ id: "aspose-email-for-android-via-xamarin-17-7-release-notes"
 slug: "aspose-email-for-android-via-xamarin-17-7-release-notes"
 linktitle: "Aspose.Email for Android via Xamarin 17.7 Release Notes"
 title: "Aspose.Email for Android via Xamarin 17.7 Release Notes"
-weight: 30
+weight: 40
 description: "Aspose.Email for Android via Xamarin 17.7 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
