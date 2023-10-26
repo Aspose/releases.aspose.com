@@ -32,7 +32,7 @@ Key | Summary | Category
 --- | ------- | --------
 OMRNET&#8209;33 | The number of bubbles in the answer sheet is now calculated correctly. | Fix
 OMRNET&#8209;76 | Resolved [CVE-2022-25647](https://nvd.nist.gov/vuln/detail/CVE-2022-25647) vulnerability in _com.google.code.gson:gson_ that may lead to availability attacks. | Fix
-n/a | Fixed licensing issues that prevented the product from working in free tier mode (without providing a license file). | Fix
+OMRNET&#8209;80 | Fixed licensing issues that prevented the product from working in free tier mode (without providing a license file). | Fix
 
 ## Public API changes and backwards compatibility
 
