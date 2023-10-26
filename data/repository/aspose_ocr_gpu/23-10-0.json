@@ -1,19 +1,19 @@
 {
   "groupId" : "com.aspose",
-  "artifactId" : "aspose-ocr",
+  "artifactId" : "aspose-ocr-gpu",
   "id" : "23-10-0",
   "packageFiles" : [ {
-    "size" : "293 KB",
-    "name" : "aspose-ocr-23.10.0-javadoc.jar",
+    "size" : "295 KB",
+    "name" : "aspose-ocr-gpu-23.10.0-javadoc.jar",
     "classifier" : "javadoc"
   }, {
     "size" : "270 MB",
-    "name" : "aspose-ocr-23.10.0.jar"
+    "name" : "aspose-ocr-gpu-23.10.0.jar"
   }, {
     "size" : "1 KB",
-    "name" : "aspose-ocr-23.10.0.pom"
+    "name" : "aspose-ocr-gpu-23.10.0.pom"
   } ],
-  "releasehDate" : "2023-10-19T21:03:20+00:00",
+  "releasehDate" : "2023-10-26T13:17:56+00:00",
   "version" : "23.10.0",
   "ReleaseNotes" : "https://releases.aspose.com/ocr/java/release-notes/2023/aspose-ocr-for-java-23-10-0-release-notes/"
 }

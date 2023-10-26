@@ -1,17 +1,17 @@
 {
   "groupId" : "com.aspose",
-  "artifactId" : "aspose-ocr",
+  "artifactId" : "aspose-ocr-gpu",
   "id" : "20-10",
   "packageFiles" : [ {
     "size" : "52.75 KB",
-    "name" : "aspose-ocr-20.10-javadoc.jar",
+    "name" : "aspose-ocr-gpu-20.10-javadoc.jar",
     "classifier" : "javadoc"
   }, {
     "size" : "191.72 MB",
-    "name" : "aspose-ocr-20.10.jar"
+    "name" : "aspose-ocr-gpu-20.10.jar"
   }, {
     "size" : "1.59 KB",
-    "name" : "aspose-ocr-20.10.pom"
+    "name" : "aspose-ocr-gpu-20.10.pom"
   } ],
   "releasehDate" : "2020-10-23T00:00:00+00:00",
   "version" : "20.10",
