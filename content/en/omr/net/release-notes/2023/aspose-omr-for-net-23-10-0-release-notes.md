@@ -1,19 +1,25 @@
 ---
-id: "aspose-omr-for-net-latest-release-notes"
-slug: "latest"
-weight: 1
 date: "2023-10-24"
 author: "Vladimir Lapin"
+id: "aspose-omr-for-net-23-10-0-release-notes"
+slug: "aspose-omr-for-net-23-10-0-release-notes"
+linktitle: "Aspose.OMR for .NET 23.10.0 - Release Notes"
+title: "Aspose.OMR for .NET 23.10.0 - Release Notes"
+weight: 31
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET 23.10.0 (October 2023) release."
 type: "repository"
+feedback: "OMRNET"
 layout: "release"
-feedback: OMRNET
-title: Latest release (October 2023)
-description: A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET 23.10.0 (October 2023) release.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OMR for .NET 23.10.0 - Release Notes"
 keywords:
-- latest
+- "2023"
+- October
 - new
 - release
 - changelog
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}

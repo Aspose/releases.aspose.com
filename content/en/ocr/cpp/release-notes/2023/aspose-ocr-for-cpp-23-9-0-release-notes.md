@@ -15,7 +15,7 @@ toc: false
 family_listing_page_title: "Aspose.OCR for C++ 23.9.0 - Release Notes"
 keywords:
 - "2023"
-- "August"
+- "September"
 - "new"
 - "release"
 - "changelog"
@@ -45,7 +45,7 @@ OCRCPP&#8209;513 | Automatic detection of noisy areas of the image where charact
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for C++ 23.8.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for C++ 23.9.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 
