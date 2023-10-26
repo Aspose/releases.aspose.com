@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-ocr",
+  "id" : "21-2",
+  "packageFiles" : [ {
+    "size" : "95.17 KB",
+    "name" : "aspose-ocr-21.2-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "196.84 MB",
+    "name" : "aspose-ocr-21.2.jar"
+  }, {
+    "size" : "1.62 KB",
+    "name" : "aspose-ocr-21.2.pom"
+  } ],
+  "releasehDate" : "2021-07-25T00:00:00+00:00",
+  "version" : "21.2",
+  "ReleaseNotes" : "https://releases.aspose.com/ocr/java/release-notes/2021/aspose-ocr-for-java-21-2-release-notes/"
+}
