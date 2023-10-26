@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-ocr-gpu",
+  "id" : "21-4",
+  "packageFiles" : [ {
+    "size" : "92.22 KB",
+    "name" : "aspose-ocr-gpu-21.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "201.85 MB",
+    "name" : "aspose-ocr-gpu-21.4.jar"
+  }, {
+    "size" : "1.45 KB",
+    "name" : "aspose-ocr-gpu-21.4.pom"
+  } ],
+  "releasehDate" : "2021-07-25T00:00:00+00:00",
+  "version" : "21.4",
+  "ReleaseNotes" : "https://releases.aspose.com/ocr/java/release-notes/2021/aspose-ocr-for-java-21-4-release-notes/"
+}
