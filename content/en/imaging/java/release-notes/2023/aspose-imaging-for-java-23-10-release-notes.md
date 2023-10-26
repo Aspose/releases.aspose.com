@@ -13,6 +13,8 @@ family_listing_page_title: "Aspose.Imaging for Java 23.10 - Release notes"
 menuItemWithNoContent: false
 ---
 
+Improvement: Reduced the size of library by 2 Mb.
+
 ## Competitive features:
 
 - **Improving EPS graphics rendering : Eps -> svg: System.ApplicationException: Unknown name ‘gcheck'**
