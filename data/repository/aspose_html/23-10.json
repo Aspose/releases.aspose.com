@@ -1,5 +1,6 @@
 {
   "groupId" : "com.aspose",
+  "classifier" : "jdk17",
   "artifactId" : "aspose-html",
   "id" : "23-10",
   "packageFiles" : [ {
@@ -10,6 +11,10 @@
     "size" : "37 MB",
     "name" : "aspose-html-23.10-jdk11.jar",
     "classifier" : "jdk11"
+  }, {
+    "size" : "37 MB",
+    "name" : "aspose-html-23.10-jdk17.jar",
+    "classifier" : "jdk17"
   }, {
     "size" : "395 bytes",
     "name" : "aspose-html-23.10.pom"
