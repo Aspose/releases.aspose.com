@@ -20,7 +20,7 @@ keywords:
 {{% alert color="primary" %}}
 This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OCR for .NET 23.10.1 (October 2023)**](https://www.nuget.org/packages/Aspose.OCR/23.10.1) release.
 
-GPU version: **23.10.0**
+GPU version: **23.10.1**
 {{% /alert %}}
 
 ## Deprecation warning
