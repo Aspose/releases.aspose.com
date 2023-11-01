@@ -77,6 +77,7 @@ productLink: https://products.aspose.com/3d/java/
 releaseNotesLink: https://docs.aspose.com/3d/java/release-notes/
 dataFolder: aspose_3d
 packages_refs:
+- "23-10-0"
 - "23-9-0"
 - "23-8-0"
 - "23-7-0"
