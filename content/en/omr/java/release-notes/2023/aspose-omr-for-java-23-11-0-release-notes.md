@@ -1,21 +1,21 @@
 ---
-date: "2023-10-26"
-id: "aspose-omr-for-java-23-10-0-release-notes"
-slug: "aspose-omr-for-java-23-10-0-release-notes"
-linktitle: "Aspose.OMR for Java 23.10.0 - Release Notes"
-title: "Aspose.OMR for Java 23.10.0 - Release Notes"
+date: "2023-11-02"
+id: "aspose-omr-for-java-23-11-0-release-notes"
+slug: "aspose-omr-for-java-23-11-0-release-notes"
+linktitle: "Aspose.OMR for Java 23.11.0 - Release Notes"
+title: "Aspose.OMR for Java 23.11.0 - Release Notes"
 author: "Vladimir Lapin"
 weight: 31
-description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for Java 23.10.0 (October 2023) release."
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for Java 23.11.0 (November 2023) release."
 type: "repository"
 feedback: "OMRJAVA"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.OMR for Java 23.10.0 - Release Notes"
+family_listing_page_title: "Aspose.OMR for Java 23.11.0 - Release Notes"
 keywords:
 - "2023"
-- "October"
+- "November"
 - "new"
 - "release"
 - "changelog"
@@ -23,7 +23,7 @@ menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for Java 23.10.0 (October 2023)**](https://releases.aspose.com/java/repo/com/aspose/aspose-omr/23.10.0/) release.
+This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for Java 23.11.0 (November 2023)**](https://releases.aspose.com/java/repo/com/aspose/aspose-omr/23.11.0/) release.
 {{% /alert %}}
 
 ## What was changed
@@ -36,7 +36,7 @@ OMRNET&#8209;80 | Fixed licensing issues that prevented the product from working
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OMR for Java 23.10.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OMR for Java 23.11.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 

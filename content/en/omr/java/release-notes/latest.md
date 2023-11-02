@@ -2,12 +2,12 @@
 weight: 1
 id: "aspose-omr-for-java-latest-release-notes"
 slug: "latest"
-date: "2023-10-26"
+date: "2023-11-02"
 author: "Vladimir Lapin"
 type: "repository"
 layout: "release"
-title: Latest release (October 2023)
-description: A summary of recent changes, enhancements and bug fixes in Aspose.OMR for Java 23.10.0 (October 2023) release.
+title: Latest release (November 2023)
+description: A summary of recent changes, enhancements and bug fixes in Aspose.OMR for Java 23.11.0 (November 2023) release.
 keywords:
 - latest
 - new
@@ -16,7 +16,7 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for Java 23.10.0 (October 2023)**](https://releases.aspose.com/java/repo/com/aspose/aspose-omr/23.10.0/) release.
+This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for Java 23.11.0 (November 2023)**](https://releases.aspose.com/java/repo/com/aspose/aspose-omr/23.11.0/) release.
 {{% /alert %}}
 
 ## What was changed
@@ -29,7 +29,7 @@ OMRNET&#8209;80 | Fixed licensing issues that prevented the product from working
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OMR for Java 23.10.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OMR for Java 23.11.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 
