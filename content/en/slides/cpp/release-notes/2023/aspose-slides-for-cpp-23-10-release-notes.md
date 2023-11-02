@@ -34,7 +34,7 @@ This page contains release notes for [Aspose.Slides for C++ 23.10](https://www.n
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
 |SLIDESCPP-3784|When creating a slide from a Layout, the placeholders are changed to text areas|Bug|<https://docs.aspose.com/slides/net/manage-placeholder/>|
-|SLIDESCPP-3618|Use Aspose.Slides for .NET 23.10 features|Enhancement|<https://docs.aspose.com/slides/net/aspose-slides-for-net-23-10-release-notes/>|
+|SLIDESCPP-3618|Use Aspose.Slides for .NET 23.10 features|Enhancement|<https://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-10-release-notes/>|
 |SLIDESCPP-3776|CodePorting compatibility with C++20|Bug||
 
 ## Public API Changes
