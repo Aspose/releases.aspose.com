@@ -25,7 +25,7 @@ menuItemWithNoContent: false
 {{% alert color="primary" %}}
 This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Java 23.10.0 (October 2023)** release.
 
-GPU version: **23.6.1**
+GPU version: **23.10.0**
 {{% /alert %}}
 
 ## Deprecation warning

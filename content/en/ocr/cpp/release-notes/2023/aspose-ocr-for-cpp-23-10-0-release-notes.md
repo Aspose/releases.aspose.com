@@ -25,7 +25,7 @@ menuItemWithNoContent: false
 {{% alert color="primary" %}}
 This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OCR for C++ 23.10.0 (October 2023)**](https://www.nuget.org/packages/Aspose.Ocr.Cpp/23.10.0) release.
 
-GPU version: **23.2.0**
+GPU version: **23.10.0**
 {{% /alert %}}
 
 ## Deprecation warning
