@@ -15,6 +15,7 @@ menuItemWithNoContent: false
 
 ## Competitive features:
 
+- **Added MacOS x64 support**
 - **Cannot load the EPS file**
 - **Eps -> svg: System.ApplicationException: Unknown name gcheck'**
 - **EPS export issue**
@@ -158,7 +159,7 @@ Property    Aspose.Imaging.FileFormats.Eps.EpsLoadOptions.PreviewExportFormat
 
 **IMAGINGPYTHONNET-151 Fix invalidated TIFF OJpeg processing**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 input = "input.tiff"
 with Image.load(input) as image:
@@ -168,7 +169,7 @@ with Image.load(input) as image:
 
 **IMAGINGPYTHONNET-150 Cannot load the EPS file**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 with Image.load("input.eps") as image:
 	image.save("output.png")
@@ -177,7 +178,7 @@ with Image.load("input.eps") as image:
 
 **IMAGINGPYTHONNET-149 Eps -> svg: System.ApplicationException: Unknown name ‘gcheck'**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 with Image.load("input.eps") as image:
 	image.save("output.svg")
@@ -186,7 +187,7 @@ with Image.load("input.eps") as image:
 
 **IMAGINGPYTHONNET-148 EPS export issue**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 with Image.load("input.eps") as image:
 	image.save("output.pdf")
@@ -195,7 +196,7 @@ with Image.load("input.eps") as image:
 
 **IMAGINGPYTHONNET-147 Fix bug with Eps file  parsing**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 with Image.load("input.eps") as image:
 	image.save("output.png")
@@ -204,7 +205,7 @@ with Image.load("input.eps") as image:
 
 **IMAGINGPYTHONNET-146 Cannot convert the EPS image to PDF**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 with Image.load("input.eps") as image:
 	image.save("output.pdf")
@@ -213,7 +214,7 @@ with Image.load("input.eps") as image:
 
 **IMAGINGPYTHONNET-145 Fix bugs with transparent and text rendering in the CDR**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 from aspose.imaging import Image
 
@@ -224,7 +225,7 @@ with Image.load(inputFile) as image:
 
 **IMAGINGPYTHONNET-144 Can't convert EPS to PDF**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 with Image.load("input.eps") as image:
 	image.save("output.pdf")
@@ -233,7 +234,7 @@ with Image.load("input.eps") as image:
 
 **IMAGINGPYTHONNET-143 Can't load EPS image**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 with Image.load("ground.eps") as image:
 	image.save("output.png")
@@ -242,7 +243,7 @@ with Image.load("ground.eps") as image:
 
 **IMAGINGPYTHONNET-141 Emf not converting to SVG in trial mode**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 # without license
 lic = License()
@@ -259,7 +260,7 @@ with Image.load(inputFileName) as image:
 
 **IMAGINGPYTHONNET-132 Fix invalidated TIFF OJpeg processing**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 with Image.load("input.tiff") as image:
 	image.save("output.tiff")
