@@ -94,15 +94,13 @@ See the examples below to learn more about the changes introduced in this releas
 ### Shift reference point markers from the left edge of the page
 
 ```csharp
-Aspose.OMR.Generation.GlobalPageSettings globalPageSettings = new Aspose.OMR.Generation.GlobalPageSettings() {
-	ReferencePoints.Offset.Left = 100;
-};
+Aspose.OMR.Generation.GlobalPageSettings globalPageSettings = new Aspose.OMR.Generation.GlobalPageSettings();
+GlobalPageSettings.ReferencePoints.Offset.Left = 100;
 ```
 
 ### Place rotation marker to the bottom of the page
 
 ```csharp
-Aspose.OMR.Generation.GlobalPageSettings globalPageSettings = new Aspose.OMR.Generation.GlobalPageSettings() {
-	ReferencePoints.RotationMarkerPosition  = Aspose.OMR.Generation.RotationPointPosition.BottomLeft2;
-};
+Aspose.OMR.Generation.GlobalPageSettings globalPageSettings = new Aspose.OMR.Generation.GlobalPageSettings();
+globalPageSettings.RotationPointPosition = Aspose.OMR.Generation.RotationPointPosition.BottomLeft2;
 ```
