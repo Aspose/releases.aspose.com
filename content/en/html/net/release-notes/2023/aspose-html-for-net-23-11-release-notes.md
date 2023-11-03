@@ -4,7 +4,7 @@ slug: "aspose-html-for-net-23-11-release-notes"
 linktitle: "Aspose.HTML for .NET 23.11 Release Notes"
 title: "Aspose.HTML for .NET 23.11 Release Notes"
 weight: 20
-description: "In this release, we have improved the quality of rendering and received documents. Improved usability and stability with the Accessibility namespace."
+description: "In this release, we have improved the quality of rendering and resulting documents. Improved usability and stability of the Accessibility namespace."
 type: "repository"
 layout: "release"
 hideChildren: false
@@ -18,7 +18,7 @@ This page contains release notes information for Aspose.HTML for .NET 23.11.
 
 As per the regular monthly update process of all APIs being offered by Aspose, we are honored to announce the November release of Aspose.HTML for .NET.
 
-In this release, we have improved the quality of rendering and received documents. Improved usability and stability with the Accessibility namespace.
+In this release, we have improved the quality of rendering and resulting documents. Improved usability and stability of the Accessibility namespace.
 
 
 ## **Improvements and Changes**
