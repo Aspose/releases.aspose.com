@@ -1,0 +1,15 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-omr",
+  "id" : "23-11",
+  "packageFiles" : [ {
+    "size" : "18 MB",
+    "name" : "aspose-omr-23.11.jar"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-omr-23.11.pom"
+  } ],
+  "releasehDate" : "2023-11-03T15:56:51+00:00",
+  "version" : "23.11",
+  "ReleaseNotes" : "https://releases.aspose.com/omr/java/release-notes/2023/aspose-omr-for-java-23-11-release-notes/"
+}
