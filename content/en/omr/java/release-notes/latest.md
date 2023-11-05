@@ -2,7 +2,7 @@
 weight: 1
 id: "aspose-omr-for-java-latest-release-notes"
 slug: "latest"
-date: "2023-11-02"
+date: "2023-11-03"
 author: "Vladimir Lapin"
 type: "repository"
 layout: "release"
@@ -23,9 +23,9 @@ This article contains a summary of recent changes, enhancements and bug fixes in
 
 Key | Summary | Category
 --- | ------- | --------
-OMRNET&#8209;33 | The number of bubbles in the answer sheet is now calculated correctly. | Fix
-OMRNET&#8209;76 | Resolved [CVE-2022-25647](https://nvd.nist.gov/vuln/detail/CVE-2022-25647) vulnerability in _com.google.code.gson:gson_ that may lead to availability attacks. | Fix
-OMRNET&#8209;80 | Fixed licensing issues that prevented the product from working in free tier mode (without providing a license file). | Fix
+OMRJAVA&#8209;33 | The number of bubbles in the answer sheet is now calculated correctly. | Fix
+OMRJAVA&#8209;76 | Resolved [CVE-2022-25647](https://nvd.nist.gov/vuln/detail/CVE-2022-25647) vulnerability in _com.google.code.gson:gson_ that may lead to availability attacks. | Fix
+OMRJAVA&#8209;80 | Fixed licensing issues that prevented the product from working in free tier mode (without providing a license file). | Fix
 
 ## Public API changes and backwards compatibility
 
