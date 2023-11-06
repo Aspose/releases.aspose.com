@@ -40,7 +40,6 @@ There are 69 improvements and fixes in this regular monthly release. The most no
 |WORDSNET-23930|Filtering the revision collection for multiple accepting|New Feature
 |WORDSNET-26133|Implement smart indentation for non list paragraphs based on LeftIndent attribute|New Feature
 |WORDSNET-25770|System.Drawing dependency removal with Aspose.Drawing|New Feature
-|WORDSNET-26031|Consider moving to SkiaSharp 2.88.6|Enhancement
 |WORDSNET-26003|Performance degradation while simple creation of Document object in 23.9 version|Enhancement
 |WORDSNET-25042|Blank document saved as image doesn't contain trial message|Bug
 |WORDSNET-25989|NullReferenceException is thrown upon calling UpdateFields|Bug
