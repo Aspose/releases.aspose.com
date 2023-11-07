@@ -30,6 +30,7 @@ In this release, we have improved the quality of rendering and resulting documen
 | HTMLNET-3189 | HTML to PDF - the style and images are missing in the output PDF | Bug |
 | HTMLNET-5045 | HTML to PDF: Content missing and exception thrown | Bug |
 | HTMLNET-4940 | Html element inside comment triggers an invalid output file | Bug |
+| HTMLNET-4914 | Aspose.HTML performance 23.8.1 | Investigation |
 
 The following changes have been made in this version:
 
