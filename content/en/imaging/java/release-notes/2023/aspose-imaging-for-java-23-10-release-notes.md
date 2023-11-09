@@ -13,6 +13,8 @@ family_listing_page_title: "Aspose.Imaging for Java 23.10 - Release notes"
 menuItemWithNoContent: false
 ---
 
+Improvement: Reduced the size of library by 2 Mb.
+
 ## Competitive features:
 
 - **Improving EPS graphics rendering : Eps -> svg: System.ApplicationException: Unknown name ‘gcheck'**
@@ -49,7 +51,7 @@ Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 23.
 
 **IMAGINGJAVA-8576 Eps -> svg: System.ApplicationException: Unknown name ‘gcheck'**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("input.eps")
 {
@@ -60,7 +62,7 @@ try (Image image = Image.load("input.eps")
 
 **IMAGINGJAVA-8575 Can't convert EPS to PDF**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("input.eps")
 {
@@ -71,7 +73,7 @@ try (Image image = Image.load("input.eps")
 
 **IMAGINGJAVA-8573 Cannot convert the EPS image to PDF**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("input.eps")
 {
@@ -82,7 +84,7 @@ try (Image image = Image.load("input.eps")
 
 **IMAGINGJAVA-8572 EPS export issue**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("ground.eps")
 {
@@ -93,7 +95,7 @@ try (Image image = Image.load("ground.eps")
 
 **IMAGINGJAVA-8571 Cannot load the EPS file**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("ground.eps")
 {
@@ -104,7 +106,7 @@ try (Image image = Image.load("ground.eps")
 
 **IMAGINGJAVA-8570 Fix bug with Eps file  parsing**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("ground.eps")
 {
@@ -115,7 +117,7 @@ try (Image image = Image.load("ground.eps")
 
 **IMAGINGJAVA-8553 Fix invalidated TIFF OJpeg processing**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try(Image image = Image.load("input.tiff"))
 {
@@ -126,7 +128,7 @@ try(Image image = Image.load("input.tiff"))
 
 **IMAGINGJAVA-8552 Emf not converting to SVG in trial mode**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 //without license
 License license = new License();
@@ -145,7 +147,7 @@ try (Image image = Image.load(inputFileName))
 
 **IMAGINGJAVA-8550 Fix bugs with transparent and text rendering in the CDR**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load(inputFile))
 {
@@ -156,7 +158,7 @@ try (Image image = Image.load(inputFile))
 
 **IMAGINGJAVA-8546 Fix invalidated TIFF OJpeg processing**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("input.tiff"))
 {

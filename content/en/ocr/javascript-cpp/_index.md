@@ -7,7 +7,7 @@ keywords:  "OCR JavaScript,OCR WebAssembly, OCR WASM, Extract Text JavaScript, I
 family_listing_page_title:  "Aspose.OCR for JavaScript via C++"
 family_listing_page_description:  "Download Text Extraction JavaScript Library on WebAssembly WASM technology. Optical character & text recognition API from raster images to text via JavaScript library"
 family_listing_page_iconurl:  "https://releases.aspose.com/images/aspose/aspose_ocr-for-javascript-cpp.svg"
-weight: 5
+weight: 6
 
 ---
 

@@ -9,7 +9,7 @@ family_listing_page_iconurl:  "https://releases.aspose.com/images/aspose/aspose_
 homepage_package_type: "Pip"
 homepage_package_link: "https://pypi.org/project/aspose-ocr-python-net"
 tags: ['Aspose', 'Aspose.Total', 'Aspose.OCR', 'Python', 'NET', 'Library', 'PDF', 'OCR', 'TIFF','PNG', 'BMP', 'JPEG', 'Image', 'recognition', 'MacOS', 'Windows', 'Linux', 'PIP']
-weight: 4
+weight: 5
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/ocr/16" linktext="Support Forum" >}}

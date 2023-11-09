@@ -2,13 +2,13 @@
 id: "aspose-omr-for-net-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2023-09-13"
+date: "2023-10-24"
 author: "Vladimir Lapin"
 type: "repository"
 layout: "release"
 feedback: OMRNET
-title: Latest release (September 2023)
-description: A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET 23.9.0 (September 2023) release.
+title: Latest release (October 2023)
+description: A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET 23.10.0 (October 2023) release.
 keywords:
 - latest
 - new
@@ -17,7 +17,7 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for .NET 23.9.0 (September 2023)**](https://www.nuget.org/packages/Aspose.OMR/23.9.0) release.
+This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for .NET 23.10.0 (October 2023)**](https://www.nuget.org/packages/Aspose.OMR/23.10.0) release.
 {{% /alert %}}
 
 ## Deprecation warning
@@ -34,44 +34,54 @@ To make it easier to upgrade your code, we have kept existing methods fully func
 
 Key | Summary | Category
 --- | ------- | --------
-OMRNET&#8209;908 | Added the ability to customize the values returned in recognition results for `BubbleArray` element (custom answer sheets). See [Added public APIs](#added-public-apis) for details. | New feature
-OMRNET&#8209;910 | Added the ability to specify the value from which the numbering of rows of `CustomAnswerSheet` element begins. See [Added public APIs](#added-public-apis) for details. | New feature
+OMRNET&#8209;846 | Added the ability to shift [reference point markers](https://docs.aspose.com/omr/net/omr-form-structure/) relative to the edges of the page. | New feature
+OMRNET&#8209;846 | `RotationPointPosition` [page layout setting](https://docs.aspose.com/omr/net/generate-template/page-setup/#positioning-marker-placement) is renamed to `ReferencePoints.RotationMarkerPosition`. | Enhancement
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OMR for .NET 23.9.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OMR for .NET 23.10.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 
-The following public APIs have been added to Aspose.OMR for .NET 23.9.0:
+The following public APIs have been added to Aspose.OMR for .NET 23.10.0:
 
-#### Return values for `BubbleArray` element
+#### `ReferencePoints.Offset.Top` page setting
 
-Allows you to customize the values returned in recognition results for `BubbleArray` element (custom answer sheets). This is an optional property. If omitted, answer keys will be used.
+Offset of [reference point markers](https://docs.aspose.com/omr/net/omr-form-structure/) in pixels from the top edge of the page.
 
-Markup | Property | Type | Format
------- | -------- | ---- | ------
-[Text](https://docs.aspose.com/omr/txt-markup/custom_answer_sheet/#bubble_array) | **recognition_values** | numbers/letters | `(1)(2)(3)`
-[JSON](https://docs.aspose.com/omr/json-markup/customanswersheet/#bubblearray-element) | **recognition_values** | array | `["1", "2", "3"]`
+By default, the reference point markers are shifted from the top edge by _1%_ of the overall page height.
 
-{{% alert color="primary" %}}
-The number of answer keys must exactly match the total number of bubbles specified in `answers_list` property. Otherwise, the [form generation](https://docs.aspose.com/omr/net/generate-template/) will fail.
-{{% /alert %}}
+#### `ReferencePoints.Offset.Bottom` page setting
 
-#### Custom row numbering of `CustomAnswerSheet` element
+Offset of [reference point markers](https://docs.aspose.com/omr/net/omr-form-structure/) in pixels from the bottom edge of the page.
 
-Allows you to specify the value from which the numbering of custom answer sheet rows begins. The number of each subsequent row is increased by 1.
+By default, the reference point markers are shifted from the bottom edge by _1%_ of the overall page height.
 
-This is an optional property. If omitted, the numbering starts with 1.
+#### `ReferencePoints.Offset.Left` page setting
 
-Markup | Property | Type
------- | -------- | ----
-[Text](https://docs.aspose.com/omr/txt-markup/custom_answer_sheet/) | **start_id** | integer
-[JSON](https://docs.aspose.com/omr/json-markup/customanswersheet/) | **start_id** | integer
+Offset of [reference point markers](https://docs.aspose.com/omr/net/omr-form-structure/) in pixels from the left edge of the page.
+
+By default, the reference point markers are shifted from the left edge by _1%_ of the overall page width.
+
+#### `ReferencePoints.Offset.Right` page setting
+
+Offset of [reference point markers](https://docs.aspose.com/omr/net/omr-form-structure/) in pixels from the right edge of the page.
+
+By default, the reference point markers are shifted from the right edge by _1%_ of the overall page width.
 
 ### Updated public APIs:
 
-_No changes._
+The following public APIs have been changed in Aspose.OMR for .NET 23.10.0:
+
+#### `ReferencePoints.RotationMarkerPosition` page setting
+
+{{% alert color="caution" %}}
+**Compatibility: partial backwards compatibility.**
+
+The existing `RotationPointPosition` page setting will be removed in **Aspose.OMR for .NET 24.5.0** in favor of the new setting. Make sure to update your code before May 2024.
+{{% /alert %}}
+
+This [page setting](https://docs.aspose.com/omr/net/generate-template/page-setup/#positioning-marker-placement) will replace the existing `RotationPointPosition` page setting. The behavior of the setting remains unchanged.
 
 ### Removed public APIs:
 
@@ -81,45 +91,16 @@ _No changes._
 
 See the examples below to learn more about the changes introduced in this release:
 
-### Configure the custom answer sheet
+### Shift reference point markers from the left edge of the page
 
+```csharp
+Aspose.OMR.Generation.GlobalPageSettings globalPageSettings = new Aspose.OMR.Generation.GlobalPageSettings();
+GlobalPageSettings.ReferencePoints.Offset.Left = 100;
 ```
-?custom_answer_sheet=Example
-	amount=15
-	columns_count=3
-	start_id=0
-?header=Header
-?column=#
-	font_size=6
-	font_style=bold
-	align=center
-?column=Choice
-	font_size=6
-	font_style=bold
-	align=center
-?column=Own value
-	font_size=6
-	font_style=bold
-	align=center
-?column=Skip
-	font_size=6
-	font_style=bold
-	align=center
-&header
-?custom_row=Row %index%
-?content=%index%
-	font_size=6
-	align=center
-?bubble_array=Bubbles %index%
-	answers_list=(α)(β)(γ)
-	recogintion_values=(1)(2)(3)
-?write_in=Own value for %index%
-	required=true
-?custom_trigger=Skip question
-	trigger_type=replaceValue
-	value=Prefer not to answer
-	target=Bubbles %index%
-	bubble_size=small
-&custom_row
-&custom_answer_sheet
+
+### Place rotation marker to the bottom of the page
+
+```csharp
+Aspose.OMR.Generation.GlobalPageSettings globalPageSettings = new Aspose.OMR.Generation.GlobalPageSettings();
+globalPageSettings.RotationPointPosition = Aspose.OMR.Generation.RotationPointPosition.BottomLeft2;
 ```

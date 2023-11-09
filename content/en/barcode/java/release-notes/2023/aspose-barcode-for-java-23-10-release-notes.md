@@ -23,7 +23,7 @@ This page contains release notes information for [Aspose.BarCode for Java 23.10]
 |**Key**| **Summary**                                                       |**Category**|
 | :- |:------------------------------------------------------------------| :- |
 |BARCODEJAVA-1698| MicroPdf417 test containing the macro parameters related to LocalDate is failed|Bug|
-|BARCODENET-38749| Swiss QR barcode: wrong placement of cross                        |Bug|
-|BARCODENET-38709| Unable to read DataMatrix code                                    |Bug|
-|BARCODENET-38711| Improve Aztec barcode recognition quality                         |Enhancement|
-|BARCODENET-38753| Optimize searching for zebra segments in Han Xin Code             |Enhancement|
+|BARCODENET-38749| Swiss QR barcode: wrong placement of cross|Bug|
+|BARCODENET-38709| Unable to read DataMatrix code|Bug|
+|BARCODENET-38711| Improve Aztec barcode recognition quality|Enhancement|
+|BARCODENET-38753| Optimize searching for zebra segments in Han Xin Code|Enhancement|

@@ -1,9 +1,9 @@
-3---
+---
 id: "aspose-page-for-java-23-8-release-notes"
 slug: "aspose-page-for-java-23-8-release-notes"
 linktitle: "Aspose.Page for Java 23.8 Release Notes"
 title: "Aspose.Page for Java 23.8 Release Notes"
-weight: 94
+weight: 93
 description: "Java Library for the developers to manipulate and process PS, EPS, and XPS files. Release Notes of Aspose.Page API solution for Java | Release 2023.08"
 type: "repository"
 layout: "release"
