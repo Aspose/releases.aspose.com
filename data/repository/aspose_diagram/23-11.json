@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-diagram",
+  "id" : "23-11",
+  "packageFiles" : [ {
+    "size" : "1 MB",
+    "name" : "aspose-diagram-23.11-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "3 MB",
+    "name" : "aspose-diagram-23.11.jar"
+  }, {
+    "size" : "798 bytes",
+    "name" : "aspose-diagram-23.11.pom"
+  } ],
+  "releasehDate" : "2023-11-09T08:47:35+00:00",
+  "version" : "23.11",
+  "ReleaseNotes" : "https://docs.aspose.com/diagram/java/aspose-diagram-for-java-23-11-release-notes/"
+}
