@@ -2,6 +2,7 @@
 title: "Node.js Library for Spreadsheets | Aspose.Cells for Node.js"
 description: "Download Node.js Library to generate, modify, convert & render Excel spreadsheets using Node.js without requiring Microsoft Excel. "
 keywords: "Node.js Excel Library, Node.js Excel API "
+linktitle: "Aspose.Cells for Node.js via Java"
 family_listing_page_title: "Aspose.Cells for Node.js via Java"
 family_listing_page_description: "Aspose.Cells for Node.js via Java is an Excel Spreadsheet Processing API that allows the developers to employ the ability to read, write and manipulate Excel spreadsheets via Node.js."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-nodejs.png"
@@ -18,7 +19,7 @@ weight:  8
 
 {{< Common/h3 text="Download Aspose.Cells from NPM"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose.Cells for Node.js via Java is a scalable and feature-rich API to process Excel spreadsheets using Node.js. 
+Aspose.Cells for Node.js via Java is a scalable and feature-rich API to process Excel spreadsheets using Node.js.
 You can easily use <b>aspose.cells</b> for Javascript from {{< Common/link href="https://www.npmjs.com/package/aspose.cells" text="NPM"  >}} with the following command.
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="npm" >}}

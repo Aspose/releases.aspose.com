@@ -2,6 +2,7 @@
 title: "将报告导出为 Excel 文件 |用于 JasperReports® 的 Aspose.Cells"
 description: "下载适用于 Excel 的 JasperReports 和 JasperServer 扩展。它提供以 Microsoft Excel XLS、XLSX、PDF、ODS、TXT 和 SpreadsheetML 格式导出报告，而无需使用 Microsoft Excel。"
 keywords: "JasperReports Extension, Report Converter "
+linktitle: "用于 JasperReports 的 Aspose.Cells"
 family_listing_page_title: "用于 JasperReports 的 Aspose.Cells"
 family_listing_page_description: "Aspose.Cells for JasperReports 是一个灵活的 JasperReports 和 JasperServer 扩展，允许在不使用 Microsoft Excel 的情况下以 Microsoft Excel XLS、XLSX、PDF、ODS、TXT 和 SpreadsheetML 格式导出报告。它可以替代 JasperReports 的原始 Microsoft Excel 导出器，并消除对 POI 库的依赖。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-jasperreports.png"
@@ -70,4 +71,3 @@ Aspose.Cells for JasperReports 帮助您将报告从 JasperReports® 和 JasperS
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

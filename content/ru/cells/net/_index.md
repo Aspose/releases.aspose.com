@@ -2,6 +2,7 @@
 title: "Загрузить компоненты .NET DLL для обработки Excel | Aspose.Cells"
 description: "Загрузите DLL, содержащую библиотеку классов C#, для создания, изменения, визуализации и печати электронных таблиц MS Excel® и OpenOffice® через .NET API. Преобразование в DOCX, PPTX, PDF, XPS."
 keywords: "Excel API, .NET Excel API, C# Excel"
+linktitle: "Aspose.Cells для .NET"
 family_listing_page_title: "Aspose.Cells для .NET"
 family_listing_page_description: "Aspose.Cells для .NET — это API-интерфейс программирования электронных таблиц Excel, позволяющий разработчикам программного обеспечения манипулировать файлами электронных таблиц и преобразовывать их из своих собственных приложений. Сочетание API-интерфейсов и элементов управления с графическим интерфейсом — Aspose.Cells для .NET ускоряет обработку электронных таблиц и задачи преобразования."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-net.png"
@@ -94,4 +95,3 @@ Aspose.Cells for .NET позволяет приложениям .NET, C#, ASP.NE
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

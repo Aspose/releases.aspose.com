@@ -2,6 +2,7 @@
 title: "下载 .NET DLL 组件以处理 Excel |假设细胞"
 description: "下载包含 C# 类库的 DLL，以通过 .NET API 创建、修改、呈现和打印 MS Excel® 和 OpenOffice® 电子表格。转换为 DOCX、PPTX、PDF、XPS。"
 keywords: "Excel API, .NET Excel API, C# Excel"
+linktitle: "用于 .Net 的 Aspose.Cells"
 family_listing_page_title: "Aspose.Cells for .NET"
 family_listing_page_description: "Aspose.Cells for .NET 是一个 Excel 电子表格编程 API，允许软件开发人员在他们自己的应用程序中操作和转换电子表格文件。 API 和 GUI 控件的组合 - Aspose.Cells for .NET 加速了电子表格处理和转换任务。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-net.png"
@@ -94,4 +95,3 @@ Aspose.Cells for .NET 使您的 .NET、C#、ASP.NET 和 VB.NET 应用程序能�
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

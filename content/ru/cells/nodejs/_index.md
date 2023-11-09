@@ -2,6 +2,7 @@
 title: "библиотека Node.js для электронных таблиц | Aspose.Cells для Node.js"
 description: "Загрузите библиотеку Node.js, чтобы создавать, изменять, преобразовывать и отображать электронные таблицы Excel с помощью Node.js, не требуя Microsoft Excel."
 keywords: "Node.js Excel Library, Node.js Excel API "
+linktitle: "Aspose.Cells для Node.js через Java"
 family_listing_page_title: "Aspose.Cells для Node.js через Java"
 family_listing_page_description: "Aspose.Cells для Node.js через Java — это API обработки электронных таблиц Excel, который позволяет разработчикам использовать возможность чтения, записи и управления электронными таблицами Excel через Node.js."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-nodejs.png"
@@ -52,4 +53,3 @@ Aspose.Cells для Node.js через Java — это масштабируем�
 
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

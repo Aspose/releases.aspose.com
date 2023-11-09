@@ -2,6 +2,7 @@
 title: "下载用于电子表格处理的 C++ DLL |假设细胞"
 description: "下载 C++ 类库 DLL 以通过本机 API 处理 Excel® 电子表格行、列、数据、公式、数据透视表、工作表、图表和绘图对象。"
 keywords: "C++ Excel library, C++ Excel Programming API"
+linktitle: "Aspose.Cells for C++"
 family_listing_page_title: "Aspose.Cells for C++"
 family_listing_page_description: "Aspose.Cells for C++ 是一个原生 C++ 库，它为 XLS、XLSX、XLSM、XLSB、TSV 和 CSV 等最常用的电子表格格式提供了一组高级 API。 Aspose.Cells for C++ 允许您构建具有创建、操作和转换 Excel 电子表格功能的高性能 C++ 应用程序，而无需依赖 Office 自动化或 Microsoft Excel 应用程序。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png"

@@ -2,6 +2,7 @@
 title: "SSRS RDL から Excel へのエクスポーター | Reporting Services 用の Aspose.Cells"
 description: "Reporting Services 用の RDL to Excel Exporter をダウンロードします。 RDL & RDLC レポートを Excel スプレッドシート ファイル形式 (XLS XLSX XLSM XLSB CSV SpreadsheetML HTML & ODS) に簡単にエクスポートできます。"
 keywords: "Excel Extension, SSRS Report Exporter, Rendering Extension "
+linktitle: "Reporting Services 用の Aspose.Cells"
 family_listing_page_title: "Reporting Services 用の Aspose.Cells"
 family_listing_page_description: "Aspose.Cells for Reporting Services を使用すると、Microsoft SQL Server Reporting Services および Microsoft Report Viewer 内から Excel レポートを配信できます。 Excel ベースのレポートのネイティブ エクスポーターとは異なり、Aspose.Cells for Reporting Services では、RDL および RDLC レポートを多数の Excel スプレッドシート ファイル形式に変換できます。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-reporting-services.png"
@@ -141,4 +142,3 @@ Aspose.Cells for Reporting Services は、Microsoft SQL Server® Reporting Servi
 
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

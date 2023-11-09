@@ -1,6 +1,6 @@
 ---
 title: "ASSONE.CELLS | Excel -Tabellenkalkulations -Java -Bibliothek aus Excel"
-linktitle: Aspose.Cells
+linktitle: "Aspose.Cells für Java"
 description: "Java -Bibliothek, um Excel & OpenOffice -Tabellenkalkulationen zu verarbeiten, zu manipulieren und zu konvertieren. Unterstützt die Formel (e), Diagramme, Validierungen, Rendering, Drucken und Verschlüsselung."
 layout: packages
 type: repository

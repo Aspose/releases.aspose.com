@@ -2,6 +2,7 @@
 title: "スプレッドシート処理用の C++ DLL をダウンロード | Aspose.Cells"
 description: "C++ クラス ライブラリ DLL をダウンロードして、ネイティブ API を介して Excel® スプレッドシートの行、列、データ、数式、ピボット テーブル、ワークシート、グラフ、および描画オブジェクトを操作します。"
 keywords: "C++ Excel library, C++ Excel Programming API"
+linktitle: "C++ 用の Aspose.Cells"
 family_listing_page_title: "C++ 用の Aspose.Cells"
 family_listing_page_description: "Aspose.Cells for C++ はネイティブ C++ ライブラリであり、XLS、XLSX、XLSM、XLSB、TSV、CSV など、最も一般的に使用されるスプレッドシート フォーマット用の一連の高レベル API を提供します。 Aspose.Cells for C++ を使用すると、Office オートメーションや Microsoft Excel アプリケーションに依存することなく、Excel スプレッドシートを作成、操作、および変換する機能を備えた高性能 C++ アプリケーションを構築できます。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png"
@@ -91,4 +92,3 @@ Aspose.Cells for C++ を使用すると、Microsoft Excel のビルトインお�
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

@@ -2,6 +2,7 @@
 title: ".NET 経由の Python 用 Aspose.Cells"
 description:  "Aspose.Cells for Python via .NET is a fast and reliable API for spreadsheet processing tasks. Developers can create simple or complex spreadsheets, manipulate as well as extract information from excel files. API reads multiple excel formats and can render worksheets to XPS, PDF, MHTML, HTML, Plain Text, images and more."
 keywords:  "Excel,Python,.NET"
+linktitle: ".NET 経由の Python 用 Aspose.Cells"
 family_listing_page_title: ".NET 経由の Python 用 Aspose.Cells"
 family_listing_page_description:  "Aspose.Cells for Python via .NET is a fast and reliable API for spreadsheet processing tasks. Developers can read, write and manipulate Excel spreadsheets in their own Python applications."
 family_listing_page_iconurl:  "https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg"
@@ -91,4 +92,3 @@ Aspose.Cells for Python via .NET は、Python を使用して Excel® スプレ�
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

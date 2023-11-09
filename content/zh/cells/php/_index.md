@@ -2,6 +2,7 @@
 title: "电子表格文件 API | PHP Excel 库 | Aspose.Cells for PHP 通过 Java"
 description: "下载 Excel 文件的 PHP 库。执行 Excel 文件操作任务以及将 Excel 文件导出为 PDF、图像、CSV 和许多其他格式，而无需依赖 Microsoft Excel。"
 keywords: "PHP Library for Excel, Excel File Processing "
+linktitle: "Aspose.Cells for PHP 通过 Java"
 family_listing_page_title: "Aspose.Cells for PHP 通过 Java"
 family_listing_page_description: "Aspose.Cells for PHP via Java 是一个 Excel 电子表格处理 API，它允许开发人员在使用 JavaBridge 的同时在他们的 PHP 应用程序中使用读取、写入和操作 Excel 电子表格的能力。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose.cells-for-php-via-java-min.png"
@@ -54,4 +55,3 @@ aspose/cells 在 Packagist 上作为
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
-

@@ -1,7 +1,7 @@
 ---
-title: "Aspose.cells | Excelスプレッドシート処理Javaライブラリ" 
-linktitle: Aspose.Cells
-description: "Javaライブラリは、Excel＆OpenOfficeスプレッドシートを処理、操作、および変換します。フォーミュラ（E）、チャート、検証、レンダリング、印刷、および暗号化をサポートします。" 
+title: "Aspose.cells | Excelスプレッドシート処理Javaライブラリ"
+linktitle: "Java 用の Aspose.Cells"
+description: "Javaライブラリは、Excel＆OpenOfficeスプレッドシートを処理、操作、および変換します。フォーミュラ（E）、チャート、検証、レンダリング、印刷、および暗号化をサポートします。"
 layout: packages
 type: repository
 categories:
@@ -68,8 +68,8 @@ keywords:
 - JSON to CSV
 - CSV to JSON
 - import
-family_listing_page_title: "JavaのAsopsion.cells" 
-family_listing_page_description: "JavaのCellsは、Microsoft Excelに頼る必要なく、Java開発者が独自のJavaアプリケーションでExcelスプレッドシートを読み取り、書き、操作できるようにする、受賞歴のあるExcelスプレッドシート処理APIです。" 
+family_listing_page_title: "JavaのAsopsion.cells"
+family_listing_page_description: "JavaのCellsは、Microsoft Excelに頼る必要なく、Java開発者が独自のJavaアプリケーションでExcelスプレッドシートを読み取り、書き、操作できるようにする、受賞歴のあるExcelスプレッドシート処理APIです。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"

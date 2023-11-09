@@ -2,6 +2,7 @@
 title: "Laden Sie die C++-DLL für die Tabellenverarbeitung herunter | Aspose.Cells"
 description: "Laden Sie die DLL der C++-Klassenbibliothek herunter, um mit Excel®-Tabellenzeilen, -Spalten, -Daten, -Formeln, -Pivot-Tabellen, -Arbeitsblättern, -Diagrammen und -Zeichnungsobjekten über die native API zu arbeiten."
 keywords: "C++ Excel library, C++ Excel Programming API"
+linktitle: "Aspose.Cells für C++"
 family_listing_page_title: "Aspose.Cells für C++"
 family_listing_page_description: "Aspose.Cells für C++ ist eine native C++-Bibliothek, die eine Reihe von High-Level-APIs für die am häufigsten verwendeten Tabellenkalkulationsformate wie XLS, XLSX, XLSM, XLSB, TSV und CSV bietet. Mit Aspose.Cells für C++ können Sie leistungsstarke C++-Anwendungen erstellen, die Excel-Tabellenkalkulationen erstellen, bearbeiten und konvertieren können, ohne auf Office-Automatisierung oder Microsoft Excel-Anwendungen angewiesen zu sein."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png"
@@ -91,4 +92,3 @@ Aspose.Cells für C++ ermöglicht es Ihnen, sowohl mit den integrierten als auch
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

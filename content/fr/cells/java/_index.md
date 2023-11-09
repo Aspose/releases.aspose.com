@@ -1,7 +1,7 @@
 ---
-title: "Aspose.Cells | Bibliothèque Java Traitement de la feuille de calcul Excel" 
-linktitle: Aspose.Cells
-description: "Bibliothèque Java pour traiter, manipuler et convertir des feuilles de calcul Excel & OpenOffice. Prend en charge la formule (E), les graphiques, les validations, le rendu, l'impression et le chiffrement." 
+title: "Aspose.Cells | Bibliothèque Java Traitement de la feuille de calcul Excel"
+linktitle: "Aspose.Cells pour Java"
+description: "Bibliothèque Java pour traiter, manipuler et convertir des feuilles de calcul Excel & OpenOffice. Prend en charge la formule (E), les graphiques, les validations, le rendu, l'impression et le chiffrement."
 layout: packages
 type: repository
 categories:
@@ -68,8 +68,8 @@ keywords:
 - JSON to CSV
 - CSV to JSON
 - import
-family_listing_page_title: "Aspose.Cells pour Java" 
-family_listing_page_description: "Aspose.Cells pour Java est une API de calcul Excel primée qui permet aux développeurs Java d'incorporer la possibilité de lire, d'écrire et de manipuler des feuilles de calcul Excel dans leurs propres applications Java sans avoir besoin de s'appuyer sur Microsoft Excel." 
+family_listing_page_title: "Aspose.Cells pour Java"
+family_listing_page_description: "Aspose.Cells pour Java est une API de calcul Excel primée qui permet aux développeurs Java d'incorporer la possibilité de lire, d'écrire et de manipuler des feuilles de calcul Excel dans leurs propres applications Java sans avoir besoin de s'appuyer sur Microsoft Excel."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"

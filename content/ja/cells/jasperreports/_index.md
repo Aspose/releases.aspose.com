@@ -2,6 +2,7 @@
 title: "レポートを Excel ファイルとしてエクスポート | JasperReports® 用の Aspose.Cells"
 description: "Excel 用の JasperReports および JasperServer 拡張機能をダウンロードします。 Microsoft Excel を使用せずに、Microsoft Excel XLS、XLSX、PDF、ODS、TXT、および SpreadsheetML 形式でレポートをエクスポートできます。"
 keywords: "JasperReports Extension, Report Converter "
+linktitle: "JasperReports 用の Aspose.Cells"
 family_listing_page_title: "JasperReports 用の Aspose.Cells"
 family_listing_page_description: "Aspose.Cells for JasperReports は、柔軟な JasperReports および JasperServer 拡張機能であり、Microsoft Excel を使用せずに Microsoft Excel XLS、XLSX、PDF、ODS、TXT、および SpreadsheetML 形式でレポートをエクスポートできます。 JasperReports のオリジナルの Microsoft Excel エクスポータの代替として機能し、POI ライブラリへの依存を排除します。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-jasperreports.png"
@@ -21,11 +22,11 @@ Aspose.Cells for JasperReports を使用すると、レイアウトやフォー�
 
 {{< Common/h4 class=" " text="無料のオンライン Excel® 処理アプリを試す" >}}
 {{< Common/ul>}}
-{{< Common/li >}} 
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/editor" text="Excel® および OpenOffice スプレッドシートを編集するための無料の Excel® Editor オンライン アプリ"  >}}{{< /Common/li >}}
-{{< Common/li >}} 
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/conversion" text="スプレッドシートをサポートされているさまざまな形式に変換する無料の Excel® Converter Online アプリ。"  >}}{{< /Common/li >}}
-{{< Common/li >}} 
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/parser" text="XLS、ODS、NUMBERS形式のテキストと画像を解析する無料のスプレッドシート解析オンラインアプリ"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
@@ -70,4 +71,3 @@ Aspose.Cells for JasperReports を使用すると、レイアウトやフォー�
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

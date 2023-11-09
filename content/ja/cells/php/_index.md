@@ -2,6 +2,7 @@
 title: "スプレッドシート ファイル API | PHP Excel ライブラリ | Java 経由の PHP 用 Aspose.Cells"
 description: "Excel ファイル用の PHP ライブラリをダウンロードします。 Microsoft Excel に依存せずに、Excel ファイル操作タスクを実行し、Excel ファイルを PDF、画像、CSV、およびその他の多くの形式にエクスポートします。"
 keywords: "PHP Library for Excel, Excel File Processing "
+linktitle: "Java 経由の PHP 用 Aspose.Cells"
 family_listing_page_title: "Java 経由の PHP 用 Aspose.Cells"
 family_listing_page_description: "Aspose.Cells for PHP via Java は、開発者が JavaBridge を使用しながら、PHP アプリケーションで Excel スプレッドシートの読み取り、書き込み、および操作を行う機能を使用できるようにする Excel スプレッドシート処理 API です。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose.cells-for-php-via-java-min.png"
@@ -54,4 +55,3 @@ aspose/cells は Packagist で
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
-

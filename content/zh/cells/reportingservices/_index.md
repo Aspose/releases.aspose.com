@@ -2,6 +2,7 @@
 title: "SSRS RDL 到 Excel 导出器 |报告服务的 Aspose.Cells"
 description: "将 RDL 下载到 Excel Exporter for Reporting Services。轻松将 RDL 和 RDLC 报告导出为 Excel 电子表格文件格式（XLS XLSX XLSM XLSB CSV SpreadsheetML HTML 和 ODS）。"
 keywords: "Excel Extension, SSRS Report Exporter, Rendering Extension "
+linktitle: "报告服务的 Aspose.Cells"
 family_listing_page_title: "报告服务的 Aspose.Cells"
 family_listing_page_description: "Aspose.Cells for Reporting Services 允许您从 Microsoft SQL Server Reporting Services 和 Microsoft Report Viewer 中交付 Excel 报告。与基于 Excel 的报告的本地导出器不同 - Aspose.Cells for Reporting Services 允许将 RDL 和 RDLC 报告转换为多种 Excel 电子表格文件格式。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-reporting-services.png"
@@ -141,4 +142,3 @@ Aspose.Cells for Reporting Services 在 Microsoft SQL Server® Reporting Service
 
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

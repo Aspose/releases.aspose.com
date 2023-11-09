@@ -2,6 +2,7 @@
 title: "Excel'i İşlemek için .NET DLL Bileşenlerini İndirin | Aspose.Hücreler"
 description: ".NET API aracılığıyla MS Excel® ve OpenOffice® Elektronik Tabloları oluşturmak, değiştirmek, işlemek ve yazdırmak için C# Sınıf Kitaplığı içeren DLL dosyasını indirin. DOCX, PPTX, PDF, XPS'ye dönüştürün."
 keywords: "Excel API, .NET Excel API, C# Excel"
+linktitle: ".NET için Aspose.Cells"
 family_listing_page_title: ".NET için Aspose.Cells"
 family_listing_page_description: "Aspose.Cells for .NET, yazılım geliştiricilerin elektronik tablo dosyalarını kendi uygulamalarından değiştirmelerine ve dönüştürmelerine olanak tanıyan bir Excel Elektronik Tablo Programlama API'sidir. API'ler ve GUI kontrollerinin bir kombinasyonu - Aspose.Cells for .NET, elektronik tablo işleme ve dönüştürme görevlerini hızlandırır."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-net.png"
@@ -94,4 +95,3 @@ Zengin nesne modeli, .NET geliştiricilerine, özet grafikler oluşturmaktan, el
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

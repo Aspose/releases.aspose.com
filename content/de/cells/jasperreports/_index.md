@@ -2,6 +2,7 @@
 title: "Berichte als Excel-Dateien exportieren | Aspose.Cells für JasperReports®"
 description: "Laden Sie die JasperReports- und JasperServer-Erweiterung für Excel herunter. Es bietet den Export von Berichten in den Formaten Microsoft Excel XLS, XLSX, PDF, ODS, TXT und SpreadsheetML, ohne Microsoft Excel zu verwenden."
 keywords: "JasperReports Extension, Report Converter "
+linktitle: "Aspose.Cells für JasperReports"
 family_listing_page_title: "Aspose.Cells für JasperReports"
 family_listing_page_description: "Aspose.Cells for JasperReports ist eine flexible JasperReports- und JasperServer-Erweiterung, die es ermöglicht, Berichte in Microsoft Excel XLS-, XLSX-, PDF-, ODS-, TXT- und SpreadsheetML-Formaten zu exportieren, ohne Microsoft Excel zu verwenden. Es fungiert als Alternative zum ursprünglichen Microsoft Excel-Exporter von JasperReports und eliminiert die Abhängigkeit von der POI-Bibliothek."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-jasperreports.png"

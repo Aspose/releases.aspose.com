@@ -2,6 +2,7 @@
 title: "Android-Bibliothek für Excel-Tabellen | Aspose.Cells für Android"
 description: "Laden Sie die Excel-Android-Bibliothek herunter, um Excel-Dateien ohne Abhängigkeiten in Android-Apps zu erstellen, zu lesen, zu schreiben oder zu manipulieren."
 keywords: "Excel Android API, Manipulate Excel Spreadsheets "
+linktitle: "Aspose.Cells für Android über Java"
 family_listing_page_title: "Aspose.Cells für Android über Java"
 family_listing_page_description: "Aspose.Cells für Android über Java ist eine Android-Tabellenkalkulations-API, mit der Entwickler Android-Anwendungen erstellen können, die Excel-Tabellen lesen, schreiben, bearbeiten, konvertieren oder rendern können, ohne auf Microsoft Excel angewiesen zu sein."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-android.png"
@@ -80,4 +81,3 @@ classifier: 'android.via.java')
 
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

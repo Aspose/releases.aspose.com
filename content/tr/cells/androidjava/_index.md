@@ -2,6 +2,7 @@
 title: "Excel Elektronik Tabloları için Android Kitaplığı | Android için Aspose.Cells"
 description: "Herhangi bir bağımlılık olmadan Android uygulamalarının içinden Excel dosyaları oluşturmak, okumak, yazmak veya değiştirmek için Excel Android Kitaplığı'nı indirin."
 keywords: "Excel Android API, Manipulate Excel Spreadsheets "
+linktitle: "Java aracılığıyla Android için Aspose.Cells"
 family_listing_page_title: "Java aracılığıyla Android için Aspose.Cells"
 family_listing_page_description: "Java üzerinden Android için Aspose.Cells, geliştiricilerin Microsoft Excel'e güvenmeden Excel elektronik tablolarını okuyabilen, yazabilen, değiştirebilen, dönüştürebilen veya oluşturabilen Android uygulamaları oluşturmasına olanak tanıyan bir Android Elektronik Tablo API'sidir."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-android.png"
@@ -80,4 +81,3 @@ classifier: 'android.via.java')
 
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-
