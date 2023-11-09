@@ -2,6 +2,7 @@
 title: "API de fichier de feuille de calcul | Bibliothèque Python Excel | Aspose.Cells pour Python via Java"
 description: "Téléchargez Excel Python Library pour générer, lire, écrire ou manipuler des feuilles de calcul, ainsi qu'exporter des fichiers Excel vers plusieurs formats à partir d'applications Python."
 keywords: "Python Library for Excel "
+linktitle: "Aspose.Cells pour Python via Java"
 family_listing_page_title: "Aspose.Cells pour Python via Java"
 family_listing_page_description: "Aspose.Cells pour Python via Java est une API rapide et fiable pour les tâches de traitement des feuilles de calcul. Les développeurs peuvent créer des feuilles de calcul simples ou complexes, manipuler et extraire des informations à partir de fichiers Excel. L'API lit plusieurs formats Excel et peut restituer des feuilles de calcul au format XPS, PDF, MHTML, HTML, texte brut, images, etc."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-python-via-java.png"
@@ -52,4 +53,3 @@ Vous pouvez facilement utiliser <b>aspose-cells</b> pour Python à partir de
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

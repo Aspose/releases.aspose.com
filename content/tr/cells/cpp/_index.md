@@ -2,6 +2,7 @@
 title: "Elektronik Tablo İşleme için C++ DLL İndirin | Aspose.Hücreler"
 description: "Yerel API aracılığıyla Excel® elektronik tablo satırları, sütunları, verileri, formülleri, özet tabloları, çalışma sayfaları, çizelgeleri ve çizim nesneleri ile çalışmak için C++ Sınıf Kitaplığı DLL dosyasını indirin."
 keywords: "C++ Excel library, C++ Excel Programming API"
+linktitle: "C++ için Aspose.Cells"
 family_listing_page_title: "C++ için Aspose.Cells"
 family_listing_page_description: "Aspose.Cells for C++, XLS, XLSX, XLSM, XLSB, TSV ve CSV gibi en sık kullanılan elektronik tablo formatları için bir dizi üst düzey API sunan yerel bir C++ kütüphanesidir. Aspose.Cells for C++, Office Otomasyonu veya Microsoft Excel uygulamasına ihtiyaç duymadan Excel elektronik tabloları oluşturma, değiştirme ve dönüştürme özelliklerine sahip yüksek performanslı C++ uygulamaları oluşturmanıza olanak tanır."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png"
@@ -89,4 +90,3 @@ Aspose.Cells for C++, Microsoft Excel'de yerleşik ve özel belge özellikleriyl
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

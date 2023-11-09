@@ -2,6 +2,7 @@
 title: "SSRS RDL to Excel Exporter | Aspose.Cells for Reporting Services"
 description: "Download RDL to Excel Exporter for Reporting Services. Export RDL & RDLC reports to Excel spreadsheet file formats (XLS XLSX XLSM XLSB CSV SpreadsheetML HTML & ODS) with ease. "
 keywords: "Excel Extension, SSRS Report Exporter, Rendering Extension "
+linktitle: "Aspose.Cells for Reporting Services"
 family_listing_page_title: "Aspose.Cells for Reporting Services"
 family_listing_page_description: "Aspose.Cells for Reporting Services allows you to deliver Excel reports from within the Microsoft SQL Server Reporting Services and Microsoft Report Viewer. Unlike the native exporter for Excel based reports - Aspose.Cells for Reporting Services allows the conversion of RDL & RDLC reports to a number of Excel spreadsheet file formats."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-reporting-services.png"

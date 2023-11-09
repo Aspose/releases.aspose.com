@@ -1,7 +1,7 @@
 ---
-title: "Aspose.Cells | Excel E -tablo İşleme Java Kütüphanesi" 
-linktitle: Aspose.Cells
-description: "Excel & OpenOffice elektronik tablolarını işlemek, manipüle etmek ve dönüştürmek için Java Kütüphanesi. Formül (E), grafikler, doğrulamalar, oluşturma, yazdırma ve şifrelemeyi destekler." 
+title: "Aspose.Cells | Excel E -tablo İşleme Java Kütüphanesi"
+linktitle: "Java için Aspose.Cells"
+description: "Excel & OpenOffice elektronik tablolarını işlemek, manipüle etmek ve dönüştürmek için Java Kütüphanesi. Formül (E), grafikler, doğrulamalar, oluşturma, yazdırma ve şifrelemeyi destekler."
 layout: packages
 type: repository
 categories:
@@ -68,8 +68,8 @@ keywords:
 - JSON to CSV
 - CSV to JSON
 - import
-family_listing_page_title: "Java için aspose.cels" 
-family_listing_page_description: "Aspose.Cells için Java, Java geliştiricilerinin Microsoft Excel'e güvenmeye gerek kalmadan Excel elektronik tablolarını kendi Java uygulamalarında okuma, yazma ve manipüle etme yeteneğini yerleştirmesini sağlayan ödüllü bir Excel elektronik tablo işleme API'sıdır." 
+family_listing_page_title: "Java için aspose.cels"
+family_listing_page_description: "Aspose.Cells için Java, Java geliştiricilerinin Microsoft Excel'e güvenmeye gerek kalmadan Excel elektronik tablolarını kendi Java uygulamalarında okuma, yazma ve manipüle etme yeteneğini yerleştirmesini sağlayan ödüllü bir Excel elektronik tablo işleme API'sıdır."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"

@@ -2,6 +2,7 @@
 title: "Elektronik Tablo Dosyası API'si | PHP Excel Kitaplığı | Java aracılığıyla PHP için Aspose.Cells"
 description: "Excel dosyaları için PHP kitaplığını indirin. Excel dosya işleme görevlerini gerçekleştirin ve Excel dosyalarını Microsoft Excel bağımlılığı olmadan PDF'ye, resimlere, CSV'ye ve diğer birçok formata aktarın."
 keywords: "PHP Library for Excel, Excel File Processing "
+linktitle: "Java aracılığıyla PHP için Aspose.Cells"
 family_listing_page_title: "Java aracılığıyla PHP için Aspose.Cells"
 family_listing_page_description: "Aspose.Cells for PHP with Java, geliştiricilerin JavaBridge'i kullanırken PHP uygulamalarında Excel elektronik tablolarını okuma, yazma ve değiştirme yeteneğini kullanmalarına olanak tanıyan bir Excel Elektronik Tablo İşleme API'sidir."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose.cells-for-php-via-java-min.png"
@@ -54,4 +55,3 @@ aspose/cells Packagist'te şu şekilde mevcuttur:
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
-

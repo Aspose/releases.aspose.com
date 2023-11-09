@@ -2,6 +2,7 @@
 title: "Exportar informes como archivos de Excel | Aspose.Cells para JasperReports®"
 description: "Descargue la extensión JasperReports & JasperServer para Excel. Ofrece informes de exportación en formatos Microsoft Excel XLS, XLSX, PDF, ODS, TXT y SpreadsheetML sin utilizar Microsoft Excel."
 keywords: "JasperReports Extension, Report Converter "
+linktitle: "Aspose.Cells para JasperReports"
 family_listing_page_title: "Aspose.Cells para JasperReports"
 family_listing_page_description: "Aspose.Cells for JasperReports es una extensión flexible de JasperReports y JasperServer que permite exportar informes en formatos Microsoft Excel XLS, XLSX, PDF, ODS, TXT y SpreadsheetML sin utilizar Microsoft Excel. Funciona como una alternativa al exportador original de Microsoft Excel de JasperReports y elimina la dependencia de la biblioteca de puntos de interés."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-jasperreports.png"
@@ -21,11 +22,11 @@ Aspose.Cells for JasperReports lo ayuda a exportar los informes de JasperReports
 
 {{< Common/h4 class=" " text="Pruebe las aplicaciones gratuitas de procesamiento de Excel® en línea" >}}
 {{< Common/ul>}}
-{{< Common/li >}} 
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/editor" text="Aplicación en línea gratuita Excel® Editor para modificar hojas de cálculo de Excel® y OpenOffice"  >}}{{< /Common/li >}}
-{{< Common/li >}} 
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/conversion" text="Aplicación gratuita Excel® Converter Online para convertir hojas de cálculo a varios formatos admitidos."  >}}{{< /Common/li >}}
-{{< Common/li >}} 
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/parser" text="Aplicación gratuita de análisis de hojas de cálculo en línea para analizar texto e imágenes en formatos XLS, ODS y NÚMEROS"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
@@ -70,4 +71,3 @@ Aspose.Cells for JasperReports lo ayuda a exportar los informes de JasperReports
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

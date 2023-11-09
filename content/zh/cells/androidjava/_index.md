@@ -2,6 +2,7 @@
 title: "用于 Excel 电子表格的 Android 库 | Aspose.Cells for Android"
 description: "下载 Excel Android 库以在 Android 应用程序中创建、读取、写入或操作 Excel 文件，而无需任何依赖。"
 keywords: "Excel Android API, Manipulate Excel Spreadsheets "
+linktitle: "Aspose.Cells for Android 通过 Java"
 family_listing_page_title: "Aspose.Cells for Android 通过 Java"
 family_listing_page_description: "Aspose.Cells for Android via Java 是一个 Android 电子表格 API，允许开发人员构建可以读取、写入、操作、转换或呈现 Excel 电子表格的 Android 应用程序，而无需依赖 Microsoft Excel。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-android.png"
@@ -80,4 +81,3 @@ classifier: 'android.via.java')
 
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

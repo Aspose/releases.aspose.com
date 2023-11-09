@@ -2,6 +2,7 @@
 title: "Export Reports as Excel Files | Aspose.Cells for JasperReports®"
 description: "Download JasperReports & JasperServer extension for Excel. It offers exporting reports in Microsoft Excel XLS, XLSX, PDF, ODS, TXT and SpreadsheetML formats without using Microsoft Excel. "
 keywords: "JasperReports Extension, Report Converter "
+linktitle: "Aspose.Cells for JasperReports"
 family_listing_page_title: "Aspose.Cells for JasperReports"
 family_listing_page_description: "Aspose.Cells for JasperReports is a flexible JasperReports and JasperServer extension that allows to export reports in Microsoft Excel XLS, XLSX, PDF, ODS, TXT and SpreadsheetML formats without using Microsoft Excel. It works as an alternative to JasperReports' original Microsoft Excel exporter as well as eliminates the dependency on the POI library."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-jasperreports.png"
@@ -48,7 +49,7 @@ Aspose.Cells for JasperReports helps you export the reports from the JasperRepor
 **Markup:** XML \
 **Other:** CSV, TSV, TabDelimited
 
-#### System Requirements 
+#### System Requirements
 
 - Java 2 Platform Standard Edition 1.6 or higher.
 - JasperReports 6.3.0 or higher

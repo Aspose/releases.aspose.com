@@ -1,0 +1,19 @@
+---
+id: "aspose-cells-for-reporting-services-23-4-release-notes"
+slug: "aspose-cells-for-reporting-services-23-4-release-notes"
+linktitle: "Aspose.Cells Reporting Services 23.4 Notas de la versión"
+title: "Aspose.Cells Reporting Services 23.4 Notas de la versión"
+weight: 18
+description: "Aspose.Cells Reporting Services admite la representación en tipos de informes de formato. por ejemplo, Xlsx, Pdf, Json, Docx, Pptx, Html, Svg, Ods, Png, etc."
+type: "repository"
+layout: "release"
+family_listing_page_title: "Aspose.Cells Reporting Services 23.4 Notas de la versión"
+---
+{{% alert color="primary" %}} 
+Esta página contiene notas de la versión para Aspose.Cells Reporting Services 23.4
+'{{% /alert %}} '
+##  **Lista completa de problemas y mejoras cubiertas en esta versión**
+
+|**ID**|**Resumen**|**Categoría**|
+| :- | :- | :- |
+| 39649 | Optimizar Aspose.Cells Núcleo de servicios de informes.|

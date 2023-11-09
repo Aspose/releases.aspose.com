@@ -2,6 +2,7 @@
 title: "SSRS RDL'den Excel'e Aktarıcı | Aspose.Cells for Reporting Services"
 description: "Raporlama Hizmetleri için RDL'yi Excel Dışa Aktarıcı'ya indirin. RDL ve RDLC raporlarını kolaylıkla Excel elektronik tablo dosya biçimlerine (XLS XLSX XLSM XLSB CSV Elektronik TabloML HTML ve ODS) aktarın."
 keywords: "Excel Extension, SSRS Report Exporter, Rendering Extension "
+linktitle: "Aspose.Cells for Reporting Services"
 family_listing_page_title: "Aspose.Cells for Reporting Services"
 family_listing_page_description: "Aspose.Cells for Reporting Services, Microsoft SQL Server Reporting Services ve Microsoft Report Viewer içinden Excel raporları sunmanıza olanak tanır. Excel tabanlı raporlar için yerel ihracatçıdan farklı olarak - Aspose.Cells for Reporting Services, RDL ve RDLC raporlarının bir dizi Excel elektronik tablo dosya formatına dönüştürülmesine izin verir."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-reporting-services.png"
@@ -141,4 +142,3 @@ Aspose.Cells for Reporting Services (Aspose.Cells.ReportingServices istemcisi, M
 
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

@@ -2,6 +2,7 @@
 title: "Excel スプレッドシート用 Android ライブラリ | Aspose.Cells for Android"
 description: "Excel Android ライブラリをダウンロードして、依存関係なしで Android アプリ内から Excel ファイルを作成、読み取り、書き込み、または操作します。"
 keywords: "Excel Android API, Manipulate Excel Spreadsheets "
+linktitle: "Java 経由の Android 用 Aspose.Cells"
 family_listing_page_title: "Java 経由の Android 用 Aspose.Cells"
 family_listing_page_description: "Aspose.Cells for Android via Java は Android スプレッドシート API であり、開発者は Microsoft Excel に依存せずに Excel スプレッドシートの読み取り、書き込み、操作、変換、またはレンダリングが可能な Android アプリケーションを構築できます。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-android.png"
@@ -80,4 +81,3 @@ classifier: 'android.via.java')
 
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

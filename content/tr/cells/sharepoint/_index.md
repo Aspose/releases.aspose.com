@@ -2,6 +2,7 @@
 title: "SharePoint için Excel Dosya Dönüştürücü | Aspose.Cells for SharePoint"
 description: "Excel elektronik tablolarını doğrudan SharePoint belge kitaplığından 8'den fazla dosya biçimine dönüştürmek için SharePoint için Excel Dışa Aktarıcı'yı indirin."
 keywords: "SharePoint Exporter, Excel Converter "
+linktitle: "Aspose.Cells for SharePoint"
 family_listing_page_title: "Aspose.Cells for SharePoint"
 family_listing_page_description: "Aspose.Cells for SharePoint, Microsoft SharePoint içindeki Microsoft Excel dosyalarını dönüştürebilen esnek bir Excel elektronik tablo dönüştürücü uygulamasıdır. SharePoint'in yerel dosya biçimi desteğine dahil olmayan birkaç belge biçimini destekler."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-sharepoint.png"
@@ -21,11 +22,11 @@ weight: 7
 
 {{< Common/h4 class=" " text="Ücretsiz Çevrimiçi Excel® İşleme Uygulamalarını Deneyin" >}}
 {{< Common/ul>}}
-{{< Common/li >}} 
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/editor" text="Excel® ve OpenOffice elektronik tablolarını değiştirmek için Ücretsiz Excel® Editor Online Uygulaması"  >}}{{< /Common/li >}}
-{{< Common/li >}} 
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/conversion" text="Elektronik tabloları desteklenen çeşitli biçimlere dönüştürmek için Ücretsiz Excel® Dönüştürücü Çevrimiçi Uygulaması."  >}}{{< /Common/li >}}
-{{< Common/li >}} 
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/parser" text="XLS, ODS ve NUMBERS biçimlerinden metin ve görüntüleri ayrıştırmak için Ücretsiz Elektronik Tablo Ayrıştırma Çevrimiçi Uygulaması"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
@@ -109,4 +110,3 @@ weight: 7
 
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

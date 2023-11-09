@@ -1,7 +1,7 @@
 ---
-title: "aspose.cells | Excel电子表格处理Java库" 
-linktitle: Aspose.Cells
-description: "Java库处理，操纵和转换Excel和OpenOffice电子表格。支持公式（E），图表，验证，渲染，打印和加密。" 
+title: "aspose.cells | Excel电子表格处理Java库"
+linktitle: "用于 Java 的 Aspose.Cells"
+description: "Java库处理，操纵和转换Excel和OpenOffice电子表格。支持公式（E），图表，验证，渲染，打印和加密。"
 layout: packages
 type: repository
 categories:
@@ -68,8 +68,8 @@ keywords:
 - JSON to CSV
 - CSV to JSON
 - import
-family_listing_page_title: "aspose.cells for Java" 
-family_listing_page_description: "Aspose.cells for Java是屡获殊荣的Excel电子表格处理API，它允许Java开发人员可以将阅读，写入和操纵Excel电子表格嵌入自己的Java应用程序中，而无需依靠Microsoft Excel。" 
+family_listing_page_title: "aspose.cells for Java"
+family_listing_page_description: "Aspose.cells for Java是屡获殊荣的Excel电子表格处理API，它允许Java开发人员可以将阅读，写入和操纵Excel电子表格嵌入自己的Java应用程序中，而无需依靠Microsoft Excel。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"

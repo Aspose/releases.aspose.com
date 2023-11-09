@@ -2,6 +2,7 @@
 title: "Elektronik Tablolar için Node.js Kitaplığı | Node.js için Aspose.Cells"
 description: "Microsoft Excel gerektirmeden Node.js kullanarak Excel elektronik tabloları oluşturmak, değiştirmek, dönüştürmek ve işlemek için Node.js Kitaplığını indirin."
 keywords: "Node.js Excel Library, Node.js Excel API "
+linktitle: "Java aracılığıyla Node.js için Aspose.Cells"
 family_listing_page_title: "Java aracılığıyla Node.js için Aspose.Cells"
 family_listing_page_description: "Java üzerinden Aspose.Cells for Node.js, geliştiricilerin Node.js aracılığıyla Excel elektronik tablolarını okuma, yazma ve değiştirme yeteneğini kullanmalarına olanak tanıyan bir Excel Elektronik Tablo İşleme API'sidir."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-nodejs.png"
@@ -52,4 +53,3 @@ Javascript için <b>aspose.cells'i</b> şuradan kolayca kullanabilirsiniz:
 
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

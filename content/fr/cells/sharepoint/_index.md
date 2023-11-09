@@ -2,6 +2,7 @@
 title: "Convertisseur de fichiers Excel pour SharePoint | Aspose.Cells pour SharePoint"
 description: "Téléchargez Excel Exporter pour SharePoint pour convertir des feuilles de calcul Excel en plus de 8 formats de fichiers directement à partir de la bibliothèque de documents SharePoint."
 keywords: "SharePoint Exporter, Excel Converter "
+linktitle: "Aspose.Cells pour SharePoint"
 family_listing_page_title: "Aspose.Cells pour SharePoint"
 family_listing_page_description: "Aspose.Cells for SharePoint est une application de conversion de feuille de calcul Excel flexible qui peut convertir des fichiers Microsoft Excel à partir de Microsoft SharePoint. Il prend en charge plusieurs formats de document qui ne sont pas inclus dans la prise en charge du format de fichier natif de SharePoint."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-sharepoint.png"
@@ -109,4 +110,3 @@ weight: 7
 
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

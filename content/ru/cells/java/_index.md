@@ -1,7 +1,7 @@
 ---
-title: "Aspose.cells | Excel Электронная таблица Обработка библиотеки Java" 
-linktitle: Aspose.Cells
-description: "Библиотека Java для обработки, манипулирования и преобразования электронных таблиц Excel & OpenOffice. Поддерживает формулу (E), диаграммы, проверки, рендеринг, печать и шифрование." 
+title: "Aspose.cells | Excel Электронная таблица Обработка библиотеки Java"
+linktitle: "Aspose.Cells для Java"
+description: "Библиотека Java для обработки, манипулирования и преобразования электронных таблиц Excel & OpenOffice. Поддерживает формулу (E), диаграммы, проверки, рендеринг, печать и шифрование."
 layout: packages
 type: repository
 categories:
@@ -68,8 +68,8 @@ keywords:
 - JSON to CSV
 - CSV to JSON
 - import
-family_listing_page_title: "Aspose.cells для Java" 
-family_listing_page_description: "Aspose.cells для Java-это отмеченный наградами API обработки электронных таблиц Excel, который позволяет разработчикам Java внедрять возможность читать, писать и манипулировать электронными таблицами Excel в свои собственные приложения Java, не полагаясь на Microsoft Excel." 
+family_listing_page_title: "Aspose.cells для Java"
+family_listing_page_description: "Aspose.cells для Java-это отмеченный наградами API обработки электронных таблиц Excel, который позволяет разработчикам Java внедрять возможность читать, писать и манипулировать электронными таблицами Excel в свои собственные приложения Java, не полагаясь на Microsoft Excel."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"

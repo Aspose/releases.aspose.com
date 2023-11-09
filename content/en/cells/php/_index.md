@@ -1,6 +1,7 @@
 ---
 title: "Spreadsheet File API | PHP Excel Library | Aspose.Cells for PHP via Java"
 description: "Download PHP library for Excel files. Perform Excel file manipulation tasks as well as export Excel files to PDF, images, CSV and many other formats, without Microsoft Excel dependency. "
+linktitle: "Aspose.Cells for PHP via Java"
 keywords: "PHP Library for Excel, Excel File Processing "
 family_listing_page_title: "Aspose.Cells for PHP via Java"
 family_listing_page_description: "Aspose.Cells for PHP via Java is an Excel Spreadsheet Processing API that allows the developers to employ the ability to read, write and manipulate Excel spreadsheets in their on PHP applications while using the JavaBridge."

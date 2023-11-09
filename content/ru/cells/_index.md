@@ -2,6 +2,7 @@
 title: "API и компоненты Excel для разработчиков | Семейство продуктов Aspose.Cells"
 description: "Загрузите библиотеки .NET, Java, C++, Android, PHP, Node.js и Python для создания, управления, преобразования и визуализации электронных таблиц Microsoft Excel. Aspose.Cells также предоставляет визуальные компоненты для веб- и настольных приложений, которые имитируют внешний вид Excel."
 keywords: "Excel API, Excel library, Excel .NET, "
+linktitle: "Семейство продуктов Aspose.Cells"
 family_listing_page_title: "Семейство продуктов Aspose.Cells"
 family_listing_page_description: ""
 family_listing_page_iconurl: ""
@@ -16,4 +17,3 @@ weight:  4
 {{< dbToolbar link="https://forum.aspose.com/c/cells" linktext=" Support Forum " >}}
 
 {{< ProductListingWrapper family="cells">}}
-

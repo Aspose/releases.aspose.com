@@ -2,6 +2,7 @@
 title: "API файлов электронных таблиц | Библиотека Python для Excel | Aspose.Cells для Python через Java"
 description: "Загрузите библиотеку Excel Python, чтобы создавать, читать, писать или управлять электронными таблицами, а также экспортировать файлы Excel в различные форматы из приложений Python."
 keywords: "Python Library for Excel "
+linktitle: "Aspose.Cells для Python через Java"
 family_listing_page_title: "Aspose.Cells для Python через Java"
 family_listing_page_description: "Aspose.Cells for Python через Java — это быстрый и надежный API для задач обработки электронных таблиц. Разработчики могут создавать простые или сложные электронные таблицы, манипулировать ими и извлекать информацию из файлов Excel. API читает несколько форматов Excel и может преобразовывать рабочие листы в XPS, PDF, MHTML, HTML, обычный текст, изображения и многое другое."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-python-via-java.png"
@@ -52,4 +53,3 @@ weight:  10
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

@@ -2,6 +2,7 @@
 title: "API de archivo de hoja de cálculo | Biblioteca PHP Excel | Aspose.Cells para PHP a través de Java"
 description: "Descargue la biblioteca PHP para archivos de Excel. Realice tareas de manipulación de archivos de Excel y exporte archivos de Excel a PDF, imágenes, CSV y muchos otros formatos, sin depender de Microsoft Excel."
 keywords: "PHP Library for Excel, Excel File Processing "
+linktitle: "Aspose.Cells para PHP a través de Java"
 family_listing_page_title: "Aspose.Cells para PHP a través de Java"
 family_listing_page_description: "Aspose.Cells para PHP a través de Java es una API de procesamiento de hojas de cálculo de Excel que permite a los desarrolladores emplear la capacidad de leer, escribir y manipular hojas de cálculo de Excel en sus aplicaciones PHP mientras usan JavaBridge."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose.cells-for-php-via-java-min.png"
@@ -54,4 +55,3 @@ aspose/cells está disponible en Packagist como el
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
-

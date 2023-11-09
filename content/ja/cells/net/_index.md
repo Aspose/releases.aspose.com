@@ -2,6 +2,7 @@
 title: "Excel を処理する .NET DLL コンポーネントをダウンロード | Aspose.Cells"
 description: "C# クラス ライブラリを含む DLL をダウンロードして、.NET API 経由で MS Excel® および OpenOffice® スプレッドシートを作成、変更、レンダリング、印刷します。 DOCX、PPTX、PDF、XPS に変換します。"
 keywords: "Excel API, .NET Excel API, C# Excel"
+linktitle: ".Net 用の Aspose.Cells"
 family_listing_page_title: "Aspose.Cells for .NET"
 family_listing_page_description: "Aspose.Cells for .NET は、ソフトウェア開発者が独自のアプリケーション内からスプレッドシート ファイルを操作および変換できるようにする Excel スプレッドシート プログラミング API です。 API と GUI コントロールの組み合わせ - Aspose.Cells for .NET は、スプレッドシートの処理と変換タスクを高速化します。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-net.png"
@@ -94,4 +95,3 @@ Aspose.Cells for .NET を使用すると、.NET、C#、ASP.NET、および VB.NE
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

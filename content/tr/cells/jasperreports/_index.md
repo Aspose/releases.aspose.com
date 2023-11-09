@@ -2,6 +2,7 @@
 title: "Raporları Excel Dosyaları Olarak Dışa Aktarma | Aspose.Cells for JasperReports®"
 description: "Excel için JasperReports ve JasperServer uzantısını indirin. Microsoft Excel XLS, XLSX, PDF, ODS, TXT ve SpreadsheetML formatlarında Microsoft Excel kullanmadan dışa aktarma raporları sunar."
 keywords: "JasperReports Extension, Report Converter "
+linktitle: "JasperReports için Aspose.Cells"
 family_listing_page_title: "Aspose.Cells for JasperReports"
 family_listing_page_description: "Aspose.Cells for JasperReports, raporları Microsoft Excel XLS, XLSX, PDF, ODS, TXT ve SpreadsheetML formatlarında Microsoft Excel kullanmadan dışa aktarmaya izin veren esnek bir JasperReports ve JasperServer uzantısıdır. JasperReports'un orijinal Microsoft Excel dışa aktarıcısına bir alternatif olarak çalışır ve POI kitaplığına olan bağımlılığı ortadan kaldırır."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-jasperreports.png"
@@ -21,11 +22,11 @@ Aspose.Cells for JasperReports, raporları JasperReports® ve JasperServer®'dan
 
 {{< Common/h4 class=" " text="Ücretsiz Çevrimiçi Excel® İşleme Uygulamalarını Deneyin" >}}
 {{< Common/ul>}}
-{{< Common/li >}} 
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/editor" text="Excel® ve OpenOffice elektronik tablolarını değiştirmek için Ücretsiz Excel® Editor Online Uygulaması"  >}}{{< /Common/li >}}
-{{< Common/li >}} 
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/conversion" text="Elektronik tabloları desteklenen çeşitli biçimlere dönüştürmek için Ücretsiz Excel® Dönüştürücü Çevrimiçi Uygulaması."  >}}{{< /Common/li >}}
-{{< Common/li >}} 
+{{< Common/li >}}
 {{< Common/link href="https://products.aspose.app/cells/parser" text="XLS, ODS ve NUMBERS biçimlerinden metin ve görüntüleri ayrıştırmak için Ücretsiz Elektronik Tablo Ayrıştırma Çevrimiçi Uygulaması"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
@@ -70,4 +71,3 @@ Aspose.Cells for JasperReports, raporları JasperReports® ve JasperServer®'dan
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

@@ -2,6 +2,7 @@
 title: "Download .NET DLL Components to Process Excel | Aspose.Cells"
 description: "Download DLL containing C# Class Library to create, modify, render & print MS Excel® & OpenOffice® Spreadsheets via .NET API. Convert to DOCX, PPTX, PDF, XPS."
 keywords: "Excel API, .NET Excel API, C# Excel"
+linktitle: "Aspose.Cells for .NET"
 family_listing_page_title: "Aspose.Cells for .NET"
 family_listing_page_description: "Aspose.Cells for .NET is an Excel Spreadsheet Programming API allowing software developers to manipulate and convert spreadsheet files from within their own applications. A combination of APIs and GUI controls - Aspose.Cells for .NET speeds up the spreadsheet processing and conversion tasks."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-net.png"

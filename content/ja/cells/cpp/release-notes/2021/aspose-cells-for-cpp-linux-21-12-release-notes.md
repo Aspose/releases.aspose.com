@@ -1,0 +1,22 @@
+---
+id: "aspose-cells-for-cpp-linux-21-12-release-notes"
+slug: "aspose-cells-for-cpp-linux-21-12-release-notes"
+linktitle: "CPP 21.12 リリース ノート Linux の場合は Aspose.Cells"
+title: "CPP 21.12 リリース ノート Linux の場合は Aspose.Cells"
+weight: 5
+description: "CPP 21.12 リリース ノート Linux の場合は Aspose.Cells – the latest updates and fixes."
+type: "repository"
+layout: "release"
+family_listing_page_title: "CPP 21.12 リリース ノート Linux の場合は Aspose.Cells"
+---
+{{% alert color="primary" %}}
+
+このページには、Linux 用の Aspose.Cells for C++ 21.12 のリリース ノートが含まれています。
+
+{{% /alert %}}
+
+Linux 用の Aspose.Cells for C++ 21.12 のリリースを発表できることをうれしく思います。
+
+|**鍵**|**概要**|**カテゴリー**|
+|:- |:- |:- |
+|CELLSCPP-570|null ポインター例外を修正するために throw ステートメントを追加します。|バグ|

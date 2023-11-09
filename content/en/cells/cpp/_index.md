@@ -2,6 +2,7 @@
 title: "Download C++ DLL for Spreadsheet Processing | Aspose.Cells"
 description: "Download C++ Class Library DLL to work with Excel® spreadsheet rows, columns, data, formulas, pivot tables, worksheets, charts & drawing objects via native API."
 keywords: "C++ Excel library, C++ Excel Programming API"
+linktitle: "Aspose.Cells for C++"
 family_listing_page_title: "Aspose.Cells for C++"
 family_listing_page_description: "Aspose.Cells for C++ is a native C++ library that offers a set of high-level APIs for most commonly used spreadsheet formats such as XLS, XLSX, XLSM, XLSB, TSV and CSV. Aspose.Cells for C++ allows you to build high performance C++ applications having the capabilities to create, manipulate and convert Excel spreadsheets without relying on Office Automation or Microsoft Excel application."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png"
