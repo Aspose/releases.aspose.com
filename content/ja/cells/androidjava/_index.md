@@ -21,7 +21,7 @@ weight: 4
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Cells for Android は、Java 経由で直接、
 {{< Common/link href="https://repository.aspose.com/cells/" text="メイヴン"  >}}build.gradle に次の構成を追加することにより、ベースのプロジェクト。
-{{< Common/release-notes-link family="cells" product="androidjava" href="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/" text="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/"  >}}
+{{< Common/release-notes-link family="cells" product="androidjava" href="https://releases.aspose.com/ja/cells/androidjava/release-notes/" text="https://releases.aspose.com/ja/cells/androidjava/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}

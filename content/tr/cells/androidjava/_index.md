@@ -21,7 +21,7 @@ weight: 4
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Cells for Android'i Java aracılığıyla doğrudan bir
 {{< Common/link href="https://repository.aspose.com/cells/" text="Uzman"  >}}build.gradle'a aşağıdaki konfigürasyonları ekleyerek proje tabanlı.
-{{< Common/release-notes-link family="cells" product="androidjava" href="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/" text="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/"  >}}
+{{< Common/release-notes-link family="cells" product="androidjava" href="https://releases.aspose.com/tr/cells/androidjava/release-notes/" text="https://releases.aspose.com/tr/cells/androidjava/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}

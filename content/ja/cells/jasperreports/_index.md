@@ -30,7 +30,7 @@ Aspose.Cells for JasperReports を使用すると、レイアウトやフォー�
 {{< Common/link href="https://products.aspose.app/cells/parser" text="XLS、ODS、NUMBERS形式のテキストと画像を解析する無料のスプレッドシート解析オンラインアプリ"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="cells" product="jasperreports" href="https://docs.aspose.com/cells/jasperreports/release-notes/" text="https://docs.aspose.com/jasperreports/net/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="jasperreports" href="https://releases.aspose.com/ja/cells/jasperreports/release-notes/" text="https://releases.aspose.com/ja/cells/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

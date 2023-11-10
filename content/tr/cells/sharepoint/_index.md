@@ -30,7 +30,7 @@ weight: 7
 {{< Common/link href="https://products.aspose.app/cells/parser" text="XLS, ODS ve NUMBERS biçimlerinden metin ve görüntüleri ayrıştırmak için Ücretsiz Elektronik Tablo Ayrıştırma Çevrimiçi Uygulaması"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="cells" product="sharepoint" href="https://docs.aspose.com/cells/sharepoint/release-notes/" text="https://docs.aspose.com/cells/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="sharepoint" href="https://releases.aspose.com/tr/cells/sharepoint/release-notes/" text="https://releases.aspose.com/tr/cells/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

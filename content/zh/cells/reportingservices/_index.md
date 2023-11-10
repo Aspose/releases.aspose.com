@@ -18,7 +18,7 @@ weight: 6
 {{< Common/h3 text="下载用于 SQL 报告的 Aspose.Cells Desinger & Renderer"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Cells for Reporting Services 在 Microsoft SQL Server® Reporting Services 中无缝添加了无数功能，包括设置数据源、创建查询、设计报表以及将它们发布到报表服务器。
-{{< Common/release-notes-link family="cells" product="reportingservices" href="https://docs.aspose.com/cells/reportingservices/release-notes/" text="https://docs.aspose.com/cells/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="reportingservices" href="https://releases.aspose.com/zh/cells/reportingservices/release-notes/" text="https://releases.aspose.com/zh/cells/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

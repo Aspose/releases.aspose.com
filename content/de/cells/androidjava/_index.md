@@ -21,7 +21,7 @@ weight: 4
 {{< Common/paragraph class="package-instructions">}}
 Sie können Aspose.Cells für Android ganz einfach über Java direkt aus einer
 {{< Common/link href="https://repository.aspose.com/cells/" text="Maven"  >}}basierte Projekt durch Hinzufügen der folgenden Konfigurationen zu build.gradle.
-{{< Common/release-notes-link family="cells" product="androidjava" href="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/" text="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/"  >}}
+{{< Common/release-notes-link family="cells" product="androidjava" href="https://releases.aspose.com/de/cells/androidjava/release-notes/" text="https://releases.aspose.com/de/cells/androidjava/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}

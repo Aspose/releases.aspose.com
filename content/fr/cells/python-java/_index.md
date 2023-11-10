@@ -28,7 +28,7 @@ Vous pouvez facilement utiliser <b>aspose-cells</b> pour Python à partir de
    {{< consolebox/textarea id="pip" >}} pip install aspose-cells {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
-{{< Common/release-notes-link family="cells" product="python-java" href="https://docs.aspose.com/cells/python-java/release-notes/2022/" text="https://docs.aspose.com/cells/python-java/release-notes/2022/"  >}}
+{{< Common/release-notes-link family="cells" product="python-java" href="https://releases.aspose.com/fr/cells/python-java/release-notes/" text="https://releases.aspose.com/fr/cells/python-java/release-notes/"  >}}
 
 {{< Common/hr >}}
 

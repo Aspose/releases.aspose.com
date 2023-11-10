@@ -27,7 +27,7 @@ Aspose.Cells для Node.js через Java — это масштабируем�
    {{< consolebox/spantext text=" " >}}
    {{< consolebox/textarea id="npm" >}} npm install aspose.cells {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/release-notes-link family="cells" product="nodejs" href="https://docs.aspose.com/cells/nodejsjava/release-notes/" text="https://docs.aspose.com/cells/nodejsjava/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="nodejs" href="https://releases.aspose.com/ru/cells/nodejs/release-notes/" text="https://releases.aspose.com/ru/cells/nodejs/release-notes/"  >}}
 
 {{< Common/hr >}}
 

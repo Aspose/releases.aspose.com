@@ -44,7 +44,7 @@ aspose/cells 在 Packagist 上作为
        {{< consolebox/textarea id="composer" >}} composer require aspose/cells {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="发行说明"  >}}
-{{< Common/release-notes-link family="cells" product="php" href="https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-3-release-notes/" text="https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="php" href="https://releases.aspose.com/zh/cells/php/release-notes/" text="https://releases.aspose.com/zh/cells/php/release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

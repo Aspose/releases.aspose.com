@@ -23,7 +23,7 @@ weight:  3
 Açık
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Cells.Cpp/" text="NuGet"  >}}Microsoft Visual Studio® içinde Paket Yöneticisi, <b>Aspose.Cells.Cpp'yi</b> arayın ve kurun. Paket Yöneticisi Konsolunda aşağıdaki komutu da kullanabilirsiniz. Ayrıntılı talimatlar için lütfen ziyaret edin
 {{< Common/link href="https://docs.aspose.com/cells/cpp/installation/" text="Kurulum"  >}}dokümantasyon sayfası.
-{{< Common/release-notes-link family="cells" product="cpp" href="https://docs.aspose.com/cells/cpp/release-notes/" text="https://docs.aspose.com/cells/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="cpp" href="https://releases.aspose.com/tr/cells/cpp/release-notes/" text="https://releases.aspose.com/tr/cells/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

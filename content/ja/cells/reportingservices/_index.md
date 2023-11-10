@@ -18,7 +18,7 @@ weight: 6
 {{< Common/h3 text="Aspose.Cells Desinger & Renderer for SQL Reports をダウンロード"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Cells for Reporting Services は、Microsoft SQL Server® Reporting Services に無数の機能をシームレスに追加します。これには、データ ソースの設定、クエリの作成、レポートの設計、Report Server への公開が含まれます。
-{{< Common/release-notes-link family="cells" product="reportingservices" href="https://docs.aspose.com/cells/reportingservices/release-notes/" text="https://docs.aspose.com/cells/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="reportingservices" href="https://releases.aspose.com/ja/cells/reportingservices/release-notes/" text="https://releases.aspose.com/ja/cells/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

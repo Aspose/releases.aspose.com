@@ -19,7 +19,7 @@ weight: 11
 .NET aracılığıyla Aspose.Cells for Python, Python kullanarak Excel® elektronik tablolarını işlemek için ölçeklenebilir ve zengin özelliklere sahip bir API'dir. API, Excel® dosyası oluşturma, işleme, dönüştürme ve oluşturma sunar. Geliştiriciler, çalışma sayfalarını, satırları, sütunları veya hücreleri en ayrıntılı düzeyde biçimlendirebilir, grafik ve özet tabloları değiştirebilir, çalışma sayfalarını, çizelgeleri ve belirli veri aralıklarını PDF veya görüntülere dönüştürebilir, Excel®'in yerleşik ve özel formüllerini ve daha fazlasını hesaplayabilir. daha fazlası - tümü Microsoft Office veya Excel® uygulamasına bağımlı olmadan.
 Lütfen aşağıdakileri kullanın
 {{< Common/link href="https://pypi.org/project/aspose-cells-python/" text="pip"  >}}emretmek:
-{{< Common/release-notes-link family="cells" product="python-net" href="https://docs.aspose.com/cells/python-net/release-notes/" text="https://docs.aspose.com/cells/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="python-net" href="https://releases.aspose.com/tr/cells/python-net/release-notes/" text="https://releases.aspose.com/tr/cells/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}

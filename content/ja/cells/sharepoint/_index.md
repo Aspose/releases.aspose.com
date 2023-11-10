@@ -30,7 +30,7 @@ weight: 7
 {{< Common/link href="https://products.aspose.app/cells/parser" text="XLS、ODS、NUMBERS形式のテキストと画像を解析する無料のスプレッドシート解析オンラインアプリ"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="cells" product="sharepoint" href="https://docs.aspose.com/cells/sharepoint/release-notes/" text="https://docs.aspose.com/cells/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="sharepoint" href="https://releases.aspose.com/ja/cells/sharepoint/release-notes/" text="https://releases.aspose.com/ja/cells/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

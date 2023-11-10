@@ -26,7 +26,7 @@ weight: 7
 {{< Common/li >}} {{< Common/link href="https://products.aspose.app/cells/parser" text="Free Spreadsheet Parsing Online App to parse text & images form XLS, ODS, & NUMBERS formats"  >}} {{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="cells" product="sharepoint" href="https://docs.aspose.com/cells/sharepoint/release-notes/" text="https://docs.aspose.com/cells/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="sharepoint" href="https://releases.aspose.com/cells/sharepoint/release-notes/" text="https://releases.aspose.com/cells/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

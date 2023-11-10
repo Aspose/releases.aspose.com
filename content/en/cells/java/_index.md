@@ -81,7 +81,7 @@ tags: ["Aspose Total", "Aspose Cells", "Aspose Java API", "spreadsheet java libr
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/cells/9
 productLink: https://products.aspose.com/cells/java/
-releaseNotesLink: https://docs.aspose.com/cells/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/cells/java/release-notes/
 dataFolder: aspose_cells
 packages_refs:
 - "23-10"

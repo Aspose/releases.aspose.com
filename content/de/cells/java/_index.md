@@ -81,7 +81,7 @@ weight: 02	#rem
 tags: ["Aspose Total", "Aspose Cells", "Aspose Java API", "spreadsheet java library", "spreadsheet java class", "Maven", "XLS", "XLSX", "XLSB", "XLSM", "XLT", "XLTX", "XLTM", "XLAM", "CSV", "TSV", "TabDelimited", "TXT", "HTML", "MHTML", "ODS", "SpreadsheetML", "Numbers", "JSON", "DIF", "PDF", "XPS", "SVG", "TIFF", "PNG", "BMP", "EMF", "JPEG", "GIF", "Markdown", "SXC", "FODS", "DOCX", "PPTX", "Windows", "Linux", "Mac", "J2SE", "print", "rendering", "spreadsheet", "encryption", "workbook", "excel to XPS", "worksheet to XPS", "workbook to XPS", "excel to HTML", "excel to PDF", "conversion", "convert", "PDFA", "worksheet to image", "worksheet to SVG", "JSON to CSV", "CSV to JSON", "import"]
 forumLink: https://forum.aspose.com/c/cells/9
 productLink: https://products.aspose.com/cells/java/
-releaseNotesLink: https://docs.aspose.com/cells/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/de/cells/java/release-notes/
 dataFolder: aspose_cells
 packages_refs:
 - "22-12"
