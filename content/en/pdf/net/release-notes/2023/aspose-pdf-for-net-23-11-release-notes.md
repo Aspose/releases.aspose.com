@@ -74,7 +74,6 @@ This page contains release notes information for Aspose.PDF for .NET 23.11.
 |PDFNET-39604|Converting Dynamic XFA form to standard form throws Exception|Bug|
 |PDFNET-39723|Dynamic form to Standard/Static conversion throws exception|Bug|
 |PDFNET-48568|Date value is not populating correctly while filling form field|Bug|
-|PDFNET-49914|The value entered in the Date Format field is incorrect|Bug|
 |PDFNET-49209|Date-Time is changed in the output PDF if FlattenAllFields() function is used|Bug|
 |PDFNET-42490|PDF to TIFF throws parameter not valid exception|Bug|
 |PDFNET-47391|Unable to correctly display Date in the form|Bug|
