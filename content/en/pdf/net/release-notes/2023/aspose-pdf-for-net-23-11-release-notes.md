@@ -91,6 +91,7 @@ This page contains release notes information for Aspose.PDF for .NET 23.11.
 |PDFNET-43590|SVG to PDF - an additional background color appears|Bug|
 |PDFNET-40982|Image to PDF - Unable to reduce PDF file size|Bug|
 |PDFNET-55776|Regression: [Aspose.PDF.Drawing] SVG to PDF black boxes|Bug|
+|PDFNET-55779|SVG to PDF as Stamp: Dotted path and text postion not rendered correctly|Bug|
 |PDFNET-43641|SVG to PDF - Opacity attribute is ignored in output PDF|Bug|
 |PDFNET-55632|ImageLoadException thrown for black and white image|Bug|
 |PDFNET-55584|PDF to XLSX Conversion clubs data in one cell|Bug|
