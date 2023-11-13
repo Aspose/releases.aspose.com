@@ -101,7 +101,96 @@ This page contains release notes information for Aspose.PDF for .NET 23.11.
 
 ### Added APIs
 
-
+* Field: Aspose.Pdf.Devices.ColorDepth.Format24bpp 
+* Method: Aspose.Pdf.Document.Merge(Aspose.Pdf.Document.MergeOptions,Aspose.Pdf.Document[]) System.Void
+* Method: Aspose.Pdf.Document.Merge(Aspose.Pdf.Document.MergeOptions,System.String[]) System.Void
+* Method: Aspose.Pdf.Document.Merge(Aspose.Pdf.Document[]) System.Void
+* Method: Aspose.Pdf.Document.Merge(System.String[]) System.Void
+* Method: Aspose.Pdf.Document.MergeDocuments(Aspose.Pdf.Document.MergeOptions,System.String[]) Aspose.Pdf.Document
+* Method: Aspose.Pdf.Document.MergeDocuments(Aspose.Pdf.Document.MergeOptions,Aspose.Pdf.Document[]) Aspose.Pdf.Document
+* Method: Aspose.Pdf.Document.MergeDocuments(System.String[]) Aspose.Pdf.Document
+* Method: Aspose.Pdf.Document.MergeDocuments(Aspose.Pdf.Document[]) Aspose.Pdf.Document
+* Type: Aspose.Pdf.Document.MergeOptions 
+* Method: Aspose.Pdf.Document.MergeOptions.#ctor System.Void
+* Property: Aspose.Pdf.Document.MergeOptions.MaximumNodesInLevel System.Byte
+* Property: Aspose.Pdf.Document.MergeOptions.IsNeedPageTreeBalance System.Boolean
+* Type: Aspose.Pdf.Multithreading.IInterruptMonitor 
+* Property: Aspose.Pdf.Multithreading.IInterruptMonitor.CancellationToken System.Threading.CancellationToken
+* Method: Aspose.Pdf.Multithreading.IInterruptMonitor.Interrupt System.Void
+* Type: Aspose.Pdf.Multithreading.InterruptMonitor 
+* Method: Aspose.Pdf.Multithreading.InterruptMonitor.#ctor System.Void
+* Property: Aspose.Pdf.Multithreading.InterruptMonitor.CancellationToken System.Threading.CancellationToken
+* Property: Aspose.Pdf.Multithreading.InterruptMonitor.ThreadLocalInstance Aspose.Pdf.Multithreading.IInterruptMonitor
+* Method: Aspose.Pdf.Multithreading.InterruptMonitor.Interrupt System.Void
+* Method: Aspose.Pdf.Multithreading.InterruptMonitor.Dispose System.Void
+* Method: Aspose.Pdf.Plugins.PdfFormFlattenFieldsOptions.#ctor(Aspose.Pdf.Plugins.SelectField) System.Void
+* Property: Aspose.Pdf.Plugins.PdfFormFlattenFieldsOptions.GetSelectFieldDelegate Aspose.Pdf.Plugins.SelectField
+* Method: Aspose.Pdf.Plugins.PdfFormRemoveFieldsOptions.#ctor(Aspose.Pdf.Plugins.SelectField) System.Void
+* Property: Aspose.Pdf.Plugins.PdfFormRemoveFieldsOptions.GetSelectFieldDelegate Aspose.Pdf.Plugins.SelectField
+* Property: Aspose.Pdf.Text.TextReplaceOptions.RightAdjustment System.Double
+* Property: Aspose.Pdf.Text.TextReplaceOptions.LeftAdjustment System.Double
+* Type: Aspose.Pdf.Utils.DictionaryEditor 
+* Method: Aspose.Pdf.Utils.DictionaryEditor.#ctor(Aspose.Pdf.Page) System.Void
+* Method: Aspose.Pdf.Utils.DictionaryEditor.#ctor(Aspose.Pdf.Document) System.Void
+* Property: Aspose.Pdf.Utils.DictionaryEditor.AllKeys System.Collections.Generic.ICollection`1[[System.String]]
+* Property: Aspose.Pdf.Utils.DictionaryEditor.Keys System.Collections.Generic.ICollection`1[[System.String]]
+* Property: Aspose.Pdf.Utils.DictionaryEditor.Values System.Collections.Generic.ICollection`1[[Aspose.Pdf.Utils.PublicData.ICosPdfPrimitive]]
+* Property: Aspose.Pdf.Utils.DictionaryEditor.Count System.Int32
+* Property: Aspose.Pdf.Utils.DictionaryEditor.IsReadOnly System.Boolean
+* Property: Aspose.Pdf.Utils.DictionaryEditor.Item(System.String) Aspose.Pdf.Utils.PublicData.ICosPdfPrimitive
+* Method: Aspose.Pdf.Utils.DictionaryEditor.ContainsKey(System.String) System.Boolean
+* Method: Aspose.Pdf.Utils.DictionaryEditor.Remove(System.String) System.Boolean
+* Method: Aspose.Pdf.Utils.DictionaryEditor.TryGetValue(System.String,Aspose.Pdf.Utils.PublicData.ICosPdfPrimitive@) System.Boolean
+* Method: Aspose.Pdf.Utils.DictionaryEditor.Add(System.String,Aspose.Pdf.Utils.PublicData.ICosPdfPrimitive) System.Void
+* Method: Aspose.Pdf.Utils.DictionaryEditor.Add(System.Collections.Generic.KeyValuePair{System.String,Aspose.Pdf.Utils.PublicData.ICosPdfPrimitive}) System.Void
+* Method: Aspose.Pdf.Utils.DictionaryEditor.Clear System.Void
+* Method: Aspose.Pdf.Utils.DictionaryEditor.Contains(System.Collections.Generic.KeyValuePair{System.String,Aspose.Pdf.Utils.PublicData.ICosPdfPrimitive}) System.Boolean
+* Method: Aspose.Pdf.Utils.DictionaryEditor.CopyTo(System.Collections.Generic.KeyValuePair,System.Int32) System.Void
+* Method: Aspose.Pdf.Utils.DictionaryEditor.Remove(System.Collections.Generic.KeyValuePair{System.String,Aspose.Pdf.Utils.PublicData.ICosPdfPrimitive}) System.Boolean
+* Method: Aspose.Pdf.Utils.DictionaryEditor.GetEnumerator System.Collections.Generic.IEnumerator`1[[System.Collections.Generic.KeyValuePair`2[[System.String],[Aspose.Pdf.Utils.PublicData.ICosPdfPrimitive]]]]
+* Type: Aspose.Pdf.Utils.PublicData.CosPdfBoolean 
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfBoolean.#ctor(System.Boolean) System.Void
+* Property: Aspose.Pdf.Utils.PublicData.CosPdfBoolean.Value System.Boolean
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfBoolean.ToCosPdfBoolean Aspose.Pdf.Utils.PublicData.CosPdfBoolean
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfBoolean.ToString System.String
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfBoolean.GetHashCode System.Int32
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfBoolean.Equals(System.Object) System.Boolean
+* Type: Aspose.Pdf.Utils.PublicData.CosPdfName 
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfName.#ctor(System.String) System.Void
+* Property: Aspose.Pdf.Utils.PublicData.CosPdfName.Value System.String
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfName.ToCosPdfName Aspose.Pdf.Utils.PublicData.CosPdfName
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfName.ToString System.String
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfName.GetHashCode System.Int32
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfName.Equals(System.Object) System.Boolean
+* Type: Aspose.Pdf.Utils.PublicData.CosPdfNumber 
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfNumber.#ctor System.Void
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfNumber.#ctor(System.Double) System.Void
+* Property: Aspose.Pdf.Utils.PublicData.CosPdfNumber.Value System.Double
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfNumber.ToCosPdfNumber Aspose.Pdf.Utils.PublicData.CosPdfNumber
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfNumber.ToString System.String
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfNumber.GetHashCode System.Int32
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfNumber.Equals(System.Object) System.Boolean
+* Type: Aspose.Pdf.Utils.PublicData.CosPdfPrimitive 
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfPrimitive.#ctor System.Void
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfPrimitive.ToCosPdfNumber Aspose.Pdf.Utils.PublicData.CosPdfNumber
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfPrimitive.ToCosPdfName Aspose.Pdf.Utils.PublicData.CosPdfName
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfPrimitive.ToCosPdfString Aspose.Pdf.Utils.PublicData.CosPdfString
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfPrimitive.ToCosPdfBoolean Aspose.Pdf.Utils.PublicData.CosPdfBoolean
+* Type: Aspose.Pdf.Utils.PublicData.CosPdfString 
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfString.#ctor(System.String) System.Void
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfString.#ctor(System.String,System.Boolean) System.Void
+* Property: Aspose.Pdf.Utils.PublicData.CosPdfString.IsHexadecimal System.Boolean
+* Property: Aspose.Pdf.Utils.PublicData.CosPdfString.Value System.String
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfString.ToCosPdfString Aspose.Pdf.Utils.PublicData.CosPdfString
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfString.ToString System.String
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfString.GetHashCode System.Int32
+* Method: Aspose.Pdf.Utils.PublicData.CosPdfString.Equals(System.Object) System.Boolean
+* Type: Aspose.Pdf.Utils.PublicData.ICosPdfPrimitive 
+* Method: Aspose.Pdf.Utils.PublicData.ICosPdfPrimitive.ToCosPdfName Aspose.Pdf.Utils.PublicData.CosPdfName
+* Method: Aspose.Pdf.Utils.PublicData.ICosPdfPrimitive.ToCosPdfString Aspose.Pdf.Utils.PublicData.CosPdfString
+* Method: Aspose.Pdf.Utils.PublicData.ICosPdfPrimitive.ToCosPdfBoolean Aspose.Pdf.Utils.PublicData.CosPdfBoolean
+* Method: Aspose.Pdf.Utils.PublicData.ICosPdfPrimitive.ToCosPdfNumber Aspose.Pdf.Utils.PublicData.CosPdfNumber
+* Method: Aspose.Pdf.Utils.PublicData.ICosPdfPrimitive.ToString System.String
 
 ### Removed APIs
 
