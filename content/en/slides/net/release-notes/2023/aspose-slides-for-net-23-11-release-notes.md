@@ -22,7 +22,7 @@ This page contains release notes for [ Aspose.Slides for .NET 23.11](https://www
 |SLIDESNET-44096|NuGet package for Cross-platform version|Feature|
 |SLIDESNET-44246|Coordinates of the paragraph are returned incorrectly|Enhancement|<https://docs.aspose.com/slides/cpp/paragraph/#get-rectangular-coordinates-of-paragraph>
 |SLIDESNET-43994|Using Aspose.Slides on Linux container with .NET Core does not release memory|Enhancement|
-|SLIDESNET-43813|Part of EMF image is not displayed in Print Preview for generated PDF|Enhancement|<https://forum.aspose.com/t/data-is-not-displayed-in-print-preview-for-generated-pdf-file-through-aspose-slides/260109>
+|SLIDESNET-43813|Part of EMF image is not displayed in Print Preview for generated PDF|Enhancement|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>
 |SLIDESNET-44259|Paragraph portions incorrect|Bug|
 |SLIDESNET-44258|PPTX to ODP conversion throws NullPointerException|Bug|<https://docs.aspose.com/slides/net/convert-openoffice-odp/>
 |SLIDESNET-44247|Shape is displayed incorrectly when converting PPTX to PDF/HTML/HTML5|Bug|<https://docs.aspose.com/slides/net/convert-powerpoint/>
