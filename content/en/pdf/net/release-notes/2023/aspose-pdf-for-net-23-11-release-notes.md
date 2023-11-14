@@ -30,7 +30,6 @@ This page contains release notes information for Aspose.PDF for .NET 23.11.
 |PDFNET-44725|Reducing output file size after PDF to PDF/A conversion|Enhancement|
 |PDFNET-49059|Grouping Checkboxes with the same name, but different Export Values|Enhancement|
 |PDFNET-53159|Ignore or detect the hidden text in the PDF file|Enhancement|
-|PDFNET-55738|Providing users the opportunity to determine the results of constructing (compiling) LaTeX documents|Enhancement|
 |PDFNET-55890|PDF to ODS: Reducing output file size|Enhancement|
 |PDFNET-44600|PDF to PDFA - Output file does pass compliance test|Bug|
 |PDFNET-52215|Convert to PDF/A 3-b - the signature fields are removed|Bug|
@@ -77,7 +76,6 @@ This page contains release notes information for Aspose.PDF for .NET 23.11.
 |PDFNET-49209|Date-Time is changed in the output PDF if FlattenAllFields() function is used|Bug|
 |PDFNET-42490|PDF to TIFF throws parameter not valid exception|Bug|
 |PDFNET-47391|Unable to correctly display Date in the form|Bug|
-|PDFNET-43165|Cannot add two TextBoxFields to a PDF|Bug|
 |PDFNET-49202|Date Field value is changed after flattening the PDF document|Bug|
 |PDFNET-39984|When filling form fields, contents are not formatted properly(date, money)|Bug|
 |PDFNET-54710|Document.Save throws System.NullReferenceException: Object reference not set to an instance of an object in Linux|Bug|
@@ -89,7 +87,6 @@ This page contains release notes information for Aspose.PDF for .NET 23.11.
 |PDFNET-55745|PDF to Image throws NotImplementedException: Not supported image type|Bug|
 |PDFNET-55536|Add a grayscale JPEG to a PDF without bloating the size|Bug|
 |PDFNET-43590|SVG to PDF - an additional background color appears|Bug|
-|PDFNET-40982|Image to PDF - Unable to reduce PDF file size|Bug|
 |PDFNET-55776|Regression: [Aspose.PDF.Drawing] SVG to PDF black boxes|Bug|
 |PDFNET-55779|SVG to PDF as Stamp: Dotted path and text postion not rendered correctly|Bug|
 |PDFNET-43641|SVG to PDF - Opacity attribute is ignored in output PDF|Bug|
