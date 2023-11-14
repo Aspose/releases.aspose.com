@@ -178,7 +178,7 @@ public interface IRevisionCriteria
 **Use Case**
 
 This use case explains how to control when certain revision should be accepted/rejected:
-{{< gist "aspose-words-gists" "470c0da51e4317baae82ad9495747fed" "revision-specified-criteria.cs" >}}
+{{< gist "aspose-words-gists" "66dd22f0854357e394a013b536e2181b" "revision-specified-criteria.java" >}}
 {{% /alert %}}
 
 ### Added public property ChartLegend.Font
@@ -203,7 +203,7 @@ public class ChartLegend
 **Use Case**
 
 This use case explains how to change chart legend font:
-{{< gist "aspose-words-gists" "470c0da51e4317baae82ad9495747fed" "legend-font.cs" >}}
+{{< gist "aspose-words-gists" "66dd22f0854357e394a013b536e2181b" "legend-font.java" >}}
 {{% /alert %}}
 
 ### Added public property XlsxSaveOptions.SectionMode and enum type XlsxSectionMode
@@ -244,7 +244,7 @@ public class XlsxSaveOptions
 **Use Case**
 
 This use case explains how to save all sections of document to same worksheet:
-{{< gist "aspose-words-gists" "470c0da51e4317baae82ad9495747fed" "selection-mode.cs" >}}
+{{< gist "aspose-words-gists" "66dd22f0854357e394a013b536e2181b" "selection-mode.java" >}}
 {{% /alert %}}
 
 ### Added public WordOpenXMLMinimal for StructuredDocumentTagRangeStart node
@@ -265,7 +265,7 @@ public string WordOpenXMLMinimal { get; }
 **Use Case**
 
 This use case explains how to get a string that represents the XML contained within the node in FlatOpc document format.
-{{< gist "aspose-words-gists" "470c0da51e4317baae82ad9495747fed" "range-start-word-open-xml-minimal.cs" >}}
+{{< gist "aspose-words-gists" "66dd22f0854357e394a013b536e2181b" "range-start-word-open-xml-minimal.java" >}}
 {{% /alert %}}
 
 ### Added the ReportBuildOptions.UpdateFieldsSyntaxAware enum member
@@ -285,7 +285,7 @@ UpdateFieldsSyntaxAware
 **Use Case**
 
 This use case explains how to building a report using **UpdateFieldsSyntaxAware** option:
-{{< gist "aspose-words-gists" "470c0da51e4317baae82ad9495747fed" "update-fields-syntax-aware.cs" >}}
+{{< gist "aspose-words-gists" "66dd22f0854357e394a013b536e2181b" "update-fields-syntax-aware.java" >}}
 {{% /alert %}}
 
 ### The obsolete property HtmlSaveOptions.EpubNavigationMapLevel was removed
