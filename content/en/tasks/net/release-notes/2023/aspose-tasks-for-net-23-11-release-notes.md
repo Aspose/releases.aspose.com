@@ -18,6 +18,7 @@ menuItemWithNoContent: false
 This page contains release notes information for [Aspose.Tasks for .Net 23.11](https://releases.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-23.11/).
 
 {{% /alert %}}
+
 ## **All Changes**
 
 |**Key**|**Summary**|**Issue Type**|
@@ -31,5 +32,5 @@ This page contains release notes information for [Aspose.Tasks for .Net 23.11](h
 
 |**The following public methods and properties were added:**|**Description**|
 | :- | :- |
-| Aspose.Tasks.LoadOptions.CancellationToken | Gets or sets a token which can be used to cancel a project loading operation. |
-
+| Aspose.Tasks.ResourceAssignment.GetTimephasedWork(DateTime, DateTime, TimephasedDataType) | Gets amount of timephased work for the specified date time interval. |
+| Aspose.Tasks.Task.Status | Gets status of the task. |
