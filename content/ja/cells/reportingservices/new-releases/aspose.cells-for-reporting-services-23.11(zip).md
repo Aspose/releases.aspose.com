@@ -1,0 +1,51 @@
+---
+
+title: "ダウンロード---新しいリリース-Aspose.cells-for-reporting-services-23.11（zip）"
+description: " "
+keywords: ""
+page_type: single_release_page
+folder_link: "/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-23.11(zip)/"
+folder_name: "レポートサービスのためのAsopse.cells 23.11（zip）"
+download_link: "/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-23.11(zip)/d2f5cb43f2896e9f0c00f5d7dd9f6fc5-13-9845"
+download_text: "ダウンロード"
+intro_text: "レポートサービスのためのAsopse.cells 23.11（zip）"
+image_link: "/resources/img/zip-icon.png"
+download_count: " 17/11/2023 ダウンロードs: 1  Views: 1 "
+file_size: "File Size: 60.32MB"
+parent_path: "cells/reportingservices"
+section_parent_path: "cells/reportingservices"
+
+tags: "SSRS Excel"
+release_notes_url: "https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-23-11-release-notes/"
+weight: 267
+
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt="レポートサービスのためのAsopse.cells 23.11（zip）" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text="ダウンロード" link="/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-23.11(zip)/d2f5cb43f2896e9f0c00f5d7dd9f6fc5-13-9845" >}}
+    {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cells" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}
+    {{< Releases/ReleasesDetailsUl >}}
+      {{< Common/li >}} ダウンロードs: {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-d2f5cb43f2896e9f0c00f5d7dd9f6fc5-13-9845" >}} 1 {{< /Common/li >}}
+      {{< Common/li >}} ファイルサイズ: {{< /Common/li >}}
+      {{< Common/li id="size-update-d2f5cb43f2896e9f0c00f5d7dd9f6fc5-13-9845" >}} 60.32MB {{< /Common/li >}}
+
+      {{< Common/li >}} 日付が追加されました: {{< /Common/li >}}
+      {{< Common/li id="added-update-d2f5cb43f2896e9f0c00f5d7dd9f6fc5-13-9845" >}}17/11/2023 {{< /Common/li >}}
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-23-11-release-notes/'>https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-23-11-release-notes/</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>説明</h4><div class="HTMLDescription">レポートサービスのためのAsopse.cells 23.11（zip）</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+
