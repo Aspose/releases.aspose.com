@@ -3,7 +3,7 @@ id: "aspose-cells-for-node-js-via-java-23-11-release-notes"
 slug: "aspose-cells-for-node-js-via-java-23-11-release-notes"
 linktitle: "Aspose.Cells for Node.js via Java 23.11 Release Notes"
 title: "Aspose.Cells for Node.js via Java 23.11 Release Notes"
-weight: 3
+weight: 2
 description: "Aspose.Cells for Node.js via Java 23.11 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"

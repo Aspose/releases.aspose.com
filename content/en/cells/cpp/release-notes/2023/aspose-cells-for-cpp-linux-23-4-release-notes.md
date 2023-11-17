@@ -3,7 +3,7 @@ id: "aspose-cells-for-cpp-linux-23-4-release-notes"
 slug: "aspose-cells-for-cpp-linux-23-4-release-notes"
 linktitle: "Aspose.Cells for CPP 23.4 Release Notes Linux"
 title: "Aspose.Cells for CPP 23.4 Release Notes Linux"
-weight: 9
+weight: 90
 description: "Aspose.Cells for CPP 23.4 Release Notes Linux – the latest enhancements, new features, and fixes."
 type: "repository"
 layout: "release"

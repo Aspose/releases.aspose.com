@@ -3,7 +3,7 @@ id: "aspose-cells-for-cpp-windows-23-9-release-notes"
 slug: "aspose-cells-for-cpp-windows-23-9-release-notes"
 linktitle: "Aspose.Cells for CPP 23.9 Release Notes Windows"
 title: "Aspose.Cells for CPP 23.9 Release Notes Windows"
-weight: 3
+weight: 35
 description: "Aspose.Cells for CPP 23.9 Release Notes Windows – the latest enhancements, new features, and fixes."
 type: "repository"
 layout: "release"
