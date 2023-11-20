@@ -3,6 +3,9 @@
   "artifactId" : "aspose-pdf",
   "id" : "23-10",
   "packageFiles" : [ {
+    "size" : "70 MB",
+    "name" : "aspose-pdf-23.10-java.zip"
+  }, {
     "size" : "5 MB",
     "name" : "aspose-pdf-23.10-javadoc.jar",
     "classifier" : "javadoc"
@@ -16,12 +19,16 @@
     "classifier" : "jdk17"
   }, {
     "size" : "72 MB",
+    "name" : "aspose-pdf-23.10-tomee.jar",
+    "classifier" : "tomee"
+  }, {
+    "size" : "72 MB",
     "name" : "aspose-pdf-23.10.jar"
   }, {
     "size" : "453 bytes",
     "name" : "aspose-pdf-23.10.pom"
   } ],
-  "releasehDate" : "2023-10-31T08:21:20+00:00",
+  "releasehDate" : "2023-10-31T08:23:40+00:00",
   "version" : "23.10",
   "ReleaseNotes" : "https://releases.aspose.com/pdf/java/release-notes/2023/aspose-pdf-for-java-23-10-release-notes/"
 }
