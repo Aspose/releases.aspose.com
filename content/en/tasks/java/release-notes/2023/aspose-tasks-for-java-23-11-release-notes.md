@@ -39,3 +39,7 @@ This page contains release notes information for [Aspose.Tasks for Java 23.11](h
 |**The following public types were deleted:**|**Description**|
 | :- | :- |
 | com.aspose.tasks.StringAlignment | Use `com.aspose.tasks.HorizontalStringAlignment` instead |
+
+## **Breaking change notice**
+
+All classes from packages com.aspose.tasks.private_.Collections.* were deleted.
