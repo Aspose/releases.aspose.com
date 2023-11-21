@@ -30,7 +30,7 @@ Aspose.Cells for JasperReports 帮助您将报告从 JasperReports® 和 JasperS
 {{< Common/link href="https://products.aspose.app/cells/parser" text="免费的电子表格解析在线应用程序可解析 XLS、ODS 和 NUMBERS 格式的文本和图像"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="cells" product="jasperreports" href="https://docs.aspose.com/cells/jasperreports/release-notes/" text="https://docs.aspose.com/jasperreports/net/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="jasperreports" href="https://releases.aspose.com/zh/cells/jasperreports/release-notes/" text="https://releases.aspose.com/zh/cells/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

@@ -30,7 +30,7 @@ weight: 7
 {{< Common/link href="https://products.aspose.app/cells/parser" text="Aplicación gratuita de análisis de hojas de cálculo en línea para analizar texto e imágenes en formatos XLS, ODS y NÚMEROS"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="cells" product="sharepoint" href="https://docs.aspose.com/cells/sharepoint/release-notes/" text="https://docs.aspose.com/cells/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="sharepoint" href="https://releases.aspose.com/es/cells/sharepoint/release-notes/" text="https://releases.aspose.com/es/cells/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

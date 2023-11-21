@@ -30,7 +30,7 @@ Aspose.Cells for JasperReports, raporları JasperReports® ve JasperServer®'dan
 {{< Common/link href="https://products.aspose.app/cells/parser" text="XLS, ODS ve NUMBERS biçimlerinden metin ve görüntüleri ayrıştırmak için Ücretsiz Elektronik Tablo Ayrıştırma Çevrimiçi Uygulaması"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="cells" product="jasperreports" href="https://docs.aspose.com/cells/jasperreports/release-notes/" text="https://docs.aspose.com/jasperreports/net/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="jasperreports" href="https://releases.aspose.com/tr/cells/jasperreports/release-notes/" text="https://releases.aspose.com/tr/cells/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

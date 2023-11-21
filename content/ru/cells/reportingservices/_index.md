@@ -18,7 +18,7 @@ weight: 6
 {{< Common/h3 text="Скачать Aspose.Cells Desinger & Renderer для отчетов SQL"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Cells for Reporting Services легко добавляет множество функций в службы отчетов Microsoft SQL Server®, начиная от настройки источников данных, создания запросов, разработки отчетов и их публикации на сервере отчетов.
-{{< Common/release-notes-link family="cells" product="reportingservices" href="https://docs.aspose.com/cells/reportingservices/release-notes/" text="https://docs.aspose.com/cells/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="reportingservices" href="https://releases.aspose.com/ru/cells/reportingservices/release-notes/" text="https://releases.aspose.com/ru/cells/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

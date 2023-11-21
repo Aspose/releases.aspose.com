@@ -30,7 +30,7 @@ Aspose.Cells for JasperReports помогает экспортировать о�
 {{< Common/link href="https://products.aspose.app/cells/parser" text="Бесплатное онлайн-приложение Spreadsheet Parsing для анализа текста и изображений в форматах XLS, ODS и NUMBERS"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="cells" product="jasperreports" href="https://docs.aspose.com/cells/jasperreports/release-notes/" text="https://docs.aspose.com/jasperreports/net/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="jasperreports" href="https://releases.aspose.com/ru/cells/jasperreports/release-notes/" text="https://releases.aspose.com/ru/cells/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

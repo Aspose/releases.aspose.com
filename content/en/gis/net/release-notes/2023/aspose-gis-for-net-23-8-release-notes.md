@@ -1,15 +1,23 @@
 ---
+id: "aspose-gis-for-net-23-8-release-notes"
+slug: "aspose-gis-for-net-23-8-release-notes"
+linktitle: "Aspose.GIS for .NET 23.8 Release Notes"
 title: "Aspose.GIS for .NET 23.8 Release Notes"
-type: docs
-url: /net/aspose-gis-for-net-23-8-release-notes/
 weight: 90
+description: "Aspose.GIS for .NET 23.8 Release Notes – the latest updates and fixes."
+type: "repository"
+layout: "release"
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.GIS for .NET 23.8 Release Notes"
+menuItemWithNoContent: false
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information for [Aspose.GIS for .NET 23.8](https://www.nuget.org/packages/Aspose.GIS/23.8.0).
 
-{{% /alert %}} 
+{{% /alert %}}
 ## **Major Features**
 - Improve Map Builder Extension
 ## **Full List of Issues Covering all Changes in this Release**

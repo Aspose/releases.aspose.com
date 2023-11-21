@@ -30,7 +30,7 @@ weight: 7
 {{< Common/link href="https://products.aspose.app/cells/parser" text="免费的电子表格解析在线应用程序可解析 XLS、ODS 和 NUMBERS 格式的文本和图像"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="cells" product="sharepoint" href="https://docs.aspose.com/cells/sharepoint/release-notes/" text="https://docs.aspose.com/cells/sharepoint/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="sharepoint" href="https://releases.aspose.com/zh/cells/sharepoint/release-notes/" text="https://releases.aspose.com/zh/cells/sharepoint/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

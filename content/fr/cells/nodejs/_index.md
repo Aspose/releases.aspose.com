@@ -27,7 +27,7 @@ Vous pouvez facilement utiliser <b>aspose.cells</b> pour Javascript à partir de
    {{< consolebox/spantext text=" " >}}
    {{< consolebox/textarea id="npm" >}} npm install aspose.cells {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/release-notes-link family="cells" product="nodejs" href="https://docs.aspose.com/cells/nodejsjava/release-notes/" text="https://docs.aspose.com/cells/nodejsjava/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="nodejs" href="https://releases.aspose.com/fr/cells/nodejs/release-notes/" text="https://releases.aspose.com/fr/cells/nodejs/release-notes/"  >}}
 
 {{< Common/hr >}}
 

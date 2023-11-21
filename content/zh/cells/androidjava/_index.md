@@ -21,7 +21,7 @@ weight: 4
 {{< Common/paragraph class="package-instructions">}}
 您可以直接通过 Java 轻松地使用 Aspose.Cells for Android
 {{< Common/link href="https://repository.aspose.com/cells/" text="马文"  >}}通过将以下配置添加到 build.gradle 基于项目。
-{{< Common/release-notes-link family="cells" product="androidjava" href="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/" text="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/"  >}}
+{{< Common/release-notes-link family="cells" product="androidjava" href="https://releases.aspose.com/zh/cells/androidjava/release-notes/" text="https://releases.aspose.com/zh/cells/androidjava/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="repository" >}}
 {{< consolebox/textarea id="repository" >}}

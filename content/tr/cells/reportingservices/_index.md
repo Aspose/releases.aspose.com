@@ -18,7 +18,7 @@ weight: 6
 {{< Common/h3 text="Aspose.Cells Desinger & Renderer for SQL Raporlarını İndirin"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Cells for Reporting Services, Microsoft SQL Server® Raporlama Hizmetleri'ne veri kaynaklarının ayarlanmasından sorguların oluşturulmasına, raporların tasarlanmasından Rapor Sunucusunda yayınlanmasına kadar çok sayıda özelliği sorunsuz bir şekilde ekler.
-{{< Common/release-notes-link family="cells" product="reportingservices" href="https://docs.aspose.com/cells/reportingservices/release-notes/" text="https://docs.aspose.com/cells/reportingservices/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="reportingservices" href="https://releases.aspose.com/tr/cells/reportingservices/release-notes/" text="https://releases.aspose.com/tr/cells/reportingservices/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

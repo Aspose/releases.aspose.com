@@ -30,7 +30,7 @@ Aspose.Cells for JasperReports lo ayuda a exportar los informes de JasperReports
 {{< Common/link href="https://products.aspose.app/cells/parser" text="Aplicación gratuita de análisis de hojas de cálculo en línea para analizar texto e imágenes en formatos XLS, ODS y NÚMEROS"  >}}{{< /Common/li >}}
 {{< /Common/ul>}}
 
-{{< Common/release-notes-link family="cells" product="jasperreports" href="https://docs.aspose.com/cells/jasperreports/release-notes/" text="https://docs.aspose.com/jasperreports/net/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="jasperreports" href="https://releases.aspose.com/es/cells/jasperreports/release-notes/" text="https://releases.aspose.com/es/cells/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

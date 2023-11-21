@@ -44,7 +44,7 @@ aspose/cells ist auf Packagist als verfügbar
        {{< consolebox/textarea id="composer" >}} composer require aspose/cells {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/h4 text="Versionshinweise"  >}}
-{{< Common/release-notes-link family="cells" product="php" href="https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-3-release-notes/" text="https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-3-release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="php" href="https://releases.aspose.com/de/cells/php/release-notes/" text="https://releases.aspose.com/de/cells/php/release-notes/"  >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 

@@ -23,7 +23,7 @@ weight:  3
 Ouvert
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Cells.Cpp/" text="NuGet"  >}}Gestionnaire de packages dans Microsoft Visual Studio®, recherchez <b>Aspose.Cells.Cpp</b> et installez. Vous pouvez également utiliser la commande suivante dans la console du gestionnaire de packages. Pour les instructions détaillées, veuillez visiter le
 {{< Common/link href="https://docs.aspose.com/cells/cpp/installation/" text="Installation"  >}}page documentaire.
-{{< Common/release-notes-link family="cells" product="cpp" href="https://docs.aspose.com/cells/cpp/release-notes/" text="https://docs.aspose.com/cells/cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="cpp" href="https://releases.aspose.com/fr/cells/cpp/release-notes/" text="https://releases.aspose.com/fr/cells/cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

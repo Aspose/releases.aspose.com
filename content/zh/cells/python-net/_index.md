@@ -19,7 +19,7 @@ weight: 11
 Aspose.Cells for Python via .NET 是一个可扩展且功能丰富的 API，用于使用 Python 处理 Excel® 电子表格。 API 提供 Excel® 文件创建、操作、转换和渲染。开发人员可以将工作表、行、列或单元格格式化为最精细的级别，创建操作图表和数据透视表，将工作表、图表和特定数据范围呈现为 PDF 或图像，添加计算 Excel® 的内置和自定义公式等等更多 - 完全不依赖于 Microsoft Office 或 Excel® 应用程序。
 请使用以下
 {{< Common/link href="https://pypi.org/project/aspose-cells-python/" text="点子"  >}}命令：
-{{< Common/release-notes-link family="cells" product="python-net" href="https://docs.aspose.com/cells/python-net/release-notes/" text="https://docs.aspose.com/cells/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="python-net" href="https://releases.aspose.com/zh/cells/python-net/release-notes/" text="https://releases.aspose.com/zh/cells/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
