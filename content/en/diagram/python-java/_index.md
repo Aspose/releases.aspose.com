@@ -2,6 +2,7 @@
 title: " Aspose - Downloads"
 description: "It contains files for diagram "
 keywords: "diagram "
+linktitle: "Aspose.Diagram for Python via Java"
 family_listing_page_title: "Aspose.Diagram for Python via Java"
 family_listing_page_description: "Aspose.Diagram for Python via Java is a scalable and feature-rich API to process visio files using Python. API offers Visio file creation,manipulation, conversion, & rendering. Developers can format pages to the most granular level, create & manipulate shape, render pages, shapes to PDF & images, and much more - all without any dependency on Microsoft Office or Visio application."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-python.png"
@@ -32,10 +33,10 @@ You can easily use  <b>aspose-diagram</b> for Python from  {{< Common/link href=
 
 ### Diagram Processing Python via Java On-premise API Features
 
-- Create Microsoft Visio&reg; diagrams from scratch via API. 
-- Read or write Microsoft Visio&reg; files. 
+- Create Microsoft Visio&reg; diagrams from scratch via API.
+- Read or write Microsoft Visio&reg; files.
 - Export Visio&reg; diagrams to various popular formats including PDF, images, HTML and more.
-- Access diagram elements & properties for manipulation or just inspection. 
+- Access diagram elements & properties for manipulation or just inspection.
 
 {{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
