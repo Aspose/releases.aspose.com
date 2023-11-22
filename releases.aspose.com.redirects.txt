@@ -99,3 +99,5 @@ rewrite ^/barcode/python$ https://releases.aspose.com/barcode/python-net/ perman
 rewrite ^/total/pythonjava$ https://releases.aspose.com/total/python-java/ permanent;
 rewrite ^/total/php$ https://releases.aspose.com/total/php-java/ permanent;
 rewrite (.*)//$ https://releases.aspose.com$1/ permanent;
+rewrite /(.*)/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.9-maxos-x86/64/$ https://releases.aspose.com/$1/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.9-maxos-x86-64/ permanent;
+rewrite /(.*)/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.10-maxos-x86/64/$ https://releases.aspose.com/$1/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.10-maxos-x86-64/ permanent;
