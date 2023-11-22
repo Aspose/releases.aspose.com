@@ -2,6 +2,7 @@
 title: "Download .NET DLL to Process Visio Formats | Aspose.Diagram"
 description: "Download C# Class Library DLL to work with Microsoft Visio® diagram objects & properties; shapes, pages, images, tencils, text, layers, cells etc. via .NET API."
 keywords: "Visio .NET API"
+linktitle: "Aspose.Diagram for .NET"
 family_listing_page_title: "Aspose.Diagram for .NET"
 family_listing_page_description: "Developers can create diagrams from scratch as well as easily load existing files and manipulate the elements of the diagram to export the result in other Visio formats, images or fixed-layout formats."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-net-min.png"
