@@ -61,7 +61,7 @@ weight: 02	#rem
 tags: ["Aspose Total", "Aspose Diagram", "Aspose Java API", "diagram java library", "diagram java class", "Maven", "visio to pdf", "visio to html", "visio to image", "VSD to VDX", "VSD to VTX", "VSD to XPS", "diagram to SVG", "diagram to XAML", "shape", "page", "VSDX", "VDX", "VSD", "VSX", "VTX", "VSSX", "VSTX", "VSDM", "VSSM", "VSTM", "VDW", "VSS", "VST", "PDF", "XPS", "XAML", "SVG", "EMF", "JPEG", "PNG", "BMP", "TIFF", "HTML", "Linux", "Unix"]
 forumLink: https://forum.aspose.com/c/diagram/17
 productLink: https://products.aspose.com/diagram/java/
-releaseNotesLink: https://docs.aspose.com/diagram/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/diagram/java/release-notes/
 dataFolder: aspose_diagram
 packages_refs:
 - "22-12"

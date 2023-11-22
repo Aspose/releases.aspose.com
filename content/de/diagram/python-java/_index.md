@@ -30,7 +30,7 @@ Sie können ganz einfach <b>aspose-diagram</b> für Python aus verwenden
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install aspose-diagram {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/release-notes-link family="diagram" product="python-java" href="https://docs.aspose.com/diagram/java/python-java/" text="https://docs.aspose.com/diagram/java/python-java/"  >}}
+{{< Common/release-notes-link family="diagram" product="python-java" href="https://releases.aspose.com/diagram/python-java/release-notes/" text="https://releases.aspose.com/diagram/python-java/release-notes/"  >}}
 
 {{< Common/hr >}}
 

@@ -18,7 +18,7 @@ weight: 11
 Aspose.Diagram for Python via .NET は、Python を使用して visio ファイルを処理するためのスケーラブルで機能豊富な API です。 API は、Visio ファイルの作成、操作、変換、レンダリングを提供します。開発者は、Microsoft Office や Visio アプリケーションに依存することなく、ページを最も詳細なレベルにフォーマットし、図形を作成および操作し、ページをレンダリングし、図形を PDF や画像に変換することができます。
 以下をご利用ください
 {{< Common/link href="https://pypi.org/project/aspose-diagram-python/" text="ピップ"  >}}指図：
-{{< Common/release-notes-link family="diagram" product="python-net" href="https://docs.aspose.com/diagram/python-net/release-notes/" text="https://docs.aspose.com/diagram/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="diagram" product="python-net" href="https://releases.aspose.com/diagram/python-net/release-notes/" text="https://releases.aspose.com/diagram/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}

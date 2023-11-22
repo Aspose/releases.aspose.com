@@ -25,7 +25,7 @@ weight:  3
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="npm" >}} npm install aspose.diagram {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/release-notes-link family="diagram" product="nodejs" href="https://docs.aspose.com/diagram/nodejsjava/" text="https://docs.aspose.com/diagram/nodejsjava/"  >}}
+{{< Common/release-notes-link family="diagram" product="nodejs" href="https://releases.aspose.com/diagram/nodejs/release-notes/" text="https://releases.aspose.com/diagram/nodejs/release-notes/"  >}}
 
 {{< Common/hr >}}
 

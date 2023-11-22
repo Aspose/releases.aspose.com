@@ -22,7 +22,7 @@ weight:  1
 開ける
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Diagram/" text="NuGet"  >}}Microsoft Visual Studio® 内の Package Manager で、 <b>Aspose.Diagram</b>を検索してインストールします。パッケージ マネージャー コンソール内で次のコマンドを使用することもできます。詳細な手順については、次の Web サイトを参照してください。
 {{< Common/link href="https://docs.aspose.com/diagram/net/installation/" text="インストール"  >}}ドキュメントページ。
-{{< Common/release-notes-link family="diagram" product="java" href="https://docs.aspose.com/diagram/net/release-notes/" text="https://docs.aspose.com/diagram/net/release-notes/"  >}}
+{{< Common/release-notes-link family="diagram" product="java" href="https://releases.aspose.com/diagram/net/release-notes/" text="https://releases.aspose.com/diagram/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
