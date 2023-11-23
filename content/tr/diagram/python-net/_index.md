@@ -18,7 +18,7 @@ weight: 11
 Aspose.Diagram for Python, Python kullanarak visio dosyalarını işlemek için ölçeklenebilir ve zengin özelliklere sahip bir API'dir. API, Visio dosyası oluşturma, işleme, dönüştürme, oluşturma sunar. Geliştiriciler, Microsoft Office veya Visio uygulamasına herhangi bir bağımlılık olmaksızın sayfaları en ayrıntılı düzeyde biçimlendirebilir, şekil oluşturabilir ve değiştirebilir, sayfaları, şekilleri PDF'ye ve resimlere dönüştürebilir ve çok daha fazlasını yapabilir.
 Lütfen aşağıdakileri kullanın
 {{< Common/link href="https://pypi.org/project/aspose-diagram-python/" text="pip"  >}}emretmek:
-{{< Common/release-notes-link family="diagram" product="python-net" href="https://docs.aspose.com/diagram/python-net/release-notes/" text="https://docs.aspose.com/diagram/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="diagram" product="python-net" href="https://releases.aspose.com/diagram/python-net/release-notes/" text="https://releases.aspose.com/diagram/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}

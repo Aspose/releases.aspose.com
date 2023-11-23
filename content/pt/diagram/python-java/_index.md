@@ -25,7 +25,7 @@ Você pode facilmente usar <b>o diagrama aspose</b> para Python de
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install aspose-diagram {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/release-notes-link family="diagram" product="python-java" href="https://docs.aspose.com/diagram/java/python-java/" text="https://docs.aspose.com/diagram/java/python-java/"  >}}
+{{< Common/release-notes-link family="diagram" product="python-java" href="https://releases.aspose.com/diagram/python-java/release-notes/" text="https://releases.aspose.com/diagram/python-java/release-notes/"  >}}
 
 {{< Common/hr >}}
 

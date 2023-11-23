@@ -61,7 +61,7 @@ tags: ["Aspose Total", "Aspose Diagram", "Aspose Java API", "diagram java librar
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/diagram/17
 productLink: https://products.aspose.com/diagram/java/
-releaseNotesLink: https://docs.aspose.com/diagram/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/diagram/java/release-notes/
 dataFolder: aspose_diagram
 packages_refs:
 - "23-11"
