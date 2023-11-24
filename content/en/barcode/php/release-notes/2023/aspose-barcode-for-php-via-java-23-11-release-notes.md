@@ -1,21 +1,21 @@
 ---
-id: "aspose-barcode-for-php-via-java-23-10-release-notes"
-slug: "aspose-barcode-for-php-via-java-23-10-release-notes"
-linktitle: "Aspose.BarCode for PHP via Java 23.10"
-title: "Aspose.BarCode for PHP via Java 23.10"
-weight: 8900
-description: "Aspose.BarCode for PHP via Java 23.10 – the latest updates and fixes."
+id: "aspose-barcode-for-php-via-java-23-11-release-notes"
+slug: "aspose-barcode-for-php-via-java-23-11-release-notes"
+linktitle: "Aspose.BarCode for PHP via Java 23.11"
+title: "Aspose.BarCode for PHP via Java 23.11"
+weight: 8800
+description: "Aspose.BarCode for PHP via Java 23.11 – the latest updates and fixes."
 type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.BarCode for PHP via Java 23.10"
+family_listing_page_title: "Aspose.BarCode for PHP via Java 23.11"
 menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
 
-This page contains release notes information for [Aspose.BarCode for PHP via Java 23.10](https://releases.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-23.10/).
+This page contains release notes information for [Aspose.BarCode for PHP via Java 23.11](https://releases.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-23.11/).
 
 {{% /alert %}}
 ## **All Changes**
@@ -43,3 +43,8 @@ Class Generation.EncodeTypes
 - constant GS_1_MICRO_PDF_417 added
 Class Recognition.DecodeType
 - constant GS_1_MICRO_PDF_417 added
+
+The meaning of new properties that were added to Pdf417Parameters (Pdf417 section of BarcodeGenerator parameters):
+- MacroCharacters. Macro Characters 05 and 06 values are used to obtain more compact encoding in special modes.
+- IsLinked. Defines linked modes with GS1MicroPdf417, MicroPdf417 and Pdf417 barcodes.
+- IsCode128Emulation. Can be used only with MicroPdf417 and encodes Code 128 emulation modes
