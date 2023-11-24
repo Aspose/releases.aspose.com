@@ -27,7 +27,6 @@ This page contains release notes information for [Aspose.BarCode for Java 23.11]
 
 ## Public API changes and backwards compatibility
 
-
 Class com.aspose.barcode.generation.Code128Emulation was removed.
 Following changes were made in com.aspose.barcode.generation.Pdf417Parameters class:
 -method  getCode128Emulation():Code128Emulation was removed
@@ -44,8 +43,3 @@ Enum com.aspose.barcode.generation.EncodeTypes
 - GS_1_MICRO_PDF_417 added
 Enum com.aspose.barcode.barcoderecognition.DecodeType
 - GS_1_MICRO_PDF_417 added
-
-New properties were added to Pdf417 section of BarcodeGenerator parameters:
-- MacroCharacters. Macro Characters 05 and 06 values are used to obtain more compact encoding in special modes.
-- IsLinked. Defines linked modes with GS1MicroPdf417, MicroPdf417 and Pdf417 barcodes.
-- IsCode128Emulation. Can be used only with MicroPdf417 and encodes Code 128 emulation modes
