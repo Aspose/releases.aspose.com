@@ -43,3 +43,8 @@ Enum com.aspose.barcode.generation.EncodeTypes
 - GS_1_MICRO_PDF_417 added
 Enum com.aspose.barcode.barcoderecognition.DecodeType
 - GS_1_MICRO_PDF_417 added
+
+The meaning of new properties that were added to Pdf417Parameters (Pdf417 section of BarcodeGenerator parameters):
+- MacroCharacters. Macro Characters 05 and 06 values are used to obtain more compact encoding in special modes.
+- IsLinked. Defines linked modes with GS1MicroPdf417, MicroPdf417 and Pdf417 barcodes.
+- IsCode128Emulation. Can be used only with MicroPdf417 and encodes Code 128 emulation modes
