@@ -6,10 +6,14 @@
     "size" : "13 MB",
     "name" : "aspose-barcode-23.11-java.zip"
   }, {
+    "size" : "450 bytes",
+    "name" : "aspose-barcode-23.11-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
     "size" : "14 MB",
     "name" : "aspose-barcode-23.11.jar"
   }, {
-    "size" : "427 bytes",
+    "size" : "398 bytes",
     "name" : "aspose-barcode-23.11.pom"
   } ],
   "releasehDate" : "2023-11-24T11:51:14+00:00",
