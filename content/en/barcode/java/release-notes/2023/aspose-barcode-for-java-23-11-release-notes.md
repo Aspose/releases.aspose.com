@@ -39,7 +39,7 @@ Following changes were made in com.aspose.barcode.generation.Pdf417Parameters cl
 -method isCode128Emulation():boolean was added
 -method setCode128Emulation(boolean) was added
 Class com.aspose.barcode.barcoderecognition.Pdf417ExtendedParameters
-- method isCode128Emulation():boolean was removed
+- method isCode128Emulation():boolean was added 
 Enum com.aspose.barcode.generation.EncodeTypes
 - GS_1_MICRO_PDF_417 added
 Enum com.aspose.barcode.barcoderecognition.DecodeType
