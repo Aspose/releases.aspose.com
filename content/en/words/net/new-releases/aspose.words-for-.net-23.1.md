@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.words-for-.net-23.1"
-description: " "
+title: "Generate AZW3 Table of Contents (TOC) API for C#, .NET Apps"
+description: "C# .NET API to generate table of contents (TOC) of MOBI & AZW3 (KF8) documents. Export list items to Markdown format (MD). Supports raster operations emulation."
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/net/new-releases/aspose.words-for-.net-23.1/"
@@ -14,36 +13,94 @@ download_count: " 6/1/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 84.52MB"
 parent_path: "words/net"
 section_parent_path: "words/net"
-
-tags: ["docx to pdf", "convert compare create edit word", "split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub png emf jpg gif", "mail merge table", "reporting document"]
-release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-23-1-release-notes/"
+tags:
+  [
+    "docx to pdf",
+    "convert compare create edit word",
+    "split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub png emf jpg gif",
+    "mail merge table",
+    "reporting document",
+  ]
+release_notes_url: "https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-1-release-notes/"
 weight: 715
-
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Words for .NET 23.1" imagelink="/resources/img/msi-icon.png">}}
-  {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/words/net/new-releases/aspose.words-for-.net-23.1/5289845e563f2537c7cb59c76687ac99-17-8370" >}}
-    {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/words" >}}
-  {{< Releases/ReleasesButtons >}}
-  {{< Releases/ReleasesFileArea >}}
-    {{< Releases/ReleasesHeading h4txt="File Details">}}
-    {{< Releases/ReleasesDetailsUl >}}
-      {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-5289845e563f2537c7cb59c76687ac99-17-8370" >}} 1 {{< /Common/li >}}
-      {{< Common/li >}} File Size: {{< /Common/li >}}
-      {{< Common/li id="size-update-5289845e563f2537c7cb59c76687ac99-17-8370" >}} 84.52MB {{< /Common/li >}}
+{{< Releases/ReleasesHeading H2txt="Aspose.Words for .NET 23.1" imagelink="/resources/img/msi-icon.png">}}
+{{< Releases/ReleasesButtons >}}
+{{< Releases/ReleasesSingleButtons text="Download" link="/words/net/new-releases/aspose.words-for-.net-23.1/5289845e563f2537c7cb59c76687ac99-17-8370" >}}
+{{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/words" >}}
+{{< Releases/ReleasesButtons >}}
+{{< Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesHeading h4txt="File Details">}}
+{{< Releases/ReleasesDetailsUl >}}
+{{< Common/li >}} Downloads: {{< /Common/li >}}
+{{< Common/li class="downloadcount" id="dwn-update-5289845e563f2537c7cb59c76687ac99-17-8370" >}} 1 {{< /Common/li >}}
+{{< Common/li >}} File Size: {{< /Common/li >}}
+{{< Common/li id="size-update-5289845e563f2537c7cb59c76687ac99-17-8370" >}} 84.52MB {{< /Common/li >}}
 
       {{< Common/li >}} Date Added: {{< /Common/li >}}
       {{< Common/li id="added-update-5289845e563f2537c7cb59c76687ac99-17-8370" >}}6/1/2023 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
-  {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/words/net/aspose-words-for-net-23-1-release-notes/'>https://docs.aspose.com/words/net/aspose-words-for-net-23-1-release-notes/</a></div>
-  {{< /Releases/ReleasesFileFeatures >}}
-  {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for .NET 23.1 MSI installer.</div>
-  {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+<h4>Release Notes</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-1-release-notes/'>https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-1-release-notes/</a></div>
+{{< /Releases/ReleasesFileFeatures >}}
+{{< Releases/ReleasesFileFeatures >}}
+<h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for .NET 23.1 MSI installer.</div>
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Generate Table of Content for eBook Navigation
+
+Dynamically add Table of Contents (TOC) to AZW3/MOBI files using C# API. Improve content navigation in e-books within your .NET Apps.
+
+### Improve Metafile Operations: GDI+ Option in C# API
+
+Optimize rendering for your apps with better metafile raster operations using C# API. Benefit from enhanced GDI+ emulation in raster processes.
+
+## Customize Shading with Theme Colors
+
+This new feature allows your App end-users to tailer their document styling. Explore new properties in C# API for working with shading theme colors. Customize foreground and background patterns effortlessly.
+
+The [`Shading`](https://reference.aspose.com/words/net/aspose.words/shading/) class has the following new public properties:
+
+- [`ForegroundPatternThemeColor`](https://reference.aspose.com/words/net/aspose.words/shading/foregroundpatternthemecolor/)
+- [`BackgroundPatternThemeColor`](https://reference.aspose.com/words/net/aspose.words/shading/backgroundpatternthemecolor/)
+
+The following C# sample code demonstrates how to customize and set the theme colors and shading intensity of a DOCX file using API:
+
+```c#
+Document doc = new Document("c:\Documents\TestDocument.docx");
+
+Shading shading = doc.FirstSection.Body.FirstParagraph.ParagraphFormat.Shading;
+// Gets and sets the values of theme colors.
+if (shading.ForegroundPatternThemeColor == ThemeColor.Accent1)
+    shading.ForegroundPatternThemeColor = ThemeColor.Dark1;
+
+if (shading.BackgroundPatternThemeColor == ThemeColor.Accent2)
+    shading.BackgroundPatternThemeColor = ThemeColor.Dark2;
+
+// Gets and sets the lightens values.
+if (shading.ForegroundTintAndShade == 0)
+    shading.ForegroundTintAndShade = 0.5;
+
+if (shading.BackgroundTintAndShade == 0)
+    shading.BackgroundTintAndShade = -0.2;
+
+doc.Save("output.docx");
+```
+*[Source\*](https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-1-release-notes/)*
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 23.1 Release Notes](https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-1-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
