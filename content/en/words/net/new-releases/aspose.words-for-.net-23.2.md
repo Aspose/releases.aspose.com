@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.words-for-.net-23.2"
-description: " "
+title: "Add Footnotes Endnotes in Word Count | API for C#, .NET Apps"
+description: "C# .NET API with advanced word count feature that also includes footnotes, endnotes in the count. Merge PDF documents. Export Word® DOCX to MOBI eBook format."
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/net/new-releases/aspose.words-for-.net-23.2/"
@@ -15,35 +14,108 @@ file_size: "File Size: 84.71MB"
 parent_path: "words/net"
 section_parent_path: "words/net"
 
-tags: ["docx to pdf", "convert compare create edit word", "split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub png emf jpg gif", "mail merge table", "reporting document"]
-release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-23-2-release-notes/"
+tags:
+  [
+    "docx to pdf",
+    "convert compare create edit word",
+    "split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub png emf jpg gif",
+    "mail merge table",
+    "reporting document",
+  ]
+release_notes_url: "https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-2-release-notes/"
 weight: 717
-
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Words for .NET 23.2" imagelink="/resources/img/msi-icon.png">}}
-  {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/words/net/new-releases/aspose.words-for-.net-23.2/8a8b2ff1ba3993f74ac017525bcbf28f-17-8487" >}}
-    {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/words" >}}
-  {{< Releases/ReleasesButtons >}}
-  {{< Releases/ReleasesFileArea >}}
-    {{< Releases/ReleasesHeading h4txt="File Details">}}
-    {{< Releases/ReleasesDetailsUl >}}
-      {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-8a8b2ff1ba3993f74ac017525bcbf28f-17-8487" >}} 1 {{< /Common/li >}}
-      {{< Common/li >}} File Size: {{< /Common/li >}}
-      {{< Common/li id="size-update-8a8b2ff1ba3993f74ac017525bcbf28f-17-8487" >}} 84.71MB {{< /Common/li >}}
+{{< Releases/ReleasesHeading H2txt="Aspose.Words for .NET 23.2" imagelink="/resources/img/msi-icon.png">}}
+{{< Releases/ReleasesButtons >}}
+{{< Releases/ReleasesSingleButtons text="Download" link="/words/net/new-releases/aspose.words-for-.net-23.2/8a8b2ff1ba3993f74ac017525bcbf28f-17-8487" >}}
+{{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/words" >}}
+{{< Releases/ReleasesButtons >}}
+{{< Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesHeading h4txt="File Details">}}
+{{< Releases/ReleasesDetailsUl >}}
+{{< Common/li >}} Downloads: {{< /Common/li >}}
+{{< Common/li class="downloadcount" id="dwn-update-8a8b2ff1ba3993f74ac017525bcbf28f-17-8487" >}} 1 {{< /Common/li >}}
+{{< Common/li >}} File Size: {{< /Common/li >}}
+{{< Common/li id="size-update-8a8b2ff1ba3993f74ac017525bcbf28f-17-8487" >}} 84.71MB {{< /Common/li >}}
 
       {{< Common/li >}} Date Added: {{< /Common/li >}}
       {{< Common/li id="added-update-8a8b2ff1ba3993f74ac017525bcbf28f-17-8487" >}}2/2/2023 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
-  {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/words/net/aspose-words-for-net-23-2-release-notes/'>https://docs.aspose.com/words/net/aspose-words-for-net-23-2-release-notes/</a></div>
-  {{< /Releases/ReleasesFileFeatures >}}
-  {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for .NET 23.2 MSI installer.</div>
-  {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+<h4>Release Notes</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-2-release-notes/'>https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-2-release-notes/</a></div>
+{{< /Releases/ReleasesFileFeatures >}}
+{{< Releases/ReleasesFileFeatures >}}
+<h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for .NET 23.2 MSI installer.</div>
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+## Count Document Words with Precision
+
+Explore precise word count statistics! Set C# API's [`IncludeTextboxesFootnotesEndnotesInStat`](https://reference.aspose.com/words/net/aspose.words/document/includetextboxesfootnotesendnotesinstat/) property. Check default settings and customize for accurate word counts.
+
+Added public property [`Document.IncludeTextboxesFootnotesEndnotesInStat`](https://reference.aspose.com/words/net/aspose.words/document/includetextboxesfootnotesendnotesinstat/) to the [`Document`](https://reference.aspose.com/words/net/aspose.words/document/) class.
+
+Please use the following C# code snippet to include or exclude footnotes, endnotes, and textboxes from word count stats.
+
+```c#
+Document doc = new Document();
+DocumentBuilder builder = new DocumentBuilder(doc);
+
+builder.Writeln("Lorem ipsum");
+builder.InsertFootnote(FootnoteType.Footnote, "sit amet");
+
+// Check the option is set to 'false' by default when a new document is created.
+Console.WriteLine("By default for new document this option is set to '{0}'", doc.IncludeTextboxesFootnotesEndnotesInStat);
+
+doc.UpdateWordCount();
+Console.WriteLine("Words count without textboxes, footnotes and endnotes: {0}", doc.BuiltInDocumentProperties.Words);
+
+// Change option.
+doc.IncludeTextboxesFootnotesEndnotesInStat = true;
+doc.UpdateWordCount();
+Console.WriteLine("Words count with textboxes, footnotes and endnotes: {0}", doc.BuiltInDocumentProperties.Words);
+
+/* This code produces the following output:
+By default for new document this option is set to 'False'
+Words count without textboxes, footnotes and endnotes: 2
+Words count with textboxes, footnotes and endnotes: 4
+*/
+```
+*[Source\*](https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-2-release-notes/)*
+
+### Enhanced `MOBI` Export
+
+This release offers your .NET Apps to have a seamless Kindle&reg; integration using C# API. Aspose.Words for .NET now supports `MOBI` (also called PRC, AZW) file format export. Optimize e-book integration with C# API.
+
+Please use the following C# code to save a DOCX document to MOBI file format using API:
+
+```c#
+Document doc = new Document("in.docx");
+doc.Save("out.mobi");
+```
+*[Source\*](https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-2-release-notes/)*
+
+or
+
+```c#
+Document doc = new Document("in.docx");
+HtmlSaveOptions options = new HtmlSaveOptions(SaveFormat.Mobi);
+doc.Save("out.mobi", options);
+```
+*[Source\*](https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-2-release-notes/)*
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 23.2 Release Notes](https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-2-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
