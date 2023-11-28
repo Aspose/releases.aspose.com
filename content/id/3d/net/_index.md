@@ -2,6 +2,7 @@
 title: "Unduh C# Gameware, CAD & Pemrosesan 3D DLL | Asumsikan.3D"
 description: "Unduh DLL yang berisi pustaka kelas C# untuk bekerja dengan file 3D (3DS, 3MF, DAE, DFX, USD, MA, gITF, U3D), jerat, geometri, adegan, animasi melalui .NET API di tempat."
 keywords: "3D .NET API, 3D .NET Library"
+linktitle: "Aspose.3D untuk .NET"
 family_listing_page_title: "Asumsikan.3D untuk .NET"
 family_listing_page_description: "Aspose.3D untuk .NET adalah API Gameware dan Computer-Aided-Designing (CAD) yang kaya fitur yang memberdayakan aplikasi Mono dan .NET termasuk ASP.NET, Windows Forms, dan Layanan Web untuk terhubung dengan format dokumen 3D yang lazim secara otomatis tanpa 3D apa pun pemodelan dan rendering perangkat lunak yang diinstal pada server. Mendukung Discreet3DS, WavefrontOBJ, Maya (ASCII), FBX (ASCII, Binary), STL (ASCII, Binary), USDC, USDZ, PDMS RVM, Universal3D, Collada, glTF, GLB, PLY, HTML5, A3DW, DirectX dan Google Draco format file, memungkinkan pengembang untuk dengan mudah membuat, membaca, mengonversi, memodifikasi, dan mengontrol substansi format dokumen 3D ini menggunakan Aspose.3D API."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-net-min.png"
@@ -93,4 +94,3 @@ Aspose.3D untuk .NET dapat digunakan pada sistem operasi apa pun (Windows, MacOS
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

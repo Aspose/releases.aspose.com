@@ -1,7 +1,7 @@
 ---
-title: "Aspuesto.3d | Biblioteca de clase Java para procesar imágenes 3D, modelos" 
-linktitle: Aspose.3D
-description: "Biblioteca Java para crear, leer, convertir y guardar formatos 3D (por ejemplo, 3DS, 3MF, DAE, DFX, GITF, U3D, etc.). Admite geometrías, gráficos, esqueletos y deformadores de morfo." 
+title: "Aspuesto.3d | Biblioteca de clase Java para procesar imágenes 3D, modelos"
+linktitle: "Aspose.3D para Java"
+description: "Biblioteca Java para crear, leer, convertir y guardar formatos 3D (por ejemplo, 3DS, 3MF, DAE, DFX, GITF, U3D, etc.). Admite geometrías, gráficos, esqueletos y deformadores de morfo."
 layout: packages
 type: repository
 categories:
@@ -62,8 +62,8 @@ keywords:
 - VRML
 - Wavefront
 weight: 02	#rem
-family_listing_page_title: "Aspuesto.3d para Java" 
-family_listing_page_description: "Aspose.3D para Java API está construido para crear, editar, manipular y guardar formatos 3D. Empodera las aplicaciones Java para conectarse con documentos 3D sin instalar ningún paquete de software en la computadora. Aspose.3d para Java API ayudan a los desarrolladores a modelar y crear mundos masivos en juegos, excelentes escenas para la visualización del diseño e involucrar experiencias de realidad virtual. La API es fácil de usar y ahorra tiempo y dinero que crear una solución similar desde cero." 
+family_listing_page_title: "Aspuesto.3d para Java"
+family_listing_page_description: "Aspose.3D para Java API está construido para crear, editar, manipular y guardar formatos 3D. Empodera las aplicaciones Java para conectarse con documentos 3D sin instalar ningún paquete de software en la computadora. Aspose.3d para Java API ayudan a los desarrolladores a modelar y crear mundos masivos en juegos, excelentes escenas para la visualización del diseño e involucrar experiencias de realidad virtual. La API es fácil de usar y ahorra tiempo y dinero que crear una solución similar desde cero."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"

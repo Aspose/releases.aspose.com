@@ -1,0 +1,30 @@
+---
+id: "aspose-3d-for-java-22-7-release-notes"
+slug: "aspose-3d-for-java-22-7-release-notes"
+linktitle: "Aspose.3D for Java 22.7 Notes de Libération"
+title: "Aspose.3D for Java 22.7 Notes de Libération"
+weight: 6
+description: "Les notes de sortie du Aspose.3D for Java 22.7."
+type: "repository"
+layout: "release"
+---
+{{% alert color="primary" %}}
+
+Cette page contient les notes de publication pour Aspose.3D for Java 22.7.
+
+{{% /alert %}}
+## **Améliorations et changements**
+
+|**Clé**|**Résumé**|**Catégorie**|
+|:- |:- |:- |
+|THREEDNET-1166 |Passez au format interne par défaut de USDZ en tant que HTML5|Nouvelle caractéristique|
+
+## API changements ##
+
+
+L'ancien format A3DW a été utilisé comme format interne du HTML5, maintenant il est obsolète et remplacé par le USDZ, qui peut offrir plus de fonctionnalités et d'extensibilité.
+
+
+Cette version n'a pas de changements majeurs API.
+
+

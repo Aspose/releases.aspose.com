@@ -1,6 +1,6 @@
 ---
 title: "ASSON.3D | Java -Klassenbibliothek zur Verarbeitung von 3D -Bildern, Modelle"
-linktitle: Aspose.3D
+linktitle: "Aspose.3D für Java"
 description: "Java -Bibliothek zum Erstellen, Lesen, Konvertieren und Speichern von 3D -Formaten (z. B. 3DS, 3MF, DAE, DFX, GITF, U3D usw.). Unterstützt Geometrien, Diagramme, Skelette und Morphdeformer."
 layout: packages
 type: repository

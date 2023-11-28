@@ -1,7 +1,7 @@
 ---
-title: "Aspose.3d | Perpustakaan Kelas Java Untuk Memproses Gambar 3D, Model" 
-linktitle: Aspose.3D
-description: "Perpustakaan Java untuk membuat, membaca, mengonversi & menyimpan format 3D (mis. 3DS, 3MF, DAE, DFX, GITF, U3D, dll.). Mendukung geometri, grafik, kerangka, & deformer morph." 
+title: "Aspose.3d | Perpustakaan Kelas Java Untuk Memproses Gambar 3D, Model"
+linktitle: "Aspose.3D untuk Java"
+description: "Perpustakaan Java untuk membuat, membaca, mengonversi & menyimpan format 3D (mis. 3DS, 3MF, DAE, DFX, GITF, U3D, dll.). Mendukung geometri, grafik, kerangka, & deformer morph."
 layout: packages
 type: repository
 categories:
@@ -62,8 +62,8 @@ keywords:
 - VRML
 - Wavefront
 weight: 02	#rem
-family_listing_page_title: "Aspose.3d untuk Java" 
-family_listing_page_description: "Aspose.3d untuk Java API dibangun untuk membuat, mengedit, memanipulasi, dan menyimpan format 3D. Ini memberdayakan aplikasi Java untuk terhubung dengan dokumen 3D tanpa menginstal paket perangkat lunak apa pun di komputer. Aspose.3d untuk Java API membantu pengembang untuk memodelkan dan menciptakan dunia besar dalam permainan, adegan luar biasa untuk visualisasi desain, dan melibatkan pengalaman realitas virtual. API ramah pengguna dan menghemat waktu dan uang daripada menciptakan solusi serupa dari awal." 
+family_listing_page_title: "Aspose.3d untuk Java"
+family_listing_page_description: "Aspose.3d untuk Java API dibangun untuk membuat, mengedit, memanipulasi, dan menyimpan format 3D. Ini memberdayakan aplikasi Java untuk terhubung dengan dokumen 3D tanpa menginstal paket perangkat lunak apa pun di komputer. Aspose.3d untuk Java API membantu pengembang untuk memodelkan dan menciptakan dunia besar dalam permainan, adegan luar biasa untuk visualisasi desain, dan melibatkan pengalaman realitas virtual. API ramah pengguna dan menghemat waktu dan uang daripada menciptakan solusi serupa dari awal."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"

@@ -2,6 +2,7 @@
 title: "Κατεβάστε το C# Gameware, CAD & 3D Processing DLL | Aspose.3D"
 description: "Πραγματοποιήστε λήψη DLL που περιέχει βιβλιοθήκη κλάσης C# για να εργαστείτε με αρχεία 3D (3DS, 3MF, DAE, DFX, USD, MA, gITF, U3D), πλέγματα, γεωμετρίες, σκηνές, κινούμενα σχέδια μέσω API εσωτερικής εγκατάστασης .NET."
 keywords: "3D .NET API, 3D .NET Library"
+linktitle: "Aspose.3D για .NET"
 family_listing_page_title: "Aspose.3D για .NET"
 family_listing_page_description: "Το Aspose.3D για. λογισμικό μοντελοποίησης και απόδοσης που εγκαθίσταται στον διακομιστή. Υποστηρίζει Discreet3DS, WavefrontOBJ, Maya (ASCII), FBX (ASCII, Binary), STL (ASCII, Binary), USDC, USDZ, PDMS RVM, Universal3D, Collada, glTF, GLB, PLY, HTML5, A3DW, DirectX και Google Draco μορφές αρχείων, που επιτρέπουν στους προγραμματιστές να δημιουργούν, να διαβάζουν, να μετατρέπουν, να τροποποιούν και να ελέγχουν εύκολα την ουσία αυτών των τρισδιάστατων μορφών εγγράφων χρησιμοποιώντας το Aspose.3D API."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-net-min.png"
@@ -93,4 +94,3 @@ weight:  1
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

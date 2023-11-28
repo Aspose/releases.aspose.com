@@ -2,6 +2,7 @@
 title: "Aspose.3D pour Python via .NET"
 description:  "Aspose.3D for Python via .NET is a feature-rich Gameware and Computer-Aided-Designing (CAD) API to manipulate documents without any 3D modeling and rendering software dependencies. API supports Discreet3DS, WavefrontOBJ, FBX (ASCII, Binary), USD, USDZ, STL (ASCII, Binary), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco file formats and more. Developers can create, read, convert, modify and control the substance of 3D document formats easily."
 keywords:  "FBX,USDZ,FBX,Python,.NET,OBJ,STL,GLTF,U3D,JT,RVM"
+linktitle: "Aspose.3D pour Python via .NET"
 family_listing_page_title: "Aspose.3D pour Python via .NET"
 family_listing_page_description:  "Aspose.3D for Python via .NET is a feature-rich Gameware and Computer-Aided-Designing (CAD) API to manipulate documents without any 3D modeling and rendering software dependencies. API supports Discre"
 family_listing_page_iconurl:  "https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg"
@@ -148,4 +149,3 @@ Votre machine n'a pas besoin d'avoir un logiciel de modélisation et de rendu in
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

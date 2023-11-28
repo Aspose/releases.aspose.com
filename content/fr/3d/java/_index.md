@@ -1,7 +1,7 @@
 ---
-title: "Aspose.3d | Bibliothèque de classe Java pour traiter les images 3D, les modèles" 
-linktitle: Aspose.3D
-description: "Bibliothèque Java pour créer, lire, convertir et enregistrer les formats 3D (par exemple 3DS, 3MF, DAE, DFX, GITF, U3D, etc.). Prend en charge les géométries, les graphiques, les squelettes et les déformateurs morph." 
+title: "Aspose.3d | Bibliothèque de classe Java pour traiter les images 3D, les modèles"
+linktitle: "Aspose.3D pour Java"
+description: "Bibliothèque Java pour créer, lire, convertir et enregistrer les formats 3D (par exemple 3DS, 3MF, DAE, DFX, GITF, U3D, etc.). Prend en charge les géométries, les graphiques, les squelettes et les déformateurs morph."
 layout: packages
 type: repository
 categories:
@@ -62,8 +62,8 @@ keywords:
 - VRML
 - Wavefront
 weight: 02	#rem
-family_listing_page_title: "Aspose.3d pour Java" 
-family_listing_page_description: "Aspose.3d pour l'API Java est conçu pour créer, modifier, manipuler et enregistrer les formats 3D. Il permet aux applications Java de se connecter avec des documents 3D sans installer de package logiciel sur l'ordinateur. Aspose.3d pour l'API Java aide les développeurs à modéliser et à créer des mondes massifs dans des jeux, à de superbes scènes de visualisation de conception et à engager des expériences de réalité virtuelle. L'API est conviviale et permet d'économiser du temps et de l'argent que de créer une solution similaire à partir de zéro." 
+family_listing_page_title: "Aspose.3d pour Java"
+family_listing_page_description: "Aspose.3d pour l'API Java est conçu pour créer, modifier, manipuler et enregistrer les formats 3D. Il permet aux applications Java de se connecter avec des documents 3D sans installer de package logiciel sur l'ordinateur. Aspose.3d pour l'API Java aide les développeurs à modéliser et à créer des mondes massifs dans des jeux, à de superbes scènes de visualisation de conception et à engager des expériences de réalité virtuelle. L'API est conviviale et permet d'économiser du temps et de l'argent que de créer une solution similaire à partir de zéro."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"

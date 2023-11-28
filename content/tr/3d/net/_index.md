@@ -2,6 +2,7 @@
 title: "C# Oyun Yazılımı, CAD ve 3D İşleme DLL'sini İndirin | Aspose.3D"
 description: "3B dosyalarla (3DS, 3MF, DAE, DFX, USD, MA, gITF, U3D), ağlar, geometriler, sahneler, animasyonlar ile çalışmak için C# sınıf kitaplığını içeren DLL dosyasını .NET yerinde API aracılığıyla indirin."
 keywords: "3D .NET API, 3D .NET Library"
+linktitle: ".NET için Aspose.3D"
 family_listing_page_title: ".NET için Aspose.3D"
 family_listing_page_description: "Aspose.3D for .NET, ASP.NET, Windows Forms ve Web Services dahil Mono ve .NET uygulamalarının herhangi bir 3D olmadan otomatik olarak yaygın 3D belge formatlarına bağlanmasını sağlayan zengin özelliklere sahip bir Oyun Yazılımı ve Bilgisayar Destekli Tasarım (CAD) API'sidir. modelleme ve işleme yazılımı sunucuya yükleniyor. Discreet3DS, WavefrontOBJ, Maya (ASCII), FBX (ASCII, Binary), STL (ASCII, Binary), USDC, USDZ, PDMS RVM, Universal3D, Collada, glTF, GLB, PLY, HTML5, A3DW, DirectX ve Google Draco'yu destekler dosya formatları, geliştiricilerin Aspose.3D API kullanarak bu 3B belge formatlarını kolayca oluşturmasına, okumasına, dönüştürmesine, değiştirmesine ve kontrol etmesine olanak tanır."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-net-min.png"
@@ -91,4 +92,3 @@ Aspose.3D for .NET, Mono kurabilen (.NET 4.0 Framework desteği) veya .NET Core 
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

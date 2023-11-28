@@ -1,7 +1,7 @@
 ---
-title: "Aspose.3d | 3D画像、モデルを処理するJavaクラスライブラリ" 
-linktitle: Aspose.3D
-description: "Javaライブラリ3Dフォーマットを作成、読み取り、変換、保存（3DS、3MF、DAE、DFX、GITF、U3Dなど）。ジオメトリ、グラフ、スケルトン、モーフの変形をサポートします。" 
+title: "Aspose.3d | 3D画像、モデルを処理するJavaクラスライブラリ"
+linktitle: "Aspose.3D for Java"
+description: "Javaライブラリ3Dフォーマットを作成、読み取り、変換、保存（3DS、3MF、DAE、DFX、GITF、U3Dなど）。ジオメトリ、グラフ、スケルトン、モーフの変形をサポートします。"
 layout: packages
 type: repository
 categories:
@@ -62,8 +62,8 @@ keywords:
 - VRML
 - Wavefront
 weight: 02	#rem
-family_listing_page_title: "JavaのAsopsion.3d" 
-family_listing_page_description: "Java API用のAsopse.3dは、3D形式を作成、編集、操作、保存するために構築されています。コンピューターにソフトウェアパッケージをインストールせずに、Javaアプリケーションが3Dドキュメントに接続できるようになります。 Java APIのAspose.3dは、開発者がゲームで大規模な世界をモデル化および作成し、デザインの視覚化のための素晴らしいシーンを作成し、仮想現実体験を行うのを支援します。 APIはユーザーフレンドリーで、同様のソリューションをゼロから作成するよりも時間とお金を節約します。" 
+family_listing_page_title: "JavaのAsopsion.3d"
+family_listing_page_description: "Java API用のAsopse.3dは、3D形式を作成、編集、操作、保存するために構築されています。コンピューターにソフトウェアパッケージをインストールせずに、Javaアプリケーションが3Dドキュメントに接続できるようになります。 Java APIのAspose.3dは、開発者がゲームで大規模な世界をモデル化および作成し、デザインの視覚化のための素晴らしいシーンを作成し、仮想現実体験を行うのを支援します。 APIはユーザーフレンドリーで、同様のソリューションをゼロから作成するよりも時間とお金を節約します。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
