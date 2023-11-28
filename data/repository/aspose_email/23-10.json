@@ -13,6 +13,10 @@
     "classifier" : "javadoc"
   }, {
     "size" : "13 MB",
+    "name" : "aspose-email-23.10-jdk16.jakarta.jar",
+    "classifier" : "jdk16.jakarta"
+  }, {
+    "size" : "13 MB",
     "name" : "aspose-email-23.10-jdk16.jar",
     "classifier" : "jdk16"
   }, {

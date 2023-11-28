@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.words-for-.net-23.4"
-description: " "
+title: "Combo Chart Axes, Table Formatting API | C# .NET Apps API"
+description: "Elevate your C# API experience! Set precise Table Styling. Improved Combo Chart handling with advanced series and axis control for creating dynamic docx files."
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/net/new-releases/aspose.words-for-.net-23.4/"
@@ -14,36 +13,121 @@ download_count: " 4/4/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 85.65MB"
 parent_path: "words/net"
 section_parent_path: "words/net"
-
-tags: ["docx to pdf", "convert compare create edit word", "split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub png emf jpg gif", "mail merge table", "reporting document"]
-release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-23-4-release-notes/"
+tags:
+  [
+    "docx to pdf",
+    "convert compare create edit word",
+    "split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub png emf jpg gif",
+    "mail merge table",
+    "reporting document",
+  ]
+release_notes_url: "https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-4-release-notes/"
 weight: 721
-
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Words for .NET 23.4" imagelink="/resources/img/msi-icon.png">}}
-  {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/words/net/new-releases/aspose.words-for-.net-23.4/17320cdcc3860a241d66824cfeaa0089-18-8728" >}}
-    {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/words" >}}
-  {{< Releases/ReleasesButtons >}}
-  {{< Releases/ReleasesFileArea >}}
-    {{< Releases/ReleasesHeading h4txt="File Details">}}
-    {{< Releases/ReleasesDetailsUl >}}
-      {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-17320cdcc3860a241d66824cfeaa0089-18-8728" >}} 1 {{< /Common/li >}}
-      {{< Common/li >}} File Size: {{< /Common/li >}}
-      {{< Common/li id="size-update-17320cdcc3860a241d66824cfeaa0089-18-8728" >}} 85.65MB {{< /Common/li >}}
+{{< Releases/ReleasesHeading H2txt="Aspose.Words for .NET 23.4" imagelink="/resources/img/msi-icon.png">}}
+{{< Releases/ReleasesButtons >}}
+{{< Releases/ReleasesSingleButtons text="Download" link="/words/net/new-releases/aspose.words-for-.net-23.4/17320cdcc3860a241d66824cfeaa0089-18-8728" >}}
+{{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/words" >}}
+{{< Releases/ReleasesButtons >}}
+{{< Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesHeading h4txt="File Details">}}
+{{< Releases/ReleasesDetailsUl >}}
+{{< Common/li >}} Downloads: {{< /Common/li >}}
+{{< Common/li class="downloadcount" id="dwn-update-17320cdcc3860a241d66824cfeaa0089-18-8728" >}} 1 {{< /Common/li >}}
+{{< Common/li >}} File Size: {{< /Common/li >}}
+{{< Common/li id="size-update-17320cdcc3860a241d66824cfeaa0089-18-8728" >}} 85.65MB {{< /Common/li >}}
 
       {{< Common/li >}} Date Added: {{< /Common/li >}}
       {{< Common/li id="added-update-17320cdcc3860a241d66824cfeaa0089-18-8728" >}}4/4/2023 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
-  {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/words/net/aspose-words-for-net-23-4-release-notes/'>https://docs.aspose.com/words/net/aspose-words-for-net-23-4-release-notes/</a></div>
-  {{< /Releases/ReleasesFileFeatures >}}
-  {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for .NET 23.4 MSI installer.</div>
-  {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+{{< Releases/ReleasesFileFeatures >}}
+<h4>Release Notes</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-4-release-notes/'>https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-4-release-notes/</a></div>
+{{< /Releases/ReleasesFileFeatures >}}
+{{< Releases/ReleasesFileFeatures >}}
+<h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for .NET 23.4 MSI installer.</div>
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Customize Table Styling using API
+
+Added ability to set distance between table and surrounding text
+
+Now customize the [`Table`](https://reference.aspose.com/words/net/aspose.words.tables/table/) class with properties to control distances from surrounding text:
+
+- Left: [`table.DistanceLeft`](https://reference.aspose.com/words/net/aspose.words.tables/table/distanceleft/)
+- Right: [`table.DistanceRight`](https://reference.aspose.com/words/net/aspose.words.tables/table/distanceright/)
+- Top: [`table.DistanceTop`](https://reference.aspose.com/words/net/aspose.words.tables/table/distancetop/)
+- Bottom: [`table.DistanceBottom`](https://reference.aspose.com/words/net/aspose.words.tables/table/distancebottom/)
+
+The following C# sample code demonstrates how to set the distance between table and its surrounding text (in Points) using API:
+
+```c#
+Document doc = new Document("input.docx");
+Table table = doc.FirstSection.Body.Tables[0];
+
+// Set distance between table and surrounding text.
+table.DistanceLeft = 24;
+table.DistanceRight = 24;
+table.DistanceTop = 3;
+table.DistanceBottom = 3;
+
+doc.Save("output.docx");
+```
+
+*[Source\*](https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-4-release-notes/)*
+
+
+### Combo Chart Improvements
+
+Improvements in [`Chart`](https://reference.aspose.com/words/net/aspose.words.drawing.charts/chart/) class has been mode for Combo charts.
+
+The following changes have been implemented:
+
+- Access all series of a combo chart via the [`ChartSeriesCollection`](https://reference.aspose.com/words/net/aspose.words.drawing.charts/chartseriescollection/) instance returned by the [`Chart.Series`](https://reference.aspose.com/words/net/aspose.words.drawing.charts/chart/series/) property
+- Introducing [`ChartAxisCollection`](https://reference.aspose.com/words/net/aspose.words.drawing.charts/chartaxiscollection/) class with [`Chart.Axes`](https://reference.aspose.com/words/net/aspose.words.drawing.charts/chart/axes/) property for comprehensive axis control.
+
+Please check the following C# sample code to learn how to work with series and axes of a combo chart in DOCX using API:
+
+```c#
+Document doc = new Document("ComboChart.docx");
+NodeCollection shapes = doc.GetChildNodes(NodeType.Shape, true);
+Chart chart = ((Shape)shapes[0]).Chart;
+
+// Show markers in the line series named 'Series 3'.
+foreach (ChartSeries series in chart.Series)
+{
+    if (series.Name == "Series 3")
+    {
+        series.Marker.Symbol = MarkerSymbol.Circle;
+        series.Marker.Size = 18;
+        break;
+    }
+}
+
+// Hide the major grid lines on the primary and secondary Y axes.
+foreach (ChartAxis axis in chart.Axes)
+{
+    if (axis.Type == ChartAxisType.Value)
+        axis.HasMajorGridlines = false;
+}
+
+doc.Save("output.docx");
+```
+
+*[Source\*](https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-4-release-notes/)*
+
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 23.4 Release Notes](https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-4-release-notes/).
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
