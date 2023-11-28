@@ -16,7 +16,7 @@ weight: 3
 {{< Common/paragraph class="package-instructions">}}
 请使用以下
 {{< Common/link href="https://pypi.org/project/aspose-3d/" text="点子"  >}}命令：
-{{< Common/release-notes-link family="3D" product="python-net" href="https://docs.aspose.com/3d/python-net/release-notes/" text="https://docs.aspose.com/3d/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="3D" product="python-net" href="https://releases.aspose.com/3d/python-net/release-notes/" text="https://releases.aspose.com/3d/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}

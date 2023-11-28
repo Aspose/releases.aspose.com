@@ -74,7 +74,7 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 tags: ["Java 3D API", "Java 3D Component", "Java 3D Library", "Java 3D Class", "3D", "3D Geometry3D Manufecturing", "3D Modeling", "3D Objects", "3D PDF", "3D Scene", "3D Studio Max", "3D Viewports", "3DS", "3D to GLTF2.0", "3D to HTML", "3D to PDF", "3MF", "AMF", "Animation", "ASE", "Aspose.3D", "Aspose.Total", "AutoCAD", "Autodesk", "Collada", "Conholdate", "Conholdate.Total", "Cylinder", "DAE", "Darco", "DirectX", "DRC", "DXF", "FBX", "Geometry", "gITF", "HTML", "JT", "Linear Extrusion", "Mesh", "Morph", "NURBS", "OBJ", "PDF", "PLY", "Punktwolke", "Polygons", "Redenring", "RVM", "Skeleton", "STL", "U3D", "VRML", "Wavefront"]
 forumLink: https://forum.aspose.com/c/3d/18
 productLink: https://products.aspose.com/3d/java/
-releaseNotesLink: https://docs.aspose.com/3d/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/3d/java/release-notes/
 dataFolder: aspose_3d
 packages_refs:
 - "22-11"
