@@ -2,6 +2,7 @@
 title: "Baixar C# Gameware, CAD e DLL de Processamento 3D | Aspose.3D"
 description: "Baixe a DLL contendo a biblioteca de classes C# para trabalhar com arquivos 3D (3DS, 3MF, DAE, DFX, USD, MA, gITF, U3D), malhas, geometrias, cenas, animações via API .NET no local."
 keywords: "3D .NET API, 3D .NET Library"
+linktitle: "Aspose.3D para .NET"
 family_listing_page_title: "Aspose.3D para .NET"
 family_listing_page_description: "O Aspose.3D for .NET é uma API de Gameware e Computer-Aided-Designing (CAD) rica em recursos que permite que aplicativos Mono e .NET, incluindo ASP.NET, Windows Forms e Web Services, se conectem automaticamente a formatos de documentos 3D predominantes sem qualquer 3D software de modelagem e renderização sendo instalado no servidor. Ele suporta Discreet3DS, WavefrontOBJ, Maya (ASCII), FBX (ASCII, Binário), STL (ASCII, Binário), USDC, USDZ, PDMS RVM, Universal3D, Collada, glTF, GLB, PLY, HTML5, A3DW, DirectX e Google Draco formatos de arquivo, permitindo que os desenvolvedores criem, leiam, convertam, modifiquem e controlem facilmente a substância desses formatos de documentos 3D usando a API Aspose.3D."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-net-min.png"
@@ -93,4 +94,3 @@ Aspose.3D para .NET pode ser usado em qualquer sistema operacional (Windows, Mac
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

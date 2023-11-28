@@ -3,6 +3,7 @@
 title: "Node.js 3D Document Processing API - Aspose"
 description:  "Aspose.3D for Node.js via Java is a standalone API that does not require the installation of any other software."
 keywords:  "Java,Node.js,3D"
+linktitle: "Aspose.3D for Node.js via Java"
 family_listing_page_title:  "Aspose.3D for Node.js via Java"
 family_listing_page_description:  "Create, Manipulate & Save 3D files to multiple formats without requiring any external modeling & rendering software."
 family_listing_page_iconurl:  "https://releases.aspose.app/res_repo/images/aspose_3d-for-nodejs-java.svg"

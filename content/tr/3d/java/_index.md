@@ -1,7 +1,7 @@
 ---
-title: "Aspose.3d | 3D görüntüleri işlemek için java sınıfı kütüphanesi, modeller" 
-linktitle: Aspose.3D
-description: "3D formatları oluşturmak, okumak, dönüştürmek ve kaydetmek için Java Kütüphanesi (örn. 3DS, 3MF, DAE, DFX, GITF, U3D, vb.). Geometrileri, grafikleri, iskeletleri ve morph deformerları destekler." 
+title: "Aspose.3d | 3D görüntüleri işlemek için java sınıfı kütüphanesi, modeller"
+linktitle: "Java için Aspose.3D"
+description: "3D formatları oluşturmak, okumak, dönüştürmek ve kaydetmek için Java Kütüphanesi (örn. 3DS, 3MF, DAE, DFX, GITF, U3D, vb.). Geometrileri, grafikleri, iskeletleri ve morph deformerları destekler."
 layout: packages
 type: repository
 categories:
@@ -62,8 +62,8 @@ keywords:
 - VRML
 - Wavefront
 weight: 02	#rem
-family_listing_page_title: "Java için aspose.3d" 
-family_listing_page_description: "Java API için Aspose.3d, 3D formatları oluşturmak, düzenlemek, manipüle etmek ve kaydetmek için oluşturulmuştur. Java uygulamalarının bilgisayarda herhangi bir yazılım paketi yüklemeden 3D belgelerle bağlantı kurmasını sağlar. Java API için Aspose.3D, geliştiricilerin oyunlarda büyük dünyaları modellemelerine ve yaratmalarına, tasarım görselleştirmesi için mükemmel sahneler ve sanal gerçeklik deneyimleriyle meşgul olmalarına yardımcı olur. API kullanıcı dostudur ve sıfırdan benzer bir çözüm oluşturmaktan ziyade zaman ve para tasarrufu sağlar." 
+family_listing_page_title: "Java için aspose.3d"
+family_listing_page_description: "Java API için Aspose.3d, 3D formatları oluşturmak, düzenlemek, manipüle etmek ve kaydetmek için oluşturulmuştur. Java uygulamalarının bilgisayarda herhangi bir yazılım paketi yüklemeden 3D belgelerle bağlantı kurmasını sağlar. Java API için Aspose.3D, geliştiricilerin oyunlarda büyük dünyaları modellemelerine ve yaratmalarına, tasarım görselleştirmesi için mükemmel sahneler ve sanal gerçeklik deneyimleriyle meşgul olmalarına yardımcı olur. API kullanıcı dostudur ve sıfırdan benzer bir çözüm oluşturmaktan ziyade zaman ve para tasarrufu sağlar."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"

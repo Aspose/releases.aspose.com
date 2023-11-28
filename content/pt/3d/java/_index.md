@@ -1,7 +1,7 @@
 ---
-title: "Aspose.3d | Biblioteca de classe Java para processar imagens 3D, modelos" 
-linktitle: Aspose.3D
-description: "Biblioteca Java para criar, ler, converter e salvar formatos 3D (por exemplo, 3DS, 3MF, DAE, DFX, GITF, U3D, etc.). Suporta geometrias, gráficos, esqueletos e deformadores de morph." 
+title: "Aspose.3d | Biblioteca de classe Java para processar imagens 3D, modelos"
+linktitle: "Aspose.3D para Java"
+description: "Biblioteca Java para criar, ler, converter e salvar formatos 3D (por exemplo, 3DS, 3MF, DAE, DFX, GITF, U3D, etc.). Suporta geometrias, gráficos, esqueletos e deformadores de morph."
 layout: packages
 type: repository
 categories:
@@ -62,8 +62,8 @@ keywords:
 - VRML
 - Wavefront
 weight: 02	#rem
-family_listing_page_title: "Aspose.3d para Java" 
-family_listing_page_description: "Aspose.3d para API Java é construído para criar, editar, manipular e salvar formatos 3D. Ele capacita os aplicativos Java a se conectar com documentos 3D sem instalar nenhum pacote de software no computador. Aspose.3d para Java API Assista aos desenvolvedores a modelar e criar mundos enormes em jogos, cenas excelentes para a visualização do design e envolver experiências de realidade virtual. A API é amigável e economiza tempo e dinheiro do que criar uma solução semelhante do zero." 
+family_listing_page_title: "Aspose.3d para Java"
+family_listing_page_description: "Aspose.3d para API Java é construído para criar, editar, manipular e salvar formatos 3D. Ele capacita os aplicativos Java a se conectar com documentos 3D sem instalar nenhum pacote de software no computador. Aspose.3d para Java API Assista aos desenvolvedores a modelar e criar mundos enormes em jogos, cenas excelentes para a visualização do design e envolver experiências de realidade virtual. A API é amigável e economiza tempo e dinheiro do que criar uma solução semelhante do zero."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"

@@ -1,7 +1,7 @@
 ---
-title: "aspose.3d | Java类库处理3D图像，模型" 
-linktitle: Aspose.3D
-description: "Java库创建，读取，转换和保存3D格式（例如3DS，3MF，DAE，DFX，GITF，U3D等）。支持几何形状，图形，骨骼和变形变形剂。" 
+title: "aspose.3d | Java类库处理3D图像，模型"
+linktitle: "Aspose.3D for Java"
+description: "Java库创建，读取，转换和保存3D格式（例如3DS，3MF，DAE，DFX，GITF，U3D等）。支持几何形状，图形，骨骼和变形变形剂。"
 layout: packages
 type: repository
 categories:
@@ -62,8 +62,8 @@ keywords:
 - VRML
 - Wavefront
 weight: 02	#rem
-family_listing_page_title: "aspose.3d for Java" 
-family_listing_page_description: "aspose.3d for Java API旨在创建，编辑，操纵和保存3D格式。它使Java应用程序能够与3D文档连接，而无需在计算机上安装任何软件包。 Aspose.3d for Java API协助开发人员在游戏中建模和创造大型世界，精湛的设计可视化场景以及参与虚拟现实体验。 API比从头开始创建类似的解决方案比用户友好，节省了时间和金钱。" 
+family_listing_page_title: "aspose.3d for Java"
+family_listing_page_description: "aspose.3d for Java API旨在创建，编辑，操纵和保存3D格式。它使Java应用程序能够与3D文档连接，而无需在计算机上安装任何软件包。 Aspose.3d for Java API协助开发人员在游戏中建模和创造大型世界，精湛的设计可视化场景以及参与虚拟现实体验。 API比从头开始创建类似的解决方案比用户友好，节省了时间和金钱。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"

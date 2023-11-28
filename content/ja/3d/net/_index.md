@@ -2,6 +2,7 @@
 title: "C# ゲームウェア、CAD & 3D 処理 DLL をダウンロード | Aspose.3D"
 description: "C# クラス ライブラリを含む DLL をダウンロードして、.NET オンプレミス API 経由で 3D ファイル (3DS、3MF、DAE、DFX、USD、MA、gITF、U3D)、メッシュ、ジオメトリ、シーン、アニメーションを操作します。"
 keywords: "3D .NET API, 3D .NET Library"
+linktitle: "Aspose.3D for .NET"
 family_listing_page_title: "Aspose.3D for .NET"
 family_listing_page_description: "Aspose.3D for .NET は機能豊富なゲームウェアおよびコンピューター支援設計 (CAD) API であり、Mono および .NET アプリケーション (ASP.NET、Windows フォーム、Web サービスを含む) が一般的な 3D ドキュメント フォーマットに 3D なしで自動的に接続できるようにします。サーバーにインストールされているモデリングおよびレンダリング ソフトウェア。 Discreet3DS、WavefrontOBJ、Maya (ASCII)、FBX (ASCII、バイナリ)、STL (ASCII、バイナリ)、USDC、USDZ、PDMS RVM、Universal3D、Collada、glTF、GLB、PLY、HTML5、A3DW、DirectX、Google Draco をサポートしています。開発者は Aspose.3D API を使用して、これらの 3D ドキュメント フォーマットの内容を簡単に作成、読み取り、変換、変更、および制御できます。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-net-min.png"
@@ -93,4 +94,3 @@ Aspose.3D for .NET は、Mono (.NET 4.0 Framework サポート) をインスト�
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-
