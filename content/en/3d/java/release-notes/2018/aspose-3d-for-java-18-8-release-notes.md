@@ -1,6 +1,6 @@
 ---
-id: "aspose-3d-for-java-18-8-release-notess"
-slug: "aspose-3d-for-java-18-8-release-notess"
+id: "aspose-3d-for-java-18-8-release-notes"
+slug: "aspose-3d-for-java-18-8-release-notes"
 linktitle: "Aspose.3D for Java 18.8 - August 2018"
 title: "Aspose.3D for Java 18.8 - August 2018"
 weight: 50
