@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-pdf",
+  "id" : "23-11",
+  "packageFiles" : [ {
+    "size" : "5 MB",
+    "name" : "aspose-pdf-23.11-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "72 MB",
+    "name" : "aspose-pdf-23.11.jar"
+  }, {
+    "size" : "453 bytes",
+    "name" : "aspose-pdf-23.11.pom"
+  } ],
+  "releasehDate" : "2023-11-29T15:36:18+00:00",
+  "version" : "23.11",
+  "ReleaseNotes" : "https://releases.aspose.com/pdf/java/release-notes/2023/aspose-pdf-for-java-23-11-release-notes/"
+}
