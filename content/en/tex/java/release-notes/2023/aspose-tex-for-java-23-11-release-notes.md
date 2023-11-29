@@ -3,7 +3,7 @@ id: "aspose-tex-for-java-23-11-release-notes"
 slug: "aspose-tex-for-java-23-11-release-notes"
 linktitle: "Aspose.TeX for Java 23.11 Release Notes"
 title: "Aspose.TeX for Java 23.11 Release Notes"
-weight: 15
+weight: 13
 description: "Java API Solution for developers to manipulate and process TeX and LaTeX files. Updates of Aspose.TeX API solution for Java | Release 2023.11"
 type: "repository"
 layout: "release"
