@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-ocr",
+  "id" : "23-11-0",
+  "packageFiles" : [ {
+    "size" : "270 KB",
+    "name" : "aspose-ocr-23.11.0-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "270 MB",
+    "name" : "aspose-ocr-23.11.0.jar"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-ocr-23.11.0.pom"
+  } ],
+  "releasehDate" : "2023-11-30T20:57:48+00:00",
+  "version" : "23.11.0",
+  "ReleaseNotes" : "https://releases.aspose.com/ocr/java/release-notes/2023/aspose-ocr-for-java-23-11-0-release-notes/"
+}
