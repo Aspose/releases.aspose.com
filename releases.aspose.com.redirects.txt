@@ -114,7 +114,7 @@ rewrite /(.*)/barcode/net/new-releases/aspose.barcode-for-.net-23.5/$ https://re
 rewrite /(.*)/ocr/net/new-releases/aspose.ocr-for-net-23.3.0-dlls-only/$ https://releases.aspose.com/$1/ocr/net/new-releases/aspose.ocr-for-net-23.3.1-dlls-only/ permanent;
 rewrite /3d/family/$ https://releases.aspose.com/3d/ permanent;
 rewrite /words/python/release-notes/2022/net/aspose-words-for-python-via-dotnet-22-4-release-notes/$ https://releases.aspose.com/words/python/release-notes/2022/aspose-words-for-python-via-dotnet-22-4-release-notes/ permanent;
-rewrite /3d/point-cloud/ https://releases.aspose.com/3d/ permanent;
+rewrite /3d/point-cloud/$ https://releases.aspose.com/3d/ permanent;
 rewrite /words/python/release-notes/2022/net/aspose-words-for-python-via-dotnet-22-4-release-notes/$ https://releases.aspose.com/words/python/release-notes/2022/aspose-words-for-python-via-dotnet-22-4-release-notes/ permanent;
 rewrite /(.*)/html/net/new-releases/aspose.svg-for-.net-23.2-dlls-only/$ https://releases.aspose.com/S1/tr/svg/net/new-releases/aspose.svg-for-.net-23.2/ permanent;
 rewrite /ocr/python-net/release-notes/2023/aspose-ocr-python-23-10-0-release-notes/$ https://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-10-1-release-notes/ permanent;
