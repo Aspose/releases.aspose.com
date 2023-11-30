@@ -3,7 +3,7 @@ id: "aspose-page-for-cpp-23-11-release-notes"
 slug: "aspose-page-for-cpp-23-11-release-notes"
 linktitle: "Aspose.Page for CPP 23.11 Release Notes"
 title: "Aspose.Page for CPP 23.11 Release Notes"
-weight: 91
+weight: 90
 description: "C++ Library for the developers to manipulate and process PS, EPS, and XPS files. Release Notes of Aspose.Page API solution for C++ | Release 2023.11"
 type: "repository"
 layout: "release"
