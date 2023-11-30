@@ -279,7 +279,7 @@ public enum Zip64Mode
 {{% alert color="secondary" %}}
 **Use Case**
 
-This use case explains how to save all sections of document to same worksheet:
+This use case explains how to set Zip64Mode:
 {{< gist "aspose-words-gists" "e386727403c2341ce4018bca370a5b41" "zip64-mode-option.cs" >}}
 {{% /alert %}}
 
