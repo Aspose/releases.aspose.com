@@ -102,3 +102,4 @@ rewrite /(.*)/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.
 rewrite /tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.9-maxos-x86/64/$ https://releases.aspose.com/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.9-maxos-x86-64/ permanent;
 rewrite /(.*)/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.10-maxos-x86/64/$ https://releases.aspose.com/$1/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.10-maxos-x86-64/ permanent;
 rewrite /tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.10-maxos-x86/64/$ https://releases.aspose.com/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.10-maxos-x86-64/ permanent;
+rewrite (.*)(new-releases)\/([^\/]+)\/(.{4,}) https://releases.aspose.com$1$2/$3/ permanent;
