@@ -105,8 +105,8 @@ rewrite /tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.10-ma
 rewrite (.*)(new-releases)\/([^\/]+)\/(.{4,}) https://releases.aspose.com$1$2/$3/ permanent;
 rewrite /barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-23.8/$ https://releases.aspose.com/barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-23.10/ permanent;
 rewrite /cells/redaction/$ https://releases.aspose.com/cells/ permanent;
-rewrite /fr/ocr/net/new-releases/aspose.ocr-for-net-23.3.0-dlls-only/$ https://releases.aspose.com/fr/ocr/net/new-releases/aspose.ocr-for-net-23.3.1-dlls-only/ permanent;
-rewrite /de/ocr/net/resources/portuguese-language-resource-file-for-aspose.ocr-for-.net-2.3.0/$ https://releases.aspose.com/de/ocr/net/ permanent;
+rewrite /(.*)/ocr/net/new-releases/aspose.ocr-for-net-23.3.0-dlls-only/$ https://releases.aspose.com/$1/ocr/net/new-releases/aspose.ocr-for-net-23.3.1-dlls-only/ permanent;
+rewrite /(.*)/ocr/net/resources/portuguese-language-resource-file-for-aspose.ocr-for-.net-2.3.0/$ https://releases.aspose.com/$1/ocr/net/ permanent;
 rewrite /(.*)/barcode/net/new-releases/aspose.barcode-for-.net-23.6-dlls-only/$ https://releases.aspose.com/$1/barcode/net/new-releases/aspose.barcode-for-.net-23.6.1-dlls-only/ permanent;
 rewrite /(.*)/barcode/net/new-releases/aspose.barcode-for-.net-23.6/$ https://releases.aspose.com/$1/barcode/net/new-releases/aspose.barcode-for-.net-23.6.1/ permanent;
 rewrite /(.*)/barcode/net/new-releases/aspose.barcode-for-.net-23.5-dlls-only/$ https://releases.aspose.com/$1/barcode/net/new-releases/aspose.barcode-for-.net-23.5.1-dlls-only/ permanent;
