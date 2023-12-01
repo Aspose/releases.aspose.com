@@ -25,7 +25,7 @@ There are 98 improvements and fixes in this regular monthly release. The most no
 
 - Added an ability to specify the page layout to be used when the document is opened in a PDF reader.
 - Implemented the way to control how ZIP64 format extensions will be used for OOXML documents.
-- Introduced support for WebP images. Please note, this feature is avaliable for .NetStandart version only.
+- Introduced support for WebP images. Please note, this feature is available for .NetStandart and .NET6+ versions only.
 - Added the dollarText number format for LINQ Reporting Engine.
 
 ## Full List of Issues Covering all Changes in this Release
@@ -283,11 +283,11 @@ This use case explains how to set Zip64Mode:
 {{< gist "aspose-words-gists" "e386727403c2341ce4018bca370a5b41" "zip64-mode-option.cs" >}}
 {{% /alert %}}
 
-### Added support of WebP images for .NetStandart build
+### Introduced support for WebP images. Please note, this feature is available for .NetStandart and .NET6+ versions only.
 
 Related task: WORDSNET-21107
 
-Added support for reading **WebP** image format to the .NetStandard build. Added the ability to both read **WebP** images from documents and insert them via **DocumentBuilder**.
+Added support for reading **WebP** image format to the .NetStandard and .NET6+ builds. Added the ability to both read **WebP** images from documents and insert them via **DocumentBuilder**.
 
 {{% alert color="secondary" %}}
 **Use Case**
