@@ -133,6 +133,7 @@ There are 98 improvements and fixes in this regular monthly release. The most no
 |WORDSNET-26258|Decreased image DPI when saving Word document to PDF file|Bug
 |WORDSNET-26235|Cell paddings are lost after importing HTML|Bug
 |WORDSNET-23567|RTF to PDF: Table missing|Bug
+|WORDSNET-26191|Font size is changed after converting PDF to DOCX|Bug
 </details>
 {{% /alert %}}
 
