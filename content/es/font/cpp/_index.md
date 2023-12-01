@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "267"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Font.Cpp/"
-tags: ['Aspose.Font', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'TTF', 'TTC', 'OpenType', 'CFF', 'Type1', 'Font', 'Fonts-API', 'Assembly', 'API', 'Component', 'Font-C++-API', 'C++', 'Glyphs', 'Latin-Fonts', 'C++-Native-Library', 'Windows', 'Visual-C++', 'Microsoft', 'CFF-Font', 'Native', 'C++', 'CPP', 'Library', 'net-core', 'NET', 'font-c -api']
+tags: ['font-c -api', 'Aspose.Font', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'TTF', 'TTC', 'OpenType', 'CFF', 'Type1', 'Font', 'Fonts-API', 'Assembly', 'API', 'Component', 'Font-C++-API', 'C++', 'Glyphs', 'Latin-Fonts', 'C++-Native-Library', 'Windows', 'Visual-C++', 'Microsoft', 'CFF-Font', 'Native', 'C++', 'CPP', 'Library', 'net-core', 'NET', 'font-c -api']
 weight:  3
 ---
 

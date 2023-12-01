@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "175"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Tasks.Cpp/"
-tags: ['MPP-to-XLSX', 'MPP-to-Excel', 'MPP-to-Spreadsheet', 'MPP-to-HTML', 'Project-to-HTML', 'Project-to-Excel', 'Project-to-XLSX', 'Project-to-CSV', 'Project-to-Text', 'Project-to-MPT', 'MPP-to-CSV', 'MPP-to-MPT', 'MPP-to-SVG', 'MPP-to-JPEG', 'MPP-to-TIF', 'Project-to-PDF', 'MPP-to-PDF', 'Project-to-Image', 'MPP-to-PNG', 'aspose.tasks-c -linux']
+tags: ['c', 'aspose.tasks-c -linux', 'MPP-to-XLSX', 'MPP-to-Excel', 'MPP-to-Spreadsheet', 'MPP-to-HTML', 'Project-to-HTML', 'Project-to-Excel', 'Project-to-XLSX', 'Project-to-CSV', 'Project-to-Text', 'Project-to-MPT', 'MPP-to-CSV', 'MPP-to-MPT', 'MPP-to-SVG', 'MPP-to-JPEG', 'MPP-to-TIF', 'Project-to-PDF', 'MPP-to-PDF', 'Project-to-Image', 'MPP-to-PNG', 'aspose.tasks-c -linux']
 weight:  3
 ---
 
