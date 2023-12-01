@@ -21,7 +21,7 @@ This page contains release notes for [Aspose.Words for .NET 23.12](https://www.n
 
 ## Major Features
 
-There are 98 improvements and fixes in this regular monthly release. The most notable are:
+There are 99 improvements and fixes in this regular monthly release. The most notable are:
 
 - Added an ability to specify the page layout to be used when the document is opened in a PDF reader.
 - Implemented the way to control how ZIP64 format extensions will be used for OOXML documents.
