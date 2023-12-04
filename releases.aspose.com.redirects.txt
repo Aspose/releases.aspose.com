@@ -126,13 +126,13 @@ rewrite /(.*)/words/net/new-releases/aspose.3d-for-.net-23.5/$ https://releases.
 rewrite ^/URLHandler$ https://releases.aspose.com/ permanent;
 rewrite ^/3d/python/$ https://releases.aspose.com/3d/python-net/ permanent;
 rewrite ^/app/dashboard$ https://releases.aspose.com/ permanent;
-rewrite ^/artifactory$  https://releases.aspose.com/java/repo/ permanent;
-rewrite ^/rep$  https://releases.aspose.com/java/repo/ permanent;
+rewrite ^/artifactory$ https://releases.aspose.com/java/repo/ permanent;
+rewrite ^/rep$ https://releases.aspose.com/java/repo/ permanent;
 rewrite ^/aspose/gis$ https://releases.aspose.com/gis/ permanent;
 rewrite ^/cad/javascript$ https://releases.aspose.com/cad/javascript-net/ permanent;
 rewrite ^/cad/net/23-10/$ https://releases.aspose.com/cad/net/new-releases/aspose.cad-for-.net-23.10/ permanent;
-rewrite ^/email/Node.js$  https://releases.aspose.com/email/ permanent;
-rewrite /(.*)/total/android-java/$ https://releases.aspose.com/$1/total/androidjava/ permanent;
+rewrite ^/email/Node.js$ https://releases.aspose.com/email/ permanent;
+rewrite /(.*)/total/android-java/$ https://releases.aspose.com/total/androidjava/ permanent;
 rewrite ^/gis/console$ https://releases.aspose.com/gis/ permanent;
 rewrite ^/list$ https://releases.aspose.com/ permanent;
 rewrite ^/live-tv$ https://releases.aspose.com/ permanent;
