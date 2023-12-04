@@ -126,7 +126,6 @@ rewrite ^/rep$ https://releases.aspose.com/java/repo/ permanent;
 rewrite ^/aspose/gis$ https://releases.aspose.com/gis/ permanent;
 rewrite ^/cad/javascript$ https://releases.aspose.com/cad/javascript-net/ permanent;
 rewrite ^/cad/net/23-10/$ https://releases.aspose.com/cad/net/new-releases/aspose.cad-for-.net-23.10/ permanent;
-rewrite ^/email/Node.js$ https://releases.aspose.com/email/ permanent;
 rewrite ^/(.*)/total/android-java/$ https://releases.aspose.com/total/androidjava/ permanent;
 rewrite ^/gis/console$ https://releases.aspose.com/gis/ permanent;
 rewrite ^/list$ https://releases.aspose.com/ permanent;
