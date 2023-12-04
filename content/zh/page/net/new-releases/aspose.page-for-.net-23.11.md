@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-23.11/"
 folder_name: "aspose.net 23.11页"
-download_link: "/page/net/new-releases/aspose.page-for-.net-23.11/1acb16daad7dc5b4eaabbbee9db55b88-4-9882"
+download_link: "/page/net/new-releases/aspose.page-for-.net-23.11/068e2d1dbd90d3519b4b5eed4a7fe116-4-9882"
 download_text: "下载"
 intro_text: "它包含aspose.net 23.11版本Windows安装程序的页面。"
 image_link: "/resources/img/msi-icon.png"
@@ -47,5 +47,3 @@ weight: 139
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

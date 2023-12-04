@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-23.11/"
 folder_name: "Aspose.Page for .Net 23.11"
-download_link: "/page/net/new-releases/aspose.page-for-.net-23.11/1acb16daad7dc5b4eaabbbee9db55b88-4-9882"
+download_link: "/page/net/new-releases/aspose.page-for-.net-23.11/068e2d1dbd90d3519b4b5eed4a7fe116-4-9882"
 download_text: "Download"
 intro_text: "It contains Aspose.Page for .NET 23.11 release Windows installer."
 image_link: "/resources/img/msi-icon.png"
@@ -47,5 +47,3 @@ weight: 139
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
