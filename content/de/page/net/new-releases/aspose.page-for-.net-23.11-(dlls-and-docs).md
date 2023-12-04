@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-23.11-(dlls-and-docs)/"
 folder_name: "ASSOSE.PAGE FÜR .NET 23.11 (DLLS und DOCS)"
-download_link: "/page/net/new-releases/aspose.page-for-.net-23.11-(dlls-and-docs)/b0ee0cb884ede53ce32eac5121bdebda-4-9881"
+download_link: "/page/net/new-releases/aspose.page-for-.net-23.11-(dlls-and-docs)/8ede6f48d63ce53860bf1984d7cfaacf-4-9881"
 download_text: "Download"
 intro_text: "Wir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben."
 image_link: "/resources/img/zip-icon.png"
@@ -47,5 +47,3 @@ weight: 138
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
