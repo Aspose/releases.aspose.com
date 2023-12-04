@@ -119,7 +119,6 @@ rewrite ^/words/python/release-notes/2022/net/aspose-words-for-python-via-dotnet
 rewrite /(.*)/html/net/new-releases/aspose.svg-for-.net-23.2-dlls-only/$ https://releases.aspose.com/$1/svg/net/new-releases/aspose.svg-for-.net-23.2/ permanent;
 rewrite ^/ocr/python-net/release-notes/2023/aspose-ocr-python-23-10-0-release-notes/$ https://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-10-1-release-notes/ permanent;
 rewrite /(.*)/words/net/new-releases/aspose.3d-for-.net-23.5/$ https://releases.aspose.com/$1/3d/net/new-releases/aspose.3d-for-.net-23.5/ permanent;
-rewrite ^/URLHandler$ https://releases.aspose.com/ permanent;
 rewrite ^/3d/python/$ https://releases.aspose.com/3d/python-net/ permanent;
 rewrite ^/app/dashboard$ https://releases.aspose.com/ permanent;
 rewrite ^/artifactory$ https://releases.aspose.com/java/repo/ permanent;
