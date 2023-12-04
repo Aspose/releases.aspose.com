@@ -1,4 +1,4 @@
----
+﻿---
 id: "aspose-words-for-sharepoint-23-9-release-notes"
 slug: "aspose-words-for-sharepoint-23-9-release-notes"
 linktitle: "Aspose.Words for SharePoint 23.9 Release Notes"
@@ -16,7 +16,7 @@ menuItemWithNoContent: false
 {{% alert color="primary" %}}
 
 This page contains release notes for [Aspose.Words for SharePoint 23.9](https://releases.aspose.com/words/sharepoint/new-releases/aspose.words-for-sharepoint-23.9/).
-This version includes all bug fixes and public API changes made in Aspose.Words for .NET up-to version 23.9, see [Aspose.Words for .NET 23.6 Release Notes](/words/net/release-notes/2023/aspose-words-for-net-23-9-release-notes/) for more information.
+This version includes all bug fixes and public API changes made in Aspose.Words for .NET up-to version 23.9, see [Aspose.Words for .NET 23.9 Release Notes](/words/net/release-notes/2023/aspose-words-for-net-23-9-release-notes/) for more information.
 
 {{% /alert %}}
 
