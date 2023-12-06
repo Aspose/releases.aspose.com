@@ -2,13 +2,13 @@
 id: "aspose-ocr-for-java-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2023-10-18"
+date: "2023-11-29"
 author: "Vladimir Lapin"
 type: "repository"
 feedback: "OCRJAVA"
 layout: "release"
-title: Latest release (October 2023)
-linktitle: "Latest release (October 2023)"
+title: Latest release
+linktitle: "Latest release"
 description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OCR for Java.
 keywords:
 - latest
@@ -18,64 +18,26 @@ keywords:
 - changelog
 ---
 
+
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Java 23.10.0 (October 2023)** release.
+This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Java 23.11.0 (November 2023)** release.
 
-GPU version: **23.10.0**
-{{% /alert %}}
-
-## Deprecation warning
-
-{{% alert color="caution" %}}
-The [release 23.3.0](https://docs.aspose.com/ocr/java/aspose-ocr-for-java-23-3-0-release-notes/) introduced a slimmer, faster and more straightforward API. All of your existing code will continue to work and you can even make minor updates to it, but be aware that all deprecated elements are scheduled to be removed in release **23.11.0 (November 2023)** in favor of the new API.
-
-**Time to deprecation: 1 months left.**
+GPU version: **23.11.0**
 {{% /alert %}}
 
 ## What was changed
 
 Key | Summary | Category
 --- | ------- | --------
-OCRJAVA&#8209;337 | Added a specialized recognition model for extracting content from street photos and other images with sparse text and noisy/colored backgrounds. | New feature
-OCRJAVA&#8209;340 | Fixed incorrect line order that sometimes occurred when saving OCR results as [multi-page documents](https://docs.aspose.com/ocr/java/save-file/#saving-recognition-results-as-a-multi-page-document). | Fix
+OCRJAVA&#8209;343 | Deprecated classes, methods and properties have been removed to simplify the API. | Enhancement
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for Java 23.10.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for Java 23.11.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 
-The following public APIs have been introduced in **Aspose.OCR for Java 23.10.0** release:
-
-#### `RecognizeStreetPhoto()` method
-
-Extract content from images with sparse text and noisy/colored backgrounds. This method significantly improves OCR accuracy in the following business cases:
-
-- Read text from street photos.
-- Segment and identify road signs and signboards within street images.
-- Locate price tags and interpret the extracted text as prices.
-- Find and aggregate regions of interest on food labels, such as nutritional information or ingredient lists.
-- Identify and analyze car license plates.
-- Extract text from menus and catalogs.
-
-{{% alert color="caution" %}}
-**Important considerations:**
-
-- The method only supports Latin letters and numbers.
-- This method does not support recognition settings.
-{{% /alert %}}
-
-#### `DetectAreasMode.TEXT_IN_WILD`
-
-A new [areas detection algorithm](https://docs.aspose.com/ocr/java/areas-detection/) that finds **individual words** on images with sparse text, such as street photos, price tags, food labels, menus, ads and the like.
-
-{{% alert color="caution" %}}
-**Important considerations:**
-
-- This areas detection algorithm only works with Latin letters and numbers.
-- It is not recommended to use this algorithm for parsing structured texts. Use [`DetectAreasMode.DOCUMENT`](https://docs.aspose.com/ocr/java/areas-detection/document/), [`DetectAreasMode.PHOTO`](https://docs.aspose.com/ocr/java/areas-detection/photo/), [`DetectAreasMode.COMBINE`](https://docs.aspose.com/ocr/java/areas-detection/combine/) or [`DetectAreasMode.TABLE`](https://docs.aspose.com/ocr/java/areas-detection/table/) instead, depending on the content type.
-{{% /alert %}}
-
+_No changes._
 
 ### Updated public APIs:
 
@@ -83,36 +45,33 @@ _No changes._
 
 ### Removed public APIs:
 
-_No changes._
+{{% alert color="warning" %}}
+BACKWARD INCOMPATIBILITY!
 
-## Examples
+All classes, methods and properties mentioned below have been deprecated in favor of the new API introduces in the [version 23.3.0](https://releases.aspose.com/ocr/java/release-notes/2023/aspose-ocr-for-java-23-3-0-release-notes/). Please update your code according to the recommendations.
+{{% /alert %}}
 
-The examples below illustrates the changes introduced in this release:
+The following public APIs have been removed in **Aspose.OCR for Java 23.11.0** release:
 
-### Extracting text from a street photo
-
-```java
-AsposeOCR api = new AsposeOCR();
-// Load an image
-OcrInput input  = new OcrInput(InputType.SingleImage);
-input.add(os.path.join(self.dataDir, "photo.png"));
-// Recognize text
-ArrayList<RecognitionResult> results = api.RecognizeStreetPhoto(input);
-results.forEach((result) -> {
-	System.out.println(result.recognition_text);
-});
-```
-
-### Find words on a traffic sign
-
-```java
-AsposeOCR api = new AsposeOCR();
-RecognitionSettings recognitionSettings = new RecognitionSettings();
-recognitionSettings.setDetectAreasMode(DetectAreasMode.TEXT_IN_WILD);
-// Load an image
-OcrInput images = new OcrInput(InputType.SingleImage);
-images.add("sign.png");
-// Recognize images
-ArrayList<RecognitionResult> results = api.Recognize(images, recognitionSettings);
-System.out.println("Recognition result:\n" + results[0].recognitionText + "\n\n");
-```
+Deprecated API | Replacement
+-------------- | -----------
+`CalcSkewImage()` methods | Use universal [`CalculateSkew()`](https://docs.aspose.com/ocr/java/deskew/#detecting-skew-angles) method.
+`CalcSkewImageFromUri()` method | Use universal [`CalculateSkew()`](https://docs.aspose.com/ocr/java/deskew/#detecting-skew-angles) method.
+`PreprocessImage()` methods | Use [`Render()` and `Save()`](https://docs.aspose.com/ocr/java/image-processing/#previewing-and-saving-processed-images) methods.
+`RecognizePage()` methods | Use universal [`Recognize()`](https://docs.aspose.com/ocr/java/recognition/) method.
+`RecognizePageFromUri()` methods | Use universal [`Recognize()`](https://docs.aspose.com/ocr/java/recognition/) method.
+`RecognizeMultiplePages()` methods | Use universal [`Recognize()`](https://docs.aspose.com/ocr/java/recognition/) method.
+`RecognizeTiff()` methods | Use universal [`Recognize()`](https://docs.aspose.com/ocr/java/recognition/) method.
+`RecognizePdf()` methods | Use universal [`Recognize()`](https://docs.aspose.com/ocr/java/recognition/) method.
+`RecognizePageFast()` method | Use [`RecognizeFast()`](https://docs.aspose.com/ocr/java/fast-recognition/) method.
+`RecognizeLine()` methods | Use universal [`CalculateSkew()`](https://docs.aspose.com/ocr/java/deskew/#detecting-skew-angles) method with `setRecognizeSingleLine(true)` [recognition setting](https://docs.aspose.com/ocr/java/recognition-settings-common/).
+`getTextAreas()` methods | See [Working with image regions](https://docs.aspose.com/ocr/java/image-regions/) for modern approach to bounding boxes detection. 
+`AsposeOCR(String alphabet)` constructor | Define the list of allowed characters through the `AllowedSymbols` [recognition setting](https://docs.aspose.com/ocr/java/settings/).
+`DocumentRecognitionSettings` class | Use universal [image recognition settings](https://docs.aspose.com/ocr/java/recognition-settings-common/).
+`setDetectAreas()` recognition setting | Disable the document areas detection or override the default detection mode with `setDetectAreasMode()` [recognition setting](https://docs.aspose.com/ocr/java/recognition-settings-common/).
+`setAutoSkew()` recognition setting | Use separate [image preprocessing filters](https://docs.aspose.com/ocr/java/image-processing/).
+`setSkew()` recognition setting | Use separate [image preprocessing filters](https://docs.aspose.com/ocr/java/image-processing/).
+`setThresholdValue()` recognition setting | Use separate [image preprocessing filters](https://docs.aspose.com/ocr/java/image-processing/).
+`setAutoContrast()` recognition setting | Use separate [image preprocessing filters](https://docs.aspose.com/ocr/java/image-processing/).
+`setAutoDenoising()` recognition setting | Use separate [image preprocessing filters](https://docs.aspose.com/ocr/java/image-processing/).
+`setPreprocessingFilters()` recognition setting | Use separate [image preprocessing filters](https://docs.aspose.com/ocr/java/image-processing/).
