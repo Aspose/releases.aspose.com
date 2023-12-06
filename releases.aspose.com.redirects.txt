@@ -154,3 +154,5 @@ rewrite ^/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.
 rewrite ^/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.5.0,-linux-x86,-x64/$ https://releases.aspose.com/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.5.0-linux-x86-x64/ permanent;
 rewrite ^/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.5.0,-windows-x64/$ https://releases.aspose.com/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.5.0-windows-x64/ permanent;
 rewrite ^/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.9.0,-linux-x86,-x64/$ https://releases.aspose.com/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.9.0-linux-x86-x64/ permanent;
+rewrite ^/tags/\.{1}(.*)$ https://releases.aspose.com/tags/$1 permanent;
+rewrite ^/(.*)/tags/\.{1}(.*)$ https://releases.aspose.com/$1/tags/$2 permanent;
