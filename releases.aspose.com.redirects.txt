@@ -147,3 +147,10 @@ rewrite ^/psd/java/release-notes/2023/aspose-psd-for-java-23-7-release-notes/$ h
 rewrite ^/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.1.0,-linux-x86,-x64/$ https://releases.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.10.0-linux-x86-x64/ permanent;
 rewrite ^/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.1.0,-macos-x86,-x64/$ https://releases.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.1.0-macos-x86-x64/ permanent;
 rewrite ^/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.5.0,-windows-x64/$ https://releases.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.5.0-windows-x64/ permanent;
+rewrite ^/3d/viewer/$ https://releases.aspose.com/3d/ permanent;
+rewrite ^/barcode/family/$ https://releases.aspose.com/barcode/ permanent;
+rewrite ^/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.1.0,-linux-x86,-x64/$ https://releases.aspose.com/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.1.0-linux-x86-x64/ permanent;
+rewrite ^/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.1.0,-windows-x64/$ https://releases.aspose.com/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.1.0-windows-x64/ permanent;
+rewrite ^/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.5.0,-linux-x86,-x64/$ https://releases.aspose.com/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.5.0-linux-x86-x64/ permanent;
+rewrite ^/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.5.0,-windows-x64/$ https://releases.aspose.com/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.5.0-windows-x64/ permanent;
+rewrite ^/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.9.0,-linux-x86,-x64/$ https://releases.aspose.com/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.9.0-linux-x86-x64/ permanent;
