@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/nodejs-java/new-releases/downloads----new-releases-aspose.3d-for-node.js-via-java-23.12/"
-folder_name: "Downloads ---New Releases-aspose.3d-for-node.js-via-java-23.12"
+folder_name: "Aspose.3D for Node.js via Java 23.12"
 download_link: "/3d/nodejs-java/new-releases/downloads----new-releases-aspose.3d-for-node.js-via-java-23.12/3e1e5d18a9d79ca942db7dd8d08d6c88-1-9935"
 download_text: "Download"
 intro_text: "Aspose.3D for Node.js via Java 23.12"
@@ -22,7 +22,7 @@ weight: 1
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Downloads ---New Releases-aspose.3d-for-node.js-via-java-23.12" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.3D for Node.js via Java 23.12" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/3d/nodejs-java/new-releases/downloads----new-releases-aspose.3d-for-node.js-via-java-23.12/3e1e5d18a9d79ca942db7dd8d08d6c88-1-9935" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/3d" >}}
