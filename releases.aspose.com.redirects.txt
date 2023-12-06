@@ -139,7 +139,7 @@ rewrite ^/repository/ext-release-local/nl/(.*) https://releases.aspose.com/java/
 rewrite ^/slides/python$ https://releases.aspose.com/slides/python-net/ permanent;
 rewrite ^/total/nodejs$ https://releases.aspose.com/total/nodejs-java/ permanent;
 rewrite ^/words/android$ https://releases.aspose.com/words/androidjava/ permanent;
-rewrite ^/words/java//new-releases/aspose.words-for-java-22.5/$ https://releases.aspose-qa.com/words/java/21-5/ permanent;
+rewrite ^/words/java//new-releases/aspose.words-for-java-22.5/$ https://releases.aspose.com/words/java/21-5/ permanent;
 rewrite ^/words/netAspose.Words$ https://releases.aspose.com/words/net/ permanent;
 rewrite ^/pdf/nodejscpp/new-releases/aspose.pdf-for-nodejs(.*)-23.11/$ https://releases.aspose.com/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-23.11/ permanent;
 rewrite ^/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.10-maxos-x86/$ https://releases.aspose.com/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.10-maxos-x86-64/ permanent;
