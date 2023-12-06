@@ -144,3 +144,4 @@ rewrite ^/words/netAspose.Words$ https://releases.aspose.com/words/net/ permanen
 rewrite ^/pdf/nodejscpp/new-releases/aspose.pdf-for-nodejs(.*)-23.11/$ https://releases.aspose.com/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-23.11/ permanent;
 rewrite ^/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.10-maxos-x86/$ https://releases.aspose.com/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.10-maxos-x86-64/ permanent;
 rewrite ^/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.9-maxos-x86/$ https://releases.aspose.com/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.9-windows-x64/ permanent;
+rewrite ^/psd/java/release-notes/2023/aspose-psd-for-java-23-7-release-notes/$ https://releases.aspose.com/psd/java/release-notes/2023/ permanent;
