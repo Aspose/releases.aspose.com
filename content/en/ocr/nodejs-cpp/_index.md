@@ -6,6 +6,7 @@ keywords:  "OCR, Node.js, WebAssembly, WASM, recognize, extract, read, scan"
 family_listing_page_title:  "Aspose.OCR for Node.js via C++"
 family_listing_page_description:  "Download OCR API for Node.js. Extract texts from scanned pages, photos, screenshots, and other sources in on-premise and cloud services written in Node.js."
 family_listing_page_iconurl:  "https://releases.aspose.com/images/aspose/aspose_ocr-for-nodejs-cpp.svg"
+tags: ['ocr', 'ocr-cloud', 'ocr-serverless', 'ocr-javascript', 'Node.js']
 weight: 7
 
 ---
@@ -60,7 +61,7 @@ Our powerful and feature rich Optical Character Recognition (OCR) API supports 2
 - Czech
 - Danish
 - Dutch
-- English (including handwritten text)
+- English
 - Estonian
 - Finnish
 - French
@@ -93,9 +94,9 @@ Our powerful and feature rich Optical Character Recognition (OCR) API supports 2
 
 ## System requirements
 
-- [Node.js](https://nodejs.org/) version 14 or later.  
+- [Node.js](https://nodejs.org/) version **14** or later.  
   As of Node.js version 15 and later, the `--no-experimental-fetch` flag is required for using the API.
-- [ONNX Runtime](https://onnxruntime.ai/) version 11 or later (comes in the downloadable package).
+- [ONNX Runtime](https://onnxruntime.ai/) version **11** or later (comes in the downloadable package).
 
 ## Evaluation version limitation
 
@@ -105,25 +106,13 @@ In evaluation mode (without providing a license), the following restrictions app
 
 {{< Common/hr >}}
 
+{{< Tags/TagsWrapper >}}
+ {{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
+
 {{< ProductPageWrapper >}}
-
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/h1 text="Aspose.OCR for Node.js via C++" >}}
-
-{{< Common/hr >}}
-
-{{< Common/paragraph class="package-instructions">}}
-{{< Common/release-notes-link family="ocr" product="nodejs-cpp" href="https://releases.aspose.com/ocr/nodejs-cpp/release-notes/" text="https://releases.aspose.com/ocr/nodejs-cpp/release-notes/"  >}}
-{{< /Common/paragraph>}}
-
-
-
-{{< Common/hr >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
-<!-- /ProductPageContent-->
 
 <!-- ReleasesListProductPage-->
 {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="ocr" product="nodejs-cpp" >}}
