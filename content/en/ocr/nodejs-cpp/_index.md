@@ -41,14 +41,14 @@ Our powerful and feature rich Optical Character Recognition (OCR) API supports 2
 
 ## Supported content formats
 
-File format                  | Details
----------------------------- | -------
-**JPEG** (_.JPG_ or _.JPEG_) | The most popular format for smartphone photos.
-**PNG** (_.PNG_)             | Portable Network Graphics. Supports 24-bit images with transparency.
-**TIFF** (_.TIF_ or _.TIFF_) | Tag Image File Format, commonly used for high quality scanning. Multi-page TIFF images are fully supported.
-**Bitmap** (_.BMP_)          | Bitmap image file.
-**Archive** (_.ZIP_)         | All JPEG, PNG, TIFF and BMP images inside the archive.
-**Web link**                 | A public URL to JPEG, PNG, TIFF and BMP image.
+- **JPEG** (_.JPG_ or _.JPEG_)
+- **PNG** (_.PNG_)
+- **TIFF** (_.TIF_ or _.TIFF_)
+- **Bitmap** (_.BMP_)
+- **Archive** (_.ZIP_)
+- **Public URL** to JPEG, PNG, TIFF and BMP image.
+
+**Note:** The URL must point directly to the image. The library cannot extract images from HTML pages and does not support authentication.
 
 ## Recognition languages
 
@@ -101,18 +101,28 @@ File format                  | Details
 
 In evaluation mode (without providing a license), the following restrictions apply:
 
-- If the number of characters in a recognized image exceeds 300, only the first 300 characters are recognized.
-
-{{< Common/hr >}}
-
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+- If the number of characters in a recognized image exceeds **300**, only the first 300 characters are recognized.
 
 {{< Common/hr >}}
 
 {{< ProductPageWrapper >}}
 
+<!-- ProductPageContent-->
+{{< Common/wrapper class="col-md-12" >}}
+{{< Common/wrapper class="panel-body downloadfilebody" >}}
+{{< Common/h1 text="Aspose.OCR for Node.js via C++" >}}
+
+{{< Common/hr >}}
+
+{{< Common/paragraph class="package-instructions">}}
+{{< Common/release-notes-link family="ocr" product="nodejs-cpp" href="https://releases.aspose.com/ocr/nodejs-cpp/release-notes/" text="https://releases.aspose.com/ocr/nodejs-cpp/release-notes/"  >}}
+{{< /Common/paragraph>}}
+
+
+
+{{< Common/hr >}}
+{{< /Common/wrapper >}}
+{{< /Common/wrapper >}}
 <!-- /ProductPageContent-->
 
 <!-- ReleasesListProductPage-->
