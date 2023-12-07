@@ -2,6 +2,7 @@
 title: "PHP Barkod Kitaplığı | Java aracılığıyla PHP için Aspose.BarCode"
 description: "1B, 2B ve posta sembolojilerinden barkodlar oluşturmak ve tanımak için PHP Kitaplığını indirin."
 keywords: "PHP Barcode Library "
+tags: ['barcodephpjava']
 family_listing_page_title: "Java aracılığıyla PHP için Aspose.BarCode"
 family_listing_page_description: "Project Aspose.Barcode for PHP, PHP'deki Aspose.Barcode Java API'leri kullanılarak farklı görevlerin nasıl gerçekleştirilebileceğini gösterir. Bu proje, Aspose.Barcode for Java'yı PHP Projelerinde kullanmak isteyen PHP Geliştiricileri için faydalı örnekler sunmayı amaçlamaktadır."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-php-via-java.png"
@@ -54,4 +55,3 @@ Geliştiricilerin çekirdek kütüphane olarak Aspose.BarCode for Java ve ileti�
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-
