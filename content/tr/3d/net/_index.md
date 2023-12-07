@@ -23,7 +23,7 @@ weight:  1
 Açık
 {{< Common/link href="https://www.nuget.org/packages/Aspose.3D/" text="NuGet"  >}}Microsoft Visual Studio® içinde Paket Yöneticisi, <b>Aspose.3D'yi arayın</b> ve kurun. Paket Yöneticisi Konsolunda aşağıdaki komutu da kullanabilirsiniz. Ayrıntılı talimatlar için lütfen adresini ziyaret edin.
 {{< Common/link href="https://docs.aspose.com/3d/net/installation/" text="Kurulum"  >}}dokümantasyon sayfası.
-{{< Common/release-notes-link family="3d" product="net" href="https://docs.aspose.com/3d/net/release-notes/" text="https://docs.aspose.com/3d/net/release-notes/"  >}}
+{{< Common/release-notes-link family="3d" product="net" href="https://releases.aspose.com/3d/net/release-notes/" text="https://releases.aspose.com/3d/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

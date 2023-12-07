@@ -11,7 +11,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "175"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Tasks.Cpp/"
-tags: ['MPP-to-XLSX', 'MPP-to-Excel', 'MPP-to-Spreadsheet', 'MPP-to-HTML', 'Project-to-HTML', 'Project-to-Excel', 'Project-to-XLSX', 'Project-to-CSV', 'Project-to-Text', 'Project-to-MPT', 'MPP-to-CSV', 'MPP-to-MPT', 'MPP-to-SVG', 'MPP-to-JPEG', 'MPP-to-TIF', 'Project-to-PDF', 'MPP-to-PDF', 'Project-to-Image', 'MPP-to-PNG']
+tags: ['aspose.tasks-c -windows-linux-macos', 'MPP-to-XLSX', 'MPP-to-Excel', 'MPP-to-Spreadsheet', 'MPP-to-HTML', 'Project-to-HTML', 'Project-to-Excel', 'Project-to-XLSX', 'Project-to-CSV', 'Project-to-Text', 'Project-to-MPT', 'MPP-to-CSV', 'MPP-to-MPT', 'MPP-to-SVG', 'MPP-to-JPEG', 'MPP-to-TIF', 'Project-to-PDF', 'MPP-to-PDF', 'Project-to-Image', 'MPP-to-PNG']
 weight:  3
 ---
 
@@ -84,4 +84,3 @@ This distribution package contains both the 32-bit as well as the 64-bit binarie
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

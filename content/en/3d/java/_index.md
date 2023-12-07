@@ -74,9 +74,10 @@ homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-3d/"
 forumLink: https://forum.aspose.com/c/3d/18
 productLink: https://products.aspose.com/3d/java/
-releaseNotesLink: https://docs.aspose.com/3d/java/release-notes/
+releaseNotesLink: https://releases.aspose.com/3d/java/release-notes/
 dataFolder: aspose_3d
 packages_refs:
+- "23-11-0"
 - "23-10-0"
 - "23-9-0"
 - "23-8-0"

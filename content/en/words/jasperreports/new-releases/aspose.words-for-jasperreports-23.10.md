@@ -40,7 +40,7 @@ weight: 137
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-23-10-release-notes/'>https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-23-10-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-23-10-release-notes/'>https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for JasperReports 23.10 release</div>

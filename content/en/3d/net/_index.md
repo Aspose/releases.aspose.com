@@ -12,7 +12,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "13"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.3D/"
-tags: ['3D', '3D-Modeling', '3D-Objects', '3D-PDF', '3D-Scene', '3D-Studio-Max', '3D-Viewports', '3DS', '3D-to-GLTF2.0', '3D-to-HTML', '3D-to-PDF', '3MF', 'AMF', 'Animation', 'ASE', 'Aspose.3D', 'Aspose.Total', 'AutoCAD', 'Autodesk', 'Collada', 'Conholdate', 'Conholdate.Total', 'Cylinder', 'DAE', 'Darco', 'DirectX', 'DRC', 'DXF', 'FBX', 'Geometry', 'gITF', 'HTML', 'JT', 'Linear-Extrusion', 'Mesh', 'Morph', 'NURBS', 'OBJ', 'PDF', 'PLY', 'PointCloud', 'Polygons', 'Redenring', 'RVM', 'Skeleton', 'STL', 'U3D', 'VRML', 'Wavefront', 'X', 'Maya']
+tags: ['net-development', 'net-3d-api', 'net-3d-component', '3D', '3D-Modeling', '3D-Objects', '3D-PDF', '3D-Scene', '3D-Studio-Max', '3D-Viewports', '3DS', '3D-to-GLTF2.0', '3D-to-HTML', '3D-to-PDF', '3MF', 'AMF', 'Animation', 'ASE', 'Aspose.3D', 'Aspose.Total', 'AutoCAD', 'Autodesk', 'Collada', 'Conholdate', 'Conholdate.Total', 'Cylinder', 'DAE', 'Darco', 'DirectX', 'DRC', 'DXF', 'FBX', 'Geometry', 'gITF', 'HTML', 'JT', 'Linear-Extrusion', 'Mesh', 'Morph', 'NURBS', 'OBJ', 'PDF', 'PLY', 'PointCloud', 'Polygons', 'Redenring', 'RVM', 'Skeleton', 'STL', 'U3D', 'VRML', 'Wavefront', 'X', 'Maya']
 weight:  1
 ---
 
@@ -21,7 +21,7 @@ weight:  1
 {{< Common/h2 text="Download Aspose.3D to Process 3D Images"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.3D/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.3D</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/3d/net/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="3d" product="net" href="https://docs.aspose.com/3d/net/release-notes/" text="https://docs.aspose.com/3d/net/release-notes/"  >}}
+{{< Common/release-notes-link family="3d" product="net" href="https://releases.aspose.com/3d/net/release-notes/" text="https://releases.aspose.com/3d/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

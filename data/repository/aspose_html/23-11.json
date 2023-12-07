@@ -1,0 +1,34 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-html",
+  "id" : "23-11",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-html-23.11-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "37 MB",
+    "name" : "aspose-html-23.11-jdk1.8.jar",
+    "classifier" : "jdk1.8"
+  }, {
+    "size" : "37 MB",
+    "name" : "aspose-html-23.11-jdk11.jar",
+    "classifier" : "jdk11"
+  }, {
+    "size" : "37 MB",
+    "name" : "aspose-html-23.11-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "37 MB",
+    "name" : "aspose-html-23.11.jar"
+  }, {
+    "size" : "424 bytes",
+    "name" : "aspose-html-23.11.pom"
+  }, {
+    "size" : "166 MB",
+    "name" : "aspose-html-23.11.zip"
+  } ],
+  "releasehDate" : "2023-11-30T18:52:29+00:00",
+  "version" : "23.11",
+  "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2023/aspose-html-for-java-23-11-release-notes/"
+}

@@ -23,7 +23,7 @@ weight:  1
 Membuka
 {{< Common/link href="https://www.nuget.org/packages/Aspose.3D/" text="NuGet"  >}}Package Manager dalam Microsoft Visual Studio®, cari <b>Aspose.3D</b> dan instal. Anda juga dapat menggunakan perintah berikut di dalam Package Manager Console. Untuk petunjuk rinci, silakan kunjungi
 {{< Common/link href="https://docs.aspose.com/3d/net/installation/" text="Instalasi"  >}}halaman dokumentasi.
-{{< Common/release-notes-link family="3d" product="net" href="https://docs.aspose.com/3d/net/release-notes/" text="https://docs.aspose.com/3d/net/release-notes/"  >}}
+{{< Common/release-notes-link family="3d" product="net" href="https://releases.aspose.com/3d/net/release-notes/" text="https://releases.aspose.com/3d/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

@@ -23,7 +23,7 @@ weight:  1
 Abierto
 {{< Common/link href="https://www.nuget.org/packages/Aspose.3D/" text="NuGet"  >}}Package Manager dentro de Microsoft Visual Studio®, busque <b>Aspose.3D</b> e instálelo. También puede usar el siguiente comando dentro de la Consola del administrador de paquetes. Para obtener instrucciones detalladas, visite el
 {{< Common/link href="https://docs.aspose.com/3d/net/installation/" text="Instalación"  >}}página de documentación.
-{{< Common/release-notes-link family="3d" product="net" href="https://docs.aspose.com/3d/net/release-notes/" text="https://docs.aspose.com/3d/net/release-notes/"  >}}
+{{< Common/release-notes-link family="3d" product="net" href="https://releases.aspose.com/3d/net/release-notes/" text="https://releases.aspose.com/3d/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
