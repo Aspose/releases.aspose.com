@@ -17,8 +17,7 @@ weight: 7
 {{< Common/wrapper class="col-md-12" >}}
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.OCR for Node.js via C++" >}}
-        
-{{< Common/h2 text="Download Node.js OCR library"  >}}
+
 {{< Common/hr >}}
 
 {{< Common/paragraph class="package-instructions">}}
