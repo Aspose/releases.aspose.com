@@ -24,7 +24,7 @@ menuItemWithNoContent: false
 {{% alert color="primary" %}}
 This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OCR for .NET 23.12.0 (December 2023)**](https://www.nuget.org/packages/Aspose.OCR/23.12.0) release.
 
-GPU version: **23.11.0**
+GPU version: **23.10.1**
 {{% /alert %}}
 
 ## What was changed
@@ -71,26 +71,41 @@ The following public APIs have been removed in **Aspose.OCR for .NET 23.12.0** r
 
 Deprecated API | Replacement
 -------------- | -----------
-`CalculateSkewFromUri()` method | Replaced with an universal [`Aspose.OCR.AsposeOcr.CalculateSkew()`](https://docs.aspose.com/ocr/net/deskew/#detecting-skew-angles) method.
-`PreprocessImage()` method | Replaced with [`Render()` and `Save()`](https://docs.aspose.com/ocr/net/image-processing/#previewing-and-saving-processed-images) methods of `Aspose.OCR.ImageProcessing` class.
-`RecognizeImage()` method | Replaced with a universal `Aspose.OCR.AsposeOcr.Recognize()` method.
+`RecognizeImage()` methods | Replaced with a universal `Aspose.OCR.AsposeOcr.Recognize()` method.
 `RecognizePdf()` method | Replaced with a universal `Aspose.OCR.AsposeOcr.Recognize()` method.
 `RecognizeTiff()` method | Replaced with a universal `Aspose.OCR.AsposeOcr.Recognize()` method.
 `RecognizeDjvu()` method | Replaced with a universal `Aspose.OCR.AsposeOcr.Recognize()` method.
+`RecognizeLine()` method | Use `RecognitionLinesResult` property of a recognition result.
 `RecognizeImageFromUri()` method | Replaced with a universal `Aspose.OCR.AsposeOcr.Recognize()` method.
 `RecognizeMultipleImages()` method | Replaced with a universal `Aspose.OCR.AsposeOcr.Recognize()` method.
 `RecognizeImageFromBase64()` method | Replaced with a universal `Aspose.OCR.AsposeOcr.Recognize()` method.
-`RecognizeLine()` method | Use `RecognitionLinesResult` property of a recognition result.
+`RecognizeImageFast()` method | Replaced with `Aspose.OCR.AsposeOcr.RecognizeFast()` method.
 `GetRectangles()` method | Use `Aspose.OCR.AsposeOcr.DetectRectangles()` method.
+`PreprocessImage()` method | Replaced with [`Render()` and `Save()`](https://docs.aspose.com/ocr/net/image-processing/#previewing-and-saving-processed-images) methods of `Aspose.OCR.ImageProcessing` class.
+`CalculateSkewFromUri()` method | Replaced with an universal [`Aspose.OCR.AsposeOcr.CalculateSkew()`](https://docs.aspose.com/ocr/net/deskew/#detecting-skew-angles) method.
 `DocumentRecognitionSettings` class | Use [common recognition settings](https://docs.aspose.com/ocr/net/recognition-settings-common/).
-`AutoSkew` recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/deskew/#automatic-skew-correction).
-`SkewAngle` recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/deskew/#manual-skew-correction).
-`ThresholdValue` recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/binarization/).
-`AutoContrast` recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/contrast/).
-`AutoDenoising` recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/denoise/).
-`PreprocessingFilters` recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/image-processing/).
-`AllowedCharacters` recognition setting | Use `AllowedSymbols` recognition setting.
-`IgnoredCharacters` recognition setting | Use `IgnoredSymbols` recognition setting.
+`AutoSkew` common recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/deskew/#automatic-skew-correction).
+`SkewAngle` common recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/deskew/#manual-skew-correction).
+`IgnoredCharacters` common recognition setting | Use `IgnoredSymbols` recognition setting.
+`PreprocessingFilters` common recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/image-processing/).
+`AutoContrast` common recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/contrast/).
+`AutoDenoising` common recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/denoise/).
+`ThresholdValue` common recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/binarization/).
+`AutoSkew` car plate recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/deskew/#automatic-skew-correction).
+`PreprocessingFilters` car plate recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/image-processing/).
+`IgnoredCharacters` car plate recognition setting | Use `IgnoredSymbols` recognition setting.
+`AutoSkew` ID card recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/deskew/#automatic-skew-correction).
+`PreprocessingFilters` ID card recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/image-processing/).
+`IgnoredCharacters` ID card recognition setting | Use `IgnoredSymbols` recognition setting.
+`AutoSkew` passport recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/deskew/#automatic-skew-correction).
+`PreprocessingFilters` passport recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/image-processing/).
+`IgnoredCharacters` passport recognition setting | Use `IgnoredSymbols` recognition setting.
+`AutoSkew` invoice recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/deskew/#automatic-skew-correction).
+`PreprocessingFilters` invoice recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/image-processing/).
+`IgnoredCharacters` invoice recognition setting | Use `IgnoredSymbols` recognition setting.
+`AutoSkew` receipt recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/deskew/#automatic-skew-correction).
+`PreprocessingFilters` receipt recognition setting | Use image [preprocessing filters](https://docs.aspose.com/ocr/net/image-processing/).
+`IgnoredC
 
 ## Examples
 
