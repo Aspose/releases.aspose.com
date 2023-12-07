@@ -12,10 +12,6 @@ weight: 7
 
 {{< dbToolbar link="https://forum.aspose.com/c/ocr/16" linktext="Support Forum" >}}
 
-{{< ProductPageWrapper >}}
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.OCR for Node.js via C++" >}}
 
 {{< Common/hr >}}
@@ -23,7 +19,6 @@ weight: 7
 {{< Common/paragraph class="package-instructions">}}
 {{< Common/release-notes-link family="ocr" product="nodejs-cpp" href="https://releases.aspose.com/ocr/nodejs-cpp/release-notes/" text="https://releases.aspose.com/ocr/nodejs-cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
-
 
 [Product Page](https://products.aspose.com/ocr/nodejs-cpp/) | [Docs](https://docs.aspose.com/ocr/nodejs-cpp/) | [Demos](https://products.aspose.app/ocr/family) | [API Reference](https://reference.aspose.com/ocr/nodejs-cpp) | [Examples](https://github.com/aspose-ocr/Aspose.OCR-for-Node.js) | [Blog](https://blog.aspose.com/category/ocr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/ocr) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
@@ -109,8 +104,15 @@ In evaluation mode (without providing a license), the following restrictions app
 - If the number of characters in a recognized image exceeds 300, only the first 300 characters are recognized.
 
 {{< Common/hr >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
+
+{{< Tags/TagsWrapper >}}
+ {{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
+
+{{< ProductPageWrapper >}}
+
 <!-- /ProductPageContent-->
 
 <!-- ReleasesListProductPage-->
