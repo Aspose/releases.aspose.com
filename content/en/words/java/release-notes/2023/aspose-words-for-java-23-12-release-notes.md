@@ -221,7 +221,7 @@ public enum PdfPageLayout
 **Use Case**
 
 This use case explains how to specify the page layout to be used when the document is opened in a PDF reader:
-{{< gist "aspose-words-gists" "f0964b777330b758f6b82330b040b24c" "page-layout.java" >}}" >}}
+{{< gist "aspose-words-gists" "f0964b777330b758f6b82330b040b24c" "page-layout.java" >}}
 {{% /alert %}}
 
 ### Added LowCode.Merger.Merge method overload with array of Document objects as an input
@@ -242,7 +242,7 @@ public static Document Merge(Document[] inputDocuments, MergeFormatMode mergeFor
 **Use Case**
 
 This use case explains how to use new **Merge** method:
-{{< gist "aspose-words-gists" "f0964b777330b758f6b82330b040b24c" "merge-document-instances.java" >}}" >}}
+{{< gist "aspose-words-gists" "f0964b777330b758f6b82330b040b24c" "merge-document-instances.java" >}}
 {{% /alert %}}
 
 ### Added public property OoxmlSaveOptions.Zip64Mode and enum type Zip64Mode
@@ -298,7 +298,7 @@ public enum Zip64Mode
 **Use Case**
 
 This use case explains how to set Zip64Mode:
-{{< gist "aspose-words-gists" "f0964b777330b758f6b82330b040b24c" "zip64-mode-option.java" >}}" >}}
+{{< gist "aspose-words-gists" "f0964b777330b758f6b82330b040b24c" "zip64-mode-option.java" >}}
 {{% /alert %}}
 
 ### Introduced support for WebP images. Please note, this feature is available for .NetStandart and .NET6+ versions only.
@@ -331,7 +331,7 @@ Starting from Aspose.Words 23.12, you can use the dollarText number format while
 **Use Case**
 
 This use case explains how to use the **dollarText** number format while outputting expression results.
-{{< gist "aspose-words-gists" "f0964b777330b758f6b82330b040b24c" "dollar-text-format.java" >}}" >}}
+{{< gist "aspose-words-gists" "f0964b777330b758f6b82330b040b24c" "dollar-text-format.java" >}}
 {{% /alert %}}
 
 ### Slight changes in IStructuredDocumentTag public interface
@@ -368,5 +368,5 @@ Node Node { get; }
 **Use Case**
 
 This use case explains how to use the **IStructuredDocumentTag** interface.
-{{< gist "aspose-words-gists" "f0964b777330b758f6b82330b040b24c" "remove-self-only.java" >}}" >}}
+{{< gist "aspose-words-gists" "f0964b777330b758f6b82330b040b24c" "remove-self-only.java" >}}
 {{% /alert %}}
