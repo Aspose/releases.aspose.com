@@ -35,7 +35,7 @@ Python 3.5 is no longer supported.
 
 {{% alert color="info" %}}
 
-Starting from Aspose.Words for Python via .NET 12.23 there will be releases for Apple processors based on ARM architecture.
+Starting with Aspose.Words for Python via .NET 23.12, there will be releases for Apple processors based on the ARM architecture.
 
 {{% /alert %}}
 
