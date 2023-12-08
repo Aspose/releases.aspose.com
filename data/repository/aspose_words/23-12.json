@@ -1,0 +1,17 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk17",
+  "artifactId" : "aspose-words",
+  "id" : "23-12",
+  "packageFiles" : [ {
+    "size" : "16 MB",
+    "name" : "aspose-words-23.12-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "4 KB",
+    "name" : "aspose-words-23.12.pom"
+  } ],
+  "releasehDate" : "2023-12-08T14:12:33+00:00",
+  "version" : "23.12",
+  "ReleaseNotes" : "https://releases.aspose.com/words/java/release-notes/2023/aspose-words-for-java-23-12-release-notes/"
+}
