@@ -8,7 +8,7 @@ family_listing_page_description:  "Aspose.Cells for Python via .NET is a fast an
 family_listing_page_iconurl:  "https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg"
 homepage_package_type: "Pip"
 homepage_package_link: "https://pypi.org/project/aspose-cells-python"
-tags: ['Aspose', 'Aspose.Total', 'Aspose.Cells', 'Python', 'NET', 'Lirary', 'XLS', 'XLSX', 'XLSB', 'XLSM', 'XLT', 'XLTX', 'XLTM', 'CSV', 'TSV', 'TabDelimited', 'SpreadsheetML', 'ODS', 'SXC', 'FODS', 'TXT', 'HTML', 'MHTML', 'Numbers', 'SXC', 'FODS', 'DOCX', 'PPTX', 'XLAM', 'PDF', 'XPS', 'DIF', 'SVG', 'TIFF,PNG', 'BMP', 'JPEG', 'GIF', 'EMF', 'Markdown', 'MD', 'Excel', 'OpenOffice', 'Word', 'PowerPoint', 'layout', 'Vector', 'Graphics', 'Image', 'meta', 'metafile', 'Windows', 'Linux', 'PIP']
+tags: ['python-.net-excel', 'Aspose', 'Aspose.Total', 'Aspose.Cells', 'Python', 'NET', 'Lirary', 'XLS', 'XLSX', 'XLSB', 'XLSM', 'XLT', 'XLTX', 'XLTM', 'CSV', 'TSV', 'TabDelimited', 'SpreadsheetML', 'ODS', 'SXC', 'FODS', 'TXT', 'HTML', 'MHTML', 'Numbers', 'SXC', 'FODS', 'DOCX', 'PPTX', 'XLAM', 'PDF', 'XPS', 'DIF', 'SVG', 'TIFF,PNG', 'BMP', 'JPEG', 'GIF', 'EMF', 'Markdown', 'MD', 'Excel', 'OpenOffice', 'Word', 'PowerPoint', 'layout', 'Vector', 'Graphics', 'Image', 'meta', 'metafile', 'Windows', 'Linux', 'PIP']
 weight: 11
 ---
 

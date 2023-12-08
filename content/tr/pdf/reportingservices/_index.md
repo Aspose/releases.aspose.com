@@ -2,6 +2,7 @@
 title: "Raporları PDF ve XPS Olarak Gönderin | Raporlama Hizmetleri için Aspose.PDF"
 description: "Microsoft SQL Server Raporlama Servislerinden PDF, PDF/A ve XPS raporları oluşturmak için iş zekası ve raporlama çözümleri oluşturma ihtiyacını karşılayan sağlam işleme uzantısını indirin."
 keywords: "RDL to PDF, RDL to XPS "
+tags: ['SharePoint Exporter for PDF', 'ssrs-render-xlsx-pdf', 'table-reporting-document']
 family_listing_page_title: "Raporlama Hizmetleri için Aspose.PDF"
 family_listing_page_description: "Aspose.PDF for Reporting Services, Microsoft SQL Server Raporlama Servislerinden PDF, PDF/A ve XPS raporları üretmek için sağlam bir işleme uzantısıdır."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-reporting-services-min.png"
@@ -107,4 +108,3 @@ Aspose.PDF for Reporting Services, Microsoft SQL Server® Reporting Services ile
 
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

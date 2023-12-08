@@ -16,7 +16,7 @@ parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
 tags: "OCR, NET"
-release_notes_url: "https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-12-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-12-0-release-notes/"
 weight: 336
 
 ---
@@ -40,7 +40,7 @@ weight: 336
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-12-0-release-notes/'>https://docs.aspose.com/ocr/net/aspose-ocr-for-net-23-12-0-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-12-0-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-12-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">APIを簡素化するために、非推奨クラス、方法、およびプロパティが削除されました</div>
