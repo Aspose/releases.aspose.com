@@ -2,7 +2,7 @@
 
 title: "Download OCR API for Node.js | Aspose.OCR API"
 description:  "Extract texts from scanned pages, photos, screenshots, and other sources in Node.js applications and services."
-keywords:  "OCR, Node.js, WebAssembly, WASM, recognize, extract, read, scan"
+keywords:  "OCR, Node.js, WebAssembly, WASM, recognize, extract, read, scan, JavaScript, JS"
 family_listing_page_title:  "Aspose.OCR for Node.js via C++"
 family_listing_page_description:  "Download OCR API for Node.js. Extract texts from scanned pages, photos, screenshots, and other sources in on-premise and cloud services written in Node.js."
 family_listing_page_iconurl:  "https://releases.aspose.com/images/aspose/aspose_ocr-for-nodejs-cpp.svg"
@@ -24,7 +24,7 @@ weight: 7
 
 ## What is Aspose.OCR for Node.js via C++?
 
-**Aspose.OCR for Node.js via C++** allows you to extract text from scanned pages, photos, screenshots, and other images on any platform where Node.js is installed. Empower your on-premise applications, web services, serverless solutions, AWS Lambda, Azure Functions, and other code with optical character recognition functionality.
+**Aspose.OCR for Node.js via C++** allows you to extract text from scanned pages, photos, screenshots, and other images on any platform where Node.js is installed. Empower your on-premise products, web services, serverless applications, AWS Lambda, Azure Functions, and other code with optical character recognition functionality.
 
 Our powerful and feature rich Optical Character Recognition (OCR) API supports 28 languages based on Latin, Cyrillic and Asian scripts, including Chinese and Hindi, and can recognize files in the most popular formats. Various processing filters allow you to recognize skewed, distorted and noisy images. The recognition results are returned in the most popular data exchange formats.
 
