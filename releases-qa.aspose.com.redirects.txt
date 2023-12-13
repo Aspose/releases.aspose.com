@@ -65,3 +65,4 @@ rewrite ^/repo$ https://releases-qa.aspose.com/java/repo/ permanent;
 rewrite ^/repo/$ https://releases-qa.aspose.com/java/repo/ permanent;
 rewrite (.*)/java/new-releases/.* https://releases-qa.aspose.com$1/java/ permanent;
 rewrite (.*)/java/new-releases$ https://releases-qa.aspose.com$1/java/ permanent;
+rewrite /(.*)/3d/nodejs-java/new-releases/(.*)aspose.3d-for-node.js-via-java-23.12$ https://releases.aspose.com/3d/nodejs-java/new-releases/aspose.3d-for-node.js-via-java-23.12/ permanent;
