@@ -2,7 +2,7 @@
 id: "aspose-ocr-for-nodejs-cpp-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2023-12-07"
+date: "2023-12-13"
 author: "Vladimir Lapin"
 type: "repository"
 layout: "release"
@@ -41,3 +41,61 @@ _First release._
 ### Removed public APIs:
 
 _First release._
+
+## Get started
+
+The example below illustrates how to use the library on your web page.
+
+### Prepare the environment
+
+1. Create a directory somewhere on your system where the project files will be kept.  
+   This directory will later be referred as _project directory_.
+2. [Download](https://releases.aspose.com/ocr/nodejs-cpp/) Aspose.OCR for Node.js via C++ and extract it somewhere on your system.
+3. Copy the files from `lib` directory of the extracted Aspose.OCR for Node.js via C++ package to the the project directory:
+
+    - `asposeocr.js`
+    - `asposeocr.wasm`
+    - `asposeocr.data`
+
+4. Put a sample image to the project directory under the name `source.png`.
+
+### Create a project script
+
+Create an `index.js` file in the the project directory which will be used as a main (startup) project script:
+
+```js
+const Module = require("./asposeocr");
+const fs = require("fs");
+
+Module.onRuntimeInitialized = async _ => {
+   // Load image file
+   fs.readFile("source.png", (err, imageData) => {
+      // Save image to the virtual storage
+      const imageBytes = new Uint8Array(imageData);
+      let internalFileName = "temp";
+      let stream = Module.FS.open(internalFileName, "w+");
+      Module.FS.write(stream, imageBytes, 0, imageBytes.length, 0);
+      Module.FS.close(stream);
+      // Add image to recognition batch
+      let source = Module.WasmAsposeOCRInput();
+      source.url = internalFileName;
+      let batch = new Module.WasmAsposeOCRInputs();
+      batch.push_back(source);
+      // Specify recognition language
+      let recognitionSettings = Module.WasmAsposeOCRRecognitionSettings();
+      recognitionSettings.language_alphabet = Module.Language.ENG;
+      // Send image for OCR
+      var result = Module.AsposeOCRRecognize(batch, recognitionSettings);
+      // Output image text to the console
+      var text = Module.AsposeOCRSerializeResult(result, Module.ExportFormat.text);
+      console.log(text);
+   });
+}
+```
+
+### Run the example
+
+1. Open the command prompt and navigate to the project directory.
+2. Run **index.js** script with the following command:  
+   `node --no-experimental-fetch index`
+3. Wait for recognition to complete. It may take a while depending on the image size and your system performance.
