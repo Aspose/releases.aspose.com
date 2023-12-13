@@ -2,6 +2,7 @@
 title: "以 PDF 和 XPS 格式提供报告 |用于报告服务的 Aspose.PDF"
 description: "下载强大的渲染扩展插件，满足构建商业智能和报告解决方案的需求，以便从 Microsoft SQL Server Reporting Services 生成 PDF、PDF/A 和 XPS 报告。"
 keywords: "RDL to PDF, RDL to XPS "
+tags: ['SharePoint Exporter for PDF', 'ssrs-render-xlsx-pdf', 'table-reporting-document']
 family_listing_page_title: "用于报告服务的 Aspose.PDF"
 family_listing_page_description: "Aspose.PDF for Reporting Services 是一个强大的渲染扩展插件，可以从 Microsoft SQL Server Reporting Services 生成 PDF、PDF/A 和 XPS 报告。"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-reporting-services-min.png"
@@ -107,4 +108,3 @@ Aspose.PDF for Reporting Services 是一个与 Microsoft SQL Server® Reporting 
 
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

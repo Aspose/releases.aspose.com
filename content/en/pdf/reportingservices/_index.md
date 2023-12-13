@@ -2,6 +2,7 @@
 title: "Deliver Reports in PDF & XPS | Aspose.PDF for Reporting Services"
 description: "Download robust rendering extension that fulfills the need to build business intelligence and reporting solutions for generating PDF, PDF/A and XPS reports from Microsoft SQL Server Reporting Services. "
 keywords: "RDL to PDF, RDL to XPS "
+tags: ['SharePoint Exporter for PDF', 'ssrs-render-xlsx-pdf', 'table-reporting-document']
 linktitle: "Aspose.PDF for Reporting Services"
 family_listing_page_title: "Aspose.PDF for Reporting Services"
 family_listing_page_description: "Aspose.PDF for Reporting Services is a robust rendering extension to produce PDF, PDF/A and XPS reports from Microsoft SQL Server Reporting Services."

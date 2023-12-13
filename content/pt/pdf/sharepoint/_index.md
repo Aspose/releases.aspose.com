@@ -2,6 +2,7 @@
 title: "Exportar para PDF | Aspose.PDF para SharePoint"
 description: "Baixe o SharePoint Exporter para converter listas, itens de lista e páginas do SharePoint Wiki para PDF sem nenhum esforço."
 keywords: "SharePoint Exporter for PDF "
+tags: ['SharePoint Exporter for PDF', 'ssrs-render-xlsx-pdf', 'table-reporting-document']
 family_listing_page_title: "Aspose.PDF para SharePoint"
 family_listing_page_description: "O Aspose.PDF for SharePoint permite exportar listas, itens de lista individuais e páginas Wiki para o formato de arquivo PDF. O Aspose.PDF para SharePoint foi projetado para ser usado com o Microsoft SharePoint Foundation e o Microsoft SharePoint Server."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-sharepoint-min.png"
@@ -74,4 +75,3 @@ O Aspose.PDF para SharePoint ajuda você a trabalhar, exportar, converter e mesc
 
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

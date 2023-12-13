@@ -23,6 +23,7 @@ This page contains release notes information for Aspose.Diagram for .NET 23.12.
 |DIAGRAMNET-53230|Ungrouping shape line moved to the other end from the original place|Bug|
 |DIAGRAMNET-53231|Different errors on diagram while scaling decision|Bug|
 |DIAGRAMNET-53233|When converting vsd file with some images to vsdx,Images are getting mixed up|Bug|
+|DIAGRAMNET-53234|When saving vsd to vsdx,the image lost|Bug|
 
 ## **Public API and Backward Incompatible Changes**
 The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Diagram for .NET. If you have concerns about any change listed, please raise it on the Aspose.Diagram support forum.

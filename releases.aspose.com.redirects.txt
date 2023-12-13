@@ -156,3 +156,6 @@ rewrite ^/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.
 rewrite ^/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.9.0,-linux-x86,-x64/$ https://releases.aspose.com/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-23.9.0-linux-x86-x64/ permanent;
 rewrite ^/tags/\.{1}(.*)$ https://releases.aspose.com/tags/$1 permanent;
 rewrite ^/(.*)/tags/\.{1}(.*)$ https://releases.aspose.com/$1/tags/$2 permanent;
+rewrite ^/tags/(.*)%20(.*)$ https://releases.aspose.com/tags/$1$2 permanent;
+rewrite ^/(.*)/tags/(.*)%20(.*)$ https://releases.aspose.com/$1/tags/$2$3 permanent;
+rewrite /(.*)/3d/nodejs-java/new-releases/(.*)aspose.3d-for-node.js-via-java-23.12/$ https://releases.aspose.com/3d/nodejs-java/new-releases/aspose.3d-for-node.js-via-java-23.12/ permanent;

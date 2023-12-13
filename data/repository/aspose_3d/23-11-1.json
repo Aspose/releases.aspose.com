@@ -1,0 +1,23 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-3d",
+  "id" : "23-11-1",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-3d-23.11.1-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "2 MB",
+    "name" : "aspose-3d-23.11.1-jdk8.jar",
+    "classifier" : "jdk8"
+  }, {
+    "size" : "2 MB",
+    "name" : "aspose-3d-23.11.1.jar"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-3d-23.11.1.pom"
+  } ],
+  "releasehDate" : "2023-12-12T02:47:20+00:00",
+  "version" : "23.11.1",
+  "ReleaseNotes" : "https://docs.aspose.com/3d/java/aspose-3d-for-java-23-11-1-release-notes/"
+}

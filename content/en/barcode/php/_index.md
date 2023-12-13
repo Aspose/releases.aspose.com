@@ -3,6 +3,7 @@ title: "PHP Barcode Library | Aspose.BarCode for PHP via Java"
 description: "Download PHP Library to generate & recognize barcodes from 1D, 2D and postal symbologies. "
 keywords: "PHP Barcode Library "
 linktitle: "Aspose.BarCode for PHP via Java"
+tags: ['barcodephpjava']
 family_listing_page_title: "Aspose.BarCode for PHP via Java"
 family_listing_page_description: "Project Aspose.Barcode for PHP shows how different tasks can be performed using Aspose.Barcode Java APIs in PHP. This project is aimed to provide useful examples for PHP Developers who want to utilize Aspose.Barcode for Java in their PHP Projects"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-php-via-java.png"

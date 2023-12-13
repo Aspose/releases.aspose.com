@@ -2,6 +2,7 @@
 title: "Доставка отчетов в формате PDF и XPS | Aspose.PDF для служб отчетов"
 description: "Загрузите надежное расширение для визуализации, которое удовлетворяет потребности в создании решений для бизнес-аналитики и создания отчетов для создания отчетов в формате PDF, PDF/A и XPS из служб Microsoft SQL Server Reporting Services."
 keywords: "RDL to PDF, RDL to XPS "
+tags: ['SharePoint Exporter for PDF', 'ssrs-render-xlsx-pdf', 'table-reporting-document']
 family_listing_page_title: "Aspose.PDF для служб отчетов"
 family_listing_page_description: "Aspose.PDF for Reporting Services — это надежное расширение рендеринга для создания отчетов в формате PDF, PDF/A и XPS из служб Microsoft SQL Server Reporting Services."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-reporting-services-min.png"
@@ -107,4 +108,3 @@ Aspose.PDF for Reporting Services — это расширение для под�
 
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

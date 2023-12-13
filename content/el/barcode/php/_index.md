@@ -2,6 +2,7 @@
 title: "Βιβλιοθήκη Barcode PHP | Aspose.BarCode για PHP μέσω Java"
 description: "Κατεβάστε τη Βιβλιοθήκη PHP για να δημιουργήσετε και να αναγνωρίσετε γραμμικούς κώδικες από 1D, 2D και ταχυδρομικές συμβολολογίες."
 keywords: "PHP Barcode Library "
+tags: ['barcodephpjava', 'PHP Barcode Library']
 family_listing_page_title: "Aspose.BarCode για PHP μέσω Java"
 family_listing_page_description: "Το Project Aspose.Barcode for PHP δείχνει πώς μπορούν να εκτελεστούν διαφορετικές εργασίες χρησιμοποιώντας τα API Java Aspose.Barcode στην PHP. Αυτό το έργο έχει ως στόχο να παρέχει χρήσιμα παραδείγματα για προγραμματιστές PHP που θέλουν να χρησιμοποιήσουν το Aspose.Barcode για Java στα έργα τους PHP"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-php-via-java.png"
@@ -54,4 +55,3 @@ weight:  8
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-
