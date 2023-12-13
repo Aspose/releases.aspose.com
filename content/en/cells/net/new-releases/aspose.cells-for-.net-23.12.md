@@ -40,7 +40,7 @@ weight: 701
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-23-12-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-23-12-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-12-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for .NET 23.12</div>
