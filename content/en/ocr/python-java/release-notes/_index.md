@@ -4,7 +4,7 @@ linktitle: "Release Notes"
 title: "Release Notes"
 productName: "Aspose.OCR for Python via Java"
 weight: 99
-description: "This section contains the release notes of Aspose.OCR for Python via Java for the year Release Notes. In these release notes, we are publishing the list of issues that have been fixed in the current version, as well as any public API and behavioral changes."
+description: "The list of new features, improvements and fixes introduced in the specific versions of Aspose.OCR for Python via Java."
 type: "repository"
 layout: "releases"
 hideChildren: false
