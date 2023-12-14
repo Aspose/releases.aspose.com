@@ -59,14 +59,18 @@ Full code:
 import aspose as ocr
 
 # Initialize OCR engine
-api = AsposeOcr()
+api = ocr.AsposeOcr()
 
 # Initialize OCR input
-input = OcrInput(InputType.SINGLE_IMAGE)
+filters = ocr.PreprocessingFilter()
+filters.add(ocr.PreprocessingFilter.auto_skew())
+input = ocr.OcrInput(ocr.InputType.SINGLE_IMAGE, filters)
 input.add("1.png")
 input.add("2.jpg")
 
 # Recognize images
+settings = ocr.RecognitionSettings()
+settings.set_detect_areas_mode(ocr.DetectAreasMode.PHOTO)
 result = api.recognize(input)
 
 # Print result
