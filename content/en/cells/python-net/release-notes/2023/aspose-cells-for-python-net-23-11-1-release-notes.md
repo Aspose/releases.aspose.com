@@ -3,7 +3,7 @@ id: "aspose-cells-for-python-net-23-11-1-release-notes"
 slug: "aspose-cells-for-python-net-23-11-1-release-notes"
 linktitle: "Aspose.Cells for Python via .NET 23.11.1 Release Notes"
 title: "Aspose.Cells for Python via .NET 23.11.1 Release Notes"
-weight: 4
+weight: 3
 description: "Aspose.Cells for Python via .NET 23.11.1 Release Notes – the latest enhancements, new features, and fixes."
 type: "repository"
 layout: "release"
