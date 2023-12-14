@@ -22,7 +22,7 @@ weight: 5
 <!-- /ProductPageContent-->
 
 <!-- ReleasesListProductPage-->
-{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="ocr" product="ocr" >}}
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="ocr" product="python-net" >}}
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
