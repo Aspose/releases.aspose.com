@@ -36,7 +36,7 @@ Aspose.OCR for Python via Java can be download here and installed from local fil
 
 ## Key features
 
-- Recognizes text in 27 languages based on Latin, Cyrillic and Asian scrips, including texts in mixed languages.
+- Recognizes text in 28 languages based on Latin, Cyrillic and Asian scrips, including texts in mixed languages.
 - Accurately extracts texts regardless of the original image quality - work with rotated, distorted and noisy pictures and photos.
 - Supports most file formats you can get from a scanner or camera, as well as web links.
 - Automatically corrects spelling errors to further improve the results without manual intervention.
