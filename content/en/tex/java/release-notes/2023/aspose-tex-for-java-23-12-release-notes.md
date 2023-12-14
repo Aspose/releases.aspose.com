@@ -15,8 +15,8 @@ menuItemWithNoContent: false
 
 ## Aspose.TeX 23.12 for Java has been released!
 
-The support for external font packaged has been implemented.
-The *eTeX*'s `\middle` primitive support has been implemented.
+* Support for external font packaged has been implemented.
+* Support for the *eTeX*'s `\middle` primitive has been implemented.
 
 | Key | Summary | Category |
 |---|---|---|
