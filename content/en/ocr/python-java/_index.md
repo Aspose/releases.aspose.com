@@ -6,7 +6,7 @@ keywords:  "Aspose,Aspose.OCR,Python,Java,Library,PDF,OCR,TIFF,PNG,BMP,JPEG,Imag
 family_listing_page_title:  "Aspose.OCR for Python via Java"
 family_listing_page_description:  "Download Text Extraction Python Library for English, French, Spanish & Portuguese character & text recognition from raster images via on-premise Python via Java API."
 family_listing_page_iconurl:  "https://releases.aspose.com/images/aspose/aspose_ocr-for-python-java.png"
-weight: 5
+weight: 8
 
 ---
 
@@ -22,7 +22,7 @@ weight: 5
 <!-- /ProductPageContent-->
 
 <!-- ReleasesListProductPage-->
-{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="ocr" product="python-net" >}}
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="ocr" product="python-java" >}}
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
