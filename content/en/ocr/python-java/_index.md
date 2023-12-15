@@ -32,7 +32,7 @@ Aspose.OCR for Python via Java can be download here and installed from local fil
 
 {{< Common/hr >}}
 
-[Product Page](https://products.aspose.com/ocr/python-java/) | [Docs](https://docs.aspose.com/ocr/python-java/) | [Demos](https://products.aspose.app/ocr/family/) | [Blog](https://blog.aspose.com/categories/aspose.ocr-product-family/) | [Code Samples](https://docs.aspose.com/ocr/python-java/getting-started/) | [Free Support](https://forum.aspose.com/c/ocr/16) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+[Product Page](https://products.aspose.com/ocr/python-java/) | [Docs](https://docs.aspose.com/ocr/python-java/) | [Demos](https://products.aspose.app/ocr/family/) | [Blog](https://blog.aspose.com/categories/aspose.ocr-product-family/) | [Code Samples](https://github.com/aspose-ocr/Aspose.OCR-for-Python-via-Java) | [Free Support](https://forum.aspose.com/c/ocr/16) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 ## Key features
 
