@@ -55,21 +55,17 @@ The example below illustrates how to use the library on your web page.
 
 1. Create a directory somewhere on your system where the project files will be kept.  
    This directory will later be referred as _project directory_.
-2. [Download](https://releases.aspose.com/ocr/nodejs-cpp/) Aspose.OCR for Node.js via C++ and extract it somewhere on your system.
-3. Copy the files from `lib` directory of the extracted Aspose.OCR for Node.js via C++ package to the the project directory:
-
-    - `asposeocr.js`
-    - `asposeocr.wasm`
-    - `asposeocr.data`
-
-4. Put a sample image to the project directory under the name `source.png`.
+2. Create **node_modules** directory in the project directory.
+3. [Download](https://releases.aspose.com/ocr/nodejs-cpp/) Aspose.OCR for Node.js via C++ distributive.
+4. Unpack the [downloaded package](/ocr/nodejs-cpp/installation/) to **aspose-ocr** directory inside **node_modules** directory.
+5. Put a sample image to the project directory under the name `source.png`.
 
 ### Create a project script
 
 Create an `index.js` file in the the project directory which will be used as a main (startup) project script:
 
 ```js
-const Module = require("./asposeocr");
+const Module = require("aspose-ocr/lib/asposeocr");
 const fs = require("fs");
 
 Module.onRuntimeInitialized = async _ => {

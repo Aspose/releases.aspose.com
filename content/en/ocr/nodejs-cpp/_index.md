@@ -5,7 +5,7 @@ description:  "Extract texts from scanned pages, photos, screenshots, and other 
 keywords:  "OCR, Node.js, WebAssembly, WASM, recognize, extract, read, scan, JavaScript, JS"
 family_listing_page_title:  "Aspose.OCR for Node.js via C++"
 family_listing_page_description:  "Download OCR API for Node.js. Extract texts from scanned pages, photos, screenshots, and other sources in on-premise and cloud services written in Node.js."
-family_listing_page_iconurl:  "https://releases.aspose.com/images/aspose/aspose_ocr-for-nodejs-cpp.svg"
+family_listing_page_iconurl: "https://releases.aspose.com/images/aspose/aspose_ocr-for-nodejs-cpp.svg"
 weight: 7
 
 ---
