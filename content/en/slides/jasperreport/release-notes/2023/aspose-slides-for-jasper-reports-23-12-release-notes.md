@@ -12,7 +12,7 @@ family_listing_page_title: "Aspose.Slides for Jasper Reports 23.12 Release Notes
 
 {{% alert color="primary" %}} 
 
-This page contains release notes for Aspose.Slides for Jasper Reports 23.12
+This page contains release notes for [Aspose.Slides for Jasper Reports 23.12](https://releases.aspose.com/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-23.12/)
 
 {{% /alert %}} 
 
