@@ -129,8 +129,6 @@ try {
 
     // Deletes cropped areas of the PictureFrame image
     $croppedImage = $picFrame->getPictureFormat()->deletePictureCroppedAreas();
-    
-    $picFrame->getPictureFormat()->getPicture()->getImage()->replaceImage($croppedImage);
             
     $presentation->save("output.pptx", SaveFormat::Pptx);
 } finally {

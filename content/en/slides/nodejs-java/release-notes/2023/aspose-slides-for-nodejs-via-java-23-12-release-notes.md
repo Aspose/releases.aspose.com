@@ -119,9 +119,6 @@ var picFrame = slide.getShapes().get_Item(0);
 // Deletes cropped areas of the PictureFrame image
 var croppedImage = picFrame.getPictureFormat().deletePictureCroppedAreas();
 
-//Replace the full image with a croppedImage
-picFrame.getPictureFormat().getPicture().getImage().replaceImage(croppedImage);
-
 presentation.save("output.pptx", aspose.slides.SaveFormat.Pptx);
 ```
 

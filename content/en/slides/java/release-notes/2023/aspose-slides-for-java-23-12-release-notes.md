@@ -141,9 +141,6 @@ try {
 
     // Deletes cropped areas of the PictureFrame image
     IPPImage croppedImage = picFrame.getPictureFormat().deletePictureCroppedAreas();
-    
-    //Replace the full image with a croppedImage
-    picFrame.getPictureFormat().getPicture().getImage().replaceImage(croppedImage);
 
     presentation.save("output.pptx", SaveFormat.Pptx);
 } finally {
