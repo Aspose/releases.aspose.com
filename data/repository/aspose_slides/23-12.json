@@ -1,0 +1,17 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-slides",
+  "id" : "23-12",
+  "packageFiles" : [ {
+    "size" : "29 MB",
+    "name" : "aspose-slides-23.12-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "396 bytes",
+    "name" : "aspose-slides-23.12.pom"
+  } ],
+  "releasehDate" : "2023-12-15T10:57:21+00:00",
+  "version" : "23.12",
+  "ReleaseNotes" : "https://docs.aspose.com/slides/java/aspose-slides-for-java-23-12-release-notes/"
+}
