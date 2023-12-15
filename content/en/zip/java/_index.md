@@ -58,24 +58,23 @@ packages_refs:
 [Product Page](https://products.aspose.com/zip/java) | [Docs](https://docs.aspose.com/zip/java/) | [Demos](https://products.aspose.app/zip/family) | [API Reference](https://apireference.aspose.com/zip/java) | [Examples](https://github.com/aspose-zip/Aspose.ZIP-for-Java) | [Blog](https://blog.aspose.com/category/zip/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/zip) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
 
-[Aspose.ZIP for Java](https://products.aspose.com/zip/java/) is a standalone Java API to create, manipulate, extract & protect archive formats including ZIP, BZIP, BZ2 & TAR.
+[Aspose.ZIP for Java](https://products.aspose.com/zip/java/) is a standalone Java API to create, manipulate, extract & protect archives.
 
 Aspose.ZIP for Java class library allows your Java applications to compress/decompress files and folders without getting into the complexity of coding new compression algorithms or understanding the existing ones. Enable your programs to work with a vast range of features, such as creating archives, saving archives, archive extraction, encrypting/decrypting archives, compressing single or multiple files as well as directory contents. It also allows you to apply security to your archived and compressed files and folders via password, AES (128, 192, 256) encryption, or mixed encryption.
 
 ## Archive Processing Features
 
 - Compress files and folders into standard ZIP formats.
-- Supports Deflate, `Bzip2` & `LZMA` compression algorithms.
+- Supports Deflate <span style="opacity:0.4">(Coming soon: `Bzip2` & `LZMA`)</span> compression algorithm.
 - Apply simple password or `AES128`, `AES192`, `AES256` encryption to archives.
 - Employ different protection schemes for each file within an archive.
 - Append more files to an existing zipped archive.
-- Use `Gzip` or `Bzip2` to pack files & folders into a `TAR` archive.
-- Supports `LZMA` or `LZMA2` compression & optional encryption to create `7z` archives.
-- Create self-extracting compressed archives.
+- <span style="opacity:0.4">Use `Gzip` or `Bzip2` to pack files & folders into a `TAR` archive.</span>
+- <span style="opacity:0.4">Supports `LZMA` or `LZMA2` compression & optional encryption to create `7z` archives.</span>
 
 ### Read & Write ZIP Formats
 
-ZIP (Coming soon: 7z, TAR, GZIP, BZ2)
+ZIP <span style="opacity:0.4">(Coming soon: 7z, TAR, GZIP, BZ2)</span>
 
 ## Supported Environments
 
