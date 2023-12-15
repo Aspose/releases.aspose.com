@@ -128,9 +128,9 @@ using (Presentation pres = new Presentation("pres.pptx"))
 }
 ```
 
-## InkOptions class have been added ##
+## InkOptions class has been added ##
 
-InkOptions and the corresponding IInkOptions interface have been added. It provides options that control the look of Ink objects in exported documents. 
+InkOptions and the corresponding IInkOptions interface has been added. It provides options that control the look of Ink objects in exported documents. 
 
 InkOptions.HideInk allows to show or hides Ink elements in exported document.
 InkOptions.InterpretMaskOpAsOpacity can be used to set ROP operation or Opacity for rendering brush.
@@ -148,7 +148,7 @@ using (Presentation pres = new Presentation("pres.pptx"))
 }
 ```
 
-## IPictureFillFormat.DeletePictureCroppedAreas method have been added ##
+## IPictureFillFormat.DeletePictureCroppedAreas method has been added ##
 
 IPictureFillFormat.DeletePictureCroppedAreas method allows the cropped areas of the fill Picture:
 
@@ -167,7 +167,7 @@ using (Presentation presentation = new Presentation("demo.pptx"))
 
 This can help to reduce the size of the presentation.
 
-## Shape.IsDecorative property have been added ##
+## Shape.IsDecorative property has been added ##
 
 The new Shape.IsDecorative property allows to set if the shape is "decorative" (used for decorative purposes, for example, some stylistic objects).
 
