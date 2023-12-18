@@ -8,9 +8,9 @@ folder_link: "/cells/androidjava/new-releases/aspose.cells-for-android-via-java-
 folder_name: "Aspose.Cells for Android via Java 23.9"
 download_link: "/cells/androidjava/new-releases/aspose.cells-for-android-via-java-23.9/24dec8fd197374a4713dc8db0d372a4d-3-9464"
 download_text: "Download"
-intro_text: "It contains Aspose.Cells for Java 23.9 release."
+intro_text: "It contains Aspose.Cells for Android via Java 23.9 release."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 15/9/2023 Downloads: 1  Views: 1 "
+download_count: " 15/9/2023 Downloads: 231  Views: 1 "
 file_size: "File Size: 11.05MB"
 parent_path: "cells/androidjava"
 section_parent_path: "cells/androidjava"
@@ -31,7 +31,7 @@ weight: 86
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-24dec8fd197374a4713dc8db0d372a4d-3-9464" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-24dec8fd197374a4713dc8db0d372a4d-3-9464" >}} 231 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
       {{< Common/li id="size-update-24dec8fd197374a4713dc8db0d372a4d-3-9464" >}} 11.05MB {{< /Common/li >}}
 
@@ -43,7 +43,7 @@ weight: 86
       <h4>Release Notes</h4><div><a href='https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-23-9-release-notes/'>https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for Java 23.9 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for Android via Java 23.9 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
