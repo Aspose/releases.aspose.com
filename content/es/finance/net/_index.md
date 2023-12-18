@@ -2,6 +2,7 @@
 title: "API de procesamiento de finanzas local | Aspose. Finanzas para .NET"
 description: "Descargue DLL que consiste en la biblioteca de clases C# para procesar y manipular formatos financieros (es decir, XBRL e iXBRL) a través de la API .NET. Manejar elemento abstracto en taxonomía XBRL."
 keywords: "XBRL .NET API, iXBRL .NET Library"
+linktitle: "Aspose. Finanzas para .NET"
 family_listing_page_title: "Aspose. Finanzas para .NET"
 family_listing_page_description: "Aspose.Finance es una biblioteca .NET pura para manipular formatos relacionados con las finanzas, incluidos XBRL e iXBRL. La API Finance .NET permite leer, escribir, editar y validar formatos de archivos financieros desde aplicaciones ASP.NET, Web Services y WinForm."
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/272x272/aspose_finance-for-net.png"
@@ -66,4 +67,3 @@ iXBRL
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

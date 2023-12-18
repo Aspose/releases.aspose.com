@@ -2,6 +2,7 @@
 title: ".NET üzerinden Python için Aspose.Finance"
 description: "Aspose.Finance for Python, .NET aracılığıyla XBRL, iXBRL ve OFX dahil olmak üzere finansla ilgili formatları işlemek için bir Python kütüphanesidir. Finance Python API, finans dosyası formatlarını okumaya, yazmaya, düzenlemeye ve doğrulamaya izin verir."
 keywords: "XBRL,iXBRL,inline XBRL,OFX, Python"
+linktitle: ".NET üzerinden Python için Aspose.Finance"
 family_listing_page_title: ".NET üzerinden Python için Aspose.Finance"
 family_listing_page_description: "Aspose.Finance for Python .NET aracılığıyla XBRL, iXBRL ve OFX dahil olmak üzere finansla ilgili formatları işlemek için bir Python kütüphanesidir. Finance Python API, finans dosyası formatlarını okumaya, yazmaya, düzenlemeye ve doğrulamaya izin verir."
 family_listing_page_iconurl: "https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg"
@@ -78,4 +79,3 @@ XBRL, iXBRL, OFX
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

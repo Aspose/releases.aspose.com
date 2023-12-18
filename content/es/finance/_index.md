@@ -2,6 +2,7 @@
 title: "API de formato de archivo de finanzas | Familia de productos Aspose.Finance"
 description: "Descargue bibliotecas locales para crear, leer y validar XBRL e iXBRL desde cualquier software de gestión de procesos comerciales, análisis financiero e informes."
 keywords: "Finance API "
+linktitle: "Familia de productos Aspose.Finance"
 family_listing_page_title: "Familia de productos Aspose.Finance"
 family_listing_page_description: ""
 family_listing_page_iconurl: ""
@@ -16,4 +17,3 @@ weight:  24
 {{< dbToolbar link="https://forum.aspose.com/c/finance" linktext=" Support Forum " >}}
 
 {{< ProductListingWrapper family="finance">}}
-

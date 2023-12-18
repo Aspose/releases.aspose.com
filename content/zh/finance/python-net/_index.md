@@ -2,6 +2,7 @@
 title: "Aspose.Finance for Python 通过 .NET"
 description: "Aspose.Finance for Python via .NET 是一个 Python 库，用于处理金融相关格式，包括 XBRL、iXBRL 和 OFX。 Finance Python API 允许读取、编写、编辑和验证财务文件格式。"
 keywords: "XBRL,iXBRL,inline XBRL,OFX, Python"
+linktitle: "Aspose.Finance for Python 通过 .NET"
 family_listing_page_title: "Aspose.Finance for Python 通过 .NET"
 family_listing_page_description: "Aspose.Finance for Python via .NET 是一个 Python 库，用于处理金融相关格式，包括 XBRL、iXBRL 和 OFX。 Finance Python API 允许读取、编写、编辑和验证财务文件格式。"
 family_listing_page_iconurl: "https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg"
@@ -78,4 +79,3 @@ XBRL、iXBRL、OFX
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-
