@@ -20,7 +20,6 @@ tags:
     "Excel-to-Image",
     "Worksheet-to-Image",
     "Excel-to-PNG",
-    "Excel-to-TIFF",
     "Worksheet-to-SVG",
     "Excel-to-SVG",
     "Workbook-to-PDF",
@@ -60,7 +59,7 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Cells.Cpp/" tex
 
 It allows the developers to work with spreadsheet rows, columns, data, formulas, pivot tables, worksheets, tables, charts, and drawing objects from their own C++ applications.
 
-## What is Aspose.Cells for C++?
+### What is Aspose.Cells for C++?
 
 Aspose.Cells for C++ is a native C++ on premise API to integrate Spreadsheet creation, manipulation and conversion features into your C++ Apps. It supports working with many popular spreadsheet file formats from Microsoft Excel (XLS, XLSX, XLSB, CSV, etc.) and OpenOffice/LibreOffice (ODS).
 
@@ -68,7 +67,7 @@ You can use Aspose.Cells for C++ to develop 64-bit applications in any developme
 
 Aspose.Cells for C++ allows you to work with the built-in as well as the custom document properties in Microsoft Excel. Supports high-quality conversion of Excel Workbooks to PDF/A compliant files. Work with formulas, pivot tables, worksheets, tables, ranges, charts, OLE objects and much more.
 
-## Excel File Processing Features
+### Excel File Processing Features
 
 - Open a spreadsheet file without Microsoft Excel.
 - [Open an Excel file](https://docs.aspose.com/cells/cpp/different-ways-to-open-files/) via a path on the local computer or using a stream.
@@ -82,14 +81,14 @@ Aspose.Cells for C++ allows you to work with the built-in as well as the custom 
 - [Insert an OLE object into the worksheet](https://docs.aspose.com/cells/cpp/inserting-ole-objects-into-the-worksheet/).
 - Access all the OLE objects contained in the worksheet for [extraction](https://docs.aspose.com/cells/cpp/extracting-ole-objects-from-worksheet/).
 
-## Supported Read & Write Formats
+### Supported Read & Write Formats
 
 **Microsoft Excel:** XLS, XLSX, XLSB, SpreadsheetML\
 **Text:** CSV, TSV, TabDelimited\
 **OpenDocument:** ODS\
 **Other:** HTML, MHTML
 
-## Save Spreadsheet Documents As
+### Save Spreadsheet Documents As
 
 **Microsoft Excel:** XLSM, XLTX, XLTM, XLAM\
 **Portable Document Format:** PDF, XPS\
@@ -99,11 +98,11 @@ Aspose.Cells for C++ allows you to work with the built-in as well as the custom 
 **Metafile:** EMF\
 **Other** DIF
 
-## Get Started
+### Get Started
 
 Are you ready to give Aspose.Cells for C++ a try? Simply execute `Install-Package Aspose.Cells.Cpp` from Package Manager Console in Visual Studio to fetch the NuGet package. If you already have Aspose.Cells for C++ and want to upgrade the version, please execute `Update-Package Aspose.Cells.Cpp` to get the latest version.
 
-### Convert XLS to XLSX, XLSB & CSV using C++
+#### Convert XLS to XLSX, XLSB & CSV using C++
 
 Try executing the below snippet to see how API works in your environment or check the [GitHub Repository](https://github.com/aspose-cells/Aspose.Cells-for-C) for other common usage scenarios.
 
@@ -118,7 +117,7 @@ book.Save(dir + u"output.csv", SaveFormat::CSV);
 book.Save(dir + u"output.json", SaveFormat::Json);
 ```
 
-### Create a Custom Excel Chart with C++
+#### Create a Custom Excel Chart with C++
 
 ```c++
 // create a new workbook
