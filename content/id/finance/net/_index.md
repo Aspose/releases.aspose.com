@@ -22,7 +22,7 @@ weight:  1
 Membuka
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Finance/" text="NuGet"  >}}Package Manager dalam Microsoft Visual Studio®, cari <b>Aspose.Diagram</b> dan instal. Anda juga dapat menggunakan perintah berikut di dalam Package Manager Console. Untuk petunjuk rinci, silakan kunjungi
 {{< Common/link href="https://docs.aspose.com/finance/net/installation/" text="Instalasi"  >}}halaman dokumentasi.
-{{< Common/release-notes-link family="finance" product="java" href="https://docs.aspose.com/finance/net/release-notes/" text="https://docs.aspose.com/finance/net/release-notes/"  >}}
+{{< Common/release-notes-link family="finance" product="java" href="https://releases.aspose.com/finance/net/release-notes/" text="https://releases.aspose.com/finance/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}

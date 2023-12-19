@@ -23,7 +23,7 @@ weight:  1
 Ouvert
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Finance/" text="NuGet"  >}}Gestionnaire de packages dans Microsoft Visual Studio®, recherchez <b>Aspose.Diagram</b> et installez. Vous pouvez également utiliser la commande suivante dans la console du gestionnaire de packages. Pour les instructions détaillées, veuillez visiter le
 {{< Common/link href="https://docs.aspose.com/finance/net/installation/" text="Installation"  >}}page documentaire.
-{{< Common/release-notes-link family="finance" product="java" href="https://docs.aspose.com/finance/net/release-notes/" text="https://docs.aspose.com/finance/net/release-notes/"  >}}
+{{< Common/release-notes-link family="finance" product="java" href="https://releases.aspose.com/finance/net/release-notes/" text="https://releases.aspose.com/finance/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
