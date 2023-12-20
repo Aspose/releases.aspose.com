@@ -39,7 +39,7 @@ menuItemWithNoContent: false
 
 **IMAGINGPYTHONNET-167 Converting the Png to Psd issue**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 with Image.load("IMG_20230628_212247_219.png") as image:
     image.save("result.psd")
@@ -48,7 +48,7 @@ with Image.load("IMG_20230628_212247_219.png") as image:
 
 **IMAGINGPYTHONNET-166 Implement support text styles italic/underline in CDR format**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 baseFolder = "D:\\";
 FontSettings.set_fonts_folder(os.path.join(baseFolder, "Fonts"))
@@ -59,7 +59,7 @@ with Image.load(os.path.join(baseFolder, "Test.cdr")) as image:
 
 **IMAGINGPYTHONNET-165 Failed to open CMX file**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 with Image.load(r"D:\FINALIZADO.cmx") as image:
     image.save(r"D:\result.png")
@@ -68,7 +68,7 @@ with Image.load(r"D:\FINALIZADO.cmx") as image:
 
 **IMAGINGPYTHONNET-164 Cannot convert the CMX image to PNG**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 with Image.load(r"D:\image.CMX") as image:
     image.save(r"D:\result.jpg")
@@ -77,7 +77,7 @@ with Image.load(r"D:\image.CMX") as image:
 
 **IMAGINGPYTHONNET-163 Emf file not correctly converted to png**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 baseFolder = "D:"
 fileName = os.path.join(baseFolder, "picture-89c3d48cc4874177a54eb3e2ec94b5fd.emf")
@@ -91,7 +91,7 @@ with Image.load(inputFilePath) as image:
 
 **IMAGINGPYTHONNET-162 System.NullReferenceException while converting particular CDR to PNG**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 baseFolder = r"D:\cdr"
 fileName = os.path.join(baseFolder, "Panasonic_Digital_4_C2C.cdr")
@@ -105,7 +105,7 @@ with Image.load(inputFilePath) as image:
 
 **IMAGINGPYTHONNET-161 SVG to PNG conversion issues**
 
-{{< highlight csharp >}}
+{{< highlight python >}}
 
 baseFolder = "D:"
 fileName = "OSHARED-23428.svg"

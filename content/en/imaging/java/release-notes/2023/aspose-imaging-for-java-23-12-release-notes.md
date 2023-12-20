@@ -40,7 +40,7 @@ Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 23.
 
 **IMAGINGJAVA-8625 Add RemoveBackground & ChangeBackground API entries for VectorImage**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 source files in the archive: [rb.zip](https://issue.saltov.dynabic.com/attachments/117060/rb.zip)
 
@@ -99,7 +99,7 @@ private static void removeBackgroundExample(String fileName, RemoveBackgroundSet
 		vectorOpt.setPageSize(Size.to_SizeF(image.getSize()));
 		PngOptions options = new PngOptions();
 		options.setColorType(PngColorType.TruecolorWithAlpha);
-		options.setVectorRasterizationOptions(new VectorRasterizationOptions());
+		options.setVectorRasterizationOptions(vectorOpt);
 
 		if (image instanceof VectorImage)
 		{
@@ -114,7 +114,7 @@ private static void removeBackgroundExample(String fileName, RemoveBackgroundSet
 
 **IMAGINGJAVA-8622 System.NullReferenceException when DataStreamSupporter.Save**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("IMG_1381.png"))
 {
@@ -127,7 +127,7 @@ try (Image image = Image.load("IMG_1381.png"))
 
 **IMAGINGJAVA-8621 Cannot resize the PNG image**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("IMG_1381.png"))
 {
@@ -140,7 +140,7 @@ try (Image image = Image.load("IMG_1381.png"))
 
 **IMAGINGJAVA-8617 Cannot convert the EMF file to PDF**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String baseFolder = "D:\\";
 String fileName = "aa.emf";
@@ -155,7 +155,7 @@ try (Image image = Image.load(inputFile))
 
 **IMAGINGJAVA-8586 Incorrect conversion the EMF image to SVG**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 This example is worked assuming ~3 GB of free RAM(only x64 systems)
 
@@ -181,7 +181,7 @@ For cases with a limited RAM resource, it is necessary to modify the library:
 
 **IMAGINGJAVA-8552 Emf not converting to SVG in trial mode**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 This example is worked assuming ~3 GB of free RAM(only x64 systems)
 
