@@ -1,18 +1,24 @@
 ---
-id: "aspose-omr-for-net-latest-release-notes"
-slug: "latest"
-weight: 1
 date: "2023-12-20"
 author: "Vladimir Lapin"
+id: "aspose-omr-for-net-23-12-0-release-notes"
+slug: "aspose-omr-for-net-23-12-0-release-notes"
+linktitle: "Aspose.OMR for .NET 23.12.0 - Release Notes"
+title: "Aspose.OMR for .NET 23.12.0 - Release Notes"
+weight: 10
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET 23.12.0 (December 2023) release."
 type: "repository"
 layout: "release"
-title: Latest release
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OMR for .NET.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OMR for .NET 23.12.0 - Release Notes"
 keywords:
-- latest
+- "2023"
+- December
 - new
 - release
 - changelog
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
@@ -133,4 +139,4 @@ See the examples below to learn more about the changes introduced in this releas
 &positioned_block
 ```
 
-[Absolutely positioned block](../2023/positioned_block.png)
+[Absolutely positioned block](positioned_block.png)
