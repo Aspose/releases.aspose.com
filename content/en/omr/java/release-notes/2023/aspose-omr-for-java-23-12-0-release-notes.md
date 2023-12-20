@@ -1,18 +1,24 @@
 ---
-weight: 1
-id: "aspose-omr-for-java-latest-release-notes"
-slug: "latest"
 date: "2023-12-20"
+id: "aspose-omr-for-java-23-12-0-release-notes"
+slug: "aspose-omr-for-java-23-12-0-release-notes"
+linktitle: "Aspose.OMR for Java 23.12.0 - Release Notes"
+title: "Aspose.OMR for Java 23.12.0 - Release Notes"
 author: "Vladimir Lapin"
+weight: 10
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for Java 23.12.0 (December 2023) release."
 type: "repository"
 layout: "release"
-title: Latest release (December 2023)
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OMR for Java.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OMR for Java 23.12.0 - Release Notes"
 keywords:
-- latest
-- new
-- release
-- changelog
+- "2023"
+- "December"
+- "new"
+- "release"
+- "changelog"
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}

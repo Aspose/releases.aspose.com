@@ -139,4 +139,4 @@ See the examples below to learn more about the changes introduced in this releas
 &positioned_block
 ```
 
-[Absolutely positioned block](positioned_block.png)
+![Absolutely positioned block](positioned_block.png)

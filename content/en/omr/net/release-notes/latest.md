@@ -133,4 +133,4 @@ See the examples below to learn more about the changes introduced in this releas
 &positioned_block
 ```
 
-[Absolutely positioned block](../2023/positioned_block.png)
+![Absolutely positioned block](../2023/positioned_block.png)
