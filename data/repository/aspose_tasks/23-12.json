@@ -1,5 +1,6 @@
 {
   "groupId" : "com.aspose",
+  "classifier" : "jdk18",
   "artifactId" : "aspose-tasks",
   "id" : "23-12",
   "packageFiles" : [ {
@@ -7,10 +8,18 @@
     "name" : "aspose-tasks-23.12-javadoc.jar",
     "classifier" : "javadoc"
   }, {
+    "size" : "15 MB",
+    "name" : "aspose-tasks-23.12-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "15 MB",
+    "name" : "aspose-tasks-23.12-jdk18.jar",
+    "classifier" : "jdk18"
+  }, {
     "size" : "396 bytes",
     "name" : "aspose-tasks-23.12.pom"
   } ],
-  "releasehDate" : "2023-12-21T11:38:45+00:00",
+  "releasehDate" : "2023-12-21T11:56:29+00:00",
   "version" : "23.12",
   "ReleaseNotes" : "https://releases.aspose.com/tasks/java/release-notes/2023/aspose-tasks-for-java-23-12-release-notes/"
 }
