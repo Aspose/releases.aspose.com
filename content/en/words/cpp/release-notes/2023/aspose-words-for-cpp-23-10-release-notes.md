@@ -169,6 +169,9 @@ There are 125 improvements and fixes in this regular monthly release. The most n
 ## Public API and Backward Incompatible Changes
 
 This section lists public API changes that were introduced in Aspose.Words 23.10. It includes not only new and obsoleted public methods, but also a description of any changes in the behavior behind the scenes in Aspose.Words which may affect existing code. Any behavior introduced that could be seen as regression and modifies the existing behavior is especially important and is documented here.
+
+### Added ability to get foreground color without modifiers in Fill and Stroke classes
+
 A new public property **BaseForeColor** has been added to class **Fill** and **Stroke**:
 {{< highlight cpp >}}
 //// <summary>
