@@ -2,6 +2,7 @@
 title: "内部财务处理 API | Aspose.Finance for .NET"
 description: "下载包含 C# 类库的 DLL，以通过 .NET API 处理和操作财务格式（即 XBRL 和 iXBRL）。处理 XBRL 分类法中的抽象元素。"
 keywords: "XBRL .NET API, iXBRL .NET Library"
+linktitle: "Aspose.Finance for .NET"
 family_listing_page_title: "Aspose.Finance for .NET"
 family_listing_page_description: "Aspose.Finance 是一个纯 .NET 库，用于处理金融相关格式，包括 XBRL 和 iXBRL。 Finance .NET API 允许从 ASP.NET、Web 服务和 WinForm 应用程序读取、写入、编辑和验证财务文件格式。"
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/272x272/aspose_finance-for-net.png"
@@ -22,7 +23,7 @@ weight:  1
 打开
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Finance/" text="NuGet"  >}}Microsoft Visual Studio® 中的包管理器，搜索<b>Aspose.Diagram</b>并安装。您还可以在包管理器控制台中使用以下命令。有关详细说明，请访问
 {{< Common/link href="https://docs.aspose.com/finance/net/installation/" text="安装"  >}}文档页面。
-{{< Common/release-notes-link family="finance" product="java" href="https://docs.aspose.com/finance/net/release-notes/" text="https://docs.aspose.com/finance/net/release-notes/"  >}}
+{{< Common/release-notes-link family="finance" product="java" href="https://releases.aspose.com/finance/net/release-notes/" text="https://releases.aspose.com/finance/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
@@ -68,4 +69,3 @@ iXBRL
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

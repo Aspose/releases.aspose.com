@@ -5,7 +5,7 @@ id: "aspose-omr-for-net-23-11-0-release-notes"
 slug: "aspose-omr-for-net-23-11-0-release-notes"
 linktitle: "Aspose.OMR for .NET 23.11.0 - Release Notes"
 title: "Aspose.OMR for .NET 23.11.0 - Release Notes"
-weight: 31
+weight: 21
 description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET 23.11.0 (November 2023) release."
 type: "repository"
 feedback: "OMRNET"

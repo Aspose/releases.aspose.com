@@ -2,6 +2,7 @@
 title: "On-Premise-API für die Finanzverarbeitung | Aspose.Finance für .NET"
 description: "Laden Sie eine DLL herunter, die aus einer C#-Klassenbibliothek besteht, um Finanzformate (z. B. XBRL und iXBRL) über die .NET-API zu verarbeiten und zu manipulieren. Behandeln Sie abstrakte Elemente in der XBRL-Taxonomie."
 keywords: "XBRL .NET API, iXBRL .NET Library"
+linktitle: "Aspose.Finance für .NET"
 family_listing_page_title: "Aspose.Finance für .NET"
 family_listing_page_description: "Aspose.Finance ist eine reine .NET-Bibliothek zur Bearbeitung von finanzbezogenen Formaten, einschließlich XBRL und iXBRL. Die Finance .NET API ermöglicht das Lesen, Schreiben, Bearbeiten und Validieren von Finanzdateiformaten aus ASP.NET-, Webdienst- und WinForm-Anwendungen."
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/272x272/aspose_finance-for-net.png"
@@ -22,7 +23,7 @@ weight:  1
 Offen
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Finance/" text="NuGet"  >}}Package Manager im Microsoft Visual Studio®, suchen Sie nach <b>Aspose.Diagram</b> und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
 {{< Common/link href="https://docs.aspose.com/finance/net/installation/" text="Installation"  >}}Dokumentationsseite.
-{{< Common/release-notes-link family="finance" product="java" href="https://docs.aspose.com/finance/net/release-notes/" text="https://docs.aspose.com/finance/net/release-notes/"  >}}
+{{< Common/release-notes-link family="finance" product="java" href="https://releases.aspose.com/finance/net/release-notes/" text="https://releases.aspose.com/finance/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
@@ -68,4 +69,3 @@ iXBRL
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

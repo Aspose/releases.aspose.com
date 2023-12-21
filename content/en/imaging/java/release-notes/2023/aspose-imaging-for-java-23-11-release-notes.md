@@ -31,17 +31,17 @@ menuItemWithNoContent: false
 
 ### Added APIs:
 
-Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 23.11](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-11-release-notes/) version
+Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 23.11](https://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-11-release-notes/) version
 
 ### Removed APIs:
 
-Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 23.11](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-11-release-notes/) version
+Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 23.11](https://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-11-release-notes/) version
 
 ## Usage Examples:
 
 **IMAGINGJAVA-8584 Implement support text styles italic/underline in CDR format**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String baseFolder = "D:\\";
 FontSettings.setFontsFolder(baseFolder + "Fonts");
@@ -54,7 +54,7 @@ try (Image image = Image.load(baseFolder + "Test.cdr"))
 
 **IMAGINGJAVA-8583 Failed to open CMX file**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String baseFolder = "D:\\";
 String fileName = "FINALIZADO.cmx";
@@ -69,7 +69,7 @@ try (Image image = Image.load(inputFileName))
 
 **IMAGINGJAVA-8577 Converting the Png to Psd issue**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("IMG_20230628_212247_219.png"))
 {
@@ -80,7 +80,7 @@ try (Image image = Image.load("IMG_20230628_212247_219.png"))
 
 **IMAGINGJAVA-8559 SVG to PNG conversion issues**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String baseFolder = "D:\\";
 String fileName = "OSHARED-23428.svg";
@@ -95,7 +95,7 @@ try (Image image = Image.load(inputFileName))
 
 **IMAGINGJAVA-8556 Cannot convert the CMX image to PNG**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image img = Image.load("D:\\image.CMX"))
 {
@@ -106,7 +106,7 @@ try (Image img = Image.load("D:\\image.CMX"))
 
 **IMAGINGJAVA-8555 Emf file not correctly converted to png**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String baseFolder = "D:\\";
 String fileName = "picture-89c3d48cc4874177a54eb3e2ec94b5fd.emf";
@@ -121,7 +121,7 @@ try (Image image = Image.load(inputFilePath))
 
 **IMAGINGJAVA-8554 System.NullReferenceException while converting particular CDR to PNG**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String baseFolder = "D:\\cdr\\";
 String fileName = "Panasonic_Digital_4_C2C.cdr";

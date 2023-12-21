@@ -16,7 +16,7 @@ weight:  11
 Aspose.Finance for Python via .NET は、XBRL、iXBRL、OFX などの金融関連のフォーマットを処理および操作できる Python クラスで構成されるスタンドアロンのオンプレミス API です。
 以下をご利用ください
 {{< Common/link href="https://pypi.org/project/aspose-finance/" text="ピップ"  >}}指図：
-{{< Common/release-notes-link family="finance" product="python-net" href="https://docs.aspose.com/finance/python-net/release-notes/" text="https://docs.aspose.com/finance/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="finance" product="python-net" href="https://releases.aspose.com/finance/python-net/release-notes/" text="https://releases.aspose.com/finance/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}

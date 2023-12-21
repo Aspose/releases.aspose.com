@@ -41,11 +41,11 @@ Improvement: Reduced the size of library by 2 Mb.
 
 ### Added APIs:
 
-Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 23.10](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-10-release-notes/) version
+Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 23.10](https://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-10-release-notes/) version
 
 ### Removed APIs:
 
-Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 23.10](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-10-release-notes/) version
+Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 23.10](https://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-10-release-notes/) version
 
 ## Usage Examples:
 

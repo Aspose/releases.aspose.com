@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-imaging",
+  "id" : "23-12",
+  "packageFiles" : [ {
+    "size" : "7 MB",
+    "name" : "aspose-imaging-23.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "21 MB",
+    "name" : "aspose-imaging-23.12-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "550 bytes",
+    "name" : "aspose-imaging-23.12.pom"
+  } ],
+  "releasehDate" : "2023-12-18T10:50:37+00:00",
+  "version" : "23.12",
+  "ReleaseNotes" : "https://releases.aspose.com/imaging/java/release-notes/2023/aspose-imaging-for-java-23-12-release-notes/"
+}

@@ -51,6 +51,7 @@ productLink: https://products.aspose.com/omr/java/
 releaseNotesLink: https://releases.aspose.com/omr/java/release-notes/
 dataFolder: aspose_omr
 packages_refs:
+- "23-12"
 - "23-11"
 - "23-5"
 - "23-3"

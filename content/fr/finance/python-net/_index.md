@@ -2,6 +2,7 @@
 title: "Aspose.Finance pour Python via .NET"
 description: "Aspose.Finance for Python via .NET est une bibliothèque Python permettant de manipuler des formats liés à la finance, notamment XBRL, iXBRL et OFX. L'API Finance Python permet de lire, écrire, éditer et valider les formats de fichiers financiers."
 keywords: "XBRL,iXBRL,inline XBRL,OFX, Python"
+linktitle: "Aspose.Finance pour Python via .NET"
 family_listing_page_title: "Aspose.Finance pour Python via .NET"
 family_listing_page_description: "Aspose.Finance for Python via .NET est une bibliothèque Python permettant de manipuler des formats liés à la finance, notamment XBRL, iXBRL et OFX. L'API Finance Python permet de lire, écrire, éditer et valider les formats de fichiers financiers."
 family_listing_page_iconurl: "https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg"
@@ -16,7 +17,7 @@ weight:  11
 Aspose.Finance pour Python via .NET est une API autonome sur site composée de classes Python qui vous permettent de traiter et de manipuler des formats liés à la finance, tels que XBRL, iXBRL et OFX.
 Veuillez utiliser ce qui suit
 {{< Common/link href="https://pypi.org/project/aspose-finance/" text="pépin"  >}}commande:
-{{< Common/release-notes-link family="finance" product="python-net" href="https://docs.aspose.com/finance/python-net/release-notes/" text="https://docs.aspose.com/finance/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="finance" product="python-net" href="https://releases.aspose.com/finance/python-net/release-notes/" text="https://releases.aspose.com/finance/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
@@ -78,4 +79,3 @@ XBRL, iXBRL, OFX
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

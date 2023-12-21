@@ -2,6 +2,7 @@
 title: "Yerinde Finans İşleme API'sı | .NET için Aspose.Finance"
 description: "Finans biçimlerini (yani XBRL ve iXBRL) .NET API aracılığıyla işlemek ve işlemek için C# sınıf kitaplığından oluşan DLL dosyasını indirin. Soyut öğeyi XBRL sınıflandırmasında ele alın."
 keywords: "XBRL .NET API, iXBRL .NET Library"
+linktitle: ".NET için Aspose.Finance"
 family_listing_page_title: ".NET için Aspose.Finance"
 family_listing_page_description: "Aspose.Finance, XBRL ve iXBRL dahil olmak üzere finansla ilgili formatları manipüle etmek için saf bir .NET kütüphanesidir. Finance .NET API, ASP.NET, Web Servisleri ve WinForm uygulamalarından finans dosyası formatlarını okumaya, yazmaya, düzenlemeye ve doğrulamaya izin verir."
 family_listing_page_iconurl: "https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/272x272/aspose_finance-for-net.png"
@@ -22,7 +23,7 @@ weight:  1
 Açık
 {{< Common/link href="https://www.nuget.org/packages/Aspose.Finance/" text="NuGet"  >}}Microsoft Visual Studio® içinde Paket Yöneticisi, <b>Aspose.Diagram'ı arayın</b> ve kurun. Paket Yöneticisi Konsolunda aşağıdaki komutu da kullanabilirsiniz. Ayrıntılı talimatlar için lütfen ziyaret edin
 {{< Common/link href="https://docs.aspose.com/finance/net/installation/" text="Kurulum"  >}}dokümantasyon sayfası.
-{{< Common/release-notes-link family="finance" product="java" href="https://docs.aspose.com/finance/net/release-notes/" text="https://docs.aspose.com/finance/net/release-notes/"  >}}
+{{< Common/release-notes-link family="finance" product="java" href="https://releases.aspose.com/finance/net/release-notes/" text="https://releases.aspose.com/finance/net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="nuget" >}}
        {{< consolebox/spantext text="PM" >}}
@@ -66,4 +67,3 @@ iXBRL
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-
