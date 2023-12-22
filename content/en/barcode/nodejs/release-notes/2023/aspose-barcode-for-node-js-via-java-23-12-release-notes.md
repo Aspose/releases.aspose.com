@@ -1,21 +1,21 @@
 ---
-id: "aspose-barcode-for-node-js-via-java-23-11-release-notes"
-slug: "aspose-barcode-for-node-js-via-java-23-11-release-notes"
-linktitle: "Aspose.BarCode for Node.js via Java 23.11"
-title: "Aspose.BarCode for Node.js via Java 23.11"
-weight: 900
-description: "Aspose.BarCode for Node.js via Java 23.11 – the latest updates and fixes."
+id: "aspose-barcode-for-node-js-via-java-23-12-release-notes"
+slug: "aspose-barcode-for-node-js-via-java-23-12-release-notes"
+linktitle: "Aspose.BarCode for Node.js via Java 23.12"
+title: "Aspose.BarCode for Node.js via Java 23.12"
+weight: 880
+description: "Aspose.BarCode for Node.js via Java 23.12 – the latest updates and fixes."
 type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.BarCode for Node.js via Java 23.11"
+family_listing_page_title: "Aspose.BarCode for Node.js via Java 23.12"
 menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}} 
 
-This page contains release notes information for [Aspose.BarCode for Node.js via Java 23.11](https://releases.aspose.com/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-23.11/).
+This page contains release notes information for [Aspose.BarCode for Node.js via Java 23.12](https://releases.aspose.com/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-23.12/).
 
 {{% /alert %}} 
 ## **All Changes**
