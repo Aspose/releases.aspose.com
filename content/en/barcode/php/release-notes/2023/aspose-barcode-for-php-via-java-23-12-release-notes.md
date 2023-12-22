@@ -1,21 +1,21 @@
 ---
-id: "aspose-barcode-for-java-23-12-release-notes"
-slug: "aspose-barcode-for-java-23-12-release-notes"
-linktitle: "Aspose.BarCode for Java 23.12 Release Notes"
-title: "Aspose.BarCode for Java 23.12 Release Notes"
-weight: 880
-description: "Aspose.BarCode for Java 23.12 Release Notes – the latest updates and fixes."
+id: "aspose-barcode-for-php-via-java-23-12-release-notes"
+slug: "aspose-barcode-for-php-via-java-23-12-release-notes"
+linktitle: "Aspose.BarCode for PHP via Java 23.12"
+title: "Aspose.BarCode for PHP via Java 23.12"
+weight: 8400
+description: "Aspose.BarCode for PHP via Java 23.12 – the latest updates and fixes."
 type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.BarCode for Java 23.12 Release Notes"
+family_listing_page_title: "Aspose.BarCode for PHP via Java 23.12"
 menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
 
-This page contains release notes information for [Aspose.BarCode for Java 23.12](https://releases.aspose.com/barcode/java/23-12/).
+This page contains release notes information for [Aspose.BarCode for PHP via Java 23.12](https://releases.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-23.12/).
 
 {{% /alert %}}
 ## **All Changes**
