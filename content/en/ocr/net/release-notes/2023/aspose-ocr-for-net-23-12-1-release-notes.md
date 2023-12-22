@@ -1,20 +1,24 @@
 ---
-id: "aspose-ocr-for-net-latest-release-notes"
-slug: "latest"
-weight: 1
 date: "2023-12-21"
+id: "aspose-ocr-for-net-23-12-1-release-notes"
+slug: "aspose-ocr-for-net-23-12-1-release-notes"
+linktitle: "Aspose.OCR for .NET 23.12.1 - Release Notes"
+title: "Aspose.OCR for .NET 23.12.1 - Release Notes"
 author: "Vladimir Lapin"
-type: docs
+weight: 10
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for .NET 23.12.1 (December 2023) release."
 type: "repository"
 layout: "release"
-title: Latest release
-linktitle: "Latest release"
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OCR for .NET.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OCR for .NET 23.12.1 - Release Notes"
 keywords:
-- latest
-- new
-- release
-- changelog
+- "2023"
+- "December"
+- "new"
+- "release"
+- "changelog"
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
