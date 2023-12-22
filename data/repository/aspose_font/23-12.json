@@ -3,7 +3,7 @@
   "artifactId" : "aspose-font",
   "id" : "23-12",
   "packageFiles" : [ {
-    "size" : "754 KB",
+    "size" : "753 KB",
     "name" : "aspose-font-23.12-javadoc.jar",
     "classifier" : "javadoc"
   }, {
@@ -13,7 +13,7 @@
     "size" : "394 bytes",
     "name" : "aspose-font-23.12.pom"
   } ],
-  "releasehDate" : "2023-12-22T02:54:19+00:00",
+  "releasehDate" : "2023-12-22T03:13:08+00:00",
   "version" : "23.12",
   "ReleaseNotes" : "https://releases.aspose.com/font/java/release-notes/2023/aspose-font-for-java-23-12-release-notes/"
 }
