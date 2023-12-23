@@ -20,10 +20,10 @@ This page contains release notes information for [Aspose.BarCode for Java 23.11]
 {{% /alert %}}
 ## **All Changes**
 
-|**Key**| **Summary**                                                       |**Category**|
-| :- |:------------------------------------------------------------------| :- |
-|BARCODENET-38674|Add GS1MicroPdf417 with special GS1 modes|Enhancement|
-|BARCODENET-38674|Add reading GS1MicroPdf417 with special GS1 modes|Enhancement|
+|**Key**|**Summary**|**Category**|
+| :- | :- | :- |
+|BARCODENET-38674| Add GS1MicroPdf417 with special GS1 modes         |Enhancement|
+|BARCODENET-38674| Add reading GS1MicroPdf417 with special GS1 modes |Enhancement|
 
 ## Public API changes and backwards compatibility
 
