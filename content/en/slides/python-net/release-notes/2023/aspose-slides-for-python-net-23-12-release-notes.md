@@ -19,9 +19,9 @@ This page contains release notes for [Aspose.Slides for Python via .NET 23.12](h
 ## New Features and Enhancements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
-|SLIDESNET-44313|3x Increase in the Runtime after Updating Aspose.Slides for .NET from 23.8|Enhancement|<https://docs.aspose.com/slides/net/create-shape-thumbnails/>|
-|SLIDESNET-44251|wk: Add "Delete cropped areas of picture" feature in Picture Format|Feature|<https://docs.aspose.com/slides/net/picture-frame/>|
-|SLIDESNET-44262|Image quality is low when converting the presentation to PDF|Enhancement|<https://docs.aspose.com/slides/net/conversion-to-pdf/>|
+|SLIDESNET-44313|3x Increase in the Runtime after Updating Aspose.Slides for .NET from 23.8|Enhancement|<https://docs.aspose.com/slides/python-net/create-shape-thumbnails/>|
+|SLIDESNET-44251|wk: Add "Delete cropped areas of picture" feature in Picture Format|Feature|<https://docs.aspose.com/slides/python-net/picture-frame/>|
+|SLIDESNET-44262|Image quality is low when converting the presentation to PDF|Enhancement|<https://docs.aspose.com/slides/python-net/conversion-to-pdf/>|
 |SLIDESNET-43525|Implement "Mark as decorative" settings|Feature||
 |SLIDESNET-43933|Converting presentations to TIFF images as handouts|Feature||
 |SLIDESNET-44240|Images cannot be selected in an output PDF document|Enhancement|<https://docs.aspose.com/slides/net/conversion-to-pdf/>|
