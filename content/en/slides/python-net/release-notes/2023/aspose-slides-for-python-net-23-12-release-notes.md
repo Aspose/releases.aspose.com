@@ -31,6 +31,12 @@ This page contains release notes for [Aspose.Slides for Python via .NET 23.12](h
 | :- | :- | :- | :- |
 |SLIDESPYNET-146|Use Aspose.Slides for .Net 23.12 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-12-release-notes/>|
 
+## Apple Silicon M1/M2 Support
+
+We are pleased to announce the release of the ARM64 edition of Aspose.Slides for Python for macOS, specifically optimized for the innovative Apple Silicon platform. This architecture fuels the performance and efficiency of all modern Apple computers, showcasing exceptional capabilities.
+
+Aspose.Slides for Python on macOS ARM64 offers the same features as Aspose.Slides for Python on Windows (they share the same documentation and API reference). For more information on Aspose.Slides capabilities, see Features Overview.
+
 ## Public API Changes
 
 ### Handout Presentation export layout mode added
