@@ -10,11 +10,11 @@ layout: "release"
 family_listing_page_title: "Aspose.Slides for Python 23.12 Release Notes"
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes for [Aspose.Slides for Python via .NET 23.12](https://pypi.org/project/Aspose.Slides/23.12/)
 
-{{% /alert %}} 
+{{% /alert %}}
 
 ## New Features and Enhancements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
@@ -101,9 +101,9 @@ with Presentation("pres.pptx") as pres:
     pres.save("pres.pdf", SaveFormat.PDF, options)
 ```
 
-### PictureFillFormat.delete_picture_cropped_areas() method has been added
+### IPictureFillFormat.delete_picture_cropped_areas() method has been added
 
-The `PictureFillFormat.delete_picture_cropped_areas()` method allows the cropped areas of the fill Picture:
+The `IPictureFillFormat.delete_picture_cropped_areas()` method allows the cropped areas of the fill Picture:
 
 ```py
 with Presentation("demo.pptx") as presentation:
