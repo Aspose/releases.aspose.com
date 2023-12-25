@@ -1,0 +1,51 @@
+---
+
+title: "Unduhan --- rilis baru-aspose.imaging-for-python-via-.net-23.12, -windows-amd64"
+description: " "
+keywords: ""
+page_type: single_release_page
+folder_link: "/imaging/python-net/new-releases/aspose.imaging-for-python-via-.net-23.12,-windows-amd64/"
+folder_name: "Aspose.Imaging untuk Python via .NET 23.12, Windows AMD64"
+download_link: "/imaging/python-net/new-releases/aspose.imaging-for-python-via-.net-23.12,-windows-amd64/74792b14e23394e3583b434d78ecc5f5-13-10054"
+download_text: "Unduh"
+intro_text: "Ini berisi Aspose.Words untuk Python melalui .NET 23.12, rilis Windows AMD X64."
+image_link: "/resources/img/random-file-icon.png"
+download_count: " 25/12/2023 Unduhs: 1  Views: 1 "
+file_size: "File Size: 61.69MB"
+parent_path: "imaging/python-net"
+section_parent_path: "imaging/python-net"
+
+tags: ""
+release_notes_url: "https://releases.aspose.com/imaging/python-net/release-notes/2023/aspose-imaging-for-python-net-23-12-release-notes/"
+weight: 12
+
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Imaging untuk Python via .NET 23.12, Windows AMD64" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text="Unduh" link="/imaging/python-net/new-releases/aspose.imaging-for-python-via-.net-23.12,-windows-amd64/74792b14e23394e3583b434d78ecc5f5-13-10054" >}}
+    {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/imaging" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="Detail File">}}
+    {{< Releases/ReleasesDetailsUl >}}
+      {{< Common/li >}} Unduhs: {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-74792b14e23394e3583b434d78ecc5f5-13-10054" >}} 1 {{< /Common/li >}}
+      {{< Common/li >}} Ukuran file: {{< /Common/li >}}
+      {{< Common/li id="size-update-74792b14e23394e3583b434d78ecc5f5-13-10054" >}} 61.69MB {{< /Common/li >}}
+
+      {{< Common/li >}} Tanggal Ditambahkan: {{< /Common/li >}}
+      {{< Common/li id="added-update-74792b14e23394e3583b434d78ecc5f5-13-10054" >}}25/12/2023 {{< /Common/li >}}
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/imaging/python-net/release-notes/2023/aspose-imaging-for-python-net-23-12-release-notes/'>https://releases.aspose.com/imaging/python-net/release-notes/2023/aspose-imaging-for-python-net-23-12-release-notes/</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi Aspose.Words untuk Python melalui .NET 23.12, rilis Windows AMD X64.</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+
