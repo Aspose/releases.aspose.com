@@ -211,15 +211,15 @@ This use case explains how to work with theme colors and tint and shade::
 
 Related issue: WORDSNET-25650 and WORDSNET-16553
 
-Previously, when **ExportListLabels.ByHtmlTags** value was specified for **HtmlSaveOptions.ExportListLabels** save option, some lists could nevertheless be exported as inline text using <p> tags.
+Previously, when **ExportListLabels.ByHtmlTags** value was specified for **HtmlSaveOptions.ExportListLabels** save option, some lists could nevertheless be exported as inline text using 'p' tags.
 
-Now, when **ExportListLabels.ByHtmlTags** value is specified for **HtmlSaveOptions.ExportListLabels** save option, all lists are exported as HTML native elements using <ul>, <ol> and <li> tags.
+Now, when **ExportListLabels.ByHtmlTags** value is specified for **HtmlSaveOptions.ExportListLabels** save option, all lists are exported as HTML native elements using 'ul', 'ol' and 'li' tags.
 
 Some moments worth mentioning regarding new behavior when **ExportListLabels.ByHtmlTags** value is specified for **HtmlSaveOptions.ExportListLabels** save option:
 
-Previously lists with Heading styles were exported as inline text using <h1>, <h2>, <h3>, <h4>, <h5> and <h6> tags. Now they are exported as HTML native elements using <ul>, <ol> and <li> tags and their styles won't be preserved after DOCX->HTML->DOCX round-trip.
+Previously lists with Heading styles were exported as inline text using 'h1', 'h2', 'h3', 'h4', 'h5' and 'h6' tags. Now they are exported as HTML native elements using 'ul', 'ol' and 'li' tags and their styles won't be preserved after DOCX->HTML->DOCX round-trip.
 
-Previously lists with delete revision were exported as inline text using <p> tags. Now they are exported as HTML native elements using <ul>, <ol> and <li> tags and some decrease in the quality of such lists is possible.
+Previously lists with delete revision were exported as inline text using 'p' tags. Now they are exported as HTML native elements using 'ul', 'ol' and 'li' tags and some decrease in the quality of such lists is possible.
 
 When a document is exported to MHTML, strikethrough and underline formatting is no longer applied to list markers.
 If these changes in behavior are critical, you can use **ExportListLabels.Auto** value instead of **ExportListLabels.ByHtmlTags** value for **HtmlSaveOptions.ExportListLabels** save option, because previously their behavior was quite the same.
