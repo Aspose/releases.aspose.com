@@ -166,7 +166,7 @@ public string Text {get; set;}
 **Use Case**
 
 This use case explains how to change text of the TextBox OLE control:
-{{< gist "aspose-words-gists" "b76afd1e8de5b8e496ce15bf05824d7593064299" "text-box-ole-control.cs" >}}
+{{< gist "aspose-words-gists" "eeeec1fbf118e95e7df3f346c91ed726" "text-box-ole-control.cs" >}}
 {{% /alert %}}
 
 ### Added new public properties for working with stroke colors
@@ -202,9 +202,9 @@ public double BackTintAndShade { get; set; }
 {{% alert color="secondary" %}}
 **Use Case**
 
-This use case explains how to work with theme colors and tint and shade::
-{{< gist "aspose-words-gists" "b76afd1e8de5b8e496ce15bf05824d7593064299" "stroke-fore-theme-colors.cs" >}}
-{{< gist "aspose-words-gists" "b76afd1e8de5b8e496ce15bf05824d7593064299" "stroke-back-theme-colors.cs" >}}
+This use case explains how to work with theme colors and tint and shade:
+{{< gist "aspose-words-gists" "eeeec1fbf118e95e7df3f346c91ed726" "stroke-fore-theme-colors.cs" >}}
+{{< gist "aspose-words-gists" "eeeec1fbf118e95e7df3f346c91ed726" "stroke-back-theme-colors.cs" >}}
 {{% /alert %}}
 
 ### Behavior of HtmlSaveOptions.ExportListLabels save option is changed
@@ -775,7 +775,7 @@ public enum SourceType
 **Use Case**
 
 This use case explains how use **Document.Bibliography**:
-{{< gist "aspose-words-gists" "b76afd1e8de5b8e496ce15bf05824d7593064299" "bibliography-sources.cs" >}}
+{{< gist "aspose-words-gists" "eeeec1fbf118e95e7df3f346c91ed726" "bibliography-sources.cs" >}}
 {{% /alert %}}
 
 ### Implemented new public property MarkdownSaveOptions.ExportUnderlineFormatting
@@ -796,7 +796,7 @@ public bool ExportUnderlineFormatting { get; set; }
 **Use Case**
 
 This use case explains how to export underline formatting into Markdown:
-{{< gist "aspose-words-gists" "b76afd1e8de5b8e496ce15bf05824d7593064299" "export-underline-formatting.cs" >}}
+{{< gist "aspose-words-gists" "eeeec1fbf118e95e7df3f346c91ed726" "export-underline-formatting.cs" >}}
 {{% /alert %}}
 
 ### Provided API to restrict access to type members through template syntax for LINQ Reporting Engine
@@ -817,7 +817,7 @@ This feature is intended to improve security of the engine by forbidding access 
 **Use Case**
 
 This use case explains how to set restrict access to members of particular types through template syntax for LINQ Reporting Engine:
-{{< gist "aspose-words-gists" "b76afd1e8de5b8e496ce15bf05824d7593064299" "restricted-types.cs" >}}
+{{< gist "aspose-words-gists" "eeeec1fbf118e95e7df3f346c91ed726" "restricted-types.cs" >}}
 {{% /alert %}}
 
 For more information on the feature, please refer to ReportingEngine API reference and LINQ Reporting Engine documentation.
