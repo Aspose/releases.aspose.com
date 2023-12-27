@@ -805,11 +805,13 @@ Related issues: WORDSNET-25949, WORDSNET-23863
 
 Starting from Aspose.Words 24.1, you can restrict access to members of particular types through template syntax for LINQ Reporting Engine as follows:
 
+{{< highlight csharp >}}
 [C#]
 ReportingEngine.SetRestrictedTypes(typeof(SomeClass1), typeof(SomeClass2));
 
 [Java]
 ReportingEngine.setRestrictedTypes(SomeClass1.class, SomeClass2.class);
+{{< /highlight >}}
 
 This feature is intended to improve security of the engine by forbidding access to members of types considered insecure. 
 
