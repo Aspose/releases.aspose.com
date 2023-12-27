@@ -159,3 +159,4 @@ rewrite ^/(.*)/tags/\.{1}(.*)$ https://releases.aspose.com/$1/tags/$2 permanent;
 rewrite ^/tags/(.*)%20(.*)$ https://releases.aspose.com/tags/$1$2 permanent;
 rewrite ^/(.*)/tags/(.*)%20(.*)$ https://releases.aspose.com/$1/tags/$2$3 permanent;
 rewrite /(.*)/3d/nodejs-java/new-releases/(.*)aspose.3d-for-node.js-via-java-23.12/$ https://releases.aspose.com/3d/nodejs-java/new-releases/aspose.3d-for-node.js-via-java-23.12/ permanent;
+rewrite ^/pt/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.0-macos-x86/$ https://releases.aspose.com/pt/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.10.1-macos-x86-64/ permanent;
