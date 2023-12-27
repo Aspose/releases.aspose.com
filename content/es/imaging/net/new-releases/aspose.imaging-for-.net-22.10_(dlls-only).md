@@ -14,7 +14,7 @@ download_count: " 3/10/2022 Descargars: 1  Views: 1 "
 file_size: "File Size: 41.33MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
-release_notes_url: "https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-10-release-notes/"
 weight: 349
 
 ---
@@ -38,7 +38,7 @@ weight: 349
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-10-release-notes/'>https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-10-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-10-release-notes/'>https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Contiene aspose. Iimagen para la versión .NET 22.10 (solo DLLS).</div>

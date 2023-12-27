@@ -16,7 +16,7 @@ parent_path: "imaging/net"
 section_parent_path: "imaging/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-9-release-notes/"
 weight: 368
 
 ---
@@ -40,7 +40,7 @@ weight: 368
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-9-release-notes/'>https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-9-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-9-release-notes/'>https://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει aspose.imaging για .NET 23.9 (μόνο dlls) απελευθέρωση.</div>

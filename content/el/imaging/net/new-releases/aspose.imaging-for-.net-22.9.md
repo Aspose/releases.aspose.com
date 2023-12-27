@@ -14,7 +14,7 @@ file_size: "File Size: 43.59MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
 
-release_notes_url: "https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-9-release-notes/"
 weight: 346
 ---
 
@@ -38,7 +38,7 @@ weight: 346
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Σημειώσεις έκδοσης</h4><div> <a href='https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-9-release-notes/'>https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-9-release-notes/</a></div>
+<h4>Σημειώσεις έκδοσης</h4><div> <a href='https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-9-release-notes/'>https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-9-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesFileFeatures >}}
@@ -94,7 +94,7 @@ using (Image image = Image.Load(inputFile))
 }
 ```
 
-Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Imaging for .NET 22.9 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-9-release-notes/).
+Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Imaging for .NET 22.9 - Release notes](https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

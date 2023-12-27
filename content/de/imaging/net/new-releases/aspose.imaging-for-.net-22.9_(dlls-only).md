@@ -14,7 +14,7 @@ download_count: " 2/9/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 41.03MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
-release_notes_url: "https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-9-release-notes/"
 weight: 347
 
 ---
@@ -38,7 +38,7 @@ weight: 347
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-9-release-notes/'>https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-9-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-9-release-notes/'>https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Es enthält die Version Aspose.Imaging für .NET 22.9 (nur Dlls).</div>

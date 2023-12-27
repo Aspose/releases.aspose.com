@@ -14,7 +14,7 @@ download_count: " 7/7/2022 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 40.94MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
-release_notes_url: "https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-7-release-notes/"
 weight: 343
 
 ---
@@ -38,7 +38,7 @@ weight: 343
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-7-release-notes/'>https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-7-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-7-release-notes/'>https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Il contient ASPOSE.IMAGIER pour .NET 22.7 (DLLS uniquement).</div>

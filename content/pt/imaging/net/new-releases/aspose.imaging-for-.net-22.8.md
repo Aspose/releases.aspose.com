@@ -14,7 +14,7 @@ file_size: "File Size: 43.51MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
 
-release_notes_url: "https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-8-release-notes/"
 weight: 344
 ---
 
@@ -38,7 +38,7 @@ weight: 344
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Notas de lançamento</h4><div> <a href='https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-8-release-notes/'>https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-8-release-notes/</a></div>
+<h4>Notas de lançamento</h4><div> <a href='https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-8-release-notes/'>https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesFileFeatures >}}
@@ -100,7 +100,7 @@ using (var image = Image.Load("image.wmz"))
     image.Save("result.png", options);
 }
 ```
-Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Imaging for .NET 22.8 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-8-release-notes/).
+Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Imaging for .NET 22.8 - Release notes](https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-8-release-notes/).
 
 {{% Releases/ReleasesFileFeatures %}}
 

@@ -14,7 +14,7 @@ download_count: " 30/3/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 55.15MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
-release_notes_url: "https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-3-release-notes/"
 weight: 356
 
 ---
@@ -38,7 +38,7 @@ weight: 356
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-3-release-notes/'>https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-3-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-3-release-notes/'>https://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Ele contém asposições.imação para .NET 23.3 Release.</div>

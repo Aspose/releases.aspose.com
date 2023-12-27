@@ -39,7 +39,7 @@ weight: 268
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/imagingnet/Aspose.Imaging+for+.NET+19.1+-+Release+Notes">https://docs.aspose.com/display/imagingnet/Aspose.Imaging+for+.NET+19.1+-+Release+Hinweise</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/imaging/net/release-notes/2019/aspose-imaging-for-net-19-1-release-notes/">https://docs.aspose.com/display/imagingnet/Aspose.Imaging+for+.NET+19.1+-+Release+Hinweise</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

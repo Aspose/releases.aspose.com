@@ -14,7 +14,7 @@ download_count: " 25/5/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 59.48MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
-release_notes_url: "https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-5-release-notes/"
 weight: 361
 
 ---
@@ -38,7 +38,7 @@ weight: 361
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-5-release-notes/'>https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-5-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-5-release-notes/'>https://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">.NET 23.5 (Yalnızca DLLS) Sürüm için ASPOS.IMAGING içerir.</div>

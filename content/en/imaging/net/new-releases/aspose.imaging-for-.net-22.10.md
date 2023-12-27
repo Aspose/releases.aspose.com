@@ -14,7 +14,7 @@ file_size: "File Size: 43.89MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
 
-release_notes_url: "https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-10-release-notes/"
 weight: 348
 ---
 
@@ -37,7 +37,7 @@ weight: 348
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Release Notes</h4><div><a href='https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-10-release-notes/'>https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-10-release-notes/</a></div>
+<h4>Release Notes</h4><div><a href='https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-10-release-notes/'>https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-10-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -88,7 +88,7 @@ using (Image image = Image.Load("input.dng", new DngLoadOptions() { AdjustWhiteB
 }
 ```
 
-For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Imaging for .NET 22.10 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-10-release-notes/).
+For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Imaging for .NET 22.10 - Release notes](https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-10-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

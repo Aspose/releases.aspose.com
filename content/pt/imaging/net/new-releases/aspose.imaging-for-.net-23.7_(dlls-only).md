@@ -14,7 +14,7 @@ download_count: " 31/7/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 44.87MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
-release_notes_url: "https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-7-release-notes/"
 weight: 363
 
 ---
@@ -38,7 +38,7 @@ weight: 363
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-7-release-notes/'>https://docs.aspose.com/imaging/net/aspose-imaging-for-net-23-7-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-7-release-notes/'>https://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Ele contém aspositores.Imagem para .NET 23.7 (somente DLLS).</div>

@@ -13,7 +13,7 @@ download_count: " 7/7/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 43.5MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
-release_notes_url: "https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-7-release-notes/"
 weight: 342
 ---
 
@@ -36,7 +36,7 @@ weight: 342
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href='https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-7-release-notes/'>https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-7-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href='https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-7-release-notes/'>https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesFileFeatures >}}
@@ -81,7 +81,7 @@ using (var image = Image.Load("3_a_1_2.eps"))
 
 Aspose.Imaging の `NET6` 構成のサポートが追加されました。
 
-このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Imaging for .NET 22.7 - Release notes](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-7-release-notes/) にアクセスしてください。
+このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Imaging for .NET 22.7 - Release notes](https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-7-release-notes/) にアクセスしてください。
 
 {{% Releases/ReleasesFileFeatures %}}
 

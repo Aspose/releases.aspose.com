@@ -39,7 +39,7 @@ weight: 239
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/imagingnet/Aspose.Imaging+for+.NET+17.4+-+Release+notes">https://docs.aspose.com/display/imagingnet/Aspose.Imaging+for+.NET+17.4+-+Release+notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/imaging/net/release-notes/2017/aspose-imaging-for-net-17-4-release-notes/">https://releases.aspose.com/imaging/net/release-notes/2017/aspose-imaging-for-net-17-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -36,7 +36,7 @@ weight: 340
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-6-release-notes/'>https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-6-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-6-release-notes/'>https://releases.aspose.com/imaging/net/release-notes/2022/aspose-imaging-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含aspose.imaging .NET 22.6（仅DLLS）释放。</div>
