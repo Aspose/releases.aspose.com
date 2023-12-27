@@ -812,4 +812,12 @@ ReportingEngine.SetRestrictedTypes(typeof(SomeClass1), typeof(SomeClass2));
 ReportingEngine.setRestrictedTypes(SomeClass1.class, SomeClass2.class);
 
 This feature is intended to improve security of the engine by forbidding access to members of types considered insecure. 
+
+{{% alert color="secondary" %}}
+**Use Case**
+
+This use case explains how to set restrict access to members of particular types through template syntax for LINQ Reporting Engine:
+{{< gist "aspose-words-gists" "b76afd1e8de5b8e496ce15bf05824d7593064299" "restricted-types.cs" >}}
+{{% /alert %}}
+
 For more information on the feature, please refer to ReportingEngine API reference and LINQ Reporting Engine documentation.
