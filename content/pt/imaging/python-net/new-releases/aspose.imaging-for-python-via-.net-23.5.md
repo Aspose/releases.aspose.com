@@ -14,7 +14,7 @@ download_count: " 2/6/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 198.74MB"
 parent_path: "imaging/python-net"
 section_parent_path: "imaging/python-net"
-release_notes_url: "https://docs.aspose.com/imaging/python-net/aspose-imaging-for-python-net-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/imaging/python-net/release-notes/2023/aspose-imaging-for-python-net-23-5-release-notes/"
 weight: 1
 
 ---
@@ -38,7 +38,7 @@ weight: 1
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/imaging/python-net/aspose-imaging-for-python-net-23-5-release-notes/'>https://docs.aspose.com/imaging/python-net/aspose-imaging-for-python-net-23-5-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/imaging/python-net/release-notes/2023/aspose-imaging-for-python-net-23-5-release-notes/'>https://releases.aspose.com/imaging/python-net/release-notes/2023/aspose-imaging-for-python-net-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Ele contém asposições.</div>

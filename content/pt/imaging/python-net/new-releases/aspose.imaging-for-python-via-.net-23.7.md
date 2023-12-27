@@ -16,7 +16,7 @@ parent_path: "imaging/python-net"
 section_parent_path: "imaging/python-net"
 
 tags: ["png to pdf", "convert image", "create edit split bmp open tiff svg eps emf jpg gif dng merge wmf dicom jpeg2000 tga"]
-release_notes_url: "https://docs.aspose.com/imaging/python-net/aspose-imaging-for-python-net-23-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/imaging/python-net/release-notes/2023/aspose-imaging-for-python-net-23-7-release-notes/"
 weight: 2
 
 ---
@@ -40,7 +40,7 @@ weight: 2
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/imaging/python-net/aspose-imaging-for-python-net-23-7-release-notes/'>https://docs.aspose.com/imaging/python-net/aspose-imaging-for-python-net-23-7-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/imaging/python-net/release-notes/2023/aspose-imaging-for-python-net-23-7-release-notes/'>https://releases.aspose.com/imaging/python-net/release-notes/2023/aspose-imaging-for-python-net-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Ele contém asposições.imaging for python via .Net 23.7 Release.</div>
