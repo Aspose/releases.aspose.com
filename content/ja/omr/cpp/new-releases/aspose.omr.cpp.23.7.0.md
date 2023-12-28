@@ -16,7 +16,7 @@ parent_path: "omr/cpp"
 section_parent_path: "omr/cpp"
 
 tags: "23.7.0"
-release_notes_url: "https://docs.aspose.com/omr/cpp/aspose-omr-for-cpp-23-7-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/cpp/release-notes/2023/aspose-omr-for-cpp-23-7-0-release-notes/"
 weight: 1
 
 ---
@@ -40,7 +40,7 @@ weight: 1
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/omr/cpp/aspose-omr-for-cpp-23-7-0-release-notes/'>https://docs.aspose.com/omr/cpp/aspose-omr-for-cpp-23-7-0-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/omr/cpp/release-notes/2023/aspose-omr-for-cpp-23-7-0-release-notes/'>https://releases.aspose.com/omr/cpp/release-notes/2023/aspose-omr-for-cpp-23-7-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">生成されたOMRフォームのページサイズを指定する機能を追加しました。</div>

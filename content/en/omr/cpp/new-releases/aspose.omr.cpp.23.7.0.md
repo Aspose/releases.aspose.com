@@ -15,7 +15,7 @@ file_size: "File Size: 862.59KB"
 parent_path: "omr/cpp"
 section_parent_path: "omr/cpp"
 tags: ['Optical-Mark-Recognition', 'OMR', 'OMR-API', 'API', 'Component', 'Library', 'Windows', '.NET-Framework', 'Framework', 'OMR-Template', 'Answer-Sheet', 'Text-OMR', 'Answer-Sheet-OMR', 'Choide-Box-OMR', 'Grid-OMR', 'Image-OMR', 'Barcode-OMR', 'OMR-Text-Markup', 'OMR-to-PDF', 'Barcode-Recognition', 'OMR-Graphical-Control', 'OMR-to-CSV']
-release_notes_url: "https://docs.aspose.com/omr/cpp/aspose-omr-for-cpp-23-7-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/omr/cpp/release-notes/2023/aspose-omr-for-cpp-23-7-0-release-notes/"
 weight: 1
 
 ---
@@ -39,7 +39,7 @@ weight: 1
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/omr/cpp/aspose-omr-for-cpp-23-7-0-release-notes/'>https://docs.aspose.com/omr/cpp/aspose-omr-for-cpp-23-7-0-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/omr/cpp/release-notes/2023/aspose-omr-for-cpp-23-7-0-release-notes/'>https://releases.aspose.com/omr/cpp/release-notes/2023/aspose-omr-for-cpp-23-7-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Added the ability to specify the page size of a generated OMR form.</div>
