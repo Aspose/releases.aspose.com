@@ -39,7 +39,7 @@ weight: 28
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-22-3/">https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-22-3/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Aspose.BarCode für Python über Java 22.3 wurde veröffentlicht</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/barcode/python-java/release-notes/2022/aspose-barcode-for-python-via-java-22-3-release-notes/">https://releases.aspose.com/barcode/python-java/release-notes/2022/aspose-barcode-for-python-via-java-22-3-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Aspose.BarCode für Python über Java 22.3 wurde veröffentlicht</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

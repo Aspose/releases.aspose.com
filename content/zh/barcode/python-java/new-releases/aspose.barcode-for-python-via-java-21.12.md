@@ -39,7 +39,7 @@ weight: 25
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-21-12/">https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-21-12/</a></div><h4>描述</h4><div class="HTMLDescription">aspose.barcode for Python通过Java 21.12发布了</div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/barcode/python-java/release-notes/2021/aspose-barcode-for-python-via-java-21-12-release-notes/">https://releases.aspose.com/barcode/python-java/release-notes/2021/aspose-barcode-for-python-via-java-21-12-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">aspose.barcode for Python通过Java 21.12发布了</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

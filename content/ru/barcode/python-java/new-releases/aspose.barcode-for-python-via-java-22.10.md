@@ -16,7 +16,7 @@ parent_path: "barcode/python-java"
 section_parent_path: "barcode/python-java"
 
 tags: ["Barcode", "Python", "Java"]
-release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-22-10/"
+release_notes_url: "https://releases.aspose.com/barcode/python-java/release-notes/2022/aspose-barcode-for-python-via-java-22-10-release-notes/"
 weight: 34
 
 ---
@@ -40,7 +40,7 @@ weight: 34
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Примечания к выпуску</h4><div> <a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-22-10/'>https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-22-10/</a></div>
+      <h4>Примечания к выпуску</h4><div> <a href='https://releases.aspose.com/barcode/python-java/release-notes/2022/aspose-barcode-for-python-via-java-22-10-release-notes/'>https://releases.aspose.com/barcode/python-java/release-notes/2022/aspose-barcode-for-python-via-java-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription"> Выпущен Aspose.BarCode для Python через Java 22.10</div>

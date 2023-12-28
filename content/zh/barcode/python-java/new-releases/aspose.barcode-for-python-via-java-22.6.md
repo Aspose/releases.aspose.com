@@ -14,7 +14,7 @@ download_count: " 30/6/2022 下载s: 10  Views: 1 "
 file_size: "File Size: 11.62MB"
 parent_path: "barcode/python-java"
 section_parent_path: "barcode/python-java"
-release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-22-6/"
+release_notes_url: "https://releases.aspose.com/barcode/python-java/release-notes/2022/aspose-barcode-for-python-via-java-22-6-release-notes/"
 weight: 31
 
 ---
@@ -38,7 +38,7 @@ weight: 31
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-22-6/'>https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-22-6/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/barcode/python-java/release-notes/2022/aspose-barcode-for-python-via-java-22-6-release-notes/'>https://releases.aspose.com/barcode/python-java/release-notes/2022/aspose-barcode-for-python-via-java-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">aspose.barcode for Python通过Java 22.6发布了</div>

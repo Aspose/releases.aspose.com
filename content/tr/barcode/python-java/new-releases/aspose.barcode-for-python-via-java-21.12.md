@@ -39,7 +39,7 @@ weight: 25
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-21-12/">https://docs.aspose.com/barcode/java/aspose-barcode-for-python-via-java-21-12/</a></div><h4>Tanım</h4><div class="HTMLDescription">Java 21.12 üzerinden python için aspose.barcode yayınlandı</div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/barcode/python-java/release-notes/2021/aspose-barcode-for-python-via-java-21-12-release-notes/">https://releases.aspose.com/barcode/python-java/release-notes/2021/aspose-barcode-for-python-via-java-21-12-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">Java 21.12 üzerinden python için aspose.barcode yayınlandı</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
