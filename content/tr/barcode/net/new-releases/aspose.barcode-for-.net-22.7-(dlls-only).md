@@ -14,7 +14,7 @@ download_count: " 26/07/2022 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 15.37MB"
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-release_notes_url: "https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-7-release-notes/"
 weight: 556
 
 ---
@@ -38,7 +38,7 @@ weight: 556
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-7-release-notes/'>https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-7-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-7-release-notes/'>https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">.NET 22.7 (Yalnızca DLLS) sürüm için aspose.barcode içerir.</div>

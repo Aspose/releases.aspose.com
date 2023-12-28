@@ -39,7 +39,7 @@ weight: 393
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/barcodenet/Aspose.BarCode+for+.NET+7.9.0+Release+Notes">http://www.aspose.com/docs/display/barcodenet/Aspose.BarCode+for+.NET+7.9.0+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/barcode/net/release-notes/2016/aspose-barcode-for-net-7-9-0-release-notes/">https://releases.aspose.com/barcode/net/release-notes/2016/aspose-barcode-for-net-7-9-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

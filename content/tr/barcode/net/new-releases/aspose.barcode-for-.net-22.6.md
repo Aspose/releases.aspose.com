@@ -13,7 +13,7 @@ download_count: " 25/6/2022 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 15.32MB"
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-release_notes_url: "https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-6-release-notes/"
 weight: 553
 ---
 
@@ -36,7 +36,7 @@ weight: 553
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-6-release-notes/'>https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-6-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-6-release-notes/'>https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">.NET 22.6 sürümü için aspose.barcode içerir.</div>
@@ -59,7 +59,7 @@ BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.Code128, "12345678");
 gen.Save($"{path}VectorImageSvg.svg", BarCodeImageFormat.Svg);
 ```
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.BarCode for .NET 22.6 Sürüm notları](https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-6-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.BarCode for .NET 22.6 Sürüm notları](https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

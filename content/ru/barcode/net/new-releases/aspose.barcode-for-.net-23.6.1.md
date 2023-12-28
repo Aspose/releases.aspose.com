@@ -14,7 +14,7 @@ download_count: " 9/8/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 13.33MB"
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-release_notes_url: "https://docs.aspose.com/barcode/net/aspose-barcode-for-net-23-6-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/net/release-notes/2023/aspose-barcode-for-net-23-6-1-release-notes/"
 weight: 582
 
 ---
@@ -38,7 +38,7 @@ weight: 582
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/barcode/net/aspose-barcode-for-net-23-6-1-release-notes/'>https://docs.aspose.com/barcode/net/aspose-barcode-for-net-23-6-1-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/barcode/net/release-notes/2023/aspose-barcode-for-net-23-6-1-release-notes/'>https://releases.aspose.com/barcode/net/release-notes/2023/aspose-barcode-for-net-23-6-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.barcode для .NET 23.6.1.</div>

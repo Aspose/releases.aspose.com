@@ -39,7 +39,7 @@ weight: 401
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href="http://www.aspose.com/docs/display/barcodenet/Aspose.BarCode+for+.NET+8.2.1+Release+Notes">http://www.aspose.com/docs/display/barcodenet/Aspose.BarCode+for+.NET+8.2.1+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div><a href="https://releases.aspose.com/barcode/net/release-notes/2016/aspose-barcode-for-net-8-2-1-release-notes/">https://releases.aspose.com/barcode/net/release-notes/2016/aspose-barcode-for-net-8-2-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

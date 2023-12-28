@@ -14,7 +14,7 @@ download_count: " 21/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 11.64MB"
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-release_notes_url: "https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-10-release-notes/"
 weight: 561
 
 ---
@@ -38,7 +38,7 @@ weight: 561
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-10-release-notes/'>https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-10-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-10-release-notes/'>https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 22.10 release.</div>

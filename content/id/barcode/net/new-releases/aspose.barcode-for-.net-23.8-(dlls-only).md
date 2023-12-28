@@ -14,7 +14,7 @@ download_count: " 23/8/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 13.5MB"
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-release_notes_url: "https://docs.aspose.com/barcode/net/aspose-barcode-for-net-23-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/net/release-notes/2023/aspose-barcode-for-net-23-8-release-notes/"
 weight: 584
 tags: ['1D-Barcode', '2D-Barcode', 'Alpha-numeric-Barcodes', 'Barcode-API', 'Barcode-symbologies']
 ---
@@ -38,7 +38,7 @@ tags: ['1D-Barcode', '2D-Barcode', 'Alpha-numeric-Barcodes', 'Barcode-API', 'Bar
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/barcode/net/aspose-barcode-for-net-23-8-release-notes/'>https://docs.aspose.com/barcode/net/aspose-barcode-for-net-23-8-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/barcode/net/release-notes/2023/aspose-barcode-for-net-23-8-release-notes/'>https://releases.aspose.com/barcode/net/release-notes/2023/aspose-barcode-for-net-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.barcode untuk .NET 23.8 (hanya DLLS) rilis.</div>

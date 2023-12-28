@@ -39,7 +39,7 @@ weight: 542
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-1-release-notes/">https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-1-release-notes/</a></div><h4>Description</h4>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-1-release-notes/">https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-1-release-notes/</a></div><h4>Description</h4>
       
       <div class="HTMLDescription">It contains Aspose.BarCode for .NET 22.1 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
@@ -64,7 +64,7 @@ gen.Parameters.Barcode.Pdf417.Pdf417Truncate = true;
 gen.Save($"{path}CompactPdf417Basic.png", BarCodeImageFormat.Png);
 ```
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.BarCode for .NET 22.1 Release Notes](https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-1-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.BarCode for .NET 22.1 Release Notes](https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

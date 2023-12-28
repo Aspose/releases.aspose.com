@@ -16,7 +16,7 @@ parent_path: "barcode/net"
 section_parent_path: "barcode/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/barcode/net/aspose-barcode-for-net-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/net/release-notes/2023/aspose-barcode-for-net-23-9-release-notes/"
 weight: 586
 
 ---
@@ -40,7 +40,7 @@ weight: 586
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/barcode/net/aspose-barcode-for-net-23-9-release-notes/'>https://docs.aspose.com/barcode/net/aspose-barcode-for-net-23-9-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/barcode/net/release-notes/2023/aspose-barcode-for-net-23-9-release-notes/'>https://releases.aspose.com/barcode/net/release-notes/2023/aspose-barcode-for-net-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Contiene aspose.barcode para la versión .NET 23.9.</div>

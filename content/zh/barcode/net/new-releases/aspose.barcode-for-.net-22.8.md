@@ -14,7 +14,7 @@ file_size: "File Size: 11.52MB"
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
 
-release_notes_url: "https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-8-release-notes/"
 weight: 559
 ---
 
@@ -37,7 +37,7 @@ weight: 559
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-8-release-notes/'>https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-8-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-8-release-notes/'>https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含aspose.barcode的.NET 22.8释放。</div>
@@ -59,7 +59,7 @@ The following obsolete framework versions were also removed:
 - .NET 4.0 Client
 - .NET 4.5
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.BarCode for .NET 22.8 发行说明](https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-8-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.BarCode for .NET 22.8 发行说明](https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -35,7 +35,7 @@ weight: 549
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-4-release-notes/">https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-4-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">.NET 22.4 (Yalnızca DLLS) sürüm için aspose.barcode içerir.</div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-4-release-notes/">https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-4-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">.NET 22.4 (Yalnızca DLLS) sürüm için aspose.barcode içerir.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

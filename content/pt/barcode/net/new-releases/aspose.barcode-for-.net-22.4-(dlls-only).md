@@ -35,7 +35,7 @@ weight: 549
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href="https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-4-release-notes/">https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-4-release-notes/</a></div><h4>Descrição</h4><div class="HTMLDescription">Ele contém aspose.Barcode para .NET 22.4 (somente DLLS).</div>
+      <h4>Notas de liberação</h4><div><a href="https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-4-release-notes/">https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-4-release-notes/</a></div><h4>Descrição</h4><div class="HTMLDescription">Ele contém aspose.Barcode para .NET 22.4 (somente DLLS).</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

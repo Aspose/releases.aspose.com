@@ -35,7 +35,7 @@ weight: 548
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-4-release-notes/">https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-4-release-notes/</a></div><h4>Description</h4>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-4-release-notes/">https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-4-release-notes/</a></div><h4>Description</h4>
       <div class="HTMLDescription">It contains Aspose.BarCode for .NET 22.4 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
@@ -48,7 +48,7 @@ weight: 548
 
 Previously in some instances the Big QR code was not being recognized with small geometric distortions. This issue has now been resolved.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.BarCode for .NET 22.4 Release Notes](https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-4-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.BarCode for .NET 22.4 Release Notes](https://releases.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

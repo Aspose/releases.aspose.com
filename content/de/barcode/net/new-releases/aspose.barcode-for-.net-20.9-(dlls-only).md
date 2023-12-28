@@ -39,7 +39,7 @@ weight: 509
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/barcode/net/aspose-barcode-for-net-20-9-release-notes/">https://docs.aspose.com/barcode/net/aspose-barcode-for-net-20-9-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.BarCode für die Version .NET 20.9 (nur DLLs).</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/barcode/net/release-notes/2020/aspose-barcode-for-net-20-9-release-notes/">https://releases.aspose.com/barcode/net/release-notes/2020/aspose-barcode-for-net-20-9-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.BarCode für die Version .NET 20.9 (nur DLLs).</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

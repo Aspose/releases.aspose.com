@@ -39,7 +39,7 @@ weight: 535
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/barcode/net/aspose-barcode-for-net-21-10-release-notes/">https://docs.aspose.com/barcode/net/aspose-barcode-for-net-21-10-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 21.10 (DLLs Only) release.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/barcode/net/release-notes/2021/aspose-barcode-for-net-21-10-release-notes/">https://releases.aspose.com/barcode/net/release-notes/2021/aspose-barcode-for-net-21-10-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 21.10 (DLLs Only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

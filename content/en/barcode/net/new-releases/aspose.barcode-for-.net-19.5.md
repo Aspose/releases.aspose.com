@@ -39,7 +39,7 @@ weight: 476
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/barcodenet/Aspose.BarCode+for+.NET+19.5+Release+Notes">https://docs.aspose.com/display/barcodenet/Aspose.BarCode+for+.NET+19.5+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 19.5 release.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/barcode/net/release-notes/2019/aspose-barcode-for-net-19-5-release-notes/">https://releases.aspose.com/barcode/net/release-notes/2019/aspose-barcode-for-net-19-5-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 19.5 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
