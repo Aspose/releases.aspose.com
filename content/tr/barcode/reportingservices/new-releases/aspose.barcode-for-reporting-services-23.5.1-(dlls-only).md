@@ -14,7 +14,7 @@ download_count: " 9/8/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 11.23MB"
 parent_path: "barcode/reportingservices"
 section_parent_path: "barcode/reportingservices"
-release_notes_url: "https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-23-5-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/reportingservices/release-notes/2023/aspose-barcode-for-reporting-services-23-5-1-release-notes/"
 weight: 321
 
 ---
@@ -38,7 +38,7 @@ weight: 321
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-23-5-1-release-notes/'>https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-23-5-1-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/barcode/reportingservices/release-notes/2023/aspose-barcode-for-reporting-services-23-5-1-release-notes/'>https://releases.aspose.com/barcode/reportingservices/release-notes/2023/aspose-barcode-for-reporting-services-23-5-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">23.5.1 (Yalnızca DLLS) Raporlama Hizmetleri için ASPOS.BARCODE içerir.</div>

@@ -39,7 +39,7 @@ weight: 302
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-21-6-release-notes/">https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-21-6-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">レポートサービス21.6（DLLSのみ）リリース用のAsopsion.Barcodeが含まれています。</div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/barcode/reportingservices/release-notes/2021/aspose-barcode-for-reporting-services-21-6-release-notes/">https://releases.aspose.com/barcode/reportingservices/release-notes/2021/aspose-barcode-for-reporting-services-21-6-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">レポートサービス21.6（DLLSのみ）リリース用のAsopsion.Barcodeが含まれています。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -39,7 +39,7 @@ weight: 257
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/barcodereportingservices/Aspose.BarCode+for+Reporting+Services+17.10+Release+Notes">https://docs.aspose.com/display/barcodereportingservices/Aspose.BarCode+for+Reporting+Services+17.10+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält die Version Aspose.BarCode for Reporting Services 17.10 (nur DLLs).</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/barcode/reportingservices/release-notes/2017/aspose-barcode-for-reporting-services-17-10-release-notes/">https://releases.aspose.com/barcode/reportingservices/release-notes/2017/aspose-barcode-for-reporting-services-17-10-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält die Version Aspose.BarCode for Reporting Services 17.10 (nur DLLs).</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

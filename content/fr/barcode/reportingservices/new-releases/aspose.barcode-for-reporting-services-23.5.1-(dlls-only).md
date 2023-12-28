@@ -14,7 +14,7 @@ download_count: " 9/8/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 11.23MB"
 parent_path: "barcode/reportingservices"
 section_parent_path: "barcode/reportingservices"
-release_notes_url: "https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-23-5-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/reportingservices/release-notes/2023/aspose-barcode-for-reporting-services-23-5-1-release-notes/"
 weight: 321
 
 ---
@@ -38,7 +38,7 @@ weight: 321
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-23-5-1-release-notes/'>https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-23-5-1-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/barcode/reportingservices/release-notes/2023/aspose-barcode-for-reporting-services-23-5-1-release-notes/'>https://releases.aspose.com/barcode/reportingservices/release-notes/2023/aspose-barcode-for-reporting-services-23-5-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Il contient ASPOSE.BARCODE POUR LE RAPPORT DE SERVICES 23.5.1 (DLLS UNIQUEMENT).</div>

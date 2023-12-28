@@ -39,7 +39,7 @@ weight: 304
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-21-7-release-notes/">https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-21-7-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">21.7 (Yalnızca DLLS) Raporlama Hizmetleri için ASPOS.BARCODE içerir.</div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/barcode/reportingservices/release-notes/2021/aspose-barcode-for-reporting-services-21-7-release-notes/">https://releases.aspose.com/barcode/reportingservices/release-notes/2021/aspose-barcode-for-reporting-services-21-7-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">21.7 (Yalnızca DLLS) Raporlama Hizmetleri için ASPOS.BARCODE içerir.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

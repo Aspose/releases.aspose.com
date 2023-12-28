@@ -39,7 +39,7 @@ weight: 288
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/barcodereportingservices/Aspose.BarCode+for+Reporting+Services+19.8+Release+Notes">https://docs.aspose.com/display/barcodereportingservices/Aspose.BarCode+for+Reporting+Services+19.8+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält die Version Aspose.BarCode for Reporting Services 19.8 (nur DLLs).</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/barcode/reportingservices/release-notes/2019/aspose-barcode-for-reporting-services-19-8-release-notes/">https://releases.aspose.com/barcode/reportingservices/release-notes/2019/aspose-barcode-for-reporting-services-19-8-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält die Version Aspose.BarCode for Reporting Services 19.8 (nur DLLs).</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
