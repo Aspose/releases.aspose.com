@@ -3,7 +3,7 @@ id: "aspose-words-for-cpp-23-11-release-notes"
 slug: "aspose-words-for-cpp-23-11-release-notes"
 linktitle: "Aspose.Words for C++ 23.11 Release Notes"
 title: "Aspose.Words for C++ 23.11 Release Notes"
-weight: 30
+weight: 20
 description: "Aspose.Words for C++ 23.11 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
