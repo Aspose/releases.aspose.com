@@ -39,7 +39,7 @@ weight: 304
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-21-7-release-notes/">https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-21-7-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει ASPOSE.BARCODE για την αναφορά υπηρεσιών 21.7 (μόνο DLLS) Release.</div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/barcode/reportingservices/release-notes/2021/aspose-barcode-for-reporting-services-21-7-release-notes/">https://releases.aspose.com/barcode/reportingservices/release-notes/2021/aspose-barcode-for-reporting-services-21-7-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει ASPOSE.BARCODE για την αναφορά υπηρεσιών 21.7 (μόνο DLLS) Release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

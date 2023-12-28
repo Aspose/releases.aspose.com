@@ -39,7 +39,7 @@ weight: 301
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-21-5-release-notes/">https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-21-5-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">レポートサービス21.5リリースのためのAsoppes.Barcodeが含まれています。</div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/barcode/reportingservices/release-notes/2021/aspose-barcode-for-reporting-services-21-5-release-notes/">https://releases.aspose.com/barcode/reportingservices/release-notes/2021/aspose-barcode-for-reporting-services-21-5-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">レポートサービス21.5リリースのためのAsoppes.Barcodeが含まれています。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

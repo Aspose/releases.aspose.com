@@ -14,7 +14,7 @@ download_count: " 20/4/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 10.89MB"
 parent_path: "barcode/reportingservices"
 section_parent_path: "barcode/reportingservices"
-release_notes_url: "https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/reportingservices/release-notes/2023/aspose-barcode-for-reporting-services-23-4-release-notes/"
 weight: 315
 
 ---
@@ -38,7 +38,7 @@ weight: 315
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-23-4-release-notes/'>https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-23-4-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/reportingservices/release-notes/2023/aspose-barcode-for-reporting-services-23-4-release-notes/'>https://releases.aspose.com/barcode/reportingservices/release-notes/2023/aspose-barcode-for-reporting-services-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for Reporting Services 23.4 (DLLs Only) release.</div>

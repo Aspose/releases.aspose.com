@@ -39,7 +39,7 @@ weight: 290
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/barcodereportingservices/Aspose.BarCode+for+Reporting+Services+20.2+Release+Notes">https://docs.aspose.com/display/barcodereportingservices/Aspose.BarCode+for+Reporting+Services+20.2+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.BarCode für Reporting Services 20.2.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/barcode/reportingservices/release-notes/2020/aspose-barcode-for-reporting-services-20-2-release-notes/">https://releases.aspose.com/barcode/reportingservices/release-notes/2020/aspose-barcode-for-reporting-services-20-2-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.BarCode für Reporting Services 20.2.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

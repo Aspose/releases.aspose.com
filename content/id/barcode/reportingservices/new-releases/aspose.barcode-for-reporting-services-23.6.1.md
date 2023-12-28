@@ -14,7 +14,7 @@ download_count: " 9/8/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 11.64MB"
 parent_path: "barcode/reportingservices"
 section_parent_path: "barcode/reportingservices"
-release_notes_url: "https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-23-6-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/reportingservices/release-notes/2023/aspose-barcode-for-reporting-services-23-6-1-release-notes/"
 weight: 322
 
 ---
@@ -38,7 +38,7 @@ weight: 322
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-23-6-1-release-notes/'>https://docs.aspose.com/barcode/reportingservices/aspose-barcode-for-reporting-services-23-6-1-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/barcode/reportingservices/release-notes/2023/aspose-barcode-for-reporting-services-23-6-1-release-notes/'>https://releases.aspose.com/barcode/reportingservices/release-notes/2023/aspose-barcode-for-reporting-services-23-6-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.barcode untuk layanan pelaporan 23.6.1 rilis.</div>
