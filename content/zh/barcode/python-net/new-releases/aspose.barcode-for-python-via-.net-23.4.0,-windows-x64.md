@@ -14,7 +14,7 @@ download_count: " 16/6/2023 下载s: 1  Views: 1 "
 file_size: "File Size: 37.28MB"
 parent_path: "barcode/python-net"
 section_parent_path: "barcode/python-net"
-release_notes_url: "https://docs.aspose.com/barcode/python-net/aspose-barcode-for-python-via-dotnet-23-4/"
+release_notes_url: "https://releases.aspose.com/barcode/python-net/release-notes/2023/aspose-barcode-for-python-via-dotnet-23-4-release-notes/"
 weight: 6
 
 ---
@@ -38,7 +38,7 @@ weight: 6
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/barcode/python-net/aspose-barcode-for-python-via-dotnet-23-4/'>https://docs.aspose.com/barcode/python-net/aspose-barcode-for-python-via-dotnet-23-4/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/barcode/python-net/release-notes/2023/aspose-barcode-for-python-via-dotnet-23-4-release-notes/'>https://releases.aspose.com/barcode/python-net/release-notes/2023/aspose-barcode-for-python-via-dotnet-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含aspose.barcode for Python通过.NET 23.4.0，Windows X64版本。</div>
