@@ -16,7 +16,7 @@ parent_path: "barcode/nodejs"
 section_parent_path: "barcode/nodejs"
 
 tags: ["Barcode", "Node.js", "Java"]
-release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-23-4/"
+release_notes_url: "https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-4-release-notes/"
 weight: 51
 
 ---
@@ -40,7 +40,7 @@ weight: 51
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-23-4/'>https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-23-4/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-4-release-notes/'>https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.barcode for node.js μέσω Java 23.4 έχει κυκλοφορήσει</div>

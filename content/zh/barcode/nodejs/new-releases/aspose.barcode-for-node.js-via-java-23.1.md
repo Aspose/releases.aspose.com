@@ -16,7 +16,7 @@ parent_path: "barcode/nodejs"
 section_parent_path: "barcode/nodejs"
 
 tags: ["Barcode", "Node.js", "Java"]
-release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-23-1/"
+release_notes_url: "https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-1-release-notes/"
 weight: 48
 
 ---
@@ -40,7 +40,7 @@ weight: 48
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-23-1/'>https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-23-1/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-1-release-notes/'>https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">aspose.barcode for Node.js通过Java 23.1已发布</div>

@@ -39,7 +39,7 @@ weight: 38
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href="https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-22-3/">https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-22-3/</a></div><h4>Descrição</h4><div class="HTMLDescription">Aspose.Barcode para Node.js via Java 22.3 foi lançado</div>
+      <h4>Notas de liberação</h4><div><a href="https://releases.aspose.com/barcode/nodejs/release-notes/2022/aspose-barcode-for-node-js-via-java-22-3-release-notes/">https://releases.aspose.com/barcode/nodejs/release-notes/2022/aspose-barcode-for-node-js-via-java-22-3-release-notes/</a></div><h4>Descrição</h4><div class="HTMLDescription">Aspose.Barcode para Node.js via Java 22.3 foi lançado</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

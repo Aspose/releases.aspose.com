@@ -14,7 +14,7 @@ download_count: " 29/6/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 10.77MB"
 parent_path: "barcode/nodejs"
 section_parent_path: "barcode/nodejs"
-release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-22-6/"
+release_notes_url: "https://releases.aspose.com/barcode/nodejs/release-notes/2022/aspose-barcode-for-node-js-via-java-22-6-release-notes/"
 weight: 41
 
 ---
@@ -38,7 +38,7 @@ weight: 41
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-22-6/'>https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-22-6/</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/barcode/nodejs/release-notes/2022/aspose-barcode-for-node-js-via-java-22-6-release-notes/'>https://releases.aspose.com/barcode/nodejs/release-notes/2022/aspose-barcode-for-node-js-via-java-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Aspose.BarCode für Node.js über Java 22.6 wurde veröffentlicht</div>

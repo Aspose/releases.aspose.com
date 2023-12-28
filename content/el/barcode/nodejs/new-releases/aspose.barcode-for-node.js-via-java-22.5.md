@@ -15,7 +15,7 @@ file_size: "File Size: 10.74MB"
 parent_path: "barcode/nodejs"
 section_parent_path: "barcode/nodejs"
 
-release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-22-5/"
+release_notes_url: "https://releases.aspose.com/barcode/nodejs/release-notes/2022/aspose-barcode-for-node-js-via-java-22-5-release-notes/"
 weight: 40
 
 ---
@@ -39,7 +39,7 @@ weight: 40
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-22-5/'>https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-22-5/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/barcode/nodejs/release-notes/2022/aspose-barcode-for-node-js-via-java-22-5-release-notes/'>https://releases.aspose.com/barcode/nodejs/release-notes/2022/aspose-barcode-for-node-js-via-java-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.barcode for node.js μέσω Java 22.5 έχει κυκλοφορήσει</div>

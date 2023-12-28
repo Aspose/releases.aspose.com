@@ -16,7 +16,7 @@ parent_path: "barcode/nodejs"
 section_parent_path: "barcode/nodejs"
 
 tags: ["Barcode", "Node.js", "Java"]
-release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-22-9/"
+release_notes_url: "https://releases.aspose.com/barcode/nodejs/release-notes/2022/aspose-barcode-for-node-js-via-java-22-9-release-notes/"
 weight: 44
 
 ---
@@ -40,7 +40,7 @@ weight: 44
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-22-9/'>https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-22-9/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/barcode/nodejs/release-notes/2022/aspose-barcode-for-node-js-via-java-22-9-release-notes/'>https://releases.aspose.com/barcode/nodejs/release-notes/2022/aspose-barcode-for-node-js-via-java-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">Java 22.9経由のnode.js用のAsoppes.Barcodeがリリースされました</div>
