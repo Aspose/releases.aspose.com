@@ -35,7 +35,7 @@ weight: 89
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-4/">https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-4/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.barcode για Android μέσω Java 22.4 έχει κυκλοφορήσει</div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-4-release-notes/">https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-4-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.barcode για Android μέσω Java 22.4 έχει κυκλοφορήσει</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

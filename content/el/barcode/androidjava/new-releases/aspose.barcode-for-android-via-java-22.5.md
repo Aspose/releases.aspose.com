@@ -15,7 +15,7 @@ file_size: "File Size: 14.23MB"
 parent_path: "barcode/androidjava"
 section_parent_path: "barcode/androidjava"
 
-release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-5/"
+release_notes_url: "https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-5-release-notes/"
 weight: 90
 
 ---
@@ -39,7 +39,7 @@ weight: 90
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-5/'>https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-5/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-5-release-notes/'>https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.barcode για Android μέσω Java 22.5 έχει κυκλοφορήσει</div>

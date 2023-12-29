@@ -16,7 +16,7 @@ parent_path: "barcode/androidjava"
 section_parent_path: "barcode/androidjava"
 
 tags: ["Barcode", "Android"]
-release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-9/"
+release_notes_url: "https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-9-release-notes/"
 weight: 93
 
 ---
@@ -40,7 +40,7 @@ weight: 93
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-9/'>https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-9/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-9-release-notes/'>https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.barcode για Android μέσω Java 22.9 έχει κυκλοφορήσει</div>

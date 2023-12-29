@@ -39,7 +39,7 @@ weight: 77
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-21-4/">https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-21-4/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Aspose.BarCode für Android über Java 21.4 wurde veröffentlicht</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/barcode/androidjava/release-notes/2021/aspose-barcode-for-android-via-java-21-4-release-notes/">https://releases.aspose.com/barcode/androidjava/release-notes/2021/aspose-barcode-for-android-via-java-21-4-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Aspose.BarCode für Android über Java 21.4 wurde veröffentlicht</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

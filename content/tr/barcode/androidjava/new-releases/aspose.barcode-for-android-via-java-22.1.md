@@ -39,7 +39,7 @@ weight: 86
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-1/">https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-1/</a></div><h4>Tanım</h4><div class="HTMLDescription">Java 22.1 üzerinden Android için aspose.barcode yayınlandı</div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-1-release-notes/">https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-1-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">Java 22.1 üzerinden Android için aspose.barcode yayınlandı</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

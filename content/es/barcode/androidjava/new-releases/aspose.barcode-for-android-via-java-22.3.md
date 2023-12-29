@@ -39,7 +39,7 @@ weight: 88
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href="https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-3/">https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-3/</a></div><h4>Descripción</h4><div class="HTMLDescription">Aspose.barcode para Android a través de Java 22.3 ha sido lanzado</div>
+      <h4>Notas de lanzamiento</h4><div><a href="https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-3-release-notes/">https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-3-release-notes/</a></div><h4>Descripción</h4><div class="HTMLDescription">Aspose.barcode para Android a través de Java 22.3 ha sido lanzado</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

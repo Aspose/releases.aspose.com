@@ -16,7 +16,7 @@ parent_path: "barcode/androidjava"
 section_parent_path: "barcode/androidjava"
 
 tags: ["Barcode", "Java", "Android"]
-release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-23-7/"
+release_notes_url: "https://releases.aspose.com/barcode/androidjava/release-notes/2023/aspose-barcode-for-android-via-java-23-7-release-notes/"
 weight: 103
 
 ---
@@ -40,7 +40,7 @@ weight: 103
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-23-7/'>https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-23-7/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/barcode/androidjava/release-notes/2023/aspose-barcode-for-android-via-java-23-7-release-notes/'>https://releases.aspose.com/barcode/androidjava/release-notes/2023/aspose-barcode-for-android-via-java-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Aspose.barcode pour Android via Java 23.7 a été publié</div>

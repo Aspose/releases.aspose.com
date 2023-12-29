@@ -14,7 +14,7 @@ download_count: " 30/6/2022 Unduhs: 1  Views: 1 "
 file_size: "File Size: 14.31MB"
 parent_path: "barcode/androidjava"
 section_parent_path: "barcode/androidjava"
-release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-6/"
+release_notes_url: "https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-6-release-notes/"
 weight: 91
 
 ---
@@ -38,7 +38,7 @@ weight: 91
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-6/'>https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-6/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-6-release-notes/'>https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Aspose.barcode untuk Android via Java 22.6 telah dirilis</div>

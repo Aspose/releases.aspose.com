@@ -16,7 +16,7 @@ parent_path: "barcode/androidjava"
 section_parent_path: "barcode/androidjava"
 
 tags: ["Barcode", "Java", "Android"]
-release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-8/"
+release_notes_url: "https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-8-release-notes/"
 weight: 92
 
 ---
@@ -40,7 +40,7 @@ weight: 92
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-8/'>https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-22-8/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-8-release-notes/'>https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Android via Java 22.8 has been released</div>
