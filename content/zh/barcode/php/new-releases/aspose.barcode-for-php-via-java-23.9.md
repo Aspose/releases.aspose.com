@@ -16,7 +16,7 @@ parent_path: "barcode/php"
 section_parent_path: "barcode/php"
 
 tags: "Barcode, PHP"
-release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-23-9/"
+release_notes_url: "https://releases.aspose.com/barcode/php/release-notes/2023/aspose-barcode-for-php-via-java-23-9-release-notes/"
 weight: 64
 
 ---
@@ -40,7 +40,7 @@ weight: 64
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-23-9/'>https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-23-9/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/barcode/php/release-notes/2023/aspose-barcode-for-php-via-java-23-9-release-notes/'>https://releases.aspose.com/barcode/php/release-notes/2023/aspose-barcode-for-php-via-java-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">aspose.barcode for php通过Java 23.9发布了</div>

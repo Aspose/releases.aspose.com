@@ -39,7 +39,7 @@ weight: 45
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-21-12/">https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-21-12/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Aspose.BarCode für PHP über Java 21.12 wurde veröffentlicht</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/barcode/php/release-notes/2021/aspose-barcode-for-php-via-java-21-2-release-notes/">https://releases.aspose.com/barcode/php/release-notes/2021/aspose-barcode-for-php-via-java-21-2-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Aspose.BarCode für PHP über Java 21.12 wurde veröffentlicht</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

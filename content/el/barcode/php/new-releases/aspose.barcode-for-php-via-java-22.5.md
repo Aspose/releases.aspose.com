@@ -15,7 +15,7 @@ file_size: "File Size: 11.99MB"
 parent_path: "barcode/php"
 section_parent_path: "barcode/php"
 
-release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-22-5/"
+release_notes_url: "https://releases.aspose.com/barcode/php/release-notes/2022/aspose-barcode-for-php-via-java-22-5-release-notes/"
 weight: 50
 
 ---
@@ -39,7 +39,7 @@ weight: 50
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-22-5/'>https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-22-5/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/barcode/php/release-notes/2022/aspose-barcode-for-php-via-java-22-5-release-notes/'>https://releases.aspose.com/barcode/php/release-notes/2022/aspose-barcode-for-php-via-java-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.barcode για PHP μέσω Java 22.5 έχει κυκλοφορήσει</div>

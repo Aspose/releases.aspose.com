@@ -39,7 +39,7 @@ weight: 48
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href="https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-22-3/">https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-22-3/</a></div><h4>Описание</h4><div class="HTMLDescription">Aspose.barcode для PHP через Java 22.3 был выпущен</div>
+      <h4>Выпуск заметок</h4><div><a href="https://releases.aspose.com/barcode/php/release-notes/2022/aspose-barcode-for-php-via-java-22-3-release-notes/">https://releases.aspose.com/barcode/php/release-notes/2022/aspose-barcode-for-php-via-java-22-3-release-notes/</a></div><h4>Описание</h4><div class="HTMLDescription">Aspose.barcode для PHP через Java 22.3 был выпущен</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

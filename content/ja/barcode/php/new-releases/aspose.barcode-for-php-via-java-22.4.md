@@ -35,7 +35,7 @@ weight: 49
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-22-4/">https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-22-4/</a></div><h4>説明</h4><div class="HTMLDescription">Java 22.4を介したPHP用のAsoppes.Barcodeがリリースされました</div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/barcode/php/release-notes/2022/aspose-barcode-for-php-via-java-22-4-release-notes/">https://releases.aspose.com/barcode/php/release-notes/2022/aspose-barcode-for-php-via-java-22-4-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">Java 22.4を介したPHP用のAsoppes.Barcodeがリリースされました</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

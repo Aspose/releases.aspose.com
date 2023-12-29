@@ -16,7 +16,7 @@ parent_path: "barcode/php"
 section_parent_path: "barcode/php"
 
 tags: ["barcode", "php", "java"]
-release_notes_url: "https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-22-8/"
+release_notes_url: "https://releases.aspose.com/barcode/php/release-notes/2022/aspose-barcode-for-php-via-java-22-8-release-notes/"
 weight: 52
 
 ---
@@ -40,7 +40,7 @@ weight: 52
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-22-8/'>https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-22-8/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/barcode/php/release-notes/2022/aspose-barcode-for-php-via-java-22-8-release-notes/'>https://releases.aspose.com/barcode/php/release-notes/2022/aspose-barcode-for-php-via-java-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Aspose.barcode pour PHP via Java 22.8 a été publié</div>
