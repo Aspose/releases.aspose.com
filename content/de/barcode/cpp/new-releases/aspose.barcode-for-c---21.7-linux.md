@@ -39,7 +39,7 @@ weight: 53
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-21-7-release-notes/">https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-21-7-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.BarCode für die Linux-Version C++ 21.7.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-7-release-notes/">https://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-7-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.BarCode für die Linux-Version C++ 21.7.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

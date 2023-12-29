@@ -14,7 +14,7 @@ download_count: " 21/8/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 151.04MB"
 parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
-release_notes_url: "https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-23-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-8-release-notes/"
 weight: 101
 tags: ['barcode-to-jpeg', 'barcode-to-tiff', 'barcode-to-png', 'barcode-to-bmp', 'barcode-to-gif', 'barcode-to-exif', 'barcode-to-emf', 'barcode-to-svg']
 ---
@@ -38,7 +38,7 @@ tags: ['barcode-to-jpeg', 'barcode-to-tiff', 'barcode-to-png', 'barcode-to-bmp',
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-23-8-release-notes/'>https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-23-8-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-8-release-notes/'>https://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.barcode untuk rilis C ++ 23.8.</div>

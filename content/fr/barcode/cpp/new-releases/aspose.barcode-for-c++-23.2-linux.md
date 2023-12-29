@@ -14,7 +14,7 @@ download_count: " 22/2/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 43.45MB"
 parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
-release_notes_url: "https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-2-release-notes/"
 weight: 88
 
 ---
@@ -38,7 +38,7 @@ weight: 88
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-23-2-release-notes/'>https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-23-2-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-2-release-notes/'>https://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Il contient Aspose.barcode pour la version Linux C ++ 23.1.</div>

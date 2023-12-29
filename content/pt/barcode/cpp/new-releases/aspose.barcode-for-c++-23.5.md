@@ -14,7 +14,7 @@ download_count: " 25/5/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 149.3MB"
 parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
-release_notes_url: "https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-5-release-notes/"
 weight: 95
 
 ---
@@ -38,7 +38,7 @@ weight: 95
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-23-5-release-notes/'>https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-23-5-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-5-release-notes/'>https://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Ele contém aspose.Barcode para C ++ 23.5 Release.</div>

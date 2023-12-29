@@ -14,7 +14,7 @@ download_count: " 21/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 146.86MB"
 parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
-release_notes_url : "https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-22-10-release-notes/"
+release_notes_url : "https://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-10-release-notes/"
 weight: 81
 
 ---
@@ -38,7 +38,7 @@ weight: 81
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div> <a href='https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-22-10-release-notes/'>https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-22-10-release-notes/</a></div>
+      <h4>Notes de version</h4><div> <a href='https://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-10-release-notes/'>https://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription"> Il contient Aspose.BarCode pour la version C++ 22.10.</div>

@@ -14,7 +14,7 @@ download_count: " 19/4/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 43.44MB"
 parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
-release_notes_url: "https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-4-release-notes/"
 weight: 92
 
 ---
@@ -38,7 +38,7 @@ weight: 92
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-23-4-release-notes/'>https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-23-4-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-4-release-notes/'>https://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">C ++ 23.4 Linux sürümü için aspose.barcode içerir.</div>
