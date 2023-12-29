@@ -55,7 +55,7 @@ var htmlSaveOptions = new HtmlSaveOptions
 msg.Save(Path.Combine("target.html"), htmlSaveOptions);
 ```
 
-In this case, resources will be saved in the [html file name].files folder, in the same path as the .html file and the HTML will reference the resources via relative paths.
+In this case, resources will be saved in the `[html file name].files` folder, in the same path as the `.html` file and the HTML will reference the resources via relative paths.
 
 #### Save with Absolute Path to Resources
 
@@ -71,7 +71,7 @@ var htmlSaveOptions = new HtmlSaveOptions
 msg.Save(Path.Combine("target.html"), htmlSaveOptions);
 ```
 
-As in the first case, resources will be saved in the [html file name].files folder by default, but the HTML will reference resources using absolute paths.
+As in the first case, resources will be saved in the `[html file name].files` folder by default, but the HTML will reference resources using absolute paths.
 
 #### Custom Relative Path using ResourceHtmlRendering Event
 
@@ -96,4 +96,4 @@ htmlSaveOptions.ResourceHtmlRendering += (o, args) =>
 msg.Save(Path.Combine(targetPath, "A Day in the Park.html"), htmlSaveOptions);
 ```
 
-By using the ResourceHtmlRendering event, you can set custom relative or absolute paths for resources. When customizing paths with the ResourceHtmlRendering event handler, and since UseRelativePathToResources is set to true, you should assign a relative path to the PathToResourceFile property to ensure correct referencing.
+By using the `ResourceHtmlRendering` event, you can set custom relative or absolute paths for resources. When customizing paths with the `ResourceHtmlRendering` event handler, and since `UseRelativePathToResources` is set to `true`, you should assign a relative path to the `PathToResourceFile` property to ensure correct referencing.
