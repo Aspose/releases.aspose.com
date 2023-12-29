@@ -34,7 +34,7 @@ You can now choose to save email resources with relative paths when exporting em
 
 **Details**
 
-- `HtmlSaveOptions.UseRelativePathToResources property` was added. The property provides ability to save resources with relative paths.
+- `HtmlSaveOptions.UseRelativePathToResources` property was added. The property provides ability to save resources with relative paths.
 - Default property value is `false` (resources are saved with absolute paths).
 - When set to `true`, resources are saved with relative paths.
 - HTML files with relative paths are more portable and can be viewed correctly regardless of the hosting environment's file structure. 
