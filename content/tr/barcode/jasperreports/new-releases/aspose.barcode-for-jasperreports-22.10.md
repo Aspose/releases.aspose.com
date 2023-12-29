@@ -16,7 +16,7 @@ parent_path: "barcode/jasperreports"
 section_parent_path: "barcode/jasperreports"
 
 tags: ["Barcode", "JasperReports"]
-release_notes_url: "https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/jasperreports/release-notes/2022/aspose-barcode-for-jasperreports-22-10-release-notes/"
 weight: 134
 
 ---
@@ -40,7 +40,7 @@ weight: 134
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div> <a href='https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-22-10-release-notes/'>https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-22-10-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div> <a href='https://releases.aspose.com/barcode/jasperreports/release-notes/2022/aspose-barcode-for-jasperreports-22-10-release-notes/'>https://releases.aspose.com/barcode/jasperreports/release-notes/2022/aspose-barcode-for-jasperreports-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription"> JasperReports 22.10 için Aspose.BarCode çıktı</div>

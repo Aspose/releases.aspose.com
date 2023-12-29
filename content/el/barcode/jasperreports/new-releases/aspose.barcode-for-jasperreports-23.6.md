@@ -16,7 +16,7 @@ parent_path: "barcode/jasperreports"
 section_parent_path: "barcode/jasperreports"
 
 tags: ["Barcode", "JasperReports"]
-release_notes_url: "https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/jasperreports/release-notes/2023/aspose-barcode-for-jasperreports-23-6-release-notes/"
 weight: 142
 
 ---
@@ -40,7 +40,7 @@ weight: 142
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-23-6-release-notes/'>https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-23-6-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/barcode/jasperreports/release-notes/2023/aspose-barcode-for-jasperreports-23-6-release-notes/'>https://releases.aspose.com/barcode/jasperreports/release-notes/2023/aspose-barcode-for-jasperreports-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.barcode για το JasperReports 23.6 έχει κυκλοφορήσει</div>

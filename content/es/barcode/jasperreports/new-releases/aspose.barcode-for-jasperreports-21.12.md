@@ -39,7 +39,7 @@ weight: 125
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href="https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-21-12-release-notes/">https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-21-12-release-notes/</a></div><h4>Descripción</h4><div class="HTMLDescription">Aspose.barcode for JasperReports 21.12 ha sido lanzado</div>
+      <h4>Notas de lanzamiento</h4><div><a href="https://releases.aspose.com/barcode/jasperreports/release-notes/2021/aspose-barcode-for-jasperreports-21-12-release-notes/">https://releases.aspose.com/barcode/jasperreports/release-notes/2021/aspose-barcode-for-jasperreports-21-12-release-notes/</a></div><h4>Descripción</h4><div class="HTMLDescription">Aspose.barcode for JasperReports 21.12 ha sido lanzado</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

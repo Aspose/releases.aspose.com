@@ -39,7 +39,7 @@ weight: 127
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-22-2-release-notes/">https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-22-2-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.barcode για το JasperReports 22.2 έχει κυκλοφορήσει</div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/barcode/jasperreports/release-notes/2022/aspose-barcode-for-jasperreports-22-2-release-notes/">https://releases.aspose.com/barcode/jasperreports/release-notes/2022/aspose-barcode-for-jasperreports-22-2-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.barcode για το JasperReports 22.2 έχει κυκλοφορήσει</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

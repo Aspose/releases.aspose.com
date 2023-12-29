@@ -39,7 +39,7 @@ weight: 128
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-22-3-release-notes/">https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-22-3-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">JasperReports 22.3のAspose.Barcodeがリリースされました</div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/barcode/jasperreports/release-notes/2022/aspose-barcode-for-jasperreports-22-3-release-notes/">https://releases.aspose.com/barcode/jasperreports/release-notes/2022/aspose-barcode-for-jasperreports-22-3-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">JasperReports 22.3のAspose.Barcodeがリリースされました</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -14,7 +14,7 @@ download_count: " 30/6/2022 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 10.43MB"
 parent_path: "barcode/jasperreports"
 section_parent_path: "barcode/jasperreports"
-release_notes_url: "https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/barcode/jasperreports/release-notes/2022/aspose-barcode-for-jasperreports-22-6-release-notes/"
 weight: 131
 
 ---
@@ -38,7 +38,7 @@ weight: 131
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-22-6-release-notes/'>https://docs.aspose.com/barcode/jasperreports/aspose-barcode-for-jasperreports-22-6-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/barcode/jasperreports/release-notes/2022/aspose-barcode-for-jasperreports-22-6-release-notes/'>https://releases.aspose.com/barcode/jasperreports/release-notes/2022/aspose-barcode-for-jasperreports-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">JasperReports 22.6のAspose.Barcodeがリリースされました</div>

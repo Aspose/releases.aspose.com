@@ -39,7 +39,7 @@ weight: 74
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/barcodejasperreports/Aspose.BarCode+for+JasperReports+17.7+Release+Notes">https://docs.aspose.com/display/barcodejasperreports/Aspose.BarCode+for+JasperReports+17.7+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Aspose.BarCode für JasperReports 17.7 wurde veröffentlicht</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/barcode/jasperreports/release-notes/2017/aspose-barcode-for-jasperreports-17-7-release-notes/">https://releases.aspose.com/barcode/jasperreports/release-notes/2017/aspose-barcode-for-jasperreports-17-7-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Aspose.BarCode für JasperReports 17.7 wurde veröffentlicht</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
