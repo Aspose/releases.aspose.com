@@ -30,16 +30,16 @@ This page contains release notes information for Aspose.Email for .NET 23.12
 
 ### **Setting Relative Path to Resources when Saving Email Message as HTML**
 
-With the new UseRelativePathToResources property, you can now choose to save email resources with relative paths when exporting email messages to HTML format. This feature provides more flexibility in how resources are linked in the output HTML file, making it easier to share and display saved emails on different systems.
+You can now choose to save email resources with relative paths when exporting email messages to HTML format. This feature provides more flexibility in how resources are linked in the output HTML file, making it easier to share and display saved emails on different systems.
 
 **Details**
 
-- HtmlSaveOptions.UseRelativePathToResources property was added. The property provides ability to save resources with relative paths.
-- Default Property Value is false (resources are saved with absolute paths).
-- When set to true, resources are saved with relative paths.
+- `HtmlSaveOptions.UseRelativePathToResources property` was added. The property provides ability to save resources with relative paths.
+- Default property value is `false` (resources are saved with absolute paths).
+- When set to `true`, resources are saved with relative paths.
 - HTML files with relative paths are more portable and can be viewed correctly regardless of the hosting environment's file structure. 
   You can choose between absolute and relative paths depending on the requirements.
-- You can define custom paths for resources using the ResourceHtmlRendering event.
+- You can define custom paths for resources using the `ResourceHtmlRendering` event.
 
 #### Save with Default Relative Path to Resources
 
