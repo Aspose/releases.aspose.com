@@ -11,6 +11,13 @@
     "name" : "aspose-html-23.12-jdk11.jar",
     "classifier" : "jdk11"
   }, {
+    "size" : "32 MB",
+    "name" : "aspose-html-23.12-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "32 MB",
+    "name" : "aspose-html-23.12.jar"
+  }, {
     "size" : "395 bytes",
     "name" : "aspose-html-23.12.pom"
   } ],
