@@ -1,0 +1,16 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-html",
+  "id" : "23-12",
+  "packageFiles" : [ {
+    "size" : "32 MB",
+    "name" : "aspose-html-23.12-jdk1.8.jar",
+    "classifier" : "jdk1.8"
+  }, {
+    "size" : "395 bytes",
+    "name" : "aspose-html-23.12.pom"
+  } ],
+  "releasehDate" : "2023-12-30T11:52:22+00:00",
+  "version" : "23.12",
+  "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2023/aspose-html-for-java-23-12-release-notes/"
+}
