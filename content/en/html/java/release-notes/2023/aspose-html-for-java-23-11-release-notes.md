@@ -19,6 +19,6 @@ This page contains release notes for Aspose.HTML for Java 23.11
 
 {{% /alert %}}
 
-We are honored to announce the October release of Aspose.HTML for.Java.
+We are honored to announce the November release of Aspose.HTML for.Java.
 
 In this release, we have improved the quality of rendering and resulting documents. Improved stability loading and processing resources to avoid freezing.
