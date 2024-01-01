@@ -37,7 +37,7 @@ weight: 29
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/">https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/</a></div>
+<h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/">https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -57,7 +57,7 @@ Die Unterstützung für den Umgang mit verschachtelten nichtnumerischen Fakten w
 
 Die Unterstützung wurde für das „ausschließen“-Element hinzugefügt, das verwendet werden kann, um Daten zu kapseln, die nicht eingeschlossen werden sollen, während die Fußnote oder nichtnumerische Elemente verarbeitet werden. Dieses Element dient dazu, zu verhindern, dass Textinhalte in die {value}-Eigenschaften von footnote oder nonNumeric aufgenommen werden.
 
-> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Finance for .NET 22.5 Release Notes](https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/).
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Finance for .NET 22.5 Release Notes](https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -14,7 +14,7 @@ download_count: " 22/9/2022 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 6.64MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
-release_notes_url: "https://docs.aspose.com/finance/net/aspose-finance-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-9-release-notes/"
 weight: 36
 
 ---
@@ -38,7 +38,7 @@ weight: 36
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/finance/net/aspose-finance-for-net-22-9-release-notes/'>https://docs.aspose.com/finance/net/aspose-finance-for-net-22-9-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-9-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">ASPOSE.FINANCE POUR .NET 22.9 DLLS Libération</div>

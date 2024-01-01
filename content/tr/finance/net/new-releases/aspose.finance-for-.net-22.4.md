@@ -39,7 +39,7 @@ weight: 27
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div> <a href="https://docs.aspose.com/finance/net/aspose-finance-for-net-22-4-release-notes/">https://docs.aspose.com/finance/net/aspose-finance-for-net-22-4-release-notes/</a></div>
+<h4>Sürüm notları</h4><div> <a href="https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-4-release-notes/">https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-4-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -59,7 +59,7 @@ XBRL Şema Ayrıştırıcı İşleyicisi geliştirildi.
 
 Aktarım Katmanı Güvenliği (TLS) 1.2'yi desteklemek için XBRL şeması indirmesi iyileştirildi.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Finance for .NET 22.4 Release Notes](https://docs.aspose.com/finance/net/aspose-finance-for-net-22-4-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Finance for .NET 22.4 Release Notes](https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-4-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

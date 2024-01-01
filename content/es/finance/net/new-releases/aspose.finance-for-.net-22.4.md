@@ -39,7 +39,7 @@ weight: 27
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lanzamiento</h4><div> <a href="https://docs.aspose.com/finance/net/aspose-finance-for-net-22-4-release-notes/">https://docs.aspose.com/finance/net/aspose-finance-for-net-22-4-release-notes/</a></div>
+<h4>Notas de lanzamiento</h4><div> <a href="https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-4-release-notes/">https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-4-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -59,7 +59,7 @@ Se mejoró el controlador del analizador de esquemas XBRL.
 
 Se mejoró la descarga del esquema XBRL para admitir Transport Layer Security (TLS) 1.2.
 
-> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Finance for .NET 22.4 Release Notes](https://docs.aspose.com/finance/net/aspose-finance-for-net-22-4-release-notes/).
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Finance for .NET 22.4 Release Notes](https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

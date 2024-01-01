@@ -14,7 +14,7 @@ download_count: " 31/7/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.51MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
-release_notes_url: "https://docs.aspose.com/finance/net/aspose-finance-for-net-23-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-7-release-notes/"
 weight: 55
 
 ---
@@ -38,7 +38,7 @@ weight: 55
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/finance/net/aspose-finance-for-net-23-7-release-notes/'>https://docs.aspose.com/finance/net/aspose-finance-for-net-23-7-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-7-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Finance for .NET 23.7</div>

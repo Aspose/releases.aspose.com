@@ -16,7 +16,7 @@ parent_path: "finance/python-net"
 section_parent_path: "finance/python-net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-10-release-notes/"
 weight: 29
 
 ---
@@ -40,7 +40,7 @@ weight: 29
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-10-release-notes/'>https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-10-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-10-release-notes/'>https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">.NET 23.10.0、Windows X64リリースを介してPythonのAspose.Financeが含まれています。</div>

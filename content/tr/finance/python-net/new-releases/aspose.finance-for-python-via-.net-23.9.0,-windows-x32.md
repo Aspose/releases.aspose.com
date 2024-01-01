@@ -16,7 +16,7 @@ parent_path: "finance/python-net"
 section_parent_path: "finance/python-net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-9-release-notes/"
 weight: 25
 
 ---
@@ -40,7 +40,7 @@ weight: 25
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-9-release-notes/'>https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-9-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-9-release-notes/'>https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">.NET 23.9.0, Windows X32 sürümü üzerinden python için aspose.finance içerir.</div>

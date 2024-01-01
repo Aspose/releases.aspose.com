@@ -14,7 +14,7 @@ download_count: " 9/6/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 39.74MB"
 parent_path: "finance/python-net"
 section_parent_path: "finance/python-net"
-release_notes_url: "https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-3-release-notes/"
 weight: 8
 
 ---
@@ -38,7 +38,7 @@ weight: 8
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-3-release-notes/'>https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-3-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-3-release-notes/'>https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains the Aspose.Finance for Python via .NET 23.3.0, Windows x64 release.</div>

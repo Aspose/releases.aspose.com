@@ -39,7 +39,7 @@ weight: 27
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href="https://docs.aspose.com/finance/net/aspose-finance-for-net-22-4-release-notes/">https://docs.aspose.com/finance/net/aspose-finance-for-net-22-4-release-notes/</a></div>
+<h4>发行说明</h4><div><a href="https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-4-release-notes/">https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-4-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -59,7 +59,7 @@ weight: 27
 
 改进了 XBRL 架构下载以支持传输层安全性 (TLS) 1.2。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Finance for .NET 22.4 Release Notes](https://docs.aspose.com/finance/net/aspose-finance-for-net-22-4-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Finance for .NET 22.4 Release Notes](https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-4-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

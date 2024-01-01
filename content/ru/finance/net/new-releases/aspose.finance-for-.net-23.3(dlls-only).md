@@ -14,7 +14,7 @@ download_count: " 9/4/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 6.65MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
-release_notes_url: "https://docs.aspose.com/finance/net/aspose-finance-for-net-23-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-3-release-notes/"
 weight: 48
 
 ---
@@ -38,7 +38,7 @@ weight: 48
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/finance/net/aspose-finance-for-net-23-3-release-notes/'>https://docs.aspose.com/finance/net/aspose-finance-for-net-23-3-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-3-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Aspose.finance для выпуска .NET 23.3 DLLS</div>

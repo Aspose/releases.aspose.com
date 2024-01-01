@@ -16,7 +16,7 @@ parent_path: "finance/python-net"
 section_parent_path: "finance/python-net"
 
 tags: ["Aspose", "Aspose.Total", "Aspose.Finance", "Python", ".NET", "Library", "Programming", "Finance", "XBRL", "iXBRL", "OFX", "inline", "convert"]
-release_notes_url: "https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-1-release-notes/"
 weight: 2
 
 ---
@@ -40,7 +40,7 @@ weight: 2
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-1-release-notes/'>https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-1-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-1-release-notes/'>https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Ele contém o Aspose.</div>

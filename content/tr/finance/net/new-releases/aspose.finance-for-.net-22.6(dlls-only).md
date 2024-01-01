@@ -15,7 +15,7 @@ file_size: "File Size: 6.62MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
 
-release_notes_url: "https://docs.aspose.com/finance/net/aspose-finance-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-6-release-notes/"
 weight: 30
 
 ---
@@ -39,7 +39,7 @@ weight: 30
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/finance/net/aspose-finance-for-net-22-6-release-notes/'>https://docs.aspose.com/finance/net/aspose-finance-for-net-22-6-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-6-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Aspose.net 22.6 dlls sürümü için</div>

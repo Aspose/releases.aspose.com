@@ -16,7 +16,7 @@ parent_path: "finance/python-net"
 section_parent_path: "finance/python-net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-11-release-notes/"
 weight: 30
 
 ---
@@ -40,7 +40,7 @@ weight: 30
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-11-release-notes/'>https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-11-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-11-release-notes/'>https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει Aspose.Finance για Python μέσω .NET 23.11.0 Linux x86-64 απελευθέρωση.</div>

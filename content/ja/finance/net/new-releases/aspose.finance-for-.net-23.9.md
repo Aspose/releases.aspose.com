@@ -16,7 +16,7 @@ parent_path: "finance/net"
 section_parent_path: "finance/net"
 
 tags: "Aspose.Finance for .NET 23.9"
-release_notes_url: "https://docs.aspose.com/finance/net/aspose-finance-for-net-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-9-release-notes/"
 weight: 59
 
 ---
@@ -40,7 +40,7 @@ weight: 59
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/finance/net/aspose-finance-for-net-23-9-release-notes/'>https://docs.aspose.com/finance/net/aspose-finance-for-net-23-9-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-9-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">.net 23.9のasops.finance</div>

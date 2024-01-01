@@ -37,7 +37,7 @@ weight: 29
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href="https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/">https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/</a></div>
+<h4>发行说明</h4><div><a href="https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/">https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -57,7 +57,7 @@ weight: 29
 
 已添加对“排除”元素的支持，该元素可用于封装在处理脚注或非数字元素时不包含的数据。此元素用于防止文本内容包含在脚注或非数字的 {value} 属性中。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Finance for .NET 22.5 Release Notes](https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Finance for .NET 22.5 Release Notes](https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -14,7 +14,7 @@ download_count: " 10/6/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 39.74MB"
 parent_path: "finance/python-net"
 section_parent_path: "finance/python-net"
-release_notes_url: "https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-5-release-notes/"
 weight: 11
 tags: ['Aspose', 'Aspose.Total', 'Aspose.Finance', 'Python', 'NET', 'Library', 'Programming', 'Finance', 'XBRL', 'iXBRL', 'OFX', 'inline', 'convert']
 ---
@@ -38,7 +38,7 @@ tags: ['Aspose', 'Aspose.Total', 'Aspose.Finance', 'Python', 'NET', 'Library', '
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-5-release-notes/'>https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-5-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-5-release-notes/'>https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.finance для Python через .NET 23.5.0, релиз Windows X64.</div>

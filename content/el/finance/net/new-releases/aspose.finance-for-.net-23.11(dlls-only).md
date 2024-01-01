@@ -16,7 +16,7 @@ parent_path: "finance/net"
 section_parent_path: "finance/net"
 
 tags: "Aspose.Finance for .NET 23.11"
-release_notes_url: "https://docs.aspose.com/finance/net/aspose-finance-for-net-23-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-11-release-notes/"
 weight: 62
 
 ---
@@ -40,7 +40,7 @@ weight: 62
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/finance/net/aspose-finance-for-net-23-11-release-notes/'>https://docs.aspose.com/finance/net/aspose-finance-for-net-23-11-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-11-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.finance για το .NET 23.11 DLLS Release</div>

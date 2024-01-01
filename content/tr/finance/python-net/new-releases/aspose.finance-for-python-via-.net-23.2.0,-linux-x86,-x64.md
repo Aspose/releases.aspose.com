@@ -14,7 +14,7 @@ download_count: " 8/6/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 50.69MB"
 parent_path: "finance/python-net"
 section_parent_path: "finance/python-net"
-release_notes_url: "https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-2-release-notes/"
 weight: 4
 
 ---
@@ -38,7 +38,7 @@ weight: 4
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-2-release-notes/'>https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-2-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-2-release-notes/'>https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">.NET 23.2.0, Linux x86, x64 sürümü üzerinden python için aspose.finance içerir.</div>

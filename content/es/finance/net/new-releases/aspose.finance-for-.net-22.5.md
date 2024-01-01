@@ -37,7 +37,7 @@ weight: 29
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lanzamiento</h4><div> <a href="https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/">https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/</a></div>
+<h4>Notas de lanzamiento</h4><div> <a href="https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/">https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -57,7 +57,7 @@ Se agregó el soporte para manejar hechos no numéricos anidados.
 
 Se ha agregado el soporte para el elemento `excluir` que se puede usar para encapsular datos que no deben incluirse al procesar la nota al pie o los elementos no numéricos. Este elemento sirve para evitar que el contenido de texto se incluya en las propiedades {value} de la nota al pie o no numérica.
 
-> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Finance for .NET 22.5 Release Notes](https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/).
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Finance for .NET 22.5 Release Notes](https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -14,7 +14,7 @@ download_count: " 27/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.65MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
-release_notes_url: "https://docs.aspose.com/finance/net/aspose-finance-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-10-release-notes/"
 weight: 38
 
 ---
@@ -38,7 +38,7 @@ weight: 38
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div> <a href='https://docs.aspose.com/finance/net/aspose-finance-for-net-22-10-release-notes/'>https://docs.aspose.com/finance/net/aspose-finance-for-net-22-10-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div> <a href='https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-10-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription"> Versión de Aspose.Finance para .NET 22.10 dlls</div>

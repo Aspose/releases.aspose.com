@@ -16,7 +16,7 @@ parent_path: "finance/python-net"
 section_parent_path: "finance/python-net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-9-release-notes/"
 weight: 26
 
 ---
@@ -40,7 +40,7 @@ weight: 26
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-9-release-notes/'>https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-9-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-9-release-notes/'>https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.finance untuk python via .net 23.9.0, rilis Windows x64.</div>

@@ -37,7 +37,7 @@ weight: 29
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div> <a href="https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/">https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/</a></div>
+<h4>Sürüm notları</h4><div> <a href="https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/">https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -57,7 +57,7 @@ xbrl.ifrs.org'dan (IFRS Muhasebe Taksonomisi) şema işleme yeteneği.
 
 Dipnot veya Sayısal olmayan öğeler işlenirken dahil edilmeyecek verileri kapsüllemek için kullanılabilen "hariç tutma" öğesi için destek eklendi. Bu öğe, metin içeriğinin dipnotun veya Sayısal olmayanın {değer} özelliklerine dahil edilmesini önleme amacına hizmet eder.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Finance for .NET 22.5 Release Notes](https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Finance for .NET 22.5 Release Notes](https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

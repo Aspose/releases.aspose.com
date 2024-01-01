@@ -14,7 +14,7 @@ file_size: "File Size: 6.5MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
 
-release_notes_url: “https://docs.aspose.com/finance/net/aspose-finance-for-net-22-9-release-notes/”
+release_notes_url: “https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-9-release-notes/”
 weight: 37
 ---
 
@@ -37,7 +37,7 @@ weight: 37
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href='https://docs.aspose.com/finance/net/aspose-finance-for-net-22-9-release-notes/'>https://docs.aspose.com/finance/net/aspose-finance-for-net-22-9-release-notes/</a></div>
+<h4>发行说明</h4><div><a href='https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-9-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-9-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -49,7 +49,7 @@ weight: 37
 
 添加了 GroupDocs 支持。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Finance for .NET 22.9 Release Notes](https://docs.aspose.com/finance/net/aspose-finance-for-net-22-9-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Finance for .NET 22.9 Release Notes](https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-9-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

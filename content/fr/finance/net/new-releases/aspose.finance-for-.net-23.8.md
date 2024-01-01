@@ -15,7 +15,7 @@ file_size: "File Size: 6.51MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
 tags: ['Aspose.Finance', 'Aspose.Total', 'Conholdate.Total', 'Conholdate', 'Windows-Forms', 'WinForms', 'Web-Forms', 'VisualStudio', 'Visual-Studio', 'Component', 'Assembly', 'Library', 'API', 'On-premise-API', 'Microsoft', 'MVC', 'C#', 'CSharp', 'VB.NET', 'ASP.NET', 'Mono', 'NET-Framework', 'XBRL', 'iXBRL', 'XBRL-Validation', 'iXBRL-Validation', 'OFX', 'Finance-API', 'Finance-Component', 'Finance-Assembly', 'XBRL-to-iXBRL', 'XBRL-to-XLSX', 'Validate-XBRL', 'Validate-iXBRL', 'Convert-XBRL']
-release_notes_url: "https://docs.aspose.com/finance/net/aspose-finance-for-net-23-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-8-release-notes/"
 weight: 57
 
 ---
@@ -39,7 +39,7 @@ weight: 57
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/finance/net/aspose-finance-for-net-23-8-release-notes/'>https://docs.aspose.com/finance/net/aspose-finance-for-net-23-8-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-8-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Aspose.Finance pour .net 23.8</div>

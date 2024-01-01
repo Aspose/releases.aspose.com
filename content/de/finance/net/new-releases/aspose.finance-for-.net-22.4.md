@@ -39,7 +39,7 @@ weight: 27
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/finance/net/aspose-finance-for-net-22-4-release-notes/">https://docs.aspose.com/finance/net/aspose-finance-for-net-22-4-release-notes/</a></div>
+<h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-4-release-notes/">https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-4-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -59,7 +59,7 @@ Der XBRL-Schema-Parser-Handler wurde verbessert.
 
 Der Download des XBRL-Schemas wurde verbessert, um Transport Layer Security (TLS) 1.2 zu unterstützen.
 
-> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Finance for .NET 22.4 Release Notes](https://docs.aspose.com/finance/net/aspose-finance-for-net-22-4-release-notes/).
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Finance for .NET 22.4 Release Notes](https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

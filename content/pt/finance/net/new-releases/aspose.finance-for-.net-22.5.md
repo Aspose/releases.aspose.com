@@ -37,7 +37,7 @@ weight: 29
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lançamento</h4><div> <a href="https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/">https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/</a></div>
+<h4>Notas de lançamento</h4><div> <a href="https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/">https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -57,7 +57,7 @@ O suporte para lidar com fatos não numéricos aninhados foi adicionado.
 
 Foi adicionado suporte para o elemento `exclude` que pode ser usado para encapsular dados que não devem ser incluídos durante o processamento da nota de rodapé ou de elementos não numéricos. Esse elemento serve para impedir que o conteúdo do texto seja incluído nas propriedades {value} de footnote ou nonNumeric.
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Finance for .NET 22.5 Release Notes](https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Finance for .NET 22.5 Release Notes](https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

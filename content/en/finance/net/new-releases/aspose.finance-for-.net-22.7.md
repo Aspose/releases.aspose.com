@@ -14,7 +14,7 @@ file_size: "File Size: 6.48MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
 
-release_notes_url: "https://docs.aspose.com/finance/net/aspose-finance-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-7-release-notes/"
 weight: 32
 ---
 
@@ -37,7 +37,7 @@ weight: 32
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Release Notes</h4><div><a href='https://docs.aspose.com/finance/net/aspose-finance-for-net-22-7-release-notes/'>https://docs.aspose.com/finance/net/aspose-finance-for-net-22-7-release-notes/</a></div>
+<h4>Release Notes</h4><div><a href='https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-7-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -57,7 +57,7 @@ Added the validation of the ID attribute of the context element in the `XBRL` fi
 
 Supplement the validation of the entity sub-element in the context element in the `XBRL` file.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Finance for .NET 22.7 Release Notes](https://docs.aspose.com/finance/net/aspose-finance-for-net-22-7-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Finance for .NET 22.7 Release Notes](https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

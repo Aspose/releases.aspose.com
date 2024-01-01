@@ -13,7 +13,7 @@ download_count: " 16/6/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.48MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
-release_notes_url: "https://docs.aspose.com/finance/net/aspose-finance-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-6-release-notes/"
 weight: 31
 ---
 
@@ -36,7 +36,7 @@ weight: 31
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/finance/net/aspose-finance-for-net-22-6-release-notes/'>https://docs.aspose.com/finance/net/aspose-finance-for-net-22-6-release-notes/</a></div>
+<h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-6-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -52,7 +52,7 @@ Bisher gab es in einigen Fällen die folgende Ausnahme:
 
 Dieses Problem wurde jetzt behoben und Daten aus einer bestehenden XBRL-Datei können erfolgreich über die API geladen werden.
 
-> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Finance for .NET 22.6 Release Notes](https://docs.aspose.com/finance/net/aspose-finance-for-net-22-6-release-notes/).
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Finance for .NET 22.6 Release Notes](https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

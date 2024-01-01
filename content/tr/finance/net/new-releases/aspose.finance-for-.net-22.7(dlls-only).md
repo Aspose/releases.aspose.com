@@ -14,7 +14,7 @@ download_count: " 26/7/2022 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 6.62MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
-release_notes_url: "https://docs.aspose.com/finance/net/aspose-finance-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-7-release-notes/"
 weight: 33
 
 ---
@@ -38,7 +38,7 @@ weight: 33
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/finance/net/aspose-finance-for-net-22-7-release-notes/'>https://docs.aspose.com/finance/net/aspose-finance-for-net-22-7-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-7-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">ASPOSE.NET 22.7 DLLS Sürümü için Finance</div>

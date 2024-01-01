@@ -37,7 +37,7 @@ weight: 29
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Σημειώσεις έκδοσης</h4><div> <a href="https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/">https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/</a></div>
+<h4>Σημειώσεις έκδοσης</h4><div> <a href="https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/">https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -57,7 +57,7 @@ weight: 29
 
 Η υποστήριξη έχει προστεθεί για το στοιχείο «εξαίρεση» που μπορεί να χρησιμοποιηθεί για την ενθυλάκωση δεδομένων που δεν πρόκειται να συμπεριληφθούν κατά την επεξεργασία της υποσημείωσης ή των μη αριθμητικών στοιχείων. Αυτό το στοιχείο εξυπηρετεί τον σκοπό της αποτροπής συμπερίληψης περιεχομένου κειμένου στις ιδιότητες {value} της υποσημείωσης ή του nonNumeric.
 
-> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Finance for .NET 22.5 Release Notes](https://docs.aspose.com/finance/net/aspose-finance-for-net-22-5-release-notes/).
+> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Finance for .NET 22.5 Release Notes](https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -14,7 +14,7 @@ download_count: " 29/5/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 6.51MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
-release_notes_url: "https://docs.aspose.com/finance/net/aspose-finance-for-net-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-5-release-notes/"
 weight: 51
 
 ---
@@ -38,7 +38,7 @@ weight: 51
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/finance/net/aspose-finance-for-net-23-5-release-notes/'>https://docs.aspose.com/finance/net/aspose-finance-for-net-23-5-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-5-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Aspose.net 23.5 için.</div>

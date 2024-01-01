@@ -16,7 +16,7 @@ parent_path: "finance/python-net"
 section_parent_path: "finance/python-net"
 
 tags: ["Aspose", "Aspose.Total", "Aspose.Finance", "Python", ".NET", "Library", "Programming", "Finance", "XBRL", "iXBRL", "OFX", "inline", "convert"]
-release_notes_url: "https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-1-release-notes/"
 weight: 2
 
 ---
@@ -40,7 +40,7 @@ weight: 2
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-1-release-notes/'>https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-1-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-1-release-notes/'>https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">.NET 23.1.0、Windows X64リリースを介してPythonのAsops.Financeが含まれています。</div>

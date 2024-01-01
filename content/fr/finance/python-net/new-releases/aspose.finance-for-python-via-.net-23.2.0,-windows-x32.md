@@ -14,7 +14,7 @@ download_count: " 8/6/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 34.44MB"
 parent_path: "finance/python-net"
 section_parent_path: "finance/python-net"
-release_notes_url: "https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-2-release-notes/"
 weight: 6
 
 ---
@@ -38,7 +38,7 @@ weight: 6
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-2-release-notes/'>https://docs.aspose.com/finance/python-net/aspose-finance-for-python-via-net-23-2-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-2-release-notes/'>https://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Il contient la finance Aspose.Finance pour Python via .NET 23.2.0, version Windows X32.</div>

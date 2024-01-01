@@ -13,7 +13,7 @@ download_count: " 16/6/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.48MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
-release_notes_url: "https://docs.aspose.com/finance/net/aspose-finance-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-6-release-notes/"
 weight: 31
 ---
 
@@ -36,7 +36,7 @@ weight: 31
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Catatan Rilis</h4><div> <a href='https://docs.aspose.com/finance/net/aspose-finance-for-net-22-6-release-notes/'>https://docs.aspose.com/finance/net/aspose-finance-for-net-22-6-release-notes/</a></div>
+<h4>Catatan Rilis</h4><div> <a href='https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-6-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -52,7 +52,7 @@ Sebelumnya dalam beberapa kasus ada pengecualian berikut:
 
 Masalah ini telah diperbaiki sekarang dan data dari file XBRL yang ada dapat berhasil dimuat melalui API.
 
-> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Finance for .NET 22.6 Release Notes](https://docs.aspose.com/finance/net/aspose-finance-for-net-22-6-release-notes/).
+> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Finance for .NET 22.6 Release Notes](https://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 
