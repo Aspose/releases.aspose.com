@@ -14,7 +14,7 @@ file_size: "File Size: 11.37MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/"
 weight: 317
 ---
 
@@ -37,7 +37,7 @@ weight: 317
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div> <a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div> <a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription"> Aspose.3D for .NET 22.9 sürümünü içerir.</div>
@@ -55,7 +55,7 @@ FBX içe aktarıcı için dahili geçici dosya sistemi desteği eklendi.
 
 `GLTF` dışa aktarma önceki sürümlerde o kadar iyi değildi. Ancak 3D API'nin şu anki sürümü ile 'GLTF' formatındaki dosyaların dışa aktarma özelliği geliştirildi.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.3D for .NET 22.9 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.3D for .NET 22.9 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

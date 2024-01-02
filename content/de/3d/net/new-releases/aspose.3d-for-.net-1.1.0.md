@@ -39,7 +39,7 @@ weight: 158
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/3dnet/Aspose.3D+for+.NET+1.1.0+Release+Notes">http://www.aspose.com/docs/display/3dnet/Aspose.3D+for+.NET+1.1.0+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/3d/net/release-notes/2015/aspose-3d-for-net-1-1-0-release-notes/">https://releases.aspose.com/3d/net/release-notes/2015/aspose-3d-for-net-1-1-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

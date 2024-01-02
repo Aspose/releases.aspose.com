@@ -14,7 +14,7 @@ download_count: " 18/1/2023 下载s: 1  Views: 1 "
 file_size: "File Size: 10.1MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-1-release-notes/"
 weight: 326
 
 ---
@@ -38,7 +38,7 @@ weight: 326
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-23-1-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-23-1-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-1-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含aspose.3d的.net 23.1释放。</div>

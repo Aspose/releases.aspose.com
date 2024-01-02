@@ -35,7 +35,7 @@ weight: 307
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lançamento</h4><div> <a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-4-release-notes/">https://docs.aspose.com/3d/net/aspose-3d-for-net-22-4-release-notes/</a></div>
+      <h4>Notas de lançamento</h4><div> <a href="https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-4-release-notes/">https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Recursos notáveis">}}
@@ -117,7 +117,7 @@ Adicionado o suporte de importação de nuvem de pontos em USD/USDZ.
 
 Adicionado o suporte à exportação de nuvem de pontos em USD/USDZ.
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.3D for .NET 22.4 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-4-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.3D for .NET 22.4 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

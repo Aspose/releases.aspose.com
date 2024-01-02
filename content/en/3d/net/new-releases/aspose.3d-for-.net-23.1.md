@@ -14,7 +14,7 @@ file_size: "File Size: 13.33MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-1-release-notes/"
 weight: 325
 ---
 
@@ -38,7 +38,7 @@ weight: 325
 
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4>
-<div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-23-1-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-23-1-release-notes/</a></div>
+<div><a href='https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-1-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-1-release-notes/</a></div>
 
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
@@ -67,7 +67,7 @@ Improvements have been made to the following 3D format conversions:
 - **ASE to OBJ** Autodesk&reg; ASCII Scene Export (ASE) file format to OBJ Format conversion.
 - **USD to DRC** Pixar's Universal Scene Description (USD) file format to Google Draco (DRC) format.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 23.1 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-23-1-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 23.1 Release Notes](https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

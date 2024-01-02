@@ -14,7 +14,7 @@ file_size: "File Size: 13.37MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/"
 weight: 321
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 321
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Versionshinweise</h4>
-<a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/</a>
+<a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Beschreibung</h4>
@@ -57,7 +57,7 @@ Verbesserte Qualität des Netzes beim Umwandeln von 3D -PDF in GLTF -Format.
 
 In dieser Version der 3D -API wurde die Unterstützung von .NET 4.5 wiederhergestellt.
 
-> Für eine vollständige Liste von Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version besuchen Sie bitte [ASSON3D für NET 2211 -Versionsnotizen](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/).
+> Für eine vollständige Liste von Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version besuchen Sie bitte [ASSON3D für NET 2211 -Versionsnotizen](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

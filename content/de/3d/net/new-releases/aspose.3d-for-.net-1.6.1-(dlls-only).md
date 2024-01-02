@@ -39,7 +39,7 @@ weight: 169
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/3dnet/Aspose.3D+for+.NET+1.6.1+Release+Notes">http://www.aspose.com/docs/display/3dnet/Aspose.3D+for+.NET+1.6.1+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur die Aspose.3D für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.3D für .NET ohne das MSI-Installationsprogramm verwenden möchten.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/3d/net/release-notes/2016/aspose-3d-for-net-1-6-1-release-notes/">https://releases.aspose.com/3d/net/release-notes/2016/aspose-3d-for-net-1-6-1-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur die Aspose.3D für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.3D für .NET ohne das MSI-Installationsprogramm verwenden möchten.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

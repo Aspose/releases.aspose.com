@@ -38,7 +38,7 @@ weight: 305
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Catatan rilis</h4>
 
-<div> <a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-3-release-notes/"> https://docs.aspose.com/ 3d/net/aspose-3d-for-net-22-3-release-notes/</a> </div>
+<div> <a href="https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-3-release-notes/"> https://docs.aspose.com/ 3d/net/aspose-3d-for-net-22-3-release-notes/</a> </div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesHeading h4txt="Fitur penting">}}
 {{< Common/wrapper class="HTMLDescription">}}
@@ -59,7 +59,7 @@ scene1.RootNode.Merge(scene2.RootNode);
 scene1.Save("output.fbx", FileFormat.FBX7700Binary);
 ```
 
-> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug di rilis ini, silakan kunjungi, [Aspose3d untuk catatan rilis Net 223](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-3-release-notes/).
+> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug di rilis ini, silakan kunjungi, [Aspose3d untuk catatan rilis Net 223](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-3-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

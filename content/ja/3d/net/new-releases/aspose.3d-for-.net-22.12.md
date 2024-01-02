@@ -14,7 +14,7 @@ file_size: "File Size: 13.39MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-12-release-notes/"
 weight: 323
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 323
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>リリースノート</h4>
-<a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/</a>
+<a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-12-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-12-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>説明</h4>
@@ -63,7 +63,7 @@ weight: 323
 
 「GLTF」ファイルには、「GLTF」または「GLB」ファイル拡張子のいずれかを持つことができることに注意してください。
 
->このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Net 2212リリースノートのAsopse3d](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/)にアクセスしてください。
+>このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Net 2212リリースノートのAsopse3d](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-12-release-notes/)にアクセスしてください。
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

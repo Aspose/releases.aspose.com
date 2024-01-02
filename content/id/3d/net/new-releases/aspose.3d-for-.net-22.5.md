@@ -35,7 +35,7 @@ weight: 309
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan Rilis</h4><div> <a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-5-release-notes/">https://docs.aspose.com/3d/net/aspose-3d-for-net-22-5-release-notes/</a></div>
+      <h4>Catatan Rilis</h4><div> <a href="https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-5-release-notes/">https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Fitur Penting">}}
@@ -58,7 +58,7 @@ Menambahkan kemampuan untuk mengekspor `VertexElementUserData` ke `glTF`.
 
 Menambahkan dukungan untuk Atribut Vertex Kustom GLTF.
 
-> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.3D for .NET 22.5 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-5-release-notes/).
+> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.3D for .NET 22.5 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

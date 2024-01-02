@@ -14,7 +14,7 @@ download_count: " 9/9/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 8.15MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/"
 weight: 318
 
 ---
@@ -38,7 +38,7 @@ weight: 318
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Ele contém asppos.3d para .NET 22.9 Release.</div>

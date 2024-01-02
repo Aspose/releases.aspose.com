@@ -14,7 +14,7 @@ file_size: "File Size: 11.92MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-10-release-notes/"
 weight: 319
 ---
 
@@ -37,7 +37,7 @@ weight: 319
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div> <a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-10-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-10-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div> <a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-10-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription"> Aspose.3D for .NET 22.10 sürümünü içerir.</div>
@@ -51,7 +51,7 @@ weight: 319
 
 3D işleme API'sine Autodesk® Maya ASCII Dosyasını içe aktarma özelliği eklendi. Artık 3D API'miz, giriş biçimi (.ma) olarak Maya ASCII biçimini desteklemektedir.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.3D for .NET 22.10 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-10-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.3D for .NET 22.10 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-10-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

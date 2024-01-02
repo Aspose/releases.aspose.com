@@ -14,7 +14,7 @@ download_count: " 16/6/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 42.75MB"
 parent_path: "3d/python-net"
 section_parent_path: "3d/python-net"
-release_notes_url: "https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-5-release-notes/"
 weight: 18
 
 ---
@@ -38,7 +38,7 @@ weight: 18
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-23-5-release-notes/'>https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-23-5-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-5-release-notes/'>https://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει AsPose.3d για Python μέσω .NET 23.5.0, MacOS X86, X64 απελευθέρωση.</div>

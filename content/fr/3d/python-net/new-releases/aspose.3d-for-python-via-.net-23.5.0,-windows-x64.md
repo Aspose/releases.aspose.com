@@ -14,7 +14,7 @@ download_count: " 16/6/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 37.78MB"
 parent_path: "3d/python-net"
 section_parent_path: "3d/python-net"
-release_notes_url: "https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-5-release-notes/"
 weight: 21
 tags: ['Aspose.Total', 'Aspose.3D', 'Python', 'Library', 'CAD', 'gameware', 'scene', 'object', 'model', 'modeling', 'render', 'VRML', 'polygon', 'linear', 'extrusion', 'viewport', 'cylinder', 'pointcloud', 'animation', 'geometry', 'format', 'file', '3DS', '3MF', 'AMF', 'ASE', 'RVM', 'DAE', 'DRC', 'DXF', 'FBX', 'gITF', 'OBJ', 'PDF', 'HTML', 'PLY', 'JT', 'STL', 'U3D', 'USD', 'USDZ', 'VRML', 'X', 'DirectX']
 ---
@@ -38,7 +38,7 @@ tags: ['Aspose.Total', 'Aspose.3D', 'Python', 'Library', 'CAD', 'gameware', 'sce
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-23-5-release-notes/'>https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-23-5-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-5-release-notes/'>https://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Il contient Aspose.3d pour Python via .NET 23.5.0, version Windows x64.</div>

@@ -35,7 +35,7 @@ weight: 307
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div> <a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-4-release-notes/">https://docs.aspose.com/3d/net/aspose-3d-for-net-22-4-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div> <a href="https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-4-release-notes/">https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Önemli Özellikler">}}
@@ -117,7 +117,7 @@ USD/USDZ'de Nokta bulutu içe aktarma desteği eklendi.
 
 USD/USDZ'de Nokta bulutu dışa aktarma desteği eklendi.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.3D for .NET 22.4 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-4-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.3D for .NET 22.4 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-4-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

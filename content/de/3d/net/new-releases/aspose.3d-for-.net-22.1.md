@@ -39,7 +39,7 @@ weight: 301
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-1-release-notes/">https://docs.aspose.com/3d/net/aspose-3d-for-net-22-1-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-1-release-notes/">https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Bemerkenswerte Eigenschaften">}}
@@ -58,7 +58,7 @@ Zuvor konnte die API in einigen Fällen keine „USDZ“-Dateien öffnen, um sie
 
 Unterstützung für die Codierung und Decodierung primitiver Entitäten im USD-Exporteur hinzugefügt.
 
-> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.3D for .NET 22.1 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-1-release-notes/).
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.3D for .NET 22.1 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

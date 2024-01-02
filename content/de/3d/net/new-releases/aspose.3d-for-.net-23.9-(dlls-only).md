@@ -16,7 +16,7 @@ parent_path: "3d/net"
 section_parent_path: "3d/net"
 
 tags: "3d"
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-9-release-notes/"
 weight: 344
 
 ---
@@ -40,7 +40,7 @@ weight: 344
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-23-9-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-23-9-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-9-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">Es enthält ASSOSE.3D für .NET 23.9 Release.</div>

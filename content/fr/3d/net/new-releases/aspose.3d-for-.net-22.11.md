@@ -14,7 +14,7 @@ file_size: "File Size: 13.37MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/"
 weight: 321
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 321
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Notes de version</h4>
-<a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/</a>
+<a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>La description</h4>
@@ -57,7 +57,7 @@ Amélioration de la qualité du maillage tout en convertissant le PDF 3D au form
 
 Dans cette version de l'API 3D, la prise en charge de .NET 4.5 a été restaurée.
 
-> Pour une liste complète des fonctionnalités, des améliorations et des corrections de bogues dans cette version, veuillez visiter [ASPOSE3D pour les notes de libération net 2211](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/).
+> Pour une liste complète des fonctionnalités, des améliorations et des corrections de bogues dans cette version, veuillez visiter [ASPOSE3D pour les notes de libération net 2211](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

@@ -14,7 +14,7 @@ file_size: "File Size: 10.02MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-6-release-notes/"
 weight: 310
 ---
 
@@ -37,7 +37,7 @@ weight: 310
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan Rilis</h4><div> <a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/</a></div>
+      <h4>Catatan Rilis</h4><div> <a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-6-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription"> Ini berisi Aspose.3D untuk .NET 22.6 rilis.</div>
@@ -55,7 +55,7 @@ Izinkan menyimpan adegan 3D tanpa menentukan format file.
 
 Pengecualian sebelumnya terjadi saat menyimpan `USDZ` ke `GLTF`. Masalah ini sekarang telah diselesaikan dalam versi API saat ini.
 
-> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.3D for .NET 22.6 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/).
+> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.3D for .NET 22.6 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

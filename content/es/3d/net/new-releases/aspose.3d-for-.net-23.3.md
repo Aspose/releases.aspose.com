@@ -14,7 +14,7 @@ download_count: " 15/3/2023 Descargars: 1  Views: 1 "
 file_size: "File Size: 12MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-23-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-3-release-notes/"
 weight: 329
 
 ---
@@ -38,7 +38,7 @@ weight: 329
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-23-3-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-23-3-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-3-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Contiene aspose.3d para .NET 23.3 lanzamiento.</div>

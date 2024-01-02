@@ -14,7 +14,7 @@ file_size: "File Size: 13.37MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/"
 weight: 321
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 321
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Выпуск заметок</h4>
-<a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/</a>
+<a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Описание</h4>
@@ -57,7 +57,7 @@ weight: 321
 
 В этой версии 3D API поддержка .NET 4.5 была восстановлена.
 
-> Для полного списка функций, улучшений и исправлений ошибок в этом выпуске, пожалуйста, посетите, [Aspose3d для Net 2211.](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/).
+> Для полного списка функций, улучшений и исправлений ошибок в этом выпуске, пожалуйста, посетите, [Aspose3d для Net 2211.](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

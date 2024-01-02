@@ -14,7 +14,7 @@ file_size: "File Size: 11.38MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-8-release-notes/"
 weight: 314
 ---
 
@@ -37,7 +37,7 @@ weight: 314
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lançamento</h4><div> <a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-8-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-8-release-notes/</a></div>
+      <h4>Notas de lançamento</h4><div> <a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-8-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription"> Ele contém Aspose.3D para a versão .NET 22.8.</div>
@@ -59,7 +59,7 @@ Anteriormente, os modelos convertidos de FBX para USDZ eram todos pretos. Esse p
 
 Os atributos do material não estavam sendo exportados quando nenhuma textura foi anexada. Este problema já foi resolvido.
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.3D for .NET 22.8 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-8-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.3D for .NET 22.8 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

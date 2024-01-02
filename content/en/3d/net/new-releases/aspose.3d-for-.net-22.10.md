@@ -14,7 +14,7 @@ file_size: "File Size: 11.92MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-10-release-notes/"
 weight: 319
 ---
 
@@ -37,7 +37,7 @@ weight: 319
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-10-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-10-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-10-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 22.10 release.</div>
@@ -51,7 +51,7 @@ weight: 319
 
 Added the ability in the 3D manipulation API to import the Autodesk&reg; Maya ASCII File. Now our 3D API supports the Maya ASCII format as an input format (.ma).
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 22.10 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-10-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 22.10 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-10-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

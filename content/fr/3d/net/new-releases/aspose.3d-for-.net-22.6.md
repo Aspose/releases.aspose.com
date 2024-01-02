@@ -14,7 +14,7 @@ file_size: "File Size: 10.02MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url : "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/"
+release_notes_url : "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-6-release-notes/"
 weight: 310
 ---
 
@@ -37,7 +37,7 @@ weight: 310
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div> <a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/</a></div>
+      <h4>Notes de version</h4><div> <a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-6-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription"> Il contient Aspose.3D pour la version .NET 22.6.</div>
@@ -55,7 +55,7 @@ Autoriser l'enregistrement de la scène 3D sans spécifier le format de fichier.
 
 Auparavant, une exception s'est produite lors de l'enregistrement de `USDZ` dans `GLTF`. Ce problème est maintenant résolu dans la version actuelle de l'API.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.3D for .NET 22.6 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.3D for .NET 22.6 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

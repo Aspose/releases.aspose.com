@@ -16,7 +16,7 @@ parent_path: "3d/net"
 section_parent_path: "3d/net"
 
 tags: "3d"
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-23-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-10-release-notes/"
 weight: 346
 
 ---
@@ -40,7 +40,7 @@ weight: 346
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-23-10-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-23-10-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-10-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">.NET 23.10 sürümü için aspose.3d içerir.</div>

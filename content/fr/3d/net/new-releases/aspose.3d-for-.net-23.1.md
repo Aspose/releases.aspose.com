@@ -14,7 +14,7 @@ file_size: "File Size: 13.33MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-1-release-notes/"
 weight: 325
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 325
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Notes de version</h4>
-<a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-23-1-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-23-1-release-notes/</a>
+<a href='https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-1-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-1-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>La description</h4>
@@ -63,7 +63,7 @@ Des améliorations ont été apportées aux conversions de format 3D suivantes:
 
 - ** USD au format de fichier de la description de la scène universelle de Pixar (USD) au format Google Draco (DRC).
 
-> Pour une liste complète des fonctionnalités, des améliorations et des corrections de bogues dans cette version, veuillez visiter [ASPOSE3D pour les notes de libération net 231](https://docs.aspose.com/3d/net/aspose-3d-for-net-23-1-release-notes/).
+> Pour une liste complète des fonctionnalités, des améliorations et des corrections de bogues dans cette version, veuillez visiter [ASPOSE3D pour les notes de libération net 231](https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-1-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

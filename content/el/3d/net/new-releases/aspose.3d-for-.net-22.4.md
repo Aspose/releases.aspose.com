@@ -35,7 +35,7 @@ weight: 307
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div> <a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-4-release-notes/">https://docs.aspose.com/3d/net/aspose-3d-for-net-22-4-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div> <a href="https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-4-release-notes/">https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Αξιοσημείωτα χαρακτηριστικά">}}
@@ -117,7 +117,7 @@ private unsafe static void ExportCustomFieldToGLTF()
 
 Προστέθηκε η υποστήριξη εξαγωγής Point cloud σε USD/USDZ.
 
-> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.3D for .NET 22.4 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-4-release-notes/).
+> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.3D for .NET 22.4 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

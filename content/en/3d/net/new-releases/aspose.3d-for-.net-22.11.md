@@ -14,7 +14,7 @@ file_size: "File Size: 13.37MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/"
 weight: 321
 ---
 
@@ -38,7 +38,7 @@ weight: 321
 
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4>
-<div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/</a></div>
+<div><a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/</a></div>
 
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
@@ -63,7 +63,7 @@ Improved quality of Mesh while converting 3D PDF to GLTF format.
 
 In this version of the 3D API the support of .NET 4.5 has been restored.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 22.11 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 22.11 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

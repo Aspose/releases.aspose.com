@@ -14,7 +14,7 @@ file_size: "File Size: 11.37MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/"
 weight: 317
 ---
 
@@ -37,7 +37,7 @@ weight: 317
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lançamento</h4><div> <a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/</a></div>
+      <h4>Notas de lançamento</h4><div> <a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription"> Ele contém Aspose.3D para a versão .NET 22.9.</div>
@@ -55,7 +55,7 @@ Adicionado o suporte do sistema de arquivos temporários internos para o importa
 
 A exportação `GLTF` não era tão boa nas versões anteriores. No entanto, com o lançamento da versão atual da API 3D, o recurso de exportação de arquivos no formato `GLTF` foi aprimorado.
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.3D for .NET 22.9 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.3D for .NET 22.9 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

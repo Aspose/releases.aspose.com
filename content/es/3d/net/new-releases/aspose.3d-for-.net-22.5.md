@@ -35,7 +35,7 @@ weight: 309
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div> <a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-5-release-notes/">https://docs.aspose.com/3d/net/aspose-3d-for-net-22-5-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div> <a href="https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-5-release-notes/">https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Características notables">}}
@@ -58,7 +58,7 @@ Se agregó la capacidad de exportar `VertexElementUserData` a `glTF`.
 
 Se agregó la compatibilidad con los atributos de vértice personalizados de GLTF.
 
-> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.3D for .NET 22.5 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-5-release-notes/).
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.3D for .NET 22.5 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

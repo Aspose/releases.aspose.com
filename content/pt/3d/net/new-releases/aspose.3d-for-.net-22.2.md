@@ -39,7 +39,7 @@ weight: 303
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lançamento</h4><div> <a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-2-release-notes/">https://docs.aspose.com/3d/net/aspose-3d-for-net-22-2-release-notes/</a></div>
+      <h4>Notas de lançamento</h4><div> <a href="https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-2-release-notes/">https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Recursos notáveis">}}
@@ -88,7 +88,7 @@ Permite codificar os metadados da cena e do nó para `USD`.
 
 Permite decodificar os metadados da cena e do nó de `USD`.
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.3D for .NET 22.2 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-2-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.3D for .NET 22.2 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

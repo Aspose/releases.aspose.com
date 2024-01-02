@@ -14,7 +14,7 @@ file_size: "File Size: 12MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-23-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-3-release-notes/"
 weight: 329
 ---
 
@@ -37,7 +37,7 @@ weight: 329
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-23-3-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-23-3-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-3-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 23.3 release.</div>
@@ -55,7 +55,7 @@ Improved support for the FBX (Filmbox) Autodesk gameware format and Maya&reg;.
 
 Convert FBX to USD (Universal Scene Description) 3D file format.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 23.3 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-23-3-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 23.3 Release Notes](https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

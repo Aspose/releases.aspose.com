@@ -59,7 +59,7 @@ scene1.RootNode.Merge(scene2.RootNode);
 scene1.Save("output.fbx", FileFormat.FBX7700Binary);
 ```
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite, [Aspose3d para Not 223 Notas de lançamento](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-3-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite, [Aspose3d para Not 223 Notas de lançamento](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-3-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

@@ -39,7 +39,7 @@ weight: 301
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Примечания к выпуску</h4><div> <a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-1-release-notes/">https://docs.aspose.com/3d/net/aspose-3d-for-net-22-1-release-notes/</a></div>
+      <h4>Примечания к выпуску</h4><div> <a href="https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-1-release-notes/">https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Примечательные особенности">}}
@@ -58,7 +58,7 @@ weight: 301
 
 Добавлена поддержка кодирования и декодирования примитивных объектов в экспортере USD.
 
-> Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.3D for .NET 22.1 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-1-release-notes/).
+> Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.3D for .NET 22.1 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

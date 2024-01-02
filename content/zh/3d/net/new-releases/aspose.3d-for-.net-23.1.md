@@ -14,7 +14,7 @@ file_size: "File Size: 13.33MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-1-release-notes/"
 weight: 325
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 325
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>发行说明</h4>
-<a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-23-1-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-23-1-release-notes/</a>
+<a href='https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-1-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-1-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>描述</h4>
@@ -63,7 +63,7 @@ weight: 325
 
  -  ** USD到DRC ** PIXAR的通用场景描述（USD）文件格式为Google Draco（DRC）格式。
 
->有关此版本中的功能，增强功能和错误修复的完整列表，请访问[Aspose3d for Net 231发行说明](https://docs.aspose.com/3d/net/aspose-3d-for-net-23-1-release-notes/)。
+>有关此版本中的功能，增强功能和错误修复的完整列表，请访问[Aspose3d for Net 231发行说明](https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-1-release-notes/)。
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

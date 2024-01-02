@@ -38,7 +38,7 @@ weight: 305
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Notas de lanzamiento</h4>
 
-<Div> <a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-3-release-notes/"> https://docs.aspose.com/ 3D/NET/Aspose-3D-For-Net-22-3-Release-Notes/</a> </div>
+<Div> <a href="https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-3-release-notes/"> https://docs.aspose.com/ 3D/NET/Aspose-3D-For-Net-22-3-Release-Notes/</a> </div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesHeading h4txt="Características notables">}}
 {{< Common/wrapper class="HTMLDescription">}}
@@ -59,7 +59,7 @@ scene1.RootNode.Merge(scene2.RootNode);
 scene1.Save("output.fbx", FileFormat.FBX7700Binary);
 ```
 
-> Para obtener una lista completa de características, mejoras y correcciones de errores en esta versión, visite, [Aspose3D para Net 223 Notas de versión](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-3-release-notes/).
+> Para obtener una lista completa de características, mejoras y correcciones de errores en esta versión, visite, [Aspose3D para Net 223 Notas de versión](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-3-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

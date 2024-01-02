@@ -14,7 +14,7 @@ file_size: "File Size: 11.37MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/"
 weight: 317
 ---
 
@@ -37,7 +37,7 @@ weight: 317
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.3D für die Version .NET 22.9.</div>
@@ -55,7 +55,7 @@ Die Unterstützung des internen temporären Dateisystems für den FBX-Importer w
 
 Der GLTF-Export war in den vorherigen Versionen nicht so gut. Mit der aktuellen Version der 3D-API wurde jedoch die Exportfunktion von Dateien im GLTF-Format verbessert.
 
-> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.3D for .NET 22.9 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/).
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.3D for .NET 22.9 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -14,7 +14,7 @@ file_size: "File Size: 13.37MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/"
 weight: 321
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 321
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Σημειώσεις έκδοσης</h4>
-<a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/</a>
+<a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Περιγραφή</h4>
@@ -57,7 +57,7 @@ weight: 321
 
 Σε αυτή την έκδοση του 3D API έχει αποκατασταθεί η υποστήριξη του .NET 4.5.
 
-> Για μια πλήρη λίστα χαρακτηριστικών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτή την έκδοση, επισκεφθείτε, [ASPOSPES3D για NET 2211 Σημειώσεις κυκλοφορίας](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-11-release-notes/).
+> Για μια πλήρη λίστα χαρακτηριστικών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτή την έκδοση, επισκεφθείτε, [ASPOSPES3D για NET 2211 Σημειώσεις κυκλοφορίας](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-11-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

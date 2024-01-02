@@ -59,7 +59,7 @@ scene1.RootNode.Merge(scene2.RootNode);
 scene1.Save("output.fbx", FileFormat.FBX7700Binary);
 ```
 
->有关此版本中的功能，增强功能和错误修复的完整列表，请访问[Aspose3d for Net 223发行说明](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-3-release-notes/)。
+>有关此版本中的功能，增强功能和错误修复的完整列表，请访问[Aspose3d for Net 223发行说明](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-3-release-notes/)。
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

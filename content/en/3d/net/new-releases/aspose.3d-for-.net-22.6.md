@@ -14,7 +14,7 @@ file_size: "File Size: 10.02MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-6-release-notes/"
 weight: 310
 ---
 
@@ -37,7 +37,7 @@ weight: 310
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-6-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 22.6 release.</div>
@@ -55,7 +55,7 @@ Allow save 3D scene without specifying the file format.
 
 Previously exception occurred while saving `USDZ` to `GLTF`. This issue has now been resolved in the current version of the API.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 22.6 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 22.6 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -39,7 +39,7 @@ weight: 212
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/3dnet/Aspose.3D+for+.NET+18.4+-+April+2018">https://docs.aspose.com/display/3dnet/Aspose.3D+for+.NET+18.4+-+April+2018</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/3d/net/release-notes/2018/aspose-3d-for-net-18-4-release-notes/">https://releases.aspose.com/3d/net/release-notes/2018/aspose-3d-for-net-18-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

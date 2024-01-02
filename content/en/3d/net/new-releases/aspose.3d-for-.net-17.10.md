@@ -39,7 +39,7 @@ weight: 200
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/3dnet/Aspose.3D+for+.NET+17.10+-+October+2017">https://docs.aspose.com/display/3dnet/Aspose.3D+for+.NET+17.10+-+October+2017</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/3d/net/release-notes/2017/aspose-3d-for-net-17-10-release-notes/">https://releases.aspose.com/3d/net/release-notes/2017/aspose-3d-for-net-17-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -39,7 +39,7 @@ weight: 301
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-1-release-notes/">https://docs.aspose.com/3d/net/aspose-3d-for-net-22-1-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-1-release-notes/">https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="注目すべき機能">}}
@@ -58,7 +58,7 @@ weight: 301
 
 USD エクスポーターにプリミティブ エンティティのエンコードとデコードのサポートを追加しました。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.3D for .NET 22.1 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-1-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.3D for .NET 22.1 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-1-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -14,7 +14,7 @@ file_size: "File Size: 10.02MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-6-release-notes/"
 weight: 310
 ---
 
@@ -37,7 +37,7 @@ weight: 310
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-6-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">Aspose.3D for .NET 22.6 リリースが含まれています。</div>
@@ -55,7 +55,7 @@ weight: 310
 
 以前は `USDZ` を `GLTF` に保存中に例外が発生していました。この問題は、現在のバージョンの API で解決されています。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.3D for .NET 22.6 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-6-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.3D for .NET 22.6 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-6-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -14,7 +14,7 @@ file_size: "File Size: 13.39MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-12-release-notes/"
 weight: 323
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 323
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Notas de liberação</h4>
-<a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/</a>
+<a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-12-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-12-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Descrição</h4>
@@ -63,7 +63,7 @@ Capacidade de converter um arquivo `dxf` em formatos` GLTF` ou `glb`. O GLTF (fo
 
 Observe que um arquivo `GLTF` pode ter uma extensão de arquivo` GLTF` ou `Glb`.
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite, [Aspose3d para Notes Net 2212 Notas de lançamento](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite, [Aspose3d para Notes Net 2212 Notas de lançamento](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-12-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

@@ -14,7 +14,7 @@ file_size: "File Size: 13.39MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-12-release-notes/"
 weight: 323
 ---
 
@@ -38,7 +38,7 @@ weight: 323
 
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4>
-<div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/</a></div>
+<div><a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-12-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-12-release-notes/</a></div>
 
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
@@ -68,7 +68,7 @@ Ability to convert a `DXF` file into `gltf` or `glb` formats. glTF (GL Transmiss
 
 Please note that a `glTF` file can either have `gltf` or `glb` file extension.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 22.12 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.3D for .NET 22.12 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-12-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

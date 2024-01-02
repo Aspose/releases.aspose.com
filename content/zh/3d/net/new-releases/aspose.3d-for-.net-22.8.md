@@ -14,7 +14,7 @@ file_size: "File Size: 11.38MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: “https://docs.aspose.com/3d/net/aspose-3d-for-net-22-8-release-notes/”
+release_notes_url: “https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-8-release-notes/”
 weight: 314
 ---
 
@@ -37,7 +37,7 @@ weight: 314
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-8-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-8-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-8-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含 .NET 22.8 版本的 Aspose.3D。</div>
@@ -59,7 +59,7 @@ weight: 314
 
 未附加纹理时未导出材质属性。现在这个问题已经解决了。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.3D for .NET 22.8 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-8-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.3D for .NET 22.8 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-8-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

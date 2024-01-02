@@ -16,7 +16,7 @@ parent_path: "3d/python-net"
 section_parent_path: "3d/python-net"
 
 tags: ["Aspose.3D"]
-release_notes_url: "https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-5-release-notes/"
 weight: 1
 
 ---
@@ -40,7 +40,7 @@ weight: 1
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-23-5-release-notes/'>https://docs.aspose.com/3d/python-net/aspose-3d-for-python-net-23-5-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-5-release-notes/'>https://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">Java 23.5経由のPythonのAsopsion.3dがリリースされました</div>

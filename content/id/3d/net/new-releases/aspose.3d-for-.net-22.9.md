@@ -14,7 +14,7 @@ file_size: "File Size: 11.37MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/"
 weight: 317
 ---
 
@@ -37,7 +37,7 @@ weight: 317
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan Rilis</h4><div> <a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/</a></div>
+      <h4>Catatan Rilis</h4><div> <a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription"> Ini berisi Aspose.3D untuk .NET 22.9 rilis.</div>
@@ -55,7 +55,7 @@ Menambahkan dukungan sistem file sementara internal untuk importir FBX.
 
 Ekspor `GLTF` tidak sebaik rilis sebelumnya. Namun dengan rilis versi 3D API saat ini, fitur ekspor file format `GLTF` telah ditingkatkan.
 
-> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.3D for .NET 22.9 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-9-release-notes/).
+> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.3D for .NET 22.9 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

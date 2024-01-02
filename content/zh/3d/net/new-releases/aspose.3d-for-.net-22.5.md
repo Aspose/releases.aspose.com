@@ -35,7 +35,7 @@ weight: 309
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/3d/net/aspose-3d-for-net-22-5-release-notes/">https://docs.aspose.com/3d/net/aspose-3d-for-net-22-5-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-5-release-notes/">https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="显着特点">}}
@@ -58,7 +58,7 @@ Mesh triangulate 支持带有映射模式 Polygon / PolygonVertex 的 `VertexEle
 
 添加了对 GLTF 自定义顶点属性的支持。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.3D for .NET 22.5 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-5-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.3D for .NET 22.5 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-5-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

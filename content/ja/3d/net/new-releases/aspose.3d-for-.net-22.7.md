@@ -14,7 +14,7 @@ file_size: "File Size: 11.34MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-7-release-notes/"
 weight: 312
 ---
 
@@ -37,7 +37,7 @@ weight: 312
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-7-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-7-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-7-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">Aspose.3D for .NET 22.7 リリースが含まれています。</div>
@@ -55,7 +55,7 @@ weight: 312
 
 `A3DW` フォーマットの代わりに、HTML5 のデフォルトの内部フォーマットとして `USDZ` にサポートを切り替えました。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.3D for .NET 22.7 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-7-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.3D for .NET 22.7 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-7-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

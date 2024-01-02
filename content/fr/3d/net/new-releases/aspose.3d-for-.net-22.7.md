@@ -14,7 +14,7 @@ file_size: "File Size: 11.34MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url : "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-7-release-notes/"
+release_notes_url : "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-7-release-notes/"
 weight: 312
 ---
 
@@ -37,7 +37,7 @@ weight: 312
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div> <a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-7-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-7-release-notes/</a></div>
+      <h4>Notes de version</h4><div> <a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-7-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription"> Il contient Aspose.3D pour la version .NET 22.7.</div>
@@ -55,7 +55,7 @@ Ajout de la prise en charge de .NET 6.0.
 
 Changement de la prise en charge de `USDZ` comme format interne par défaut de HTML5 au lieu du format `A3DW`.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.3D for .NET 22.7 Release Notes](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-7-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.3D for .NET 22.7 Release Notes](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -14,7 +14,7 @@ file_size: "File Size: 13.39MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-12-release-notes/"
 weight: 323
 ---
 {{< Releases/ReleasesWapper >}}
@@ -35,7 +35,7 @@ weight: 323
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Σημειώσεις έκδοσης</h4>
-<a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/</a>
+<a href='https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-12-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-12-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Περιγραφή</h4>
@@ -63,7 +63,7 @@ weight: 323
 
 Λάβετε υπόψη ότι ένα αρχείο GLTF` μπορεί είτε να έχει `GLTF` ή` GLB` επέκταση αρχείου.
 
-> Για μια πλήρη λίστα χαρακτηριστικών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτή την έκδοση, παρακαλώ επισκεφθείτε, [ASPOSPER3D για NET 2212 Σημειώσεις κυκλοφορίας](https://docs.aspose.com/3d/net/aspose-3d-for-net-22-12-release-notes/).
+> Για μια πλήρη λίστα χαρακτηριστικών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτή την έκδοση, παρακαλώ επισκεφθείτε, [ASPOSPER3D για NET 2212 Σημειώσεις κυκλοφορίας](https://releases.aspose.com/3d/net/release-notes/2022/aspose-3d-for-net-22-12-release-notes/).
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

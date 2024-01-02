@@ -15,7 +15,7 @@ file_size: "File Size: 9.06MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
 tags: ['3D', '3D-Modeling', '3D-Objects', '3D-PDF', '3D-Scene', '3D-Studio-Max', '3D-Viewports', '3DS', '3D-to-GLTF2.0', '3D-to-HTML', '3D-to-PDF', '3MF', 'AMF', 'Animation', 'ASE', 'Aspose.3D', 'Aspose.Total', 'AutoCAD', 'Autodesk', 'Collada', 'Conholdate', 'Conholdate.Total', 'Cylinder', 'DAE', 'Darco', 'DirectX', 'DRC', 'DXF', 'FBX', 'Geometry', 'gITF', 'HTML', 'JT', 'Linear-Extrusion', 'Mesh', 'Morph', 'NURBS', 'OBJ', 'PDF', 'PLY', 'PointCloud', 'Polygons', 'Redenring', 'RVM', 'Skeleton', 'STL', 'U3D', 'VRML', 'Wavefront', 'X']
-release_notes_url: "https://docs.aspose.com/3d/net/aspose-3d-for-net-23-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-8-release-notes/"
 weight: 342
 
 ---
@@ -39,7 +39,7 @@ weight: 342
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/3d/net/aspose-3d-for-net-23-8-release-notes/'>https://docs.aspose.com/3d/net/aspose-3d-for-net-23-8-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-8-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.3d для .NET 23.8.</div>
