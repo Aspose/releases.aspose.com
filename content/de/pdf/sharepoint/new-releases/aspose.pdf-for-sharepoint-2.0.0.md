@@ -39,7 +39,7 @@ weight: 27
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/pdfsharepoint/Aspose.Pdf+for+SharePoint+2.0.0+Release+Notes">http://www.aspose.com/docs/display/pdfsharepoint/Aspose.Pdf+for+SharePoint+2.0.0+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/pdf/sharepoint/release-notes/2015/aspose-pdf-for-sharepoint-2-0-0-release-notes/">https://releases.aspose.com/pdf/sharepoint/release-notes/2015/aspose-pdf-for-sharepoint-2-0-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
