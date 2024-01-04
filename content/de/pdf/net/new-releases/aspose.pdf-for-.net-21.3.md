@@ -39,7 +39,7 @@ weight: 781
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/pdf/net/aspose-pdf-for-net-21-3-release-notes/">https://docs.aspose.com/pdf/net/aspose-pdf-for-net-21-3-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/pdf/net/release-notes/2021/aspose-pdf-for-net-21-3-release-notes/">https://releases.aspose.com/pdf/net/release-notes/2021/aspose-pdf-for-net-21-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

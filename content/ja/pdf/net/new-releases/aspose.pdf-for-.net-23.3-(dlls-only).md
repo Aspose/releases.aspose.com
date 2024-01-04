@@ -14,7 +14,7 @@ download_count: " 15/3/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 155.71MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-3-release-notes"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-3-release-notes"
 weight: 841
 
 ---
@@ -38,7 +38,7 @@ weight: 841
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-3-release-notes'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-3-release-notes</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-3-release-notes'>https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-3-release-notes</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">このZIPファイルには、.NETアセンブリ用のAsops.pdfのみが含まれています。アセンブリは、同じバージョンの製品のMSIインストーラーと同じです。 MSIインストーラーなしでAspose.pdfを使用する場合は、これをダウンロードしてください。</div>

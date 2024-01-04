@@ -39,7 +39,7 @@ weight: 743
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/pdfnet/Aspose.PDF+for+.NET+19.8+Release+Notes">https://docs.aspose.com/display/pdfnet/Aspose.PDF+for+.NET+19.8+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/pdf/net/release-notes/2019/aspose-pdf-for-net-19-8-release-notes/">https://releases.aspose.com/pdf/net/release-notes/2019/aspose-pdf-for-net-19-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

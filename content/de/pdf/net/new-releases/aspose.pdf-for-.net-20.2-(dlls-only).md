@@ -39,7 +39,7 @@ weight: 754
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/pdfnet/Aspose.PDF+for+.NET+20.2+Release+Notes">https://docs.aspose.com/display/pdfnet/Aspose.PDF+for+.NET+20.2+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur die Aspose.PDF für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.PDF ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen. Dieser ZIP-Download enthält nicht die Benutzerdokumentation im Microsoft-Hilfeformat, die im MSI-Installationsprogramm enthalten ist.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/pdf/net/release-notes/2020/aspose-pdf-for-net-20-2-release-notes/">https://releases.aspose.com/pdf/net/release-notes/2020/aspose-pdf-for-net-20-2-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur die Aspose.PDF für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.PDF ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen. Dieser ZIP-Download enthält nicht die Benutzerdokumentation im Microsoft-Hilfeformat, die im MSI-Installationsprogramm enthalten ist.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

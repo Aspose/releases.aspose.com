@@ -14,7 +14,7 @@ download_count: " 19/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 219.29MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-release_notes_url: “https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-10-release-notes”
+release_notes_url: “https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-10-release-notes/”
 weight: 824
 
 ---
@@ -38,7 +38,7 @@ weight: 824
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-10-release-notes'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-10-release-notes</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-10-release-notes/'>https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">此 ZIP 文件仅包含 .NET 程序集的 Aspose.PDF。程序集与相同版本产品的 MSI 安装程序中的程序集相同。如果您想在没有 MSI 安装程序的情况下使用 Aspose.PDF，请下载此文件。</div>

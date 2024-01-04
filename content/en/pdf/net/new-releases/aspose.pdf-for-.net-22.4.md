@@ -35,7 +35,7 @@ weight: 809
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-4-release-notes/">https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-4-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 22.4 release.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-4-release-notes/">https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-4-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 22.4 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
 
@@ -68,7 +68,7 @@ A problem was observed while encrypting PDF files. This issue has now been resol
 
 While converting PDF to Image format few extra horizontal lines were appearing in resultant image. This issue has now been resolved.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PDF for .NET 22.4 Release Notes](https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-4-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PDF for .NET 22.4 Release Notes](https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

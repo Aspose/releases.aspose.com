@@ -16,7 +16,7 @@ parent_path: "pdf/net"
 section_parent_path: "pdf/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-9-release-notes/"
 weight: 857
 
 ---
@@ -40,7 +40,7 @@ weight: 857
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-9-release-notes/'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-9-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-9-release-notes/'>https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">该zip文件仅包含.net组件的aspose.pdf。组件与同一版本的产品的MSI安装程序相同。如果您想在没有MSI安装程序的情况下使用Aspose.pdf，请下载此。</div>

@@ -14,7 +14,7 @@ download_count: " 13/4/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 188.14MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-4-release-notes"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-4-release-notes"
 weight: 846
 
 ---
@@ -38,7 +38,7 @@ weight: 846
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-4-release-notes'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-4-release-notes</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-4-release-notes'>https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-4-release-notes</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">File zip ini hanya berisi aspose.pdf untuk rakitan .net. Rakitannya sama seperti di penginstal MSI dari produk dari versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.pdf tanpa penginstal MSI.</div>

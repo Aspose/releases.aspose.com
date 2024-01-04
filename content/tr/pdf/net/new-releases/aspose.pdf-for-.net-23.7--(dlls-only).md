@@ -14,7 +14,7 @@ download_count: " 14/7/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 160.8MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-7-release-notes"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-7-release-notes"
 weight: 853
 
 ---
@@ -38,7 +38,7 @@ weight: 853
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-7-release-notes'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-7-release-notes</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-7-release-notes'>https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-7-release-notes</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Bu zip dosyası, yalnızca .NET montajları için aspose.pdf içerir. Montajlar, aynı sürümün ürününün MSI yükleyicisiyle aynıdır. MSI yükleyicisi olmadan aspose.pdf kullanmak istiyorsanız bunu indirin.</div>

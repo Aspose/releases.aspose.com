@@ -14,7 +14,7 @@ file_size: "File Size: 217.33MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
 
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-8-release-notes"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-8-release-notes"
 weight: 820
 ---
 
@@ -37,7 +37,7 @@ weight: 820
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-8-release-notes'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-8-release-notes</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-8-release-notes'>https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-8-release-notes</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.pdf untuk rilis .net 22.8.</div>
@@ -56,7 +56,7 @@ Added the method for rebuild `XREF` table.
 
 Implemented the `AxialGradients` conversion feature in PDF to APS converter.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PDF for .NET 22.8 Catatan rilis](https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-8-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PDF for .NET 22.8 Catatan rilis](https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

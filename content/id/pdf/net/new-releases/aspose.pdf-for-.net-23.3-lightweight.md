@@ -14,7 +14,7 @@ download_count: " 17/3/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 9.55MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-3-release-notes"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-3-release-notes"
 weight: 843
 
 ---
@@ -38,7 +38,7 @@ weight: 843
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-3-release-notes'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-3-release-notes</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-3-release-notes'>https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-3-release-notes</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Aspose.pdf untuk .net ringan adalah versi ringan dari versi utama Aspose.pdf untuk .net dengan ukuran yang lebih kecil dan memungkinkan manajemen dokumen. Perakitan dapat digunakan untuk membuat, memodifikasi, mengamankan, dan mencetak dokumen PDF. File zip ini berisi Aspose.pdf untuk .NET 4.0 Framework Assembly.</div>

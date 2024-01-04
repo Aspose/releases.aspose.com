@@ -14,7 +14,7 @@ download_count: " 24/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 9.51MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-10-release-notes"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-10-release-notes/"
 weight: 825
 
 ---
@@ -38,7 +38,7 @@ weight: 825
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-10-release-notes'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-10-release-notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-10-release-notes/'>https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Aspose.PDF für .NET Lightweight ist eine Light-Version der Hauptversion Aspose.PDF für .NET mit einer geringeren Größe und ermöglicht die Verwaltung von Dokumenten. Assembly kann zum Erstellen, Ändern, Sichern und Drucken von PDF-Dokumenten verwendet werden. Diese ZIP-Datei enthält die Assembly Aspose.PDF für .NET 4.0 Framework.</div>

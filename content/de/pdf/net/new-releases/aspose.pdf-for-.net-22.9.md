@@ -14,7 +14,7 @@ download_count: " 12/9/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 217.82MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-9-release-notes"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-9-release-notes"
 weight: 823
 
 ---
@@ -38,7 +38,7 @@ weight: 823
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-9-release-notes'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-9-release-notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-9-release-notes'>https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-9-release-notes</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.PDF für die Version .NET 22.9.</div>

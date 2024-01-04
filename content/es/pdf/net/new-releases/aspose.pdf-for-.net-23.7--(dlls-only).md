@@ -14,7 +14,7 @@ download_count: " 14/7/2023 Descargars: 1  Views: 1 "
 file_size: "File Size: 160.8MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-7-release-notes"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-7-release-notes"
 weight: 853
 
 ---
@@ -38,7 +38,7 @@ weight: 853
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-7-release-notes'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-7-release-notes</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-7-release-notes'>https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-7-release-notes</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Este archivo zip contiene solo el aspose.pdf para los ensamblados .NET. Los conjuntos son los mismos que en el instalador MSI del producto de la misma versión. Descargue esto si desea usar Aspose.pdf sin el instalador MSI.</div>

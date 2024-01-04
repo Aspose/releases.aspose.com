@@ -13,7 +13,7 @@ download_count: " 20/6/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 217.05MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-6-release-notes/"
 weight: 813
 ---
 
@@ -36,7 +36,7 @@ weight: 813
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-6-release-notes/'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-6-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-6-release-notes/'>https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 22.6 release.</div>
@@ -71,7 +71,7 @@ Incorrect sequence of the text was observed in some instances of PDF to Text con
 
 Text alignment was getting changed unnecessarily while replacing text. This issue has now been resolved.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PDF for .NET 22.6 Release Notes](https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-6-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PDF for .NET 22.6 Release Notes](https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -13,7 +13,7 @@ download_count: " 10/6/2022 Downloads: 103  Views: 172 "
 file_size: "File Size: 190.5 MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-5-release-notes/"
 weight: 810
 ---
 
@@ -36,7 +36,7 @@ weight: 810
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-5-release-notes/'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-5-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-5-release-notes/'>https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 22.5 release.</div>
@@ -91,7 +91,7 @@ While exporting PDF to Excel&reg; it was observed that the column data in multip
 
 Also during PDF to PNG format export a blank image was being produced. This issue has also been resolved.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PDF for .NET 22.5 Release Notes](https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-5-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PDF for .NET 22.5 Release Notes](https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

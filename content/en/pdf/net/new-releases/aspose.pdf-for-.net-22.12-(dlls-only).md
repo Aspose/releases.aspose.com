@@ -14,7 +14,7 @@ download_count: " 19/12/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 209.64MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-12-release-notes"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-12-release-notes/"
 weight: 831
 
 ---
@@ -38,7 +38,7 @@ weight: 831
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-12-release-notes'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-12-release-notes</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-12-release-notes/'>https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.PDF for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.PDF without the MSI installer.</div>

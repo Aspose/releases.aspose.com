@@ -14,7 +14,7 @@ download_count: " 19/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 219.29MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-10-release-notes"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-10-release-notes/"
 weight: 824
 
 ---
@@ -38,7 +38,7 @@ weight: 824
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Примечания к выпуску</h4><div> <a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-10-release-notes'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-10-release-notes</a></div>
+      <h4>Примечания к выпуску</h4><div> <a href='https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-10-release-notes/'>https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription"> Этот ZIP-файл содержит только Aspose.PDF для сборок .NET. Сборки те же, что и в MSI-установщике продукта той же версии. Загрузите его, если хотите использовать Aspose.PDF без установщика MSI.</div>

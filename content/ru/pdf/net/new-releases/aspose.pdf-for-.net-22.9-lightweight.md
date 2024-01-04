@@ -14,7 +14,7 @@ download_count: " 15/9/2022 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 9.52MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-9-release-notes"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-9-release-notes"
 weight: 822
 
 ---
@@ -38,7 +38,7 @@ weight: 822
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-9-release-notes'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-9-release-notes</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-9-release-notes'>https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-9-release-notes</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Aspose.pdf для .NET Lightweight - это легкая версия основной версии Aspose.pdf для .net с меньшим размером и разрешением управления документами. Сборка может использоваться для создания, модификации, защиты и печати документов PDF. Этот zip -файл содержит aspose.pdf для сборки Framework .net 4.0.</div>

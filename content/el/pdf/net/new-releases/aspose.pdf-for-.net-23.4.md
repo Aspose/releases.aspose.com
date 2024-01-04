@@ -14,7 +14,7 @@ download_count: " 13/4/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 188.59MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-4-release-notes"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-4-release-notes"
 weight: 847
 
 ---
@@ -38,7 +38,7 @@ weight: 847
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-4-release-notes'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-4-release-notes</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-4-release-notes'>https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-4-release-notes</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει aspose.pdf για .NET 23.4 απελευθέρωση.</div>

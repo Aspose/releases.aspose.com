@@ -14,7 +14,7 @@ download_count: " 15/8/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 161.25MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-8-release-notes"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-8-release-notes"
 weight: 856
 tags: ['pdf-to-bmp', 'pdf-to-doc', 'pdf-to-docx', 'pdf-to-emf', 'pdf-to-epub', 'pdf-to-excel', 'pdf-to-html', 'pdf-to-jpg', 'pdf-to-latex', 'pdf-to-pdfa', 'pdf-to-png', 'pdf-to-pptx', 'pdf-to-svg', 'pdf-to-text', 'pdf-to-text', 'pdf-to-tiff', 'pdf-to-xls', 'pdf-to-xlsx', 'pdf-to-xps', 'pdfa-to-pdf', 'xml-to-pdf', 'xps-to-pdf']
 ---
@@ -38,7 +38,7 @@ tags: ['pdf-to-bmp', 'pdf-to-doc', 'pdf-to-docx', 'pdf-to-emf', 'pdf-to-epub', '
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-8-release-notes'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-8-release-notes</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-8-release-notes'>https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-8-release-notes</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει aspose.pdf για .NET 23.8 απελευθέρωση.</div>

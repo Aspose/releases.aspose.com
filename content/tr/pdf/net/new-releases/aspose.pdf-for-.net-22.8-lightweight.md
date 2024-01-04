@@ -14,7 +14,7 @@ download_count: " 17/8/2022 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 9.51MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-8-release-notes"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-8-release-notes"
 weight: 819
 
 ---
@@ -38,7 +38,7 @@ weight: 819
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-8-release-notes'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-8-release-notes</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-8-release-notes'>https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-8-release-notes</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">ASPOSE.PDF .NET Hafif Sweight, daha küçük boyutta ve belge yönetimine izin veren .NET için aspose.pdf ana sürümünün hafif bir versiyonudur. Montaj, PDF belgelerinin oluşturulması, değiştirilmesi, güvence altına alınması ve yazdırılması için kullanılabilir. Bu ZIP dosyası .NET 4.0 Framework Assemble için aspose.pdf içerir.</div>

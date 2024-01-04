@@ -14,7 +14,7 @@ download_count: " 17/3/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 9.55MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-release_notes_url: "https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-3-release-notes"
+release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-3-release-notes"
 weight: 843
 
 ---
@@ -38,7 +38,7 @@ weight: 843
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-3-release-notes'>https://docs.aspose.com/pdf/net/aspose-pdf-for-net-23-3-release-notes</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-3-release-notes'>https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-3-release-notes</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">.net for .net lightweightのaspose.pdfは、サイズが小さく、ドキュメント管理を可能にする.NET用のメインバージョンAspose.pdfの軽いバージョンです。アセンブリは、PDFドキュメントの作成、変更、保護、印刷に使用できます。このZIPファイルには、.NET 4.0フレームワークアセンブリのAsopsion.pdfが含まれています。</div>

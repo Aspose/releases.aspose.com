@@ -39,7 +39,7 @@ weight: 805
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-2-release-notes/">https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-2-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 22.2 release.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-2-release-notes/">https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-2-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 22.2 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
 
@@ -55,7 +55,7 @@ Support has been added to sign PDF files with `SHA256`.
 
 Image quality has been improved while converting PDF to image format. Also improved the image downscale quality.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PDF for .NET 22.2 Release Notes](https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-2-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.PDF for .NET 22.2 Release Notes](https://releases.aspose.com/pdf/net/release-notes/2022/aspose-pdf-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 
