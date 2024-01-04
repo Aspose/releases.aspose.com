@@ -9,7 +9,7 @@ family_listing_page_iconurl:  "https://releases.aspose.com/images/aspose/aspose_
 homepage_package_type: "Pip"
 homepage_package_link: "https://pypi.org/project/aspose-zip/"
 tags: ['Zip', 'compression', 'decompression', 'encryption', 'decryption', 'deflate', 'sfx', 'self-extracted', 'self-extractor', 'pack', 'unpack', 'compress', 'decompress', 'encrypt', 'decrypt', 'extract', 'ZipCrypto', 'bzip2', 'PPMd', 'cpio', 'tar', 'untar', 'gnu-tar', 'shar', 'gzip', 'lzip', 'LZMA', '7z', 'LZMA2', 'RAR', 'RAR4', 'RAR5', 'cab', 'wim', 'xar', 'xz', 'snappy', 'Z']
-weight: 2
+weight: 3
 
 ---
 
@@ -82,7 +82,7 @@ with zp.Archive("input_archive.zip") as archive:
 	archive.extract_to_directory("outputDirectory")
 
 ```
- 
+
 ## How to create 7z Archive with AES Encryption
 
 ```python

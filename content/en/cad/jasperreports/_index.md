@@ -13,7 +13,7 @@ family_listing_page_package: "279"
 homepage_package_type: "Maven"
 homepage_package_link: "https://repository.aspose.com/repo/com/aspose/aspose-cad-jasperreports/"
 tags: ['CAD', 'Report', 'JasperReport', 'DXF', 'DWF', 'DWFx', 'IFC', 'IGES', 'FBX', 'DWG', 'DWT', 'PLT', 'DGN', 'STL', 'OBJ', 'HPGFL', 'PCL', 'PDF', 'SVG', 'CF2', '3D', 'WMF', 'SVG', 'JPEG2000', 'PSD', 'TIFF', 'Java', 'JAR']
-weight:  3
+weight:  5
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/cad" linktext=" Support Forum " >}}

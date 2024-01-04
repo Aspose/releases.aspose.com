@@ -42,7 +42,7 @@ family_listing_page_package: "103"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-zip/"
 tags: ["Aspose Total", "Aspose ZIP", "Aspose Java API", "zip java library", "zip java class", "Maven", "Archive", "Decompression", "ZIP", "BZ2", "BZIP2", "GZIP", "LZMA", "LZMA2", "7z", "7-ZIP", "AES", "AES-128", "AES-192", "AES-256", "decrypt", "Windows", "Linux", "Mac", "J2SE"]
-weight: 03	#rem
+weight: 02	#rem
 forumLink: https://forum.aspose.com/c/zip
 productLink: https://products.aspose.com/zip/java/
 releaseNotesLink: https://releases.aspose.com/zip/java/release-notes/
