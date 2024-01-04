@@ -39,7 +39,7 @@ weight: 99
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/pdfreportingservices/Aspose.PDF+for+Reporting+Services+19.7+Release+Notes">https://docs.aspose.com/display/pdfreportingservices/Aspose.PDF+for+Reporting+Services+19.7+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/pdf/reportingservices/release-notes/2019/aspose-pdf-for-reporting-services-19-7-release-notes/">https://releases.aspose.com/pdf/reportingservices/release-notes/2019/aspose-pdf-for-reporting-services-19-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -39,7 +39,7 @@ weight: 94
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="http://www.aspose.com/docs/display/pdfreportingservices/Aspose.Pdf+for+Reporting+Services+3.3.0+Release+Notes">http://www.aspose.com/docs/display/pdfreportingservices/Aspose.Pdf+for+Reporting+Services+3.3.0+Release+Notes</a></div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/pdf/reportingservices/release-notes/2016/aspose-pdf-for-reporting-services-3-3-0-release-notes/">https://releases.aspose.com/pdf/reportingservices/release-notes/2016/aspose-pdf-for-reporting-services-3-3-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
