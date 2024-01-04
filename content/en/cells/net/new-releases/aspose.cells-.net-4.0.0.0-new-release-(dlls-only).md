@@ -7,10 +7,7 @@ folder_link: " cells/net/new-releases/aspose.cells-.net-4.0.0.0-new-release-(dll
 folder_name: " Aspose.Cells .Net 4.0.0.0 New Release (Dlls Only)"
 download_link: " /cells/net/new-releases/aspose.cells-.net-4.0.0.0-new-release-(dlls-only)/ef3f05f69bb84f77910fde84fa7a9f6c"
 download_text: " Download"
-Intro_text: " Dear Customers,
-We have released Aspose.Cells for .NET V4.0!
-
-Class name chan..."
+Intro_text: " Dear Customers, We have released Aspose.Cells for .NET V4.0! Class name chan..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 14  Views: 54"
 file_size: "  File Size: 446.4 KB "

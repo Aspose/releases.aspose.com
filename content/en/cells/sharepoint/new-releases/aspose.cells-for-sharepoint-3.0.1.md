@@ -7,11 +7,7 @@ folder_link: " cells/sharepoint/new-releases/aspose.cells-for-sharepoint-3.0.1/"
 folder_name: " Aspose.Cells for SharePoint 3.0.1"
 download_link: " /cells/sharepoint/new-releases/aspose.cells-for-sharepoint-3.0.1/dd7596669fe34bb7a2cb49c9fae86799"
 download_text: " Download"
-Intro_text: " We are happy to announce Aspose.Cells for SharePoint v3.0.1! 
-
-New Features
-
-..."
+Intro_text: " We are happy to announce Aspose.Cells for SharePoint v3.0.1! New Features..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   1/21/2013  Downloads: 86  Views: 885"
 file_size: "  File Size: 9.4 MB "

@@ -12,31 +12,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "61"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Cells.Cpp/"
-tags:
-  [
-    "Excel-to-PDF",
-    "Excel-to-PDFA",
-    "Workbook-to-PDFA",
-    "Excel-to-Image",
-    "Worksheet-to-Image",
-    "Excel-to-PNG",
-    "Worksheet-to-SVG",
-    "Excel-to-SVG",
-    "Workbook-to-PDF",
-    "Workbook-Formulas",
-    "Spreadsheet-API",
-    "Aspose.Cells",
-    "Aspose.Total",
-    "Conholdate",
-    "Conholdate.Total",
-    "Chart",
-    "Chart-Rendering",
-    "OLE-Objects",
-    "Range",
-    "C++",
-    "CPP",
-    "Native",
-  ]
+tags:  ["Excel-to-PDF", "Excel-to-PDFA", "Workbook-to-PDFA", "Excel-to-Image", "Worksheet-to-Image", "Excel-to-PNG", "Worksheet-to-SVG", Excel-to-SVG", "Workbook-to-PDF", "Workbook-Formulas", "Spreadsheet-API", "Aspose.Cells", "Aspose.Total", "Conholdate", "Conholdate.Total", "Chart", "Chart-Rendering", "OLE-Objects", "Range", "C++", "CPP", "Native"]
 weight: 3
 ---
 

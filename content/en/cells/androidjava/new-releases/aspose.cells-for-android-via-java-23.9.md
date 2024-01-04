@@ -2,7 +2,7 @@
 
 title: "Downloads ---New Releases-aspose.cells-for-android-via-java-23.9"
 description: " "
-keywords: ""
+keywords: " "
 page_type: single_release_page
 folder_link: "/cells/androidjava/new-releases/aspose.cells-for-android-via-java-23.9/"
 folder_name: "Aspose.Cells for Android via Java 23.9"
@@ -14,8 +14,7 @@ download_count: " 15/9/2023 Downloads: 231  Views: 1 "
 file_size: "File Size: 11.05MB"
 parent_path: "cells/androidjava"
 section_parent_path: "cells/androidjava"
-
-tags: ""
+tags: " "
 release_notes_url: "https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-23-9-release-notes/"
 weight: 86
 

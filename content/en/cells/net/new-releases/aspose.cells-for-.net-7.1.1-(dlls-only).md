@@ -7,9 +7,7 @@ folder_link: " cells/net/new-releases/aspose.cells-for-.net-7.1.1-(dlls-only)/"
 folder_name: " Aspose.Cells for .NET 7.1.1 (DLLs only)"
 download_link: " /cells/net/new-releases/aspose.cells-for-.net-7.1.1-(dlls-only)/98495e067ebe4c6f951e2d696dfa2e0c"
 download_text: " Download"
-Intro_text: " This
- ZIP file contains only the Aspose.Cells for .NET assemblies. The 
-assemb..."
+Intro_text: " This ZIP file contains only the Aspose.Cells for .NET assemblies. The assemb..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/13/2012  Downloads: 349  Views: 580"
 file_size: "  File Size: 16.8 MB "

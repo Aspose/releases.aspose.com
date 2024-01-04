@@ -7,10 +7,7 @@ folder_link: " cells/net/new-releases/aspose.cells-.net-4.0.3.0-hot-fix-(dlls-on
 folder_name: " Aspose.Cells .Net 4.0.3.0 Hot Fix (Dlls Only)"
 download_link: " /cells/net/new-releases/aspose.cells-.net-4.0.3.0-hot-fix-(dlls-only)/9a91e78043314cdba6465ac5e181c523"
 download_text: " Download"
-Intro_text: " Dear Customers,
-We have released Aspose.Cells for .NET v4.0.3!
-
-Supported ima..."
+Intro_text: " Dear Customers, We have released Aspose.Cells for .NET v4.0.3! Supported ima..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 55  Views: 258"
 file_size: "  File Size: 468.2 KB "

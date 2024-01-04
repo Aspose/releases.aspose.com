@@ -7,10 +7,7 @@ folder_link: " cells/net/new-releases/aspose.cells-.net-3.7.0.0-new-release-(dll
 folder_name: " Aspose.Cells .Net 3.7.0.0 New Release (Dlls Only)"
 download_link: " /cells/net/new-releases/aspose.cells-.net-3.7.0.0-new-release-(dlls-only)/884770d726cf45af9958a06c221a4e11"
 download_text: " Download"
-Intro_text: " Dear Customers,
-We have released Aspose.Cells 3.7 for .NET!
-Name Change
-Pleas..."
+Intro_text: " Dear Customers, We have released Aspose.Cells 3.7 for .NET! Name Change Pleas..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 25  Views: 112"
 file_size: "  File Size: 404.9 KB "

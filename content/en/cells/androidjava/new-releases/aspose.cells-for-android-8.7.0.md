@@ -7,11 +7,7 @@ folder_link: " cells/androidjava/new-releases/aspose.cells-for-android-8.7.0/"
 folder_name: " Aspose.Cells for Android 8.7.0"
 download_link: " /cells/androidjava/new-releases/aspose.cells-for-android-8.7.0/6db44039fa9747bdabf5b414cf635dbc"
 download_text: " Download"
-Intro_text: " Aspose.Cells for Android has been updated to version 8.7.0.
- 
- 
-Note
-Since t..."
+Intro_text: " Aspose.Cells for Android has been updated to version 8.7.0. Note Since t..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/3/2016  Downloads: 62  Views: 472"
 file_size: "  File Size: 7.3 MB "

@@ -7,10 +7,7 @@ folder_link: " cells/net/new-releases/aspose.grid-.net-1.9.2.0-hot-fix/"
 folder_name: " Aspose.Grid .Net 1.9.2.0 Hot Fix"
 download_link: " /cells/net/new-releases/aspose.grid-.net-1.9.2.0-hot-fix/234529935c254f88a70c0cf83cf02b99"
 download_text: " Download"
-Intro_text: " Dear Customers,
- We have just released Aspose.Grid v1.9.2!
-Introduction
-This ..."
+Intro_text: " Dear Customers, We have just released Aspose.Grid v1.9.2! Introduction This ..."
 image_link: "/resources/img/random-file-icon.png"
 download_count: "   7/25/2007  Downloads: 275  Views: 1027"
 file_size: "  File Size: 8.7 MB "

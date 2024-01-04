@@ -7,10 +7,7 @@ folder_link: " cells/net/new-releases/aspose.cells-.net-4.0.1.0-hot-fix/"
 folder_name: " Aspose.Cells .Net 4.0.1.0 Hot Fix"
 download_link: " /cells/net/new-releases/aspose.cells-.net-4.0.1.0-hot-fix/5c92142a36fe4443a7ff7878dc191f42"
 download_text: " Download"
-Intro_text: " Dear Customers,
-We have released Aspose.Cells for .NET v4.0.1!
-
-Added new cha..."
+Intro_text: " Dear Customers, We have released Aspose.Cells for .NET v4.0.1! Added new cha..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 7  Views: 99"
 file_size: "  File Size: 4.0 MB "

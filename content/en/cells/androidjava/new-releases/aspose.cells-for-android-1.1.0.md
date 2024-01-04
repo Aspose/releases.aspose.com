@@ -7,12 +7,7 @@ folder_link: " cells/androidjava/new-releases/aspose.cells-for-android-1.1.0/"
 folder_name: " Aspose.Cells for Android 1.1.0"
 download_link: " /cells/androidjava/new-releases/aspose.cells-for-android-1.1.0/b0223abb3e364822862cc8fd3fd47516"
 download_text: " Download"
-Intro_text: " We are happy to announce
-Aspose.Cells for Android v1.1.0!
-
- 
-
-New Features ..."
+Intro_text: " We are happy to announce Aspose.Cells for Android v1.1.0! New Features ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   10/2/2013  Downloads: 172  Views: 632"
 file_size: "  File Size: 7.7 MB "

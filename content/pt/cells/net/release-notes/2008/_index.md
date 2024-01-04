@@ -1,0 +1,13 @@
+---
+id: release-notes-200
+linktitle: 200
+title: Notas de versão - 200
+productName: Aspose.Cells for .Ne
+weight: 26
+description: Esta seção contém as notas de lançamento do Aspose.Cells para .Net para o ano de 2008. Nessas notas de lançamento, estamos publicando a lista de problemas que foram corrigidos na versão atual, bem como quaisquer alterações públicas do API e comportamentais.
+type: repositor
+layout: release
+hideChildren: false
+toc: false
+family_listing_page_title: Release Notes - 200
+---

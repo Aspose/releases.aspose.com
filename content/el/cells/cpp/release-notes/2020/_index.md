@@ -1,0 +1,13 @@
+---
+id: release-notes-202
+linktitle: 202
+title: Σημειώσεις Έκδοσης - 202
+productName: Aspose.Cells for CP
+weight: 4
+description: Αυτή η ενότητα περιέχει τις σημειώσεις έκδοσης του Aspose.Cells για το CPP για το έτος 2020. Σε αυτές τις σημειώσεις έκδοσης, δημοσιεύουμε τη λίστα των ζητημάτων που έχουν επιδιορθωθεί στην τρέχουσα έκδοση, καθώς και τυχόν δημόσιο API και αλλαγές συμπεριφοράς
+type: repositor
+layout: release
+hideChildren: false
+toc: false
+family_listing_page_title: Release Notes - 202
+---

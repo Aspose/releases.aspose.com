@@ -1,0 +1,19 @@
+---
+id: aspose-cells-for-reporting-services-23-7-release-note
+slug: aspose-cells-for-reporting-services-23-7-release-note
+linktitle: Aspose.Cells Raporlama Hizmetleri 23.7 Sürüm Notu
+title: Aspose.Cells Raporlama Hizmetleri 23.7 Sürüm Notu
+weight: 15
+description: Aspose.Cells Reporting Services 23.7, çeşitli formattaki raporların oluşturulmasını destekler. örneğin Xlsx, Pdf, Json, Docx, Pptx, Html, Svg, Ods, Png vb.
+type: repositor
+layout: releas
+family_listing_page_title: Aspose.Cells Reporting Services 23.7 Release Note
+---
+{{% alert color="primary" %}} 
+Bu sayfa Aspose.Cells Raporlama Hizmetleri için sürüm notlarını içerir.
+'{{% /alert %}} '
+##  **Bu Sürümün kapsadığı sorunların ve geliştirmelerin tam listesi**
+
+|**ID**|**Özet**|**Kategori**|
+| :- | :- | :- |
+| 41670 | Aspose.Cells Raporlama Hizmetleri çekirdeğini optimize edin.|

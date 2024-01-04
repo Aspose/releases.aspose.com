@@ -7,13 +7,7 @@ folder_link: " cells/net/new-releases/aspose.cells-for-.net-7.3.5/"
 folder_name: " Aspose.Cells for .NET 7.3.5"
 download_link: " /cells/net/new-releases/aspose.cells-for-.net-7.3.5/d6ff497403574addb37b1a27a1fae3e8"
 download_text: " Download"
-Intro_text: " We
-are happy to announce Aspose.Cells for .NET v7.3.5!
-
- 
-
-1) Aspose.Cells
-..."
+Intro_text: " We are happy to announce Aspose.Cells for .NET v7.3.5!1) Aspose.Cells..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   12/26/2012  Downloads: 909  Views: 1390"
 file_size: "  File Size: 27.1 MB "

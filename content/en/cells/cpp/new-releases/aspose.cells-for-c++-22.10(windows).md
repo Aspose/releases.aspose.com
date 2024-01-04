@@ -2,7 +2,7 @@
 
 title: "Downloads ---New Releases-aspose.cells-for-c++-22.10(windows)"
 description: " "
-keywords: ""
+keywords: " "
 page_type: single_release_page
 folder_link: "/cells/cpp/new-releases/aspose.cells-for-c++-22.10(windows)/"
 folder_name: "Aspose.Cells for C++ 22.10(Windows)"
@@ -14,7 +14,6 @@ download_count: " 12/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 60.45MB"
 parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
-
 tags: ["C++", "Windows", "Excel", "Aspose.Cells"]
 release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-10-release-notes-windows/"
 weight: 89

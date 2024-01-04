@@ -7,9 +7,7 @@ folder_link: " cells/net/new-releases/aspose.grid-.net-1.7.1.0-hot-fix/"
 folder_name: " Aspose.Grid .Net 1.7.1.0 Hot Fix"
 download_link: " /cells/net/new-releases/aspose.grid-.net-1.7.1.0-hot-fix/baac25ca3199430a9d4b378c92fd275b"
 download_text: " Download"
-Intro_text: " Dear Customers,
-   We have just released Aspose.Grid 1.7.1!
-   Aspose.Grid.Web..."
+Intro_text: " Dear Customers, We have just released Aspose.Grid 1.7.1! Aspose.Grid.Web..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 1  Views: 363"
 file_size: "  File Size: 6.4 MB "

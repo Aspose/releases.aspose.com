@@ -2,7 +2,7 @@
 
 title: "Downloads ---New Releases-aspose.cells-for-cpp-22.10---october-2022"
 description: " "
-keywords: ""
+keywords: " "
 page_type: single_release_page
 folder_link: "/cells/cpp/new-releases/aspose.cells-for-cpp-22.10---october-2022/"
 folder_name: "Aspose.Cells for C++ 22.10(Linux)"

@@ -2,7 +2,7 @@
 
 title: "Downloads ---New Releases-aspose.cells-for-c++-22.12(linux)"
 description: " "
-keywords: ""
+keywords: " "
 page_type: single_release_page
 folder_link: "/cells/cpp/new-releases/aspose.cells-for-c++-22.12(linux)/"
 folder_name: "Aspose.Cells for C++ 22.12(Linux)"

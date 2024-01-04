@@ -7,9 +7,7 @@ folder_link: " cells/net/new-releases/aspose.grid-.net-1.5.0.0-new-release/"
 folder_name: " Aspose.Grid .Net 1.5.0.0 New Release"
 download_link: " /cells/net/new-releases/aspose.grid-.net-1.5.0.0-new-release/e81c1c0935af464abbac06190b1dbc51"
 download_text: " Download"
-Intro_text: " Dear Customers,
-We have release Aspose.Grid v1.5!
-Aspose.Grid is your total gr..."
+Intro_text: " Dear Customers, We have release Aspose.Grid v1.5! Aspose.Grid is your total gr..."
 image_link: "/resources/img/msi-icon.png"
 download_count: "   7/25/2007  Downloads: 22  Views: 136"
 file_size: "  File Size: 4.3 MB "

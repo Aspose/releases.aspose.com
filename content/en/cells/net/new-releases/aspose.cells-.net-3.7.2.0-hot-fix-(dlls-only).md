@@ -7,10 +7,7 @@ folder_link: " cells/net/new-releases/aspose.cells-.net-3.7.2.0-hot-fix-(dlls-on
 folder_name: " Aspose.Cells .Net 3.7.2.0 Hot Fix (Dlls Only)"
 download_link: " /cells/net/new-releases/aspose.cells-.net-3.7.2.0-hot-fix-(dlls-only)/50a958281d9a4980a644dc586241f3ca"
 download_text: " Download"
-Intro_text: " Dear Customers,
-We have released Aspose.Cells for .NET v3.7.2!
-
-Enhanced form..."
+Intro_text: " Dear Customers, We have released Aspose.Cells for .NET v3.7.2! Enhanced form..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 5  Views: 66"
 file_size: "  File Size: 411.2 KB "

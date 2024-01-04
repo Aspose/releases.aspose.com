@@ -7,8 +7,7 @@ folder_link: " cells/reportingservices/new-releases/aspose.cells-reporting-servi
 folder_name: " Aspose.Cells Reporting Services 1.0.0.0 New Release (Dlls Only)"
 download_link: " /cells/reportingservices/new-releases/aspose.cells-reporting-services-1.0.0.0-new-release-(dlls-only)/fb2e535ff47649ecb2396d3dea7a80d6"
 download_text: " Download"
-Intro_text: " Introduction
-Aspose.Cells for Reporting Services allows you to deliver nati..."
+Intro_text: " Introduction Aspose.Cells for Reporting Services allows you to deliver nati..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   7/25/2007  Downloads: 52  Views: 726"
 file_size: "  File Size: 754.9 KB "

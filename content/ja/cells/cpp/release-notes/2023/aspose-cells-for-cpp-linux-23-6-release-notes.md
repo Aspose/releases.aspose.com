@@ -1,0 +1,22 @@
+---
+id: aspose-cells-for-cpp-linux-23-6-release-note
+slug: aspose-cells-for-cpp-linux-23-6-release-note
+linktitle: CPP 23.6 リリース ノート Linu の Aspose.Cells
+title: CPP 23.6 リリース ノート Linu の Aspose.Cells
+weight: 70
+description: CPP 23.6 リリース ノート Linux 用 Aspose.Cells – 最新の拡張機能、新機能、および修正
+type: repositor
+layout: releas
+family_listing_page_title: Aspose.Cells for CPP 23.6 Release Notes Linu
+keywords: Aspose.Cells for CPP 23.6 Release Notes Linux, Aspose.Cells for CPP 23.6 Linux updates and fixe
+---
+{{% alert color="primary" %}}
+
+このページには、Linux 用 Aspose.Cells for C++ 23.6 のリリース ノートが含まれています。
+
+{{% /alert %}}
+
+Linux 用 Aspose.Cells for C++ 23.6 のリリースを発表できることを嬉しく思います。
+|**鍵**|**まとめ**|**カテゴリー**|
+| :- | :- | :- |
+|CELLSCPP-991|.NET バージョンの同期機能|
