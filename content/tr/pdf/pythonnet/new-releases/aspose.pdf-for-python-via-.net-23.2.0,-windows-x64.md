@@ -14,7 +14,7 @@ download_count: " 22/6/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 71.73MB"
 parent_path: "pdf/pythonnet"
 section_parent_path: "pdf/pythonnet"
-release_notes_url: "https://docs.aspose.com/pdf/python-net/release-notes/"
+release_notes_url: "https://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-2-release-notes/"
 weight: 6
 
 ---
@@ -38,7 +38,7 @@ weight: 6
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/pdf/python-net/release-notes/'>https://docs.aspose.com/pdf/python-net/release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-2-release-notes/'>https://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">.NET 23.2.0, Windows X64 sürümü üzerinden python için aspose.pdf içerir.</div>

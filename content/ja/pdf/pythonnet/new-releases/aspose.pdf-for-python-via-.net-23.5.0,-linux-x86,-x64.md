@@ -14,7 +14,7 @@ download_count: " 22/6/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 97.78MB"
 parent_path: "pdf/pythonnet"
 section_parent_path: "pdf/pythonnet"
-release_notes_url: "https://docs.aspose.com/pdf/python-net/release-notes/"
+release_notes_url: "https://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-5-release-notes/"
 weight: 13
 
 ---
@@ -38,7 +38,7 @@ weight: 13
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/pdf/python-net/release-notes/'>https://docs.aspose.com/pdf/python-net/release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-5-release-notes/'>https://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">.NET 23.5.0、Linux X86、X64リリースを介してPython用のAspose.pdfが含まれています。</div>

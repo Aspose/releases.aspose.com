@@ -16,7 +16,7 @@ parent_path: "pdf/pythonnet"
 section_parent_path: "pdf/pythonnet"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/pdf/python-net/release-notes/"
+release_notes_url: "https://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-9-release-notes/"
 weight: 27
 
 ---
@@ -40,12 +40,10 @@ weight: 27
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/pdf/python-net/release-notes/'>https://docs.aspose.com/pdf/python-net/release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-9-release-notes/'>https://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.pdf untuk python melalui .net 23.9.0, rilis Windows x64.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-

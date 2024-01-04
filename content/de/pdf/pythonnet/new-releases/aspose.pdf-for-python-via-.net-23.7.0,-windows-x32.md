@@ -16,7 +16,7 @@ parent_path: "pdf/pythonnet"
 section_parent_path: "pdf/pythonnet"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/pdf/python-net/release-notes/"
+release_notes_url: "https://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-7-release-notes/"
 weight: 20
 
 ---
@@ -40,12 +40,10 @@ weight: 20
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/pdf/python-net/release-notes/'>https://docs.aspose.com/pdf/python-net/release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-7-release-notes/'>https://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">Es enthält ASPOSPE.PDF für Python über .NET 23.7.0, Windows X32 Release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
