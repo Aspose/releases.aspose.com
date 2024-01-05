@@ -4,7 +4,7 @@ title: "Λήψεις --- Νέες κυκλοφορίες-aspose.ocr-για-c ++-
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/ocr/cpp/new-releases/aspose.ocr-for-c++-23.12/"
+folder_link: "/ocr/cpp/new-releases/aspose.ocr.cpp.23.12.0/"
 folder_name: "Aspose.ocr για C ++ 23.12"
 download_link: "/ocr/cpp/new-releases/aspose.ocr-for-c++-23.12/b2fecf7db710d0f9e95ca10a64047cda-43-10120"
 download_text: "Κατεβάστε"
@@ -47,5 +47,3 @@ weight: 109
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
