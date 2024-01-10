@@ -1,8 +1,13 @@
 ---
-title: Aspose.Cells for .NET 24.1 Release Notes
-type: docs
+id: "aspose-cells-for-net-24-1-release-notes"
+slug: "aspose-cells-for-net-24-1-release-notes"
+linktitle: "Aspose.Cells for .NET 24.1 Release Notes"
+title: "Aspose.Cells for .NET 24.1 Release Notes"
 weight: 12
-url: /net/aspose-cells-for-net-24-1-release-notes/
+description: "Aspose.Cells for .NET 24.1 Release Notes ¨C the latest updates and fixes."
+type: "repository"
+layout: "release"
+family_listing_page_title: "Aspose.Cells for .NET 24.1 Release Notes"
 ---
 
 {{% alert color="primary" %}}
