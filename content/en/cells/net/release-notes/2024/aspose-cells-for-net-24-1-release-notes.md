@@ -1,13 +1,14 @@
 ---
 id: "aspose-cells-for-net-24-1-release-notes"
 slug: "aspose-cells-for-net-24-1-release-notes"
-linktitle: "Aspose.Cells for .NET 24.1 Release Notes"
-title: "Aspose.Cells for .NET 24.1 Release Notes"
+linktitle: "Aspose.Cells for .NET 23.1 Release Notes"
+title: "Aspose.Cells for .NET 23.1 Release Notes"
 weight: 12
-description: "Aspose.Cells for .NET 24.1 Release Notes ¨C the latest updates and fixes."
+description: "Aspose.Cells for .Net 23.1 Release Notes â€“ the latest enhancements, new features, and fixes."
 type: "repository"
 layout: "release"
-family_listing_page_title: "Aspose.Cells for .NET 24.1 Release Notes"
+family_listing_page_title: "Aspose.Cells for .NET 23.1 Release Notes"
+keywords: "Aspose.Cells for .Net 23.1 Release Notes, Aspose.Cells for .Net 23.1 updates and fixes"
 ---
 
 {{% alert color="primary" %}}
@@ -91,4 +92,3 @@ Represents the auto fill type.
 ### **Adds CellRange.AutoFill method in GridDesktop**
 
 Automatically fill the target range.
-
