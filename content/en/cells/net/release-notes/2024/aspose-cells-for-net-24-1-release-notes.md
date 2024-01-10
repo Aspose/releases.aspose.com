@@ -4,7 +4,7 @@ slug: "aspose-cells-for-net-24-1-release-notes"
 linktitle: "Aspose.Cells for .NET 24.1 Release Notes"
 title: "Aspose.Cells for .NET 24.1 Release Notes"
 weight: 12
-description: "Aspose.Cells for .Net 24.1 Release Notes – the latest enhancements, new features, and fixes."
+description: "Aspose.Cells for .Net 24.1 Release Notes – the latest enhancements, new features, and fixes. "
 type: "repository"
 layout: "release"
 family_listing_page_title: "Aspose.Cells for .NET 24.1 Release Notes"
