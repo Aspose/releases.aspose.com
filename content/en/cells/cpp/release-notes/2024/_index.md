@@ -1,6 +1,6 @@
 ---
 id: "release-notes-2024"
-linktitle: "2023"
+linktitle: "2024"
 title: "Release Notes - 2024"
 productName: "Aspose.Cells for CPP"
 weight: 1
