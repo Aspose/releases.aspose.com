@@ -111,7 +111,7 @@ Deprecated API | Replacement
 
 The examples below illustrates the changes introduced in this release:
 
-### Enable retrieving properties form Madagascar passports
+### Enable retrieving properties from Madagascar passports
 
 ```csharp
 Aspose.OCR.AsposeOcr recognitionEngine = new Aspose.OCR.AsposeOcr();
