@@ -39,7 +39,7 @@ weight: 670
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/pdfnet/Aspose.Pdf+for+.NET+11.9.0+Release+Notes">http://www.aspose.com/docs/display/pdfnet/Aspose.Pdf+for+.NET+11.9.0+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur das Aspose.Pdf für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Pdf ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen. Dieser ZIP-Download enthält nicht die Benutzerdokumentation im Microsoft-Hilfeformat, die im MSI-Installationsprogramm enthalten ist.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/pdf/net/release-notes/2016/aspose-pdf-for-net-11-9-0-release-notes/">https://releases.aspose.com/pdf/net/release-notes/2016/aspose-pdf-for-net-11-9-0-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur das Aspose.Pdf für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Pdf ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen. Dieser ZIP-Download enthält nicht die Benutzerdokumentation im Microsoft-Hilfeformat, die im MSI-Installationsprogramm enthalten ist.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
