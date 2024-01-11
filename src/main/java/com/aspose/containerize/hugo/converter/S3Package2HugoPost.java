@@ -140,7 +140,7 @@ public class S3Package2HugoPost {
 
     	if(migratedReleaseNotesProduct.contains(productId)) {
 
-    		productVersionMap.put("ReleaseNotes",new String("https://releases.aspose.com/" + productId + "/java/release-notes/2023/aspose-" + productId + "-for-java-" + id + "-release-notes/"));
+    		productVersionMap.put("ReleaseNotes",new String("https://releases.aspose.com/" + productId + "/java/release-notes/2024/aspose-" + productId + "-for-java-" + id + "-release-notes/"));
     	}else {
 
     		productVersionMap.put("ReleaseNotes",new String("https://docs.aspose.com/" + productId + "/java/aspose-" + productId + "-for-java-" + id + "-release-notes/"));
