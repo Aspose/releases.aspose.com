@@ -39,7 +39,7 @@ weight: 675
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/pdfnet/Aspose.Pdf+for+.NET+16.10.0+Release+Notes">http://www.aspose.com/docs/display/pdfnet/Aspose.Pdf+for+.NET+16.10.0+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">We are pleased to share a new version of Aspose.Pdf for .NET with following improvements.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/pdf/net/release-notes/2016/aspose-pdf-for-net-16-10-0-release-notes/">https://releases.aspose.com/pdf/net/release-notes/2016/aspose-pdf-for-net-16-10-0-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">We are pleased to share a new version of Aspose.Pdf for .NET with following improvements.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
