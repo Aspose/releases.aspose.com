@@ -92,3 +92,7 @@ Represents the auto fill type.
 ### **Adds CellRange.AutoFill method in GridDesktop**
 
 Automatically fill the target range.
+
+### **Adds GridDesktop.ShowNumberStoredAsTextSymbol property in GridDesktop**
+
+Sets or Gets whether show the triangle symbol for the cell which contains number string but stored as text format.
