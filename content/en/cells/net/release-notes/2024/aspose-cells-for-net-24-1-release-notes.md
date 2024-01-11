@@ -79,7 +79,7 @@ Group the number or datetime pivot field.
 
 ### **Adds PptxSaveOptions.ExportViewType and enum SlideViewType**
 
-Indicates whether converting Excel to powerpoint as View or Printing.
+Indicates whether converting Excel to PowerPoint as View or Printing.
 
 ### **Adds GridCells.SortAsNumber method in GridDesktop**
 
