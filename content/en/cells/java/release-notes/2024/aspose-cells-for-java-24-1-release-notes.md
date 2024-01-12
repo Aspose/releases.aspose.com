@@ -18,6 +18,7 @@ This page contains release notes for [Aspose.Cells for Java 24.1](https://releas
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
+|CELLSJAVA-45816|Support jakarta.servlet for GridWeb java|New Feature
 |CELLSJAVA-45758|Support hightlighted sheet tabs in the output html for mobile devices|New Feature
 |CELLSJAVA-45705|Support json as data source of smart marker|New Feature
 |CELLSJAVA-45755|Show the first item of datetime group pivot fileld if the field contains blank item|Enhancement
