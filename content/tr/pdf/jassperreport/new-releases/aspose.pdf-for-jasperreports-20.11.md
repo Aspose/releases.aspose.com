@@ -40,7 +40,7 @@ tags: ['Aspose', 'Aspose.PDF', 'Aspose.Total', 'PDF', 'JRXML', 'PDF', 'PDFA', 'P
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/pdf/jasperreports/aspose-pdf-for-jasperreports-20-11/">https://docs.aspose.com/pdf/jasperreports/aspose-pdf-for-jasperreports-20-11/</a></div><h4>Tanım</h4><div class="HTMLDescription">Aşağıdaki iyileştirmelerle JasperReports için yeni bir Aspose.pdf sürümünü paylaşmaktan mutluluk duyuyoruz.</div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/pdf/jassperreport/release-notes/2020/aspose-pdf-for-jasperreports-20-11-release-notes/">https://releases.aspose.com/pdf/jassperreport/release-notes/2020/aspose-pdf-for-jasperreports-20-11-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">Aşağıdaki iyileştirmelerle JasperReports için yeni bir Aspose.pdf sürümünü paylaşmaktan mutluluk duyuyoruz.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

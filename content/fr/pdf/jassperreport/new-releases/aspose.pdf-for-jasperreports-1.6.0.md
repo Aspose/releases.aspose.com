@@ -39,7 +39,7 @@ weight: 16
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href="http://www.aspose.com/docs/display/pdfjasperreports/Aspose.Pdf+for+JasperReports+1.6.0">http://www.aspose.com/docs/display/pdfjasperreports/Aspose.Pdf+for+JasperReports+1.6.0</a></div><h4>La description</h4><div class="HTMLDescription">Nous sommes heureux de partager une nouvelle version d'Aspose.pdf pour JasperReports avec des améliorations suivantes.</div>
+      <h4>Notes de version</h4><div><a href="https://releases.aspose.com/pdf/jassperreport/release-notes/2016/aspose-pdf-for-jasperreports-1-6-0-release-notes/">https://releases.aspose.com/pdf/jassperreport/release-notes/2016/aspose-pdf-for-jasperreports-1-6-0-release-notes/</a></div><h4>La description</h4><div class="HTMLDescription">Nous sommes heureux de partager une nouvelle version d'Aspose.pdf pour JasperReports avec des améliorations suivantes.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

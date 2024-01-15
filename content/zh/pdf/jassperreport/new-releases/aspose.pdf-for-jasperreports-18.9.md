@@ -39,7 +39,7 @@ weight: 17
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/display/pdfjasperreports/Aspose.PDF+for+JasperReports+18.9">https://docs.aspose.com/display/pdfjasperreports/Aspose.PDF+for+JasperReports+18.9</a></div><h4>描述</h4><div class="HTMLDescription">我们很高兴分享一个新版本的aspose.pdf，用于jasperReports，并进行以下改进。</div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/pdf/jassperreport/release-notes/2018/aspose-pdf-for-jasperreports-18-9-release-notes/">https://releases.aspose.com/pdf/jassperreport/release-notes/2018/aspose-pdf-for-jasperreports-18-9-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">我们很高兴分享一个新版本的aspose.pdf，用于jasperReports，并进行以下改进。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

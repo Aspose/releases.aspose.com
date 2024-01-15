@@ -39,7 +39,7 @@ weight: 18
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href="https://docs.aspose.com/display/pdfjasperreports/Aspose.PDF+for+JasperReports+19.5">https://docs.aspose.com/display/pdfjasperreports/Aspose.PDF+for+JasperReports+19.5</a></div><h4>Descrição</h4><div class="HTMLDescription">Temos o prazer de compartilhar uma nova versão do Aspose.pdf para JasperReports com as seguintes melhorias.</div>
+      <h4>Notas de liberação</h4><div><a href="https://releases.aspose.com/pdf/jassperreport/release-notes/2019/aspose-pdf-for-jasperreports-19-5-release-notes/">https://releases.aspose.com/pdf/jassperreport/release-notes/2019/aspose-pdf-for-jasperreports-19-5-release-notes/</a></div><h4>Descrição</h4><div class="HTMLDescription">Temos o prazer de compartilhar uma nova versão do Aspose.pdf para JasperReports com as seguintes melhorias.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
