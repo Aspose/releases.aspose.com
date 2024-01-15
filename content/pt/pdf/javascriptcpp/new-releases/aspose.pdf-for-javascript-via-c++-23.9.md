@@ -16,7 +16,7 @@ parent_path: "pdf/javascriptcpp"
 section_parent_path: "pdf/javascriptcpp"
 
 tags: "PDF JavaScript JS"
-release_notes_url: "https://docs.aspose.com/pdf/javascript-cpp/release-notes-2023/aspose_pdf-for-javascript-cpp-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-9-release-notes/"
 weight: 10
 
 ---
@@ -40,7 +40,7 @@ weight: 10
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/pdf/javascript-cpp/release-notes-2023/aspose_pdf-for-javascript-cpp-23-9-release-notes/'>https://docs.aspose.com/pdf/javascript-cpp/release-notes-2023/aspose_pdf-for-javascript-cpp-23-9-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-9-release-notes/'>https://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Aspose.pdf para JavaScript</div>
