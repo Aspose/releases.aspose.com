@@ -39,7 +39,7 @@ weight: 528
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/pdfnet/Aspose.Pdf+for+.Net+3.5.8.0+Hot+Fix+Release+Notes">http://www.aspose.com/docs/display/pdfnet/Aspose.Pdf+for+.Net+3.5.8.0+Hot+Fix+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/pdf/net/release-notes/2007/aspose-pdf-for-net-3-5-8-0-hot-fix-release-notes/">https://releases.aspose.com/pdf/net/release-notes/2007/aspose-pdf-for-net-3-5-8-0-hot-fix-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

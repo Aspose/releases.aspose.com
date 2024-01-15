@@ -1,13 +1,13 @@
 ---
-id: "aspose-pdg-net-3-0-2-0-hot-fix-release-notes"
-slug: "aspose-pdg-net-3-0-2-0-hot-fix-release-notes"
-linktitle: "Aspose.PDG .NET 3.0.2.0 Hot Fix Release Notes"
-title: "Aspose.PDG .NET 3.0.2.0 Hot Fix Release Notes"
+id: "aspose-pdf-net-3-0-2-0-hot-fix-release-notes"
+slug: "aspose-pdf-net-3-0-2-0-hot-fix-release-notes"
+linktitle: "Aspose.PDF .NET 3.0.2.0 Hot Fix Release Notes"
+title: "Aspose.PDF .NET 3.0.2.0 Hot Fix Release Notes"
 weight: 430
-description: "Aspose.PDG .NET 3.0.2.0 Hot Fix Release Notes – the latest updates and fixes."
+description: "Aspose.PDF .NET 3.0.2.0 Hot Fix Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
-family_listing_page_title: "Aspose.PDG .NET 3.0.2.0 Hot Fix Release Notes"
+family_listing_page_title: "Aspose.PDF .NET 3.0.2.0 Hot Fix Release Notes"
 lastmod: "2021-06-05"
 sitemap:
   changefreq: "weekly"
