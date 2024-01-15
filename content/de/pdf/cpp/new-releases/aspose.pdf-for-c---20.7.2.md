@@ -39,7 +39,7 @@ weight: 107
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/pdfcpp/Aspose.PDF+for+CPP+20.7+Release+Notes">https://docs.aspose.com/display/pdfcpp/Aspose.PDF+for+CPP+20.7+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Hotfix für die Konvertierung von PDF in Excel</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/pdf/cpp/release-notes/2020/aspose-pdf-for-cpp-20-7-release-notes/">https://releases.aspose.com/pdf/cpp/release-notes/2020/aspose-pdf-for-cpp-20-7-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Hotfix für die Konvertierung von PDF in Excel</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

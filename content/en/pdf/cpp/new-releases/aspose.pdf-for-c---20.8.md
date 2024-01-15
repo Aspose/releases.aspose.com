@@ -1,7 +1,7 @@
 ---
-title:  "  Downloads ---New-Releases-aspose.pdf-for-c++-20.8 . " 
-description:  "    . " 
-keywords:  "    . " 
+title:  "  Downloads ---New-Releases-aspose.pdf-for-c++-20.8 . "
+description:  "    . "
+keywords:  "    . "
 page_type:  single_release_page
 folder_link: " pdf/cpp/new-releases/aspose.pdf-for-c---20.8/"
 folder_name: " Aspose.PDF for C++ 20.8"
@@ -25,21 +25,21 @@ weight: 108
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
-            {{< Common/li  >}} Downloads: {{< /Common/li >}} 
-      {{< Common/li class="downloadcount" id="dwn-update-6a02913b04da4be08de487e4c3c097cc" >}} 19 {{< /Common/li >}} 
-      {{< Common/li  >}} File Size: {{< /Common/li >}} 
-      {{< Common/li id="size-update-6a02913b04da4be08de487e4c3c097cc" >}} 359.5 MB {{< /Common/li >}} 
-      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}} 
+            {{< Common/li  >}} Downloads: {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-6a02913b04da4be08de487e4c3c097cc" >}} 19 {{< /Common/li >}}
+      {{< Common/li  >}} File Size: {{< /Common/li >}}
+      {{< Common/li id="size-update-6a02913b04da4be08de487e4c3c097cc" >}} 359.5 MB {{< /Common/li >}}
+      {{< Common/li  class="hide" >}} Posted By: {{< /Common/li >}}
       {{< Common/li class="hide" id="author-update-6a02913b04da4be08de487e4c3c097cc" >}} alexander.malokhovetskiy {{< /Common/li >}} 
-      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}} 
-      {{< Common/li class="hide" id="view-update-6a02913b04da4be08de487e4c3c097cc" >}} 62 {{< /Common/li >}} 
-      {{< Common/li  >}} Date Added: {{< /Common/li >}} 
-      {{< Common/li id="added-update-6a02913b04da4be08de487e4c3c097cc" >}} 8/24/2020 {{< /Common/li >}} 
+      {{< Common/li class="hide"  >}} Views: {{< /Common/li >}}
+      {{< Common/li class="hide" id="view-update-6a02913b04da4be08de487e4c3c097cc" >}} 62 {{< /Common/li >}}
+      {{< Common/li  >}} Date Added: {{< /Common/li >}}
+      {{< Common/li id="added-update-6a02913b04da4be08de487e4c3c097cc" >}} 8/24/2020 {{< /Common/li >}}
 
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://wiki.saltov.dynabic.com/bin/view/1PDF/Support/Release%20Notes/Aspose.Pdf%20for%20C%2B%2B/Aspose.PDF%20for%20C%2B%2B%2020.8%20-%20August%202020/">https://wiki.saltov.dynabic.com/bin/view/1PDF/Support/Release%20Notes/Aspose.Pdf%20for%20C%2B%2B/Aspose.PDF%20for%20C%2B%2B%2020.8%20-%20August%202020/</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/pdf/cpp/release-notes/2020/aspose-pdf-for-cpp-20-8-release-notes/">https://releases.aspose.com/pdf/cpp/release-notes/2020/aspose-pdf-for-cpp-20-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

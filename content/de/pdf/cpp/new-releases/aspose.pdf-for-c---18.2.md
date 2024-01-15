@@ -39,7 +39,7 @@ weight: 77
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/pdfcpp/Aspose.PDF+for+CPP+18.2+Release+Notes">https://docs.aspose.com/display/pdfcpp/Aspose.PDF+for+CPP+18.2+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/pdf/cpp/release-notes/2018/aspose-pdf-for-cpp-18-2-release-notes/">https://releases.aspose.com/pdf/cpp/release-notes/2018/aspose-pdf-for-cpp-18-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

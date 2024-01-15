@@ -39,7 +39,7 @@ weight: 74
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/pdfcpp/Aspose.Pdf+for+CPP+17.11+Release+Notes">https://docs.aspose.com/display/pdfcpp/Aspose.Pdf+for+CPP+17.11+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Pdf für C++ 17.11</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/pdf/cpp/release-notes/2017/aspose-pdf-for-cpp-17-11-release-notes/">https://releases.aspose.com/pdf/cpp/release-notes/2017/aspose-pdf-for-cpp-17-11-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Pdf für C++ 17.11</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

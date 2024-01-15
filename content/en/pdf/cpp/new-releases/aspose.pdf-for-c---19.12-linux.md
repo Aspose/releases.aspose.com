@@ -39,7 +39,7 @@ weight: 92
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/pdfcpp/Aspose.PDF+for+CPP+19.12+Release+Notes">https://docs.aspose.com/display/pdfcpp/Aspose.PDF+for+CPP+19.12+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">In this release we provide support of gcc, clang for Linux build</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/pdf/cpp/release-notes/2019/aspose-pdf-for-cpp-19-12-release-notes/">https://releases.aspose.com/pdf/cpp/release-notes/2019/aspose-pdf-for-cpp-19-12-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">In this release we provide support of gcc, clang for Linux build</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
