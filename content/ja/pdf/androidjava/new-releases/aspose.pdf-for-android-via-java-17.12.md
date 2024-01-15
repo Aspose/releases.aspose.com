@@ -39,7 +39,7 @@ weight: 25
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/display/pdfandroid/Aspose.Pdf+for+Android+via+Java+17.12+Release+Notes">https://docs.aspose.com/display/pdfandroid/Aspose.Pdf+for+Android+via+Java+17.12+Release+Notes</a></div><h4>説明</h4><div class="HTMLDescription">次の改善で、Java経由でAndroid用のAspose.pdfの新しいバージョンを発表していただきます。</div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/pdf/androidjava/release-notes/2017/aspose-pdf-for-android-via-java-17-12-release-notes/">https://releases.aspose.com/pdf/androidjava/release-notes/2017/aspose-pdf-for-android-via-java-17-12-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">次の改善で、Java経由でAndroid用のAspose.pdfの新しいバージョンを発表していただきます。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

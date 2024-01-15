@@ -39,7 +39,7 @@ weight: 28
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href="https://docs.aspose.com/display/pdfjava/Aspose.PDF+for+Android+via+Java+19.12+Release+Notes">https://docs.aspose.com/display/pdfjava/Aspose.PDF+for+Android+via+Java+19.12+Release+Notes</a></div><h4>Keterangan</h4><div class="HTMLDescription">Kami senang mengumumkan versi baru Aspose.pdf untuk Android melalui Java dengan peningkatan berikut.</div>
+      <h4>Catatan rilis</h4><div><a href="https://releases.aspose.com/pdf/androidjava/release-notes/2019/aspose-pdf-for-android-via-java-19-12-release-notes/">https://releases.aspose.com/pdf/androidjava/release-notes/2019/aspose-pdf-for-android-via-java-19-12-release-notes/</a></div><h4>Keterangan</h4><div class="HTMLDescription">Kami senang mengumumkan versi baru Aspose.pdf untuk Android melalui Java dengan peningkatan berikut.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

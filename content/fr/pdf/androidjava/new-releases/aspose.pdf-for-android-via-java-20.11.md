@@ -39,7 +39,7 @@ weight: 29
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href="https://docs.aspose.com/pdf/java/aspose-pdf-for-android-via-java-20-11-release-notes/">https://docs.aspose.com/pdf/java/aspose-pdf-for-android-via-java-20-11-release-notes/</a></div><h4>La description</h4><div class="HTMLDescription">Nous sommes heureux d'annoncer une nouvelle version d'Aspose.pdf pour Android via Java avec des améliorations suivantes.</div>
+      <h4>Notes de version</h4><div><a href="https://releases.aspose.com/pdf/androidjava/release-notes/2020/aspose-pdf-for-android-via-java-20-11-release-notes/">https://releases.aspose.com/pdf/androidjava/release-notes/2020/aspose-pdf-for-android-via-java-20-11-release-notes/</a></div><h4>La description</h4><div class="HTMLDescription">Nous sommes heureux d'annoncer une nouvelle version d'Aspose.pdf pour Android via Java avec des améliorations suivantes.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

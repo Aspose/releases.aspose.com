@@ -14,7 +14,7 @@ download_count: " 28/2/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 52.16MB"
 parent_path: "pdf/androidjava"
 section_parent_path: "pdf/androidjava"
-release_notes_url: "https://docs.aspose.com/pdf/java/aspose-pdf-for-android-via-java-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/pdf/androidjava/release-notes/2023/aspose-pdf-for-android-via-java-23-2-release-notes/"
 weight: 30
 
 ---
@@ -38,7 +38,7 @@ weight: 30
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/pdf/java/aspose-pdf-for-android-via-java-23-2-release-notes/'>https://docs.aspose.com/pdf/java/aspose-pdf-for-android-via-java-23-2-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/pdf/androidjava/release-notes/2023/aspose-pdf-for-android-via-java-23-2-release-notes/'>https://releases.aspose.com/pdf/androidjava/release-notes/2023/aspose-pdf-for-android-via-java-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Kami senang mengumumkan versi baru Aspose.pdf untuk Android melalui Java dengan peningkatan berikut.</div>

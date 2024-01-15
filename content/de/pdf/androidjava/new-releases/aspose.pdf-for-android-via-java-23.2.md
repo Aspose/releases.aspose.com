@@ -14,7 +14,7 @@ download_count: " 28/2/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 52.16MB"
 parent_path: "pdf/androidjava"
 section_parent_path: "pdf/androidjava"
-release_notes_url: "https://docs.aspose.com/pdf/java/aspose-pdf-for-android-via-java-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/pdf/androidjava/release-notes/2023/aspose-pdf-for-android-via-java-23-2-release-notes/"
 weight: 30
 
 ---
@@ -38,7 +38,7 @@ weight: 30
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/pdf/java/aspose-pdf-for-android-via-java-23-2-release-notes/'>https://docs.aspose.com/pdf/java/aspose-pdf-for-android-via-java-23-2-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/pdf/androidjava/release-notes/2023/aspose-pdf-for-android-via-java-23-2-release-notes/'>https://releases.aspose.com/pdf/androidjava/release-notes/2023/aspose-pdf-for-android-via-java-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">Wir freuen uns, eine neue Version von ASSOSPEN.PDF für Android über Java mit folgenden Verbesserungen bekannt zu geben.</div>

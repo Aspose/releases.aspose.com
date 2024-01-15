@@ -39,7 +39,7 @@ weight: 23
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/display/pdfandroid/Aspose.Pdf+for+Android+16.12.0+Release+Notes">https://docs.aspose.com/display/pdfandroid/Aspose.Pdf+for+Android+16.12.0+Release+Notes</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/pdf/androidjava/release-notes/2016/aspose-pdf-for-android-16-12-0-release-notes/">https://releases.aspose.com/pdf/androidjava/release-notes/2016/aspose-pdf-for-android-16-12-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
