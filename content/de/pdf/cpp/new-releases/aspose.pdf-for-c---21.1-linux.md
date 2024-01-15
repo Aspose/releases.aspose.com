@@ -39,7 +39,7 @@ weight: 119
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-21-1-release-notes/">https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-21-1-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> In dieser Version bieten wir Unterstützung für gcc, clang für Linux-Builds</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/pdf/cpp/release-notes/2021/aspose-pdf-for-cpp-21-1-release-notes/">https://releases.aspose.com/pdf/cpp/release-notes/2021/aspose-pdf-for-cpp-21-1-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> In dieser Version bieten wir Unterstützung für gcc, clang für Linux-Builds</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

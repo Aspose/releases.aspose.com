@@ -15,7 +15,7 @@ file_size: "File Size: 100.52MB"
 parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
 
-release_notes_url: "https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/pdf/cpp/release-notes/2022/aspose-pdf-for-cpp-22-6-release-notes/"
 weight: 153
 
 ---
@@ -39,7 +39,7 @@ weight: 153
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-22-6-release-notes/'>https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-22-6-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/pdf/cpp/release-notes/2022/aspose-pdf-for-cpp-22-6-release-notes/'>https://releases.aspose.com/pdf/cpp/release-notes/2022/aspose-pdf-for-cpp-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Linux-Version</div>

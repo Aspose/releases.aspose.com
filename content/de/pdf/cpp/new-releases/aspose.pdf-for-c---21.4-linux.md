@@ -39,7 +39,7 @@ weight: 125
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-21-4-release-notes/">https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-21-4-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> In dieser Version bieten wir Unterstützung für gcc, clang für Linux-Builds (ohne Unterstützung für die Konvertierung von PDF-Dokumenten in das HTML-Format).</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/pdf/cpp/release-notes/2021/aspose-pdf-for-cpp-21-4-release-notes/">https://releases.aspose.com/pdf/cpp/release-notes/2021/aspose-pdf-for-cpp-21-4-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> In dieser Version bieten wir Unterstützung für gcc, clang für Linux-Builds (ohne Unterstützung für die Konvertierung von PDF-Dokumenten in das HTML-Format).</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

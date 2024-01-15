@@ -16,7 +16,7 @@ parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
 
 tags: ["PDF", "C++"]
-release_notes_url: "https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/pdf/cpp/release-notes/2022/aspose-pdf-for-cpp-22-9-release-notes/"
 weight: 158
 
 ---
@@ -40,7 +40,7 @@ weight: 158
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-22-9-release-notes/'>https://docs.aspose.com/pdf/cpp/aspose-pdf-for-cpp-22-9-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/pdf/cpp/release-notes/2022/aspose-pdf-for-cpp-22-9-release-notes/'>https://releases.aspose.com/pdf/cpp/release-notes/2022/aspose-pdf-for-cpp-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Aspose.pdf untuk Perpustakaan Asli C ++</div>
