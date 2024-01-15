@@ -39,7 +39,7 @@ weight: 604
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/pdfnet/Aspose.Pdf+for+.NET+8.6.0+Release+Notes">http://www.aspose.com/docs/display/pdfnet/Aspose.Pdf+for+.NET+8.6.0+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/pdf/net/release-notes/2013/aspose-pdf-for-net-8-6-0-release-notes/">https://releases.aspose.com/pdf/net/release-notes/2013/aspose-pdf-for-net-8-6-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
