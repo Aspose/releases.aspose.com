@@ -39,7 +39,7 @@ weight: 663
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/words/net/aspose-words-for-net-20-11-release-notes/">https://docs.aspose.com/words/net/aspose-words-for-net-20-11-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/net/release-notes/2020/aspose-words-for-net-20-11-release-notes/">https://releases.aspose.com/words/net/release-notes/2020/aspose-words-for-net-20-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

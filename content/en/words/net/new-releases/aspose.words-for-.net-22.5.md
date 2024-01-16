@@ -35,7 +35,7 @@ weight: 699
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/words/net/aspose-words-for-net-22-5-release-notes/">https://docs.aspose.com/words/net/aspose-words-for-net-22-5-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-5-release-notes/">https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -55,7 +55,7 @@ Added the support for loading the digital eBooks / epublications `EPUB` format a
 
 This API release comes with improved text wrapping for Right-to-Left (RTL) paragraphs with custom left indent.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 22.5 Release Notes](https://docs.aspose.com/words/net/aspose-words-for-net-22-5-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 22.5 Release Notes](https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -16,7 +16,7 @@ parent_path: "words/net"
 section_parent_path: "words/net"
 
 tags: ["docx to pdf", "convert compare create edit word split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub azw3 png emf jpg gif", "mail merge table", "reporting document"]
-release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-10-release-notes/"
 weight: 708
 
 ---
@@ -40,7 +40,7 @@ weight: 708
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/words/net/aspose-words-for-net-22-10-release-notes/'>https://docs.aspose.com/words/net/aspose-words-for-net-22-10-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-10-release-notes/'>https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält die Aspose.Words für .NET- und .NET Standard 2.0-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Words ohne den MSI-Installer verwenden möchten, beispielsweise weil Sie MSI-Installer nicht auf Mono ausführen können.</div>

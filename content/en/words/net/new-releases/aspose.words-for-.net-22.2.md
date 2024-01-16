@@ -39,7 +39,7 @@ weight: 693
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/words/net/aspose-words-for-net-22-2-release-notes/">https://docs.aspose.com/words/net/aspose-words-for-net-22-2-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-2-release-notes/">https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -63,7 +63,7 @@ The support of the `SaveOptions.ProgressCallback` has been extended to enable sa
 
 This API release offers an ability to convert Shapes to SVG images upon export to `HTML`, `MHTML` or `EPUB`.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 22.2 Release Notes](https://docs.aspose.com/words/net/aspose-words-for-net-22-2-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 22.2 Release Notes](https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

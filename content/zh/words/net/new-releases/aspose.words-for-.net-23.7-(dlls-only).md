@@ -16,7 +16,7 @@ parent_path: "words/net"
 section_parent_path: "words/net"
 
 tags: ["docx to pdf", "convert compare create edit word", "split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub azw3 png emf jpg gif", "mail merge table", "reporting document"]
-release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-23-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-7-release-notes/"
 weight: 727
 
 ---
@@ -40,7 +40,7 @@ weight: 727
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/words/net/aspose-words-for-net-23-7-release-notes/'>https://docs.aspose.com/words/net/aspose-words-for-net-23-7-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-7-release-notes/'>https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">该zip文件包含.NET和.NET标准2.0组件的aspose.words。组件与同一版本的产品的MSI安装程序相同。如果您想使用Aspose.words，则下载此此下载，例如，因为您无法在单声道上运行MSI安装程序。</div>

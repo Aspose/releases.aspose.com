@@ -14,7 +14,7 @@ file_size: "File Size: 94.75MB"
 parent_path: "words/net"
 section_parent_path: "words/net"
 tags: ["docx to pdf", "convert compare create edit word", "split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub png emf jpg gif", "mail merge table", "reporting document"]
-release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-7-release-notes/"
 weight: 703
 ---
 
@@ -37,7 +37,7 @@ weight: 703
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/words/net/aspose-words-for-net-22-7-release-notes/'>https://docs.aspose.com/words/net/aspose-words-for-net-22-7-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-7-release-notes/'>https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for .NET 22.7 release</div>
@@ -83,7 +83,7 @@ public class OleDbFieldDatabaseProvider : IFieldDatabaseProvider
 
 Implemented the support of Web Content Accessibility Guidelines (WCAG) 2.0 PDF.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 22.7 Release Notes](https://docs.aspose.com/words/net/aspose-words-for-net-22-7-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 22.7 Release Notes](https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

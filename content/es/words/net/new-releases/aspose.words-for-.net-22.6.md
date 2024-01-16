@@ -13,7 +13,7 @@ download_count: " 10/6/2022 Descargars: 28  Views: 32 "
 file_size: "File Size: 93.2 MB"
 parent_path: "words/net"
 section_parent_path: "words/net"
-release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-6-release-notes/"
 weight: 700
 ---
 
@@ -36,7 +36,7 @@ weight: 700
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/words/net/aspose-words-for-net-22-6-release-notes/'>https://docs.aspose.com/words/net/aspose-words-for-net-22-6-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-6-release-notes/'>https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Contiene Aspose.Words para .NET 22.6 Release.</div>
@@ -59,7 +59,7 @@ Implemented the feature for converting or rendering PDF documents directly to fi
 
 Loading progress notification has been introduced for the OpenDocument Text format `ODT` documents.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 22.6 Notas de lanzamiento](https://docs.aspose.com/words/net/aspose-words-for-net-22-6-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 22.6 Notas de lanzamiento](https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

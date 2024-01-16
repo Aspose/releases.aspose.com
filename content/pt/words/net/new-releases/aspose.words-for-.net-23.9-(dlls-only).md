@@ -16,7 +16,7 @@ parent_path: "words/net"
 section_parent_path: "words/net"
 
 tags: "docx to pdf convert compare create edit word split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps eps postscript pcl epub azw3 png emf jpg gif mail merge table reporting document"
-release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-9-release-notes/"
 weight: 731
 
 ---
@@ -40,7 +40,7 @@ weight: 731
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/words/net/aspose-words-for-net-23-9-release-notes/'>https://docs.aspose.com/words/net/aspose-words-for-net-23-9-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-9-release-notes/'>https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Este arquivo ZIP contém os conjuntos Aspose.words para .NET e .NET Standard 2.0. Os assemblies são os mesmos do instalador do MSI do produto da mesma versão.</div>

@@ -16,7 +16,7 @@ parent_path: "words/net"
 section_parent_path: "words/net"
 
 tags: ["docx to pdf", "convert compare create edit word", "split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps eps postscript pcl epub azw3 png emf jpg gif xlsx", "mail merge", "table reporting document"]
-release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-23-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-8-release-notes/"
 weight: 729
 
 ---
@@ -40,7 +40,7 @@ weight: 729
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/words/net/aspose-words-for-net-23-8-release-notes/'>https://docs.aspose.com/words/net/aspose-words-for-net-23-8-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-8-release-notes/'>https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Этот zip -файл содержит Aspose.words для .NET и .NET Standard 2.0. Сборки такие же, как в установщике MSI продукта той же версии. Загрузите это, если вы хотите использовать Aspose.words без установщика MSI, например, потому что вы не можете запустить установщики MSI на моно.</div>

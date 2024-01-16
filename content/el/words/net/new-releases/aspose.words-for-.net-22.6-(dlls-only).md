@@ -15,7 +15,7 @@ file_size: "File Size: 92.3 MB"
 parent_path: "words/net"
 section_parent_path: "words/net"
 
-release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-6-release-notes/"
 weight: 701
 
 ---
@@ -39,7 +39,7 @@ weight: 701
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/words/net/aspose-words-for-net-22-6-release-notes/'>https://docs.aspose.com/words/net/aspose-words-for-net-22-6-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-6-release-notes/'>https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Αυτό το αρχείο zip περιέχει το aspose.words για το .net και το .NET Standard 2.0 Assemblie ...</div>

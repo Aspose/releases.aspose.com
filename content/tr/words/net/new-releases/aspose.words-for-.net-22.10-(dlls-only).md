@@ -16,7 +16,7 @@ parent_path: "words/net"
 section_parent_path: "words/net"
 
 tags: ["docx to pdf", "convert compare create edit word split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub azw3 png emf jpg gif", "mail merge table", "reporting document"]
-release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-10-release-notes/"
 weight: 708
 
 ---
@@ -40,7 +40,7 @@ weight: 708
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/words/net/aspose-words-for-net-22-10-release-notes/'>https://docs.aspose.com/words/net/aspose-words-for-net-22-10-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-10-release-notes/'>https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Bu ZIP dosyası, .NET ve .NET Standart 2.0 montajları için aspose.words içerir. Montajlar, aynı sürümün ürününün MSI yükleyicisiyle aynıdır. MSI yükleyicisi olmadan aspose.words kullanmak istiyorsanız bunu indirin, çünkü MSI yükleyicilerini mono üzerinde çalıştıramıyorsunuz.</div>

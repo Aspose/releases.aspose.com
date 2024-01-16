@@ -39,7 +39,7 @@ weight: 662
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/words/net/aspose-words-for-net-20-11-release-notes/">https://docs.aspose.com/words/net/aspose-words-for-net-20-11-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält die Aspose.Words für .NET- und .NET Standard 2.0-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Words ohne den MSI-Installer verwenden möchten, beispielsweise weil Sie MSI-Installer nicht auf Mono ausführen können.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/words/net/release-notes/2020/aspose-words-for-net-20-11-release-notes/">https://releases.aspose.com/words/net/release-notes/2020/aspose-words-for-net-20-11-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält die Aspose.Words für .NET- und .NET Standard 2.0-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Words ohne den MSI-Installer verwenden möchten, beispielsweise weil Sie MSI-Installer nicht auf Mono ausführen können.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -39,7 +39,7 @@ weight: 695
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/words/net/aspose-words-for-net-22-3-release-notes/">https://docs.aspose.com/words/net/aspose-words-for-net-22-3-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-3-release-notes/">https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -71,7 +71,7 @@ Support has been added for the `AES` encryption algorithms.
 
 Introduced the feature to preserve paragraph outline level upon importing tagged PDF document.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 22.3 Release Notes](https://docs.aspose.com/words/net/aspose-words-for-net-22-3-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Words for .NET 22.3 Release Notes](https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -16,7 +16,7 @@ parent_path: "words/net"
 section_parent_path: "words/net"
 
 tags: ["docx to pdf", "convert compare create edit word split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub azw3 png emf jpg gif", "mail merge table", "reporting document"]
-release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-8-release-notes/"
 weight: 705
 
 ---
@@ -40,7 +40,7 @@ weight: 705
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/words/net/aspose-words-for-net-22-8-release-notes/'>https://docs.aspose.com/words/net/aspose-words-for-net-22-8-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-8-release-notes/'>https://releases.aspose.com/words/net/release-notes/2022/aspose-words-for-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含.net 22.8 msi安装程序的aspose.words。</div>

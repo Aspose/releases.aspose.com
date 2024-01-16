@@ -16,7 +16,7 @@ parent_path: "words/net"
 section_parent_path: "words/net"
 
 tags: "docx to pdf convert compare create edit word split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub png emf jpg gif mail merge table reporting document"
-release_notes_url: "https://docs.aspose.com/words/net/aspose-words-for-net-23-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-10-release-notes/"
 weight: 734
 
 ---
@@ -40,7 +40,7 @@ weight: 734
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/words/net/aspose-words-for-net-23-10-release-notes/'>https://docs.aspose.com/words/net/aspose-words-for-net-23-10-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-10-release-notes/'>https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει aspose.words για το .NET 23.10 MSI εγκαταστάτη.</div>
