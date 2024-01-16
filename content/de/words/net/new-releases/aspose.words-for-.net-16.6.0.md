@@ -39,7 +39,7 @@ weight: 559
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/wordsnet/Aspose.Words+for+.NET+16.6.0+Release+Notes">http://www.aspose.com/docs/display/wordsnet/Aspose.Words+for+.NET+16.6.0+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese enthält den MSI-Installer von Aspose.Words für .NET.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/words/net/release-notes/2016/aspose-words-for-net-16-6-0-release-notes/">https://releases.aspose.com/words/net/release-notes/2016/aspose-words-for-net-16-6-0-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese enthält den MSI-Installer von Aspose.Words für .NET.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

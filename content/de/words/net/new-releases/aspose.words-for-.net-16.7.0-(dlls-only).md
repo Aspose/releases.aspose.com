@@ -39,7 +39,7 @@ weight: 560
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/wordsnet/Aspose.Words+for+.NET+16.7.0+Release+Notes">http://www.aspose.com/docs/display/wordsnet/Aspose.Words+for+.NET+16.7.0+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur die Aspose.Words für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Words ohne den MSI-Installer verwenden möchten, beispielsweise weil Sie MSI-Installer nicht auf Mono ausführen können.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/words/net/release-notes/2016/aspose-words-for-net-16-7-0-release-notes/">https://releases.aspose.com/words/net/release-notes/2016/aspose-words-for-net-16-7-0-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur die Aspose.Words für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Words ohne den MSI-Installer verwenden möchten, beispielsweise weil Sie MSI-Installer nicht auf Mono ausführen können.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

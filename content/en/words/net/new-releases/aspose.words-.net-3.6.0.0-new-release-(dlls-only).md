@@ -39,7 +39,7 @@ weight: 370
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/wordsnet/Aspose.Words+.Net+3.6.0.0+New+Release+Release+Notes">http://www.aspose.com/docs/display/wordsnet/Aspose.Words+.Net+3.6.0.0+New+Release+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/net/release-notes/2007/aspose-words-net-3-6-0-0-new-release-release-notes/">https://releases.aspose.com/words/net/release-notes/2007/aspose-words-net-3-6-0-0-new-release-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -39,7 +39,7 @@ weight: 398
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/wordsnet/Aspose.Words+for+.NET+6.5.0+Release+Notes">http://www.aspose.com/docs/display/wordsnet/Aspose.Words+for+.NET+6.5.0+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/words/net/release-notes/2009/aspose-words-for-net-6-5-0-release-notes/">https://releases.aspose.com/words/net/release-notes/2009/aspose-words-for-net-6-5-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

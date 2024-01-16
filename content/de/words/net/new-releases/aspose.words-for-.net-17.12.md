@@ -39,7 +39,7 @@ weight: 595
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/wordsnet/Aspose.Words+for+.NET+17.12+Release+Notes">https://docs.aspose.com/display/wordsnet/Aspose.Words+for+.NET+17.12+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/words/net/release-notes/2017/aspose-words-for-net-17-12-release-notes/">https://releases.aspose.com/words/net/release-notes/2017/aspose-words-for-net-17-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

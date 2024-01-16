@@ -39,7 +39,7 @@ weight: 541
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/wordsnet/Aspose.Words+for+.NET+15.9.0+Release+Notes">http://www.aspose.com/docs/display/wordsnet/Aspose.Words+for+.NET+15.9.0+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/net/release-notes/2015/aspose-words-for-net-15-9-0-release-notes/">https://releases.aspose.com/words/net/release-notes/2015/aspose-words-for-net-15-9-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

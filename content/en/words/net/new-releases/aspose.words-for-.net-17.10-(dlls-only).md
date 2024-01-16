@@ -39,7 +39,7 @@ weight: 590
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/wordsnet/Aspose.Words+for+.NET+17.10+Release+Notes">https://docs.aspose.com/display/wordsnet/Aspose.Words+for+.NET+17.10+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.Words for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version.  Download this if you want to use Aspose.Words without the MSI installer, for example because you cannot run MSI installers on Mono.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/net/release-notes/2017/aspose-words-for-net-17-10-release-notes/">https://releases.aspose.com/words/net/release-notes/2017/aspose-words-for-net-17-10-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.Words for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version.  Download this if you want to use Aspose.Words without the MSI installer, for example because you cannot run MSI installers on Mono.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
