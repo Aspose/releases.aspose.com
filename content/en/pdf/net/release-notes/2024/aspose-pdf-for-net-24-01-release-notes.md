@@ -27,7 +27,7 @@ This page contains release notes information for Aspose.PDF for .NET 24.1.
 |PDFNET-49641|Support for access to Page Dictionary or Document Catalog|Feature|
 |PDFNET-50745|Import FDF format annotations to PDF|Feature|
 PDFNET-46865|PDF to PDF/A-1b - the output PDF does not pass a compliance test|Bug|
-|PDFNET-43645|Javascript is not honored while adding HTML through HtmlFragment|Bug|
+|PDFNET-43645|Javascript is ignored while adding HTML through HtmlFragment|Bug|
 |PDFNET-48686|PDF to PNG - Some pages are not converted correctly to images|Bug|
 |PDFNET-49411|PDF to Image - text gets garbled in the output image|Bug|
 |PDFNET-56217|Aspose.PDF throwing Document information entry ‘CreationDate’ not synchronized with metadata property ‘xmp:CreateDate’ after updating package from 22.1.0 to 23.11.0|Bug|
