@@ -14,7 +14,7 @@ download_count: " 22/6/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 53.17MB"
 parent_path: "words/python"
 section_parent_path: "words/python"
-release_notes_url: "https://docs.aspose.com/words/python-net/aspose-words-for-python-via-dotnet-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/python/release-notes/2023/aspose-words-for-python-via-dotnet-23-6-release-notes/"
 weight: 18
 
 ---
@@ -38,7 +38,7 @@ weight: 18
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/words/python-net/aspose-words-for-python-via-dotnet-23-6-release-notes/'>https://docs.aspose.com/words/python-net/aspose-words-for-python-via-dotnet-23-6-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/words/python/release-notes/2023/aspose-words-for-python-via-dotnet-23-6-release-notes/'>https://releases.aspose.com/words/python/release-notes/2023/aspose-words-for-python-via-dotnet-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">.NET 23.6.0, Windows X32 sürümü üzerinden Python için Aspose.Words içerir.</div>

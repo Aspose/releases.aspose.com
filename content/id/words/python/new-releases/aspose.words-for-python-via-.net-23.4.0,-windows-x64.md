@@ -14,7 +14,7 @@ download_count: " 22/6/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 59.51MB"
 parent_path: "words/python"
 section_parent_path: "words/python"
-release_notes_url: "https://docs.aspose.com/words/python-net/aspose-words-for-python-via-dotnet-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/python/release-notes/2023/aspose-words-for-python-via-dotnet-23-4-release-notes/"
 weight: 13
 
 ---
@@ -38,7 +38,7 @@ weight: 13
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/words/python-net/aspose-words-for-python-via-dotnet-23-4-release-notes/'>https://docs.aspose.com/words/python-net/aspose-words-for-python-via-dotnet-23-4-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/words/python/release-notes/2023/aspose-words-for-python-via-dotnet-23-4-release-notes/'>https://releases.aspose.com/words/python/release-notes/2023/aspose-words-for-python-via-dotnet-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.words untuk python melalui .net 23.4.0, rilis Windows x64.</div>

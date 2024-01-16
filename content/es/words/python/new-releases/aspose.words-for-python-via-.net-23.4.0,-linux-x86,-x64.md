@@ -14,7 +14,7 @@ download_count: " 22/6/2023 Descargars: 1  Views: 1 "
 file_size: "File Size: 79.12MB"
 parent_path: "words/python"
 section_parent_path: "words/python"
-release_notes_url: "https://docs.aspose.com/words/python-net/aspose-words-for-python-via-dotnet-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/python/release-notes/2023/aspose-words-for-python-via-dotnet-23-4-release-notes/"
 weight: 11
 
 ---
@@ -38,7 +38,7 @@ weight: 11
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/words/python-net/aspose-words-for-python-via-dotnet-23-4-release-notes/'>https://docs.aspose.com/words/python-net/aspose-words-for-python-via-dotnet-23-4-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/words/python/release-notes/2023/aspose-words-for-python-via-dotnet-23-4-release-notes/'>https://releases.aspose.com/words/python/release-notes/2023/aspose-words-for-python-via-dotnet-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Contiene Aspose.Words para Python a través de .NET 23.4.0, Linux X86, X64 Release.</div>

@@ -14,7 +14,7 @@ download_count: " 22/6/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 52.81MB"
 parent_path: "words/python"
 section_parent_path: "words/python"
-release_notes_url: "https://docs.aspose.com/words/python-net/aspose-words-for-python-via-dotnet-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/python/release-notes/2023/aspose-words-for-python-via-dotnet-23-1-release-notes/"
 weight: 2
 
 ---
@@ -38,7 +38,7 @@ weight: 2
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/words/python-net/aspose-words-for-python-via-dotnet-23-1-release-notes/'>https://docs.aspose.com/words/python-net/aspose-words-for-python-via-dotnet-23-1-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/words/python/release-notes/2023/aspose-words-for-python-via-dotnet-23-1-release-notes/'>https://releases.aspose.com/words/python/release-notes/2023/aspose-words-for-python-via-dotnet-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">.NET 23.1.0、Windows X32リリースを介してPython用のAsops.Wordsが含まれています。</div>
