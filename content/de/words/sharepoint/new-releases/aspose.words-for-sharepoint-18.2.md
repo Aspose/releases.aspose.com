@@ -39,7 +39,7 @@ weight: 49
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/wordssharepoint/Aspose.Words+for+SharePoint+18.2+Release+Notes">https://docs.aspose.com/display/wordssharepoint/Aspose.Words+for+SharePoint+18.2+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> In PDF/A konvertieren + Upgrade auf die neueste Version von Aspose.Words for Net (18.2).</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/words/sharepoint/release-notes/2018/aspose-words-for-sharepoint-18-2-release-notes/">https://releases.aspose.com/words/sharepoint/release-notes/2018/aspose-words-for-sharepoint-18-2-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> In PDF/A konvertieren + Upgrade auf die neueste Version von Aspose.Words for Net (18.2).</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

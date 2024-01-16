@@ -39,7 +39,7 @@ weight: 38
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/wordssharepoint/Aspose.Words+for+SharePoint+2.9.0+Release+Notes">http://www.aspose.com/docs/display/wordssharepoint/Aspose.Words+for+SharePoint+2.9.0+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/words/sharepoint/release-notes/2013/aspose-words-for-sharepoint-2-9-0-release-notes/">https://releases.aspose.com/words/sharepoint/release-notes/2013/aspose-words-for-sharepoint-2-9-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

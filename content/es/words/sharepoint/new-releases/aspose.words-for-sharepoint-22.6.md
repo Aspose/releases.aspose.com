@@ -15,7 +15,7 @@ file_size: "File Size: 24.2 MB"
 parent_path: "words/sharepoint"
 section_parent_path: "words/sharepoint"
 
-release_notes_url: "https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-22-6-release-notes"
+release_notes_url: "https://releases.aspose.com/words/sharepoint/release-notes/2022/aspose-words-for-sharepoint-22-6-release-notes/"
 weight: 70
 
 ---
@@ -39,7 +39,7 @@ weight: 70
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-22-6-release-notes'>https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-22-6-release-notes</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/words/sharepoint/release-notes/2022/aspose-words-for-sharepoint-22-6-release-notes/'>https://releases.aspose.com/words/sharepoint/release-notes/2022/aspose-words-for-sharepoint-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Actualice a la última versión de Aspose.Words for Net (22.6). Nuevas características.</div>

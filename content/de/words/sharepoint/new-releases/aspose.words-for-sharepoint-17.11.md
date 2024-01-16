@@ -39,7 +39,7 @@ weight: 47
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/wordssharepoint/Aspose.Words+for+SharePoint+17.11+Release+Notes">https://docs.aspose.com/display/wordssharepoint/Aspose.Words+for+SharePoint+17.11+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Implementieren Sie "Dateieigenschaften kopieren". Aktualisieren Sie auf die neueste Version von Aspose.Words for Net (17.11).</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/words/sharepoint/release-notes/2017/aspose-words-for-sharepoint-17-11-release-notes/">https://releases.aspose.com/words/sharepoint/release-notes/2017/aspose-words-for-sharepoint-17-11-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Implementieren Sie "Dateieigenschaften kopieren". Aktualisieren Sie auf die neueste Version von Aspose.Words for Net (17.11).</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

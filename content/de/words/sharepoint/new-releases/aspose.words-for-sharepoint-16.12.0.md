@@ -39,7 +39,7 @@ weight: 44
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/wordssharepoint/Aspose.Words+for+SharePoint+16.12.0+Release+Notes">http://www.aspose.com/docs/display/wordssharepoint/Aspose.Words+for+SharePoint+16.12.0+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Enthält Fix für WORDSSP-243 und Upgrade auf das neueste Aspose.Words für .NET (v16.12)</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/words/sharepoint/release-notes/2016/aspose-words-for-sharepoint-16-12-0-release-notes/">https://releases.aspose.com/words/sharepoint/release-notes/2016/aspose-words-for-sharepoint-16-12-0-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Enthält Fix für WORDSSP-243 und Upgrade auf das neueste Aspose.Words für .NET (v16.12)</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
