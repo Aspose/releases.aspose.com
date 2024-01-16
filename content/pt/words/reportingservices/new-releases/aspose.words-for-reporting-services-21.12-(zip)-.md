@@ -39,7 +39,7 @@ weight: 275
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href="https://docs.aspose.com/words/reportingservices/aspose-words-for-reporting-services-21-12-release-notes/">https://docs.aspose.com/words/reportingservices/aspose-words-for-reporting-services-21-12-release-notes/</a></div><h4>Descrição</h4><div class="HTMLDescription">Atualize para a versão mais recente do Aspose.Words for Net (21.12). Correções de bug.</div>
+      <h4>Notas de liberação</h4><div><a href="https://releases.aspose.com/words/reportingservices/release-notes/2021/aspose-words-for-reporting-services-21-12-release-notes/">https://releases.aspose.com/words/reportingservices/release-notes/2021/aspose-words-for-reporting-services-21-12-release-notes/</a></div><h4>Descrição</h4><div class="HTMLDescription">Atualize para a versão mais recente do Aspose.Words for Net (21.12). Correções de bug.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

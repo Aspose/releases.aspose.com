@@ -39,7 +39,7 @@ weight: 233
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/wordsreportingservices/Aspose.Words+for+Reporting+Services+17.12+Release+Notes">https://docs.aspose.com/display/wordsreportingservices/Aspose.Words+for+Reporting+Services+17.12+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Upgrade auf die neueste Version von Aspose.Words für .NET (17.12)</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/words/reportingservices/release-notes/2017/aspose-words-for-reporting-services-17-12-release-notes/">https://releases.aspose.com/words/reportingservices/release-notes/2017/aspose-words-for-reporting-services-17-12-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Upgrade auf die neueste Version von Aspose.Words für .NET (17.12)</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

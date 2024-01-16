@@ -39,7 +39,7 @@ weight: 229
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/wordsreportingservices/Aspose.Words+for+Reporting+Services+16.11.0+Release+Notes">http://www.aspose.com/docs/display/wordsreportingservices/Aspose.Words+for+Reporting+Services+16.11.0+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Enthält Fixes für WORDSRPT-182, 242, 243 + Dokumentationsaktualisierung</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/words/reportingservices/release-notes/2016/aspose-words-for-reporting-services-16-11-0-release-notes/">https://releases.aspose.com/words/reportingservices/release-notes/2016/aspose-words-for-reporting-services-16-11-0-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Enthält Fixes für WORDSRPT-182, 242, 243 + Dokumentationsaktualisierung</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

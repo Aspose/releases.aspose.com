@@ -39,7 +39,7 @@ weight: 237
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/wordsreportingservices/Aspose.Words+for+Reporting+Services+18.2+Release+Notes">https://docs.aspose.com/display/wordsreportingservices/Aspose.Words+for+Reporting+Services+18.2+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">SQL Server 2017 support + Upgrade to latest Aspose.Words for .NET 18.2</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-2-release-notes/">https://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-2-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">SQL Server 2017 support + Upgrade to latest Aspose.Words for .NET 18.2</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

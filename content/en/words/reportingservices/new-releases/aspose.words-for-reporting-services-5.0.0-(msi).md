@@ -39,7 +39,7 @@ weight: 226
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/wordsreportingservices/Aspose.Words+for+Reporting+Services+5.0.0+Release+Notes">http://www.aspose.com/docs/display/wordsreportingservices/Aspose.Words+for+Reporting+Services+5.0.0+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">Includes support of Microsoft SQL Server 2016 and Microsoft Report Viewer 2015.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/reportingservices/release-notes/2016/aspose-words-for-reporting-services-5-0-0-release-notes/">https://releases.aspose.com/words/reportingservices/release-notes/2016/aspose-words-for-reporting-services-5-0-0-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Includes support of Microsoft SQL Server 2016 and Microsoft Report Viewer 2015.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

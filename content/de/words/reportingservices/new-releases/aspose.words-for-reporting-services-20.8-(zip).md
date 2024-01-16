@@ -39,7 +39,7 @@ weight: 264
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/words/reportingservices/aspose-words-for-reporting-services-20-8-release-notes/">https://docs.aspose.com/words/reportingservices/aspose-words-for-reporting-services-20-8-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Upgrade to the latest version of Aspose.Words for Net (20.8). Added support for latest SSRS 2019. Fehlerbehebung.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/reportingservices/release-notes/2020/aspose-words-for-reporting-services-20-8-release-notes/">https://releases.aspose.com/words/reportingservices/release-notes/2020/aspose-words-for-reporting-services-20-8-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Upgrade to the latest version of Aspose.Words for Net (20.8). Added support for latest SSRS 2019. Fehlerbehebung.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

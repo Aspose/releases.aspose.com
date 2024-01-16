@@ -39,7 +39,7 @@ weight: 276
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href="https://docs.aspose.com/words/reportingservices/aspose-words-for-reporting-services-22-2-release-notes/">https://docs.aspose.com/words/reportingservices/aspose-words-for-reporting-services-22-2-release-notes/</a></div><h4>Описание</h4><div class="HTMLDescription">Обновите до последней версии Aspose.words для Net (22.2). Исправление ошибок.</div>
+      <h4>Выпуск заметок</h4><div><a href="https://releases.aspose.com/words/reportingservices/release-notes/2022/aspose-words-for-reporting-services-22-2-release-notes/">https://releases.aspose.com/words/reportingservices/release-notes/2022/aspose-words-for-reporting-services-22-2-release-notes/</a></div><h4>Описание</h4><div class="HTMLDescription">Обновите до последней версии Aspose.words для Net (22.2). Исправление ошибок.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

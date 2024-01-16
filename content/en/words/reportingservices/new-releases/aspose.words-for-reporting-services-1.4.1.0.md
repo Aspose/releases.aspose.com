@@ -39,7 +39,7 @@ weight: 156
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/wordsreportingservices/Aspose.Words+for+Reporting+Services+1.4.1.0+Release+Notes">http://www.aspose.com/docs/display/wordsreportingservices/Aspose.Words+for+Reporting+Services+1.4.1.0+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/reportingservices/release-notes/2007/aspose-words-for-reporting-services-1-4-1-0-release-notes/">https://releases.aspose.com/words/reportingservices/release-notes/2007/aspose-words-for-reporting-services-1-4-1-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

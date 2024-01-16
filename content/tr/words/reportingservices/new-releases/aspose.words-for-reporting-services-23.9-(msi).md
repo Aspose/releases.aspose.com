@@ -16,7 +16,7 @@ parent_path: "words/reportingservices"
 section_parent_path: "words/reportingservices"
 
 tags: "ssrs report viewer export"
-release_notes_url: "https://docs.aspose.com/words/reportingservices/aspose-words-for-reporting-services-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-9-release-notes/"
 weight: 288
 
 ---
@@ -40,7 +40,7 @@ weight: 288
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/words/reportingservices/aspose-words-for-reporting-services-23-9-release-notes/'>https://docs.aspose.com/words/reportingservices/aspose-words-for-reporting-services-23-9-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-9-release-notes/'>https://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Net için Aspose.words'in en son sürümüne yükseltin (23.9). SSRS 2022 için destek eklendi.</div>
