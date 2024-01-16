@@ -20,7 +20,6 @@ This page contains release notes for Aspose.Cells for C++ 24.1 for Windows.
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |CELLSNET-54219|Keep header row to each worksheet when converting csv to excel|New Feature
-|CELLSNET-54773|Support .NET8 in Aspose.Cells|New Feature
 |CELLSNET-54605|Support adding custom styles when exporting files to HTML|New Feature
 |CELLSNET-54837|Support autofill for merge area|New Feature
 |CELLSCPP-1027|Build for Windows x86|New Feature
