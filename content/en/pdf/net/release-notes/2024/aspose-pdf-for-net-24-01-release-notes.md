@@ -16,7 +16,7 @@ sitemap:
 
 {{% alert color="primary" %}}
 
-This page contains release notes information for Aspose.PDF for .NET 23.12.
+This page contains release notes information for Aspose.PDF for .NET 24.1.
 
 {{% /alert %}}
 
