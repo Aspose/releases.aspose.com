@@ -16,7 +16,7 @@ parent_path: "words/sharepoint"
 section_parent_path: "words/sharepoint"
 
 tags: ["sharepoint export report workflow"]
-release_notes_url: "https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-23-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/sharepoint/release-notes/2023/aspose-words-for-sharepoint-23-3-release-notes/"
 weight: 73
 
 ---
@@ -40,7 +40,7 @@ weight: 73
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-23-3-release-notes/'>https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-23-3-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/words/sharepoint/release-notes/2023/aspose-words-for-sharepoint-23-3-release-notes/'>https://releases.aspose.com/words/sharepoint/release-notes/2023/aspose-words-for-sharepoint-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Atualize para a versão mais recente do Aspose.Words for Net (23.3). Novas características.</div>

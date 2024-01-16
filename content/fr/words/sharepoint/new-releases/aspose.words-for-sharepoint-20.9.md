@@ -39,7 +39,7 @@ weight: 63
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href="https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-20-9-release-notes/">https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-20-9-release-notes/</a></div><h4>La description</h4><div class="HTMLDescription">Passez à la dernière version d'Aspose.Words pour NET (20.9). Ajouter la prise en charge de TXT Import. Corrections de bugs.</div>
+      <h4>Notes de version</h4><div><a href="https://releases.aspose.com/words/sharepoint/release-notes/2020/aspose-words-for-sharepoint-20-9-release-notes/">https://releases.aspose.com/words/sharepoint/release-notes/2020/aspose-words-for-sharepoint-20-9-release-notes/</a></div><h4>La description</h4><div class="HTMLDescription">Passez à la dernière version d'Aspose.Words pour NET (20.9). Ajouter la prise en charge de TXT Import. Corrections de bugs.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

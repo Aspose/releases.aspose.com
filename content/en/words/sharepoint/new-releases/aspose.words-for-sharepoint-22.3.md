@@ -39,7 +39,7 @@ weight: 69
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-22-3-release-notes/">https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-22-3-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Upgrade to the latest version of Aspose.Words for Net (22.3). Bug fixes.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/sharepoint/release-notes/2022/aspose-words-for-sharepoint-22-3-release-notes/">https://releases.aspose.com/words/sharepoint/release-notes/2022/aspose-words-for-sharepoint-22-3-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Upgrade to the latest version of Aspose.Words for Net (22.3). Bug fixes.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

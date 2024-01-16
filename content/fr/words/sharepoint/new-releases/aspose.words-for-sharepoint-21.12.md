@@ -39,7 +39,7 @@ weight: 68
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href="https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-21-12-release-notes/">https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-21-12-release-notes/</a></div><h4>La description</h4><div class="HTMLDescription">Passez à la dernière version d'Aspose.Words pour NET (21.12). Ajout de la prise en charge du format Markdown.</div>
+      <h4>Notes de version</h4><div><a href="https://releases.aspose.com/words/sharepoint/release-notes/2021/aspose-words-for-sharepoint-21-12-release-notes/">https://releases.aspose.com/words/sharepoint/release-notes/2021/aspose-words-for-sharepoint-21-12-release-notes/</a></div><h4>La description</h4><div class="HTMLDescription">Passez à la dernière version d'Aspose.Words pour NET (21.12). Ajout de la prise en charge du format Markdown.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

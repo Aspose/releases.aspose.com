@@ -16,7 +16,7 @@ parent_path: "words/sharepoint"
 section_parent_path: "words/sharepoint"
 
 tags: ["sharepoint export report workflow"]
-release_notes_url: "https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/sharepoint/release-notes/2022/aspose-words-for-sharepoint-22-9-release-notes/"
 weight: 71
 
 ---
@@ -40,7 +40,7 @@ weight: 71
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-22-9-release-notes/'>https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-22-9-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/words/sharepoint/release-notes/2022/aspose-words-for-sharepoint-22-9-release-notes/'>https://releases.aspose.com/words/sharepoint/release-notes/2022/aspose-words-for-sharepoint-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Net için Aspose.words'in en son sürümüne yükseltin (22.9). Hata düzeltmeleri. Elua Online: https://about.aspose.com/legal/eula/</div>

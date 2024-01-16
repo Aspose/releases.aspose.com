@@ -39,7 +39,7 @@ weight: 63
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-20-9-release-notes/">https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-20-9-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">ネット用の最新バージョンのAspose.Words（20.9）にアップグレードします。 TXTインポートのサポートを追加します。バグの修正。</div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/words/sharepoint/release-notes/2020/aspose-words-for-sharepoint-20-9-release-notes/">https://releases.aspose.com/words/sharepoint/release-notes/2020/aspose-words-for-sharepoint-20-9-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">ネット用の最新バージョンのAspose.Words（20.9）にアップグレードします。 TXTインポートのサポートを追加します。バグの修正。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

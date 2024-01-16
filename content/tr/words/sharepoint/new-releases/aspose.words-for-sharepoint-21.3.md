@@ -39,7 +39,7 @@ weight: 65
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-21-3-release-notes/">https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-21-3-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">Net (21.3) için Aspose.words'in en son sürümüne yükseltin. Hata düzeltmeleri.</div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/words/sharepoint/release-notes/2021/aspose-words-for-sharepoint-21-3-release-notes/">https://releases.aspose.com/words/sharepoint/release-notes/2021/aspose-words-for-sharepoint-21-3-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">Net (21.3) için Aspose.words'in en son sürümüne yükseltin. Hata düzeltmeleri.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

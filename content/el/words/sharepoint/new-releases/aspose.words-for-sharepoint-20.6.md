@@ -39,7 +39,7 @@ weight: 62
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/display/wordssharepoint/Aspose.Words+for+SharePoint+20.6+Release+Notes">https://docs.aspose.com/display/wordssharepoint/Aspose.Words+for+SharePoint+20.6+Release+Notes</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Αναβάθμιση στην τελευταία έκδοση του Aspose.Words για το Net (20,6). Υποστήριξη για την προσθήκη υδατογράφου στο έγγραφο Word. Διορθώσεις σφαλμάτων.</div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/words/sharepoint/release-notes/2020/aspose-words-for-sharepoint-20-6-release-notes/">https://releases.aspose.com/words/sharepoint/release-notes/2020/aspose-words-for-sharepoint-20-6-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Αναβάθμιση στην τελευταία έκδοση του Aspose.Words για το Net (20,6). Υποστήριξη για την προσθήκη υδατογράφου στο έγγραφο Word. Διορθώσεις σφαλμάτων.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

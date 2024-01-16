@@ -16,7 +16,7 @@ parent_path: "words/sharepoint"
 section_parent_path: "words/sharepoint"
 
 tags: "sharepoint export report workflow"
-release_notes_url: "https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/sharepoint/release-notes/2023/aspose-words-for-sharepoint-23-9-release-notes/"
 weight: 75
 
 ---
@@ -40,7 +40,7 @@ weight: 75
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-23-9-release-notes/'>https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-23-9-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/words/sharepoint/release-notes/2023/aspose-words-for-sharepoint-23-9-release-notes/'>https://releases.aspose.com/words/sharepoint/release-notes/2023/aspose-words-for-sharepoint-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Passez à la dernière version d'Aspose.Words pour NET (23.9). Ajout de la sécurisation des fichiers de sortie à l'aide de workflows.</div>

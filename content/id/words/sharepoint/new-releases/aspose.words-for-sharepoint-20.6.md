@@ -39,7 +39,7 @@ weight: 62
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href="https://docs.aspose.com/display/wordssharepoint/Aspose.Words+for+SharePoint+20.6+Release+Notes">https://docs.aspose.com/display/wordssharepoint/Aspose.Words+for+SharePoint+20.6+Release+Notes</a></div><h4>Keterangan</h4><div class="HTMLDescription">Tingkatkan ke versi terbaru dari Aspose.Words untuk NET (20.6). Dukungan untuk menambahkan tanda air ke dokumen Word. Perbaikan kerusakan.</div>
+      <h4>Catatan rilis</h4><div><a href="https://releases.aspose.com/words/sharepoint/release-notes/2020/aspose-words-for-sharepoint-20-6-release-notes/">https://releases.aspose.com/words/sharepoint/release-notes/2020/aspose-words-for-sharepoint-20-6-release-notes/</a></div><h4>Keterangan</h4><div class="HTMLDescription">Tingkatkan ke versi terbaru dari Aspose.Words untuk NET (20.6). Dukungan untuk menambahkan tanda air ke dokumen Word. Perbaikan kerusakan.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

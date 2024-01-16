@@ -39,7 +39,7 @@ weight: 63
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-20-9-release-notes/">https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-20-9-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">Net için Aspose.words'in en son sürümüne yükseltin (20.9). TXT İçe Aktarma için Destek ekleyin. Hata düzeltmeleri.</div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/words/sharepoint/release-notes/2020/aspose-words-for-sharepoint-20-9-release-notes/">https://releases.aspose.com/words/sharepoint/release-notes/2020/aspose-words-for-sharepoint-20-9-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">Net için Aspose.words'in en son sürümüne yükseltin (20.9). TXT İçe Aktarma için Destek ekleyin. Hata düzeltmeleri.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

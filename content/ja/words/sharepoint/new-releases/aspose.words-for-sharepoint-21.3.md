@@ -39,7 +39,7 @@ weight: 65
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-21-3-release-notes/">https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-21-3-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">ネット用の最新バージョンのAspose.Words（21.3）にアップグレードします。バグの修正。</div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/words/sharepoint/release-notes/2021/aspose-words-for-sharepoint-21-3-release-notes/">https://releases.aspose.com/words/sharepoint/release-notes/2021/aspose-words-for-sharepoint-21-3-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">ネット用の最新バージョンのAspose.Words（21.3）にアップグレードします。バグの修正。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

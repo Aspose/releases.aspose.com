@@ -39,7 +39,7 @@ weight: 68
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-21-12-release-notes/">https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-21-12-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Αναβάθμιση στην τελευταία έκδοση του Aspose.Words για το Net (21.12). Προστέθηκε υποστήριξη μορφής Markdown.</div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/words/sharepoint/release-notes/2021/aspose-words-for-sharepoint-21-12-release-notes/">https://releases.aspose.com/words/sharepoint/release-notes/2021/aspose-words-for-sharepoint-21-12-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Αναβάθμιση στην τελευταία έκδοση του Aspose.Words για το Net (21.12). Προστέθηκε υποστήριξη μορφής Markdown.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

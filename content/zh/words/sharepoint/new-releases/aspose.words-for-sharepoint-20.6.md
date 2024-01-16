@@ -39,7 +39,7 @@ weight: 62
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/display/wordssharepoint/Aspose.Words+for+SharePoint+20.6+Release+Notes">https://docs.aspose.com/display/wordssharepoint/Aspose.Words+for+SharePoint+20.6+Release+Notes</a></div><h4>描述</h4><div class="HTMLDescription">升级到最新版本的aspose.words for Net（20.6）。支持向Word文档添加水印。 Bug修复。</div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/words/sharepoint/release-notes/2020/aspose-words-for-sharepoint-20-6-release-notes/">https://releases.aspose.com/words/sharepoint/release-notes/2020/aspose-words-for-sharepoint-20-6-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">升级到最新版本的aspose.words for Net（20.6）。支持向Word文档添加水印。 Bug修复。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

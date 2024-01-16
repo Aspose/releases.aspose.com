@@ -39,7 +39,7 @@ weight: 65
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-21-3-release-notes/">https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-21-3-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">升级到最新版本的aspose.words for Net（21.3）。 Bug修复。</div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/words/sharepoint/release-notes/2021/aspose-words-for-sharepoint-21-3-release-notes/">https://releases.aspose.com/words/sharepoint/release-notes/2021/aspose-words-for-sharepoint-21-3-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">升级到最新版本的aspose.words for Net（21.3）。 Bug修复。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

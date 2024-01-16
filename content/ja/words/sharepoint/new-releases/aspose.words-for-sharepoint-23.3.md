@@ -16,7 +16,7 @@ parent_path: "words/sharepoint"
 section_parent_path: "words/sharepoint"
 
 tags: ["sharepoint export report workflow"]
-release_notes_url: "https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-23-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/sharepoint/release-notes/2023/aspose-words-for-sharepoint-23-3-release-notes/"
 weight: 73
 
 ---
@@ -40,7 +40,7 @@ weight: 73
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-23-3-release-notes/'>https://docs.aspose.com/words/sharepoint/aspose-words-for-sharepoint-23-3-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/words/sharepoint/release-notes/2023/aspose-words-for-sharepoint-23-3-release-notes/'>https://releases.aspose.com/words/sharepoint/release-notes/2023/aspose-words-for-sharepoint-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">ネット用の最新バージョンのAspose.Words（23.3）にアップグレードします。新機能。</div>

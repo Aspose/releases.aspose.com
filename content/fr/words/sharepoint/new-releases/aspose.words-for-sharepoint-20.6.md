@@ -39,7 +39,7 @@ weight: 62
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href="https://docs.aspose.com/display/wordssharepoint/Aspose.Words+for+SharePoint+20.6+Release+Notes">https://docs.aspose.com/display/wordssharepoint/Aspose.Words+for+SharePoint+20.6+Release+Notes</a></div><h4>La description</h4><div class="HTMLDescription">Passez à la dernière version d'Aspose.Words pour NET (20.6). Prise en charge d'ajouter un filigrane au document Word. Corrections de bugs.</div>
+      <h4>Notes de version</h4><div><a href="https://releases.aspose.com/words/sharepoint/release-notes/2020/aspose-words-for-sharepoint-20-6-release-notes/">https://releases.aspose.com/words/sharepoint/release-notes/2020/aspose-words-for-sharepoint-20-6-release-notes/</a></div><h4>La description</h4><div class="HTMLDescription">Passez à la dernière version d'Aspose.Words pour NET (20.6). Prise en charge d'ajouter un filigrane au document Word. Corrections de bugs.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
