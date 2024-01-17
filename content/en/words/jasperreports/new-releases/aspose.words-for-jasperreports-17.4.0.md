@@ -39,7 +39,7 @@ weight: 87
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/wordsjasperreports/Aspose.Words+for+JasperReports+17.4+Release+Notes">https://docs.aspose.com/display/wordsjasperreports/Aspose.Words+for+JasperReports+17.4+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">Includes fix for WORDSJR-213 (list Items are not exported in output Doc/Docx)</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/jasperreports/release-notes/2017/aspose-words-for-jasperreports-17-4-release-notes/">https://releases.aspose.com/words/jasperreports/release-notes/2017/aspose-words-for-jasperreports-17-4-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Includes fix for WORDSJR-213 (list Items are not exported in output Doc/Docx)</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

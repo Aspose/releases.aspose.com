@@ -39,7 +39,7 @@ weight: 90
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/wordsjasperreports/Aspose.Words+for+JasperReports+17.10+Release+Notes">https://docs.aspose.com/display/wordsjasperreports/Aspose.Words+for+JasperReports+17.10+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Beinhaltet Fix für WORDSJR-224 (JasperReport-Stile werden nicht in Ausgabe-DOCX exportiert)</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/words/jasperreports/release-notes/2017/aspose-words-for-jasperreports-17-10-release-notes/">https://releases.aspose.com/words/jasperreports/release-notes/2017/aspose-words-for-jasperreports-17-10-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Beinhaltet Fix für WORDSJR-224 (JasperReport-Stile werden nicht in Ausgabe-DOCX exportiert)</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -14,7 +14,7 @@ download_count: " 22/6/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 52.63MB"
 parent_path: "words/jasperreports"
 section_parent_path: "words/jasperreports"
-release_notes_url: "https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-6-release-notes/"
 weight: 133
 
 ---
@@ -38,7 +38,7 @@ weight: 133
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-23-6-release-notes/'>https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-23-6-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-6-release-notes/'>https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">JasperReports 23.6 Sürüm için Aspose.words içerir</div>

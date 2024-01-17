@@ -14,7 +14,7 @@ download_count: " 30/6/2022 Unduhs: 1  Views: 1 "
 file_size: "File Size: 51.62MB"
 parent_path: "words/jasperreports"
 section_parent_path: "words/jasperreports"
-release_notes_url: "https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-6-release-notes/"
 weight: 121
 
 ---
@@ -38,7 +38,7 @@ weight: 121
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-22-6-release-notes/'>https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-22-6-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-6-release-notes/'>https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.words untuk rilis Jasperreports 22.6</div>

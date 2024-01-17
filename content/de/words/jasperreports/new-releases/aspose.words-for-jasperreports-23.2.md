@@ -14,7 +14,7 @@ download_count: " 2/3/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 53.04MB"
 parent_path: "words/jasperreports"
 section_parent_path: "words/jasperreports"
-release_notes_url: "https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-2-release-notes/"
 weight: 129
 
 ---
@@ -38,7 +38,7 @@ weight: 129
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-23-2-release-notes/'>https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-23-2-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-2-release-notes/'>https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">Es enthält asspose.Words für Jasperreports 23.2 Release</div>

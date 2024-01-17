@@ -35,7 +35,7 @@ weight: 119
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href="https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-22-4-release-notes/">https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-22-4-release-notes/</a></div><h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.words untuk rilis Jasperreports 22.4</div>
+      <h4>Catatan rilis</h4><div><a href="https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-4-release-notes/">https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-4-release-notes/</a></div><h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.words untuk rilis Jasperreports 22.4</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

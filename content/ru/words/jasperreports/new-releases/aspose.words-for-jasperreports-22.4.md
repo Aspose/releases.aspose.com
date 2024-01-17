@@ -35,7 +35,7 @@ weight: 119
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href="https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-22-4-release-notes/">https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-22-4-release-notes/</a></div><h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.words для JasperReports 22.4 выпуск</div>
+      <h4>Выпуск заметок</h4><div><a href="https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-4-release-notes/">https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-4-release-notes/</a></div><h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.words для JasperReports 22.4 выпуск</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

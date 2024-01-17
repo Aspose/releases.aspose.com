@@ -14,7 +14,7 @@ download_count: " 18/11/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 52.27MB"
 parent_path: "words/jasperreports"
 section_parent_path: "words/jasperreports"
-release_notes_url: "https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-11-release-notes/"
 weight: 126
 
 ---
@@ -38,7 +38,7 @@ weight: 126
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-22-11-release-notes/'>https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-22-11-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-11-release-notes/'>https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for JasperReports 22.11 release</div>

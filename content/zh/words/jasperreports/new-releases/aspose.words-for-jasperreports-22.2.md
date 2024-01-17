@@ -39,7 +39,7 @@ weight: 118
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-22-2-release-notes/">https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-22-2-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含aspose.JasperReports 22.2版本和一些修复</div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-2-release-notes/">https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-2-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含aspose.JasperReports 22.2版本和一些修复</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

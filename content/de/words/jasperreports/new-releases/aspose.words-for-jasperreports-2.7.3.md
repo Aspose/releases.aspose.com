@@ -39,7 +39,7 @@ weight: 79
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/wordsjasperreports/Aspose.Words+for+JasperReports+2.7.3+Release+Notes">http://www.aspose.com/docs/display/wordsjasperreports/Aspose.Words+for+JasperReports+2.7.3+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese Version enthält Hotfix für WORDSJSP-182.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/words/jasperreports/release-notes/2016/aspose-words-for-jasperreports-2-7-3-release-notes/">https://releases.aspose.com/words/jasperreports/release-notes/2016/aspose-words-for-jasperreports-2-7-3-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese Version enthält Hotfix für WORDSJSP-182.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -39,7 +39,7 @@ weight: 97
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/wordsjasperreports/Aspose.Words+for+JasperReports+18.5+Release+Notes">https://docs.aspose.com/display/wordsjasperreports/Aspose.Words+for+JasperReports+18.5+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">Support latest JasperServer 7.1.0 + some more updates</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/jasperreports/release-notes/2018/aspose-words-for-jasperreports-18-5-release-notes/">https://releases.aspose.com/words/jasperreports/release-notes/2018/aspose-words-for-jasperreports-18-5-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Support latest JasperServer 7.1.0 + some more updates</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

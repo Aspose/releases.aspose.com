@@ -14,7 +14,7 @@ download_count: " 28/3/2023 下载s: 1  Views: 1 "
 file_size: "File Size: 53.15MB"
 parent_path: "words/jasperreports"
 section_parent_path: "words/jasperreports"
-release_notes_url: "https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-23-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-3-release-notes/"
 weight: 130
 
 ---
@@ -38,7 +38,7 @@ weight: 130
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-23-3-release-notes/'>https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-23-3-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-3-release-notes/'>https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含aspose.JasperReports 23.3发布</div>

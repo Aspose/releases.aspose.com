@@ -39,7 +39,7 @@ weight: 116
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-21-9-release-notes/">https://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-21-9-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει aspose.words για jasperreports 21.9 έκδοση.</div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/words/jasperreports/release-notes/2021/aspose-words-for-jasperreports-21-9-release-notes/">https://releases.aspose.com/words/jasperreports/release-notes/2021/aspose-words-for-jasperreports-21-9-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει aspose.words για jasperreports 21.9 έκδοση.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

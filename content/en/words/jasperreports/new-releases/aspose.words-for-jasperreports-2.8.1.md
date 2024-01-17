@@ -39,7 +39,7 @@ weight: 81
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/wordsjasperreports/Aspose.Words+for+JasperReports+2.8.1+Release+Notes">http://www.aspose.com/docs/display/wordsjasperreports/Aspose.Words+for+JasperReports+2.8.1+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">This release includes hotfix for WORDSJSP-188 (new config option OPTIMIZE_FOOTERS_DISTANCE)</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/jasperreports/release-notes/2016/aspose-words-for-jasperreports-2-8-1-release-notes/">https://releases.aspose.com/words/jasperreports/release-notes/2016/aspose-words-for-jasperreports-2-8-1-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">This release includes hotfix for WORDSJSP-188 (new config option OPTIMIZE_FOOTERS_DISTANCE)</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
