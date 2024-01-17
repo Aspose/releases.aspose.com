@@ -39,7 +39,7 @@ weight: 81
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://href.li/?https://docs.aspose.com/display/slidessharepoint/Aspose.Slides+for+Sharepoint+19.5+Release+Notes">https://href.li/?https://docs.aspose.com/display/slidessharepoint/Aspose.Slides+for+Sharepoint+19.5+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://href.li/?https://releases.aspose.com/slides/sharepoint/release-notes/2019/aspose-slides-for-sharepoint-19-5-release-notes/">https://href.li/?https://releases.aspose.com/slides/sharepoint/release-notes/2019/aspose-slides-for-sharepoint-19-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

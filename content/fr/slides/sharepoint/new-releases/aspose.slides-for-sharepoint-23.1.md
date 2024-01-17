@@ -14,7 +14,7 @@ download_count: " 31/1/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 55.53MB"
 parent_path: "slides/sharepoint"
 section_parent_path: "slides/sharepoint"
-release_notes_url: "https://docs.aspose.com/slides/sharepoint/aspose-slides-for-sharepoint-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/sharepoint/release-notes/2023/aspose-slides-for-sharepoint-23-1-release-notes/"
 weight: 101
 
 ---
@@ -38,7 +38,7 @@ weight: 101
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/slides/sharepoint/aspose-slides-for-sharepoint-23-1-release-notes/'>https://docs.aspose.com/slides/sharepoint/aspose-slides-for-sharepoint-23-1-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/slides/sharepoint/release-notes/2023/aspose-slides-for-sharepoint-23-1-release-notes/'>https://releases.aspose.com/slides/sharepoint/release-notes/2023/aspose-slides-for-sharepoint-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Il contient des cliques pour SharePoint 23.1</div>

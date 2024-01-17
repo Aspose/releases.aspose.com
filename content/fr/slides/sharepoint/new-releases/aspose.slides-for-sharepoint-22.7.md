@@ -14,7 +14,7 @@ download_count: " 19/7/2022 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 55.57MB"
 parent_path: "slides/sharepoint"
 section_parent_path: "slides/sharepoint"
-release_notes_url: "https://docs.aspose.com/slides/sharepoint/aspose-slides-for-sharepoint-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/sharepoint/release-notes/2022/aspose-slides-for-sharepoint-22-7-release-notes/"
 weight: 100
 
 ---
@@ -38,7 +38,7 @@ weight: 100
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/slides/sharepoint/aspose-slides-for-sharepoint-22-7-release-notes/'>https://docs.aspose.com/slides/sharepoint/aspose-slides-for-sharepoint-22-7-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/slides/sharepoint/release-notes/2022/aspose-slides-for-sharepoint-22-7-release-notes/'>https://releases.aspose.com/slides/sharepoint/release-notes/2022/aspose-slides-for-sharepoint-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Il contient ASPOSE.SLINES pour la version SharePoint 22.7.</div>
