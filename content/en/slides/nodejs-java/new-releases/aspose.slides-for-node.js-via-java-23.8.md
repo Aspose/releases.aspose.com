@@ -14,7 +14,7 @@ download_count: " 25/8/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 26.68MB"
 parent_path: "slides/nodejs-java"
 section_parent_path: "slides/nodejs-java"
-release_notes_url: "https://docs.aspose.com/slides/nodejs-java/aspose-slides-for-nodejs-via-java-23-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/nodejs-java/release-notes/2023/aspose-slides-for-nodejs-via-java-23-8-release-notes/"
 weight: 1
 
 ---
@@ -38,7 +38,7 @@ weight: 1
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/slides/nodejs-java/aspose-slides-for-nodejs-via-java-23-8-release-notes/'>https://docs.aspose.com/slides/nodejs-java/aspose-slides-for-nodejs-via-java-23-8-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/nodejs-java/release-notes/2023/aspose-slides-for-nodejs-via-java-23-8-release-notes/'>https://releases.aspose.com/slides/nodejs-java/release-notes/2023/aspose-slides-for-nodejs-via-java-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Node.js via Java 23.8 release.</div>
