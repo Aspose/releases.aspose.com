@@ -14,7 +14,7 @@ download_count: " 27/2/2023 Descargars: 1  Views: 1 "
 file_size: "File Size: 32.8MB"
 parent_path: "slides/reportingservices"
 section_parent_path: "slides/reportingservices"
-release_notes_url: "https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/reportingservices/release-notes/2023/aspose-slides-for-reporting-services-23-2-release-notes/"
 weight: 460
 
 ---
@@ -38,7 +38,7 @@ weight: 460
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-23-2-release-notes/'>https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-23-2-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/slides/reportingservices/release-notes/2023/aspose-slides-for-reporting-services-23-2-release-notes/'>https://releases.aspose.com/slides/reportingservices/release-notes/2023/aspose-slides-for-reporting-services-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Contiene aspose.lides para los servicios de informes 23.2 (solo DLLS)</div>

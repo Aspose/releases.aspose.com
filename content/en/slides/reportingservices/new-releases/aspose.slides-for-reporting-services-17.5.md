@@ -39,7 +39,7 @@ weight: 320
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/slidesreportingservices/Aspose.Slides+for+Reporting+Services+17.5+Release+Notes">https://docs.aspose.com/display/slidesreportingservices/Aspose.Slides+for+Reporting+Services+17.5+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/slides/sharepoint/release-notes/2017/aspose-slides-for-sharepoint-17-5-release-notes/">https://releases.aspose.com/slides/sharepoint/release-notes/2017/aspose-slides-for-sharepoint-17-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

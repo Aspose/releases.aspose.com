@@ -14,7 +14,7 @@ download_count: " 18/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 32.79MB"
 parent_path: "slides/reportingservices"
 section_parent_path: "slides/reportingservices"
-release_notes_url: "https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/reportingservices/release-notes/2022/aspose-slides-for-reporting-services-22-10-release-notes/"
 weight: 452
 
 ---
@@ -38,7 +38,7 @@ weight: 452
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-10-release-notes/'>https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-10-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/reportingservices/release-notes/2022/aspose-slides-for-reporting-services-22-10-release-notes/'>https://releases.aspose.com/slides/reportingservices/release-notes/2022/aspose-slides-for-reporting-services-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Reporting Services 22.10 (DLLs Only)</div>

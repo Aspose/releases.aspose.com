@@ -15,7 +15,7 @@ file_size: "File Size: 32.7MB"
 parent_path: "slides/reportingservices"
 section_parent_path: "slides/reportingservices"
 
-release_notes_url: "https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/reportingservices/release-notes/2022/aspose-slides-for-reporting-services-22-6-release-notes/"
 weight: 443
 
 ---
@@ -39,7 +39,7 @@ weight: 443
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-6-release-notes/'>https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-6-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/slides/reportingservices/release-notes/2022/aspose-slides-for-reporting-services-22-6-release-notes/'>https://releases.aspose.com/slides/reportingservices/release-notes/2022/aspose-slides-for-reporting-services-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">レポートサービス22.6（dllsのみ）のためのaspose.slidesが含まれています</div>

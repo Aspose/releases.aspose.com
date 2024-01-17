@@ -15,7 +15,7 @@ file_size: "File Size: 29.8 MB"
 parent_path: "slides/reportingservices"
 section_parent_path: "slides/reportingservices"
 
-release_notes_url: "https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/reportingservices/release-notes/2022/aspose-slides-for-reporting-services-22-5-release-notes/"
 weight: 440
 
 ---
@@ -39,7 +39,7 @@ weight: 440
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-5-release-notes/'>https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-5-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/slides/reportingservices/release-notes/2022/aspose-slides-for-reporting-services-22-5-release-notes/'>https://releases.aspose.com/slides/reportingservices/release-notes/2022/aspose-slides-for-reporting-services-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Slides für die Version 22.5 von Reporting Services.</div>

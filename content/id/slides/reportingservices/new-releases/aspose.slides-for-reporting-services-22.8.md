@@ -14,7 +14,7 @@ download_count: " 17/8/2022 Unduhs: 1  Views: 1 "
 file_size: "File Size: 29.79MB"
 parent_path: "slides/reportingservices"
 section_parent_path: "slides/reportingservices"
-release_notes_url: "https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/reportingservices/release-notes/2022/aspose-slides-for-reporting-services-22-8-release-notes/"
 weight: 447
 
 ---
@@ -38,7 +38,7 @@ weight: 447
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-8-release-notes/'>https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-8-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/slides/reportingservices/release-notes/2022/aspose-slides-for-reporting-services-22-8-release-notes/'>https://releases.aspose.com/slides/reportingservices/release-notes/2022/aspose-slides-for-reporting-services-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.slides untuk layanan pelaporan 22.8</div>

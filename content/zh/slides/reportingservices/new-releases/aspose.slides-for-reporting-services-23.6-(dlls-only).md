@@ -14,7 +14,7 @@ download_count: " 26/6/2023 下载s: 1  Views: 1 "
 file_size: "File Size: 32.85MB"
 parent_path: "slides/reportingservices"
 section_parent_path: "slides/reportingservices"
-release_notes_url: "https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/reportingservices/release-notes/2023/aspose-slides-for-reporting-services-23-6-release-notes/"
 weight: 467
 
 ---
@@ -38,7 +38,7 @@ weight: 467
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-23-6-release-notes/'>https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-23-6-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/slides/reportingservices/release-notes/2023/aspose-slides-for-reporting-services-23-6-release-notes/'>https://releases.aspose.com/slides/reportingservices/release-notes/2023/aspose-slides-for-reporting-services-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含aspose.spose。报告服务服务23.6（仅DLL）</div>

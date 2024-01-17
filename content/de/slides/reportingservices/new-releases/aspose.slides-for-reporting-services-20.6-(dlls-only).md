@@ -39,7 +39,7 @@ weight: 395
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/slidesreportingservices/Aspose.Slides+for+Reporting+Services+20.6+Release+Notes">https://docs.aspose.com/display/slidesreportingservices/Aspose.Slides+for+Reporting+Services+20.6+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/slides/sharepoint/release-notes/2020/aspose-slides-for-sharepoint-20-6-release-notes/">https://releases.aspose.com/slides/sharepoint/release-notes/2020/aspose-slides-for-sharepoint-20-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

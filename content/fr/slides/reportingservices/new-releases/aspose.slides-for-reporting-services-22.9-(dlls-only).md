@@ -14,7 +14,7 @@ download_count: " 13/9/2022 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 32.75MB"
 parent_path: "slides/reportingservices"
 section_parent_path: "slides/reportingservices"
-release_notes_url: "https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/reportingservices/release-notes/2022/aspose-slides-for-reporting-services-22-9-release-notes/"
 weight: 450
 
 ---
@@ -38,7 +38,7 @@ weight: 450
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-9-release-notes/'>https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-22-9-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/slides/reportingservices/release-notes/2022/aspose-slides-for-reporting-services-22-9-release-notes/'>https://releases.aspose.com/slides/reportingservices/release-notes/2022/aspose-slides-for-reporting-services-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Il contient ASPOSE.SLAIS pour les services de rapport 22.9 (DLLS uniquement)</div>

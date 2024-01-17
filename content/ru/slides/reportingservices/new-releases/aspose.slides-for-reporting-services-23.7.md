@@ -14,7 +14,7 @@ download_count: " 18/7/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 29.92MB"
 parent_path: "slides/reportingservices"
 section_parent_path: "slides/reportingservices"
-release_notes_url: "https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-23-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/reportingservices/release-notes/2023/aspose-slides-for-reporting-services-23-7-release-notes/"
 weight: 468
 
 ---
@@ -38,7 +38,7 @@ weight: 468
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-23-7-release-notes/'>https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-23-7-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/slides/reportingservices/release-notes/2023/aspose-slides-for-reporting-services-23-7-release-notes/'>https://releases.aspose.com/slides/reportingservices/release-notes/2023/aspose-slides-for-reporting-services-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.slides для отчетности Услуг 23.7</div>

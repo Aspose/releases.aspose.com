@@ -16,7 +16,7 @@ parent_path: "slides/reportingservices"
 section_parent_path: "slides/reportingservices"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/reportingservices/release-notes/2023/aspose-slides-for-reporting-services-23-9-release-notes/"
 weight: 472
 
 ---
@@ -40,7 +40,7 @@ weight: 472
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-23-9-release-notes/'>https://docs.aspose.com/slides/reportingservices/aspose-slides-for-reporting-services-23-9-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/slides/reportingservices/release-notes/2023/aspose-slides-for-reporting-services-23-9-release-notes/'>https://releases.aspose.com/slides/reportingservices/release-notes/2023/aspose-slides-for-reporting-services-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">Es enthält asspose.slides für Berichtsdienste 23.9</div>
