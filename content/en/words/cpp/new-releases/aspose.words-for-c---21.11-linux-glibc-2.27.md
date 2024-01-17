@@ -39,7 +39,7 @@ weight: 155
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/words/cpp/aspose-words-for-cpp-21-11-release-notes/">https://docs.aspose.com/words/cpp/aspose-words-for-cpp-21-11-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for C++ 21.11 release linux binaries linked with glibc 2.27</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/cpp/release-notes/2021/aspose-words-for-cpp-21-11-release-notes/">https://releases.aspose.com/words/cpp/release-notes/2021/aspose-words-for-cpp-21-11-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for C++ 21.11 release linux binaries linked with glibc 2.27</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

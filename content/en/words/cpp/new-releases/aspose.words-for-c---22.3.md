@@ -39,7 +39,7 @@ weight: 168
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-3-release-notes/">https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-3-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for C++ 22.3 release</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-3-release-notes/">https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-3-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for C++ 22.3 release</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

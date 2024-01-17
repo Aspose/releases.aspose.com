@@ -14,7 +14,7 @@ download_count: " 21/7/2022 下载s: 1  Views: 1 "
 file_size: "File Size: 89.57MB"
 parent_path: "words/cpp"
 section_parent_path: "words/cpp"
-release_notes_url: "https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-7-release-notes/"
 weight: 190
 
 ---
@@ -38,7 +38,7 @@ weight: 190
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-7-release-notes/'>https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-7-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-7-release-notes/'>https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含aspose.Words for C ++ 22.7释放Linux仅二进制文件</div>

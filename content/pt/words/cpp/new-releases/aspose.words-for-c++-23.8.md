@@ -14,7 +14,7 @@ download_count: " 23/8/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 409.43MB"
 parent_path: "words/cpp"
 section_parent_path: "words/cpp"
-release_notes_url: "https://docs.aspose.com/words/cpp/aspose-words-for-cpp-23-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/cpp/release-notes/2023/aspose-words-for-cpp-23-8-release-notes/"
 weight: 220
 tags: ['doc-to-bmp', 'doc-to-emf', 'doc-to-html', 'doc-to-jpeg', 'doc-to-pdf', 'doc-to-png', 'doc-to-postscript', 'doc-to-ps', 'docx-to-epub', 'docx-to-gif', 'docx-to-html', 'docx-to-markdown', 'docx-to-md', 'docx-to-mhtml', 'docx-to-pcl', 'docx-to-pdf', 'word-to-bmp', 'word-to-emf', 'word-to-epub', 'word-to-gif', 'word-to-html', 'word-to-jpeg', 'word-to-markdown', 'word-to-md', 'word-to-mhtml', 'word-to-pcl', 'word-to-pdf', 'word-to-png', 'word-to-postscript', 'word-to-ps']
 ---
@@ -38,7 +38,7 @@ tags: ['doc-to-bmp', 'doc-to-emf', 'doc-to-html', 'doc-to-jpeg', 'doc-to-pdf', '
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/words/cpp/aspose-words-for-cpp-23-8-release-notes/'>https://docs.aspose.com/words/cpp/aspose-words-for-cpp-23-8-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/words/cpp/release-notes/2023/aspose-words-for-cpp-23-8-release-notes/'>https://releases.aspose.com/words/cpp/release-notes/2023/aspose-words-for-cpp-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Ele contém asppose.words para liberação de C ++</div>

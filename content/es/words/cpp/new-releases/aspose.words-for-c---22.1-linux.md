@@ -39,7 +39,7 @@ weight: 162
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href="https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-1-release-notes/">https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-1-release-notes/</a></div><h4>Descripción</h4><div class="HTMLDescription">Contiene aspose. Palabras para c ++ 22.1 Libere Linux Solo binarios</div>
+      <h4>Notas de lanzamiento</h4><div><a href="https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-1-release-notes/">https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-1-release-notes/</a></div><h4>Descripción</h4><div class="HTMLDescription">Contiene aspose. Palabras para c ++ 22.1 Libere Linux Solo binarios</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

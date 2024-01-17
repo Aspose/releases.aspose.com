@@ -14,7 +14,7 @@ download_count: " 19/6/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 380.8MB"
 parent_path: "words/cpp"
 section_parent_path: "words/cpp"
-release_notes_url: "https://docs.aspose.com/words/cpp/aspose-words-for-cpp-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/cpp/release-notes/2023/aspose-words-for-cpp-23-6-release-notes/"
 weight: 218
 
 ---
@@ -38,7 +38,7 @@ weight: 218
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/words/cpp/aspose-words-for-cpp-23-6-release-notes/'>https://docs.aspose.com/words/cpp/aspose-words-for-cpp-23-6-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/words/cpp/release-notes/2023/aspose-words-for-cpp-23-6-release-notes/'>https://releases.aspose.com/words/cpp/release-notes/2023/aspose-words-for-cpp-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει aspose.words για απελευθέρωση C ++</div>

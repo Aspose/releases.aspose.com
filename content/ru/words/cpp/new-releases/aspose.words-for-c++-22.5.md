@@ -15,7 +15,7 @@ file_size: "File Size: 368.2 MB"
 parent_path: "words/cpp"
 section_parent_path: "words/cpp"
 
-release_notes_url: "https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-5-release-notes/"
 weight: 180
 
 ---
@@ -39,7 +39,7 @@ weight: 180
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-5-release-notes/'>https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-5-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-5-release-notes/'>https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.words для C ++ 22.5 выпуск</div>

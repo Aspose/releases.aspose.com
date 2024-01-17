@@ -15,7 +15,7 @@ file_size: "File Size: 238.1MB"
 parent_path: "words/cpp"
 section_parent_path: "words/cpp"
 
-release_notes_url: "https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-6-release-notes/"
 weight: 185
 
 ---
@@ -39,7 +39,7 @@ weight: 185
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-6-release-notes/'>https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-6-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-6-release-notes/'>https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει aspose.words για C ++ 22.6 Απελευθέρωση μόνο των δυαδικών δυαδικών ψηφίων</div>

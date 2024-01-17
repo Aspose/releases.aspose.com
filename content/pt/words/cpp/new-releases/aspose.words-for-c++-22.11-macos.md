@@ -14,7 +14,7 @@ download_count: " 24/11/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 85.09MB"
 parent_path: "words/cpp"
 section_parent_path: "words/cpp"
-release_notes_url: "https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-11-release-notes/"
 weight: 204
 
 ---
@@ -38,7 +38,7 @@ weight: 204
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-11-release-notes/'>https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-11-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-11-release-notes/'>https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Ele contém asppose.words para binários de liberação de liberação C ++ Somente</div>

@@ -16,7 +16,7 @@ parent_path: "words/cpp"
 section_parent_path: "words/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/words/cpp/aspose-words-for-cpp-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/cpp/release-notes/2023/aspose-words-for-cpp-23-9-release-notes/"
 weight: 221
 
 ---
@@ -40,7 +40,7 @@ weight: 221
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/words/cpp/aspose-words-for-cpp-23-9-release-notes/'>https://docs.aspose.com/words/cpp/aspose-words-for-cpp-23-9-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/words/cpp/release-notes/2023/aspose-words-for-cpp-23-9-release-notes/'>https://releases.aspose.com/words/cpp/release-notes/2023/aspose-words-for-cpp-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.words untuk rilis C ++</div>

@@ -14,7 +14,7 @@ download_count: " 20/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 90.46MB"
 parent_path: "words/cpp"
 section_parent_path: "words/cpp"
-release_notes_url: "https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-10-release-notes/"
 weight: 201
 
 ---
@@ -38,7 +38,7 @@ weight: 201
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div> <a href='https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-10-release-notes/'>https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-10-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div> <a href='https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-10-release-notes/'>https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription"> Aspose.Words for C++ sürüm linux ikili dosyalarını içerir</div>

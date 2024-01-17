@@ -39,7 +39,7 @@ weight: 166
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-2-release-notes/">https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-2-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει aspose.words για C ++ 22.2 Απελευθέρωση Linux μόνο δυαδικών αρχείων</div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-2-release-notes/">https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-2-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει aspose.words για C ++ 22.2 Απελευθέρωση Linux μόνο δυαδικών αρχείων</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

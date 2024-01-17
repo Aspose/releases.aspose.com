@@ -14,7 +14,7 @@ download_count: " 21/7/2022 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 367.55MB"
 parent_path: "words/cpp"
 section_parent_path: "words/cpp"
-release_notes_url: "https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-7-release-notes/"
 weight: 188
 
 ---
@@ -38,7 +38,7 @@ weight: 188
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-7-release-notes/'>https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-7-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-7-release-notes/'>https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">C ++ 22.7 sürümü için aspose.words içerir</div>

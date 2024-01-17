@@ -35,7 +35,7 @@ weight: 178
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-4-release-notes/">https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-4-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含aspose.Words for C ++ 22.4释放Linux仅二进制文件</div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-4-release-notes/">https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-4-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含aspose.Words for C ++ 22.4释放Linux仅二进制文件</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

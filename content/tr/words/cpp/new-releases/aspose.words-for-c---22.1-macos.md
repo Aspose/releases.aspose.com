@@ -39,7 +39,7 @@ weight: 163
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-1-release-notes/">https://docs.aspose.com/words/cpp/aspose-words-for-cpp-22-1-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">C ++ 22.1 Serbest Bırakma MacOS İkili Bilekleri için Aspose.Words içerir</div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-1-release-notes/">https://releases.aspose.com/words/cpp/release-notes/2022/aspose-words-for-cpp-22-1-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">C ++ 22.1 Serbest Bırakma MacOS İkili Bilekleri için Aspose.Words içerir</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
