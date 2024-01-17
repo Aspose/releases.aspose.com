@@ -14,7 +14,7 @@ file_size: "File Size: 54.18MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
 
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-9-release-notes/"
 weight: 12
 ---
 
@@ -37,7 +37,7 @@ weight: 12
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-9-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-9-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-9-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Presentation Manipulation Python API</div>
@@ -63,7 +63,7 @@ Now you may set the timing to repeat the presentation slide animation via the fo
 - `repeat_until_next_click`: this bool property sets if the animation effect is repeated until the mouse button is next clicked.
 - `repeat_until_end_slide`: this bool property sets if the slide animation effect is repeated until the end of the current slide.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for Python 22.9 Release Notes](https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-9-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for Python 22.9 Release Notes](https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

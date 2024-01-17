@@ -16,7 +16,7 @@ parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
 
 tags: ["slides"]
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-6-release-notes/"
 weight: 47
 
 ---
@@ -40,7 +40,7 @@ weight: 47
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-23-6-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-23-6-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-6-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Παρουσίαση χειρισμού API Python</div>

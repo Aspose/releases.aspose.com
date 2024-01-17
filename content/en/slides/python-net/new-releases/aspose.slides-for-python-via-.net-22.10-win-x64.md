@@ -14,7 +14,7 @@ file_size: "File Size: 54.2MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
 
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-10-release-notes/"
 weight: 16
 ---
 
@@ -37,7 +37,7 @@ weight: 16
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-10-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-10-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-10-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Presentation Manipulation Python API</div>
@@ -60,7 +60,7 @@ If your presentation contains the embedded fonts then this release of our presen
 
 This API release introduces the ability to set color of leader lines within your presentation slides.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for Python 22.10 Release Notes](https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-10-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for Python 22.10 Release Notes](https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-10-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -14,7 +14,7 @@ file_size: "File Size: 54.14MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
 
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-8-release-notes/"
 weight: 9
 ---
 
@@ -37,7 +37,7 @@ weight: 9
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-8-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Presentation Manipulation Python API</div>
@@ -59,9 +59,9 @@ This API release introduces the detailed support for the presentation slide show
   - enable / disable animation in the slideshow
   - adjust pen color for the slideshow
 
-![slideShowSetup.png](https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/slideShowSetup.png)
+![slideShowSetup.png](https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-8-release-notes/slideShowSetup.png)
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for Python 22.8 Release Notes](https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for Python 22.8 Release Notes](https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

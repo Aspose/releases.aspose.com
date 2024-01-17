@@ -14,7 +14,7 @@ file_size: "File Size: 54.2MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
 
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-10-release-notes/"
 weight: 16
 ---
 
@@ -37,7 +37,7 @@ weight: 16
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-10-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-10-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-10-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Презентация манипуляции с Python API</div>
@@ -60,7 +60,7 @@ weight: 16
 
 Этот релиз API вводит способность устанавливать цвет лидеров лидеров в ваших слайдах презентации.
 
-> Для получения полного списка функций, улучшений и исправлений ошибок в этом выпуске, пожалуйста, посетите, [Aspose.slides для Python 22.10 Notes] (https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-10-release-notes/).
+> Для получения полного списка функций, улучшений и исправлений ошибок в этом выпуске, пожалуйста, посетите, [Aspose.slides для Python 22.10 Notes] (https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-10-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -14,7 +14,7 @@ file_size: "File Size: 54.14MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
 
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-8-release-notes/"
 weight: 9
 ---
 
@@ -37,7 +37,7 @@ weight: 9
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-8-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Manipulación de presentación API Python</div>
@@ -59,7 +59,7 @@ Esta versión de API presenta el soporte detallado para la configuración de la 
   - Habilitar / deshabilitar la animación en la presentación de diapositivas
   - Ajuste el color de la pluma para la presentación de diapositivas
 
-! [slideshowsetup.png] (https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/slideshowsetup.png)
+! [slideshowsetup.png] (https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-8-release-notes/slideshowsetup.png)
 
 > Para obtener una lista completa de características, mejoras y correcciones de errores en esta versión, visite, [Aspose.Slides para Python 22.8 Notas de versión] (https://docs.aspose.com/slides/python-net/aspose-slides-- para python-net-22-8-libere-notas/).
 

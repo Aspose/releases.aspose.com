@@ -14,7 +14,7 @@ download_count: " 22/12/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 54.23MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-12-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-12-release-notes/"
 weight: 23
 
 ---
@@ -38,7 +38,7 @@ weight: 23
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-12-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-12-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-12-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Presentation Manipulation Python API</div>

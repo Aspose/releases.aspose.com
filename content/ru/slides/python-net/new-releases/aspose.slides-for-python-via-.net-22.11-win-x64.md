@@ -14,7 +14,7 @@ file_size: "File Size: 54.24MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
 
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-11-release-notes/"
 weight: 21
 ---
 
@@ -37,7 +37,7 @@ weight: 21
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-11-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-11-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-11-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Презентация манипуляции с Python API</div>
@@ -64,7 +64,7 @@ weight: 21
 
 Новое свойство ([`Effect.stop_previous_sound`] (https://reference.aspose.com/slides/python-net/aspose.slides.animation/effect/)) было введено, что указывает, останавливается ли эффект анимации предыдущий звук.
 
-> Для получения полного списка функций, улучшений и исправлений ошибок в этом выпуске, пожалуйста, посетите, [Aspose.slides для Python 22.11 Notes] (https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-11-release-notes/).
+> Для получения полного списка функций, улучшений и исправлений ошибок в этом выпуске, пожалуйста, посетите, [Aspose.slides для Python 22.11 Notes] (https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-11-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

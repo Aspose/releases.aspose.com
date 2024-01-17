@@ -14,7 +14,7 @@ file_size: "File Size: 54.2MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
 
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-10-release-notes/"
 weight: 16
 ---
 
@@ -37,7 +37,7 @@ weight: 16
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-10-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-10-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-10-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">演示操纵Python API</div>
@@ -60,7 +60,7 @@ weight: 16
 
 此API发行版介绍了在您的演示幻灯片中设置Leader Lines颜色的能力。
 
->有关此版本中的功能，增强功能和错误修复的完整列表，请访问[aspose.slides for python 22.10发行说明](https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-10-release-notes/).
+>有关此版本中的功能，增强功能和错误修复的完整列表，请访问[aspose.slides for python 22.10发行说明](https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-10-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -14,7 +14,7 @@ file_size: "File Size: 54.14MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
 
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-8-release-notes/"
 weight: 9
 ---
 
@@ -37,7 +37,7 @@ weight: 9
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-8-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">演示操纵Python API</div>
@@ -61,7 +61,7 @@ weight: 9
 
 ！[slideshowsetup.png]（https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-net-net-net-22-8-rease-notes/slideshowsetup.png）
 
->有关此版本中的功能，增强功能和错误修复的完整列表，请访问[aspose.slides for Python 22.8发行说明]（https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/).
+>有关此版本中的功能，增强功能和错误修复的完整列表，请访问[aspose.slides for Python 22.8发行说明]（https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

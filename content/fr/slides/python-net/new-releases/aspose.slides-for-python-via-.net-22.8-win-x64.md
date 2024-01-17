@@ -14,7 +14,7 @@ file_size: "File Size: 54.14MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
 
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-8-release-notes/"
 weight: 9
 ---
 
@@ -37,7 +37,7 @@ weight: 9
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-8-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">API Python manipulation de la présentation</div>
@@ -59,7 +59,7 @@ Cette version API présente la prise en charge détaillée des paramètres de di
   - Activer / désactiver l'animation dans le diaporama
   - Ajustez la couleur du stylo pour le diaporama
 
-! [SlideshowsEtup.png] (https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-8-release-notes/slideshowsetup.png)
+! [SlideshowsEtup.png] (https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-8-release-notes/slideshowsetup.png)
 
 > Pour une liste complète des fonctionnalités, des améliorations et des corrections de bogues dans cette version, veuillez visiter, [Aspose.slides pour Python 22.8 Notes de version] (https://docs.aspose.com/slides/python-net/aspose-slides- For-Python-Net-22-8-Release-Notes /).
 

@@ -14,7 +14,7 @@ file_size: "File Size: 54.14MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
 
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-6-release-notes/"
 weight: 1
 ---
 
@@ -37,7 +37,7 @@ weight: 1
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-6-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-6-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-6-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Презентация манипуляции с Python API</div>
@@ -54,7 +54,7 @@ weight: 1
 
 Эта настройка по умолчанию блокирует источник только для времени выполнения конструктора «ipresentation».
 
-> Для получения полного списка функций, улучшений и исправлений ошибок в этом выпуске, пожалуйста, посетите, [Aspose.Slides для Python 22.6 Notes] (https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-6-release-notes/).
+> Для получения полного списка функций, улучшений и исправлений ошибок в этом выпуске, пожалуйста, посетите, [Aspose.Slides для Python 22.6 Notes] (https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

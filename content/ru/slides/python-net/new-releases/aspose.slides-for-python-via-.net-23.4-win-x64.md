@@ -14,7 +14,7 @@ download_count: " 25/4/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 54.25MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-4-release-notes/"
 weight: 39
 
 ---
@@ -38,7 +38,7 @@ weight: 39
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-23-4-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-23-4-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-4-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Презентация манипуляции с Python API</div>

@@ -14,7 +14,7 @@ download_count: " 30/1/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 48.88MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-1-release-notes/"
 weight: 28
 
 ---
@@ -38,7 +38,7 @@ weight: 28
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-23-1-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-23-1-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-1-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">プレゼンテーション操作Python API</div>

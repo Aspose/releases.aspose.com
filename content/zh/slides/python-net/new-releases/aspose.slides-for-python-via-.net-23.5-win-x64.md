@@ -16,7 +16,7 @@ parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
 
 tags: ["slides"]
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-5-release-notes/"
 weight: 44
 
 ---
@@ -40,7 +40,7 @@ weight: 44
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-23-5-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-23-5-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-5-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">演示操纵Python API</div>

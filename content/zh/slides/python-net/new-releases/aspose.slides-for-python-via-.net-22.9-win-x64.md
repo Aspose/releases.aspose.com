@@ -14,7 +14,7 @@ file_size: "File Size: 54.18MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
 
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-9-release-notes/"
 weight: 12
 ---
 
@@ -37,7 +37,7 @@ weight: 12
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-9-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-9-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-9-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">演示操纵Python API</div>
@@ -63,7 +63,7 @@ weight: 12
 - `repeat_until_next_click`:此Bool属性设置如果重复动画效果，直到接下来单击鼠标按钮为止。
 - `repeat_until_end_slide`: 此Bool属性设置如果重复幻灯片动画效果，直到当前幻灯片的结束为止。
 
->有关此版本中的功能，增强功能和错误修复的完整列表，请访问[aspose.slides for python 22.9发行说明](https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-9-release-notes/).
+>有关此版本中的功能，增强功能和错误修复的完整列表，请访问[aspose.slides for python 22.9发行说明](https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

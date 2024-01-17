@@ -14,7 +14,7 @@ file_size: "File Size: 54.15MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
 
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-7-release-notes/"
 weight: 4
 ---
 
@@ -37,7 +37,7 @@ weight: 4
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-7-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-7-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-7-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Presentation Manipulation Python API</div>
@@ -60,7 +60,7 @@ This API release introduces the support of 3D Column Charts. Now you may add cha
 
 Previously it was observed that in some instances the Hebrew text shadow was being incorrect when `PPTX` presentations are converted to `PDF` format. This issue has now been resolved.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for Python 22.7 Release Notes](https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-7-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for Python 22.7 Release Notes](https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

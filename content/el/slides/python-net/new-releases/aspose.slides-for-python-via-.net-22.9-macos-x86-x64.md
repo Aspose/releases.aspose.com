@@ -14,7 +14,7 @@ download_count: " 5/10/2022 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 59.4MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
-release_notes_url: "https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-9-release-notes/"
 weight: 13
 
 ---
@@ -38,7 +38,7 @@ weight: 13
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-9-release-notes/'>https://docs.aspose.com/slides/python-net/aspose-slides-for-python-net-22-9-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-9-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2022/aspose-slides-for-python-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Παρουσίαση χειρισμού API Python</div>
