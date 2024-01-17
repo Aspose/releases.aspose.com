@@ -39,7 +39,7 @@ weight: 89
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/wordscpp/Aspose.Words+for+CPP+19.6+Release+Notes">https://docs.aspose.com/display/wordscpp/Aspose.Words+for+CPP+19.6+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Words für die Version C++ 19.6.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/words/cpp/release-notes/2019/aspose-words-for-cpp-19-6-release-notes/">https://releases.aspose.com/words/cpp/release-notes/2019/aspose-words-for-cpp-19-6-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Words für die Version C++ 19.6.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
