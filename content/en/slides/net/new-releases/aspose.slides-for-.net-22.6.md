@@ -13,7 +13,7 @@ download_count: " 24/6/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 81.81MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-6-release-notes/"
 weight: 743
 ---
 
@@ -36,7 +36,7 @@ weight: 743
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/slides/net/aspose-slides-for-net-22-6-release-notes/'>https://docs.aspose.com/slides/net/aspose-slides-for-net-22-6-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-6-release-notes/'>https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 22.6 release.</div>
@@ -59,7 +59,7 @@ It was observed that grouping placeholders worked fine but font size was being c
 
 Previously when Microsoft PowerPoint&reg; PPTX presentation was converted to Acrobat&reg; PDF file on Linux, the conversion process crashed. There was also an issue on Alpine Linux for the same. Both of these issues have now been resolved.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for .NET 22.6 Release Notes](https://docs.aspose.com/slides/net/aspose-slides-for-net-22-6-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for .NET 22.6 Release Notes](https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

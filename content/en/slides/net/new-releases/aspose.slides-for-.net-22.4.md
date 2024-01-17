@@ -35,7 +35,7 @@ weight: 738
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/slides/net/aspose-slides-for-net-22-4-release-notes/">https://docs.aspose.com/slides/net/aspose-slides-for-net-22-4-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-4-release-notes/">https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -85,7 +85,7 @@ This API release offers numerous improvements while converting PowerPoint&reg; P
 
 Fixed the wrong text wrapping issue in generated thumbnail of images.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for .NET 22.4 Release Notes](https://docs.aspose.com/slides/net/aspose-slides-for-net-22-4-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for .NET 22.4 Release Notes](https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

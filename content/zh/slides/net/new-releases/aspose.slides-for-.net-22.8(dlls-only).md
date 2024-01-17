@@ -14,7 +14,7 @@ download_count: " 17/8/2022 下载s: 1  Views: 1 "
 file_size: "File Size: 103.11MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-8-release-notes/"
 weight: 748
 
 ---
@@ -38,7 +38,7 @@ weight: 748
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/slides/net/aspose-slides-for-net-22-8-release-notes/'>https://docs.aspose.com/slides/net/aspose-slides-for-net-22-8-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-8-release-notes/'>https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含aspose.net 22.8（仅DLL）释放的aspose。</div>

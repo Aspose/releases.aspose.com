@@ -14,7 +14,7 @@ download_count: " 23/11/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 71.89MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-11-release-notes/"
 weight: 753
 
 ---
@@ -38,7 +38,7 @@ weight: 753
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/slides/net/aspose-slides-for-net-22-11-release-notes/'>https://docs.aspose.com/slides/net/aspose-slides-for-net-22-11-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-11-release-notes/'>https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 22.11 release.</div>

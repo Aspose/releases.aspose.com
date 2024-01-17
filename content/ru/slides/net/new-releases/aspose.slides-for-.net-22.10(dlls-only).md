@@ -14,7 +14,7 @@ download_count: " 18/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 103.33MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-10-release-notes/"
 weight: 752
 
 ---
@@ -38,7 +38,7 @@ weight: 752
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Примечания к выпуску</h4><div> <a href='https://docs.aspose.com/slides/net/aspose-slides-for-net-22-10-release-notes/'>https://docs.aspose.com/slides/net/aspose-slides-for-net-22-10-release-notes/</a></div>
+      <h4>Примечания к выпуску</h4><div> <a href='https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-10-release-notes/'>https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription"> Он содержит выпуск Aspose.Slides для .NET 22.10 (только библиотеки DLL).</div>

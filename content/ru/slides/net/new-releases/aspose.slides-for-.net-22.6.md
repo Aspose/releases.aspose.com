@@ -15,7 +15,7 @@ file_size: "File Size: 81.81MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
 
-release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-6-release-notes/"
 weight: 743
 
 ---
@@ -39,7 +39,7 @@ weight: 743
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/slides/net/aspose-slides-for-net-22-6-release-notes/'>https://docs.aspose.com/slides/net/aspose-slides-for-net-22-6-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-6-release-notes/'>https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.slides для выпуска .NET 22.6.</div>

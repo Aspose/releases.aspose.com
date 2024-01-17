@@ -14,7 +14,7 @@ file_size: "File Size: 81.78MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
 
-release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-8-release-notes/"
 weight: 747
 ---
 
@@ -37,7 +37,7 @@ weight: 747
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/slides/net/aspose-slides-for-net-22-8-release-notes/'>https://docs.aspose.com/slides/net/aspose-slides-for-net-22-8-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-8-release-notes/'>https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 22.8 release.</div>
@@ -71,7 +71,7 @@ The support of 3-D Surface chart type has been made available in the API.
 
 This API release allows rendering presentations to pure HTML without the `SVG` parent tag.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for .NET 22.8 Release Notes](https://docs.aspose.com/slides/net/aspose-slides-for-net-22-8-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Slides for .NET 22.8 Release Notes](https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

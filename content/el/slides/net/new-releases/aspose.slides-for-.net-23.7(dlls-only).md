@@ -14,7 +14,7 @@ download_count: " 18/7/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 167.21MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-23-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-7-release-notes/"
 weight: 770
 
 ---
@@ -38,7 +38,7 @@ weight: 770
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/slides/net/aspose-slides-for-net-23-7-release-notes/'>https://docs.aspose.com/slides/net/aspose-slides-for-net-23-7-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-7-release-notes/'>https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει Aspose.slides για .NET 23.7 (μόνο DLLS) απελευθέρωση.</div>

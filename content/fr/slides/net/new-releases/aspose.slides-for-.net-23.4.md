@@ -14,7 +14,7 @@ download_count: " 20/4/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 119.08MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-4-release-notes/"
 weight: 763
 
 ---
@@ -38,7 +38,7 @@ weight: 763
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/slides/net/aspose-slides-for-net-23-4-release-notes/'>https://docs.aspose.com/slides/net/aspose-slides-for-net-23-4-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-4-release-notes/'>https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Il contient ASPOSE.SLAIDS pour la version .NET 23.4.</div>

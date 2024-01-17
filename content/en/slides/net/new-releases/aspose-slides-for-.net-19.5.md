@@ -39,7 +39,7 @@ weight: 666
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://href.li/?https://docs.aspose.com/display/slidesnet/Aspose.Slides+for+.NET+19.5+Release+Notes">https://href.li/?https://docs.aspose.com/display/slidesnet/Aspose.Slides+for+.NET+19.5+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://href.li/?https://releases.aspose.com/slides/net/release-notes/2019/aspose-slides-for-net-19-5-release-notes/">https://href.li/?https://releases.aspose.com/slides/net/release-notes/2019/aspose-slides-for-net-19-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

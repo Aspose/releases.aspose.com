@@ -16,7 +16,7 @@ parent_path: "slides/net"
 section_parent_path: "slides/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-9-release-notes/"
 weight: 774
 
 ---
@@ -40,7 +40,7 @@ weight: 774
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/slides/net/aspose-slides-for-net-23-9-release-notes/'>https://docs.aspose.com/slides/net/aspose-slides-for-net-23-9-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-9-release-notes/'>https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.slides для выпуска .NET 23.9 (только DLL).</div>

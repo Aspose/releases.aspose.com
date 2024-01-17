@@ -14,7 +14,7 @@ download_count: " 13/9/2022 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 103.16MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-9-release-notes/"
 weight: 750
 
 ---
@@ -38,7 +38,7 @@ weight: 750
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/slides/net/aspose-slides-for-net-22-9-release-notes/'>https://docs.aspose.com/slides/net/aspose-slides-for-net-22-9-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-9-release-notes/'>https://releases.aspose.com/slides/net/release-notes/2022/aspose-slides-for-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">.NET 22.9（DLLSのみ）リリースのAspose.Slidesが含まれています。</div>

@@ -14,7 +14,7 @@ download_count: " 27/2/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 154.75MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-release_notes_url: "https://docs.aspose.com/slides/net/aspose-slides-for-net-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-2-release-notes/"
 weight: 760
 
 ---
@@ -38,7 +38,7 @@ weight: 760
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/slides/net/aspose-slides-for-net-23-2-release-notes/'>https://docs.aspose.com/slides/net/aspose-slides-for-net-23-2-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-2-release-notes/'>https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Ele contém aspose.slide para .NET 23.2 (somente DLLS).</div>
