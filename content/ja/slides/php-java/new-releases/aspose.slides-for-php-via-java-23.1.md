@@ -14,7 +14,7 @@ download_count: " 26/1/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 26.8MB"
 parent_path: "slides/php-java"
 section_parent_path: "slides/php-java"
-release_notes_url: "https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-1-release-notes/"
 weight: 9
 
 ---
@@ -38,7 +38,7 @@ weight: 9
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-23-1-release-notes/'>https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-23-1-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-1-release-notes/'>https://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">Java 23.1リリースを介してPHPのAsoppes.slidesが含まれています。</div>

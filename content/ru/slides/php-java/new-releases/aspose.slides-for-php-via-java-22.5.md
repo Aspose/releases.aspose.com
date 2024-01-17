@@ -15,7 +15,7 @@ file_size: "File Size: 26.0 MB"
 parent_path: "slides/php-java"
 section_parent_path: "slides/php-java"
 
-release_notes_url: "https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/php-java/release-notes/2022/aspose-slides-for-php-via-java-22-5-release-notes/"
 weight: 1
 
 ---
@@ -39,7 +39,7 @@ weight: 1
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-22-5-release-notes/'>https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-22-5-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/slides/php-java/release-notes/2022/aspose-slides-for-php-via-java-22-5-release-notes/'>https://releases.aspose.com/slides/php-java/release-notes/2022/aspose-slides-for-php-via-java-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.slides для PHP через выпуск Java 22.5.</div>

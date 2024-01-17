@@ -14,7 +14,7 @@ download_count: " 20/2/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 26.6MB"
 parent_path: "slides/php-java"
 section_parent_path: "slides/php-java"
-release_notes_url: "https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-2-release-notes/"
 weight: 10
 
 ---
@@ -38,7 +38,7 @@ weight: 10
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-23-2-release-notes/'>https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-23-2-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-2-release-notes/'>https://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">Es enthält ASSOSE.Slides für PHP über Java 23.2 Release.</div>

@@ -14,7 +14,7 @@ download_count: " 19/7/2022 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 26.87MB"
 parent_path: "slides/php-java"
 section_parent_path: "slides/php-java"
-release_notes_url: "https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/php-java/release-notes/2022/aspose-slides-for-php-via-java-22-7-release-notes/"
 weight: 3
 
 ---
@@ -38,7 +38,7 @@ weight: 3
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-22-7-release-notes/'>https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-22-7-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/slides/php-java/release-notes/2022/aspose-slides-for-php-via-java-22-7-release-notes/'>https://releases.aspose.com/slides/php-java/release-notes/2022/aspose-slides-for-php-via-java-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Il contient ASPOSE.SLIDES POUR PHP via la version Java 22.7.</div>

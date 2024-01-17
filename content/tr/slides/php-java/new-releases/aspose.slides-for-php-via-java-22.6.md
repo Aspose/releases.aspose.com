@@ -15,7 +15,7 @@ file_size: "File Size: 26.84MB"
 parent_path: "slides/php-java"
 section_parent_path: "slides/php-java"
 
-release_notes_url: "https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/php-java/release-notes/2022/aspose-slides-for-php-via-java-22-6-release-notes/"
 weight: 2
 
 ---
@@ -39,7 +39,7 @@ weight: 2
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-22-6-release-notes/'>https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-22-6-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/slides/php-java/release-notes/2022/aspose-slides-for-php-via-java-22-6-release-notes/'>https://releases.aspose.com/slides/php-java/release-notes/2022/aspose-slides-for-php-via-java-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Java 22.6 sürümü üzerinden PHP için aspose.slides içerir.</div>

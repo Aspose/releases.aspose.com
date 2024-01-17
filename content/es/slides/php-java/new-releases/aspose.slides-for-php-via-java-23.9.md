@@ -16,7 +16,7 @@ parent_path: "slides/php-java"
 section_parent_path: "slides/php-java"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-9-release-notes/"
 weight: 17
 
 ---
@@ -40,7 +40,7 @@ weight: 17
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-23-9-release-notes/'>https://docs.aspose.com/slides/php-java/aspose-slides-for-php-via-java-23-9-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-9-release-notes/'>https://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Contiene aspose. Slides para PHP a través de la versión Java 23.9.</div>
