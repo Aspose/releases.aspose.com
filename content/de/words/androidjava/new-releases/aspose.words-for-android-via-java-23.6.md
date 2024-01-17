@@ -14,7 +14,7 @@ download_count: " 30/6/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 18.14MB"
 parent_path: "words/androidjava"
 section_parent_path: "words/androidjava"
-release_notes_url: "https://docs.aspose.com/words/java/aspose-words-for-android-via-java-23.6-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/androidjava/release-notes/2023/aspose-words-for-android-via-java-23.6-release-notes/"
 weight: 94
 
 ---
@@ -38,7 +38,7 @@ weight: 94
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/words/java/aspose-words-for-android-via-java-23.6-release-notes/'>https://docs.aspose.com/words/java/aspose-words-for-android-via-java-23.6-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/words/androidjava/release-notes/2023/aspose-words-for-android-via-java-23.6-release-notes/'>https://releases.aspose.com/words/androidjava/release-notes/2023/aspose-words-for-android-via-java-23.6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">Es enthält ASPOSPE.Words für Android über Java 23.6 Release.</div>

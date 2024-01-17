@@ -39,7 +39,7 @@ weight: 70
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/wordsjava/Aspose.Words+for+Android+via+Java+18.2+Release+Notes">https://docs.aspose.com/display/wordsjava/Aspose.Words+for+Android+via+Java+18.2+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">This is our regular monthly release. The code base of Aspose.Words for Android via Java 18.2 matches the code of Aspose.Words for .NET/Java 18.2. See the Aspose.Words for Java release notes for a list of fixes and features in this version.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/androidjava/release-notes/2018/aspose-words-for-android-via-java-18-2-release-notes/">https://releases.aspose.com/words/androidjava/release-notes/2018/aspose-words-for-android-via-java-18-2-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">This is our regular monthly release. The code base of Aspose.Words for Android via Java 18.2 matches the code of Aspose.Words for .NET/Java 18.2. See the Aspose.Words for Java release notes for a list of fixes and features in this version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

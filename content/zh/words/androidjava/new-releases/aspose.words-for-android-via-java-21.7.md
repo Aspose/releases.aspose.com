@@ -39,7 +39,7 @@ weight: 86
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/words/java/aspose-words-for-android-via-java-21.7-release-notes/">https://docs.aspose.com/words/java/aspose-words-for-android-via-java-21.7-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含Android的aspose.Words通过Java 21.7发行版。</div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/words/androidjava/release-notes/2021/aspose-words-for-android-via-java-21.7-release-notes/">https://releases.aspose.com/words/androidjava/release-notes/2021/aspose-words-for-android-via-java-21.7-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">它包含Android的aspose.Words通过Java 21.7发行版。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

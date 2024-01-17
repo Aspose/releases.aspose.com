@@ -14,7 +14,7 @@ download_count: " 24/3/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 18.26MB"
 parent_path: "words/androidjava"
 section_parent_path: "words/androidjava"
-release_notes_url: "https://docs.aspose.com/words/java/aspose-words-for-android-via-java-23.3-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/androidjava/release-notes/2023/aspose-words-for-android-via-java-23.3-release-notes/"
 weight: 93
 
 ---
@@ -38,7 +38,7 @@ weight: 93
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/words/java/aspose-words-for-android-via-java-23.3-release-notes/'>https://docs.aspose.com/words/java/aspose-words-for-android-via-java-23.3-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/words/androidjava/release-notes/2023/aspose-words-for-android-via-java-23.3-release-notes/'>https://releases.aspose.com/words/androidjava/release-notes/2023/aspose-words-for-android-via-java-23.3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Java 23.3 sürümü aracılığıyla Android için Aspose.words içerir.</div>

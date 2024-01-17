@@ -39,7 +39,7 @@ weight: 83
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href="https://docs.aspose.com/words/java/aspose-words-for-android-via-java-20-9-release-notes/">https://docs.aspose.com/words/java/aspose-words-for-android-via-java-20-9-release-notes/</a></div><h4>La description</h4><div class="HTMLDescription">Il contient Aspose.Words pour Android via la version Java 20.9.</div>
+      <h4>Notes de version</h4><div><a href="https://releases.aspose.com/words/androidjava/release-notes/2020/aspose-words-for-android-via-java-20-9-release-notes/">https://releases.aspose.com/words/androidjava/release-notes/2020/aspose-words-for-android-via-java-20-9-release-notes/</a></div><h4>La description</h4><div class="HTMLDescription">Il contient Aspose.Words pour Android via la version Java 20.9.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

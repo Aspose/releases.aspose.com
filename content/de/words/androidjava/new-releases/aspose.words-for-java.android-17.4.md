@@ -39,7 +39,7 @@ weight: 60
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/wordsjava/Aspose.Words+for+Java.Android+17.4+Release+Notes">https://docs.aspose.com/display/wordsjava/Aspose.Words+for+Java.Android+17.4+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">This is our regular monthly release. The code base of Aspose.Words for Java.Android 17.4 matches the code of Aspose.Words for .NET/Java 17.4. Eine Liste der Fehlerbehebungen und Funktionen in dieser Version finden Sie in den Versionshinweisen zu Aspose.Words für Java.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/words/androidjava/release-notes/2017/aspose-words-for-java-android-17-4-release-notes/">https://releases.aspose.com/words/androidjava/release-notes/2017/aspose-words-for-java-android-17-4-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">This is our regular monthly release. The code base of Aspose.Words for Java.Android 17.4 matches the code of Aspose.Words for .NET/Java 17.4. Eine Liste der Fehlerbehebungen und Funktionen in dieser Version finden Sie in den Versionshinweisen zu Aspose.Words für Java.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

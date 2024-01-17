@@ -39,7 +39,7 @@ weight: 85
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/words/java/aspose-words-for-android-via-java-21.4-release-notes/">https://docs.aspose.com/words/java/aspose-words-for-android-via-java-21.4-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">Java 21.4リリースを介してAndroid用のAspose.Wordsが含まれています。</div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/words/androidjava/release-notes/2021/aspose-words-for-android-via-java-21.4-release-notes/">https://releases.aspose.com/words/androidjava/release-notes/2021/aspose-words-for-android-via-java-21.4-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">Java 21.4リリースを介してAndroid用のAspose.Wordsが含まれています。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

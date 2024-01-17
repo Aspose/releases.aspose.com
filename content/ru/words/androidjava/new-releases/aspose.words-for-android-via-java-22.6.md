@@ -15,7 +15,7 @@ file_size: "File Size: 14.13MB"
 parent_path: "words/androidjava"
 section_parent_path: "words/androidjava"
 
-release_notes_url: "https://docs.aspose.com/words/java/aspose-words-for-android-via-java-22.6-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/androidjava/release-notes/2022/aspose-words-for-android-via-java-22.6-release-notes/"
 weight: 90
 
 ---
@@ -39,7 +39,7 @@ weight: 90
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/words/java/aspose-words-for-android-via-java-22.6-release-notes/'>https://docs.aspose.com/words/java/aspose-words-for-android-via-java-22.6-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/words/androidjava/release-notes/2022/aspose-words-for-android-via-java-22.6-release-notes/'>https://releases.aspose.com/words/androidjava/release-notes/2022/aspose-words-for-android-via-java-22.6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.words для Android через выпуск Java 22.6.</div>

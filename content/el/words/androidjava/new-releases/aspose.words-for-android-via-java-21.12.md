@@ -39,7 +39,7 @@ weight: 88
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/words/java/aspose-words-for-android-via-java-21.12-release-notes/">https://docs.aspose.com/words/java/aspose-words-for-android-via-java-21.12-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει aspose.words για Android μέσω της απελευθέρωσης Java 21.12.</div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/words/androidjava/release-notes/2021/aspose-words-for-android-via-java-21.12-release-notes/">https://releases.aspose.com/words/androidjava/release-notes/2021/aspose-words-for-android-via-java-21.12-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει aspose.words για Android μέσω της απελευθέρωσης Java 21.12.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

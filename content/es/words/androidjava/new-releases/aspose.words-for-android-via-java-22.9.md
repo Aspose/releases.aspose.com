@@ -14,7 +14,7 @@ download_count: " 16/9/2022 Descargars: 1  Views: 1 "
 file_size: "File Size: 14.25MB"
 parent_path: "words/androidjava"
 section_parent_path: "words/androidjava"
-release_notes_url: "https://docs.aspose.com/words/java/aspose-words-for-android-via-java-22.9-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/androidjava/release-notes/2022/aspose-words-for-android-via-java-22.9-release-notes/"
 weight: 91
 
 ---
@@ -38,7 +38,7 @@ weight: 91
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/words/java/aspose-words-for-android-via-java-22.9-release-notes/'>https://docs.aspose.com/words/java/aspose-words-for-android-via-java-22.9-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/words/androidjava/release-notes/2022/aspose-words-for-android-via-java-22.9-release-notes/'>https://releases.aspose.com/words/androidjava/release-notes/2022/aspose-words-for-android-via-java-22.9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Contiene Aspose.Words para Android a través de la versión Java 22.9.</div>
