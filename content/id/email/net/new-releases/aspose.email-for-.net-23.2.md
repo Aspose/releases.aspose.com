@@ -14,7 +14,7 @@ download_count: " 28/2/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 52.79MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
-release_notes_url: "https://docs.aspose.com/email/net/aspose-email-for-net-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/net/release-notes/2023/aspose-email-for-net-23-2-release-notes/"
 weight: 561
 
 ---
@@ -38,7 +38,7 @@ weight: 561
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/email/net/aspose-email-for-net-23-2-release-notes/'>https://docs.aspose.com/email/net/aspose-email-for-net-23-2-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/email/net/release-notes/2023/aspose-email-for-net-23-2-release-notes/'>https://releases.aspose.com/email/net/release-notes/2023/aspose-email-for-net-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.email untuk rilis .net 23.2.</div>

@@ -14,7 +14,7 @@ file_size: "File Size: 51.96MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
 
-release_notes_url: "https://docs.aspose.com/email/net/aspose-email-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-9-release-notes/"
 weight: 551
 ---
 
@@ -37,7 +37,7 @@ weight: 551
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Σημειώσεις έκδοσης</h4><div> <a href='https://docs.aspose.com/email/net/aspose-email-for-net-22-9-release-notes/'>https://docs.aspose.com/email/net/aspose-email-for-net-22-9-release-notes/</a></div>
+<h4>Σημειώσεις έκδοσης</h4><div> <a href='https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-9-release-notes/'>https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-9-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -79,7 +79,7 @@ messages = messagePageInfo.Items;
 
 Προηγουμένως υπήρχε πρόβλημα μετατροπής EML σε MSG στην περίπτωση του κινεζικού κειμένου. Αυτό το ζήτημα έχει πλέον επιλυθεί.
 
-> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Email for .NET 22.9 Release Notes](https://docs.aspose.com/email/net/aspose-email-for-net-22-9-release-notes/).
+> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Email for .NET 22.9 Release Notes](https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -16,7 +16,7 @@ parent_path: "email/net"
 section_parent_path: "email/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/email/net/aspose-email-for-net-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/net/release-notes/2023/aspose-email-for-net-23-9-release-notes/"
 weight: 578
 
 ---
@@ -40,7 +40,7 @@ weight: 578
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/email/net/aspose-email-for-net-23-9-release-notes/'>https://docs.aspose.com/email/net/aspose-email-for-net-23-9-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/email/net/release-notes/2023/aspose-email-for-net-23-9-release-notes/'>https://releases.aspose.com/email/net/release-notes/2023/aspose-email-for-net-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">Es enthält asspose.email für .NET 23.9 (nur DLLs).</div>

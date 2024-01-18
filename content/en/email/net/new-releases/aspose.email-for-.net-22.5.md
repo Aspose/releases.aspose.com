@@ -13,7 +13,7 @@ download_count: " 10/6/2022 Downloads: 4  Views: 6 "
 file_size: "File Size: 51.92MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
-release_notes_url: "https://docs.aspose.com/email/net/aspose-email-for-net-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-5-release-notes/"
 weight: 542
 ---
 
@@ -36,7 +36,7 @@ weight: 542
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Release Notes</h4><div><a href='https://docs.aspose.com/email/net/aspose-email-for-net-22-5-release-notes/'>https://docs.aspose.com/email/net/aspose-email-for-net-22-5-release-notes/</a></div>
+<h4>Release Notes</h4><div><a href='https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-5-release-notes/'>https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -79,7 +79,7 @@ foreach (var message in messages)
 }
 ```
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Email for .NET 22.5 Release Notes](https://docs.aspose.com/email/net/aspose-email-for-net-22-5-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Email for .NET 22.5 Release Notes](https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

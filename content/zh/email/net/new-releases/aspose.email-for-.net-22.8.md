@@ -14,7 +14,7 @@ file_size: "File Size: 51.93MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
 
-release_notes_url: “https://docs.aspose.com/email/net/aspose-email-for-net-22-8-release-notes/”
+release_notes_url: “https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-8-release-notes/”
 weight: 549
 ---
 
@@ -37,7 +37,7 @@ weight: 549
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href='https://docs.aspose.com/email/net/aspose-email-for-net-22-8-release-notes/'>https://docs.aspose.com/email/net/aspose-email-for-net-22-8-release-notes/</a></div>
+<h4>发行说明</h4><div><a href='https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-8-release-notes/'>https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -73,7 +73,7 @@ var pst = MailStorageConverter.mboxToPst("Input.mbox", "Output.pst");
 
 以前在某些情况下观察到丹麦字符在重新保存“MSG”后会丢失。这个问题现在已经解决了。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Email for .NET 22.8 Release Notes](https://docs.aspose.com/email/net/aspose-email-for-net-22-8-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Email for .NET 22.8 Release Notes](https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-8-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

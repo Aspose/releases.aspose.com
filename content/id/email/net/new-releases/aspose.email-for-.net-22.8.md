@@ -14,7 +14,7 @@ file_size: "File Size: 51.93MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
 
-release_notes_url: "https://docs.aspose.com/email/net/aspose-email-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-8-release-notes/"
 weight: 549
 ---
 
@@ -37,7 +37,7 @@ weight: 549
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Catatan Rilis</h4><div> <a href='https://docs.aspose.com/email/net/aspose-email-for-net-22-8-release-notes/'>https://docs.aspose.com/email/net/aspose-email-for-net-22-8-release-notes/</a></div>
+<h4>Catatan Rilis</h4><div> <a href='https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-8-release-notes/'>https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -73,7 +73,7 @@ var pst = MailStorageConverter.mboxToPst("Input.mbox", "Output.pst");
 
 Sebelumnya dalam beberapa kasus terlihat bahwa karakter Denmark hilang setelah menyimpan ulang `MSG`. Masalah ini sekarang telah diselesaikan.
 
-> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Email for .NET 22.8 Release Notes](https://docs.aspose.com/email/net/aspose-email-for-net-22-8-release-notes/).
+> Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Email for .NET 22.8 Release Notes](https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

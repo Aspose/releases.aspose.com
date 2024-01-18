@@ -39,7 +39,7 @@ weight: 536
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href="https://docs.aspose.com/email/net/aspose-email-for-net-22-3-release-notes/">https://docs.aspose.com/email/net/aspose-email-for-net-22-3-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href="https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-3-release-notes/">https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-3-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="注目すべき機能">}}
@@ -98,7 +98,7 @@ foreach (var message in messageInfoCollection)
 }
 ```
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Email for .NET 22.3 Release Notes](https://docs.aspose.com/email/net/aspose-email-for-net-22-3-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Email for .NET 22.3 Release Notes](https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-3-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

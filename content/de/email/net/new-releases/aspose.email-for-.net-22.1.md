@@ -39,7 +39,7 @@ weight: 532
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/email/net/aspose-email-for-net-22-1-release-notes/">https://docs.aspose.com/email/net/aspose-email-for-net-22-1-release-notes/</a></div>
+<h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-1-release-notes/">https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-1-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Bemerkenswerte Eigenschaften">}}
@@ -58,7 +58,7 @@ Zuvor wurde das Flag Aspose IMAP Seen immer als "false" zurückgegeben. Dieses P
 
 In einigen Fällen wurden die E-Mail-Nachrichten entfernt, nachdem wir der vorhandenen MBOX eine neue Nachricht hinzugefügt hatten. Dieses Problem wurde nun behoben.
 
-> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Email for .NET 22.1 Release Notes](https://docs.aspose.com/email/net/aspose-email-for-net-22-1-release-notes/).
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Email for .NET 22.1 Release Notes](https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

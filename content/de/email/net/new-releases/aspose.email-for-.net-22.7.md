@@ -14,7 +14,7 @@ file_size: "File Size: 51.95MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
 
-release_notes_url: "https://docs.aspose.com/email/net/aspose-email-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-7-release-notes/"
 weight: 547
 ---
 
@@ -37,7 +37,7 @@ weight: 547
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/email/net/aspose-email-for-net-22-7-release-notes/'>https://docs.aspose.com/email/net/aspose-email-for-net-22-7-release-notes/</a></div>
+<h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-7-release-notes/'>https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -68,7 +68,7 @@ using (var client = new ImapClient(imapHost, port, emailAddress, password, secur
 }
 ```
 
-> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Email for .NET 22.7 Release Notes](https://docs.aspose.com/email/net/aspose-email-for-net-22-7-release-notes/).
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Email for .NET 22.7 Release Notes](https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

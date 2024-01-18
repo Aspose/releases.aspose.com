@@ -14,7 +14,7 @@ download_count: " 30/7/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 45.62MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
-release_notes_url: "https://docs.aspose.com/email/net/aspose-email-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-7-release-notes/"
 weight: 548
 
 ---
@@ -38,7 +38,7 @@ weight: 548
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/email/net/aspose-email-for-net-22-7-release-notes/'>https://docs.aspose.com/email/net/aspose-email-for-net-22-7-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-7-release-notes/'>https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 22.6 (Dlls only) release.</div>

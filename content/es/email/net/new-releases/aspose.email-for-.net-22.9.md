@@ -14,7 +14,7 @@ file_size: "File Size: 51.96MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
 
-release_notes_url: "https://docs.aspose.com/email/net/aspose-email-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-9-release-notes/"
 weight: 551
 ---
 
@@ -37,7 +37,7 @@ weight: 551
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lanzamiento</h4><div> <a href='https://docs.aspose.com/email/net/aspose-email-for-net-22-9-release-notes/'>https://docs.aspose.com/email/net/aspose-email-for-net-22-9-release-notes/</a></div>
+<h4>Notas de lanzamiento</h4><div> <a href='https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-9-release-notes/'>https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-9-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -79,7 +79,7 @@ En algunos casos anteriores, las imágenes se rompieron después de enviar un co
 
 Anteriormente había un problema de conversión de EML a MSG en el caso del texto chino. Este problema ya se ha resuelto.
 
-> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Email for .NET 22.9 Release Notes](https://docs.aspose.com/email/net/aspose-email-for-net-22-9-release-notes/).
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Email for .NET 22.9 Release Notes](https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

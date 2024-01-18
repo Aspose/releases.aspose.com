@@ -14,7 +14,7 @@ download_count: " 30/9/2022 Unduhs: 1  Views: 1 "
 file_size: "File Size: 45.65MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
-release_notes_url: "https://docs.aspose.com/email/net/aspose-email-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-9-release-notes/"
 weight: 552
 
 ---
@@ -38,7 +38,7 @@ weight: 552
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/email/net/aspose-email-for-net-22-9-release-notes/'>https://docs.aspose.com/email/net/aspose-email-for-net-22-9-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-9-release-notes/'>https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.email untuk .NET 22.9 (hanya DLLS) rilis.</div>

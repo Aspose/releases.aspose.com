@@ -36,7 +36,7 @@ weight: 538
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Примечания к выпуску</h4><div> <a href="https://docs.aspose.com/email/net/aspose-email-for-net-22-4-release-notes/">https://docs.aspose.com/email/net/aspose-email-for-net-22-4-release-notes/</a></div>
+<h4>Примечания к выпуску</h4><div> <a href="https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-4-release-notes/">https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-4-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Примечательные особенности">}}
@@ -85,7 +85,7 @@ if (!resp.Successful)
 }
 ```
 
-> Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.Email for .NET 22.4 Release Notes](https://docs.aspose.com/email/net/aspose-email-for-net-22-4-release-notes/).
+> Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.Email for .NET 22.4 Release Notes](https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

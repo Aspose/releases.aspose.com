@@ -40,7 +40,7 @@ weight: 534
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Notas de lançamento</h4><div> <a href="https://docs.aspose.com/email/net/aspose-email-for-net-22-2-release-notes/">https://docs.aspose.com/email/net/aspose-email-for-net-22-2-release-notes/</a></div>
+<h4>Notas de lançamento</h4><div> <a href="https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-2-release-notes/">https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-2-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Recursos notáveis">}}
@@ -99,7 +99,7 @@ using (var message = MailMessage.Load("sourceFile.eml")){
 }
 ```
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Email for .NET 22.2 Release Notes](https://docs.aspose.com/email/net/aspose-email-for-net-22-2-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Email for .NET 22.2 Release Notes](https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -39,7 +39,7 @@ weight: 532
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lançamento</h4><div> <a href="https://docs.aspose.com/email/net/aspose-email-for-net-22-1-release-notes/">https://docs.aspose.com/email/net/aspose-email-for-net-22-1-release-notes/</a></div>
+<h4>Notas de lançamento</h4><div> <a href="https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-1-release-notes/">https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-1-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Recursos notáveis">}}
@@ -58,7 +58,7 @@ Anteriormente, o sinalizador Aspose IMAP Seen era sempre retornado como `false`.
 
 Em alguns casos, as mensagens de e-mail estavam sendo removidas depois que adicionamos uma nova mensagem ao MBOX existente. Este problema já foi resolvido.
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Email for .NET 22.1 Release Notes](https://docs.aspose.com/email/net/aspose-email-for-net-22-1-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Email for .NET 22.1 Release Notes](https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

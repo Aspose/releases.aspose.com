@@ -36,7 +36,7 @@ weight: 538
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Release Notes</h4><div><a href="https://docs.aspose.com/email/net/aspose-email-for-net-22-4-release-notes/">https://docs.aspose.com/email/net/aspose-email-for-net-22-4-release-notes/</a></div>
+<h4>Release Notes</h4><div><a href="https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-4-release-notes/">https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-4-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Notable Features">}}
@@ -85,7 +85,7 @@ if (!resp.Successful)
 }
 ```
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Email for .NET 22.4 Release Notes](https://docs.aspose.com/email/net/aspose-email-for-net-22-4-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Email for .NET 22.4 Release Notes](https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

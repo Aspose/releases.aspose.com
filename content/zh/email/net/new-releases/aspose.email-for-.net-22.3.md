@@ -39,7 +39,7 @@ weight: 536
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href="https://docs.aspose.com/email/net/aspose-email-for-net-22-3-release-notes/">https://docs.aspose.com/email/net/aspose-email-for-net-22-3-release-notes/</a></div>
+<h4>发行说明</h4><div><a href="https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-3-release-notes/">https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-3-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="显着特点">}}
@@ -98,7 +98,7 @@ foreach (var message in messageInfoCollection)
 }
 ```
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Email for .NET 22.3 Release Notes](https://docs.aspose.com/email/net/aspose-email-for-net-22-3-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Email for .NET 22.3 Release Notes](https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-3-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

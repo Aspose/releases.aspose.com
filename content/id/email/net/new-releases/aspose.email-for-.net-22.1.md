@@ -39,7 +39,7 @@ weight: 532
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Catatan Rilis</h4><div> <a href="https://docs.aspose.com/email/net/aspose-email-for-net-22-1-release-notes/">https://docs.aspose.com/email/net/aspose-email-for-net-22-1-release-notes/</a></div>
+<h4>Catatan Rilis</h4><div> <a href="https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-1-release-notes/">https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-1-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Fitur Penting">}}
@@ -58,7 +58,7 @@ Sebelumnya, flag Aspose IMAP Seen selalu dikembalikan sebagai `false`. Masalah i
 
 Dalam beberapa kasus, pesan email dihapus setelah kami menambahkan pesan baru ke MBOX yang ada. Masalah ini sekarang telah diselesaikan.
 
-> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Email for .NET 22.1 Release Notes](https://docs.aspose.com/email/net/aspose-email-for-net-22-1-release-notes/).
+> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Email for .NET 22.1 Release Notes](https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -14,7 +14,7 @@ download_count: " 31/10/2022 Unduhs: 1  Views: 1 "
 file_size: "File Size: 51.98MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
-release_notes_url: "https://docs.aspose.com/email/net/aspose-email-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-10-release-notes/"
 weight: 553
 
 ---
@@ -38,7 +38,7 @@ weight: 553
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/email/net/aspose-email-for-net-22-10-release-notes/'>https://docs.aspose.com/email/net/aspose-email-for-net-22-10-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-10-release-notes/'>https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.email untuk rilis .net 22.10.</div>

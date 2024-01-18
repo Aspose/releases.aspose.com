@@ -14,7 +14,7 @@ file_size: "File Size: 51.93MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
 
-release_notes_url: "https://docs.aspose.com/email/net/aspose-email-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-6-release-notes/"
 weight: 544
 ---
 
@@ -37,7 +37,7 @@ weight: 544
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lançamento</h4><div> <a href='https://docs.aspose.com/email/net/aspose-email-for-net-22-6-release-notes/'>https://docs.aspose.com/email/net/aspose-email-for-net-22-6-release-notes/</a></div>
+<h4>Notas de lançamento</h4><div> <a href='https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-6-release-notes/'>https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -66,7 +66,7 @@ Foi observado que o cliente `POP` não poderia `AUTH` automaticamente se o coman
 
 Anteriormente, em algumas instâncias da conversão de Word para EML, o conteúdo do corpo era gerado como anexo. Este problema foi corrigido agora.
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Email for .NET 22.6 Release Notes](https://docs.aspose.com/email/net/aspose-email-for-net-22-6-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Email for .NET 22.6 Release Notes](https://releases.aspose.com/email/net/release-notes/2022/aspose-email-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 
