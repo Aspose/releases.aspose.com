@@ -6,16 +6,12 @@ keywords:  "C,C++,Python,PIP,OCR,Recognize,Image-To-Text,Extract text from image
 family_listing_page_title:  "Aspose.OCR for Python via С++"
 family_listing_page_description:  "Extract text from images on Linux, MacOS and Windows with a few lines of Python code with our powerful and developer-friendly cross-platform API for optical character recognition."
 family_listing_page_iconurl:  "https://releases.aspose.com/images/aspose/aspose_ocr-for-python-cpp.svg"
-weight: 3
+weight: 9
 
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/ocr/16" linktext="Support Forum" >}}
 
-{{< ProductPageWrapper >}}
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.OCR for Python via C++" >}}
 
 {{< Common/hr >}}
@@ -25,7 +21,6 @@ weight: 3
 {{< /Common/paragraph>}}
 
 [Product Page](https://products.aspose.com/ocr/python-cpp/) | [Docs](https://docs.aspose.com/ocr/python-cpp/) | [Demos](https://products.aspose.app/ocr/family) | [API Reference](https://reference.aspose.com/ocr/python-cpp) | [Examples](https://github.com/aspose-ocr/Aspose.OCR-for-Python-via-Cpp) | [Blog](https://blog.aspose.com/category/ocr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/ocr) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
 
 Extract text from images on any platform with our powerful and developer-friendly API for optical character recognition. You only need a few lines of Python code to add OCR capabilities into your Linux, MacOS, and Windows solutions. Analyze the data, create cloud services and serverless applications focusing on business task rather than complex maths, neural networks, and other technical intricacies.
 
@@ -135,9 +130,8 @@ recognition_result = AsposeOCRRecognize(recognition_batch, settings)
 {{< /Tags/TagsWrapper >}}
 
 {{< Common/hr >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
-<!-- /ProductPageContent-->
+
+{{< ProductPageWrapper >}}
 
 <!-- ReleasesListProductPage-->
 {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="ocr" product="python-cpp" >}}
