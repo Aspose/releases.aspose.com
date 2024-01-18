@@ -14,7 +14,7 @@ download_count: " 22/6/2023 Descargars: 1  Views: 1 "
 file_size: "File Size: 31.62MB"
 parent_path: "slides/androidjava"
 section_parent_path: "slides/androidjava"
-release_notes_url: "https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-6-release-notes/"
 weight: 103
 
 ---
@@ -38,7 +38,7 @@ weight: 103
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-23-6-release-notes/'>https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-23-6-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-6-release-notes/'>https://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Contiene aspose.slides para Android a través de la versión Java 23.6.</div>

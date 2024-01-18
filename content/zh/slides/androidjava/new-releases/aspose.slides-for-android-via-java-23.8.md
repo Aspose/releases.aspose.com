@@ -14,7 +14,7 @@ download_count: " 23/8/2023 下载s: 1  Views: 1 "
 file_size: "File Size: 31.72MB"
 parent_path: "slides/androidjava"
 section_parent_path: "slides/androidjava"
-release_notes_url: "https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-23-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-8-release-notes/"
 weight: 105
 
 ---
@@ -38,7 +38,7 @@ weight: 105
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-23-8-release-notes/'>https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-23-8-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-8-release-notes/'>https://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含Android的aspose.spose。</div>

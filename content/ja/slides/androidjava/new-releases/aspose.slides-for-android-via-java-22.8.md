@@ -14,7 +14,7 @@ download_count: " 18/8/2022 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 31.28MB"
 parent_path: "slides/androidjava"
 section_parent_path: "slides/androidjava"
-release_notes_url: "https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-8-release-notes/"
 weight: 93
 
 ---
@@ -38,7 +38,7 @@ weight: 93
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-22-8-release-notes/'>https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-22-8-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-8-release-notes/'>https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">Java 22.8リリースを介してAndroid用のAspose.Slidesが含まれています。</div>

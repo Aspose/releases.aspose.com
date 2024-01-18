@@ -39,7 +39,7 @@ weight: 47
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/slidesjava/Aspose.Slides+for+Android+via+Java+18.11+Release+Notes">https://docs.aspose.com/display/slidesjava/Aspose.Slides+for+Android+via+Java+18.11+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-11-release-notes/">https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

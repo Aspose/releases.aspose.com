@@ -14,7 +14,7 @@ download_count: " 22/9/2022 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 31.29MB"
 parent_path: "slides/androidjava"
 section_parent_path: "slides/androidjava"
-release_notes_url: "https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-9-release-notes/"
 weight: 94
 
 ---
@@ -38,7 +38,7 @@ weight: 94
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-22-9-release-notes/'>https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-22-9-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-9-release-notes/'>https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.slides для Android через выпуск Java 22.9.</div>

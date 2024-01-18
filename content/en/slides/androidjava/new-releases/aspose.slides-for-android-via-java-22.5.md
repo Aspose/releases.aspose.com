@@ -15,7 +15,7 @@ file_size: "File Size: 30.3 MB"
 parent_path: "slides/androidjava"
 section_parent_path: "slides/androidjava"
 
-release_notes_url: "https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-5-release-notes/"
 weight: 90
 
 ---
@@ -39,7 +39,7 @@ weight: 90
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-22-5-release-notes/'>https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-22-5-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-5-release-notes/'>https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Android via Java 22.5 release.</div>
