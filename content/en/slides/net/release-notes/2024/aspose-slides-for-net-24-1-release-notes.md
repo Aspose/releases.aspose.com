@@ -1,6 +1,6 @@
 ---
-id: "aspose-slides-for-net-23-12-release-notes"
-slug: "aspose-slides-for-net-23-12-release-notes"
+id: "aspose-slides-for-net-24-1-release-notes"
+slug: "aspose-slides-for-net-24-1-release-notes"
 linktitle: "Aspose.Slides for .NET 24.1 Release Notes"
 title: "Aspose.Slides for .NET 24.1 Release Notes"
 weight: 60
