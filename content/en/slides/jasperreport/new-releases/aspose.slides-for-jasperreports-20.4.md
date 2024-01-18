@@ -39,7 +39,7 @@ weight: 124
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/slidesjasperreports/Aspose.Slides+for+Jasper+Reports+20.4+Release+Notes">https://docs.aspose.com/display/slidesjasperreports/Aspose.Slides+for+Jasper+Reports+20.4+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/slides/jasperreport/release-notes/2020/aspose-slides-for-jasper-reports-20-4-release-notes/+Release+Notes">https://releases.aspose.com/slides/jasperreport/release-notes/2020/aspose-slides-for-jasper-reports-20-4-release-notes/+Release+Notes</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
