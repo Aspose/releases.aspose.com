@@ -35,10 +35,43 @@ You can easily use  <b>aspose-cells</b> for Python from  {{< Common/link href="h
 
 ### Spreadsheet On-premise Python via Java API Features
 
-- Excel & OpenOffice Calc file format conversion.
-- Worksheet styling to the most granular level.
-- Chart creation & rendering.
-- Reliable formula calculation engine and much more.
+- Spreadsheet generation & manipulation via API.
+- High-quality file format conversion & rendering.
+- Print Microsoft Excel&reg; files to physical or virtual printers.
+- Combine, modify, protect, or parse Excel&reg; sheets.
+- Apply worksheet formatting.
+- Configure and apply page setup for the worksheets.
+- Create & customize Excel&reg; charts, Pivot Tables, conditional
+  formatting rules, slicers, tables & spark-lines.
+- Convert Excel&reg; charts to images & PDF.
+- Convert Excel&reg; files to various other formats.
+- Formula calculation engine that supports all basic and advanced Excel&reg; functions.
+
+Please visit the [official documentation](https://docs.aspose.com/cells/python-java/) for a more detailed list of features.
+
+### Supported Read & Write Formats
+
+**Microsoft Excel&reg;:** XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, CSV, TSV, XML, OTS, TabDelimited, SpreadsheetML\
+**OpenOffice&reg;:** ODS, SXC, FODS\
+**Text:** TXT, JSON\
+**Web:** HTML, MHTML\
+**Numbers:** Apple's iWork office suite Numbers app documents\
+**Other:** EPUB
+
+### Suported Output Only Formats
+
+**Microsoft Word&reg;:** DOCX\
+**Microsoft PowerPoint&reg;:** PPTX\
+**Microsoft Excel&reg;:** XLAM\
+**Fixed Layout:** PDF, PDF/A, XPS\
+**Data Interchange:** DIF\
+**Vector Graphics:** SVG\
+**Image:** TIFF,PNG, BMP, JPEG, GIF\
+**Metafile:** EMF\
+**Markdown:** MD\
+**Other:** SQL, XTHML
+
+Please visit [Supported File Formats](https://docs.aspose.com/cells/python-java/supported-file-formats/) for further details.
 
 {{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}

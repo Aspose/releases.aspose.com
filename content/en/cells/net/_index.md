@@ -60,24 +60,25 @@ It’s rich object model consists of 100+ public classes that offer .NET develop
 
 ### Supported Read & Write Formats
 
-**Microsoft Excel&reg;:** XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, CSV, TSV, TabDelimited, SpreadsheetML\
+**Microsoft Excel&reg;:** XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, CSV, TSV, XML, OTS, TabDelimited, SpreadsheetML\
 **OpenOffice&reg;:** ODS, SXC, FODS\
-**Text:** TXT\
+**Text:** TXT, JSON\
 **Web:** HTML, MHTML\
-**iWork®:** Numbers\
-**Other:** SXC, FODS
+**Numbers:** Apple's iWork office suite Numbers app documents\
+**Other:** EPUB
 
-### Save Excel® Files As
+### Suported Output Only Formats
 
 **Microsoft Word&reg;:** DOCX\
 **Microsoft PowerPoint&reg;:** PPTX\
 **Microsoft Excel&reg;:** XLAM\
-**Fixed Layout:** PDF, XPS\
+**Fixed Layout:** PDF, PDF/A, XPS\
 **Data Interchange:** DIF\
 **Vector Graphics:** SVG\
 **Image:** TIFF,PNG, BMP, JPEG, GIF\
 **Metafile:** EMF\
-**Markdown:** MD
+**Markdown:** MD\
+**Other:** SQL, XTHML
 
 {{< Common/hr >}}
 

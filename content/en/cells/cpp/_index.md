@@ -83,20 +83,25 @@ Aspose.Cells for C++ allows you to work with the built-in as well as the custom 
 
 ### Supported Read & Write Formats
 
-**Microsoft Excel:** XLS, XLSX, XLSB, SpreadsheetML\
-**Text:** JSON, CSV, TSV, TabDelimited\
-**OpenDocument:** ODS\
-**Other:** HTML, MHTML
-
-### Save Spreadsheet Documents As
-
-**Microsoft Excel:** XLSM, XLTX, XLTM, XLAM\
-**Portable Document Format:** PDF, XPS\
-**Text:** JSON, CSV, TSV, TabDelimited\
-**Images:** SVG, TIFF, JPEG, PNG, BMP, GIF\
+**Microsoft Excel&reg;:** XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, CSV, TSV, XML, OTS, TabDelimited, SpreadsheetML\
+**OpenOffice&reg;:** ODS, SXC, FODS\
+**Text:** TXT, JSON\
 **Web:** HTML, MHTML\
+**Numbers:** Apple's iWork office suite Numbers app documents\
+**Other:** EPUB
+
+### Suported Output Only Formats
+
+**Microsoft Word&reg;:** DOCX\
+**Microsoft PowerPoint&reg;:** PPTX\
+**Microsoft Excel&reg;:** XLAM\
+**Fixed Layout:** PDF, PDF/A, XPS\
+**Data Interchange:** DIF\
+**Vector Graphics:** SVG\
+**Image:** TIFF,PNG, BMP, JPEG, GIF\
 **Metafile:** EMF\
-**Other** DIF
+**Markdown:** MD\
+**Other:** SQL, XTHML
 
 ### Get Started
 

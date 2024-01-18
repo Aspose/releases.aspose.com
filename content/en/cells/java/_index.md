@@ -238,19 +238,27 @@ packages_refs:
 - Manipulate VBA code or Macros.
 - Create pivot tables as well as change its source data at runtime.
 
-## Read & Write Spreadsheet Formats
+## Supported Read & Write Formats
 
-**Microsoft Excel:** XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML\
-**OpenOffice:** ODS\
-**Text:** CSV, TSV\
+**Microsoft Excel&reg;:** XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, CSV, TSV, XML, OTS, TabDelimited, SpreadsheetML\
+**OpenOffice&reg;:** ODS, SXC, FODS\
+**Text:** TXT, JSON\
 **Web:** HTML, MHTML\
-**Numbers:** Apple's iWork office suite Numbers app documents
+**Numbers:** Apple's iWork office suite Numbers app documents\
+**Other:** EPUB
 
-## Save Excel Files As
+## Suported Output Only Formats
 
+**Microsoft Word&reg;:** DOCX\
+**Microsoft PowerPoint&reg;:** PPTX\
+**Microsoft Excel&reg;:** XLAM\
 **Fixed Layout:** PDF, PDF/A, XPS\
 **Data Interchange:** DIF\
-**Images:** JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+**Vector Graphics:** SVG\
+**Image:** TIFF,PNG, BMP, JPEG, GIF\
+**Metafile:** EMF\
+**Markdown:** MD\
+**Other:** SQL, XTHML
 
 ## Supported Environments
 

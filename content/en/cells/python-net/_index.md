@@ -44,26 +44,27 @@ Please use the following {{< Common/link href="https://pypi.org/project/aspose-c
 
 Please visit the [official documentation](https://docs.aspose.com/cells/python-net/) for a more detailed list of features.
 
-### Read & Write Sreadsheet File Formats
+### Supported Read & Write Formats
 
-**Microsoft Excel&reg;:** XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, CSV, TSV, TabDelimited, SpreadsheetML\
-**OpenOffice:** ODS, SXC, FODS\
-**Text:** TXT\
+**Microsoft Excel&reg;:** XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, CSV, TSV, XML, OTS, TabDelimited, SpreadsheetML\
+**OpenOffice&reg;:** ODS, SXC, FODS\
+**Text:** TXT, JSON\
 **Web:** HTML, MHTML\
-**iWork&reg;:** Numbers\
-**Other:** SXC, FODS
+**Numbers:** Apple's iWork office suite Numbers app documents\
+**Other:** EPUB
 
-### Save Spreadsheet Files AS
+### Suported Output Only Formats
 
 **Microsoft Word&reg;:** DOCX\
 **Microsoft PowerPoint&reg;:** PPTX\
 **Microsoft Excel&reg;:** XLAM\
-**Fixed Layout:** PDF, XPS\
+**Fixed Layout:** PDF, PDF/A, XPS\
 **Data Interchange:** DIF\
 **Vector Graphics:** SVG\
 **Image:** TIFF,PNG, BMP, JPEG, GIF\
-**Meta File:** EMF\
-**Markdown:** MD
+**Metafile:** EMF\
+**Markdown:** MD\
+**Other:** SQL, XTHML
 
 Please visit [Supported File Formats](https://docs.aspose.com/cells/python-net/supported-file-formats/) for further details.
 

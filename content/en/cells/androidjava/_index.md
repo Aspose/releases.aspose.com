@@ -50,17 +50,27 @@ classifier: 'android.via.java')
 - Export and import data from ArrayList, Array, Recordset & Resultset.
 - Encrypt & decrypt Excel files on the fly.
 
-### Supported Input & Output Formats
+### Supported Read & Write Formats
 
-**Microsoft Excel&reg;:** XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML\
-**OpenOffice&reg;:** ODS\
-**Text:** CSV, TSV, TXT\
-**Web:** HTML, MHTML
+**Microsoft Excel&reg;:** XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, CSV, TSV, XML, OTS, TabDelimited, SpreadsheetML\
+**OpenOffice&reg;:** ODS, SXC, FODS\
+**Text:** TXT, JSON\
+**Web:** HTML, MHTML\
+**Numbers:** Apple's iWork office suite Numbers app documents\
+**Other:** EPUB
 
 ### Suported Output Only Formats
 
+**Microsoft Word&reg;:** DOCX\
+**Microsoft PowerPoint&reg;:** PPTX\
+**Microsoft Excel&reg;:** XLAM\
 **Fixed Layout:** PDF, PDF/A, XPS\
-**Images:** JPEG, PNG, BMP, SVG, EMF
+**Data Interchange:** DIF\
+**Vector Graphics:** SVG\
+**Image:** TIFF,PNG, BMP, JPEG, GIF\
+**Metafile:** EMF\
+**Markdown:** MD\
+**Other:** SQL, XTHML
 
 {{< Common/hr >}}
 
