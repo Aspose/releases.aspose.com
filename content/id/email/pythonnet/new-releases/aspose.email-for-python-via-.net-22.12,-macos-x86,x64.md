@@ -14,7 +14,7 @@ download_count: " 31/1/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 53.15MB"
 parent_path: "email/pythonnet"
 section_parent_path: "email/pythonnet"
-release_notes_url: "https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-22-12-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/pythonnet/release-notes/2022/aspose-email-for-python-via-net-22-12-release-notes/"
 weight: 27
 
 ---
@@ -38,7 +38,7 @@ weight: 27
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-22-12-release-notes/'>https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-22-12-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/email/pythonnet/release-notes/2022/aspose-email-for-python-via-net-22-12-release-notes/'>https://releases.aspose.com/email/pythonnet/release-notes/2022/aspose-email-for-python-via-net-22-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.email untuk python melalui .net 22.12, macOS x86, x64 rilis</div>

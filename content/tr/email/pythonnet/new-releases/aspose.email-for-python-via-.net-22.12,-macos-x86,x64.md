@@ -14,7 +14,7 @@ download_count: " 31/1/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 53.15MB"
 parent_path: "email/pythonnet"
 section_parent_path: "email/pythonnet"
-release_notes_url: "https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-22-12-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/pythonnet/release-notes/2022/aspose-email-for-python-via-net-22-12-release-notes/"
 weight: 27
 
 ---
@@ -38,7 +38,7 @@ weight: 27
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-22-12-release-notes/'>https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-22-12-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/email/pythonnet/release-notes/2022/aspose-email-for-python-via-net-22-12-release-notes/'>https://releases.aspose.com/email/pythonnet/release-notes/2022/aspose-email-for-python-via-net-22-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Python için .NET 22.12, MacOS X86, X64 Sürümü</div>

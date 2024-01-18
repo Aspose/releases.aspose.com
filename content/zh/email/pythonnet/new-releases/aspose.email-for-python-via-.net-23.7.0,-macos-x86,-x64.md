@@ -16,7 +16,7 @@ parent_path: "email/pythonnet"
 section_parent_path: "email/pythonnet"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/pythonnet/release-notes/2023/aspose-email-for-python-via-net-23-7-release-notes/"
 weight: 48
 
 ---
@@ -40,7 +40,7 @@ weight: 48
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-7-release-notes/'>https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-7-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/email/pythonnet/release-notes/2023/aspose-email-for-python-via-net-23-7-release-notes/'>https://releases.aspose.com/email/pythonnet/release-notes/2023/aspose-email-for-python-via-net-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含aspose.Email for Python通过.NET 23.7.0，MACOS X86，X64释放。</div>

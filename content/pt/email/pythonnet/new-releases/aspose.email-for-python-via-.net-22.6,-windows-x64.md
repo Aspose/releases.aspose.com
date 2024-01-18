@@ -14,7 +14,7 @@ download_count: " 1/8/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 44.42MB"
 parent_path: "email/pythonnet"
 section_parent_path: "email/pythonnet"
-release_notes_url: "https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/pythonnet/release-notes/2022/aspose-email-for-python-via-net-22-6-release-notes/"
 weight: 15
 
 ---
@@ -38,7 +38,7 @@ weight: 15
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-22-6-release-notes/'>https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-22-6-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/email/pythonnet/release-notes/2022/aspose-email-for-python-via-net-22-6-release-notes/'>https://releases.aspose.com/email/pythonnet/release-notes/2022/aspose-email-for-python-via-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Ele contém asppos.ail para python via .net 22.6, lançamento do Windows X64.</div>

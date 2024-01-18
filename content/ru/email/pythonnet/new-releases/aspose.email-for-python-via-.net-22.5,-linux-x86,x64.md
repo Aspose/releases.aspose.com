@@ -14,7 +14,7 @@ download_count: " 1/7/2022 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 57.85MB"
 parent_path: "email/pythonnet"
 section_parent_path: "email/pythonnet"
-release_notes_url: "https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-22-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/pythonnet/release-notes/2022/aspose-email-for-python-via-net-22-5-release-notes/"
 weight: 12
 
 ---
@@ -38,7 +38,7 @@ weight: 12
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-22-5-release-notes/'>https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-22-5-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/email/pythonnet/release-notes/2022/aspose-email-for-python-via-net-22-5-release-notes/'>https://releases.aspose.com/email/pythonnet/release-notes/2022/aspose-email-for-python-via-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Он содержит aspose.mail для python через .net 22.5, Linux x86, x64.</div>

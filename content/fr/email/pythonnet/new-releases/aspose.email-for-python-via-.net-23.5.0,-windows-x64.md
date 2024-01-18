@@ -14,7 +14,7 @@ download_count: " 23/6/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 50.03MB"
 parent_path: "email/pythonnet"
 section_parent_path: "email/pythonnet"
-release_notes_url: "https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/pythonnet/release-notes/2023/aspose-email-for-python-via-net-23-5-release-notes/"
 weight: 44
 tags: ['Aspose', 'Aspose.Total', 'Aspose.Email', 'Python', 'Library', 'NET', 'Email', 'MSG', 'PST', 'OST', 'OFT', 'EML', 'EMLX', 'MBOX', 'ICS', 'VCF', 'HTML', 'MHTML']
 ---
@@ -38,7 +38,7 @@ tags: ['Aspose', 'Aspose.Total', 'Aspose.Email', 'Python', 'Library', 'NET', 'Em
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-5-release-notes/'>https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-5-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/email/pythonnet/release-notes/2023/aspose-email-for-python-via-net-23-5-release-notes/'>https://releases.aspose.com/email/pythonnet/release-notes/2023/aspose-email-for-python-via-net-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Il contient Aspose.Email pour Python via .NET 23.5.0, version Windows x64.</div>

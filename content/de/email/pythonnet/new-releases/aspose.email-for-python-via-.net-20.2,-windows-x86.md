@@ -39,7 +39,7 @@ weight: 5
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/emailpythonnet/Aspose.Email+for+Python+via+.NET+20.2+Release+Notes">https://docs.aspose.com/display/emailpythonnet/Aspose.Email+for+Python+via+.NET+20.2+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/email/pythonnet/release-notes/2020/aspose-email-for-python-via-net-20-2-release-notes/">https://releases.aspose.com/email/pythonnet/release-notes/2020/aspose-email-for-python-via-net-20-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

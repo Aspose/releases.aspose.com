@@ -14,7 +14,7 @@ download_count: " 11/4/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 70.76MB"
 parent_path: "email/pythonnet"
 section_parent_path: "email/pythonnet"
-release_notes_url: "https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/pythonnet/release-notes/2023/aspose-email-for-python-via-net-23-3-release-notes/"
 weight: 37
 
 ---
@@ -38,7 +38,7 @@ weight: 37
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-3-release-notes/'>https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-3-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/email/pythonnet/release-notes/2023/aspose-email-for-python-via-net-23-3-release-notes/'>https://releases.aspose.com/email/pythonnet/release-notes/2023/aspose-email-for-python-via-net-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">.NET 23.3、Linux X86、X64リリースを介してPython用のAspose.Emailが含まれています。</div>

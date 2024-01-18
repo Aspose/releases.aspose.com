@@ -14,7 +14,7 @@ download_count: " 26/8/2022 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 44.25MB"
 parent_path: "email/pythonnet"
 section_parent_path: "email/pythonnet"
-release_notes_url: "https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/pythonnet/release-notes/2022/aspose-email-for-python-via-net-22-7-release-notes/"
 weight: 17
 
 ---
@@ -38,7 +38,7 @@ weight: 17
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-22-7-release-notes/'>https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-22-7-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/email/pythonnet/release-notes/2022/aspose-email-for-python-via-net-22-7-release-notes/'>https://releases.aspose.com/email/pythonnet/release-notes/2022/aspose-email-for-python-via-net-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Python için .NET 22.7, Windows X64 sürümü için aspose. -posta içerir.</div>

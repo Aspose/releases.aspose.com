@@ -15,7 +15,7 @@ file_size: "File Size: 43.63MB"
 parent_path: "email/pythonnet"
 section_parent_path: "email/pythonnet"
 
-release_notes_url: "https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/pythonnet/release-notes/2023/aspose-email-for-python-via-net-23-4-release-notes/"
 weight: 11
 
 ---
@@ -39,7 +39,7 @@ weight: 11
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-4-release-notes/'>https://docs.aspose.com/email/python-net/aspose-email-for-python-via-net-23-4-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/email/pythonnet/release-notes/2023/aspose-email-for-python-via-net-23-4-release-notes/'>https://releases.aspose.com/email/pythonnet/release-notes/2023/aspose-email-for-python-via-net-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Ele contém asppos.ail para python via .net 22.4, lançamento do Windows X64.</div>
