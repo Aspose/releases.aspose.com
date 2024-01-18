@@ -14,7 +14,7 @@ download_count: " 21/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 363.31MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-release_notes_url: “https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-22-10-release-notes/”
+release_notes_url: “https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-10-release-notes/”
 weight: 185
 
 ---
@@ -38,7 +38,7 @@ weight: 185
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-22-10-release-notes/'>https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-22-10-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-10-release-notes/'>https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含用于 C++ 22.10 Windows 版本的 Aspose.Slides。</div>

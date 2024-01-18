@@ -38,7 +38,7 @@ weight: 166
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-22-3-release-notes/">https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-22-3-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-3-release-notes/">https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

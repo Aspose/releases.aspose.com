@@ -14,7 +14,7 @@ download_count: " 23/5/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 91.23MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-release_notes_url: "https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-5-release-notes/"
 weight: 208
 
 ---
@@ -38,7 +38,7 @@ weight: 208
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-5-release-notes/'>https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-5-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-5-release-notes/'>https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">Es enthält asspose.Slides für C ++ 23.5 MacOS -Veröffentlichung.</div>

@@ -14,7 +14,7 @@ download_count: " 23/5/2023 Descargars: 1  Views: 1 "
 file_size: "File Size: 88.92MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-release_notes_url: "https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-5-release-notes/"
 weight: 207
 
 ---
@@ -38,7 +38,7 @@ weight: 207
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-5-release-notes/'>https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-5-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-5-release-notes/'>https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Contiene asposio. Slides para la versión de C ++ 23.5 Linux.</div>

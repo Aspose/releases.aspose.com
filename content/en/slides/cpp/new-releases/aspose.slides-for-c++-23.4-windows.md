@@ -14,7 +14,7 @@ download_count: " 21/4/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 365.08MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-release_notes_url: "https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-4-release-notes/"
 weight: 203
 
 ---
@@ -38,7 +38,7 @@ weight: 203
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-4-release-notes/'>https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-4-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-4-release-notes/'>https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 23.4 Windows release.</div>

@@ -14,7 +14,7 @@ download_count: " 19/7/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 365.5MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-release_notes_url: "https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-7-release-notes/"
 weight: 212
 
 ---
@@ -38,7 +38,7 @@ weight: 212
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-7-release-notes/'>https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-7-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-7-release-notes/'>https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">C ++ 23.7 Windows sürümü için aspose.slides içerir.</div>

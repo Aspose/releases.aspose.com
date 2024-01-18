@@ -16,7 +16,7 @@ parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-9-release-notes/"
 weight: 218
 
 ---
@@ -40,7 +40,7 @@ weight: 218
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-9-release-notes/'>https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-9-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-9-release-notes/'>https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含aspose.spose.s的滑坡23.9 Windows版本。</div>

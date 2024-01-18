@@ -13,7 +13,7 @@ download_count: " 19/12/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 90.72MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-release_notes_url: "https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-22-12-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-12-release-notes/"
 weight: 193
 
 ---
@@ -37,7 +37,7 @@ weight: 193
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-22-12-release-notes/'>https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-22-12-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-12-release-notes/'>https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 22.12 macOS release.</div>

@@ -14,7 +14,7 @@ download_count: " 23/8/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 88.84MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-release_notes_url: "https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-8-release-notes/"
 weight: 216
 tags: ['ppt-to-bmp', 'ppt-to-html', 'ppt-to-jpeg', 'ppt-to-pdf', 'ppt-to-png', 'ppt-to-svg', 'ppt-to-image', 'presentation-to-bmp', 'presentation-to-html', 'presentation-to-jpeg', 'presentation-to-pdf', 'presentation-to-png', 'presentation-to-svg', 'presentation-to-image', 'pptx-to-bmp', 'pptx-to-html', 'pptx-to-jpeg', 'pptx-to-pdf', 'pptx-to-png', 'pptx-to-svg', 'pptx-to-image', 'presentation-to-XPS', 'presentation-to-SWF', 'presentation-to-PDF-Notes', 'presentation-to-html']
 ---
@@ -38,7 +38,7 @@ tags: ['ppt-to-bmp', 'ppt-to-html', 'ppt-to-jpeg', 'ppt-to-pdf', 'ppt-to-png', '
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-8-release-notes/'>https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-8-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-8-release-notes/'>https://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">C ++ 23.8 LinuxリリースのAsops.Slidesが含まれています。</div>

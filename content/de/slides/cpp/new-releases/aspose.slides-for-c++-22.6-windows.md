@@ -15,7 +15,7 @@ file_size: "File Size: 355.65MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
 
-release_notes_url: "https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-6-release-notes/"
 weight: 173
 
 ---
@@ -39,7 +39,7 @@ weight: 173
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-22-6-release-notes/'>https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-22-6-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-6-release-notes/'>https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Slides für die Windows-Version C++ 22.6.</div>
