@@ -39,7 +39,7 @@ weight: 94
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/slidescpp/Aspose.Slides+for+CPP+19.2+Release+Notes">https://docs.aspose.com/display/slidescpp/Aspose.Slides+for+CPP+19.2+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-2-release-notes/">https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
