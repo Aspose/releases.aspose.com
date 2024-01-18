@@ -14,7 +14,7 @@ download_count: " 20/4/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 66.93MB"
 parent_path: "slides/jasperreport"
 section_parent_path: "slides/jasperreport"
-release_notes_url: "https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-4-release-notes/"
 weight: 161
 
 ---
@@ -38,7 +38,7 @@ weight: 161
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-23-4-release-notes/'>https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-23-4-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-4-release-notes/'>https://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Il contient Aspose.slides pour la sortie de JasperReports 23.4.</div>

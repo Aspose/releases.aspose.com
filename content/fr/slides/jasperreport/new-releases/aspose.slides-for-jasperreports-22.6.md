@@ -15,7 +15,7 @@ file_size: "File Size: 66.63MB"
 parent_path: "slides/jasperreport"
 section_parent_path: "slides/jasperreport"
 
-release_notes_url: "https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/jasperreport/release-notes/2022/aspose-slides-for-jasper-reports-22-6-release-notes/"
 weight: 151
 
 ---
@@ -39,7 +39,7 @@ weight: 151
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-22-6-release-notes/'>https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-22-6-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/slides/jasperreport/release-notes/2022/aspose-slides-for-jasper-reports-22-6-release-notes/'>https://releases.aspose.com/slides/jasperreport/release-notes/2022/aspose-slides-for-jasper-reports-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Il contient ASPOSE.SLAIDS pour la version JasperReports 22.6.</div>

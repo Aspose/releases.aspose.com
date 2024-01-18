@@ -16,7 +16,7 @@ parent_path: "slides/jasperreport"
 section_parent_path: "slides/jasperreport"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-9-release-notes/"
 weight: 166
 
 ---
@@ -40,7 +40,7 @@ weight: 166
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-23-9-release-notes/'>https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-23-9-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-9-release-notes/'>https://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.slides для выпуска JasperReports 23.9.</div>

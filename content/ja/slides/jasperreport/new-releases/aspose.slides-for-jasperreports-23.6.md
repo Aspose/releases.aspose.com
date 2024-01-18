@@ -14,7 +14,7 @@ download_count: " 22/6/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 72.14MB"
 parent_path: "slides/jasperreport"
 section_parent_path: "slides/jasperreport"
-release_notes_url: "https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-6-release-notes/"
 weight: 163
 
 ---
@@ -38,7 +38,7 @@ weight: 163
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-23-6-release-notes/'>https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-23-6-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-6-release-notes/'>https://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">JasperReports 23.6リリースのAsops.slidesが含まれています。</div>

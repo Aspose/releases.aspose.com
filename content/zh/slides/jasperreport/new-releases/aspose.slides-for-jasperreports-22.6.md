@@ -15,7 +15,7 @@ file_size: "File Size: 66.63MB"
 parent_path: "slides/jasperreport"
 section_parent_path: "slides/jasperreport"
 
-release_notes_url: "https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/jasperreport/release-notes/2022/aspose-slides-for-jasper-reports-22-6-release-notes/"
 weight: 151
 
 ---
@@ -39,7 +39,7 @@ weight: 151
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-22-6-release-notes/'>https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-22-6-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/slides/jasperreport/release-notes/2022/aspose-slides-for-jasper-reports-22-6-release-notes/'>https://releases.aspose.com/slides/jasperreport/release-notes/2022/aspose-slides-for-jasper-reports-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含aspose。</div>

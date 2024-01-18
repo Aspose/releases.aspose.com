@@ -14,7 +14,7 @@ download_count: " 20/2/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 66.89MB"
 parent_path: "slides/jasperreport"
 section_parent_path: "slides/jasperreport"
-release_notes_url: "https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-2-release-notes/"
 weight: 159
 
 ---
@@ -38,7 +38,7 @@ weight: 159
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-23-2-release-notes/'>https://docs.aspose.com/slides/jasperreports/aspose-slides-for-jasper-reports-23-2-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-2-release-notes/'>https://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει aspose.slides για jasperreports 23.2 απελευθέρωση.</div>
