@@ -15,7 +15,7 @@ file_size: "File Size: 28.43MB"
 parent_path: "cells/sharepoint"
 section_parent_path: "cells/sharepoint"
 
-release_notes_url: "https://docs.aspose.com/cells/sharepoint/aspose-cells-for-sharepoint-22-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/sharepoint/release-notes/2022/aspose-cells-for-sharepoint-22-3-release-notes/"
 weight: 20
 
 ---
@@ -39,7 +39,7 @@ weight: 20
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/cells/sharepoint/aspose-cells-for-sharepoint-22-3-release-notes/'>https://docs.aspose.com/cells/sharepoint/aspose-cells-for-sharepoint-22-3-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/cells/sharepoint/release-notes/2022/aspose-cells-for-sharepoint-22-3-release-notes/'>https://releases.aspose.com/cells/sharepoint/release-notes/2022/aspose-cells-for-sharepoint-22-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">SharePoint 22.3 sürümü için aspose.cels içerir.</div>

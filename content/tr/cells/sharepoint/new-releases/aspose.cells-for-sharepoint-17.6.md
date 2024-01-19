@@ -39,7 +39,7 @@ weight: 16
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/display/cellssharepoint/Aspose.Cells+for+SharePoint+17.6+Release+Notes">https://docs.aspose.com/display/cellssharepoint/Aspose.Cells+for+SharePoint+17.6+Release+Notes</a></div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/cells/sharepoint/release-notes/2017/aspose-cells-for-sharepoint-17-6-release-notes/">https://releases.aspose.com/cells/sharepoint/release-notes/2017/aspose-cells-for-sharepoint-17-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

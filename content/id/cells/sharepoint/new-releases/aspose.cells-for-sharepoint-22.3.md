@@ -15,7 +15,7 @@ file_size: "File Size: 28.43MB"
 parent_path: "cells/sharepoint"
 section_parent_path: "cells/sharepoint"
 
-release_notes_url: "https://docs.aspose.com/cells/sharepoint/aspose-cells-for-sharepoint-22-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/sharepoint/release-notes/2022/aspose-cells-for-sharepoint-22-3-release-notes/"
 weight: 20
 
 ---
@@ -39,7 +39,7 @@ weight: 20
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/cells/sharepoint/aspose-cells-for-sharepoint-22-3-release-notes/'>https://docs.aspose.com/cells/sharepoint/aspose-cells-for-sharepoint-22-3-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/cells/sharepoint/release-notes/2022/aspose-cells-for-sharepoint-22-3-release-notes/'>https://releases.aspose.com/cells/sharepoint/release-notes/2022/aspose-cells-for-sharepoint-22-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.cells untuk rilis SharePoint 22.3.</div>
