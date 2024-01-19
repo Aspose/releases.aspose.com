@@ -14,7 +14,7 @@ download_count: " 14/7/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 13.41MB"
 parent_path: "cells/python-java"
 section_parent_path: "cells/python-java"
-release_notes_url: "https://docs.aspose.com/cells/python-java/aspose-cells-for-python-via-java-23-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-7-release-notes/"
 weight: 33
 
 ---
@@ -38,7 +38,7 @@ weight: 33
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/cells/python-java/aspose-cells-for-python-via-java-23-7-release-notes/'>https://docs.aspose.com/cells/python-java/aspose-cells-for-python-via-java-23-7-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-7-release-notes/'>https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Aspose.Cells untuk Python via Java 23.7</div>

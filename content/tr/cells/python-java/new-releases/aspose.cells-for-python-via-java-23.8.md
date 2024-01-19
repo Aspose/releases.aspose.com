@@ -14,7 +14,7 @@ download_count: " 14/8/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 13.41MB"
 parent_path: "cells/python-java"
 section_parent_path: "cells/python-java"
-release_notes_url: "https://docs.aspose.com/cells/python-java/aspose-cells-for-python-via-java-23-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-8-release-notes/"
 weight: 34
 
 ---
@@ -38,7 +38,7 @@ weight: 34
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/cells/python-java/aspose-cells-for-python-via-java-23-8-release-notes/'>https://docs.aspose.com/cells/python-java/aspose-cells-for-python-via-java-23-8-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-8-release-notes/'>https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Java 23.8 üzerinden python için aspose.cels</div>

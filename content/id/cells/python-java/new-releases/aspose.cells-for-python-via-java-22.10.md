@@ -14,7 +14,7 @@ download_count: " 13/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 11.68MB"
 parent_path: "cells/python-java"
 section_parent_path: "cells/python-java"
-release_notes_url: "https://docs.aspose.com/cells/pythonjava/aspose-cells-for-python-via-java-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/python-java/release-notes/2022/aspose-cells-for-python-via-java-22-6-release-notes/"
 weight: 24
 
 ---
@@ -38,7 +38,7 @@ weight: 24
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan Rilis</h4><div> <a href='https://docs.aspose.com/cells/pythonjava/aspose-cells-for-python-via-java-22-10-release-notes/'>https://docs.aspose.com/cells/pythonjava/aspose-cells-for-python-via-Java-22-10-release-notes/</a></div>
+      <h4>Catatan Rilis</h4><div> <a href='https://releases.aspose.com/cells/python-java/release-notes/2022/aspose-cells-for-python-via-java-22-6-release-notes/'>https://docs.aspose.com/cells/pythonjava/aspose-cells-for-python-via-Java-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription"> Aspose.Cells untuk Python melalui Java 22.10</div>

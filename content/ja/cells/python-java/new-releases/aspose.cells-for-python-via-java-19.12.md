@@ -38,7 +38,7 @@ weight: 6
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/display/cellsjava/Aspose.Cells+for+Python+via+Java+19.12+Release+Notes">https://docs.aspose.com/display/cellsjava/Aspose.Cells+for+Python+via+Java+19.12+リリース+メモ</a></div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/cells/python-java/release-notes/2019/aspose-cells-for-python-via-java-19-12-release-notes/">https://docs.aspose.com/display/cellsjava/Aspose.Cells+for+Python+via+Java+19.12+リリース+メモ</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

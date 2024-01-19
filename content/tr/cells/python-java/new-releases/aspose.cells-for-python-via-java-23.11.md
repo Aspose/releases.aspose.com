@@ -16,7 +16,7 @@ parent_path: "cells/python-java"
 section_parent_path: "cells/python-java"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/cells/python-java/aspose-cells-for-python-via-java-23-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-11-release-notes/"
 weight: 37
 
 ---
@@ -40,7 +40,7 @@ weight: 37
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/cells/python-java/aspose-cells-for-python-via-java-23-11-release-notes/'>https://docs.aspose.com/cells/python-java/aspose-cells-for-python-via-java-23-11-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-11-release-notes/'>https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Java üzerinden python için aspose.cels 23.11</div>

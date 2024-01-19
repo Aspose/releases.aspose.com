@@ -38,7 +38,7 @@ weight: 9
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/cells/java/aspose-cells-for-python-via-java-21.6-release-notes/">https://docs.aspose.com/cells/Java/aspose-cells-for-python-via-java-21.6-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/cells/python-java/release-notes/2021/aspose-cells-for-python-via-java-21-6-release-notes/">https://docs.aspose.com/cells/Java/aspose-cells-for-python-via-java-21.6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

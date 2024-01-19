@@ -39,7 +39,7 @@ weight: 7
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/cellsjava/Aspose.Cells+for+Python+via+Java+20.2+Release+Notes">https://docs.aspose.com/display/cellsjava/Aspose.Cells+for+Python+via+Java+20.2+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/cells/python-java/release-notes/2020/aspose-cells-for-python-via-java-20-2-release-notes/">https://releases.aspose.com/cells/python-java/release-notes/2020/aspose-cells-for-python-via-java-20-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

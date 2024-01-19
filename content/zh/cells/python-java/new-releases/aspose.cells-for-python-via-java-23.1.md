@@ -14,7 +14,7 @@ download_count: " 11/1/2023 下载s: 1  Views: 1 "
 file_size: "File Size: 11.73MB"
 parent_path: "cells/python-java"
 section_parent_path: "cells/python-java"
-release_notes_url: "https://docs.aspose.com/cells/python-java/aspose-cells-for-python-via-java-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-1-release-notes/"
 weight: 27
 
 ---
@@ -38,7 +38,7 @@ weight: 27
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/cells/python-java/aspose-cells-for-python-via-java-23-1-release-notes/'>https://docs.aspose.com/cells/python-java/aspose-cells-for-python-via-java-23-1-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-1-release-notes/'>https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">aspose.cells for Python通过Java 23.1</div>

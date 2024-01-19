@@ -35,7 +35,7 @@ weight: 19
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href="https://docs.aspose.com/cells/pythonjava/aspose-cells-for-python-via-java-22-5-release-notes/">https://docs.aspose.com/cells/pythonjava/aspose-cells-for-python-via-java-22-5-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href="https://releases.aspose.com/cells/python-java/release-notes/2022/aspose-cells-for-python-via-java-22-5-release-notes//">https://releases.aspose.com/cells/python-java/release-notes/2022/aspose-cells-for-python-via-java-22-5-release-notes//</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

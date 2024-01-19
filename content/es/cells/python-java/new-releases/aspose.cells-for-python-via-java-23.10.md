@@ -16,7 +16,7 @@ parent_path: "cells/python-java"
 section_parent_path: "cells/python-java"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/cells/python-java/aspose-cells-for-python-via-java-23-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-10-release-notes/"
 weight: 36
 
 ---
@@ -40,7 +40,7 @@ weight: 36
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/cells/python-java/aspose-cells-for-python-via-java-23-10-release-notes/'>https://docs.aspose.com/cells/python-java/aspose-cells-for-python-via-java-23-10-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-10-release-notes/'>https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Aspose.cells for Python a través de Java 23.10</div>
