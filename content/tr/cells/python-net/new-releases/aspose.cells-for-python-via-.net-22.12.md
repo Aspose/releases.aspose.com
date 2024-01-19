@@ -36,7 +36,7 @@ weight: 6
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-12-release-notes/">https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-12-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-12-release-notes/">https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Ayrıntılı bilgi için lütfen sürüm notlarına ve Beni Oku'ya bakın</div>

@@ -16,7 +16,7 @@ parent_path: "cells/python-net"
 section_parent_path: "cells/python-net"
 
 tags: "Python .NET Excel  Aspose.Cells"
-release_notes_url: "https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-10-release-notes/"
 weight: 16
 
 ---
@@ -40,7 +40,7 @@ weight: 16
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-10-release-notes/'>https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-10-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-10-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Detay için lütfen sürüm notlarına ve ReadMe'ye bakın</div>

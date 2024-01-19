@@ -16,7 +16,7 @@ parent_path: "cells/python-net"
 section_parent_path: "cells/python-net"
 
 tags: ["Python", ".Net", "Excel", "Aspose.Cells"]
-release_notes_url: "https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-1-release-notes/"
 weight: 7
 
 ---
@@ -40,7 +40,7 @@ weight: 7
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-1-release-notes/'>https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-1-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-1-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Пожалуйста, обратитесь к примечаниям и прочте для получения подробной информации</div>

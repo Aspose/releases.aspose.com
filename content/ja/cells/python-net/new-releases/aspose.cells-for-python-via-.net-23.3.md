@@ -16,7 +16,7 @@ parent_path: "cells/python-net"
 section_parent_path: "cells/python-net"
 
 tags: ["Python", "Excel", "Aspose.Cells"]
-release_notes_url: "https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-3-release-notes/"
 weight: 9
 
 ---
@@ -40,7 +40,7 @@ weight: 9
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-3-release-notes/'>https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-3-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-3-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">詳細については、リリースノートとREADMEを参照してください</div>

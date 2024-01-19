@@ -37,7 +37,7 @@ weight: 3
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-9-release-notes/'>https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-9-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-9-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Please refer to release notes and ReadMe for detail</div>
@@ -64,7 +64,7 @@ Added the feature to set table formula for the datatable.
 
 The API can now perform reading and writing protected range of `XLSB` with SHA-512 algorithm.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for Python via .NET 22.9 Release Notes](https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-9-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for Python via .NET 22.9 Release Notes](https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

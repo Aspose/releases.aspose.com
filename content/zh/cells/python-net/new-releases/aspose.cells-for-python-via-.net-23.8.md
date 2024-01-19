@@ -15,7 +15,7 @@ file_size: "File Size: 232.26MB"
 parent_path: "cells/python-net"
 section_parent_path: "cells/python-net"
 tags: ['Aspose', 'Aspose.Total', 'Aspose.Cells', 'Python', 'NET', 'Lirary', 'XLS', 'XLSX', 'XLSB', 'XLSM', 'XLT', 'XLTX', 'XLTM', 'CSV', 'TSV', 'TabDelimited', 'SpreadsheetML', 'ODS', 'SXC', 'FODS', 'TXT', 'HTML', 'MHTML', 'Numbers', 'SXC', 'FODS', 'DOCX', 'PPTX', 'XLAM', 'PDF', 'XPS', 'DIF', 'SVG', 'TIFF,PNG', 'BMP', 'JPEG', 'GIF', 'EMF', 'Markdown', 'MD', 'Excel', 'OpenOffice', 'Word', 'PowerPoint', 'layout', 'Vector', 'Graphics', 'Image', 'meta', 'metafile', 'Windows', 'Linux', 'PIP']
-release_notes_url: "https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-8-release-notes/"
 weight: 14
 
 ---
@@ -39,7 +39,7 @@ weight: 14
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-8-release-notes/'>https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-8-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-8-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">请参阅发行笔记和读书信息以获取详细信息</div>

@@ -16,7 +16,7 @@ parent_path: "cells/python-net"
 section_parent_path: "cells/python-net"
 
 tags: ["Python", "Excel", "Aspose.Cells"]
-release_notes_url: "https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-7-release-notes/"
 weight: 13
 
 ---
@@ -40,7 +40,7 @@ weight: 13
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-7-release-notes/'>https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-7-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-7-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">Weitere Einzelheiten finden Sie in Versionshinweise und Readme</div>

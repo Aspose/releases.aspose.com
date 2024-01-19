@@ -16,7 +16,7 @@ parent_path: "cells/python-net"
 section_parent_path: "cells/python-net"
 
 tags: ["Python", ".NET", "Excel"]
-release_notes_url: "https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-7-release-notes/"
 weight: 1
 
 ---
@@ -40,7 +40,7 @@ weight: 1
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-7-release-notes/'>https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-7-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-7-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Consulte las notas de la versión para obtener detalles</div>

@@ -14,7 +14,7 @@ file_size: "File Size: 140.36MB"
 parent_path: "cells/python-net"
 section_parent_path: "cells/python-net"
 tags: ["Python", "Excel", "Aspose.Cells"]
-release_notes_url: "https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-8-release-notes/"
 weight: 2
 ---
 
@@ -37,7 +37,7 @@ weight: 2
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-8-release-notes/'>https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-8-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-8-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Please refer to release notes and ReadMe for detail</div>
@@ -60,7 +60,7 @@ Ability to copy row height while processing smart markers of a table.
 
 This release offers you the feature to convert the threaded comments to `HTML`.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for Python via .NET 22.8 Release Notes](https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-8-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for Python via .NET 22.8 Release Notes](https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

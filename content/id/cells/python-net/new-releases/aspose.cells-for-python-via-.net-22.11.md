@@ -14,7 +14,7 @@ file_size: "File Size: 193.07MB"
 parent_path: "cells/python-net"
 section_parent_path: "cells/python-net"
 tags: ["Python", "Excel", "Aspose.Cells"]
-release_notes_url: "https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-11-release-notes/"
 weight: 5
 ---
 
@@ -37,7 +37,7 @@ weight: 5
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-11-release-notes/'>https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-11-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-11-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Silakan merujuk ke catatan rilis dan readme untuk detail</div>
@@ -60,7 +60,7 @@ Support has been added for copying timeline.
 
 Introduced the feature to parse collapsed property while converting HTML to Excel&reg; formats.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for Python via .NET 22.11 Catatan rilis](https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-11-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for Python via .NET 22.11 Catatan rilis](https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-11-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

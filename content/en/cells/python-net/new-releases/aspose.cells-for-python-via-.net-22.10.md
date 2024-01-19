@@ -14,7 +14,7 @@ file_size: "File Size: 193.03MB"
 parent_path: "cells/python-net"
 section_parent_path: "cells/python-net"
 tags: ["Python", ".Net", "Excel", "Aspose.Cells"]
-release_notes_url: "https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-10-release-notes/"
 weight: 4
 ---
 
@@ -37,7 +37,7 @@ weight: 4
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-10-release-notes/'>https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-10-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-10-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Please refer to release notes and ReadMe for detail</div>
@@ -64,7 +64,7 @@ Legend entries labels' translation ability has been added in accordance with the
 
 It was observed that the `MAXIFS` formulas were taking longer time to be calculated. This API release offers an improvement to the execution time of the `MAXIFS` formulas calculation.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for Python via .NET 22.10 Release Notes](https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-10-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for Python via .NET 22.10 Release Notes](https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-10-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

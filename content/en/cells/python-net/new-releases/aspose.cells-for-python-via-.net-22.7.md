@@ -15,7 +15,7 @@ file_size: "File Size: 137.06MB"
 parent_path: "cells/python-net"
 section_parent_path: "cells/python-net"
 tags: ["Python", ".NET", "Excel"]
-release_notes_url: "https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-7-release-notes/"
 weight: 1
 
 ---
@@ -39,7 +39,7 @@ weight: 1
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-7-release-notes/'>https://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-22-7-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-7-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Please refer to release notes for detail</div>
