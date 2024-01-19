@@ -35,7 +35,7 @@ weight: 232
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Примечания к выпуску</h4><div><a href="https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-22-12-release-notes/">https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-22-12-release-notes/</a></div>
+      <h4>Примечания к выпуску</h4><div><a href="https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-12-release-notes/">https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Aspose.Cells for Reporting Services 22,12х64</div>

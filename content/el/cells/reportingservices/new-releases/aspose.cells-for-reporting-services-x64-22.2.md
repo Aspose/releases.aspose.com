@@ -38,7 +38,7 @@ weight: 199
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-22-2-release-notes/">https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-22-2-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.Cells for Reporting Services x64 22.2</div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-2-release-notes/">https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-2-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.Cells for Reporting Services x64 22.2</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

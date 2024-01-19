@@ -35,7 +35,7 @@ weight: 210
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan Rilis</h4><div><a href="https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-22-5-release-notes/">https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-22-5-release-notes/</a></div>
+      <h4>Catatan Rilis</h4><div><a href="https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-5-release-notes/">https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi rilis Aspose.Cells for Reporting Services 22.5.</div>

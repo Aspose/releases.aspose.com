@@ -14,7 +14,7 @@ download_count: " 28/1/2023 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 18.07MB"
 parent_path: "cells/reportingservices"
 section_parent_path: "cells/reportingservices"
-release_notes_url: "https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/reportingservices/release-notes/2023/aspose-cells-for-reporting-services-23-1-release-notes/"
 weight: 235
 
 ---
@@ -38,7 +38,7 @@ weight: 235
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-23-1-release-notes/'>https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-23-1-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/cells/reportingservices/release-notes/2023/aspose-cells-for-reporting-services-23-1-release-notes/'>https://releases.aspose.com/cells/reportingservices/release-notes/2023/aspose-cells-for-reporting-services-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Aspose.Cells pour les services de rapport 23.1 x64</div>

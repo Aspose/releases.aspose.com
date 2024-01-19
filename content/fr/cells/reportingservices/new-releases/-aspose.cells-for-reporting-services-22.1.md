@@ -38,7 +38,7 @@ weight: 195
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href="https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-22-1-release-notes/">https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-22-1-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Reporting Services 22.1</div>
+      <h4>Notes de version</h4><div><a href="https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-1-release-notes/">https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-1-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Reporting Services 22.1</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

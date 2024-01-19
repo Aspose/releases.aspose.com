@@ -38,7 +38,7 @@ weight: 193
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-21-12-release-notes/">https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-21-12-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/cells/reportingservices/release-notes/2021/aspose-cells-for-reporting-services-21-12-release-notes/">https://releases.aspose.com/cells/reportingservices/release-notes/2021/aspose-cells-for-reporting-services-21-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

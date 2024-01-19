@@ -14,7 +14,7 @@ download_count: " 29/11/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 59.9MB"
 parent_path: "cells/reportingservices"
 section_parent_path: "cells/reportingservices"
-release_notes_url: "https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-11-release-notes/"
 weight: 230
 
 ---
@@ -38,7 +38,7 @@ weight: 230
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-22-11-release-notes/'>https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-22-11-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-11-release-notes/'>https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Reporting Services 22.11(zip)</div>

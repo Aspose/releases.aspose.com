@@ -16,7 +16,7 @@ parent_path: "cells/reportingservices"
 section_parent_path: "cells/reportingservices"
 
 tags: ["SSRS", "Render Xlsx", "PDF"]
-release_notes_url: "https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-9-release-notes/"
 weight: 223
 
 ---
@@ -40,7 +40,7 @@ weight: 223
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-22-9-release-notes/'>https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-22-9-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-9-release-notes/'>https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">レポートサービス用のAspose.cells 22.9 x64</div>

@@ -16,7 +16,7 @@ parent_path: "cells/reportingservices"
 section_parent_path: "cells/reportingservices"
 
 tags: ["Reporting Services", "Excel"]
-release_notes_url: "https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/reportingservices/release-notes/2023/aspose-cells-for-reporting-services-23-4-release-notes/"
 weight: 246
 
 ---
@@ -40,7 +40,7 @@ weight: 246
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-23-4-release-notes/'>https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-23-4-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/cells/reportingservices/release-notes/2023/aspose-cells-for-reporting-services-23-4-release-notes/'>https://releases.aspose.com/cells/reportingservices/release-notes/2023/aspose-cells-for-reporting-services-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">aspose.cells报告服务服务23.4（ZIP）</div>

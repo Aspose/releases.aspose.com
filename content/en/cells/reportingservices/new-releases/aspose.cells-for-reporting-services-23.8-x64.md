@@ -16,7 +16,7 @@ parent_path: "cells/reportingservices"
 section_parent_path: "cells/reportingservices"
 
 tags: ["SSRS", "Excel"]
-release_notes_url: "https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-23-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/reportingservices/release-notes/2023/aspose-cells-for-reporting-services-23-8-release-notes/"
 weight: 257
 
 ---
@@ -40,7 +40,7 @@ weight: 257
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-23-8-release-notes/'>https://docs.aspose.com/cells/reportingservices/aspose-cells-for-reporting-services-23-8-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/reportingservices/release-notes/2023/aspose-cells-for-reporting-services-23-8-release-notes/'>https://releases.aspose.com/cells/reportingservices/release-notes/2023/aspose-cells-for-reporting-services-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Reporting Services 23.8 x64</div>
