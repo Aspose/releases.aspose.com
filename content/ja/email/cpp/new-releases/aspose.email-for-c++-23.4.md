@@ -14,7 +14,7 @@ download_count: " 17/4/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 48.14MB"
 parent_path: "email/cpp"
 section_parent_path: "email/cpp"
-release_notes_url: "https://docs.aspose.com/email/cpp/aspose-email-for-cpp-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-4-release-notes/"
 weight: 81
 
 ---
@@ -38,7 +38,7 @@ weight: 81
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/email/cpp/aspose-email-for-cpp-23-4-release-notes/'>https://docs.aspose.com/email/cpp/aspose-email-for-cpp-23-4-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-4-release-notes/'>https://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">C ++ 23.4リリースのAspose.Emailが含まれています。</div>

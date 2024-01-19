@@ -39,7 +39,7 @@ weight: 47
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/emailcpp/Aspose.Email+for+CPP+20.4+Release+Notes">https://docs.aspose.com/display/emailcpp/Aspose.Email+for+CPP+20.4+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Email für die Linux-Version C++ 20.4.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/email/cpp/release-notes/2020/aspose-email-for-cpp-20-4-release-notes/">https://releases.aspose.com/email/cpp/release-notes/2020/aspose-email-for-cpp-20-4-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Email für die Linux-Version C++ 20.4.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

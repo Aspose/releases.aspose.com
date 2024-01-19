@@ -14,7 +14,7 @@ download_count: " 13/7/2023 Descargars: 1  Views: 1 "
 file_size: "File Size: 424.51MB"
 parent_path: "email/cpp"
 section_parent_path: "email/cpp"
-release_notes_url: "https://docs.aspose.com/email/cpp/aspose-email-for-cpp-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-6-release-notes/"
 weight: 83
 tags: ['Aspose.Email', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'Office-Automation', 'MSG', 'PST', 'OST', 'OFT', 'OLM', 'EML', 'EMLX', 'MBOX', 'ICS', 'VCF', 'HTML', 'MHTML', 'MHT', 'Mail', 'MIME', 'iCalender', 'SMTP', 'POP3', 'IMAP', 'Protocols', 'RFC2445', 'RFC822', 'Windows', 'Linux', 'VisualStudio', 'GCC', 'CLang', 'Component', 'Assembly', 'C++', 'API', 'Email-API', 'Distribution-List', 'MAPI', 'Parsing-MSG', 'Viewing-MSG', 'Email-Message-Extraction', 'Email', 'Mail-Message', 'EWS-Client', 'EML-to-MSG', 'Email-to-EML', 'Email-to-MHT', 'Mail-to-MHTML', 'Native', 'C++', 'CPP', 'Exchange']
 ---
@@ -38,7 +38,7 @@ tags: ['Aspose.Email', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'Office
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/email/cpp/aspose-email-for-cpp-23-6-release-notes/'>https://docs.aspose.com/email/cpp/aspose-email-for-cpp-23-6-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-6-release-notes/'>https://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Contiene aspose. Empleo para la liberación de C ++ 23.6.</div>

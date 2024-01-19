@@ -39,7 +39,7 @@ weight: 66
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href="https://docs.aspose.com/email/cpp/aspose-email-for-cpp-22-1-release-notes/">https://docs.aspose.com/email/cpp/aspose-email-for-cpp-22-1-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href="https://releases.aspose.com/email/cpp/release-notes/2022/aspose-email-for-cpp-22-1-release-notes/">https://releases.aspose.com/email/cpp/release-notes/2022/aspose-email-for-cpp-22-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -39,7 +39,7 @@ weight: 41
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/emailcpp/Aspose.Email+for+CPP+19.9+Release+Notes">https://docs.aspose.com/display/emailcpp/Aspose.Email+for+CPP+19.9+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Email für die Version C++ 19.9.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/email/cpp/aspose-email-for-cpp-19-9-release-notes/">https://releases.aspose.com/email/cpp/aspose-email-for-cpp-19-9-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Email für die Version C++ 19.9.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

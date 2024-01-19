@@ -14,7 +14,7 @@ download_count: " 31/1/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 372.3MB"
 parent_path: "email/cpp"
 section_parent_path: "email/cpp"
-release_notes_url: "https://docs.aspose.com/email/cpp/aspose-email-for-cpp-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-1-release-notes/"
 weight: 78
 
 ---
@@ -38,7 +38,7 @@ weight: 78
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/email/cpp/aspose-email-for-cpp-23-1-release-notes/'>https://docs.aspose.com/email/cpp/aspose-email-for-cpp-23-1-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-1-release-notes/'>https://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει AsPose.EMALE για την απελευθέρωση C ++ 23.1.</div>

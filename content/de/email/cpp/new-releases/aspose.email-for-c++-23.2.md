@@ -14,7 +14,7 @@ download_count: " 11/4/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 421.6MB"
 parent_path: "email/cpp"
 section_parent_path: "email/cpp"
-release_notes_url: "https://docs.aspose.com/email/cpp/aspose-email-for-cpp-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-2-release-notes/"
 weight: 79
 
 ---
@@ -38,7 +38,7 @@ weight: 79
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/email/cpp/aspose-email-for-cpp-23-2-release-notes/'>https://docs.aspose.com/email/cpp/aspose-email-for-cpp-23-2-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-2-release-notes/'>https://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">Es enthält asspose.email für c ++ 23.2 veröffentlicht.</div>

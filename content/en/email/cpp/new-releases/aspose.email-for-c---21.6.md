@@ -39,7 +39,7 @@ weight: 63
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/email/cpp/aspose-email-for-cpp-21-6-release-notes/">https://docs.aspose.com/email/cpp/aspose-email-for-cpp-21-6-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for C++ 21.6 release. Both Windows and Linux</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/email/cpp/release-notes/2021/aspose-email-for-cpp-21-6-release-notes/">https://releases.aspose.com/email/cpp/release-notes/2021/aspose-email-for-cpp-21-6-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for C++ 21.6 release. Both Windows and Linux</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

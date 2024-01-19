@@ -14,7 +14,7 @@ download_count: " 11/4/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 421.6MB"
 parent_path: "email/cpp"
 section_parent_path: "email/cpp"
-release_notes_url: "https://docs.aspose.com/email/cpp/aspose-email-for-cpp-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-2-release-notes/"
 weight: 79
 
 ---
@@ -38,7 +38,7 @@ weight: 79
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/email/cpp/aspose-email-for-cpp-23-2-release-notes/'>https://docs.aspose.com/email/cpp/aspose-email-for-cpp-23-2-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-2-release-notes/'>https://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">C ++ 23.2 sürümü için aspose.</div>

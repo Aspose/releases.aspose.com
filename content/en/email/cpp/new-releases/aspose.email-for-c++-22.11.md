@@ -14,7 +14,7 @@ download_count: " 30/11/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 345.66MB"
 parent_path: "email/cpp"
 section_parent_path: "email/cpp"
-release_notes_url: "https://docs.aspose.com/email/cpp/aspose-email-for-cpp-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/cpp/release-notes/2022/aspose-email-for-cpp-22-11-release-notes/"
 weight: 76
 
 ---
@@ -38,7 +38,7 @@ weight: 76
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/email/cpp/aspose-email-for-cpp-22-11-release-notes/'>https://docs.aspose.com/email/cpp/aspose-email-for-cpp-22-11-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/email/cpp/release-notes/2022/aspose-email-for-cpp-22-11-release-notes/'>https://releases.aspose.com/email/cpp/release-notes/2022/aspose-email-for-cpp-22-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for C++ 22.11 release.</div>
