@@ -38,7 +38,7 @@ weight: 654
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan Rilis</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-3-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-3-release-notes/</a></div>
+      <h4>Catatan Rilis</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-3-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ Kemampuan untuk mengatur batas dalam.
 
 Dukungan pengurutan untuk nilai Pivot Field telah ditambahkan. Penyortiran Pivot Field dapat dilakukan berdasarkan baris atau kolom yang diinginkan.
 
- > Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug pada rilis ini, silakan kunjungi,[Aspose.Cells for .NET 22.3 Catatan Rilis](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-3-release-notes/).
+ > Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug pada rilis ini, silakan kunjungi,[Aspose.Cells for .NET 22.3 Catatan Rilis](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

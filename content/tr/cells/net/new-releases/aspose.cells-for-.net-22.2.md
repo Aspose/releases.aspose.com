@@ -38,7 +38,7 @@ weight: 652
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-2-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-2-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-2-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ Fince dilinde ise; Yüzde olarak biçimlendirilen sayılar için yüzde simgesin
 
 Daha önce elektronik tablo PDF biçimine dönüştürüldükten sonra hücre arka planı siyah oluyordu. Bu sorun artık çözüldü.
 
- > Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen şu adresi ziyaret edin:[Aspose.Cells for .NET 22.2 Sürüm Notları](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-2-release-notes/).
+ > Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen şu adresi ziyaret edin:[Aspose.Cells for .NET 22.2 Sürüm Notları](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -38,7 +38,7 @@ weight: 650
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ Bu API sürümü, API'i kullanarak virgülle ayrılmış `CSV` ve sekmeyle ayrı
 
 Range özelliği, hücre koleksiyonundaki tüm hücreleri kapsıyordu. Bu sürümden itibaren bu işlevsellik, `Cells.MaxDisplayRange` alınırken gizli satır ve sütunların yok sayılması/hariç tutulması için geliştirildi.
 
- > Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen şu adresi ziyaret edin:[Aspose.Cells for .NET 22.1 Sürüm Notları](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/).
+ > Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen şu adresi ziyaret edin:[Aspose.Cells for .NET 22.1 Sürüm Notları](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

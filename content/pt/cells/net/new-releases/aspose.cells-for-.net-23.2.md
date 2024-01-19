@@ -14,7 +14,7 @@ download_count: " 8/2/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 66.35MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-23-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-2-release-notes/"
 weight: 681
 
 ---
@@ -38,7 +38,7 @@ weight: 681
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-23-2-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-23-2-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-2-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Aspose.Cells para .NET 23.2</div>

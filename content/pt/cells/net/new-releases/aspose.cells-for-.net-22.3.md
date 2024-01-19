@@ -38,7 +38,7 @@ weight: 654
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de versão</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-3-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-3-release-notes/</a></div>
+      <h4>Notas de versão</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-3-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ Capacidade de definir as bordas internas.
 
 O suporte de classificação para valores de campo dinâmico foi adicionado. A classificação do campo dinâmico pode ser feita com base na linha ou coluna desejada.
 
- > Para obter uma lista completa de recursos, melhorias e correções de bugs nesta versão, visite,[Aspose.Cells for .NET 22.3 Notas de versão](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-3-release-notes/).
+ > Para obter uma lista completa de recursos, melhorias e correções de bugs nesta versão, visite,[Aspose.Cells for .NET 22.3 Notas de versão](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

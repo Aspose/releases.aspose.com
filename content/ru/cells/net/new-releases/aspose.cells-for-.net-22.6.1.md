@@ -35,7 +35,7 @@ weight: 662
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Примечания к выпуску</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/</a></div>
+<h4>Примечания к выпуску</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -66,7 +66,7 @@ weight: 662
 
 Было замечено, что символы или подписи, написанные на таких объектах, как фигуры и текстовые поля, в Linux выглядели искаженными. Теперь эта проблема решена.
 
- > Полный список функций, улучшений и исправлений ошибок в этом выпуске см. на странице[Aspose.Cells for .NET 22.6 Примечания к выпуску](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/).
+ > Полный список функций, улучшений и исправлений ошибок в этом выпуске см. на странице[Aspose.Cells for .NET 22.6 Примечания к выпуску](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

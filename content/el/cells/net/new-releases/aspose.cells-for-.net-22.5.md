@@ -34,7 +34,7 @@ weight: 658
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ weight: 658
 
 Αυτή η έκδοση API προσφέρει μια διόρθωση στο πρόβλημα της εξαγωγής συμβολοσειράς JSON στο Excel&reg;.
 
- > Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφθείτε το[Aspose.Cells for .NET 22.5 Σημειώσεις έκδοσης](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/).
+ > Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφθείτε το[Aspose.Cells for .NET 22.5 Σημειώσεις έκδοσης](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

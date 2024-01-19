@@ -16,7 +16,7 @@ parent_path: "cells/net"
 section_parent_path: "cells/net"
 
 tags: "Aspose.Cells for .NET(DLLs Only)"
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-9-release-notes/"
 weight: 694
 
 ---
@@ -40,7 +40,7 @@ weight: 694
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-23-9-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-23-9-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-9-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">File zip ini hanya berisi aspose.cells untuk rakitan .net. Rakitannya sama seperti di penginstal MSI dari produk dari versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.cells tanpa penginstal MSI, misalnya, Anda mungkin tidak menjalankan penginstal MSI di Mono atau beberapa lingkungan lainnya. Unduhan zip ini tidak berisi dokumentasi pengguna dalam format bantuan Microsoft yang termasuk dalam penginstal MSI.</div>

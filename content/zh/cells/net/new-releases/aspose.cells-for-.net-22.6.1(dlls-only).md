@@ -15,7 +15,7 @@ file_size: "File Size: 100.63MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
 
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/"
 weight: 663
 
 ---
@@ -39,7 +39,7 @@ weight: 663
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">该zip文件仅包含.net组件的aspose.cells。组件与同一版本的产品的MSI安装程序相同。如果您想在没有MSI安装程序的情况下使用Aspose.cells，请下载此内容，例如，您可能不会在单声道或其他某些环境上运行MSI安装程序。此ZIP下载不包含MISI安装程序中包含的Microsoft帮助格式的用户文档。</div>

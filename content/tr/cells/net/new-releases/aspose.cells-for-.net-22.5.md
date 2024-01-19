@@ -34,7 +34,7 @@ weight: 658
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ Boş sütunları silme performansı iyileştirildi.
 
 Bu API sürümü, JSON dizesinin Excel&reg;'e aktarılması sorununa yönelik bir düzeltme sunar.
 
- > Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen şu adresi ziyaret edin:[Aspose.Cells for .NET 22.5 Sürüm Notları](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/).
+ > Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen şu adresi ziyaret edin:[Aspose.Cells for .NET 22.5 Sürüm Notları](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

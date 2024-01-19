@@ -38,7 +38,7 @@ weight: 652
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-2-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-2-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-2-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ Il a été observé que dans le cas de la langue finnoise ; pour les nombres fo
 
 Auparavant, l'arrière-plan de la cellule devenait noir après la conversion de la feuille de calcul au format PDF. Ce problème est maintenant résolu.
 
- > Pour une liste complète des fonctionnalités, améliorations et corrections de bugs de cette version, veuillez visiter,[Aspose.Cells for .NET 22.2 Notes de version](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-2-release-notes/).
+ > Pour une liste complète des fonctionnalités, améliorations et corrections de bugs de cette version, veuillez visiter,[Aspose.Cells for .NET 22.2 Notes de version](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -35,7 +35,7 @@ weight: 662
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notes de version</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/</a></div>
+<h4>Notes de version</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -66,7 +66,7 @@ Un support a été ajouté pour enregistrer les formules de table au `XLSB`.
 
 Il a été observé que les caractères ou les légendes écrits sur des objets tels que des formes et des zones de texte apparaissaient tronqués sous Linux. Ce problème est maintenant résolu.
 
- > Pour une liste complète des fonctionnalités, améliorations et corrections de bugs de cette version, veuillez visiter,[Aspose.Cells for .NET 22.6 Notes de version](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/).
+ > Pour une liste complète des fonctionnalités, améliorations et corrections de bugs de cette version, veuillez visiter,[Aspose.Cells for .NET 22.6 Notes de version](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

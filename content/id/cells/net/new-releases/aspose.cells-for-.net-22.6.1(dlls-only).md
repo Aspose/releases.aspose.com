@@ -15,7 +15,7 @@ file_size: "File Size: 100.63MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
 
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/"
 weight: 663
 
 ---
@@ -39,7 +39,7 @@ weight: 663
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">File zip ini hanya berisi aspose.cells untuk rakitan .net. Rakitannya sama seperti di penginstal MSI dari produk dari versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.cells tanpa pemasang MSI, misalnya, Anda mungkin tidak menjalankan pemasang MSI di Mono atau beberapa lingkungan lainnya. Unduhan zip ini tidak berisi dokumentasi pengguna dalam format bantuan Microsoft yang termasuk dalam pemasang MSI.</div>

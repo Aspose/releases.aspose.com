@@ -38,7 +38,7 @@ weight: 650
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ weight: 650
 
 range プロパティは、セル コレクション内のすべてのセルをカバーしていました。このリリースから、`Cells.MaxDisplayRange` を取得するときに非表示の行と列を無視または除外するようにこの機能が改善されました。
 
- > このリリースの機能、拡張機能、バグ修正の完全なリストについては、次のサイトをご覧ください。[Aspose.Cells for .NET 22.1 リリースノート](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/).
+ > このリリースの機能、拡張機能、バグ修正の完全なリストについては、次のサイトをご覧ください。[Aspose.Cells for .NET 22.1 リリースノート](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

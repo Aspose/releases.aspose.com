@@ -34,7 +34,7 @@ weight: 656
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-4-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ Microsoft Excel&reg; が確認されました。 Excel から PDF への変換�
 
 この API リリースでは、カンマ区切り値 (CSV) ファイルの保存中に末尾の空白セルを削除する機能が導入されています。
 
- > このリリースの機能、拡張機能、バグ修正の完全なリストについては、次のサイトをご覧ください。[Aspose.Cells for .NET 22.4 リリースノート](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/).
+ > このリリースの機能、拡張機能、バグ修正の完全なリストについては、次のサイトをご覧ください。[Aspose.Cells for .NET 22.4 リリースノート](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

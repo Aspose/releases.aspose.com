@@ -34,7 +34,7 @@ weight: 656
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Примечания к выпуску</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/</a></div>
+      <h4>Примечания к выпуску</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-4-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ weight: 656
 
 В этом выпуске API появилась возможность удалять оставшиеся пустые ячейки при сохранении файла значений, разделенных запятыми (CSV).
 
- > Полный список функций, улучшений и исправлений ошибок в этом выпуске см. на странице[Aspose.Cells for .NET 22.4 Примечания к выпуску](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/).
+ > Полный список функций, улучшений и исправлений ошибок в этом выпуске см. на странице[Aspose.Cells for .NET 22.4 Примечания к выпуску](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

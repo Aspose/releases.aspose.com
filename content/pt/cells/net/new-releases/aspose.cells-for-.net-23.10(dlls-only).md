@@ -16,7 +16,7 @@ parent_path: "cells/net"
 section_parent_path: "cells/net"
 
 tags: "Aspose.Cells for .NET(DLLs Only)"
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-23-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-10-release-notes/"
 weight: 696
 
 ---
@@ -40,7 +40,7 @@ weight: 696
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-23-10-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-23-10-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-10-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Este arquivo ZIP contém apenas as células Asposit.NETs .NET. Os assemblies são os mesmos do instalador do MSI do produto da mesma versão. Faça o download disso, se quiser usar aspom.Cells sem o instalador do MSI, por exemplo, você não pode executar os instaladores do MSI no Mono ou em alguns outros ambientes. Este download zip não contém a documentação do usuário no formato da Microsoft Help, incluído no instalador do MSI.</div>

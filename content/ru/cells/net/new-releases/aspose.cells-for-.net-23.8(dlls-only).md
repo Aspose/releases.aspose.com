@@ -15,7 +15,7 @@ file_size: "File Size: 60.73MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
 tags: ['Excel-Conversion-API', 'Excel-Converter-API', 'Excel-Formula-API', 'Excel-Library', 'Excel-to-BMP', 'Excel-to-DOCX', 'Excel-to-EMF', 'Excel-to-GIF', 'Excel-to-HTML', 'Excel-to-Image', 'Excel-to-JPEG', 'Excel-to-JPG', 'Excel-to-Markdown', 'Excel-to-MD', 'Excel-to-MHTML', 'Excel-to-PDF', 'Excel-to-PDFA', 'Excel-to-PNG', 'Excel-to-PPTX', 'Excel-to-SVG', 'Excel-to-TIFF', 'Excel-to-XPS', 'XLS-to-PDF', 'XLS-to-XLSX', 'XLS-to-XPS', 'XLSX-to-DOCX', 'XLSX-to-HTML', 'XLSX-to-Markdown', 'XLSX-to-MD', 'XLSX-to-MHTML', 'XLSX-to-PDF', 'XLSX-to-PPTX']
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-23-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-8-release-notes/"
 weight: 692
 
 ---
@@ -39,7 +39,7 @@ weight: 692
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-23-8-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-23-8-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-8-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Этот zip -файл содержит только aspose.cells для .NET Assemblies. Сборки такие же, как в установщике MSI продукта той же версии. Загрузите это. Эта загрузка Zip не содержит пользовательской документации в формате справки Microsoft, который включен в установщик MSI.</div>

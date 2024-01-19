@@ -14,7 +14,7 @@ download_count: " 20/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 89.85MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
-release_notes_url: “https://docs.aspose.com/cells/net/aspose-cells-for-net-22-10-release-notes/”
+release_notes_url: “https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-10-release-notes/”
 weight: 673
 
 ---
@@ -38,7 +38,7 @@ weight: 673
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-22-10-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-22-10-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-10-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">此 ZIP 文件仅包含 .NET 程序集的 Aspose.Cells。程序集与相同版本产品的 MSI 安装程序中的程序集相同。如果您想在没有 MSI 安装程序的情况下使用 Aspose.Cells，请下载此文件，例如，您可能无法在 Mono 或其他一些环境中运行 MSI 安装程序。此 ZIP 下载不包含 MSI 安装程序中包含的 Microsoft 帮助格式的用户文档。</div>

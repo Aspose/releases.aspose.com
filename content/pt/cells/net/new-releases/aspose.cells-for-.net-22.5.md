@@ -34,7 +34,7 @@ weight: 658
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de versão</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/</a></div>
+      <h4>Notas de versão</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ O problema foi observado ao recuperar anexos OLE vinculados no arquivo `ODS`. Es
 
 Esta versão API oferece uma correção para o problema de exportação da string JSON para Excel®.
 
- > Para obter uma lista completa de recursos, melhorias e correções de bugs nesta versão, visite,[Aspose.Cells for .NET 22.5 Notas de versão](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/).
+ > Para obter uma lista completa de recursos, melhorias e correções de bugs nesta versão, visite,[Aspose.Cells for .NET 22.5 Notas de versão](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

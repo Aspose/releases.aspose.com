@@ -34,7 +34,7 @@ weight: 656
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de versão</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/</a></div>
+      <h4>Notas de versão</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-4-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ Anteriormente, em alguns casos, quando convertíamos `XLS` em `PDF`, o tamanho d
 
 Esta versão API introduz a capacidade de remover células em branco finais ao salvar o arquivo de Valores Separados por Vírgula (CSV).
 
- > Para obter uma lista completa de recursos, melhorias e correções de bugs nesta versão, visite,[Aspose.Cells for .NET 22.4 Notas de versão](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/).
+ > Para obter uma lista completa de recursos, melhorias e correções de bugs nesta versão, visite,[Aspose.Cells for .NET 22.4 Notas de versão](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

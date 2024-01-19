@@ -14,7 +14,7 @@ file_size: "File Size: 54.66MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
 
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-11-release-notes/"
 weight: 675
 ---
 
@@ -37,7 +37,7 @@ weight: 675
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-22-11-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-22-11-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-11-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Aspose.cells untuk .net 22.11</div>
@@ -80,7 +80,7 @@ Ability to distinguish or differentiate between Ctrl+Shift+Enter (CSE) legacy ar
 
 This API release offers the ability to parse collapsed property while converting `HTML` to Excel&reg; format.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for .NET 22.11 Catatan rilis](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-11-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for .NET 22.11 Catatan rilis](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-11-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

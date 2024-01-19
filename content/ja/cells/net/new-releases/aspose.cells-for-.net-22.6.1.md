@@ -35,7 +35,7 @@ weight: 662
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -66,7 +66,7 @@ XLSX を PDF に変換するときに、棒グラフが正しくレンダリン�
 
 Linux では、図形やテキスト ボックスなどのオブジェクトに書かれた文字やキャプションが文字化けして表示されることが確認されました。この問題は現在解決されています。
 
- > このリリースの機能、拡張機能、バグ修正の完全なリストについては、次のサイトをご覧ください。[Aspose.Cells for .NET 22.6 リリースノート](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/).
+ > このリリースの機能、拡張機能、バグ修正の完全なリストについては、次のサイトをご覧ください。[Aspose.Cells for .NET 22.6 リリースノート](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

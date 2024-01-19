@@ -35,7 +35,7 @@ weight: 677
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-12-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-12-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-12-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">Aspose.Cells for .NET 22.12</div>

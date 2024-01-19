@@ -38,7 +38,7 @@ weight: 654
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-3-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-3-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-3-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ Posibilidad de establecer los límites interiores.
 
 Se ha agregado compatibilidad con la clasificación de los valores del campo dinámico. La clasificación del campo dinámico se puede realizar según la fila o columna deseada.
 
- > Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite[Aspose.Cells for .NET 22.3 Notas de la versión](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-3-release-notes/).
+ > Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite[Aspose.Cells for .NET 22.3 Notas de la versión](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

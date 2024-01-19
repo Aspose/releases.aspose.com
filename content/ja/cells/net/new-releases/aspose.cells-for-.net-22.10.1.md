@@ -14,7 +14,7 @@ download_count: " 20/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 94.76MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-10-release-notes/"
 weight: 672
 
 ---
@@ -38,7 +38,7 @@ weight: 672
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-22-10-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-22-10-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-10-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">Aspose.Cells for .NET 22.10.1</div>

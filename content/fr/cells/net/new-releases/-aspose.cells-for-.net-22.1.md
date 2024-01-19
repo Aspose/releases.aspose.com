@@ -38,7 +38,7 @@ weight: 650
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ Cette version API introduit la possibilité de détecter automatiquement les fic
 
 La propriété range couvrait toutes les cellules de la collection de cellules. À partir de cette version, cette fonctionnalité a été améliorée pour ignorer/exclure les lignes et colonnes masquées lors de l'obtention de `Cells.MaxDisplayRange`.
 
- > Pour une liste complète des fonctionnalités, améliorations et corrections de bugs de cette version, veuillez visiter,[Aspose.Cells for .NET 22.1 Notes de version](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/).
+ > Pour une liste complète des fonctionnalités, améliorations et corrections de bugs de cette version, veuillez visiter,[Aspose.Cells for .NET 22.1 Notes de version](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

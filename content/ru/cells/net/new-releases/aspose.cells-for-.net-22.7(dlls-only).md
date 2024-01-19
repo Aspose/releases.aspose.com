@@ -14,7 +14,7 @@ download_count: " 7/7/2022 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 88.57MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-7-release-notes/"
 weight: 665
 
 ---
@@ -38,7 +38,7 @@ weight: 665
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-22-7-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-22-7-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-7-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Этот zip -файл содержит только Aspose.cells для .NET Assemblies. Сборки такие же, как в установщике MSI продукта той же версии. Загрузите это. Эта загрузка ZIP не содержит пользовательской документации в формате справки Microsoft, который включен в установщик MSI.</div>

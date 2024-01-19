@@ -16,7 +16,7 @@ parent_path: "cells/net"
 section_parent_path: "cells/net"
 
 tags: "Aspose.Cells for .NET(DLLs Only)"
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-9-release-notes/"
 weight: 694
 
 ---
@@ -40,7 +40,7 @@ weight: 694
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-23-9-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-23-9-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-9-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Bu zip dosyası, yalnızca .NET düzenekleri için aspose.cells içerir. Montajlar, aynı sürümün ürününün MSI yükleyicisiyle aynıdır. MSI yükleyicisi olmadan aspose.cells kullanmak istiyorsanız bunu indirin, örneğin, MSI yükleyicilerini mono veya diğer bazı ortamlarda çalıştırmayabilirsiniz. Bu Zip İndirme, MSI yükleyicisine dahil edilen Microsoft Yardım formatında kullanıcı belgelerini içermez.</div>

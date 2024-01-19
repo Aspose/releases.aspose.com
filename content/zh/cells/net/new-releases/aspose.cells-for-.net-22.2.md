@@ -38,7 +38,7 @@ weight: 652
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-2-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-2-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-2-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ weight: 652
 
 以前，将电子表格转换为 PDF 格式后，单元格背景会变成黑色。该问题现已解决。
 
- > 有关此版本中的功能、增强功能和错误修复的完整列表，请访问：[Aspose.Cells for .NET 22.2 发行说明](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-2-release-notes/).
+ > 有关此版本中的功能、增强功能和错误修复的完整列表，请访问：[Aspose.Cells for .NET 22.2 发行说明](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

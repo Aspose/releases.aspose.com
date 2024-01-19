@@ -34,7 +34,7 @@ weight: 658
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ weight: 658
 
 此 API 版本修复了将 JSON 字符串导出到 Excel® 的问题。
 
- > 有关此版本中的功能、增强功能和错误修复的完整列表，请访问：[Aspose.Cells for .NET 22.5 发行说明](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/).
+ > 有关此版本中的功能、增强功能和错误修复的完整列表，请访问：[Aspose.Cells for .NET 22.5 发行说明](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

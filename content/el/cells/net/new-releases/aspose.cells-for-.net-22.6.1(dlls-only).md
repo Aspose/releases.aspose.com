@@ -15,7 +15,7 @@ file_size: "File Size: 100.63MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
 
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/"
 weight: 663
 
 ---
@@ -39,7 +39,7 @@ weight: 663
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Αυτό το αρχείο zip περιέχει μόνο το ASPOSPE.Cells για συγκροτήματα .NET. Τα συγκροτήματα είναι τα ίδια όπως στο πρόγραμμα εγκατάστασης MSI του προϊόντος της ίδιας έκδοσης. Κατεβάστε αυτό εάν θέλετε να χρησιμοποιήσετε το ASPOSPE.Cells χωρίς το πρόγραμμα εγκατάστασης MSI, για παράδειγμα, ενδέχεται να μην εκτελέσετε εγκαταστάτες MSI σε μονοφωνικά ή κάποια άλλα περιβάλλοντα. Αυτή η λήψη φερμουάρ δεν περιέχει την τεκμηρίωση του χρήστη στη μορφή βοήθειας της Microsoft που περιλαμβάνεται στο πρόγραμμα εγκατάστασης MSI.</div>

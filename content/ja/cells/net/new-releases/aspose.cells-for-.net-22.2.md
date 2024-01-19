@@ -38,7 +38,7 @@ weight: 652
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-2-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-2-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-2-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ weight: 652
 
 以前は、スプレッドシートを PDF 形式に変換すると、セルの背景が黒になりました。この問題は現在解決されています。
 
- > このリリースの機能、拡張機能、バグ修正の完全なリストについては、次のサイトをご覧ください。[Aspose.Cells for .NET 22.2 リリースノート](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-2-release-notes/).
+ > このリリースの機能、拡張機能、バグ修正の完全なリストについては、次のサイトをご覧ください。[Aspose.Cells for .NET 22.2 リリースノート](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

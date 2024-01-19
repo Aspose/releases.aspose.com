@@ -16,7 +16,7 @@ parent_path: "cells/net"
 section_parent_path: "cells/net"
 
 tags: ["Aspose.Cells for .NET"]
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-6-release-notes/"
 weight: 689
 
 ---
@@ -40,7 +40,7 @@ weight: 689
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-23-6-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-23-6-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-6-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">ASSONE.CELLS FÜR .NET 23.6</div>

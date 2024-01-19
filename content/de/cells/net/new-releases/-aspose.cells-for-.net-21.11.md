@@ -39,7 +39,7 @@ weight: 646
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-21-11-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-21-11-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/cells/net/release-notes/2021/aspose-cells-for-net-21-11-release-notes/">https://releases.aspose.com/cells/net/release-notes/2021/aspose-cells-for-net-21-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

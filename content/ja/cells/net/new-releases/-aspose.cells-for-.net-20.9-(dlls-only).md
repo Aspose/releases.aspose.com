@@ -38,7 +38,7 @@ weight: 619
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-20-9-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-20-9-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">この ZIP ファイルには、Aspose.Cells for .NET アセンブリのみが含まれています。アセンブリは、同じバージョンの製品の MSI インストーラーと同じです。 MSI インストーラーなしで Aspose.Cells を使用する場合は、これをダウンロードしてください。たとえば、Mono またはその他の環境では MSI インストーラーを実行できない可能性があります。この ZIP ダウンロードには、MSI インストーラーに含まれている Microsoft ヘルプ形式のユーザー ドキュメントは含まれていません。</div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2020/aspose-cells-for-net-20-9-release-notes/">https://releases.aspose.com/cells/net/release-notes/2020/aspose-cells-for-net-20-9-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">この ZIP ファイルには、Aspose.Cells for .NET アセンブリのみが含まれています。アセンブリは、同じバージョンの製品の MSI インストーラーと同じです。 MSI インストーラーなしで Aspose.Cells を使用する場合は、これをダウンロードしてください。たとえば、Mono またはその他の環境では MSI インストーラーを実行できない可能性があります。この ZIP ダウンロードには、MSI インストーラーに含まれている Microsoft ヘルプ形式のユーザー ドキュメントは含まれていません。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

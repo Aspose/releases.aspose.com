@@ -34,7 +34,7 @@ weight: 658
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ weight: 658
 
 この API リリースでは、JSON 文字列を Excel&reg; にエクスポートする際の問題が修正されています。
 
- > このリリースの機能、拡張機能、バグ修正の完全なリストについては、次のサイトをご覧ください。[Aspose.Cells for .NET 22.5 リリースノート](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/).
+ > このリリースの機能、拡張機能、バグ修正の完全なリストについては、次のサイトをご覧ください。[Aspose.Cells for .NET 22.5 リリースノート](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

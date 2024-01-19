@@ -38,7 +38,7 @@ weight: 639
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan Rilis</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-21-7-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-21-7-release-notes/</a></div><h4>Keterangan</h4><div class="HTMLDescription">File ZIP ini hanya berisi rakitan Aspose.Cells for .NET. Rakitannya sama seperti pada penginstal MSI produk dengan versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.Cells tanpa penginstal MSI, misalnya, Anda mungkin tidak menjalankan penginstal MSI di Mono atau beberapa lingkungan lainnya. Unduhan ZIP ini tidak berisi dokumentasi pengguna dalam format Bantuan Microsoft yang disertakan dalam penginstal MSI.</div>
+      <h4>Catatan Rilis</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2021/aspose-cells-for-net-21-7-release-notes/">https://releases.aspose.com/cells/net/release-notes/2021/aspose-cells-for-net-21-7-release-notes/</a></div><h4>Keterangan</h4><div class="HTMLDescription">File ZIP ini hanya berisi rakitan Aspose.Cells for .NET. Rakitannya sama seperti pada penginstal MSI produk dengan versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.Cells tanpa penginstal MSI, misalnya, Anda mungkin tidak menjalankan penginstal MSI di Mono atau beberapa lingkungan lainnya. Unduhan ZIP ini tidak berisi dokumentasi pengguna dalam format Bantuan Microsoft yang disertakan dalam penginstal MSI.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

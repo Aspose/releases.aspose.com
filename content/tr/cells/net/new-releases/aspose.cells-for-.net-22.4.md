@@ -34,7 +34,7 @@ weight: 656
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-4-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ Daha önce bazı durumlarda, `XLS`'i `PDF`'e dönüştürdüğümüzde, metin ku
 
 Bu API sürümü, Virgülle Ayrılmış Değerler (CSV) dosyasını kaydederken kuyruktaki boş hücreleri kaldırma özelliğini sunar.
 
- > Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen şu adresi ziyaret edin:[Aspose.Cells for .NET 22.4 Sürüm Notları](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/).
+ > Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen şu adresi ziyaret edin:[Aspose.Cells for .NET 22.4 Sürüm Notları](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

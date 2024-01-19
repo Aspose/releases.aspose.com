@@ -16,7 +16,7 @@ parent_path: "cells/net"
 section_parent_path: "cells/net"
 
 tags: "Aspose.Cells for .NET(DLLs Only)"
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-23-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-11-release-notes/"
 weight: 698
 
 ---
@@ -40,7 +40,7 @@ weight: 698
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-23-11-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-23-11-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-11-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">このzipファイルには、.netアセンブリのAsops.cellsのみが含まれています。アセンブリは、同じバージョンの製品のMSIインストーラーと同じです。 MSIインストーラーなしでasopse.cellsを使用する場合は、これをダウンロードしてください。たとえば、MONOまたは他の環境でMSIインストーラーを実行しない場合があります。このZIPダウンロードには、MSIインストーラーに含まれるMicrosoftヘルプ形式のユーザードキュメントは含まれていません。</div>

@@ -13,7 +13,7 @@ download_count: " 4/8/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 93.46MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-8-release-notes/"
 weight: 666
 ---
 
@@ -36,7 +36,7 @@ weight: 666
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Release Notes</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-22-8-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-22-8-release-notes/</a></div>
+<h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-8-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-8-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -56,7 +56,7 @@ Supports converting the threaded comments to `HTML`.
 
 Previously there was wrong vertical alignment of cell text while we converted any Excel&reg; file containing a pivot table to PDF format. This issue has now been resolved.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for .NET 22.8 Release Notes](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-8-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for .NET 22.8 Release Notes](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-8-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

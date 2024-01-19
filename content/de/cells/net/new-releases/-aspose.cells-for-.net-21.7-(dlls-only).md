@@ -39,7 +39,7 @@ weight: 639
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-21-7-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-21-7-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur die Aspose.Cells für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Cells ohne das MSI-Installationsprogramm verwenden möchten. Möglicherweise führen Sie MSI-Installationsprogramme nicht auf Mono oder einigen anderen Umgebungen aus. Dieser ZIP-Download enthält nicht die Benutzerdokumentation im Microsoft-Hilfeformat, die im MSI-Installationsprogramm enthalten ist.</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/cells/net/release-notes/2021/aspose-cells-for-net-21-7-release-notes/">https://releases.aspose.com/cells/net/release-notes/2021/aspose-cells-for-net-21-7-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur die Aspose.Cells für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Cells ohne das MSI-Installationsprogramm verwenden möchten. Möglicherweise führen Sie MSI-Installationsprogramme nicht auf Mono oder einigen anderen Umgebungen aus. Dieser ZIP-Download enthält nicht die Benutzerdokumentation im Microsoft-Hilfeformat, die im MSI-Installationsprogramm enthalten ist.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

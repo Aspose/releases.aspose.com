@@ -38,7 +38,7 @@ weight: 650
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de versão</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/</a></div>
+      <h4>Notas de versão</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ Esta versão API introduz a capacidade de detectar automaticamente arquivos de t
 
 A propriedade range cobria todas as células da coleção de células. A partir desta versão esta funcionalidade foi melhorada para ignorar/excluir as linhas e colunas ocultas ao obter `Cells.MaxDisplayRange`.
 
- > Para obter uma lista completa de recursos, melhorias e correções de bugs nesta versão, visite,[Aspose.Cells for .NET 22.1 Notas de versão](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/).
+ > Para obter uma lista completa de recursos, melhorias e correções de bugs nesta versão, visite,[Aspose.Cells for .NET 22.1 Notas de versão](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

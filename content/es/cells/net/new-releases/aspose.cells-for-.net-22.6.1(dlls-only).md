@@ -15,7 +15,7 @@ file_size: "File Size: 100.63MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
 
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/"
 weight: 663
 
 ---
@@ -39,7 +39,7 @@ weight: 663
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Este archivo zip contiene solo el aspose.cells para los ensamblados .NET. Los conjuntos son los mismos que en el instalador MSI del producto de la misma versión. Descargue esto si desea usar Aspose.Cells sin el instalador MSI, por ejemplo, es posible que no ejecute instaladores MSI en Mono o otros entornos. Esta descarga zip no contiene la documentación del usuario en el formato de ayuda de Microsoft que se incluye en el instalador MSI.</div>

@@ -35,7 +35,7 @@ weight: 662
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/</a></div>
+<h4>发行说明</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -66,7 +66,7 @@ weight: 662
 
 据观察，在 Linux 中，形状和文本框等对象上书写的字符或标题出现乱码。该问题现已解决。
 
- > 有关此版本中的功能、增强功能和错误修复的完整列表，请访问：[Aspose.Cells for .NET 22.6 发行说明](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-6-release-notes/).
+ > 有关此版本中的功能、增强功能和错误修复的完整列表，请访问：[Aspose.Cells for .NET 22.6 发行说明](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-6-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

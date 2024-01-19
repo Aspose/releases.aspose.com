@@ -38,7 +38,7 @@ weight: 654
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-3-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-3-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-3-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ weight: 654
 
 添加了对数据透视字段值的排序支持。可以根据所需的行或列完成数据透视字段排序。
 
- > 有关此版本中的功能、增强功能和错误修复的完整列表，请访问：[Aspose.Cells for .NET 22.3 发行说明](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-3-release-notes/).
+ > 有关此版本中的功能、增强功能和错误修复的完整列表，请访问：[Aspose.Cells for .NET 22.3 发行说明](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

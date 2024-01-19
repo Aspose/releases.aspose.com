@@ -14,7 +14,7 @@ file_size: "File Size: 93.6MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
 
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-9-release-notes/"
 weight: 668
 ---
 
@@ -37,7 +37,7 @@ weight: 668
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-22-9-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-22-9-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-9-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for .NET 22.9</div>
@@ -68,7 +68,7 @@ Ability of setting table formula for the `DataTable`.
 
 Added the ability to read and write protected range of `XLSB` with `SHA-512` algorithm.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for .NET 22.9 Release Notes](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-9-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Cells for .NET 22.9 Release Notes](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -15,7 +15,7 @@ file_size: "File Size: 60.73MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
 tags: ['Excel-Conversion-API', 'Excel-Converter-API', 'Excel-Formula-API', 'Excel-Library', 'Excel-to-BMP', 'Excel-to-DOCX', 'Excel-to-EMF', 'Excel-to-GIF', 'Excel-to-HTML', 'Excel-to-Image', 'Excel-to-JPEG', 'Excel-to-JPG', 'Excel-to-Markdown', 'Excel-to-MD', 'Excel-to-MHTML', 'Excel-to-PDF', 'Excel-to-PDFA', 'Excel-to-PNG', 'Excel-to-PPTX', 'Excel-to-SVG', 'Excel-to-TIFF', 'Excel-to-XPS', 'XLS-to-PDF', 'XLS-to-XLSX', 'XLS-to-XPS', 'XLSX-to-DOCX', 'XLSX-to-HTML', 'XLSX-to-Markdown', 'XLSX-to-MD', 'XLSX-to-MHTML', 'XLSX-to-PDF', 'XLSX-to-PPTX']
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-23-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-8-release-notes/"
 weight: 692
 
 ---
@@ -39,7 +39,7 @@ weight: 692
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-23-8-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-23-8-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-8-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">该zip文件仅包含.net组件的aspose.cells。组件与同一版本的产品的MSI安装程序相同。如果您想使用Aspose.cells，则下载此信息，例如，您可能不会在单声道或其他某些环境上运行MSI安装程序。此ZIP下载不包含MISI安装程序中包含的Microsoft帮助格式的用户文档。</div>

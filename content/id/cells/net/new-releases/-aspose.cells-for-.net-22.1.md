@@ -38,7 +38,7 @@ weight: 650
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan Rilis</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/</a></div>
+      <h4>Catatan Rilis</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ Rilis API ini memperkenalkan kemampuan untuk mendeteksi secara otomatis file tek
 
 Properti range mencakup semua sel dalam koleksi sel. Dari rilis ini fungsi ini telah ditingkatkan untuk mengabaikan/mengecualikan baris dan kolom tersembunyi saat mendapatkan `Cells.MaxDisplayRange`.
 
- > Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug pada rilis ini, silakan kunjungi,[Aspose.Cells for .NET 22.1 Catatan Rilis](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/).
+ > Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug pada rilis ini, silakan kunjungi,[Aspose.Cells for .NET 22.1 Catatan Rilis](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

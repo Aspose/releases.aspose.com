@@ -38,7 +38,7 @@ weight: 652
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-2-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-2-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-2-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ weight: 652
 
 Προηγουμένως, το φόντο του κελιού έγινε μαύρο μετά τη μετατροπή του υπολογιστικού φύλλου σε μορφή PDF. Αυτό το ζήτημα έχει πλέον επιλυθεί.
 
- > Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφθείτε το[Aspose.Cells for .NET 22.2 Σημειώσεις έκδοσης](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-2-release-notes/).
+ > Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφθείτε το[Aspose.Cells for .NET 22.2 Σημειώσεις έκδοσης](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

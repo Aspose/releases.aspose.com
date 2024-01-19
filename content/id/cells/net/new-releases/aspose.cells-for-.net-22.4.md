@@ -34,7 +34,7 @@ weight: 656
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan Rilis</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/</a></div>
+      <h4>Catatan Rilis</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-4-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -54,7 +54,7 @@ Sebelumnya dalam beberapa kasus, ketika kita mengonversi `XLS` menjadi `PDF`, uk
 
 Rilis API ini memperkenalkan kemampuan untuk menghapus sel kosong tailing sambil menyimpan file Comma Separated Values (CSV).
 
- > Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug pada rilis ini, silakan kunjungi,[Aspose.Cells for .NET 22.4 Catatan Rilis](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-4-release-notes/).
+ > Untuk daftar lengkap fitur, penyempurnaan, dan perbaikan bug pada rilis ini, silakan kunjungi,[Aspose.Cells for .NET 22.4 Catatan Rilis](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

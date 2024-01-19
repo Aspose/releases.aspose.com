@@ -34,7 +34,7 @@ weight: 658
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ Un problème a été observé lors de la récupération des pièces jointes OLE 
 
 Cette version API propose un correctif au problème d'exportation de la chaîne JSON vers Excel®.
 
- > Pour une liste complète des fonctionnalités, améliorations et corrections de bugs de cette version, veuillez visiter,[Aspose.Cells for .NET 22.5 Notes de version](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-5-release-notes/).
+ > Pour une liste complète des fonctionnalités, améliorations et corrections de bugs de cette version, veuillez visiter,[Aspose.Cells for .NET 22.5 Notes de version](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

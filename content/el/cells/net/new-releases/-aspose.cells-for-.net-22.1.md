@@ -38,7 +38,7 @@ weight: 650
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -58,7 +58,7 @@ weight: 650
 
 Η ιδιότητα εμβέλειας κάλυπτε όλα τα κελιά στη συλλογή κελιών. Από αυτήν την έκδοση, αυτή η λειτουργικότητα έχει βελτιωθεί για να αγνοούνται / εξαιρούνται οι κρυφές σειρές και στήλες κατά τη λήψη του `Cells.MaxDisplayRange`.
 
- > Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφθείτε το[Aspose.Cells for .NET 22.1 Σημειώσεις έκδοσης](https://docs.aspose.com/cells/net/aspose-cells-for-net-22-1-release-notes/).
+ > Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφθείτε το[Aspose.Cells for .NET 22.1 Σημειώσεις έκδοσης](https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

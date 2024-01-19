@@ -16,7 +16,7 @@ parent_path: "cells/net"
 section_parent_path: "cells/net"
 
 tags: ["Aspose.Cells for .NET(DLLs Only)"]
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-5-release-notes/"
 weight: 686
 
 ---
@@ -40,7 +40,7 @@ weight: 686
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-23-5-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-23-5-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-5-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Ce fichier zip ne contient que les assells Aspose.Cells pour .NET. Les assemblages sont les mêmes que dans le programme d'installation MSI du produit de la même version. Téléchargez ceci si vous souhaitez utiliser Aspose.Cells sans le programme d'installation MSI, par exemple, vous pourriez ne pas exécuter les installateurs MSI sur Mono ou dans d'autres environnements. Ce téléchargement zip ne contient pas la documentation utilisateur dans le format d'aide Microsoft qui est inclus dans l'installateur MSI.</div>

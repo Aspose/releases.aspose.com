@@ -35,7 +35,7 @@ weight: 676
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Примечания к выпуску</h4><div><a href="https://docs.aspose.com/cells/net/aspose-cells-for-net-22-12-release-notes/">https://docs.aspose.com/cells/net/aspose-cells-for-net-22-12-release-notes/</a></div>
+      <h4>Примечания к выпуску</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-12-release-notes/">https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Этот ZIP-файл содержит только сборки Aspose.Cells for .NET. Сборки такие же, как и в MSI-установщике продукта той же версии. Загрузите это, если вы хотите использовать Aspose.Cells без установщика MSI. Например, вы можете не запускать установщики MSI на Mono или в некоторых других средах. Этот загружаемый ZIP-файл не содержит пользовательской документации в формате справки Microsoft, которая включена в установщик MSI.</div>
