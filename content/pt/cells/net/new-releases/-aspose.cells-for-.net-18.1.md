@@ -38,7 +38,7 @@ weight: 556
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de versão</h4><div><a href="https://docs.aspose.com/display/cellsnet/Aspose.Cells+for+.NET+18.1+Release+Notes">https://docs.aspose.com/display/cellsnet/Aspose.Cells+for+.NET+18.1+Release+Notes</a></div>
+      <h4>Notas de versão</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2018/aspose-cells-for-net-18-1-release-notes/">https://releases.aspose.com/cells/net/release-notes/2018/aspose-cells-for-net-18-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -38,7 +38,7 @@ weight: 596
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de versão</h4><div><a href="https://docs.aspose.com/display/cellsnet/Aspose.Cells+for+.NET+19.10+Release+Notes">https://docs.aspose.com/display/cellsnet/Aspose.Cells+for+.NET+19.10+Release+Notes</a></div>
+      <h4>Notas de versão</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2019/aspose-cells-for-net-19-10-release-notes/">https://releases.aspose.com/cells/net/release-notes/2019/aspose-cells-for-net-19-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

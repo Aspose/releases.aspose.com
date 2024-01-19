@@ -38,7 +38,7 @@ weight: 565
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/display/cellsnet/Aspose.Cells+for+.NET+18.6+Release+Notes">https://docs.aspose.com/display/cellsnet/Aspose.Cells+for+.NET+18.6+Release+Notes</a></div><h4>描述</h4><div class="HTMLDescription">此 ZIP 文件仅包含 Aspose.Cells for .NET 程序集。这些程序集与同一版本产品的 MSI 安装程序中的程序集相同。如果您想在没有 MSI 安装程序的情况下使用 Aspose.Cells，请下载此文件，例如，您可能无法在 Mono 或某些其他环境中运行 MSI 安装程序。此 ZIP 下载不包含 MSI 安装程序中包含的 Microsoft 帮助格式的用户文档。</div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2018/aspose-cells-for-net-18-6-release-notes/">https://releases.aspose.com/cells/net/release-notes/2018/aspose-cells-for-net-18-6-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">此 ZIP 文件仅包含 Aspose.Cells for .NET 程序集。这些程序集与同一版本产品的 MSI 安装程序中的程序集相同。如果您想在没有 MSI 安装程序的情况下使用 Aspose.Cells，请下载此文件，例如，您可能无法在 Mono 或某些其他环境中运行 MSI 安装程序。此 ZIP 下载不包含 MSI 安装程序中包含的 Microsoft 帮助格式的用户文档。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

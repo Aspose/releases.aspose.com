@@ -38,7 +38,7 @@ weight: 608
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan Rilis</h4><div><a href="https://docs.aspose.com/display/cellsnet/Aspose.Cells+for+.NET+20.4+Release+Notes">https://docs.aspose.com/display/cellsnet/Aspose.Cells+for+.NET+20.4+Release+Catatan</a></div>
+      <h4>Catatan Rilis</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2020/aspose-cells-for-net-20-4-release-notes/">https://docs.aspose.com/display/cellsnet/Aspose.Cells+for+.NET+20.4+Release+Catatan</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -38,7 +38,7 @@ weight: 532
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+17.1.0+Release+Notes">http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+17.1.0+Release+Notes</a></div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2017/aspose-cells-for-net-17-1-0-release-notes/">https://releases.aspose.com/cells/net/release-notes/2017/aspose-cells-for-net-17-1-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

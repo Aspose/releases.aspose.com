@@ -38,7 +38,7 @@ weight: 612
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/display/cellsnet/Aspose.Cells+for+.NET+20.6+Release+Notes">https://docs.aspose.com/display/cellsnet/Aspose.Cells+for+.NET+20.6+リリース+メモ</a></div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2020/aspose-cells-for-net-20-6-release-notes/">https://docs.aspose.com/display/cellsnet/Aspose.Cells+for+.NET+20.6+リリース+メモ</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
