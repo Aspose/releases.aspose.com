@@ -14,7 +14,7 @@ download_count: " 11/5/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 11.82MB"
 parent_path: "cells/php"
 section_parent_path: "cells/php"
-release_notes_url: "https://docs.aspose.com/cells/php-java/aspose-cells-for-php-via-java-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-5-release-notes/"
 weight: 41
 
 ---
@@ -38,7 +38,7 @@ weight: 41
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/cells/php-java/aspose-cells-for-php-via-java-23-5-release-notes/'>https://docs.aspose.com/cells/php-java/aspose-cells-for-php-via-java-23-5-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-5-release-notes/'>https://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">ASSONE.CELLS für PHP über Java 23.5</div>

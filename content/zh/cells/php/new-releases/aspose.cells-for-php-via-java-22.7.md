@@ -14,7 +14,7 @@ download_count: " 12/7/2022 下载s: 1  Views: 1 "
 file_size: "File Size: 11.65MB"
 parent_path: "cells/php"
 section_parent_path: "cells/php"
-release_notes_url: "https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-7-release-notes/"
 weight: 31
 
 ---
@@ -38,7 +38,7 @@ weight: 31
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-7-release-notes/'>https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-7-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-7-release-notes/'>https://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">aspose.cells for php通过Java 22.7</div>

@@ -39,7 +39,7 @@ weight: 26
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-2-release-notes/">https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-2-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-2-release-notes/">https://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

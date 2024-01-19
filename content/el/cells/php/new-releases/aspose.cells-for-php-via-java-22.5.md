@@ -35,7 +35,7 @@ weight: 29
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-5-release-notes/">https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-5-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-5-release-notes/">https://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -38,7 +38,7 @@ weight: 17
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/display/cellsjava/Aspose.Cells+for+PHP+via+Java+20.2+Release+Notes">https://docs.aspose.com/display/cellsjava/Aspose.Cells+for+PHP+via+Java+20.2+リリース+メモ</a></div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/cells/java/release-notes/2020/aspose-cells-for-java-20-2-release-notes/">https://docs.aspose.com/display/cellsjava/Aspose.Cells+for+PHP+via+Java+20.2+リリース+メモ</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

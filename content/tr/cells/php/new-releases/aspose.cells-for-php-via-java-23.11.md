@@ -16,7 +16,7 @@ parent_path: "cells/php"
 section_parent_path: "cells/php"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/cells/php-java/aspose-cells-for-php-via-java-23-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-11-release-notes/"
 weight: 47
 
 ---
@@ -40,7 +40,7 @@ weight: 47
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/cells/php-java/aspose-cells-for-php-via-java-23-11-release-notes/'>https://docs.aspose.com/cells/php-java/aspose-cells-for-php-via-java-23-11-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-11-release-notes/'>https://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Java 23.11 üzerinden PHP için aspose.cels</div>

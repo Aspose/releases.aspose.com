@@ -38,7 +38,7 @@ weight: 18
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de versão</h4><div><a href="https://docs.aspose.com/cells/java/aspose-cells-for-php-via-java-21-2-release-notes/">https://docs.aspose.com/cells/java/aspose-cells-for-php-via-java-21-2-release-notes/</a></div>
+      <h4>Notas de versão</h4><div><a href="https://releases.aspose.com/cells/java/release-notes/2021/aspose-cells-for-java-21-2-release-notes/">https://releases.aspose.com/cells/java/release-notes/2021/aspose-cells-for-java-21-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

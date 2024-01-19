@@ -39,7 +39,7 @@ weight: 15
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/cellsjava/Aspose.Cells+for+PHP+via+Java+19.1+Release+Notes">https://docs.aspose.com/display/cellsjava/Aspose.Cells+for+PHP+via+Java+19.1+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/cells/java/release-notes/2019/aspose-cells-for-java-19-1-release-notes/">https://releases.aspose.com/cells/java/release-notes/2019/aspose-cells-for-java-19-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

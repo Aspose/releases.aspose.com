@@ -14,7 +14,7 @@ download_count: " 9/8/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 11.66MB"
 parent_path: "cells/php"
 section_parent_path: "cells/php"
-release_notes_url: "https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-8-release-notes/"
 weight: 32
 
 ---
@@ -38,7 +38,7 @@ weight: 32
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-8-release-notes/'>https://docs.aspose.com/cells/phpjava/aspose-cells-for-php-via-java-22-8-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-8-release-notes/'>https://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Aspose.Cells for PHP via Java 22.8</div>
