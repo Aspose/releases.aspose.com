@@ -14,7 +14,7 @@ download_count: " 9/6/2023 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 13.36MB"
 parent_path: "cells/nodejs"
 section_parent_path: "cells/nodejs"
-release_notes_url: "https://docs.aspose.com/cells/nodejs-java/aspose-cells-for-node-js-via-java-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/nodejs/release-notes/2023/aspose-cells-for-node-js-via-java-23-6-release-notes/"
 weight: 32
 
 ---
@@ -38,7 +38,7 @@ weight: 32
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/cells/nodejs-java/aspose-cells-for-node-js-via-java-23-6-release-notes/'>https://docs.aspose.com/cells/nodejs-java/aspose-cells-for-node-js-via-java-23-6-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/cells/nodejs/release-notes/2023/aspose-cells-for-node-js-via-java-23-6-release-notes/'>https://releases.aspose.com/cells/nodejs/release-notes/2023/aspose-cells-for-node-js-via-java-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">Java 23.6経由のnode.jsのasopsion.cells</div>

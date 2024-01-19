@@ -14,7 +14,7 @@ download_count: " 13/9/2022 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 11.67MB"
 parent_path: "cells/nodejs"
 section_parent_path: "cells/nodejs"
-release_notes_url: "https://docs.aspose.com/cells/nodejsjava/aspose-cells-for-node-js-via-java-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/nodejs/release-notes/2022/aspose-cells-for-node-js-via-java-22-8-release-notes/"
 weight: 23
 
 ---
@@ -38,7 +38,7 @@ weight: 23
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/cells/nodejsjava/aspose-cells-for-node-js-via-java-22-9-release-notes/'>https://docs.aspose.com/cells/nodejsjava/aspose-cells-for-node-js-via-java-22-9-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/cells/nodejs/release-notes/2022/aspose-cells-for-node-js-via-java-22-8-release-notes/'>https://releases.aspose.com/cells/nodejs/release-notes/2022/aspose-cells-for-node-js-via-java-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">Java 22.9経由のnode.jsのasopsion.cells</div>

@@ -14,7 +14,7 @@ download_count: " 9/8/2022 Descargars: 1  Views: 1 "
 file_size: "File Size: 11.65MB"
 parent_path: "cells/nodejs"
 section_parent_path: "cells/nodejs"
-release_notes_url: "https://docs.aspose.com/cells/nodejsjava/aspose-cells-for-node-js-via-java-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/nodejs/release-notes/2022/aspose-cells-for-node-js-via-java-22-8-release-notes/"
 weight: 22
 
 ---
@@ -38,7 +38,7 @@ weight: 22
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/cells/nodejsjava/aspose-cells-for-node-js-via-java-22-8-release-notes/'>https://docs.aspose.com/cells/nodejsjava/aspose-cells-for-node-js-via-java-22-8-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/cells/nodejs/release-notes/2022/aspose-cells-for-node-js-via-java-22-8-release-notes/'>https://releases.aspose.com/cells/nodejs/release-notes/2022/aspose-cells-for-node-js-via-java-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Aspose.cells para Node.js a través de Java 22.8</div>

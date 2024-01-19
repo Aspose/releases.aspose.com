@@ -14,7 +14,7 @@ download_count: " 13/4/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 11.79MB"
 parent_path: "cells/nodejs"
 section_parent_path: "cells/nodejs"
-release_notes_url: "https://docs.aspose.com/cells/nodejs-java/aspose-cells-for-node-js-via-java-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/nodejs/release-notes/2023/aspose-cells-for-node-js-via-java-23-4-release-notes/"
 weight: 30
 
 ---
@@ -38,7 +38,7 @@ weight: 30
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/cells/nodejs-java/aspose-cells-for-node-js-via-java-23-4-release-notes/'>https://docs.aspose.com/cells/nodejs-java/aspose-cells-for-node-js-via-java-23-4-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/cells/nodejs/release-notes/2023/aspose-cells-for-node-js-via-java-23-4-release-notes/'>https://releases.aspose.com/cells/nodejs/release-notes/2023/aspose-cells-for-node-js-via-java-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">ASSONE.CELLS FÜR NODE.JS über Java 23.4</div>

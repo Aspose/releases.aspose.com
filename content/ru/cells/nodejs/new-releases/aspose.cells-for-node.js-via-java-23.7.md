@@ -14,7 +14,7 @@ download_count: " 14/7/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 13.4MB"
 parent_path: "cells/nodejs"
 section_parent_path: "cells/nodejs"
-release_notes_url: "https://docs.aspose.com/cells/nodejs-java/aspose-cells-for-node-js-via-java-23-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/nodejs/release-notes/2023/aspose-cells-for-node-js-via-java-23-7-release-notes/"
 weight: 33
 
 ---
@@ -38,7 +38,7 @@ weight: 33
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/cells/nodejs-java/aspose-cells-for-node-js-via-java-23-7-release-notes/'>https://docs.aspose.com/cells/nodejs-java/aspose-cells-for-node-js-via-java-23-7-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/cells/nodejs/release-notes/2023/aspose-cells-for-node-js-via-java-23-7-release-notes/'>https://releases.aspose.com/cells/nodejs/release-notes/2023/aspose-cells-for-node-js-via-java-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Aspose.cells для node.js через Java 23.7</div>

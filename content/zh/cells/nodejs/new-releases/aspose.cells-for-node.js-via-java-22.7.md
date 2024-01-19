@@ -14,7 +14,7 @@ download_count: " 11/7/2022 下载s: 1  Views: 1 "
 file_size: "File Size: 11.64MB"
 parent_path: "cells/nodejs"
 section_parent_path: "cells/nodejs"
-release_notes_url: "https://docs.aspose.com/cells/nodejsjava/aspose-cells-for-node-js-via-java-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/nodejs/release-notes/2022/aspose-cells-for-node-js-via-java-22-6-release-notes/"
 weight: 21
 
 ---
@@ -38,7 +38,7 @@ weight: 21
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/cells/nodejsjava/aspose-cells-for-node-js-via-java-22-7-release-notes/'>https://docs.aspose.com/cells/nodejsjava/aspose-cells-for-node-js-via-java-22-7-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/cells/nodejs/release-notes/2022/aspose-cells-for-node-js-via-java-22-6-release-notes/'>https://releases.aspose.com/cells/nodejs/release-notes/2022/aspose-cells-for-node-js-via-java-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">aspose.cells for Node.js通过Java 22.7</div>

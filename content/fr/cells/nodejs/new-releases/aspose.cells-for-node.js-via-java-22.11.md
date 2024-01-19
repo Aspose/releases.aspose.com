@@ -35,7 +35,7 @@ weight: 25
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href="https://docs.aspose.com/cells/nodejs-java/aspose-cells-for-node-js-via-java-22-11-release-notes/">https://docs.aspose.com/cells/nodejs-java/aspose-cells-for-node-js-via-java-22-11-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href="https://releases.aspose.com/cells/nodejs/release-notes/2022/aspose-cells-for-node-js-via-java-22-11-release-notes/">https://releases.aspose.com/cells/nodejs/release-notes/2022/aspose-cells-for-node-js-via-java-22-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Node.js via Java 22.11</div>
