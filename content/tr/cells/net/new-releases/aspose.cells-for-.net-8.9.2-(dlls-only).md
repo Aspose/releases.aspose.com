@@ -38,7 +38,7 @@ weight: 523
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+8.9.2+Release+Notes">http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+8.9.2+Release+Notes</a></div><h4>Tanım</h4><div class="HTMLDescription">Bu ZIP dosyası yalnızca Aspose.Cells for .NET derlemelerini içerir. Montajlar, aynı sürümdeki ürünün MSI yükleyicisindekilerle aynıdır. Aspose.Cells'i MSI yükleyicisi olmadan kullanmak istiyorsanız bunu indirin; örneğin, MSI yükleyicilerini Mono'de veya diğer bazı ortamlarda çalıştıramayabilirsiniz. Bu ZIP indirmesi, MSI yükleyicisinde bulunan Microsoft Yardım formatındaki kullanıcı belgelerini içermez.</div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2016/aspose-cells-for-net-8-9-2-release-notes/">https://releases.aspose.com/cells/net/release-notes/2016/aspose-cells-for-net-8-9-2-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">Bu ZIP dosyası yalnızca Aspose.Cells for .NET derlemelerini içerir. Montajlar, aynı sürümdeki ürünün MSI yükleyicisindekilerle aynıdır. Aspose.Cells'i MSI yükleyicisi olmadan kullanmak istiyorsanız bunu indirin; örneğin, MSI yükleyicilerini Mono'de veya diğer bazı ortamlarda çalıştıramayabilirsiniz. Bu ZIP indirmesi, MSI yükleyicisinde bulunan Microsoft Yardım formatındaki kullanıcı belgelerini içermez.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

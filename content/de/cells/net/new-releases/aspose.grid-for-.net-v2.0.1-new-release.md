@@ -39,7 +39,7 @@ weight: 380
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/cellsnet/Aspose.Grid+for+.NET+V2.0.1+New+Release+Release+Notes">http://www.aspose.com/docs/display/cellsnet/Aspose.Grid+for+.NET+V2.0.1+New+Release+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/cells/net/release-notes/2008/">https://releases.aspose.com/cells/net/release-notes/2008/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

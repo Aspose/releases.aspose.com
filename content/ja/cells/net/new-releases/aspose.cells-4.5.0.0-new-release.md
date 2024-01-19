@@ -38,7 +38,7 @@ weight: 376
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+4.5.0.0+New+Release+Release+Notes">http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+4.5.0.0+新規+リリース+リリース+メモ</a></div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2008/aspose-cells-4-5-0-0-new-release-release-notes/">http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+4.5.0.0+新規+リリース+リリース+メモ</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

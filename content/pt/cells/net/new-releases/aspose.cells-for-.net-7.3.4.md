@@ -38,7 +38,7 @@ weight: 430
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de versão</h4><div><a href="http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+7.3.4+Release+Notes">http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+7.3.4+Release+Notes</a></div>
+      <h4>Notas de versão</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-3-4-release-notes/">https://releases.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-3-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

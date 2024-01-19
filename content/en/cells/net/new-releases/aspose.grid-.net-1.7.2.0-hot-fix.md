@@ -39,7 +39,7 @@ weight: 361
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/cellsnet/Aspose.Grid+.Net+1.7.2.0+Hot+Fix+Release+Notes">http://www.aspose.com/docs/display/cellsnet/Aspose.Grid+.Net+1.7.2.0+Hot+Fix+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2007/aspose-grid-net-1-7-2-0-hot-fix-release-notes/">https://releases.aspose.com/cells/net/release-notes/2007/aspose-grid-net-1-7-2-0-hot-fix-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

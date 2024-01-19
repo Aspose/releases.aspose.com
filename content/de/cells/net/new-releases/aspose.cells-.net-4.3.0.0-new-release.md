@@ -40,7 +40,7 @@ weight: 328
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+.Net+4.3.0.0+New+Release+Release+Notes">http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+.Net+4.3.0.0+New+Release+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/cells/net/release-notes/2007/aspose-cells-net-4-3-0-0-new-release-release-notes/">https://releases.aspose.com/cells/net/release-notes/2007/aspose-cells-net-4-3-0-0-new-release-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

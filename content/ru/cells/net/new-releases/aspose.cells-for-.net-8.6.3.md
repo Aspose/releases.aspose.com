@@ -38,7 +38,7 @@ weight: 502
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Примечания к выпуску</h4><div><a href="http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+8.6.3+Release+Notes">http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+8.6.3+Release+Notes</a></div>
+      <h4>Примечания к выпуску</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-6-3-release-notes/">https://releases.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-6-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

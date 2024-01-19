@@ -39,7 +39,7 @@ weight: 398
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+5.3.0+Release+Notes">http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+5.3.0+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-5-3-0-release-notes/">https://releases.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-5-3-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

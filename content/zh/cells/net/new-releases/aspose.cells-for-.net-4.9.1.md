@@ -38,7 +38,7 @@ weight: 387
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+4.9.1+Release+Notes">http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+4.9.1+Release+Notes</a></div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2010/aspose-cells-for-net-4-9-1-release-notes/">https://releases.aspose.com/cells/net/release-notes/2010/aspose-cells-for-net-4-9-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

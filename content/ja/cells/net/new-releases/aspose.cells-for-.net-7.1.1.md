@@ -38,7 +38,7 @@ weight: 412
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+7.1.1+Release+Notes">http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+7.1.1+リリース+メモ</a></div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-1-1-release-notes/">http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+7.1.1+リリース+メモ</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

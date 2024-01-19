@@ -38,7 +38,7 @@ weight: 522
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan Rilis</h4><div><a href="http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+8.9.2+Release+Notes">http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+8.9.2+Release+Notes</a></div>
+      <h4>Catatan Rilis</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2016/aspose-cells-for-net-8-9-2-release-notes/">https://releases.aspose.com/cells/net/release-notes/2016/aspose-cells-for-net-8-9-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -38,7 +38,7 @@ weight: 519
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de versão</h4><div><a href="http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+8.9.0+Release+Notes">http://www.aspose.com/docs/display/cellsnet/Aspose.Cells+for+.NET+8.9.0+Release+Notes</a></div><h4>Descrição</h4><div class="HTMLDescription">Este arquivo ZIP contém apenas os assemblies Aspose.Cells for .NET. As montagens são as mesmas do instalador MSI do produto da mesma versão. Baixe-o se quiser usar Aspose.Cells sem o instalador MSI, por exemplo, você não pode executar instaladores MSI em Mono ou em alguns outros ambientes. Este download ZIP não contém a documentação do usuário no formato de Ajuda Microsoft que está incluída no instalador MSI.</div>
+      <h4>Notas de versão</h4><div><a href="https://releases.aspose.com/cells/net/release-notes/2016/aspose-cells-for-net-8-9-0-release-notes/">https://releases.aspose.com/cells/net/release-notes/2016/aspose-cells-for-net-8-9-0-release-notes/</a></div><h4>Descrição</h4><div class="HTMLDescription">Este arquivo ZIP contém apenas os assemblies Aspose.Cells for .NET. As montagens são as mesmas do instalador MSI do produto da mesma versão. Baixe-o se quiser usar Aspose.Cells sem o instalador MSI, por exemplo, você não pode executar instaladores MSI em Mono ou em alguns outros ambientes. Este download ZIP não contém a documentação do usuário no formato de Ajuda Microsoft que está incluída no instalador MSI.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
