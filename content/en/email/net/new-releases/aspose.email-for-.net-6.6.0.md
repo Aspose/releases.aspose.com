@@ -39,7 +39,7 @@ weight: 390
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/emailnet/Aspose.Email+for+.NET+6.6.0+Release+Notes">http://www.aspose.com/docs/display/emailnet/Aspose.Email+for+.NET+6.6.0+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/email/net/release-notes/2016/aspose-email-for-net-6-6-0-release-notes/">https://releases.aspose.com/email/net/release-notes/2016/aspose-email-for-net-6-6-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

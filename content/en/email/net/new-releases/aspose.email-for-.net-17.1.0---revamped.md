@@ -39,7 +39,7 @@ weight: 406
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="http://docs.asposeptyltd.com/display/emailnet/Aspose.Email+for+.NET+17.1.0+Release+Notes">http://docs.asposeptyltd.com/display/emailnet/Aspose.Email+for+.NET+17.1.0+Release+Notes</a></div><h4>Description</h4><div class="HTMLDescription">This improved version of Aspose.Email for .NET 17.1.0 improves the namespace structure.</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/email/net/release-notes/2017/aspose-email-for-net-17-1-0-release-notes/">https://releases.aspose.com/email/net/release-notes/2017/aspose-email-for-net-17-1-0-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">This improved version of Aspose.Email for .NET 17.1.0 improves the namespace structure.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

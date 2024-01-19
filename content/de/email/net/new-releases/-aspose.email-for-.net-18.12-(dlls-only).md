@@ -39,7 +39,7 @@ weight: 455
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/emailnet/Aspose.Email+for+.NET+18.12+Release+Notes">https://docs.aspose.com/display/emailnet/Aspose.Email+for+.NET+18.12+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/email/net/release-notes/2018/aspose-email-for-net-18-12-release-notes/">https://releases.aspose.com/email/net/release-notes/2018/aspose-email-for-net-18-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
