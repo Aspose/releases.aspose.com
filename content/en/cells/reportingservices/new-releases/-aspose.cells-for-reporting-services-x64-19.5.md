@@ -39,7 +39,7 @@ weight: 150
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/cellsreportingservices/Aspose.Cells+for+Reporting+Services+19.5+Release+Notes">https://docs.aspose.com/display/cellsreportingservices/Aspose.Cells+for+Reporting+Services+19.5+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/cells/reportingservices/release-notes/2019/aspose-cells-for-reporting-services-19-5-release-notes/">https://releases.aspose.com/cells/reportingservices/release-notes/2019/aspose-cells-for-reporting-services-19-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

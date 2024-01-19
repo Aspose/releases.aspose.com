@@ -38,7 +38,7 @@ weight: 140
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/display/cellsreportingservices/Aspose.Cells+for+Reporting+Services+17.8+Release+Notes">https://docs.aspose.com/display/cellsreportingservices/Aspose.Cells+for+Reporting+Services+17.8+Release+Notes</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/cells/reportingservices/release-notes/2017/aspose-cells-for-reporting-services-17-8-release-notes/">https://releases.aspose.com/cells/reportingservices/release-notes/2017/aspose-cells-for-reporting-services-17-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

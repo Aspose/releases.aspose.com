@@ -39,7 +39,7 @@ weight: 103
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/cellsreportingservices/Aspose.Cells+Reporting+Services+1.0.0.0+New+Release+Release+Notes">http://www.aspose.com/docs/display/cellsreportingservices/Aspose.Cells+Reporting+Services+1.0.0.0+New+Release+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/cells/reportingservices/release-notes/2007/aspose-cells-reporting-services-1-0-0-0-new-release-release-notes/">https://releases.aspose.com/cells/reportingservices/release-notes/2007/aspose-cells-reporting-services-1-0-0-0-new-release-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

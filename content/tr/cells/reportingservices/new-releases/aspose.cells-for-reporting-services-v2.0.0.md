@@ -38,7 +38,7 @@ weight: 125
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="http://www.aspose.com/docs/display/cellsreportingservices/Aspose.Cells+for+Reporting+Services+V2.0.0+Release+Notes">http://www.aspose.com/docs/display/cellsreportingservices/Aspose.Cells+for+Reporting+Services+V2.0.0+Release+Notes</a></div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/cells/reportingservices/release-notes/2014/aspose-cells-for-reporting-services-v2-0-0-release-notes/">https://releases.aspose.com/cells/reportingservices/release-notes/2014/aspose-cells-for-reporting-services-v2-0-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

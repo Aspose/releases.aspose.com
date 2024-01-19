@@ -39,7 +39,7 @@ weight: 138
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/cellsreportingservices/Aspose.Cells+for+Reporting+Services+17.4.0+Release+Notes">https://docs.aspose.com/display/cellsreportingservices/Aspose.Cells+for+Reporting+Services+17.4.0+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/cells/reportingservices/release-notes/2017/aspose-cells-for-reporting-services-17-4-0-release-notes/">https://releases.aspose.com/cells/reportingservices/release-notes/2017/aspose-cells-for-reporting-services-17-4-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

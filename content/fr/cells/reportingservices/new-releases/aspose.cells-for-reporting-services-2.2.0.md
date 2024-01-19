@@ -38,7 +38,7 @@ weight: 128
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href="http://www.aspose.com/docs/display/cellsreportingservices/Aspose.Cells+for+Reporting+Services+2.2.0+Release+Notes">http://www.aspose.com/docs/display/cellsreportingservices/Aspose.Cells+for+Reporting+Services+2.2.0+Release+Notes</a></div>
+      <h4>Notes de version</h4><div><a href="https://releases.aspose.com/cells/reportingservices/release-notes/2015/aspose-cells-for-reporting-services-2-2-0-release-notes/">https://releases.aspose.com/cells/reportingservices/release-notes/2015/aspose-cells-for-reporting-services-2-2-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
