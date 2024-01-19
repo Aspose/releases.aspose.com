@@ -39,7 +39,7 @@ weight: 49
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/emailjava/Aspose.Email+for+Android+via+Java+19.7+Release+Notes">https://docs.aspose.com/display/emailjava/Aspose.Email+for+Android+via+Java+19.7+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/email/androidjava/release-notes/2019/aspose-email-for-android-via-java-19-7-release-notes/">https://releases.aspose.com/email/androidjava/release-notes/2019/aspose-email-for-android-via-java-19-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

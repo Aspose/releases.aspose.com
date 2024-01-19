@@ -39,7 +39,7 @@ weight: 59
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href="https://docs.aspose.com/email/java/aspose-email-for-java-22-1-release-notes/">https://docs.aspose.com/email/java/aspose-email-for-java-22-1-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href="https://releases.aspose.com/email/java/release-notes/2022/aspose-email-for-java-22-1-release-notes/">https://releases.aspose.com/email/java/release-notes/2022/aspose-email-for-java-22-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -14,7 +14,7 @@ download_count: " 9/9/2022 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 10MB"
 parent_path: "email/androidjava"
 section_parent_path: "email/androidjava"
-release_notes_url: "https://docs.aspose.com/email/java/aspose-email-for-java-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/java/release-notes/2022/aspose-email-for-java-22-7-release-notes/"
 weight: 61
 
 ---
@@ -38,7 +38,7 @@ weight: 61
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/email/java/aspose-email-for-java-22-7-release-notes/'>https://docs.aspose.com/email/java/aspose-email-for-java-22-7-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/email/java/release-notes/2022/aspose-email-for-java-22-7-release-notes/'>https://releases.aspose.com/email/java/release-notes/2022/aspose-email-for-java-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Il contient Aspose.Email pour Android via la version Java 22.7.</div>

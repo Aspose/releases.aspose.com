@@ -39,7 +39,7 @@ weight: 54
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/email/java/aspose-email-for-java-20-10-release-notes/">https://docs.aspose.com/email/java/aspose-email-for-java-20-10-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/email/java/release-notes/2020/aspose-email-for-java-20-10-release-notes/">https://releases.aspose.com/email/java/release-notes/2020/aspose-email-for-java-20-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

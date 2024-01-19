@@ -39,7 +39,7 @@ weight: 35
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/display/emailjava/Aspose.Email+for+Android+via+Java+18.2+Release+Notes">https://docs.aspose.com/display/emailjava/Aspose.Email+for+Android+via+Java+18.2+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/email/androidjava/release-notes/2018/aspose-email-for-android-via-java-18-2-release-notes/">https://releases.aspose.com/email/androidjava/release-notes/2018/aspose-email-for-android-via-java-18-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -14,7 +14,7 @@ download_count: " 19/11/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 10.01MB"
 parent_path: "email/androidjava"
 section_parent_path: "email/androidjava"
-release_notes_url: "https://docs.aspose.com/email/java/aspose-email-for-java-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/email/java/release-notes/2022/aspose-email-for-java-22-10-release-notes/"
 weight: 62
 
 ---
@@ -38,7 +38,7 @@ weight: 62
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/email/java/aspose-email-for-java-22-10-release-notes/'>https://docs.aspose.com/email/java/aspose-email-for-java-22-10-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/email/java/release-notes/2022/aspose-email-for-java-22-10-release-notes/'>https://releases.aspose.com/email/java/release-notes/2022/aspose-email-for-java-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for Android via Java 22.10 release.</div>
