@@ -16,7 +16,7 @@ parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
 
 tags: ["C++", "Windows", "Excel", "Aspose.Cells"]
-release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-3-release-notes-windows/"
+release_notes_url: "https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-3-release-notes/"
 weight: 99
 
 ---
@@ -40,7 +40,7 @@ weight: 99
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-3-release-notes-windows/'>https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-3-release-notes-windows/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-3-release-notes/'>https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Ανατρέξτε στο Σημειώσεις έκδοσης and Readme για λεπτομέρειες</div>

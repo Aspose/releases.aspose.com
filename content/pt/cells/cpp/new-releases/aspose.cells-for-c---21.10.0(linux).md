@@ -38,7 +38,7 @@ weight: 65
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de versão</h4><div><a href="https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-21-10-release-notes-linux/">https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-21-10-release-notes-linux/</a></div><h4>Descrição</h4><div class="HTMLDescription">Consulte as notas de versão e o ReadMe para obter detalhes</div>
+      <h4>Notas de versão</h4><div><a href="https://releases.aspose.com/cells/cpp/release-notes/2021/aspose-cells-for-cpp-linux-21-10-release-notes/">https://releases.aspose.com/cells/cpp/release-notes/2021/aspose-cells-for-cpp-linux-21-10-release-notes/</a></div><h4>Descrição</h4><div class="HTMLDescription">Consulte as notas de versão e o ReadMe para obter detalhes</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -38,7 +38,7 @@ weight: 46
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/display/cellscpp/Aspose.Cells+for+CPP+18.8+Release+Notes">https://docs.aspose.com/display/cellscpp/Aspose.Cells+for+CPP+18.8+Release+Notes</a></div><h4>描述</h4><div class="HTMLDescription">详细信息请参阅发行说明</div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/cells/cpp/release-notes/2018/aspose-cells-for-cpp-18-8-release-notes/">https://releases.aspose.com/cells/cpp/release-notes/2018/aspose-cells-for-cpp-18-8-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">详细信息请参阅发行说明</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

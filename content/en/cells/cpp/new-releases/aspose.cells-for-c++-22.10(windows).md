@@ -15,7 +15,7 @@ file_size: "File Size: 60.45MB"
 parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
 tags: ["C++", "Windows", "Excel", "Aspose.Cells"]
-release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-10-release-notes-windows/"
+release_notes_url: "https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-windows-22-10-release-notes/"
 weight: 89
 
 ---
@@ -39,7 +39,7 @@ weight: 89
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-10-release-notes-windows/'>https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-10-release-notes-windows/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-windows-22-10-release-notes/'>https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-windows-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Please refer to release notes and ReadMe for detail</div>

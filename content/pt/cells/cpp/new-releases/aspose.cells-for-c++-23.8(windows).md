@@ -15,7 +15,7 @@ file_size: "File Size: 61.09MB"
 parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
 tags: ['Excel-to-PDF', 'Excel-to-PDFA', 'Workbook-to-PDFA', 'Excel-to-Image', 'Worksheet-to-Image', 'Excel-to-PNG', 'Excel-to-TIFF', 'Worksheet-to-SVG', 'Excel-to-SVG', 'Workbook-to-PDF', 'Workbook-Formulas', 'Spreadsheet-API', 'Aspose.Cells', 'Aspose.Total', 'Conholdate', 'Conholdate.Total', 'Chart', 'Chart-Rendering', 'OLE-Objects', 'Range', 'C++', 'CPP', 'Native']
-release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-8-release-notes-windows/"
+release_notes_url: "https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-8-release-notes/"
 weight: 109
 
 ---
@@ -39,7 +39,7 @@ weight: 109
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-8-release-notes-windows/'>https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-8-release-notes-windows/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-8-release-notes/'>https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Consulte as notas de lançamento e leitura para obter detalhes</div>

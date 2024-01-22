@@ -38,7 +38,7 @@ weight: 76
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-4-release-notes-linux/">https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-4-release-notes-linux/</a></div><h4>説明</h4><div class="HTMLDescription">詳細については、リリースノートとReadMeを参照してください。</div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-4-release-notes/">https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-4-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">詳細については、リリースノートとReadMeを参照してください。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -16,7 +16,7 @@ parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
 
 tags: ["Excel", "C++", "Linux", "Aspose.Cells"]
-release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-7-release-notes-linux/"
+release_notes_url: "https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-7-release-notes/"
 weight: 106
 
 ---
@@ -40,7 +40,7 @@ weight: 106
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-7-release-notes-linux/'>https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-7-release-notes-linux/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-7-release-notes/'>https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Пожалуйста, обратитесь к примечаниям и прочте для подробностей</div>

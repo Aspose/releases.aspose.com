@@ -16,7 +16,7 @@ parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
 
 tags: ["C++", "Linux", "Excel", "Aspose.Cells"]
-release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-3-release-notes-linux/"
+release_notes_url: "https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-3-release-notes/"
 weight: 98
 
 ---
@@ -40,7 +40,7 @@ weight: 98
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-3-release-notes-linux/'>https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-3-release-notes-linux/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-3-release-notes/'>https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Detay için lütfen Sürüm Notlarına ve ReadMe'ye bakın</div>

@@ -16,7 +16,7 @@ parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
 
 tags: ["C++", "Windows", "Excel", "Aspose.Cells"]
-release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-8-release-notes-windows/"
+release_notes_url: "https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-windows-22-8-release-notes/"
 weight: 85
 
 ---
@@ -40,7 +40,7 @@ weight: 85
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-8-release-notes-windows/'>https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-8-release-notes-windows/</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-windows-22-8-release-notes/'>https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-windows-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Einzelheiten finden Sie in den Versionshinweisen und in der ReadMe</div>

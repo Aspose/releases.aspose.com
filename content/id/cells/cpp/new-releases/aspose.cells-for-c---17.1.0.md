@@ -38,7 +38,7 @@ weight: 40
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan Rilis</h4><div><a href="https://docs.aspose.com/display/cellscpp/Aspose.Cells+for+CPP+17.1.0+Release+Notes">https://docs.aspose.com/display/cellscpp/Aspose.Cells+for+CPP+17.1.0+Release+Notes</a></div>
+      <h4>Catatan Rilis</h4><div><a href="https://releases.aspose.com/cells/cpp/release-notes/2017/aspose-cells-for-cpp-17-1-0-release-notes/">https://releases.aspose.com/cells/cpp/release-notes/2017/aspose-cells-for-cpp-17-1-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

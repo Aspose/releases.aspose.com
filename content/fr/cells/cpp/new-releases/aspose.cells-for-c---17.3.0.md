@@ -38,7 +38,7 @@ weight: 42
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href="https://docs.aspose.com/display/cellscpp/Aspose.Cells+for+CPP+17.3.0+Release+Notes">https://docs.aspose.com/display/cellscpp/Aspose.Cells+for+CPP+17.3.0+Release+Notes</a></div>
+      <h4>Notes de version</h4><div><a href="https://releases.aspose.com/cells/cpp/release-notes/2017/aspose-cells-for-cpp-17-3-0-release-notes/">https://releases.aspose.com/cells/cpp/release-notes/2017/aspose-cells-for-cpp-17-3-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -38,7 +38,7 @@ weight: 71
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-1-release-notes-windows/">https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-1-release-notes-windows/</a></div><h4>説明</h4><div class="HTMLDescription">詳細については、リリースノートとReadMeを参照してください。</div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-windows-22-1-release-notes/">https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-windows-22-1-release-notes/</a></div><h4>説明</h4><div class="HTMLDescription">詳細については、リリースノートとReadMeを参照してください。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -16,7 +16,7 @@ parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
 
 tags: "C++ Windows Excel  Aspose.Cells"
-release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-9-release-notes-windows/"
+release_notes_url: "https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-9-release-notes/"
 weight: 111
 
 ---
@@ -40,7 +40,7 @@ weight: 111
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-9-release-notes-windows/'>https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-9-release-notes-windows/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-9-release-notes/'>https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">詳細については、リリースノートとREADMEを参照してください</div>

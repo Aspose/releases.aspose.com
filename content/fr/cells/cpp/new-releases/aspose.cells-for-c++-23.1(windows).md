@@ -16,7 +16,7 @@ parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
 
 tags: ["C++", "Windows", "Excel", "Aspose.Cells"]
-release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-1-release-notes-windows/"
+release_notes_url: "https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-1-release-notes/"
 weight: 95
 
 ---
@@ -40,7 +40,7 @@ weight: 95
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-1-release-notes-windows/'>https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-1-release-notes-windows/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-1-release-notes/'>https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Veuillez vous référer aux notes de publication et à Readme pour plus de détails</div>

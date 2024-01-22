@@ -14,7 +14,7 @@ download_count: " 4/7/2022 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 94.23MB"
 parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
-release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-7-release-notes-linux/"
+release_notes_url: "https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-7-release-notes/"
 weight: 82
 
 ---
@@ -38,7 +38,7 @@ weight: 82
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-7-release-notes-linux/'>https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-7-release-notes-linux/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-7-release-notes/'>https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Пожалуйста, обратитесь к примечаниям и прочте для получения подробной информации</div>

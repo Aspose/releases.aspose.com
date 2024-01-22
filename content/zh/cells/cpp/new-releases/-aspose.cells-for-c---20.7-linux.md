@@ -38,7 +38,7 @@ weight: 54
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href="https://docs.aspose.com/display/cellscpp/Aspose.Cells+for+CPP+20.7+Release+Notes+Linux">https://docs.aspose.com/display/cellscpp/Aspose.Cells+for+CPP+20.7+Release+Notes+Linux</a></div><h4>描述</h4><div class="HTMLDescription">请下载并解压该包并参阅ReadMe了解详细信息</div>
+      <h4>发行说明</h4><div><a href="https://releases.aspose.com/cells/cpp/release-notes/2020/aspose-cells-for-cpp-linux-20-7-release-notes/">https://releases.aspose.com/cells/cpp/release-notes/2020/aspose-cells-for-cpp-linux-20-7-release-notes/</a></div><h4>描述</h4><div class="HTMLDescription">请下载并解压该包并参阅ReadMe了解详细信息</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

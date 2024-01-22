@@ -16,7 +16,7 @@ parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
 
 tags: ["C++", "Excel", "Aspose.Cells", "Linux"]
-release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-5-release-notes-linux/"
+release_notes_url: "https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-5-release-notes/"
 weight: 102
 
 ---
@@ -40,7 +40,7 @@ weight: 102
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-5-release-notes-linux/'>https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-23-5-release-notes-linux/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-5-release-notes/'>https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">Weitere Einzelheiten finden Sie in Versionshinweise und Readme</div>

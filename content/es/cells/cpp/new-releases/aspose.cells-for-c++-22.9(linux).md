@@ -16,7 +16,7 @@ parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
 
 tags: ["C++", "Linux", "Excel", "Aspose.Cells"]
-release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-9-release-notes-linux/"
+release_notes_url: "https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-9-release-notes/"
 weight: 86
 
 ---
@@ -40,7 +40,7 @@ weight: 86
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-9-release-notes-linux/'>https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-9-release-notes-linux/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-9-release-notes/'>https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Consulte las notas de la versión y el readme para obtener detalles</div>

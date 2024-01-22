@@ -36,7 +36,7 @@ weight: 92
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan Rilis</h4><div><a href="https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-12-release-notes-linux/">https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-12-release-notes-linux/</a></div>
+      <h4>Catatan Rilis</h4><div><a href="https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-12-release-notes/">https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Silakan merujuk ke catatan rilis dan ReadMe untuk detailnya</div>

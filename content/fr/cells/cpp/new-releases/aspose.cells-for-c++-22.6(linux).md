@@ -15,7 +15,7 @@ file_size: "File Size: 94.5 MB"
 parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
 
-release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-6-release-notes-linux/"
+release_notes_url: "https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-6-release-notes/"
 weight: 81
 
 ---
@@ -39,7 +39,7 @@ weight: 81
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-6-release-notes-linux/'>https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-6-release-notes-linux/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-6-release-notes/'>https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Veuillez vous référer aux notes de publication et à Readme pour plus de détails</div>

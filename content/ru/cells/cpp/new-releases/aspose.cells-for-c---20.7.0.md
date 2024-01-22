@@ -38,7 +38,7 @@ weight: 55
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Примечания к выпуску</h4><div><a href="https://docs.aspose.com/display/cellscpp/Aspose.Cells+for+CPP+20.7+Release+Notes+Windows">https://docs.aspose.com/display/cellscpp/Aspose.Cells+for+CPP+20.7+Release+Notes+Windows</a></div><h4>Описание</h4><div class="HTMLDescription">Подробную информацию см. в примечаниях к выпуску и ReadMe.</div>
+      <h4>Примечания к выпуску</h4><div><a href="https://releases.aspose.com/cells/cpp/release-notes/2020/aspose-cells-for-cpp-windows-20-7-release-notes/">https://releases.aspose.com/cells/cpp/release-notes/2020/aspose-cells-for-cpp-windows-20-7-release-notes/</a></div><h4>Описание</h4><div class="HTMLDescription">Подробную информацию см. в примечаниях к выпуску и ReadMe.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

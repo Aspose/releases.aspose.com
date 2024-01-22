@@ -14,7 +14,7 @@ download_count: " 5/7/2022 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 60.29MB"
 parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
-release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-7-release-notes-windows/"
+release_notes_url: "https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-windows-22-7-release-notes/"
 weight: 83
 
 ---
@@ -38,7 +38,7 @@ weight: 83
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-7-release-notes-windows/'>https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-7-release-notes-windows/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-windows-22-7-release-notes/'>https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-windows-22-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Ανατρέξτε στο Σημειώσεις έκδοσης and Readme για λεπτομέρειες</div>

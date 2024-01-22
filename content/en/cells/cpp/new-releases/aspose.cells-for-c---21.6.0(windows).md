@@ -39,7 +39,7 @@ weight: 58
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-21-6-release-notes-windows/">https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-21-6-release-notes-windows/</a></div><h4>Description</h4><div class="HTMLDescription">Please refer to release notes and ReadMe for detail</div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/cells/cpp/release-notes/2021/aspose-cells-for-cpp-windows-21-6-release-notes/">https://releases.aspose.com/cells/cpp/release-notes/2021/aspose-cells-for-cpp-windows-21-6-release-notes/</a></div><h4>Description</h4><div class="HTMLDescription">Please refer to release notes and ReadMe for detail</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

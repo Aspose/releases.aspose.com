@@ -39,7 +39,7 @@ weight: 53
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/cellscpp/Aspose.Cells+for+CPP+19.11+Release+Notes">https://docs.aspose.com/display/cellscpp/Aspose.Cells+for+CPP+19.11+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Einzelheiten finden Sie in den Versionshinweisen und in der ReadMe</div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/cells/cpp/release-notes/2019/aspose-cells-for-cpp-19-11-release-notes/">https://releases.aspose.com/cells/cpp/release-notes/2019/aspose-cells-for-cpp-19-11-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Einzelheiten finden Sie in den Versionshinweisen und in der ReadMe</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

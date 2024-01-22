@@ -16,7 +16,7 @@ parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
 
 tags: ["C++", "Excel", "Aspose.Cells"]
-release_notes_url: "https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-8-release-notes-linux/"
+release_notes_url: "https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-8-release-notes/"
 weight: 84
 
 ---
@@ -40,7 +40,7 @@ weight: 84
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-8-release-notes-linux/'>https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-8-release-notes-linux/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-8-release-notes/'>https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">请参阅发行笔记和读书信息以获取详细信息</div>
