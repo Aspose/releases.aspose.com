@@ -39,7 +39,7 @@ weight: 47
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/cellsandroid/Aspose.Cells+for+Android+8.1.1+Release+Notes">http://www.aspose.com/docs/display/cellsandroid/Aspose.Cells+for+Android+8.1.1+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/cells/androidjava/release-notes/">https://releases.aspose.com/cells/androidjava/release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

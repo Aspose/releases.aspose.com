@@ -15,7 +15,7 @@ file_size: "File Size: 10.44MB"
 parent_path: "cells/androidjava"
 section_parent_path: "cells/androidjava"
 
-release_notes_url: "https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-22-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/androidjava/release-notes/2022/aspose-cells-for-android-via-java-22-6-release-notes/"
 weight: 81
 
 ---
@@ -39,7 +39,7 @@ weight: 81
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-22-6-release-notes/'>https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-22-6-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/cells/androidjava/release-notes/2022/aspose-cells-for-android-via-java-22-6-release-notes/'>https://releases.aspose.com/cells/androidjava/release-notes/2022/aspose-cells-for-android-via-java-22-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi aspose.cells untuk Android melalui rilis Java 22.6.</div>

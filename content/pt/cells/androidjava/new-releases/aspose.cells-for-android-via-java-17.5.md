@@ -38,7 +38,7 @@ weight: 59
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de versão</h4><div><a href="https://docs.aspose.com/display/cellsjava/Aspose.Cells+for+Android+via+Java+17.5+Release+Notes">https://docs.aspose.com/display/cellsjava/Aspose.Cells+for+Android+via+Java+17.5+Release+Notes</a></div>
+      <h4>Notas de versão</h4><div><a href="https://releases.aspose.com/cells/androidjava/release-notes/2017/aspose-cells-for-android-via-java-17-5-release-notes/">https://releases.aspose.com/cells/androidjava/release-notes/2017/aspose-cells-for-android-via-java-17-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

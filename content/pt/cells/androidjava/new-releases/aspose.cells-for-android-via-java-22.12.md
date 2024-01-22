@@ -35,7 +35,7 @@ weight: 83
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de versão</h4><div><a href="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-22-12-release-notes/">https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-22-12-release-notes/</a></div>
+      <h4>Notas de versão</h4><div><a href="https://releases.aspose.com/cells/androidjava/release-notes/2022/aspose-cells-for-android-via-java-22-12-release-notes/">https://releases.aspose.com/cells/androidjava/release-notes/2022/aspose-cells-for-android-via-java-22-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Ele contém Aspose.Cells for Android via Java versão 22.12.</div>

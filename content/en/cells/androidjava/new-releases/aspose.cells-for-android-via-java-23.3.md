@@ -14,7 +14,7 @@ download_count: " 9/3/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 10.63MB"
 parent_path: "cells/androidjava"
 section_parent_path: "cells/androidjava"
-release_notes_url: "https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-23-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/androidjava/release-notes/2023/aspose-cells-for-android-via-java-23-3-release-notes/"
 weight: 84
 
 ---
@@ -38,7 +38,7 @@ weight: 84
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-23-3-release-notes/'>https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-23-3-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/androidjava/release-notes/2023/aspose-cells-for-android-via-java-23-3-release-notes/'>https://releases.aspose.com/cells/androidjava/release-notes/2023/aspose-cells-for-android-via-java-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for Android via Java 23.3 release.</div>

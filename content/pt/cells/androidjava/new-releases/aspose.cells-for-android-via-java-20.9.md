@@ -39,7 +39,7 @@ weight: 73
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-20-9-release-notes/">https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-20-9-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href="https://releases.aspose.com/cells/androidjava/release-notes/2020/aspose-cells-for-android-via-java-20-9-release-notes/">https://releases.aspose.com/cells/androidjava/release-notes/2020/aspose-cells-for-android-via-java-20-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

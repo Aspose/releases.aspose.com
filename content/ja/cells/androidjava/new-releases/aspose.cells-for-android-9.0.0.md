@@ -38,7 +38,7 @@ weight: 57
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href="http://www.aspose.com/docs/display/cellsandroid/Aspose.Cells+for+Android+9.0.0+Release+Notes">http://www.aspose.com/docs/display/cellsandroid/Aspose.Cells+for+Android+9.0.0+Release+Notes</a></div>
+      <h4>リリースノート</h4><div><a href="https://releases.aspose.com/cells/androidjava/release-notes/2016/aspose-cells-for-android-via-java-9-0-0-release-notes/">https://releases.aspose.com/cells/androidjava/release-notes/2016/aspose-cells-for-android-via-java-9-0-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

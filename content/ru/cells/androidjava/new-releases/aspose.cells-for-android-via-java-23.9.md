@@ -16,7 +16,7 @@ parent_path: "cells/androidjava"
 section_parent_path: "cells/androidjava"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/androidjava/release-notes/2023/aspose-cells-for-android-via-java-23-9-release-notes/"
 weight: 86
 
 ---
@@ -40,7 +40,7 @@ weight: 86
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-23-9-release-notes/'>https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-23-9-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/cells/androidjava/release-notes/2023/aspose-cells-for-android-via-java-23-9-release-notes/'>https://releases.aspose.com/cells/androidjava/release-notes/2023/aspose-cells-for-android-via-java-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.cells для выпуска Java 23.9.</div>
