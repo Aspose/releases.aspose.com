@@ -40,7 +40,7 @@ tags: ['XLS-to-PDF', 'XLS-to-XLSX', 'XLS-to-XPS', 'XLSX-to-DOCX', 'XLSX-to-HTML'
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://docs.aspose.com/cells/jasperreports/aspose-cells-for-jasperreports-20-12-release-notes/">https://docs.aspose.com/cells/jasperreports/aspose-cells-for-jasperreports-20-12-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/cells/jasperreports/release-notes/2020/aspose-cells-for-jasperreports-20-12-release-notes/">https://releases.aspose.com/cells/jasperreports/release-notes/2020/aspose-cells-for-jasperreports-20-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
