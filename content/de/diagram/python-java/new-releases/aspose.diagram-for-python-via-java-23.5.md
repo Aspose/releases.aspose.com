@@ -14,7 +14,7 @@ download_count: " 11/5/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 3.3MB"
 parent_path: "diagram/python-java"
 section_parent_path: "diagram/python-java"
-release_notes_url: "https://docs.aspose.com/diagram/python-java/aspose-diagram-for-python-via-java-23-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/python-java/release-notes/2023/aspose-diagram-for-python-via-java-23-5-release-notes/"
 weight: 21
 
 ---
@@ -38,7 +38,7 @@ weight: 21
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/diagram/python-java/aspose-diagram-for-python-via-java-23-5-release-notes/'>https://docs.aspose.com/diagram/python-java/aspose-diagram-for-python-via-java-23-5-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/diagram/python-java/release-notes/2023/aspose-diagram-for-python-via-java-23-5-release-notes/'>https://releases.aspose.com/diagram/python-java/release-notes/2023/aspose-diagram-for-python-via-java-23-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">ASSOSE.DIGRAMM für Python über Java 23.5</div>

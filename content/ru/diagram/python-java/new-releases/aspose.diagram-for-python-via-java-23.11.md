@@ -16,7 +16,7 @@ parent_path: "diagram/python-java"
 section_parent_path: "diagram/python-java"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/diagram/python-java/aspose-diagram-for-python-via-java-23-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/python-java/release-notes/2023/aspose-diagram-for-python-via-java-23-11-release-notes/"
 weight: 27
 
 ---
@@ -40,7 +40,7 @@ weight: 27
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/diagram/python-java/aspose-diagram-for-python-via-java-23-11-release-notes/'>https://docs.aspose.com/diagram/python-java/aspose-diagram-for-python-via-java-23-11-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/diagram/python-java/release-notes/2023/aspose-diagram-for-python-via-java-23-11-release-notes/'>https://releases.aspose.com/diagram/python-java/release-notes/2023/aspose-diagram-for-python-via-java-23-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Aspose.diagram для Python через Java 23.11</div>

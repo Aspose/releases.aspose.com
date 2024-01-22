@@ -14,7 +14,7 @@ download_count: " 11/1/2023 Descargars: 1  Views: 1 "
 file_size: "File Size: 3.29MB"
 parent_path: "diagram/python-java"
 section_parent_path: "diagram/python-java"
-release_notes_url: "https://docs.aspose.com/diagram/python-java/aspose-diagram-for-python-via-java-23-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/python-java/release-notes/2023/aspose-diagram-for-python-via-java-23-1-release-notes/"
 weight: 17
 
 ---
@@ -38,7 +38,7 @@ weight: 17
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://docs.aspose.com/diagram/python-java/aspose-diagram-for-python-via-java-23-1-release-notes/'>https://docs.aspose.com/diagram/python-java/aspose-diagram-for-python-via-java-23-1-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/diagram/python-java/release-notes/2023/aspose-diagram-for-python-via-java-23-1-release-notes/'>https://releases.aspose.com/diagram/python-java/release-notes/2023/aspose-diagram-for-python-via-java-23-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Aspose.diagram para Python a través de Java 23.1</div>

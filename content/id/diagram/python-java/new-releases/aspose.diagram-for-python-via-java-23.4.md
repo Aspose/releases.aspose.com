@@ -14,7 +14,7 @@ download_count: " 14/4/2023 Unduhs: 1  Views: 1 "
 file_size: "File Size: 3.3MB"
 parent_path: "diagram/python-java"
 section_parent_path: "diagram/python-java"
-release_notes_url: "https://docs.aspose.com/diagram/python-java/aspose-diagram-for-python-via-java-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/python-java/release-notes/2023/aspose-diagram-for-python-via-java-23-4-release-notes/"
 weight: 20
 
 ---
@@ -38,7 +38,7 @@ weight: 20
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://docs.aspose.com/diagram/python-java/aspose-diagram-for-python-via-java-23-4-release-notes/'>https://docs.aspose.com/diagram/python-java/aspose-diagram-for-python-via-java-23-4-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/diagram/python-java/release-notes/2023/aspose-diagram-for-python-via-java-23-4-release-notes/'>https://releases.aspose.com/diagram/python-java/release-notes/2023/aspose-diagram-for-python-via-java-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Aspose.diagram untuk Python via Java 23.4</div>

@@ -14,7 +14,7 @@ download_count: " 12/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 3.28MB"
 parent_path: "diagram/python-java"
 section_parent_path: "diagram/python-java"
-release_notes_url : "https://docs.aspose.com/diagram/python-java/aspose-diagram-for-python-via-java-22-10-release-notes/"
+release_notes_url : "https://releases.aspose.com/diagram/python-java/release-notes/2022/aspose-diagram-for-python-via-java-22-10-release-notes/"
 weight: 14
 
 ---
@@ -38,7 +38,7 @@ weight: 14
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div> <a href='https://docs.aspose.com/diagram/python-java/aspose-diagram-for-python-via-java-22-10-release-notes/'>https://docs.aspose.com/diagram/python-java/aspose-diagram-for-python-via-java-22-10-release-notes/</a></div>
+      <h4>Notes de version</h4><div> <a href='https://releases.aspose.com/diagram/python-java/release-notes/2022/aspose-diagram-for-python-via-java-22-10-release-notes/'>https://releases.aspose.com/diagram/python-java/release-notes/2022/aspose-diagram-for-python-via-java-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription"> Aspose.Diagram pour Python via Java 22.10</div>
