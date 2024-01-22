@@ -39,7 +39,7 @@ weight: 462
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lanzamiento</h4><div> <a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-2-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-2-release-notes/</a></div>
+<h4>Notas de lanzamiento</h4><div> <a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-2-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-2-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -71,7 +71,7 @@ diagram.Save(dataDir + "SplitMultiPages.pdf", options);
 
 Anteriormente, en algunos casos, las líneas de borde de la tabla dentro del formato `VSDX` faltaban en la conversión al formato `PNG`.
 
-> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Diagram for .NET 22.2 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-2-release-notes/).
+> Para obtener una lista completa de funciones, mejoras y correcciones de errores en esta versión, visite [Aspose.Diagram for .NET 22.2 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

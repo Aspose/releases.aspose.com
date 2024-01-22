@@ -40,7 +40,7 @@ weight: 464
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Catatan Rilis</h4><div> <a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-3-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-3-release-notes/</a></div>
+<h4>Catatan Rilis</h4><div> <a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-3-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-3-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -56,7 +56,7 @@ Dalam rilis API sebelumnya dalam beberapa kasus saat mengonversi Visio® ke form
 
 Pengecualian yang dilemparkan saat diagram Visio® diekspor ke format HTML, kini telah diselesaikan.
 
-> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Diagram for .NET 22.3 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-3-release-notes/).
+> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Diagram for .NET 22.3 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -40,7 +40,7 @@ weight: 460
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Σημειώσεις έκδοσης</h4><div> <a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-1-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-1-release-notes/</a></div>
+<h4>Σημειώσεις έκδοσης</h4><div> <a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-1-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-1-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -64,7 +64,7 @@ weight: 460
 
 Δυνατότητα αποθήκευσης διαγραμμάτων Visio® σε HTML με ή χωρίς τους ενσωματωμένους πόρους.
 
-> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Diagram for .NET 22.1 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-1-release-notes/).
+> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Diagram for .NET 22.1 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

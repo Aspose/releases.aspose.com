@@ -36,7 +36,7 @@ weight: 466
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div> <a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-4-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-4-release-notes/</a></div>
+<h4>Sürüm notları</h4><div> <a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-4-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-4-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -60,7 +60,7 @@ Visio'dan SVG biçimine dönüştürme sırasında metin konumunun daha iyi işl
 
 API'nin bu sürümünde, VSDX'ten PNG'ye dönüştürme işlemi sırasında tablo ve radyo düğmelerinin oluşturulmasındaki biçimlendirme sorunları çözüldü.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Diagram for .NET 22.4 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-4-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Diagram for .NET 22.4 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-4-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -39,7 +39,7 @@ weight: 450
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-21-8-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-21-8-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/diagram/net/release-notes/2021/aspose-diagram-for-net-21-8-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2021/aspose-diagram-for-net-21-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

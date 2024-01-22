@@ -40,7 +40,7 @@ weight: 464
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Примечания к выпуску</h4><div> <a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-3-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-3-release-notes/</a></div>
+<h4>Примечания к выпуску</h4><div> <a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-3-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-3-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -56,7 +56,7 @@ weight: 464
 
 Исключение, возникавшее при экспорте схемы Visio® в формат HTML, теперь устранено.
 
-> Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.Diagram for .NET 22.3 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-3-release-notes/).
+> Полный список функций, улучшений и исправлений ошибок в этом выпуске можно найти на странице [Aspose.Diagram for .NET 22.3 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

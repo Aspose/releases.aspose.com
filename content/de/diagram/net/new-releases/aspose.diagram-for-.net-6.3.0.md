@@ -39,7 +39,7 @@ weight: 324
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href="http://www.aspose.com/docs/display/diagramnet/Aspose.Diagram+for+.NET+6.3.0+Release+Notes">http://www.aspose.com/docs/display/diagramnet/Aspose.Diagram+for+.NET+6.3.0+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Diagram für die Version .NET 6.3.0.</div>
+      <h4>Versionshinweise</h4><div><a href="https://releases.aspose.com/diagram/net/release-notes/2016/aspose-diagram-for-net-6-3-0-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2016/aspose-diagram-for-net-6-3-0-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Diagram für die Version .NET 6.3.0.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -14,7 +14,7 @@ download_count: " 22/1/2019 Downloads: 51  Views: 52 "
 file_size: "File Size: 16.56MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
-release_notes_url: "https://docs.aspose.com/display/diagramnet/Aspose.Diagram+for+.NET+19.1+Release+Notes"
+release_notes_url: "https://releases.aspose.com/diagram/net/release-notes/2019/aspose-diagram-for-net-19-1-release-notes/"
 weight: 388
 
 ---
@@ -38,7 +38,7 @@ weight: 388
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/display/diagramnet/Aspose.Diagram+for+.NET+19.1+Release+Notes'>https://docs.aspose.com/display/diagramnet/Aspose.Diagram+for+.NET+19.1+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/net/release-notes/2019/aspose-diagram-for-net-19-1-release-notes/'>https://releases.aspose.com/diagram/net/release-notes/2019/aspose-diagram-for-net-19-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.Diagram for .NET assemblies. The assembli...</div>

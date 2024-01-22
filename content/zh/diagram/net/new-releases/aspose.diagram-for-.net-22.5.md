@@ -36,7 +36,7 @@ weight: 468
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-5-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-5-release-notes/</a></div>
+<h4>发行说明</h4><div><a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-5-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -56,7 +56,7 @@ weight: 468
 
 在将 VSDX 转换为 PDF 过程中，在某些情况下，表格中的文本会被删除。此问题现已修复。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Diagram for .NET 22.5 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-5-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Diagram for .NET 22.5 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-5-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

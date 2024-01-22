@@ -40,7 +40,7 @@ weight: 464
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Notes de version</h4><div> <a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-3-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-3-release-notes/</a></div>
+<h4>Notes de version</h4><div> <a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-3-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-3-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -56,7 +56,7 @@ Dans les versions précédentes de l'API, dans certaines instances, lors de la c
 
 L'exception qui était levée lors de l'exportation d'un diagramme Visio® au format HTML est maintenant résolue.
 
-> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Diagram for .NET 22.3 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-3-release-notes/).
+> Pour une liste complète des fonctionnalités, améliorations et corrections de bogues de cette version, veuillez consulter [Aspose.Diagram for .NET 22.3 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

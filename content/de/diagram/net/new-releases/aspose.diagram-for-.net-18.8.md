@@ -39,7 +39,7 @@ weight: 377
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/diagramnet/Aspose.Diagram+for+.NET+18.8+Release+Notes">https://docs.aspose.com/display/diagramnet/Aspose.Diagram+for+.NET+18.8+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/diagram/net/release-notes/2018/aspose-diagram-for-net-18-8-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2018/aspose-diagram-for-net-18-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

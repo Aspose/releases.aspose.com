@@ -14,7 +14,7 @@ file_size: "File Size: 12.89MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
 
-release_notes_url: "https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-7-release-notes/"
 weight: 472
 ---
 
@@ -37,7 +37,7 @@ weight: 472
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lançamento</h4><div> <a href='https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-7-release-notes/'>https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-7-release-notes/</a></div>
+<h4>Notas de lançamento</h4><div> <a href='https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-7-release-notes/'>https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -51,7 +51,7 @@ Esta versão oferece várias melhorias no tratamento da conversão SVG. Agora o 
 
 Também anteriormente algumas formas curvas estavam perdendo sua curva após serem convertidas para o formato vetorial SVG. Este problema já foi resolvido.
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Diagram for .NET 22.7 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-7-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Diagram for .NET 22.7 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

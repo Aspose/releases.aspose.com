@@ -16,7 +16,7 @@ parent_path: "diagram/net"
 section_parent_path: "diagram/net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/diagram/net/aspose-diagram-for-net-23-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/net/release-notes/2023/aspose-diagram-for-net-23-11-release-notes/"
 weight: 504
 
 ---
@@ -40,7 +40,7 @@ weight: 504
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://docs.aspose.com/diagram/net/aspose-diagram-for-net-23-11-release-notes/'>https://docs.aspose.com/diagram/net/aspose-diagram-for-net-23-11-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/diagram/net/release-notes/2023/aspose-diagram-for-net-23-11-release-notes/'>https://releases.aspose.com/diagram/net/release-notes/2023/aspose-diagram-for-net-23-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">MSI pour Aspose.Diagram pour .net 23.11</div>

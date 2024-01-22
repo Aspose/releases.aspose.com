@@ -40,7 +40,7 @@ weight: 464
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>リリースノート</h4><div><a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-3-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-3-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-3-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-3-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -56,7 +56,7 @@ API の以前のリリースでは、一部のインスタンスで Visio® を 
 
 Visio® ダイアグラムを HTML 形式にエクスポートするときにスローされていた例外が解決されました。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Diagram for .NET 22.3 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-3-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Diagram for .NET 22.3 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-3-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

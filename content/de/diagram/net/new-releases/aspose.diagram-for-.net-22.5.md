@@ -36,7 +36,7 @@ weight: 468
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-5-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-5-release-notes/</a></div>
+<h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-5-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -56,7 +56,7 @@ Formel-/Wertfelder wurden nicht korrekt aktualisiert. Dieses Problem wurde in de
 
 Während der Konvertierung von VSDX in PDF wurde in einigen Fällen der in der Tabelle vorhandene Text entfernt. Dieses Problem ist jetzt behoben.
 
-> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Diagram for .NET 22.5 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-5-release-notes/).
+> Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter [Aspose.Diagram for .NET 22.5 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-5-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

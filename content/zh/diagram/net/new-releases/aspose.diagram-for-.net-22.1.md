@@ -40,7 +40,7 @@ weight: 460
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>发行说明</h4><div><a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-1-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-1-release-notes/</a></div>
+<h4>发行说明</h4><div><a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-1-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-1-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -64,7 +64,7 @@ weight: 460
 
 能够将 Visio® 图表保存为 HTML，无论是否包含嵌入式资源。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Diagram for .NET 22.1 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-1-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Diagram for .NET 22.1 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-1-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

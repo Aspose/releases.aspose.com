@@ -40,7 +40,7 @@ weight: 464
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Σημειώσεις έκδοσης</h4><div> <a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-3-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-3-release-notes/</a></div>
+<h4>Σημειώσεις έκδοσης</h4><div> <a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-3-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-3-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -56,7 +56,7 @@ weight: 464
 
 Η εξαίρεση που γινόταν κατά την εξαγωγή ενός διαγράμματος Visio® σε μορφή HTML, έχει πλέον επιλυθεί.
 
-> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Diagram for .NET 22.3 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-3-release-notes/).
+> Για μια πλήρη λίστα λειτουργιών, βελτιώσεων και διορθώσεων σφαλμάτων σε αυτήν την έκδοση, επισκεφτείτε τη διεύθυνση [Aspose.Diagram for .NET 22.3 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-3-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

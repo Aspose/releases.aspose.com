@@ -40,7 +40,7 @@ weight: 460
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Sürüm notları</h4><div> <a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-1-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-1-release-notes/</a></div>
+<h4>Sürüm notları</h4><div> <a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-1-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-1-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -64,7 +64,7 @@ HTML'yi tek bir akışa kaydetme desteği eklendi.
 
 Visio® diyagramlarını gömülü kaynaklarla veya bunlar olmadan HTML'ye kaydetme yeteneği.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Diagram for .NET 22.1 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-1-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Diagram for .NET 22.1 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-1-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

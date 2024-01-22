@@ -14,7 +14,7 @@ file_size: "File Size: 12.89MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
 
-release_notes_url: “https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-7-release-notes/”
+release_notes_url: “https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-7-release-notes/”
 weight: 472
 ---
 
@@ -37,7 +37,7 @@ weight: 472
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href='https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-7-release-notes/'>https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-7-release-notes/</a></div>
+<h4>发行说明</h4><div><a href='https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-7-release-notes/'>https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -51,7 +51,7 @@ weight: 472
 
 以前，一些曲线形状在转换为 SVG 矢量格式后也会失去曲线。现在这个问题已经解决了。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Diagram for .NET 22.7 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-7-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Diagram for .NET 22.7 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-7-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

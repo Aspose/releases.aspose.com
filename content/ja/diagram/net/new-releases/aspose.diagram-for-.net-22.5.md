@@ -36,7 +36,7 @@ weight: 468
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-5-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-5-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-5-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-5-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -56,7 +56,7 @@ Visio® VSDX を PDF に変換している間、プログラムが完全に実�
 
 VSDX から PDF への変換プロセス中に、テーブルに存在するテキストが削除される場合がありました。この問題は修正されました。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Diagram for .NET 22.5 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-5-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Diagram for .NET 22.5 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-5-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

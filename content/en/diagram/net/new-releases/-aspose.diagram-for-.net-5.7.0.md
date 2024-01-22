@@ -39,7 +39,7 @@ weight: 312
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href="http://www.aspose.com/docs/display/diagramnet/Aspose.Diagram+for+.NET+5.7.0+Release+Notes">http://www.aspose.com/docs/display/diagramnet/Aspose.Diagram+for+.NET+5.7.0+Release+Notes</a></div>
+      <h4>Release Notes</h4><div><a href="https://releases.aspose.com/diagram/net/release-notes/2015/aspose-diagram-for-net-5-7-0-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2015/aspose-diagram-for-net-5-7-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

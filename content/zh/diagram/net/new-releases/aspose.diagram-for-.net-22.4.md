@@ -36,7 +36,7 @@ weight: 466
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-4-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-4-release-notes/</a></div>
+<h4>发行说明</h4><div><a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-4-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-4-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -60,7 +60,7 @@ weight: 466
 
 在此 API 版本中，解决了 VSDX 到 PNG 转换过程中表格和单选按钮呈现的格式问题。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Diagram for .NET 22.4 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-4-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Diagram for .NET 22.4 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-4-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

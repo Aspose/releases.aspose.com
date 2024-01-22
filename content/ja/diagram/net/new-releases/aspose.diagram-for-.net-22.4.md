@@ -36,7 +36,7 @@ weight: 466
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-4-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-4-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-4-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-4-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -60,7 +60,7 @@ Visio から SVG 形式への変換中のテキスト位置の処理が改善さ
 
 API のこのリリースでは、VSDX から PNG への変換プロセス中のテーブルとラジオ ボタンのレンダリングにおけるフォーマットの問題が解決されました。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Diagram for .NET 22.4 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-4-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Diagram for .NET 22.4 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-4-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

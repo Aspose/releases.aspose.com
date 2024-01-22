@@ -36,7 +36,7 @@ weight: 466
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Notas de lançamento</h4><div> <a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-4-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-4-release-notes/</a></div>
+<h4>Notas de lançamento</h4><div> <a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-4-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-4-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -60,7 +60,7 @@ Melhor manuseio da posição do texto durante a conversão do formato Visio para
 
 Nesta versão da API, os problemas de formatação na renderização da tabela e dos botões de opção durante o processo de conversão de VSDX para PNG foram resolvidos.
 
-> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Diagram for .NET 22.4 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-4-release-notes/).
+> Para obter uma lista completa de recursos, aprimoramentos e correções de bugs nesta versão, visite [Aspose.Diagram for .NET 22.4 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-4-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

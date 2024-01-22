@@ -39,7 +39,7 @@ weight: 462
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>发行说明</h4><div><a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-2-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-2-release-notes/</a></div>
+<h4>发行说明</h4><div><a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-2-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-2-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -71,7 +71,7 @@ diagram.Save(dataDir + "SplitMultiPages.pdf", options);
 
 以前在某些情况下，在转换为 `PNG` 格式时，`VSDX` 格式中的表格边框线会丢失。
 
-> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Diagram for .NET 22.2 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-2-release-notes/)。
+> 有关此版本中的功能、增强功能和错误修复的完整列表，请访问 [Aspose.Diagram for .NET 22.2 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-2-release-notes/)。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

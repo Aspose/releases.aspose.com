@@ -39,7 +39,7 @@ weight: 462
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Sürüm notları</h4><div> <a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-2-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-2-release-notes/</a></div>
+<h4>Sürüm notları</h4><div> <a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-2-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-2-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -71,7 +71,7 @@ diagram.Save(dataDir + "SplitMultiPages.pdf", options);
 
 Önceden bazı durumlarda, "PNG" biçimine dönüştürülürken "VSDX" biçimindeki tablonun sınır çizgileri eksikti.
 
-> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Diagram for .NET 22.2 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-2-release-notes/) adresini ziyaret edin.
+> Bu sürümdeki özelliklerin, geliştirmelerin ve hata düzeltmelerinin tam listesi için lütfen [Aspose.Diagram for .NET 22.2 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-2-release-notes/) adresini ziyaret edin.
 
 {{% /Releases/ReleasesFileFeatures %}}
 

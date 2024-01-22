@@ -39,7 +39,7 @@ weight: 346
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href="https://docs.aspose.com/display/diagramnet/Aspose.Diagram+for+.NET+17.3.0+Release+Notes">https://docs.aspose.com/display/diagramnet/Aspose.Diagram+for+.NET+17.3.0+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href="https://releases.aspose.com/diagram/net/release-notes/2017/aspose-diagram-for-net-17-3-0-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2017/aspose-diagram-for-net-17-3-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -39,7 +39,7 @@ weight: 462
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Catatan Rilis</h4><div> <a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-2-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-2-release-notes/</a></div>
+<h4>Catatan Rilis</h4><div> <a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-2-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-2-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -71,7 +71,7 @@ diagram.Save(dataDir + "SplitMultiPages.pdf", options);
 
 Sebelumnya dalam beberapa kasus, garis batas tabel dalam format `VSDX` hilang pada konversi ke format `PNG`.
 
-> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Diagram for .NET 22.2 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-2-release-notes/).
+> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Diagram for .NET 22.2 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-2-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -40,7 +40,7 @@ weight: 460
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>リリースノート</h4><div><a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-1-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-1-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-1-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-1-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -64,7 +64,7 @@ HTML を単一のストリームに保存するためのサポートが追加さ
 
 埋め込みリソースの有無にかかわらず、Visio® ダイアグラムを HTML に保存する機能。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Diagram for .NET 22.1 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-1-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Diagram for .NET 22.1 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-1-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

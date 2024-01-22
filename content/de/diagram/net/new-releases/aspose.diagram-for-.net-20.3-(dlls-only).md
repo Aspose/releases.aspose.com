@@ -14,7 +14,7 @@ download_count: " 12/3/2020 Downloads: 29  Views: 64 "
 file_size: "File Size: 17.5MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
-release_notes_url: "https://docs.aspose.com/display/diagramnet/Aspose.Diagram+for+.NET+20.3+Release+Notes"
+release_notes_url: "https://releases.aspose.com/diagram/net/release-notes/2020/aspose-diagram-for-net-20-3-release-notes/"
 weight: 416
 
 ---
@@ -38,7 +38,7 @@ weight: 416
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/display/diagramnet/Aspose.Diagram+for+.NET+20.3+Release+Notes'>https://docs.aspose.com/display/diagramnet/Aspose.Diagram+for+.NET+20.3+Release+Notes</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/diagram/net/release-notes/2020/aspose-diagram-for-net-20-3-release-notes/'>https://releases.aspose.com/diagram/net/release-notes/2020/aspose-diagram-for-net-20-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur das Aspose.Diagram für .NET-Assemblys. Die Montage ...</div>

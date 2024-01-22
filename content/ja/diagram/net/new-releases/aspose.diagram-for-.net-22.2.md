@@ -39,7 +39,7 @@ weight: 462
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>リリースノート</h4><div><a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-2-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-2-release-notes/</a></div>
+<h4>リリースノート</h4><div><a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-2-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-2-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -71,7 +71,7 @@ diagram.Save(dataDir + "SplitMultiPages.pdf", options);
 
 以前は、`VSDX` フォーマット内の表の境界線が `PNG` フォーマットへの変換時に欠落していた場合がありました。
 
-> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Diagram for .NET 22.2 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-2-release-notes/) にアクセスしてください。
+> このリリースの機能、拡張機能、バグ修正の完全なリストについては、[Aspose.Diagram for .NET 22.2 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-2-release-notes/) にアクセスしてください。
 
 {{% /Releases/ReleasesFileFeatures %}}
 

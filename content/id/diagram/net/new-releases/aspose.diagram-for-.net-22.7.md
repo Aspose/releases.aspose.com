@@ -14,7 +14,7 @@ file_size: "File Size: 12.89MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
 
-release_notes_url: "https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-7-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-7-release-notes/"
 weight: 472
 ---
 
@@ -37,7 +37,7 @@ weight: 472
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Catatan Rilis</h4><div> <a href='https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-7-release-notes/'>https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-7-release-notes/</a></div>
+<h4>Catatan Rilis</h4><div> <a href='https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-7-release-notes/'>https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-7-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -51,7 +51,7 @@ Rilis ini menawarkan berbagai perbaikan dalam penanganan konversi SVG. Sekarang 
 
 Juga sebelumnya beberapa bentuk melengkung kehilangan kurvanya setelah dikonversi ke format vektor SVG. Masalah ini sekarang telah diselesaikan.
 
-> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Diagram for .NET 22.7 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-7-release-notes/).
+> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Diagram for .NET 22.7 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-7-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

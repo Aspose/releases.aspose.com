@@ -39,7 +39,7 @@ weight: 327
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href="http://www.aspose.com/docs/display/diagramnet/Aspose.Diagram+for+.NET+6.4.0+Release+Notes">http://www.aspose.com/docs/display/diagramnet/Aspose.Diagram+for+.NET+6.4.0+Release+Notes</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur das Aspose.Diagram für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Diagram für .NET ohne das MSI-Installationsprogramm verwenden möchten.</div>
+      <h4>Versionshinweise</h4><div><a href="https://releases.aspose.com/diagram/net/release-notes/2016/aspose-diagram-for-net-6-4-0-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2016/aspose-diagram-for-net-6-4-0-release-notes/</a></div><h4> Beschreibung</h4><div class="HTMLDescription"> Diese ZIP-Datei enthält nur das Aspose.Diagram für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Diagram für .NET ohne das MSI-Installationsprogramm verwenden möchten.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

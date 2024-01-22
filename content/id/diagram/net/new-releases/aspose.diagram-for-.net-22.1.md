@@ -40,7 +40,7 @@ weight: 460
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Catatan Rilis</h4><div> <a href="https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-1-release-notes/">https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-1-release-notes/</a></div>
+<h4>Catatan Rilis</h4><div> <a href="https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-1-release-notes/">https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-1-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -64,7 +64,7 @@ Menambahkan dukungan untuk menyimpan HTML ke satu aliran.
 
 Kemampuan untuk menyimpan diagram Visio® ke HTML dengan atau tanpa sumber daya yang disematkan.
 
-> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Diagram for .NET 22.1 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-1-release-notes/).
+> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Diagram for .NET 22.1 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-1-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

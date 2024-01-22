@@ -14,7 +14,7 @@ download_count: " 16/3/2021 Downloads: 21  Views: 28 "
 file_size: "File Size: 17.96MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
-release_notes_url: "https://docs.aspose.com/diagram/net/aspose-diagram-for-net-21-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/net/release-notes/2021/aspose-diagram-for-net-21-3-release-notes/"
 weight: 441
 
 ---
@@ -38,7 +38,7 @@ weight: 441
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div> <a href='https://docs.aspose.com/diagram/net/aspose-diagram-for-net-21-3-release-notes/'>https://docs.aspose.com/diagram/net/aspose-diagram-for-net-21-3-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div> <a href='https://releases.aspose.com/diagram/net/release-notes/2021/aspose-diagram-for-net-21-3-release-notes/'>https://releases.aspose.com/diagram/net/release-notes/2021/aspose-diagram-for-net-21-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription"> Es enthält Aspose.Diagram für die Version .NET 21.3.1 (nur DLLs).</div>

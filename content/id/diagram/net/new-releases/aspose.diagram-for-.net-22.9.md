@@ -14,7 +14,7 @@ file_size: "File Size: 13.04MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
 
-release_notes_url: "https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-9-release-notes/"
 weight: 476
 ---
 
@@ -38,7 +38,7 @@ weight: 476
 
 {{< Releases/ReleasesFileFeatures >}}
 
-<h4>Catatan Rilis</h4><div> <a href='https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-9-release-notes/'>https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-9-release-notes/</a></div>
+<h4>Catatan Rilis</h4><div> <a href='https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-9-release-notes/'>https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-9-release-notes/</a></div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 
@@ -74,7 +74,7 @@ Diagram diagram = new Diagram(dataDir + "ExportToSVG.vsd");
 diagram.Save(dataDir + "Output.svg", SaveFileFormat.SVG);
 ```
 
-> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Diagram for .NET 22.9 Release Notes](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-22-9-release-notes/).
+> Untuk daftar lengkap fitur, peningkatan, dan perbaikan bug dalam rilis ini, kunjungi [Aspose.Diagram for .NET 22.9 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2022/aspose-diagram-for-net-22-9-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 
