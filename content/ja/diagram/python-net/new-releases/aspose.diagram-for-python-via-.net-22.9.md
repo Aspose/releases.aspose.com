@@ -14,7 +14,7 @@ download_count: " 14/9/2022 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 110.61MB"
 parent_path: "diagram/python-net"
 section_parent_path: "diagram/python-net"
-release_notes_url: "https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/python-net/release-notes/2022/aspose-diagram-for-python-via-net-22-9-release-notes/"
 weight: 3
 
 ---
@@ -38,7 +38,7 @@ weight: 3
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-9-release-notes/'>https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-9-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/diagram/python-net/release-notes/2022/aspose-diagram-for-python-via-net-22-9-release-notes/'>https://releases.aspose.com/diagram/python-net/release-notes/2022/aspose-diagram-for-python-via-net-22-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">.NET 22.9経由のPython用のAsopse.Diagram</div>

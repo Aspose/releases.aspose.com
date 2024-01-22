@@ -14,7 +14,7 @@ file_size: "File Size: 110.62MB"
 parent_path: "diagram/python-net"
 section_parent_path: "diagram/python-net"
 
-release_notes_url: "https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/python-net/release-notes/2022/aspose-diagram-for-python-via-net-22-10-release-notes/"
 weight: 4
 ---
 
@@ -37,7 +37,7 @@ weight: 4
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-10-release-notes/'>https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-10-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/python-net/release-notes/2022/aspose-diagram-for-python-via-net-22-10-release-notes/'>https://releases.aspose.com/diagram/python-net/release-notes/2022/aspose-diagram-for-python-via-net-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via .NET 22.10</div>
@@ -56,7 +56,7 @@ It was observed that a Visio&reg; graphic is being displayed in poor quality whe
 
 In some instances while exporting Visio&reg; digrams to HTML format, the incorporated links were lost. This issue has now been resolved.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Diagram for Python via .NET 22.10 Release Notes](https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-10-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Diagram for Python via .NET 22.10 Release Notes](https://releases.aspose.com/diagram/python-net/release-notes/2022/aspose-diagram-for-python-via-net-22-10-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

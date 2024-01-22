@@ -16,7 +16,7 @@ parent_path: "diagram/python-net"
 section_parent_path: "diagram/python-net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-11-release-notes/"
 weight: 17
 
 ---
@@ -40,7 +40,7 @@ weight: 17
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-11-release-notes/'>https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-11-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-11-release-notes/'>https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Python için aspose.diagram .NET 23.11</div>

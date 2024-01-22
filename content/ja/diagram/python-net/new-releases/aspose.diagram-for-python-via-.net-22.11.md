@@ -14,7 +14,7 @@ file_size: "File Size: 110.66MB"
 parent_path: "diagram/python-net"
 section_parent_path: "diagram/python-net"
 
-release_notes_url: "https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-11-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/python-net/release-notes/2022/aspose-diagram-for-python-via-net-22-11-release-notes/"
 weight: 5
 ---
 
@@ -37,7 +37,7 @@ weight: 5
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-11-release-notes/'>https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-11-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/diagram/python-net/release-notes/2022/aspose-diagram-for-python-via-net-22-11-release-notes/'>https://releases.aspose.com/diagram/python-net/release-notes/2022/aspose-diagram-for-python-via-net-22-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">.NET 22.11を介したPython用のAspose.Diagram</div>
@@ -60,7 +60,7 @@ It was observed that while saving digrams from Visio&reg; `VSDX` to `PDF` via Ap
 
 Previously in some instances while converting flowcharts from Visio&reg; `VSDX` to `SVG` led to lost image. This issue has now been resolved.
 
-> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Diagram for Python via .NET 22.11 リリースノート](https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-11-release-notes/).
+> For a complete list of features, enhancements, and bug fixes in this release please visit, [Aspose.Diagram for Python via .NET 22.11 リリースノート](https://releases.aspose.com/diagram/python-net/release-notes/2022/aspose-diagram-for-python-via-net-22-11-release-notes/).
 
 {{% /Releases/ReleasesFileFeatures %}}
 

@@ -14,7 +14,7 @@ download_count: " 17/4/2023 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 154.14MB"
 parent_path: "diagram/python-net"
 section_parent_path: "diagram/python-net"
-release_notes_url: "https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-4-release-notes/"
 weight: 10
 
 ---
@@ -38,7 +38,7 @@ weight: 10
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-4-release-notes/'>https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-4-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-4-release-notes/'>https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Python için aspose.Diagram 23.4</div>

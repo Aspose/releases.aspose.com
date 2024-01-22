@@ -14,7 +14,7 @@ download_count: " 16/3/2023 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 154.1MB"
 parent_path: "diagram/python-net"
 section_parent_path: "diagram/python-net"
-release_notes_url: "https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-3-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-3-release-notes/"
 weight: 9
 
 ---
@@ -38,7 +38,7 @@ weight: 9
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-3-release-notes/'>https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-3-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-3-release-notes/'>https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.diagram για Python μέσω .NET 23.3</div>

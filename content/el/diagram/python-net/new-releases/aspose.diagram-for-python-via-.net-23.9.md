@@ -16,7 +16,7 @@ parent_path: "diagram/python-net"
 section_parent_path: "diagram/python-net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-9-release-notes/"
 weight: 15
 
 ---
@@ -40,7 +40,7 @@ weight: 15
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-9-release-notes/'>https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-9-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-9-release-notes/'>https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.diagram για την Python μέσω .NET 23.9</div>

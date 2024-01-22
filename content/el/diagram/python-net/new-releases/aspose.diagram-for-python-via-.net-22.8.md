@@ -14,7 +14,7 @@ download_count: " 9/8/2022 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 110.6MB"
 parent_path: "diagram/python-net"
 section_parent_path: "diagram/python-net"
-release_notes_url: "https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/python-net/release-notes/2022/aspose-diagram-for-python-via-net-22-8-release-notes/"
 weight: 2
 
 ---
@@ -38,7 +38,7 @@ weight: 2
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-8-release-notes/'>https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-22-8-release-notes/</a></div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/diagram/python-net/release-notes/2022/aspose-diagram-for-python-via-net-22-8-release-notes/'>https://releases.aspose.com/diagram/python-net/release-notes/2022/aspose-diagram-for-python-via-net-22-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Περιγραφή</h4><div class="HTMLDescription">Aspose.diagram για Python μέσω .NET 22.8</div>

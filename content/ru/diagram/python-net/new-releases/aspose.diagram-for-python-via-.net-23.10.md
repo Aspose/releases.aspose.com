@@ -16,7 +16,7 @@ parent_path: "diagram/python-net"
 section_parent_path: "diagram/python-net"
 
 tags: ""
-release_notes_url: "https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-10-release-notes/"
 weight: 16
 
 ---
@@ -40,7 +40,7 @@ weight: 16
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-10-release-notes/'>https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-10-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-10-release-notes/'>https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Aspose.diagram для Python Via .net 23.10</div>

@@ -14,7 +14,7 @@ download_count: " 21/8/2023 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 179.65MB"
 parent_path: "diagram/python-net"
 section_parent_path: "diagram/python-net"
-release_notes_url: "https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-8-release-notes/"
 weight: 14
 tags: ['Aspose', 'Aspose.Total', 'Aspose.Diagram', 'Python', 'NET', 'Lirary', 'VSD', 'VSDX', 'VSDM', 'VSS', 'VSSM', 'VSSX', 'VST', 'VSTM', 'VSTX', 'VDX', 'VSX', 'VTX', 'HTML', 'PDF', 'XPS', 'SVG', 'TIFF','PNG', 'BMP', 'JPEG', 'GIF', 'EMF','Graphics', 'Image', 'meta', 'metafile', 'Windows', 'Linux', 'PIP']
 ---
@@ -38,7 +38,7 @@ tags: ['Aspose', 'Aspose.Total', 'Aspose.Diagram', 'Python', 'NET', 'Lirary', 'V
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-8-release-notes/'>https://docs.aspose.com/diagram/python-net/aspose-diagram-for-python-via-net-23-8-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-8-release-notes/'>https://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Описание</h4><div class="HTMLDescription">Aspose.diagram для Python Via .net 23.8</div>
