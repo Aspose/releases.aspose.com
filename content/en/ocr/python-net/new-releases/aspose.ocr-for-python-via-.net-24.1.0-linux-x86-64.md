@@ -1,12 +1,12 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.12.1-linux-x86-64"
+title: "Downloads ---New Releases-aspose.ocr-for-python-via-.net-24.1.0-linux-x86-64"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.12.1-linux-x86-64/"
-folder_name: "Aspose.OCR for Python via .NET 23.12.1 Linux x86-64"
-download_link: "/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.12.1-linux-x86-64/e0d664d83ded4c75b983a9bb013cc5ed-82-10178"
+folder_link: "/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-24.1.0-linux-x86-64/"
+folder_name: "Aspose.OCR for Python via .NET 24.1.0 Linux x86-64"
+download_link: "/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-24.1.0-linux-x86-64/e0d664d83ded4c75b983a9bb013cc5ed-82-10178"
 download_text: "Download"
 intro_text: "Fix PDF creation (resolution, search shadow)"
 image_link: "/resources/img/zip-icon.png"
@@ -22,9 +22,9 @@ weight: 44
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.OCR for Python via .NET 23.12.1 Linux x86-64" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.OCR for Python via .NET 24.1.0 Linux x86-64" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.12.1-linux-x86-64/e0d664d83ded4c75b983a9bb013cc5ed-82-10178" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-24.1.0-linux-x86-64/e0d664d83ded4c75b983a9bb013cc5ed-82-10178" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/ocr" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
