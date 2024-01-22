@@ -35,7 +35,7 @@ weight: 19
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href="https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java-22-5-release-notes/">https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java-22-5-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href="https://releases.aspose.com/diagram/nodejs/release-notes/2022/aspose-diagram-for-node-js-via-java-22-5-release-notes/">https://releases.aspose.com/diagram/nodejs/release-notes/2022/aspose-diagram-for-node-js-via-java-22-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

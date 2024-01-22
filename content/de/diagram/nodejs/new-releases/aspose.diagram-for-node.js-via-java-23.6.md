@@ -14,7 +14,7 @@ download_count: " 13/6/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 3.29MB"
 parent_path: "diagram/nodejs"
 section_parent_path: "diagram/nodejs"
-release_notes_url: "https://docs.aspose.com/diagram/nodejsjava/aspose-diagram-for-node-js-via-java-23-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/nodejs/release-notes/2023/aspose-diagram-for-node-js-via-java-23-6-release-notes/"
 weight: 32
 
 ---
@@ -38,7 +38,7 @@ weight: 32
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://docs.aspose.com/diagram/nodejsjava/aspose-diagram-for-node-js-via-java-23-6-release-notes/'>https://docs.aspose.com/diagram/nodejsjava/aspose-diagram-for-node-js-via-java-23-6-release-notes/</a></div>
+      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/diagram/nodejs/release-notes/2023/aspose-diagram-for-node-js-via-java-23-6-release-notes/'>https://releases.aspose.com/diagram/nodejs/release-notes/2023/aspose-diagram-for-node-js-via-java-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Beschreibung</h4><div class="HTMLDescription">ASSOSE.DIAGRAM für node.js über Java 23.6</div>

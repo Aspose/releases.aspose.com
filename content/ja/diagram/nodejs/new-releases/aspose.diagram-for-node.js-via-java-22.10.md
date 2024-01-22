@@ -14,7 +14,7 @@ download_count: " 12/10/2022 Downloads: 1  Views: 1 "
 file_size: "File Size: 3.28MB"
 parent_path: "diagram/nodejs"
 section_parent_path: "diagram/nodejs"
-release_notes_url: "https://docs.aspose.com/diagram/nodejsjava/aspose-diagram-for-node-js-via-java-22-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/diagram/nodejs/release-notes/2022/aspose-diagram-for-node-js-via-java-22-10-release-notes/"
 weight: 24
 
 ---
@@ -38,7 +38,7 @@ weight: 24
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://docs.aspose.com/diagram/nodejsjava/aspose-diagram-for-node-js-via-java-22-10-release-notes/'>https://docs.aspose.com/diagram/nodejsjava/aspose-diagram-for-node-js-via-java-22-10-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/diagram/nodejs/release-notes/2022/aspose-diagram-for-node-js-via-java-22-10-release-notes/'>https://releases.aspose.com/diagram/nodejs/release-notes/2022/aspose-diagram-for-node-js-via-java-22-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">Java 22.10 経由の Node.js 用 Aspose.Diagram</div>
