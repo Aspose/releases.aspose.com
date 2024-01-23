@@ -75,6 +75,8 @@ homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-
 forumLink: https://forum.aspose.com/c/3d/18
 productLink: https://products.aspose.com/3d/java/
 releaseNotesLink: https://releases.aspose.com/3d/java/release-notes/
+enable_ldjson: true
+ldjson_path: "ld_json/en/3d/java/ld-json.html"
 dataFolder: aspose_3d
 packages_refs:
 - "23-12-0"
