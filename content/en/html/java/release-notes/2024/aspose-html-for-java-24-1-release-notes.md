@@ -21,4 +21,4 @@ This page contains release notes for Aspose.HTML for Java 24.1
 
 We are honored to announce the January release of Aspose.HTML for Java.
 
-In this release, we made a big update to the CSS engine.
+In this release, we fixed a bug with the conversion of PDF from HTML.
