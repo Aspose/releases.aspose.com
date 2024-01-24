@@ -3,7 +3,7 @@ id: "aspose-email-for-cpp-23-12-release-notes"
 slug: "aspose-email-for-cpp-23-12-release-notes"
 linktitle: "Aspose.Email for CPP 23.12 Release Notes"
 title: "Aspose.Email for CPP 23.12 Release Notes"
-weight: 30
+weight: 10
 description: "Aspose.Email for CPP 23.12 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
