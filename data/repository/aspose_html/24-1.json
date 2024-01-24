@@ -22,13 +22,13 @@
     "size" : "32 MB",
     "name" : "aspose-html-24.1.jar"
   }, {
-    "size" : "394 bytes",
+    "size" : "423 bytes",
     "name" : "aspose-html-24.1.pom"
   }, {
-    "size" : "145 MB",
+    "size" : "142 MB",
     "name" : "aspose-html-24.1.zip"
   } ],
-  "releasehDate" : "2024-01-19T17:27:52+00:00",
+  "releasehDate" : "2024-01-24T17:12:29+00:00",
   "version" : "24.1",
   "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2024/aspose-html-for-java-24-1-release-notes/"
 }
