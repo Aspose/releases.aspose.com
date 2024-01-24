@@ -16,5 +16,4 @@ This page contains release notes information for Aspose.Drawing for Java 23.12.
 {{% /alert %}}
 ## **Improvements and Changes**
 
-|**Key**|**Summary**|**Category**|
-| :- | :- | :- |
+The initial release of Aspose.Drawing for Java - cross-platform graphic library implementing easy-to-use comprehensive drawing API, including image manipulation, vector and text drawing in fully managed code without any external dependencies.
