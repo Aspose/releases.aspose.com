@@ -3,7 +3,7 @@ id: "aspose-email-for-python-via-net-23-11-release-notes"
 slug: "aspose-email-for-python-via-net-23-11-release-notes"
 linktitle: "Aspose.Email for Python via .NET 23.11 Release Notes"
 title: "Aspose.Email for Python via .NET 23.11 Release Notes"
-weight: 30
+weight: 20
 description: "Aspose.Email for Python via .NET 23.11 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
