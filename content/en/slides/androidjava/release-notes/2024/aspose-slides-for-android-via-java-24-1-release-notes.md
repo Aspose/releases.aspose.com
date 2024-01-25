@@ -38,7 +38,7 @@ try {
     FileInputStream stream = new FileInputStream("document.pdf");
     pres.getSlides().addFromPdf(stream, pdfImportOptions);
 
-    pres.save("fromPdfDocument.pptx", SaveFormat.Pptx);
+    pres.save("output.pptx", SaveFormat.Pptx);
 } catch (IOException e) {
 } finally {
     if (pres != null) pres.dispose();

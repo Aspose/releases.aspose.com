@@ -35,10 +35,10 @@ try {
     var pdfImportOptions = new aspose.slides.PdfImportOptions();
     pdfImportOptions.setDetectTables(true);
 
-    var stream = java.newInstanceSync("java.io.FileInputStream", "C:\\Work\\slides-java\\TestDataNet\\Out\\document.pdf");
+    var stream = java.newInstanceSync("java.io.FileInputStream", "document.pdf");
     pres.getSlides().addFromPdf(stream, pdfImportOptions);
 
-    pres.save("C:\\Work\\slides-java\\TestDataNet\\Out\\fromPdfDocument.pptx", aspose.slides.SaveFormat.Pptx);
+    pres.save("output.pptx", aspose.slides.SaveFormat.Pptx);
 } finally {
     if (pres != null) pres.dispose();
 }

@@ -35,10 +35,10 @@ try {
     $pdfImportOptions = new PdfImportOptions();
     $pdfImportOptions->setDetectTables(true);
 
-    $stream = new Java("java.io.FileInputStream", "C:\\Work\\slides-java\\TestDataNet\\Out\\arts.pdf");
+    $stream = new Java("java.io.FileInputStream", "document.pdf");
     $pres->getSlides()->addFromPdf(java_values($stream), $pdfImportOptions);
 
-    $pres->save("C:\\Work\\slides-java\\TestDataNet\\Out\\fromPdfDocument.pptx", SaveFormat::Pptx);
+    $pres->save("output.pptx", SaveFormat::Pptx);
 } finally {
     if ($pres != null) $pres->dispose();
 }
