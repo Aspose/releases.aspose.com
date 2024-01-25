@@ -31,29 +31,268 @@ menuItemWithNoContent: false
 
 ### Added APIs:
 
-Class    Aspose.Imaging.RemoveBackgroundSettings
+Class    Aspose.Imaging.ImageFilters.ComplexUtils.Complex
 
-Field/Enum    Aspose.Imaging.Xmp.Types.Complex.ComplexTypeBase.VValues
+Class    Aspose.Imaging.ImageFilters.Convolution.ConvolutionFilter
 
-Method    Aspose.Imaging.RemoveBackgroundSettings.#ctor
+Class    Aspose.Imaging.ImageFilters.FilterOptions.GaussianDeconvolutionFilterOptions
 
-Method    Aspose.Imaging.VectorImage.RemoveBackground
+Class    Aspose.Imaging.ImageLoadOptions.CmxLoadOptions
 
-Method    Aspose.Imaging.VectorImage.RemoveBackground(Aspose.Imaging.RemoveBackgroundSettings)
+Field/Enum    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.I
 
-Property    Aspose.Imaging.RemoveBackgroundSettings.Bounds
+Field/Enum    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.One
 
-Property    Aspose.Imaging.RemoveBackgroundSettings.Color1
+Field/Enum    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.SizeOfComplex
 
-Property    Aspose.Imaging.RemoveBackgroundSettings.Color2
+Field/Enum    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.SizeOfDouble
 
-Property    Aspose.Imaging.RemoveBackgroundSettings.DetectionLevel
+Field/Enum    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Zero
+
+Field/Enum    Aspose.Imaging.ImageFilters.FilterOptions.ConvolutionFilterOptions.MinSize
+
+Field/Enum    Aspose.Imaging.ImageFilters.FilterOptions.GaussianBlurFilterOptions.DefaultSigma
+
+Field/Enum    Aspose.Imaging.ImageFilters.FilterOptions.GaussianBlurFilterOptions.DefaultSize
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.#ctor
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.#ctor(System.Double,System.Double)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Add
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Add
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex@)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Add
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,System.Double)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Add
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,System.Double,Aspose.Imaging.ImageFilters.ComplexUtils.Complex@)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.ApproxEqual
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.ApproxEqual
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex,System.Double)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Clone
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Cos
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Divide
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Divide
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex@)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Divide
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,System.Double)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Divide
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,System.Double,Aspose.Imaging.ImageFilters.ComplexUtils.Complex@)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Divide
+(System.Double,Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Divide
+(System.Double,Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex@)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Equals
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Equals(System.Object)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Exp
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.GetHashCode
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Log
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Multiply
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Multiply
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex@)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Multiply
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,System.Double)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Multiply
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,System.Double,Aspose.Imaging.ImageFilters.ComplexUtils.Complex@)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Negate
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.op_Addition
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.op_Addition
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,System.Double)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.op_Addition
+(System.Double,Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.op_Division
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.op_Division
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,System.Double)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.op_Division
+(System.Double,Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.op_Equality
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.op_Explicit
+(System.Double)~Aspose.Imaging.ImageFilters.ComplexUtils.Complex
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.op_Explicit
+(System.Single)~Aspose.Imaging.ImageFilters.ComplexUtils.Complex
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.op_Inequality
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.op_Multiply
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.op_Multiply
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,System.Double)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.op_Multiply
+(System.Double,Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.op_Subtraction
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.op_Subtraction
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,System.Double)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.op_Subtraction
+(System.Double,Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.op_UnaryNegation
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Parse(System.String)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Sin
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Sqrt
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Subtract
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Subtract
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex@)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Subtract
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,System.Double)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Subtract
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex,System.Double,Aspose.Imaging.ImageFilters.ComplexUtils.Complex@)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Subtract
+(System.Double,Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Subtract
+(System.Double,Aspose.Imaging.ImageFilters.ComplexUtils.Complex,Aspose.Imaging.ImageFilters.ComplexUtils.Complex@)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Tan
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex)
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.ToString
+
+Method    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.TryParse
+(System.String,Aspose.Imaging.ImageFilters.ComplexUtils.Complex@)
+
+Method    Aspose.Imaging.ImageFilters.Convolution.ConvolutionFilter.GetBlurBox(System.Int32)
+
+Method    Aspose.Imaging.ImageFilters.Convolution.ConvolutionFilter.GetBlurMotion
+(System.Int32,System.Double)
+
+Method    Aspose.Imaging.ImageFilters.Convolution.ConvolutionFilter.GetGaussian
+(System.Int32,System.Double)
+
+Method    Aspose.Imaging.ImageFilters.Convolution.ConvolutionFilter.ToComplex(System.Double[0:,0:])
+
+Method    Aspose.Imaging.ImageFilters.FilterOptions.ConvolutionFilterOptions.#ctor
+(System.Double[0:,0:],System.Double,System.Int32)
+
+Method    Aspose.Imaging.ImageFilters.FilterOptions.DeconvolutionFilterOptions.#ctor
+(Aspose.Imaging.ImageFilters.ComplexUtils.Complex[0:,0:])
+
+Method    Aspose.Imaging.ImageFilters.FilterOptions.DeconvolutionFilterOptions.#ctor
+(System.Double[0:,0:])
+
+Method    Aspose.Imaging.ImageFilters.FilterOptions.GaussianDeconvolutionFilterOptions.#ctor
+
+Method    Aspose.Imaging.ImageFilters.FilterOptions.GaussianDeconvolutionFilterOptions.#ctor
+(System.Int32,System.Double)
+
+Method    Aspose.Imaging.ImageLoadOptions.CmxLoadOptions.#ctor
+
+Property    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Im
+
+Property    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Magnitude
+
+Property    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Phase
+
+Property    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.Re
+
+Property    Aspose.Imaging.ImageFilters.ComplexUtils.Complex.SquaredMagnitude
+
+Property    Aspose.Imaging.ImageFilters.Convolution.ConvolutionFilter.Emboss3x3
+
+Property    Aspose.Imaging.ImageFilters.Convolution.ConvolutionFilter.Emboss5x5
+
+Property    Aspose.Imaging.ImageFilters.Convolution.ConvolutionFilter.Sharpen3x3
+
+Property    Aspose.Imaging.ImageFilters.Convolution.ConvolutionFilter.Sharpen5x5
+
+Property    Aspose.Imaging.ImageFilters.FilterOptions.ConvolutionFilterOptions.Kernel
+
+Property    Aspose.Imaging.ImageFilters.FilterOptions.DeconvolutionFilterOptions.Kernel
+
+Property    Aspose.Imaging.ImageFilters.FilterOptions.GaussianBlurFilterOptions.Kernel
+
+Property    Aspose.Imaging.ImageFilters.FilterOptions.GaussianBlurFilterOptions.Size
+
+Property    Aspose.Imaging.ImageFilters.FilterOptions.GaussianDeconvolutionFilterOptions.Radius
+
+Property    Aspose.Imaging.ImageFilters.FilterOptions.GaussianDeconvolutionFilterOptions.Sigma
+
+Property    Aspose.Imaging.ImageFilters.FilterOptions.GaussianDeconvolutionFilterOptions.Size
+
+Property    Aspose.Imaging.ImageFilters.FilterOptions.GaussWienerFilterOptions.Kernel
+
+Property    Aspose.Imaging.ImageFilters.FilterOptions.MotionWienerFilterOptions.Kernel
+
+Property    Aspose.Imaging.ImageFilters.FilterOptions.SharpenFilterOptions.Kernel
+
+Property    Aspose.Imaging.ImageLoadOptions.CdrLoadOptions.OptimalMemoryUsage
+
+Property    Aspose.Imaging.ImageLoadOptions.CmxLoadOptions.OptimalMemoryUsage
 
 
 
 ### Removed APIs:
 
-Field/Enum    Aspose.Imaging.Xmp.Types.Complex.ComplexTypeBase.values
+Property    Aspose.Imaging.ImageFilters.FilterOptions.GaussWienerFilterOptions.Radius
+
+Property    Aspose.Imaging.ImageFilters.FilterOptions.GaussWienerFilterOptions.Smooth
+
+Property    Aspose.Imaging.ImageFilters.FilterOptions.MotionWienerFilterOptions.Length
+
+Property    Aspose.Imaging.ImageFilters.FilterOptions.MotionWienerFilterOptions.Smooth
 
 ## Usage Examples:
 
