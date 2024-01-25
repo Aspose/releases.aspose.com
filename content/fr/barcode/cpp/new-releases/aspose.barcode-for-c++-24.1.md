@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-24.1/"
 folder_name: "Aspose.barcode pour C ++ 24.1"
-download_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-24.1/a38f2c4ee8708f44d617278625aa6260-32-10207"
+download_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-24.1/a38f2c4ee8708f44d617278625aa6260-32-10211"
 download_text: "Télécharger"
 intro_text: "Il contient Aspose.barcode pour la version C ++ 24.1."
 image_link: "/resources/img/zip-icon.png"
@@ -24,19 +24,19 @@ weight: 113
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.barcode pour C ++ 24.1" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/barcode/cpp/new-releases/aspose.barcode-for-c++-24.1/a38f2c4ee8708f44d617278625aa6260-32-10207" >}}
+    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/barcode/cpp/new-releases/aspose.barcode-for-c++-24.1/a38f2c4ee8708f44d617278625aa6260-32-10211" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Téléchargers: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-a38f2c4ee8708f44d617278625aa6260-32-10207" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-a38f2c4ee8708f44d617278625aa6260-32-10211" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Taille du fichier: {{< /Common/li >}}
-      {{< Common/li id="size-update-a38f2c4ee8708f44d617278625aa6260-32-10207" >}} 155.64MB {{< /Common/li >}}
+      {{< Common/li id="size-update-a38f2c4ee8708f44d617278625aa6260-32-10211" >}} 155.64MB {{< /Common/li >}}
 
       {{< Common/li >}} date ajoutée: {{< /Common/li >}}
-      {{< Common/li id="added-update-a38f2c4ee8708f44d617278625aa6260-32-10207" >}}25/1/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-a38f2c4ee8708f44d617278625aa6260-32-10211" >}}25/1/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
