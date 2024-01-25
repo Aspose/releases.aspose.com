@@ -3,13 +3,16 @@
   "artifactId" : "aspose-barcode",
   "id" : "24-1",
   "packageFiles" : [ {
+    "size" : "13 MB",
+    "name" : "aspose-barcode-24.1-java.zip"
+  }, {
     "size" : "14 MB",
     "name" : "aspose-barcode-24.1.jar"
   }, {
-    "size" : "397 bytes",
+    "size" : "426 bytes",
     "name" : "aspose-barcode-24.1.pom"
   } ],
-  "releasehDate" : "2024-01-25T15:37:52+00:00",
+  "releasehDate" : "2024-01-25T15:41:09+00:00",
   "version" : "24.1",
   "ReleaseNotes" : "https://releases.aspose.com/barcode/java/release-notes/2024/aspose-barcode-for-java-24-1-release-notes/"
 }
