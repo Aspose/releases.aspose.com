@@ -17,6 +17,8 @@ This page contains release notes for [Aspose.Slides for Python via .NET 24.1](ht
 {{% /alert %}} 
 
 ## New Features and Enhancements
+|**Key**|**Summary**|**Category**|**Related Documentation**|
+| :- | :- | :- | :- |
 |SLIDESNET-44348|4.5 MB ODP file after conversion to PDF becomes 500+ MB|Enhancement|<https://docs.aspose.com/slides/python-net/convert-powerpoint-to-pdf/>|
 |SLIDESNET-43871|Individual text boxes are generated when importing PDF to PPTX|Enhancement| |
 |SLIDESNET-43561|Embedded fonts render incorrectly in Linux|Enhancement|<https://docs.aspose.com/slides/python-net/convert-powerpoint-to-jpg/>|
