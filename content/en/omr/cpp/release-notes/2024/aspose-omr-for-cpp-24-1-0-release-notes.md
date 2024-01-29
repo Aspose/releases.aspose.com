@@ -1,18 +1,24 @@
 ---
-weight: 1
-id: "aspose-omr-for-cpp-latest-release-notes"
-slug: "latest"
 date: "2024-01-25"
+id: "aspose-omr-for-cpp-24-1-0-release-notes"
+slug: "aspose-omr-for-cpp-24-1-0-release-notes"
+linktitle: "Aspose.OMR for C++ 24.1.0 - Release Notes"
+title: "Aspose.OMR for C++ 24.1.0 - Release Notes"
 author: "Vladimir Lapin"
+weight: 71
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for C++ 24.1.0 (January 2024) release."
 type: "repository"
 layout: "release"
-title: Latest release (January 2023)
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OMR for C++.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OMR for C++ 24.1.0 - Release Notes"
 keywords:
-- latest
-- new
-- release
-- changelog
+- "2024"
+- "January"
+- "new"
+- "release"
+- "changelog"
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}} 
