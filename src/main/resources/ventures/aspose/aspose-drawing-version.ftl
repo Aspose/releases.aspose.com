@@ -1,5 +1,5 @@
 ---
-title: Aspose.Diagram ${productVersion} | Visio Diagram Java High Code API
+title: Aspose.Drawing ${productVersion} | Draw 2D graphics and text via Java Library
 linktitle: Aspose.Drawing ${productVersion}
 description: Java library to render vector graphics such as lines, curves, and figures as well as text in a variety of fonts, sizes, and styles onto raster images.
 layout: package
