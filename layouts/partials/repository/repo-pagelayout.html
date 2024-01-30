@@ -37,10 +37,14 @@
                                     <!-- <img class="package-icon img-responsive" aria-hidden="true" alt=""
                                        src="/res_repo/img/groupdocs{{ lower (replace  (replace  $.context.RelPermalink "/" "_") "_java_" "-for-java") }}.png" />
                                     -->
-                                    <!-- @am modified fix path for multilingual -->
+                                    {{ if $.context.Page.IsTranslated }}
+                                      {{$lang := print "/" $.context.Language.Params.languageCode}}
+                                         <img class="package-icon img-responsive" aria-hidden="true" alt=""
+                                            src="/res_repo/img/aspose{{ lower (replace (replace (replace  $.context.RelPermalink $lang "") "/" "_") "_java_" "-for-java") }}.png" />
+                                    {{ else }}
                                     <img class="package-icon img-responsive" aria-hidden="true" alt=""
                                        src="/res_repo/img/aspose{{ lower (replace  (replace  $.context.RelPermalink "/" "_") "_java_" "-for-java") }}.png" />
-                                    <!-- @am /modified fix path for multilingual -->
+                                    {{ end }}
                                     </span>
 
                                     <span class="title" tabindex="0">

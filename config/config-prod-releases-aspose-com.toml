@@ -67,14 +67,14 @@ defaultContentLang = 'en'
       languageCode = "el"
       flag = "flag-gr"
       weight = 8
-      menuCode = "aspose-gr"
+      menuCode = "aspose-el"
     [languages.es]
       contentDir = 'content/es'
       languageName = "Español"
       languageCode = "es"
       flag = "flag-es"
       weight = 9
-      menuCode = "aspose-pt"
+      menuCode = "aspose-es"
     [languages.id]
       contentDir = 'content/id'
       languageName = "Indonesia"
