@@ -42,6 +42,7 @@ This page contains release notes information for Aspose.PDF for Java 24.1.
 |PDFJAVA-42564|Inquiries on PDF fonts embedding|Bug|
 |PDFJAVA-42583|Annotating the PDF corrupts text in Adobe Acrobat|Bug|
 |PDFJAVA-40866|Redaction area is not correct|Bug|
+|PDFJAVA-36946|The text has slightly moved down after flattening document.|Bug|
 
 
 ## **Public API and Backwards Incompatible Changes**
