@@ -26,7 +26,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 24.1](ht
 ## Other Improvements and Changes
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
-|SLIDESPYNET-155|[Use Aspose.Slides for Net 24.1 features](/slides/net/release-notes/2024/aspose-slides-for-net-24-1-release-notes/)|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-1-release-notes/>|
+|SLIDESPYNET-155|Use Aspose.Slides for Net 24.1 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-1-release-notes/>|
 |SLIDESPYNET-143|Presentation becomes corrupted after the font is embedded|Bug| |
 
 ## Public API Changes
