@@ -12,10 +12,14 @@
     "name" : "aspose-pdf-24.1-jdk17.jar",
     "classifier" : "jdk17"
   }, {
+    "size" : "77 MB",
+    "name" : "aspose-pdf-24.1-tomee.jar",
+    "classifier" : "tomee"
+  }, {
     "size" : "452 bytes",
     "name" : "aspose-pdf-24.1.pom"
   } ],
-  "releasehDate" : "2024-01-31T00:18:29+00:00",
+  "releasehDate" : "2024-01-31T01:27:29+00:00",
   "version" : "24.1",
   "ReleaseNotes" : "https://releases.aspose.com/pdf/java/release-notes/2024/aspose-pdf-for-java-24-1-release-notes/"
 }
