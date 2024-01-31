@@ -99,14 +99,14 @@ The following table indicates the file formats that Aspose.Page for Python can l
 
 |**Format**|**Description**|**Load**|**XPS Save**|**EPS/PS Save**|**Remarks**|
 | :- | :- | :- | :- | :- | :- |
-|[XPS](https://docs.fileformat.com/page-description-language/xps/)|XML Paper Specification File|**Yes**|**Yes**|**No**|†|
-|[EPS](https://docs.fileformat.com/page-description-language/eps/)|Encapsulated PostScript File|**Yes**|**No**|**Yes**|†|
-|[PS](https://docs.fileformat.com/page-description-language/ps/)|PostScript File|**Yes**|**No**|**Yes**|†|
-|[PDF](https://docs.fileformat.com/pdf/)|Portable Document Format|**No**|**Yes**|**Yes**|†|
-|[BMP](https://docs.fileformat.com/image/bmp/)|Bitmap Image Format|**No**|**Yes**|**Yes**|†|
-|[TIFF](https://docs.fileformat.com/image/tiff/)|Tagged Image File Format|**No**|**Yes**|**Yes**|†|
-|[JPEG](https://docs.fileformat.com/image/jpeg/)|Image Format|**No**|**Yes**|**Yes**|†|
-|[PNG](https://docs.fileformat.com/image/png/)|Image Format|**No**|**Yes**|**Yes**|†|
+|[XPS](https://docs.fileformat.com/page-description-language/xps/)|XML Paper Specification File|**Yes**|**Yes**|**No**|¬†|
+|[EPS](https://docs.fileformat.com/page-description-language/eps/)|Encapsulated PostScript File|**Yes**|**No**|**Yes**|¬†|
+|[PS](https://docs.fileformat.com/page-description-language/ps/)|PostScript File|**Yes**|**No**|**Yes**|¬†|
+|[PDF](https://docs.fileformat.com/pdf/)|Portable Document Format|**No**|**Yes**|**Yes**|¬†|
+|[BMP](https://docs.fileformat.com/image/bmp/)|Bitmap Image Format|**No**|**Yes**|**Yes**|¬†|
+|[TIFF](https://docs.fileformat.com/image/tiff/)|Tagged Image File Format|**No**|**Yes**|**Yes**|¬†|
+|[JPEG](https://docs.fileformat.com/image/jpeg/)|Image Format|**No**|**Yes**|**Yes**|¬†|
+|[PNG](https://docs.fileformat.com/image/png/)|Image Format|**No**|**Yes**|**Yes**|¬†|
 
 ## Platform Independence
 
@@ -120,7 +120,7 @@ To learn more about **Aspose.Page for Python** and explore the basic requirement
 
 ### Create a PostScript file from scratch in Python
 
-In the next code snippet, we are creating a PS document from scratch containing the text ìHello from Aspose!î. After installing **Aspose.Page for Python** in your environment, you can execute below code sample to see how Aspose.Page API works.
+In the next code snippet, we are creating a PS document from scratch containing the text ‚ÄúHello from Aspose!‚Äù. After installing **Aspose.Page for Python** in your environment, you can execute below code sample to see how Aspose.Page API works.
 
 Below code snippet follows these steps:
 
@@ -157,7 +157,7 @@ document.save()
 
 ### Create an XPS file from scratch in Python
 
-In the next code snippet, we are creating an empty XPS document containing the text ìHello from Aspose!î.
+In the next code snippet, we are creating an empty XPS document containing the text ‚ÄúHello from Aspose!‚Äù.
 
 Below code snippet follows these steps:
 
