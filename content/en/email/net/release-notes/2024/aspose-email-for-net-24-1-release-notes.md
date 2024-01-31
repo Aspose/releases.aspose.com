@@ -21,7 +21,7 @@ This page contains release notes information for Aspose.Email for .NET 24.1
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |EMAILNET-41250|Replace "." on "_" in resource folder name while saving message to html with resources.|Enhancement|
-|EMAILNET-41260|Error when trying to parse relative recurrence rule from ical fileBug|
+|EMAILNET-41260|Error when trying to parse relative recurrence rule from ical file|Bug|
 |EMAILNET-41262|Incorrect reading of UTF-7 encoded emails|Bug|
 |EMAILNET-41248|Attachment Name and Extension is null|Bug|
 |EMAILNET-41247|Wrong MHtml produced from specific MSG file|Bug|
