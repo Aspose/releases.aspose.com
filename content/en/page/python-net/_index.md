@@ -23,6 +23,7 @@ weight: 4
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Page for Python via .NET, The PS, EPS, and XPS files Processing API enables developers to work with PDF documents without relying on Microsoft Office&reg; or Adobe&reg products installed.
 You can easily use Aspose.Page for Python via .NET from  {{< Common/link href="https://pypi.org/project/aspose-page/" text="pip"  >}} with the following command.
+{{< Common/release-notes-link family="page" product="python-net" href="https://releases.aspose.com/page/python-net/release-notes/" text="https://releases.aspose.com/page/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
@@ -99,14 +100,14 @@ The following table indicates the file formats that Aspose.Page for Python can l
 
 |**Format**|**Description**|**Load**|**XPS Save**|**EPS/PS Save**|**Remarks**|
 | :- | :- | :- | :- | :- | :- |
-|[XPS](https://docs.fileformat.com/page-description-language/xps/)|XML Paper Specification File|**Yes**|**Yes**|**No**| |
-|[EPS](https://docs.fileformat.com/page-description-language/eps/)|Encapsulated PostScript File|**Yes**|**No**|**Yes**| |
-|[PS](https://docs.fileformat.com/page-description-language/ps/)|PostScript File|**Yes**|**No**|**Yes**| |
-|[PDF](https://docs.fileformat.com/pdf/)|Portable Document Format|**No**|**Yes**|**Yes**| |
-|[BMP](https://docs.fileformat.com/image/bmp/)|Bitmap Image Format|**No**|**Yes**|**Yes**| |
-|[TIFF](https://docs.fileformat.com/image/tiff/)|Tagged Image File Format|**No**|**Yes**|**Yes**| |
-|[JPEG](https://docs.fileformat.com/image/jpeg/)|Image Format|**No**|**Yes**|**Yes**| |
-|[PNG](https://docs.fileformat.com/image/png/)|Image Format|**No**|**Yes**|**Yes**| |
+|[XPS](https://docs.fileformat.com/page-description-language/xps/)|XML Paper Specification File|**Yes**|**Yes**|**No**|ï¿½|
+|[EPS](https://docs.fileformat.com/page-description-language/eps/)|Encapsulated PostScript File|**Yes**|**No**|**Yes**|ï¿½|
+|[PS](https://docs.fileformat.com/page-description-language/ps/)|PostScript File|**Yes**|**No**|**Yes**|ï¿½|
+|[PDF](https://docs.fileformat.com/pdf/)|Portable Document Format|**No**|**Yes**|**Yes**|ï¿½|
+|[BMP](https://docs.fileformat.com/image/bmp/)|Bitmap Image Format|**No**|**Yes**|**Yes**|ï¿½|
+|[TIFF](https://docs.fileformat.com/image/tiff/)|Tagged Image File Format|**No**|**Yes**|**Yes**|ï¿½|
+|[JPEG](https://docs.fileformat.com/image/jpeg/)|Image Format|**No**|**Yes**|**Yes**|ï¿½|
+|[PNG](https://docs.fileformat.com/image/png/)|Image Format|**No**|**Yes**|**Yes**|ï¿½|
 
 ## Platform Independence
 
@@ -120,7 +121,7 @@ To learn more about **Aspose.Page for Python** and explore the basic requirement
 
 ### Create a PostScript file from scratch in Python
 
-In the next code snippet, we are creating a PS document from scratch containing the text “Hello from Aspose!”. After installing **Aspose.Page for Python** in your environment, you can execute below code sample to see how Aspose.Page API works.
+In the next code snippet, we are creating a PS document from scratch containing the text ï¿½Hello from Aspose!ï¿½. After installing **Aspose.Page for Python** in your environment, you can execute below code sample to see how Aspose.Page API works.
 
 Below code snippet follows these steps:
 
@@ -157,7 +158,7 @@ document.save()
 
 ### Create an XPS file from scratch in Python
 
-In the next code snippet, we are creating an empty XPS document containing the text “Hello from Aspose!”.
+In the next code snippet, we are creating an empty XPS document containing the text ï¿½Hello from Aspose!ï¿½.
 
 Below code snippet follows these steps:
 
@@ -321,7 +322,7 @@ doc.crop_eps(output_eps_stream, new_bounding_box)
 
 {{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="page" product="net" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="page" product="python-net" >}}
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
