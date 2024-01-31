@@ -23,6 +23,7 @@ weight: 4
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Page for Python via .NET, The PS, EPS, and XPS files Processing API enables developers to work with PDF documents without relying on Microsoft Office&reg; or Adobe&reg products installed.
 You can easily use Aspose.Page for Python via .NET from  {{< Common/link href="https://pypi.org/project/aspose-page/" text="pip"  >}} with the following command.
+{{< Common/release-notes-link family="page" product="python-net" href="https://releases.aspose.com/page/python-net/release-notes/" text="https://releases.aspose.com/page/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
@@ -157,7 +158,7 @@ document.save()
 
 ### Create an XPS file from scratch in Python
 
-In the next code snippet, we are creating an empty XPS document containing the text “Hello from Aspose!”.
+In the next code snippet, we are creating an empty XPS document containing the text �Hello from Aspose!�.
 
 Below code snippet follows these steps:
 
@@ -321,7 +322,7 @@ doc.crop_eps(output_eps_stream, new_bounding_box)
 
 {{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="page" product="net" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="page" product="python-net" >}}
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
