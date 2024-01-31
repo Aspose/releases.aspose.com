@@ -30,7 +30,6 @@ This page contains release notes information for Aspose.PDF for Java 24.1.
 |PDFJAVA-42341|PDF to PDF/A : Title mismatch|Bug|
 |PDFJAVA-42447|PDF to PDF/A: Misplaced text|Bug|
 |PDFJAVA-41860|PDF to PDFA: Exception "Cannot access a disposed object" is thrown|Bug|
-|PDFJAVA-36946|The text has slightly moved down after flattening document.|Bug|
 |PDFJAVA-42277|Signed pdf cannot be converted to pdf/a|Bug|
 |PDFJAVA-41190|API is unable to detect tables in PDF|Bug|
 |PDFJAVA-43461|Cells are merged when using TableAbsorber|Bug|
