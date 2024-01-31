@@ -30,6 +30,5 @@ This page contains release notes information for [Aspose.ZIP for .NET 23.12](htt
 | :- | :- |
 |Aspose.Zip.FastLZ.FastLZStream|A stream wrapper that compresses data with FastLZ.|
 |**The following public methods and properties were added:**|**Description**|
-| :- | :- |
 |Aspose.Zip.FastLZ.FastLZStream.#ctor((Stream stream, int compressionLevel)|Initializes a new instance of the FastLZStream class fprepared for compression.|
 |Aspose.Zip.Saving.ArchiveSaveOptions.EncryptionOptions|Gets of sets encryption settings for saving existing zip archive.|
