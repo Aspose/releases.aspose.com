@@ -99,7 +99,7 @@ public class S3Package2HugoPost {
 
     	ArrayList<String> classifierProduct = new ArrayList<String>( Arrays.asList("3d","barcode","cad","cells","diagram","email","font","html","imaging","note","ocr","ocr-gpu","omr","page","pdf","psd","pub","slides","tasks","tex","total","words") );
 
-      ArrayList<String> migratedReleaseNotesProduct = new ArrayList<String>( Arrays.asList("3d","barcode","cad","cells","diagram","email","font","html","imaging","note","ocr","ocr-gpu","omr","page","pdf","psd","pub","slides","tasks","tex","total","words","drawing") );
+      ArrayList<String> migratedReleaseNotesProduct = new ArrayList<String>( Arrays.asList("3d","barcode","cad","cells","diagram","email","font","html","imaging","note","ocr","ocr-gpu","omr","page","pdf","psd","pub","slides","tasks","tex","total","words","drawing", "zip") );
 
 
 
