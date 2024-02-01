@@ -43,6 +43,10 @@ weight: 5
 <h4>Description</h4><div class="HTMLDescription">It contains most recent version of all .NET products.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
 ![Version 24.1.0](https://img.shields.io/badge/nuget-v24.1.0-blue) ![NuGet](https://img.shields.io/nuget/dt/Aspose.Total)
 
 [Product Page](https://products.aspose.com/total/net/) | [Docs](https://docs.aspose.com/total/net/) | [API Reference](https://reference.aspose.com/) | [Examples](http://aspose.github.io) | [Blog](https://blog.aspose.com/category/total/) | [Releases](https://releases.aspose.com/) | [Free Support](https://forum.aspose.com/) | [Temporary License](https://purchase.aspose.com/temporary-license/) | [Policies](https://purchase.aspose.com/policies/)
@@ -200,6 +204,10 @@ Aspose.TeX for .NET is a library that provides a [TeX engine extension](https://
 > Install by providing `Install-Package Aspose.Zip -Version 24.1.0` command in the Package Manager Console.
 
 [Product Page](https://products.aspose.com/total/net/) | [Docs](https://docs.aspose.com/total/net/) | [API Reference](https://reference.aspose.com/) | [Examples](http://aspose.github.io) | [Blog](https://blog.aspose.com/category/total/) | [Releases](https://releases.aspose.com/) | [Free Support](https://forum.aspose.com/) | [Temporary License](https://purchase.aspose.com/temporary-license/) | [Policies](https://purchase.aspose.com/policies/)
+
+{{% /Releases/ReleasesFileFeatures %}}
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
 
 {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
