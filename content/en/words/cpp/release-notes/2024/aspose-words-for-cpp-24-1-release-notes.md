@@ -19,6 +19,16 @@ This page contains release notes for [Aspose.Words for C++ 24.1](https://www.nug
 
 {{% /alert %}}
 
+## Apple Silicon Support
+
+We are pleased to announce the release of the arm64 edition of Aspose.Words for C++ for macOS, specifically optimized for the innovative Apple Silicon platform. This architecture fuels the performance and efficiency of all modern Apple computers, showcasing exceptional capabilities.
+
+Now the Aspose.Words for C++ macOS package includes 2 libraries:
+
+libAspose.Words.Cpp_arm64.dylib - library for x86_64 architecture.
+libAspose.Words.Cpp_x86_64.dylib - library for arm64 architecture.
+Using CMake, library selection is fully automatic. You can see an example of this use in the demo project in the sample directory.
+
 ## Major Features
 
 There are 95 improvements and fixes in this regular monthly release. The most notable are:
