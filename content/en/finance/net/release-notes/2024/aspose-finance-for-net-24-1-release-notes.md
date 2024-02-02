@@ -19,5 +19,5 @@ This page contains release notes for Aspose.Finance for .NET 24.1.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|FINANCENET-312|Add validation of ix:relationship element||Task|
+|FINANCENET-312|Add validation of ix:relationship element|Task|
 |FINANCENET-313|Add validation of ix:resources element|Task|
