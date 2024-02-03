@@ -49,8 +49,6 @@ weight: 5
 
 ![Version 24.1.0](https://img.shields.io/badge/nuget-v24.1.0-blue) ![NuGet](https://img.shields.io/nuget/dt/Aspose.Total.Cpp)
 
-[![banner](https://raw.githubusercontent.com/Aspose/aspose.github.io/master/img/banners/aspose_total-for-cpp-banner.png)](https://releases.aspose.com/total/cpp/)
-
 [Product Page](https://products.aspose.com/total/cpp/) | [Docs](https://docs.aspose.com/total/cpp/) | [API Reference](https://reference.aspose.com/) | [Examples](http://aspose.github.io/) | [Blog](https://blog.aspose.com/) | [Releases](https://releases.aspose.com/total/cpp/) | [Free Support](https://forum.aspose.com/) | [Temporary License](https://purchase.aspose.com/temporary-license/) | [Policies](https://purchase.aspose.com/policies/)
 
 It is a [complete package of C++ libraries and on premise APIs](https://products.aspose.com/total/cpp/) to help you enhance your C++ native desktop and web applications to perform read, write, convert, and other processing operations on popular document formats without requiring Microsoft Office or Adobe automation. Aspose.Total for C++ package includes components to process word documents, PDF files, spreadsheets, presentations, emails, project files, and barcode images from within your C++ apps.
