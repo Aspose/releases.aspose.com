@@ -162,7 +162,7 @@ Form markup:
 	cell_size=large
 ```
 
-![Handwritten text placeholder example](rn-2420.png)
+![Handwritten text placeholder example](../rn-2420.png)
 
 ### Recognize handwritten text
 
