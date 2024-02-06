@@ -88,6 +88,10 @@ Gets the globally unique identifier of the custom view.
  
 Specifies a GUID which can be cross-referenced with the GUID of the signature line stored in the document content. Default value is Empty (all zeroes) Guid.
 
+### **Add GetProviderId/SetProviderId methods to DigitalSignature class**
+
+Specifies the class ID of the signature provider. Default value is Empty (all zeroes) Guid.
+
 ### **Add UUID type definition**
 
 Guid struct.
