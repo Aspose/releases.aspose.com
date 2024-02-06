@@ -67,3 +67,27 @@ Calculates the custom position of plot area, axes if the position of them are au
 ### **Adds GetColumnWidthPixel(int32_t, bool) method to Cells class**
 
 Gets the original width of the hidden columns.
+
+### **Adds GetId/SetId methods to SignatureLine class**
+
+Gets or sets identifier for this signature line.
+
+### **Adds GetProviderId/SetProviderId methods to SignatureLine class**
+
+Gets or sets the id of signature provider.
+
+### **Adds GetCreateId/SetCreateId methods to Shape class**
+
+Gets or sets create id for this shape.
+
+### **Adds the GetGuid method to RevisionCustomView class**
+
+Gets the globally unique identifier of the custom view.
+
+### **Add GetId/SetId methods to DigitalSignature class**
+ 
+Specifies a GUID which can be cross-referenced with the GUID of the signature line stored in the document content. Default value is Empty (all zeroes) Guid.
+
+### **Add UUID type definition**
+
+Guid struct.
