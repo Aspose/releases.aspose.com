@@ -68,7 +68,7 @@ OXPS (Open XML Paper Specification) format.
 
 The class represents the options for calculating chart.
 
-### **Adds Charts.Calculate(ChartCalculateOptions) method.**
+### **Adds Chart.Calculate(ChartCalculateOptions) method.**
 
 Calculates the custom position of plot area, axes if the position of them are auto assigned, with specified options.
 
