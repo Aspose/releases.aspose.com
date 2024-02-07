@@ -3,7 +3,7 @@ id: "aspose-words-for-python-via-dotnet-24-1-release-notes"
 slug: "aspose-words-for-python-via-dotnet-24-1-release-notes"
 linktitle: "Aspose.Words for Python via .NET 24.1 Release Notes"
 title: "Aspose.Words for Python via .NET 24.1 Release Notes"
-weight: 15
+weight: 70
 description: "Aspose.Words for Python via .NET 24.1 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
