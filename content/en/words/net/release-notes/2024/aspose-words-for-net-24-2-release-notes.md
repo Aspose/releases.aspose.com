@@ -147,12 +147,9 @@ public class MarkdownLoadOptions : LoadOptions
 public bool PreserveEmptyLines { get; set; }
 {{< /highlight >}}
 
-{{% alert color="secondary" %}}
 **Use Case**
-
 This use case explains how to preserve empty lines while loading Markdown document:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "preserve-empty-lines.cs" >}}
-{{% /alert %}}
 
 ### <span style="color: #0593cb;">Introduced new public properties for enhanced style management.</span>
 
@@ -176,12 +173,9 @@ public bool UnhideWhenUsed { get; set; }
 public bool SemiHidden { get; set; }
 {{< /highlight >}}
 
-{{% alert color="secondary" %}}
 **Use Case**
-
 This use case explains how to work with new properties:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "style-priority.cs" >}}
-{{% /alert %}}
 
 ### <span style="color: #0593cb;">Added NodeRendererBase.Save() methods that accept SvgSaveOptions.</span>
 
@@ -205,12 +199,9 @@ public void Save(String fileName, SvgSaveOptions saveOptions);
 public void Save(Stream stream, SvgSaveOptions saveOptions);
 {{< /highlight >}}
 
-{{% alert color="secondary" %}}
 **Use Case**
-
 This use case explains how to specify **SvgSaveOptions** when rendering via **ShapeRenderer.Save()** and **OfficeMathRenderer.Save()** methods:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "save-office-math.cs" >}}
-{{% /alert %}}
 
 ### <span style="color: #0593cb;">Added public property Appearance to the StructuredDocumentTagRangeStart class.</span>
 
@@ -224,12 +215,10 @@ A new public property **Appearance** has been added to class **StructuredDocumen
 public SdtAppearance Appearance { get; set; }
 {{< /highlight >}}
 
-{{% alert color="secondary" %}}
 **Use Case**
-
 This use case explains how to get and set **Appearance** property of a ranged structured document tag:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "appearance.cs" >}}
-{{% /alert %}}
+
 
 ### <span style="color: #0593cb;">Added public property Footnote.ActualReferenceMark and public method Document.UpdateActualReferenceMarks.</span>
 
@@ -268,12 +257,10 @@ public class Document
 }
 {{< /highlight >}}
 
-{{% alert color="secondary" %}}
 **Use Case**
-
 This use case explains how to get actual text of reference mark:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "update-actual-reference-marks.cs" >}}
-{{% /alert %}}
+
 
 ### <span style="color: #0593cb;">Continued extending the DrawingML Chart API capabilities.</span>
 
@@ -444,12 +431,9 @@ public class Chart
 }
 {{< /highlight >}}
 
-{{% alert color="secondary" %}}
 **Use Case**
-
 This use case explains how show and format chart data table:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "data-table.cs" >}}
-{{% /alert %}}
 
 ### <span style="color: #0593cb;">Supported working with Word 2016 charts for LINQ Reporting Engine.</span>
 
@@ -465,9 +449,6 @@ Starting from Aspose.Words 24.2, LINQ Reporting Engine supports working with the
 - Funnel
 - Stock
 
-{{% alert color="secondary" %}}
 **Use Case**
-
 This use case explains how to use Word 2016 charts with Aspose.Words LINQ Reporting Engine:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "word2016-charts.cs" >}}
-{{% /alert %}}
