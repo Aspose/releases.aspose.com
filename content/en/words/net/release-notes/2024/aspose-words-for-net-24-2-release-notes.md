@@ -231,7 +231,7 @@ This use case explains how to get and set **Appearance** property of a ranged st
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "appearance.cs" >}}
 {{% /alert %}}
 
-### **Added public property Footnote.ActualReferenceMark and public method Document.UpdateActualReferenceMarks.**
+### <span style="color: #0000FF;">Added public property Footnote.ActualReferenceMark and public method Document.UpdateActualReferenceMarks.</span>
 
 Related issue: WORDSNET-24512
 
