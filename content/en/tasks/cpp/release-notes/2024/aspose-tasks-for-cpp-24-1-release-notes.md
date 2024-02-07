@@ -9,9 +9,8 @@ type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-aliases = [
-    "../2023/aspose-tasks-for-cpp-24-1-release-notes.md"
-]
+aliases:
+- ../2023/aspose-tasks-for-cpp-24-1-release-notes.md
 family_listing_page_title: "Aspose.Tasks for C++ 24.1 Release Notes"
 menuItemWithNoContent: false
 ---
