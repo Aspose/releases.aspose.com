@@ -32,7 +32,8 @@ There are 81 improvements and fixes in this regular monthly release. The most no
 
 ## Full List of Issues Covering all Changes in this Release
 
-<details><summary>Expand to view the full list of issues.</summary>
+<details>
+<summary>Expand to view the full list of issues.</summary>
 
 |Key|Summary|Category|
 | :- | :- | :- |
@@ -145,7 +146,6 @@ public class MarkdownLoadOptions : LoadOptions
 public bool PreserveEmptyLines { get; set; }
 {{< /highlight >}}
 
-**Use Case**
 This use case explains how to preserve empty lines while loading Markdown document:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "preserve-empty-lines.cs" >}}
 
@@ -153,7 +153,7 @@ This use case explains how to preserve empty lines while loading Markdown docume
 
 Related issue: WORDSNET-23973 
 
-A new public properties **Priority**, **UnhideWhenUsed** and **SemiHidden** has been added to class Style.
+A new public properties *Priority*, *UnhideWhenUsed* and *SemiHidden* has been added to class Style.
 {{< highlight csharp >}}
 /// <summary>
 /// Gets/sets the integer value that represents the priority for sorting the styles in the Styles task pane.
@@ -171,7 +171,6 @@ public bool UnhideWhenUsed { get; set; }
 public bool SemiHidden { get; set; }
 {{< /highlight >}}
 
-**Use Case**
 This use case explains how to work with new properties:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "style-priority.cs" >}}
 
@@ -179,7 +178,7 @@ This use case explains how to work with new properties:
 
 Related issue: WORDSNET-23355
 
-New public methods has been added to class **NodeRendererBase** allowing to pass **SvgSaveOptions**:
+New public methods has been added to class *NodeRendererBase* allowing to pass *SvgSaveOptions*:
 {{< highlight csharp >}}
 /// <summary>
 /// Renders the shape into an SVG image and saves into a file.
@@ -197,15 +196,14 @@ public void Save(String fileName, SvgSaveOptions saveOptions);
 public void Save(Stream stream, SvgSaveOptions saveOptions);
 {{< /highlight >}}
 
-**Use Case**
-This use case explains how to specify **SvgSaveOptions** when rendering via **ShapeRenderer.Save()** and **OfficeMathRenderer.Save()** methods:
+This use case explains how to specify *SvgSaveOptions* when rendering via *ShapeRenderer.Save()* and *OfficeMathRenderer.Save()* methods:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "save-office-math.cs" >}}
 
 ### <span style="color: #0593cb;">Added public property Appearance to the StructuredDocumentTagRangeStart class.</span>
 
 Related issue: WORDSNET-26434
 
-A new public property **Appearance** has been added to class **StructuredDocumentTagRangeStart** and **IStructuredDocumentTag** interface:
+A new public property *Appearance* has been added to class *StructuredDocumentTagRangeStart* and *IStructuredDocumentTag* interface:
 {{< highlight csharp >}}
 /// <summary>
 /// Gets or sets the appearance of the structured document tag.
@@ -213,8 +211,7 @@ A new public property **Appearance** has been added to class **StructuredDocumen
 public SdtAppearance Appearance { get; set; }
 {{< /highlight >}}
 
-**Use Case**
-This use case explains how to get and set **Appearance** property of a ranged structured document tag:
+This use case explains how to get and set *Appearance* property of a ranged structured document tag:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "appearance.cs" >}}
 
 
@@ -255,7 +252,6 @@ public class Document
 }
 {{< /highlight >}}
 
-**Use Case**
 This use case explains how to get actual text of reference mark:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "update-actual-reference-marks.cs" >}}
 
@@ -264,11 +260,11 @@ This use case explains how to get actual text of reference mark:
 
 Related issue: WORDSNET-26356
 
-A new class **AxisTickLabels** has been implemented. The properties related to axis tick mark labels have been marked as obsolete in the **ChartAxis** class and moved to the new class. A property **TickLabels** of the **AxisTickLabels** type has been added to the **ChartAxis** class.
+A new class *AxisTickLabels* has been implemented. The properties related to axis tick mark labels have been marked as obsolete in the *ChartAxis* class and moved to the new class. A property *TickLabels* of the *AxisTickLabels* type has been added to the *ChartAxis* class.
 
-Also the ability to set font formatting for tick mark labels has been implemented: a new **AxisTickLabels.Font** property has been added.
+Also the ability to set font formatting for tick mark labels has been implemented: a new *AxisTickLabels.Font* property has been added.
 
-And a **Format** property, which allows defining line formatting for an axis and fill for tick mark labels, has been added to the **ChartAxis** class.
+And a *Format* property, which allows defining line formatting for an axis and fill for tick mark labels, has been added to the *ChartAxis* class.
 {{< highlight csharp >}}
 /// <summary>
 /// Represents properties of axis tick mark labels.
@@ -362,7 +358,7 @@ public class ChartAxis
 }
 {{< /highlight >}}
 
-A new public class **ChartDataTable** has been implemented. A property **DataTable** of this type has been added to the **Chart** class:
+A new public class *ChartDataTable* has been implemented. A property *DataTable* of this type has been added to the *Chart* class:
 {{< highlight csharp >}}
 /// <summary>
 /// Allows to specify properties of a chart data table.
@@ -429,7 +425,6 @@ public class Chart
 }
 {{< /highlight >}}
 
-**Use Case**
 This use case explains how show and format chart data table:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "data-table.cs" >}}
 
@@ -447,6 +442,5 @@ Starting from Aspose.Words 24.2, LINQ Reporting Engine supports working with the
 - Funnel
 - Stock
 
-**Use Case**
 This use case explains how to use Word 2016 charts with Aspose.Words LINQ Reporting Engine:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "word2016-charts.cs" >}}
