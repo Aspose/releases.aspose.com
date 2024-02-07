@@ -125,7 +125,7 @@ There are 81 improvements and fixes in this regular monthly release. The most no
 
 This section lists public API changes that were introduced in Aspose.Words 24.2. It includes not only new and obsoleted public methods, but also a description of any changes in the behavior behind the scenes in Aspose.Words which may affect existing code. Any behavior introduced that could be seen as regression and modifies the existing behavior is especially important and is documented here.
 
-### **Added an ability to preserve empty lines while loading Markdown files.**
+### <span style="color: #0593cb;">Added an ability to preserve empty lines while loading Markdown files.</span>
 
 Related issue: WORDSNET-26064
 
@@ -154,7 +154,7 @@ This use case explains how to preserve empty lines while loading Markdown docume
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "preserve-empty-lines.cs" >}}
 {{% /alert %}}
 
-### **Introduced new public properties for enhanced style management.**
+### <span style="color: #0593cb;">Introduced new public properties for enhanced style management.</span>
 
 Related issue: WORDSNET-23973 
 
@@ -183,7 +183,7 @@ This use case explains how to work with new properties:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "style-priority.cs" >}}
 {{% /alert %}}
 
-### **Added NodeRendererBase.Save() methods that accept SvgSaveOptions.**
+### <span style="color: #0593cb;">dded NodeRendererBase.Save() methods that accept SvgSaveOptions.</span>
 
 Related issue: WORDSNET-23355
 
@@ -212,7 +212,7 @@ This use case explains how to specify **SvgSaveOptions** when rendering via **Sh
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "save-office-math.cs" >}}
 {{% /alert %}}
 
-### **Added public property Appearance to the StructuredDocumentTagRangeStart class.**
+### <span style="color: #0593cb;">Added public property Appearance to the StructuredDocumentTagRangeStart class.</span>
 
 Related issue: WORDSNET-26434
 
@@ -231,7 +231,7 @@ This use case explains how to get and set **Appearance** property of a ranged st
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "appearance.cs" >}}
 {{% /alert %}}
 
-### <span style="color:blue">Added public property Footnote.ActualReferenceMark and public method Document.UpdateActualReferenceMarks.</span>
+### <span style="color: #0593cb;">Added public property Footnote.ActualReferenceMark and public method Document.UpdateActualReferenceMarks.</span>
 
 Related issue: WORDSNET-24512
 
@@ -275,7 +275,7 @@ This use case explains how to get actual text of reference mark:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "update-actual-reference-marks.cs" >}}
 {{% /alert %}}
 
-### **Continued extending the DrawingML Chart API capabilities.**
+### <span style="color: #0593cb;">Continued extending the DrawingML Chart API capabilities.</span>
 
 Related issue: WORDSNET-26356
 
@@ -451,7 +451,7 @@ This use case explains how show and format chart data table:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "data-table.cs" >}}
 {{% /alert %}}
 
-### **Supported working with Word 2016 charts for LINQ Reporting Engine.**
+### <span style="color: #0593cb;">Supported working with Word 2016 charts for LINQ Reporting Engine.</span>
 
 Related issue: WORDSNET-23884
 
