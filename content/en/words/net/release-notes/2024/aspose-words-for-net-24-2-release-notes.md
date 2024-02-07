@@ -183,7 +183,7 @@ This use case explains how to work with new properties:
 {{< gist "aspose-words-gists" "a775441ecb396eea917a2717cb9e8f8f" "style-priority.cs" >}}
 {{% /alert %}}
 
-### <span style="color: #0593cb;">dded NodeRendererBase.Save() methods that accept SvgSaveOptions.</span>
+### <span style="color: #0593cb;">Added NodeRendererBase.Save() methods that accept SvgSaveOptions.</span>
 
 Related issue: WORDSNET-23355
 
