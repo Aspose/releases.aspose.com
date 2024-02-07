@@ -54,7 +54,7 @@ The following is a list of any changes made to the public API such as added, ren
 
 ### **Adds FileFormatType::Oxps enum.**
 
-OXPS (Open XML Paper Specification) format.
+OXPS (Open XML Paper Specification) format(Currently only file format detection is supported).
 
 ### **Adds ChartCalculateOptions class.**
 
