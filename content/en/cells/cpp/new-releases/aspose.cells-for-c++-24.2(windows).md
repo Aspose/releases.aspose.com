@@ -53,7 +53,7 @@ C++ developers, take control of your spreadsheets like never before! Aspose.Cell
 
 - **Unleash Spreadsheet Magic with UUID API**: Introducing the new UUID API, you can effortlessly manage unique identifiers within your spreadsheets, unlocking advanced customization and interoperability.
 - **Explore Data with Ease:** Leverage the enhanced "convert to number" menu for cells storing numbers as text, and streamline data analysis effortlessly.
-- **`Oxps` Format Support:** Expand your file handling capabilities with seamless support for the OXPS (Open XML Paper Specification) format, opening doors to diverse workflows.
+- **`Oxps` Format Detection:** Support for detecting the OXPS (Open XML Paper Specification) format.
 - **Color Control Granularity:** Gain finer control over color attributes with support for `var` and `rgba` fields, empowering precise color manipulation.
 - **Performance Boost for Large Datasets:** Experience improved sorting performance for massive datasets, ensuring efficient data processing even with heavy workloads.
 - **Export with Precision:** Differentiate empty cells while exporting data to DataTables and detect data types accurately, guaranteeing data integrity during transfers.
