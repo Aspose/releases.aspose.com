@@ -32,7 +32,6 @@ There are 81 improvements and fixes in this regular monthly release. The most no
 
 ## Full List of Issues Covering all Changes in this Release
 
-{{% alert color="secondary" %}}
 <details><summary>Expand to view the full list of issues.</summary>
 
 |Key|Summary|Category|
@@ -119,7 +118,6 @@ There are 81 improvements and fixes in this regular monthly release. The most no
 |WORDSNET-26465|Formatting of document is incorrect after PDF to DOCX conversion|Bug
 |WORDSNET-26538|Pdf2Word.PdfImageBuilder throws IndexOutOfRangeException|Bug
 </details>
-{{% /alert %}}
 
 ## Public API and Backward Incompatible Changes
 
