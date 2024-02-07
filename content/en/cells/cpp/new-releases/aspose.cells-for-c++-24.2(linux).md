@@ -51,7 +51,7 @@ Aspose.Cells for C++ 24.2 empowers Linux developers to take full control of spre
 
 ### Key Highlights
 
-- **Embrace Oxps Support:** Expand your file handling capabilities with the Open XML Paper Specification (`Oxps`) format.
+- **`Oxps` Format Detection Support:** Expand your file handling capabilities with the Open XML Paper Specification (`Oxps`) format detection.
 - **Simplify Data Analysis:** Analyze data effortlessly with the improved "convert to number" menu.
 - **Manage UUIDs with Ease:** Leverage the new UUID API for advanced customization.
 - **Precise Color Control:** Fine-tune color attributes with `var` and `rgba` support.
