@@ -19,6 +19,8 @@ This page contains release notes for [Aspose.Slides for Node.js via Java](https:
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |SLIDESNODEJS-12|[Use Aspose.Slides for Java 24.1 features](/slides/java/release-notes/2024/aspose-slides-for-java-24-1-release-notes/)|Enhancement|
+|SLIDESNODEJS-50|Failed to install aspose.slides.via.java|Investigation|
+|SLIDESNODEJS-51|Npm install aspose.slides.via.java not working|Bug|
 
 
 ## Public API Changes ##
