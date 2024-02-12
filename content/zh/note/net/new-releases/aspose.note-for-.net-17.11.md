@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/note/net/new-releases/aspose.note-for-.net-17.11/"
 folder_name: "aspose.note .net 17.11"
-download_link: "/note/net/new-releases/aspose.note-for-.net-17.11/d60ee4ae2f92982e6d367f157ec531f5-4-5589"
+download_link: "/note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589"
 download_text: "下载"
 intro_text: "它包含aspose。"
 image_link: "/resources/img/msi-icon.png"
 download_count: " 7/11/2017 下载s: 71  Views: 144 "
-file_size: "File Size: 16.26MB"
+file_size: "File Size: 15.59MB"
 parent_path: "note/net"
 section_parent_path: "note/net"
 
@@ -24,19 +24,19 @@ weight: 126
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="aspose.note .net 17.11" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="下载" link="/note/net/new-releases/aspose.note-for-.net-17.11/d60ee4ae2f92982e6d367f157ec531f5-4-5589" >}}
+    {{< Releases/ReleasesSingleButtons text="下载" link="/note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/note" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-d60ee4ae2f92982e6d367f157ec531f5-4-5589" >}} 71 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-213973181513193a02ced26a53290d34-4-5589" >}} 71 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
-      {{< Common/li id="size-update-d60ee4ae2f92982e6d367f157ec531f5-4-5589" >}} 16.26MB {{< /Common/li >}}
+      {{< Common/li id="size-update-213973181513193a02ced26a53290d34-4-5589" >}} 15.59MB {{< /Common/li >}}
 
       {{< Common/li >}} 添加日期: {{< /Common/li >}}
-      {{< Common/li id="added-update-d60ee4ae2f92982e6d367f157ec531f5-4-5589" >}}7/11/2017 {{< /Common/li >}}
+      {{< Common/li id="added-update-213973181513193a02ced26a53290d34-4-5589" >}}7/11/2017 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
