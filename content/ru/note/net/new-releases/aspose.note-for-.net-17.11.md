@@ -4,9 +4,9 @@ title: "Загрузки --- Новые релизы-ante.note-for-.net-17.11"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/note/net/new-releases/aspose.note-for-.net-17.11/"
-folder_name: "Aspose.note для .NET 17.11"
-download_link: "/note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589"
+folder_link: "note/net/new-releases/aspose.note-for-.net-17.11/"
+folder_name: "Aspose.note для .NET 17.11 - Обновлено"
+download_link: "note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589"
 download_text: "Скачать"
 intro_text: "Он содержит Aspose.note для выпуска .NET 17.11."
 image_link: "/resources/img/msi-icon.png"
@@ -22,9 +22,9 @@ weight: 126
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.note для .NET 17.11" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.note для .NET 17.11 - Обновлено" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Скачать" link="/note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589" >}}
+    {{< Releases/ReleasesSingleButtons text="Скачать" link="note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/note" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}

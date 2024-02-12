@@ -4,9 +4,9 @@ title: "İndirmeler --- Yeni sürümler -posse.not--for-.net-17.11"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/note/net/new-releases/aspose.note-for-.net-17.11/"
-folder_name: "Aspose.NET için Not 17.11"
-download_link: "/note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589"
+folder_link: "note/net/new-releases/aspose.note-for-.net-17.11/"
+folder_name: "ASPOSE.NET .NET 17.11 - Güncellendi"
+download_link: "note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589"
 download_text: "İndirmek"
 intro_text: ".NET 17.11 sürümü için aspose.not içerir."
 image_link: "/resources/img/msi-icon.png"
@@ -22,9 +22,9 @@ weight: 126
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.NET için Not 17.11" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="ASPOSE.NET .NET 17.11 - Güncellendi" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="İndirmek" link="/note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589" >}}
+    {{< Releases/ReleasesSingleButtons text="İndirmek" link="note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/note" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}

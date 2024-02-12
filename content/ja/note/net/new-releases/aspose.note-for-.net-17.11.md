@@ -4,9 +4,9 @@ title: "ダウンロード---新しいリリース-Aspose.note-for-.net-17.11"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/note/net/new-releases/aspose.note-for-.net-17.11/"
-folder_name: ".NET 17.11のASOPSE.NOTE"
-download_link: "/note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589"
+folder_link: "note/net/new-releases/aspose.note-for-.net-17.11/"
+folder_name: ".net 17.11のaspose.note-更新"
+download_link: "note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589"
 download_text: "ダウンロード"
 intro_text: ".net 17.11リリースのasops.noteが含まれています。"
 image_link: "/resources/img/msi-icon.png"
@@ -22,9 +22,9 @@ weight: 126
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt=".NET 17.11のASOPSE.NOTE" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt=".net 17.11のaspose.note-更新" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="ダウンロード" link="/note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589" >}}
+    {{< Releases/ReleasesSingleButtons text="ダウンロード" link="note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/note" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}

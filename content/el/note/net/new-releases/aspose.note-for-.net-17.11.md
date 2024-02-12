@@ -4,9 +4,9 @@ title: "Λήψεις --- Νέες κυκλοφορίες-aspose.note-for-.net-17
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/note/net/new-releases/aspose.note-for-.net-17.11/"
-folder_name: "Aspose.note για το .NET 17.11"
-download_link: "/note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589"
+folder_link: "note/net/new-releases/aspose.note-for-.net-17.11/"
+folder_name: "Aspose.note για το .NET 17.11 - Ενημερώθηκε"
+download_link: "note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589"
 download_text: "Κατεβάστε"
 intro_text: "Περιέχει aspose.note για την απελευθέρωση .NET 17.11."
 image_link: "/resources/img/msi-icon.png"
@@ -22,9 +22,9 @@ weight: 126
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.note για το .NET 17.11" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.note για το .NET 17.11 - Ενημερώθηκε" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589" >}}
+    {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/note" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
