@@ -5,12 +5,12 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "note/net/new-releases/aspose.note-for-.net-17.11/"
-folder_name: "Aspose.NET için Not 17.11"
+folder_name: "ASPOSE.NET .NET 17.11 için Not - Güncelleme Testi"
 download_link: "note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589"
 download_text: "İndirmek"
 intro_text: ".NET 17.11 sürümü için aspose.not içerir."
 image_link: "/resources/img/msi-icon.png"
-download_count: " 7/11/2017 İndirmeks: 84  Views: 144 "
+download_count: " 7/11/2017 İndirmeks: 87  Views: 144 "
 file_size: "File Size: 15.59MB"
 parent_path: "note/net"
 section_parent_path: "note/net"
@@ -22,7 +22,7 @@ weight: 126
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.NET için Not 17.11" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="ASPOSE.NET .NET 17.11 için Not - Güncelleme Testi" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="İndirmek" link="note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/note" >}}
@@ -31,7 +31,7 @@ weight: 126
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} İndirmeks: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-213973181513193a02ced26a53290d34-4-5589" >}} 84 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-213973181513193a02ced26a53290d34-4-5589" >}} 87 {{< /Common/li >}}
       {{< Common/li >}} Dosya boyutu: {{< /Common/li >}}
       {{< Common/li id="size-update-213973181513193a02ced26a53290d34-4-5589" >}} 15.59MB {{< /Common/li >}}
 

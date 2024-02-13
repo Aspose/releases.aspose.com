@@ -5,12 +5,12 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "note/net/new-releases/aspose.note-for-.net-17.11/"
-folder_name: "Aspose.Note for .NET 17.11"
+folder_name: "Aspose.Note for .NET 17.11 - Update Test"
 download_link: "note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589"
 download_text: "Download"
 intro_text: "It contains Aspose.Note for .NET 17.11 release."
 image_link: "/resources/img/msi-icon.png"
-download_count: " 7/11/2017 Downloads: 84  Views: 144 "
+download_count: " 7/11/2017 Downloads: 87  Views: 144 "
 file_size: "File Size: 15.59MB"
 parent_path: "note/net"
 section_parent_path: "note/net"
@@ -22,7 +22,7 @@ weight: 126
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Note for .NET 17.11" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Note for .NET 17.11 - Update Test" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/note" >}}
@@ -31,7 +31,7 @@ weight: 126
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-213973181513193a02ced26a53290d34-4-5589" >}} 84 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-213973181513193a02ced26a53290d34-4-5589" >}} 87 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
       {{< Common/li id="size-update-213973181513193a02ced26a53290d34-4-5589" >}} 15.59MB {{< /Common/li >}}
 
