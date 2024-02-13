@@ -4,13 +4,13 @@ title: "ダウンロード---新しいリリース-Aspose.note-for-.net-17.11"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "note/net/new-releases/aspose.note-for-.net-17.11/"
-folder_name: ".net 17.11のasophes.note-更新テスト"
-download_link: "note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589"
+folder_link: "/note/net/new-releases/aspose.note-for-.net-17.11/"
+folder_name: ".NET 17.11のASOPSE.NOTE"
+download_link: "/note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589"
 download_text: "ダウンロード"
 intro_text: ".net 17.11リリースのasops.noteが含まれています。"
 image_link: "/resources/img/msi-icon.png"
-download_count: " 7/11/2017 ダウンロードs: 87  Views: 144 "
+download_count: " 7/11/2017 ダウンロードs: 88  Views: 144 "
 file_size: "File Size: 15.59MB"
 parent_path: "note/net"
 section_parent_path: "note/net"
@@ -22,16 +22,16 @@ weight: 126
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt=".net 17.11のasophes.note-更新テスト" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt=".NET 17.11のASOPSE.NOTE" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="ダウンロード" link="note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589" >}}
+    {{< Releases/ReleasesSingleButtons text="ダウンロード" link="/note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/note" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} ダウンロードs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-213973181513193a02ced26a53290d34-4-5589" >}} 87 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-213973181513193a02ced26a53290d34-4-5589" >}} 88 {{< /Common/li >}}
       {{< Common/li >}} ファイルサイズ: {{< /Common/li >}}
       {{< Common/li id="size-update-213973181513193a02ced26a53290d34-4-5589" >}} 15.59MB {{< /Common/li >}}
 

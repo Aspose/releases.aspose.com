@@ -4,13 +4,13 @@ title: "Descargas --- Nuevas comunicadas-asas."
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "note/net/new-releases/aspose.note-for-.net-17.11/"
-folder_name: "Aspose.note para .NET 17.11 - Prueba de actualización"
-download_link: "note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589"
+folder_link: "/note/net/new-releases/aspose.note-for-.net-17.11/"
+folder_name: "Aspose.note para .NET 17.11"
+download_link: "/note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589"
 download_text: "Descargar"
 intro_text: "Contiene asposio. Nota para la versión .NET 17.11."
 image_link: "/resources/img/msi-icon.png"
-download_count: " 7/11/2017 Descargars: 87  Views: 144 "
+download_count: " 7/11/2017 Descargars: 88  Views: 144 "
 file_size: "File Size: 15.59MB"
 parent_path: "note/net"
 section_parent_path: "note/net"
@@ -22,16 +22,16 @@ weight: 126
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.note para .NET 17.11 - Prueba de actualización" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.note para .NET 17.11" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Descargar" link="note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589" >}}
+    {{< Releases/ReleasesSingleButtons text="Descargar" link="/note/net/new-releases/aspose.note-for-.net-17.11/213973181513193a02ced26a53290d34-4-5589" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/note" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Descargars: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-213973181513193a02ced26a53290d34-4-5589" >}} 87 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-213973181513193a02ced26a53290d34-4-5589" >}} 88 {{< /Common/li >}}
       {{< Common/li >}} Tamaño del archivo: {{< /Common/li >}}
       {{< Common/li id="size-update-213973181513193a02ced26a53290d34-4-5589" >}} 15.59MB {{< /Common/li >}}
 
