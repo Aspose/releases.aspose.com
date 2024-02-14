@@ -16,7 +16,7 @@ parent_path: "words/python"
 section_parent_path: "words/python"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/"
 weight: 49
 
 ---
@@ -40,7 +40,7 @@ weight: 49
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/'>https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/'>https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Esta rueda contiene aspose. Palabras para Python a través de .NET versión 24.2.0, creada para MacOS 10.14 (Mojave) y dirigido a la arquitectura x86_64.</div>

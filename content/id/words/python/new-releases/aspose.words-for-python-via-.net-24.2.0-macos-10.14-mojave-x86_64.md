@@ -8,7 +8,7 @@ folder_link: "/words/python/new-releases/aspose.words-for-python-via-.net-24.2.0
 folder_name: "Aspose.Words untuk Python via .NET 24.2.0 MacOS 10.14 Mojave X86_64"
 download_link: "/words/python/new-releases/aspose.words-for-python-via-.net-24.2.0-macos-10.14-mojave-x86_64/e0c2fb52931458f4579a8913d07f380f-15-10317"
 download_text: "Unduh"
-intro_text: "Roda ini berisi Aspose.Words untuk Python melalui .NET Versi 24.2.0, dibangun untuk MacOS 10.14 (Mojave) dan menargetkan arsitektur X86_64."
+intro_text: "Roda ini berisi Aspose.words untuk Python melalui .NET Versi 24.2.0, dibangun untuk MacOS 10.14 (Mojave) dan menargetkan arsitektur X86_64."
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 9/2/2024 Unduhs: 1  Views: 1 "
 file_size: "File Size: 73.46MB"
@@ -16,7 +16,7 @@ parent_path: "words/python"
 section_parent_path: "words/python"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/"
 weight: 49
 
 ---
@@ -40,10 +40,10 @@ weight: 49
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/'>https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/'>https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Keterangan</h4><div class="HTMLDescription">Roda ini berisi Aspose.Words untuk Python melalui .NET Versi 24.2.0, dibangun untuk MacOS 10.14 (Mojave) dan menargetkan arsitektur X86_64.</div>
+      <h4>Keterangan</h4><div class="HTMLDescription">Roda ini berisi Aspose.words untuk Python melalui .NET Versi 24.2.0, dibangun untuk MacOS 10.14 (Mojave) dan menargetkan arsitektur X86_64.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
