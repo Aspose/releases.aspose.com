@@ -10,13 +10,13 @@ download_link: "/words/python/new-releases/aspose.words-for-python-via-.net-24.1
 download_text: "Download"
 intro_text: "Ele contém asppos."
 image_link: "/resources/img/random-file-icon.png"
-download_count: " 18/1/2024 Downloads: 1  Views: 1 "
+download_count: " 18/1/2024 Downloads: 45  Views: 1 "
 file_size: "File Size: 53.01MB"
 parent_path: "words/python"
 section_parent_path: "words/python"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-1-release-notes/"
 weight: 47
 
 ---
@@ -31,7 +31,7 @@ weight: 47
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-96c75d6d8dbeeb4e7a4628c006e4c399-11-10167" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-96c75d6d8dbeeb4e7a4628c006e4c399-11-10167" >}} 45 {{< /Common/li >}}
       {{< Common/li >}} Tamanho do arquivo: {{< /Common/li >}}
       {{< Common/li id="size-update-96c75d6d8dbeeb4e7a4628c006e4c399-11-10167" >}} 53.01MB {{< /Common/li >}}
 
@@ -40,7 +40,7 @@ weight: 47
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-1-release-notes/'>https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-1-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-1-release-notes/'>https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Ele contém asppos.</div>

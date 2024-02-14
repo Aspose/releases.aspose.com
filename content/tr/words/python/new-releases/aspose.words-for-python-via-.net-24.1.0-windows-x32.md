@@ -10,13 +10,13 @@ download_link: "/words/python/new-releases/aspose.words-for-python-via-.net-24.1
 download_text: "İndirmek"
 intro_text: ".NET 24.1.0, Windows X32 sürümü üzerinden python için aspose.words içerir."
 image_link: "/resources/img/random-file-icon.png"
-download_count: " 18/1/2024 İndirmeks: 1  Views: 1 "
+download_count: " 18/1/2024 İndirmeks: 45  Views: 1 "
 file_size: "File Size: 53.01MB"
 parent_path: "words/python"
 section_parent_path: "words/python"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-1-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-1-release-notes/"
 weight: 47
 
 ---
@@ -31,7 +31,7 @@ weight: 47
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} İndirmeks: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-96c75d6d8dbeeb4e7a4628c006e4c399-11-10167" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-96c75d6d8dbeeb4e7a4628c006e4c399-11-10167" >}} 45 {{< /Common/li >}}
       {{< Common/li >}} Dosya boyutu: {{< /Common/li >}}
       {{< Common/li id="size-update-96c75d6d8dbeeb4e7a4628c006e4c399-11-10167" >}} 53.01MB {{< /Common/li >}}
 
@@ -40,7 +40,7 @@ weight: 47
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-1-release-notes/'>https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-1-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-1-release-notes/'>https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">.NET 24.1.0, Windows X32 sürümü üzerinden python için aspose.words içerir.</div>
