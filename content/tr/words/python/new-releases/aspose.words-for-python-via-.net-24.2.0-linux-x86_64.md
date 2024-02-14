@@ -1,6 +1,6 @@
 ---
 
-title: "İndirmeler --- Yeni sürümler -posse.words-for-python-via-."
+title: "İndirmeler --- Yeni sürümler -posse.words-for-python-via- .net-244.2.0-lix-x86_64"
 description: " "
 keywords: ""
 page_type: single_release_page
@@ -16,7 +16,7 @@ parent_path: "words/python"
 section_parent_path: "words/python"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/"
 weight: 48
 
 ---
@@ -40,7 +40,7 @@ weight: 48
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/'>https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/'>https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">Bu tekerlek, Linux için oluşturulan ve X86_64 mimarisini hedefleyen .NET sürüm 24.2.0 üzerinden Python için Aspose.words içerir.</div>

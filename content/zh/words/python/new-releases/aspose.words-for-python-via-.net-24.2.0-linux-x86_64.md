@@ -16,7 +16,7 @@ parent_path: "words/python"
 section_parent_path: "words/python"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/"
 weight: 48
 
 ---
@@ -40,7 +40,7 @@ weight: 48
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/'>https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/'>https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">该轮子包含aspose.Words python通过.NET版本24.2.0，该版本为Linux构建并针对X86_64体系结构。</div>

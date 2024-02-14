@@ -16,7 +16,7 @@ parent_path: "words/python"
 section_parent_path: "words/python"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/"
 weight: 48
 
 ---
@@ -40,7 +40,7 @@ weight: 48
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/'>https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/</a></div>
+      <h4>リリースノート</h4><div><a href='https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/'>https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>説明</h4><div class="HTMLDescription">このホイールには、Linux用に構築され、X86_64アーキテクチャをターゲットにした.NETバージョン24.2.0を介してPython用のAsopsion.Wordsが含まれています。</div>
