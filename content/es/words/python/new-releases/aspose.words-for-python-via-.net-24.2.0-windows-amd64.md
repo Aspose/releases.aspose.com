@@ -10,13 +10,13 @@ download_link: "/words/python/new-releases/aspose.words-for-python-via-.net-24.2
 download_text: "Descargar"
 intro_text: "Esta rueda contiene Aspose.Words para Python a través de .NET versión 24.2.0, creada para ventanas y dirigirse a la arquitectura AMD64."
 image_link: "/resources/img/random-file-icon.png"
-download_count: " 9/2/2024 Descargars: 1  Views: 1 "
+download_count: " 9/2/2024 Descargars: 7  Views: 1 "
 file_size: "File Size: 59.71MB"
 parent_path: "words/python"
 section_parent_path: "words/python"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/"
 weight: 52
 
 ---
@@ -31,7 +31,7 @@ weight: 52
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Descargars: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-8b80836604ec6b2eb2955799bf68dad8-12-10320" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-8b80836604ec6b2eb2955799bf68dad8-12-10320" >}} 7 {{< /Common/li >}}
       {{< Common/li >}} Tamaño del archivo: {{< /Common/li >}}
       {{< Common/li id="size-update-8b80836604ec6b2eb2955799bf68dad8-12-10320" >}} 59.71MB {{< /Common/li >}}
 
@@ -40,7 +40,7 @@ weight: 52
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/'>https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/</a></div>
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/'>https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descripción</h4><div class="HTMLDescription">Esta rueda contiene Aspose.Words para Python a través de .NET versión 24.2.0, creada para ventanas y dirigirse a la arquitectura AMD64.</div>

@@ -10,13 +10,13 @@ download_link: "/words/python/new-releases/aspose.words-for-python-via-.net-24.2
 download_text: "Download"
 intro_text: "This wheel contains Aspose.Words for Python via .NET version 24.2.0, built for Windows and targeting the AMD64 architecture."
 image_link: "/resources/img/random-file-icon.png"
-download_count: " 9/2/2024 Downloads: 1  Views: 1 "
+download_count: " 9/2/2024 Downloads: 7  Views: 1 "
 file_size: "File Size: 59.71MB"
 parent_path: "words/python"
 section_parent_path: "words/python"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/"
 weight: 52
 
 ---
@@ -31,7 +31,7 @@ weight: 52
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-8b80836604ec6b2eb2955799bf68dad8-12-10320" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-8b80836604ec6b2eb2955799bf68dad8-12-10320" >}} 7 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
       {{< Common/li id="size-update-8b80836604ec6b2eb2955799bf68dad8-12-10320" >}} 59.71MB {{< /Common/li >}}
 
@@ -40,7 +40,7 @@ weight: 52
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/'>https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/'>https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This wheel contains Aspose.Words for Python via .NET version 24.2.0, built for Windows and targeting the AMD64 architecture.</div>

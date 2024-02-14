@@ -8,15 +8,15 @@ folder_link: "/words/python/new-releases/aspose.words-for-python-via-.net-24.2.0
 folder_name: "Aspose.net üzerinden python için kelimeler 24.2.0 windows amd64"
 download_link: "/words/python/new-releases/aspose.words-for-python-via-.net-24.2.0-windows-amd64/8b80836604ec6b2eb2955799bf68dad8-12-10320"
 download_text: "İndirmek"
-intro_text: "Bu tekerlek, Windows için oluşturulan ve AMD64 mimarisini hedefleyen .NET sürüm 24.2.0 üzerinden Python için Aspose.words içerir."
+intro_text: "Bu tekerlek, Windows için oluşturulan ve AMD64 mimarisini hedefleyen .NET sürüm 24.2.0 üzerinden python için aspose.words içerir."
 image_link: "/resources/img/random-file-icon.png"
-download_count: " 9/2/2024 İndirmeks: 1  Views: 1 "
+download_count: " 9/2/2024 İndirmeks: 7  Views: 1 "
 file_size: "File Size: 59.71MB"
 parent_path: "words/python"
 section_parent_path: "words/python"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/"
 weight: 52
 
 ---
@@ -31,7 +31,7 @@ weight: 52
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} İndirmeks: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-8b80836604ec6b2eb2955799bf68dad8-12-10320" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-8b80836604ec6b2eb2955799bf68dad8-12-10320" >}} 7 {{< /Common/li >}}
       {{< Common/li >}} Dosya boyutu: {{< /Common/li >}}
       {{< Common/li id="size-update-8b80836604ec6b2eb2955799bf68dad8-12-10320" >}} 59.71MB {{< /Common/li >}}
 
@@ -40,10 +40,10 @@ weight: 52
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/'>https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-2-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/'>https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Tanım</h4><div class="HTMLDescription">Bu tekerlek, Windows için oluşturulan ve AMD64 mimarisini hedefleyen .NET sürüm 24.2.0 üzerinden Python için Aspose.words içerir.</div>
+      <h4>Tanım</h4><div class="HTMLDescription">Bu tekerlek, Windows için oluşturulan ve AMD64 mimarisini hedefleyen .NET sürüm 24.2.0 üzerinden python için aspose.words içerir.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
