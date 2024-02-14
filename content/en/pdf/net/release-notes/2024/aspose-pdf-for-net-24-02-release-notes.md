@@ -25,7 +25,7 @@ This page contains release notes information for Aspose.PDF for .NET 24.1.
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |PDFNET-48540|Include the current page object in the CallBackGetHocr delegate|Feature|
-|PDFNET-54667|How to get the vectordata in pdf file|Feature|
+|PDFNET-54667|Getting the vector data from a PDF file|Feature|
 |PDFNET-34126|Converting Searchable PDF to XPS (Keeping Text Selectable in resultant XPS)|Feature|
 |PDFNET-56200|Optimize image usage by PDF to Markdown converter|Feature|
 |PDFNET-56439|Passing Page as an image to HOCR Callback method|Feature|
