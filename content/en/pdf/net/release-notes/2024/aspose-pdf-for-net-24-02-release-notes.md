@@ -36,7 +36,7 @@ This page contains release notes information for Aspose.PDF for .NET 24.1.
 |PDFNET-42905|Support setting review status for comments in TextAnnotation|Enhancement|
 |PDFNET-56204|Extract higher quality images in PDF to Markdown converter|Enhancement|
 |PDFNET-55738|Providing users the opportunity to determine the results of constructing (compiling) LaTeX documents|Enhancement|
-|PDFNET-56373|On converting HTML to PDF margins are not set from CSS|Enhancement|
+|PDFNET-56373|Enable control of page settings source during conversion of HTML(CSS) to PDF|Enhancement|
 |PDFNET-37099|Getting a property from Action Script|Enhancement|
 |PDFNET-54294|Extending the functionality of the Repair document API|Enhancement|
 |PDFNET-47941|HTML not properly converted to PDF|Bug|
@@ -56,7 +56,6 @@ This page contains release notes information for Aspose.PDF for .NET 24.1.
 |PDFNET-56294|After converting XPS to PDF some graphic elements are broken|Bug|
 |PDFNET-50375|Converting PDF to EPUB on Linux/macOS produces a corrupted file|Bug|
 |PDFNET-56008|PDF to HTML: IndexOutOfRangeException exception is thrown|Bug|
-|PDFNET-43827|Fields are not being flattened|Bug|
 |PDFNET-46507|NullReferenceException while converting PDF to TIFF|Bug|
 |PDFNET-42395|Compliance problems with PDF/A_3U after conversion|Bug|
 |PDFNET-49599|Structural problems in Aspose-generated PDFs after optimizing them|Bug|
@@ -92,6 +91,7 @@ This page contains release notes information for Aspose.PDF for .NET 24.1.
 |PDFNET-56167|The text is incorrectly displayed in the HTML output converted from the PDF|Bug|
 |PDFNET-56291|Text is not bold in the output HTML while font is installed or added using font repository|Bug|
 |PDFNET-55651|System.ArgumentException when converting XFA form to Standard|Bug|
+|PDFNET-55055|OutOfMemory Exception when converting input file to PDF/A|Bug|
 
 ## Public API and Backward Incompatible Changes
 
