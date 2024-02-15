@@ -24,7 +24,7 @@ This page contains release notes information for Aspose.PDF for .NET 24.1.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|PDFNET-48540|Include the current page object in the CallBackGetHocr delegate|Feature|
+|PDFNET-48540|Add reference of the current page to the CallBackGetHocr delegate|Feature|
 |PDFNET-54667|Getting the vector data from a PDF file|Feature|
 |PDFNET-34126|Converting Searchable PDF to XPS (Keeping Text Selectable in resultant XPS)|Feature|
 |PDFNET-56200|Optimize image usage by PDF to Markdown converter|Feature|
@@ -32,7 +32,7 @@ This page contains release notes information for Aspose.PDF for .NET 24.1.
 |PDFNET-53356|Add the ability to load DjVu format files|Feature|
 |PDFNET-54734|Add the ability to load CDR format files|Feature|
 |PDFNET-55965|Extending the MdLoadOptions to support CSS and PageInfo|Enhancement|
-|PDFNET-56430|Cannot find a substitution for PrinterSettings.PaperSources|Enhancement|
+|PDFNET-56430|Perform a correct substitution for PrinterSettings.PaperSources|Enhancement|
 |PDFNET-42905|Support setting review status for comments in TextAnnotation|Enhancement|
 |PDFNET-56204|Extract higher quality images in PDF to Markdown converter|Enhancement|
 |PDFNET-55738|Providing users the opportunity to determine the results of constructing (compiling) LaTeX documents|Enhancement|
