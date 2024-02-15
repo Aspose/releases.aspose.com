@@ -7,6 +7,10 @@
     "name" : "aspose-html-24.2-jdk1.8.jar",
     "classifier" : "jdk1.8"
   }, {
+    "size" : "32 MB",
+    "name" : "aspose-html-24.2-jdk11.jar",
+    "classifier" : "jdk11"
+  }, {
     "size" : "394 bytes",
     "name" : "aspose-html-24.2.pom"
   } ],
