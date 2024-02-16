@@ -64,10 +64,11 @@ table {width: 100%;margin-bottom: 1rem;color: #212529;border: 1px solid #dee2e6;
 @media (min-width: 1200px) {.container { width: 1170px; }}
 .page-package-details .package-title h1 .version-title {margin-top: 10px;margin-right:0;}
 .page-package-details .package-title h1 .version-title a {margin-left:0px}
-.content2 .box1 ul {margin-bottom:0px;}
+.content2 .box1 ul {margin-bottom:10px;}
 .main-container{padding-left:0px;}
 .page-package-details h2, .page-package-details h3 {margin-top: 20px;margin-bottom: 10px;}
-
+.page-package-details .package-title h1 {margin-top:5px;}
+.package-details-main .body-tab-content li {margin-bottom: 0px;line-height:1.8;}
 
 
 

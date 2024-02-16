@@ -24,10 +24,10 @@
               {{ end }}
 
 
-<section role="main" class="container main-container page-package-details">
-        <div class="row">
+<section role="main" class="main-container page-package-details">
+        
 
-          <div class="col-sm-9 package-details-main">
+          <div class="package-details-main">
             {{ $p := . }}
             {{ range  first 1 (sort $releases ".releasehDate" "desc") }}
             <div class="package-header">
@@ -338,4 +338,4 @@ implementation group: '{{ .groupId }}', name: '{{ .artifactId }}', classifier: '
        {{ end }}
 
 -->
-          </div></section>
+          </section>
