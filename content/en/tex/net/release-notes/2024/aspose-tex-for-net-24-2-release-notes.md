@@ -15,15 +15,15 @@ menuItemWithNoContent: false
 
 ## Aspose.TeX 24.2 for .NET has been released!
 
- * Support for storing and retrieving eTeX's discarded items has been implemented.
- * Support for eTeX's additional registers and marks has been implemented.
+ * Support for storing and retrieving *eTeX*'s discarded items has been implemented.
+ * Support for *eTeX*'s additional registers and marks has been implemented.
 
 
 | Key | Summary | Category |
 |---|---|---|
-| TEXNET-297 | Implement eTeX's support for storing and retrieving discarded items | Enhancement |
-| TEXNET-296 | Implement eTeX's support for additional registers and marks | Enhancement |
-| TEXNET-306 | Implement eTeX's support for additional box registers and token list registers | Enhancement |
+| TEXNET-297 | Implement *eTeX*'s support for storing and retrieving discarded items | Enhancement |
+| TEXNET-296 | Implement *eTeX*'s support for additional registers and marks | Enhancement |
+| TEXNET-306 | Implement *eTeX*'s support for additional box registers and token list registers | Enhancement |
 
 ## Public API
 ### Added APIs
