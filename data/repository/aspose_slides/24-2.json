@@ -1,0 +1,17 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-slides",
+  "id" : "24-2",
+  "packageFiles" : [ {
+    "size" : "29 MB",
+    "name" : "aspose-slides-24.2-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "395 bytes",
+    "name" : "aspose-slides-24.2.pom"
+  } ],
+  "releasehDate" : "2024-02-19T09:01:24+00:00",
+  "version" : "24.2",
+  "ReleaseNotes" : "https://releases.aspose.com/slides/java/release-notes/2024/aspose-slides-for-java-24-2-release-notes/"
+}
