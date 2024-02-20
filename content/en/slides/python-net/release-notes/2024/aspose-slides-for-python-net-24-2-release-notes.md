@@ -35,7 +35,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 24.2](ht
 
 ## Public API Changes
 
-### IMathParagraph.ToLatex method added
+### IMathParagraph.to_latex() method added
 
 Added a new method `IMathParagraph.to_latex()`, which allows to convert math text to LaTeX format.
 
