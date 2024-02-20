@@ -62,7 +62,7 @@ a+b=c
 \]
 ```
 
-### Html5Options.NotesCommentsLayouting
+### Html5Options.notes_comments_layouting
 
 Added a new HTML5 export options parameter `Html5Options.notes_comments_layouting` that allows you to convert a presentation with comments.
 
