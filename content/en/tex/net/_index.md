@@ -5,7 +5,7 @@ description: "Download C# class library with a TeX engine extension to typeset T
 keywords: "tex"
 family_listing_page_title: "Aspose.TeX for .NET"
 family_listing_page_description: "Aspose.TeX for .NET is a .NET API created to allow developers to create applications for typesetting TeX files. Aspose.TeX for .NET is implemented using C# and it can be used with any .NET language like C#, VB.NET and J# etc. It can be integrated with any kind of application whether an ASP.NET Web Application or a Windows Application."
-family_listing_page_iconurl: ""
+family_listing_page_iconurl: "https://products.aspose.com/tex/icons/aspose_tex-for-python-net.svg"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
