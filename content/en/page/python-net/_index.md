@@ -1,11 +1,11 @@
 ---
 title: "Download Python Library to Create, Edit XPS PS EPS | Aspose.Page API"
-description:  "Download PostScript & XPS Document Processing Python Class Library. Support for shapes, Glyphs, brushes, color spaces. Convert PS, EPS and XPS to PDF & image via Python API."
-keywords:  "Python XPS API, EPS API, PS API"
+description: "Download PostScript & XPS Document Processing Python Class Library. Support for shapes, Glyphs, brushes, color spaces. Convert PS, EPS and XPS to PDF & image via Python API."
+keywords: "Python XPS API, EPS API, PS API"
 linktitle: "Aspose.Page for Python via .NET"
-family_listing_page_title:  "Aspose.Page for Python via .NET"
-family_listing_page_description:  "Aspose.Page is a Python API is built to allow developers to work with XPS and EPS documents. Using the API you can create, edit and save existing as well as new XPS documents. Furthermore, you can con"
-family_listing_page_iconurl:  "https://products.aspose.com/page/icons/aspose_page-for-python-net.svg"
+family_listing_page_title: "Aspose.Page for Python via .NET"
+family_listing_page_description: "Aspose.Page is a Python API is built to allow developers to work with XPS and EPS documents. Using the API you can create, edit and save existing as well as new XPS documents. Furthermore, you can con"
+family_listing_page_iconurl: "https://products.aspose.com/page/icons/aspose_page-for-python-net.svg"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
@@ -19,7 +19,6 @@ weight: 4
 {{< dbToolbar link="https://forum.aspose.com/c/page" linktext="Support Forum" >}}
 
 {{< Common/h2 text="Download Aspose.Page for Python via .NET for PS and XPS File Manipulation"  >}}
-
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Page for Python via .NET, The PS, EPS, and XPS files Processing API enables developers to work with PDF documents without relying on Microsoft Office&reg; or Adobe&reg products installed.
 You can easily use Aspose.Page for Python via .NET from  {{< Common/link href="https://pypi.org/project/aspose-page/" text="pip"  >}} with the following command.
