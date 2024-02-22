@@ -15,7 +15,7 @@ file_size: "File Size: 43.61MB"
 parent_path: "psd/python-net"
 section_parent_path: "psd/python-net"
 
-tags: "psd, ai, edit, convert, export, api, python, wheel, pypi"
+tags: "psd, ai, edit, convert, export, api, python, wheel, pypi, macOS, ARM"
 release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-python-via-net-23-12-release-notes/"
 weight: 3
 
