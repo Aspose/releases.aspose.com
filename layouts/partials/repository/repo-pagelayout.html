@@ -27,7 +27,7 @@
 <section role="main" class="main-container page-package-details">
         
 
-          <div class="package-details-main">
+          <!--<div class="package-details-main">-->
             {{ $p := . }}
             {{ range  first 1 (sort $releases ".releasehDate" "desc") }}
             <div class="package-header">
@@ -206,7 +206,7 @@ implementation group: '{{ .groupId }}', name: '{{ .artifactId }}', classifier: '
         <div role="tabpanel" class="tab-pane active" id="readme-tab">
                  <div class="readme-common">
                     <div id="readme-container">
-                       <p>{{ .context.Content }}</p>
+                       {{ .context.Content }}
                     </div>
                  </div>
               </div> <!-- end of readme-tab -->
@@ -259,7 +259,7 @@ implementation group: '{{ .groupId }}', name: '{{ .artifactId }}', classifier: '
             {{ end }}
       {{ end }}
 
-  </div> <!-- end of package-details-main -->
+  <!--</div>--> <!-- end of package-details-main -->
 
 <!--
    {{ $p := . }}
