@@ -26,16 +26,14 @@ This page contains release notes information for [Aspose.BarCode for Java 24.2](
 |BARCODENET-38807|Add support of rMQR barcode|Enhancement|
 |BARCODENET-38868|BarCodeReader could not find DotCode|Bug|
 |BARCODEJAVA-1778|License engine should accept characters that do not belong ASCII encoding standard|Enhancement|
-|BARCODEJAVA-1332|Improve and extend the capabilities of BarCodeReader in the reading tiff files|Enhancement|
 |BARCODEJAVA-17|Unable to Read the DataMatrix barcode successfully from a TIFF image|Bug|
 |BARCODEJAVA-683|Recognition of Micro QR code gives incorrect result|Bug|
 |BARCODEJAVA-1430|Issue with data matrix detection/recognition|Bug|
+|BARCODEJAVA-1742|Barcode label not shown for type PDF147 and QR|Bug|
 
 ## **Public API and Backward Incompatible Changes**
 ### QualitySettings API
-Added new constructores to class com.aspose.barcode.barcoderecognition.BarCodeReader
-- BarCodeReader(String, java.awt.Rectangle[], BaseDecodeType)
-- BarCodeReader(InputStream, java.awt.Rectangle, BaseDecodeType)
+
 Added new Enums:
 - com.aspose.barcode.barcoderecognition.XDimensionMode (AUTO,SMALL,NORMAL,LARGE,USE_MINIMAL_X_DIMENSION),
 - com.aspose.barcode.barcoderecognition.BarcodeQualityMode (HIGH/NORMAL/LOW),
