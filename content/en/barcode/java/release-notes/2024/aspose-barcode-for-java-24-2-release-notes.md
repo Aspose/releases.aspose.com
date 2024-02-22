@@ -55,16 +55,16 @@ Added new QualitySettings methods:
 - setComplexBackground(ComplexBackgroundMode) - Mode which enables or disables additional recognition of color barcodes on color images.
 - getComplexBackground():ComplexBackgroundMode - Mode which enables or disables additional recognition of color barcodes on color images.
 
-Added class QualitySettings.PresetType which contains following presets:
-- HighPerformance - HighPerformance recognition quality preset. High quality barcodes are recognized well in this mode.
-- NormalQuality - NormalQuality recognition quality preset. Suitable for the most of barcodes.
-- HighQuality - HighQuality recognition quality preset. This preset is developed for low quality barcodes. Allows to detect highly damaged barcodes.
-- MaxQuality - MaxQuality recognition quality preset. This preset is developed to recognize all possible barcodes, even incorrect barcodes.
+Added new QualitySettings methods (presets):
+- getHighPerformance() - HighPerformance recognition quality preset. High quality barcodes are recognized well in this mode.
+- getNormalQuality() - NormalQuality recognition quality preset. Suitable for the most of barcodes.
+- getHighQuality() - HighQuality recognition quality preset. This preset is developed for low quality barcodes. Allows to detect highly damaged barcodes.
+- getMaxQuality() - MaxQuality recognition quality preset. This preset is developed to recognize all possible barcodes, even incorrect barcodes.
 
 Following QualitySettings API members were removed:
-- PresetType.MaxBarCodes,
-- PresetType.HighQualityDetection,
-- PresetType.MaxQualityDetection.
+- getMaxBarCodes(),
+- getHighQualityDetection(),
+- getMaxQualityDetection().
 - get/setAllowInvertImage,
 - get/setReadTinyBarcodes,
 - get/setCheckMore1DVariants,
