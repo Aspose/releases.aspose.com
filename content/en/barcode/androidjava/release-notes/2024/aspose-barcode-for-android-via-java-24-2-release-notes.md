@@ -1,27 +1,27 @@
 ---
-id: "aspose-barcode-for-java-24-2-release-notes"
-slug: "aspose-barcode-for-java-24-2-release-notes"
-linktitle: "Aspose.BarCode for Java 24.2 Release Notes"
-title: "Aspose.BarCode for Java 24.2 Release Notes"
+id: "aspose-barcode-for-android-via-java-24-2-release-notes"
+slug: "aspose-barcode-for-android-via-java-24-2-release-notes"
+linktitle: "Aspose.BarCode for Android via Java 24.2"
+title: "Aspose.BarCode for Android via Java 24.2"
 weight: 980
-description: "Aspose.BarCode for Java 24.2 Release Notes – the latest updates and fixes."
+description: "Aspose.BarCode for Android via Java 24.2 – the latest updates and fixes."
 type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.BarCode for Java 24.2 Release Notes"
+family_listing_page_title: "Aspose.BarCode for Android via Java 24.2"
 menuItemWithNoContent: false
 ---
 
-{{% alert color="primary" %}}
+{{% alert color="primary" %}} 
 
-This page contains release notes information for [Aspose.BarCode for Java 24.2](https://releases.aspose.com/barcode/java/24-2/).
+This page contains release notes information for [Aspose.BarCode for Android via Java 24.2](https://releases.aspose.com/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-24.2/).
 
-{{% /alert %}}
+{{% /alert %}} 
 ## **All Changes**
 
-|**Key**|**Summary**| **Category** |
-| :- | :- |:-------------|
+|**Key**|**Summary**|**Category**|
+| :- | :- | :- |
 |BARCODENET-38800|Update QualitySettings API structure|Enhancement|
 |BARCODENET-38807|Add support of rMQR barcode|Enhancement|
 |BARCODENET-38868|BarCodeReader could not find DotCode|Bug|
@@ -87,7 +87,7 @@ Following QualitySettings API members were removed:
 - get/setAllowOneDWipedBarsRestoration,
 - setDetectorSettings(BarcodeSvmDetectorSettings),
 - getDetectorSettings():BarcodeSvmDetectorSettings,
-Following BarcodeSvmDetectorSettings API members were removed:
+  Following BarcodeSvmDetectorSettings API members were removed:
 - ScanWindowSizes,
 - SimilarityCoef,
 - RegionLikelihoodThresholdPercent,
@@ -100,7 +100,7 @@ Following BarcodeSvmDetectorSettings API members were removed:
 ### Micro QR and rMQR codes
 Following members were added to com.aspose.barcode.barcoderecognition.DecodeType
 RECT_MICRO_QR:SingleDecodeType and
-MICRO_QR:SingleDecodeType 
+MICRO_QR:SingleDecodeType
 Following members were added to com.aspose.barcode.generation.EncodeTypes
 RECT_MICRO_QR:SymbologyEncodeType
 MICRO_QR:SymbologyEncodeType
