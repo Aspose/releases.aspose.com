@@ -65,19 +65,19 @@
            {{ partial "repository/breadcrumb.html" . }}
 
            <div class="container-fluid content2 vpanel-left">
-               <div class="container">
+               <section role="main" class="container main-container page-package-details">
                <div class="row">
                        {{ partial "tree-section.html" . }}
 
-                       <div class="col-md-9 lhs1 col-xs-12 mobilehide node-section">
-                           <div class="box1">                              
+                       <div class="col-md-9 lhs1 col-xs-12 mobilehide node-section package-details-main">
+                           <!--<div class="box1">-->                              
 
                                {{- block "main" . }}{{- end }}
 
-                           </div>
+                           <!--</div>-->
                        </div>
                </div>
-               </div>
+              </section>
            </div>
        </div>
 
