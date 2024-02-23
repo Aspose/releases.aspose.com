@@ -98,6 +98,9 @@ Following QualitySettings API members were removed:
 - MaxQuality.
 
 ### Micro QR and rMQR codes
+Added enums
+com.aspose.barcode.generation.MicroQRVersion
+com.aspose.barcode.generation.RectMicroQRVersion
 Following members were added to com.aspose.barcode.barcoderecognition.DecodeType
 RECT_MICRO_QR:SingleDecodeType and
 MICRO_QR:SingleDecodeType
