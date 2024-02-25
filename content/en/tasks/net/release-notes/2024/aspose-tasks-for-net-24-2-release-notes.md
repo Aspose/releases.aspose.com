@@ -37,7 +37,6 @@ This page contains release notes information for [Aspose.Tasks for .Net 24.2](ht
 | Aspose.Tasks.WeekDay.#ctor(Aspose.Tasks.DayType,Aspose.Tasks.WorkingTime[]) | Initializes a new instance of the <see cref="T:Aspose.Tasks.WeekDay" /> class with the specified day type and working time periods. |
 
 |**The following public methods and properties were deleted:**|**Description**|
-
 | :- | :- |
 | Aspose.Tasks.Saving.HtmlSaveOptions.DefaultFontName |  |
 | Aspose.Tasks.Saving.HtmlSaveOptions.UseProjectDefaultFont |  |
