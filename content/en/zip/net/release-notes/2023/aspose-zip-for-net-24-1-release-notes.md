@@ -9,7 +9,7 @@ type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.ZIP for .NET 24.11 Release Notes"
+family_listing_page_title: "Aspose.ZIP for .NET 24.1 Release Notes"
 menuItemWithNoContent: false
 ---
 
