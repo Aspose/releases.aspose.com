@@ -27,8 +27,6 @@ forumLink: https://forum.aspose.com/c/cad/19
 productLink: https://products.aspose.com/cad/java/
 releaseNotesLink: https://releases.aspose.com/cad/java/release-notes/
 dataFolder: aspose_cad
-tags: ["Aspose Total", "Aspose CAD", "Aspose Java API", "cad java library", "cad java class", "DWG", "DXF", "DGN", "IFC", "IGES", "STL", "DWT", "PLT", "DWF", "DWFx", "CF2", "OBJ", "PDF", "TIFF", "JPEG", "PNG", "GIF", "BMP", "Maven", "Windows", "Linux", "Mac", "J2SE", "drawing", "cad drawing", "raster image", "export 3D", "autocad", "cad layout", "mesh model", "ATTRIB", "MTEXT", "3D solids", "conic", "sphere", "torus", "cylinder", "box", "wedge", "wired models", "3D faces", "Unix"]
-weight: 00	#rem
 publishDate: "2023-10-23T16:17:07+00:00"
 packages_refs:
 - "23-10"
