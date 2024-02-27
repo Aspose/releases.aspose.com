@@ -116,34 +116,26 @@ setMicroQRVersion(int)
 
 Sample RectMicroQR generation and recognition code:
 ```php
-public void example1()
-{
-    String codetext = "Aspose";
-    BarcodeGenerator generator = new BarcodeGenerator(EncodeTypes.RECT_MICRO_QR, codetext);
-    {
-        generator.getParameters().getBarcode().getCodeTextParameters().setLocation(CodeLocation.BELOW);
-        generator.getParameters().getBarcode().getQR().setRectMicroQrVersion(R11x77);
-        BufferedImage image = generator.generateBarCodeImage();
-        BarCodeReader reader = new BarCodeReader(image, DecodeType.RECT_MICRO_QR);
-        BarCodeResult[] barCodeResults = reader.readBarCodes();
-        System.out.println("Codetext: " + reader.getFoundBarCodes()[0].getCodeText());
-    }
-}
+        $codetext = "Aspose";
+        $generator = new BarcodeGenerator(EncodeTypes::RECT_MICRO_QR, $codetext);
+        $generator->getParameters()->getBarcode()->getCodeTextParameters()->setLocation(CodeLocation::BELOW);
+        $generator->getParameters()->getBarcode()->getQR()->setRectMicroQrVersion(RectMicroQRVersion::R11x77);
+        $image = $generator->generateBarCodeImage(BarCodeImageFormat::PNG);
+        $reader = new BarCodeReader($image, null, DecodeType::RECT_MICRO_QR);
+        $barCodeResults = $reader->readBarCodes();
+        println('CodeText:' . $barCodeResults[0]->getCodeText());
+        println('CodeType: ' . $barCodeResults[0]->getCodeTypeName());
 ```
 
 Sample MicroQR generation and recognition code:
-```Java
-public void example2()
-{
-    String codetext = "Aspose";
-    BarcodeGenerator generator = new BarcodeGenerator(EncodeTypes.MICRO_QR, codetext);
-    {
-        generator.getParameters().getBarcode().getQR().setMicroQRVersion(M4);
-        BufferedImage image = generator.generateBarCodeImage();
-        BarCodeReader reader = new BarCodeReader(image, DecodeType.MICRO_QR);
-        BarCodeResult[] barCodeResults = reader.readBarCodes();
-        System.out.println("Codetext: " + reader.getFoundBarCodes()[0].getCodeText());
-    }
-}
+```php
+        $codetext = "Aspose";
+        $generator = new BarcodeGenerator(EncodeTypes::MICRO_QR, $codetext);
+        $generator->getParameters()->getBarcode()->getQR()->setMicroQrVersion(MicroQRVersion::M4);
+        $image = $generator->generateBarCodeImage(BarCodeImageFormat::PNG);
+        $reader = new BarCodeReader($image, null, DecodeType::MICRO_QR);
+        $barCodeResults = $reader->readBarCodes();
+        println('CodeText:' . $barCodeResults[0]->getCodeText());
+        println('CodeType: ' . $barCodeResults[0]->getCodeTypeName());
 ```
 
