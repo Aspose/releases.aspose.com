@@ -5,7 +5,7 @@ linktitle: "Aspose.Page for Python via .NET 24.1 Release Notes"
 title: "Aspose.Page for Python via .NET 24.1 Release Notes"
 description: Python APIs to manipulate and process PS, EPS, and XPS files. This page contains new Aspose.Page for Python via .NET features, enhancement, and bug fixes in 2024, version 24.1.
 productName: "Aspose.Page for Python via .NET"
-weight: 12
+weight: 100
 type: "repository"
 layout: "release"
 hideChildren: false
