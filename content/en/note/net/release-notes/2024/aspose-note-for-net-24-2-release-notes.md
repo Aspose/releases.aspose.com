@@ -30,9 +30,9 @@ This page contains release notes information for [Aspose.Note for .NET 24.2](htt
 
 |**The following public properties were added:**|**Description**|
 | :- | :- |
-|Aspose.Note.RichText.IsTitleText|Gets or sets a value indicating whether the RichText element contains the text of the page title.|
-|Aspose.Note.RichText.IsTitleDate|Gets or sets a value indicating whether the RichText element contains the date in the page title.|
-|Aspose.Note.RichText.IsTitleTime|Gets or sets a value indicating whether the RichText element contains the time in the page title.|
+|Aspose.Note.RichText.IsTitleText|Gets a value indicating whether the RichText element contains the text of the page title.|
+|Aspose.Note.RichText.IsTitleDate|Gets a value indicating whether the RichText element contains the date in the page title.|
+|Aspose.Note.RichText.IsTitleTime|Gets a value indicating whether the RichText element contains the time in the page title.|
 
 |**The following public methods were added:**|**Description**|
 | :- | :- |
