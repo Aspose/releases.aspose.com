@@ -50,8 +50,8 @@ Added new QualitySettings methods:
 - getBarcodeQuality():BarcodeQualityMode - Mode which enables methods to recognize barcode elements with the selected quality. Barcode element with lower quality requires more hard methods which slows the recognition.
 - setDeconvolution(DeconvolutionMode) - Deconvolution (image restorations) mode which defines level of image degradation.
 - getDeconvolution():DeconvolutionMode - Deconvolution (image restorations) mode which defines level of image degradation.
-- setInverseImage(DeconvolutionMode) - Mode which enables or disables additional recognition of barcodes on images with inverted colors (luminance).
-- getInverseImage():DeconvolutionMode - Mode which enables or disables additional recognition of barcodes on images with inverted colors (luminance).
+- setInverseImage(InverseImageMode) - Mode which enables or disables additional recognition of barcodes on images with inverted colors (luminance).
+- getInverseImage():InverseImageMode - Mode which enables or disables additional recognition of barcodes on images with inverted colors (luminance).
 - setComplexBackground(ComplexBackgroundMode) - Mode which enables or disables additional recognition of color barcodes on color images.
 - getComplexBackground():ComplexBackgroundMode - Mode which enables or disables additional recognition of color barcodes on color images.
 
