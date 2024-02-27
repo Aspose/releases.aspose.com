@@ -21,8 +21,6 @@ This page contains release notes information for Aspose.Page for C++ 24.2.
 
 ## **Improvements and Changes**
 
-Implement utility methods for XPS manipulation.
-
 PS to PDF conversion failure was fixed.
 
 For more detail see [Aspose.Page for .NET 24.2](https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-2-release-notes/)
