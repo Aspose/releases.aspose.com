@@ -21,12 +21,12 @@ This page contains release notes information for Aspose.PDF for JavaScript via C
 
 ### Added APIs
 
-####Convert from PDF functions:
+Convert from PDF functions:
 * **AsposePdfExportFdf** - Export from a PDF-file with AcroForm to FDF
 * **AsposePdfExportXfdf** - Export from a PDF-file with AcroForm to XFDF
 * **AsposePdfExportXml** - Export from a PDF-file with AcroForm to XML
 
-####Organize PDF functions:
+Organize PDF functions:
 * **AsposePdfReplaceText** - Replace text in a PDF-file
 * **AsposePdfFindText** - Find text in a PDF-file
 
