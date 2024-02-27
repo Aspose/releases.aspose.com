@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>barcodephpjava on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/barcodephpjava/</link><description>Recent content in barcodephpjava on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/barcodephpjava/index.xml" rel="self" type="application/rss+xml"/><item><title>PHP Barcode Library | Aspose.BarCode for PHP via Java</title><link>https://releases-qa.aspose.com/barcode/php/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/php/</guid><description>Support Forum
-Download Aspose.BarCode for PHP via Java from Composer A PHP library that allows developers to quickly and easily add barcode generation and recognition functionality to their PHP applications while using Aspose.BarCode for Java as core library and PHP-Java Bridge for communication.
-`aspose/barcode` is available on Packagist as the aspose/barcode package. Run the following command:
-&amp;gt;
-composer require aspose/barcode
-&amp;nbsp;
-Release Notes
-Download
-Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item></channel></rss>
