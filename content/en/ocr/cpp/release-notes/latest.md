@@ -2,7 +2,7 @@
 id: "aspose-ocr-for-cpp-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2024-01-25"
+date: "2024-02-21"
 author: "Vladimir Lapin"
 type: "repository"
 layout: "release"
@@ -17,20 +17,20 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OCR for C++ 24.1.0 (January 2024)**](https://www.nuget.org/packages/Aspose.Ocr.Cpp/24.1.0) release.
+This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OCR for C++ 24.2.0 (February 2024)**](https://www.nuget.org/packages/Aspose.Ocr.Cpp/24.2.0) release.
 
-GPU version: **24.1.0**
+GPU version: **24.2.0**
 {{% /alert %}}
 
 ## What was changed
 
 Key | Summary | Category
 --- | ------- | --------
-OCRCPP&#8209;554 | Deprecated methods and structures have been removed to simplify the API. | Enhancement
+OCRCPP&#8209;572 | Added the ability to customize recognition settings for individual images in a batch. | Enhancement
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for C++ 24.1.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for C++ 24.2.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 
@@ -38,36 +38,45 @@ _No changes._
 
 ### Updated public APIs:
 
-_No changes._
+The following public APIs have been changed in Aspose.OCR for .NET 24.2.0 release:
+
+#### `AsposeOCRInput` structure
+
+{{% alert color="info" %}}
+**Compatibility: fully backward compatible.**
+{{% /alert %}}
+
+Added an optional property, `special_settings` which contains a pointer to [`RecognitionSettings`](https://docs.aspose.com/ocr/cpp/settings/) structure. If the pointer is not NULL, the content-specific recognition settings are used instead of the recognition settings provided in the `asposeocr_recognize()` function.
 
 ### Removed public APIs:
 
-{{% alert color="warning" %}}
-BACKWARD INCOMPATIBILITY!
+_No changes._
 
-All methods and structures mentioned below have been deprecated in favor of the new API introduces in the [release 23.3.0](/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-3-0-release-notes/). Please update your code according to the recommendations.
-{{% /alert %}}
+## Usage examples
 
-The following public APIs have been removed in **Aspose.OCR for C++ 24.1.0** release:
+The examples below illustrates the changes introduced in this release:
 
-Deprecated API | Replacement
--------------- | -----------
-`asposeocr_page()` method | Use the universal [`asposeocr_recognize()`](https://docs.aspose.com/ocr/cpp/recognition/) method.
-`asposeocr_page_from_raw_bytes()` method | Use the universal [`asposeocr_recognize()`](https://docs.aspose.com/ocr/cpp/recognition/) method.
-`asposeocr_page_tiff()` method | Use the universal [`asposeocr_recognize()`](https://docs.aspose.com/ocr/cpp/recognition/) method.
-`asposeocr_pages_multi()` method | Use the universal [`asposeocr_recognize()`](https://docs.aspose.com/ocr/cpp/recognition/) method.
-`asposeocr_page_from_uri()` method | Use the universal [`asposeocr_recognize()`](https://docs.aspose.com/ocr/cpp/recognition/) method.
-`asposeocr_page_all()` method | Use the universal [`asposeocr_recognize()`](https://docs.aspose.com/ocr/cpp/recognition/) method.
-`asposeocr_page_all_from_raw_bytes()` method | Use the universal [`asposeocr_recognize()`](https://docs.aspose.com/ocr/cpp/recognition/) method.
-`asposeocr_page_rect()` method | Use the universal [`asposeocr_recognize()`](https://docs.aspose.com/ocr/cpp/recognition/) method.
-`asposeocr_page_rect_from_raw_bytes()` method | Use the universal [`asposeocr_recognize()`](https://docs.aspose.com/ocr/cpp/recognition/) method.
-`asposeocr_page_abc()` method | Use the universal [`asposeocr_recognize()`](https://docs.aspose.com/ocr/cpp/recognition/) method.
-`asposeocr_page_abc_from_raw_bytes()` method | Use the universal [`asposeocr_recognize()`](https://docs.aspose.com/ocr/cpp/recognition/) method.
-`asposeocr_page_abc_all()` method | Use the universal [`asposeocr_recognize()`](https://docs.aspose.com/ocr/cpp/recognition/) method.
-`asposeocr_page_abc_all_from_raw_bytes()` method | Use the universal [`asposeocr_recognize()`](https://docs.aspose.com/ocr/cpp/recognition/) method.
-`asposeocr_page_rect_abc()` method | Use the universal [`asposeocr_recognize()`](https://docs.aspose.com/ocr/cpp/recognition/) method.
-`asposeocr_page_rect_abc_from_raw_bytes()` method | Use the universal [`asposeocr_recognize()`](https://docs.aspose.com/ocr/cpp/recognition/) method.
-`asposeocr_page_settings()` method | Use the universal [`asposeocr_recognize()`](https://docs.aspose.com/ocr/cpp/recognition/) method.
-`asposeocr_page_settings_from_raw_bytes()` method | Use the universal [`asposeocr_recognize()`](https://docs.aspose.com/ocr/cpp/recognition/) method.
-`asposeocr_page_fast()` method | Use the universal [`asposeocr_fast_recognize()`](https://docs.aspose.com/ocr/cpp/fast-recognition/) method.
-`asposeocr_page_fast_from_raw_bytes()` method | Use the universal [`asposeocr_fast_recognize()`](https://docs.aspose.com/ocr/cpp/fast-recognition/) method.
+### Overriding recognition language for the specific image
+
+```cpp
+// Define custom recognition settings
+RecognitionSettings customSettings;
+customSettings.language_alphabet = language::ukr;
+
+// Add images to the batch
+string image1 = "source1.png";
+AsposeOCRInput source1;
+source1.url = image1.c_str();
+string image2 = "source2.png";
+AsposeOCRInput source2;
+source2.url = image2.c_str();
+source2.special_settings = &customSettings;
+std::vector<AsposeOCRInput> sources = { source1, source2 };
+
+// Define common recognition settings
+RecognitionSettings settings;
+settings.language_alphabet = language::ita;
+
+// Extract text from the image
+auto result = asposeocr_recognize(sources.data(), sources.size(), settings);
+```

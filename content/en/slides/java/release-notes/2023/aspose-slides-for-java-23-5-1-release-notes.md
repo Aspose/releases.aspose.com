@@ -18,5 +18,5 @@ This page contains release notes for [Aspose.Slides for Java 23.5.1](https://re
 
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
-|SLIDESJAVA-39251|License validation is not correct|Bug|https://docs.aspose.com/slides/java/licensing/|
+|SLIDESJAVA-39251|License validation is not correct|Bug|https://docs.aspose.com/slides/java/licensing-bug/|
 
