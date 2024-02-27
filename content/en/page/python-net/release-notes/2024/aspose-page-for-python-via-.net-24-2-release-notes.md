@@ -18,8 +18,6 @@ family_listing_page_title: "Aspose.Page for Python via .NET 24.2 Release Notes"
 This page contains Release Notes for [Aspose.Page for Python via .NET 24.2](https://pypi.org/project/aspose-page/)
 
 {{% /alert %}}
-
-{{% /alert %}}
 ## **Improvements and Changes**
 
 |**Key**|**Summary**|**Category**|
